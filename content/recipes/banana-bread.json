@@ -1,0 +1,132 @@
+{
+  "slug": "banana-bread",
+  "title": "Moist Brown Butter Banana Bread",
+  "category": "desserts",
+  "cuisine": "American",
+  "summary": "Browning the butter and using very ripe, heavily speckled bananas gives this loaf a deep, nutty-sweet flavour and a wonderfully moist crumb. A touch of yoghurt and cinnamon round it out beautifully.",
+  "servings": 10,
+  "prep_min": 20,
+  "cook_min": 60,
+  "difficulty": "easy",
+  "equipment": [
+    "900 g (2 lb) loaf tin, about 23 x 13 cm, greased and lined with baking paper",
+    "small light-coloured saucepan",
+    "2 mixing bowls, fork and whisk",
+    "silicone spatula",
+    "skewer or instant-read thermometer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "qty": 100,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "qty": 3,
+      "unit": "pc",
+      "item": "large, very ripe bananas, heavily speckled",
+      "note": "about 350 g peeled"
+    },
+    {
+      "qty": 120,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "qty": 60,
+      "unit": "g",
+      "item": "plain yoghurt (Greek or regular)"
+    },
+    {
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "qty": 240,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "qty": 1,
+      "unit": "tsp",
+      "item": "bicarbonate of soda (baking soda)"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prep tin and oven",
+      "text": "Heat the oven to 175°C (155°C fan) with a shelf in the middle, then grease and line a 900g (2lb) loaf tin, about 23 x 13cm, with baking paper."
+    },
+    {
+      "title": "Brown the butter",
+      "text": "Melt the butter in a small, light-coloured pan over medium heat, swirling it often, for 4-6 minutes: it will foam first, then the milk solids will turn a hazelnut brown and start smelling nutty. A light-coloured pan lets you watch that change closely, since just a few seconds can take it from browned to burnt; pour it straight into a large bowl, scraping in all the browned bits, and leave to cool for 10 minutes."
+    },
+    {
+      "title": "Mash the bananas",
+      "text": "Mash the bananas with a fork until mostly smooth with just a few small lumps left. The deep speckling on very ripe bananas means their starch has already converted to sugar, giving a sweeter, more aromatic and moister loaf than you'd get from bananas that are still green-tipped and bland."
+    },
+    {
+      "title": "Mix wet ingredients",
+      "text": "Whisk the sugar into the browned butter, then add the eggs one at a time, followed by the yoghurt and vanilla, and finally stir in the mashed bananas."
+    },
+    {
+      "title": "Fold in dry ingredients",
+      "text": "In another bowl, whisk together the flour, bicarbonate of soda, salt and cinnamon, then fold this into the wet mixture just until no dry flour remains - a lumpy batter is completely fine here. Overmixing at this stage builds too much gluten, leading to a tough loaf with tunnels through it; the bicarbonate reacts with the acidity in the bananas, brown sugar and yoghurt to provide the lift instead."
+    },
+    {
+      "title": "Bake until risen and golden",
+      "text": "Scrape the batter into the tin and level the top, then bake for 55-65 minutes, until well risen and deep golden, a skewer in the centre comes out clean or with just a few moist crumbs, or the centre reads 95°C. If the top is browning too quickly after the 40-minute mark, lay a sheet of foil loosely over it for the rest of the bake."
+    },
+    {
+      "title": "Cool before slicing",
+      "text": "Leave the loaf in the tin for 15 minutes, then lift it out onto a wire rack and let it cool for at least an hour before slicing. The crumb is still setting at this point, and cutting into it too early will leave you with a gummy, compressed slice."
+    }
+  ],
+  "tips": [
+    "If your bananas aren't ripe enough yet, speed things up by baking them whole and unpeeled at 150°C for 15-20 minutes until black and soft, then cool before mashing.",
+    "Start checking the loaf from 50 minutes, since oven times can vary quite a bit for something this size.",
+    "Tin size matters more than you'd think - a smaller tin means a longer bake and a greater risk of a raw centre, so stick close to the stated dimensions.",
+    "For extra crunch, fold in 75g of toasted walnuts with the bananas - just be aware this adds nuts as an allergen.",
+    "Weigh the flour rather than measuring by volume, as too much will dry the loaf out."
+  ],
+  "storage": "Wrap and keep at room temperature for up to 3 days - it actually gets moister by day two - or store in the fridge for up to 5 days. Sliced loaf freezes well for up to 3 months; toast slices straight from frozen.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 255,
+    "protein_g": 4.8,
+    "carbs_g": 38.6,
+    "sugar_g": 16.3,
+    "free_sugar_g": 11.7,
+    "fat_g": 9.4,
+    "satfat_g": 5.5,
+    "salt_g": 0.69,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A sliced loaf of golden-brown banana bread on a wooden board, showing a moist, speckled crumb flecked with cinnamon."
+}

@@ -4,20 +4,20 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| dried linguine or spaghetti | Pasta, dry, enriched (SR 20120) | 350 | 1298.5 | 45.6 | 261.3 | 9.3 | 0.0 | 5.3 | 0.97 | 21 | 11.2 |
-| fine salt, for the pasta water (share absorbed by pasta + 120 ml pasta water used, from 18 g in 3 L) | Salt, table (SR 02047) | 3.45 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.00 | 1337 | 0.0 |
-| raw king prawns (shrimp), peeled and deveined | Crustaceans, shrimp, raw (FDC 175179) | 400 | 340.0 | 80.4 | 0.0 | 0.0 | 0.0 | 2.0 | 0.40 | 476 | 0.0 |
-| fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.00 | 581 | 0.0 |
-| olive oil | Oil, olive, salad or cooking (SR 04053) | 40 | 353.6 | 0.0 | 0.0 | 0.0 | 0.0 | 40.0 | 5.52 | 1 | 0.0 |
-| garlic cloves, thinly sliced | Garlic, raw (SR 11215) | 18 | 26.8 | 1.1 | 6.0 | 0.2 | 0.0 | 0.1 | 0.02 | 3 | 0.4 |
-| chilli flakes | Spices, pepper, red or cayenne (SR 02031) | 0.8 | 2.5 | 0.1 | 0.5 | 0.1 | 0.0 | 0.1 | 0.03 | 0 | 0.2 |
-| cherry tomatoes, halved | Tomatoes, red, ripe, raw (SR 11529) | 320 | 57.6 | 2.8 | 12.4 | 8.4 | 0.0 | 0.6 | 0.09 | 16 | 3.8 |
-| unwaxed lemon, zest finely grated | Lemon peel, raw (SR 09156) | 4 | 1.9 | 0.1 | 0.6 | 0.2 | 0.0 | 0.0 | 0.00 | 0 | 0.4 |
-| lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 45 | 9.9 | 0.2 | 3.1 | 1.1 | 1.1 | 0.1 | 0.02 | 0 | 0.1 |
-| unsalted butter, cold, cubed | Butter, without salt (SR 01145) | 25 | 179.2 | 0.2 | 0.0 | 0.0 | 0.0 | 20.3 | 12.84 | 3 | 0.0 |
-| flat-leaf parsley, chopped | Parsley, fresh (SR 11297) | 20 | 7.2 | 0.6 | 1.3 | 0.2 | 0.0 | 0.2 | 0.03 | 11 | 0.7 |
-| ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.0 | 0.0 | 0.0 | 0.02 | 0 | 0.3 |
-| **Total** | | | 2280 | 131.2 | 286.0 | 19.5 | 1.1 | 68.8 | 19.93 | 2451 | 17.2 |
+| dried linguine or spaghetti | Pasta, dry, enriched (SR 20120) | 350 | 1298.5 | 45.6 | 261.3 | 9.34 | 0.00 | 5.3 | 0.97 | 21 | 11.2 |
+| fine salt, for the pasta water (share absorbed by pasta + 120 ml pasta water used, from 18 g in 3 L) | Salt, table (SR 02047) | 3.45 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1337 | 0.0 |
+| raw king prawns (shrimp), peeled and deveined | Crustaceans, shrimp, raw (FDC 175179) | 400 | 340.0 | 80.4 | 0.0 | 0.00 | 0.00 | 2.0 | 0.40 | 476 | 0.0 |
+| fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
+| olive oil | Oil, olive, salad or cooking (SR 04053) | 40 | 353.6 | 0.0 | 0.0 | 0.00 | 0.00 | 40.0 | 5.52 | 1 | 0.0 |
+| garlic cloves, thinly sliced | Garlic, raw (SR 11215) | 18 | 26.8 | 1.1 | 6.0 | 0.18 | 0.00 | 0.1 | 0.02 | 3 | 0.4 |
+| chilli flakes | Spices, pepper, red or cayenne (SR 02031) | 0.8 | 2.5 | 0.1 | 0.5 | 0.08 | 0.00 | 0.1 | 0.03 | 0 | 0.2 |
+| cherry tomatoes, halved | Tomatoes, red, ripe, raw (SR 11529) | 320 | 57.6 | 2.8 | 12.4 | 8.42 | 0.00 | 0.6 | 0.09 | 16 | 3.8 |
+| unwaxed lemon, zest finely grated | Lemon peel, raw (SR 09156) | 4 | 1.9 | 0.1 | 0.6 | 0.17 | 0.00 | 0.0 | 0.00 | 0 | 0.4 |
+| lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 45 | 9.9 | 0.2 | 3.1 | 1.13 | 1.13 | 0.1 | 0.02 | 0 | 0.1 |
+| unsalted butter, cold, cubed | Butter, without salt (SR 01145) | 25 | 179.2 | 0.2 | 0.0 | 0.01 | 0.00 | 20.3 | 12.84 | 3 | 0.0 |
+| flat-leaf parsley, chopped | Parsley, fresh (SR 11297) | 20 | 7.2 | 0.6 | 1.3 | 0.17 | 0.00 | 0.2 | 0.03 | 11 | 0.7 |
+| ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
+| **Total** | | | 2280 | 131.2 | 286.0 | 19.52 | 1.13 | 68.8 | 19.93 | 2451 | 17.2 |
 
 **Per serving (total / 4):** kcal 570, protein_g 32.8, carbs_g 71.5, sugar_g 4.9, free_sugar_g 0.3, fat_g 17.2, satfat_g 5.0, salt_g 1.53, fibre_g 4.3
 

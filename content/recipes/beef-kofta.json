@@ -21,8 +21,8 @@
       "group": "Kofta",
       "qty": 500,
       "unit": "g",
-      "item": "beef mince, 15% fat",
-      "note": "or half beef, half lamb mince"
+      "item": "beef mince, 10% fat",
+      "note": "lean but not extra-lean; 12% also works"
     },
     {
       "group": "Kofta",
@@ -87,19 +87,19 @@
     },
     {
       "group": "Kofta",
-      "qty": 1,
+      "qty": 0.5,
       "unit": "tsp",
       "item": "neutral oil, for brushing"
     },
     {
       "group": "Tahini yoghurt",
-      "qty": 150,
+      "qty": 200,
       "unit": "g",
       "item": "fat-free Greek yoghurt"
     },
     {
       "group": "Tahini yoghurt",
-      "qty": 30,
+      "qty": 25,
       "unit": "g",
       "item": "tahini, well stirred"
     },
@@ -163,7 +163,7 @@
     "If the mixture feels too soft to hold its shape on the skewer, chill it for longer rather than adding breadcrumbs.",
     "Soak wooden skewers in water for 30 minutes before using them, so they don't scorch and burn under the grill.",
     "Minced meat needs to reach a higher temperature than a whole steak — cook kofta to 71°C rather than treating them like rare steak.",
-    "Mince with around 15-20% fat stays noticeably juicier on the grill than very lean mince, which can turn dry and crumbly."
+    "Mince with about 10% fat is the sweet spot here: light enough to keep the kofta lean, with enough fat to stay juicy. Extra-lean 5% mince turns dry and crumbly, and the squeezed onion and parsley add moisture too."
   ],
   "storage": "Raw shaped kofta can be covered and kept in the fridge for up to 24 hours, or frozen for up to 3 months and thawed in the fridge overnight. Cooked kofta keep in the fridge for 3 days; reheat until piping hot (74°C). The tahini yoghurt keeps for 3 days in the fridge.",
   "allergens": [
@@ -175,15 +175,15 @@
     "no-added-sugar"
   ],
   "nutrition_per_serving": {
-    "kcal": 369,
-    "protein_g": 29.2,
-    "carbs_g": 8.0,
-    "sugar_g": 2.6,
+    "kcal": 315,
+    "protein_g": 32.1,
+    "carbs_g": 8.2,
+    "sugar_g": 3.0,
     "free_sugar_g": 0.1,
-    "fat_g": 24.5,
-    "satfat_g": 8.1,
-    "salt_g": 1.49,
-    "fibre_g": 2.0
+    "fat_g": 17.0,
+    "satfat_g": 5.5,
+    "salt_g": 1.5,
+    "fibre_g": 1.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": null,

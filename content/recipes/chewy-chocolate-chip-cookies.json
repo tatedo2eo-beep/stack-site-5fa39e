@@ -1,0 +1,133 @@
+{
+  "slug": "chewy-chocolate-chip-cookies",
+  "title": "Chewy Chocolate Chip Cookies",
+  "category": "desserts",
+  "cuisine": "American",
+  "summary": "Made with melted butter and an extra egg yolk for a properly chewy, fudgy middle, these cookies have crisp golden edges and pockets of melted dark chocolate throughout. A short chill in the fridge keeps them thick instead of thin and spread-out.",
+  "servings": 18,
+  "prep_min": 20,
+  "cook_min": 36,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan or microwave-safe bowl",
+    "large mixing bowl and whisk",
+    "silicone spatula",
+    "2 large baking trays lined with baking paper",
+    "wire rack",
+    "digital scales"
+  ],
+  "ingredients": [
+    {
+      "qty": 170,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "qty": 150,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "qty": 70,
+      "unit": "g",
+      "item": "granulated or caster sugar"
+    },
+    {
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, at room temperature"
+    },
+    {
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "qty": 250,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda (baking soda)"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "qty": 200,
+      "unit": "g",
+      "item": "dark or semi-sweet chocolate, chopped, or chocolate chips",
+      "note": "about 50-60% cocoa"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Melt and cool butter",
+      "text": "Melt the butter gently, either in a small pan over low heat or in 20-second bursts in the microwave, then leave it for about 10 minutes until warm rather than hot. Butter that's too hot will scramble the egg and melt the chocolate before it even hits the oven. Using melted butter rather than creamed butter is the secret to the chew here: less air gets beaten in, so the flour ends up coated in fat rather than suspended in a fluffy structure, giving a denser, chewier cookie."
+    },
+    {
+      "title": "Whisk sugars and eggs",
+      "text": "Whisk both sugars into the warm butter for about a minute until glossy, then whisk in the egg, extra yolk and vanilla for 30-60 seconds until smooth and slightly thickened. That second yolk brings extra fat and natural emulsifiers to the dough, which is what gives these cookies their fudgy, chewy centre rather than a crisp, cakey one."
+    },
+    {
+      "title": "Fold in flour and chocolate",
+      "text": "In a separate bowl, whisk together the flour, bicarbonate of soda and salt, then fold this into the wet mixture with a spatula just until no dry streaks remain. Fold in the chopped chocolate at the same stage. Stop as soon as everything is combined - overworking the mixture develops gluten, and too much gluten turns a chewy cookie tough."
+    },
+    {
+      "title": "Chill the dough",
+      "text": "Cover the bowl and chill the dough for at least 30 minutes, or up to 72 hours if you want to plan ahead. During this rest the flour fully hydrates and the butter firms back up, which means the cookies spread less in the oven, bake up thicker, and develop a deeper, more caramelised flavour."
+    },
+    {
+      "title": "Shape and heat oven",
+      "text": "Heat the oven to 180°C (160°C fan) with a shelf set in the middle. Scoop the chilled dough into 18 balls of roughly 50g each, and arrange six per lined tray, spacing them 6-7cm apart so they have room to spread."
+    },
+    {
+      "title": "Bake in batches",
+      "text": "Bake one tray at a time for 10-12 minutes, until the edges are set and golden but the centres still look puffy and slightly underdone - they firm up as they cool through carryover heat. If you'd like perfectly round cookies, nudge the edges gently inward with the back of a spoon the moment they come out of the oven."
+    },
+    {
+      "title": "Cool before moving",
+      "text": "Leave the cookies on the tray for 10 minutes, as they're too fragile to move while hot, then transfer them to a wire rack to finish cooling. Let each tray cool down before loading the next batch, since a hot tray will start melting the dough and spreading it before baking even begins."
+    }
+  ],
+  "tips": [
+    "The biggest mistake is overbaking - pull the cookies out while the centres still look soft and slightly glossy; they firm up as they cool, and a crunchy cookie usually means they stayed in too long.",
+    "Weigh the flour on digital scales: flour scooped by volume is easily 20% too heavy, which gives a drier, cakey cookie instead of a chewy one.",
+    "Chopped chocolate from a bar melts into gooey pools through the dough, while chocolate chips hold their shape better if you prefer distinct pockets of chocolate.",
+    "Check the label on your chocolate if you need to avoid milk or soya, as many dark chocolate bars are processed alongside them.",
+    "Shaped dough balls freeze well, so it's worth rolling a double batch and keeping some ready to bake straight from frozen."
+  ],
+  "storage": "Keep baked cookies in an airtight tin at room temperature for up to 4 days - a slice of bread in the tin helps them stay soft. Raw dough balls can be frozen for up to 3 months; bake from frozen at the same temperature, adding 1-2 minutes to the time.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 226,
+    "protein_g": 2.5,
+    "carbs_g": 29.8,
+    "sugar_g": 18.1,
+    "free_sugar_g": 18.0,
+    "fat_g": 11.6,
+    "satfat_g": 7.0,
+    "salt_g": 0.28,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A stack of golden-edged chocolate chip cookies with soft, gooey centres and melted pools of dark chocolate, cooling on a wire rack."
+}

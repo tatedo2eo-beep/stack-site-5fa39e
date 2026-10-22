@@ -1,0 +1,93 @@
+{
+  "slug": "high-protein-greek-yoghurt-berry-bowl",
+  "title": "High-Protein Greek Yoghurt Berry Bowl",
+  "category": "breakfast",
+  "cuisine": "Mediterranean",
+  "summary": "Thick, high-protein Greek yoghurt gets swirled with a quick no-sugar berry compote and topped with crunchy toasted almonds and chia seeds. It's a simple, naturally sweet bowl that comes together in minutes.",
+  "servings": 1,
+  "prep_min": 5,
+  "cook_min": 3,
+  "difficulty": "easy",
+  "equipment": [
+    "small frying pan (for toasting almonds)",
+    "serving bowl",
+    "fork"
+  ],
+  "ingredients": [
+    {
+      "qty": 300,
+      "unit": "g",
+      "item": "fat-free Greek yoghurt"
+    },
+    {
+      "qty": 150,
+      "unit": "g",
+      "item": "mixed berries (strawberries, blueberries, raspberries), fresh or frozen and thawed"
+    },
+    {
+      "qty": 10,
+      "unit": "g",
+      "item": "flaked almonds"
+    },
+    {
+      "qty": 1,
+      "unit": "tsp",
+      "item": "chia seeds"
+    },
+    {
+      "qty": 1,
+      "unit": "pinch",
+      "item": "ground cinnamon"
+    },
+    {
+      "qty": 1,
+      "unit": "pinch",
+      "item": "finely grated lemon zest",
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast almonds",
+      "text": "Toast the flaked almonds in a dry small pan over medium-low heat for 2-3 minutes, shaking the pan often, until golden and fragrant, then tip them straight out onto a plate. They can turn from golden to burnt within seconds and will keep cooking in the pan's residual heat, so getting them out promptly matters."
+    },
+    {
+      "title": "Prepare the berries",
+      "text": "If using frozen berries, thaw them in a bowl in the fridge overnight, or for about 30 minutes at room temperature, keeping any juice that collects, as it's naturally sweet and worth stirring through. Hull and halve any large strawberries, then lightly crush about a third of the berries with a fork to make a quick, no-sugar compote that will swirl nicely through the yoghurt."
+    },
+    {
+      "title": "Assemble the bowl",
+      "text": "Stir the cinnamon and lemon zest into the yoghurt, as both make it taste noticeably sweeter and more rounded without any added sugar. Spoon the yoghurt into a bowl, swirl through the crushed berries and their juices, then finish with the remaining berries, toasted almonds and chia seeds on top."
+    }
+  ],
+  "tips": [
+    "You won't need any honey or sugar here - ripe or thawed berries plus a pinch of cinnamon give plenty of sweetness on their own.",
+    "Fat-free Greek yoghurt is thick and high in protein; regular (non-Greek) yoghurt has roughly half the protein, so it won't give quite the same result.",
+    "Add the almonds just before you eat, rather than stirring them straight in, so they keep their crunch instead of going soft in the yoghurt.",
+    "Short on berries? Swap in other fruit like cherries or kiwi for a similar effect."
+  ],
+  "storage": "Best assembled just before eating. Yoghurt mixed with the crushed berries can be covered and kept in the fridge for up to 1 day; add the almonds and chia only when you're ready to serve.",
+  "allergens": [
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 331,
+    "protein_g": 34.8,
+    "carbs_g": 32.6,
+    "sugar_g": 19.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 8.4,
+    "satfat_g": 0.9,
+    "salt_g": 0.28,
+    "fibre_g": 8.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A bowl of thick Greek yoghurt swirled with crushed berry compote, topped with whole mixed berries, golden toasted almonds and a scattering of chia seeds."
+}

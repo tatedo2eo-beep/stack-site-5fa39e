@@ -1,0 +1,132 @@
+{
+  "slug": "signature-fudgy-brownies",
+  "title": "Signature Fudgy Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "summary": "These brownies use whipped eggs and minimal flour for a shiny crackled top and a deeply fudgy, almost molten centre. They're rich with dark chocolate and finished with chunks for extra melty pockets.",
+  "servings": 16,
+  "prep_min": 20,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin, lined with baking paper",
+    "heatproof bowl set over a pan of barely simmering water (or a microwave)",
+    "large mixing bowl and electric hand whisk (or balloon whisk)",
+    "sieve",
+    "silicone spatula",
+    "skewer or cocktail stick"
+  ],
+  "ingredients": [
+    {
+      "qty": 150,
+      "unit": "g",
+      "item": "unsalted butter, cubed"
+    },
+    {
+      "qty": 170,
+      "unit": "g",
+      "item": "dark chocolate (70% cocoa), chopped"
+    },
+    {
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "qty": 100,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "qty": 75,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "qty": 30,
+      "unit": "g",
+      "item": "unsweetened cocoa powder"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "qty": 60,
+      "unit": "g",
+      "item": "dark chocolate (70% cocoa), roughly chopped into chunks"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prep tin and oven",
+      "text": "Heat the oven to 180°C (160°C fan) and line a 20cm square metal tin with baking paper, letting it overhang two opposite sides so you can lift the brownies out cleanly once baked."
+    },
+    {
+      "title": "Melt chocolate and butter",
+      "text": "Melt the butter and the 170g of chopped chocolate together in a heatproof bowl set over a pan of barely simmering water - keeping the bowl clear of the water - or in the microwave in 20-30 second bursts, stirring between each. Leave the mixture for 5 minutes until it's warm rather than hot before you move on."
+    },
+    {
+      "title": "Whip eggs and sugar",
+      "text": "Whisk the eggs, both sugars and the vanilla with an electric whisk for 3-4 minutes (or 5-6 minutes by hand) until the mixture is pale, thick and roughly doubled in volume, leaving a ribbon trail on the surface for a second when you lift the whisk. This step dissolves the sugar into well-aerated egg, which is exactly what produces that shiny, papery crackle on top once baked."
+    },
+    {
+      "title": "Fold in chocolate mixture",
+      "text": "Pour the melted chocolate mixture down the side of the bowl and fold it in gently with a spatula, just until combined, taking care not to knock too much air out of the whipped eggs."
+    },
+    {
+      "title": "Fold in dry ingredients",
+      "text": "Sift the flour, cocoa powder and salt over the batter, fold until no dry flour is visible, then fold through the 60g of chopped chocolate chunks. Keeping the flour quantity low and the mixing brief means little gluten develops, which is what keeps these brownies fudgy rather than cakey."
+    },
+    {
+      "title": "Bake to a moist crumb",
+      "text": "Scrape the batter into the tin and level the top, then bake for 22-26 minutes. It's ready when the top looks set, shiny and crackled, the edges are firm and just pulling away from the tin, and the centre still has a slight wobble; a skewer inserted 2cm from the centre should come out with moist, sticky crumbs rather than wet batter, and not completely clean, which would mean it's overbaked."
+    },
+    {
+      "title": "Cool, chill and cut",
+      "text": "Let the brownies cool completely in the tin, which takes at least 2 hours, as they continue to set during this time. For the neatest squares, chill for a further hour, then cut into 16 squares using a hot, dry knife, wiping the blade clean between cuts."
+    }
+  ],
+  "tips": [
+    "A metal tin bakes more evenly than glass or ceramic - if you only have a glass dish, add about 5 minutes to the time and drop the oven temperature by 10°C.",
+    "Overbaking is the most common mistake here - take the brownies out while the centre still wobbles slightly and the skewer comes out with moist crumbs, not clean.",
+    "Use the best dark chocolate you're happy to eat on its own, since it makes up most of the flavour in a brownie this simple.",
+    "If any water splashes into the melting chocolate, it can seize into a thick, grainy paste, so keep the bowl well clear of the simmering water.",
+    "Ovens vary, so start checking from the 20-minute mark rather than waiting for the full time."
+  ],
+  "storage": "Store in an airtight container at room temperature for up to 4 days, or in the fridge for up to a week, where they'll taste even fudgier cold. Squares also freeze well for up to 3 months; thaw at room temperature for about 1 hour before eating.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 249,
+    "protein_g": 3.2,
+    "carbs_g": 26.9,
+    "sugar_g": 19.0,
+    "free_sugar_g": 18.9,
+    "fat_g": 14.9,
+    "satfat_g": 8.8,
+    "salt_g": 0.23,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A stack of dense, fudgy chocolate brownie squares with a shiny crackled top, one cut open to reveal a moist, gooey centre studded with chocolate chunks."
+}
