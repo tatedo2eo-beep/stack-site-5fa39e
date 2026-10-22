@@ -74,7 +74,7 @@
     },
     {
       "group": "Marinade",
-      "qty": 6.0,
+      "qty": 6,
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about 1 tsp"
@@ -152,11 +152,11 @@
     },
     {
       "title": "Heat the oil",
-      "text": "Pour oil to a depth of about 4 cm into the heavy pot or wok and heat to 165°C (330°F), checking with a frying thermometer. Getting the temperature right before frying matters - too cool and the coating turns greasy rather than crisp."
+      "text": "Pour oil to a depth of about 4 cm into the heavy pot or wok and heat to 175°C, checking with a frying thermometer. Getting the temperature right before frying matters - too cool and the coating turns greasy rather than crisp."
     },
     {
       "title": "Fry in batches",
-      "text": "Fry the chicken in 3 batches, separating the pieces as they go in so they don't clump together, for 4-5 minutes per batch until deep red-brown, crisp and reaching 74°C (165°F) inside the largest piece. Drain each batch on the wire rack and let the oil return to temperature between batches."
+      "text": "Fry the chicken in 3 batches, separating the pieces as they go in so they don't clump together, for 4-5 minutes per batch until deep red-brown, crisp and reaching 74°C inside the largest piece. Drain each batch on the wire rack and let the oil return to temperature between batches."
     },
     {
       "title": "Make the tempering",
@@ -169,13 +169,13 @@
   ],
   "tips": [
     "Add the cornflour and rice flour only just before frying - mixed in too early, the coating can turn gluey rather than crisp.",
-    "Keep the oil at a steady 165°C (330°F) by checking with a thermometer; letting it drift too low is the most common reason Chicken 65 ends up soggy instead of crunchy.",
+    "Keep the oil at a steady 165°C by checking with a thermometer; letting it drift too low is the most common reason Chicken 65 ends up soggy instead of crunchy.",
     "Don't overcrowd the pot - frying in batches keeps the oil temperature steady and each piece properly crisp.",
     "Stand well back when the curry leaves hit the hot oil, as they spit.",
-    "Check a piece reaches 74°C (165°F) in the centre before serving, especially the largest ones in each batch.",
+    "Check a piece reaches 74°C in the centre before serving, especially the largest ones in each batch.",
     "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
   ],
-  "storage": "Best eaten fresh and crisp, but leftovers will keep in the fridge for up to 2 days. Reheat in a hot oven or air fryer until piping hot and 74°C (165°F) throughout, rather than microwaving, to bring back some crispness. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
+  "storage": "Best eaten fresh and crisp, but leftovers will keep in the fridge for up to 2 days. Reheat in a hot oven or air fryer until piping hot and 74°C throughout, rather than microwaving, to bring back some crispness. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "milk"
   ],

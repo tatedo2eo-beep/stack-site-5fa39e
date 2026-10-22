@@ -75,7 +75,7 @@
     },
     {
       "group": "Marinade",
-      "qty": 6.0,
+      "qty": 6,
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about 1 tsp"
@@ -142,19 +142,19 @@
     },
     {
       "title": "Make the annatto oil",
-      "text": "Warm the oil with the annatto seeds over low heat for 5 minutes, until the oil turns a deep orange, taking care not to let the seeds darken or they'll taste bitter. Strain out the seeds, then stir in the butter and a pinch of salt."
+      "text": "Warm the oil with the annatto seeds over low heat for 5 minutes, until the oil turns a deep orange, taking care not to let the seeds darken or they'll taste bitter. Strain out the seeds, then stir in the butter and a pinch of salt. Heat the oven to 200°C (180°C fan) about 20 minutes before you plan to roast."
     },
     {
       "title": "Roast the chicken",
-      "text": "Once the oven reaches 200°C (180°C fan, 400°F), scrape off any large bits of lemongrass, skewer the legs if using, and lay them skin-side up on the rack in the roasting tin. Roast for 35-40 minutes, basting with the annatto oil every 10-12 minutes, until the thigh meat reaches 80°C (175°F)."
+      "text": "Once the oven reaches 200°C (180°C fan), scrape off any large bits of lemongrass, skewer the legs if using, and lay them skin-side up on the rack in the roasting tin. Roast for 35-40 minutes, basting with the annatto oil every 10-12 minutes, until the thigh meat reaches 80°C."
     },
     {
       "title": "Char under the grill",
-      "text": "Finish under a high grill (broiler) for 3-5 minutes until charred in spots, watching closely because the sugar in the marinade burns quickly. To barbecue instead of roasting, cook over medium indirect heat with the lid down for 35-40 minutes, basting as above, until the thigh reaches 80°C (175°F), then move over direct heat for 2-3 minutes a side to char."
+      "text": "Finish under a high grill (broiler) for 3-5 minutes until charred in spots, watching closely because the sugar in the marinade burns quickly. To barbecue instead of roasting, cook over medium indirect heat with the lid down for 35-40 minutes, basting as above, until the thigh reaches 80°C, then move over direct heat for 2-3 minutes a side to char."
     },
     {
       "title": "Rest and make the dip",
-      "text": "Let the chicken rest for 5 minutes so the juices settle back through the meat. Meanwhile, stir together the soy sauce, vinegar, lime juice, chilli and garlic for the dipping sauce."
+      "text": "Let the chicken rest for 5 minutes so it is easier to carve. Meanwhile, stir together the soy sauce, vinegar, lime juice, chilli and garlic for the dipping sauce."
     },
     {
       "title": "Serve",
@@ -166,13 +166,14 @@
     "Keep a close eye on the chicken under the grill, since the sugar in the marinade can go from charred to burnt very quickly.",
     "Baste regularly with the annatto oil while roasting; it's what gives the skin its colour and keeps it from drying out.",
     "Slash the chicken to the bone before marinating so the flavour reaches right through, not just the surface.",
-    "Check the thigh reaches 80°C (175°F) before finishing under the grill, since the char step is for colour and flavour, not to finish cooking it."
+    "Check the thigh reaches 80°C before finishing under the grill, since the char step is for colour and flavour, not to finish cooking it."
   ],
-  "storage": "Fridge for up to 3 days, or freeze for up to 2 months. Reheat in a hot oven until piping hot and the thigh reaches 74°C (165°F) again, as a microwave will soften the charred skin. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
+  "storage": "Fridge for up to 3 days, or freeze for up to 2 months. Reheat in a hot oven until piping hot and the thigh reaches 74°C again, as a microwave will soften the charred skin. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "gluten",
     "milk",
-    "soya"
+    "soya",
+    "sulphites"
   ],
   "diet": [],
   "nutrition_per_serving": {

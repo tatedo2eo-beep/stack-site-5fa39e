@@ -38,7 +38,7 @@
     },
     {
       "group": "Chicken and marinade",
-      "qty": 6.0,
+      "qty": 6,
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about 1 tsp"
@@ -156,19 +156,19 @@
     },
     {
       "title": "Heat the oil",
-      "text": "Pour oil into the heavy pot to a depth of about 5 cm, keeping it no more than half full so there is room for bubbling. Heat over medium-high until the thermometer reads 175°C (350°F); this usually takes 10-15 minutes. Set a wire rack over a tray ready for draining."
+      "text": "Pour oil into the heavy pot to a depth of about 5 cm, keeping it no more than half full so there is room for bubbling. Heat over medium-high until the thermometer reads 175°C; this usually takes 10-15 minutes. Set a wire rack over a tray ready for draining."
     },
     {
       "title": "Coat the chicken",
-      "text": "Lift each thigh from the marinade, letting the excess drip off, then press it firmly into the flour mixture on both sides, packing the coating on well. Rest the coated pieces on a plate for 5-10 minutes so the coating hydrates slightly — this short rest stops it falling off the moment the chicken hits the oil."
+      "text": "Lift each thigh from the marinade, letting the excess drip off, then press it firmly into the flour mixture on both sides, packing the coating on well. Rest the coated pieces on a rack for 10 minutes so the coating hydrates slightly — this short rest stops it falling off the moment the chicken hits the oil."
     },
     {
       "title": "Fry in batches",
-      "text": "Two pieces at a time go into the oil, lowered away from you. The temperature will dip to around 150-160°C (300-325°F); adjust the heat to hold it between 160-170°C (325-340°F). Fry for 6-8 minutes, turning once halfway, until deep golden brown and the thickest part reads 74°C (165°F) — thighs stay juicy even a little above this."
+      "text": "Two pieces at a time go into the oil, lowered away from you. The temperature will dip to around 150-160°C; adjust the heat to hold it between 150-165°C. Fry for 6-8 minutes, turning once halfway, until deep golden brown and the thickest part reads 74°C — thighs stay juicy even a little above this."
     },
     {
       "title": "Drain and rest",
-      "text": "The wire rack, not kitchen paper, is where the chicken should land, since kitchen paper traps steam underneath and softens the crust. Sprinkle with a pinch of salt if you like, and let the oil climb back to 175°C (350°F) before frying the next batch."
+      "text": "The wire rack, not kitchen paper, is where the chicken should land, since kitchen paper traps steam underneath and softens the crust. Sprinkle with a pinch of salt if you like, and let the oil climb back to 175°C before frying the next batch."
     },
     {
       "title": "Build the sandwich",
@@ -183,7 +183,7 @@
     "If the oil ever smokes heavily, turn off the heat; if it catches fire, cover with a lid or damp tea towel and never use water.",
     "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
   ],
-  "storage": "This sandwich is best enjoyed fresh and crisp. Cooked chicken keeps in the fridge for 2 days; reheat on a rack in the oven at 200°C (180°C fan, 400°F) for 10-12 minutes until piping hot (74°C (165°F)) and crisp again. Don't freeze the raw chicken while it's still in its buttermilk marinade. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
+  "storage": "This sandwich is best enjoyed fresh and crisp. Cooked chicken keeps in the fridge for 2 days; reheat on a rack in the oven at 200°C (180°C fan) for 10-12 minutes until piping hot (74°C) and crisp again. Don't freeze the raw chicken while it's still in its buttermilk marinade. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "gluten",
     "milk",

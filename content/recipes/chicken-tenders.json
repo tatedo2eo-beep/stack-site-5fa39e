@@ -70,7 +70,7 @@
     },
     {
       "group": "Coating",
-      "qty": 3.0,
+      "qty": 3,
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about ½ tsp"
@@ -128,11 +128,11 @@
     },
     {
       "title": "Heat the oil",
-      "text": "Pour the oil into a heavy pot to a depth of about 4 cm and heat to 175°C (350°F), checking with a frying thermometer. Getting the temperature right before frying starts keeps the thin strips from burning outside or staying raw within their short cooking time."
+      "text": "Pour the oil into a heavy pot to a depth of about 4 cm and heat to 175°C, checking with a frying thermometer. Getting the temperature right before frying starts keeps the thin strips from burning outside or staying raw within their short cooking time."
     },
     {
       "title": "Fry in batches",
-      "text": "Fry 5-6 strips at a time for 3-4 minutes, turning once partway through, until deep golden and the thickest strip reads 74°C (165°F). Frying in small batches keeps the oil temperature steady, so each batch browns at the same even rate."
+      "text": "Fry 5-6 strips at a time for 3-4 minutes, turning once partway through, until deep golden and the thickest strip reads 74°C. Frying in small batches keeps the oil temperature steady, so each batch browns at the same even rate."
     },
     {
       "title": "Drain and season",
@@ -147,15 +147,16 @@
     "Pull the white tendon out of mini fillets before cooking - it toughens and curls up when fried, which is unpleasant to bite into.",
     "Don't skip the 10-minute rest after coating; it lets the crumb bind to the chicken so less of it falls off in the oil.",
     "Fry in small batches of 5-6 strips rather than crowding the pot, since too much chicken at once drops the oil temperature and leaves the coating soft.",
-    "Check doneness with a thermometer rather than by colour alone - thin strips can look done outside before the middle reaches a safe 74°C (165°F).",
+    "Check doneness with a thermometer rather than by colour alone - thin strips can look done outside before the middle reaches a safe 74°C.",
     "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
   ],
-  "storage": "Cooked tenders keep in the fridge for up to 3 days, or freeze for up to 2 months. Reheat in a hot oven until piping hot and 74°C (165°F) in the centre to keep the crust crisp rather than soft from a microwave. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
+  "storage": "Cooked tenders keep in the fridge for up to 3 days, or freeze for up to 2 months. Reheat in a hot oven until piping hot and 74°C in the centre to keep the crust crisp rather than soft from a microwave. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "gluten",
     "milk",
     "eggs",
-    "mustard"
+    "mustard",
+    "sulphites"
   ],
   "diet": [],
   "nutrition_per_serving": {

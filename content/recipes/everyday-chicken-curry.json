@@ -35,7 +35,7 @@
     },
     {
       "group": "Chicken",
-      "qty": 3.0,
+      "qty": 3,
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about ½ tsp"
@@ -148,7 +148,7 @@
     },
     {
       "title": "Bloom the spices",
-      "text": "Add the cumin, coriander, chilli powder and 1 teaspoon of the garam masala with a small splash of water, and fry for 1 minute, stirring constantly. Blooming the spices in the hot oil and onion releases their aromatic oils, giving a rounder flavour than if they went straight into the watery sauce."
+      "text": "Add the cumin, coriander and chilli powder with a small splash of water, and fry for 1 minute, stirring constantly. Blooming the spices in the hot oil and onion releases their aromatic oils, giving a rounder flavour than if they went straight into the watery sauce."
     },
     {
       "title": "Cook down the tomatoes",
@@ -156,20 +156,20 @@
     },
     {
       "title": "Simmer the chicken",
-      "text": "Add the marinated chicken, stirring to coat it in the sauce, and cook for 3 minutes. Pour in the water, bring to a simmer, then cover and cook gently for 20-25 minutes until the chicken is tender, the sauce has thickened, and the chicken reaches 74°C (165°F) or above."
+      "text": "Add the marinated chicken, stirring to coat it in the sauce, and cook for 3 minutes. Pour in the water, bring to a simmer, then cover and cook gently for 20-25 minutes until the chicken is tender, the sauce has thickened, and the chicken reaches 74°C or above. About 5 minutes before the end, stir in the garam masala."
     },
     {
       "title": "Finish and serve",
-      "text": "Stir in the remaining garam masala, the lemon juice and most of the chopped coriander, then let the curry rest off the heat for 5 minutes so the flavours settle. Scatter over the last of the coriander and serve with rice or flatbreads."
+      "text": "Stir in the lemon juice and most of the chopped coriander, then let the curry rest off the heat for 5 minutes so the flavours settle. Scatter over the last of the coriander and serve with rice or flatbreads."
     }
   ],
   "tips": [
     "Don't rush the onions - 15-18 minutes of steady, stirred cooking over medium heat builds the sauce's flavour; onions rushed on high heat burn in patches and turn bitter.",
     "Wait until you see a little oil separating at the tomato stage before adding the chicken; it's the clearest sign the raw tomato taste has cooked out.",
-    "Use a thermometer to check the chicken has reached 74°C (165°F) rather than judging by time alone, since piece size can vary.",
+    "Use a thermometer to check the chicken has reached 74°C rather than judging by time alone, since piece size can vary.",
     "Marinating the chicken even briefly in yoghurt and turmeric makes a real difference to tenderness and colour, so don't skip it even when short on time."
   ],
-  "storage": "Cool and refrigerate for up to 3 days, or freeze for up to 3 months. Reheat thoroughly in a pan or microwave, stirring occasionally, until piping hot and 74°C (165°F) throughout. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
+  "storage": "Cool and refrigerate for up to 3 days, or freeze for up to 3 months. Reheat thoroughly in a pan or microwave, stirring occasionally, until piping hot and 74°C throughout. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "milk"
   ],

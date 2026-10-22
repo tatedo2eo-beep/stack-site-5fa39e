@@ -50,7 +50,7 @@
     },
     {
       "group": "Chicken",
-      "qty": 3.0,
+      "qty": 3,
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about ½ tsp"
@@ -124,7 +124,7 @@
     },
     {
       "group": "Sauce",
-      "qty": 3.0,
+      "qty": 3,
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about ½ tsp"
@@ -166,7 +166,7 @@
     },
     {
       "title": "Build the sauce base",
-      "text": "Melt the butter with the oil in the pan over medium heat, then cook the onion with a pinch of salt for 8-10 minutes until soft and golden. Add the garlic and ginger for 1 minute, then the spices for 30 seconds until fragrant - this brief blooming in hot fat is what wakes up their flavour."
+      "text": "Melt the butter with the oil in the pan over medium heat, then cook the onion with a pinch of salt for 8-10 minutes until soft and golden. Add the garlic and ginger for 1 minute, then the ground spices, apart from the sauce's garam masala, for 30 seconds until fragrant - this brief blooming in hot fat is what wakes up their flavour."
     },
     {
       "title": "Simmer the tomato base",
@@ -174,7 +174,7 @@
     },
     {
       "title": "Finish and cook the chicken through",
-      "text": "Return the sauce to the pan and stir in the cream and fenugreek leaves, then add the chicken and any juices. Simmer gently for 8-10 minutes until the chicken reaches 74°C (165°F) and the sauce is thick enough to coat the back of a spoon."
+      "text": "Return the sauce to the pan and add the chicken and any juices and simmer gently for 4-5 minutes, then stir in the cream, fenugreek leaves and the sauce's garam masala and simmer for 4-5 minutes more, until the chicken reaches 74°C and the sauce is thick enough to coat the back of a spoon."
     },
     {
       "title": "Taste and serve",
@@ -188,7 +188,7 @@
     "Only add sugar if the tomatoes are noticeably sharp - good tinned tomatoes rarely need it.",
     "Crush the dried fenugreek leaves between your fingers before adding; it releases their distinctive aroma."
   ],
-  "storage": "Keep in the fridge for up to 3 days or freeze for up to 2 months. Thaw in the fridge and reheat gently, stirring often, until piping hot throughout (74°C (165°F)). Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
+  "storage": "Keep in the fridge for up to 3 days or freeze for up to 2 months. Thaw in the fridge and reheat gently, stirring often, until piping hot throughout (74°C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "milk"
   ],

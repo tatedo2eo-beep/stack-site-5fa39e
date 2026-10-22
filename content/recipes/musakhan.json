@@ -73,7 +73,7 @@
     },
     {
       "group": "Chicken and onions",
-      "qty": 6.0,
+      "qty": 6,
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about 1 tsp"
@@ -113,11 +113,11 @@
   "steps": [
     {
       "title": "Marinate the chicken",
-      "text": "Mix half the oil with 2 tablespoons of the sumac, the allspice, cumin, cinnamon, garlic, lemon juice, ¾ teaspoon of salt and the pepper, then rub it all over the chicken. Marinate in the fridge for 1-3 hours, or overnight if you have the time, so the spices properly flavour the meat rather than just sitting on the surface."
+      "text": "Mix half the oil with 2 tablespoons of the sumac, the allspice, cumin, cinnamon, garlic, lemon juice, ¾ teaspoon of salt and the pepper, then rub it all over the chicken. Marinate in the fridge for 1-3 hours, or overnight if you have the time, so the spices properly flavour the meat rather than just sitting on the surface. About 20 minutes before roasting, heat the oven to 190°C (170°C fan)."
     },
     {
       "title": "Roast the chicken",
-      "text": "Heat the oven to 190°C (170°C fan, 375°F). Roast the chicken skin-up in the tin for 40-45 minutes, until deep golden and the thigh meat reaches 80°C (175°F)."
+      "text": "Roast the chicken skin-up in the tin for 40-45 minutes, until deep golden and the thigh meat reaches 80°C."
     },
     {
       "title": "Soften the onions",
@@ -129,7 +129,7 @@
     },
     {
       "title": "Crisp the flatbreads",
-      "text": "With the oven raised to 220°C (200°C fan, 425°F), brush the flatbreads with the roasting juices or onion oil, spread over the sumac onions, and bake on trays for 5-7 minutes until the edges turn crisp."
+      "text": "With the oven raised to 220°C (200°C fan), brush the flatbreads with the roasting juices or onion oil, spread over the sumac onions, and bake on trays for 5-7 minutes until the edges turn crisp."
     },
     {
       "title": "Assemble and serve",
@@ -139,11 +139,11 @@
   "tips": [
     "Cook the onions until soft and pale golden, not caramelised. Dark, caramelised onions turn the dish sweet and heavy and hide the sharp, lemony sumac.",
     "Watch the pine nuts closely once they go in the pan, as they can burn within seconds of turning golden.",
-    "Check the chicken thigh reaches 80°C (175°F) before taking it out, since bone-in pieces can look done on the outside before they're fully cooked through.",
+    "Check the chicken thigh reaches 80°C before taking it out, since bone-in pieces can look done on the outside before they're fully cooked through.",
     "Brush the flatbreads with the flavourful roasting juices rather than plain oil for the best flavour.",
     "Add the sumac to the onions after cooking, not during, so its tangy flavour stays fresh rather than fading in the pan."
   ],
-  "storage": "Keep the chicken and onions in the fridge separately from the bread for up to 3 days. Reheat the chicken and onions until piping hot (74°C (165°F)) and crisp the bread briefly in the oven before assembling again, rather than freezing the assembled dish. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
+  "storage": "Keep the chicken and onions in the fridge separately from the bread for up to 3 days. Reheat the chicken and onions until piping hot (74°C) and crisp the bread briefly in the oven before assembling again, rather than freezing the assembled dish. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "gluten"
   ],

@@ -31,7 +31,7 @@
     },
     {
       "group": "Chicken",
-      "qty": 6.0,
+      "qty": 6,
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about 1 tsp"
@@ -101,11 +101,11 @@
     },
     {
       "title": "Heat the oil",
-      "text": "Pour oil into a large frying pan to a depth of about 1 cm and heat over medium-high until it reaches 170-175°C (340-350°F); a dropped crumb should sizzle immediately. You need enough oil to swirl over the top of the cutlets, which is what makes the crust ripple."
+      "text": "Pour oil into a large frying pan to a depth of about 1 cm and heat over medium-high until it reaches 170-175°C; a dropped crumb should sizzle immediately. You need enough oil to swirl over the top of the cutlets, which is what makes the crust ripple."
     },
     {
       "title": "Fry until golden",
-      "text": "Fry two cutlets at a time for 1½-2½ minutes per side, adding the butter at the flip and gently swirling or tilting the pan so hot fat washes over the top. That hot fat sets the crumb before the steam underneath escapes, so the coating lifts and wrinkles instead of lying flat. Fry until deep golden and the chicken reaches 74°C (165°F)."
+      "text": "Fry two cutlets at a time for 1½-2½ minutes per side, adding the butter at the flip and gently swirling or tilting the pan so hot fat washes over the top. That hot fat sets the crumb before the steam underneath escapes, so the coating lifts and wrinkles instead of lying flat. Fry until deep golden and the chicken reaches 74°C."
     },
     {
       "title": "Drain and serve",
@@ -119,7 +119,7 @@
     "Drain the cooked schnitzels on a wire rack, not on paper towel, so the underside doesn't go soggy from trapped steam.",
     "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
   ],
-  "storage": "Cooked schnitzel keeps in the fridge for up to 2 days; freezing is possible for up to 1 month but the crust softens on thawing. Reheat in a hot oven rather than a microwave until piping hot and 74°C (165°F) in the centre, to bring back some crispness. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
+  "storage": "Cooked schnitzel keeps in the fridge for up to 2 days; freezing is possible for up to 1 month but the crust softens on thawing. Reheat in a hot oven rather than a microwave until piping hot and 74°C in the centre, to bring back some crispness. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "gluten",
     "milk",

@@ -32,7 +32,7 @@
     },
     {
       "group": "Chicken",
-      "qty": 6.0,
+      "qty": 6,
       "unit": "g",
       "item": "fine sea salt or table salt, to rub the bird",
       "note": "about 1 tsp"
@@ -58,7 +58,7 @@
     },
     {
       "group": "Chicken",
-      "qty": 12.0,
+      "qty": 12,
       "unit": "g",
       "item": "fine sea salt or table salt, for the poaching water",
       "note": "about 2 tsp"
@@ -150,7 +150,7 @@
     },
     {
       "group": "Chilli sauce",
-      "qty": 1.0,
+      "qty": 1,
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about ⅛ tsp"
@@ -175,7 +175,7 @@
     },
     {
       "group": "Ginger-spring onion oil",
-      "qty": 1.0,
+      "qty": 1,
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about ⅛ tsp"
@@ -218,7 +218,7 @@
     },
     {
       "title": "Poach gently",
-      "text": "Bring a pot of water large enough to cover the chicken, with the 2 teaspoons of salt, to the boil. Lower the chicken in breast-up, bring back to a bare simmer, then reduce the heat so only occasional bubbles show, around 80-85°C (175-185°F), and poach for 35-45 minutes until the thickest part of the breast reaches 74°C (165°F) and the thigh 77°C (170°F)."
+      "text": "Bring a pot of water large enough to cover the chicken, with the 2 teaspoons of salt, to the boil. Lower the chicken in breast-up, bring back to a bare simmer, then reduce the heat so only occasional bubbles show, around 80-85°C, and poach for 35-45 minutes until the thickest part of the breast reaches 74°C and the thigh 77°C."
     },
     {
       "title": "Shock and rub with sesame oil",
@@ -248,7 +248,7 @@
     "Rinse the rice until the water runs clear so the grains stay separate rather than clumping.",
     "Taste the chilli sauce before serving - it should be sharp, hot and a little sweet to balance the mild chicken and rice."
   ],
-  "storage": "Chicken and rice keep separately in the fridge for up to 2 days; sauces keep up to 3 days. Reheat chicken and rice until piping hot (74°C (165°F)); the stock can be reboiled before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
+  "storage": "Chicken and rice keep separately in the fridge for up to 2 days; sauces keep up to 3 days. Reheat chicken and rice until piping hot (74°C); the stock can be reboiled before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "gluten",
     "sesame",

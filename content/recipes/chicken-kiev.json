@@ -70,7 +70,7 @@
     },
     {
       "group": "Chicken",
-      "qty": 3.0,
+      "qty": 3,
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about ½ tsp"
@@ -128,15 +128,15 @@
     },
     {
       "title": "Fill and roll",
-      "text": "Cut the chilled butter into 4 pieces and lay one near the narrow end of each flattened breast, topping it with a reserved inner fillet. Fold in the sides and roll up tightly so the butter is completely enclosed with no gaps, then wrap each parcel tightly in cling film, twisting the ends, and chill for 1 hour so the seams set firmly - any unsealed gap is where the butter will leak out in the oven."
+      "text": "Cut the chilled butter into 4 pieces and lay one near the narrow end of each flattened breast, topping it with a reserved inner fillet. Fold in the sides and roll up tightly so the butter is completely enclosed with no gaps, then wrap each parcel tightly in cling film, twisting the ends, and chill for 1 hour so the seams set firmly - any unsealed gap is where the butter will leak out in the oven. About 20 minutes before the chilling time is up, heat the oven to 175°C (155°C fan)."
     },
     {
       "title": "Set up the coating",
-      "text": "Heat the oven to 175°C (155°C fan, 350°F). Arrange the flour, the egg beaten with mustard, and the cooled toasted crumbs in three shallow dishes."
+      "text": "Arrange the flour, the egg beaten with mustard, and the cooled toasted crumbs in three shallow dishes."
     },
     {
       "title": "Coat and bake",
-      "text": "Unwrap the chicken parcels and coat each one in flour, then egg, then the toasted crumbs, pressing firmly so the crumb sticks all over. Set them seam-side down on the wire rack and bake for 40-45 minutes until the crumb is deep golden and the centre of the chicken itself (not the butter pocket) reads 74°C (165°F)."
+      "text": "Unwrap the chicken parcels and coat each one in flour, then egg, then the toasted crumbs, pressing firmly so the crumb sticks all over. Set them seam-side down on the wire rack and bake for 40-45 minutes until the crumb is deep golden and the centre of the chicken itself (not the butter pocket) reads 74°C."
     },
     {
       "title": "Rest and serve",
@@ -150,12 +150,13 @@
     "Check the chicken's own temperature with a thermometer, not the butter pocket, which will always read hotter.",
     "Let the Kievs rest briefly before cutting so the molten butter doesn't shoot straight out."
   ],
-  "storage": "Cooked Kievs keep in the fridge for up to 2 days; reheat in a moderate oven until piping hot (74°C (165°F)) rather than in a microwave, which can make the crumb soggy. Uncooked, crumbed parcels can be frozen for up to 2 months and baked from frozen, allowing extra time. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
+  "storage": "Cooked Kievs keep in the fridge for up to 2 days; reheat in a moderate oven until piping hot (74°C) rather than in a microwave, which can make the crumb soggy. Uncooked, crumbed parcels can be frozen for up to 2 months and baked from frozen, allowing extra time. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "gluten",
     "milk",
     "eggs",
-    "mustard"
+    "mustard",
+    "sulphites"
   ],
   "diet": [],
   "nutrition_per_serving": {

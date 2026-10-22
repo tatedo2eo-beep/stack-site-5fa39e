@@ -70,10 +70,10 @@
     },
     {
       "group": "Coating",
-      "qty": 200,
+      "qty": 400,
       "unit": "ml",
       "item": "neutral oil for shallow frying",
-      "note": "about 5 mm deep"
+      "note": "about 1 cm deep"
     },
     {
       "group": "Tomato sauce",
@@ -132,7 +132,7 @@
     },
     {
       "group": "Spaghetti",
-      "qty": 18.0,
+      "qty": 18,
       "unit": "g",
       "item": "fine sea salt or table salt, for the pasta water",
       "note": "about 1 tbsp"
@@ -145,7 +145,7 @@
     },
     {
       "title": "Flatten and season the chicken",
-      "text": "Pound the cutlets between cling film to an even 1cm thickness, then season with the salt and pepper."
+      "text": "Pound the cutlets between cling film to an even 6 mm thickness, then season with the salt and pepper."
     },
     {
       "title": "Coat the cutlets",
@@ -153,7 +153,7 @@
     },
     {
       "title": "Fry until golden",
-      "text": "Heat the oil to about 5mm deep in the frying pan over medium-high until it reaches around 175°C (350°F), hot enough that a crumb sizzles instantly. Fry the cutlets 2 at a time for 2-3 minutes per side until deep golden and the centre reaches 74°C (165°F), then drain on the rack."
+      "text": "Heat the oil to about 1 cm deep in the frying pan over medium-high until it reaches around 175°C, hot enough that a crumb sizzles instantly. Fry the cutlets 2 at a time for about 2 minutes per side until deep golden and the centre reaches 74°C, then drain on the rack."
     },
     {
       "title": "Grill with sauce and cheese",
@@ -172,7 +172,7 @@
     "Undercook the pasta slightly before draining, since it will keep softening slightly while you plate up.",
     "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
   ],
-  "storage": "Store sauce and cooked cutlets separately in the fridge for up to 3 days. Reheat cutlets in the oven or under the grill until piping hot (74°C (165°F)) to keep the crumb crisp; a microwave will make it soggy. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
+  "storage": "Store sauce and cooked cutlets separately in the fridge for up to 3 days. Reheat cutlets in the oven or under the grill until piping hot (74°C) to keep the crumb crisp; a microwave will make it soggy. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "gluten",
     "milk",

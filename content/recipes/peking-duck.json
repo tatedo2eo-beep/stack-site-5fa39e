@@ -58,7 +58,7 @@
     },
     {
       "group": "Cavity seasoning",
-      "qty": 6.0,
+      "qty": 6,
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about 1 tsp"
@@ -118,15 +118,15 @@
     },
     {
       "title": "Glaze and dry",
-      "text": "Pat the duck dry, then warm the honey, rice vinegar and hot water together until the honey dissolves, and brush it thinly all over the skin. Refrigerate uncovered on a rack over a tray for 24-36 hours until the skin feels dry and leathery, brushing once more with glaze after 12 hours."
+      "text": "Pat the duck dry, then warm the honey, rice vinegar and hot water together until the honey dissolves, and brush it thinly all over the skin. Refrigerate uncovered on a rack over a tray for 24-36 hours until the skin feels dry and leathery, brushing once more with glaze after 12 hours. On roasting day, heat the oven to 175°C (155°C fan) for at least 20 minutes before the duck goes in."
     },
     {
       "title": "Roast low and slow",
-      "text": "Heat the oven to 175°C (155°C fan, 350°F). Set the duck breast-up on the rack in the tin with 1cm of water underneath to stop dripping fat from smoking, and roast for 1 hour. Lower the oven to 120°C (100°C fan, 250°F) and continue for 30-40 minutes until the fat has largely stopped dripping, the skin is deep mahogany and crisp, and the thickest part of the breast and thigh reach 74°C (165°F)."
+      "text": "Set the duck breast-up on the rack in the tin with 1cm of water underneath to stop dripping fat from smoking, and roast for 1 hour. Lower the oven to 120°C (100°C fan) and continue for 30-40 minutes until the fat has largely stopped dripping, the skin is deep mahogany and crisp, and the thickest part of the breast and thigh reach 74°C."
     },
     {
       "title": "Crisp the skin if needed",
-      "text": "If the skin isn't fully crisp, raise the oven to 220°C (200°C fan, 425°F) for 5-8 minutes, watching closely since the honey glaze can scorch quickly."
+      "text": "If the skin isn't fully crisp, raise the oven to 220°C (200°C fan) for 5-8 minutes, watching closely since the honey glaze can scorch quickly."
     },
     {
       "title": "Rest, carve and serve",
@@ -140,11 +140,12 @@
     "Watch the honey glaze closely if you raise the oven temperature at the end, as it can burn within minutes.",
     "Carve just before serving so the pancakes and vegetables stay fresh and the duck is still warm."
   ],
-  "storage": "Keep leftover duck in the fridge for up to 2 days. Reheat gently in a hot oven until piping hot (74°C (165°F)) to help restore some crispness; freezing isn't recommended as it softens the skin. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
+  "storage": "Keep leftover duck in the fridge for up to 2 days. Reheat gently in a hot oven until piping hot (74°C) to help restore some crispness; freezing isn't recommended as it softens the skin. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "gluten",
     "sesame",
-    "soya"
+    "soya",
+    "sulphites"
   ],
   "diet": [
     "dairy-free"

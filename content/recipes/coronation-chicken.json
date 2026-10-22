@@ -30,7 +30,7 @@
     },
     {
       "group": "Chicken",
-      "qty": 6.0,
+      "qty": 6,
       "unit": "g",
       "item": "fine sea salt or table salt, for the poaching water",
       "note": "about 1 tsp"
@@ -118,7 +118,7 @@
   "steps": [
     {
       "title": "Poach the chicken",
-      "text": "Put the chicken breasts in a pan with water to cover by 2 cm, along with the salt and bay leaves. Bring to 80°C (175°F) - just small bubbles at the edge of the pan, no full boil - then cover and cook on the lowest heat for 18-24 minutes, until the chicken reaches 74°C (165°F)."
+      "text": "Put the chicken breasts in a pan with water to cover by 2 cm, along with the salt and bay leaves. Bring to 80°C - just small bubbles at the edge of the pan, no full boil - then cover and cook on the lowest heat for 18-24 minutes, until the chicken reaches 74°C."
     },
     {
       "title": "Cool and shred",
@@ -142,13 +142,13 @@
     }
   ],
   "tips": [
-    "Poach the chicken gently at 80°C (175°F) rather than boiling it - a hard boil toughens the breast meat and squeezes out moisture.",
+    "Poach the chicken gently at 80°C rather than boiling it - a hard boil toughens the breast meat and squeezes out moisture.",
     "Let the chicken cool in its own poaching liquid rather than draining it straight away, which keeps it noticeably more tender.",
     "Bloom the curry powder in warm oil before mixing it in - this one minute of cooking removes its raw, dusty taste.",
     "Chill the finished mixture for at least an hour; the flavours taste noticeably flatter if served right away.",
     "Toast the almonds just before serving so they stay crisp rather than going soft in the dressing."
   ],
-  "storage": "Keep in the fridge for up to 3 days in a covered container; this dish isn't suitable for freezing as the mayonnaise-based dressing will separate. Serve chilled rather than reheating. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
+  "storage": "Keep in the fridge for up to 3 days in a covered container; this dish isn't suitable for freezing as the mayonnaise-based dressing will separate. Serve chilled rather than reheating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "milk",
     "eggs",

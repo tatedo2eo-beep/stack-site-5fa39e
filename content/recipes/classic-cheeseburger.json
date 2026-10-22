@@ -31,7 +31,7 @@
     },
     {
       "group": "Patties",
-      "qty": 6.0,
+      "qty": 6,
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about 1 tsp"
@@ -132,11 +132,11 @@
     },
     {
       "title": "Flip and melt the cheese",
-      "text": "Flip each patty just once and cook for a further 3 minutes, adding a slice of cheese for the final 1-1.5 minutes. Cover with a lid or an upturned bowl so the trapped heat melts it evenly. The patties are ready at 71°C (160°F) in the centre, checked through the side, with clear juices."
+      "text": "Flip each patty just once and cook for a further 3 minutes, adding a slice of cheese for the final 1-1.5 minutes. Cover with a lid or an upturned bowl so the trapped heat melts it evenly. The patties are ready at 71°C in the centre, checked through the side, with clear juices."
     },
     {
       "title": "Rest briefly",
-      "text": "Lift the patties onto the toasted bun bases and leave for 2 minutes before building. This short rest lets the juices settle back through the meat rather than running out onto the plate."
+      "text": "Lift the patties onto the toasted bun bases and leave for 2 minutes before building. This short pause lets the cheese set slightly so the stack holds together when you build it."
     },
     {
       "title": "Build the burger",
@@ -149,7 +149,7 @@
     "If the pan starts smoking heavily, spoon off a little of the rendered fat rather than lowering the heat, or the patties will steam instead of sear.",
     "Season the mince only just before cooking - salting it early makes the texture springy rather than tender."
   ],
-  "storage": "Cooked patties keep in a covered container in the fridge for up to 2 days, or frozen without buns or toppings for up to 2 months. Reheat gently until piping hot and reaching 74°C (165°F) all the way through before eating. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
+  "storage": "Cooked patties keep in a covered container in the fridge for up to 2 days, or frozen without buns or toppings for up to 2 months. Reheat gently until piping hot and reaching 74°C all the way through before eating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "gluten",
     "milk",
