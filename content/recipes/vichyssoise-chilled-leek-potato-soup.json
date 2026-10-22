@@ -1,0 +1,151 @@
+{
+  "slug": "vichyssoise-chilled-leek-potato-soup",
+  "title": "Vichyssoise: Chilled Leek and Potato Soup",
+  "category": "soups-stews",
+  "cuisine": "French",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "vichyssoise",
+  "dish_title": "Vichyssoise",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A silky, ice-cold leek and potato soup, gently sweated in butter, simmered in milk and broth, then blended, strained and chilled. A swirl of cream and a scattering of chives finish it beautifully.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "large casserole or heavy saucepan (about 4 litres) with a lid",
+    "wooden spoon",
+    "blender",
+    "fine sieve",
+    "large bowl",
+    "ladle",
+    "airtight container"
+  ],
+  "ingredients": [
+    {
+      "group": "Soup",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Soup",
+      "qty": 450,
+      "unit": "g",
+      "item": "leeks, white and light green parts only, halved lengthwise, thinly sliced and washed",
+      "note": "from about 900 g whole leeks"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Soup",
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1¼ tsp"
+    },
+    {
+      "group": "Soup",
+      "qty": 600,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Soup",
+      "qty": 480,
+      "unit": "ml",
+      "item": "low-salt halal chicken broth"
+    },
+    {
+      "group": "Soup",
+      "qty": 225,
+      "unit": "g",
+      "item": "floury or red potatoes, peeled and cut into 1 cm dice"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "ground white pepper, plus more to taste"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "fresh chives, finely snipped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sweat the leeks",
+      "text": "Melt the butter in the casserole over medium-low heat, then add the leeks, onion and salt. Cover and cook for about 10 minutes, stirring now and then, until they are completely soft and floppy but not browned. Covering traps the steam so the vegetables soften in their own juices, keeping the soup pale and sweet."
+    },
+    {
+      "title": "Simmer with potatoes",
+      "text": "Pour in the milk and broth, add the potatoes and white pepper, then turn the heat to medium-high and bring to the boil. Lower to medium-low, cover and simmer for about 20 minutes, until a potato cube breaks easily against the side of the pan. Fully cooked potato releases its starch, which is what gives the finished soup its body."
+    },
+    {
+      "title": "Cool, then blend",
+      "text": "Leave the soup to stand for 10 minutes, then blend it in batches for 1-2 minutes each until perfectly smooth. Fill the jug no more than half full and hold the lid down with a cloth. Letting it cool a little makes blending safer, as very hot liquid can push the lid off."
+    },
+    {
+      "title": "Strain for silkiness",
+      "text": "Pour the soup through the sieve into the large bowl, pressing it through with a ladle. Any stringy leek fibres stay behind. This step is what gives vichyssoise its famously velvety texture."
+    },
+    {
+      "title": "Chill thoroughly",
+      "text": "Cover the bowl and refrigerate for at least 4 hours, until the soup is cold right through. As it chills it thickens slightly and the leek flavour becomes rounder and softer."
+    },
+    {
+      "title": "Season and serve",
+      "text": "Stir in the cream, then taste: cold soups need a little more seasoning, so add extra salt or white pepper as needed. Ladle into chilled bowls and scatter with the chives. The cream is added at the end so its fresh, clean richness is not dulled by cooking."
+    }
+  ],
+  "tips": [
+    "Wash the sliced leeks well in a bowl of cold water; grit hides between the layers and will ruin the smooth texture.",
+    "A common mistake is letting the leeks brown, which turns the soup grey-beige and slightly bitter; keep the heat low and the lid on.",
+    "Chill the serving bowls for 30 minutes so the soup stays cold at the table.",
+    "If the chilled soup is too thick, loosen it with a little cold milk rather than water to keep it rich."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days, before or after adding the cream. Stir well before serving. Do not freeze, as the potato turns grainy when thawed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "celery"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 221,
+    "protein_g": 6.2,
+    "carbs_g": 25.0,
+    "sugar_g": 10.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 11.4,
+    "satfat_g": 6.8,
+    "salt_g": 2.11,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "vichyssoise-advanced.jpg",
+  "image_alt": "A chilled white bowl of creamy pale-green leek and potato soup with a swirl of cream and finely snipped chives.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

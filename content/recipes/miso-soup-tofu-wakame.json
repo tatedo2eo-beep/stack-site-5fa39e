@@ -1,0 +1,153 @@
+{
+  "slug": "miso-soup-tofu-wakame",
+  "title": "Miso Soup with Tofu and Wakame",
+  "category": "soups-stews",
+  "cuisine": "Japanese",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "miso",
+  "dish_title": "Miso",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A light, savoury Japanese soup made with homemade kombu and bonito dashi, then enriched with white and red miso. Silky tofu, tender wakame and spring onion make it a perfect starter or light meal.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "medium saucepan (about 3 litres)",
+    "instant-read thermometer",
+    "tongs or slotted spoon",
+    "fine sieve lined with a double layer of muslin",
+    "large bowl or jug",
+    "small bowl",
+    "small fine sieve and a wooden spoon (for the miso)",
+    "ladle"
+  ],
+  "ingredients": [
+    {
+      "group": "Dashi",
+      "qty": 1250,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Dashi",
+      "qty": 25,
+      "unit": "g",
+      "item": "kombu (dried kelp)",
+      "note": "lifted out; not counted"
+    },
+    {
+      "group": "Dashi",
+      "qty": 25,
+      "unit": "g",
+      "item": "katsuobushi (dried bonito flakes)",
+      "note": "strained out; not counted"
+    },
+    {
+      "group": "Soup",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "dried wakame seaweed"
+    },
+    {
+      "group": "Soup",
+      "qty": 180,
+      "unit": "ml",
+      "item": "cold water, for soaking the wakame",
+      "note": "drained away"
+    },
+    {
+      "group": "Soup",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "white miso"
+    },
+    {
+      "group": "Soup",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "red miso"
+    },
+    {
+      "group": "Soup",
+      "qty": 170,
+      "unit": "g",
+      "item": "silken tofu, cut into 1 cm cubes"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "spring onion, thinly sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak the kombu",
+      "text": "Put the 1250 ml cold water and the kombu in the saucepan and leave it for at least 1 hour, or up to 8 hours. The cold soak slowly draws out glutamates, the natural savoury compounds that give dashi its rounded depth."
+    },
+    {
+      "title": "Warm gently",
+      "text": "Set the pan over medium-low heat and warm it for 7-8 minutes, until the thermometer reads 65 °C; the water should be steaming, with tiny bubbles clinging to the pan but not rising. Lift out the kombu with the tongs. Heating too hard at this stage releases slimy, bitter flavours from the seaweed."
+    },
+    {
+      "title": "Steep the bonito",
+      "text": "Turn the heat to high and bring the water to 93 °C, about 3 minutes; bubbles should just break at the edges without a full boil. Take the pan off the heat, add the katsuobushi and leave it to steep for 3 minutes. Keeping it below boiling extracts the smoky fish flavour without any harsh, fishy edge."
+    },
+    {
+      "title": "Strain the dashi",
+      "text": "Pour everything through the muslin-lined sieve into the bowl. Gather the cloth and squeeze gently to release the last of the liquid, then discard the flakes and rinse the pan. Squeezing lightly, rather than wringing hard, keeps the dashi clear."
+    },
+    {
+      "title": "Prepare the wakame",
+      "text": "Soak the dried wakame in the 180 ml cold water for about 5 minutes, until it swells and turns bright green. Squeeze it dry and cut any large pieces into 3-4 cm strips. Soaking separately stops the seaweed clouding the soup."
+    },
+    {
+      "title": "Dissolve the miso",
+      "text": "Return the dashi to the clean pan and bring it to a bare simmer over medium heat, then turn it to low. Put both misos in the small sieve, lower it into the dashi and press the paste through with the spoon until it has all dissolved. Pressing through a sieve leaves no lumps and lets you add it gently without boiling."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Add the tofu and wakame and warm them for 1-2 minutes without letting the soup boil. Ladle into bowls and scatter over the spring onion. Boiling miso drives off its delicate aroma, so serve it as soon as it is hot."
+    }
+  ],
+  "tips": [
+    "Do not wash the white powder off the kombu; it is full of flavour. Simply wipe away any grit with a damp cloth.",
+    "A common mistake is boiling the soup after the miso goes in, which makes it taste flat and grainy; keep it just below a simmer.",
+    "Miso varies in saltiness by brand, so taste before adding all of it.",
+    "Handle silken tofu gently and add it last so the cubes stay whole."
+  ],
+  "storage": "Best eaten straight away. Dashi without miso keeps covered in the fridge for up to 3 days or frozen for 1 month. Leftover miso soup can be chilled for 1 day and reheated gently until steaming hot, without boiling. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "soya",
+    "fish"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 103,
+    "protein_g": 10.0,
+    "carbs_g": 6.9,
+    "sugar_g": 1.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 4.9,
+    "satfat_g": 0.7,
+    "salt_g": 1.94,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "miso-advanced.jpg",
+  "image_alt": "A dark lacquered bowl of cloudy golden miso soup with small cubes of white tofu, green wakame and sliced spring onion.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "slug": "scotch-broth-lamb-barley-kale",
+  "title": "Scotch Broth with Lamb, Barley and Kale",
+  "category": "soups-stews",
+  "cuisine": "Scottish",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "scotch-broth",
+  "dish_title": "Scotch broth",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A hearty Scottish soup of bone-in lamb simmered gently with pearl barley, carrots, turnips and leek until the meat falls off the bone. Kale goes in at the end, and a splash of cider vinegar brightens each bowl.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 140,
+  "difficulty": "easy",
+  "equipment": [
+    "large casserole or stockpot (at least 6 litres) with a lid",
+    "kitchen string",
+    "large spoon or ladle for skimming",
+    "tongs",
+    "chopping board and two forks",
+    "ladle"
+  ],
+  "ingredients": [
+    {
+      "group": "Lamb",
+      "qty": 1000,
+      "unit": "g",
+      "item": "bone-in lamb neck or shoulder pieces (stewing cuts)"
+    },
+    {
+      "group": "Lamb",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Lamb",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Broth",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium potato, peeled and cut into 1 cm dice"
+    },
+    {
+      "group": "Broth",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large carrots, peeled and cut into 1 cm dice"
+    },
+    {
+      "group": "Broth",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium turnips, peeled and cut into 1 cm dice"
+    },
+    {
+      "group": "Broth",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large leek, white and light green part only, washed and sliced"
+    },
+    {
+      "group": "Broth",
+      "qty": 65,
+      "unit": "g",
+      "item": "pearl barley, rinsed"
+    },
+    {
+      "group": "Broth",
+      "qty": 1,
+      "unit": "pc",
+      "item": "celery stick, diced"
+    },
+    {
+      "group": "Broth",
+      "qty": 4,
+      "unit": "pc",
+      "item": "sprigs fresh thyme, tied with kitchen string"
+    },
+    {
+      "group": "Broth",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Broth",
+      "qty": 2400,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Broth",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 225,
+      "unit": "g",
+      "item": "kale, tough stems removed, leaves roughly chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "fresh flat-leaf parsley, chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cider vinegar or lemon juice, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Season the lamb",
+      "text": "Rub the lamb all over with the 1 tsp salt and the pepper and leave it at room temperature for 20 minutes. Salting ahead gives the seasoning time to penetrate the meat, so it tastes seasoned right through."
+    },
+    {
+      "title": "Fill the pot",
+      "text": "Put the lamb, potato, carrots, turnips, leek, barley, celery, thyme bundle, bay leaf, 2400 ml water and 0.5 tsp salt into the casserole and bring to the boil over high heat. Everything goes in together, so the barley and vegetables cook in the developing lamb broth."
+    },
+    {
+      "title": "Simmer slowly",
+      "text": "Lower the heat so the broth barely bubbles and cook for about 2 hours, turning the lamb now and then and skimming off any foam, until the meat is falling off the bones. Partly cover the pot if the liquid drops below the meat. A gentle simmer keeps the broth clear and turns the tough cuts meltingly tender."
+    },
+    {
+      "title": "Shred the meat",
+      "text": "Lift the lamb onto the board, pull the meat into bite-size pieces with the forks and discard the bones and any fatty bits. Skim the fat from the surface of the broth, then return the meat to the pot. Removing the fat keeps the broth clean-tasting rather than greasy."
+    },
+    {
+      "title": "Add the kale",
+      "text": "Stir in the kale and simmer for about 15 minutes more, until soft. Remove the thyme and bay leaf. The kale adds colour and a pleasant earthy bitterness against the rich lamb."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Taste and add a little more salt if needed, then ladle into bowls. Scatter over the parsley and add a few drops of cider vinegar or lemon juice to each. A touch of acid lifts the rich, meaty broth."
+    }
+  ],
+  "tips": [
+    "Ask your butcher for halal lamb neck or shoulder on the bone; the bones and connective tissue give the broth its body.",
+    "A common mistake is boiling the soup hard, which makes the meat tough and the broth cloudy; keep it to a lazy bubble.",
+    "The barley keeps absorbing liquid, so add a little water when reheating.",
+    "For an even cleaner broth, chill it overnight and lift off the set fat before reheating."
+  ],
+  "storage": "Cool and refrigerate in a covered container for up to 3 days, or freeze for up to 3 months. Reheat with a splash of water until piping hot (74 °C) throughout. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "celery",
+    "sulphites"
+  ],
+  "diet": [
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 414,
+    "protein_g": 22.5,
+    "carbs_g": 28.6,
+    "sugar_g": 6.1,
+    "free_sugar_g": 0.1,
+    "fat_g": 23.7,
+    "satfat_g": 10.1,
+    "salt_g": 1.91,
+    "fibre_g": 6.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "scotch-broth-basic.jpg",
+  "image_alt": "A bowl of Scotch broth with pieces of lamb, pearl barley, diced carrot and turnip, and dark green kale.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}
