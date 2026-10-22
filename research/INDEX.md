@@ -91,6 +91,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chiffon-cake | Chiffon | Classic | 2 | 4 |
 | chilled-gazpacho-tomato-cucumber-pepper | Gazpacho | Classic | 2 | 4 |
 | chilli-braised-beef-tacos-melted-cheese-dipping-broth | Birria | Classic | 3 | 5 |
+| chipotle-lime-chicken-black-bean-rice-burritos | Burrito | Classic | 2 | 4 |
 | chocolate-angel-food-cake | Angel food | Chocolate | 3 | 5 |
 | chocolate-biscotti | Biscotti | Chocolate | 3 | 5 |
 | chocolate-buche-de-noel | Swiss roll/bûche de Noël | Classic | 3 | 5 |
@@ -136,6 +137,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crisp-fried-mixed-seafood-courgette | Fritto misto | Classic | 2 | 4 |
 | crisp-fried-squid-rings-tomato-dip | Calamari | Classic | 2 | 4 |
 | crisp-garden-salad-honey-mustard-vinaigrette | Green/garden | Classic | 2 | 4 |
+| crisp-melted-monterey-jack-cheese-quesadillas-fresh-salsa | Quesadilla | Classic | 2 | 4 |
 | crisp-pita-fattoush-sumac | Fattoush | Classic | 3 | 5 |
 | crisp-salt-pepper-squid-chilli-garlic-spring-onion | Salt and pepper squid | Classic | 4 | 6 |
 | crisp-skinned-jacket-potatoes | Baked/jacket | Classic | 2 | 4 |
@@ -264,6 +266,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-pound-cake | Pound cake | Lemon | 3 | 5 |
 | lemony-tuna-salad-celery-capers | Tuna salad | Classic | 3 | 5 |
 | libyan-style-fish-spicy-tomato-pepper-sauce | Chraime | Classic | 2 | 4 |
+| liege-waffles-caramelised-pearl-sugar | Liège waffles | Classic | 2 | 4 |
 | lime-cumin-steak-fajitas-charred-peppers-onions | Fajita | Beef | 3 | 5 |
 | lo-mein | Lo mein | Classic | 2 | 4 |
 | louisiana-style-crayfish-tail-stew-rice | Crawfish étouffée | Classic | 3 | 5 |
@@ -318,6 +321,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pancit-bihon | Pancit bihon | Classic | 2 | 4 |
 | pancit-canton | Pancit | Classic | 2 | 4 |
 | pandan-chiffon-cake | Chiffon | Pandan | 2 | 4 |
+| pandan-coconut-kaya-toast-butter-soft-boiled-eggs | Kaya toast | Classic | 2 | 4 |
 | pappa-al-pomodoro-tuscan-tomato-bread-soup | Pappa al pomodoro | Classic | 2 | 4 |
 | pappardelle-beef-ragu | Pappardelle | Classic | 2 | 4 |
 | parmesan-garlic-hasselback-potatoes | Hasselback | Parmesan | 2 | 4 |
@@ -361,6 +365,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pumpkin-whoopie-pies | Whoopie pie | Pumpkin | 2 | 4 |
 | rainbow-fruit-salad-lime-mint | Fruit salad | Classic | 3 | 5 |
 | raspberry-thumbprint-cookies | Thumbprints | Raspberry | 3 | 5 |
+| red-chile-chicken-enchiladas-cheddar-crema | Enchilada | Classic | 2 | 4 |
 | red-lentil-soup | Lentil | Classic | 2 | 3 |
 | red-velvet-cake | Red velvet | Classic | 2 | 4 |
 | red-velvet-cupcakes-cream-cheese-frosting | Cupcakes | Red velvet | 2 | 4 |
@@ -407,6 +412,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | snickerdoodles | Snickerdoodle | Classic | 3 | 5 |
 | soft-rice-and-yellow-lentil-porridge-cumin-ghee | Khichdi | Classic | 2 | 4 |
 | soft-scrambled-eggs-butter-chives-toast | Scrambled | Classic | 3 | 5 |
+| soft-steamed-rice-lentil-idli-coconut-chutney | Idli | Classic | 2 | 4 |
 | som-tam-green-papaya-salad | Som tam | Classic | 3 | 5 |
 | soto-ayam-indonesian-chicken-turmeric-soup | Soto | Classic | 2 | 4 |
 | sour-cream-coffee-cake | Coffee cake | Classic | 3 | 5 |
@@ -450,6 +456,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | thai-green-coconut-curry-chicken-aubergine-basil | Green curry | Chicken | 3 | 5 |
 | thai-thick-coconut-red-curry-beef-lime-leaf-peanuts | Panang curry | Beef | 2 | 4 |
 | thai-yellow-coconut-curry-chicken-potatoes-onion | Thai yellow curry (kaeng kari) | Chicken | 2 | 4 |
+| thick-acai-bowl-banana-berries-granola | Açaí bowl | Classic | 2 | 4 |
 | thin-french-crepes-sugar-lemon | Crêpes | Classic | 2 | 4 |
 | thin-spiced-lamb-flatbreads-sumac-onion-parsley-lemon | Lahmacun | Classic | 3 | 5 |
 | thumbprint-cookies | Thumbprints | Classic | 3 | 5 |
@@ -482,6 +489,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | yakisoba | Yakisoba | Classic | 2 | 4 |
 | yakitori | Yakitori | Classic | 2 | 4 |
 | yangnyeom-chicken | Yangnyeom chicken | Classic | 3 | 6 |
+| yeasted-buckwheat-blini-soured-cream-jam | Blini | Classic | 2 | 4 |
 | yellow-butter-cake-chocolate-frosting | Butter/layer cake (yellow/vanilla) | Classic | 3 | 5 |
 | yellow-sheet-cake | Sheet cake | Classic | 2 | 4 |
 | zaatar-flatbreads-olive-oil-cucumber-tomato-mint | Manakish | Classic | 2 | 4 |

@@ -1,0 +1,151 @@
+{
+  "slug": "pandan-coconut-kaya-toast-butter-soft-boiled-eggs",
+  "title": "Pandan Coconut Kaya Toast with Cold Butter and Set Soft Eggs",
+  "category": "breakfast",
+  "cuisine": "Singaporean",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "kaya-toast",
+  "dish_title": "Kaya toast",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Pandan-infused coconut cream is cooked gently with eggs and brown sugar into a smooth kaya, spread on crisp toast with cold butter and served with soy-seasoned eggs.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "blender",
+    "fine sieve",
+    "heatproof bowl set over a pan of barely simmering water",
+    "balloon whisk and silicone spatula",
+    "instant-read thermometer",
+    "clean jar",
+    "grill pan or toaster",
+    "medium saucepan",
+    "slotted spoon",
+    "bowl of iced water",
+    "bread knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Kaya",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Kaya",
+      "qty": 80,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Kaya",
+      "qty": 160,
+      "unit": "ml",
+      "item": "coconut cream"
+    },
+    {
+      "group": "Kaya",
+      "qty": 4,
+      "unit": "pc",
+      "item": "pandan leaves, cut into 3 cm pieces (or 1/2 tsp pandan extract)"
+    },
+    {
+      "group": "Kaya",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Toast",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices white sandwich bread",
+      "note": "about 40 g each"
+    },
+    {
+      "group": "Toast",
+      "qty": 60,
+      "unit": "g",
+      "item": "cold unsalted butter, cut into thin slabs"
+    },
+    {
+      "group": "Eggs",
+      "qty": 8,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Eggs",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "light soy sauce"
+    },
+    {
+      "group": "Eggs",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground white pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse the pandan",
+      "text": "Blend the pandan with the coconut cream until the leaves are finely chopped, then press through the sieve and discard the pulp."
+    },
+    {
+      "title": "Cook the kaya",
+      "text": "Whisk the 2 eggs, sugar and salt in the heatproof bowl until the sugar starts to dissolve, then whisk in the pandan cream. Set the bowl over the barely simmering water and cook, stirring constantly and scraping the sides, for 15-20 minutes, until thick enough to coat the spatula and it reaches 80 °C. Gentle heat stops the eggs scrambling. Sieve it into the jar if it is lumpy and leave to cool; it thickens further as it cools."
+    },
+    {
+      "title": "Cook the eggs",
+      "text": "Lower the 8 eggs into simmering water in the saucepan and cook for 9 minutes, until the whites are firm and the yolks are just set right through (71 °C). Transfer to the iced water for 1 minute, then peel."
+    },
+    {
+      "title": "Make the toast",
+      "text": "Toast the bread until golden and crisp, and trim the crusts if you like. Spread 4 slices with about 3 tbsp kaya each, top with slabs of cold butter and close with the other slices. Cut in half."
+    },
+    {
+      "title": "Serve",
+      "text": "Halve the eggs into small bowls, season them with the soy sauce and white pepper, and serve with the toast and coffee or tea."
+    }
+  ],
+  "tips": [
+    "Keep the water barely simmering; if the kaya starts to look grainy, lift the bowl off and whisk hard.",
+    "The butter should be fridge-cold so it stays in slabs against the hot toast.",
+    "No fresh pandan? Use 1/2 tsp pandan extract, stirred in after cooking.",
+    "Thin, crisp toast is traditional; thick bread overwhelms the kaya."
+  ],
+  "storage": "Refrigerate kaya in a clean jar and use within 1 week. Toast and eggs are best eaten straight away; refrigerate peeled eggs within 1 hour and use within 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 708,
+    "protein_g": 24.5,
+    "carbs_g": 62.9,
+    "sugar_g": 24.4,
+    "free_sugar_g": 23.9,
+    "fat_g": 40.6,
+    "satfat_g": 24.5,
+    "salt_g": 1.71,
+    "fibre_g": 3.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "kaya-toast-advanced.jpg",
+  "image_alt": "Stacked kaya toast sandwiches with slabs of butter and halved eggs.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "thick-acai-bowl-banana-berries-granola",
+  "title": "Thick Açaí Bowl with Banana, Berries and Granola",
+  "category": "breakfast",
+  "cuisine": "Brazilian",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "acai-bowl",
+  "dish_title": "Açaí bowl",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Frozen unsweetened açaí is blended with frozen banana and berries into a thick, spoonable base, then topped with banana, strawberries, blueberries and granola.",
+  "servings": 2,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "high-speed blender with a tamper",
+    "2 chilled bowls",
+    "spatula",
+    "chopping board and knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 200,
+      "unit": "g",
+      "item": "frozen unsweetened açaí pulp (2 packs), broken into pieces"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "pc",
+      "item": "banana, sliced and frozen"
+    },
+    {
+      "group": "Base",
+      "qty": 150,
+      "unit": "g",
+      "item": "frozen mixed berries"
+    },
+    {
+      "group": "Base",
+      "qty": 120,
+      "unit": "ml",
+      "item": "whole milk or plant milk"
+    },
+    {
+      "group": "Base",
+      "qty": 21,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Toppings",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small banana, sliced"
+    },
+    {
+      "group": "Toppings",
+      "qty": 4,
+      "unit": "pc",
+      "item": "strawberries, sliced"
+    },
+    {
+      "group": "Toppings",
+      "qty": 50,
+      "unit": "g",
+      "item": "blueberries"
+    },
+    {
+      "group": "Toppings",
+      "qty": 40,
+      "unit": "g",
+      "item": "granola"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Pour the milk into the blender first so the blades catch, then add the açaí, frozen banana, berries and honey. Blend on low, pressing down with the tamper and stopping to scrape down as needed, until thick and smooth like soft-serve. Add more milk only a spoonful at a time, or the bowl will turn runny."
+    },
+    {
+      "title": "Top and serve",
+      "text": "Spoon the mixture into the chilled bowls and arrange the banana, strawberries, blueberries and granola in rows on top. Eat straight away, before it melts."
+    }
+  ],
+  "tips": [
+    "Too much liquid is the commonest mistake; it should hold a spoon upright.",
+    "Freeze the banana in slices for at least 4 hours so it blends smoothly.",
+    "Chill the bowls in the freezer for 10 minutes to keep the base thick longer.",
+    "Add the granola just before eating so it stays crunchy."
+  ],
+  "storage": "Best eaten straight away. The blended base can be frozen in a lidded tub for up to 1 month; soften for 10 minutes before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 368,
+    "protein_g": 7.0,
+    "carbs_g": 64.4,
+    "sugar_g": 37.0,
+    "free_sugar_g": 13.0,
+    "fat_g": 12.0,
+    "satfat_g": 3.4,
+    "salt_g": 0.11,
+    "fibre_g": 10.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "acai-bowl-advanced.jpg",
+  "image_alt": "A purple açaí bowl topped with banana slices, strawberries, blueberries and granola.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "liege-waffles-caramelised-pearl-sugar",
+  "title": "Liège Waffles with Caramelised Pearl Sugar",
+  "category": "breakfast",
+  "cuisine": "Belgian",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "liege-waffles",
+  "dish_title": "Liège waffles",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A soft, buttery brioche-style dough is chilled overnight, kneaded with Belgian pearl sugar and cooked in a waffle iron until deep golden and caramelised.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "stand mixer with dough hook",
+    "medium bowl",
+    "cling film",
+    "bench scraper",
+    "digital scales",
+    "rimmed baking tray lined with baking paper",
+    "Belgian waffle iron",
+    "2 forks",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 312,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 20,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "instant (fast-action) yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 170,
+      "unit": "g",
+      "item": "unsalted butter, cut into 12 pieces and softened"
+    },
+    {
+      "group": "Dough",
+      "qty": 120,
+      "unit": "ml",
+      "item": "whole milk, warmed to 43 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "vanilla extract (alcohol-free)"
+    },
+    {
+      "group": "Dough",
+      "qty": 156,
+      "unit": "g",
+      "item": "Belgian pearl sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix the dough",
+      "text": "Whisk the flour, sugar, yeast and salt in the mixer bowl. Add the butter, milk, egg and vanilla and mix on low for 1 minute until no dry flour remains, then on medium-low for 12-15 minutes, scraping down halfway, until smooth, elastic and very soft. Long mixing builds the gluten that holds all that butter."
+    },
+    {
+      "title": "Chill",
+      "text": "Scrape the dough into the medium bowl, cover and refrigerate for at least 8 hours or up to 48 hours. As the butter firms, the dough becomes easy to handle and develops more flavour."
+    },
+    {
+      "title": "Add the pearl sugar",
+      "text": "Turn the dough onto the worktop and flatten it to about 2.5 cm thick. Press the pearl sugar evenly over the top, roll the dough up from the edge nearest you and knead with the help of the scraper until the sugar is evenly spread. Push back any nibs that pop out."
+    },
+    {
+      "title": "Shape and rise",
+      "text": "Divide into 8 portions of about 99 g. Roll each into a 10 cm sausage, pat it into a rough 10 × 5 cm oval and set it on the lined tray. Cover loosely and leave for 1 1/2-2 hours, until puffy and at room temperature."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat the waffle iron to medium-high (about 180 °C). Put 1 portion in the centre and close the lid so it rests on the dough without pressing or locking. Cook for about 2 1/2 minutes, until deep golden and the sugar on the surface is starting to caramelise. Lift out with 2 forks onto the rack, then repeat with the rest."
+    },
+    {
+      "title": "Cool briefly and serve",
+      "text": "The caramelised sugar is extremely hot. Leave each waffle for at least 90 seconds before touching or eating it. They are best eaten warm on the day they are made."
+    }
+  ],
+  "tips": [
+    "Don't swap in granulated sugar for the pearl sugar; it melts away and burns instead of staying crunchy.",
+    "Keep the dough cold until shaping; warm, buttery dough is too sticky to knead.",
+    "Scrape any caramel off the iron between waffles while it's still warm.",
+    "Reheat leftover waffles in a 180 °C oven for 5 minutes to crisp them again."
+  ],
+  "storage": "Best eaten on the day. Keep cooled waffles airtight at room temperature for 1 day, or freeze for up to 1 month and reheat in a 180 °C oven for 5-8 minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 403,
+    "protein_g": 6.4,
+    "carbs_g": 51.6,
+    "sugar_g": 23.1,
+    "free_sugar_g": 22.2,
+    "fat_g": 19.0,
+    "satfat_g": 11.5,
+    "salt_g": 0.77,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "liege-waffles-advanced.jpg",
+  "image_alt": "Golden Liège waffles with caramelised pearl sugar on the surface.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

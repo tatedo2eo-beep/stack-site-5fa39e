@@ -1,0 +1,171 @@
+{
+  "slug": "yeasted-buckwheat-blini-soured-cream-jam",
+  "title": "Yeasted Buckwheat Blini with Soured Cream and Jam",
+  "category": "breakfast",
+  "cuisine": "Russian",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "blini",
+  "dish_title": "Blini",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A yeast-raised buckwheat batter lightened with whipped egg whites is cooked into thin, lacy pancakes and served stacked with soured cream and jam.",
+  "servings": 5,
+  "prep_min": 20,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "medium bowl",
+    "sieve",
+    "balloon whisk",
+    "clean bowl and electric whisk",
+    "cling film",
+    "large heavy non-stick frying pan or griddle",
+    "ladle (60 ml)",
+    "palette knife",
+    "baking tray and clean tea towel"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "active dried yeast"
+    },
+    {
+      "group": "Batter",
+      "qty": 2.1,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 0.5 tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 30,
+      "unit": "ml",
+      "item": "lukewarm water"
+    },
+    {
+      "group": "Batter",
+      "qty": 270,
+      "unit": "ml",
+      "item": "lukewarm semi-skimmed milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 120,
+      "unit": "g",
+      "item": "buckwheat flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 95,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 120,
+      "unit": "ml",
+      "item": "buttermilk or plain yoghurt"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, separated"
+    },
+    {
+      "group": "For the pan",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 150,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 100,
+      "unit": "g",
+      "item": "raspberry or strawberry jam"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Start the yeast",
+      "text": "Dissolve the yeast and sugar in the water in the large bowl. Stir in the milk and leave for 5 minutes, until creamy."
+    },
+    {
+      "title": "Make the batter",
+      "text": "Sift the flours and salt into the medium bowl, then whisk them into the yeast mixture with the buttermilk, 2 tbsp oil and the egg yolks. Cover and leave somewhere warm for 1 hour or longer, until bubbly."
+    },
+    {
+      "title": "Fold in the whites",
+      "text": "Whisk the egg whites in the clean bowl to soft peaks and fold them gently into the batter. Cover and leave for 30 minutes until bubbly again. The whites and yeast together give blini their light, lacy texture."
+    },
+    {
+      "title": "Cook the blini",
+      "text": "Heat the oven to 100 °C (80 °C fan) with the tray inside. Wipe the pan with a little oil and heat it over medium heat. Ladle in 60 ml batter per blin and tilt the pan so it spreads to about 13 cm. Cook for about 1 minute, until holes break through the top and the underside is browned. Flip and cook for 30-45 seconds more, until cooked through."
+    },
+    {
+      "title": "Keep warm",
+      "text": "Stack the blini on the tray under the towel to keep warm while you cook the rest, oiling the pan as needed."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve 4 blini per person, folded or stacked, with soured cream and jam."
+    }
+  ],
+  "tips": [
+    "The first blin is often a test; adjust the heat so it browns in about a minute.",
+    "Fold the whites in gently; overmixing knocks out the air.",
+    "For bite-size blini, use 1 tbsp batter each and cook for about 45 seconds per side.",
+    "If the batter thickens on standing, loosen it with a spoonful of milk."
+  ],
+  "storage": "Refrigerate cooled blini within 1 hour, wrapped, and use within 3 days, or freeze interleaved with baking paper for up to 1 month. Reheat once in a dry pan until hot through. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 405,
+    "protein_g": 11.1,
+    "carbs_g": 51.1,
+    "sugar_g": 15.6,
+    "free_sugar_g": 10.1,
+    "fat_g": 18.1,
+    "satfat_g": 5.3,
+    "salt_g": 1.12,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "blini-advanced.jpg",
+  "image_alt": "A stack of thin lacy blini with a folded blin, soured cream and red jam.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}
