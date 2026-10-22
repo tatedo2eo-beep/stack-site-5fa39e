@@ -1,7 +1,7 @@
 # Interaction tests: python3 tools/functest.py
 import asyncio
 from playwright.async_api import async_playwright
-B='http://localhost:8080/stack-site-5fa39e/'
+B="http://localhost:8080/stack-site-5fa39e/"
 async def main():
   async with async_playwright() as pw:
     br=await pw.chromium.launch(executable_path='/usr/bin/google-chrome')

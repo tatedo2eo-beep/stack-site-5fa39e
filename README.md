@@ -20,6 +20,17 @@ npm test                    # rule tests (healthy labels, diet tags, allergens)
 
 High Protein, WHO Healthy, allergens (EU 14) and diet tags are computed or checked by the build (`src/lib/rules.js`); nothing is tagged by hand.
 
+## Structure: chapter → dish → flavour → recipe
+- Chapters (launch): Salty: `burgers`, `chicken`, `pasta`; Sweet: `cookies-bars-brownies`, `cakes-cupcakes`; plus `more` for everything else. Set in `site.config.js`, names and intros in `i18n/en.js`.
+- Dishes: `content/dishes/<slug>.json` = `{ "slug", "title", "chapter", "intro", "image"? }`.
+- Each recipe JSON is one flavour of a dish and needs `"chapter"`, `"dish"` (dish slug), `"dish_title"`, `"flavour"` (e.g. "Classic"). Optional: `"flavour_order"` (number, lower first) and `"access"` (`"free"`|`"premium"`).
+- Access: the first flavour of each dish (by `flavour_order`, then a flavour starting with "Classic", then title) is free; the others default to premium. An explicit `access` wins.
+- URLs: `/chapter/<key>/`, `/dish/<slug>/`, `/recipes/<slug>/` (every flavour is its own page).
+- Recipes missing the chapter fields still build: they're filled from `tools/chapter-map.json`, or filed under "more" as their own dish, with a warning.
+
+## Premium (placeholder gating, no payments)
+Premium flavour pages show the photo, intro, ingredient names, nutrition and healthy checks, plus a lock card linking to /plans/. Quantities, method, tips and storage sit in a `<template>` and only appear in **test preview**: add `?preview=premium` to any URL (stored in localStorage; `?preview=off` to stop). Preview also hides ads. This is not real protection (the content is in the page source); real gating needs accounts and a server check at launch.
+
 ## Config
 `site.config.js`: brand name, URLs/base path, `noindex` (flip to `false` at launch), contact email, themes, locales.
 i18n: UI strings live in `i18n/en.js`; add `ar.js` (dir `rtl`) or `es.js` and list them in `locales`.
