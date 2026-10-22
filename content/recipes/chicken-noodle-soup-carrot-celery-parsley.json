@@ -1,0 +1,171 @@
+{
+  "slug": "chicken-noodle-soup-carrot-celery-parsley",
+  "title": "Chicken Noodle Soup with Carrot, Celery and Parsley",
+  "category": "soups-stews",
+  "cuisine": "American",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "chicken-noodle",
+  "dish_title": "Chicken noodle",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A comforting classic of tender shredded chicken thighs, soft egg noodles, carrot and celery in a savoury, thyme-scented broth, finished with parsley and lemon. Simple, warming and made in one pot.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy-based pot with a lid (at least 4 litres)",
+    "tongs",
+    "2 forks",
+    "instant-read thermometer",
+    "chopping board and knife",
+    "ladle"
+  ],
+  "ingredients": [
+    {
+      "group": "Soup",
+      "qty": 600,
+      "unit": "g",
+      "item": "boneless, skinless chicken thighs"
+    },
+    {
+      "group": "Soup",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Soup",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Soup",
+      "qty": 500,
+      "unit": "ml",
+      "item": "low-salt chicken broth (halal)"
+    },
+    {
+      "group": "Soup",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Soup",
+      "qty": 2,
+      "unit": "pc",
+      "item": "carrots, cut into 1 cm pieces"
+    },
+    {
+      "group": "Soup",
+      "qty": 2,
+      "unit": "pc",
+      "item": "celery stalks, cut into 1 cm pieces"
+    },
+    {
+      "group": "Soup",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried thyme"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Noodles",
+      "qty": 150,
+      "unit": "g",
+      "item": "dried egg noodles or broken spaghetti"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, chopped"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown the chicken",
+      "text": "Pat the chicken dry and season with a pinch of the salt and the pepper. Heat the oil in the pot over medium-high heat and brown the chicken for 3 minutes per side, until golden. Drying the surface helps it sear rather than steam, and the browned bits left in the pot add a rich, savoury flavour to the broth."
+    },
+    {
+      "title": "Simmer the broth",
+      "text": "Add the broth, water, onion, carrot, celery, thyme, bay leaf and remaining salt, scraping up any browned bits from the base. Bring to the boil, then cover and simmer gently for 15-20 minutes until the chicken is cooked through and reads 74°C in the thickest part. A gentle simmer keeps the meat tender and the broth clear."
+    },
+    {
+      "title": "Shred the chicken",
+      "text": "Lift the chicken onto a board with the tongs and, once cool enough to handle, shred it into bite-sized pieces with 2 forks. Thighs stay moist and pull apart easily, giving juicy strands that soak up the broth."
+    },
+    {
+      "title": "Cook the noodles",
+      "text": "Bring the broth back to the boil, add the noodles and cook according to the packet time, usually 6-8 minutes, until tender. Return the chicken to the pot and simmer for 2 minutes until everything is boiling hot (74°C), then remove the bay leaf. Cooking the noodles in the broth lets them absorb its flavour, and their starch gives the soup a little body."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Stir in the parsley and lemon juice, taste and adjust the pepper, then ladle into bowls. Lemon added at the end brightens the rich broth without tasting sour."
+    }
+  ],
+  "tips": [
+    "A common mistake is boiling the chicken hard, which makes it stringy; keep the broth at a gentle simmer.",
+    "Serve soon after adding the noodles, as they keep absorbing liquid and soften on standing.",
+    "If you plan to have leftovers, you can cook and store the noodles separately to keep them firmer.",
+    "Use a thermometer to check the chicken reaches 74°C in the thickest part."
+  ],
+  "storage": "Cool, refrigerate within 2 hours and use within 3 days; the noodles soften on standing. Reheat until boiling hot (74°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "celery"
+  ],
+  "diet": [
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 405,
+    "protein_g": 36.8,
+    "carbs_g": 37.1,
+    "sugar_g": 5.7,
+    "free_sugar_g": 0.1,
+    "fat_g": 11.7,
+    "satfat_g": 2.4,
+    "salt_g": 2.08,
+    "fibre_g": 3.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chicken-noodle-basic.jpg",
+  "image_alt": "A dark bowl of chicken noodle soup with shredded chicken, carrot and celery in a clear golden broth.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

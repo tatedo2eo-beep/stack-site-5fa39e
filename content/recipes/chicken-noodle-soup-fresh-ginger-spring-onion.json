@@ -1,0 +1,185 @@
+{
+  "slug": "chicken-noodle-soup-fresh-ginger-spring-onion",
+  "title": "Chicken Noodle Soup with Fresh Ginger and Spring Onion",
+  "category": "soups-stews",
+  "cuisine": "International",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "chicken-noodle",
+  "dish_title": "Chicken noodle",
+  "flavour": "Ginger",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "chicken-noodle-soup-carrot-celery-parsley",
+  "changes_from_base": "Same chicken noodle soup with sliced fresh ginger and garlic simmered in the broth instead of thyme, finished with spring onion, coriander and lime instead of parsley and lemon.",
+  "summary": "This version follows the classic chicken noodle soup method, but simmers sliced fresh ginger and garlic in the broth instead of thyme and finishes with spring onion, coriander and lime instead of parsley and lemon. The result is gently warming, fragrant and fresh.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy-based pot with a lid (at least 4 litres)",
+    "tongs",
+    "2 forks",
+    "instant-read thermometer",
+    "chopping board and knife",
+    "ladle",
+    "slotted spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Soup",
+      "qty": 600,
+      "unit": "g",
+      "item": "boneless, skinless chicken thighs"
+    },
+    {
+      "group": "Soup",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Soup",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Soup",
+      "qty": 500,
+      "unit": "ml",
+      "item": "low-salt chicken broth (halal)"
+    },
+    {
+      "group": "Soup",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Soup",
+      "qty": 2,
+      "unit": "pc",
+      "item": "carrots, cut into 1 cm pieces"
+    },
+    {
+      "group": "Soup",
+      "qty": 2,
+      "unit": "pc",
+      "item": "celery stalks, cut into 1 cm pieces"
+    },
+    {
+      "group": "Soup",
+      "qty": 30,
+      "unit": "g",
+      "item": "fresh ginger, peeled and cut into thin slices"
+    },
+    {
+      "group": "Soup",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Noodles",
+      "qty": 150,
+      "unit": "g",
+      "item": "dried egg noodles or broken spaghetti"
+    },
+    {
+      "group": "To finish",
+      "qty": 3,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "coriander leaves, chopped"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lime juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown the chicken",
+      "text": "Pat the chicken dry and season it with a pinch of the salt and the pepper. Heat the oil in the pot over medium-high heat and brown the chicken for 3 minutes per side until golden. A dry surface and hot pan create a flavourful crust and browned bits that enrich the broth."
+    },
+    {
+      "title": "Infuse with ginger",
+      "text": "Add the broth, water, onion, carrot, celery, ginger, garlic, bay leaf and remaining salt. Bring to the boil, then cover and simmer gently for 15-20 minutes until the chicken reads 74°C in the thickest part. As it simmers, the ginger and garlic release their aromatic oils, giving the broth a gentle, warming heat."
+    },
+    {
+      "title": "Shred the chicken",
+      "text": "Using the tongs, lift the chicken onto a board and leave until cool enough to handle, then shred it into bite-sized pieces with 2 forks. Shredding rather than chopping gives rough edges that hold on to the fragrant broth."
+    },
+    {
+      "title": "Cook the noodles",
+      "text": "Return the broth to the boil, add the noodles and cook according to the packet time, usually 6-8 minutes, until tender. Put the chicken back in and simmer for 2 minutes until everything is boiling hot (74°C). Remove the bay leaf and, if you like, the ginger slices with the slotted spoon, as they have given up their flavour and are chewy to eat."
+    },
+    {
+      "title": "Finish with lime",
+      "text": "Stir in the spring onions, coriander and lime juice, taste and adjust the pepper, then ladle into bowls. Adding these fresh flavours at the very end keeps them vibrant and zesty."
+    }
+  ],
+  "tips": [
+    "A common mistake is chopping the ginger too finely, which makes it hard to fish out; keep it in thin slices.",
+    "For a stronger ginger flavour, leave the slices in until serving.",
+    "Simmer gently rather than boiling hard so the chicken stays tender.",
+    "Add the lime juice off the boil so it tastes bright rather than bitter."
+  ],
+  "storage": "Cool, refrigerate within 2 hours and use within 3 days; the noodles soften on standing. Reheat until boiling hot (74°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "celery"
+  ],
+  "diet": [
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 416,
+    "protein_g": 37.2,
+    "carbs_g": 39.6,
+    "sugar_g": 6.1,
+    "free_sugar_g": 0.1,
+    "fat_g": 11.8,
+    "satfat_g": 2.4,
+    "salt_g": 2.08,
+    "fibre_g": 4.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chicken-noodle-basic--ginger.jpg",
+  "image_alt": "A dark bowl of chicken noodle soup with chicken pieces and spring onion in golden broth, with slices of fresh ginger beside it.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

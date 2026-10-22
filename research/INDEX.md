@@ -13,6 +13,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | anise-biscotti | Biscotti | Anise | 3 | 5 |
 | anzac-biscuits | Anzac biscuit | Classic | 2 | 4 |
 | apple-grape-walnut-waldorf-salad | Waldorf | Classic | 3 | 5 |
+| avgolemono-greek-chicken-rice-soup-egg-lemon | Avgolemono | Classic | 2 | 4 |
 | baked-mac-and-cheese | Mac and cheese | Classic | 2 | 4 |
 | baked-ziti | Baked ziti | Classic | 2 | 4 |
 | banana-bread | Banana bread/quick breads | Classic | 2 | 4 |
@@ -46,6 +47,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | butternut-squash-ravioli | Filled (ravioli, tortellini, agnolotti) | Butternut squash | 4 | 6 |
 | buttery-rice-pilaf-toasted-vermicelli-herbs | Steamed/pilaf | Classic | 3 | 5 |
 | cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
+| caramelised-onion-soup-gruyere-toasts | French onion | Classic | 3 | 5 |
 | carrot-cake | Carrot | Classic | 2 | 4 |
 | celeriac-remoulade-mustard-parsley | Celeriac rémoulade | Classic | 3 | 5 |
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |
@@ -65,6 +67,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chicken-kiev | Chicken Kiev | Classic | 2 | 4 |
 | chicken-larb-gai-toasted-rice-mint | Larb | Chicken | 2 | 4 |
 | chicken-maryland | Chicken Maryland | Classic | 2 | 4 |
+| chicken-noodle-soup-carrot-celery-parsley | Chicken noodle | Classic | 3 | 5 |
+| chicken-noodle-soup-fresh-ginger-spring-onion | Chicken noodle | Ginger | 2 | 4 |
 | chicken-paprikash | Chicken paprikash | Classic | 3 | 5 |
 | chicken-parmigiana | Chicken parmigiana | Classic | 3 | 5 |
 | chicken-pot-pie | Chicken pot pie | Classic | 2 | 4 |
@@ -73,6 +77,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chicken-tenders | Nuggets/tenders | Classic | 3 | 5 |
 | chicken-yassa | Yassa | Classic | 3 | 5 |
 | chiffon-cake | Chiffon | Classic | 2 | 4 |
+| chilled-gazpacho-tomato-cucumber-pepper | Gazpacho | Classic | 2 | 4 |
 | chilli-braised-beef-tacos-melted-cheese-dipping-broth | Birria | Classic | 3 | 5 |
 | chocolate-angel-food-cake | Angel food | Chocolate | 3 | 5 |
 | chocolate-biscotti | Biscotti | Chocolate | 3 | 5 |
@@ -85,6 +90,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chocolate-tres-leches-cake | Tres leches | Chocolate | 3 | 5 |
 | chocolate-whoopie-pies | Whoopie pie | Classic | 2 | 4 |
 | chow-mein | Chow mein/lo mein | Classic | 3 | 5 |
+| chunky-garden-vegetable-soup-tomato-herbs | Vegetable | Classic | 2 | 4 |
 | cinnamon-streusel-coffee-cake | Coffee cake | Cinnamon streusel | 2 | 4 |
 | citrus-chilli-marinated-grilled-steak-charred-spring-onions-guacamole | Carne asada | Classic | 3 | 5 |
 | classic-almond-biscotti | Biscotti | Classic | 3 | 5 |
@@ -96,6 +102,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-smash-burger | Smash burger | Cheese | 3 | 7 |
 | cod-baked-in-parchment-vegetables-lemon-dill | En papillote | Classic | 4 | 6 |
 | cold-somen | Somen | Classic | 3 | 5 |
+| corn-egg-drop-soup-chicken | Egg drop soup | Corn egg drop | 3 | 5 |
 | coronation-chicken | Coronation chicken | Classic | 2 | 5 |
 | creamy-cashew-yoghurt-chicken-curry-cardamom | Korma | Chicken | 3 | 5 |
 | creamy-chicken-salad-celery-herbs | Chicken salad | Classic | 3 | 5 |
@@ -124,6 +131,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | diner-style-home-fries | Home fries | Classic | 2 | 4 |
 | double-fried-french-fries | French fries (double-fried) | Classic | 3 | 5 |
 | duchess-potatoes | Duchesse | Classic | 2 | 4 |
+| egg-drop-soup-ginger-spring-onion | Egg drop soup | Classic | 3 | 5 |
 | egg-fried-rice-spring-onions | Fried rice | Egg | 3 | 5 |
 | ensaladilla-rusa-tuna-peppers | Ensaladilla rusa | Classic | 2 | 4 |
 | ethiopian-berbere-beef-tibs | Tibs | Classic | 2 | 4 |
@@ -164,6 +172,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | hainanese-chicken-rice | Hainanese chicken rice | Classic | 3 | 5 |
 | haluski | Haluski | Classic | 2 | 4 |
 | hanoi-style-turmeric-fish-dill-spring-onions-rice-noodles | Chả cá Lã Vọng | Classic | 3 | 5 |
+| harira-moroccan-lentil-chickpea-soup | Harira | Classic | 2 | 4 |
 | harissa-yoghurt-beef-skewers | Kebabs/skewers | Harissa | 3 | 5 |
 | herb-tabbouleh-bulgur-lemon | Tabbouleh | Classic | 3 | 5 |
 | high-heat-roast-chicken | High-heat roast chicken | Classic | 3 | 5 |
@@ -175,6 +184,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | iced-coffee | Iced coffee | Classic | 2 | 3 |
 | indonesian-sweet-soy-fried-rice-chicken-prawns-fried-egg | Nasi goreng | Classic | 3 | 5 |
 | irish-lamb-stew-potatoes-carrots | Irish stew | Classic | 3 | 5 |
+| italian-bean-vegetable-soup-small-pasta-basil | Minestrone | Classic | 3 | 5 |
 | italian-style-pasta-salad-mozzarella-olives | Pasta salad | Classic | 3 | 5 |
 | jamaican-braised-oxtail-butter-beans | Oxtail stew | Classic | 3 | 5 |
 | jamaican-curry-goat-rice-peas | Curry goat | Classic | 2 | 4 |
@@ -280,6 +290,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | red-velvet-cake | Red velvet | Classic | 2 | 4 |
 | ricotta-ravioli | Filled (ravioli, tortellini, agnolotti) | Classic | 4 | 6 |
 | roast-chicken | Whole roast chicken | Classic | 3 | 6 |
+| roasted-butternut-squash-soup-curry-coconut | Butternut squash | Curried | 3 | 5 |
+| roasted-butternut-squash-soup-sage-pumpkin-seeds | Butternut squash | Classic | 3 | 5 |
 | roasted-garlic-mashed-potatoes | Mashed | Garlic | 3 | 5 |
 | romaine-caesar-salad-garlic-croutons | Caesar | Classic | 3 | 5 |
 | rosemary-garlic-roast-potatoes | Roast potatoes | Rosemary-garlic | 3 | 5 |
@@ -295,6 +307,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | shakshuka | Shakshuka | Classic | 2 | 4 |
 | signature-fudgy-brownies | Brownie (fudgy or cakey) | Classic | 2 | 4 |
 | signature-smash-burger | Smash burger | Classic | 3 | 8 |
+| silky-potato-leek-soup-chives-crispy-leeks | Potato-leek | Classic | 3 | 5 |
 | silky-rice-congee-ginger-crispy-shallots-spring-onion | Congee/porridge | Classic | 3 | 5 |
 | slow-cooked-dry-coconut-beef-curry-lemongrass-lime-leaf | Rendang | Beef (classic) | 3 | 5 |
 | slow-roast-beef-yorkshire-puddings | Roast beef | Classic | 5 | 7 |
@@ -331,6 +344,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | thai-thick-coconut-red-curry-beef-lime-leaf-peanuts | Panang curry | Beef | 2 | 4 |
 | thai-yellow-coconut-curry-chicken-potatoes-onion | Thai yellow curry (kaeng kari) | Chicken | 2 | 4 |
 | thumbprint-cookies | Thumbprints | Classic | 3 | 5 |
+| tom-yum-goong-thai-hot-sour-prawn-soup | Tom yum | Classic | 3 | 5 |
 | tomato-mozzarella-caprese-basil | Caprese | Classic | 3 | 5 |
 | tortilla-espanola | Tortilla española | Classic | 2 | 4 |
 | trenette-al-pesto | Trenette al pesto | Classic | 3 | 5 |

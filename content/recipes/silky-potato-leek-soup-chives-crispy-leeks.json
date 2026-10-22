@@ -1,0 +1,169 @@
+{
+  "slug": "silky-potato-leek-soup-chives-crispy-leeks",
+  "title": "Silky Potato and Leek Soup with Chives and Crispy Leeks",
+  "category": "soups-stews",
+  "cuisine": "French",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "potato-leek",
+  "dish_title": "Potato-leek",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Gently softened leeks and potatoes are simmered and blended into a velvety soup enriched with cream, then topped with crisp fried leek strips and chives.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy-based pot with a lid",
+    "wooden spoon",
+    "stick blender or upright blender",
+    "small frying pan",
+    "slotted spoon",
+    "kitchen paper",
+    "ladle",
+    "clean tea towel"
+  ],
+  "ingredients": [
+    {
+      "group": "Soup",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Soup",
+      "qty": 3,
+      "unit": "pc",
+      "item": "medium leeks, white and pale green parts, halved, sliced and washed"
+    },
+    {
+      "group": "Soup",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Soup",
+      "qty": 700,
+      "unit": "g",
+      "item": "floury or all-purpose potatoes, peeled and cut into 2 cm cubes"
+    },
+    {
+      "group": "Soup",
+      "qty": 500,
+      "unit": "ml",
+      "item": "low-salt chicken broth (halal)"
+    },
+    {
+      "group": "Soup",
+      "qty": 500,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Soup",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Soup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Crispy leeks",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small leek, white part only, cut into thin 5 cm strips, washed and dried"
+    },
+    {
+      "group": "Crispy leeks",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chives, finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sweat the leeks",
+      "text": "Melt the butter in the pot over medium-low heat, add the sliced leeks with a pinch of the salt and cook for 10 min, stirring often, until very soft but not browned. Add the garlic for 1 min. Low heat and salt draw out moisture slowly, keeping the leeks sweet and the soup pale."
+    },
+    {
+      "title": "Simmer the potatoes",
+      "text": "Add the potatoes, broth, water, bay leaf, remaining salt and pepper. Bring to the boil, cover and simmer gently for 15-20 min until the potatoes break easily with a spoon. Remove the bay leaf."
+    },
+    {
+      "title": "Blend until silky",
+      "text": "Blend the soup until smooth. With an upright blender, fill it no more than half full and hold the lid down with a towel, as hot liquid expands and can force the lid off. Avoid over-blending, which can turn potato starch gluey."
+    },
+    {
+      "title": "Add the cream",
+      "text": "Stir in the cream and reheat until steaming and just bubbling, without a hard boil. Thin with a splash of water if it is very thick; gentle heat keeps the cream smooth."
+    },
+    {
+      "title": "Crisp the leeks",
+      "text": "Heat the oil in the frying pan over medium heat and fry the leek strips for 3-5 min, stirring, until golden. Lift them onto kitchen paper with the slotted spoon. Dry strips crisp fast, so watch closely once they start colouring."
+    },
+    {
+      "title": "Serve",
+      "text": "Ladle the soup into bowls and top with the crispy leeks and chives just before serving, so the leeks stay crunchy."
+    }
+  ],
+  "tips": [
+    "A common mistake is browning the leeks at the start; keep the heat low so the soup stays pale and sweet.",
+    "Wash the leeks well after slicing, since grit hides between the layers.",
+    "Dry the leek strips thoroughly before frying so they crisp rather than spit.",
+    "Blend just until smooth; overworking potatoes makes the soup gluey."
+  ],
+  "storage": "Cool and refrigerate within 2 hours and use within 3 days. Reheat until boiling hot (74°C), stirring often, and keep the crispy leeks separate in an airtight container.",
+  "allergens": [
+    "milk",
+    "celery"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 438,
+    "protein_g": 7.3,
+    "carbs_g": 50.5,
+    "sugar_g": 7.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 24.5,
+    "satfat_g": 11.4,
+    "salt_g": 2.01,
+    "fibre_g": 6.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "potato-leek-basic.jpg",
+  "image_alt": "A dark bowl of pale, smooth potato and leek soup topped with golden crispy leeks and chopped chives.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}
