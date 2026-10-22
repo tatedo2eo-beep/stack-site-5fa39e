@@ -1,0 +1,159 @@
+{
+  "slug": "creamy-potato-salad",
+  "title": "Creamy Potato Salad with Celery and Red Onion",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "potato-salad",
+  "dish_title": "Potato salad",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "This classic American potato salad combines waxy potatoes with a creamy mustard dressing, crunchy celery, red onion and chopped hard-boiled egg for a picnic-table favourite.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan",
+    "colander",
+    "rimmed baking tray",
+    "large bowl",
+    "flexible spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1200,
+      "unit": "g",
+      "item": "waxy or all-purpose potatoes (such as Charlotte or Yukon Gold), peeled"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 15,
+      "unit": "g",
+      "item": "fine salt, for the cooking water"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "cider vinegar, divided"
+    },
+    {
+      "group": "Dressing",
+      "qty": 150,
+      "unit": "g",
+      "item": "mayonnaise (check the label: no wine vinegar)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "mild yellow mustard (check the label: no wine)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 4,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "pc",
+      "item": "celery sticks, finely diced"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "small red onion, finely diced"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "pc",
+      "item": "hard-boiled eggs, chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "chopped flat-leaf parsley"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Season the cooking water",
+      "text": "Cut the potatoes into 2 cm cubes and place them in a pan with cold water to cover by 2 cm, the 15 g salt and 1 tbsp of the vinegar. Bring to the boil, then lower to a gentle simmer for 8-10 minutes, until a knife slides in but the cubes still hold their edges. Starting them in cold, salted, slightly acidic water lets the seasoning soak in evenly as they cook, rather than just coating the surface."
+    },
+    {
+      "title": "Dress while warm",
+      "text": "Drain the potatoes well and spread them out on a baking tray, then sprinkle at once with the remaining 1 tbsp vinegar. Warm potatoes are porous and soak up the vinegar readily; once fully cooled they'd only take a surface coating. Leave to cool for 30 minutes before building the salad."
+    },
+    {
+      "title": "Mix the dressing",
+      "text": "In a large bowl, stir together the mayonnaise, mustard, sugar and the last 1 tbsp vinegar until smooth. Fold in the diced celery, red onion, chopped eggs and parsley. Mixing this base first means every potato cube gets evenly coated once added."
+    },
+    {
+      "title": "Fold in the potatoes",
+      "text": "Add the cooled, vinegar-sprinkled potatoes to the dressing and fold through gently with a spatula, taking care not to mash the cubes. Season with the remaining 0.25 tsp salt and 0.25 tsp pepper to taste. Gentle folding keeps the pieces intact for a salad with real texture, not mash."
+    },
+    {
+      "title": "Chill before serving",
+      "text": "Cover and refrigerate for at least 1 hour, and up to 3 days, before serving. Chilling gives the flavours time to settle and lets the dressing firm up slightly around the potatoes. Keep it cold throughout, and don't leave it out of the fridge for more than 2 hours."
+    }
+  ],
+  "tips": [
+    "Choose waxy potatoes such as Charlotte or Yukon Gold - floury varieties break apart in the dressing.",
+    "A common mistake is dressing cold potatoes: sprinkle the vinegar on while they're still warm from the pan so it's actually absorbed.",
+    "Taste before adding the final seasoning, since mayonnaise and mustard brands vary in saltiness.",
+    "Cool the hard-boiled eggs fully before chopping so they hold a neat shape in the salad."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days; this salad isn't suitable for freezing as the mayonnaise dressing will separate. Serve cold straight from the fridge rather than reheating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard",
+    "celery",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 279,
+    "protein_g": 5.9,
+    "carbs_g": 28.3,
+    "sugar_g": 2.4,
+    "free_sugar_g": 0.6,
+    "fat_g": 16.1,
+    "satfat_g": 2.8,
+    "salt_g": 1.01,
+    "fibre_g": 3.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "potato-salad-basic.jpg",
+  "image_alt": "A black bowl of creamy potato salad with celery, red onion and chopped egg on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

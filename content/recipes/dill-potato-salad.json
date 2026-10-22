@@ -1,0 +1,155 @@
+{
+  "slug": "dill-potato-salad",
+  "title": "Dill Potato Salad",
+  "category": "snacks-sides",
+  "cuisine": "Scandinavian / American",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "potato-salad",
+  "dish_title": "Potato salad",
+  "flavour": "Dill",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "creamy-potato-salad",
+  "changes_from_base": "Dill in the cooking water and in an infused vinegar; dressing lightened with soured cream; no egg, celery or red onion.",
+  "summary": "This dill version follows the classic creamy potato salad method, but flavours the cooking water and vinegar with fresh dill, lightens the dressing with soured cream, and leaves out the egg, celery and red onion in favour of dill and spring onion.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan",
+    "colander",
+    "rimmed baking tray",
+    "large bowl",
+    "flexible spatula",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1200,
+      "unit": "g",
+      "item": "waxy or all-purpose potatoes (such as Charlotte or Yukon Gold), peeled"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 15,
+      "unit": "g",
+      "item": "fine salt, for the cooking water"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "cider vinegar, divided"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 20,
+      "unit": "g",
+      "item": "dill stalks (from the bunch), tied together",
+      "note": "flavour the water; discarded"
+    },
+    {
+      "group": "Dressing",
+      "qty": 100,
+      "unit": "g",
+      "item": "mayonnaise (check the label: no wine vinegar)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "mild yellow mustard (check the label: no wine)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "chopped fresh dill fronds"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "pc",
+      "item": "spring onions, green parts, thinly sliced"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse the vinegar",
+      "text": "Stir 1 tbsp of the chopped dill into 2 tbsp of the vinegar and leave to steep while you prepare the potatoes. Steeping the chopped herb straight in the vinegar carries dill flavour right through the potatoes rather than leaving it sitting on top."
+    },
+    {
+      "title": "Cook with dill stalks",
+      "text": "Cut the potatoes into 2 cm cubes and place in a pan with cold water to cover by 2 cm, the 15 g salt, 1 tbsp of the vinegar and the tied dill stalks. Bring to the boil, then simmer gently for 8-10 minutes until a knife slides in but the cubes keep their shape. The stalks flavour the water as the potatoes cook, then get lifted out once their job is done."
+    },
+    {
+      "title": "Dress while warm",
+      "text": "Drain the potatoes, discard the dill stalks, and spread the cubes on a tray. Sprinkle at once with the dill-infused vinegar, since warm potatoes take up the flavour far better than cold ones. Leave to cool for 30 minutes."
+    },
+    {
+      "title": "Make the dressing",
+      "text": "In a bowl, stir together the mayonnaise, soured cream, mustard and the last 1 tbsp vinegar. Mix in the remaining chopped dill fronds and the sliced spring onion greens. Soured cream keeps this dressing lighter and a touch tangier than an all-mayonnaise version."
+    },
+    {
+      "title": "Fold, season and chill",
+      "text": "Fold the cooled potatoes gently into the dressing, then season with the salt and pepper. Cover and chill for at least 1 hour so the dill flavour settles into the potatoes. Keep the salad cold and don't leave it out for more than 2 hours."
+    }
+  ],
+  "tips": [
+    "Tie the dill stalks together before adding them to the pan so they're easy to fish out and discard after cooking.",
+    "Use the feathery fronds, not the tougher stalks, in the dressing - stalks are for flavouring the water only.",
+    "A common mistake is adding all the dill at the start of cooking; keep some fresh fronds back for the dressing so the flavour doesn't cook away.",
+    "Make sure the potatoes have cooled for the full 30 minutes before mixing in the soured cream, or the heat can cause it to split."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days; freezing isn't suitable, as the soured cream and mayonnaise will separate. Serve chilled rather than reheating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 220,
+    "protein_g": 3.6,
+    "carbs_g": 27.2,
+    "sugar_g": 1.7,
+    "free_sugar_g": 0.1,
+    "fat_g": 11.0,
+    "satfat_g": 2.3,
+    "salt_g": 0.83,
+    "fibre_g": 3.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "potato-salad-basic--dill.jpg",
+  "image_alt": "A black bowl of potato salad in a creamy dressing topped with fresh dill on dark slate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

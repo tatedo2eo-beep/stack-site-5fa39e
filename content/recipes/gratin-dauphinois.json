@@ -1,0 +1,140 @@
+{
+  "slug": "gratin-dauphinois",
+  "title": "Gratin Dauphinois (Garlic and Cream Potato Bake)",
+  "category": "snacks-sides",
+  "cuisine": "French (Dauphiné)",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "gratin-dauphinois",
+  "dish_title": "Gratin dauphinois",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thin potato slices are simmered briefly in garlic- and nutmeg-infused milk and cream, then baked low and slow until the cream thickens and the top turns golden in patches.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 100,
+  "difficulty": "medium",
+  "equipment": [
+    "mandoline or very sharp knife",
+    "wide heavy saucepan",
+    "gratin dish about 2 litres (25 x 20 cm)",
+    "baking tray",
+    "wooden spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1100,
+      "unit": "g",
+      "item": "waxy or all-purpose potatoes (such as Charlotte or Yukon Gold), peeled"
+    },
+    {
+      "group": "Cream",
+      "qty": 400,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Cream",
+      "qty": 300,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Cream",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, halved"
+    },
+    {
+      "group": "Cream",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Cream",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Cream",
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1¼ tsp"
+    },
+    {
+      "group": "Cream",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dish",
+      "qty": 15,
+      "unit": "g",
+      "item": "soft butter, for the dish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Preheat and prepare dish",
+      "text": "Preheat the oven to 160°C (140°C fan) at least 20 minutes ahead. Rub the gratin dish with a cut garlic clove, then butter it, to add a faint garlic note right against the potatoes."
+    },
+    {
+      "title": "Slice the potatoes",
+      "text": "Slice the potatoes 3 mm thick, using a mandoline or a very sharp knife for an even thickness, and don't rinse them. Their surface starch is what thickens the cream as it bakes, so washing it away would leave the sauce thin."
+    },
+    {
+      "title": "Simmer in cream",
+      "text": "Put the potatoes, milk, cream, garlic, bay leaf, nutmeg, salt and pepper into a wide heavy saucepan and bring slowly to a simmer, stirring gently from the bottom so nothing catches. Cook for 10 minutes, until the liquid has thickened slightly and the slices are just flexible. Pre-cooking them this way means the final bake only needs to finish them off and brown the top, rather than cook them from raw."
+    },
+    {
+      "title": "Transfer to the dish",
+      "text": "Remove the garlic and bay leaf, then tip the potatoes and their thickened liquid into the prepared dish. Level the top layer of slices and press down gently so the liquid just covers them."
+    },
+    {
+      "title": "Bake low and slow",
+      "text": "Bake on a tray for 1 hour 15 minutes to 1 hour 30 minutes, until the top is golden in patches and a knife slides through with no resistance. A low oven temperature keeps the cream from splitting or boiling too hard, so it bakes into a smooth, silky sauce rather than curdling."
+    },
+    {
+      "title": "Rest before serving",
+      "text": "Let the gratin rest for 15 minutes before serving. This short rest allows the cream to set slightly so the layers hold together on the plate rather than running."
+    }
+  ],
+  "tips": [
+    "Slice the potatoes evenly at 3 mm so they cook at the same rate right through the dish.",
+    "A common mistake is rinsing the sliced potatoes - this removes the starch that naturally thickens the cream, leaving a thin, separated sauce.",
+    "Keep the oven temperature low as specified; a hotter oven risks splitting the cream before the potatoes are fully tender.",
+    "Stir gently and only from the bottom while simmering on the hob, so the delicate potato slices don't break up."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days. Reheat portions in a low oven or microwave until piping hot throughout (74°C); it can be frozen for up to 2 months, though the texture softens slightly on thawing, so it's best eaten fresh when possible. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 366,
+    "protein_g": 7.4,
+    "carbs_g": 37.1,
+    "sugar_g": 6.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 21.8,
+    "satfat_g": 13.7,
+    "salt_g": 1.35,
+    "fibre_g": 3.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gratin-dauphinois-advanced.jpg",
+  "image_alt": "A creamy gratin dauphinois with a golden top in a dark baking dish on dark slate.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

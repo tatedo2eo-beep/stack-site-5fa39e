@@ -1,0 +1,148 @@
+{
+  "slug": "crispy-potato-latkes",
+  "title": "Crispy Potato Latkes",
+  "category": "snacks-sides",
+  "cuisine": "Ashkenazi Jewish",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "latkes-potato-pancakes",
+  "dish_title": "Latkes/potato pancakes",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Coarsely grated potato and onion are wrung dry, bound with their own starch and egg, then fried in hot oil until deeply golden and crisp at the edges, served with apple sauce and soured cream.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "box grater or food processor with grating disc",
+    "clean tea towel",
+    "large bowl",
+    "jug",
+    "large heavy frying pan (30 cm)",
+    "deep-frying or probe thermometer",
+    "wire rack set over a baking tray",
+    "thin metal spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 900,
+      "unit": "g",
+      "item": "floury potatoes (such as russet or Maris Piper), scrubbed"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, coarsely grated"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, beaten"
+    },
+    {
+      "group": "Batter",
+      "qty": 16,
+      "unit": "g",
+      "item": "plain flour or matzo meal",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Frying",
+      "qty": 500,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    },
+    {
+      "group": "To serve",
+      "qty": 120,
+      "unit": "g",
+      "item": "apple sauce (unsweetened)"
+    },
+    {
+      "group": "To serve",
+      "qty": 120,
+      "unit": "g",
+      "item": "soured cream"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Grate and salt",
+      "text": "Coarsely grate the potatoes and onion, then toss them with the salt in a large bowl. Salting draws out moisture early, which makes the next step - wringing them dry - far more effective."
+    },
+    {
+      "title": "Wring out and save starch",
+      "text": "Working in two batches, wring the grated mixture firmly in a clean tea towel over a jug to extract as much liquid as possible. Let the collected liquid stand for 5 minutes, then pour off the watery top layer and keep the thick white starch settled at the bottom. This starch acts as a natural binder, so the latkes hold together without needing much flour."
+    },
+    {
+      "title": "Mix the batter",
+      "text": "Combine the wrung-out potato and onion with the reserved starch, beaten eggs, flour and pepper, stirring just until combined. The egg and starch together give enough structure to hold the shreds in a pancake shape once they hit the hot oil."
+    },
+    {
+      "title": "Heat the oil",
+      "text": "Preheat the oven to 100°C to keep cooked batches warm, then heat about 5 mm of oil in a large frying pan to roughly 180°C - a dropped shred of potato should sizzle immediately. Getting the oil properly hot before the first batch goes in is what gives latkes their crisp, lacy edges rather than a soggy one."
+    },
+    {
+      "title": "Fry in batches",
+      "text": "Drop in scant 4-tablespoon (60 ml) mounds of the mixture, flatten each to about 1 cm, and fry for 3-4 minutes a side until deep golden and lacy at the edges. Drain on a wire rack set in the warm oven while you fry the rest, topping up the oil as needed between batches."
+    },
+    {
+      "title": "Serve warm",
+      "text": "Serve the latkes hot, with apple sauce and soured cream alongside for dipping. The cool, slightly sharp apple sauce balances the rich, crisp pancakes well."
+    }
+  ],
+  "tips": [
+    "Wring the potato mixture as dry as possible - any leftover water makes the latkes soggy and more likely to fall apart in the pan.",
+    "A common mistake is throwing away all the liquid from the grated potatoes; let it settle first so you can keep the starchy sediment, which helps bind the mixture.",
+    "Keep the oil at a steady 180°C by checking between batches - oil that's too cool gives pale, greasy latkes instead of crisp ones.",
+    "Flatten the mounds evenly so the centres cook through at the same rate as the edges crisp.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best eaten fresh, but leftovers keep in the fridge for up to 2 days or in the freezer for up to 1 month, laid flat between sheets of baking paper. Reheat in a hot oven or dry pan until piping hot (74°C) to restore some crispness; avoid the microwave, which leaves them soft. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 441,
+    "protein_g": 9.3,
+    "carbs_g": 50.3,
+    "sugar_g": 7.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 23.5,
+    "satfat_g": 5.0,
+    "salt_g": 1.24,
+    "fibre_g": 5.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "latkes-potato-pancakes-basic.jpg",
+  "image_alt": "A stack of crisp golden potato latkes with apple sauce and soured cream on a black plate on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

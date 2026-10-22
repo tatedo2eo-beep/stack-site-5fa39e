@@ -1,0 +1,114 @@
+{
+  "slug": "pommes-anna-layered-potato-cake",
+  "title": "Pommes Anna (Layered Butter Potato Cake)",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "pommes-anna",
+  "dish_title": "Pommes Anna",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thin potato slices are layered with ghee in a hot pan, cooked first on the hob then in the oven, pressed firm throughout, then inverted and cut into golden wedges.",
+  "servings": 6,
+  "prep_min": 30,
+  "cook_min": 55,
+  "difficulty": "hard",
+  "equipment": [
+    "mandoline",
+    "25 cm heavy ovenproof non-stick or cast-iron frying pan",
+    "large bowl",
+    "pastry brush",
+    "baking tray",
+    "flat plate larger than the pan",
+    "thin metal spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1200,
+      "unit": "g",
+      "item": "waxy or all-purpose potatoes (such as Yukon Gold), peeled"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 90,
+      "unit": "g",
+      "item": "ghee (clarified butter), melted, divided"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Preheat and slice",
+      "text": "Preheat the oven to 220°C (200°C fan) at least 20 minutes ahead, with a baking tray on the middle rack. Slice the potatoes 1.5-2 mm thick on a mandoline and don't rinse them - their surface starch is what glues the layers together as they cook."
+    },
+    {
+      "title": "Toss with ghee",
+      "text": "Toss the sliced potatoes with all but 2 tbsp of the ghee, so every slice is lightly coated. Brush the frying pan with the remaining ghee and set it over medium-low heat, ready for the first layer."
+    },
+    {
+      "title": "Layer in tight rings",
+      "text": "Starting at the centre of the pan, overlap the potato slices in tight rings to cover the base, seasoning lightly. Continue building layers the same way, alternating the direction of each ring and seasoning as you go, pressing down firmly every two layers. Pressing compacts the layers so they fuse into a single cake rather than staying loose."
+    },
+    {
+      "title": "Start on the hob",
+      "text": "Cook the layered potatoes on the hob over medium-low heat for 10-12 minutes, until the base sizzles and starts to brown. This head start on direct heat gives the base a crust before the gentler, more even heat of the oven takes over."
+    },
+    {
+      "title": "Cover, then bake open",
+      "text": "Press down hard with the spatula, cover with a lid or foil, and bake on the tray for 20 minutes. Then uncover and bake for a further 20-25 minutes, until a knife meets no resistance and the edges are deep golden. Covering first traps steam to cook the potatoes through, while the uncovered finish lets the top dry out and brown."
+    },
+    {
+      "title": "Rest, then turn out",
+      "text": "Let the cake rest for 5 minutes, then run the spatula around the edge to loosen it, invert onto a plate, and cut into wedges to serve. The short rest lets the layers settle so they hold together cleanly when flipped and sliced."
+    }
+  ],
+  "tips": [
+    "Slice the potatoes to an even thickness, ideally with a mandoline, so every layer cooks at the same rate.",
+    "A common mistake is rinsing the sliced potatoes before layering - this washes away the starch that holds the whole cake together.",
+    "Press down firmly every couple of layers while building the cake, not just at the end, to keep it compact.",
+    "Check the pan handle and any lid used are oven-safe before it goes in, since the whole pan moves from hob to oven."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days; this dish is best fresh and isn't recommended for freezing, as the layers can turn watery on thawing. Reheat slices in a hot oven until piping hot (74°C) to recrisp the edges. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 286,
+    "protein_g": 4.2,
+    "carbs_g": 35.1,
+    "sugar_g": 1.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 15.1,
+    "satfat_g": 9.3,
+    "salt_g": 1.0,
+    "fibre_g": 4.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pommes-anna-advanced.jpg",
+  "image_alt": "A golden layered pommes Anna potato cake with a wedge cut out on a black plate on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

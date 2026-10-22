@@ -1,0 +1,132 @@
+{
+  "slug": "oven-baked-sweet-potato-fries",
+  "title": "Oven-Baked Sweet Potato Fries",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "sweet-potato-fries",
+  "dish_title": "Sweet-potato fries",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Sweet potato sticks are coated in cornflour and oil, then roasted on high heat until browned and crisp at the edges, finished with a smoky paprika and cayenne seasoning.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "2 large rimmed baking trays",
+    "baking paper",
+    "large bowl",
+    "small bowl",
+    "thin metal spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Fries",
+      "qty": 800,
+      "unit": "g",
+      "item": "sweet potatoes, peeled and cut into 8-10 mm sticks"
+    },
+    {
+      "group": "Fries",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Fries",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Preheat the oven",
+      "text": "Preheat the oven to 220°C (200°C fan) at least 20 minutes ahead, with racks set in the upper and lower thirds, and line two baking trays with baking paper. A fully preheated oven and high heat are essential here, since sweet potatoes hold more water and sugar than ordinary potatoes and need strong, direct heat to crisp rather than steam."
+    },
+    {
+      "title": "Mix the spice blend",
+      "text": "In a small bowl, stir together the paprika, garlic powder, cayenne, salt and pepper. Having this ready means it can be tossed through the fries the moment they come out of the oven, while they're still hot enough for the spices to cling."
+    },
+    {
+      "title": "Coat the sticks",
+      "text": "Toss the sweet potato sticks with the cornflour in a large bowl until no dry powder remains visible, then toss again with the oil. The thin starch coating dries into a crisp shell in the oven, helping to offset the extra moisture and sugar in sweet potato that would otherwise leave the fries soft."
+    },
+    {
+      "title": "Spread and roast",
+      "text": "Divide the sticks between the two trays in a single layer, leaving space between each piece, since crowding causes them to steam rather than crisp. Roast for 15 minutes, then flip and swap the trays between the racks for another 10-15 minutes, until browned at the edges and crisp."
+    },
+    {
+      "title": "Season while hot",
+      "text": "Toss the hot fries with the spice mix as soon as they come out of the oven, then serve straight away. Seasoning them while hot helps the spices stick to the crisp coating rather than falling off."
+    }
+  ],
+  "tips": [
+    "Cut the sticks to an even 8-10 mm so they cook through at the same rate.",
+    "A common mistake is overcrowding the trays - give each stick space on all sides or they'll trap steam and turn soft instead of crisp.",
+    "Make sure the cornflour coating is even and not clumpy before adding the oil, or you'll get patches with no crust.",
+    "Swap the trays' rack positions halfway through roasting so both batches brown evenly."
+  ],
+  "storage": "Best eaten fresh; leftovers keep in the fridge for up to 2 days but will soften. Reheat in a hot oven until piping hot (74°C) to bring back some crispness - the microwave will leave them limp; freezing isn't recommended. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 280,
+    "protein_g": 3.3,
+    "carbs_g": 44.6,
+    "sugar_g": 8.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 10.3,
+    "satfat_g": 0.8,
+    "salt_g": 1.37,
+    "fibre_g": 6.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sweet-potato-fries-basic.jpg",
+  "image_alt": "A pile of orange oven-baked sweet potato fries on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

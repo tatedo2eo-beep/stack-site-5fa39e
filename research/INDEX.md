@@ -39,6 +39,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | carrot-cake | Carrot | Classic | 2 | 4 |
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |
 | cheeseburger-sliders | Sliders | Classic | 2 | 5 |
+| cheesy-potato-gratin | Gratin | Classic | 2 | 4 |
 | chewy-amaretti | Amaretti | Classic | 2 | 4 |
 | chewy-blondies | Blondies | Classic | 2 | 4 |
 | chewy-chocolate-chip-cookies | Drop (chocolate chip, oatmeal) | Classic | 3 | 5 |
@@ -77,17 +78,23 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-mashed-potatoes | Mashed | Classic | 2 | 4 |
 | classic-patty-melt | Patty melt | Classic | 2 | 6 |
 | classic-smash-burger | Smash burger | Cheese | 3 | 7 |
+| cod-baked-in-parchment-vegetables-lemon-dill | En papillote | Classic | 4 | 6 |
 | cold-somen | Somen | Classic | 3 | 5 |
 | coronation-chicken | Coronation chicken | Classic | 2 | 5 |
 | creamy-cashew-yoghurt-chicken-curry-cardamom | Korma | Chicken | 3 | 5 |
+| creamy-potato-salad | Potato salad | Classic | 2 | 4 |
 | crisp-battered-white-fish-tacos-red-cabbage-lime-crema | Taco | Fish | 3 | 5 |
 | crisp-skinned-jacket-potatoes | Baked/jacket | Classic | 2 | 4 |
 | crispy-baked-chicken-wings | Chicken wings | Classic | 3 | 5 |
 | crispy-chicken-sandwich | Chicken burger | Classic | 3 | 6 |
 | crispy-oven-potato-wedges | Wedges | Classic | 3 | 5 |
+| crispy-potato-latkes | Latkes/potato pancakes | Classic | 3 | 5 |
 | crispy-roast-potatoes | Roast potatoes | Classic | 3 | 5 |
 | crispy-shredded-hash-browns | Hash browns | Classic | 3 | 5 |
+| crispy-steak-fries | Steak fries | Classic | 3 | 5 |
 | cut-out-sugar-cookies | Sugar/cut-out | Classic | 2 | 4 |
+| dill-potato-salad | Potato salad | Dill | 2 | 4 |
+| diner-style-home-fries | Home fries | Classic | 2 | 4 |
 | double-fried-french-fries | French fries (double-fried) | Classic | 3 | 5 |
 | everyday-chicken-curry | Chicken curry | Classic | 3 | 6 |
 | falafel-wrap | Falafel pita | Classic | 2 | 4 |
@@ -106,11 +113,15 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gnocchi-brown-butter-sage | Gnocchi | Brown butter-sage | 3 | 5 |
 | gnocchi-cherry-tomato | Gnocchi | Tomato | 3 | 5 |
 | gnocchi-pesto | Gnocchi | Pesto | 3 | 5 |
+| goan-style-coconut-fish-curry-rice | Fish curry | Classic | 4 | 6 |
+| golden-crab-cakes-paprika-lemon-mayonnaise | Crab cakes | Classic | 4 | 6 |
 | graham-crackers | Graham crackers | Classic | 3 | 5 |
+| gratin-dauphinois | Gratin dauphinois | Classic | 2 | 4 |
 | guacamole | Guacamole | Classic | 2 | 3 |
 | hainanese-chicken-rice | Hainanese chicken rice | Classic | 3 | 5 |
 | haluski | Haluski | Classic | 2 | 4 |
 | high-heat-roast-chicken | High-heat roast chicken | Classic | 3 | 5 |
+| home-fries-peppers-onions | Home fries | Peppers and onions | 2 | 4 |
 | horseradish-mashed-potatoes | Mashed | Horseradish | 3 | 5 |
 | hot-dry-noodles | Hot dry noodles | Classic | 1 | 3 |
 | hummingbird-cake | Hummingbird cake | Classic | 3 | 5 |
@@ -157,10 +168,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | oklahoma-onion-burger | Oklahoma onion burger | Classic | 3 | 7 |
 | onion-rosti | Rösti | Onion | 3 | 5 |
 | orecchiette-broccoli | Hand-rolled shapes (orecchiette, pici, trofie, cavatelli) | Classic | 3 | 5 |
+| oven-baked-sweet-potato-fries | Sweet-potato fries | Classic | 3 | 5 |
 | pad-see-ew | Pad see ew | Classic | 3 | 5 |
 | pad-thai-tofu | Pad thai | Tofu | 3 | 5 |
 | pad-thai | Pad thai | Classic | 2 | 4 |
 | pain-de-genes | Pain de Gênes | Classic | 2 | 4 |
+| pan-fried-sole-brown-butter-lemon-parsley | Sole meunière | Classic | 4 | 6 |
 | pancit-bihon | Pancit bihon | Classic | 2 | 4 |
 | pancit-canton | Pancit | Classic | 2 | 4 |
 | pandan-chiffon-cake | Chiffon | Pandan | 2 | 4 |
@@ -183,9 +196,11 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pizzoccheri | Pizzoccheri | Classic | 2 | 4 |
 | poached-chicken | Poached | Classic | 2 | 4 |
 | pollo-al-mattone | Pollo al mattone (chicken under a brick) | Classic | 2 | 4 |
+| pommes-anna-layered-potato-cake | Pommes Anna | Classic | 3 | 5 |
 | potato-gnocchi | Gnocchi | Classic | 4 | 6 |
 | potato-vareniki | Vareniki | Classic | 2 | 4 |
 | pound-cake | Pound cake | Classic | 2 | 4 |
+| poutine-fries-curds-gravy | Poutine | Classic | 3 | 5 |
 | pumpkin-whoopie-pies | Whoopie pie | Pumpkin | 2 | 4 |
 | raspberry-thumbprint-cookies | Thumbprints | Raspberry | 3 | 5 |
 | red-lentil-soup | Lentil | Classic | 2 | 3 |
@@ -199,6 +214,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | sachertorte | Sachertorte | Classic | 2 | 4 |
 | samgyetang | Samgyetang | Classic | 2 | 4 |
 | seared-mushroom-tacos-chipotle-onion-coriander | Taco | Mushroom | 3 | 5 |
+| seared-scallops-garlic-thyme-butter-lemon | Seared scallops | Classic | 4 | 6 |
 | shakshuka | Shakshuka | Classic | 2 | 4 |
 | signature-fudgy-brownies | Brownie (fudgy or cakey) | Classic | 2 | 4 |
 | signature-smash-burger | Smash burger | Classic | 3 | 8 |
@@ -238,6 +254,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | vegetable-lo-mein | Lo mein | Vegetable | 2 | 4 |
 | vine-leaves-stuffed-herbed-rice-lemon | Dolma/stuffed vine leaves | Classic | 2 | 4 |
 | west-african-tomato-pepper-rice-thyme-bay | Jollof | Classic | 3 | 5 |
+| whole-sea-bass-baked-in-salt-crust-lemon-herbs | Salt-crusted fish | Classic | 4 | 6 |
 | yakisoba | Yakisoba | Classic | 2 | 4 |
 | yakitori | Yakitori | Classic | 2 | 4 |
 | yangnyeom-chicken | Yangnyeom chicken | Classic | 3 | 6 |

@@ -1,0 +1,139 @@
+{
+  "slug": "diner-style-home-fries",
+  "title": "Diner-Style Home Fries",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "home-fries",
+  "dish_title": "Home fries",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Diced potatoes are parboiled until just tender, then fried in butter and oil with browned onion and paprika for a crisp, golden diner-style breakfast side.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy frying pan (30 cm), cast iron if possible",
+    "medium saucepan",
+    "colander",
+    "thin metal spatula",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 800,
+      "unit": "g",
+      "item": "all-purpose or waxy potatoes (such as Yukon Gold), scrubbed and cut into 1.5 cm cubes"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the water",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Frying",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Frying",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Frying",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped flat-leaf parsley"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown the onion",
+      "text": "Heat 1 tbsp of the oil in the frying pan over medium-high and cook the chopped onion for 8-10 minutes, stirring now and then, until deeply browned. Tip it into a bowl and set aside; browning it separately builds a sweet, caramelised flavour without it turning mushy once mixed back in later."
+    },
+    {
+      "title": "Parboil the potatoes",
+      "text": "Cover the potato cubes with 1 cm of cold water in a saucepan, add the salt and bring just to the boil, about 6 minutes. Drain immediately and let them steam-dry for 2 minutes in the colander. This brief par-cook softens the inside of the potato so it's tender by the time the outside turns crisp in the pan."
+    },
+    {
+      "title": "Fry in a single layer",
+      "text": "Heat the remaining oil and the butter in the pan over medium-high until the butter is foaming. Add the potatoes in a single layer so each piece touches the hot pan, then leave them undisturbed for 4-5 minutes until browned underneath. Resisting the urge to stir lets a solid crust form before the pieces are turned."
+    },
+    {
+      "title": "Turn and crisp further",
+      "text": "Turn the potatoes and repeat the process 2-3 more times, for 12-15 minutes in total, until crisp and golden on every side. A thin metal spatula makes it easier to get underneath the crust without tearing it."
+    },
+    {
+      "title": "Finish with onion and spice",
+      "text": "Stir the browned onion, paprika, salt and pepper into the pan and cook for 1 minute to warm through and let the spice bloom in the hot fat. Scatter over the chopped parsley just before serving for a fresh finish."
+    }
+  ],
+  "tips": [
+    "Cut the potato cubes to an even 1.5 cm so they parboil and fry at the same rate.",
+    "A common mistake is skipping the steam-dry step - wet potatoes release moisture into the pan and steam instead of crisping.",
+    "Use a well-seasoned cast iron or heavy non-stick pan; a thin pan loses heat too fast for a good crust to form.",
+    "Don't stir too often while frying - leaving the potatoes undisturbed for each 4-5 minute stretch is what builds the crust."
+  ],
+  "storage": "Keep in the fridge for up to 2 days in an airtight container; they don't freeze well, as the texture turns soft on thawing. Reheat in a hot pan until piping hot (74°C) rather than in the microwave, to bring back some crispness. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 288,
+    "protein_g": 4.7,
+    "carbs_g": 39.0,
+    "sugar_g": 3.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 13.5,
+    "satfat_g": 2.8,
+    "salt_g": 1.25,
+    "fibre_g": 5.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "home-fries-basic.jpg",
+  "image_alt": "A black bowl of crisp golden diced home fries with herbs on dark slate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "crispy-steak-fries",
+  "title": "Crispy Thick-Cut Steak Fries",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "steak-fries",
+  "dish_title": "Steak fries",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thick potato wedges are parboiled until tender, coated in cornflour, then fried twice - first at a lower temperature to cook through, then hotter to crisp - for a fluffy centre and deeply golden crust.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "large heavy pot or Dutch oven (at least 5 litres) or a deep fryer",
+    "deep-frying or probe thermometer",
+    "spider strainer or slotted spoon",
+    "2 rimmed baking trays, one lined with kitchen paper, one with a wire rack",
+    "large pan for simmering",
+    "large bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1100,
+      "unit": "g",
+      "item": "large floury potatoes (such as russet or Maris Piper), scrubbed, skin on, each cut into 8 long wedges"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 20,
+      "unit": "g",
+      "item": "fine salt, for the water"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Frying",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    },
+    {
+      "group": "To finish",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Parboil the wedges",
+      "text": "Cover the potato wedges with cold water in a large pan, add the 20 g salt and bring to a gentle simmer; cook for 6-8 minutes until tender but not falling apart. Since these are thick cuts, cooking them through before frying stops the outside from burning long before the centre is done."
+    },
+    {
+      "title": "Dry and coat",
+      "text": "Drain the wedges on kitchen paper and leave to cool for 10 minutes, then pat them dry. Toss with the cornflour until lightly and evenly coated; the starch forms a crisp crust on a cut this thick once it hits the hot oil."
+    },
+    {
+      "title": "First fry at 160°C",
+      "text": "Heat the frying oil to 160°C and fry the wedges in 2-3 batches for 4-5 minutes, until a pale crust just forms. Drain each batch on a wire rack; this gentler first fry sets the crust without colouring it too far, leaving room for the second fry to finish the job."
+    },
+    {
+      "title": "Second fry at 190°C",
+      "text": "Raise the oil temperature to 190°C and fry the wedges again in batches for 3-4 minutes, until deep golden and crisp all over. The higher heat this time drives off surface moisture fast, giving the deep, crunchy crust steak fries are known for."
+    },
+    {
+      "title": "Season and serve",
+      "text": "Drain the finished wedges, season with the salt and pepper, and serve immediately while the crust is at its crispest. Never leave hot oil unattended at any stage of frying."
+    }
+  ],
+  "tips": [
+    "Cut the wedges to an even size - about 8 per potato - so they parboil and fry at the same rate.",
+    "A common mistake is skipping the two-stage fry on thick cuts like these; a single fry either burns the outside or leaves the middle underdone.",
+    "Pat the parboiled wedges completely dry before coating with cornflour, or the starch will clump instead of coating evenly.",
+    "Keep a thermometer in the oil throughout frying - temperature that drifts too low gives soggy, pale fries.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best eaten straight away; leftovers keep in the fridge for up to 2 days but lose their crispness. Reheat in a hot oven until piping hot (74°C) rather than the microwave; freezing isn't recommended as the texture suffers on thawing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 374,
+    "protein_g": 5.7,
+    "carbs_g": 50.0,
+    "sugar_g": 2.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 17.8,
+    "satfat_g": 1.4,
+    "salt_g": 1.5,
+    "fibre_g": 5.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "steak-fries-basic.jpg",
+  "image_alt": "Thick-cut golden steak fries piled on a black plate on dark slate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

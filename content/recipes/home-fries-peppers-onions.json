@@ -1,0 +1,153 @@
+{
+  "slug": "home-fries-peppers-onions",
+  "title": "Home Fries with Peppers and Onions",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "home-fries",
+  "dish_title": "Home fries",
+  "flavour": "Peppers and onions",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "diner-style-home-fries",
+  "changes_from_base": "Red and green peppers charred with the onion and folded back in; optional cayenne; a little more oil and salt.",
+  "summary": "This version follows the diner-style home fries method, but the onion is cooked together with red and green peppers until charred, folded back in at the end with a touch of optional cayenne, a little extra oil and salt.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy frying pan (30 cm), cast iron if possible",
+    "medium saucepan",
+    "colander",
+    "thin metal spatula",
+    "bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 800,
+      "unit": "g",
+      "item": "all-purpose or waxy potatoes (such as Yukon Gold), scrubbed and cut into 1.5 cm cubes"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the water",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Frying",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Frying",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Peppers and onions",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, cut into 2 cm pieces",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Peppers and onions",
+      "qty": 1,
+      "unit": "pc",
+      "item": "red pepper, cut into 2 cm pieces"
+    },
+    {
+      "group": "Peppers and onions",
+      "qty": 1,
+      "unit": "pc",
+      "item": "green pepper, cut into 2 cm pieces"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cayenne pepper (optional)"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Char the peppers and onion",
+      "text": "Heat 1½ tbsp of the oil in the frying pan over medium-high and cook the onion and both peppers together for 8-10 minutes, stirring occasionally, until softened and charred at the edges. Tip them into a bowl; cooking them apart from the potatoes keeps their moisture from getting in the way of the potatoes crisping later."
+    },
+    {
+      "title": "Parboil the potatoes",
+      "text": "Cover the potato cubes with 1 cm of cold water in a saucepan, add the salt and bring just to the boil. Drain at once and leave to steam-dry for 2 minutes, following the same par-cook as the classic diner-style home fries, so the inside cooks through before the crust forms in the pan."
+    },
+    {
+      "title": "Fry until crisp",
+      "text": "Heat the remaining oil and the butter in the pan over medium-high, add the potatoes in a single layer, and fry for 12-15 minutes in total, turning every 4-5 minutes, until crisp and golden all over. Keeping the pieces in one layer early on gives each side proper contact with the hot pan."
+    },
+    {
+      "title": "Return the vegetables",
+      "text": "Tip the charred peppers and onion back into the pan with the paprika, cayenne (if using), salt and pepper. Toss everything together over the heat for 1-2 minutes until warmed through and the spices smell fragrant."
+    },
+    {
+      "title": "Serve straight away",
+      "text": "Serve the home fries hot from the pan while the crust is at its crispest. The peppers add colour and a touch of sweetness against the smoky paprika and optional cayenne heat."
+    }
+  ],
+  "tips": [
+    "Cut the peppers and onion to a similar 2 cm size so they char at the same rate.",
+    "A common mistake is cooking the peppers alongside the potatoes from the start - their moisture steams the potatoes and stops them crisping, so fry them separately first.",
+    "Leave out the cayenne entirely for a milder dish; it's optional for a reason.",
+    "Use a thin metal spatula to turn the potatoes without knocking off the crust."
+  ],
+  "storage": "Keep in the fridge for up to 2 days in an airtight container; freezing isn't recommended, as the peppers and potatoes turn soft on thawing. Reheat in a hot pan until piping hot (74°C) to refresh the crisp edges. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 337,
+    "protein_g": 5.4,
+    "carbs_g": 43.0,
+    "sugar_g": 5.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 17.0,
+    "satfat_g": 3.0,
+    "salt_g": 1.62,
+    "fibre_g": 6.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "home-fries-basic--peppers-and-onions.jpg",
+  "image_alt": "A black bowl of crisp home fries with red and green peppers and onions on dark slate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

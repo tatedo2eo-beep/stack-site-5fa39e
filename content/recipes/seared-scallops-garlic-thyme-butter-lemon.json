@@ -1,0 +1,142 @@
+{
+  "slug": "seared-scallops-garlic-thyme-butter-lemon",
+  "title": "Seared Scallops with Garlic-Thyme Butter and Lemon",
+  "category": "fish-seafood",
+  "cuisine": "International",
+  "chapter": "seafood",
+  "book_chapter": "seafood",
+  "dish": "seared-scallops",
+  "dish_title": "Seared scallops",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Dry-pack scallops are seared hard in a very hot pan until deeply golden, then basted with garlic and thyme butter for a tender, just-opaque centre.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "large heavy frying pan, cast iron or stainless steel (30 cm)",
+    "rimmed tray lined with 2 clean tea towels",
+    "tongs",
+    "large spoon",
+    "warm plate and foil"
+  ],
+  "ingredients": [
+    {
+      "group": "Scallops",
+      "qty": 600,
+      "unit": "g",
+      "item": "large dry (untreated) sea scallops, side muscle removed",
+      "note": "about 16-20"
+    },
+    {
+      "group": "Scallops",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Scallops",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Scallops",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Scallops",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Scallops",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, lightly crushed"
+    },
+    {
+      "group": "Scallops",
+      "qty": 4,
+      "unit": "pc",
+      "item": "fresh thyme sprigs"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely chopped chives or parsley"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dry the Scallops",
+      "text": "Remove the small tough side muscle from each scallop, then lay them on a tea towel on the tray, cover with a second towel and press gently; leave for 10 minutes. Dry scallops sear and brown properly, while any surface moisture turns straight to steam and stops a crust forming."
+    },
+    {
+      "title": "Season Just Before Cooking",
+      "text": "Sprinkle both sides of the scallops with the salt and pepper right before they go into the pan. Seasoning too far ahead can draw moisture back out, undoing the drying step."
+    },
+    {
+      "title": "Sear the First Batch",
+      "text": "Heat 1 tbsp oil in the pan over high heat until it just begins to smoke, then add half the scallops flat side down in a ring with space between them. Leave them completely undisturbed for 1.5-2 minutes until a deep golden crust forms and they release easily from the pan. Moving them too soon tears the crust before it has properly set."
+    },
+    {
+      "title": "Baste and Finish",
+      "text": "Add half the butter, a garlic clove and two thyme sprigs to the pan, then turn the scallops with tongs and cook a further 30-90 seconds, tilting the pan and spooning the foaming butter over them. They're ready once the sides feel firm and the centre is just opaque when you cut one in half to check. Move them to a warm plate and cover loosely with foil."
+    },
+    {
+      "title": "Cook the Second Batch",
+      "text": "Wipe the pan clean with kitchen paper and repeat the searing and basting with the remaining oil, butter, garlic and thyme for the second batch. Starting from a clean, properly hot pan each time keeps the crust an even golden colour rather than patchy or dark from leftover browned bits."
+    },
+    {
+      "title": "Serve at Once",
+      "text": "Pour the butter left in the pan over the scallops, scatter with chives and serve immediately with lemon wedges. Scallops firm up quickly once off the heat, so getting them to the table straight away keeps the centres at their tender best."
+    }
+  ],
+  "tips": [
+    "Dry the scallops thoroughly before searing; leftover surface moisture is the most common reason they steam instead of browning.",
+    "Don't move the scallops once they're in the pan — let the crust fully form before turning, or it will tear away.",
+    "Use a genuinely hot pan and don't overcrowd it, searing in batches so each scallop gets direct contact with the surface.",
+    "Check doneness by cutting one in half rather than guessing by time, since scallop size can vary."
+  ],
+  "storage": "Scallops are best eaten straight from the pan, as the texture turns rubbery on reheating. If needed, refrigerate cooked leftovers in a sealed container for up to 1 day and reheat gently only until piping hot (74°C), accepting some loss of texture. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "molluscs"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 222,
+    "protein_g": 18.3,
+    "carbs_g": 5.9,
+    "sugar_g": 0.2,
+    "free_sugar_g": 0.1,
+    "fat_g": 13.6,
+    "satfat_g": 4.6,
+    "salt_g": 2.2,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "seared-scallops-basic.jpg",
+  "image_alt": "Five deep golden seared scallops on a plate with a lemon wedge.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}
