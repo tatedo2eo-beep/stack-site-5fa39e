@@ -18,10 +18,10 @@ module.exports = {
   // Visitors switch with the palette button; the choice is saved on their device.
   defaultDesign: 'e',           // E · Magazine
   defaultPalette: 'noir-gold',  // Noir & Gold
-  // Top-level browse: chapter -> dish -> flavour -> recipe. 'more' holds recipes outside the launch chapters.
-  chapters: [
-    { key: 'burgers', group: 'salty' }, { key: 'chicken', group: 'salty' }, { key: 'pasta', group: 'salty' },
-    { key: 'cookies-bars-brownies', group: 'sweet' }, { key: 'cakes-cupcakes', group: 'sweet' },
-    { key: 'more', group: 'more' }
-  ]
+  // Top-level browse: chapter -> dish -> flavour -> recipe. The 34 chapters of the book (src/lib/book-chapters.json,
+  // slugs from the cookbook's data/ch/*.json) plus 'more'. A recipe's `book_chapter` (or `chapter`) picks one;
+  // chapters with no recipes yet are hidden everywhere.
+  chapters: [...require('./src/lib/book-chapters.json').map(c => ({ key: c.key, stem: c.stem, group: c.group })), { key: 'more', group: 'more' }],
+  // High Protein / WHO Healthy labels are paused: no badges, filters, nav links or "why" boxes. Set true to bring them back.
+  healthyLabels: false
 };

@@ -1,5 +1,5 @@
 // UI strings for English. Copy this file to ar.js / es.js and translate; set dir:'rtl' for Arabic.
-module.exports = {
+const S = module.exports = {
   code: 'en', dir: 'ltr', name: 'English', ogLocale: 'en_GB',
   nav: { home: 'Home', recipes: 'Recipes', protein: 'High Protein', who: 'WHO Healthy', plans: 'Plans', login: 'Sign in' },
   categories: {
@@ -43,3 +43,6 @@ module.exports = {
     chooseFlavour: 'Choose your flavour', otherDishes: 'More dishes in', next: 'Next →', exit: 'Exit cook mode', moreIn: 'More in', backTo: 'Back to'
   }
 };
+
+// Book chapters without a hand-written intro get a short generic one.
+for (const c of require('../src/lib/book-chapters.json')) if (!S.chapters[c.key]) S.chapters[c.key] = { name: c.name, intro: `${c.name}: pick a dish, then pick your flavour.` };

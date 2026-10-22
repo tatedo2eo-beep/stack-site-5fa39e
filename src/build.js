@@ -54,6 +54,7 @@ function loadRecipes() {
   for (const r of out) {
     if (!dishes.has(r.dish)) { dishes.set(r.dish, { slug: r.dish, title: r.dish_title, chapter: r.chapter, intro: r.summary, image: null, flavours: [] }); console.log(C.yel(`! ${r.slug}.json: no content/dishes/${r.dish}.json, using dish_title and summary`)); warnings++; }
     const d = dishes.get(r.dish);
+    if (d.chapter === 'more' && r.chapter !== 'more' && !d.book_chapter) d.chapter = r.chapter; // dish file not updated yet: follow its recipe's book_chapter
     if (d.chapter !== r.chapter) { console.log(C.yel(`! ${r.slug}.json: chapter "${r.chapter}" differs from dish "${d.slug}" chapter "${d.chapter}"; using the dish's`)); warnings++; r.chapter = d.chapter; }
     if (d.flavours.some(x => x.flavour.toLowerCase() === r.flavour.toLowerCase())) { console.log(C.red(`✗ ${r.slug}.json: dish "${r.dish}" already has a flavour "${r.flavour}"`)); errors++; }
     d.flavours.push(r);
@@ -134,7 +135,7 @@ function placeholderSvg(label) {
   for (const r of recipes) {
     r.total_min = r.prep_min + r.cook_min;
     r.url = `recipes/${r.slug}/`;
-    r.filterTags = [...r.dietTags, ...(r.health.highProtein.pass ? ['high-protein'] : []), ...(r.health.who.pass ? ['who-healthy'] : [])];
+    r.filterTags = [...r.dietTags, ...(cfg.healthyLabels === false ? [] : [...(r.health.highProtein.pass ? ['high-protein'] : []), ...(r.health.who.pass ? ['who-healthy'] : [])])];
     r.mtime = fs.statSync(path.join(rdir, `${r.slug}.json`)).mtimeMs;
   }
   recipes.sort((a, b) => b.mtime - a.mtime || a.title.localeCompare(b.title));
@@ -142,7 +143,7 @@ function placeholderSvg(label) {
   // chapter covers per design: the same pictures the cookbook site uses (meta.picks[design].covers)
   const picks = JSON.parse(fs.readFileSync(path.join(TAMI.source, 'data/index.json'), 'utf8')).meta.picks;
   const covers = {};
-  for (const dk of Object.keys(picks)) { covers[dk] = {}; for (const c of cfg.chapters) { const p = picks[dk].covers[TAMI.chapterStems[c.key]]; const im = p && await tamiImg(p.img); if (im) covers[dk][c.key] = im.w1200; } }
+  for (const dk of Object.keys(picks)) { covers[dk] = {}; for (const c of cfg.chapters) { const p = picks[dk].covers[c.stem || TAMI.chapterStems[c.key]]; const im = p && await tamiImg(p.img); if (im) covers[dk][c.key] = im.w1200; } }
   const chapters = cfg.chapters.map(c => ({ ...c, dishes: dishes.filter(d => d.chapter === c.key).sort((a, b) => b.flavours.length - a.flavours.length || a.title.localeCompare(b.title)) })).filter(c => c.dishes.length);
   for (const c of chapters) c.n = c.dishes.reduce((a, d) => a + d.flavours.length, 0);
   const cats = R.CATEGORIES.map(key => ({ key, list: recipes.filter(r => r.category === key) })).filter(c => c.list.length);
@@ -173,12 +174,12 @@ function placeholderSvg(label) {
       const related = dishes.find(d => d.slug === r.dish).flavours.filter(x => x !== r).slice(0, 3);
       emit({ ...P.recipePage(ctx, r, related), chapterKey: r.chapter });
     }
-    emit(P.highProteinPage(ctx, hp, R.HP_MIN));
-    emit(P.whoPage(ctx, who, recipes.length));
+    if (cfg.healthyLabels !== false) { emit(P.highProteinPage(ctx, hp, R.HP_MIN)); emit(P.whoPage(ctx, who, recipes.length)); }
     emit(P.plansPage(ctx));
     const frag = n => fs.readFileSync(path.join(ROOT, 'content/pages', n), 'utf8')
       .replace(/\{\{BRAND\}\}/g, cfg.brand).replace(/\{\{EMAIL\}\}/g, cfg.contactEmail + (cfg.contactEmailIsPlaceholder ? ' (placeholder address)' : ''))
-      .replace(/\{\{UPDATED\}\}/g, new Date().toISOString().slice(0, 10));
+      .replace(/\{\{UPDATED\}\}/g, new Date().toISOString().slice(0, 10))
+      .replace(/<!--HL-->([\s\S]*?)<!--\/HL-->/g, cfg.healthyLabels === false ? '' : '$1');
     emit({ ...P.simplePage(ctx, 'calculator/', 'Calculator (coming soon)', frag('calculator.html'), 'A nutrition calculator is coming soon.'), navKey: 'calculator' });
     emit(P.simplePage(ctx, 'about/', 'About', frag('about.html'), `About ${cfg.brand}.`));
     emit(P.simplePage(ctx, 'contact/', 'Contact', frag('contact.html'), `Contact ${cfg.brand}.`));

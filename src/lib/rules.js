@@ -4,7 +4,9 @@
 
 const CATEGORIES = ['burgers-sandwiches', 'chicken', 'beef-lamb', 'fish-seafood', 'pasta-noodles', 'rice-grains',
   'vegetarian', 'salads-bowls', 'soups-stews', 'breakfast', 'snacks-sides', 'desserts', 'drinks'];
-const CHAPTERS = ['burgers', 'chicken', 'pasta', 'cookies-bars-brownies', 'cakes-cupcakes', 'more'];
+const CHAPTERS = [...require('./book-chapters.json').map(c => c.key), 'more'];
+// `book_chapter` (a book chapter slug) wins over `chapter`; older files only have `chapter`.
+const bookChapter = o => { if (o && typeof o.book_chapter === 'string' && o.book_chapter.trim()) o.chapter = o.book_chapter.replace(/^\d+-/, ''); return o; };
 const ACCESS = ['free', 'premium'];
 const DIFFICULTY = ['easy', 'medium', 'hard'];
 const DIETS = ['gluten-free', 'dairy-free', 'vegetarian', 'vegan', 'sugar-free'];
@@ -93,6 +95,7 @@ function normDiet(r) { if (Array.isArray(r.diet)) r.diet = [...new Set(r.diet.ma
 
 // Recipes written before chapters existed: fill chapter/dish/flavour from a map, else safe defaults (warning).
 function applyChapterDefaults(r, map) {
+  bookChapter(r);
   const W = [], m = (map || {})[r.slug];
   if (r.chapter && r.dish && r.dish_title && r.flavour) return W;
   if (m) { const [chapter, dish, dish_title, flavour] = m; r.chapter = r.chapter || chapter; r.dish = r.dish || dish; r.dish_title = r.dish_title || dish_title; r.flavour = r.flavour || flavour; W.push('chapter/dish/flavour taken from tools/chapter-map.json; add them to the JSON'); }
@@ -165,7 +168,8 @@ function validate(r, file) {
     }
   }
   // chapter -> dish -> flavour
-  req('chapter', CHAPTERS.includes(r.chapter), `one of ${CHAPTERS.join(', ')}`);
+  bookChapter(r);
+  req('chapter', CHAPTERS.includes(r.chapter), `book_chapter/chapter: one of the book chapters (${CHAPTERS.join(', ')})`);
   req('dish', isStr(r.dish) && /^[a-z0-9]+(-[a-z0-9]+)*$/.test(r.dish), 'lowercase-kebab dish slug required');
   req('dish_title', isStr(r.dish_title), 'required');
   req('flavour', isStr(r.flavour), 'required (e.g. "Classic")');
@@ -183,7 +187,8 @@ function validateDish(d, file) {
   if (!isStr(d.slug) || !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(d.slug)) E.push('slug: lowercase-kebab string required');
   if (file && d.slug && !file.endsWith(`${d.slug}.json`)) E.push(`file name should be ${d.slug}.json`);
   if (!isStr(d.title)) E.push('title: required');
-  if (!CHAPTERS.includes(d.chapter)) E.push(`chapter: one of ${CHAPTERS.join(', ')}`);
+  bookChapter(d);
+  if (!CHAPTERS.includes(d.chapter)) E.push(`book_chapter/chapter: one of ${CHAPTERS.join(', ')}`);
   if (!isStr(d.intro)) E.push('intro: required');
   if (d.image !== undefined && d.image !== null && !isStr(d.image)) E.push('image: string or null');
   return E;

@@ -1,7 +1,7 @@
 import asyncio, json, sys
 from playwright.async_api import async_playwright
 B='http://localhost:8080/stack-site-5fa39e/'
-PAGES=['','chapters/','chapter/burgers/','dish/smash-burger/','recipes/signature-smash-burger/','recipes/classic-smash-burger/','recipes/','high-protein/','calculator/','plans/']
+PAGES=['','chapters/','chapter/burgers/','dish/smash-burger/','recipes/signature-smash-burger/','recipes/classic-smash-burger/','recipes/','chapter/soups/','chapter/drinks/','calculator/','plans/']
 DES=[('e','noir-gold')]+[(d,None) for d in 'bcdg']
 async def main():
   async with async_playwright() as p:

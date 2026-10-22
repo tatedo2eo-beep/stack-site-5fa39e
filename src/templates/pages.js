@@ -18,8 +18,9 @@ const num2 = n => String(n).padStart(2, '0');
 
 function badges(ctx, r, diets = true) {
   const b = [];
-  if (r.health.highProtein.pass) b.push(`<span class="bdg hp">${ctx.t.nav.protein}</span>`);
-  if (r.health.who.pass) b.push(`<span class="bdg h">${ctx.t.nav.who}</span>`);
+  const hl = ctx.cfg.healthyLabels !== false; // paused: no High Protein / WHO Healthy labels anywhere
+  if (hl && r.health.highProtein.pass) b.push(`<span class="bdg hp">${ctx.t.nav.protein}</span>`);
+  if (hl && r.health.who.pass) b.push(`<span class="bdg h">${ctx.t.nav.who}</span>`);
   if (diets) for (const d of r.dietTags) b.push(`<span class="bdg">${ctx.t.diets[d]}</span>`);
   return b.join('');
 }
@@ -76,7 +77,7 @@ function recipeParts(ctx, r, related) {
   P.misc = `<h4>${t.ui.equipment}</h4><div class="s"><ul class="lst">${r.equipment.map(e => `<li>${esc(e)}</li>`).join('')}</ul></div>`;
   // why it's healthy
   let why = '';
-  if (H.highProtein.pass || H.who.pass) {
+  if (ctx.cfg.healthyLabels !== false && (H.highProtein.pass || H.who.pass)) {
     why = `<div class="infobox why"><h4>${t.ui.whyHealthy}</h4>`;
     if (H.highProtein.pass) why += `<div class="whyb"><span class="bdg hp">${t.nav.protein}</span><p><b>${n.protein_g} g protein</b> for <b>${Math.round(n.kcal)} kcal</b> = <b>${H.highProtein.value} g per 100 kcal</b>. Our High Protein label needs at least ${H.highProtein.threshold} g per 100 kcal. <a href="${u('high-protein/')}">How we decide</a></p></div>`;
     if (H.who.pass) why += `<div class="whyb"><span class="bdg h">${t.nav.who}</span><ul class="checks">${H.who.checks.map(c => `<li><span class="ok" aria-hidden="true">✓</span><b>${c.label}:</b> ${c.value}${c.unit && c.unit !== 'g' ? ' ' + c.unit : c.unit ? ' g' : ''} <span class="mute">(${t.ui.limit} ${c.op} ${c.limit}${typeof c.limit === 'number' ? (c.unit === 'g' ? ' g' : '%') : ''})</span></li>`).join('')}</ul><p class="nutnote">Per serving, worked out from the nutrition table against <a href="${u('who-healthy/')}">our WHO-based rule</a>. Not endorsed by WHO.</p></div>`;
@@ -86,7 +87,7 @@ function recipeParts(ctx, r, related) {
   const nrow = (k, v, unit, sub) => `<tr${sub ? ' class="sub"' : ''}><td>${t.nutr[k] || k}</td><td>${v}${unit}</td></tr>`;
   P.nutTitle = `<h2>${t.ui.nutrition} <small>(${t.ui.nutritionNote.toLowerCase()})</small></h2>`;
   P.nutT = `<table class="nut"><thead><tr><th scope="col">Per serving</th><th scope="col">Amount</th></tr></thead><tbody>${nrow('kcal', Math.round(n.kcal), ' kcal')}${nrow('protein_g', n.protein_g, ' g')}${nrow('carbs_g', n.carbs_g, ' g')}${nrow('sugar_g', n.sugar_g, ' g', 1)}<tr class="sub"><td>of which free sugars</td><td>${n.free_sugar_g} g</td></tr>${nrow('fat_g', n.fat_g, ' g')}${nrow('satfat_g', n.satfat_g, ' g', 1)}${nrow('fibre_g', n.fibre_g, ' g')}${nrow('salt_g', n.salt_g, ' g')}</tbody></table>`;
-  P.nutX = `<h3 class="h4s">${t.ui.proteinPer100}</h3><p class="bignut"><b>${H.highProtein.value} g</b> <span>${H.highProtein.pass ? `meets the High Protein rule (≥ ${H.highProtein.threshold} g)` : `High Protein needs ≥ ${H.highProtein.threshold} g`}</span></p><p class="nutnote">${esc(r.nutrition_source)}</p>`;
+  P.nutX = `<h3 class="h4s">${t.ui.proteinPer100}</h3><p class="bignut"><b>${H.highProtein.value} g</b> <span>${ctx.cfg.healthyLabels === false ? '' : H.highProtein.pass ? `meets the High Protein rule (≥ ${H.highProtein.threshold} g)` : `High Protein needs ≥ ${H.highProtein.threshold} g`}</span></p><p class="nutnote">${esc(r.nutrition_source)}</p>`;
   P.nut = `<section class="wrap rnut"><div>${P.nutTitle}${P.nutT}</div><div>${P.nutX}</div></section>`;
   P.flv = related.length ? `<section class="wrap flv"><h2>${t.ui.moreIn} ${esc(r.dish_title)}</h2>${grid(ctx, related)}</section>` : '';
   P.ad1 = adw(ctx, 1); P.ad2 = adw(ctx, 2);
@@ -117,7 +118,7 @@ function recipePage(ctx, r, related) {
     image: r.img ? [ctx.abs(r.img.w1200)] : undefined, author: { '@type': 'Organization', name: cfg.brand },
     recipeCategory: t.categories[r.category], recipeCuisine: r.cuisine, recipeYield: `${r.servings} servings`,
     prepTime: iso(r.prep_min), cookTime: iso(r.cook_min), totalTime: iso(r.total_min),
-    keywords: [...r.dietTags.map(d => t.diets[d]), H.highProtein.pass && 'high protein'].filter(Boolean).join(', ') || undefined,
+    keywords: [...r.dietTags.map(d => t.diets[d]), ctx.cfg.healthyLabels !== false && H.highProtein.pass && 'high protein'].filter(Boolean).join(', ') || undefined,
     suitableForDiet: r.dietTags.filter(d => diets[d]).map(d => `https://schema.org/${diets[d]}`),
     recipeIngredient: prem ? r.ingredients.map(i => i.item) : r.ingredients.map(i => (i.unit === 'to taste' ? `${i.item}, to taste` : `${formatQty(i.qty, i.unit)} ${i.item}`) + (i.note ? ` (${i.note})` : '')),
     recipeInstructions: prem ? undefined : r.steps.map((s, i) => ({ '@type': 'HowToStep', name: s.title, text: s.text, url: ctx.abs(r.url) + `#step-${i + 1}` })),
@@ -212,7 +213,7 @@ function allRecipesPage(ctx, recipes, cats, chapters) {
  <label class="sel"><span>${t.ui.time}</span><select id="f-time"><option value="">${t.ui.any}</option><option value="20">≤ 20 min</option><option value="30">≤ 30 min</option><option value="45">≤ 45 min</option><option value="60">≤ 1 hour</option></select></label>
  <label class="sel"><span>${t.ui.difficulty}</span><select id="f-diff"><option value="">${t.ui.any}</option><option value="easy">${t.difficulty.easy}</option><option value="medium">${t.difficulty.medium}</option><option value="hard">${t.difficulty.hard}</option></select></label>
  </div>
- <div class="frow"><span class="fl">${t.ui.diet}</span><span class="cs">${diets.map(d => `<label class="chip chk"><input type="checkbox" name="diet" value="${d}"><span>${t.diets[d]}</span></label>`).join('')}<label class="chip chk"><input type="checkbox" name="diet" value="high-protein"><span>${t.nav.protein}</span></label><label class="chip chk"><input type="checkbox" name="diet" value="who-healthy"><span>${t.nav.who}</span></label><label class="chip chk fav"><input type="checkbox" id="f-fav"><span>♥ ${t.ui.favOnly}</span></label></span></div>
+ <div class="frow"><span class="fl">${t.ui.diet}</span><span class="cs">${diets.map(d => `<label class="chip chk"><input type="checkbox" name="diet" value="${d}"><span>${t.diets[d]}</span></label>`).join('')}${ctx.cfg.healthyLabels === false ? '' : `<label class="chip chk"><input type="checkbox" name="diet" value="high-protein"><span>${t.nav.protein}</span></label><label class="chip chk"><input type="checkbox" name="diet" value="who-healthy"><span>${t.nav.who}</span></label>`}<label class="chip chk fav"><input type="checkbox" id="f-fav"><span>♥ ${t.ui.favOnly}</span></label></span></div>
  <div class="frow f-foot"><span id="count" aria-live="polite">${recipes.length} ${recipes.length === 1 ? 'recipe' : 'recipes'}</span><button type="button" class="chip ghost" id="f-clear">${t.ui.clear}</button></div>
 </form>
 ${ad(ctx, 1)}
@@ -295,11 +296,11 @@ ${ad(ctx, 2)}
 function plansPage(ctx) {
   const { u } = ctx;
   const li = a => a.map(x => `<li>${x}</li>`).join('');
-  const body = `${pageHeadX('// Plans', 'Free vs Premium', 'Every dish has a free classic flavour, in full. Premium unlocks every other flavour, the High Protein and WHO Healthy versions, the AI cooking assistant, and removes ads. No payments are taken yet.')}
+  const body = `${pageHeadX('// Plans', 'Free vs Premium', `Every dish has a free classic flavour, in full. Premium unlocks every other flavour${ctx.cfg.healthyLabels === false ? '' : ', the High Protein and WHO Healthy versions'}, the AI cooking assistant, and removes ads. No payments are taken yet.`)}
 <div class="pbody">
 <div class="plans">
  <section class="plan"><h2>Free</h2><p class="price">€0 <small>forever</small></p><ul class="ticks">${li(['The first (classic) flavour of every dish, in full', 'All chapter and dish pages', 'Search and filters across every recipe', 'Nutrition, allergens and diet tags on every flavour', 'Servings scaler and cook mode', 'Favourites saved on this device', 'Supported by ads'])}</ul><a class="btn ghost" href="${u('recipes/')}">Start cooking</a></section>
- <section class="plan premium"><p class="kicker">// Coming soon</p><h2>Premium</h2><p class="price">Price TBC</p><ul class="ticks">${li(['Everything in Free', '<b>Every flavour</b> of every dish, with full quantities and method', 'The <b>High Protein</b> and <b>WHO Healthy</b> versions', '<b>AI cooking assistant</b> (later): swaps, timings, scaling and fixes while you cook', '<b>No ads</b>'])}</ul><button type="button" class="btn" disabled aria-disabled="true">Coming soon</button><p class="mute small">Checkout will be handled by Lemon Squeezy (planned). Nothing can be bought yet.</p></section>
+ <section class="plan premium"><p class="kicker">// Coming soon</p><h2>Premium</h2><p class="price">Price TBC</p><ul class="ticks">${li(['Everything in Free', '<b>Every flavour</b> of every dish, with full quantities and method', ...(ctx.cfg.healthyLabels === false ? [] : ['The <b>High Protein</b> and <b>WHO Healthy</b> versions']), '<b>AI cooking assistant</b> (later): swaps, timings, scaling and fixes while you cook', '<b>No ads</b>'])}</ul><button type="button" class="btn" disabled aria-disabled="true">Coming soon</button><p class="mute small">Checkout will be handled by Lemon Squeezy (planned). Nothing can be bought yet.</p></section>
 </div>
 ${ad(ctx, 1)}
 <section class="box faq"><h2>Questions</h2>

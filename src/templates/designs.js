@@ -58,7 +58,7 @@ function palPanel(ctx) {
 // nav items: [key, path, label]
 function navItems(ctx) {
   const { t } = ctx;
-  return [['home', '', t.nav.home], ['chapters', 'chapters/', t.ui.chapters], ['recipes', 'recipes/', t.nav.recipes], ['protein', 'high-protein/', t.nav.protein], ['who', 'who-healthy/', t.nav.who], ['calculator', 'calculator/', 'Calculator'], ['plans', 'plans/', t.nav.plans], ['favourites', 'recipes/?fav=1', 'Favourites']];
+  return [['home', '', t.nav.home], ['chapters', 'chapters/', t.ui.chapters], ['recipes', 'recipes/', t.nav.recipes], ...(ctx.cfg.healthyLabels === false ? [] : [['protein', 'high-protein/', t.nav.protein], ['who', 'who-healthy/', t.nav.who]]), ['calculator', 'calculator/', 'Calculator'], ['plans', 'plans/', t.nav.plans], ['favourites', 'recipes/?fav=1', 'Favourites']];
 }
 
 function chrome(ctx, d, p) {

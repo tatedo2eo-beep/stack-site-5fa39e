@@ -1,0 +1,240 @@
+[
+ {
+  "key": "fries-potatoes",
+  "stem": "01-fries-potatoes",
+  "num": 1,
+  "name": "Fries & Potatoes",
+  "group": "salty"
+ },
+ {
+  "key": "burgers",
+  "stem": "02-burgers",
+  "num": 2,
+  "name": "Burgers",
+  "group": "salty"
+ },
+ {
+  "key": "chicken",
+  "stem": "03-chicken",
+  "num": 3,
+  "name": "Chicken",
+  "group": "salty"
+ },
+ {
+  "key": "meat",
+  "stem": "04-meat",
+  "num": 4,
+  "name": "Meat",
+  "group": "salty"
+ },
+ {
+  "key": "seafood",
+  "stem": "05-seafood",
+  "num": 5,
+  "name": "Seafood",
+  "group": "salty"
+ },
+ {
+  "key": "pizza",
+  "stem": "06-pizza",
+  "num": 6,
+  "name": "Pizza",
+  "group": "salty"
+ },
+ {
+  "key": "pasta",
+  "stem": "07-pasta",
+  "num": 7,
+  "name": "Pasta",
+  "group": "salty"
+ },
+ {
+  "key": "dumplings",
+  "stem": "08-dumplings",
+  "num": 8,
+  "name": "Dumplings",
+  "group": "salty"
+ },
+ {
+  "key": "rice",
+  "stem": "09-rice",
+  "num": 9,
+  "name": "Rice",
+  "group": "salty"
+ },
+ {
+  "key": "curries",
+  "stem": "10-curries",
+  "num": 10,
+  "name": "Curries",
+  "group": "salty"
+ },
+ {
+  "key": "mexican-latin-american",
+  "stem": "11-mexican-latin-american",
+  "num": 11,
+  "name": "Mexican & Latin American",
+  "group": "salty"
+ },
+ {
+  "key": "eggs",
+  "stem": "12-eggs",
+  "num": 12,
+  "name": "Eggs",
+  "group": "salty"
+ },
+ {
+  "key": "soups",
+  "stem": "13-soups",
+  "num": 13,
+  "name": "Soups",
+  "group": "salty"
+ },
+ {
+  "key": "salads",
+  "stem": "14-salads",
+  "num": 14,
+  "name": "Salads",
+  "group": "salty"
+ },
+ {
+  "key": "vegetables-sides",
+  "stem": "15-vegetables-sides",
+  "num": 15,
+  "name": "Vegetables & Sides",
+  "group": "salty"
+ },
+ {
+  "key": "grains-legumes",
+  "stem": "16-grains-legumes",
+  "num": 16,
+  "name": "Grains & Legumes",
+  "group": "salty"
+ },
+ {
+  "key": "sauces-dressings",
+  "stem": "17-sauces-dressings",
+  "num": 17,
+  "name": "Sauces & Dressings",
+  "group": "salty"
+ },
+ {
+  "key": "sandwiches-wraps",
+  "stem": "18-sandwiches-wraps",
+  "num": 18,
+  "name": "Sandwiches & Wraps",
+  "group": "salty"
+ },
+ {
+  "key": "appetizers-dips",
+  "stem": "19-appetizers-dips",
+  "num": 19,
+  "name": "Appetizers & Dips",
+  "group": "salty"
+ },
+ {
+  "key": "savory-pies-pastries",
+  "stem": "20-savory-pies-pastries",
+  "num": 20,
+  "name": "Savory Pies & Pastries",
+  "group": "salty"
+ },
+ {
+  "key": "preserves-pickles-ferments",
+  "stem": "21-preserves-pickles-ferments",
+  "num": 21,
+  "name": "Preserves, Pickles & Ferments",
+  "group": "salty"
+ },
+ {
+  "key": "breakfast",
+  "stem": "22-breakfast",
+  "num": 22,
+  "name": "Breakfast",
+  "group": "salty"
+ },
+ {
+  "key": "breads-viennoiserie",
+  "stem": "23-breads-viennoiserie",
+  "num": 23,
+  "name": "Breads & Viennoiserie",
+  "group": "salty"
+ },
+ {
+  "key": "cookies-bars-brownies",
+  "stem": "24-cookies-bars-brownies",
+  "num": 24,
+  "name": "Cookies, Bars & Brownies",
+  "group": "sweet"
+ },
+ {
+  "key": "muffins",
+  "stem": "25-muffins",
+  "num": 25,
+  "name": "Muffins",
+  "group": "sweet"
+ },
+ {
+  "key": "donuts",
+  "stem": "26-donuts",
+  "num": 26,
+  "name": "Donuts",
+  "group": "sweet"
+ },
+ {
+  "key": "cakes-cupcakes",
+  "stem": "27-cakes-cupcakes",
+  "num": 27,
+  "name": "Cakes & Cupcakes",
+  "group": "sweet"
+ },
+ {
+  "key": "pies-crumbles",
+  "stem": "28-pies-crumbles",
+  "num": 28,
+  "name": "Pies & Crumbles",
+  "group": "sweet"
+ },
+ {
+  "key": "tarts-french-pastry",
+  "stem": "29-tarts-french-pastry",
+  "num": 29,
+  "name": "Tarts & French Pastry",
+  "group": "sweet"
+ },
+ {
+  "key": "custards-puddings-mousses",
+  "stem": "30-custards-puddings-mousses",
+  "num": 30,
+  "name": "Custards, Puddings & Mousses",
+  "group": "sweet"
+ },
+ {
+  "key": "chocolate-confections",
+  "stem": "31-chocolate-confections",
+  "num": 31,
+  "name": "Chocolate & Confections",
+  "group": "sweet"
+ },
+ {
+  "key": "ice-cream-frozen-desserts",
+  "stem": "32-ice-cream-frozen-desserts",
+  "num": 32,
+  "name": "Ice Cream & Frozen Desserts",
+  "group": "sweet"
+ },
+ {
+  "key": "world-desserts-sweets",
+  "stem": "33-world-desserts-sweets",
+  "num": 33,
+  "name": "World Desserts & Sweets",
+  "group": "sweet"
+ },
+ {
+  "key": "drinks",
+  "stem": "34-drinks",
+  "num": 34,
+  "name": "Drinks",
+  "group": "more"
+ }
+]
