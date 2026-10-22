@@ -1,0 +1,126 @@
+{
+  "slug": "classic-butter-shortbread",
+  "title": "Classic Butter Shortbread",
+  "category": "desserts",
+  "cuisine": "Scottish",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "shortbread",
+  "dish_title": "Shortbread",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A three-ingredient Scottish classic — butter, sugar and flour — baked slowly to a pale, crumbly finger with a buttery snap.",
+  "servings": 16,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin (not glass), lined with a baking-paper sling",
+    "stand mixer or electric hand whisk",
+    "fork",
+    "sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Shortbread",
+      "qty": 225,
+      "unit": "g",
+      "item": "unsalted butter, softened (about 18°C)"
+    },
+    {
+      "group": "Shortbread",
+      "qty": 110,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Shortbread",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Shortbread",
+      "qty": 225,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Shortbread",
+      "qty": 110,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "To finish",
+      "qty": 10,
+      "unit": "g",
+      "item": "caster sugar, for sprinkling"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 160°C (140°C fan) for at least 20 minutes before baking, ideally while the dough chills so it's ready the moment you need it."
+    },
+    {
+      "title": "Cream butter and sugar",
+      "text": "Beat the cool-soft butter with the sugar and salt for 2-3 minutes until pale and creamy, but not fluffy or white. Beating past this point whips in too much air, which makes the shortbread puff and lose its characteristic short, dense texture."
+    },
+    {
+      "title": "Add flour and cornflour",
+      "text": "Sift in the flour and cornflour, then mix on low speed or with a spatula only until the dough clumps together. With no egg or leavening in the mix, minimal handling is what keeps the biscuit short — overworking it builds gluten and turns it tough."
+    },
+    {
+      "title": "Press into the tin",
+      "text": "Press the dough evenly into the lined 20cm metal tin, smoothing the top flat, then prick all over with a fork. Docking lets steam escape as it bakes so the surface doesn't bubble or blister."
+    },
+    {
+      "title": "Chill the dough",
+      "text": "Chill for 30 minutes until firm. A cold, firm base holds its shape better in the oven and bakes more evenly."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 35-40 minutes, until pale to just golden all over and slightly deeper at the edges — it should never turn properly brown. Long, gentle baking dries and crisps shortbread without much colour, so pull it before it browns."
+    },
+    {
+      "title": "Sprinkle and cut",
+      "text": "Sprinkle with the caster sugar while still hot, then cool for 5-10 minutes before cutting into 16 fingers while still warm in the tin. Warm shortbread cuts cleanly, while a fully cooled slab is firm enough to crack under the knife."
+    },
+    {
+      "title": "Cool fully",
+      "text": "Leave to cool completely in the tin before lifting the fingers out."
+    }
+  ],
+  "tips": [
+    "Stop creaming the butter and sugar once it looks pale and creamy — beating it fluffy and white adds too much air and the shortbread loses its dense, short texture.",
+    "Cut the fingers while the shortbread is still warm, not after it's gone fully cold, or it tends to crack and crumble under the knife.",
+    "Watch the colour, not the clock, for the last few minutes — shortbread should stay pale to lightly golden and never brown properly.",
+    "Chill the pressed dough before baking so the fingers keep neat edges in the oven instead of spreading.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight tin at room temperature for 3-4 days. It freezes well for up to 2 months; thaw at room temperature before serving.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 207,
+    "protein_g": 1.6,
+    "carbs_g": 24.5,
+    "sugar_g": 7.5,
+    "free_sugar_g": 7.5,
+    "fat_g": 11.5,
+    "satfat_g": 7.2,
+    "salt_g": 0.19,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "shortbread-basic.jpg",
+  "image_alt": "Pale golden shortbread fingers with docked tops on a black plate against a dark background."
+}

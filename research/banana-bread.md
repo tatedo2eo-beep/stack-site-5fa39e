@@ -20,7 +20,7 @@ Dish: Banana bread/quick breads / flavour: Classic. Private file, not published.
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
 
 ## Knowledge check
-Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C6 (frying temperatures); 06-G6 (frying safety); 03-K1 (ratios); 03-K5 (dough rest); 03-K6 (doneness); 03-K8 (brownies); 03-K10 (raw dough); CHECKLIST 6 (preheat at least 20 min, stated before the oven step).
+Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C6 (frying temperatures); 06-G6 (frying safety); 03-K6 (baking and doneness cues); 03-K10 (raw dough and batter safety); 03-K3 (melted or browned butter); CHECKLIST 6 (preheat at least 20 min, stated before the oven step).
 Changes made:
 - Salt given in grams (06-G1): 0.5 tsp fine salt -> 3.0 g
 - Added the do-not-eat-raw-dough note (03-K10)

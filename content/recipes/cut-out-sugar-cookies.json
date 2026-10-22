@@ -1,0 +1,153 @@
+{
+  "slug": "cut-out-sugar-cookies",
+  "title": "Cut-Out Sugar Cookies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "sugar-cut-out",
+  "dish_title": "Sugar/cut-out",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Buttery, rollable sugar cookie dough cut into shapes, baked until just set, and finished with a simple icing-sugar glaze.",
+  "servings": 30,
+  "prep_min": 35,
+  "cook_min": 12,
+  "difficulty": "medium",
+  "equipment": [
+    "2 large metal baking trays lined with baking paper",
+    "stand mixer or electric hand whisk",
+    "rolling pin",
+    "baking paper for rolling",
+    "7-8 cm cookie cutters",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 225,
+      "unit": "g",
+      "item": "unsalted butter, softened (about 18°C)"
+    },
+    {
+      "group": "Dough",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Dough",
+      "qty": 375,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Glaze",
+      "qty": 200,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Glaze",
+      "qty": 2.5,
+      "unit": "tbsp",
+      "item": "whole milk",
+      "note": "plus a few drops more if needed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cream butter and sugar",
+      "text": "Beat the softened butter, sugar and salt on medium speed for 2-3 minutes until pale, then beat in the egg and vanilla. Creaming properly here traps air into the butter, which keeps the baked cookie tender rather than dense."
+    },
+    {
+      "title": "Add the dry ingredients",
+      "text": "Add the flour and baking powder on low speed, mixing just until combined with the flour going in last. Overmixing once the flour is in develops gluten and makes the cookies chewy rather than crisp."
+    },
+    {
+      "title": "Chill the dough",
+      "text": "Divide the dough into 2 flat discs, wrap, and chill for 1 hour until firm. Firm, cold dough is far easier to roll evenly and holds cut shapes without distorting."
+    },
+    {
+      "title": "Roll out the dough",
+      "text": "Roll each disc between two sheets of baking paper to 6mm thick. Rolling between paper rather than on a floured surface stops extra flour working into the dough, which would otherwise toughen the finished cookie."
+    },
+    {
+      "title": "Cut and chill shapes",
+      "text": "Cut out shapes with your cutters, re-rolling the scraps once only, and lay them on the lined metal trays 3cm apart. Chill the cut-outs for 15 minutes — cold dough holds its sharp edges in the oven instead of spreading."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "While the cut-outs chill, heat the oven to 175°C (155°C fan) for at least 20 minutes before baking."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake one tray at a time for 10-12 minutes, until the cookies look set and matte with only the edges very lightly golden. Pulling them while pale in the centre keeps them tender rather than crisp right through."
+    },
+    {
+      "title": "Cool on a rack",
+      "text": "Cool on the tray for 5 minutes, then transfer to a wire rack to cool fully before glazing."
+    },
+    {
+      "title": "Glaze the cookies",
+      "text": "Whisk the icing sugar with the milk to a thick, smooth, spreadable glaze, adding a few extra drops if needed. Spread or dip the fully cooled cookies, then leave to set for 1 hour — glazing while even slightly warm makes it run instead of setting smoothly."
+    }
+  ],
+  "tips": [
+    "Chill the dough and the cut-out shapes separately — skipping either chill is the most common reason cut-out cookies spread and lose their shape in the oven.",
+    "Roll between sheets of baking paper instead of on a floured bench; working in extra flour toughens the dough.",
+    "Only re-roll scraps once, since each extra roll works more gluten into the dough and makes those cookies noticeably tougher.",
+    "Wait until the cookies are completely cool before glazing — a warm cookie will melt the glaze and leave it thin and patchy.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Once the glaze has set, keep iced cookies airtight at room temperature for up to 1 week. Un-iced baked cookies freeze for up to 3 months, and the raw dough discs keep for 3 days in the fridge or 2 months frozen.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 155,
+    "protein_g": 1.6,
+    "carbs_g": 23.0,
+    "sugar_g": 13.3,
+    "free_sugar_g": 13.2,
+    "fat_g": 6.4,
+    "satfat_g": 3.9,
+    "salt_g": 0.17,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sugar-cut-out-basic.jpg",
+  "image_alt": "Star, heart and round cut-out sugar cookies, some iced pink and white, on a black plate against a dark background."
+}

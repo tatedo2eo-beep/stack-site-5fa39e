@@ -1,0 +1,128 @@
+{
+  "slug": "brown-sugar-shortbread",
+  "title": "Brown Sugar Shortbread",
+  "category": "desserts",
+  "cuisine": "Scottish",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "shortbread",
+  "dish_title": "Shortbread",
+  "flavour": "Brown sugar",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "classic-butter-shortbread",
+  "changes_from_base": "Light brown soft sugar replaces the caster sugar in the dough and demerara is sprinkled on top; check from 30 minutes because it colours faster.",
+  "summary": "Follows the classic butter shortbread method with light brown soft sugar in the dough for a toffee note and demerara sprinkled on top; because it colours faster, check it from 30 minutes.",
+  "servings": 16,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin (not glass), lined with a baking-paper sling",
+    "stand mixer or electric hand whisk",
+    "fork",
+    "sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Shortbread",
+      "qty": 225,
+      "unit": "g",
+      "item": "unsalted butter, softened (about 18°C)"
+    },
+    {
+      "group": "Shortbread",
+      "qty": 110,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Shortbread",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Shortbread",
+      "qty": 225,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Shortbread",
+      "qty": 110,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "To finish",
+      "qty": 10,
+      "unit": "g",
+      "item": "demerara sugar, for sprinkling"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 160°C (140°C fan) for at least 20 minutes before baking, ideally while the dough chills."
+    },
+    {
+      "title": "Cream butter and brown sugar",
+      "text": "Beat the cool-soft butter with the light brown soft sugar and salt for 2-3 minutes until pale and creamy, but not fluffy or white. The brown sugar brings a toffee note and a slightly softer bite than the classic version, trading a little crispness for extra flavour."
+    },
+    {
+      "title": "Add flour and cornflour",
+      "text": "Sift in the flour and cornflour and mix on low speed or with a spatula only until the dough clumps together. Minimal handling keeps the biscuit short, since there's no egg or leavening to fall back on."
+    },
+    {
+      "title": "Press into the tin",
+      "text": "Press the dough evenly into the lined 20cm metal tin, smoothing the top flat, then prick all over with a fork to let steam escape evenly."
+    },
+    {
+      "title": "Chill the dough",
+      "text": "Chill for 30 minutes until firm, so the fingers hold their shape in the oven."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 35-40 minutes, checking from the 30-minute mark since the brown sugar makes this dough colour faster than the classic recipe. Look for pale to just golden all over with slightly deeper edges, and never let it go properly brown."
+    },
+    {
+      "title": "Sprinkle and cut",
+      "text": "Sprinkle with the demerara sugar while still hot for a bit of crunch, then cool for 5-10 minutes before cutting into 16 fingers while still warm. Warm shortbread cuts cleanly, while a cooled slab tends to crack."
+    },
+    {
+      "title": "Cool fully",
+      "text": "Leave to cool completely in the tin before lifting the fingers out."
+    }
+  ],
+  "tips": [
+    "Check the shortbread from 30 minutes rather than waiting for the full time — brown sugar caramelises faster than caster sugar and can tip from golden to overdone quickly.",
+    "Sprinkle the demerara on while the shortbread is still hot so the sugar crystals stick rather than falling off once it's cool.",
+    "Cut the fingers while still warm in the tin; fully cooled shortbread is more likely to crack and crumble under the knife.",
+    "Stop creaming once the mixture looks pale and creamy rather than fluffy white, to keep the dense, short texture that makes this a shortbread and not a cake.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight tin at room temperature for 3-4 days. It freezes well for up to 2 months; thaw at room temperature before serving.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 207,
+    "protein_g": 1.6,
+    "carbs_g": 24.4,
+    "sugar_g": 7.3,
+    "free_sugar_g": 7.3,
+    "fat_g": 11.5,
+    "satfat_g": 7.2,
+    "salt_g": 0.19,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "shortbread-basic--brown-sugar.jpg",
+  "image_alt": "Light golden brown-sugar shortbread fingers with docked tops on a black plate against a dark background."
+}

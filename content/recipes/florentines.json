@@ -1,0 +1,160 @@
+{
+  "slug": "florentines",
+  "title": "Florentines",
+  "category": "desserts",
+  "cuisine": "European",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "florentines",
+  "dish_title": "Florentines",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Lacy, caramelised almond biscuits studded with candied orange, each one finished with a thin layer of dark chocolate on the base.",
+  "servings": 20,
+  "prep_min": 25,
+  "cook_min": 40,
+  "difficulty": "hard",
+  "equipment": [
+    "2 large metal baking trays lined with baking paper",
+    "small heavy saucepan",
+    "8-9 cm round cutter",
+    "offset spatula",
+    "fork",
+    "heatproof bowl over a pan of barely simmering water"
+  ],
+  "ingredients": [
+    {
+      "group": "Florentines",
+      "qty": 50,
+      "unit": "g",
+      "item": "unsalted butter, cubed"
+    },
+    {
+      "group": "Florentines",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Florentines",
+      "qty": 30,
+      "unit": "g",
+      "item": "golden syrup"
+    },
+    {
+      "group": "Florentines",
+      "qty": 60,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Florentines",
+      "qty": 150,
+      "unit": "g",
+      "item": "flaked almonds, lightly crushed"
+    },
+    {
+      "group": "Florentines",
+      "qty": 40,
+      "unit": "g",
+      "item": "candied orange peel, finely chopped"
+    },
+    {
+      "group": "Florentines",
+      "qty": 20,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Florentines",
+      "qty": 3,
+      "unit": "g",
+      "item": "finely grated orange zest"
+    },
+    {
+      "group": "Florentines",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "To coat",
+      "qty": 120,
+      "unit": "g",
+      "item": "dark chocolate (60-70% cocoa solids), chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 180°C (160°C fan) for at least 20 minutes before baking. These biscuits spread and caramelise fast, so the oven needs to be fully heated from the first tray."
+    },
+    {
+      "title": "Make the caramel base",
+      "text": "Heat the butter, caster sugar, golden syrup and double cream in a small heavy saucepan over medium heat, stirring until the sugar dissolves. Bring to the boil and cook for 2-3 minutes until slightly thickened, which concentrates the mixture so it sets properly once baked."
+    },
+    {
+      "title": "Stir in the nuts and fruit",
+      "text": "Off the heat, stir in the flaked almonds, candied orange peel, flour, orange zest and salt. Mixing off the heat stops the nuts scorching in the hot caramel."
+    },
+    {
+      "title": "Cool to firm up",
+      "text": "Leave the mixture to cool for 10 minutes until firm enough to handle. A slightly cooled mixture holds its shape better when spooned onto the tray."
+    },
+    {
+      "title": "Space out and flatten",
+      "text": "Drop level tablespoons of the mixture 8cm apart, no more than 5 per tray, as florentines spread a great deal in the oven. Flatten each gently with a wet spoon to help them spread evenly."
+    },
+    {
+      "title": "Bake until lacy",
+      "text": "Bake one tray at a time for 9-12 minutes, until the florentines are lacy, bubbling and an even deep golden colour all over. Pale ones will stay chewy and bend rather than snap, so look for that deep, even colour before taking them out."
+    },
+    {
+      "title": "Neaten the edges",
+      "text": "While still hot and soft, nudge the edge of each florentine into a neat round using the cutter. They firm up fast once out of the oven, so this has to be done straight away."
+    },
+    {
+      "title": "Cool and lift off",
+      "text": "Leave the florentines on the tray for 10 minutes until firm, then lift off carefully with the spatula. Cooling on the tray first lets the caramel set enough that they won't tear."
+    },
+    {
+      "title": "Coat with chocolate",
+      "text": "Melt the chocolate gently in a heatproof bowl over barely simmering water, then spread a thin layer over the flat underside of each florentine. Mark wavy lines through the chocolate with a fork as it starts to set, then leave chocolate-side up until fully set, about 30 minutes."
+    }
+  ],
+  "tips": [
+    "Give each florentine plenty of room on the tray - a common mistake is overcrowding, which causes them to spread into one another as they bake.",
+    "Boil the caramel base for the full 2-3 minutes; underboiling leaves the florentines too soft to hold their lacy shape.",
+    "Shape the edges while the biscuits are still hot, as they set hard within minutes of coming out of the oven.",
+    "Melt the chocolate gently over barely simmering water rather than direct heat, so it stays glossy and doesn't seize.",
+    "Let the chocolate set fully, chocolate-side up, before stacking or storing to avoid smudging the pattern.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store in an airtight container, in a single layer or separated by baking paper, at room temperature for up to 5 days. They can be frozen for up to 1 month; thaw at room temperature before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 142,
+    "protein_g": 2.3,
+    "carbs_g": 13.1,
+    "sugar_g": 9.7,
+    "free_sugar_g": 9.3,
+    "fat_g": 9.4,
+    "satfat_g": 3.7,
+    "salt_g": 0.04,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "florentines-advanced.jpg",
+  "image_alt": "Lacy almond florentines, some showing their chocolate-coated undersides, on a black plate against a dark background."
+}

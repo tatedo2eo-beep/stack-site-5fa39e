@@ -1,0 +1,172 @@
+{
+  "slug": "gingerbread-cookies",
+  "title": "Gingerbread Cookies",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "gingerbread",
+  "dish_title": "Gingerbread",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Spiced treacle cookies, firm enough to cut into clean shapes and decorate once cooled.",
+  "servings": 30,
+  "prep_min": 30,
+  "cook_min": 11,
+  "difficulty": "medium",
+  "equipment": [
+    "2 large metal baking trays lined with baking paper",
+    "medium saucepan",
+    "large bowl",
+    "rolling pin",
+    "baking paper for rolling",
+    "cookie cutters",
+    "piping bag or small spoon",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 125,
+      "unit": "g",
+      "item": "unsalted butter, cubed"
+    },
+    {
+      "group": "Dough",
+      "qty": 110,
+      "unit": "g",
+      "item": "dark brown soft sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 120,
+      "unit": "g",
+      "item": "black treacle or molasses"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Dough",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dough",
+      "qty": 350,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Icing (optional)",
+      "qty": 100,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Icing (optional)",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice or water"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Melt butter, sugar and spices",
+      "text": "Melt the butter, sugar, treacle, spices and salt together in a saucepan over low heat, stirring until smooth, without letting it boil. Melting rather than creaming lets the treacle and spices disperse evenly through the fat before the dough comes together."
+    },
+    {
+      "title": "Cool and add egg",
+      "text": "Pour the mixture into a bowl and leave to cool for 10 minutes until lukewarm, then beat in the egg. Cooling first stops the warm mixture from scrambling the egg as it goes in."
+    },
+    {
+      "title": "Make the dough",
+      "text": "Stir in the flour and bicarbonate of soda to form a soft, sticky dough, without adding extra flour even though it feels tacky. Extra flour at this stage dries the dough out and makes the baked cookies tough rather than tender."
+    },
+    {
+      "title": "Chill the dough",
+      "text": "Pat the dough into 2 discs, wrap, and chill for at least 1 hour until firm enough to roll."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 175°C (155°C fan) for at least 20 minutes before baking."
+    },
+    {
+      "title": "Roll and cut",
+      "text": "Roll each disc between sheets of baking paper to 5mm thick, cut out shapes, and re-roll the scraps once. Space the cut-outs 3cm apart on the lined metal trays."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake one tray at a time for 9-11 minutes, until the edges are firm and the tops look dry; thinner or smaller shapes need less time. The dough is already dark from the treacle, so judge doneness by firmness and dryness rather than colour."
+    },
+    {
+      "title": "Cool on a rack",
+      "text": "Cool on the tray for 5 minutes, then move to a wire rack to cool completely."
+    },
+    {
+      "title": "Ice and decorate",
+      "text": "Mix the icing sugar with the lemon juice to a thick, pipeable paste, then decorate the cookies once they're completely cool. Leave to set for 1 hour before stacking or storing."
+    }
+  ],
+  "tips": [
+    "Let the melted butter and treacle mixture cool to lukewarm before adding the egg, or the heat will scramble it and leave lumps in the dough.",
+    "Resist adding extra flour even though the dough feels sticky — it firms up considerably after chilling, and extra flour makes the baked cookies tough.",
+    "Watch for dry, firm tops rather than colour change when judging doneness — the dough is already dark from the treacle, so colour isn't a reliable cue.",
+    "Keep smaller or thinner cut-outs on their own tray, since they'll be ready before larger shapes and can scorch if left in alongside them.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep undecorated cookies in an airtight container at room temperature for up to 1 week, or freeze for up to 3 months. Iced cookies keep at room temperature for up to 5 days once the icing has set.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 114,
+    "protein_g": 1.5,
+    "carbs_g": 19.1,
+    "sugar_g": 9.9,
+    "free_sugar_g": 9.8,
+    "fat_g": 3.7,
+    "satfat_g": 2.2,
+    "salt_g": 0.26,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gingerbread-basic.jpg",
+  "image_alt": "Gingerbread people and stars piped with white icing on a black plate against a dark background."
+}

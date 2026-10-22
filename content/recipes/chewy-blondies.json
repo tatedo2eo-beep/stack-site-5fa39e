@@ -1,0 +1,152 @@
+{
+  "slug": "chewy-blondies",
+  "title": "Chewy Blondies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "blondies",
+  "dish_title": "Blondies",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Buttery, chewy blondies loaded with dark chocolate and toasted pecans, baked in a 20cm tin for a dense, fudgy bite.",
+  "servings": 16,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin (not glass), lined with a baking-paper sling",
+    "saucepan",
+    "large bowl and whisk",
+    "spatula",
+    "wooden skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled until warm"
+    },
+    {
+      "group": "Batter",
+      "qty": 200,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 140,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 120,
+      "unit": "g",
+      "item": "dark chocolate chips or chunks (50-60% cocoa solids)"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "g",
+      "item": "pecans, toasted and roughly chopped",
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat oven, line tin",
+      "text": "Heat the oven to 175°C (155°C fan) and let it run for at least 20 minutes before baking, with a shelf set in the middle. While it heats, line the 20cm metal tin with a baking-paper sling so the blondies lift out cleanly later."
+    },
+    {
+      "title": "Melt and cool butter",
+      "text": "Melt the butter in a saucepan, then leave it for about 5 minutes until just warm rather than hot. Butter that's too hot will cook the egg when it's added, so a short cooling pause protects the batter's texture."
+    },
+    {
+      "title": "Whisk butter and sugar",
+      "text": "Whisk the warm butter with the brown sugar for about 30 seconds until combined, then add the egg, yolk, vanilla and salt and whisk for roughly 1 minute until glossy. Mixing by hand rather than creaming keeps air out of the batter, which is why blondies turn out dense and chewy instead of cakey."
+    },
+    {
+      "title": "Fold in dry ingredients",
+      "text": "Fold in the flour and baking powder with a spatula just until no dry streaks remain, then fold through the chocolate and pecans. Overmixing at this stage develops gluten and toughens the bake, so stop as soon as everything is combined."
+    },
+    {
+      "title": "Spread and bake",
+      "text": "Spread the batter evenly into the lined tin and bake for 25-30 minutes. Look for a shiny, crackled, light golden top with just-set edges; a skewer pushed in 5cm from the side should come out almost clean with a little moist batter clinging to it."
+    },
+    {
+      "title": "Cool completely",
+      "text": "Leave the blondies to cool completely in the tin, at least 1 hour, before lifting them out with the paper sling. The crumb is still setting as it cools, so cutting too early gives a gluey rather than fudgy slice."
+    },
+    {
+      "title": "Cut into squares",
+      "text": "Cut into 16 squares once fully cool, wiping the knife between cuts for neat edges."
+    }
+  ],
+  "tips": [
+    "Use metal, not glass or ceramic — glass heats more slowly and holds heat longer, which can leave the edges overbaked and dry.",
+    "Pull the blondies out when the skewer still has a little moist batter on it; a clean skewer usually means they're already overbaked, since they firm up as they cool.",
+    "Let the butter cool to warm before whisking it with the egg and sugar, or the egg can scramble and leave streaks in the batter.",
+    "Toast the pecans first if using them — a few minutes in a dry pan brings out their flavour so they don't taste flat against the sweet batter.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight container at room temperature for up to 4 days, or freeze the cut squares for up to 3 months, layered between baking paper. Thaw at room temperature before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 202,
+    "protein_g": 2.2,
+    "carbs_g": 24.4,
+    "sugar_g": 16.5,
+    "free_sugar_g": 16.3,
+    "fat_g": 11.4,
+    "satfat_g": 5.5,
+    "salt_g": 0.24,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "blondies-brownies.jpg",
+  "image_alt": "Golden blondie squares studded with chocolate and nuts, stacked on a black plate against a dark background."
+}

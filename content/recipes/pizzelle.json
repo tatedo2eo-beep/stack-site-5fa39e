@@ -1,0 +1,150 @@
+{
+  "slug": "pizzelle",
+  "title": "Pizzelle (Italian Waffle Cookies)",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "pizzelle",
+  "dish_title": "Pizzelle",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thin, patterned Italian waffle cookies pressed in an iron, crisp and light with a hint of vanilla and lemon, dusted with icing sugar to finish.",
+  "servings": 30,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "pizzelle iron (electric or stovetop, essential)",
+    "bowl and whisk or stand mixer or electric hand whisk",
+    "pastry brush",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Batter",
+      "qty": 140,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Batter",
+      "qty": 220,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "For the iron",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil, for the iron"
+    },
+    {
+      "group": "To finish",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar, to dust",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Beat eggs and sugar",
+      "text": "Beat the eggs and caster sugar together for 3 minutes, until thick and pale. This builds air into the mixture, giving the finished biscuits a lighter, more delicate texture."
+    },
+    {
+      "title": "Add butter and flavour",
+      "text": "Beat in the melted butter, vanilla extract and lemon zest until smooth. Adding the butter once melted and cooled stops it curdling the eggs."
+    },
+    {
+      "title": "Fold in the dry ingredients",
+      "text": "Fold in the flour, baking powder and salt to make a thick, smooth batter that holds its shape briefly on a spoon; add 1-2 tablespoons more flour if it looks runny. A batter that's too thin will spread past the edges of the iron's pattern."
+    },
+    {
+      "title": "Heat the iron",
+      "text": "Heat the pizzelle iron according to its instructions, which usually takes 5-10 minutes, and brush it lightly with oil before the very first batch only. After that, the butter already in the batter is enough to stop the cookies sticking."
+    },
+    {
+      "title": "Cook each batch",
+      "text": "Drop a heaped tablespoon of batter just behind the centre of each pattern, close the iron and cook for 30-60 seconds, though timing varies between irons. Look for an even pale golden colour and for the steam from the iron to stop, which signals the cookies are cooked through."
+    },
+    {
+      "title": "Shape while warm",
+      "text": "Lift the pizzelle onto a wire rack; they stay soft and pliable for a few seconds before crisping as they cool, so this is your window to roll them round a handle into tubes if you'd like that shape. Once crisp, they hold their shape permanently."
+    },
+    {
+      "title": "Trim and finish",
+      "text": "Trim any ragged edges with scissors once the pizzelle are cool, then dust with icing sugar. Trimming after cooling avoids cracking the brittle biscuits."
+    }
+  ],
+  "tips": [
+    "Watch the steam coming off the iron rather than relying only on the timer, as it's a more reliable sign that the pizzelle are properly cooked.",
+    "Shape or roll the pizzelle within seconds of lifting them out - a common mistake is waiting too long, by which point they've already crisped and will crack instead of curving.",
+    "Only oil the iron for the very first batch; oiling every time can make the cookies greasy and uneven in colour.",
+    "Keep the batter thick enough to hold briefly on a spoon, as a runny batter spreads beyond the iron's pattern and makes ragged edges.",
+    "Work in a calm, unhurried rhythm between batches, since the iron's temperature affects how evenly the next batch cooks.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store in an airtight container at room temperature for up to 1 week; keep them away from humidity, which softens their crispness. They can be frozen, unfilled and undusted, for up to 1 month.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 82,
+    "protein_g": 1.4,
+    "carbs_g": 10.7,
+    "sugar_g": 5.0,
+    "free_sugar_g": 5.0,
+    "fat_g": 3.7,
+    "satfat_g": 2.1,
+    "salt_g": 0.14,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pizzelle-advanced.jpg",
+  "image_alt": "Thin, patterned golden pizzelle on a black plate against a dark background."
+}

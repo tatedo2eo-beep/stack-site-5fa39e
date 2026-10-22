@@ -1,0 +1,155 @@
+{
+  "slug": "peanut-butter-cookies",
+  "title": "Peanut Butter Cookies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "peanut-butter",
+  "dish_title": "Peanut butter",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Dense, nutty cookies rolled in sugar and flattened with a fork, with a soft centre and lightly golden edges.",
+  "servings": 24,
+  "prep_min": 20,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "2 large metal baking trays lined with baking paper",
+    "stand mixer or electric hand whisk",
+    "fork",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, softened (about 18°C)"
+    },
+    {
+      "group": "Dough",
+      "qty": 200,
+      "unit": "g",
+      "item": "smooth peanut butter (salted, standard rather than natural)"
+    },
+    {
+      "group": "Dough",
+      "qty": 110,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Dough",
+      "qty": 190,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Dough",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "To roll",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar, for rolling"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cream butter, peanut butter and sugars",
+      "text": "Beat the softened butter, peanut butter and both sugars on medium speed for 2 minutes until creamy and a shade lighter, then beat in the egg and vanilla. The peanut butter's own fat and sugar mean the dough comes together smoothly without needing much creaming time."
+    },
+    {
+      "title": "Add the dry ingredients",
+      "text": "Add the flour, bicarbonate of soda, baking powder and salt on low speed, mixing just until combined."
+    },
+    {
+      "title": "Chill the dough",
+      "text": "Cover and chill for 1 hour. The dough is quite soft straight after mixing, so chilling firms it up enough that the cookies hold their shape instead of spreading thin in the oven."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "During the chilling time, heat the oven to 175°C (155°C fan) for at least 20 minutes before baking."
+    },
+    {
+      "title": "Shape and flatten",
+      "text": "Roll the dough into 35g balls, roll each in caster sugar, and set them 5cm apart on the lined metal trays. Press a fork in a criss-cross pattern to flatten each to about 1.5cm, dipping the fork in sugar first so it doesn't stick."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake one tray at a time for 10-12 minutes, until puffed and lightly golden at the edges but still soft and pale in the centre. They carry on firming up as they cool, so pulling them while the middle still looks soft keeps them from drying out."
+    },
+    {
+      "title": "Cool on a rack",
+      "text": "Cool on the tray for 5 minutes, since they're too fragile to move while hot, then transfer to a wire rack to cool fully."
+    }
+  ],
+  "tips": [
+    "Chill the dough for the full hour before shaping — it's soft enough straight after mixing that the cookies will spread too thin without that firming time.",
+    "Pull the tray while the centres still look soft and pale; peanut butter cookies firm up a lot as they cool, so a golden centre in the oven usually means overbaked cookies.",
+    "Dip the fork in sugar before pressing the criss-cross pattern so it lifts away cleanly instead of dragging the dough.",
+    "Use standard smooth peanut butter rather than a natural, oily one — the extra oil in natural peanut butter can make the dough too soft to hold its shape.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight container at room temperature for up to 1 week, or freeze for up to 3 months. Thaw at room temperature before eating.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 154,
+    "protein_g": 3.0,
+    "carbs_g": 17.7,
+    "sugar_g": 10.6,
+    "free_sugar_g": 9.7,
+    "fat_g": 8.4,
+    "satfat_g": 3.4,
+    "salt_g": 0.25,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "peanut-butter-basic.jpg",
+  "image_alt": "Peanut butter cookies with criss-cross fork marks, one broken open, on a black plate against a dark background."
+}

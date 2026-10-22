@@ -1,0 +1,132 @@
+{
+  "slug": "flourless-fudgy-brownies",
+  "title": "Flourless Fudgy Brownies",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "flourless",
+  "dish_title": "Flourless",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Deeply chocolatey brownies made without flour, held together by whipped eggs for a fudgy centre and a glossy, crackled top.",
+  "servings": 16,
+  "prep_min": 20,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin (not glass), lined with a baking-paper sling",
+    "heatproof bowl over a pan of barely simmering water",
+    "stand mixer or electric hand whisk",
+    "spatula",
+    "instant-read thermometer (optional)"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 200,
+      "unit": "g",
+      "item": "dark chocolate (about 70% cocoa solids), chopped"
+    },
+    {
+      "group": "Batter",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, cut into pieces"
+    },
+    {
+      "group": "Batter",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Batter",
+      "qty": 30,
+      "unit": "g",
+      "item": "cocoa powder",
+      "note": "sifted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat oven, line tin",
+      "text": "Heat the oven to 175°C (155°C fan) for at least 20 minutes before baking. Line the 20cm metal tin with a baking-paper sling; a metal tin bakes more evenly than glass, which tends to leave these delicate brownies drier at the edges."
+    },
+    {
+      "title": "Melt chocolate and butter",
+      "text": "Melt the chocolate and butter together in a heatproof bowl set over a pan of barely simmering water, stirring now and then until smooth. Take it off the heat and leave to cool for about 5 minutes so it won't cook the eggs later."
+    },
+    {
+      "title": "Whip eggs and sugar",
+      "text": "Whisk the eggs, sugar, salt and vanilla on medium-high speed for 5-6 minutes, until pale, thick and roughly doubled in volume, leaving a ribbon trail when you lift the whisk. This whipped foam does the job flour would normally do, trapping air that sets into structure and giving the shiny, crackly top."
+    },
+    {
+      "title": "Combine and fold",
+      "text": "With the mixer on low, pour in the warm chocolate mixture in a slow stream, then fold in the sifted cocoa powder until no streaks remain. Folding gently keeps as much of that whipped air in the batter as possible."
+    },
+    {
+      "title": "Bake",
+      "text": "Scrape the batter into the tin, level it, and bake for 25-30 minutes. The top should look set and crackly with a centre that barely wobbles; a skewer should come out with moist crumbs rather than wet batter, and a probe reads around 90-96°C in the middle."
+    },
+    {
+      "title": "Cool and chill",
+      "text": "Cool completely in the tin, then chill for 1 hour before cutting. Flourless brownies have very little structure to hold them together while warm, so chilling firms them up enough to slice cleanly."
+    },
+    {
+      "title": "Cut into squares",
+      "text": "Cut into 16 pieces using a hot knife, wiping the blade between cuts for neat edges."
+    }
+  ],
+  "tips": [
+    "Don't skip the full 5-6 minutes of whipping the eggs and sugar — without flour to fall back on, that whipped volume gives the brownies their structure and crackly top.",
+    "Let the chocolate mixture cool before folding it in; pouring it in too hot can deflate the whipped eggs and flatten the finished brownies.",
+    "Chill before cutting rather than slicing while warm — flourless brownies are fragile until the centre firms up in the fridge.",
+    "Use a metal tin, not glass, for a more even bake; glass retains heat and can dry out the edges before the centre is set."
+  ],
+  "storage": "Keep in an airtight container in the fridge for up to 5 days, or freeze the cut squares for up to 3 months. Bring back to room temperature, or warm briefly, before serving.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 193,
+    "protein_g": 2.6,
+    "carbs_g": 19.4,
+    "sugar_g": 15.6,
+    "free_sugar_g": 15.5,
+    "fat_g": 12.3,
+    "satfat_g": 7.2,
+    "salt_g": 0.22,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "flourless-brownies.jpg",
+  "image_alt": "Dense, dark flourless brownie squares with a crackled top on a black plate against a dark background."
+}

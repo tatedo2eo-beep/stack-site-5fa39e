@@ -1,0 +1,154 @@
+{
+  "slug": "snickerdoodles",
+  "title": "Snickerdoodles",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "snickerdoodle",
+  "dish_title": "Snickerdoodle",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Soft, tangy American cookies rolled in cinnamon sugar, baked until puffed and crackled with a chewy centre.",
+  "servings": 24,
+  "prep_min": 20,
+  "cook_min": 11,
+  "difficulty": "easy",
+  "equipment": [
+    "2 large metal baking trays lined with baking paper",
+    "stand mixer or electric hand whisk",
+    "shallow bowl",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 170,
+      "unit": "g",
+      "item": "unsalted butter, softened (about 18°C)"
+    },
+    {
+      "group": "Dough",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Dough",
+      "qty": 250,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cream of tartar"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Cinnamon sugar",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cinnamon sugar",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "ground cinnamon"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cream butter and sugar",
+      "text": "Beat the softened butter and sugar on medium speed for 2-3 minutes until pale and fluffy, then beat in the egg, yolk and vanilla. Proper creaming traps air that helps the cookies puff before settling into their signature crackled top."
+    },
+    {
+      "title": "Add the dry ingredients",
+      "text": "Whisk the flour, cream of tartar, bicarbonate of soda and salt together, then add to the butter mixture on low speed just until combined. The cream of tartar gives snickerdoodles their faint tang and helps them puff and crack as they bake."
+    },
+    {
+      "title": "Chill the dough",
+      "text": "Cover and chill for 1 hour, which firms the dough enough to shape cleanly into balls."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "During the chilling time, heat the oven to 190°C (170°C fan) for at least 20 minutes before baking."
+    },
+    {
+      "title": "Coat in cinnamon sugar",
+      "text": "Mix the caster sugar and cinnamon in a shallow bowl. Roll the dough into 30g balls, roll each in the cinnamon sugar, and space them 6cm apart on the lined metal trays."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake one tray at a time for 9-11 minutes, until the edges are set, the tops are puffed and cracked, and the centres still look soft. They sink slightly into their crinkled shape as they cool, so don't wait for a fully firm centre in the oven."
+    },
+    {
+      "title": "Cool on a rack",
+      "text": "Cool on the tray for 5 minutes, then transfer to a wire rack to finish cooling."
+    }
+  ],
+  "tips": [
+    "Pull the cookies while the centres still look soft — they finish setting as they cool, and firming them fully in the oven leaves them dry rather than chewy.",
+    "Don't skip the cream of tartar; it's what gives snickerdoodles their characteristic tang and helps the tops crack as they bake.",
+    "Chill the dough for the full hour so the balls hold their shape, rather than spreading flat before the crackled top can form.",
+    "Roll the dough balls generously in the cinnamon sugar so the coating stays visible once baked, rather than melting into a thin film.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight container at room temperature for up to 1 week, or freeze for up to 3 months. Thaw at room temperature before eating.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 136,
+    "protein_g": 1.5,
+    "carbs_g": 18.9,
+    "sugar_g": 10.5,
+    "free_sugar_g": 10.4,
+    "fat_g": 6.2,
+    "satfat_g": 3.8,
+    "salt_g": 0.26,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "snickerdoodle-basic.jpg",
+  "image_alt": "Soft, crackled cinnamon-sugar snickerdoodles, one broken open, on a black plate against a dark background."
+}

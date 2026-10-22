@@ -1,0 +1,165 @@
+{
+  "slug": "lemon-cut-out-sugar-cookies",
+  "title": "Lemon Cut-Out Sugar Cookies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "sugar-cut-out",
+  "dish_title": "Sugar/cut-out",
+  "flavour": "Lemon",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "cut-out-sugar-cookies",
+  "changes_from_base": "Lemon zest rubbed into the sugar for the dough; the glaze uses lemon juice instead of milk.",
+  "summary": "These follow the classic cut-out sugar cookie method, with lemon zest rubbed into the sugar for a fragrant dough and a lemon juice glaze in place of milk.",
+  "servings": 30,
+  "prep_min": 35,
+  "cook_min": 12,
+  "difficulty": "medium",
+  "equipment": [
+    "2 large metal baking trays lined with baking paper",
+    "stand mixer or electric hand whisk",
+    "rolling pin",
+    "baking paper for rolling",
+    "7-8 cm cookie cutters",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 225,
+      "unit": "g",
+      "item": "unsalted butter, softened (about 18°C)"
+    },
+    {
+      "group": "Dough",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "finely grated lemon zest (from 2 unwaxed lemons)"
+    },
+    {
+      "group": "Dough",
+      "qty": 375,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Glaze",
+      "qty": 200,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Glaze",
+      "qty": 2.5,
+      "unit": "tbsp",
+      "item": "fresh lemon juice",
+      "note": "plus a few drops more if needed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Rub zest into sugar",
+      "text": "Rub the lemon zest into the sugar with your fingertips before creaming, pressing until the sugar looks damp and fragrant. This releases the citrus oils straight into the sugar, so the lemon flavour spreads through the whole dough rather than sitting in isolated specks."
+    },
+    {
+      "title": "Cream butter and sugar",
+      "text": "Beat the softened butter with the lemon sugar and salt on medium speed for 2-3 minutes until pale, then beat in the egg and vanilla. Good creaming traps air that keeps the baked cookie tender."
+    },
+    {
+      "title": "Add the dry ingredients",
+      "text": "Add the flour and baking powder on low speed, mixing just until combined. Stop as soon as the flour disappears, since overworking it makes the dough tough to roll."
+    },
+    {
+      "title": "Chill the dough",
+      "text": "Divide the dough into 2 flat discs, wrap, and chill for 1 hour until firm, so it rolls evenly and holds shapes cleanly."
+    },
+    {
+      "title": "Roll out the dough",
+      "text": "Roll each disc between two sheets of baking paper to 6mm thick; rolling between paper avoids working in extra flour, which would toughen the dough."
+    },
+    {
+      "title": "Cut and chill shapes",
+      "text": "Cut out shapes, re-rolling scraps once only, and lay them on the lined metal trays 3cm apart. Chill the cut-outs for 15 minutes so the cold dough holds its edges in the oven."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "While the shapes chill, heat the oven to 175°C (155°C fan) for at least 20 minutes before baking."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake one tray at a time for 10-12 minutes, until set and matte with only the edges very lightly golden."
+    },
+    {
+      "title": "Cool on a rack",
+      "text": "Cool on the tray for 5 minutes, then move to a wire rack to cool completely."
+    },
+    {
+      "title": "Glaze with lemon",
+      "text": "Whisk the icing sugar with the lemon juice to a thick, smooth, spreadable glaze, adding a few more drops of juice if it's too stiff. Spread or dip the cooled cookies and leave to set for 1 hour; the acidity balances nicely against the sweet dough."
+    }
+  ],
+  "tips": [
+    "Rub the zest into the sugar rather than just stirring it in — this releases the oils so the lemon flavour carries through the whole cookie instead of staying stuck to the zest.",
+    "Chill both the dough and the cut shapes; skipping either is the main reason these spread out of shape in the oven.",
+    "Taste the glaze before using it — lemon juice varies in sharpness, so adjust with a touch more icing sugar or juice to get a spreadable consistency.",
+    "Let the cookies cool fully before glazing, or the warm surface will thin the glaze and make it run off the edges.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Once the glaze has set, keep airtight at room temperature for up to 1 week. Un-iced baked cookies freeze for up to 3 months, and the raw dough discs keep for 3 days in the fridge or 2 months frozen.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 155,
+    "protein_g": 1.6,
+    "carbs_g": 23.0,
+    "sugar_g": 13.3,
+    "free_sugar_g": 13.2,
+    "fat_g": 6.4,
+    "satfat_g": 3.9,
+    "salt_g": 0.17,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sugar-cut-out-basic--lemon.jpg",
+  "image_alt": "Star, heart and round lemon sugar cookies, some with pale yellow icing, on a black plate against a dark background."
+}

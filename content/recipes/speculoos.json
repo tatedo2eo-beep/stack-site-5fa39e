@@ -1,0 +1,156 @@
+{
+  "slug": "speculoos",
+  "title": "Speculoos (Spiced Caramel Biscuits)",
+  "category": "desserts",
+  "cuisine": "Belgian and Dutch",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "speculoos",
+  "dish_title": "Speculoos",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thin, spiced biscuits with a deep caramel flavour from dark brown sugar, rolled and chilled for clean edges and baked to a crisp, snappy finish.",
+  "servings": 36,
+  "prep_min": 25,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "2 large metal baking trays lined with baking paper",
+    "stand mixer or electric hand whisk",
+    "rolling pin",
+    "baking paper for rolling",
+    "fluted pastry wheel or knife",
+    "ruler",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 125,
+      "unit": "g",
+      "item": "unsalted butter, softened (about 18°C)"
+    },
+    {
+      "group": "Dough",
+      "qty": 150,
+      "unit": "g",
+      "item": "dark brown soft sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "milk"
+    },
+    {
+      "group": "Dough",
+      "qty": 250,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Spices",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Spices",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Spices",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "Spices",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Spices",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ½ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cream butter and sugar",
+      "text": "Beat the butter and dark brown soft sugar on medium speed for 3-4 minutes, until lighter in colour and creamy, then beat in the milk. The dark brown sugar brings both a deep caramel flavour and some of the moisture that holds the dough together."
+    },
+    {
+      "title": "Mix in dry ingredients",
+      "text": "Whisk the flour, cinnamon, ginger, cardamom, nutmeg, cloves, bicarbonate of soda and salt together, then add to the butter mixture on low speed until a firm dough forms. There's no egg in this dough, which is exactly what bakes into a crisp, snappy biscuit rather than a soft one."
+    },
+    {
+      "title": "Roll and chill",
+      "text": "Roll the dough between two sheets of baking paper to 4mm thick, slide it onto a tray and chill for 1 hour until firm. Cold dough cuts cleanly and holds its sharp edges, while warm dough tends to smear at the cut lines."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 175°C (155°C fan) for at least 20 minutes before baking. A fully heated oven helps the biscuits dry out evenly for that characteristic snap."
+    },
+    {
+      "title": "Cut into shapes",
+      "text": "Cut the dough into 7 x 4cm rectangles and space them 2cm apart on the metal lined trays. Gather, re-roll and chill the scraps once to use up the dough without overworking it."
+    },
+    {
+      "title": "Bake until darkened at the edges",
+      "text": "Bake one tray at a time for 12-15 minutes, until the biscuits are firm, dry on top and a shade darker at the edges. That slight darkening shows the sugars at the edge have caramelised, which is where much of the flavour comes from."
+    },
+    {
+      "title": "Cool to crisp up",
+      "text": "Cool on the tray for 10 minutes, then move to a wire rack. They continue to crisp up as they cool, so they'll feel firmer once fully cold than they do straight from the oven."
+    }
+  ],
+  "tips": [
+    "Chill the rolled dough properly before cutting - a common mistake is cutting it while still soft, which blurs the edges and makes the shapes spread unevenly in the oven.",
+    "Roll the dough to an even 4mm thickness throughout so all the biscuits bake in the same time.",
+    "Re-roll the scraps only once, as handling the dough too much makes the biscuits tougher rather than crisp.",
+    "Watch for the edges turning a shade darker rather than relying on time alone, since ovens vary.",
+    "Let them cool fully before storing - they're still a little soft warm and only reach their proper snap once cold.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store in an airtight tin at room temperature for up to 2 weeks; they tend to improve slightly after a day or two as the spices mellow. The unbaked dough can be frozen, well wrapped, for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 67,
+    "protein_g": 0.8,
+    "carbs_g": 9.7,
+    "sugar_g": 4.1,
+    "free_sugar_g": 4.0,
+    "fat_g": 2.9,
+    "satfat_g": 1.8,
+    "salt_g": 0.13,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "speculoos-advanced.jpg",
+  "image_alt": "Rectangular deep-brown speculoos biscuits on a black plate against a dark background."
+}

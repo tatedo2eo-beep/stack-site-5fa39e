@@ -1,0 +1,27 @@
+# Research: Stroopwafels (Syrup Waffle Cookies)
+Dish: Stroopwafel / flavour: Classic. Private file, not published.
+
+## Sources actually opened
+- [Dutch Stroopwafels (Food Network Kitchen)](https://www.foodnetwork.com/recipes/food-network-kitchen/dutch-stroopwafels-2270882) [Tier 2 (locked list): Food Network Kitchen]: Yeasted butter dough (milk, yeast, flour, sugar, cinnamon, salt, butter, eggs) rested 45 min; baked 1-2 min in a waffle-cone iron, cut while warm and split horizontally; filling boiled to soft-ball 113-116 °C (235-240 °F), cooled until spreadable. _(WebFetch (curl returned 403); full recipe read)_
+- [Stroopwafels (King Arthur Baking)](https://www.kingarthurbaking.com/recipes/stroopwafels-recipe) [Tier 1 (locked list): King Arthur Baking]: Thin waffle cookies baked in an iron and filled with a brown sugar caramel syrup (KA uses a baking-powder batter). _(curl 200; JSON-LD recipe (ingredients and steps) read)_
+- [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
+- [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
+
+> Written in the cookies/bars/brownies chapter. Quantities are my own; the core method matches the locked-list sources listed above.
+
+## Own cooking judgment
+- Golden syrup and dark brown sugar filling (no corn syrup); 112-115 °C soft-ball; 40 g balls.
+
+## Reliability checks
+- Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
+- Doneness cues in the method: 1 step(s) carry a temperature, and every cooking step has a visual cue.
+- Timing sanity check: prep 45 min + cook 40 min against the step times.
+- Quantities checked against servings (12). Nutrition worked from USDA FDC (see content/notes/stroopwafels-nutrition.md).
+- Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
+
+## Knowledge check
+Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 03-K6 (baking and doneness cues); 03-K10 (raw dough and batter safety); 03-K3 (melted or browned butter).
+Changes made:
+- Salt given in grams (06-G1): 0.25 tsp fine sea salt or table salt -> 1.5 g
+- Added the do-not-eat-raw-dough note (03-K10)
+- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).

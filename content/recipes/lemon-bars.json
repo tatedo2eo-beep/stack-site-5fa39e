@@ -1,0 +1,150 @@
+{
+  "slug": "lemon-bars",
+  "title": "Lemon Bars",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "lemon-bars",
+  "dish_title": "Lemon bars",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A crisp shortbread base topped with a tangy, set lemon filling, baked in two stages and finished with a dusting of icing sugar.",
+  "servings": 16,
+  "prep_min": 20,
+  "cook_min": 50,
+  "difficulty": "medium",
+  "equipment": [
+    "20 cm square metal baking tin (not glass), lined with a baking-paper sling",
+    "bowl and whisk",
+    "sieve",
+    "instant-read thermometer (optional)"
+  ],
+  "ingredients": [
+    {
+      "group": "Crust",
+      "qty": 150,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Crust",
+      "qty": 40,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "plus 1 tbsp to dust"
+    },
+    {
+      "group": "Crust",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Crust",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Lemon filling",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Lemon filling",
+      "qty": 250,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Lemon filling",
+      "qty": 6,
+      "unit": "g",
+      "item": "finely grated lemon zest (from 2 unwaxed lemons)"
+    },
+    {
+      "group": "Lemon filling",
+      "qty": 150,
+      "unit": "ml",
+      "item": "fresh lemon juice (about 4 lemons)"
+    },
+    {
+      "group": "Lemon filling",
+      "qty": 30,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Lemon filling",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat oven, line tin",
+      "text": "Heat the oven to 175°C (155°C fan) for at least 20 minutes before baking, and line the 20cm metal tin with a baking-paper sling."
+    },
+    {
+      "title": "Make and press the crust",
+      "text": "Stir the flour, icing sugar and salt into the melted butter to form a soft dough, then press it evenly into the base of the tin. This all-butter crust has no egg to toughen it, so pressing it in gently keeps it tender."
+    },
+    {
+      "title": "Bake the crust",
+      "text": "Bake for 20-25 minutes, until golden all over. A fully golden, well-baked crust stays crisp once the wet lemon filling goes on top, rather than turning soggy."
+    },
+    {
+      "title": "Make the filling",
+      "text": "While the crust bakes, whisk the eggs, sugar and lemon zest together for about 1 minute until smooth but not foamy, then whisk in the lemon juice, flour and salt until no lumps remain. Keeping the zest in the mixture carries the lemon aroma through the whole filling rather than just the surface."
+    },
+    {
+      "title": "Lower oven, bake filling",
+      "text": "Turn the oven down to 160°C (140°C fan) and pour the filling onto the hot crust. Bake for 20-25 minutes, until set at the edges with just a slight wobble in the centre — it should read about 75°C in the middle, well above the 71°C needed to set the eggs safely."
+    },
+    {
+      "title": "Cool and chill",
+      "text": "Cool in the tin for 1 hour at room temperature, then chill for at least 2 hours until firm. Chilling lets the egg-set filling firm up fully, so it slices into neat squares instead of oozing."
+    },
+    {
+      "title": "Dust and cut",
+      "text": "Dust the top with icing sugar, then cut into 16 squares using a hot, wiped knife for clean edges."
+    }
+  ],
+  "tips": [
+    "Lower the oven temperature before the filling goes in — baking it at the crust's higher heat can curdle the eggs instead of setting them into a smooth custard.",
+    "Chill the bars for the full 2 hours before cutting; a filling only cooled to room temperature will still be too soft to slice cleanly.",
+    "Wipe the knife clean between cuts and reheat it in hot water for neat squares without dragging filling across the crust.",
+    "Don't over-whisk the eggs and sugar into a foam — a smooth, non-foamy mixture bakes into a dense, even filling rather than one with trapped air bubbles.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight container in the fridge for up to 4 days. They don't freeze well once cut, as the filling can weep on thawing, so it's best to enjoy them fresh from the fridge.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 183,
+    "protein_g": 2.8,
+    "carbs_g": 27.5,
+    "sugar_g": 18.4,
+    "free_sugar_g": 18.3,
+    "fat_g": 7.2,
+    "satfat_g": 4.1,
+    "salt_g": 0.16,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "lemon-bars-basic.jpg",
+  "image_alt": "Squares of lemon bar with a thin golden crust and bright yellow filling, one bitten, on a black plate against a dark background."
+}

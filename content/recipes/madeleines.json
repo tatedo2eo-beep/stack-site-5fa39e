@@ -1,0 +1,167 @@
+{
+  "slug": "madeleines",
+  "title": "Madeleines",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "madeleines-cake-like",
+  "dish_title": "Madeleines (cake-like)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Light, lemon-scented French sponge cakes baked in a shell-shaped tin, prized for the signature domed hump that forms as cold batter meets a hot oven.",
+  "servings": 20,
+  "prep_min": 20,
+  "cook_min": 22,
+  "difficulty": "medium",
+  "equipment": [
+    "madeleine tin(s), metal, 12-hole (bake in 2 batches if you have one)",
+    "bowl and whisk or stand mixer or electric hand whisk",
+    "spatula",
+    "pastry brush",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Batter",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 21,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Batter",
+      "qty": 100,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 100,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled until warm"
+    },
+    {
+      "group": "For the tins",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "For the tins",
+      "qty": 8,
+      "unit": "g",
+      "item": "plain flour, for the tins",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar, to dust",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk eggs and sugar",
+      "text": "Whisk the eggs, caster sugar, honey, lemon zest and salt together for 4-5 minutes, until pale, thick and roughly doubled in volume. This long whisking stage builds the air bubbles that give madeleines their light sponge."
+    },
+    {
+      "title": "Fold in flour",
+      "text": "Sift the flour and baking powder over the whisked mixture and fold in gently. Folding, rather than stirring vigorously, keeps the air you've just whisked in from collapsing."
+    },
+    {
+      "title": "Fold in butter",
+      "text": "Fold in the warm melted butter in two additions, mixing until glossy. Adding it warm helps it combine evenly without weighing down the batter."
+    },
+    {
+      "title": "Chill the batter",
+      "text": "Cover and chill the batter for at least 1 hour, and up to 2 days. A cold, rested batter meeting a hot oven is exactly what produces the signature humped back on a madeleine."
+    },
+    {
+      "title": "Prepare the metal tin",
+      "text": "Brush the moulds of the metal madeleine tin with soft butter, dust with flour and tap out the excess, then chill the tin. A metal tin heats quickly and evenly, and this buttered-and-floured coating helps each cake turn out cleanly with sharp shell markings."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 200°C (180°C fan) for at least 20 minutes before baking. A properly hot oven creates the sharp contrast in temperature that drives the hump."
+    },
+    {
+      "title": "Fill and bake",
+      "text": "Spoon 1 level tablespoon of cold batter into each mould, filling them about three-quarters full, without spreading it out. Bake for 9-11 minutes, until humped, golden at the edges, and the tops spring back when lightly pressed."
+    },
+    {
+      "title": "Unmould and repeat",
+      "text": "Tap the madeleines out of the tin straight away onto a wire rack, as they stick if left to cool in the moulds. Re-butter and flour the tin, then repeat with any remaining chilled batter."
+    },
+    {
+      "title": "Dust and serve",
+      "text": "Dust the cooled madeleines with icing sugar just before serving. They're at their best within a few hours of baking, while the edges are still a little crisp."
+    }
+  ],
+  "tips": [
+    "Don't skip chilling the batter - baking it straight away, without the cold-to-hot contrast, is the main reason madeleines come out flat instead of humped.",
+    "Fill the moulds only three-quarters full; overfilling stops them humping properly and can make them spill over.",
+    "Turn them out immediately after baking, as leaving madeleines in the tin even a minute or two can cause them to stick.",
+    "Keep spare batter chilled between batches so later madeleines hump just as well as the first tray.",
+    "Dust with icing sugar only just before serving, as it will dissolve into the cake if left to sit.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best eaten within a few hours of baking. Any extra can be kept in an airtight container at room temperature for up to 2 days, or frozen for up to 1 month; warm gently before serving to bring back their softness.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 92,
+    "protein_g": 1.2,
+    "carbs_g": 10.5,
+    "sugar_g": 6.3,
+    "free_sugar_g": 6.2,
+    "fat_g": 5.2,
+    "satfat_g": 3.1,
+    "salt_g": 0.07,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "madeleines-cake-like-advanced.jpg",
+  "image_alt": "Shell-shaped golden madeleines piled on a black plate against a dark background."
+}

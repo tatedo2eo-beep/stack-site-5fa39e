@@ -1,0 +1,133 @@
+{
+  "slug": "almond-tuiles",
+  "title": "Almond Tuiles",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "tuiles",
+  "dish_title": "Tuiles",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thin, crisp almond biscuits spread into rounds and curved into a classic tile shape while hot, giving a delicate, snap-in-the-mouth finish.",
+  "servings": 24,
+  "prep_min": 20,
+  "cook_min": 30,
+  "difficulty": "hard",
+  "equipment": [
+    "2 large metal baking trays lined with baking paper or silicone mats",
+    "thin plastic stencil with a 10 cm circle (cut from a lid), optional",
+    "offset spatula",
+    "rolling pin for shaping",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 100,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 90,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large egg whites, at room temperature",
+      "note": "about 100 g"
+    },
+    {
+      "group": "Batter",
+      "qty": 90,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Batter",
+      "qty": 30,
+      "unit": "g",
+      "item": "flaked almonds"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix the batter",
+      "text": "Whisk the icing sugar, flour and salt together, then whisk in the egg whites until smooth. Beat in the melted butter and vanilla extract to make a smooth, pourable batter; whisking in stages like this stops lumps forming in the flour."
+    },
+    {
+      "title": "Rest in the fridge",
+      "text": "Cover the batter and chill for 1-2 hours. A rested batter spreads more evenly in the oven and bakes up crisper, since the flour has time to fully hydrate."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "Towards the end of the chilling time, heat the oven to 190°C (170°C fan) for at least 20 minutes. A fully heated oven is essential here, as these thin biscuits need a quick, even blast of heat to crisp without burning."
+    },
+    {
+      "title": "Spread thin rounds",
+      "text": "Spread 1 level tablespoon of batter very thinly into a 10cm circle, using the stencil as a guide if you have one, and bake only 3-4 at a time. Scatter each with a few flaked almonds; spreading thinly matters, as any thick patches will stay soft in the middle."
+    },
+    {
+      "title": "Bake to golden edges",
+      "text": "Bake for 5-7 minutes, until the edges are golden brown and the centre is just pale golden. The darker rim and paler middle show the sugar at the edge has caramelised while the centre stays delicate."
+    },
+    {
+      "title": "Shape while hot",
+      "text": "Working quickly, lift each tuile with the offset spatula and drape it over the rolling pin to curve. They set into shape in about a minute, so speed matters; if they firm up before shaping, slide the tray back into the oven for 30 seconds to soften again."
+    },
+    {
+      "title": "Cool completely",
+      "text": "Leave the shaped tuiles to cool fully before stacking or storing, as they are fragile and still slightly flexible while warm. Once cold, they turn glass-crisp."
+    }
+  ],
+  "tips": [
+    "Spread the batter as thinly as you can - a common mistake is leaving it too thick, which gives soft, chewy centres instead of an even crisp biscuit.",
+    "Work with only 3-4 tuiles at a time; they harden fast once out of the oven and you need both hands free to shape each one.",
+    "Keep a rolling pin or similar curved object right next to the oven so there's no delay between baking and shaping.",
+    "If your kitchen is humid, tuiles can soften after a few hours - store them in a truly airtight tin to keep them crisp.",
+    "Chilling the batter isn't optional here; it makes a real difference to how evenly the tuiles spread.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store in an airtight container at room temperature for up to 3 days, with baking paper between layers to protect the curved shape. They don't freeze well once baked, as they lose their crispness on thawing.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 67,
+    "protein_g": 1.1,
+    "carbs_g": 7.3,
+    "sugar_g": 4.2,
+    "free_sugar_g": 4.1,
+    "fat_g": 3.7,
+    "satfat_g": 2.0,
+    "salt_g": 0.03,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tuiles-advanced.jpg",
+  "image_alt": "A row of thin, golden almond tuiles on a black plate against a dark background."
+}

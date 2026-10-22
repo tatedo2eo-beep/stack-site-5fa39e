@@ -1,0 +1,131 @@
+{
+  "slug": "chewy-amaretti",
+  "title": "Chewy Amaretti",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "amaretti",
+  "dish_title": "Amaretti",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chewy almond biscuits with a cracked, sugar-dusted crust, rested before baking so the tops split open in the oven.",
+  "servings": 26,
+  "prep_min": 20,
+  "cook_min": 24,
+  "difficulty": "easy",
+  "equipment": [
+    "2 large metal baking trays lined with baking paper",
+    "bowl and whisk",
+    "sieve",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 250,
+      "unit": "g",
+      "item": "ground almonds (blanched)"
+    },
+    {
+      "group": "Dough",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "g",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg whites",
+      "note": "about 66 g"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free almond extract (optional)"
+    },
+    {
+      "group": "To coat",
+      "qty": 60,
+      "unit": "g",
+      "item": "icing sugar, for rolling"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix the almonds",
+      "text": "Mix the ground almonds, caster sugar, salt and lemon zest together in a bowl. Combining the dry ingredients first means the egg white will fold through evenly in the next step."
+    },
+    {
+      "title": "Whisk whites and fold in",
+      "text": "Whisk the egg whites to soft, foamy peaks that just hold their shape at the tips, then fold them into the almond mixture with the almond extract to form a thick, sticky paste. Only lightly whisking the whites keeps the paste dense enough to shape into balls rather than collapsing."
+    },
+    {
+      "title": "Shape and coat",
+      "text": "With damp hands, roll the mixture into 20g balls, then roll each generously in icing sugar. Space them 4cm apart on the lined trays; damp hands stop the sticky paste clinging to your fingers."
+    },
+    {
+      "title": "Rest to form a skin",
+      "text": "Leave the balls uncovered at room temperature for 1 hour, so a dry skin forms on the outside. This skin is what cracks open during baking to give amaretti their characteristic crackled top."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "During the resting time, heat the oven to 160°C (140°C fan) for at least 20 minutes. A moderate, fully heated oven bakes the amaretti through without drying out their chewy centres."
+    },
+    {
+      "title": "Bake until cracked",
+      "text": "Bake for 20-24 minutes, until the tops are cracked and light golden at the base, and the biscuits feel just firm on the outside but still soft when pressed. That softness under a firm crust is exactly what keeps them chewy once cooled."
+    },
+    {
+      "title": "Cool and firm up",
+      "text": "Cool on the tray for 10 minutes, then transfer to a wire rack. They firm up slightly as they cool but stay soft and chewy in the middle."
+    }
+  ],
+  "tips": [
+    "Don't skip the hour-long rest - baking straight away, before a skin has formed, is the main reason amaretti stay smooth instead of cracking open as they bake.",
+    "Keep your hands damp while shaping, as dry hands make the sticky paste impossible to roll neatly.",
+    "Whisk the egg whites only to soft peaks; stiffer whites are harder to fold evenly into the heavy almond paste and leave streaks.",
+    "Roll the balls generously in icing sugar so the coating is thick enough to crackle attractively as the biscuit expands.",
+    "Take them out while the centres still feel soft to the touch - they firm up on cooling, so they'll turn hard if left in the oven until they feel fully set."
+  ],
+  "storage": "Store in an airtight tin at room temperature for up to 1 week. They can be frozen for up to 2 months; thaw at room temperature before serving.",
+  "allergens": [
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 85,
+    "protein_g": 2.3,
+    "carbs_g": 8.7,
+    "sugar_g": 7.4,
+    "free_sugar_g": 6.9,
+    "fat_g": 5.1,
+    "satfat_g": 0.4,
+    "salt_g": 0.03,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "amaretti-advanced.jpg",
+  "image_alt": "Crackled, sugar-dusted amaretti, one broken open to show a chewy centre, on a black plate against a dark background."
+}

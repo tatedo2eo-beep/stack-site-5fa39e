@@ -1,0 +1,131 @@
+{
+  "slug": "langues-de-chat",
+  "title": "Langues de Chat (Cat's Tongue Biscuits)",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "langues-de-chat",
+  "dish_title": "Langues de chat",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Light, crisp little French biscuits piped into slim fingers, with golden edges and a delicate, buttery bite.",
+  "servings": 40,
+  "prep_min": 20,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "2 large metal baking trays lined with baking paper",
+    "stand mixer or electric hand whisk",
+    "piping bag with a 1 cm plain nozzle",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 100,
+      "unit": "g",
+      "item": "unsalted butter, very soft"
+    },
+    {
+      "group": "Batter",
+      "qty": 100,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large egg whites, at room temperature",
+      "note": "about 100 g"
+    },
+    {
+      "group": "Batter",
+      "qty": 110,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "g",
+      "item": "finely grated lemon zest (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 200°C (180°C fan), with a shelf in the middle, for at least 20 minutes before baking. These thin biscuits bake quickly, so the oven needs to be fully up to temperature from the start."
+    },
+    {
+      "title": "Cream the butter",
+      "text": "Beat the very soft butter with the icing sugar, salt and vanilla extract for 1-2 minutes until smooth and creamy. Starting with really soft butter means it blends evenly without needing to beat in excess air."
+    },
+    {
+      "title": "Add egg whites gradually",
+      "text": "Add the egg whites a little at a time, beating well after each addition. Using room-temperature whites and adding them gradually stops the mixture splitting; if it does curdle slightly, beat in a spoonful of the flour to bring it back together."
+    },
+    {
+      "title": "Fold in flour and zest",
+      "text": "Fold in the flour, and the lemon zest if using, just until smooth. Folding rather than beating at this stage keeps the batter light enough to pipe cleanly."
+    },
+    {
+      "title": "Pipe the fingers",
+      "text": "Pipe the batter into fingers about 7-8cm long, spacing them 5cm apart, as they spread considerably in the oven. Tap the tray firmly on the worktop to settle the piped lines and release any air bubbles."
+    },
+    {
+      "title": "Bake until edged golden",
+      "text": "Bake one tray at a time for 6-9 minutes, until the edges are golden brown but the centres are still pale. This contrast between crisp, browned edges and a soft pale middle is exactly what gives langues de chat their delicate bite."
+    },
+    {
+      "title": "Cool and crisp",
+      "text": "Leave on the tray for 1 minute, then lift onto a wire rack. They firm up and turn properly crisp only as they cool, so don't judge them straight from the oven."
+    }
+  ],
+  "tips": [
+    "Make sure the egg whites are truly at room temperature before adding them, as cold whites are the main reason the batter splits.",
+    "Pipe evenly sized fingers so they all bake in the same time - uneven piping means some will be underdone while others overbake.",
+    "Leave plenty of space between the piped lines; a common mistake is crowding the tray, which causes the biscuits to spread into one another.",
+    "Watch closely near the end of baking, as the thin edges can go from golden to overly dark within a minute.",
+    "Bake one tray at a time in the centre of the oven for the most even colour.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store in an airtight tin at room temperature for up to 4 days. They don't freeze well baked, as the thin, crisp texture doesn't survive thawing.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 39,
+    "protein_g": 0.6,
+    "carbs_g": 4.6,
+    "sugar_g": 2.5,
+    "free_sugar_g": 2.5,
+    "fat_g": 2.1,
+    "satfat_g": 1.3,
+    "salt_g": 0.02,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "langues-de-chat-advanced.jpg",
+  "image_alt": "Slender pale langues de chat fanned out on a black plate against a dark background."
+}
