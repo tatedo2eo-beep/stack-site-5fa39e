@@ -1,0 +1,212 @@
+{
+  "slug": "tandoori-chicken",
+  "title": "Tandoori Chicken",
+  "category": "chicken",
+  "cuisine": "Indian (Punjabi)",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "tandoori",
+  "dish_title": "Tandoori",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chicken legs double-marinated in lemon and then a spiced yoghurt mix, roasted hot and finished under the grill for char, served with a fresh mint and coriander chutney.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "roasting tin with a wire rack, lined with foil",
+    "blender or small food processor",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 1200,
+      "unit": "g",
+      "item": "chicken legs (thighs and drumsticks), skin removed, slashed to the bone"
+    },
+    {
+      "group": "First marinade",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "First marinade",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Second marinade",
+      "qty": 200,
+      "unit": "g",
+      "item": "thick plain yoghurt (Greek-style)"
+    },
+    {
+      "group": "Second marinade",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Second marinade",
+      "qty": 5,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Second marinade",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "Kashmiri chilli powder",
+      "note": "or 1½ tsp paprika + ½ tsp hot chilli powder"
+    },
+    {
+      "group": "Second marinade",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "garam masala"
+    },
+    {
+      "group": "Second marinade",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Second marinade",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground coriander"
+    },
+    {
+      "group": "Second marinade",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Second marinade",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried fenugreek leaves (kasuri methi), crushed"
+    },
+    {
+      "group": "Second marinade",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Green chutney",
+      "qty": 20,
+      "unit": "g",
+      "item": "mint leaves"
+    },
+    {
+      "group": "Green chutney",
+      "qty": 30,
+      "unit": "g",
+      "item": "coriander leaves and stems"
+    },
+    {
+      "group": "Green chutney",
+      "qty": 1,
+      "unit": "pc",
+      "item": "green chilli"
+    },
+    {
+      "group": "Green chutney",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Green chutney",
+      "qty": 60,
+      "unit": "g",
+      "item": "plain yoghurt"
+    },
+    {
+      "group": "Green chutney",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "red onion, sliced into rings"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Slash the chicken",
+      "text": "Cut 2-3 slashes through to the bone in each piece of chicken. This lets both marinades and the heat penetrate right through the meat rather than just seasoning the surface."
+    },
+    {
+      "title": "First marinade",
+      "text": "Rub the chicken all over with the lemon juice and salt and leave for 20-30 minutes. The acid and salt begin seasoning the meat and help the thicker second marinade cling properly."
+    },
+    {
+      "title": "Second marinade",
+      "text": "Mix the yoghurt with all the spices, ginger, garlic and oil, then coat the chicken thoroughly, working it into the slashes. Cover and refrigerate for 6-24 hours - the longer marinating time lets the spices and yoghurt's mild acidity tenderise the meat."
+    },
+    {
+      "title": "Roast at high heat",
+      "text": "Heat the oven to 240°C (220°C fan) or its hottest setting, with a shelf in the top third. Lift the chicken from the marinade, letting the excess drip off, onto the rack in the roasting tin, and roast for 25-30 minutes, turning once, until the thigh reaches 80°C and the edges are browned."
+    },
+    {
+      "title": "Char under the grill",
+      "text": "Finish the chicken under a high grill (broiler) for 3-5 minutes until charred in spots, or over high direct heat on a barbecue if you have one. This brief blast of fierce heat mimics the scorch of a tandoor without drying the meat out, since it's already cooked through."
+    },
+    {
+      "title": "Make the chutney",
+      "text": "Blend the mint, coriander, chilli, lemon juice, yoghurt and salt until smooth."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve the chicken with the onion rings, lemon wedges and chutney alongside."
+    }
+  ],
+  "tips": [
+    "Don't skip the first lemon-and-salt marinade - it's what lets the thicker yoghurt marinade grip the meat properly.",
+    "Common mistake: roasting chicken skin-on for this dish. The skin is removed so the spiced yoghurt crust can form directly against the meat.",
+    "Letting excess marinade drip off before roasting stops the tin flooding with liquid and steaming the chicken instead of browning it.",
+    "A short blast under the grill at the end gives the char you'd get from a tandoor - don't be tempted to grill for longer, or the meat will dry out.",
+    "Make the chutney close to serving so the colour stays bright green."
+  ],
+  "storage": "Store cooked chicken in the fridge for up to 3 days. Reheat until piping hot throughout (74°C) in an oven or under the grill rather than the microwave, which won't recreate the charred edges.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 365,
+    "protein_g": 45.5,
+    "carbs_g": 10.0,
+    "sugar_g": 3.6,
+    "free_sugar_g": 0.3,
+    "fat_g": 15.6,
+    "satfat_g": 3.3,
+    "salt_g": 2.11,
+    "fibre_g": 2.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tandoori-advanced.jpg",
+  "image_alt": "Charred, deep red tandoori chicken legs on a platter with red onion rings, lemon wedges and a bowl of bright green mint chutney."
+}

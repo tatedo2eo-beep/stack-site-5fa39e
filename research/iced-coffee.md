@@ -2,17 +2,18 @@
 Dish: Iced coffee / flavour: Classic. Private file, not published.
 
 ## Sources actually opened
-- [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
+- [Better than cold brew: How to make iced filter coffee (James Hoffmann)](https://www.youtube.com/watch?v=PApBycDrPo0) [Tier 1 (locked list): James Hoffmann, his own channel]: Japanese-style iced filter: about 65 g coffee per litre of total water, with about 40% of the water as ice in the server and 60% hot water brewed over it; slightly finer grind; swirl to melt the ice; serve over fresh ice. _(read via search extract; curl 200)_
+- [Japanese-Style Iced Coffee (Serious Eats)](https://www.seriouseats.com/japanese-style-iced-coffee) [Tier 1 (locked list): Serious Eats]: Half the water weight as ice in the carafe; brew double-strength with water at about 93 °C over it; bloom 30 s; the ice melts and dilutes; serve immediately. _(read via search extract; curl 200)_
 - [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
 
-> Written in batch 1 from own cooking judgment before the research rule existed. I did not open recipe websites for it, so none are listed. Facts used: USDA FoodData Central for nutrition and USDA FSIS for safe temperatures.
+> Written in batch 1 from own cooking judgment before the research rule. Re-checked on 22 Oct 2026 against locked-list sources (below); differences are listed under own judgment.
 
 ## Own cooking judgment
-- Method, ratios and quantities from own cooking knowledge.
+- Stronger ratio (20 g coffee for 160 ml water plus 100 g ice, about 77 g per litre) because milk is added; the sources (about 62-65 g per litre) are for black iced coffee.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
 - Doneness cues in the method: 1 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 5 min + cook 5 min against the step times.
 - Quantities checked against servings (1). Nutrition worked from USDA FDC (see content/notes/iced-coffee-nutrition.md).
-- Locked-list sources supporting the core method (excluding FSIS/FDC): 0. Non-top-tier pages are context only.
+- Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.

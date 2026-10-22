@@ -1,0 +1,184 @@
+{
+  "slug": "kung-pao-chicken",
+  "title": "Kung Pao Chicken",
+  "category": "chicken",
+  "cuisine": "Chinese (Sichuan)",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "kung-pao-chicken",
+  "dish_title": "Kung Pao chicken",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Velveted chicken thigh is stir-fried hard with dried chillies, Sichuan peppercorns and peanuts in a sweet-sour soy sauce.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "wok (35 cm) or large frying pan (30 cm)",
+    "wok spatula",
+    "2 small bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 600,
+      "unit": "g",
+      "item": "boneless, skinless chicken thighs, cut into 1.5 cm dice"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Chicken",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "Chinese black vinegar, or rice vinegar"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "sugar"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sesame oil"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 10,
+      "unit": "pc",
+      "item": "dried red chillies, snipped in half, seeds shaken out"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "Sichuan peppercorns"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger, thinly sliced"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 4,
+      "unit": "pc",
+      "item": "spring onions, whites cut into 2 cm lengths, greens sliced"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted roasted peanuts"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Velvet the chicken",
+      "text": "Mix the chicken with the soy sauce, cornflour and water, and leave for 15-30 minutes. This light starch coating protects the meat during fierce heat, keeping it silky, and helps the finished sauce cling."
+    },
+    {
+      "title": "Mix the sauce",
+      "text": "Stir the sauce ingredients together in a small bowl and set aside."
+    },
+    {
+      "title": "Toast the chillies and peppercorns",
+      "text": "Heat the wok over high heat until smoking, then add the oil and swirl. Take it off the heat if very hot, add the dried chillies and Sichuan peppercorns, and stir for 15-20 seconds until the chillies darken a shade and smell toasty - stop before they turn black, as burnt chillies turn bitter."
+    },
+    {
+      "title": "Sear and stir-fry the chicken",
+      "text": "Return the wok to high heat, add the chicken and spread it out, leaving it for 1 minute to sear before stir-frying for 3-4 minutes until no pink remains and it reaches 74°C."
+    },
+    {
+      "title": "Add aromatics and sauce",
+      "text": "Add the garlic, ginger and spring onion whites and stir for 30-60 seconds. Stir the sauce again, pour it in, and toss for 30-60 seconds until glossy and thickened."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Take off the heat and toss through the peanuts and spring onion greens. Serve immediately with rice."
+    }
+  ],
+  "tips": [
+    "Watch the chillies closely as they toast - a few seconds too long turns them bitter rather than fragrant.",
+    "Common mistake: adding the peanuts too early, which makes them soggy. Stir them in right at the end, off the heat, to keep them crunchy.",
+    "Velveting the chicken briefly in cornflour and soy keeps it tender through the high heat of stir-frying.",
+    "Have the sauce mixed and the aromatics prepped before you start cooking, since the stir-fry itself moves quickly.",
+    "Serve straight away; the glossy sauce and crunchy peanuts are best enjoyed fresh from the wok."
+  ],
+  "storage": "Keep in the fridge for up to 2 days. Reheat in a hot wok or pan until piping hot (74°C), as the peanuts will soften if reheated in a microwave.",
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soya",
+    "peanuts"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 411,
+    "protein_g": 34.7,
+    "carbs_g": 12.1,
+    "sugar_g": 4.3,
+    "free_sugar_g": 3.0,
+    "fat_g": 25.0,
+    "satfat_g": 3.7,
+    "salt_g": 1.92,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "kung-pao-chicken-advanced.jpg",
+  "image_alt": "A plate of glossy kung pao chicken with dried red chillies, peanuts and spring onion."
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "high-heat-roast-chicken",
+  "title": "High-Heat Roast Chicken",
+  "category": "chicken",
+  "cuisine": "French / American",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "high-heat-roast-chicken",
+  "dish_title": "High-heat roast chicken",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A whole chicken dry-brined overnight and blasted in a hot oven for crackling skin and a simple buttery pan sauce. Minimal ingredients, maximum colour and flavour.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 60,
+  "difficulty": "medium",
+  "equipment": [
+    "heavy ovenproof frying pan or cast-iron skillet (26-30 cm), or a small heavy roasting tin",
+    "kitchen string",
+    "instant-read thermometer",
+    "carving board"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "whole chicken, about 1.6 kg",
+      "note": "giblets removed"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1.25,
+      "unit": "tsp",
+      "item": "fine salt",
+      "note": "for dry-brining"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Chicken",
+      "qty": 4,
+      "unit": "pc",
+      "item": "sprigs fresh thyme"
+    },
+    {
+      "group": "To finish",
+      "qty": 20,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "Dijon mustard (choose one made without wine)",
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dry-brine overnight",
+      "text": "Pat the chicken completely dry inside and out, then rub the salt all over the skin and into the cavity. Set it uncovered on a rack over a plate and refrigerate for 4-24 hours. The salt seasons the meat deeply while the fridge air dries out the skin, which is the secret to real crackling later."
+    },
+    {
+      "title": "Bring to room temperature",
+      "text": "Take the chicken out of the fridge about 30 minutes before roasting. A bird that isn't fridge-cold in the centre cooks more evenly, so the breast doesn't finish long before the thigh."
+    },
+    {
+      "title": "Season and truss",
+      "text": "Pepper the chicken all over, tuck the thyme sprigs into the cavity, then tie the legs together with kitchen string so the bird holds a compact shape. A trussed chicken cooks more evenly because the legs and breast sit at a similar distance from the heat."
+    },
+    {
+      "title": "Roast at high heat",
+      "text": "Heat the oven to 230°C (210°C fan) - it will smoke a little, so turn on the extractor - and set the chicken breast-up in the dry pan with no added oil, since the skin renders its own fat as it cooks. Roast for 50-60 minutes until the skin is deep golden-brown and crackly, checking the thickest part of the breast reads 74°C and the thigh 77-80°C with a thermometer kept clear of the bone. If the skin browns too fast or the oven smokes heavily, drop the heat to 200°C (180°C fan) and add about 10 minutes."
+    },
+    {
+      "title": "Rest before carving",
+      "text": "Lift the chicken onto a board and let it rest for 15 minutes. The meat finishes cooking gently from its own heat, the juices thicken slightly so less runs out when you carve, and the bird is easier to handle."
+    },
+    {
+      "title": "Make the pan sauce",
+      "text": "While the chicken rests, pour off most of the fat from the pan, then add the butter and mustard to the remaining juices. Scrape up the browned bits over low heat for 1 minute - those caramelised bits carry plenty of flavour into a quick, glossy sauce."
+    },
+    {
+      "title": "Carve and serve",
+      "text": "Carve the chicken into portions and spoon the warm pan juices over the top before serving."
+    }
+  ],
+  "tips": [
+    "Make sure the chicken is completely dry before salting and again before it goes in the oven - any surface moisture steams the skin instead of letting it crisp.",
+    "Common mistake: roasting straight from the fridge. Give the bird 30 minutes at room temperature first so it cooks through evenly.",
+    "A thermometer is far more reliable than the clock - pull the chicken by temperature, not just by time.",
+    "Resist the urge to add oil to the pan; the chicken's own fat is enough and extra oil can leave the skin greasy rather than crisp.",
+    "If the oven is smoking hard, it's better to drop the temperature slightly than end up with bitter, overly dark skin."
+  ],
+  "storage": "Cool leftovers quickly and keep in the fridge for up to 3 days, or freeze cooked meat for up to 2 months. Reheat gently until piping hot all the way through (74°C) before eating.",
+  "allergens": [
+    "milk",
+    "mustard"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 624,
+    "protein_g": 50.8,
+    "carbs_g": 0.6,
+    "sugar_g": 0.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 45.1,
+    "satfat_g": 14.3,
+    "salt_g": 2.33,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "keller-roast-chicken-advanced.jpg",
+  "image_alt": "A golden-brown whole roast chicken with crisp, deeply burnished skin resting in a cast-iron pan, surrounded by buttery pan juices and fresh thyme sprigs."
+}

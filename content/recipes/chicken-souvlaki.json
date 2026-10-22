@@ -1,0 +1,179 @@
+{
+  "slug": "chicken-souvlaki",
+  "title": "Chicken Souvlaki with Tzatziki",
+  "category": "chicken",
+  "cuisine": "Greek",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "chicken-souvlaki",
+  "dish_title": "Chicken souvlaki",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Lemon and oregano-marinated chicken thigh skewers are grilled until charred, served with a thick, garlicky cucumber tzatziki and warm pitta.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "8 metal or soaked bamboo skewers",
+    "barbecue, griddle pan or grill (broiler)",
+    "sieve or clean tea towel",
+    "large bowl",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Skewers",
+      "qty": 700,
+      "unit": "g",
+      "item": "boneless, skinless chicken thighs, cut into 3-4 cm pieces"
+    },
+    {
+      "group": "Skewers",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Skewers",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Skewers",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Skewers",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "dried oregano"
+    },
+    {
+      "group": "Skewers",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Skewers",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Tzatziki",
+      "qty": 250,
+      "unit": "g",
+      "item": "thick Greek-style yoghurt"
+    },
+    {
+      "group": "Tzatziki",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "cucumber, coarsely grated",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Tzatziki",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Tzatziki",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Tzatziki",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "chopped dill or mint"
+    },
+    {
+      "group": "Tzatziki",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Tzatziki",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "pitta breads"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "tomatoes, cut into wedges"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "red onion, thinly sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Marinate the chicken",
+      "text": "Mix the oil, lemon juice, garlic, oregano, salt and pepper, then toss with the chicken and refrigerate for 1-8 hours. Marinating much longer than 8 hours lets the lemon juice start to break down the surface of the meat, turning it mushy rather than tender."
+    },
+    {
+      "title": "Make the tzatziki",
+      "text": "Toss the grated cucumber with the salt in a sieve and leave for 15 minutes, then squeeze it firmly in a tea towel to remove excess water - this step stops the finished tzatziki turning watery. Mix the drained cucumber with the yoghurt, garlic, dill or mint, olive oil and lemon juice, then chill."
+    },
+    {
+      "title": "Thread the skewers",
+      "text": "Thread the marinated chicken onto the skewers with the pieces just touching."
+    },
+    {
+      "title": "Grill until charred",
+      "text": "Heat a barbecue or griddle pan until very hot, or heat the grill (broiler) on high. Cook the skewers for 10-12 minutes, turning every 2-3 minutes, until charred at the edges and the chicken reaches 74°C."
+    },
+    {
+      "title": "Warm the pittas and serve",
+      "text": "Warm the pittas on the grill for 30 seconds a side. Serve the skewers with the warm pitta, tzatziki, tomato wedges and sliced red onion."
+    }
+  ],
+  "tips": [
+    "Don't marinate much past 8 hours - the lemon juice is strong enough that extended marinating softens the chicken's texture too much.",
+    "Common mistake: skipping the step of squeezing the cucumber dry, which leaves the tzatziki thin and watery.",
+    "Pack the chicken pieces close together on the skewers so they stay juicy rather than drying out between gaps.",
+    "A very hot grill or griddle is key to getting char on the outside before the chicken overcooks.",
+    "Warm the pittas just briefly - too long on the heat and they turn dry rather than soft."
+  ],
+  "storage": "Keep cooked chicken and tzatziki separately in the fridge for up to 2 days. Reheat chicken until piping hot (74°C); tzatziki is best served cold rather than reheated.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 566,
+    "protein_g": 46.8,
+    "carbs_g": 43.5,
+    "sugar_g": 6.5,
+    "free_sugar_g": 1.1,
+    "fat_g": 22.2,
+    "satfat_g": 5.1,
+    "salt_g": 2.5,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chicken-souvlaki-basic.jpg",
+  "image_alt": "Charred chicken souvlaki skewers served with warm pitta, a bowl of thick tzatziki, tomato wedges and sliced red onion."
+}

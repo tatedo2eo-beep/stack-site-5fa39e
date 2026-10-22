@@ -1,0 +1,174 @@
+{
+  "slug": "piri-piri-chicken",
+  "title": "Piri-Piri Chicken",
+  "category": "chicken",
+  "cuisine": "Portuguese / Mozambican",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "piri-piri",
+  "dish_title": "Piri-piri",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A spatchcocked whole chicken marinated in a blended chilli, garlic and lemon sauce, then grilled or roasted until charred and juicy.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 55,
+  "difficulty": "medium",
+  "equipment": [
+    "blender",
+    "poultry shears",
+    "barbecue with a lid, or a large roasting tin with a rack",
+    "small saucepan",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "whole chicken, about 1.6 kg, spatchcocked (backbone removed and flattened)",
+      "note": "ask the butcher, or use poultry shears"
+    },
+    {
+      "group": "Piri-piri sauce",
+      "qty": 6,
+      "unit": "pc",
+      "item": "red bird's-eye chillies (or 3 for milder)"
+    },
+    {
+      "group": "Piri-piri sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "red pepper, roughly chopped"
+    },
+    {
+      "group": "Piri-piri sauce",
+      "qty": 5,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Piri-piri sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "shallot, chopped"
+    },
+    {
+      "group": "Piri-piri sauce",
+      "qty": 60,
+      "unit": "ml",
+      "item": "olive oil"
+    },
+    {
+      "group": "Piri-piri sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "tomato purée (paste)"
+    },
+    {
+      "group": "Piri-piri sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Piri-piri sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Piri-piri sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "smoked or sweet paprika"
+    },
+    {
+      "group": "Piri-piri sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried oregano"
+    },
+    {
+      "group": "Piri-piri sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Piri-piri sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves, crumbled"
+    },
+    {
+      "group": "Piri-piri sauce",
+      "qty": 1.25,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "lemons, halved"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend the piri-piri sauce",
+      "text": "Blend all the sauce ingredients until smooth. Simmer the sauce in a small pan for 3-4 minutes, which cooks out the raw edge of the garlic and tomato and mellows the chilli's heat slightly, then let it cool."
+    },
+    {
+      "title": "Spatchcock the chicken",
+      "text": "Cut out the backbone with poultry shears and press down firmly on the breastbone to flatten the bird. Slash the legs and breast 2-3 times so the marinade and heat can reach deeper into the meat."
+    },
+    {
+      "title": "Marinate",
+      "text": "Coat the chicken with half the sauce, working it both under and over the skin, keeping the other half aside for serving. Cover and refrigerate for 6-24 hours."
+    },
+    {
+      "title": "Barbecue",
+      "text": "Set up two heat zones on the barbecue, with coals or burners lit on one side only. Place the chicken skin-side up on the cool side, cover with the lid, and cook for 35-45 minutes until the thigh reaches around 70°C, then move it skin-side down over the hot side for 4-6 minutes, watching for flare-ups, until charred and crisp and the breast reaches 74°C and the thigh 77-80°C."
+    },
+    {
+      "title": "Or roast and grill",
+      "text": "Without a barbecue, roast on a rack in a tin at 220°C (200°C fan), skin-up, for 45-55 minutes until the same temperatures are reached, then finish under the grill (broiler) for 3-4 minutes to char the skin."
+    },
+    {
+      "title": "Char the lemons and rest",
+      "text": "Grill the lemon halves cut-side down for 3-4 minutes until caramelised. Rest the chicken for 10 minutes, then cut into pieces and serve with the reserved sauce and the grilled lemons."
+    }
+  ],
+  "tips": [
+    "Simmering the blended sauce briefly before marinating softens the raw chilli bite and deepens the flavour.",
+    "Common mistake: using the same sauce for marinating and serving. Keep half back untouched by raw chicken for the table.",
+    "Two-zone grilling - cooking through on gentle heat, then charring on fierce heat - gives crisp skin without burning before the meat is cooked.",
+    "Reduce the chilli quantity if you want a milder result; the flavour will still come through at half the amount.",
+    "Grilling the lemon halves adds a caramelised sweetness that balances the chilli's heat."
+  ],
+  "storage": "Keep cooked chicken in the fridge for up to 3 days. Reheat until piping hot throughout (74°C); it's also good served cold the next day.",
+  "allergens": [
+    "sulphites"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 737,
+    "protein_g": 50.4,
+    "carbs_g": 8.1,
+    "sugar_g": 3.5,
+    "free_sugar_g": 0.4,
+    "fat_g": 55.2,
+    "satfat_g": 13.5,
+    "salt_g": 2.3,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "piri-piri-advanced.jpg",
+  "image_alt": "A charred, spatchcocked piri-piri chicken on a board with blackened lemon halves and a bowl of red chilli sauce alongside."
+}

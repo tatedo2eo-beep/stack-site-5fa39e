@@ -1,0 +1,142 @@
+{
+  "slug": "yakitori",
+  "title": "Yakitori (Chicken and Spring Onion Skewers)",
+  "category": "chicken",
+  "cuisine": "Japanese",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "yakitori",
+  "dish_title": "Yakitori",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chicken thigh and spring onion skewers grilled hard and basted with a reduced soy glaze until sticky, glossy and lightly charred.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "12 bamboo skewers (soaked 30 min) or metal skewers",
+    "small saucepan",
+    "pastry brush",
+    "barbecue, or a grill (broiler) with a foil-lined tray and rack",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Skewers",
+      "qty": 700,
+      "unit": "g",
+      "item": "boneless, skin-on or skinless chicken thighs, cut into 3 cm pieces"
+    },
+    {
+      "group": "Skewers",
+      "qty": 8,
+      "unit": "pc",
+      "item": "thick spring onions (white and pale green parts), cut into 3 cm lengths"
+    },
+    {
+      "group": "Skewers",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Tare (glaze)",
+      "qty": 100,
+      "unit": "ml",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Tare (glaze)",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "sugar"
+    },
+    {
+      "group": "Tare (glaze)",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Tare (glaze)",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, smashed"
+    },
+    {
+      "group": "Tare (glaze)",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger, sliced"
+    },
+    {
+      "group": "Tare (glaze)",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cornflour mixed with 1 tbsp water",
+      "note": "optional, for a thicker glaze"
+    },
+    {
+      "group": "Skewers",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "shichimi or chilli flakes",
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the tare glaze",
+      "text": "Simmer the soy sauce, sugar, water, garlic and ginger in a small pan over medium heat for 8-10 minutes until reduced by about a third and syrupy. Stir in the cornflour slurry if using and bubble for 30 seconds to thicken slightly, then strain and cool. Pour some into a separate bowl for basting, so a brush that has touched raw chicken is never dipped back into the sauce you'll serve."
+    },
+    {
+      "title": "Thread the skewers",
+      "text": "Thread the chicken and spring onion pieces alternately onto the skewers, packing them tightly together. Tight packing helps the meat stay juicy and stops the pieces spinning when you turn them on the grill."
+    },
+    {
+      "title": "Grill and glaze",
+      "text": "Lightly oil the skewers, then grill over very hot direct heat on a barbecue for 8-10 minutes, turning every 2 minutes, until browned all over. Brush with the tare during the last 3-4 minutes, building up 2-3 coats until glossy and lightly charred and the chicken reaches 74°C. Without a barbecue, grill (broiler) on high with the rack 8-10cm from the heat for 10-12 minutes, turning regularly and basting towards the end."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Brush once more with the clean reserved tare and sprinkle with shichimi or chilli flakes if using, then serve straight away while hot and glossy."
+    }
+  ],
+  "tips": [
+    "Keep a strictly separate bowl of tare for basting versus serving - this avoids cross-contaminating the finished sauce with raw chicken juices.",
+    "Common mistake: brushing glaze on too early, which burns the sugars before the chicken is cooked. Save most of the basting for the last few minutes.",
+    "Pack the skewers tightly; gaps between pieces dry out and cook unevenly.",
+    "If you prefer a plainer version, skip the tare entirely and simply season the skewers with salt (shio-style).",
+    "A hot, direct flame is what gives the characteristic char, so don't be tempted to cook these low and slow."
+  ],
+  "storage": "Leftover cooked skewers keep in the fridge for up to 2 days. Reheat gently until piping hot (74°C) under the grill or in a hot pan rather than the microwave, to keep the glaze from turning gluey.",
+  "allergens": [
+    "gluten",
+    "soya"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 276,
+    "protein_g": 35.9,
+    "carbs_g": 7.6,
+    "sugar_g": 4.7,
+    "free_sugar_g": 4.0,
+    "fat_g": 10.7,
+    "satfat_g": 2.2,
+    "salt_g": 2.34,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "yakitori-advanced.jpg",
+  "image_alt": "Glossy, lightly charred chicken and spring onion skewers glazed with a dark soy tare on a black tray."
+}

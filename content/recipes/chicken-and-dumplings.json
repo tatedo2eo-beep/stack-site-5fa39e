@@ -1,0 +1,212 @@
+{
+  "slug": "chicken-and-dumplings",
+  "title": "Chicken and Dumplings",
+  "category": "chicken",
+  "cuisine": "American (Southern)",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "chicken-and-dumplings",
+  "dish_title": "Chicken and dumplings",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Bone-in chicken is browned and simmered into a creamy vegetable stew, then topped with soft dumplings that steam on top until fluffy.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 75,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy casserole (28 cm, 5-6 litres) with a tight lid",
+    "mixing bowl",
+    "2 forks",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 1000,
+      "unit": "g",
+      "item": "bone-in, skin-on chicken thighs and drumsticks"
+    },
+    {
+      "group": "Stew",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Stew",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Stew",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Stew",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Stew",
+      "qty": 2,
+      "unit": "pc",
+      "item": "carrots, sliced"
+    },
+    {
+      "group": "Stew",
+      "qty": 2,
+      "unit": "pc",
+      "item": "celery sticks, sliced"
+    },
+    {
+      "group": "Stew",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Stew",
+      "qty": 35,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Stew",
+      "qty": 1200,
+      "unit": "ml",
+      "item": "reduced-salt chicken stock",
+      "note": "or home-made unsalted stock"
+    },
+    {
+      "group": "Stew",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fresh thyme leaves"
+    },
+    {
+      "group": "Stew",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "Stew",
+      "qty": 80,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Stew",
+      "qty": 100,
+      "unit": "g",
+      "item": "frozen peas"
+    },
+    {
+      "group": "Dumplings",
+      "qty": 250,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dumplings",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Dumplings",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Dumplings",
+      "qty": 200,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Dumplings",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Dumplings",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped parsley"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown the chicken",
+      "text": "Season the chicken with the salt and pepper. Melt half the butter in the casserole over medium-high heat and brown the chicken skin-side down for 6-8 minutes until golden, then lift it out - this step builds flavour and renders some fat into the pot."
+    },
+    {
+      "title": "Soften the vegetables",
+      "text": "Lower the heat to medium, add the remaining butter, and cook the onion, carrot and celery for 6-8 minutes until softened. Add the garlic for 1 minute."
+    },
+    {
+      "title": "Build the stew",
+      "text": "Stir in the flour and cook for 1 minute, then slowly whisk in the stock. Add the thyme and bay leaves, return the chicken to the pot, and simmer gently, partly covered, for 30-35 minutes until the thighs reach 80°C and are tender."
+    },
+    {
+      "title": "Shred the chicken",
+      "text": "Lift the chicken out, discard the skin and bones, and shred the meat into large pieces."
+    },
+    {
+      "title": "Finish the stew",
+      "text": "Stir the cream and peas into the stew, then return the shredded chicken and bring back to a gentle simmer. Taste and adjust the seasoning."
+    },
+    {
+      "title": "Mix the dumplings",
+      "text": "Whisk together the flour, baking powder, salt and parsley, then stir in the milk and melted butter just until a soft, sticky dough forms - overmixing at this stage will make the dumplings tough rather than light."
+    },
+    {
+      "title": "Steam the dumplings",
+      "text": "Drop 12 heaped spoonfuls of the dumpling dough onto the simmering stew, spaced apart. Cover tightly and cook on low heat for 15-18 minutes without lifting the lid, since trapped steam is what cooks the tops, until the dumplings are doubled in size, firm, and a skewer comes out clean."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Let the pot rest for 5 minutes before serving so the stew settles slightly."
+    }
+  ],
+  "tips": [
+    "Mix the dumpling dough only until just combined - overworking it develops the flour's gluten and makes the dumplings dense.",
+    "Common mistake: lifting the lid to check on the dumplings while they steam. Trust the time; removing the lid lets steam escape and can leave the tops undercooked.",
+    "Browning the chicken skin first, even though the skin is discarded later, builds a deeper flavour base for the stew.",
+    "Shred the chicken into fairly large pieces so it doesn't disappear into the stew.",
+    "Space the dumplings out when you drop them in, as they expand significantly while steaming."
+  ],
+  "storage": "Keep in the fridge for up to 3 days; dumplings soften on standing but still taste good. Reheat gently on the hob until piping hot throughout (74°C); freezing isn't recommended as the dumplings turn gluey.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "celery"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 908,
+    "protein_g": 39.6,
+    "carbs_g": 71.2,
+    "sugar_g": 8.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 51.2,
+    "satfat_g": 22.1,
+    "salt_g": 2.78,
+    "fibre_g": 5.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chicken-and-dumplings-basic.jpg",
+  "image_alt": "A bowl of creamy chicken and vegetable stew topped with plump, golden-flecked dumplings, steam rising from the surface."
+}

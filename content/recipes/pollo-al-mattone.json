@@ -1,0 +1,131 @@
+{
+  "slug": "pollo-al-mattone",
+  "title": "Chicken Under a Brick (Pollo al Mattone)",
+  "category": "chicken",
+  "cuisine": "Italian (Tuscan)",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "pollo-al-mattone-chicken-under-a-brick",
+  "dish_title": "Pollo al mattone (chicken under a brick)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A spatchcocked chicken, rubbed with garlic, rosemary and chilli, is weighted down in a hot pan for crisp, even skin, then finished in the oven with caramelised lemon.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "large cast-iron or heavy ovenproof frying pan (30 cm)",
+    "a second heavy pan, or 2 foil-wrapped bricks, for weighting",
+    "poultry shears",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "whole chicken, about 1.6 kg, spatchcocked (backbone removed and flattened)",
+      "note": "ask the butcher, or use poultry shears"
+    },
+    {
+      "group": "Marinade",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Marinade",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Marinade",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely chopped rosemary"
+    },
+    {
+      "group": "Marinade",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Marinade",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "chilli flakes"
+    },
+    {
+      "group": "Marinade",
+      "qty": 1.25,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Marinade",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "lemons, halved"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Spatchcock the chicken",
+      "text": "Cut out the backbone with poultry shears, flip the chicken over, and press firmly on the breastbone to flatten it. Tuck the wing tips behind the breast to keep the shape neat."
+    },
+    {
+      "title": "Marinate",
+      "text": "Mix the oil, garlic, rosemary, lemon zest and chilli flakes, then season the chicken all over with the salt and pepper and rub with the paste, keeping some garlic off the very surface of the skin where it's more likely to burn. Refrigerate for 1-24 hours."
+    },
+    {
+      "title": "Sear under a weight",
+      "text": "Heat a thin film of oil in the pan over medium-high heat for 2 minutes, then lay the chicken skin-side down. Place the second pan or weighted bricks on top to press the skin flat against the pan's surface, since even contact is what gives evenly crisp skin. Cook for 15-20 minutes, lowering the heat to medium if it smokes hard, lifting the weight to check after 10 minutes, until the skin is deep golden and crisp."
+    },
+    {
+      "title": "Finish in the oven",
+      "text": "Heat the oven to 220°C (200°C fan). Remove the weight, flip the chicken skin-up, and place the lemon halves cut-side down beside it in the pan. Transfer to the oven for 15-20 minutes until the breast reaches 74°C and the thigh 77-80°C."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Rest the chicken for 10 minutes, then cut into pieces and squeeze over the caramelised roasted lemons."
+    }
+  ],
+  "tips": [
+    "Press the weight down evenly across the whole chicken; uneven pressure means uneven crisping.",
+    "Common mistake: leaving garlic sitting directly on the skin surface, where it can scorch and taste bitter under the high heat. Rub it in rather than leaving visible pieces on top.",
+    "Lower the heat if the pan starts smoking heavily during the weighted sear - a slightly gentler heat still crisps the skin without burning it.",
+    "Roasting the lemon halves alongside the chicken gives a sweet, caramelised note that's worth not skipping.",
+    "Rest the chicken for 10 minutes before carving: it finishes cooking gently and is far easier and less messy to cut."
+  ],
+  "storage": "Keep in the fridge for up to 3 days. Reheat gently until piping hot throughout (74°C); a hot oven will do more to preserve crispness than a microwave.",
+  "allergens": [],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 636,
+    "protein_g": 49.4,
+    "carbs_g": 1.9,
+    "sugar_g": 0.2,
+    "free_sugar_g": 0.1,
+    "fat_g": 46.6,
+    "satfat_g": 12.3,
+    "salt_g": 2.28,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pollo-al-mattone-chicken-under-a-brick-basic.jpg",
+  "image_alt": "A flattened, deeply golden chicken with crisp skin and herbs on a dark plate with charred lemon halves."
+}

@@ -1,0 +1,210 @@
+{
+  "slug": "butter-chicken",
+  "title": "Butter Chicken",
+  "category": "chicken",
+  "cuisine": "Indian (Punjabi)",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "butter-chicken",
+  "dish_title": "Butter chicken",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Yoghurt-marinated chicken thighs are charred under the grill, then finished in a buttery tomato, cream and garam masala sauce.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "foil-lined baking tray with a rack",
+    "large deep frying pan or sauté pan (28 cm)",
+    "stick blender or blender",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 700,
+      "unit": "g",
+      "item": "boneless, skinless chicken thighs, cut into 4 cm pieces"
+    },
+    {
+      "group": "Chicken",
+      "qty": 100,
+      "unit": "g",
+      "item": "plain yoghurt"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "garam masala"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "Kashmiri chilli powder",
+      "note": "or paprika"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Sauce",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Sauce",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "garam masala"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "Kashmiri chilli powder"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "tomato purée (paste)"
+    },
+    {
+      "group": "Sauce",
+      "qty": 400,
+      "unit": "g",
+      "item": "tin crushed tomatoes"
+    },
+    {
+      "group": "Sauce",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sugar",
+      "note": "optional, only if the tomatoes are sharp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried fenugreek leaves (kasuri methi), crushed"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped coriander"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Marinate the chicken",
+      "text": "Mix the chicken with the yoghurt, garam masala, chilli powder and salt, then cover and refrigerate for 1-12 hours. The yoghurt's mild acidity tenderises the meat while the spices start to flavour it right through."
+    },
+    {
+      "title": "Char under the grill",
+      "text": "Spread the marinated chicken on the rack and grill (broiler) on high for 8-10 minutes, turning once, until charred at the edges. It doesn't need to be fully cooked yet, since it will finish gently in the sauce."
+    },
+    {
+      "title": "Build the sauce base",
+      "text": "Melt the butter with the oil in the pan over medium heat, then cook the onion with a pinch of salt for 8-10 minutes until soft and golden. Add the garlic and ginger for 1 minute, then the spices for 30 seconds until fragrant - this brief blooming in hot fat is what wakes up their flavour."
+    },
+    {
+      "title": "Simmer the tomato base",
+      "text": "Stir in the tomato purée for 1 minute, then add the tinned tomatoes, water and salt. Simmer for 10-12 minutes until thickened, then blend the sauce smooth, taking care as it will be hot."
+    },
+    {
+      "title": "Finish and cook the chicken through",
+      "text": "Return the sauce to the pan and stir in the cream and fenugreek leaves, then add the chicken and any juices. Simmer gently for 8-10 minutes until the chicken reaches 74°C and the sauce is thick enough to coat the back of a spoon."
+    },
+    {
+      "title": "Taste and serve",
+      "text": "Taste the sauce and add the sugar only if the tomatoes taste sharp. Scatter with coriander and serve with rice or naan."
+    }
+  ],
+  "tips": [
+    "Char the chicken under a hot grill rather than cooking it through at this stage - it finishes cooking in the sauce, which keeps it juicy.",
+    "Common mistake: blending the sauce while it's still thin and raw-tasting. Simmering it down first concentrates the flavour before you purée it.",
+    "Blend carefully in batches if needed, as hot sauce can spit and splatter.",
+    "Only add sugar if the tomatoes are noticeably sharp - good tinned tomatoes rarely need it.",
+    "Crush the dried fenugreek leaves between your fingers before adding; it releases their distinctive aroma."
+  ],
+  "storage": "Keep in the fridge for up to 3 days or freeze for up to 2 months. Thaw in the fridge and reheat gently, stirring often, until piping hot throughout (74°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 504,
+    "protein_g": 39.3,
+    "carbs_g": 18.5,
+    "sugar_g": 10.3,
+    "free_sugar_g": 1.0,
+    "fat_g": 31.1,
+    "satfat_g": 14.9,
+    "salt_g": 2.41,
+    "fibre_g": 4.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "butter-chicken-advanced.jpg",
+  "image_alt": "A bowl of butter chicken in a glossy orange tomato and cream sauce with a swirl of cream, with naan bread alongside."
+}

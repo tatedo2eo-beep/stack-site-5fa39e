@@ -1,0 +1,212 @@
+{
+  "slug": "general-tsos-chicken",
+  "title": "General Tso's Chicken",
+  "category": "chicken",
+  "cuisine": "Chinese-American",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "general-tsos-chicken",
+  "dish_title": "General Tso's chicken",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Crisply fried chicken thigh pieces are tossed in a sweet-sour, lightly spiced sauce with garlic, ginger and dried chillies, served with broccoli and rice.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "heavy pot or deep casserole (at least 24 cm, 5 litres)",
+    "frying thermometer",
+    "wire rack over a tray",
+    "tongs or spider strainer",
+    "wok or large frying pan",
+    "medium bowl",
+    "steamer or saucepan for the broccoli"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 600,
+      "unit": "g",
+      "item": "boneless, skinless chicken thighs, cut into 3 cm pieces"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "egg white"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Coating",
+      "qty": 60,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "Coating",
+      "qty": 40,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Coating",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "For frying",
+      "qty": 1200,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "rice vinegar"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "sugar"
+    },
+    {
+      "group": "Sauce",
+      "qty": 150,
+      "unit": "ml",
+      "item": "reduced-salt chicken stock or water"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sesame oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 6,
+      "unit": "pc",
+      "item": "dried red chillies"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "pc",
+      "item": "spring onions, sliced"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sesame seeds"
+    },
+    {
+      "group": "To serve",
+      "qty": 300,
+      "unit": "g",
+      "item": "broccoli florets"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Marinate the chicken",
+      "text": "Toss the chicken with the egg white and soy sauce and leave for 15-30 minutes, which seasons the meat and helps the coating stick."
+    },
+    {
+      "title": "Make the craggy coating",
+      "text": "Whisk together the cornflour, flour and baking powder, then add 2 tablespoons of the marinade liquid and rub it through with your fingers to form small clumps - this gives the coating a rougher, crunchier texture than a smooth batter. Dredge the chicken in it, pressing the coating on, then set the pieces on the rack."
+    },
+    {
+      "title": "Fry in batches",
+      "text": "Heat 4-5cm of oil in a heavy pot to 175°C. Fry the chicken in 3 batches for 4-5 minutes each until golden, crisp and the centre reaches 74°C, draining on the rack and letting the oil return to 175°C between batches."
+    },
+    {
+      "title": "Steam the broccoli",
+      "text": "Steam the broccoli florets for 3-4 minutes until bright green and just tender."
+    },
+    {
+      "title": "Make the sauce",
+      "text": "Stir together the soy sauce, rice vinegar, sugar, stock and cornflour with the sesame oil."
+    },
+    {
+      "title": "Stir-fry the aromatics and sauce",
+      "text": "Heat the oil in a wok over medium-high, add the dried chillies for 15 seconds, then the garlic, ginger and spring onion whites for 30 seconds. Pour in the sauce mixture and stir until it boils and turns thick and glossy, about 1 minute - no rice wine is needed here, since the balance comes from the soy, vinegar and sugar alone."
+    },
+    {
+      "title": "Toss and serve",
+      "text": "Take the wok off the heat, add the fried chicken, and toss quickly to coat - tossing it in off the heat keeps the coating crisp rather than softening it in the hot sauce. Scatter with the spring onion greens and sesame seeds, and serve with the broccoli and rice."
+    }
+  ],
+  "tips": [
+    "Let the oil return to 175°C between frying batches, or the chicken will turn greasy rather than crisp.",
+    "Common mistake: leaving the fried chicken sitting in the hot sauce for too long. Toss it through quickly off the heat so the crust stays crunchy.",
+    "Rubbing a little marinade liquid into the dry coating before dredging is what gives the craggy, extra-crunchy texture.",
+    "Steam the broccoli just until bright green - overcooking turns it dull and soft.",
+    "Have everything prepped before you start the final stir-fry, as the sauce thickens and the chicken needs tossing in within a minute or two."
+  ],
+  "storage": "Best eaten fresh, as the coating softens on standing. Leftovers keep in the fridge for up to 2 days; reheat in a hot oven or air fryer until piping hot (74°C) to help recrisp the coating.",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "sesame",
+    "soya",
+    "celery"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 520,
+    "protein_g": 35.0,
+    "carbs_g": 35.3,
+    "sugar_g": 10.9,
+    "free_sugar_g": 9.0,
+    "fat_g": 26.5,
+    "satfat_g": 3.3,
+    "salt_g": 2.32,
+    "fibre_g": 3.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "general-tso-s-chicken-basic.jpg",
+  "image_alt": "Glossy General Tso's chicken pieces in a dark sweet-savoury sauce with sesame seeds, next to steamed broccoli."
+}

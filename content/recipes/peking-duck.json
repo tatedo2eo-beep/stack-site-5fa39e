@@ -1,0 +1,165 @@
+{
+  "slug": "peking-duck",
+  "title": "Peking-Style Roast Duck with Pancakes",
+  "category": "chicken",
+  "cuisine": "Chinese (Beijing)",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "peking-duck",
+  "dish_title": "Peking duck",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A whole duck is scalded, glazed with honey and vinegar, air-dried, then slow-roasted for deeply crisp mahogany skin, served with pancakes, hoisin and fresh vegetables.",
+  "servings": 4,
+  "prep_min": 40,
+  "cook_min": 100,
+  "difficulty": "hard",
+  "equipment": [
+    "roasting tin with a wire rack",
+    "kettle",
+    "small saucepan",
+    "pastry brush",
+    "steamer or microwave for the pancakes",
+    "sharp carving knife",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Duck",
+      "qty": 1,
+      "unit": "pc",
+      "item": "whole duck, about 2.2 kg",
+      "note": "giblets removed, neck flap intact"
+    },
+    {
+      "group": "Duck",
+      "qty": 1500,
+      "unit": "ml",
+      "item": "boiling water, for scalding"
+    },
+    {
+      "group": "Glaze",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "honey"
+    },
+    {
+      "group": "Glaze",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "rice vinegar"
+    },
+    {
+      "group": "Glaze",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "hot water"
+    },
+    {
+      "group": "Cavity seasoning",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Cavity seasoning",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "Chinese five-spice"
+    },
+    {
+      "group": "Cavity seasoning",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger, sliced"
+    },
+    {
+      "group": "Cavity seasoning",
+      "qty": 2,
+      "unit": "pc",
+      "item": "spring onions"
+    },
+    {
+      "group": "To serve",
+      "qty": 16,
+      "unit": "pc",
+      "item": "Chinese mandarin pancakes",
+      "note": "bought, or homemade"
+    },
+    {
+      "group": "To serve",
+      "qty": 80,
+      "unit": "ml",
+      "item": "hoisin sauce"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "cucumber, cut into thin batons"
+    },
+    {
+      "group": "To serve",
+      "qty": 6,
+      "unit": "pc",
+      "item": "spring onions, cut into fine 6 cm strips"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the cavity",
+      "text": "Pat the duck dry, trim any excess neck skin and remove loose fat from inside the cavity. Season inside with the salt and five-spice, add the ginger slices and spring onions, then close the opening with a skewer."
+    },
+    {
+      "title": "Scald the skin",
+      "text": "Set the duck on a rack in the sink and pour the boiling water slowly over all the skin in 2-3 rounds, until it visibly tightens and shrinks. This scalding sets the skin's structure so it dries out and crisps properly rather than staying rubbery."
+    },
+    {
+      "title": "Glaze and dry",
+      "text": "Pat the duck dry, then warm the honey, rice vinegar and hot water together until the honey dissolves, and brush it thinly all over the skin. Refrigerate uncovered on a rack over a tray for 24-36 hours until the skin feels dry and leathery, brushing once more with glaze after 12 hours."
+    },
+    {
+      "title": "Roast low and slow",
+      "text": "Heat the oven to 175°C (155°C fan). Set the duck breast-up on the rack in the tin with 1cm of water underneath to stop dripping fat from smoking, and roast for 1 hour. Lower the oven to 120°C (100°C fan) and continue for 30-40 minutes until the fat has largely stopped dripping, the skin is deep mahogany and crisp, and the thickest part of the breast and thigh reach 74°C."
+    },
+    {
+      "title": "Crisp the skin if needed",
+      "text": "If the skin isn't fully crisp, raise the oven to 220°C (200°C fan) for 5-8 minutes, watching closely since the honey glaze can scorch quickly."
+    },
+    {
+      "title": "Rest, carve and serve",
+      "text": "Rest the duck for 10 minutes. Warm the pancakes by steaming for 3-4 minutes or microwaving covered with damp paper for 30-45 seconds, then carve the duck's skin and meat into thin slices. Let each diner spread hoisin on a pancake, add duck, cucumber and spring onion, and roll it up."
+    }
+  ],
+  "tips": [
+    "Don't skip the long drying time in the fridge - it's what gives the skin its deep, even crispness once roasted.",
+    "Don't rush the roast. Duck has a thick layer of fat under the skin, and the long moderate-then-low roast gives it time to render out; a fast, very hot roast burns the honey glaze before the fat has melted away, leaving flabby skin.",
+    "Scald the skin thoroughly and evenly; patchy scalding leads to patchy crisping.",
+    "Watch the honey glaze closely if you raise the oven temperature at the end, as it can burn within minutes.",
+    "Carve just before serving so the pancakes and vegetables stay fresh and the duck is still warm."
+  ],
+  "storage": "Keep leftover duck in the fridge for up to 2 days. Reheat gently in a hot oven until piping hot (74°C) to help restore some crispness; freezing isn't recommended as it softens the skin.",
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soya"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 734,
+    "protein_g": 20.2,
+    "carbs_g": 34.1,
+    "sugar_g": 9.8,
+    "free_sugar_g": 8.2,
+    "fat_g": 57.1,
+    "satfat_g": 18.7,
+    "salt_g": 2.64,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "peking-duck-advanced.jpg",
+  "image_alt": "Thin slices of glossy, mahogany-skinned roast duck arranged beside soft pancakes, hoisin sauce, cucumber batons and spring onion strips."
+}

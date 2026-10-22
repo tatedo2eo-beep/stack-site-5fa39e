@@ -1,0 +1,174 @@
+{
+  "slug": "jerk-chicken",
+  "title": "Jerk Chicken",
+  "category": "chicken",
+  "cuisine": "Jamaican",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "jerk",
+  "dish_title": "Jerk",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chicken leg quarters marinated overnight in a Scotch bonnet, allspice and thyme paste, then grilled or roasted until smoky, charred and tender.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 50,
+  "difficulty": "medium",
+  "equipment": [
+    "blender",
+    "large bowl or zip bag",
+    "barbecue with a lid, or a roasting tin with a rack",
+    "instant-read thermometer",
+    "disposable gloves (for the chillies)"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 4,
+      "unit": "pc",
+      "item": "chicken leg quarters (thigh and drumstick), about 1.2 kg"
+    },
+    {
+      "group": "Jerk marinade",
+      "qty": 2,
+      "unit": "pc",
+      "item": "Scotch bonnet chillies, stemmed (seeded for milder)"
+    },
+    {
+      "group": "Jerk marinade",
+      "qty": 6,
+      "unit": "pc",
+      "item": "spring onions, chopped"
+    },
+    {
+      "group": "Jerk marinade",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Jerk marinade",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger"
+    },
+    {
+      "group": "Jerk marinade",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fresh thyme leaves"
+    },
+    {
+      "group": "Jerk marinade",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground allspice"
+    },
+    {
+      "group": "Jerk marinade",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Jerk marinade",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Jerk marinade",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Jerk marinade",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "brown sugar"
+    },
+    {
+      "group": "Jerk marinade",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Jerk marinade",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Jerk marinade",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Jerk marinade",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "lime, cut into wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend the marinade",
+      "text": "Wearing gloves to protect your hands from the Scotch bonnets, blend all the marinade ingredients to a thick paste."
+    },
+    {
+      "title": "Marinate the chicken",
+      "text": "Slash each piece of chicken 2-3 times down to the bone, then rub the paste all over and into the cuts. Cover and refrigerate for 12-24 hours - the long marinating time lets the allspice, thyme and chilli work right through the meat."
+    },
+    {
+      "title": "Barbecue over two zones",
+      "text": "Set up a two-zone fire, placing the chicken skin-up on the cool side with the lid on, and cook for 35-45 minutes until the thigh reaches around 75°C. Move it over the hot side for 3-5 minutes per side until charred in patches and the thigh reaches 80°C; a few soaked wood chips or whole allspice berries scattered on the coals add extra smokiness."
+    },
+    {
+      "title": "Or roast and grill",
+      "text": "Without a barbecue, roast on a rack at 200°C (180°C fan), skin-up, for 40-45 minutes until the thigh reaches 80°C, then finish under the grill (broiler) for 3-4 minutes to char the skin."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Rest the chicken for 5 minutes before serving with lime wedges on the side."
+    }
+  ],
+  "tips": [
+    "Wear gloves when handling Scotch bonnets - their oils linger on skin and can irritate eyes if you touch your face.",
+    "Common mistake: marinating for too short a time. Jerk chicken relies on a long marinade, ideally the full 24 hours, for the flavour to penetrate.",
+    "Two-zone cooking lets the chicken cook through gently before it's charred over direct heat, so it doesn't burn before it's done.",
+    "Soaked wood chips or whole allspice berries on the coals are an easy way to add real smokiness without special equipment.",
+    "Seed the Scotch bonnets if you'd prefer a milder but still well-flavoured marinade."
+  ],
+  "storage": "Store cooked chicken in the fridge for up to 3 days or freeze for up to 2 months. Reheat until piping hot throughout (74°C).",
+  "allergens": [
+    "gluten",
+    "soya"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 529,
+    "protein_g": 34.1,
+    "carbs_g": 10.4,
+    "sugar_g": 4.1,
+    "free_sugar_g": 3.2,
+    "fat_g": 39.0,
+    "satfat_g": 9.3,
+    "salt_g": 2.04,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "jerk-advanced.jpg",
+  "image_alt": "Smoky, deeply charred jerk chicken leg quarters piled on a platter with fresh lime wedges."
+}
