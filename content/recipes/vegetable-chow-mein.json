@@ -1,0 +1,194 @@
+{
+  "slug": "vegetable-chow-mein",
+  "title": "Vegetable Chow Mein",
+  "category": "pasta-noodles",
+  "cuisine": "Chinese",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "chow-mein-lo-mein",
+  "dish_title": "Chow mein/lo mein",
+  "flavour": "Vegetable",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "chow-mein",
+  "changes_from_base": "No chicken or oyster sauce; peppers, carrot, mangetout and bean sprouts with a soy glaze; noodles fried loose.",
+  "summary": "This vegetarian variant follows the classic chow mein method but leaves out chicken and oyster sauce, stir-frying peppers, carrot, mangetout and bean sprouts in a soy glaze with the noodles fried loose.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot (at least 4 litres)",
+    "colander",
+    "rimmed baking tray",
+    "wok (35 cm) or large non-stick frying pan (30 cm)",
+    "wok spatula or tongs",
+    "small bowls for the prepared ingredients"
+  ],
+  "ingredients": [
+    {
+      "group": "Noodles",
+      "qty": 300,
+      "unit": "g",
+      "item": "fresh thin egg noodles (chow mein or Hong Kong-style)"
+    },
+    {
+      "group": "Noodles",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "neutral oil (rapeseed, sunflower or vegetable)"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "light soy sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "dark soy sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground white pepper"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil (rapeseed, sunflower or vegetable)"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "red pepper, in thin strips"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "green pepper, in thin strips"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "carrot, cut into matchsticks"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 100,
+      "unit": "g",
+      "item": "mangetout or sugar snap peas, halved lengthways"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 150,
+      "unit": "g",
+      "item": "bean sprouts"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 4,
+      "unit": "pc",
+      "item": "spring onions, cut into 4 cm lengths"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook and dry the noodles",
+      "text": "This vegetable version follows the same noodle method as the classic chow mein, with no meat or oyster sauce, so it's suitable for vegetarians. Boil the noodles in 3 litres of unsalted water for 1 minute until flexible, then drain and rinse under cold water until cool. Shake off the excess water, toss with 1 teaspoon of the oil and spread on a tray for 10 minutes so they're dry enough to crisp rather than steam later."
+    },
+    {
+      "title": "Mix the sauce",
+      "text": "Stir together the light and dark soy sauces, sugar, sesame oil, white pepper and water in a small bowl. This thin glaze is meant to coat the noodles and vegetables lightly rather than form a thick sauce."
+    },
+    {
+      "title": "Char the peppers and carrot",
+      "text": "Heat 1 tablespoon of oil in the wok over high heat and stir-fry the peppers and carrot for 2 minutes until they pick up some light charring at the edges. Add the mangetout for a further minute, then lift everything out onto a plate. Cooking the vegetables first and briefly keeps them crunchy instead of turning soft by the time they're served."
+    },
+    {
+      "title": "Fry the noodles loose",
+      "text": "Add 2 tablespoons of oil and the noodles to the wok, spreading them out and leaving them undisturbed for short spells over 3-4 minutes until they're crisp in places."
+    },
+    {
+      "title": "Return vegetables and glaze",
+      "text": "Add the remaining oil, garlic and ginger and stir for 20 seconds, then return the peppers, carrot and mangetout to the wok. Pour in the sauce and toss for 1 minute until the noodles have turned an even brown all over."
+    },
+    {
+      "title": "Add sprouts and spring onion",
+      "text": "Scatter in the bean sprouts and spring onions and toss for a final 30 seconds, just enough to warm them through while they keep their crunch. Serve immediately while everything is hot and glossy."
+    }
+  ],
+  "tips": [
+    "Stir-fry the peppers, carrot and mangetout briefly and set them aside rather than leaving them in the wok throughout, or they'll overcook and lose their crunch by the time you serve.",
+    "Dry the noodles well before frying — any leftover water will make them steam rather than brown.",
+    "Add the bean sprouts right at the end, as they turn watery if they sit in the hot wok too long.",
+    "This sauce stays thin rather than thickening, so judge doneness by colour on the noodles rather than looking for a glossy, clinging sauce."
+  ],
+  "storage": "Keep in a covered container in the fridge for up to 2 days. Reheat in a hot wok or microwave until piping hot throughout. This dish doesn't freeze well, as the peppers and bean sprouts turn limp and watery once thawed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "sesame",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 392,
+    "protein_g": 12.5,
+    "carbs_g": 55.2,
+    "sugar_g": 7.7,
+    "free_sugar_g": 1.0,
+    "fat_g": 14.2,
+    "satfat_g": 1.3,
+    "salt_g": 1.49,
+    "fibre_g": 4.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chow-mein-lo-mein-basic--vegetable.jpg",
+  "image_alt": "Chow mein with red pepper, carrot, mangetout and spring onions on a black plate on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

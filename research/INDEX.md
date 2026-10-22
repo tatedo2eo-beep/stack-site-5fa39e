@@ -14,6 +14,9 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | banana-bread | Banana bread/quick breads | Classic | 2 | 4 |
 | bbq-chicken-wings | Chicken wings | BBQ | 2 | 4 |
 | beef-chili | Chili con carne | Classic | 2 | 4 |
+| beef-chow-fun | Beef chow fun | Classic | 3 | 5 |
+| beef-chow-mein | Chow mein/lo mein | Beef | 3 | 5 |
+| beef-lo-mein | Lo mein | Beef | 2 | 4 |
 | black-and-white-cookies | Black-and-white | Classic | 2 | 4 |
 | black-bean-burger | Veggie/bean burger | Classic | 2 | 6 |
 | brookies | Brookies | Classic | 2 | 4 |
@@ -34,6 +37,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chicken-65 | Chicken 65 | Classic | 2 | 5 |
 | chicken-adobo | Chicken adobo | Classic | 2 | 5 |
 | chicken-and-dumplings | Chicken and dumplings | Classic | 2 | 4 |
+| chicken-chow-mein | Chow mein/lo mein | Chicken | 3 | 5 |
 | chicken-fried-steak | Chicken fried steak | Classic | 3 | 6 |
 | chicken-inasal | Chicken inasal | Classic | 1 | 4 |
 | chicken-kiev | Chicken Kiev | Classic | 2 | 4 |
@@ -49,6 +53,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chocolate-dipped-shortbread | Shortbread | Chocolate-dipped | 2 | 5 |
 | chocolate-rugelach | Rugelach | Chocolate | 2 | 4 |
 | chocolate-sandwich-cookies | Sandwich cookies | Classic | 2 | 4 |
+| chow-mein | Chow mein/lo mein | Classic | 3 | 5 |
 | classic-almond-biscotti | Biscotti | Classic | 3 | 5 |
 | classic-butter-shortbread | Shortbread | Classic | 2 | 6 |
 | classic-cheeseburger | Cheeseburger | Classic | 4 | 7 |
@@ -88,6 +93,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-bars | Lemon bars | Classic | 3 | 5 |
 | lemon-cut-out-sugar-cookies | Sugar/cut-out | Lemon | 2 | 4 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
+| lo-mein | Lo mein | Classic | 2 | 4 |
 | madeleines | Madeleines (cake-like) | Classic | 3 | 5 |
 | malloreddus-saffron-tomato | Malloreddus | Classic | 2 | 4 |
 | millionaires-shortbread | Bars (magic bars, millionaire's shortbread) | Classic | 4 | 6 |
@@ -99,6 +105,9 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | ohn-no-khao-swe | Ohn no khao swè | Classic | 2 | 4 |
 | oklahoma-onion-burger | Oklahoma onion burger | Classic | 3 | 7 |
 | orecchiette-broccoli | Hand-rolled shapes (orecchiette, pici, trofie, cavatelli) | Classic | 3 | 5 |
+| pad-see-ew | Pad see ew | Classic | 3 | 5 |
+| pad-thai-tofu | Pad thai | Tofu | 3 | 5 |
+| pad-thai | Pad thai | Classic | 2 | 4 |
 | pappardelle-beef-ragu | Pappardelle | Classic | 2 | 4 |
 | pasta-al-limone | Pasta al limone | Classic | 2 | 4 |
 | pasta-alla-norma | Alla Norma | Classic | 2 | 4 |
@@ -140,6 +149,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | thumbprint-cookies | Thumbprints | Classic | 3 | 5 |
 | trenette-al-pesto | Trenette al pesto | Classic | 3 | 5 |
 | trofie-al-pesto | Trofie | Classic | 3 | 5 |
+| vegetable-chow-mein | Chow mein/lo mein | Vegetable | 2 | 4 |
+| vegetable-lo-mein | Lo mein | Vegetable | 2 | 4 |
 | yakitori | Yakitori | Classic | 2 | 4 |
 | yangnyeom-chicken | Yangnyeom chicken | Classic | 3 | 6 |
 

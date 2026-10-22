@@ -1,0 +1,215 @@
+{
+  "slug": "beef-chow-mein",
+  "title": "Beef and Broccoli Chow Mein",
+  "category": "pasta-noodles",
+  "cuisine": "Chinese",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "chow-mein-lo-mein",
+  "dish_title": "Chow mein/lo mein",
+  "flavour": "Beef",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "chow-mein",
+  "changes_from_base": "Velveted flank steak and broccoli in an oyster-soy glaze; noodles fried loose rather than as a cake.",
+  "summary": "This variant follows the classic chow mein method but uses velveted flank steak and broccoli in an oyster-soy glaze, with the noodles fried loose instead of pressed into a crisp cake.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot (at least 4 litres)",
+    "colander",
+    "rimmed baking tray",
+    "wok (35 cm) or large non-stick frying pan (30 cm)",
+    "wok spatula or tongs",
+    "small bowls for the prepared ingredients"
+  ],
+  "ingredients": [
+    {
+      "group": "Noodles",
+      "qty": 300,
+      "unit": "g",
+      "item": "fresh thin egg noodles (chow mein or Hong Kong-style)"
+    },
+    {
+      "group": "Noodles",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "neutral oil (rapeseed, sunflower or vegetable)"
+    },
+    {
+      "group": "Beef",
+      "qty": 350,
+      "unit": "g",
+      "item": "flank or skirt steak, sliced thinly across the grain"
+    },
+    {
+      "group": "Beef",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Beef",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "light soy sauce"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "oyster sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "light soy sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dark soy sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "neutral oil (rapeseed, sunflower or vegetable)"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 250,
+      "unit": "g",
+      "item": "broccoli, in small florets"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, thinly sliced",
+      "note": "about 120 g"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 3,
+      "unit": "pc",
+      "item": "spring onions, cut into 4 cm lengths"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook and dry the noodles",
+      "text": "This beef and broccoli version follows the same noodle method as the classic chow mein but fries the noodles loose rather than into a cake. Boil the noodles in 3 litres of unsalted water for 1 minute until flexible, then drain and rinse under cold water. Shake them dry, toss with 1 teaspoon of the oil and spread on a tray for 10 minutes so the surface isn't wet when it hits the hot pan."
+    },
+    {
+      "title": "Velvet the beef",
+      "text": "Toss the sliced steak with the bicarbonate of soda and water and leave for 10 minutes, then mix in the soy sauce and cornflour. The bicarbonate raises the surface pH of the meat, which keeps it tender through the fierce heat of stir-frying instead of turning tough and chewy."
+    },
+    {
+      "title": "Mix the sauce",
+      "text": "Stir together the oyster sauce, light and dark soy sauces, sugar, water and cornflour in a small bowl. Keep it near the wok, as the cornflour will need another stir just before it's added."
+    },
+    {
+      "title": "Sear the beef",
+      "text": "Heat 1 tablespoon of oil in the wok until it's smoking hot, then spread the beef out in a single layer and leave it undisturbed for 1 minute to sear. Stir-fry for a further minute until it's well browned with no pink remaining, then lift it out onto a plate. A smoking-hot wok and an undisturbed sear are what give the beef its colour rather than a greyish, boiled look."
+    },
+    {
+      "title": "Fry the noodles loose",
+      "text": "Add 2 tablespoons of oil and the noodles to the wok, frying them in short bursts — spreading them out, leaving them for a minute, then tossing — for 3-4 minutes until they're crisp in patches. Push them to one side once you're happy with the colour."
+    },
+    {
+      "title": "Stir-fry onion and broccoli",
+      "text": "Add the remaining oil, onion, garlic and ginger, then the broccoli florets with 2 tablespoons of water, and stir-fry for 2-3 minutes. The broccoli is ready when it's turned a brighter green and is just tender, with the water helping it steam through without scorching the garlic."
+    },
+    {
+      "title": "Return beef and glaze",
+      "text": "Return the beef to the wok, stir the sauce once more and pour it in, then toss everything for 1 minute until the noodles and vegetables are glossy and evenly coated."
+    },
+    {
+      "title": "Finish with spring onion",
+      "text": "Scatter over the spring onions and give one last toss before serving straight away, while the noodles are still hot and the sauce is glossy rather than sitting in a pool."
+    }
+  ],
+  "tips": [
+    "Don't skip the bicarbonate soak on the beef — it's what keeps thinly sliced flank steak tender rather than chewy after the high heat of stir-frying.",
+    "Make sure the wok is properly smoking hot before the beef goes in, or it will stew in its own juices instead of browning.",
+    "Check the beef is browned with no pink remaining before it comes out of the wok, then let it finish gently when you return it later.",
+    "Fry the noodles in short undisturbed bursts rather than constant stirring, so patches get the chance to catch and crisp."
+  ],
+  "storage": "Store in a covered container in the fridge for up to 2 days. Reheat in a hot wok or microwave until steaming hot throughout (at least 74°C). Freezing isn't recommended, as the broccoli and noodles turn soft and watery once thawed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "soya",
+    "molluscs"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 522,
+    "protein_g": 30.3,
+    "carbs_g": 53.6,
+    "sugar_g": 3.7,
+    "free_sugar_g": 1.0,
+    "fat_g": 20.9,
+    "satfat_g": 3.9,
+    "salt_g": 2.08,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chow-mein-lo-mein-basic--beef.jpg",
+  "image_alt": "Chow mein with sliced beef and broccoli on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

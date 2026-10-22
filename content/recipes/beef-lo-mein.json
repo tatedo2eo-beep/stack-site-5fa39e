@@ -1,0 +1,210 @@
+{
+  "slug": "beef-lo-mein",
+  "title": "Beef Lo Mein with Pak Choi",
+  "category": "pasta-noodles",
+  "cuisine": "Chinese",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "lo-mein",
+  "dish_title": "Lo mein",
+  "flavour": "Beef",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "lo-mein",
+  "changes_from_base": "Velveted flank steak and onion instead of chicken, shiitake and carrot; water in the sauce instead of stock.",
+  "summary": "This version follows the classic chicken lo mein method but uses velveted flank steak and onion instead of chicken, shiitake and carrot, with water in place of stock in the sauce.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot (at least 4 litres)",
+    "colander",
+    "wok (35 cm) or large non-stick frying pan (30 cm)",
+    "wok spatula or tongs",
+    "small bowls for the prepared ingredients"
+  ],
+  "ingredients": [
+    {
+      "group": "Noodles",
+      "qty": 400,
+      "unit": "g",
+      "item": "fresh egg noodles (lo mein)"
+    },
+    {
+      "group": "Noodles",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Beef",
+      "qty": 350,
+      "unit": "g",
+      "item": "flank or skirt steak, sliced thinly across the grain"
+    },
+    {
+      "group": "Beef",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Beef",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "light soy sauce"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "oyster sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "light soy sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "dark soy sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil (rapeseed, sunflower or vegetable)"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, thinly sliced",
+      "note": "about 120 g"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 300,
+      "unit": "g",
+      "item": "pak choi, stems sliced, leaves halved"
+    },
+    {
+      "group": "Stir-fry",
+      "qty": 4,
+      "unit": "pc",
+      "item": "spring onions, cut into 4 cm lengths"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the noodles",
+      "text": "This beef version follows the same soft-tossed noodle method as the chicken lo mein. Boil the noodles in 3 litres of unsalted water for 2-3 minutes until just tender with a little bite, then drain and rinse briefly under warm water to remove the surface starch. Shake dry and toss with the sesame oil, as these noodles need to be fully cooked before they're tossed rather than fried."
+    },
+    {
+      "title": "Velvet the beef",
+      "text": "Mix the bicarbonate of soda and water into the steak slices, wait 10 minutes, then work in the soy sauce and cornflour. The bicarbonate softens the meat's surface so it stays tender rather than tough once it hits the high heat of the wok."
+    },
+    {
+      "title": "Whisk the sauce",
+      "text": "Whisk together the oyster sauce, light and dark soy sauces, sugar, water and cornflour in a jug, ready to go by the stove."
+    },
+    {
+      "title": "Sear the beef",
+      "text": "Heat the oil in the wok until smoking, then sear the beef in one layer for 1 minute before stir-frying for a further minute, until it's browned all over with no pink left. Lift it out onto a plate."
+    },
+    {
+      "title": "Stir-fry onion and pak choi",
+      "text": "Add the remaining oil to the wok and stir-fry the onion for 2 minutes until it softens and picks up some colour at the edges. Add the garlic, ginger and pak choi stems for 1 minute, then the leaves for a final 30 seconds."
+    },
+    {
+      "title": "Toss noodles with beef",
+      "text": "Add the noodles, beef and sauce to the wok and toss everything for 1-2 minutes until glossy and well coated."
+    },
+    {
+      "title": "Finish with spring onion",
+      "text": "Scatter over the spring onions, toss briefly and serve immediately while the noodles are still hot."
+    }
+  ],
+  "tips": [
+    "Don't skip the bicarbonate soak on the beef — thin slices of flank steak turn tough very quickly without it.",
+    "Make sure the wok is smoking hot before the beef goes in, so it sears rather than stews in its own juices.",
+    "Cook the noodles fully before tossing, as they won't get a second chance to soften the way chow mein noodles do in the pan.",
+    "Add the pak choi leaves last, since they wilt within seconds and go limp and watery if left in too long."
+  ],
+  "storage": "Store in a covered container in the fridge for up to 2 days. Reheat in a hot wok or microwave with a splash of water until piping hot throughout (at least 74°C). Not suitable for freezing, as the pak choi and noodles lose their texture once thawed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "sesame",
+    "soya",
+    "molluscs"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 553,
+    "protein_g": 32.6,
+    "carbs_g": 65.1,
+    "sugar_g": 3.6,
+    "free_sugar_g": 1.0,
+    "fat_g": 17.9,
+    "satfat_g": 3.8,
+    "salt_g": 2.34,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "lo-mein-basic--beef.jpg",
+  "image_alt": "Lo mein with sliced beef and pak choi in a black bowl on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}
