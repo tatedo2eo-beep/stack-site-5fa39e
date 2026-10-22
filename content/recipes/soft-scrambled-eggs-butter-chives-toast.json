@@ -1,0 +1,129 @@
+{
+  "slug": "soft-scrambled-eggs-butter-chives-toast",
+  "title": "Soft Scrambled Eggs with Butter, Chives and Toast",
+  "category": "breakfast",
+  "cuisine": "International",
+  "chapter": "eggs",
+  "book_chapter": "eggs",
+  "dish": "scrambled",
+  "dish_title": "Scrambled",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Gently folded scrambled eggs with large, tender curds, cooked through until no liquid egg remains and spooned over hot buttered toast with fresh chives. A five-minute breakfast that rewards patience and low heat.",
+  "servings": 2,
+  "prep_min": 3,
+  "cook_min": 6,
+  "difficulty": "easy",
+  "equipment": [
+    "medium bowl",
+    "fork or whisk",
+    "20-24 cm non-stick frying pan",
+    "heatproof silicone spatula",
+    "toaster",
+    "instant-read thermometer",
+    "2 warm plates"
+  ],
+  "ingredients": [
+    {
+      "group": "Eggs",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Eggs",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "whole milk"
+    },
+    {
+      "group": "Eggs",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Eggs",
+      "qty": 1,
+      "unit": "pc",
+      "item": "pinch ground black pepper"
+    },
+    {
+      "group": "Eggs",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "thick slices bread, toasted",
+      "note": "about 40 g each"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "chives, finely snipped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk until even",
+      "text": "In the medium bowl, whisk the eggs with the milk, salt and pepper for about 30 seconds, until the mixture is an even yellow with no streaks of white. Fully combining the whites and yolks means every curd sets at the same rate, and the salt added now helps the proteins hold on to moisture."
+    },
+    {
+      "title": "Foam the butter",
+      "text": "Set the non-stick pan over medium-low heat and add the butter. Once it has melted and just begins to foam, the pan is ready; browned butter would mean the heat is too high and the eggs would catch before they set."
+    },
+    {
+      "title": "Form large curds",
+      "text": "Pour in the eggs and leave them alone for 10 seconds. Then draw the spatula slowly across the base from the edge towards the centre, turning the pan as you go, so broad, soft folds of egg build up. Slow, wide strokes create big curds, while fast stirring would break them into small, dry crumbs."
+    },
+    {
+      "title": "Cook through gently",
+      "text": "Keep folding for 3-4 minutes, turning the heat down if the base starts to brown. The eggs are ready when no liquid egg is left and the curds look moist rather than glossy and raw, reaching 71 °C. Taking the pan off the heat the moment they set keeps them tender, as carry-over heat would otherwise squeeze out water."
+    },
+    {
+      "title": "Toast and serve",
+      "text": "While the eggs cook, toast the bread. Pile the eggs onto the toast, scatter over the chives and eat straight away, since scrambled eggs firm up and weep as they sit."
+    }
+  ],
+  "tips": [
+    "A common mistake is cooking over high heat to save time; the curds turn rubbery and leak water, so keep the flame at medium-low and be patient.",
+    "Use a silicone spatula to reach right into the corners of the pan so no egg sits still and overcooks.",
+    "Warm the plates before serving so the eggs do not cool and firm up before you eat.",
+    "Snip the chives with scissors just before serving for the freshest, mildest onion flavour."
+  ],
+  "storage": "Best eaten freshly made. If you have leftovers, refrigerate within 1 hour, use within 1 day and reheat until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 313,
+    "protein_g": 16.7,
+    "carbs_g": 21.4,
+    "sugar_g": 3.5,
+    "free_sugar_g": 2.3,
+    "fat_g": 17.4,
+    "satfat_g": 7.6,
+    "salt_g": 1.59,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "scrambled-basic.jpg",
+  "image_alt": "Soft yellow scrambled eggs piled on a thick slice of toast on a dark plate, scattered with snipped chives.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

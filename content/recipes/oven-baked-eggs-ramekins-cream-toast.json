@@ -1,0 +1,122 @@
+{
+  "slug": "oven-baked-eggs-ramekins-cream-toast",
+  "title": "Oven-Baked Eggs in Ramekins with Cream and Toast",
+  "category": "breakfast",
+  "cuisine": "French",
+  "chapter": "eggs",
+  "book_chapter": "eggs",
+  "dish": "baked-eggs-en-cocotte",
+  "dish_title": "Baked eggs (en cocotte)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Eggs baked in buttered ramekins over a spoonful of cream in a gentle water bath until the whites are firm and the yolks fully set. Simple and elegant, served with toast fingers for scooping.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "4 ramekins (about 180 ml each)",
+    "deep roasting tin",
+    "kettle",
+    "pastry brush",
+    "instant-read thermometer",
+    "oven gloves",
+    "toaster"
+  ],
+  "ingredients": [
+    {
+      "group": "Ramekins",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Ramekins",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "double cream"
+    },
+    {
+      "group": "Eggs",
+      "qty": 8,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Eggs",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Eggs",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "slices bread, toasted",
+      "note": "about 40 g each"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat oven and kettle",
+      "text": "Heat the oven to 190 °C (170 °C fan) and boil a kettle of water. Brush the inside of the ramekins with the softened butter and stand them in the deep roasting tin. The butter lets the eggs release cleanly and adds richness."
+    },
+    {
+      "title": "Fill the ramekins",
+      "text": "Spoon 1 tbsp of the cream into each ramekin, crack 2 eggs into each one and season with the salt. The cream sits beneath the eggs as a cushion, protecting them from the hot base so they cook evenly."
+    },
+    {
+      "title": "Add the water bath",
+      "text": "Carefully pour hot water from the kettle into the tin until it comes halfway up the sides of the ramekins. Water cannot rise above 100 °C, so it surrounds the eggs with steady, gentle heat and stops the whites turning rubbery before the yolks have set."
+    },
+    {
+      "title": "Bake until set",
+      "text": "Bake for 16-20 minutes, checking from 14 minutes, until the whites are firm and the yolks are fully set with no liquid yolk, 71 °C in the centre of the yolk. Deeper ramekins need the longer time, so trust the thermometer and the look of the yolk rather than the clock alone."
+    },
+    {
+      "title": "Serve hot",
+      "text": "Wearing oven gloves, lift the ramekins out of the tin onto plates, taking care as they are very hot. Sprinkle with the pepper and serve with the toast cut into fingers."
+    }
+  ],
+  "tips": [
+    "A common mistake is skipping the water bath; the outer whites overcook and the base catches, so always bake the ramekins in hot water.",
+    "Crack each egg into a small bowl first, then slide it into the ramekin so you can fish out any shell.",
+    "Warn everyone that the ramekins stay very hot for several minutes after they come out of the oven.",
+    "Ramekins vary in depth and thickness, so start checking at 14 minutes the first time you make these."
+  ],
+  "storage": "Best eaten straight from the oven. Refrigerate any leftovers within 1 hour, use within 1 day and reheat until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 319,
+    "protein_g": 16.6,
+    "carbs_g": 21.0,
+    "sugar_g": 3.1,
+    "free_sugar_g": 2.3,
+    "fat_g": 18.3,
+    "satfat_g": 8.2,
+    "salt_g": 1.22,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "baked-eggs-en-cocotte-basic.jpg",
+  "image_alt": "A dark ramekin holding two baked eggs, with fingers of toast alongside on a dark plate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

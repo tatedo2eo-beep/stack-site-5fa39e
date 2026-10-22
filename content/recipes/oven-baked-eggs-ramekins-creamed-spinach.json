@@ -1,0 +1,158 @@
+{
+  "slug": "oven-baked-eggs-ramekins-creamed-spinach",
+  "title": "Oven-Baked Eggs in Ramekins with Creamed Spinach",
+  "category": "breakfast",
+  "cuisine": "French",
+  "chapter": "eggs",
+  "book_chapter": "eggs",
+  "dish": "baked-eggs-en-cocotte",
+  "dish_title": "Baked eggs (en cocotte)",
+  "flavour": "Spinach",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "oven-baked-eggs-ramekins-cream-toast",
+  "changes_from_base": "Same water-bath baked eggs with a layer of creamed spinach, shallot, nutmeg and hard cheese under the eggs in place of plain cream.",
+  "summary": "A heartier version of the classic baked eggs in ramekins: the same water-bath method, but the eggs sit in a nest of creamed spinach with shallot, nutmeg and hard cheese instead of plain cream. Baked until the yolks are fully set and served with toast.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "4 ramekins (about 180 ml each)",
+    "deep roasting tin",
+    "kettle",
+    "pastry brush",
+    "instant-read thermometer",
+    "oven gloves",
+    "toaster",
+    "large frying pan",
+    "colander"
+  ],
+  "ingredients": [
+    {
+      "group": "Spinach",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Spinach",
+      "qty": 1,
+      "unit": "pc",
+      "item": "shallot, finely chopped"
+    },
+    {
+      "group": "Spinach",
+      "qty": 300,
+      "unit": "g",
+      "item": "baby spinach"
+    },
+    {
+      "group": "Spinach",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "double cream"
+    },
+    {
+      "group": "Spinach",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Spinach",
+      "qty": 20,
+      "unit": "g",
+      "item": "Parmesan-style hard cheese, finely grated (animal-rennet-free)"
+    },
+    {
+      "group": "Eggs",
+      "qty": 8,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Eggs",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Eggs",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "slices bread, toasted",
+      "note": "about 40 g each"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Oven, kettle, ramekins",
+      "text": "This follows the classic baked-egg method, with creamed spinach replacing the plain cream. Heat the oven to 190 °C (170 °C fan) and boil a kettle. Grease the ramekins with a little of the butter and stand them in the deep roasting tin."
+    },
+    {
+      "title": "Soften the shallot",
+      "text": "Melt the remaining butter in the large frying pan over medium heat and cook the shallot for 3 minutes until soft and translucent. Cooking it first takes away its raw sharpness so it blends sweetly into the sauce."
+    },
+    {
+      "title": "Wilt and squeeze",
+      "text": "Add the spinach in batches, stirring for 2-3 minutes until it has all wilted, then tip it into the colander and press out the liquid firmly. Spinach holds a surprising amount of water, and removing it keeps the filling thick so it does not flood the ramekins."
+    },
+    {
+      "title": "Make it creamy",
+      "text": "Return the spinach to the pan with the cream and nutmeg and simmer for 1-2 minutes until thick. Off the heat, stir in the cheese, which melts into the cream and helps bind the spinach together."
+    },
+    {
+      "title": "Nest the eggs",
+      "text": "Divide the spinach among the ramekins and press a hollow into the centre of each with a spoon. Crack 2 eggs into each hollow and season with the salt. The hollow keeps the eggs in the middle, where they bake evenly."
+    },
+    {
+      "title": "Bake in water",
+      "text": "Pour hot water from the kettle into the tin to come halfway up the ramekins. Bake for 16-20 minutes, checking from 14 minutes, until the whites are firm and the yolks are fully set with no liquid yolk (71 °C in the centre of the yolk); deeper ramekins take longer."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Lift the ramekins out with oven gloves onto plates, as they will be very hot. Grind over the pepper and serve with fingers of toast for dipping into the spinach."
+    }
+  ],
+  "tips": [
+    "A common mistake is leaving the spinach wet; press it hard in the colander or the filling turns watery and the eggs take longer to set.",
+    "Choose an animal-rennet-free Parmesan-style hard cheese and check the label.",
+    "Grate the nutmeg sparingly if using whole; a little lifts the spinach, too much tastes medicinal.",
+    "The spinach base can be made a few hours ahead and chilled, then filled and baked when needed, allowing a couple of extra minutes."
+  ],
+  "storage": "Best eaten freshly baked. Refrigerate leftovers within 1 hour, use within 1 day and reheat until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 372,
+    "protein_g": 20.8,
+    "carbs_g": 25.6,
+    "sugar_g": 4.2,
+    "free_sugar_g": 2.3,
+    "fat_g": 20.9,
+    "satfat_g": 9.7,
+    "salt_g": 1.57,
+    "fibre_g": 3.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "baked-eggs-en-cocotte-basic--spinach.jpg",
+  "image_alt": "Two baked eggs nestled in creamy spinach in a dark ramekin, sprinkled with black pepper.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

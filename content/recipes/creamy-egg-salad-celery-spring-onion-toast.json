@@ -1,0 +1,155 @@
+{
+  "slug": "creamy-egg-salad-celery-spring-onion-toast",
+  "title": "Creamy Egg Salad with Celery, Spring Onion and Toast",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "eggs",
+  "book_chapter": "eggs",
+  "dish": "egg-salad",
+  "dish_title": "Egg salad",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chunky, creamy egg salad made with fully set hard-boiled eggs, crunchy celery, spring onion and a bright hint of lemon and mustard. Serve it on lettuce with toast for an easy lunch.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "slotted spoon",
+    "bowl of iced water",
+    "medium bowl",
+    "fork",
+    "chopping board and knife",
+    "toaster"
+  ],
+  "ingredients": [
+    {
+      "group": "Egg salad",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Egg salad",
+      "qty": 60,
+      "unit": "g",
+      "item": "mayonnaise (halal-certified)"
+    },
+    {
+      "group": "Egg salad",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small celery stalk, finely diced"
+    },
+    {
+      "group": "Egg salad",
+      "qty": 2,
+      "unit": "pc",
+      "item": "spring onions, finely sliced"
+    },
+    {
+      "group": "Egg salad",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, finely chopped"
+    },
+    {
+      "group": "Egg salad",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Egg salad",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "mustard powder"
+    },
+    {
+      "group": "Egg salad",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Egg salad",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "lettuce leaves"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "slices bread, toasted",
+      "note": "about 40 g each"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil the eggs",
+      "text": "Bring the saucepan of water to the boil and lower in the eggs with the slotted spoon. Once the water returns to a gentle boil, cook for 11 minutes so the whites and yolks are fully set and firm, well above 71 °C. A gentle boil rather than a rolling one stops the shells cracking against each other."
+    },
+    {
+      "title": "Chill and peel",
+      "text": "Move the eggs into the bowl of iced water for 5 minutes. Tap each one all over, peel it under the water and pat dry. Rapid chilling stops the yolks turning grey-green at the edges and shrinks the egg slightly from the shell, so peeling is easier."
+    },
+    {
+      "title": "Combine the salad",
+      "text": "Roughly chop the eggs and put them in the medium bowl with the mayonnaise, celery, spring onions, parsley, lemon juice, mustard powder, salt and pepper. The mustard powder gives a gentle tang and helps the mayonnaise cling to the egg."
+    },
+    {
+      "title": "Mash to texture",
+      "text": "Using the fork, mash and fold until the yolks have broken down into the dressing but some pieces of white still remain. Those chunks give the salad body and bite instead of a paste. Taste and add a little more lemon if you prefer it sharper."
+    },
+    {
+      "title": "Serve with toast",
+      "text": "Toast the bread, then spoon the egg salad onto the lettuce leaves and serve with the toast alongside. Refrigerate the salad within 1 hour of making if you are not eating it straight away."
+    }
+  ],
+  "tips": [
+    "Choose a halal-certified mayonnaise and check the label.",
+    "A common mistake is skipping the iced water; warm eggs are harder to peel and the yolks can develop a grey ring, so give them the full 5 minutes.",
+    "Dice the celery finely so you get a little crunch in every mouthful without large watery pieces.",
+    "Pat the peeled eggs dry before chopping so the dressing stays creamy rather than watery."
+  ],
+  "storage": "Keep the egg salad covered in the fridge, chilled within 1 hour of making, and use within 2 days. It is not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "mustard",
+    "celery"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 323,
+    "protein_g": 13.5,
+    "carbs_g": 21.9,
+    "sugar_g": 3.1,
+    "free_sugar_g": 2.4,
+    "fat_g": 19.8,
+    "satfat_g": 4.4,
+    "salt_g": 1.39,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "egg-salad-basic.jpg",
+  "image_alt": "A mound of creamy chopped egg salad flecked with herbs on lettuce leaves, with two slices of golden toast on a dark plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "pan-fried-eggs-lacy-edges-set-yolks",
+  "title": "Pan-Fried Eggs with Lacy Edges and Set Yolks",
+  "category": "breakfast",
+  "cuisine": "International",
+  "chapter": "eggs",
+  "book_chapter": "eggs",
+  "dish": "fried",
+  "dish_title": "Fried",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Fried eggs with crisp, golden, lacy edges and tender whites, finished under a lid until the yolks are fully set. A quick, satisfying breakfast staple.",
+  "servings": 2,
+  "prep_min": 2,
+  "cook_min": 6,
+  "difficulty": "easy",
+  "equipment": [
+    "28-30 cm non-stick frying pan with a lid",
+    "2 small bowls",
+    "thin spatula",
+    "instant-read thermometer",
+    "2 warm plates"
+  ],
+  "ingredients": [
+    {
+      "group": "Eggs",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Eggs",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Eggs",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Eggs",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Eggs",
+      "qty": 1,
+      "unit": "pc",
+      "item": "pinch ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crack into bowls",
+      "text": "Crack 2 eggs into each small bowl, checking carefully for any pieces of shell. Pre-cracking means the eggs go into the pan together and cook evenly, and you can fish out shell before it reaches the hot fat."
+    },
+    {
+      "title": "Heat the fat",
+      "text": "Warm the oil in the frying pan over medium-high heat until it shimmers, then add the butter and swirl to coat the base. The oil can take the high heat needed for crisp edges, while the butter adds flavour and a golden colour."
+    },
+    {
+      "title": "Fry for lacy edges",
+      "text": "Tip both bowls of eggs into the pan at once, holding them close to the surface so the yolks stay whole, side by side. Season with the salt and pepper. Cook uncovered for 1-2 minutes until the edges are golden and lacy and the base of the whites has set; the hot fat bubbles up through the thin outer white, which is what creates those crisp, frilly edges."
+    },
+    {
+      "title": "Cover to set",
+      "text": "Turn the heat to low, cover and cook for 3-4 minutes more until the whites are completely set and the yolks are firm with no runny centre (71°C). A gentle press on a yolk should feel springy rather than liquid. Steam trapped under the lid cooks the tops of the eggs through without burning the bases."
+    },
+    {
+      "title": "Serve straight away",
+      "text": "Slide the eggs onto the warm plates with the thin spatula, cutting between them as you go. Warm plates keep the eggs hot and stop the crisp edges going soft, so eat them at once."
+    }
+  ],
+  "tips": [
+    "A common mistake is adding the eggs before the oil is hot enough, which gives flat, pale whites; wait until the oil shimmers.",
+    "Lower the heat as soon as you cover the pan, or the bases will scorch before the yolks set.",
+    "Use a thin, flexible spatula so you can slide it under the eggs without breaking them.",
+    "Check the yolks with a thermometer or a gentle press; they should be firm and springy."
+  ],
+  "storage": "Fried eggs are best eaten fresh. Refrigerate any leftovers within 1 hour, use within 1 day and reheat until piping hot (74°C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 239,
+    "protein_g": 12.6,
+    "carbs_g": 0.8,
+    "sugar_g": 0.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 20.3,
+    "satfat_g": 6.2,
+    "salt_g": 0.72,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "fried-basic.jpg",
+  "image_alt": "Two fried eggs with golden, crisp lacy edges and bright yolks on a dark plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

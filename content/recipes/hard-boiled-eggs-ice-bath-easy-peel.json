@@ -1,0 +1,103 @@
+{
+  "slug": "hard-boiled-eggs-ice-bath-easy-peel",
+  "title": "Hard-Boiled Eggs with an Ice Bath for Easy Peeling",
+  "category": "breakfast",
+  "cuisine": "International",
+  "chapter": "eggs",
+  "book_chapter": "eggs",
+  "dish": "boiled-soft-hard",
+  "dish_title": "Boiled (soft/hard)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Reliable hard-boiled eggs with firm whites and fully set yolks, cooked gently and plunged into iced water so the shells slip off easily. Perfect for snacks, salads and lunchboxes.",
+  "servings": 4,
+  "prep_min": 2,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan with a lid",
+    "slotted spoon or spider",
+    "large bowl",
+    "timer"
+  ],
+  "ingredients": [
+    {
+      "group": "Eggs",
+      "qty": 8,
+      "unit": "pc",
+      "item": "large eggs, straight from the fridge"
+    },
+    {
+      "group": "Eggs",
+      "qty": 1,
+      "unit": "pc",
+      "item": "tray ice cubes"
+    },
+    {
+      "group": "To serve",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the water",
+      "text": "Bring at least 2 litres of water to a rolling boil in the large saucepan, and meanwhile fill the bowl with the ice cubes and cold water. Having the ice bath ready before the eggs go in means you can cool them the moment they are done."
+    },
+    {
+      "title": "Cook the eggs",
+      "text": "Using the slotted spoon, lower the eggs gently into the boiling water and boil for 30 seconds. Then cover, turn the heat to low so the water barely simmers and cook for 12 minutes, until the whites and yolks are completely firm (well above 71°C). That brief hard boil sets the outer white quickly so it pulls away from the shell, while the gentle simmer that follows cooks the yolk through without turning the white rubbery."
+    },
+    {
+      "title": "Chill in iced water",
+      "text": "Lift the eggs straight into the iced water and leave for 5-10 minutes until cold right through. Rapid cooling stops the cooking, which prevents a grey-green ring forming around the yolk, and makes the egg contract slightly from its shell for easier peeling."
+    },
+    {
+      "title": "Peel and season",
+      "text": "Tap each egg all over on the worktop to crack the shell into small pieces. Starting at the wider end, where there is a small air pocket, peel under a trickle of water, getting your thumb under the thin membrane so the shell lifts away in large pieces. Halve the eggs and season with the salt and pepper to serve."
+    }
+  ],
+  "tips": [
+    "A common mistake is dropping the eggs into the pan, which cracks them; lower them gently with a slotted spoon.",
+    "Use eggs straight from the fridge so the timing stays consistent from batch to batch.",
+    "Peel under running water: it slips between the white and the membrane and washes away tiny shell fragments.",
+    "Do not skip the ice bath, as it is what keeps the yolks bright and the shells easy to remove."
+  ],
+  "storage": "Refrigerate within 1 hour of cooking. Unpeeled eggs keep in the fridge for up to 7 days and peeled eggs for up to 2 days in a covered container. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 143,
+    "protein_g": 12.6,
+    "carbs_g": 0.8,
+    "sugar_g": 0.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 9.5,
+    "satfat_g": 3.1,
+    "salt_g": 0.72,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "boiled-soft-hard-basic.jpg",
+  "image_alt": "Two halves of a hard-boiled egg and a whole peeled egg on a dark plate.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

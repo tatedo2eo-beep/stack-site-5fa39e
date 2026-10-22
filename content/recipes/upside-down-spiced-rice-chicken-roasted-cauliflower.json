@@ -1,0 +1,250 @@
+{
+  "slug": "upside-down-spiced-rice-chicken-roasted-cauliflower",
+  "title": "Upside-Down Spiced Rice with Chicken and Roasted Cauliflower",
+  "category": "rice-grains",
+  "cuisine": "Palestinian",
+  "chapter": "rice",
+  "book_chapter": "rice",
+  "dish": "maqluba",
+  "dish_title": "Maqluba",
+  "flavour": "Cauliflower",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "upside-down-spiced-rice-chicken-roasted-aubergine",
+  "changes_from_base": "Same layered, turned-out spiced rice with chicken, with roasted cauliflower florets instead of aubergine rounds.",
+  "summary": "The same layered, turned-out spiced rice and chicken as the classic aubergine maqluba, made here with sweet roasted cauliflower florets in place of the aubergine. Topped with toasted nuts and served with yoghurt.",
+  "servings": 6,
+  "prep_min": 40,
+  "cook_min": 80,
+  "difficulty": "medium",
+  "equipment": [
+    "large saucepan",
+    "sieve",
+    "2 large baking trays",
+    "baking paper",
+    "pastry brush",
+    "heavy nonstick pot with straight sides and a lid (24-26 cm wide, at least 5 litres)",
+    "heatproof plate a little smaller than the pot",
+    "large flat serving platter wider than the pot",
+    "small frying pan",
+    "clean tea towel",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken and broth",
+      "qty": 800,
+      "unit": "g",
+      "item": "boneless skinless chicken thighs (halal), halved"
+    },
+    {
+      "group": "Chicken and broth",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Chicken and broth",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, halved",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Chicken and broth",
+      "qty": 4,
+      "unit": "pc",
+      "item": "green cardamom pods, lightly cracked"
+    },
+    {
+      "group": "Chicken and broth",
+      "qty": 4,
+      "unit": "pc",
+      "item": "whole cloves"
+    },
+    {
+      "group": "Chicken and broth",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "Chicken and broth",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Chicken and broth",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Cauliflower",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium cauliflower, cut into 4 cm florets",
+      "note": "about 700 g trimmed"
+    },
+    {
+      "group": "Cauliflower",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Cauliflower",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Rice",
+      "qty": 400,
+      "unit": "g",
+      "item": "basmati or other long-grain rice"
+    },
+    {
+      "group": "Rice",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Rice",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground allspice"
+    },
+    {
+      "group": "Rice",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Rice",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Rice",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Rice",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Rice",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large tomato, cut into 1 cm slices"
+    },
+    {
+      "group": "To serve",
+      "qty": 30,
+      "unit": "g",
+      "item": "flaked almonds"
+    },
+    {
+      "group": "To serve",
+      "qty": 20,
+      "unit": "g",
+      "item": "pine nuts"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 10,
+      "unit": "g",
+      "item": "flat-leaf parsley, chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 300,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the broth",
+      "text": "This follows the classic maqluba method, swapping the aubergine rounds for roasted cauliflower. Put the chicken, water, onion, cardamom, cloves, bay leaves, cumin and salt in the large saucepan, bring to the boil, skim, then cover and simmer for 20 minutes until the chicken is cooked through (74 °C). Lift out the chicken, strain the broth and keep 750 ml hot, adding water if you are short."
+    },
+    {
+      "title": "Prepare the rice",
+      "text": "Rinse the rice in the sieve until the water runs almost clear, soak it in cold water for 15 minutes, then drain. Toss it with the cinnamon, allspice, turmeric, pepper, salt and garlic so every grain is coated in spice. Washing away the excess starch is what keeps the grains distinct after the long steam."
+    },
+    {
+      "title": "Roast the cauliflower",
+      "text": "While the chicken cooks, heat the oven to 220 °C (200 °C fan). Toss the cauliflower with the oil and salt, spread it on the lined trays in one layer and roast for 25-30 minutes, turning once, until deep golden at the edges and just tender. High heat browns the florets and brings out a nutty sweetness that boiled cauliflower never has."
+    },
+    {
+      "title": "Layer the pot",
+      "text": "Oil the inside base of the pot with a brush, then fit a circle of baking paper over it. Arrange the tomato slices over the base, followed by an overlapping layer of cauliflower and then the chicken. Spread the rice evenly over the top and press down lightly so the layers knit together."
+    },
+    {
+      "title": "Pour and weigh down",
+      "text": "Pour the hot broth in slowly so it settles about 1 cm above the rice, then set the heatproof plate on top. The plate stops the rice floating and keeps the cauliflower layer from shifting."
+    },
+    {
+      "title": "Steam until tender",
+      "text": "Cover and bring to a boil over medium heat and cook for 10 minutes. Remove the plate, cover once more and cook on the lowest heat for 15-20 minutes until the rice is tender and all the liquid has been absorbed."
+    },
+    {
+      "title": "Rest, then nuts",
+      "text": "Off the heat, put the tea towel under the lid and leave for 15 minutes so the layers firm up and hold together. In the meantime, fry the almonds and pine nuts in the oil over medium-low heat for 2-3 minutes, stirring, until golden."
+    },
+    {
+      "title": "Flip and serve",
+      "text": "Take off the lid, place the platter upside down over the pot and, gripping both with oven gloves, turn them over in one quick movement. After 2 minutes, tap the base, ease the pot away and peel off the paper. Finish with the nuts and parsley and serve with the yoghurt."
+    }
+  ],
+  "tips": [
+    "A common mistake is overcrowding the trays; packed florets steam instead of browning, so use both trays and keep them in a single layer.",
+    "Cut the florets to an even 4 cm so they roast at the same rate and sit flat in the pot.",
+    "Have the platter and oven gloves ready before the rest ends so the turn-out goes smoothly.",
+    "Spoon the yoghurt on the side so diners can cool each mouthful of spiced rice as they like."
+  ],
+  "storage": "Cool quickly, refrigerate within 1 hour and use within 24 hours. Reheat once, covered, until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 618,
+    "protein_g": 37.3,
+    "carbs_g": 68.2,
+    "sugar_g": 6.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 21.9,
+    "satfat_g": 3.9,
+    "salt_g": 1.94,
+    "fibre_g": 5.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "maqluba-basic--cauliflower.jpg",
+  "image_alt": "A turned-out dome of spiced rice with roasted cauliflower, scattered with toasted nuts.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

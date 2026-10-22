@@ -1,0 +1,149 @@
+{
+  "slug": "skillet-eggs-tomato-green-pepper-chilli-flakes",
+  "title": "Skillet Eggs with Tomato, Green Pepper and Chilli Flakes",
+  "category": "vegetarian",
+  "cuisine": "Turkish",
+  "chapter": "eggs",
+  "book_chapter": "eggs",
+  "dish": "menemen",
+  "dish_title": "Menemen",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A Turkish-style breakfast of sweet green pepper, onion and tomato cooked down with chilli flakes and oregano, then folded with eggs until softly curded and fully set. Serve straight from the pan with crusty bread.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 22,
+  "difficulty": "easy",
+  "equipment": [
+    "25 cm non-stick or cast-iron frying pan with a lid",
+    "medium bowl",
+    "fork",
+    "heatproof spatula",
+    "chopping board and knife",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Vegetables",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small onion, finely chopped",
+      "note": "about 120 g"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "pc",
+      "item": "long mild green peppers, deseeded and cut into 1 cm pieces"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "mild chilli flakes (pul biber/Aleppo-style) or hot paprika"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried oregano"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 3,
+      "unit": "pc",
+      "item": "ripe tomatoes, chopped"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Eggs",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large eggs, lightly beaten"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "pieces crusty bread",
+      "note": "about 50 g each"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sweat the vegetables",
+      "text": "Warm the oil in the frying pan over medium-low heat. Add the onion, green peppers, chilli flakes, oregano and a pinch of the salt, cover and cook for 10 minutes, stirring once, until soft. The lid traps steam so the vegetables soften and turn sweet without browning, and the warm oil draws out the colour and flavour of the chilli."
+    },
+    {
+      "title": "Cook down the tomatoes",
+      "text": "Add the tomatoes with the rest of the salt and the pepper, then raise the heat to medium. Cook uncovered for 6-8 minutes, stirring, until the tomatoes have collapsed and most of their liquid has evaporated. Reducing the juices now concentrates the flavour and stops the eggs being swamped in watery sauce."
+    },
+    {
+      "title": "Fold in the eggs",
+      "text": "Lower the heat to medium-low and pour in the eggs. Leave them for 20 seconds, then stir gently and slowly, folding the vegetables through, for 3-4 minutes. Stop once the eggs have formed soft curds and no liquid egg remains (71 °C); gentle heat keeps the curds tender instead of tight and dry."
+    },
+    {
+      "title": "Serve from the pan",
+      "text": "Scatter the parsley over the top and bring the pan to the table. Serve with the crusty bread for scooping up the eggs and juices."
+    }
+  ],
+  "tips": [
+    "A common mistake is adding the eggs while the tomatoes are still watery; cook the sauce down until thick or the eggs will be loose and pale.",
+    "Long mild green peppers are traditional, but any sweet green pepper works if cut into 1 cm pieces.",
+    "Pul biber-style chilli flakes are mild and fruity; if using hot paprika, taste the vegetables before adding the eggs.",
+    "Some cooks prefer the egg in larger streaks than a uniform scramble; fold less often for that look."
+  ],
+  "storage": "Best served fresh. Refrigerate leftovers within 1 hour, use within 1 day and reheat until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 374,
+    "protein_g": 16.5,
+    "carbs_g": 35.7,
+    "sugar_g": 7.5,
+    "free_sugar_g": 2.3,
+    "fat_g": 18.9,
+    "satfat_g": 4.1,
+    "salt_g": 1.77,
+    "fibre_g": 3.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "menemen-advanced.jpg",
+  "image_alt": "A cast-iron pan of soft eggs scrambled with tomato and green pepper, topped with parsley leaves, with crusty bread beside it.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

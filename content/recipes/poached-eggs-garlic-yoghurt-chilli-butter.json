@@ -1,0 +1,141 @@
+{
+  "slug": "poached-eggs-garlic-yoghurt-chilli-butter",
+  "title": "Poached Eggs on Garlic Yoghurt with Chilli Butter",
+  "category": "breakfast",
+  "cuisine": "Turkish",
+  "chapter": "eggs",
+  "book_chapter": "eggs",
+  "dish": "clbr",
+  "dish_title": "Çılbır",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A Turkish favourite of poached eggs with fully set yolks on a bed of creamy garlic yoghurt, finished with sizzling red chilli butter and fresh herbs. Served with warm flatbread, it makes an easy, impressive brunch.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "wide deep saucepan or sauté pan",
+    "fine-mesh sieve",
+    "small bowls for the eggs",
+    "slotted spoon",
+    "kitchen paper",
+    "small saucepan",
+    "instant-read thermometer",
+    "4 shallow bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Yoghurt",
+      "qty": 300,
+      "unit": "g",
+      "item": "thick Greek-style whole-milk yoghurt, at room temperature"
+    },
+    {
+      "group": "Yoghurt",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Yoghurt",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Eggs",
+      "qty": 8,
+      "unit": "pc",
+      "item": "large very fresh eggs"
+    },
+    {
+      "group": "Chilli butter",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Chilli butter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "mild chilli flakes (pul biber/Aleppo-style)"
+    },
+    {
+      "group": "Chilli butter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "dried mint (optional)"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "dill or parsley, chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "flatbreads or pitta, warmed",
+      "note": "about 60 g each"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Spread the yoghurt",
+      "text": "Stir the yoghurt, garlic and salt together, then spread it over the 4 shallow bowls with the back of a spoon. Leaving it out lets it come to room temperature, so it does not chill the hot eggs and the garlic flavour mellows into the yoghurt."
+    },
+    {
+      "title": "Drain the eggs",
+      "text": "Bring 8 cm of water to a gentle simmer in the wide pan, with only small bubbles rising. Meanwhile, crack each egg into the sieve over the sink and let the loose, watery white drain for 30 seconds, then tip it into a small bowl. Removing that thin white leaves only the firmer part, which holds a neat shape instead of spreading into wispy strands."
+    },
+    {
+      "title": "Poach until set",
+      "text": "Lower 4 eggs, one at a time, into the water from close to the surface. Poach for 5-6 minutes, keeping the water just below a simmer, until the whites are firm and the yolks are set right through when pressed gently (71°C). Gentle heat cooks the eggs evenly without toughening the whites or breaking them apart. Lift out with the slotted spoon onto kitchen paper, then repeat with the remaining eggs."
+    },
+    {
+      "title": "Make chilli butter",
+      "text": "Melt the butter in the small saucepan over medium heat until it foams, then take it off the heat and stir in the chilli flakes and mint, if using. Within seconds it will turn a deep red. Adding the flakes off the heat releases their colour and flavour into the butter without scorching them."
+    },
+    {
+      "title": "Assemble and serve",
+      "text": "Set 2 eggs on each bowl of yoghurt, spoon over the chilli butter and scatter with the dill or parsley. Serve at once with the warm flatbread for scooping up the yoghurt and butter."
+    }
+  ],
+  "tips": [
+    "A common mistake is poaching in fast-boiling water, which tears the eggs apart; keep it just below a simmer.",
+    "The fresher the eggs, the better they hold together in the water.",
+    "Blot the poached eggs on kitchen paper so excess water does not thin the yoghurt.",
+    "Use room-temperature yoghurt; cold yoghurt straight from the fridge cools the eggs too quickly."
+  ],
+  "storage": "Best eaten fresh. Refrigerate leftover eggs and yoghurt separately within 1 hour and use within 1 day; reheat the eggs until piping hot (74°C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 438,
+    "protein_g": 25.0,
+    "carbs_g": 37.7,
+    "sugar_g": 4.2,
+    "free_sugar_g": 0.8,
+    "fat_g": 20.1,
+    "satfat_g": 8.9,
+    "salt_g": 1.59,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "clbr-basic.jpg",
+  "image_alt": "Two poached eggs on a bed of garlic yoghurt drizzled with red chilli butter and herbs, with a torn flatbread beside the bowl.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}
