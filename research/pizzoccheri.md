@@ -4,14 +4,12 @@ Dish: Pizzoccheri / flavour: Classic. Private file, not published.
 ## Sources actually opened
 - [Pizzoccheri (NYT Cooking)](https://cooking.nytimes.com/recipes/1027683-pizzoccheri-buckwheat-pasta-with-cheese-and-cabbage) [Tier 2 (locked list): NYT Cooking]: 400 g buckwheat flour with 100 g 00 flour and warm water; rolled and cut into short ribbons; potatoes, then savoy cabbage and pasta cooked in one pot; layered in a warmed dish with Alpine cheese and Grana; garlic-sage butter poured over. _(curl 200; JSON-LD recipe (ingredients and steps) read)_
 - [Pizzocheri With Cabbage, Potatoes and Sage (NYT Cooking)](https://cooking.nytimes.com/recipes/7803-pizzocheri-with-cabbage-potatoes-and-sage) [Tier 2 (locked list): NYT Cooking]: Potatoes boiled, cabbage added after 5 min; buckwheat pasta cooked; sage; cheeses stirred in with reserved cooking water. _(curl 200; JSON-LD recipe (ingredients and steps) read)_
-- [Buckwheat Pasta with Swiss Chard, Potatoes, and Taleggio (America's Test Kitchen)](https://www.americastestkitchen.com/recipes/12619-buckwheat-pasta-with-swiss-chard-potatoes-and-taleggio) [Tier 1 (locked list): America's Test Kitchen]: Pizzoccheri dough rested at least 15 minutes, rolled thin and cut into short strips (5 x 2 cm). Potatoes boiled in salted water until just tender, greens cooked in butter with sage and garlic, cheese melted in with a little cooking water, and the pasta boiled 2-3 minutes. ATK's dough is mostly plain flour with egg (213 g plain, 78 g buckwheat, 3 eggs), an easier but less traditional dough. Our 3:1 buckwheat-to-wheat water dough is between ATK's and NYT's 4:1. _(curl 200; read 2026-10-22)_
 - [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
 - [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
 
 > Written in the pasta chapter. Quantities are my own; the core method matches the locked-list sources listed above. No wine or pork; Parmesan rennet note given.
 
 ## Own cooking judgment
-- 2026-10-22 second-source check (ATK): the rest time, short ribbons, potato-first cooking and garlic-sage butter agree. Our buckwheat-rich water dough is the traditional style (NYT), so a rescue tip was added for a dough that cracks while rolling.
 - 300 g buckwheat to 100 g 00 flour with warm water; potatoes first, then cabbage and pasta in one pot.
 - Layered in a warmed dish with fontina and Parmesan; garlic-sage butter on top.
 
@@ -20,7 +18,7 @@ Dish: Pizzoccheri / flavour: Classic. Private file, not published.
 - Doneness cues in the method: 1 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 40 min + cook 25 min against the step times.
 - Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/pizzoccheri-nutrition.md).
-- Locked-list sources supporting the core method (excluding FSIS/FDC): 3. Non-top-tier pages are context only.
+- Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
 
 ## Knowledge check
 Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 04-P1 (water salt %); 04-P2 (water volume, no oil); 04-P3 (al dente, finish in sauce, reserve 240 ml); 04-P4 (emulsion); knowledge gap noted: 04-pasta has no item for buckwheat pasta; the method rests on the locked-list sources above; CHECKLIST 6 (preheat at least 20 min, stated before the oven step).

@@ -2,6 +2,7 @@
 Dish: Yangnyeom chicken / flavour: Classic. Private file, not published.
 
 ## Sources actually opened
+- [Korean Fried Chicken Wings (Bon Appétit)](https://www.bonappetit.com/recipe/korean-fried-chicken-wings) [NOT on the locked list: context only, not relied on for method, ratios, temperatures or flavours]: Light potato-starch coating; fry at 175 °C, refry hotter for crunch; toss in gochujang-soy glaze, sesame. _(read via search extract; curl 200)_
 - [The Best Korean Fried Chicken (Serious Eats)](https://www.seriouseats.com/korean-fried-chicken-recipe) [Tier 1 (locked list): Serious Eats]: Thin cornstarch-based batter (with a little baking powder) gives a thin, brittle crust; sauce tossed on at the end. _(read via search extract; curl 200)_
 - [Korean Fried Chicken (America's Test Kitchen)](https://www.americastestkitchen.com/recipes/5203-korean-fried-chicken-yang-nyum-tong-dak) [Tier 1 (locked list): America's Test Kitchen]: Thin batter; double fry; sweet-spicy gochujang sauce. _(read via search extract; curl 200)_
 - [Korean Fried Chicken (NYT Cooking)](https://cooking.nytimes.com/recipes/1012801-korean-fried-chicken) [Tier 2 (locked list): NYT Cooking]: Gochujang-ketchup-sugar sauce; refrying for extra crispness. _(read via search extract; curl 200)_

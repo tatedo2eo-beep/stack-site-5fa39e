@@ -1,0 +1,176 @@
+{
+  "slug": "tres-leches-cake",
+  "title": "Tres Leches Cake",
+  "category": "desserts",
+  "cuisine": "Latin American",
+  "chapter": "cakes-cupcakes",
+  "book_chapter": "cakes-cupcakes",
+  "dish": "tres-leches",
+  "dish_title": "Tres leches",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A light vanilla sponge soaked in a blend of three milks and topped with whipped cream, served chilled so the milk pools around each slice.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "23 x 33 cm metal baking tin (at least 5 cm deep)",
+    "stand mixer or electric hand whisk",
+    "fine sieve",
+    "skewer",
+    "jug and whisk",
+    "cling film"
+  ],
+  "ingredients": [
+    {
+      "group": "Sponge",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Sponge",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sponge",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Sponge",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Sponge",
+      "qty": 80,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Sponge",
+      "qty": 190,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Sponge",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Three milks",
+      "qty": 410,
+      "unit": "g",
+      "item": "evaporated milk (1 tin)"
+    },
+    {
+      "group": "Three milks",
+      "qty": 397,
+      "unit": "g",
+      "item": "sweetened condensed milk (1 tin)"
+    },
+    {
+      "group": "Three milks",
+      "qty": 200,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Topping",
+      "qty": 300,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Topping",
+      "qty": 12,
+      "unit": "pc",
+      "item": "strawberries, to decorate"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the tin and oven",
+      "text": "Preheat the oven to 175°C (155°C fan), allowing at least 20 minutes for it to reach temperature, with the shelf positioned in the centre. Grease only the base of the tin, leaving the sides bare. Leaving the sides ungreased gives the sponge something to grip onto as it rises, so it climbs evenly instead of sliding back down."
+    },
+    {
+      "title": "Whisk the eggs",
+      "text": "Whisk the eggs, sugar and salt on high speed for 6-8 minutes until the mixture has tripled in volume and is thick enough to hold its shape briefly. Whisk in the vanilla. Warm the milk gently while the eggs whisk, ready for folding in shortly."
+    },
+    {
+      "title": "Fold and bake",
+      "text": "Sift the flour and baking powder over the whisked eggs in two additions, folding in gently, then fold in the warm milk. Pour into the tin and bake for 25-30 minutes until golden and springy to the touch. Folding gently at every stage protects the air whisked into the eggs, which is the sponge's only source of lift."
+    },
+    {
+      "title": "Soak with the three milks",
+      "text": "Cool the sponge for 20 minutes, then prick it all over with a skewer at 1-2 cm intervals. Whisk together the evaporated milk, condensed milk and whole milk, then pour it slowly over the cake in 3-4 additions, letting each soak in before adding the next. The holes let the milk soak right down through the sponge rather than just sitting on top."
+    },
+    {
+      "title": "Chill to soak through",
+      "text": "Cover the cake and chill for at least 4 hours, ideally overnight. This resting time lets the milk spread evenly through every layer of the sponge instead of staying concentrated near the surface."
+    },
+    {
+      "title": "Top and serve",
+      "text": "Whip the double cream with the icing sugar and vanilla to soft peaks, then spread it over the cold, soaked cake. Top each portion with a strawberry before cutting into 12 squares. Serve cold, with the pooled milk that collects around each slice."
+    }
+  ],
+  "tips": [
+    "Grease only the base of the tin, not the sides, so the sponge has something to cling to as it rises.",
+    "Prick the sponge at close, even intervals before pouring over the milk, or it won't soak through evenly.",
+    "Pour the milk mixture in several stages rather than all at once, giving the sponge time to absorb each addition.",
+    "Chill for the full soaking time, ideally overnight - cutting it too soon means a dry centre and overly wet edges.",
+    "Keep the cream topping until just before serving if making ahead, so it stays light rather than weeping.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep the cake covered in the fridge and eat within 3 days; it doesn't freeze well once soaked. Serve straight from the fridge rather than reheating.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 387,
+    "protein_g": 9.7,
+    "carbs_g": 51.2,
+    "sugar_g": 35.9,
+    "free_sugar_g": 33.4,
+    "fat_g": 16.3,
+    "satfat_g": 9.5,
+    "salt_g": 0.57,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tres-leches-advanced.jpg",
+  "image_alt": "A square of tres leches cake with whipped cream and a strawberry, sitting in a pool of milk in a black bowl on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats",
+    "King Arthur Baking"
+  ]
+}

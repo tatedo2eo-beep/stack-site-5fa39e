@@ -1,0 +1,142 @@
+{
+  "slug": "pain-de-genes",
+  "title": "Pain de Gênes (French Almond Cake)",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "cakes-cupcakes",
+  "book_chapter": "cakes-cupcakes",
+  "dish": "pain-de-genes",
+  "dish_title": "Pain de Gênes",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A dense, moist French almond cake baked in a tin lined with flaked almonds so it turns out with a crisp, nutty crust.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "20 cm round cake tin (5 cm deep)",
+    "baking paper",
+    "stand mixer or electric hand whisk",
+    "fine sieve",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Tin",
+      "qty": 40,
+      "unit": "g",
+      "item": "flaked almonds, for the tin"
+    },
+    {
+      "group": "Tin",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter, softened, for the tin"
+    },
+    {
+      "group": "Cake",
+      "qty": 200,
+      "unit": "g",
+      "item": "ground almonds"
+    },
+    {
+      "group": "Cake",
+      "qty": 150,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Cake",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Cake",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Cake",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free almond extract",
+      "note": "optional"
+    },
+    {
+      "group": "Cake",
+      "qty": 40,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "Cake",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Cake",
+      "qty": 80,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled to warm"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the tin",
+      "text": "Heat the oven to 170°C (150°C fan) for at least 20 minutes, with a shelf in the middle. Butter the tin thickly, line the base with baking paper, butter the paper too, then press the flaked almonds over the base and up the sides. These almonds toast against the hot tin as the cake bakes, so when it's turned out they form a crisp, golden crust."
+    },
+    {
+      "title": "Whisk almonds, sugar and eggs",
+      "text": "Whisk the ground almonds, icing sugar, salt and two of the eggs on high speed for 3 minutes until smooth. Add the remaining eggs one at a time, whisking for 2 minutes after each addition, until the mixture is pale, thick and almost doubled in volume. Almost all the cake's lift comes from the air beaten into the eggs here, so this long whisking stage matters more than any raising agent. Stir in the almond extract."
+    },
+    {
+      "title": "Fold in cornflour and butter",
+      "text": "Sift the cornflour and baking powder over the whisked mixture and fold in gently. Stir a spoonful of the batter into the warm melted butter to loosen it, then fold this back into the rest of the batter. Loosening the butter first stops it sinking in heavy streaks through the light, airy mixture."
+    },
+    {
+      "title": "Bake and cool the cake",
+      "text": "Pour the batter into the prepared tin and bake for 35-40 minutes until golden, springy to the touch and just shrinking away from the sides of the tin; a skewer pushed into the centre should come out clean. Leave the cake to cool in the tin for 10 minutes before turning it out onto a rack, almond side up, to cool completely. The cake is moist and dense rather than light, and keeps well for up to 4 days wrapped tightly."
+    }
+  ],
+  "tips": [
+    "Butter the tin and paper generously before adding the flaked almonds, or they will stick to the tin instead of releasing with the cake.",
+    "Whisk the eggs in gradually and keep whisking for the full time after each one - rushing this stage means a flatter, denser cake.",
+    "Loosen the melted butter with a little batter before folding it in fully, so it doesn't sink and leave greasy patches.",
+    "Check the cake is shrinking slightly from the sides of the tin as a doneness cue, alongside a clean skewer.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Wrapped well, the cake keeps at room temperature for up to 4 days. It also freezes well, cooled first then wrapped tightly, for up to 2 months.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 389,
+    "protein_g": 9.7,
+    "carbs_g": 29.3,
+    "sugar_g": 19.8,
+    "free_sugar_g": 18.3,
+    "fat_g": 27.6,
+    "satfat_g": 8.1,
+    "salt_g": 0.26,
+    "fibre_g": 3.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pain-de-genes-advanced.jpg",
+  "image_alt": "A round golden almond cake studded with flaked almonds around the edge, with a wedge cut on a black plate on dark slate.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

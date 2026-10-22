@@ -6,14 +6,12 @@ Dish: Chicken burger / flavour: Classic. Private file, not published.
 - [Four Secrets to Improving Any Fried Chicken Recipe (The Food Lab, Serious Eats)](https://www.seriouseats.com/four-secrets-for-better-fried-chicken) [Tier 1 (locked list): Serious Eats]: About 2 tbsp marinade per cup of dredge, worked in with fingertips, for a craggier crust. _(opened; curl 200)_
 - [Nashville Hot Chicken Sandwich (Serious Eats)](https://www.seriouseats.com/nashville-hot-chicken-sandwich-recipe-8403635) [Tier 1 (locked list): Serious Eats]: Buttermilk + hot sauce brine; rest dredged chicken ~15 min so flour hydrates; oil ~175 °C; thighs to 80 °C; cayenne/brown sugar bloomed in hot oil and basted on immediately. _(read via search extract; curl got 403 bot-block)_
 - [Buffalo Chicken Sandwich (FOX13, chef recipe)](https://www.fox13now.com/the-place/recipes/foodie-friday-cougar-tail-buffalo-chicken-sandwich) [NOT on the locked list: context only, not relied on for method, ratios, temperatures or flavours]: Hot sauce in the buttermilk; drizzle buttermilk into the dredge for craggy crust; fry at 175 °C to 74 °C; sauce warmed not boiled. _(read via search extract)_
-- [Fried Chicken Sandwiches (America's Test Kitchen)](https://www.americastestkitchen.com/recipes/7723-fried-chicken-sandwiches) [Tier 1 (locked list): America's Test Kitchen]: Flour plus 1 tsp baking powder with 3 tbsp liquid rubbed in to make shaggy clumps; coated pieces rest on a rack (30-60 minutes in the fridge); fried in oil heated to 190 °C and held at 163-177 °C for 4-5 minutes until 71 °C (pounded breast); drained on a rack and served on soft rolls. This supports our clumpy baking-powder dredge, the rest on a rack and the rack draining. Our thicker thighs fry longer (6-8 minutes) to 74 °C. _(curl 200; read 2026-10-22)_
 - [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
 - [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
 
 > Written before the research rule. Re-checked on 22 Oct against top-tier sources after the source-quality rule: thighs, buttermilk soak, buttermilk clumps in the dredge, 160-170 °C oil after the drop and 74 °C all match Serious Eats. The FOX13 page is now context only.
 
 ## Own cooking judgment
-- 2026-10-22 second-source check (ATK): the method and timings agree once you allow for thighs versus pounded breast. No changes.
 - 10-minute rest of the coated chicken (Serious Eats uses about 15 min; both hydrate the flour).
 - Spicy mayo and lettuce build.
 
@@ -22,7 +20,7 @@ Dish: Chicken burger / flavour: Classic. Private file, not published.
 - Doneness cues in the method: 3 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 25 min + cook 25 min against the step times.
 - Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/crispy-chicken-sandwich-nutrition.md).
-- Locked-list sources supporting the core method (excluding FSIS/FDC): 4. Non-top-tier pages are context only.
+- Locked-list sources supporting the core method (excluding FSIS/FDC): 3. Non-top-tier pages are context only.
 
 ## Knowledge check
 Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C1 (74 °C, carryover; resting is not juice reabsorption); 02-C2 (dry brine); 02-C3 (wet brine); 02-C4 (crisp skin); 02-C5 (wings); 02-C6 (frying temperatures); 06-G6 (frying safety); 02-C10 (buttermilk marinade).

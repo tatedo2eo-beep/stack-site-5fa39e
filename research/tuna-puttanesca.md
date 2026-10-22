@@ -4,15 +4,12 @@ Dish: Puttanesca / flavour: Tuna. Private file, not published.
 ## Sources actually opened
 - [Tuna Puttanesca (NYT Cooking)](https://cooking.nytimes.com/recipes/1025318-tuna-puttanesca) [Tier 2 (locked list): NYT Cooking]: Oil, olives, anchovies, garlic, shallot, capers and chilli started together in a cold 30 cm pan; tomato added and simmered; tinned tuna folded in at the end. _(curl 200; JSON-LD recipe (ingredients and steps) read)_
 - [Tuna Puttanesca (NYT Cooking, 2 servings)](https://cooking.nytimes.com/recipes/1247-tuna-puttanesca) [Tier 2 (locked list): NYT Cooking]: Onion, garlic, olives, capers and anchovy with tuna; context. (Its red wine is not used, and it uses fresh tuna; tinned is used here.) _(curl 200; JSON-LD recipe (ingredients and steps) read)_
-- [Spaghetti Puttanesca (Serious Eats)](https://www.seriouseats.com/spaghetti-puttanesca-pasta-week-capers-olives-anchovies-recipe) [Tier 1 (locked list): Serious Eats]: Oil, garlic, anchovies and chilli sizzled about 5 minutes, capers and olives added, tomatoes brought to a bare simmer, optional 140 g oil-packed tuna flaked in; pasta pulled 2 minutes early and finished in the sauce with pasta water. For 225 g pasta it uses 4-6 anchovies, 60 g capers, 60 g olives and 225 g tomatoes, so it is brinier and less saucy than ours; our lighter version keeps salt at about 2.5 g a serving. _(curl 200; read 2026-10-22)_
-- [Spaghetti al Tonno (America's Test Kitchen)](https://www.americastestkitchen.com/recipes/14578-spaghetti-al-tonno) [Tier 1 (locked list): America's Test Kitchen]: Garlic, 3 anchovies and chilli in oil, then tomatoes simmered 6-7 minutes; pasta drained barely al dente and tossed with the sauce, then the oil-packed tuna is added off the heat and tossed gently so it stays moist. _(curl 200; read 2026-10-22)_
 - [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
 - [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
 
 > Written as an extra flavour for the pasta chapter. Quantities are my own; the core method matches the locked-list sources listed above; nothing copied.
 
 ## Own cooking judgment
-- 2026-10-22 second-source check (Serious Eats, ATK): fixed the timing. The old method put the pasta in before a 20-minute sauce, so it would have sat drained for 10+ minutes; it now goes in when the sauce has 10 minutes left. Fixed a contradiction: the tuna was folded in off the heat, then the pan went back on the heat for 1-2 minutes. Now the pasta is tossed in the sauce first and the tuna goes in off the heat last, as ATK does.
 - F
 - r
 - y
@@ -138,7 +135,7 @@ Dish: Puttanesca / flavour: Tuna. Private file, not published.
 - Doneness cues in the method: 0 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 10 min + cook 30 min against the step times.
 - Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/tuna-puttanesca-nutrition.md).
-- Locked-list sources supporting the core method (excluding FSIS/FDC): 4. Non-top-tier pages are context only.
+- Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
 
 ## Knowledge check
 Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C6 (frying temperatures); 06-G6 (frying safety); 04-P1 (water salt %); 04-P2 (water volume, no oil); 04-P3 (al dente, finish in sauce, reserve 240 ml); 04-P4 (emulsion).

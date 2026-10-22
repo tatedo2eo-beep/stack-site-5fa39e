@@ -22,6 +22,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | biang-biang-noodles | Biang biang/hand-pulled lamian | Classic | 2 | 4 |
 | black-and-white-cookies | Black-and-white | Classic | 2 | 4 |
 | black-bean-burger | Veggie/bean burger | Classic | 2 | 6 |
+| black-forest-cake | Black Forest | Classic | 3 | 5 |
 | blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
 | boston-cream-pie | Boston cream pie | Classic | 2 | 4 |
 | brookies | Brookies | Classic | 2 | 4 |
@@ -58,11 +59,13 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chiffon-cake | Chiffon | Classic | 2 | 4 |
 | chocolate-angel-food-cake | Angel food | Chocolate | 3 | 5 |
 | chocolate-biscotti | Biscotti | Chocolate | 3 | 5 |
+| chocolate-buche-de-noel | Swiss roll/bûche de Noël | Classic | 3 | 5 |
 | chocolate-cupcakes | Cupcakes | Chocolate | 3 | 5 |
 | chocolate-dipped-shortbread | Shortbread | Chocolate-dipped | 2 | 5 |
 | chocolate-layer-cake | Chocolate layer | Classic | 2 | 4 |
 | chocolate-rugelach | Rugelach | Chocolate | 2 | 4 |
 | chocolate-sandwich-cookies | Sandwich cookies | Classic | 2 | 4 |
+| chocolate-tres-leches-cake | Tres leches | Chocolate | 3 | 5 |
 | chocolate-whoopie-pies | Whoopie pie | Classic | 2 | 4 |
 | chow-mein | Chow mein/lo mein | Classic | 3 | 5 |
 | cinnamon-streusel-coffee-cake | Coffee cake | Cinnamon streusel | 2 | 4 |
@@ -85,8 +88,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
 | gai-yang | Gai yang | Classic | 2 | 4 |
 | garlic-parmesan-chicken-wings | Chicken wings | Garlic-parmesan | 3 | 5 |
+| gateau-basque | Basque cake | Classic | 2 | 4 |
 | general-tsos-chicken | General Tso's chicken | Classic | 2 | 4 |
 | genoise-sponge | Sponge (genoise) | Classic | 2 | 4 |
+| german-chocolate-cake | German chocolate cake | Classic | 2 | 4 |
 | gingerbread-cookies | Gingerbread | Classic | 3 | 5 |
 | gnocchi-brown-butter-sage | Gnocchi | Brown butter-sage | 3 | 5 |
 | gnocchi-cherry-tomato | Gnocchi | Tomato | 3 | 5 |
@@ -121,6 +126,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | matcha-chiffon-cake | Chiffon | Matcha | 2 | 4 |
 | mee-goreng | Mee goreng | Classic | 2 | 4 |
 | millionaires-shortbread | Bars (magic bars, millionaire's shortbread) | Classic | 4 | 6 |
+| molten-chocolate-cakes | Molten chocolate | Classic | 3 | 5 |
 | musakhan | Musakhan | Classic | 3 | 6 |
 | mushroom-lasagne | Sheets/baked (lasagne) | Mushroom | 3 | 5 |
 | naengmyeon | Naengmyeon | Classic | 2 | 4 |
@@ -134,6 +140,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pad-see-ew | Pad see ew | Classic | 3 | 5 |
 | pad-thai-tofu | Pad thai | Tofu | 3 | 5 |
 | pad-thai | Pad thai | Classic | 2 | 4 |
+| pain-de-genes | Pain de Gênes | Classic | 2 | 4 |
 | pancit-bihon | Pancit bihon | Classic | 2 | 4 |
 | pancit-canton | Pancit | Classic | 2 | 4 |
 | pandan-chiffon-cake | Chiffon | Pandan | 2 | 4 |
@@ -166,6 +173,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | roast-chicken | Whole roast chicken | Classic | 3 | 6 |
 | rugelach | Rugelach | Classic | 2 | 4 |
 | sables-diamants | Diamant | Classic | 2 | 4 |
+| sachertorte | Sachertorte | Classic | 2 | 4 |
 | samgyetang | Samgyetang | Classic | 2 | 4 |
 | shakshuka | Shakshuka | Classic | 2 | 4 |
 | signature-fudgy-brownies | Brownie (fudgy or cakey) | Classic | 2 | 4 |
@@ -188,11 +196,13 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
 | thumbprint-cookies | Thumbprints | Classic | 3 | 5 |
 | trenette-al-pesto | Trenette al pesto | Classic | 3 | 5 |
+| tres-leches-cake | Tres leches | Classic | 3 | 5 |
 | trofie-al-pesto | Trofie | Classic | 3 | 5 |
 | tuna-puttanesca | Puttanesca | Tuna | 2 | 4 |
 | upside-down-cake | Upside-down | Classic | 2 | 4 |
 | vanilla-bundt-cake | Bundt | Classic | 2 | 4 |
 | vanilla-cupcakes | Cupcakes | Classic | 2 | 4 |
+| vanilla-raspberry-mousse-cake | Entremets (mousse cake) | Classic | 2 | 4 |
 | vegetable-chow-mein | Chow mein/lo mein | Vegetable | 2 | 4 |
 | vegetable-lo-mein | Lo mein | Vegetable | 2 | 4 |
 | yakisoba | Yakisoba | Classic | 2 | 4 |
