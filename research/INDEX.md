@@ -7,6 +7,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | alfajores | Alfajores | Classic | 2 | 4 |
 | almond-tuiles | Tuiles | Classic | 2 | 4 |
 | american-cheeseburger | Cheeseburger | American | 3 | 5 |
+| angel-food-cake | Angel food | Classic | 2 | 4 |
 | anise-biscotti | Biscotti | Anise | 3 | 5 |
 | anzac-biscuits | Anzac biscuit | Classic | 2 | 4 |
 | baked-mac-and-cheese | Mac and cheese | Classic | 2 | 4 |
@@ -21,6 +22,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | biang-biang-noodles | Biang biang/hand-pulled lamian | Classic | 2 | 4 |
 | black-and-white-cookies | Black-and-white | Classic | 2 | 4 |
 | black-bean-burger | Veggie/bean burger | Classic | 2 | 6 |
+| blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
 | brookies | Brookies | Classic | 2 | 4 |
 | brown-butter-chocolate-chip-cookies | Brown-butter chocolate chip cookie | Classic | 2 | 4 |
 | brown-sugar-shortbread | Shortbread | Brown sugar | 1 | 5 |
@@ -31,6 +33,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | buttermilk-fried-chicken | Fried chicken (Southern) | Buttermilk-brined | 4 | 6 |
 | butternut-squash-ravioli | Filled (ravioli, tortellini, agnolotti) | Butternut squash | 4 | 6 |
 | cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
+| carrot-cake | Carrot | Classic | 2 | 4 |
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |
 | cheeseburger-sliders | Sliders | Classic | 2 | 5 |
 | chewy-amaretti | Amaretti | Classic | 2 | 4 |
@@ -52,12 +55,14 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chicken-tenders | Nuggets/tenders | Classic | 3 | 5 |
 | chicken-yassa | Yassa | Classic | 3 | 5 |
 | chiffon-cake | Chiffon | Classic | 2 | 4 |
+| chocolate-angel-food-cake | Angel food | Chocolate | 3 | 5 |
 | chocolate-biscotti | Biscotti | Chocolate | 3 | 5 |
 | chocolate-dipped-shortbread | Shortbread | Chocolate-dipped | 2 | 5 |
 | chocolate-layer-cake | Chocolate layer | Classic | 2 | 4 |
 | chocolate-rugelach | Rugelach | Chocolate | 2 | 4 |
 | chocolate-sandwich-cookies | Sandwich cookies | Classic | 2 | 4 |
 | chow-mein | Chow mein/lo mein | Classic | 3 | 5 |
+| cinnamon-streusel-coffee-cake | Coffee cake | Cinnamon streusel | 2 | 4 |
 | classic-almond-biscotti | Biscotti | Classic | 3 | 5 |
 | classic-butter-shortbread | Shortbread | Classic | 2 | 6 |
 | classic-cheeseburger | Cheeseburger | Classic | 4 | 7 |
@@ -104,9 +109,11 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-chiffon-cake | Chiffon | Lemon | 3 | 5 |
 | lemon-cut-out-sugar-cookies | Sugar/cut-out | Lemon | 2 | 4 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
+| lemon-pound-cake | Pound cake | Lemon | 3 | 5 |
 | lo-mein | Lo mein | Classic | 2 | 4 |
 | madeleines | Madeleines (cake-like) | Classic | 3 | 5 |
 | malloreddus-saffron-tomato | Malloreddus | Classic | 2 | 4 |
+| marble-pound-cake | Pound cake | Marble | 3 | 5 |
 | matcha-chiffon-cake | Chiffon | Matcha | 2 | 4 |
 | mee-goreng | Mee goreng | Classic | 2 | 4 |
 | millionaires-shortbread | Bars (magic bars, millionaire's shortbread) | Classic | 4 | 6 |
@@ -144,8 +151,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pollo-al-mattone | Pollo al mattone (chicken under a brick) | Classic | 2 | 4 |
 | potato-gnocchi | Gnocchi | Classic | 4 | 6 |
 | potato-vareniki | Vareniki | Classic | 2 | 4 |
+| pound-cake | Pound cake | Classic | 2 | 4 |
 | raspberry-thumbprint-cookies | Thumbprints | Raspberry | 3 | 5 |
 | red-lentil-soup | Lentil | Classic | 2 | 3 |
+| red-velvet-cake | Red velvet | Classic | 2 | 4 |
 | ricotta-ravioli | Filled (ravioli, tortellini, agnolotti) | Classic | 4 | 6 |
 | roast-chicken | Whole roast chicken | Classic | 3 | 6 |
 | rugelach | Rugelach | Classic | 2 | 4 |
@@ -155,6 +164,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | signature-fudgy-brownies | Brownie (fudgy or cakey) | Classic | 2 | 4 |
 | signature-smash-burger | Smash burger | Classic | 3 | 8 |
 | snickerdoodles | Snickerdoodle | Classic | 3 | 5 |
+| sour-cream-coffee-cake | Coffee cake | Classic | 3 | 5 |
 | southern-fried-chicken | Fried chicken (Southern) | Classic | 3 | 6 |
 | spaghetti-aglio-e-olio | Aglio e olio | Classic | 2 | 4 |
 | spaghetti-al-pomodoro | Long dried (spaghetti, linguine, bucatini) | Classic | 3 | 5 |
@@ -173,6 +183,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | trenette-al-pesto | Trenette al pesto | Classic | 3 | 5 |
 | trofie-al-pesto | Trofie | Classic | 3 | 5 |
 | tuna-puttanesca | Puttanesca | Tuna | 2 | 4 |
+| vanilla-bundt-cake | Bundt | Classic | 2 | 4 |
 | vegetable-chow-mein | Chow mein/lo mein | Vegetable | 2 | 4 |
 | vegetable-lo-mein | Lo mein | Vegetable | 2 | 4 |
 | yakisoba | Yakisoba | Classic | 2 | 4 |

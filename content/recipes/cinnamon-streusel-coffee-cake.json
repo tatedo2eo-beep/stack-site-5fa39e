@@ -1,0 +1,207 @@
+{
+  "slug": "cinnamon-streusel-coffee-cake",
+  "title": "Cinnamon Streusel Coffee Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cakes-cupcakes",
+  "book_chapter": "cakes-cupcakes",
+  "dish": "coffee-cake",
+  "dish_title": "Coffee cake",
+  "flavour": "Cinnamon streusel",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "sour-cream-coffee-cake",
+  "changes_from_base": "A larger, pecan streusel with more cinnamon goes both through the middle and on top; no separate ripple.",
+  "summary": "This follows the classic soured cream coffee cake method, with a larger, pecan streusel carrying more cinnamon layered through the middle and piled on top instead of a separate ripple.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 55,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin (not glass), lined with a baking-paper sling",
+    "stand mixer or electric hand whisk",
+    "2 bowls",
+    "fork",
+    "skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Cake",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, softened (about 18°C)"
+    },
+    {
+      "group": "Cake",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cake",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Cake",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Cake",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Cake",
+      "qty": 250,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Cake",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Cake",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Cake",
+      "qty": 240,
+      "unit": "g",
+      "item": "soured cream, at room temperature"
+    },
+    {
+      "group": "Crumb topping",
+      "qty": 100,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Crumb topping",
+      "qty": 100,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Crumb topping",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Crumb topping",
+      "qty": 75,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Crumb topping",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Extra streusel",
+      "qty": 50,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Extra streusel",
+      "qty": 50,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Extra streusel",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Extra streusel",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Extra streusel",
+      "qty": 60,
+      "unit": "g",
+      "item": "pecans, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 175°C (155°C fan) for at least 20 minutes before baking, with a shelf in the middle, so the thick streusel topping gets an immediate blast of heat rather than melting into the batter."
+    },
+    {
+      "title": "Make the pecan streusel",
+      "text": "Mix all the streusel ingredients — flour, brown sugar, cinnamon, salt and chopped pecans — in one bowl, pour in the melted butter and stir with a fork, then squeeze into clumps from pea to hazelnut sized. Chill the streusel while you make the batter, so the butter stays firm and the clumps keep their shape rather than melting flat in the oven."
+    },
+    {
+      "title": "Cream the butter and sugar",
+      "text": "Cream the butter, sugar and salt for roughly 3 minutes until light and pale, then add the eggs one by one, beating in the vanilla afterwards. This stage builds the air that gives the finished cake its soft texture."
+    },
+    {
+      "title": "Build the batter",
+      "text": "Working on low speed, blend in half of the flour, baking powder and bicarbonate of soda, add the soured cream, then mix in the remaining flour mixture just until smooth; the resulting batter should be quite thick. Alternating this way keeps the batter from splitting while the soured cream adds moisture and tang."
+    },
+    {
+      "title": "Layer the streusel",
+      "text": "Spread half the batter in the tin and scatter a third of the chilled streusel over it, then spread the rest of the batter on top and scatter the remaining streusel thickly over the surface. Putting most of the streusel on top gives a deep, crunchy pecan crust, while the hidden third through the middle adds a pocket of cinnamon and crunch inside."
+    },
+    {
+      "title": "Bake until golden",
+      "text": "Bake for 45-55 minutes, until the crumbs are golden and a skewer inserted into the centre comes out clean. The thick topping can look ready well before the sponge underneath is actually set, so always check with the skewer."
+    },
+    {
+      "title": "Cool before cutting",
+      "text": "Leave the cake in the tin for at least 30 minutes before lifting it out by the paper sling and cutting into squares, so the streusel sets firm enough not to tear as you cut."
+    }
+  ],
+  "tips": [
+    "Chill the streusel before using it — this is what stops the pecans and sugar melting into a flat, greasy layer rather than staying in crunchy clumps.",
+    "Press the streusel firmly into clumps rather than leaving it loose, so it holds its texture once baked.",
+    "Spread the batter gently over the hidden streusel layer so you don't drag it up through to the surface.",
+    "Check doneness with a skewer in the centre rather than judging by the topping, which looks ready well before the sponge underneath is done.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight container at room temperature for up to 3 days, or in the fridge for up to 5 days. It also freezes well, wrapped tightly, for up to 2 months; thaw at room temperature or warm gently before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 461,
+    "protein_g": 5.6,
+    "carbs_g": 56.8,
+    "sugar_g": 29.9,
+    "free_sugar_g": 28.8,
+    "fat_g": 24.1,
+    "satfat_g": 12.5,
+    "salt_g": 0.63,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "coffee-cake-basic--cinnamon-streusel.jpg",
+  "image_alt": "Two squares of cinnamon streusel coffee cake with a streusel layer through the middle and on top on a black plate on dark slate."
+}

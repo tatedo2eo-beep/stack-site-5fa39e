@@ -1,0 +1,143 @@
+{
+  "slug": "pound-cake",
+  "title": "Classic Pound Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cakes-cupcakes",
+  "book_chapter": "cakes-cupcakes",
+  "dish": "pound-cake",
+  "dish_title": "Pound cake",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A rich, buttery loaf cake with a close, tender crumb and a classic split top.",
+  "servings": 10,
+  "prep_min": 20,
+  "cook_min": 70,
+  "difficulty": "easy",
+  "equipment": [
+    "900 g loaf tin (about 23 x 13 cm), greased and lined with a baking-paper sling",
+    "stand mixer or electric hand whisk",
+    "fine sieve",
+    "wire rack",
+    "skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Cake",
+      "qty": 225,
+      "unit": "g",
+      "item": "unsalted butter, softened (about 18°C)"
+    },
+    {
+      "group": "Cake",
+      "qty": 225,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cake",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Cake",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Cake",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Cake",
+      "qty": 225,
+      "unit": "g",
+      "item": "cake flour (or plain flour; see note)",
+      "note": "plain flour works with a slightly firmer crumb"
+    },
+    {
+      "group": "Cake",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Cake",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "whole milk"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 165°C (145°C fan) for at least 20 minutes before the cake goes in, with a shelf set in the middle. This cake's dense batter needs steady, moderate heat right through, so a fully heated oven stops the centre staying raw under a baked crust."
+    },
+    {
+      "title": "Bring everything to room temperature",
+      "text": "Make sure the butter, eggs and milk are all at room temperature before you start. Cold eggs added to creamed butter can make the mixture curdle and separate, which traps less air and leaves the baked cake denser than it should be."
+    },
+    {
+      "title": "Cream the butter and sugar",
+      "text": "Beat the butter, sugar and salt together on medium speed for 4-5 minutes until pale and fluffy, scraping down the bowl halfway through and again at the end. This stage works tiny air bubbles into the fat, and since there's little else doing the raising here, those bubbles are what give the cake its lift. The mixture should look noticeably lighter and almost mousse-like."
+    },
+    {
+      "title": "Beat in the eggs",
+      "text": "Whisk the eggs with the vanilla, then add them to the butter mixture a little at a time over 2-3 minutes, beating well after each addition. Adding them gradually lets each portion emulsify into the fat before the next goes in; if the mixture starts to look curdled, beat in a spoonful of the flour to bring it back together."
+    },
+    {
+      "title": "Fold in the flour",
+      "text": "Sift the flour and baking powder together, then fold or mix them in on low speed just until no streaks remain, loosening the batter with the milk to a soft dropping consistency. Overmixing at this stage develops gluten and toughens the cake, so stop as soon as it looks smooth."
+    },
+    {
+      "title": "Fill the tin",
+      "text": "Scrape the batter into the prepared tin and level the top, then run a buttered knife down the centre in one straight line. Scoring the top this way encourages the cake to split neatly along that line as it rises, rather than cracking unevenly elsewhere."
+    },
+    {
+      "title": "Bake until golden",
+      "text": "Bake for 60-70 minutes, until the top is golden with a split down the centre and a skewer inserted into the middle comes out clean. Cover loosely with foil if it's browning too quickly after about 45 minutes, so the crust doesn't catch before the centre is fully set."
+    },
+    {
+      "title": "Cool and turn out",
+      "text": "Let the cake cool in the tin for 15 minutes before lifting it out by the paper sling and transferring it to a wire rack to cool completely. Those first 15 minutes give the structure time to firm up enough to hold its shape once it's out of the tin."
+    }
+  ],
+  "tips": [
+    "Room-temperature butter, eggs and milk really matter here — cold ingredients are the most common reason a pound cake turns out dense instead of light.",
+    "Add the eggs slowly and beat well between additions; tipping them all in at once is a shortcut to a curdled, separated batter.",
+    "Don't skip scraping down the bowl while creaming, or unmixed butter left at the base will leave streaks in the baked cake.",
+    "Tent the cake loosely with foil if it's browning too fast — a dark crust before the centre is done usually just means the oven runs a little hot.",
+    "Check doneness with a skewer in the centre rather than the edges, since a pound cake's dense batter can look done on top while still wet in the middle.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Once completely cool, keep wrapped or in an airtight container at room temperature for up to 4 days, or in the fridge for up to a week. It freezes well, wrapped tightly, for up to 3 months — thaw fully at room temperature before slicing.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 363,
+    "protein_g": 4.6,
+    "carbs_g": 40.5,
+    "sugar_g": 22.9,
+    "free_sugar_g": 22.6,
+    "fat_g": 20.4,
+    "satfat_g": 12.3,
+    "salt_g": 0.43,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pound-cake-basic.jpg",
+  "image_alt": "A golden pound cake loaf with a split top and three thick slices on a dark wooden board."
+}

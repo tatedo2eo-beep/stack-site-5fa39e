@@ -1,0 +1,188 @@
+{
+  "slug": "blueberry-coffee-cake",
+  "title": "Blueberry Coffee Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cakes-cupcakes",
+  "book_chapter": "cakes-cupcakes",
+  "dish": "coffee-cake",
+  "dish_title": "Coffee cake",
+  "flavour": "Blueberry",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "sour-cream-coffee-cake",
+  "changes_from_base": "Blueberries and lemon zest in the batter instead of the cinnamon ripple; about 10 minutes longer in the oven.",
+  "summary": "This follows the classic soured cream coffee cake method, with blueberries and lemon zest folded through the batter instead of the cinnamon ripple, and about 10 minutes longer in the oven to bake off the extra moisture.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 65,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin (not glass), lined with a baking-paper sling",
+    "stand mixer or electric hand whisk",
+    "2 bowls",
+    "fork",
+    "skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Cake",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, softened (about 18°C)"
+    },
+    {
+      "group": "Cake",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cake",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Cake",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Cake",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Cake",
+      "qty": 250,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Cake",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Cake",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Cake",
+      "qty": 240,
+      "unit": "g",
+      "item": "soured cream, at room temperature"
+    },
+    {
+      "group": "Crumb topping",
+      "qty": 100,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Crumb topping",
+      "qty": 100,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Crumb topping",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Crumb topping",
+      "qty": 75,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Crumb topping",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Cake",
+      "qty": 225,
+      "unit": "g",
+      "item": "blueberries (fresh, or frozen and not thawed)"
+    },
+    {
+      "group": "Cake",
+      "qty": 1,
+      "unit": "pc",
+      "item": "unwaxed lemon, finely grated zest"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 175°C (155°C fan) for at least 20 minutes before baking, with a shelf in the middle, so the crumb topping gets a quick blast of heat and sets rather than melting into the batter."
+    },
+    {
+      "title": "Make the crumb topping",
+      "text": "For the topping, combine the flour, brown sugar, cinnamon and salt, then stir in the melted butter with a fork and press the mixture into pea- to hazelnut-sized clumps. Chill the crumbs while you make the batter, so the cold butter holds its shape in the oven."
+    },
+    {
+      "title": "Cream the butter and sugar",
+      "text": "Beat the butter, sugar and salt together for about 3 minutes until pale and light, then beat in the eggs one at a time, followed by the vanilla and lemon zest. The zest's oils spread through the fat at this stage, giving a bright lemon flavour right through the cake."
+    },
+    {
+      "title": "Build the batter",
+      "text": "On low speed, fold in half the flour, baking powder and bicarbonate of soda, followed by the soured cream, then the rest of the flour mixture, mixing only until smooth — expect a notably thick batter. This alternating method keeps the batter from splitting and gives it the moisture and tang soured cream is known for."
+    },
+    {
+      "title": "Layer in the blueberries",
+      "text": "Spread two-thirds of the batter in the tin and scatter two-thirds of the blueberries over it, then dollop the rest of the batter on top, spread gently, and scatter the remaining berries over the surface. Splitting the fruit between two layers stops the berries sinking straight to the bottom as the cake bakes, so every slice gets pockets of fruit through the middle."
+    },
+    {
+      "title": "Top with crumbs and bake",
+      "text": "Scatter the crumb topping over the surface, then bake for 55-65 minutes — about 10 minutes longer than a plain version, since the juicy berries add extra moisture that needs time to bake off — until the crumbs are golden and a skewer inserted into the centre comes out clean, checking a berry-free spot since fruit will always look wet."
+    },
+    {
+      "title": "Cool before cutting",
+      "text": "Leave the cake in the tin for at least 30 minutes before lifting it out by the paper sling and cutting into squares, giving the juicy crumb time to firm up enough to hold a clean cut."
+    }
+  ],
+  "tips": [
+    "Use the blueberries straight from frozen if that's what you have — thawing them first makes the batter wet and can tint it blue-grey.",
+    "Split the berries between two layers of batter rather than scattering them all in one spot, so every slice gets fruit through the middle, not just at the bottom.",
+    "Give it the full extra 10 minutes compared with a plain coffee cake; the juicy fruit needs the extra time to bake through.",
+    "Check the skewer in a berry-free spot, since a patch of fruit will always look wet even once the cake is fully baked.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Because of the fruit, keep in the fridge for up to 4 days rather than at room temperature. It also freezes well, wrapped tightly, for up to 2 months; thaw at room temperature before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 381,
+    "protein_g": 4.8,
+    "carbs_g": 51.3,
+    "sugar_g": 27.5,
+    "free_sugar_g": 24.8,
+    "fat_g": 17.9,
+    "satfat_g": 10.5,
+    "salt_g": 0.62,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "coffee-cake-basic--blueberry.jpg",
+  "image_alt": "Two squares of blueberry coffee cake studded with berries under a crumb topping on a black plate on dark slate."
+}

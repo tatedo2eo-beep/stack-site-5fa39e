@@ -1,0 +1,171 @@
+{
+  "slug": "marble-pound-cake",
+  "title": "Marble Pound Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cakes-cupcakes",
+  "book_chapter": "cakes-cupcakes",
+  "dish": "pound-cake",
+  "dish_title": "Pound cake",
+  "flavour": "Marble",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "pound-cake",
+  "changes_from_base": "A third of the batter is mixed with a cocoa paste and swirled through the plain batter.",
+  "summary": "This follows the classic pound cake method, with a third of the batter mixed into a cooled cocoa paste and swirled through the rest for a marbled effect.",
+  "servings": 10,
+  "prep_min": 25,
+  "cook_min": 70,
+  "difficulty": "easy",
+  "equipment": [
+    "900 g loaf tin (about 23 x 13 cm), greased and lined with a baking-paper sling",
+    "stand mixer or electric hand whisk",
+    "fine sieve",
+    "wire rack",
+    "skewer",
+    "butter knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Cake",
+      "qty": 225,
+      "unit": "g",
+      "item": "unsalted butter, softened (about 18°C)"
+    },
+    {
+      "group": "Cake",
+      "qty": 225,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cake",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Cake",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Cake",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Cake",
+      "qty": 225,
+      "unit": "g",
+      "item": "cake flour (or plain flour; see note)",
+      "note": "plain flour works with a slightly firmer crumb"
+    },
+    {
+      "group": "Cake",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Cake",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "whole milk"
+    },
+    {
+      "group": "Chocolate batter",
+      "qty": 20,
+      "unit": "g",
+      "item": "cocoa powder (Dutch-processed)"
+    },
+    {
+      "group": "Chocolate batter",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "boiling water"
+    },
+    {
+      "group": "Chocolate batter",
+      "qty": 15,
+      "unit": "g",
+      "item": "caster sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the cocoa paste",
+      "text": "Whisk the cocoa powder, boiling water and 15g of sugar together until completely smooth, then set aside to cool. Blooming the cocoa in hot water brings out its flavour and stops it tasting dusty once swirled through the batter."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 165°C (145°C fan) for at least 20 minutes before baking, with a shelf set in the middle, so the dense batter bakes through evenly from the start."
+    },
+    {
+      "title": "Bring everything to room temperature",
+      "text": "Make sure the butter, eggs and milk are at room temperature. Cold eggs can curdle the creamed butter and leave the finished cake denser than it should be."
+    },
+    {
+      "title": "Cream the butter and sugar",
+      "text": "Beat the butter, sugar and salt together for 4-5 minutes until pale and fluffy, scraping down the bowl as you go. This builds the air bubbles that give the cake its lift."
+    },
+    {
+      "title": "Beat in the eggs",
+      "text": "Whisk the eggs with the vanilla, then add them to the butter mixture gradually over 2-3 minutes, beating well after each addition. If it looks curdled, beat in a spoonful of the flour to bring it back together."
+    },
+    {
+      "title": "Fold in the flour",
+      "text": "Sift in the flour and baking powder and fold or mix on low just until no streaks remain, loosening with the milk to a soft dropping consistency."
+    },
+    {
+      "title": "Split the batter",
+      "text": "Stir a third of the finished batter into the cooled cocoa paste until evenly combined. Keeping the two batters separate until now means the chocolate portion stays a distinct colour instead of greying out the whole mix."
+    },
+    {
+      "title": "Swirl the batters",
+      "text": "Spoon the plain and chocolate batters into the tin in alternating dollops, then draw a butter knife through in 3-4 figure-of-eight loops. A few confident loops are enough to create the marbled pattern; dragging the knife through more than that blends the two batters together and blurs the swirl."
+    },
+    {
+      "title": "Bake until golden",
+      "text": "Bake for 60-70 minutes, by which point the top should be golden and split with a skewer coming out clean when pushed into the middle. If the colour deepens too fast after around 45 minutes, drape foil loosely over the top."
+    },
+    {
+      "title": "Cool and turn out",
+      "text": "Leave the cake in the tin for 15 minutes, then lift it out by the paper sling and transfer to a wire rack to cool completely before slicing."
+    }
+  ],
+  "tips": [
+    "Cool the cocoa paste fully before stirring it into a third of the batter, so it doesn't deflate the mix.",
+    "Keep the swirling to 3-4 figure-of-eight loops — any more and the two batters blend together, losing the marbled pattern.",
+    "Room-temperature butter, eggs and milk still make the biggest difference to how light the crumb turns out.",
+    "Dollop the two batters in alternating spoonfuls rather than pouring one on top of the other, for a more even marble.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Once completely cool, keep wrapped or in an airtight container at room temperature for up to 4 days, or in the fridge for up to a week. It freezes well, wrapped tightly, for up to 3 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 373,
+    "protein_g": 5.0,
+    "carbs_g": 43.2,
+    "sugar_g": 24.4,
+    "free_sugar_g": 24.1,
+    "fat_g": 20.7,
+    "satfat_g": 12.4,
+    "salt_g": 0.43,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pound-cake-basic--marble.jpg",
+  "image_alt": "A marble pound cake loaf with slices showing chocolate and vanilla swirls on a dark wooden board."
+}
