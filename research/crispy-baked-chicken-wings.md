@@ -27,4 +27,4 @@ Changes made:
 - Storage: added "refrigerate within 2 hours" line (06-G9)
 - Oven preheat stated 20 min ahead (CHECKLIST Preheat)
 - Salt given in grams (06-G1): 1 tsp fine salt -> 6 g
-- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

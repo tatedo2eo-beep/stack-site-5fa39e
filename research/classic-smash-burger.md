@@ -29,4 +29,4 @@ Changes made:
 - Patty salt raised from 1 g to 2.5 g (0.83% of the 300 g beef) to meet 01-B3; salt per serving recalculated 2.8 → 3.5 g (+1.5 g salt ÷ 2 servings)
 - Reheat line now gives 74°C in the centre (06-G9)
 - butter, softened: 1 tbsp → 14 g (CHECKLIST 1, weights in grams)
-- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

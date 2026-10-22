@@ -30,4 +30,4 @@ Changes made:
 - Frying oil preheated to 175 °C, held 150-160 °C (02-C6)
 - Sulphites added to allergens (vinegar, hot sauce or mustard may contain them)
 - Salt given in grams (06-G1): 1.5 tsp fine salt -> 9 g
-- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

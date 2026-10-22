@@ -99,5 +99,5 @@
 ## 7. Wording and publication rules
 - [ ] **No chef names or outlet names** in public copy. Sources stay in /knowledge only.
 - [ ] Original wording only: nothing copied from a source recipe's headnote or method.
-- [ ] Both units: °C with °F, and grams with cups or spoons where helpful.
+- [ ] Metric only: temperatures in °C (no °F), weights in grams and volumes in ml; tsp/tbsp spoons are fine for small amounts. No cups or ounces (site rule; the validator flags imperial units).
 - [ ] No unsupported claims ("the only way", "always crack-free"). Where sources disagree, the recipe follows the **safer pick noted in the knowledge file**.

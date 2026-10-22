@@ -29,4 +29,7 @@ Changes made:
 - Storage: added "refrigerate within 2 hours" line (06-G9)
 - Added the frying-safety tip: pot half full, thermometer, never unattended, no water on a grease fire (06-G6)
 - Oven preheat stated first (CHECKLIST Preheat)
-- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).
+
+## Salt re-check
+Re-checked 22 Oct: salt = sodium x 2.5 from the USDA rows in the nutrition note, no double counting (brine, rub and pasta-water salt are counted only for the share absorbed). Soy sauce 1 tbsp (16 g) -> 2 tsp (10 g); added salt is only 2 g for 4 patties. 4.03 -> 3.82 g. Remaining sodium is mostly the salted tinned beans (USDA canned values; rinsing removes some, not credited), bun, cheddar and sriracha mayo.

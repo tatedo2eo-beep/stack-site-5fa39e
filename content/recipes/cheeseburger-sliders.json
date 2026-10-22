@@ -75,13 +75,13 @@
     },
     {
       "group": "To assemble",
-      "qty": 40,
+      "qty": 25,
       "unit": "g",
       "item": "tomato ketchup"
     },
     {
       "group": "To assemble",
-      "qty": 4,
+      "qty": 2,
       "unit": "tsp",
       "item": "yellow mustard"
     }
@@ -136,15 +136,15 @@
   ],
   "diet": [],
   "nutrition_per_serving": {
-    "kcal": 528,
-    "protein_g": 27.1,
-    "carbs_g": 34.7,
-    "sugar_g": 6.5,
-    "free_sugar_g": 5.8,
-    "fat_g": 30.7,
+    "kcal": 525,
+    "protein_g": 27.0,
+    "carbs_g": 33.9,
+    "sugar_g": 6.0,
+    "free_sugar_g": 5.3,
+    "fat_g": 30.6,
     "satfat_g": 13.0,
-    "salt_g": 3.16,
-    "fibre_g": 1.6
+    "salt_g": 3.05,
+    "fibre_g": 1.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "sliders-basic.jpg",

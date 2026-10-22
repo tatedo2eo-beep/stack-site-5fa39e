@@ -25,4 +25,7 @@ Changes made:
 - Storage: added "refrigerate within 2 hours" line (06-G9)
 - Salt given in grams (06-G1): 0.8 tsp fine salt -> 5 g
 - Patty salt raised from 4.5 g to 4.8 g (0.8% of beef, the low end because of the American cheese) per 01-B3; nutrition rebuilt
-- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).
+
+## Salt re-check
+Re-checked 22 Oct: salt = sodium x 2.5 from the USDA rows in the nutrition note, no double counting (brine, rub and pasta-water salt are counted only for the share absorbed). Patty salt already at the 01-B3 floor (0.8 % of the beef, the figure the knowledge file gives for American cheese plus pickles). Most sodium came from processed cheese and the bun, so cheese cut from 2 slices to 1 per burger (matches the photo). 4.54 -> 3.71 g per serving. Still high: processed cheese and bun.

@@ -83,13 +83,13 @@
     },
     {
       "group": "To assemble",
-      "qty": 40,
+      "qty": 25,
       "unit": "g",
       "item": "tomato ketchup"
     },
     {
       "group": "To assemble",
-      "qty": 4,
+      "qty": 2,
       "unit": "tsp",
       "item": "yellow mustard"
     }
@@ -144,15 +144,15 @@
   ],
   "diet": [],
   "nutrition_per_serving": {
-    "kcal": 796,
-    "protein_g": 42.8,
-    "carbs_g": 36.8,
-    "sugar_g": 7.3,
-    "free_sugar_g": 6.5,
-    "fat_g": 52.1,
+    "kcal": 790,
+    "protein_g": 42.7,
+    "carbs_g": 35.7,
+    "sugar_g": 6.5,
+    "free_sugar_g": 5.7,
+    "fat_g": 52.0,
     "satfat_g": 22.0,
-    "salt_g": 4.59,
-    "fibre_g": 1.7
+    "salt_g": 4.44,
+    "fibre_g": 1.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "juicy-lucy-stuffed-advanced.jpg",

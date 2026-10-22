@@ -28,4 +28,4 @@ Changes made:
 - Storage: added "refrigerate within 2 hours" line (06-G9)
 - plain flour: 1 tbsp → 8 g (CHECKLIST 1, weights in grams)
 - Salt given in grams (06-G1): 1 tbsp fine salt, for the cooking water -> 18 g
-- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

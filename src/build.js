@@ -96,13 +96,28 @@ const copied = {};
 // Tami photo by file name (recipe/dish "image" field), e.g. "smash-burger-basic.jpg" -> img/dishes/02-burgers/smash-burger-basic.jpg
 const TAMI_BY_NAME = {};
 for (const ch of fs.readdirSync(path.join(TAMI.source, 'img/dishes'))) for (const f of fs.readdirSync(path.join(TAMI.source, 'img/dishes', ch))) TAMI_BY_NAME[f] = `img/dishes/${ch}/${f}`;
+// Neutral names: a file in content/images whose bytes (sha256) match an original cookbook photo counts as that original,
+// and the original is served under the neutral name everywhere (no chef/outlet names in public file names).
+const ALIAS_OUT = {};
+{
+  const sha = f => require('crypto').createHash('sha256').update(fs.readFileSync(f)).digest('hex');
+  const BY_HASH = {};
+  for (const rel of Object.values(TAMI_BY_NAME)) BY_HASH[sha(path.join(TAMI.source, rel))] = rel;
+  const ci = path.join(ROOT, 'content/images');
+  if (fs.existsSync(ci)) for (const f of fs.readdirSync(ci)) {
+    if (TAMI_BY_NAME[f]) continue;
+    const rel = BY_HASH[sha(path.join(ci, f))];
+    if (rel) { TAMI_BY_NAME[f] = rel; ALIAS_OUT[rel] = f; }
+  }
+}
 const tamiRel = name => !name ? null : name.startsWith('img/dishes/') ? name : TAMI_BY_NAME[path.basename(name)] || null;
 async function tamiImg(rel) {
   if (!rel) return null;
   if (copied[rel]) return copied[rel];
   const src = path.join(TAMI.source, rel);
   if (!fs.existsSync(src)) { console.log(C.yel(`warning: photo not found ${rel}`)); return null; }
-  const out = 'img/t/' + rel.replace(/^img\/dishes\//, '');
+  const rel2 = ALIAS_OUT[rel] ? path.posix.join(path.posix.dirname(rel), ALIAS_OUT[rel]) : rel;
+  const out = 'img/t/' + rel2.replace(/^img\/dishes\//, '');
   fs.mkdirSync(path.dirname(path.join(OUT, out)), { recursive: true });
   fs.copyFileSync(src, path.join(OUT, out));
   const m = await require('sharp')(src).metadata();

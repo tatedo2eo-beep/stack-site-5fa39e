@@ -11,7 +11,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | ground cumin | Spices, cumin seed (SR 02014) | 4 | 15.0 | 0.7 | 1.8 | 0.09 | 0.00 | 0.9 | 0.06 | 7 | 0.4 |
 | smoked paprika | Spices, paprika (SR 02028) | 4.6 | 13.0 | 0.7 | 2.5 | 0.48 | 0.00 | 0.6 | 0.10 | 3 | 1.6 |
-| soy sauce | Soy sauce, shoyu (FDC 174277) | 16 | 8.5 | 1.3 | 0.8 | 0.06 | 0.00 | 0.1 | 0.01 | 878 | 0.1 |
+| soy sauce | Soy sauce, shoyu (FDC 174277) | 10 | 5.3 | 0.8 | 0.5 | 0.04 | 0.00 | 0.1 | 0.01 | 549 | 0.1 |
 | panko breadcrumbs | Bread crumbs, dry, grated, plain (FDC 174928); proxy for panko | 60 | 237.0 | 8.0 | 43.2 | 3.72 | 3.72 | 3.2 | 0.72 | 439 | 2.7 |
 | large egg, beaten | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
@@ -29,16 +29,16 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | sriracha | Sauce, hot chile, sriracha (FDC 171186) | 15 | 13.9 | 0.3 | 2.9 | 2.26 | 2.26 | 0.1 | 0.01 | 318 | 0.3 |
 | smoked paprika | Spices, paprika (SR 02028) | 2.3 | 6.5 | 0.3 | 1.2 | 0.24 | 0.00 | 0.3 | 0.05 | 2 | 0.8 |
 | lime juice | Lime juice, raw (SR 09160) - juice sugars counted as free | 5 | 1.2 | 0.0 | 0.4 | 0.08 | 0.08 | 0.0 | 0.00 | 0 | 0.0 |
-| **Total** | | | 2796 | 95.5 | 291.5 | 44.24 | 24.39 | 141.8 | 36.57 | 6445 | 51.9 |
+| **Total** | | | 2792 | 95.0 | 291.2 | 44.22 | 24.39 | 141.7 | 36.57 | 6116 | 51.8 |
 
-**Per serving (total / 4):** kcal 699, protein_g 23.9, carbs_g 72.9, sugar_g 11.1, free_sugar_g 6.1, fat_g 35.4, satfat_g 9.1, salt_g 4.03, fibre_g 13.0
+**Per serving (total / 4):** kcal 698, protein_g 23.8, carbs_g 72.8, sugar_g 11.1, free_sugar_g 6.1, fat_g 35.4, satfat_g 9.1, salt_g 3.82, fibre_g 13.0
 
 ## Checks
 - Protein per 100 kcal: 3.4 g -> High Protein (>=10): no
 - Fat energy: 46% (<=30%: fail)
 - Sat fat energy: 11.7% (<10%: fail)
 - Free sugar energy: 3.5% (<10%: pass)
-- Salt: 4.03 g/serving (modest = <= 1.7 g, about a third of WHO's 5 g/day: fail)
+- Salt: 3.82 g/serving (modest = <= 1.7 g, about a third of WHO's 5 g/day: fail)
 - WHO Healthy by these numbers: no
 
 ## Assumptions

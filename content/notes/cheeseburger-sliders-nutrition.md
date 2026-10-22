@@ -12,18 +12,18 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | slider buns or small soft dinner rolls | Rolls, hamburger, plain (FDC 172796) | 360 | 1004.4 | 35.2 | 180.4 | 26.21 | 26.21 | 14.1 | 3.03 | 1778 | 6.5 |
 | unsalted butter, softened | Butter, without salt (SR 01145) | 15 | 107.5 | 0.1 | 0.0 | 0.01 | 0.00 | 12.2 | 7.71 | 2 | 0.0 |
 | dill pickle slices | Pickles, cucumber, dill (SR 11937) | 60 | 7.2 | 0.3 | 1.4 | 0.77 | 0.00 | 0.2 | 0.04 | 485 | 0.6 |
-| tomato ketchup | Catsup (SR 11935) | 40 | 40.4 | 0.4 | 11.0 | 8.51 | 8.51 | 0.0 | 0.00 | 363 | 0.1 |
-| yellow mustard | Mustard, prepared, yellow (SR 02046) | 20 | 12.0 | 0.7 | 1.2 | 0.18 | 0.00 | 0.7 | 0.04 | 221 | 0.8 |
-| **Total** | | | 3170 | 162.5 | 207.9 | 39.08 | 34.72 | 184.1 | 78.07 | 7578 | 9.7 |
+| tomato ketchup | Catsup (SR 11935) | 25 | 25.2 | 0.3 | 6.8 | 5.32 | 5.32 | 0.0 | 0.00 | 227 | 0.1 |
+| yellow mustard | Mustard, prepared, yellow (SR 02046) | 10 | 6.0 | 0.4 | 0.6 | 0.09 | 0.00 | 0.3 | 0.02 | 110 | 0.4 |
+| **Total** | | | 3149 | 162.0 | 203.2 | 35.79 | 31.53 | 183.7 | 78.05 | 7332 | 9.2 |
 
-**Per serving (total / 6):** kcal 528, protein_g 27.1, carbs_g 34.7, sugar_g 6.5, free_sugar_g 5.8, fat_g 30.7, satfat_g 13.0, salt_g 3.16, fibre_g 1.6
+**Per serving (total / 6):** kcal 525, protein_g 27.0, carbs_g 33.9, sugar_g 6.0, free_sugar_g 5.3, fat_g 30.6, satfat_g 13.0, salt_g 3.05, fibre_g 1.5
 
 ## Checks
 - Protein per 100 kcal: 5.1 g -> High Protein (>=10): no
 - Fat energy: 52% (<=30%: fail)
-- Sat fat energy: 22.2% (<10%: fail)
-- Free sugar energy: 4.4% (<10%: pass)
-- Salt: 3.16 g/serving (modest = <= 1.7 g, about a third of WHO's 5 g/day: fail)
+- Sat fat energy: 22.3% (<10%: fail)
+- Free sugar energy: 4.0% (<10%: pass)
+- Salt: 3.05 g/serving (modest = <= 1.7 g, about a third of WHO's 5 g/day: fail)
 - WHO Healthy by these numbers: no
 
 ## Assumptions

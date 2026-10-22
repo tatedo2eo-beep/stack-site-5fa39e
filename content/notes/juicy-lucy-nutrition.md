@@ -13,18 +13,18 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | unsalted butter, softened, for toasting | Butter, without salt (SR 01145) | 10 | 71.7 | 0.1 | 0.0 | 0.01 | 0.00 | 8.1 | 5.14 | 1 | 0.0 |
 | small white onion, thinly sliced | Onions, raw (SR 11282) | 60 | 24.0 | 0.7 | 5.6 | 2.54 | 0.00 | 0.1 | 0.03 | 2 | 1.0 |
 | dill pickle slices | Pickles, cucumber, dill (SR 11937) | 40 | 4.8 | 0.2 | 1.0 | 0.51 | 0.00 | 0.1 | 0.03 | 324 | 0.4 |
-| tomato ketchup | Catsup (SR 11935) | 40 | 40.4 | 0.4 | 11.0 | 8.51 | 8.51 | 0.0 | 0.00 | 363 | 0.1 |
-| yellow mustard | Mustard, prepared, yellow (SR 02046) | 20 | 12.0 | 0.7 | 1.2 | 0.18 | 0.00 | 0.7 | 0.04 | 221 | 0.8 |
-| **Total** | | | 3183 | 171.4 | 147.4 | 29.23 | 25.98 | 208.5 | 88.14 | 7349 | 7.0 |
+| tomato ketchup | Catsup (SR 11935) | 25 | 25.2 | 0.3 | 6.8 | 5.32 | 5.32 | 0.0 | 0.00 | 227 | 0.1 |
+| yellow mustard | Mustard, prepared, yellow (SR 02046) | 10 | 6.0 | 0.4 | 0.6 | 0.09 | 0.00 | 0.3 | 0.02 | 110 | 0.4 |
+| **Total** | | | 3161 | 170.9 | 142.7 | 25.95 | 22.79 | 208.2 | 88.12 | 7103 | 6.5 |
 
-**Per serving (total / 4):** kcal 796, protein_g 42.8, carbs_g 36.8, sugar_g 7.3, free_sugar_g 6.5, fat_g 52.1, satfat_g 22.0, salt_g 4.59, fibre_g 1.7
+**Per serving (total / 4):** kcal 790, protein_g 42.7, carbs_g 35.7, sugar_g 6.5, free_sugar_g 5.7, fat_g 52.0, satfat_g 22.0, salt_g 4.44, fibre_g 1.6
 
 ## Checks
 - Protein per 100 kcal: 5.4 g -> High Protein (>=10): no
 - Fat energy: 59% (<=30%: fail)
-- Sat fat energy: 24.9% (<10%: fail)
-- Free sugar energy: 3.3% (<10%: pass)
-- Salt: 4.59 g/serving (modest = <= 1.7 g, about a third of WHO's 5 g/day: fail)
+- Sat fat energy: 25.1% (<10%: fail)
+- Free sugar energy: 2.9% (<10%: pass)
+- Salt: 4.44 g/serving (modest = <= 1.7 g, about a third of WHO's 5 g/day: fail)
 - WHO Healthy by these numbers: no
 
 ## Assumptions

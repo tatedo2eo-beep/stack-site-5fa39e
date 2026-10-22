@@ -24,4 +24,4 @@ Dish: Flourless / flavour: Classic. Private file, not published.
 Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 03-K6 (baking and doneness cues); 03-K10 (raw dough and batter safety); 03-K2 (creaming); 03-K5 (resting and chilling); 03-K8 (brownies); CHECKLIST 6 (preheat at least 20 min, stated before the oven step).
 Changes made:
 - Salt given in grams (06-G1): 0.5 tsp fine sea salt or table salt -> 3 g
-- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

@@ -29,4 +29,4 @@ Changes made:
 - brown sugar: 1 tbsp → 12 g (CHECKLIST 1, weights in grams)
 - Sulphites added to allergens (vinegar, hot sauce or mustard may contain them)
 - Salt given in grams (06-G1): 1 tsp fine salt -> 6 g
-- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

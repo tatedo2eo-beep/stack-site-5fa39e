@@ -30,4 +30,7 @@ Changes made:
 - brown sugar: 1.5 tbsp → 18 g (CHECKLIST 1, weights in grams)
 - Sulphites added to allergens (vinegar, hot sauce or mustard may contain them)
 - Salt given in grams (06-G1): 0.5 tsp fine salt -> 3 g
-- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).
+
+## Salt re-check
+Re-checked 22 Oct: salt = sodium x 2.5 from the USDA rows in the nutrition note, no double counting (brine, rub and pasta-water salt are counted only for the share absorbed). Brine salt is 0.63 % of the chicken and counted at two-thirds absorbed (02-C2/06-G1 range 0.5-0.7 %); dredge 1.4 g and spice oil 0.5 g. 3.06 g per serving includes the bread and pickles served with it. Left as is.

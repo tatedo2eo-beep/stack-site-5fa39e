@@ -29,4 +29,4 @@ Changes made:
 - Storage: added "refrigerate within 2 hours" line (06-G9)
 - Dry-brine time for a whole bird set to 12-24 h, minimum 6 h (02-C2, 02-C8)
 - plain flour: 1 tsp → 2.7 g (CHECKLIST 1, weights in grams)
-- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

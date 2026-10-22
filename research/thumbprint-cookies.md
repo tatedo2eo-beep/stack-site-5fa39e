@@ -25,4 +25,4 @@ Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. It
 Changes made:
 - Salt given in grams (06-G1): 0.5 tsp fine sea salt or table salt -> 3 g
 - Added the do-not-eat-raw-dough note (03-K10)
-- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

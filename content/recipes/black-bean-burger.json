@@ -68,8 +68,8 @@
     },
     {
       "group": "Patties",
-      "qty": 1,
-      "unit": "tbsp",
+      "qty": 2,
+      "unit": "tsp",
       "item": "soy sauce"
     },
     {
@@ -237,14 +237,14 @@
     "vegetarian"
   ],
   "nutrition_per_serving": {
-    "kcal": 699,
-    "protein_g": 23.9,
-    "carbs_g": 72.9,
+    "kcal": 698,
+    "protein_g": 23.8,
+    "carbs_g": 72.8,
     "sugar_g": 11.1,
     "free_sugar_g": 6.1,
     "fat_g": 35.4,
     "satfat_g": 9.1,
-    "salt_g": 4.03,
+    "salt_g": 3.82,
     "fibre_g": 13.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",

@@ -31,4 +31,4 @@ Changes made:
 - Added the frying-safety tip: pot half full, thermometer, never unattended, no water on a grease fire (06-G6)
 - Dredged chicken rests at least 10 min on a rack (02-C6)
 - Frying hold temperature set to 150-165 °C (02-C6)
-- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

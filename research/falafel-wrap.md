@@ -28,4 +28,4 @@ Changes made:
 - Added the frying-safety tip: pot half full, thermometer, never unattended, no water on a grease fire (06-G6)
 - Tahini sauce storage cut from 5 to 4 days (06-G9)
 - plain flour: 1 tbsp → 8 g (CHECKLIST 1, weights in grams)
-- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

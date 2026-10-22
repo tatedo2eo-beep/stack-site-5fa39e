@@ -23,4 +23,4 @@ Changes made:
 - Salt given in grams (06-G1): 0.75 tsp fine salt -> 4.5 g
 - Salt given in grams (06-G1): 0.25 tsp fine salt -> 1.5 g
 - Storage: added "refrigerate within 2 hours" line (06-G9)
-- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).
