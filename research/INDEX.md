@@ -98,6 +98,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chocolate-sandwich-cookies | Sandwich cookies | Classic | 2 | 4 |
 | chocolate-tres-leches-cake | Tres leches | Chocolate | 3 | 5 |
 | chocolate-whoopie-pies | Whoopie pie | Classic | 2 | 4 |
+| chorba-algerian-lamb-chickpea-tomato-soup | Chorba | Classic | 3 | 5 |
 | chow-mein | Chow mein/lo mein | Classic | 3 | 5 |
 | chunky-garden-vegetable-soup-tomato-herbs | Vegetable | Classic | 2 | 4 |
 | cinnamon-streusel-coffee-cake | Coffee cake | Cinnamon streusel | 2 | 4 |
@@ -142,7 +143,9 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crispy-smashed-potatoes | Crispy smashed potatoes | Classic | 2 | 4 |
 | crispy-steak-fries | Steak fries | Classic | 3 | 5 |
 | curried-chicken-salad-mango-chutney-almonds | Chicken salad | Curry | 3 | 5 |
+| curry-laksa-chicken-prawn-coconut-noodle-soup | Laksa | Classic | 2 | 4 |
 | cut-out-sugar-cookies | Sugar/cut-out | Classic | 2 | 4 |
+| dashi-kombu-bonito-japanese-stock | Dashi | Classic | 3 | 5 |
 | detroit-style-pan-pizza-crisp-cheese-edges-tomato-stripes | Pan/Detroit | Classic | 3 | 5 |
 | dill-potato-salad | Potato salad | Dill | 2 | 4 |
 | diner-style-home-fries | Home fries | Classic | 2 | 4 |
@@ -150,6 +153,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | duchess-potatoes | Duchesse | Classic | 2 | 4 |
 | egg-drop-soup-ginger-spring-onion | Egg drop soup | Classic | 3 | 5 |
 | egg-fried-rice-spring-onions | Fried rice | Egg | 3 | 5 |
+| egusi-soup-beef-spinach-palm-oil | Egusi soup | Classic | 2 | 4 |
 | ensaladilla-rusa-tuna-peppers | Ensaladilla rusa | Classic | 2 | 4 |
 | ethiopian-berbere-beef-tibs | Tibs | Classic | 2 | 4 |
 | everyday-chicken-curry | Chicken curry | Classic | 3 | 6 |
@@ -166,6 +170,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
 | fried-mini-pizzas-tomato-mozzarella-basil | Pizza fritta/montanara | Classic | 2 | 4 |
 | gai-yang | Gai yang | Classic | 2 | 4 |
+| galbitang-korean-beef-short-rib-radish-soup | Galbitang | Classic | 2 | 4 |
 | galician-style-octopus-potatoes-smoked-paprika | Pulpo a la gallega | Classic | 4 | 6 |
 | garlic-parmesan-chicken-wings | Chicken wings | Garlic-parmesan | 3 | 5 |
 | garlic-rosemary-roast-beef | Roast beef | Garlic-rosemary | 3 | 5 |
@@ -188,6 +193,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | green-tomatillo-chicken-enchiladas-charred-chilli-sauce | Enchilada | Green (verdes) | 3 | 5 |
 | grilled-beef-kebabs-peppers | Kebabs/skewers | Classic | 3 | 5 |
 | grilled-porterhouse-steak-rosemary-lemon | Bistecca alla fiorentina | Classic | 2 | 4 |
+| groundnut-soup-sweet-potato-kale-peanut | Groundnut soup | Classic | 2 | 4 |
 | guacamole | Guacamole | Classic | 2 | 3 |
 | hainanese-chicken-rice | Hainanese chicken rice | Classic | 3 | 5 |
 | haluski | Haluski | Classic | 2 | 4 |
@@ -382,6 +388,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | soft-rice-and-yellow-lentil-porridge-cumin-ghee | Khichdi | Classic | 2 | 4 |
 | soft-scrambled-eggs-butter-chives-toast | Scrambled | Classic | 3 | 5 |
 | som-tam-green-papaya-salad | Som tam | Classic | 3 | 5 |
+| soto-ayam-indonesian-chicken-turmeric-soup | Soto | Classic | 2 | 4 |
 | sour-cream-coffee-cake | Coffee cake | Classic | 3 | 5 |
 | south-indian-lemon-rice-peanuts-curry-leaves | Lemon rice | Classic | 2 | 4 |
 | southern-fried-chicken | Fried chicken (Southern) | Classic | 3 | 6 |

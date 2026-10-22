@@ -1,0 +1,252 @@
+{
+  "slug": "curry-laksa-chicken-prawn-coconut-noodle-soup",
+  "title": "Curry Laksa with Chicken, Prawns and Tofu Puffs",
+  "category": "soups-stews",
+  "cuisine": "Malaysian",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "laksa",
+  "dish_title": "Laksa",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A fragrant paste of chilli, shallot, lemongrass, ginger and shrimp paste is fried until deep red, then simmered with chicken stock, tamarind and coconut milk. Prawns, shredded chicken, tofu puffs and rice vermicelli make it a feast in a bowl.",
+  "servings": 4,
+  "prep_min": 40,
+  "cook_min": 60,
+  "difficulty": "medium",
+  "equipment": [
+    "medium saucepan (about 3 litres) with a lid",
+    "instant-read thermometer",
+    "blender or food processor",
+    "large casserole or wok (about 5 litres)",
+    "small saucepan",
+    "large heatproof bowl",
+    "colander",
+    "two forks",
+    "ladle"
+  ],
+  "ingredients": [
+    {
+      "group": "Broth",
+      "qty": 450,
+      "unit": "g",
+      "item": "bone-in, skin-on chicken thighs",
+      "note": "about 3 thighs"
+    },
+    {
+      "group": "Broth",
+      "qty": 300,
+      "unit": "ml",
+      "item": "low-salt halal chicken broth"
+    },
+    {
+      "group": "Broth",
+      "qty": 1200,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Broth",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger, sliced"
+    },
+    {
+      "group": "Laksa paste",
+      "qty": 8,
+      "unit": "pc",
+      "item": "dried red chillies, seeded and soaked in hot water 15 min"
+    },
+    {
+      "group": "Laksa paste",
+      "qty": 3,
+      "unit": "pc",
+      "item": "shallots, roughly chopped"
+    },
+    {
+      "group": "Laksa paste",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Laksa paste",
+      "qty": 3,
+      "unit": "pc",
+      "item": "lemongrass stalks, tender white parts only, sliced"
+    },
+    {
+      "group": "Laksa paste",
+      "qty": 30,
+      "unit": "g",
+      "item": "fresh ginger or galangal, peeled and sliced"
+    },
+    {
+      "group": "Laksa paste",
+      "qty": 4,
+      "unit": "pc",
+      "item": "candlenuts or macadamia nuts"
+    },
+    {
+      "group": "Laksa paste",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "shrimp paste (belacan)"
+    },
+    {
+      "group": "Laksa paste",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Laksa paste",
+      "qty": 60,
+      "unit": "ml",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "ground coriander"
+    },
+    {
+      "group": "Soup",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Soup",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "tamarind paste"
+    },
+    {
+      "group": "Soup",
+      "qty": 8,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Soup",
+      "qty": 400,
+      "unit": "ml",
+      "item": "tinned coconut milk"
+    },
+    {
+      "group": "Soup",
+      "qty": 225,
+      "unit": "g",
+      "item": "raw king prawns, peeled and deveined"
+    },
+    {
+      "group": "Soup",
+      "qty": 120,
+      "unit": "g",
+      "item": "fried tofu puffs, halved"
+    },
+    {
+      "group": "To serve",
+      "qty": 140,
+      "unit": "g",
+      "item": "dried rice vermicelli"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "To serve",
+      "qty": 100,
+      "unit": "g",
+      "item": "bean sprouts"
+    },
+    {
+      "group": "To serve",
+      "qty": 10,
+      "unit": "g",
+      "item": "mint or Vietnamese coriander leaves"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "limes, cut into wedges"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sambal oelek, to serve (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Poach the chicken",
+      "text": "Put the chicken, broth, water and sliced ginger in the medium saucepan, bring to a simmer, cover and cook gently for 20-25 minutes, until the thickest thigh reads at least 74 °C at the bone. Lift it out, let it cool slightly, discard the skin and bones and shred the meat. Keep the stock, about 1.3 litres, for the soup."
+    },
+    {
+      "title": "Blend the paste",
+      "text": "Drain the soaked chillies and blend them with the shallots, garlic, lemongrass, ginger, candlenuts, shrimp paste, turmeric and 2 tbsp of the oil until smooth. Scrape down the sides often. The oil helps the blades catch the fibrous lemongrass."
+    },
+    {
+      "title": "Fry the paste",
+      "text": "Heat the remaining oil in the casserole over medium heat, add the paste and fry for 12-15 minutes, stirring constantly, until it darkens, smells sweet and the oil separates. Stir in the coriander and cumin for 1 minute. This long fry is what gives laksa its depth; a raw paste tastes harsh and grassy."
+    },
+    {
+      "title": "Simmer the broth",
+      "text": "Add the tamarind, sugar and chicken stock, discarding the ginger, bring to the boil and simmer for 10 minutes. Stir in the coconut milk and bring back to a gentle simmer. Keeping it below a rolling boil stops the coconut milk from splitting."
+    },
+    {
+      "title": "Cook eggs and noodles",
+      "text": "Boil the eggs for 10 minutes in the small saucepan, then cool, peel and halve them; the yolks should be fully set. Cover the rice vermicelli with just-boiled water in the bowl for 4-6 minutes until soft, then drain. Soaking rather than boiling keeps the thin noodles from breaking up."
+    },
+    {
+      "title": "Add the prawns",
+      "text": "Drop the prawns and tofu puffs into the soup and simmer for 2-3 minutes, until the prawns are pink and opaque all the way through. Return the chicken to heat through, then taste and add a squeeze of lime. The tofu puffs soak up the broth like little sponges."
+    },
+    {
+      "title": "Assemble the bowls",
+      "text": "Divide the noodles and bean sprouts between four deep bowls and ladle over the soup, prawns, tofu and chicken. Top with the eggs and herbs, and serve with lime wedges and sambal. Each diner can add heat and sourness to taste."
+    }
+  ],
+  "tips": [
+    "A common mistake is cutting the paste-frying short; keep going until the oil separates and the paste darkens.",
+    "Shrimp paste smells strong when raw, but it mellows completely once fried; open a window while cooking.",
+    "Do not overcook the prawns: 2-3 minutes is enough, and they keep cooking in the hot bowl.",
+    "Make a double batch of fried paste and freeze it in portions for quick laksa later."
+  ],
+  "storage": "Refrigerate the soup without noodles up to 2 days (prawns are best eaten fresh) or freeze the fried paste up to 3 months. Reheat the soup until piping hot (74 °C) and pour over freshly soaked noodles. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "soya",
+    "nuts",
+    "celery",
+    "fish",
+    "crustaceans"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 845,
+    "protein_g": 44.0,
+    "carbs_g": 57.3,
+    "sugar_g": 10.0,
+    "free_sugar_g": 2.3,
+    "fat_g": 51.9,
+    "satfat_g": 23.3,
+    "salt_g": 2.05,
+    "fibre_g": 5.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "laksa-advanced.jpg",
+  "image_alt": "A bowl of orange coconut curry laksa with noodles, prawns, tofu puffs, a halved boiled egg, bean sprouts, mint, lime and chilli sambal."
+}

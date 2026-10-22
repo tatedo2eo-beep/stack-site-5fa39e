@@ -1,0 +1,169 @@
+{
+  "slug": "egusi-soup-beef-spinach-palm-oil",
+  "title": "Egusi Soup with Beef and Greens",
+  "category": "soups-stews",
+  "cuisine": "Nigerian",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "egusi-soup",
+  "dish_title": "Egusi soup",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Beef simmers with onion and cayenne to make a savoury stock, then a paste of egusi, onion and Scotch bonnet is fried in palm oil and simmered into rich curds. Kale and spinach go in at the end for colour and freshness.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 110,
+  "difficulty": "medium",
+  "equipment": [
+    "large saucepan (about 4 litres) with a lid",
+    "blender",
+    "large mixing bowl",
+    "wide heavy pot or casserole (about 5 litres) with a lid",
+    "wooden spoon",
+    "slotted spoon",
+    "measuring jug"
+  ],
+  "ingredients": [
+    {
+      "group": "Beef and stock",
+      "qty": 700,
+      "unit": "g",
+      "item": "halal stewing beef (chuck), cut into 4 cm pieces"
+    },
+    {
+      "group": "Beef and stock",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, thinly sliced",
+      "note": "about 175 g"
+    },
+    {
+      "group": "Beef and stock",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Beef and stock",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Beef and stock",
+      "qty": 1560,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Egusi paste",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, roughly chopped",
+      "note": "about 175 g"
+    },
+    {
+      "group": "Egusi paste",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "Scotch bonnet chilli, seeded (or more to taste)"
+    },
+    {
+      "group": "Egusi paste",
+      "qty": 300,
+      "unit": "g",
+      "item": "ground egusi (melon seeds)"
+    },
+    {
+      "group": "Egusi paste",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Soup",
+      "qty": 120,
+      "unit": "g",
+      "item": "red palm oil",
+      "note": "about 130 ml"
+    },
+    {
+      "group": "Soup",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Soup",
+      "qty": 100,
+      "unit": "g",
+      "item": "curly kale, stems removed, leaves finely shredded"
+    },
+    {
+      "group": "Soup",
+      "qty": 200,
+      "unit": "g",
+      "item": "baby spinach, roughly chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simmer the beef",
+      "text": "Put the beef, sliced onion, 1 tsp salt, cayenne and water in the saucepan, bring to the boil and skim. Cover and simmer gently for 60 minutes, until the beef is nearly tender. Lift out the beef with the slotted spoon and measure the stock: you need about 1.2 litres, so top up with water if needed."
+    },
+    {
+      "title": "Make the egusi paste",
+      "text": "Blend the chopped onion and Scotch bonnet until smooth. Tip into the mixing bowl with the egusi and the 120 ml water and stir to a thick, spoonable paste. The onion's moisture helps bind the ground seeds into clumps."
+    },
+    {
+      "title": "Fry the clumps",
+      "text": "Heat the palm oil in the wide pot over medium heat until it melts and shimmers, but do not let it smoke. Drop in heaped tablespoons of the paste in a single layer and cook, without stirring, for 5 minutes, until the bottoms set and brown lightly. Leaving them alone lets a crust form so they hold together."
+    },
+    {
+      "title": "Form the curds",
+      "text": "Pour about 500 ml of the stock around the clumps, cover and simmer for 5 minutes. Then turn them gently with the spoon so they break into rough curds rather than a smooth paste. Those soft, cheesy-looking curds are the hallmark of a good egusi."
+    },
+    {
+      "title": "Simmer together",
+      "text": "Add the beef, the rest of the stock and the 0.5 tsp salt, cover and simmer gently for 25-30 minutes, stirring now and then so nothing catches. The beef should be tender and red oil should pool on the surface. That pooled oil is the sign the egusi is fully cooked."
+    },
+    {
+      "title": "Add the greens",
+      "text": "Stir in the kale and cook for 5 minutes, then add the spinach for 2 minutes until wilted. Taste and add more chilli if you like. Adding the greens last keeps them bright and fresh-tasting."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve hot in bowls with pounded yam, fufu, eba or plain rice. Pinch off a piece of swallow and use it to scoop up the soup."
+    }
+  ],
+  "tips": [
+    "A common mistake is stirring the egusi as soon as it hits the oil; wait 5 minutes so it sets into curds.",
+    "Keep the palm oil below smoking point, or it loses its colour and turns bitter.",
+    "Scotch bonnets are very hot: wear gloves and start with half, adding more later.",
+    "Egusi thickens as it stands; loosen it with a little hot water when reheating."
+  ],
+  "storage": "Refrigerate up to 3 days or freeze up to 3 months. Reheat gently with a splash of water, stirring, until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 642,
+    "protein_g": 41.7,
+    "carbs_g": 15.4,
+    "sugar_g": 2.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 49.4,
+    "satfat_g": 17.0,
+    "salt_g": 1.93,
+    "fibre_g": 2.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "egusi-soup-basic.jpg",
+  "image_alt": "A bowl of thick egusi soup with melon-seed curds, chunks of beef and dark leafy greens, with a smooth ball of pounded yam alongside."
+}

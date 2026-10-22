@@ -1,0 +1,104 @@
+{
+  "slug": "dashi-kombu-bonito-japanese-stock",
+  "title": "Dashi: Japanese Kombu and Bonito Stock",
+  "category": "soups-stews",
+  "cuisine": "Japanese",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "dashi",
+  "dish_title": "Dashi",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Kombu is soaked and gently heated to draw out its savoury flavour, then bonito flakes steep briefly off the heat. Strained without pressing, it gives a pale golden, crystal-clear stock.",
+  "servings": 6,
+  "prep_min": 5,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan (about 4 litres)",
+    "instant-read thermometer",
+    "fine sieve lined with kitchen paper or muslin",
+    "large heatproof bowl",
+    "tongs",
+    "airtight containers"
+  ],
+  "ingredients": [
+    {
+      "group": "Dashi",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Dashi",
+      "qty": 30,
+      "unit": "g",
+      "item": "kombu (dried kelp), wiped with a damp cloth",
+      "note": "lifted out; counted in the dashi"
+    },
+    {
+      "group": "Dashi",
+      "qty": 30,
+      "unit": "g",
+      "item": "katsuobushi (dried bonito flakes)",
+      "note": "strained out; counted in the dashi"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak the kombu",
+      "text": "Put the water and kombu in the saucepan and leave for 30 minutes, or overnight in the fridge. Soaking softens the seaweed so it releases its flavour easily. Wiping, not washing, the kombu keeps the white powder on its surface, which is full of flavour."
+    },
+    {
+      "title": "Heat gently",
+      "text": "Set the pan over medium-low heat and bring it slowly to about 65 °C, when small bubbles cling to the kombu; this takes about 10 minutes. Hold it at 60-65 °C for 30 minutes, checking with the thermometer. Boiling would make the stock slimy and bitter."
+    },
+    {
+      "title": "Lift out the kombu",
+      "text": "Remove the kombu with the tongs. Keep it for another use, such as slicing into a stir-fry. Its flavour has now passed into the water."
+    },
+    {
+      "title": "Steep the bonito",
+      "text": "Raise the heat until the liquid reaches a bare simmer, about 90 °C, then add the katsuobushi and turn off the heat. Leave for 5 minutes, until the flakes sink to the bottom. Short steeping off the heat keeps the smoky fish flavour clean."
+    },
+    {
+      "title": "Strain without pressing",
+      "text": "Pour through the lined sieve into the bowl and let it drip through on its own. Do not press or squeeze the flakes, which would make the dashi cloudy and fishy. You should have about 1.7 litres."
+    },
+    {
+      "title": "Use or store",
+      "text": "Use straight away for miso soup, noodle broths or simmered dishes. Otherwise cool it, pour into airtight containers and refrigerate for up to 3 days."
+    }
+  ],
+  "tips": [
+    "A common mistake is boiling the kombu; keep it at 60-65 °C and the stock stays clean and sweet.",
+    "Dashi is unsalted: season the dish you use it in, not the stock.",
+    "Freeze dashi in ice-cube trays for small amounts of flavour on demand.",
+    "Look for thick, dark green kombu and large, pale pink bonito flakes for the best taste."
+  ],
+  "storage": "Refrigerate in airtight containers up to 3 days or freeze up to 3 months. Bring to a simmer before using in a hot dish. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 6,
+    "protein_g": 0.8,
+    "carbs_g": 0.8,
+    "sugar_g": 0.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.24,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "dashi-basic.jpg",
+  "image_alt": "A small dark bowl of clear pale golden dashi stock beside a sheet of dried kombu topped with pink bonito flakes."
+}
