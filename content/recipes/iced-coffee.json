@@ -2,11 +2,14 @@
   "slug": "iced-coffee",
   "title": "Smooth Iced Coffee",
   "category": "drinks",
+  "cuisine": "International",
   "chapter": "more",
+  "book_chapter": "drinks",
   "dish": "iced-coffee",
   "dish_title": "Iced coffee",
-  "flavour": "Smooth",
-  "cuisine": "International",
+  "flavour": "Classic",
+  "access": "free",
+  "flavour_order": 0,
   "summary": "Brewing coffee double-strength straight onto ice chills it instantly without watering it down, then a splash of cold milk finishes it smooth and balanced. No sugar needed - just good coffee and a little cinnamon if you like.",
   "servings": 1,
   "prep_min": 5,
@@ -99,6 +102,6 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A tall glass of iced coffee layered over ice cubes with a swirl of cold milk, dusted lightly with cinnamon, condensation beading on the glass."
+  "image": "iced-coffee-basic.jpg",
+  "image_alt": "A tall glass of iced coffee over ice with milk swirling through it as it is poured."
 }

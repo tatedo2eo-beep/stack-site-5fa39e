@@ -1,0 +1,181 @@
+{
+  "slug": "mushroom-swiss-smash-burger",
+  "title": "Mushroom and Swiss Smash Burger",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "smash-burger",
+  "dish_title": "Smash burger",
+  "flavour": "Mushroom and Swiss",
+  "access": "premium",
+  "base_recipe": "signature-smash-burger",
+  "changes_from_base": "Same smash method as the Classic. Garlic-thyme mushrooms are browned first in the same pan, Swiss replaces American cheese, and the sauce is a lemony garlic mayo with peppery rocket instead of lettuce and pickles.",
+  "summary": "Earthy pan-fried mushrooms and melted Swiss cheese turn the classic smash burger into something richer, finished with a light garlic mayo and peppery rocket.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large cast-iron or heavy steel frying pan (at least 26 cm) or flat griddle",
+    "stiff metal spatula (fish slice or burger turner)",
+    "baking paper",
+    "small bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Patties",
+      "qty": 480,
+      "unit": "g",
+      "item": "beef mince, 20% fat",
+      "note": "kept fridge-cold"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Patties",
+      "qty": 4,
+      "unit": "pc",
+      "item": "slices Swiss cheese (Emmental-style)"
+    },
+    {
+      "group": "Garlic mushrooms",
+      "qty": 300,
+      "unit": "g",
+      "item": "chestnut or white mushrooms, thinly sliced"
+    },
+    {
+      "group": "Garlic mushrooms",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Garlic mushrooms",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Garlic mushrooms",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried thyme"
+    },
+    {
+      "group": "Garlic mushrooms",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "To assemble",
+      "qty": 4,
+      "unit": "pc",
+      "item": "soft burger buns or brioche-style buns",
+      "note": "about 60 g each"
+    },
+    {
+      "group": "To assemble",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter, softened, for toasting"
+    },
+    {
+      "group": "To assemble",
+      "qty": 40,
+      "unit": "g",
+      "item": "rocket (arugula)"
+    },
+    {
+      "group": "Garlic mayo",
+      "qty": 60,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Garlic mayo",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small garlic clove, finely grated"
+    },
+    {
+      "group": "Garlic mayo",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the garlic mayo",
+      "text": "Stir the mayonnaise with the grated garlic and a squeeze of lemon, then set it aside. Resting it for a few minutes lets the raw garlic mellow slightly so it doesn't overpower the mushrooms and beef later."
+    },
+    {
+      "title": "Cook the mushrooms",
+      "text": "Melt the butter in the large frying pan over medium-high heat, spread the mushrooms out in a single layer, and leave them untouched for 3-4 minutes so they release their water. Stir and cook for a further 3-4 minutes until deeply golden, working in two batches if your pan is smaller than 28cm so the mushrooms don't steam instead of browning."
+    },
+    {
+      "title": "Season and finish the mushrooms",
+      "text": "Add salt only once the mushrooms are browned, since salting them early draws out moisture and stops them catching colour properly. Stir in the garlic and thyme for a final minute, then tip everything into a bowl and wipe the pan clean."
+    },
+    {
+      "title": "Toast the buns",
+      "text": "Butter the cut sides of the buns and toast them cut-side down in the wiped pan over medium heat for 1-2 minutes until golden, then set aside. The toasting seals the crumb so the mayo won't soak straight through."
+    },
+    {
+      "title": "Heat the pan and smash",
+      "text": "Crank the same pan up to high for 4-5 minutes until a flicked drop of water skitters and disappears. Add 2-3 beef balls, well spaced, cover each with baking paper, and press hard with a spatula for 20-30 seconds until flattened to about 6mm - then don't press again."
+    },
+    {
+      "title": "Season and sear",
+      "text": "Peel back the paper and season the tops with salt and pepper. Sear undisturbed for 2-2.5 minutes until the underside builds a deep, lacy brown crust, which is where most of the savoury flavour in a smash burger comes from."
+    },
+    {
+      "title": "Flip and top with mushrooms and Swiss",
+      "text": "Scrape firmly underneath to lift the crust, flip, and spoon the cooked mushrooms over half the patties before laying Swiss cheese on top. Cook for 45-60 seconds, covering the pan for 30 seconds if the cheese needs encouragement to melt; the melting Swiss holds the mushrooms in place and the beef should reach 71°C with clear juices."
+    },
+    {
+      "title": "Build the burger",
+      "text": "Spread the garlic mayo on both toasted bun halves and add a handful of rocket to the bottom one. Stack the mushroom-and-Swiss patty with a plain patty on top, then finish with the top bun."
+    }
+  ],
+  "tips": [
+    "Don't crowd the mushrooms - if your pan is smaller than about 28cm, cook them in two batches so they brown instead of stewing in their own liquid.",
+    "Salt the mushrooms only after they've browned; salting raw mushrooms draws out water and stops them catching colour.",
+    "Don't press the patties more than once - a second press squeezes out the juices that keep the burger moist.",
+    "Wipe the pan before smashing the beef so leftover mushroom butter doesn't scorch at high heat."
+  ],
+  "storage": "Cooked patties and mushrooms keep together in an airtight container in the fridge for up to 2 days; the beef also freezes well for up to 2 months. Reheat gently in a pan until piping hot throughout and the centre reaches 74°C, and dress with fresh mayo and rocket rather than storing them assembled.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 721,
+    "protein_g": 34.8,
+    "carbs_g": 34.3,
+    "sugar_g": 6.2,
+    "free_sugar_g": 4.5,
+    "fat_g": 49.2,
+    "satfat_g": 18.3,
+    "salt_g": 2.74,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A double smash burger topped with golden sautéed mushrooms and melted Swiss cheese, rocket peeking from the sides of a toasted bun."
+}

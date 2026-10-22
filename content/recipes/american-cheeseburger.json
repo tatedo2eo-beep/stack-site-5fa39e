@@ -1,0 +1,188 @@
+{
+  "slug": "american-cheeseburger",
+  "title": "Diner-Style American Cheeseburger",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "cheeseburger",
+  "dish_title": "Cheeseburger",
+  "flavour": "American",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "classic-cheeseburger",
+  "changes_from_base": "Same patties and pan method as the Classic Cheeseburger. Two slices of American cheese per patty go on after the flip, the sauce becomes a tangy pickle-mayo diner sauce, and the salad is swapped for shredded lettuce, diced white onion and pickles.",
+  "summary": "A diner-style double cheeseburger with silky melted American cheese and a tangy homemade sauce in every bite.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy frying pan or cast-iron skillet (at least 26 cm)",
+    "lid or large upturned heatproof bowl",
+    "metal spatula",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Patties",
+      "qty": 600,
+      "unit": "g",
+      "item": "beef mince, 20% fat",
+      "note": "kept fridge-cold"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Patties",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Patties",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices American-style processed cheese",
+      "note": "2 per burger"
+    },
+    {
+      "group": "To assemble",
+      "qty": 4,
+      "unit": "pc",
+      "item": "soft burger buns or brioche-style buns",
+      "note": "about 60 g each"
+    },
+    {
+      "group": "To assemble",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter, softened, for toasting"
+    },
+    {
+      "group": "To assemble",
+      "qty": 60,
+      "unit": "g",
+      "item": "shredded iceberg lettuce"
+    },
+    {
+      "group": "To assemble",
+      "qty": 40,
+      "unit": "g",
+      "item": "white onion, finely diced"
+    },
+    {
+      "group": "To assemble",
+      "qty": 40,
+      "unit": "g",
+      "item": "dill pickle slices"
+    },
+    {
+      "group": "Diner sauce",
+      "qty": 60,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Diner sauce",
+      "qty": 25,
+      "unit": "g",
+      "item": "tomato ketchup"
+    },
+    {
+      "group": "Diner sauce",
+      "qty": 20,
+      "unit": "g",
+      "item": "dill pickles, finely chopped"
+    },
+    {
+      "group": "Diner sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "yellow mustard"
+    },
+    {
+      "group": "Diner sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Shape the patties",
+      "text": "Divide 600g cold beef mince into four 150g portions and shape into patties 11-12cm wide and about 1.5cm thick, slightly wider than the bun to allow for shrinkage. Press a shallow dimple into the centre of each so they stay flat as they cook. Keep the handling light so the mince stays tender."
+    },
+    {
+      "title": "Chill before cooking",
+      "text": "Chill the patties for 10 minutes before they go anywhere near the pan. This firms the fat so the shape holds and gives a quicker, more even sear once cooking starts."
+    },
+    {
+      "title": "Stir the diner sauce",
+      "text": "Stir together mayo, ketchup, finely chopped pickles, mustard and paprika in a small bowl, then chill while the patties cook. A short rest in the fridge lets the flavours meld into one tangy, well-rounded sauce."
+    },
+    {
+      "title": "Season just before cooking",
+      "text": "Season both sides of each patty with salt and pepper right before cooking, not while shaping. Early salting toughens mince into a springy texture rather than a tender one."
+    },
+    {
+      "title": "Toast the buns",
+      "text": "Toast the buttered cut sides of the buns in the pan over medium heat for 1-2 minutes until golden, then set aside. This protects the bread from turning soggy once the sauce and juicy patty go in."
+    },
+    {
+      "title": "Sear the first side",
+      "text": "Heat the pan over medium-high for 3 minutes, add 1 teaspoon of oil, then add the patties (2 at a time, or all 4 in a 30cm pan) and leave untouched for 4 minutes. Look for a deep, even brown crust that releases easily from the pan before flipping."
+    },
+    {
+      "title": "Flip and add double cheese",
+      "text": "Flip each patty once and cook for 3 more minutes, laying two slices of American cheese on top for the final 1-1.5 minutes under a lid. American cheese contains emulsifying salts, so the two slices melt into one smooth, even layer rather than breaking apart. The patties are done at 71°C in the centre."
+    },
+    {
+      "title": "Rest briefly",
+      "text": "Move the patties onto the bun bases and let them rest for 2 minutes. This brief pause keeps the juices in the meat instead of pooling out as soon as you cut in."
+    },
+    {
+      "title": "Build the burger",
+      "text": "Spread the diner sauce on both cut sides of the bun, then layer shredded lettuce on the bottom, the cheesy patty on top, and finish with diced white onion and pickles. The sauce on both halves means every bite gets that tangy hit, not just the top."
+    }
+  ],
+  "tips": [
+    "Chill the diner sauce while the patties cook so the flavours have time to meld.",
+    "Don't skip the second slice of cheese - the pair melts into one smooth, even layer rather than two separate ones.",
+    "Shape the patties gently and press with your fingers only when forming them, never with the spatula once they're in the pan.",
+    "Season the mince right before it hits the pan, not while shaping, to keep the texture tender."
+  ],
+  "storage": "Cooked patties keep covered in the fridge for up to 2 days, or frozen without buns, sauce or toppings for up to 2 months. Reheat thoroughly until piping hot and 74°C at the centre before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 842,
+    "protein_g": 39.5,
+    "carbs_g": 35.9,
+    "sugar_g": 6.7,
+    "free_sugar_g": 5.8,
+    "fat_g": 59.3,
+    "satfat_g": 22.3,
+    "salt_g": 4.47,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "cheeseburger-basic--american.jpg",
+  "image_alt": "A cheeseburger with thick, glossy melted American cheese draping over the patty and diced onion beneath, in a toasted bun."
+}

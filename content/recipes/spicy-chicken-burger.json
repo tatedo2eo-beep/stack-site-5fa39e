@@ -1,0 +1,259 @@
+{
+  "slug": "spicy-chicken-burger",
+  "title": "Spicy Crispy Chicken Burger",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "chicken-burger",
+  "dish_title": "Chicken burger",
+  "flavour": "Spicy (cayenne/hot sauce)",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "crispy-chicken-sandwich",
+  "changes_from_base": "Same buttermilk-brined, double-coated fried thighs as the Classic Chicken Burger, with hot sauce added to the buttermilk. After frying, the chicken is brushed with a cayenne hot-oil glaze and served with a cool, crunchy slaw and pickles instead of plain lettuce and mayo.",
+  "summary": "Buttermilk-marinated fried chicken with a craggy, extra-crisp coating, brushed with a smoky-sweet hot glaze and piled onto a cool, crunchy slaw.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "large heavy pot or deep casserole (at least 24 cm wide)",
+    "frying thermometer",
+    "wire rack set over a tray",
+    "tongs",
+    "instant-read thermometer",
+    "small saucepan",
+    "pastry brush"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken and marinade",
+      "qty": 4,
+      "unit": "pc",
+      "item": "boneless, skinless chicken thighs",
+      "note": "about 600 g total"
+    },
+    {
+      "group": "Chicken and marinade",
+      "qty": 250,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Chicken and marinade",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Chicken and marinade",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Chicken and marinade",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Coating",
+      "qty": 150,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Coating",
+      "qty": 30,
+      "unit": "g",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "Coating",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Coating",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Coating",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Coating",
+      "qty": 1500,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "enough for 5 cm depth"
+    },
+    {
+      "group": "Chicken and marinade",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "hot pepper sauce (vinegar-based, such as a Louisiana-style sauce)",
+      "note": "stirred into the buttermilk"
+    },
+    {
+      "group": "Hot glaze",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "neutral oil, for the hot glaze"
+    },
+    {
+      "group": "Hot glaze",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cayenne pepper",
+      "note": "1 tsp for medium heat"
+    },
+    {
+      "group": "Hot glaze",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "smoked paprika"
+    },
+    {
+      "group": "Hot glaze",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Hot glaze",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "To assemble",
+      "qty": 4,
+      "unit": "pc",
+      "item": "soft burger buns or brioche-style buns",
+      "note": "about 60 g each"
+    },
+    {
+      "group": "To assemble",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter, softened, for toasting"
+    },
+    {
+      "group": "To assemble",
+      "qty": 60,
+      "unit": "g",
+      "item": "dill pickle slices"
+    },
+    {
+      "group": "Cooling slaw",
+      "qty": 120,
+      "unit": "g",
+      "item": "white or red cabbage, finely shredded"
+    },
+    {
+      "group": "Cooling slaw",
+      "qty": 40,
+      "unit": "g",
+      "item": "carrot, coarsely grated"
+    },
+    {
+      "group": "Cooling slaw",
+      "qty": 25,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Cooling slaw",
+      "qty": 25,
+      "unit": "g",
+      "item": "fat-free Greek yoghurt"
+    },
+    {
+      "group": "Cooling slaw",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Cooling slaw",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "fine salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Marinate the chicken",
+      "text": "Submerge the chicken thighs in buttermilk mixed with salt, garlic powder, paprika and 2 tablespoons of hot sauce, then cover and refrigerate for at least 1 hour and up to 24 hours. The buttermilk's acidity gently tenderises the meat while seasoning it right through."
+    },
+    {
+      "title": "Build the dredge",
+      "text": "Combine flour, cornflour, baking powder, salt and pepper in a wide bowl, then rub in 2 tablespoons of the buttermilk marinade to form craggy little clumps. Cornflour and baking powder lighten the coating, while those damp clumps are what give the finished crust its extra-crunchy texture."
+    },
+    {
+      "title": "Coat and rest the chicken",
+      "text": "Lift each piece from the buttermilk, letting the excess drip off, then press firmly into the dredge. Rest the coated pieces on a rack for 10 minutes so the coating hydrates; skipping this is the main reason coatings fall off in the oil."
+    },
+    {
+      "title": "Fry the chicken",
+      "text": "Heat 5cm of oil in a heavy pot to 170°C and fry the chicken two pieces at a time for 6-8 minutes, turning once, keeping the oil between 160-170°C throughout. It's ready when deep golden and 74°C in the thickest part; drain on a rack rather than paper so the crust stays crisp instead of steaming."
+    },
+    {
+      "title": "Make the hot glaze",
+      "text": "Warm the oil gently for about 1 minute in a small pan, just until it shimmers but is nowhere near smoking (about 120°C), then take it off the heat and whisk in cayenne, smoked paprika, brown sugar and garlic powder. Whisking off the heat stops the spices scorching and turning bitter."
+    },
+    {
+      "title": "Glaze the chicken",
+      "text": "Brush the warm glaze generously over the hot fried chicken while it's still on the rack, stirring the glaze each time you dip in as the spices settle quickly. The heat from the chicken helps the glaze cling in a thin, sticky layer."
+    },
+    {
+      "title": "Make the slaw",
+      "text": "Toss cabbage and carrot with mayo, Greek yoghurt, lemon juice and a pinch of salt just before serving. Mixing it at the last minute keeps the cabbage crisp rather than letting it wilt and turn watery."
+    },
+    {
+      "title": "Toast the buns",
+      "text": "Butter the cut sides of the buns and toast them cut-side down in a frying pan over medium heat for 1-2 minutes until golden. The toasted surface keeps the crumb from soaking up sauce and juices."
+    },
+    {
+      "title": "Build the burger",
+      "text": "Pile the slaw onto the bottom bun, top with the glazed chicken and a few pickles, then finish with the top bun. The cool, crunchy slaw underneath balances the heat and stickiness of the chicken above it."
+    }
+  ],
+  "tips": [
+    "Rest the coated chicken on a rack for 10 minutes before frying - skipping this is the most common cause of the crust falling off in the oil.",
+    "Keep the oil between 160-170°C throughout frying; if it drops too low the coating turns greasy instead of crisp.",
+    "Stir the glaze each time you brush it on, since the spices settle quickly at the bottom of the pan.",
+    "Mix the slaw just before serving so the cabbage stays crunchy rather than wilting."
+  ],
+  "storage": "Fried chicken keeps in the fridge for up to 2 days; freezing isn't recommended as the coating turns soggy on thawing. Reheat in an oven until piping hot and 74°C at the centre - the microwave will soften the crust.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 756,
+    "protein_g": 40.0,
+    "carbs_g": 55.7,
+    "sugar_g": 9.1,
+    "free_sugar_g": 5.4,
+    "fat_g": 41.1,
+    "satfat_g": 6.3,
+    "salt_g": 3.79,
+    "fibre_g": 3.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chicken-burger-basic--spicy-cayenne-hot-sauce.jpg",
+  "image_alt": "A crispy red-glazed spicy chicken burger with shredded lettuce and a drizzle of hot sauce in a brioche bun."
+}

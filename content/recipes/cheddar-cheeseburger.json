@@ -1,0 +1,185 @@
+{
+  "slug": "cheddar-cheeseburger",
+  "title": "Mature Cheddar Cheeseburger with Caramelised Onions",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "cheeseburger",
+  "dish_title": "Cheeseburger",
+  "flavour": "Cheddar",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "classic-cheeseburger",
+  "changes_from_base": "Same patties and pan method as the Classic Cheeseburger. Onions are slowly caramelised first, thick mature cheddar is melted under a lid, and the sauce is a sharp Dijon mayo with rocket and pickles instead of ketchup, tomato and lettuce.",
+  "summary": "A rich cheeseburger built around slow-caramelised onions, sharp melted cheddar and a mustard mayo for extra bite.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "large heavy frying pan or cast-iron skillet (at least 26 cm)",
+    "lid or large upturned heatproof bowl",
+    "metal spatula",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Patties",
+      "qty": 600,
+      "unit": "g",
+      "item": "beef mince, 20% fat",
+      "note": "kept fridge-cold"
+    },
+    {
+      "group": "Patties",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Patties",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Patties",
+      "qty": 4,
+      "unit": "pc",
+      "item": "thick slices mature cheddar",
+      "note": "about 25 g each"
+    },
+    {
+      "group": "Caramelised onions",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large onions, thinly sliced",
+      "note": "about 400 g"
+    },
+    {
+      "group": "Caramelised onions",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Caramelised onions",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Caramelised onions",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "fine salt"
+    },
+    {
+      "group": "To assemble",
+      "qty": 4,
+      "unit": "pc",
+      "item": "soft burger buns or brioche-style buns",
+      "note": "about 60 g each"
+    },
+    {
+      "group": "To assemble",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter, softened, for toasting"
+    },
+    {
+      "group": "To assemble",
+      "qty": 40,
+      "unit": "g",
+      "item": "rocket (arugula)"
+    },
+    {
+      "group": "To assemble",
+      "qty": 40,
+      "unit": "g",
+      "item": "dill pickle slices"
+    },
+    {
+      "group": "Mustard mayo",
+      "qty": 50,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Mustard mayo",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "Dijon mustard"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Caramelise the onions",
+      "text": "Cook sliced onions in butter and oil with a pinch of salt over medium heat for 30-35 minutes, stirring every few minutes and adding a splash of water (1-2 tablespoons) whenever bits stick to the pan. They're ready when deep amber and jammy; tip them out and wipe the pan. Slow, steady browning develops deep, sweet, savoury flavour without scorching."
+    },
+    {
+      "title": "Make the mustard mayo",
+      "text": "Mix mayo with Dijon mustard in a small bowl and set aside. A simple combination like this adds sharpness that cuts through the richness of the cheese and onions."
+    },
+    {
+      "title": "Shape the patties",
+      "text": "Divide 600g cold beef mince into four 150g portions and shape into patties 11-12cm wide and about 1.5cm thick, pressing a shallow dimple into the centre of each. This keeps them flat rather than domed as they cook."
+    },
+    {
+      "title": "Chill before cooking",
+      "text": "Chill the shaped patties for 10 minutes so the fat firms up. A cold patty holds its shape and sears more evenly in the hot pan."
+    },
+    {
+      "title": "Season just before cooking",
+      "text": "Season both sides with salt and pepper only once ready to cook, since early salting makes the mince springy rather than tender. Toast the buttered buns cut-side down over medium heat for 1-2 minutes and set aside."
+    },
+    {
+      "title": "Sear the first side",
+      "text": "Heat the pan over medium-high for 3 minutes, add 1 teaspoon of oil, then cook the patties (2 at a time, or all 4 in a 30cm pan) untouched for 4 minutes. A deep brown crust that releases easily is the sign to flip."
+    },
+    {
+      "title": "Flip and melt the cheddar",
+      "text": "Flip once and cook for a further 3 minutes, adding thick slices of mature cheddar for the final 1.5 minutes under a lid. Mature cheddar is firmer and drier than processed cheese, so it needs that trapped heat to melt through properly. The patties are done at 71°C in the centre; rest for 2 minutes before building."
+    },
+    {
+      "title": "Build the burger",
+      "text": "Spread the mustard mayo on both cut sides, then layer rocket, the cheddar-topped patty, a generous heap of caramelised onions and pickles. The peppery rocket balances the sweetness of the onions and the richness of the melted cheese."
+    }
+  ],
+  "tips": [
+    "Don't rush the onions - 30-35 minutes of low, slow cooking is what turns them jammy and sweet rather than just softened.",
+    "Cover the pan to melt mature cheddar; it's firmer and drier than processed slices and needs the trapped heat to melt through.",
+    "Wipe the pan after the onions so the patties get a clean, dry sear rather than steaming in leftover liquid.",
+    "Season the patties only just before cooking to keep the mince tender."
+  ],
+  "storage": "Cooked patties and caramelised onions keep separately in the fridge for up to 2 days; the patties also freeze well for up to 2 months without toppings. Reheat everything until piping hot and the patty reaches 74°C at the centre.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 840,
+    "protein_g": 39.4,
+    "carbs_g": 41.0,
+    "sugar_g": 9.1,
+    "free_sugar_g": 4.4,
+    "fat_g": 57.0,
+    "satfat_g": 21.0,
+    "salt_g": 3.45,
+    "fibre_g": 3.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "cheeseburger-basic--cheddar.jpg",
+  "image_alt": "A cheeseburger with melted orange cheddar and frilly lettuce in a glossy toasted bun."
+}

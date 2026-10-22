@@ -1,0 +1,250 @@
+{
+  "slug": "black-bean-burger",
+  "title": "Smoky Black Bean Burger",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "veggie-bean-burger",
+  "dish_title": "Veggie/bean burger",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A hearty vegetarian burger with roasted black beans, warming spices and a crisp cheddar-topped crust, served with a quick-pickled onion and sriracha mayo.",
+  "servings": 4,
+  "prep_min": 30,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "large baking tray lined with baking paper",
+    "large non-stick frying pan (26-28 cm)",
+    "potato masher or fork",
+    "fish slice",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Patties",
+      "qty": 2,
+      "unit": "pc",
+      "item": "tins black beans (400 g each), drained and rinsed",
+      "note": "about 480 g drained"
+    },
+    {
+      "group": "Patties",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Patties",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small onion, finely diced"
+    },
+    {
+      "group": "Patties",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small red pepper, finely diced"
+    },
+    {
+      "group": "Patties",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Patties",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Patties",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "smoked paprika"
+    },
+    {
+      "group": "Patties",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Patties",
+      "qty": 60,
+      "unit": "g",
+      "item": "panko breadcrumbs"
+    },
+    {
+      "group": "Patties",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, beaten"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Patties",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil, for frying"
+    },
+    {
+      "group": "Patties",
+      "qty": 4,
+      "unit": "pc",
+      "item": "slices mature cheddar",
+      "note": "optional but recommended"
+    },
+    {
+      "group": "Quick-pickled onion",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small red onion, very thinly sliced",
+      "note": "about 80 g"
+    },
+    {
+      "group": "Quick-pickled onion",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Quick-pickled onion",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "fine salt"
+    },
+    {
+      "group": "To assemble",
+      "qty": 4,
+      "unit": "pc",
+      "item": "soft burger buns or brioche-style buns",
+      "note": "about 60 g each"
+    },
+    {
+      "group": "To assemble",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter, softened, for toasting"
+    },
+    {
+      "group": "To assemble",
+      "qty": 4,
+      "unit": "pc",
+      "item": "crisp lettuce leaves"
+    },
+    {
+      "group": "To assemble",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large ripe tomato, sliced"
+    },
+    {
+      "group": "Chipotle-style mayo",
+      "qty": 60,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Chipotle-style mayo",
+      "qty": 15,
+      "unit": "g",
+      "item": "sriracha"
+    },
+    {
+      "group": "Chipotle-style mayo",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "smoked paprika"
+    },
+    {
+      "group": "Chipotle-style mayo",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lime juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dry-roast the beans",
+      "text": "Pat the black beans dry and spread them in a single layer on the lined tray, then bake at 180°C (160°C fan) for 15-20 minutes, until the skins start to split and the beans feel dry on the outside but are still soft within. Driving off this moisture is what stops the finished patties turning mushy; don't take them so far that they go hard and crunchy."
+    },
+    {
+      "title": "Soften the vegetables",
+      "text": "Cook the onion and pepper in the olive oil over medium heat for 6-8 minutes until soft, then stir in the garlic, cumin and smoked paprika for 1 minute. Tip onto a plate lined with kitchen paper to soak up excess moisture and leave to cool slightly, so the hot vegetables don't start cooking the egg."
+    },
+    {
+      "title": "Mix the burger mixture",
+      "text": "Mash the roasted beans roughly in a bowl, leaving about a third whole for texture, then mix in the softened vegetables, soy sauce, panko, egg, salt and pepper. The whole beans give bite, while the mash binds everything together."
+    },
+    {
+      "title": "Shape and chill",
+      "text": "With wet hands, shape the mixture into 4 patties about 10cm wide and 2cm thick, then chill for 20 minutes. Chilling firms the patties so they hold together when they hit the hot pan."
+    },
+    {
+      "title": "Quick-pickle the onion",
+      "text": "Toss the sliced red onion with lime juice and a pinch of salt and leave to pickle while you cook. The acidity softens the onion's sharp bite and turns it a vivid pink."
+    },
+    {
+      "title": "Make the sriracha mayo",
+      "text": "Stir together mayo, sriracha, smoked paprika and lime juice in a small bowl. This spicy, citrusy sauce cuts through the earthiness of the beans."
+    },
+    {
+      "title": "Fry the patties",
+      "text": "Heat 2 tablespoons of oil in a non-stick pan over medium heat and cook the patties for 4-5 minutes per side until deep brown and crisp, flipping gently with a fish slice as they're more delicate than beef. Add cheddar on top after flipping and cover for 1 minute to melt it; because the mixture contains egg, cook until the centre reaches 74°C."
+    },
+    {
+      "title": "Toast the buns",
+      "text": "Butter the cut sides of the buns and toast them cut-side down in a frying pan over medium heat for 1-2 minutes until golden. The toasted surface keeps the crumb from soaking up sauce and juices."
+    },
+    {
+      "title": "Build the burger",
+      "text": "Spread the sriracha mayo on the bun, then layer lettuce, tomato, the cheesy patty and the pickled red onion. The pickled onion's sharpness lifts the whole burger."
+    }
+  ],
+  "tips": [
+    "Don't skip drying the beans in the oven - this step gets rid of excess moisture and is what stops the patties turning mushy.",
+    "Chill the shaped patties for 20 minutes before cooking so they firm up and hold together in the pan.",
+    "Flip the patties gently with a fish slice, and not too early, as they're more delicate than beef until that first crust forms.",
+    "If the mixture feels too soft to shape, work in another 1-2 tablespoons of panko before chilling."
+  ],
+  "storage": "Cooked patties keep in the fridge for up to 3 days, or freeze them cooked and cooled for up to 2 months. Reheat from chilled or frozen on a tray in a 180°C (160°C fan) oven for 10-20 minutes, until piping hot and 74°C in the centre, because the mixture contains egg.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 699,
+    "protein_g": 23.9,
+    "carbs_g": 72.9,
+    "sugar_g": 11.1,
+    "free_sugar_g": 6.1,
+    "fat_g": 35.4,
+    "satfat_g": 9.1,
+    "salt_g": 4.03,
+    "fibre_g": 13.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "veggie-bean-burger-basic.jpg",
+  "image_alt": "A dark black bean burger with lettuce, tomato, red onion and avocado slices in a wholemeal-style bun."
+}

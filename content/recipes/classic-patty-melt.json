@@ -1,0 +1,170 @@
+{
+  "slug": "classic-patty-melt",
+  "title": "Classic Patty Melt",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "patty-melt",
+  "dish_title": "Patty melt",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A griddled sandwich of seared beef, melted Swiss cheese and sweet caramelised onions, pressed between buttery toasted bread until golden.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 55,
+  "difficulty": "medium",
+  "equipment": [
+    "large heavy frying pan (at least 28 cm) or two pans",
+    "metal spatula",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Patties",
+      "qty": 500,
+      "unit": "g",
+      "item": "beef mince, 20% fat",
+      "note": "kept fridge-cold"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Caramelised onions",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large onions, thinly sliced",
+      "note": "about 400 g"
+    },
+    {
+      "group": "Caramelised onions",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Caramelised onions",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Caramelised onions",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "fine salt"
+    },
+    {
+      "group": "To assemble",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices rye bread",
+      "note": "about 32 g each, from a medium loaf"
+    },
+    {
+      "group": "To assemble",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices Swiss cheese (Emmental-style)",
+      "note": "about 20 g each"
+    },
+    {
+      "group": "To assemble",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Sauce",
+      "qty": 40,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Sauce",
+      "qty": 15,
+      "unit": "g",
+      "item": "tomato ketchup"
+    },
+    {
+      "group": "Sauce",
+      "qty": 15,
+      "unit": "g",
+      "item": "dill pickles, finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Caramelise the onions",
+      "text": "Melt the butter with the oil in the large pan over medium heat, add the sliced onions and a pinch of salt, and cook for 30-35 minutes, stirring every few minutes and adding a splash of water whenever brown bits stick, to lift them back into the onions. They're ready when deep amber and jammy. Tip them out and wipe the pan."
+    },
+    {
+      "title": "Make the sauce",
+      "text": "Stir together mayo, ketchup and chopped pickles in a small bowl. This tangy sauce balances the richness of the melted cheese and butter."
+    },
+    {
+      "title": "Shape the patties",
+      "text": "Shape the beef into 4 thin ovals roughly the size and shape of a rye bread slice, about 1cm thick. Matching the shape to the bread means every bite gets an even ratio of meat to bread."
+    },
+    {
+      "title": "Season and sear",
+      "text": "Season the patties just before cooking, then sear in a dry, hot pan over medium-high heat for 2-3 minutes per side until browned and 71°C at the centre. Set aside and wipe out the pan before the next step."
+    },
+    {
+      "title": "Butter the bread",
+      "text": "Butter one side of each bread slice. This buttered side will face outward on the griddle, giving the finished sandwich its crisp, golden crust."
+    },
+    {
+      "title": "Build the sandwiches",
+      "text": "Assemble each sandwich butter-side out: bread, a slice of Swiss cheese, the patty, caramelised onions, a spoonful of sauce, another slice of Swiss, then the second piece of bread. Cheese on both sides helps glue the sandwich together as it melts."
+    },
+    {
+      "title": "Griddle the sandwiches",
+      "text": "Cook over medium-low heat for 3-4 minutes per side, pressing down gently with the spatula, until the bread is deep golden and crisp and the cheese has fully melted. Keeping the heat gentle gives the cheese time to melt through before the bread burns."
+    },
+    {
+      "title": "Slice and serve",
+      "text": "Cut each sandwich in half on the diagonal before serving. This classic cut shows off the melted cheese and onion layers inside."
+    }
+  ],
+  "tips": [
+    "Griddle the finished sandwich over medium-low heat - any higher and the bread will burn before the cheese inside has melted.",
+    "Put a slice of cheese on both sides of the filling; it glues the sandwich together as it melts.",
+    "Caramelise the onions slowly, with splashes of water to lift any sticking bits, for the deep sweetness that makes this sandwich work.",
+    "Wipe the pan before searing the patties so they get a clean sear rather than stewing in onion juices."
+  ],
+  "storage": "Best served hot and freshly griddled; leftover cooked patties and onions keep in the fridge for up to 2 days. Reheat the filling until piping hot and 74°C at the centre, then griddle fresh bread around it rather than reheating the whole sandwich.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 836,
+    "protein_g": 39.1,
+    "carbs_g": 42.2,
+    "sugar_g": 7.6,
+    "free_sugar_g": 3.3,
+    "fat_g": 56.5,
+    "satfat_g": 23.6,
+    "salt_g": 2.9,
+    "fibre_g": 5.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "patty-melt-basic.jpg",
+  "image_alt": "A patty melt on griddled rye bread cut in half, showing beef, melted Swiss cheese and onions."
+}

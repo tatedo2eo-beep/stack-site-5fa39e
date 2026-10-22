@@ -1,0 +1,7 @@
+{"layers":[
+ {"id":"bun-base","label":"Toasted brioche base","s":1.0,"y":0.30,"ey":1.02},
+ {"id":"lettuce","label":"Butter lettuce","s":1.02,"y":0.17,"ey":0.56},
+ {"id":"tomato","label":"Ripe tomato","s":0.9,"y":0.10,"ey":0.13},
+ {"id":"patty-cheese","label":"Smashed beef + melted cheddar","s":1.06,"y":-0.01,"ey":-0.36},
+ {"id":"bun-top","label":"Sesame brioche top","s":1.0,"y":-0.33,"ey":-0.92}
+]}

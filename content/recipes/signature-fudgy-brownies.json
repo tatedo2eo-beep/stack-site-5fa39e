@@ -4,10 +4,12 @@
   "category": "desserts",
   "cuisine": "American",
   "chapter": "cookies-bars-brownies",
-  "dish": "fudgy-brownies",
-  "dish_title": "Fudgy Brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
   "flavour": "Classic",
   "access": "free",
+  "flavour_order": 0,
   "summary": "These brownies use whipped eggs and minimal flour for a shiny crackled top and a deeply fudgy, almost molten centre. They're rich with dark chocolate and finished with chunks for extra melty pockets.",
   "servings": 16,
   "prep_min": 20,
@@ -132,6 +134,6 @@
     "fibre_g": 2.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A stack of dense, fudgy chocolate brownie squares with a shiny crackled top, one cut open to reveal a moist, gooey centre studded with chocolate chunks."
+  "image": "brownie-fudgy-or-cakey-brownies.jpg",
+  "image_alt": "Four thick, dark chocolate brownie squares with a crackled top on a black plate."
 }

@@ -84,7 +84,7 @@
     if (!output) return;
     var base = parseFloat(scaler.getAttribute('data-base')) || 1;
     var servings = parseFloat(output.textContent) || base;
-    var ings = document.querySelectorAll('.ing');
+    var ings = document.querySelectorAll('[data-qty]');
     var labels = document.querySelectorAll('[data-servings-label]');
 
     function update() {
@@ -227,4 +227,15 @@
   [initScaler, initPrint, initCookMode].forEach(function (fn) {
     try { fn(); } catch (e) {}
   });
+})();
+// Design D (Storybook): optional "one step at a time" pages over the same method.
+(function () {
+  var pg = document.getElementById('dpager'), tg = document.getElementById('dall'); if (!pg || !tg) return;
+  var list = document.getElementById('r-steps'), steps = pg.querySelectorAll('.dpstep'), dots = pg.querySelectorAll('[data-dgo]'), i = 0;
+  function show(n) { i = Math.max(0, Math.min(steps.length - 1, n)); steps.forEach(function (s, k) { s.hidden = k !== i; }); dots.forEach(function (d, k) { d.classList.toggle('on', k === i); d.classList.toggle('done', k < i); }); var c = document.getElementById('dp-i'); if (c) c.textContent = i + 1; }
+  function mode(one) { pg.hidden = !one; if (list) list.hidden = one; tg.setAttribute('aria-pressed', String(one)); tg.textContent = one ? 'All steps at once' : 'One step at a time'; }
+  tg.addEventListener('click', function () { mode(pg.hidden); });
+  pg.addEventListener('click', function (e) { var b = e.target.closest('[data-dp],[data-dgo]'); if (!b) return; show(b.dataset.dgo != null ? +b.dataset.dgo : i + (+b.dataset.dp)); });
+  var cb = document.getElementById('cook-btn'); if (cb) cb.addEventListener('click', function () { mode(false); }, true);
+  show(0);
 })();

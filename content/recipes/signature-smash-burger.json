@@ -4,10 +4,12 @@
   "category": "burgers-sandwiches",
   "cuisine": "American",
   "chapter": "burgers",
+  "book_chapter": "burgers",
   "dish": "smash-burger",
-  "dish_title": "Smash Burger",
+  "dish_title": "Smash burger",
   "flavour": "Classic",
   "access": "free",
+  "flavour_order": 0,
   "summary": "Two ultra-thin, lacy-edged beef patties get smashed hard in a screaming-hot pan and stacked with melted cheese, crisp lettuce and a tangy pickle sauce for a true diner-style burger.",
   "servings": 4,
   "prep_min": 15,
@@ -166,6 +168,6 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A double smash burger with a lacy brown crust, melted cheese, shredded lettuce and pickles spilling from a toasted bun, cut in half on a wooden board."
+  "image": "smash-burger-basic.jpg",
+  "image_alt": "A double smash burger with lacy browned patties, melted cheese, pickles and onion in a toasted bun."
 }

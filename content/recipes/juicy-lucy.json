@@ -1,0 +1,159 @@
+{
+  "slug": "juicy-lucy",
+  "title": "Juicy Lucy (Cheese-Stuffed Burger)",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "juicy-lucy-stuffed",
+  "dish_title": "Juicy Lucy (stuffed)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A beef burger with molten cheese sealed inside instead of on top, a satisfying surprise with every cut, so take care with the first bite.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "large heavy frying pan or cast-iron skillet (at least 26 cm)",
+    "lid or large upturned heatproof bowl",
+    "metal spatula",
+    "instant-read thermometer",
+    "baking paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Stuffed patties",
+      "qty": 680,
+      "unit": "g",
+      "item": "beef mince, 20% fat",
+      "note": "kept fridge-cold"
+    },
+    {
+      "group": "Stuffed patties",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices American-style processed cheese",
+      "note": "2 per burger"
+    },
+    {
+      "group": "Stuffed patties",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Stuffed patties",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Stuffed patties",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "To assemble",
+      "qty": 4,
+      "unit": "pc",
+      "item": "soft burger buns or brioche-style buns",
+      "note": "about 60 g each"
+    },
+    {
+      "group": "To assemble",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter, softened, for toasting"
+    },
+    {
+      "group": "To assemble",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small white onion, thinly sliced"
+    },
+    {
+      "group": "To assemble",
+      "qty": 40,
+      "unit": "g",
+      "item": "dill pickle slices"
+    },
+    {
+      "group": "To assemble",
+      "qty": 40,
+      "unit": "g",
+      "item": "tomato ketchup"
+    },
+    {
+      "group": "To assemble",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "yellow mustard"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Shape the discs",
+      "text": "Divide 680g beef mince into 8 portions of about 85g each and flatten each between sheets of baking paper into 11cm discs. Even thickness here matters, as it determines how the seal and the cooking time both turn out."
+    },
+    {
+      "title": "Stuff with cheese",
+      "text": "Fold 2 slices of American cheese into a small stacked square, about 5cm across, and place one onto each of 4 of the discs, leaving a clear 2cm border around the edge. Keeping that border clean and free of cheese is essential for sealing properly later."
+    },
+    {
+      "title": "Seal the patties",
+      "text": "Cover each cheese-topped disc with one of the remaining discs, then pinch and press the edges firmly all the way round. Cup each patty between your palms and smooth the seam over; any gap left in the seal is how melted cheese escapes and blows out in the pan."
+    },
+    {
+      "title": "Chill",
+      "text": "Chill the sealed patties for 15 minutes. This firms up the seal and makes the patties much less likely to burst open as they cook."
+    },
+    {
+      "title": "Season and toast the buns",
+      "text": "Season the outside of each patty with salt and pepper, then toast the buns until golden. Set both aside ready for cooking."
+    },
+    {
+      "title": "Cook over medium heat",
+      "text": "Heat 1 teaspoon of oil in the pan over medium heat (not high) and cook the patties for 5 minutes, turning only once, then 5 minutes on the second side. Medium heat gives the cheese inside time to melt fully before the outside burns. Check doneness by sliding the thermometer in from the side into the meat, not the cheese pocket: you want 71°C."
+    },
+    {
+      "title": "Rest",
+      "text": "Rest the burgers on the toasted bun bases for 5 minutes before serving. The cheese inside stays scalding hot for a while, so warn everyone to take the first bite carefully."
+    },
+    {
+      "title": "Build the burger",
+      "text": "Finish simply with ketchup, mustard, onion and pickles. Simple toppings let the molten cheese centre be the main event."
+    }
+  ],
+  "tips": [
+    "Press and smooth the sealed edge firmly between your palms - any gap in the seal is how the cheese escapes into the pan.",
+    "Cook over medium heat, not high; it needs the extra time for the cheese to melt fully before the outside burns.",
+    "Check the temperature in the meat, not the molten cheese, when testing for doneness.",
+    "Let the burger rest for the full 5 minutes before serving - the cheese inside stays dangerously hot and can scald if bitten into too soon."
+  ],
+  "storage": "Best cooked and eaten fresh; if you do have leftovers, keep covered in the fridge for up to 1 day. Reheat gently and slowly until piping hot and 74°C at the centre, as the molten cheese can overheat unevenly.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 796,
+    "protein_g": 42.8,
+    "carbs_g": 36.8,
+    "sugar_g": 7.3,
+    "free_sugar_g": 6.5,
+    "fat_g": 52.1,
+    "satfat_g": 22.0,
+    "salt_g": 4.35,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "juicy-lucy-stuffed-advanced.jpg",
+  "image_alt": "A Juicy Lucy burger cut in half, molten cheese oozing from the centre of the patty, with pickles alongside."
+}

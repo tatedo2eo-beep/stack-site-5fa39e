@@ -1,0 +1,111 @@
+/* ===== Mobile layer for the 5 designs. Desktop (>=1100px) is untouched; B already has its own
+   responsive rules in designs.css. Same look, re-flowed for phones and tablets. ===== */
+@media (max-width:1099px){
+ body{min-width:0!important;overflow-x:hidden}
+ .main{min-width:0}
+ .wrap{width:calc(100% - 32px)}
+ img{max-width:100%}
+ .rgrid,[data-design=e] .rgrid,[data-design=d] .rgrid,[data-design=g] .rgrid{grid-template-columns:repeat(2,minmax(0,1fr))}
+ [data-design=g] .rgrid>.rc:nth-child(7n+1){grid-column:auto;grid-row:auto}
+ .tgrid,[data-design=e] .tgrid,[data-design=c] .tgrid,[data-design=d] .tgrid,[data-design=g] .tgrid{grid-template-columns:repeat(3,minmax(0,1fr))}
+ .sh2 h1,.sh2 h2{font-size:34px}
+ .rnut{grid-template-columns:1fr;gap:24px}
+ .palgrid{grid-template-columns:1fr}
+ .palbox{width:100%;max-width:520px}
+ /* E · magazine */
+ .mastin{grid-template-columns:1fr auto;row-gap:6px}
+ .mastin .dateline{display:none}
+ [data-design=e] .navin{overflow-x:auto;justify-content:flex-start;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+ [data-design=e] .navin::-webkit-scrollbar{display:none}
+ [data-design=e] .navq{display:none}
+ .ehero h1{font-size:52px}.ehero.rh h1{font-size:40px}
+ .eissue ol{grid-template-columns:repeat(3,minmax(0,1fr))}
+ .ecols{grid-template-columns:1fr 1fr}
+ .estrip{grid-template-columns:1fr}
+ .ebody{grid-template-columns:1fr}
+ [data-design=e] .emeth .steps>li{grid-template-columns:64px 1fr}
+ [data-design=e] .emeth .steps .n{font-size:56px}
+ .eside{grid-template-columns:1fr}
+ .echap h1{font-size:48px}.echap .bignum{font-size:96px}
+ /* C · pinboard */
+ .cbarin{flex-wrap:wrap;gap:10px}
+ .cnotes{justify-content:flex-start;margin-left:0}
+ .cbar2{flex-wrap:wrap;gap:10px}
+ .chero,.chead,.cs2{grid-template-columns:1fr}
+ .crow{grid-template-columns:repeat(3,minmax(0,1fr))}
+ .crh{grid-template-columns:1fr}
+ .cboard{grid-template-columns:1fr}
+ .ccards .steps{grid-template-columns:1fr}
+ .cboard2{grid-template-columns:1fr}
+ .cnote.big h1{font-size:54px}.chead h1{font-size:58px}
+ /* D · storybook */
+ .dtop{flex-wrap:wrap;gap:12px}
+ .dhero{grid-template-columns:1fr}
+ .dhero .dcat{height:300px}
+ .dgrps{grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+ .dmore{grid-template-columns:1fr}
+ .dsearch{grid-template-columns:1fr}
+ [data-design=d] .foot{padding-bottom:96px}
+ [data-design=d] .view{padding-bottom:40px}
+ /* G · bento */
+ [data-design=g] .shell{grid-template-columns:1fr}
+ [data-design=g] .toc{position:fixed;top:auto;bottom:0;left:0;right:0;height:auto;flex-direction:row;justify-content:center;padding:6px 8px calc(6px + env(safe-area-inset-bottom));z-index:40;gap:0;box-shadow:0 -6px 20px rgba(var(--shadow),.18)}
+ [data-design=g] .glogo,[data-design=g] .railsoon{display:none}
+ [data-design=g] .rail{flex-direction:row;gap:2px;overflow-x:auto;scrollbar-width:none;max-width:100%}
+ [data-design=g] .rail .nl{display:none}
+ [data-design=g] .foot{padding-bottom:90px}
+ .gtop{flex-wrap:wrap;gap:12px}
+ .gbento{grid-template-columns:1fr 1fr}
+ .gbento .gbig{grid-column:1/-1;grid-row:auto;min-height:340px}
+ .grec{grid-template-columns:1fr 1fr}
+ .grec .gimg{grid-column:1/-1;grid-row:auto;min-height:260px}
+ .grec .gtitle,.grec .gstats,.grec .ging,.grec .gmeth,.galg,.gmisc,.gnut,.gnutx,.ginfo{grid-column:1/-1;grid-row:auto}
+ .gmeth .steps{grid-template-columns:1fr}
+ .gchap,.gsearch{grid-template-columns:1fr 1fr}
+ .gchap .gimg,.gchap .gtitle,.gchap .gfil{grid-column:1/-1}
+ .gnum b,.gcount b{font-size:46px}
+ /* all designs: search + tools wrap nicely */
+ .qs{flex:1 1 200px;min-width:0}
+ .tools{gap:6px}
+ .palbtn span{display:none}
+}
+@media (max-width:640px){
+ .wrap{width:calc(100% - 24px)}
+ .rgrid,[data-design=e] .rgrid,[data-design=d] .rgrid,[data-design=g] .rgrid,[data-design=b] .sec .rgrid{grid-template-columns:1fr}
+ .tgrid,[data-design=e] .tgrid,[data-design=c] .tgrid,[data-design=d] .tgrid,[data-design=g] .tgrid{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .sh2{flex-wrap:wrap;gap:6px}
+ .sh2 h1,.sh2 h2{font-size:30px}
+ .sec{padding:30px 0}
+ .ehero h1{font-size:40px}.ehero.rh h1{font-size:32px}
+ .eissue ol{grid-template-columns:1fr 1fr}
+ .enum{font-size:40px}
+ .ecols{grid-template-columns:1fr}
+ .crow{grid-template-columns:1fr 1fr}
+ .ccount{grid-column:1/-1}
+ .cnote.big h1{font-size:44px}.chead h1{font-size:46px}
+ .polaroid.big{max-width:88%;margin:0 auto}
+ .dgrps{grid-template-columns:1fr}
+ .dock{max-width:calc(100% - 16px);overflow-x:auto;scrollbar-width:none;bottom:10px}
+ .dock .nl{display:none}
+ .gbento{grid-template-columns:1fr}
+ .grec{grid-template-columns:1fr}
+ .stats{flex-wrap:wrap}
+ .steps>li{grid-template-columns:36px 1fr}
+ .nut{font-size:13px}
+ .ctrls{flex-wrap:wrap;gap:8px}
+ .scaler{flex-wrap:wrap}
+ .mastin .brand{font-size:28px}
+}
+@media(max-width:1099px){.footin{flex-wrap:wrap;gap:10px 18px;height:auto;padding-top:14px;padding-bottom:14px}.soonwrap{flex-wrap:wrap;display:flex;gap:6px 12px}}
+@media(max-width:900px){
+ .chero,.dhero,.gbento,.crow,.dgrps{grid-template-columns:minmax(0,1fr)!important;grid-auto-flow:row}
+ .chero>*,.dhero>*,.gbento>*,.gbig,.gstat,.glass,.dbubble,.cnote{min-width:0;grid-column:auto!important;grid-row:auto!important;max-width:100%}
+ .chero img,.dhero img,.dpic{max-width:100%}
+ .rcb .bdgs{flex-wrap:wrap}
+ .sbox{max-width:100%}.sbox input{min-width:0;flex:1}
+}
+@media(max-width:1099px){[data-design=c] .rgrid{columns:3;column-gap:24px}}
+@media(max-width:760px){[data-design=c] .rgrid{columns:2;column-gap:18px;padding:24px 4px 40px}[data-design=c] .rc .bdg{font-size:10px}}
+@media(max-width:420px){[data-design=c] .rgrid{columns:1}}
+@media(max-width:900px){.gbento{grid-template-rows:none}.gbig{min-height:300px}}
+@media(max-width:640px){.drh .arch.big{width:min(500px,100%);height:auto;aspect-ratio:1}.dchap .arch.big{width:min(460px,100%);height:auto;aspect-ratio:46/36}}

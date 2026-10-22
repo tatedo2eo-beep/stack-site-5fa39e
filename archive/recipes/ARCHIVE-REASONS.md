@@ -1,0 +1,21 @@
+# Archived recipes (off the book dish/flavour list)
+
+- `smash-burger-tacos`: Smash burger: "Smash burger tacos" is not a book flavour (book flavour is only Cheese)
+- `spicy-jalapeno-smash-burger`: Smash burger: "Spicy jalapeño" not a book flavour
+- `mushroom-swiss-smash-burger`: Smash burger: "Mushroom and Swiss" not a book flavour
+- `nashville-hot-smash-burger`: Smash burger: "Nashville hot" not a book flavour
+- `signature-chicken-tikka-masala`: Chicken curry has no flavours; tikka masala is not the generic base dish
+- `lighter-chicken-caesar-salad`: Caesar/Chicken exists in the book, but this is a lighter (healthy) version; healthy versions paused. Rewrite full-flavour later
+- `signature-chicken-shawarma-bowl`: Shawarma/döner has no "bowl" flavour; healthy-style bowl
+- `lemon-garlic-shrimp-pasta`: Long dried pasta has no flavours; prawn version is not the base dish
+- `creamy-tomato-chicken-pasta`: Short pasta has no flavours; not the base dish
+- `beef-kofta`: Kebabs/skewers: kofta is not the base and not the Harissa flavour
+- `chicken-fried-rice`: Fried rice flavours are Egg/Shrimp/Vegetable; chicken is not one
+- `crispy-oven-fries`: French fries (double-fried): oven method is not double-fried
+- `egg-white-veg-omelette`: Omelette flavours are Cheese/Herb; healthy egg-white version
+- `garlic-butter-steak-bites`: Pan-seared steak base is a whole steak; bites are not the dish
+- `greek-yoghurt-pancakes`: Pancakes (American) base is not a protein/yoghurt version
+- `high-protein-greek-yoghurt-berry-bowl`: not a book dish
+- `lemon-garlic-chicken-white-beans`: not a book dish
+- `overnight-oats`: Porridge/oatmeal has no flavours; overnight oats is not porridge
+- `salmon-teriyaki`: not a book dish

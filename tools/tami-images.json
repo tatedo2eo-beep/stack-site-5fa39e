@@ -1,0 +1,37 @@
+{
+ "_note": "Photos come ONLY from the original cookbook site (/workspace/tami-site/img/dishes), copied byte-for-byte. Dish -> Tami dish photo; recipe -> Tami flavour photo when one exists. No generated photos outside the home animation.",
+ "source": "/workspace/tami-site",
+ "dishes": {
+  "banana-bread-and-quick-breads": "img/dishes/23-breads-viennoiserie/banana-bread-quick-breads-basic.jpg",
+  "brownies-fudgy-or-cakey": "img/dishes/24-cookies-bars-brownies/brownie-fudgy-or-cakey-brownies.jpg",
+  "caesar-salad": "img/dishes/14-salads/caesar-basic.jpg",
+  "chicken-burger": "img/dishes/02-burgers/chicken-burger-basic.jpg",
+  "chicken-curry": "img/dishes/03-chicken/chicken-curry-basic.jpg",
+  "chili-con-carne": "img/dishes/04-meat/chili-con-carne-basic.jpg",
+  "drop-cookies-chocolate-chip-oatmeal": "img/dishes/24-cookies-bars-brownies/drop-chocolate-chip-oatmeal-basic.jpg",
+  "falafel-pita": "img/dishes/18-sandwiches-wraps/falafel-pita-advanced.jpg",
+  "french-fries": "img/dishes/01-fries-potatoes/french-fries-double-fried-basic.jpg",
+  "fried-rice": "img/dishes/09-rice/fried-rice-basic.jpg",
+  "guacamole": "img/dishes/19-appetizers-dips/guacamole-basic.jpg",
+  "iced-coffee": "img/dishes/34-drinks/iced-coffee-basic.jpg",
+  "kebabs-and-skewers": "img/dishes/04-meat/kebabs-skewers-basic.jpg",
+  "lemon-garlic-chicken": "img/dishes/03-chicken/whole-roast-chicken-basic.jpg",
+  "lentil-soup": "img/dishes/13-soups/lentil-basic.jpg",
+  "long-pasta-spaghetti-linguine-bucatini": "img/dishes/07-pasta/long-dried-spaghetti-linguine-bucatini-basic.jpg",
+  "oklahoma-onion-burger": "img/dishes/02-burgers/oklahoma-onion-burger-basic.jpg",
+  "omelette": "img/dishes/12-eggs/omelette-basic.jpg",
+  "pan-seared-steak": "img/dishes/04-meat/pan-seared-steak-basic.jpg",
+  "pancakes-american": "img/dishes/22-breakfast/pancakes-american-basic.jpg",
+  "porridge-and-oats": "img/dishes/22-breakfast/porridge-oatmeal-basic.jpg",
+  "salmon-teriyaki": "img/dishes/05-seafood/en-papillote-advanced.jpg",
+  "shakshuka": "img/dishes/22-breakfast/shakshuka-advanced.jpg",
+  "shawarma-and-doner": "img/dishes/04-meat/shawarma-doner-advanced.jpg",
+  "short-pasta-penne-rigatoni-fusilli": "img/dishes/07-pasta/short-penne-rigatoni-fusilli-basic.jpg",
+  "smash-burger": "img/dishes/02-burgers/smash-burger-basic.jpg",
+  "yoghurt-bowl": "img/dishes/22-breakfast/granola-basic.jpg"
+ },
+ "recipes": {
+  "classic-smash-burger": "img/dishes/02-burgers/smash-burger-basic--cheese.jpg"
+ },
+ "chapterStems": {"burgers": "02-burgers", "chicken": "03-chicken", "pasta": "07-pasta", "cookies-bars-brownies": "24-cookies-bars-brownies", "cakes-cupcakes": "27-cakes-cupcakes", "more": "22-breakfast"}
+}

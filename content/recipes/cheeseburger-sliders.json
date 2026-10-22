@@ -1,0 +1,151 @@
+{
+  "slug": "cheeseburger-sliders",
+  "title": "Cheeseburger Sliders",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "sliders",
+  "dish_title": "Sliders",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Bite-sized beef sliders with onion cooked right into the crust, melted cheese and a classic mustard-ketchup finish, perfect for feeding a crowd.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy frying pan, griddle pan or flat griddle",
+    "metal spatula",
+    "baking paper",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Mini patties",
+      "qty": 600,
+      "unit": "g",
+      "item": "beef mince, 20% fat",
+      "note": "kept fridge-cold"
+    },
+    {
+      "group": "Mini patties",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Mini patties",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Mini patties",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small onion, very finely diced"
+    },
+    {
+      "group": "Mini patties",
+      "qty": 6,
+      "unit": "pc",
+      "item": "slices American-style processed cheese, halved"
+    },
+    {
+      "group": "To assemble",
+      "qty": 12,
+      "unit": "pc",
+      "item": "slider buns or small soft dinner rolls",
+      "note": "about 30 g each"
+    },
+    {
+      "group": "To assemble",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "To assemble",
+      "qty": 60,
+      "unit": "g",
+      "item": "dill pickle slices"
+    },
+    {
+      "group": "To assemble",
+      "qty": 40,
+      "unit": "g",
+      "item": "tomato ketchup"
+    },
+    {
+      "group": "To assemble",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "yellow mustard"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Shape the mini patties",
+      "text": "Divide 600g beef mince into 12 balls of about 50g each, then flatten each between sheets of baking paper into thin 8cm discs, a touch wider than the slider buns. Keeping them thin means they cook through quickly without overcooking the crust."
+    },
+    {
+      "title": "Season just before cooking",
+      "text": "Season both sides of each patty with salt and pepper right before they go into the pan, not while shaping. This keeps the mince tender rather than springy."
+    },
+    {
+      "title": "Toast the slider buns",
+      "text": "Toast the buttered cut sides of the slider buns down in the pan for 1 minute until golden, then set aside. This small step stops the little buns turning soggy under the juicy patties."
+    },
+    {
+      "title": "Heat the griddle",
+      "text": "Heat a heavy pan or griddle over high heat for 4 minutes; no oil is needed, as plenty of fat will render from the beef itself. A properly hot surface is essential for a quick, deep sear on such thin patties."
+    },
+    {
+      "title": "Sear and flip with onion",
+      "text": "Cook 4-6 patties at a time, scattering a pinch of finely diced onion onto each one, and cook for 2 minutes until browned underneath. Flip each patty so the onion ends up underneath, where it caramelises against the hot pan and flavours the meat from below."
+    },
+    {
+      "title": "Melt the cheese and steam the bun",
+      "text": "Top each patty with half a slice of cheese, then set the bun top directly on top to trap steam and melt the cheese for 1 minute. The patties are ready once the centre reaches 71°C."
+    },
+    {
+      "title": "Keep batches warm",
+      "text": "Transfer cooked sliders to a tray in a 100°C oven, loosely covered, while you cook the remaining batches. This keeps the first sliders hot without drying them out while you work through the rest."
+    },
+    {
+      "title": "Build the sliders",
+      "text": "Spread mustard and ketchup on the bottom bun, add a pickle slice, then the patty, and finish with the steamed top bun. Spreading the toppings evenly across all 12 means nobody misses out on flavour."
+    }
+  ],
+  "tips": [
+    "Keep cooked batches warm on a tray in a 100°C oven, loosely covered, while you fry the rest - this stops the first sliders going cold.",
+    "Don't crowd the pan; cook in batches of 4-6 so each patty gets proper contact with the heat.",
+    "Scatter the onion evenly over each patty rather than piling it in one spot, so every bite gets some.",
+    "Flip the patties only once, with the onion ending up underneath, so it caramelises against the hot pan."
+  ],
+  "storage": "Cooked sliders keep in the fridge for up to 2 days, or frozen without buns for up to 2 months. Reheat until piping hot and 74°C at the centre before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 528,
+    "protein_g": 27.1,
+    "carbs_g": 34.7,
+    "sugar_g": 6.5,
+    "free_sugar_g": 5.8,
+    "fat_g": 30.7,
+    "satfat_g": 13.0,
+    "salt_g": 3.16,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sliders-basic.jpg",
+  "image_alt": "Three mini cheeseburger sliders with melted cheese and browned onions lined up on a dark plate."
+}

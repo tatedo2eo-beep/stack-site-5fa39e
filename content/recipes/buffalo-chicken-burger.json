@@ -1,0 +1,234 @@
+{
+  "slug": "buffalo-chicken-burger",
+  "title": "Buffalo Crispy Chicken Burger with Blue Cheese",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "chicken-burger",
+  "dish_title": "Chicken burger",
+  "flavour": "Buffalo",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "crispy-chicken-sandwich",
+  "changes_from_base": "Same buttermilk-brined, double-coated fried thighs as the Classic Chicken Burger. The hot chicken is tossed in a butter and hot-sauce buffalo glaze, then topped with a tangy blue cheese sauce, lettuce and crisp celery.",
+  "summary": "Crisp buttermilk-fried chicken tossed in a glossy buffalo sauce and finished with a chunky blue cheese sauce, lettuce and celery for crunch.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "large heavy pot or deep casserole (at least 24 cm wide)",
+    "frying thermometer",
+    "wire rack set over a tray",
+    "tongs",
+    "instant-read thermometer",
+    "small saucepan",
+    "large mixing bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken and marinade",
+      "qty": 4,
+      "unit": "pc",
+      "item": "boneless, skinless chicken thighs",
+      "note": "about 600 g total"
+    },
+    {
+      "group": "Chicken and marinade",
+      "qty": 250,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Chicken and marinade",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Chicken and marinade",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Chicken and marinade",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Coating",
+      "qty": 150,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Coating",
+      "qty": 30,
+      "unit": "g",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "Coating",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Coating",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Coating",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Coating",
+      "qty": 1500,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "enough for 5 cm depth"
+    },
+    {
+      "group": "Buffalo sauce",
+      "qty": 60,
+      "unit": "ml",
+      "item": "hot pepper sauce (vinegar-based, such as a Louisiana-style sauce)"
+    },
+    {
+      "group": "Buffalo sauce",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Buffalo sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "To assemble",
+      "qty": 4,
+      "unit": "pc",
+      "item": "soft burger buns or brioche-style buns",
+      "note": "about 60 g each"
+    },
+    {
+      "group": "To assemble",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter, softened, for toasting"
+    },
+    {
+      "group": "To assemble",
+      "qty": 60,
+      "unit": "g",
+      "item": "shredded iceberg lettuce"
+    },
+    {
+      "group": "To assemble",
+      "qty": 2,
+      "unit": "pc",
+      "item": "celery sticks, very thinly sliced"
+    },
+    {
+      "group": "Blue cheese sauce",
+      "qty": 40,
+      "unit": "g",
+      "item": "blue cheese, crumbled"
+    },
+    {
+      "group": "Blue cheese sauce",
+      "qty": 40,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Blue cheese sauce",
+      "qty": 40,
+      "unit": "g",
+      "item": "fat-free Greek yoghurt"
+    },
+    {
+      "group": "Blue cheese sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Marinate the chicken",
+      "text": "Submerge the chicken thighs in buttermilk mixed with salt, garlic powder and paprika, then refrigerate for at least 1 hour and up to 24 hours. The acidity in the buttermilk tenderises the meat as it seasons it."
+    },
+    {
+      "title": "Build the dredge",
+      "text": "Mix flour, cornflour, baking powder, salt and pepper, then rub in 2 tablespoons of the buttermilk marinade to create craggy clumps. These damp clumps are what turn into the extra-crunchy bits once fried."
+    },
+    {
+      "title": "Coat and rest the chicken",
+      "text": "Let the excess buttermilk drip off each piece, press firmly into the dredge, then rest on a rack for 10 minutes so the coating hydrates properly. This resting step is what stops the crust shattering off in the hot oil."
+    },
+    {
+      "title": "Fry the chicken",
+      "text": "Heat 5cm of oil in a heavy pot to 170°C and fry the chicken two pieces at a time for 6-8 minutes, turning once and keeping the oil between 160-170°C. It's ready when deep golden and 74°C in the thickest part; drain on a rack so the underside doesn't go soft."
+    },
+    {
+      "title": "Make the buffalo sauce",
+      "text": "Melt butter in a small pan over low heat, then whisk in hot sauce and garlic powder until glossy and fully combined. Keep the heat low and don't let it boil, or the butter will split and the sauce will turn oily instead of silky."
+    },
+    {
+      "title": "Toss the chicken",
+      "text": "Toss the just-fried chicken in a bowl with the buffalo sauce right before serving. Coating it at the last minute means the sauce clings well without softening the crisp crust underneath."
+    },
+    {
+      "title": "Make the blue cheese sauce",
+      "text": "Mash the blue cheese with mayo, yoghurt and lemon juice, leaving some chunks of cheese rather than mashing it completely smooth. Those chunks give pockets of sharp flavour through the sauce."
+    },
+    {
+      "title": "Toast the buns",
+      "text": "Butter the cut sides of the buns and toast them cut-side down in a frying pan over medium heat for 1-2 minutes until golden. The toasted surface keeps the crumb from soaking up sauce and juices."
+    },
+    {
+      "title": "Build the burger",
+      "text": "Spread blue cheese sauce on the bottom bun, add lettuce and celery slices, then pile on the buffalo chicken and a little more sauce on top. The cool, crunchy celery is a classic match for the heat of the buffalo sauce."
+    }
+  ],
+  "tips": [
+    "Toss the chicken in buffalo sauce right before serving - leave it too long and the crisp coating softens.",
+    "Keep the buffalo sauce gently warm, not boiling, when whisking in the butter or it will split and turn oily.",
+    "Rest the coated chicken on a rack for 10 minutes before frying so the crust holds together in the hot oil.",
+    "Leave the blue cheese a little chunky when mashing it into the sauce for pockets of flavour, rather than blending it smooth."
+  ],
+  "storage": "Fried chicken keeps in the fridge for up to 2 days unsauced; add the buffalo sauce only when reheating and serving. Reheat in the oven until piping hot and 74°C at the centre so the coating stays crisp.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "celery",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 768,
+    "protein_g": 42.2,
+    "carbs_g": 52.1,
+    "sugar_g": 7.2,
+    "free_sugar_g": 4.5,
+    "fat_g": 42.7,
+    "satfat_g": 11.7,
+    "salt_g": 4.22,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chicken-burger-basic--buffalo.jpg",
+  "image_alt": "A crispy chicken burger coated in orange buffalo sauce, topped with blue cheese crumbles and pickles, on lettuce in a toasted bun."
+}

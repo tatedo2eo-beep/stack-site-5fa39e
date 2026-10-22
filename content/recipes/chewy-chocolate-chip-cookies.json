@@ -4,10 +4,12 @@
   "category": "desserts",
   "cuisine": "American",
   "chapter": "cookies-bars-brownies",
-  "dish": "chocolate-chip-cookies",
-  "dish_title": "Chocolate Chip Cookies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "drop-chocolate-chip-oatmeal",
+  "dish_title": "Drop (chocolate chip, oatmeal)",
   "flavour": "Classic",
   "access": "free",
+  "flavour_order": 0,
   "summary": "Made with melted butter and an extra egg yolk for a properly chewy, fudgy middle, these cookies have crisp golden edges and pockets of melted dark chocolate throughout. A short chill in the fridge keeps them thick instead of thin and spread-out.",
   "servings": 18,
   "prep_min": 20,
@@ -133,6 +135,6 @@
     "fibre_g": 1.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A stack of golden-edged chocolate chip cookies with soft, gooey centres and melted pools of dark chocolate, cooling on a wire rack."
+  "image": "drop-chocolate-chip-oatmeal-basic.jpg",
+  "image_alt": "A plate of chunky chocolate chip cookies and oat cookies with golden edges."
 }

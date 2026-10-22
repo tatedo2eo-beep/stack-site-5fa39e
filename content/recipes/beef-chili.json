@@ -2,11 +2,14 @@
   "slug": "beef-chili",
   "title": "Big-Batch Beef and Bean Chili",
   "category": "soups-stews",
-  "chapter": "more",
-  "dish": "beef-chili",
-  "dish_title": "Beef chili",
-  "flavour": "Beef & bean",
   "cuisine": "Tex-Mex",
+  "chapter": "more",
+  "book_chapter": "meat",
+  "dish": "chili-con-carne",
+  "dish_title": "Chili con carne",
+  "flavour": "Classic",
+  "access": "free",
+  "flavour_order": 0,
   "summary": "A deeply savoury, slow-simmered beef and bean chili with a rich spiced sauce built from properly browned mince and toasted spices. It's a big-batch dinner perfect for feeding a crowd or freezing in portions.",
   "servings": 8,
   "prep_min": 20,
@@ -159,6 +162,6 @@
     "fibre_g": 7.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A bowl of thick, dark red beef and bean chili with steam rising, served with fluffy rice and tortilla chips alongside."
+  "image": "chili-con-carne-basic.jpg",
+  "image_alt": "A dark bowl of beef and bean chilli topped with soured cream, grated cheese and sliced spring onion."
 }

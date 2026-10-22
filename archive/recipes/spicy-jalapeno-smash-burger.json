@@ -1,0 +1,179 @@
+{
+  "slug": "spicy-jalapeno-smash-burger",
+  "title": "Spicy Jalapeño Smash Burger",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "smash-burger",
+  "dish_title": "Smash burger",
+  "flavour": "Spicy jalapeño",
+  "access": "premium",
+  "base_recipe": "signature-smash-burger",
+  "changes_from_base": "Same smash method as the Classic. Cheddar replaces American cheese, pickled jalapeños are laid on the cheese to warm through, the sauce becomes sriracha-lime mayo, and quick-pickled red onion adds sharp crunch.",
+  "summary": "A classic smash burger gets a kick from melted cheddar loaded with pickled jalapeños and a zingy sriracha mayo, balanced by a quick pink-pickled onion.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large cast-iron or heavy steel frying pan (at least 26 cm) or flat griddle",
+    "stiff metal spatula (fish slice or burger turner)",
+    "baking paper",
+    "small bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Patties",
+      "qty": 480,
+      "unit": "g",
+      "item": "beef mince, 20% fat",
+      "note": "kept fridge-cold"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Patties",
+      "qty": 4,
+      "unit": "pc",
+      "item": "slices mature cheddar",
+      "note": "about 20 g each"
+    },
+    {
+      "group": "Patties",
+      "qty": 60,
+      "unit": "g",
+      "item": "pickled jalapeño slices, drained"
+    },
+    {
+      "group": "Quick-pickled onion",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small red onion, very thinly sliced",
+      "note": "about 80 g"
+    },
+    {
+      "group": "Quick-pickled onion",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "rice vinegar or white vinegar"
+    },
+    {
+      "group": "Quick-pickled onion",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "fine salt"
+    },
+    {
+      "group": "To assemble",
+      "qty": 4,
+      "unit": "pc",
+      "item": "soft burger buns or brioche-style buns",
+      "note": "about 60 g each"
+    },
+    {
+      "group": "To assemble",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter, softened, for toasting"
+    },
+    {
+      "group": "To assemble",
+      "qty": 60,
+      "unit": "g",
+      "item": "shredded iceberg lettuce"
+    },
+    {
+      "group": "Sriracha mayo",
+      "qty": 60,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Sriracha mayo",
+      "qty": 20,
+      "unit": "g",
+      "item": "sriracha",
+      "note": "use 10 g for milder"
+    },
+    {
+      "group": "Sriracha mayo",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lime juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Quick-pickle the red onion",
+      "text": "Scrunch the sliced red onion with rice vinegar and a pinch of salt, then leave it for at least 15 minutes, giving it one more scrunch partway through. The acid softens the onion's raw bite and turns it a pale pink, so it adds a sharp, crunchy note instead of overpowering everything else."
+    },
+    {
+      "title": "Make the sriracha mayo",
+      "text": "Stir the mayonnaise, sriracha and lime juice together in a small bowl until evenly pink and glossy. Taste as you go - this sauce is where you dial the heat up or down to suit, since the chilli level further on is fixed."
+    },
+    {
+      "title": "Toast the buns",
+      "text": "Butter the cut sides of the buns and toast them cut-side down in a hot pan over medium heat for 1-2 minutes until golden. Set them aside; the toasted surface stops the mayo soaking in and turning the bread soft."
+    },
+    {
+      "title": "Heat the pan and smash",
+      "text": "Wipe the pan, then heat it dry over high heat for 4-5 minutes, until a drop of water skitters and vanishes on contact. Add 2-3 beef balls with space between them, cover each with a paper square, and press hard with a spatula for 20-30 seconds until flattened to about 6mm - then leave well alone."
+    },
+    {
+      "title": "Season and sear",
+      "text": "Peel off the paper and season the tops with salt and pepper. Let the patties sear untouched for 2-2.5 minutes until the edges turn lacy and deep brown, the crust that gives a smash burger its savoury depth."
+    },
+    {
+      "title": "Flip, then load with cheese and jalapeños",
+      "text": "Scrape firmly to lift the crust and flip the patties, then lay cheddar over half of them followed by a scattering of pickled jalapeños on top of the cheese. Cook for 45-60 seconds; the melting cheese glues the jalapeños in place, and since mature cheddar can be slow to melt, cover the pan with a lid or upturned bowl for 30 seconds if it needs help. The beef is ready once no pink remains, the juices run clear and the core reads 71°C."
+    },
+    {
+      "title": "Stack the patties",
+      "text": "Set each jalapeño-and-cheese patty on top of a plain one to build the double stacks. The heat of the bottom patty keeps the cheese soft while you assemble."
+    },
+    {
+      "title": "Build the burger",
+      "text": "Spread sriracha mayo on both toasted bun halves, then add lettuce to the bottom one. Place the double patty stack on top, scatter over the pickled red onion, and close with the top bun."
+    }
+  ],
+  "tips": [
+    "Mature cheddar melts more slowly than mild or processed cheese - cover the pan for 30 seconds after adding it if it isn't melting through.",
+    "Drain the pickled jalapeños well before adding them, or the extra moisture will make the bun soggy.",
+    "Adjust the heat level through the sriracha mayo rather than the jalapeños, since that's the easiest place to taste and tweak.",
+    "Don't press the patties a second time once smashed - it only squeezes out juice and toughens the meat."
+  ],
+  "storage": "Cooked patties keep in an airtight container in the fridge for up to 2 days, or frozen for up to 2 months; thaw in the fridge before reheating. Warm through in a hot pan until piping hot and the centre reaches 74°C, and keep the pickled onion and sauces separate until serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 695,
+    "protein_g": 32.1,
+    "carbs_g": 34.9,
+    "sugar_g": 6.8,
+    "free_sugar_g": 5.2,
+    "fat_g": 46.6,
+    "satfat_g": 16.6,
+    "salt_g": 3.61,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A double smash burger with melted cheddar and bright red pickled jalapeños, sriracha mayo dripping down the side of a toasted bun."
+}

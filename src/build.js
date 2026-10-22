@@ -28,7 +28,7 @@ function loadRecipes() {
     v.warnings.push(...pre);
     if (r.slug && slugs.has(r.slug)) v.errors.push(`duplicate slug "${r.slug}"`);
     slugs.add(r.slug);
-    if (r.image && !fs.existsSync(path.join(ROOT, 'content/images', r.image))) v.errors.push(`image "${r.image}" not found in content/images/`);
+    if (r.image && !tamiRel(r.image)) v.errors.push(`image "${r.image}" is not one of the original cookbook photos (img/dishes); only those may be used`);
     if ((r.steps || []).some(s => s && s.clip)) v.warnings.push('step clips are switched off for now; clip ignored');
     if (!v.errors.length) {
       const al = R.checkAllergens(r);
@@ -48,7 +48,7 @@ function loadRecipes() {
   if (fs.existsSync(ddir)) for (const f of fs.readdirSync(ddir).filter(f => f.endsWith('.json')).sort()) {
     let d; try { d = JSON.parse(fs.readFileSync(path.join(ddir, f), 'utf8')); } catch (e) { console.log(C.red(`✗ dishes/${f}: invalid JSON`)); errors++; continue; }
     const de = R.validateDish(d, f); de.forEach(e => console.log(C.red(`✗ dishes/${f}: ${e}`))); errors += de.length;
-    if (d.image && !fs.existsSync(path.join(ROOT, 'content/images', d.image))) { console.log(C.red(`✗ dishes/${f}: image "${d.image}" not found`)); errors++; }
+    if (d.image && !tamiRel(d.image)) { console.log(C.red(`✗ dishes/${f}: image "${d.image}" is not an original cookbook photo`)); errors++; }
     if (!de.length) dishes.set(d.slug, { ...d, flavours: [] });
   }
   for (const r of out) {
@@ -76,7 +76,9 @@ function copyDir(src, dst) {
 async function buildAssets() {
   const esbuild = require('esbuild');
   const a = { js: {} };
-  const css = fs.readFileSync(path.join(ROOT, 'src/assets/css/site.css'), 'utf8');
+  const rd = p => fs.readFileSync(path.join(ROOT, p), 'utf8');
+  // the 5 designs: original fonts/base/designs CSS (copied unedited), palette variables, then our additions
+  const css = rd('vendor/tami/css/fonts.css').replace(/url\(\.\.\/fonts\//g, `url(${cfg.basePath}fonts/`) + rd('vendor/tami/css/base.css') + rd('vendor/tami/css/designs.css') + require('./templates/designs').paletteCss({ design: cfg.defaultDesign, palette: cfg.defaultPalette }) + rd('src/assets/css/extras.css') + rd('src/assets/css/mobile.css');
   const cssMin = (await esbuild.transform(css, { loader: 'css', minify: true, target: ['chrome90', 'safari14', 'firefox90'] })).code;
   a.css = cfg.basePath + `assets/site.${hash(cssMin)}.css`; writeFile(a.css.slice(cfg.basePath.length), cssMin);
   for (const n of ['site', 'recipe', 'list', 'hero']) {
@@ -87,26 +89,28 @@ async function buildAssets() {
   return a;
 }
 
-// Recipe photos -> 600 and 1200 px WebP, each <= 120 KB. Cached by source mtime.
+// Photos: ONLY the original cookbook photos (tools/tami-images.json), copied byte-for-byte, never edited.
+const TAMI = JSON.parse(fs.readFileSync(path.join(ROOT, 'tools/tami-images.json'), 'utf8'));
+const copied = {};
+// Tami photo by file name (recipe/dish "image" field), e.g. "smash-burger-basic.jpg" -> img/dishes/02-burgers/smash-burger-basic.jpg
+const TAMI_BY_NAME = {};
+for (const ch of fs.readdirSync(path.join(TAMI.source, 'img/dishes'))) for (const f of fs.readdirSync(path.join(TAMI.source, 'img/dishes', ch))) TAMI_BY_NAME[f] = `img/dishes/${ch}/${f}`;
+const tamiRel = name => !name ? null : name.startsWith('img/dishes/') ? name : TAMI_BY_NAME[path.basename(name)] || null;
+async function tamiImg(rel) {
+  if (!rel) return null;
+  if (copied[rel]) return copied[rel];
+  const src = path.join(TAMI.source, rel);
+  if (!fs.existsSync(src)) { console.log(C.yel(`warning: photo not found ${rel}`)); return null; }
+  const out = 'img/t/' + rel.replace(/^img\/dishes\//, '');
+  fs.mkdirSync(path.dirname(path.join(OUT, out)), { recursive: true });
+  fs.copyFileSync(src, path.join(OUT, out));
+  const m = await require('sharp')(src).metadata();
+  return (copied[rel] = { w600: out, w1200: out, width: m.width, height: m.height, orig: true });
+}
 async function buildImages(recipes) {
-  const sharp = require('sharp');
-  const cache = path.join(ROOT, '.cache/img'); fs.mkdirSync(cache, { recursive: true });
   for (const r of recipes) {
-    if (!r.image) { r.img = null; continue; }
-    const src = path.join(ROOT, 'content/images', r.image);
-    const key = `${r.slug}-${hash(String(fs.statSync(src).mtimeMs) + r.image)}`;
-    const meta = path.join(cache, key + '.json');
-    if (!fs.existsSync(meta)) {
-      for (const w of [600, 1200]) {
-        let q = 80, buf;
-        do { buf = await sharp(src).resize({ width: w, height: Math.round(w * 3 / 4), fit: 'cover' }).webp({ quality: q, effort: 5 }).toBuffer(); q -= 6; }
-        while (buf.length > 120 * 1024 && q > 30);
-        fs.writeFileSync(path.join(cache, `${key}-${w}.webp`), buf);
-      }
-      fs.writeFileSync(meta, JSON.stringify({ width: 1200, height: 900 }));
-    }
-    for (const w of [600, 1200]) { fs.mkdirSync(path.join(OUT, 'img/r'), { recursive: true }); fs.copyFileSync(path.join(cache, `${key}-${w}.webp`), path.join(OUT, `img/r/${r.slug}-${w}.webp`)); }
-    r.img = { w600: `img/r/${r.slug}-600.webp`, w1200: `img/r/${r.slug}-1200.webp`, ...JSON.parse(fs.readFileSync(meta, 'utf8')) };
+    r.img = await tamiImg(TAMI.recipes[r.slug] || tamiRel(r.image) || TAMI.dishes[r.dish] || tamiRel(r._dishImage));
+    if (!r.img) console.log(C.yel(`warning: ${r.slug}: no photo mapped in tools/tami-images.json (placeholder used)`));
   }
 }
 
@@ -134,9 +138,13 @@ function placeholderSvg(label) {
     r.mtime = fs.statSync(path.join(rdir, `${r.slug}.json`)).mtimeMs;
   }
   recipes.sort((a, b) => b.mtime - a.mtime || a.title.localeCompare(b.title));
-  for (const d of dishes) { d.cover = d.image ? null : d.flavours.find(r => r.img) || null; }
-  await buildImages(dishes.filter(d => d.image).map(d => { const o = { slug: 'dish-' + d.slug, image: d.image }; d.cover = o; o.image_alt = d.title; return o; }));
+  for (const d of dishes) { const im = await tamiImg(tamiRel(d.image) || TAMI.dishes[d.slug] || tamiRel((d.flavours.find(r => tamiRel(r.image)) || {}).image)); d.cover = im ? { img: im, image_alt: d.title, title: d.title } : d.flavours.find(r => r.img) || null; }
+  // chapter covers per design: the same pictures the cookbook site uses (meta.picks[design].covers)
+  const picks = JSON.parse(fs.readFileSync(path.join(TAMI.source, 'data/index.json'), 'utf8')).meta.picks;
+  const covers = {};
+  for (const dk of Object.keys(picks)) { covers[dk] = {}; for (const c of cfg.chapters) { const p = picks[dk].covers[TAMI.chapterStems[c.key]]; const im = p && await tamiImg(p.img); if (im) covers[dk][c.key] = im.w1200; } }
   const chapters = cfg.chapters.map(c => ({ ...c, dishes: dishes.filter(d => d.chapter === c.key).sort((a, b) => b.flavours.length - a.flavours.length || a.title.localeCompare(b.title)) })).filter(c => c.dishes.length);
+  for (const c of chapters) c.n = c.dishes.reduce((a, d) => a + d.flavours.length, 0);
   const cats = R.CATEGORIES.map(key => ({ key, list: recipes.filter(r => r.category === key) })).filter(c => c.list.length);
   const hp = recipes.filter(r => r.health.highProtein.pass).sort((a, b) => b.health.highProtein.value - a.health.highProtein.value);
   const who = recipes.filter(r => r.health.who.pass);
@@ -145,7 +153,7 @@ function placeholderSvg(label) {
   const pages = [];
   for (const L of locales) {
     let ctx; ctx = {
-      cfg, t: L.t, assets, locales, chapters, chapterNav: k => P.chapterNav(ctx, chapters, k),
+      cfg, covers, counts: { recipes: recipes.length }, t: L.t, assets, locales, chapters, chapterNav: k => P.chapterNav(ctx, chapters, k),
       u: p => cfg.basePath + L.prefix + p,
       abs: p => cfg.siteUrl + cfg.basePath + (p.startsWith('img/') || p.startsWith('media/') ? '' : L.prefix) + p,
       absFor: (l, p) => cfg.siteUrl + cfg.basePath + l.prefix + p
@@ -158,6 +166,7 @@ function placeholderSvg(label) {
     emit(require('./templates/home').homePage(ctx, P, recipes, chapters, { hp: hp.length, who: who.length }));
     for (const ch of chapters) emit({ ...P.chapterPage(ctx, ch, chapters), chapterKey: ch.key });
     for (const ch of chapters) for (const d of ch.dishes) emit({ ...P.dishPage(ctx, d, ch), chapterKey: ch.key });
+    emit(P.chaptersPage(ctx, chapters));
     emit(P.allRecipesPage(ctx, recipes, cats, chapters));
     for (const c of cats) emit(P.categoryPage(ctx, c.key, c.list, cats));
     for (const r of recipes) {
@@ -170,6 +179,7 @@ function placeholderSvg(label) {
     const frag = n => fs.readFileSync(path.join(ROOT, 'content/pages', n), 'utf8')
       .replace(/\{\{BRAND\}\}/g, cfg.brand).replace(/\{\{EMAIL\}\}/g, cfg.contactEmail + (cfg.contactEmailIsPlaceholder ? ' (placeholder address)' : ''))
       .replace(/\{\{UPDATED\}\}/g, new Date().toISOString().slice(0, 10));
+    emit({ ...P.simplePage(ctx, 'calculator/', 'Calculator (coming soon)', frag('calculator.html'), 'A nutrition calculator is coming soon.'), navKey: 'calculator' });
     emit(P.simplePage(ctx, 'about/', 'About', frag('about.html'), `About ${cfg.brand}.`));
     emit(P.simplePage(ctx, 'contact/', 'Contact', frag('contact.html'), `Contact ${cfg.brand}.`));
     emit(P.simplePage(ctx, 'privacy/', 'Privacy policy (draft)', frag('privacy.html'), 'Privacy policy (draft).'));

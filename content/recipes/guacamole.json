@@ -2,11 +2,14 @@
   "slug": "guacamole",
   "title": "Fresh Chunky Guacamole",
   "category": "snacks-sides",
+  "cuisine": "Mexican",
   "chapter": "more",
+  "book_chapter": "appetizers-dips",
   "dish": "guacamole",
   "dish_title": "Guacamole",
-  "flavour": "Fresh chunky",
-  "cuisine": "Mexican",
+  "flavour": "Classic",
+  "access": "free",
+  "flavour_order": 0,
   "summary": "A fresh, chunky guacamole built on properly ripe avocado, bright lime juice and a handful of simple aromatics. Ready in minutes and best served the moment it's made.",
   "servings": 6,
   "prep_min": 15,
@@ -106,6 +109,6 @@
     "fibre_g": 5.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A bowl of chunky pale-green guacamole flecked with red tomato, onion and coriander, served with a scattering of tortilla chips."
+  "image": "guacamole-basic.jpg",
+  "image_alt": "Chunky green guacamole in a stone mortar topped with coriander and a lime wedge, with tortilla chips alongside."
 }

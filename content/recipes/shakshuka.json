@@ -2,11 +2,14 @@
   "slug": "shakshuka",
   "title": "Smoky Shakshuka with Feta",
   "category": "vegetarian",
+  "cuisine": "North African",
   "chapter": "more",
+  "book_chapter": "breakfast",
   "dish": "shakshuka",
   "dish_title": "Shakshuka",
-  "flavour": "Smoky with feta",
-  "cuisine": "North African",
+  "flavour": "Classic",
+  "access": "free",
+  "flavour_order": 0,
   "summary": "Peppers and onion melt into a smoky paprika-spiced tomato sauce, topped with eggs poached right in the pan and finished with crumbled feta.",
   "servings": 3,
   "prep_min": 10,
@@ -146,6 +149,6 @@
     "fibre_g": 9.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A pan of deep red, smoky tomato and pepper sauce with six just-set eggs nestled on top, scattered with crumbled white feta and fresh green herbs."
+  "image": "shakshuka-advanced.jpg",
+  "image_alt": "A small cast-iron pan of eggs baked in a red tomato and pepper sauce, served with slices of crusty bread."
 }

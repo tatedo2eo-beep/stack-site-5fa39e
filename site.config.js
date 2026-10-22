@@ -14,15 +14,10 @@ module.exports = {
   // i18n: first locale is the default and is built at the site root. Add 'ar' / 'es' later (see i18n/README.md)
   locales: ['en'],
   outDir: 'docs',                   // GitHub Pages serves /docs from main
-  themes: [
-    { id: 'noir-gold', name: 'Noir & Gold', dark: true },
-    { id: 'midnight-rose', name: 'Midnight & Rose Gold', dark: true },
-    { id: 'emerald-brass', name: 'Emerald & Brass', dark: true },
-    { id: 'espresso-apricot', name: 'Espresso & Apricot', dark: true },
-    { id: 'ivory-oxblood', name: 'Ivory & Oxblood', dark: false },
-    { id: 'lavender-mint', name: 'Lavender & Mint', dark: false }
-  ],
-  defaultTheme: 'noir-gold',
+  // Looks: exactly the 5 designs x 3 palettes of the original cookbook (src/lib/designs-data.js).
+  // Visitors switch with the palette button; the choice is saved on their device.
+  defaultDesign: 'e',           // E · Magazine
+  defaultPalette: 'noir-gold',  // Noir & Gold
   // Top-level browse: chapter -> dish -> flavour -> recipe. 'more' holds recipes outside the launch chapters.
   chapters: [
     { key: 'burgers', group: 'salty' }, { key: 'chicken', group: 'salty' }, { key: 'pasta', group: 'salty' },

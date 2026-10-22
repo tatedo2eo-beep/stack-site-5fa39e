@@ -4,10 +4,12 @@
   "category": "burgers-sandwiches",
   "cuisine": "American",
   "chapter": "burgers",
-  "dish": "crispy-chicken-burger",
-  "dish_title": "Crispy Chicken Burger",
+  "book_chapter": "burgers",
+  "dish": "chicken-burger",
+  "dish_title": "Chicken burger",
   "flavour": "Classic",
   "access": "free",
+  "flavour_order": 0,
   "summary": "Buttermilk-marinated chicken thighs get a double-textured, deeply crunchy crust and a quick fry, then stack into a sandwich with spicy mayo, crisp lettuce and pickles.",
   "servings": 4,
   "prep_min": 25,
@@ -199,6 +201,6 @@
     "fibre_g": 2.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A golden, deeply crisp fried chicken thigh stacked with lettuce and pickles on a toasted bun, spicy mayo oozing from the side."
+  "image": "chicken-burger-basic.jpg",
+  "image_alt": "A tall crispy fried chicken burger with shredded lettuce and creamy sauce in a glossy toasted bun."
 }

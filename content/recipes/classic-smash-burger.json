@@ -1,12 +1,15 @@
 {
   "slug": "classic-smash-burger",
-  "title": "Classic double smash burger",
+  "title": "Double Cheddar Smash Burger",
   "category": "burgers-sandwiches",
+  "cuisine": "American",
   "chapter": "burgers",
+  "book_chapter": "burgers",
   "dish": "smash-burger",
   "dish_title": "Smash burger",
-  "flavour": "Double cheddar",
-  "cuisine": "American",
+  "flavour": "Cheese",
+  "access": "premium",
+  "flavour_order": 1,
   "summary": "Two thin beef patties pressed hard onto a smoking-hot pan so the edges turn lacy and dark, stacked with melting cheddar in a buttery toasted brioche bun. Loud, quick and very much a treat.",
   "servings": 2,
   "prep_min": 10,
@@ -126,7 +129,8 @@
     "cereals containing gluten",
     "eggs",
     "milk",
-    "mustard"
+    "mustard",
+    "sulphites"
   ],
   "diet": [],
   "nutrition_per_serving": {
@@ -141,6 +145,6 @@
     "fibre_g": 2.4
   },
   "nutrition_source": "Estimated per burger from USDA FoodData Central (SR Legacy) values: ground beef 80% lean raw, cheddar cheese, butter salted, mayonnaise, ketchup, pickles, tomato, lettuce; brioche bun estimated from typical label values. Raw-meat values used, so actual fat is a little lower because some renders out.",
-  "image": "classic-smash-burger.jpg",
-  "image_alt": "Double smash burger with melted cheddar, lettuce and tomato in a glossy brioche bun on baking paper"
+  "image": "smash-burger-basic--cheese.jpg",
+  "image_alt": "A cheeseburger made with smashed beef patties and melted cheese in a soft bun."
 }

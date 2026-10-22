@@ -3,11 +3,13 @@
   "title": "Moist Brown Butter Banana Bread",
   "category": "desserts",
   "cuisine": "American",
-  "chapter": "cakes-cupcakes",
-  "dish": "banana-bread",
-  "dish_title": "Banana Bread",
+  "chapter": "more",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "banana-bread-quick-breads",
+  "dish_title": "Banana bread/quick breads",
   "flavour": "Classic",
   "access": "free",
+  "flavour_order": 0,
   "summary": "Browning the butter and using very ripe, heavily speckled bananas gives this loaf a deep, nutty-sweet flavour and a wonderfully moist crumb. A touch of yoghurt and cinnamon round it out beautifully.",
   "servings": 10,
   "prep_min": 20,
@@ -132,6 +134,6 @@
     "fibre_g": 1.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A sliced loaf of golden-brown banana bread on a wooden board, showing a moist, speckled crumb flecked with cinnamon."
+  "image": "banana-bread-quick-breads-basic.jpg",
+  "image_alt": "A loaf of banana bread with two thick slices cut, beside a ripe banana on a dark slate board."
 }

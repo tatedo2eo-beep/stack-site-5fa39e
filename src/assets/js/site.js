@@ -1,4 +1,4 @@
-// Shared, tiny: theme switcher, mobile menu, hover prefetch, card fade-in, favourites.
+// Shared, tiny: look picker (5 designs x 3 palettes), hover prefetch, favourites, premium preview.
 (function () {
   'use strict';
   var d = document, html = d.documentElement;
@@ -13,21 +13,27 @@
     d.body.insertBefore(bn, d.body.firstChild);
   }
 
-  // theme
-  var tb = d.getElementById('theme-btn'), tm = d.getElementById('theme-menu');
-  function markTheme() { if (!tm) return; tm.querySelectorAll('[data-theme-id]').forEach(function (b) { b.setAttribute('aria-checked', b.dataset.themeId === html.dataset.theme ? 'true' : 'false'); }); }
-  function closeTheme() { if (tm) { tm.hidden = true; tb.setAttribute('aria-expanded', 'false'); } }
-  if (tb && tm) {
-    markTheme();
-    tb.addEventListener('click', function (e) { e.stopPropagation(); var open = tm.hidden; tm.hidden = !open; tb.setAttribute('aria-expanded', String(open)); if (open) { var c = tm.querySelector('[aria-checked=true]') || tm.querySelector('button'); c && c.focus(); } });
-    tm.addEventListener('click', function (e) { var b = e.target.closest('[data-theme-id]'); if (!b) return; html.dataset.theme = b.dataset.themeId; ls('theme', b.dataset.themeId); markTheme(); closeTheme(); tb.focus(); });
-    d.addEventListener('click', function (e) { if (!tm.hidden && !tm.contains(e.target)) closeTheme(); });
-    d.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !tm.hidden) { closeTheme(); tb.focus(); } });
+  // looks: 5 designs x 3 palettes. Palette = CSS variables (instant). Design = different layout
+  // (each page carries all 5; switching reloads so every script starts on the new markup).
+  var pp = d.getElementById('palpanel'), opener = null;
+  function markPal() {
+    if (!pp) return;
+    pp.querySelectorAll('.pald').forEach(function (el) { el.classList.toggle('on', el.dataset.d === html.dataset.design); });
+    pp.querySelectorAll('.dot').forEach(function (b) { var on = b.dataset.d === html.dataset.design && b.dataset.p === html.dataset.pal; b.classList.toggle('on', on); b.setAttribute('aria-pressed', String(on)); b.classList.toggle('on', on); if (on) { var box = b.closest('.pald'); var pn = box.querySelector('.pn'); if (pn) pn.textContent = b.title; } });
   }
-
-  // mobile menu
-  var mb = d.getElementById('menu-btn'), head = d.querySelector('.site-head');
-  if (mb && head) mb.addEventListener('click', function () { var o = head.classList.toggle('nav-open'); mb.setAttribute('aria-expanded', String(o)); });
+  function openPal(o) { if (!pp) return; pp.hidden = !o; if (o) { markPal(); var f = pp.querySelector('.pald.on .prev') || pp.querySelector('button'); f && f.focus(); } else if (opener) opener.focus(); }
+  d.addEventListener('click', function (e) {
+    var t = e.target.closest && e.target.closest('[data-act]'); if (!t) { if (pp && !pp.hidden && e.target === pp) openPal(false); return; }
+    var act = t.dataset.act;
+    if (act === 'pal') { opener = t; openPal(true); }
+    else if (act === 'palclose') openPal(false);
+    else if (act === 'theme') {
+      var dz = t.dataset.d, pz = t.dataset.p, same = dz === html.dataset.design;
+      ls('design', dz); ls('pal', pz); html.dataset.pal = pz;
+      if (same) { markPal(); } else { html.dataset.design = dz; location.reload(); }
+    }
+  });
+  d.addEventListener('keydown', function (e) { if (e.key === 'Escape' && pp && !pp.hidden) openPal(false); });
 
   // prefetch same-origin pages on hover / touch / focus (each page is a real page load)
   var done = {};
@@ -56,7 +62,7 @@
   function paint() {
     var f = favs();
     d.querySelectorAll('.card[data-slug]').forEach(function (c) { c.classList.toggle('is-fav', f.indexOf(c.dataset.slug) > -1); });
-    d.querySelectorAll('.fav-btn[data-slug]').forEach(function (b) { var on = f.indexOf(b.dataset.slug) > -1; b.setAttribute('aria-pressed', String(on)); var l = b.querySelector('.fav-label'); if (l) l.textContent = on ? 'Saved' : 'Save'; });
+    d.querySelectorAll('.fav-btn[data-slug]').forEach(function (b) { var on = f.indexOf(b.dataset.slug) > -1; b.setAttribute('aria-pressed', String(on)); b.classList.toggle('on', on); var l = b.querySelector('.fav-label'); if (l) l.textContent = on ? 'Saved' : 'Save'; });
   }
   d.addEventListener('click', function (e) {
     var b = e.target.closest && e.target.closest('.fav-btn[data-slug]'); if (!b) return;

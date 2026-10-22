@@ -1,0 +1,124 @@
+{
+  "slug": "overnight-oats",
+  "title": "Cinnamon Banana Overnight Oats",
+  "category": "breakfast",
+  "cuisine": "International",
+  "chapter": "more",
+  "book_chapter": "breakfast",
+  "dish": "porridge-and-oats",
+  "dish_title": "Porridge and oats",
+  "flavour": "Overnight oats",
+  "access": "premium",
+  "summary": "A no-cook, make-ahead breakfast of oats and chia softened overnight in milk and yoghurt, naturally sweetened with ripe banana and topped with berries and toasted walnuts.",
+  "servings": 2,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "mixing bowl and fork",
+    "2 jars or containers with lids (about 400 ml each)"
+  ],
+  "ingredients": [
+    {
+      "qty": 100,
+      "unit": "g",
+      "item": "rolled (porridge) oats",
+      "note": "not instant or steel-cut"
+    },
+    {
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "chia seeds"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "qty": 1,
+      "unit": "pinch",
+      "item": "fine salt"
+    },
+    {
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "very ripe banana, mashed",
+      "note": "about 60 g peeled"
+    },
+    {
+      "qty": 240,
+      "unit": "ml",
+      "item": "milk (semi-skimmed)",
+      "note": "or any milk you like"
+    },
+    {
+      "qty": 100,
+      "unit": "g",
+      "item": "fat-free Greek yoghurt"
+    },
+    {
+      "qty": 100,
+      "unit": "g",
+      "item": "mixed berries, to top"
+    },
+    {
+      "qty": 15,
+      "unit": "g",
+      "item": "walnuts, toasted and chopped, to top"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mash the banana",
+      "text": "Mash the banana in a mixing bowl with a fork until almost smooth, leaving just a few small flecks. Choose a banana that's heavily speckled and very ripe, since the riper it is, the sweeter it tastes - no sugar is needed to make up for it. This takes under a minute and sets the sweetness for both jars."
+    },
+    {
+      "title": "Stir everything together",
+      "text": "Add the oats, chia seeds, cinnamon and salt to the mashed banana, then pour in the milk and yoghurt and stir until no dry pockets of oats remain. A small pinch of salt isn't there to make it salty - it actually sharpens how sweet the banana tastes. You should end up with a loose, evenly combined mixture before it goes in the fridge."
+    },
+    {
+      "title": "Chill overnight",
+      "text": "Divide the mixture between two jars, seal them and refrigerate for at least 6 hours, or ideally overnight, and up to 3 days. During this time the oats and chia seeds slowly soak up the liquid and soften without any cooking, while the chia forms a gel that gives the whole jar a thick, pudding-like body. You'll know it's ready when there's no pool of liquid left at the bottom."
+    },
+    {
+      "title": "Toast the walnuts",
+      "text": "Tip the chopped walnuts into a dry pan over medium heat and toast for 3-4 minutes, shaking the pan often, until they smell nutty and look lightly coloured. Toasting without oil concentrates their flavour and gives a firmer crunch than raw nuts. Let them cool fully before using, as they'll crisp up further as they cool."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "In the morning, give each jar a good stir and loosen with a splash of milk if it's thicker than you'd like. Scatter the berries and toasted walnuts over the top just before eating, so the nuts stay crunchy rather than going soft in the mixture. Eat straight from the fridge, or warm through in the microwave for 1-2 minutes, stirring halfway, if you prefer it hot."
+    }
+  ],
+  "tips": [
+    "Stick to rolled oats rather than instant or steel-cut: instant turns mushy overnight and steel-cut stays too hard even after a long soak.",
+    "If the oats are too runny in the morning, they probably needed longer in the fridge or had a touch too much milk — give it more time next time.",
+    "An under-ripe banana won't give enough natural sweetness, so wait for one that's well speckled.",
+    "Swap the berries and walnuts for whatever fruit and nuts are in season without changing the oat base.",
+    "Make all 3 days' worth of jars in one go to save time, keeping toppings separate until serving."
+  ],
+  "storage": "Sealed jars without toppings keep in the fridge for up to 3 days. This recipe isn't suitable for freezing, as the texture turns watery and grainy once thawed.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 411,
+    "protein_g": 18.7,
+    "carbs_g": 58.2,
+    "sugar_g": 15.1,
+    "free_sugar_g": 0,
+    "fat_g": 13,
+    "satfat_g": 2.9,
+    "salt_g": 0.4,
+    "fibre_g": 10.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Two glass jars of creamy cinnamon banana overnight oats topped with fresh mixed berries and toasted walnuts, set on a wooden board."
+}

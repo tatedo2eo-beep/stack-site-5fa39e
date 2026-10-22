@@ -2,11 +2,14 @@
   "slug": "red-lentil-soup",
   "title": "Lemony Red Lentil Soup",
   "category": "soups-stews",
-  "chapter": "more",
-  "dish": "lentil-soup",
-  "dish_title": "Lentil soup",
-  "flavour": "Lemony red lentil",
   "cuisine": "Middle Eastern",
+  "chapter": "more",
+  "book_chapter": "soups",
+  "dish": "lentil",
+  "dish_title": "Lentil",
+  "flavour": "Classic",
+  "access": "free",
+  "flavour_order": 0,
   "summary": "A warming, budget-friendly soup where red lentils simmer down into a smooth, spiced purée, brightened at the end with a good hit of lemon.",
   "servings": 4,
   "prep_min": 10,
@@ -149,6 +152,6 @@
     "fibre_g": 9.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A bowl of smooth, golden-orange lentil soup garnished with parsley and a swirl of olive oil, served with a lemon wedge."
+  "image": "lentil-basic.jpg",
+  "image_alt": "A bowl of lentil soup with diced vegetables and fresh herbs, served with a lemon wedge."
 }
