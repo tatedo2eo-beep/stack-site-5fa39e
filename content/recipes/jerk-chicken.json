@@ -109,9 +109,10 @@
     },
     {
       "group": "Jerk marinade",
-      "qty": 0.75,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
     },
     {
       "group": "To serve",
@@ -131,11 +132,11 @@
     },
     {
       "title": "Barbecue over two zones",
-      "text": "Set up a two-zone fire, placing the chicken skin-up on the cool side with the lid on, and cook for 35-45 minutes until the thigh reaches around 75°C. Move it over the hot side for 3-5 minutes per side until charred in patches and the thigh reaches 80°C; a few soaked wood chips or whole allspice berries scattered on the coals add extra smokiness."
+      "text": "Set up a two-zone fire, placing the chicken skin-up on the cool side with the lid on, and cook for 35-45 minutes until the thigh reaches around 75°C (167°F). Move it over the hot side for 3-5 minutes per side until charred in patches and the thigh reaches 80°C (175°F); a few soaked wood chips or whole allspice berries scattered on the coals add extra smokiness."
     },
     {
       "title": "Or roast and grill",
-      "text": "Without a barbecue, roast on a rack at 200°C (180°C fan), skin-up, for 40-45 minutes until the thigh reaches 80°C, then finish under the grill (broiler) for 3-4 minutes to char the skin."
+      "text": "Without a barbecue, roast on a rack at 200°C (180°C fan, 400°F), skin-up, for 40-45 minutes until the thigh reaches 80°C (175°F), then finish under the grill (broiler) for 3-4 minutes to char the skin."
     },
     {
       "title": "Rest and serve",
@@ -149,7 +150,7 @@
     "Soaked wood chips or whole allspice berries on the coals are an easy way to add real smokiness without special equipment.",
     "Seed the Scotch bonnets if you'd prefer a milder but still well-flavoured marinade."
   ],
-  "storage": "Store cooked chicken in the fridge for up to 3 days or freeze for up to 2 months. Reheat until piping hot throughout (74°C).",
+  "storage": "Store cooked chicken in the fridge for up to 3 days or freeze for up to 2 months. Reheat until piping hot throughout (74°C (165°F)). Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "soya"

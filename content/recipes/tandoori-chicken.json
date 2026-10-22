@@ -36,9 +36,10 @@
     },
     {
       "group": "First marinade",
-      "qty": 1,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 6.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
     },
     {
       "group": "Second marinade",
@@ -133,9 +134,10 @@
     },
     {
       "group": "Green chutney",
-      "qty": 0.125,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 1.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
     },
     {
       "group": "To serve",
@@ -165,7 +167,7 @@
     },
     {
       "title": "Roast at high heat",
-      "text": "Heat the oven to 240°C (220°C fan) or its hottest setting, with a shelf in the top third. Lift the chicken from the marinade, letting the excess drip off, onto the rack in the roasting tin, and roast for 25-30 minutes, turning once, until the thigh reaches 80°C and the edges are browned."
+      "text": "Heat the oven to 240°C (220°C fan, 475°F) or its hottest setting, with a shelf in the top third. Lift the chicken from the marinade, letting the excess drip off, onto the rack in the roasting tin, and roast for 25-30 minutes, turning once, until the thigh reaches 80°C (175°F) and the edges are browned."
     },
     {
       "title": "Char under the grill",
@@ -187,7 +189,7 @@
     "A short blast under the grill at the end gives the char you'd get from a tandoor - don't be tempted to grill for longer, or the meat will dry out.",
     "Make the chutney close to serving so the colour stays bright green."
   ],
-  "storage": "Store cooked chicken in the fridge for up to 3 days. Reheat until piping hot throughout (74°C) in an oven or under the grill rather than the microwave, which won't recreate the charred edges.",
+  "storage": "Store cooked chicken in the fridge for up to 3 days. Reheat until piping hot throughout (74°C (165°F)) in an oven or under the grill rather than the microwave, which won't recreate the charred edges. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "milk"
   ],

@@ -37,9 +37,10 @@
     },
     {
       "group": "Wings",
-      "qty": 1,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 6.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
     },
     {
       "group": "Wings",
@@ -85,9 +86,10 @@
     },
     {
       "group": "Garlic-chive dip",
-      "qty": 1,
-      "unit": "pinch",
-      "item": "fine salt"
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
     },
     {
       "group": "To serve",
@@ -107,11 +109,11 @@
     },
     {
       "title": "Render at low heat",
-      "text": "Bake at 120°C (100°C fan) on the lower-middle shelves for 30 minutes. This gentle start slowly renders fat out of the skin before any colour develops, setting up a crisper, less greasy finish later."
+      "text": "Bake at 120°C (100°C fan, 250°F) on the lower-middle shelves for 30 minutes. This gentle start slowly renders fat out of the skin before any colour develops, setting up a crisper, less greasy finish later."
     },
     {
       "title": "Blast at high heat",
-      "text": "Raise the oven to 220°C (200°C fan) and bake for a further 40-50 minutes, swapping the trays' shelf positions halfway through. Bake until the skin is deep golden, blistered and crackly, and the thickest drumette reads at least 74°C - wings are especially good taken to 80°C or above, where the connective tissue softens right through."
+      "text": "Raise the oven to 220°C (200°C fan, 425°F) and bake for a further 40-50 minutes, swapping the trays' shelf positions halfway through. Bake until the skin is deep golden, blistered and crackly, and the thickest drumette reads at least 74°C (165°F) - wings are especially good taken to 80°C (175°F) or above, where the connective tissue softens right through."
     },
     {
       "title": "Rest briefly",
@@ -128,7 +130,7 @@
     "Give the wings space on the rack - crowding them traps steam between pieces and stops the skin blistering evenly.",
     "Swap the trays between shelves halfway through the hot bake, since ovens rarely heat perfectly evenly top to bottom."
   ],
-  "storage": "Keep cooked wings in the fridge for up to 3 days, or freeze for up to 2 months. Reheat in a hot oven until piping hot and 74°C in the centre to bring back some crispness; microwaving will leave the skin soft.",
+  "storage": "Keep cooked wings in the fridge for up to 3 days, or freeze for up to 2 months. Reheat in a hot oven until piping hot and 74°C (165°F) in the centre to bring back some crispness; microwaving will leave the skin soft. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "milk",
     "celery"

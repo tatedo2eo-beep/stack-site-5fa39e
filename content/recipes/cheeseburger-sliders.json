@@ -31,9 +31,10 @@
     },
     {
       "group": "Mini patties",
-      "qty": 1,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 6.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
     },
     {
       "group": "Mini patties",
@@ -108,11 +109,11 @@
     },
     {
       "title": "Melt the cheese and steam the bun",
-      "text": "Top each patty with half a slice of cheese, then set the bun top directly on top to trap steam and melt the cheese for 1 minute. The patties are ready once the centre reaches 71°C."
+      "text": "Top each patty with half a slice of cheese, then set the bun top directly on top to trap steam and melt the cheese for 1 minute. The patties are ready once the centre reaches 71°C (160°F)."
     },
     {
       "title": "Keep batches warm",
-      "text": "Transfer cooked sliders to a tray in a 100°C oven, loosely covered, while you cook the remaining batches. This keeps the first sliders hot without drying them out while you work through the rest."
+      "text": "Transfer cooked sliders to a tray in a 100°C (210°F) oven, loosely covered, while you cook the remaining batches. This keeps the first sliders hot without drying them out while you work through the rest."
     },
     {
       "title": "Build the sliders",
@@ -120,12 +121,12 @@
     }
   ],
   "tips": [
-    "Keep cooked batches warm on a tray in a 100°C oven, loosely covered, while you fry the rest - this stops the first sliders going cold.",
+    "Keep cooked batches warm on a tray in a 100°C (210°F) oven, loosely covered, while you fry the rest - this stops the first sliders going cold.",
     "Don't crowd the pan; cook in batches of 4-6 so each patty gets proper contact with the heat.",
     "Scatter the onion evenly over each patty rather than piling it in one spot, so every bite gets some.",
     "Flip the patties only once, with the onion ending up underneath, so it caramelises against the hot pan."
   ],
-  "storage": "Cooked sliders keep in the fridge for up to 2 days, or frozen without buns for up to 2 months. Reheat until piping hot and 74°C at the centre before serving.",
+  "storage": "Cooked sliders keep in the fridge for up to 2 days, or frozen without buns for up to 2 months. Reheat until piping hot and 74°C (165°F) at the centre before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk",

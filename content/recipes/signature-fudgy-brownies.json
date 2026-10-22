@@ -65,9 +65,10 @@
       "item": "unsweetened cocoa powder"
     },
     {
-      "qty": 0.5,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 3.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
     },
     {
       "qty": 60,
@@ -78,7 +79,7 @@
   "steps": [
     {
       "title": "Prep tin and oven",
-      "text": "Heat the oven to 180°C (160°C fan) and line a 20cm square metal tin with baking paper, letting it overhang two opposite sides so you can lift the brownies out cleanly once baked."
+      "text": "Heat the oven to 180°C (160°C fan, 350°F) and line a 20cm square metal tin with baking paper, letting it overhang two opposite sides so you can lift the brownies out cleanly once baked."
     },
     {
       "title": "Melt chocolate and butter",
@@ -106,13 +107,14 @@
     }
   ],
   "tips": [
-    "A metal tin bakes more evenly than glass or ceramic - if you only have a glass dish, add about 5 minutes to the time and drop the oven temperature by 10°C.",
+    "A metal tin bakes more evenly than glass or ceramic - if you only have a glass dish, add about 5 minutes to the time and drop the oven temperature by 10°C (50°F).",
     "Overbaking is the most common mistake here - take the brownies out while the centre still wobbles slightly and the skewer comes out with moist crumbs, not clean.",
     "Use the best dark chocolate you're happy to eat on its own, since it makes up most of the flavour in a brownie this simple.",
     "If any water splashes into the melting chocolate, it can seize into a thick, grainy paste, so keep the bowl well clear of the simmering water.",
-    "Ovens vary, so start checking from the 20-minute mark rather than waiting for the full time."
+    "Ovens vary, so start checking from the 20-minute mark rather than waiting for the full time.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
   ],
-  "storage": "Store in an airtight container at room temperature for up to 4 days, or in the fridge for up to a week, where they'll taste even fudgier cold. Squares also freeze well for up to 3 months; thaw at room temperature for about 1 hour before eating.",
+  "storage": "Store in an airtight container at room temperature for up to 4 days, or in the fridge for up to a week, where they'll taste even fudgier cold. Squares also freeze well for up to 3 months; thaw at room temperature for about 1 hour before eating. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk",

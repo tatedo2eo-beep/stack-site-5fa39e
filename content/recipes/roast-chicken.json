@@ -32,9 +32,10 @@
     },
     {
       "group": "Chicken",
-      "qty": 1.25,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1¼ tsp"
     },
     {
       "group": "Chicken",
@@ -92,7 +93,7 @@
     },
     {
       "title": "Bring to room temperature",
-      "text": "Take the chicken out of the fridge about 30 minutes before roasting to take the chill off, and heat the oven to 220°C (200°C fan). A fully preheated oven matters more than the bird's starting temperature: the first blast of heat is what starts the skin browning."
+      "text": "Take the chicken out of the fridge about 30 minutes before roasting to take the chill off, and heat the oven to 220°C (200°C fan, 425°F). A fully preheated oven matters more than the bird's starting temperature: the first blast of heat is what starts the skin browning."
     },
     {
       "title": "Butter and stuff",
@@ -100,11 +101,11 @@
     },
     {
       "title": "Roast on onions",
-      "text": "Lay the thickly sliced onions in the base of the roasting tin and set the chicken on top, breast-side up. Roast at 220°C (200°C fan) the whole time, for 60-70 minutes for a 1.6 kg bird. A steady hot oven browns and crisps the skin in the time it takes the meat to cook, and the onions lift the bird so air circulates underneath while they soak up fat for the pan juices."
+      "text": "Lay the thickly sliced onions in the base of the roasting tin and set the chicken on top, breast-side up. Roast at 220°C (200°C fan, 425°F) the whole time, for 60-70 minutes for a 1.6 kg bird. A steady hot oven browns and crisps the skin in the time it takes the meat to cook, and the onions lift the bird so air circulates underneath while they soak up fat for the pan juices."
     },
     {
       "title": "Check it's cooked",
-      "text": "Look for skin that has turned deep golden all over, with juices running clear when the thigh is pierced. Confirm with a thermometer: the thickest part of the thigh, away from the bone, should read 74°C, and the breast should also reach at least 74°C. These are the slowest-cooking points, so they're the true test of doneness."
+      "text": "Look for skin that has turned deep golden all over, with juices running clear when the thigh is pierced. Confirm with a thermometer: the thickest part of the thigh, away from the bone, should read 74°C (165°F), and the breast should also reach at least 74°C (165°F). These are the slowest-cooking points, so they're the true test of doneness."
     },
     {
       "title": "Rest before carving",
@@ -121,11 +122,11 @@
   ],
   "tips": [
     "Don't skip the rest - cutting straight from the oven lets the juices run out onto the board instead of back into the meat.",
-    "Use a thermometer rather than guessing by time alone; oven and bird sizes vary, and it's the only sure way to know the thigh has reached a safe 74°C.",
+    "Use a thermometer rather than guessing by time alone; oven and bird sizes vary, and it's the only sure way to know the thigh has reached a safe 74°C (165°F).",
     "If the skin isn't crisp enough at the end, a few minutes under the grill (broiler) will finish it off - watch it closely so it doesn't catch.",
     "Save the strained pan juices and any leftover bones for a simple stock rather than throwing them away."
   ],
-  "storage": "Once cooled, store cooked chicken in the fridge for up to 3 days, or freeze meat and pan juices separately for up to 3 months. Reheat fully until piping hot and 74°C in the centre before eating, and only reheat once.",
+  "storage": "Once cooled, store cooked chicken in the fridge for up to 3 days, or freeze meat and pan juices separately for up to 3 months. Reheat fully until piping hot and 74°C (165°F) in the centre before eating, and only reheat once. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk"

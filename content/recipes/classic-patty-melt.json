@@ -30,9 +30,10 @@
     },
     {
       "group": "Patties",
-      "qty": 0.75,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
     },
     {
       "group": "Patties",
@@ -61,9 +62,10 @@
     },
     {
       "group": "Caramelised onions",
-      "qty": 1,
-      "unit": "pinch",
-      "item": "fine salt"
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
     },
     {
       "group": "To assemble",
@@ -119,7 +121,7 @@
     },
     {
       "title": "Season and sear",
-      "text": "Season the patties just before cooking, then sear in a dry, hot pan over medium-high heat for 2-3 minutes per side until browned and 71°C at the centre. Set aside and wipe out the pan before the next step."
+      "text": "Season the patties just before cooking, then sear in a dry, hot pan over medium-high heat for 2-3 minutes per side until browned and 71°C (160°F) at the centre. Set aside and wipe out the pan before the next step."
     },
     {
       "title": "Butter the bread",
@@ -144,7 +146,7 @@
     "Caramelise the onions slowly, with splashes of water to lift any sticking bits, for the deep sweetness that makes this sandwich work.",
     "Wipe the pan before searing the patties so they get a clean sear rather than stewing in onion juices."
   ],
-  "storage": "Best served hot and freshly griddled; leftover cooked patties and onions keep in the fridge for up to 2 days. Reheat the filling until piping hot and 74°C at the centre, then griddle fresh bread around it rather than reheating the whole sandwich.",
+  "storage": "Best served hot and freshly griddled; leftover cooked patties and onions keep in the fridge for up to 2 days. Reheat the filling until piping hot and 74°C (165°F) at the centre, then griddle fresh bread around it rather than reheating the whole sandwich. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk",

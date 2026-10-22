@@ -31,9 +31,10 @@
     },
     {
       "group": "Paprikash",
-      "qty": 0.75,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
     },
     {
       "group": "Paprikash",
@@ -122,15 +123,17 @@
     },
     {
       "group": "Nokedli (dumplings)",
-      "qty": 0.25,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
     },
     {
       "group": "Nokedli (dumplings)",
-      "qty": 1,
-      "unit": "tbsp",
-      "item": "fine salt, for the cooking water"
+      "qty": 18.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the cooking water",
+      "note": "about 1 tbsp"
     },
     {
       "group": "Nokedli (dumplings)",
@@ -154,7 +157,7 @@
     },
     {
       "title": "Simmer the chicken",
-      "text": "Add the red pepper, tomato, garlic and water, return the pan to the heat, then add the chicken back in with its juices. Cover and simmer gently for 25-30 minutes, until the chicken is tender and reaches at least 74°C."
+      "text": "Add the red pepper, tomato, garlic and water, return the pan to the heat, then add the chicken back in with its juices. Cover and simmer gently for 25-30 minutes, until the chicken is tender and reaches at least 74°C (165°F)."
     },
     {
       "title": "Make the nokedli batter",
@@ -178,9 +181,9 @@
     "Temper the soured cream with a ladle of hot sauce before stirring it into the pan, so it doesn't split when it hits the heat.",
     "Keep the final simmer gentle once the cream goes in; a hard boil at that stage will curdle it.",
     "Rest the nokedli batter for the full 10 minutes so it's easier to press through the colander or spätzle maker.",
-    "Check the chicken reaches 74°C in the braise rather than guessing from time alone, since thigh pieces vary in thickness."
+    "Check the chicken reaches 74°C (165°F) in the braise rather than guessing from time alone, since thigh pieces vary in thickness."
   ],
-  "storage": "Keep the chicken with its sauce in the fridge for up to 3 days; the dumplings are best made fresh but will keep separately for a day. Reheat gently on the hob without boiling hard, until piping hot and 74°C throughout, to avoid splitting the sauce.",
+  "storage": "Keep the chicken with its sauce in the fridge for up to 3 days; the dumplings are best made fresh but will keep separately for a day. Reheat gently on the hob without boiling hard, until piping hot and 74°C (165°F) throughout, to avoid splitting the sauce. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk",

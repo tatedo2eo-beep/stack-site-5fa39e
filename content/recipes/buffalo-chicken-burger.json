@@ -42,9 +42,10 @@
     },
     {
       "group": "Chicken and marinade",
-      "qty": 1,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 6.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
     },
     {
       "group": "Chicken and marinade",
@@ -78,9 +79,10 @@
     },
     {
       "group": "Coating",
-      "qty": 0.75,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
     },
     {
       "group": "Coating",
@@ -178,7 +180,7 @@
     },
     {
       "title": "Fry the chicken",
-      "text": "Heat 5cm of oil in a heavy pot to 170°C and fry the chicken two pieces at a time for 6-8 minutes, turning once and keeping the oil between 160-170°C. It's ready when deep golden and 74°C in the thickest part; drain on a rack so the underside doesn't go soft."
+      "text": "Heat 5cm of oil in a heavy pot to 170°C (340°F) and fry the chicken two pieces at a time for 6-8 minutes, turning once and keeping the oil between 160-170°C (325-340°F). It's ready when deep golden and 74°C (165°F) in the thickest part; drain on a rack so the underside doesn't go soft."
     },
     {
       "title": "Make the buffalo sauce",
@@ -205,9 +207,10 @@
     "Toss the chicken in buffalo sauce right before serving - leave it too long and the crisp coating softens.",
     "Keep the buffalo sauce gently warm, not boiling, when whisking in the butter or it will split and turn oily.",
     "Rest the coated chicken on a rack for 10 minutes before frying so the crust holds together in the hot oil.",
-    "Leave the blue cheese a little chunky when mashing it into the sauce for pockets of flavour, rather than blending it smooth."
+    "Leave the blue cheese a little chunky when mashing it into the sauce for pockets of flavour, rather than blending it smooth.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
   ],
-  "storage": "Fried chicken keeps in the fridge for up to 2 days unsauced; add the buffalo sauce only when reheating and serving. Reheat in the oven until piping hot and 74°C at the centre so the coating stays crisp.",
+  "storage": "Fried chicken keeps in the fridge for up to 2 days unsauced; add the buffalo sauce only when reheating and serving. Reheat in the oven until piping hot and 74°C (165°F) at the centre so the coating stays crisp. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk",

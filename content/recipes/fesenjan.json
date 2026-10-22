@@ -74,9 +74,10 @@
     },
     {
       "group": "Sauce",
-      "qty": 0.5,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 3.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
     },
     {
       "group": "Chicken",
@@ -110,9 +111,10 @@
     },
     {
       "group": "Saffron rice",
-      "qty": 1,
-      "unit": "tsp",
-      "item": "fine salt, for the rice water"
+      "qty": 6.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the rice water",
+      "note": "about 1 tsp"
     },
     {
       "group": "To serve",
@@ -136,7 +138,7 @@
     },
     {
       "title": "Add the chicken",
-      "text": "Season the chicken with the pepper and add it to the sauce. Cover and simmer gently for 25-30 minutes until tender and the chicken reaches at least 74°C (80°C makes the thighs especially tender)."
+      "text": "Season the chicken with the pepper and add it to the sauce. Cover and simmer gently for 25-30 minutes until tender and the chicken reaches at least 74°C (165°F) (80°C (175°F) makes the thighs especially tender)."
     },
     {
       "title": "Adjust the seasoning",
@@ -158,7 +160,7 @@
     "Taste before adding sugar or honey - fesenjan should stay noticeably tart, not sweet.",
     "Steaming the rice with a towel under the lid helps trap steam and keeps the grains fluffy rather than sticky."
   ],
-  "storage": "Keep in the fridge for up to 3 days or freeze for up to 2 months; the flavour often improves overnight. Reheat gently on the hob, stirring often, until piping hot throughout (74°C).",
+  "storage": "Keep in the fridge for up to 3 days or freeze for up to 2 months; the flavour often improves overnight. Reheat gently on the hob, stirring often, until piping hot throughout (74°C (165°F)). Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "milk",
     "nuts",

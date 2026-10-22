@@ -39,9 +39,10 @@
     },
     {
       "group": "Stuffed patties",
-      "qty": 0.75,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
     },
     {
       "group": "Stuffed patties",
@@ -116,7 +117,7 @@
     },
     {
       "title": "Cook over medium heat",
-      "text": "Heat 1 teaspoon of oil in the pan over medium heat (not high) and cook the patties for 5 minutes, turning only once, then 5 minutes on the second side. Medium heat gives the cheese inside time to melt fully before the outside burns. Check doneness by sliding the thermometer in from the side into the meat, not the cheese pocket: you want 71°C."
+      "text": "Heat 1 teaspoon of oil in the pan over medium heat (not high) and cook the patties for 5 minutes, turning only once, then 5 minutes on the second side. Medium heat gives the cheese inside time to melt fully before the outside burns. Check doneness by sliding the thermometer in from the side into the meat, not the cheese pocket: you want 71°C (160°F)."
     },
     {
       "title": "Rest",
@@ -133,7 +134,7 @@
     "Check the temperature in the meat, not the molten cheese, when testing for doneness.",
     "Let the burger rest for the full 5 minutes before serving - the cheese inside stays dangerously hot and can scald if bitten into too soon."
   ],
-  "storage": "Best cooked and eaten fresh; if you do have leftovers, keep covered in the fridge for up to 1 day. Reheat gently and slowly until piping hot and 74°C at the centre, as the molten cheese can overheat unevenly.",
+  "storage": "Best cooked and eaten fresh; if you do have leftovers, keep covered in the fridge for up to 1 day. Reheat gently and slowly until piping hot and 74°C (165°F) at the centre, as the molten cheese can overheat unevenly. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk",

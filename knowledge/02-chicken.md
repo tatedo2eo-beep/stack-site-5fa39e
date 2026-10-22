@@ -16,7 +16,7 @@
 
 ## C2. Dry brine (pre-salting): the default
 - **Rule:** salt chicken ahead, uncovered on a rack in the fridge:
-  - **Amount:** **about 1 % of the meat weight** in salt (≈ 1 tsp Diamond kosher ≈ 3 g per 450 g is ATK's figure; Meathead uses ½ tsp Morton kosher ≈ 2.4 g per 450 g). Lean breast tastes seasoned at about 0.5–0.75 % (ATK's taste test), so use **0.75–1 %** and keep to the lower end for skinless breast.
+  - **Amount:** **about 0.5–0.7 % of the meat weight** in salt. ATK's 1 tsp Diamond kosher per 450 g is about 3 g, or 0.65 %. Meathead's ½ tsp kosher per lb (Morton shown in his photos; ¼ tsp table salt) is about 2.4 g, or 0.5 %. Lean breast tastes seasoned at about 0.5–0.75 % (ATK's taste test), so use **0.5–0.7 %**, weighed. *(Pass 2 correction: this line previously said "about 1 %", which the cited figures don't support.)*
   - **Time:** pieces and cutlets need **at least 45 min–4 h**. A **whole bird needs 6–24 h** (ATK), and Serious Eats allows up to 3 days. Do not rinse it off.
   - For skin-on pieces, salt under the skin as well as on it.
 - **Why:** salt first draws out liquid, then dissolves into it and diffuses back in. It loosens proteins so they hold more water during cooking. The surface ends up drier, so it browns and crisps better. A wet brine adds water, which dilutes flavour and softens the skin.

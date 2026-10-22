@@ -31,9 +31,10 @@
     },
     {
       "group": "Patties",
-      "qty": 0.75,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
     },
     {
       "group": "Patties",
@@ -133,7 +134,7 @@
     },
     {
       "title": "Melt the cheese",
-      "text": "Cheese goes onto half the patties straight away, with a further 45-60 seconds of cooking. By this point the beef is cooked through, with no pink remaining, clear juices, and a core temperature of 71°C if you check it. Stack a plain patty on top of each cheesy one to build the double layer."
+      "text": "Cheese goes onto half the patties straight away, with a further 45-60 seconds of cooking. By this point the beef is cooked through, with no pink remaining, clear juices, and a core temperature of 71°C (160°F) if you check it. Stack a plain patty on top of each cheesy one to build the double layer."
     },
     {
       "title": "Build and serve",
@@ -147,7 +148,7 @@
     "If the pan starts smoking heavily between batches, wipe out the excess fat before adding the next balls.",
     "The baking paper stops the meat sticking to the spatula as you smash, giving an even, thin patty rather than a torn one."
   ],
-  "storage": "These burgers are best eaten fresh from the pan. Raw portioned balls can be covered and kept in the fridge for up to 1 day. Cooked patties keep in the fridge for 2 days; reheat in a hot pan until piping hot (74°C). The sauce keeps for up to 4 days in the fridge.",
+  "storage": "These burgers are best eaten fresh from the pan. Raw portioned balls can be covered and kept in the fridge for up to 1 day. Cooked patties keep in the fridge for 2 days; reheat in a hot pan until piping hot (74°C (165°F)). The sauce keeps for up to 4 days in the fridge. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk",

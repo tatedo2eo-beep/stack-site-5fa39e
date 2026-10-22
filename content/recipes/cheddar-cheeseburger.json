@@ -33,9 +33,10 @@
     },
     {
       "group": "Patties",
-      "qty": 1,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 6.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
     },
     {
       "group": "Patties",
@@ -77,9 +78,10 @@
     },
     {
       "group": "Caramelised onions",
-      "qty": 1,
-      "unit": "pinch",
-      "item": "fine salt"
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
     },
     {
       "group": "To assemble",
@@ -146,7 +148,7 @@
     },
     {
       "title": "Flip and melt the cheddar",
-      "text": "Flip once and cook for a further 3 minutes, adding thick slices of mature cheddar for the final 1.5 minutes under a lid. Mature cheddar is firmer and drier than processed cheese, so it needs that trapped heat to melt through properly. The patties are done at 71°C in the centre; rest for 2 minutes before building."
+      "text": "Flip once and cook for a further 3 minutes, adding thick slices of mature cheddar for the final 1.5 minutes under a lid. Mature cheddar is firmer and drier than processed cheese, so it needs that trapped heat to melt through properly. The patties are done at 71°C (160°F) in the centre; rest for 2 minutes before building."
     },
     {
       "title": "Build the burger",
@@ -159,7 +161,7 @@
     "Wipe the pan after the onions so the patties get a clean, dry sear rather than steaming in leftover liquid.",
     "Season the patties only just before cooking to keep the mince tender."
   ],
-  "storage": "Cooked patties and caramelised onions keep separately in the fridge for up to 2 days; the patties also freeze well for up to 2 months without toppings. Reheat everything until piping hot and the patty reaches 74°C at the centre.",
+  "storage": "Cooked patties and caramelised onions keep separately in the fridge for up to 2 days; the patties also freeze well for up to 2 months without toppings. Reheat everything until piping hot and the patty reaches 74°C (165°F) at the centre. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk",

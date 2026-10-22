@@ -33,9 +33,10 @@
     },
     {
       "group": "Chicken",
-      "qty": 0.25,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
     },
     {
       "group": "Chicken",
@@ -100,10 +101,10 @@
     },
     {
       "group": "Tomato sauce",
-      "qty": 1,
-      "unit": "pinch",
-      "item": "salt, only if needed",
-      "note": "taste first: tinned tomatoes are usually salted"
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, only if needed",
+      "note": "about 1 pinch; taste first: tinned tomatoes are usually salted"
     },
     {
       "group": "Tomato sauce",
@@ -131,9 +132,10 @@
     },
     {
       "group": "Spaghetti",
-      "qty": 1,
-      "unit": "tbsp",
-      "item": "salt for the pasta water"
+      "qty": 18.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the pasta water",
+      "note": "about 1 tbsp"
     }
   ],
   "steps": [
@@ -151,7 +153,7 @@
     },
     {
       "title": "Fry until golden",
-      "text": "Heat the oil to about 5mm deep in the frying pan over medium-high until it reaches around 175°C, hot enough that a crumb sizzles instantly. Fry the cutlets 2 at a time for 2-3 minutes per side until deep golden and the centre reaches 74°C, then drain on the rack."
+      "text": "Heat the oil to about 5mm deep in the frying pan over medium-high until it reaches around 175°C (350°F), hot enough that a crumb sizzles instantly. Fry the cutlets 2 at a time for 2-3 minutes per side until deep golden and the centre reaches 74°C (165°F), then drain on the rack."
     },
     {
       "title": "Grill with sauce and cheese",
@@ -167,9 +169,10 @@
     "Common mistake: drowning the fried cutlets in sauce. A spoonful in the centre is enough; serve the rest alongside with the pasta.",
     "Check the oil temperature before frying - too cool and the crumb turns greasy rather than crisp.",
     "Pound the chicken to an even thickness so it cooks through at the same rate as the crust browns.",
-    "Undercook the pasta slightly before draining, since it will keep softening slightly while you plate up."
+    "Undercook the pasta slightly before draining, since it will keep softening slightly while you plate up.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
   ],
-  "storage": "Store sauce and cooked cutlets separately in the fridge for up to 3 days. Reheat cutlets in the oven or under the grill until piping hot (74°C) to keep the crumb crisp; a microwave will make it soggy.",
+  "storage": "Store sauce and cooked cutlets separately in the fridge for up to 3 days. Reheat cutlets in the oven or under the grill until piping hot (74°C (165°F)) to keep the crumb crisp; a microwave will make it soggy. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk",

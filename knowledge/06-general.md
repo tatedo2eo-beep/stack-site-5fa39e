@@ -14,7 +14,7 @@
 | Fatty (80/20 beef, burgers, sausage-style mixes) | **1 %** | ATK; Serious Eats 1–2 % general range |
 | Soups, sauces, stews, general savoury dishes | **about 1 %, tested within 0.8–1.2 %** | Serious Eats: people prefer 1–2 % |
 | Pasta cooking water | **1 %** (0.5 % for salty sauces) | see 04-pasta P1 |
-| Dry brine for meat | see 01 and 02 (about 1 %, applied ahead) | |
+| Dry brine for chicken or meat | **0.5–0.7 %**, applied 1 h–overnight ahead (02-C2) | ATK, AmazingRibs |
 
 - **Weigh the salt (grams) and name the type.** Diamond Crystal kosher salt is about half as dense by volume as table salt or Morton kosher. A teaspoon of one salt "can weigh twice as much as another".
 - **Season in stages:** salt early (it draws out water from onions and mushrooms, which then brown faster, and it penetrates proteins). Taste and adjust at the end. **Under-salt anything that will reduce**, because water evaporates but the salt stays.

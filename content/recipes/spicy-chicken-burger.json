@@ -42,9 +42,10 @@
     },
     {
       "group": "Chicken and marinade",
-      "qty": 1,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 6.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
     },
     {
       "group": "Chicken and marinade",
@@ -78,9 +79,10 @@
     },
     {
       "group": "Coating",
-      "qty": 0.75,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
     },
     {
       "group": "Coating",
@@ -184,9 +186,10 @@
     },
     {
       "group": "Cooling slaw",
-      "qty": 1,
-      "unit": "pinch",
-      "item": "fine salt"
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
     }
   ],
   "steps": [
@@ -204,11 +207,11 @@
     },
     {
       "title": "Fry the chicken",
-      "text": "Heat 5cm of oil in a heavy pot to 170°C and fry the chicken two pieces at a time for 6-8 minutes, turning once, keeping the oil between 160-170°C throughout. It's ready when deep golden and 74°C in the thickest part; drain on a rack rather than paper so the crust stays crisp instead of steaming."
+      "text": "Heat 5cm of oil in a heavy pot to 170°C (340°F) and fry the chicken two pieces at a time for 6-8 minutes, turning once, keeping the oil between 160-170°C (325-340°F) throughout. It's ready when deep golden and 74°C (165°F) in the thickest part; drain on a rack rather than paper so the crust stays crisp instead of steaming."
     },
     {
       "title": "Make the hot glaze",
-      "text": "Warm the oil gently for about 1 minute in a small pan, just until it shimmers but is nowhere near smoking (about 120°C), then take it off the heat and whisk in cayenne, smoked paprika, brown sugar and garlic powder. Whisking off the heat stops the spices scorching and turning bitter."
+      "text": "Warm the oil gently for about 1 minute in a small pan, just until it shimmers but is nowhere near smoking (about 120°C (250°F)), then take it off the heat and whisk in cayenne, smoked paprika, brown sugar and garlic powder. Whisking off the heat stops the spices scorching and turning bitter."
     },
     {
       "title": "Glaze the chicken",
@@ -229,11 +232,12 @@
   ],
   "tips": [
     "Rest the coated chicken on a rack for 10 minutes before frying - skipping this is the most common cause of the crust falling off in the oil.",
-    "Keep the oil between 160-170°C throughout frying; if it drops too low the coating turns greasy instead of crisp.",
+    "Keep the oil between 160-170°C (325-340°F) throughout frying; if it drops too low the coating turns greasy instead of crisp.",
     "Stir the glaze each time you brush it on, since the spices settle quickly at the bottom of the pan.",
-    "Mix the slaw just before serving so the cabbage stays crunchy rather than wilting."
+    "Mix the slaw just before serving so the cabbage stays crunchy rather than wilting.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
   ],
-  "storage": "Fried chicken keeps in the fridge for up to 2 days; freezing isn't recommended as the coating turns soggy on thawing. Reheat in an oven until piping hot and 74°C at the centre - the microwave will soften the crust.",
+  "storage": "Fried chicken keeps in the fridge for up to 2 days; freezing isn't recommended as the coating turns soggy on thawing. Reheat in an oven until piping hot and 74°C (165°F) at the centre - the microwave will soften the crust. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk",

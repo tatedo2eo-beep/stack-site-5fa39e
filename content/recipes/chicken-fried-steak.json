@@ -33,9 +33,10 @@
     },
     {
       "group": "Steaks",
-      "qty": 0.75,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
     },
     {
       "group": "Steaks",
@@ -69,9 +70,10 @@
     },
     {
       "group": "Seasoned flour",
-      "qty": 0.5,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 3.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
     },
     {
       "group": "Batter",
@@ -118,9 +120,10 @@
     },
     {
       "group": "Cream gravy",
-      "qty": 0.5,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 3.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
     },
     {
       "group": "Cream gravy",
@@ -144,7 +147,7 @@
     },
     {
       "title": "Fry the steaks",
-      "text": "Heat the oil to 180°C in the large frying pan. Fry 2 steaks at a time for 2-3 minutes per side, until deep golden and crisp and the meat reaches 71°C inside - since these steaks are thin, the crust and the centre finish cooking at roughly the same time. Drain on the rack and keep warm in a 100°C oven while you fry the rest."
+      "text": "Heat the oil to 180°C (350°F) in the large frying pan. Fry 2 steaks at a time for 2-3 minutes per side, until deep golden and crisp and the meat reaches 71°C (160°F) inside - since these steaks are thin, the crust and the centre finish cooking at roughly the same time. Drain on the rack and keep warm in a 100°C (210°F) oven while you fry the rest."
     },
     {
       "title": "Make the gravy",
@@ -164,9 +167,10 @@
     "Press the coating on firmly at each dredging stage and let the steaks rest for 10 minutes before frying, so the crust doesn't fall off in the oil.",
     "Keep the browned crumbs left in the pan after frying rather than wiping them out - they're the base of the gravy's flavour.",
     "Whisk the milk in gradually when making the gravy to avoid lumps forming.",
-    "Check the steaks reach 71°C rather than judging by colour alone, since the thin cut cooks faster than it might look."
+    "Check the steaks reach 71°C (160°F) rather than judging by colour alone, since the thin cut cooks faster than it might look.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
   ],
-  "storage": "Keep the steaks and gravy separately in the fridge for up to 2 days. Reheat the gravy gently on the hob and the steaks in a hot oven until piping hot (74°C), as a microwave will make the crust soggy.",
+  "storage": "Keep the steaks and gravy separately in the fridge for up to 2 days. Reheat the gravy gently on the hob and the steaks in a hot oven until piping hot (74°C (165°F)), as a microwave will make the crust soggy. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk",

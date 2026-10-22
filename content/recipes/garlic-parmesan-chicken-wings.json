@@ -40,9 +40,10 @@
     },
     {
       "group": "Wings",
-      "qty": 0.75,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
     },
     {
       "group": "Wings",
@@ -98,11 +99,11 @@
     },
     {
       "title": "Render at low heat",
-      "text": "Bake at 120°C (100°C fan) on the lower-middle shelves for 30 minutes to render the fat out slowly. This gentle stage sets up a crisper skin once the oven temperature rises."
+      "text": "Bake at 120°C (100°C fan, 250°F) on the lower-middle shelves for 30 minutes to render the fat out slowly. This gentle stage sets up a crisper skin once the oven temperature rises."
     },
     {
       "title": "Blast at high heat",
-      "text": "Turn the oven up to 220°C (200°C fan) and bake for a further 40-50 minutes, swapping the trays halfway through. Bake until deep golden and blistered, with the thickest drumette reading at least 74°C, ideally closer to 80°C for maximum tenderness."
+      "text": "Turn the oven up to 220°C (200°C fan, 425°F) and bake for a further 40-50 minutes, swapping the trays halfway through. Bake until deep golden and blistered, with the thickest drumette reading at least 74°C (165°F), ideally closer to 80°C (175°F) for maximum tenderness."
     },
     {
       "title": "Make the garlic butter",
@@ -123,7 +124,7 @@
     "Grate the garlic finely rather than chopping it, so it cooks evenly in the short time it's in the butter.",
     "Serve these wings as soon as they're tossed - the cheese is at its best while the wings are still hot."
   ],
-  "storage": "Keep plain baked wings in the fridge for up to 3 days or freeze for 2 months; make the garlic butter and parmesan topping fresh rather than storing it sauced. Reheat wings in a hot oven until piping hot (74°C) before tossing in a fresh batch of garlic butter and parmesan.",
+  "storage": "Keep plain baked wings in the fridge for up to 3 days or freeze for 2 months; make the garlic butter and parmesan topping fresh rather than storing it sauced. Reheat wings in a hot oven until piping hot (74°C (165°F)) before tossing in a fresh batch of garlic butter and parmesan. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "milk"
   ],

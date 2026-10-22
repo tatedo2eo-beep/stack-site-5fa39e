@@ -35,10 +35,10 @@
     },
     {
       "group": "Poaching liquid",
-      "qty": 2,
-      "unit": "tsp",
-      "item": "fine salt",
-      "note": "mostly stays in the liquid"
+      "qty": 12.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 2 tsp; mostly stays in the liquid"
     },
     {
       "group": "Poaching liquid",
@@ -115,9 +115,10 @@
     },
     {
       "group": "Herb dressing",
-      "qty": 1,
-      "unit": "pinch",
-      "item": "fine salt"
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
     }
   ],
   "steps": [
@@ -131,7 +132,7 @@
     },
     {
       "title": "Poach gently",
-      "text": "Bring the liquid back to a bare simmer, then turn the heat right down so it barely shivers at around 75-80°C, never a rolling boil. Cover and cook for 18-24 minutes until the thickest part of the breast reads 74°C on a thermometer. Gentle heat keeps lean breast meat tender; a boil tightens the proteins fast and squeezes out moisture."
+      "text": "Bring the liquid back to a bare simmer, then turn the heat right down so it barely shivers at around 75-80°C (167-175°F), never a rolling boil. Cover and cook for 18-24 minutes until the thickest part of the breast reads 74°C (165°F) on a thermometer. Gentle heat keeps lean breast meat tender; a boil tightens the proteins fast and squeezes out moisture."
     },
     {
       "title": "Rest in the liquid",
@@ -153,7 +154,7 @@
     "Don't throw away the strained poaching liquid - it's a ready-flavoured broth that's worth keeping for soups or cooking grains.",
     "Serve it warm with steamed green vegetables, or cold in salads and sandwiches."
   ],
-  "storage": "Store sliced poached chicken in the fridge for up to 3 days, or freeze for up to 3 months; keep the strained broth separately in the fridge for up to 3 days or frozen for up to 3 months. Reheat gently until piping hot and 74°C throughout, or use cold straight from the fridge in salads and sandwiches.",
+  "storage": "Store sliced poached chicken in the fridge for up to 3 days, or freeze for up to 3 months; keep the strained broth separately in the fridge for up to 3 days or frozen for up to 3 months. Reheat gently until piping hot and 74°C (165°F) throughout, or use cold straight from the fridge in salads and sandwiches. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "celery"
   ],

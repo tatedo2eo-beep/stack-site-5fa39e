@@ -38,9 +38,10 @@
     },
     {
       "group": "Chicken",
-      "qty": 1,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 6.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
     },
     {
       "group": "Chicken",
@@ -81,9 +82,10 @@
     },
     {
       "group": "Cream gravy",
-      "qty": 0.25,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
     },
     {
       "group": "Cream gravy",
@@ -123,9 +125,10 @@
     },
     {
       "group": "Corn fritters",
-      "qty": 0.125,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 1.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
     },
     {
       "group": "Corn fritters",
@@ -157,11 +160,11 @@
     },
     {
       "title": "Fry and steam through",
-      "text": "Heat 1cm of oil in the large pan over medium-high to about 175°C. Add the chicken skin-side down without crowding the pan and fry for 4-5 minutes until golden, then turn, cover with the lid and lower to medium heat, cooking for 12-15 minutes, turning once - the lid traps steam, which is what cooks bone-in pieces through evenly."
+      "text": "Heat 1cm of oil in the large pan over medium-high to about 175°C (350°F). Add the chicken skin-side down without crowding the pan and fry for 4-5 minutes until golden, then turn, cover with the lid and lower to medium heat, cooking for 12-15 minutes, turning once - the lid traps steam, which is what cooks bone-in pieces through evenly."
     },
     {
       "title": "Re-crisp and finish",
-      "text": "Uncover, raise the heat, and fry for 3-5 minutes more to re-crisp the skin, until the thighs reach 80°C. Drain on the rack and keep warm in a low oven around 100°C."
+      "text": "Uncover, raise the heat, and fry for 3-5 minutes more to re-crisp the skin, until the thighs reach 80°C (175°F). Drain on the rack and keep warm in a low oven around 100°C (210°F)."
     },
     {
       "title": "Make the gravy",
@@ -185,9 +188,10 @@
     "Common mistake: frying at too high a heat throughout, which browns the coating before the chicken is cooked. Lower the heat and cover partway through, then raise it again at the end to re-crisp.",
     "Rest the dredged chicken briefly before frying so the coating adheres better and doesn't fall off in the oil.",
     "Use firm, not overripe, bananas - they hold their shape better when fried.",
-    "Keep the fried chicken warm in a low oven rather than stacking it, which traps steam and softens the coating."
+    "Keep the fried chicken warm in a low oven rather than stacking it, which traps steam and softens the coating.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
   ],
-  "storage": "Keep chicken, gravy and fritters separately in the fridge for up to 2 days. Reheat chicken in the oven until piping hot (74°C) to keep it crisp, and gently warm the gravy on the hob, loosening with a splash of milk if needed.",
+  "storage": "Keep chicken, gravy and fritters separately in the fridge for up to 2 days. Reheat chicken in the oven until piping hot (74°C (165°F)) to keep it crisp, and gently warm the gravy on the hob, loosening with a splash of milk if needed. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk",

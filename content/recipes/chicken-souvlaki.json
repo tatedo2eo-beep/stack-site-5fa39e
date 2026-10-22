@@ -55,9 +55,10 @@
     },
     {
       "group": "Skewers",
-      "qty": 0.75,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
     },
     {
       "group": "Skewers",
@@ -80,9 +81,10 @@
     },
     {
       "group": "Tzatziki",
-      "qty": 0.25,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
     },
     {
       "group": "Tzatziki",
@@ -142,7 +144,7 @@
     },
     {
       "title": "Grill until charred",
-      "text": "Heat a barbecue or griddle pan until very hot, or heat the grill (broiler) on high. Cook the skewers for 10-12 minutes, turning every 2-3 minutes, until charred at the edges and the chicken reaches 74°C."
+      "text": "Heat a barbecue or griddle pan until very hot, or heat the grill (broiler) on high. Cook the skewers for 10-12 minutes, turning every 2-3 minutes, until charred at the edges and the chicken reaches 74°C (165°F)."
     },
     {
       "title": "Warm the pittas and serve",
@@ -156,7 +158,7 @@
     "A very hot grill or griddle is key to getting char on the outside before the chicken overcooks.",
     "Warm the pittas just briefly - too long on the heat and they turn dry rather than soft."
   ],
-  "storage": "Keep cooked chicken and tzatziki separately in the fridge for up to 2 days. Reheat chicken until piping hot (74°C); tzatziki is best served cold rather than reheated.",
+  "storage": "Keep cooked chicken and tzatziki separately in the fridge for up to 2 days. Reheat chicken until piping hot (74°C (165°F)); tzatziki is best served cold rather than reheated. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk"

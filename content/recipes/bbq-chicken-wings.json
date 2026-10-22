@@ -40,9 +40,10 @@
     },
     {
       "group": "Wings",
-      "qty": 0.5,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 3.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
     },
     {
       "group": "Wings",
@@ -98,11 +99,11 @@
     },
     {
       "title": "Render at low heat",
-      "text": "Bake at 120°C (100°C fan) on the lower-middle shelves for 30 minutes to render out the fat gently. This keeps the skin from browning too fast before the fat underneath has had a chance to melt away."
+      "text": "Bake at 120°C (100°C fan, 250°F) on the lower-middle shelves for 30 minutes to render out the fat gently. This keeps the skin from browning too fast before the fat underneath has had a chance to melt away."
     },
     {
       "title": "Blast at high heat",
-      "text": "Raise the oven to 220°C (200°C fan) and bake for 40-50 minutes, swapping the trays halfway through. Continue until deep golden and blistered, with the thickest drumette at least 74°C - pushing to 80°C or above gives a more tender result."
+      "text": "Raise the oven to 220°C (200°C fan, 425°F) and bake for 40-50 minutes, swapping the trays halfway through. Continue until deep golden and blistered, with the thickest drumette at least 74°C (165°F) - pushing to 80°C (175°F) or above gives a more tender result."
     },
     {
       "title": "Make the glaze",
@@ -124,7 +125,7 @@
     "Toss with the reserved glaze after baking for an extra layer of stickiness, rather than relying on what's brushed on alone.",
     "Bottled barbecue sauces vary: check the label for alcohol, gluten (malt vinegar or Worcestershire sauce) and allergens such as mustard, celery or fish before you buy."
   ],
-  "storage": "Keep glazed wings in the fridge for up to 3 days; freezing isn't recommended once sauced, as the glaze can turn watery on thawing. Reheat in a hot oven until piping hot and 74°C in the centre.",
+  "storage": "Keep glazed wings in the fridge for up to 3 days; freezing isn't recommended once sauced, as the glaze can turn watery on thawing. Reheat in a hot oven until piping hot and 74°C (165°F) in the centre. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "sulphites"
   ],

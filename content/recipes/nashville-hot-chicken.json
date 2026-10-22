@@ -44,9 +44,10 @@
     },
     {
       "group": "Brine",
-      "qty": 1.25,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1¼ tsp"
     },
     {
       "group": "Dredge",
@@ -80,9 +81,10 @@
     },
     {
       "group": "Dredge",
-      "qty": 0.5,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 3.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
     },
     {
       "group": "Dredge",
@@ -135,9 +137,10 @@
     },
     {
       "group": "Hot oil",
-      "qty": 1,
-      "unit": "pinch",
-      "item": "fine salt"
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
     },
     {
       "group": "To serve",
@@ -167,7 +170,7 @@
     },
     {
       "title": "Fry the chicken",
-      "text": "Heat 4-5 cm of oil to 175°C in the heavy pot. Fry 3 pieces at a time for 6-8 minutes, turning occasionally and keeping the oil between 165-175°C, until deep golden and the chicken reaches 80°C inside, then drain on the rack."
+      "text": "Heat 4-5 cm of oil to 175°C (350°F) in the heavy pot. Fry 3 pieces at a time for 6-8 minutes, turning occasionally and keeping the oil between 165-175°C (330-350°F), until deep golden and the chicken reaches 80°C (175°F) inside, then drain on the rack."
     },
     {
       "title": "Make the hot oil",
@@ -180,12 +183,13 @@
   ],
   "tips": [
     "Rest the coated chicken for the full 15 minutes before frying so the crust holds together, rather than falling off in clumps in the oil.",
-    "Keep the oil between 165-175°C throughout frying; letting it drop lower is the easiest way to end up with greasy, soft chicken.",
+    "Keep the oil between 165-175°C (330-350°F) throughout frying; letting it drop lower is the easiest way to end up with greasy, soft chicken.",
     "Pour the hot oil over the spice mix rather than warming them together in a pan - the sudden heat is what blooms the cayenne's flavour.",
     "Brush the chicken with the hot oil immediately after frying, while both are still hot, so the glaze sets onto the crust properly.",
-    "Reduce the cayenne in the hot oil to 1 tablespoon if you want a milder version - it's easy to misjudge how much heat the full amount brings."
+    "Reduce the cayenne in the hot oil to 1 tablespoon if you want a milder version - it's easy to misjudge how much heat the full amount brings.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
   ],
-  "storage": "Best eaten fresh, as the hot oil glaze softens the crust over time. If needed, keep for up to 2 days in the fridge and reheat in a hot oven until piping hot (74°C), understanding the crust won't be quite as crisp as when first made.",
+  "storage": "Best eaten fresh, as the hot oil glaze softens the crust over time. If needed, keep for up to 2 days in the fridge and reheat in a hot oven until piping hot (74°C (165°F)), understanding the crust won't be quite as crisp as when first made. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk"

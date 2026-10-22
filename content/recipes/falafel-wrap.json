@@ -75,9 +75,10 @@
     },
     {
       "group": "Falafel",
-      "qty": 0.75,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
     },
     {
       "group": "Falafel",
@@ -119,9 +120,10 @@
     },
     {
       "group": "Tahini sauce",
-      "qty": 1,
-      "unit": "pinch",
-      "item": "fine salt"
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
     },
     {
       "group": "Tahini sauce",
@@ -167,7 +169,7 @@
     },
     {
       "title": "Test and bind",
-      "text": "Pour the oil into the heavy pan to a depth of 3-4 cm and heat it to 175°C. Just before frying, stir the bicarbonate of soda through the mixture, which is what gives the inside its light, fluffy texture. Fry a single test ball; if it breaks apart in the oil, mix in the flour and test again before committing the rest of the batch."
+      "text": "Pour the oil into the heavy pan to a depth of 3-4 cm and heat it to 175°C (350°F). Just before frying, stir the bicarbonate of soda through the mixture, which is what gives the inside its light, fluffy texture. Fry a single test ball; if it breaks apart in the oil, mix in the flour and test again before committing the rest of the batch."
     },
     {
       "title": "Shape the falafel",
@@ -175,7 +177,7 @@
     },
     {
       "title": "Fry until deep golden",
-      "text": "With the oil back at 175°C, fry 5-6 falafel at a time for 3-4 minutes, turning once, until deep golden brown all over and bright green, steamy and cooked inside rather than pasty; drain on a rack and keep the oil between 170-180°C for the remaining batches."
+      "text": "With the oil back at 175°C (350°F), fry 5-6 falafel at a time for 3-4 minutes, turning once, until deep golden brown all over and bright green, steamy and cooked inside rather than pasty; drain on a rack and keep the oil between 170-180°C (340-350°F) for the remaining batches."
     },
     {
       "title": "Make the tahini sauce",
@@ -191,9 +193,10 @@
     "Don't over-process the mixture into a smooth paste; it should look like coarse, damp sand so the falafel stay light rather than dense.",
     "Keep the oil at the right temperature — too cool and the falafel turn greasy and collapse before they crisp.",
     "The mixture can be made a day ahead, but stir in the bicarbonate of soda only just before frying so it doesn't lose its lift.",
-    "Add falafel to the oil gently and in small batches, and never leave hot oil unattended."
+    "Add falafel to the oil gently and in small batches, and never leave hot oil unattended.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
   ],
-  "storage": "The uncooked mixture (without bicarbonate of soda added) keeps in the fridge for up to 2 days, or shape it raw and freeze for up to 3 months, frying from frozen with 1 extra minute. Cooked falafel keep in the fridge for 3 days — re-crisp in the oven at 200°C (180°C fan) for 8-10 minutes until hot through. Tahini sauce keeps in the fridge for 5 days; it will thicken, so loosen with a little water before serving.",
+  "storage": "The uncooked mixture (without bicarbonate of soda added) keeps in the fridge for up to 2 days, or shape it raw and freeze for up to 3 months, frying from frozen with 1 extra minute. Cooked falafel keep in the fridge for 3 days — re-crisp in the oven at 200°C (180°C fan, 400°F) for 8-10 minutes until hot through. Tahini sauce keeps in the fridge for 5 days; it will thicken, so loosen with a little water before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "sesame"

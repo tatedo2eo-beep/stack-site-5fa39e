@@ -65,9 +65,10 @@
       "item": "bicarbonate of soda (baking soda)"
     },
     {
-      "qty": 0.5,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 3.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
     },
     {
       "qty": 200,
@@ -95,7 +96,7 @@
     },
     {
       "title": "Shape and heat oven",
-      "text": "Heat the oven to 180°C (160°C fan) with a shelf set in the middle. Scoop the chilled dough into 18 balls of roughly 50g each, and arrange six per lined tray, spacing them 6-7cm apart so they have room to spread."
+      "text": "Heat the oven to 180°C (160°C fan, 350°F) with a shelf set in the middle. Scoop the chilled dough into 18 balls of roughly 50g each, and arrange six per lined tray, spacing them 6-7cm apart so they have room to spread."
     },
     {
       "title": "Bake in batches",
@@ -111,9 +112,10 @@
     "Weigh the flour on digital scales: flour scooped by volume is easily 20% too heavy, which gives a drier, cakey cookie instead of a chewy one.",
     "Chopped chocolate from a bar melts into gooey pools through the dough, while chocolate chips hold their shape better if you prefer distinct pockets of chocolate.",
     "Check the label on your chocolate if you need to avoid milk or soya, as many dark chocolate bars are processed alongside them.",
-    "Shaped dough balls freeze well, so it's worth rolling a double batch and keeping some ready to bake straight from frozen."
+    "Shaped dough balls freeze well, so it's worth rolling a double batch and keeping some ready to bake straight from frozen.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
   ],
-  "storage": "Keep baked cookies in an airtight tin at room temperature for up to 4 days - a slice of bread in the tin helps them stay soft. Raw dough balls can be frozen for up to 3 months; bake from frozen at the same temperature, adding 1-2 minutes to the time.",
+  "storage": "Keep baked cookies in an airtight tin at room temperature for up to 4 days - a slice of bread in the tin helps them stay soft. Raw dough balls can be frozen for up to 3 months; bake from frozen at the same temperature, adding 1-2 minutes to the time. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk",

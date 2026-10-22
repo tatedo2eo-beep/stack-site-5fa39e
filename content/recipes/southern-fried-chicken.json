@@ -33,9 +33,10 @@
     },
     {
       "group": "Chicken",
-      "qty": 1,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 6.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
     },
     {
       "group": "Chicken",
@@ -63,9 +64,10 @@
     },
     {
       "group": "Seasoned flour",
-      "qty": 0.75,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
     },
     {
       "group": "Seasoned flour",
@@ -126,15 +128,15 @@
     },
     {
       "title": "Heat the oil",
-      "text": "Pour oil into a heavy pot or deep cast-iron pan to a depth of 4-5 cm and heat to 165°C, checking with a frying thermometer. A heavy pan holds its heat steadily once the chicken goes in, which matters more here than the exact starting number."
+      "text": "Pour oil into a heavy pot or deep cast-iron pan to a depth of 4-5 cm and heat to 165°C (330°F), checking with a frying thermometer. A heavy pan holds its heat steadily once the chicken goes in, which matters more here than the exact starting number."
     },
     {
       "title": "Fry in batches",
-      "text": "Fry 4 pieces at a time, starting with the dark meat, with the lid off. Expect the oil to drop to 150-160°C once the chicken is added; turn the pieces every 3-4 minutes and fry for 13-16 minutes in total. The steadier, slightly lower temperature after the drop lets the thick coating and bone-in meat cook through together without the crust burning first."
+      "text": "Fry 4 pieces at a time, starting with the dark meat, with the lid off. Expect the oil to drop to 150-160°C (300-325°F) once the chicken is added; turn the pieces every 3-4 minutes and fry for 13-16 minutes in total. The steadier, slightly lower temperature after the drop lets the thick coating and bone-in meat cook through together without the crust burning first."
     },
     {
       "title": "Check doneness and drain",
-      "text": "Fry until the crust is deep golden brown and a thermometer in the thickest part of the thigh reads 77-80°C. Lift onto a wire rack over a tray to drain, keeping cooked pieces in a 100°C oven while you fry the rest. Dark meat is safe from 74°C, but taking it a little higher melts more connective tissue, leaving the meat noticeably more tender."
+      "text": "Fry until the crust is deep golden brown and a thermometer in the thickest part of the thigh reads 77-80°C (170-175°F). Lift onto a wire rack over a tray to drain, keeping cooked pieces in a 100°C (210°F) oven while you fry the rest. Dark meat is safe from 74°C (165°F), but taking it a little higher melts more connective tissue, leaving the meat noticeably more tender."
     },
     {
       "title": "Season and serve",
@@ -145,9 +147,10 @@
     "Keep an eye on the oil temperature throughout frying - if it drops too low the coating turns pale and greasy instead of crisp, so adjust the heat as you go.",
     "Don't skip the 15-minute rest after coating; frying straight away means the flour hasn't bonded to the chicken and much of it falls off in the oil.",
     "Fry in small batches rather than crowding the pan, since too much chicken at once cools the oil too fast.",
-    "A frying thermometer is worth using rather than guessing - it's the easiest way to keep the crust golden rather than burnt or soggy."
+    "A frying thermometer is worth using rather than guessing - it's the easiest way to keep the crust golden rather than burnt or soggy.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
   ],
-  "storage": "Cool leftover fried chicken quickly and keep in the fridge for up to 3 days, or freeze for up to 2 months. Reheat in a hot oven rather than the microwave to keep the crust crisp, until piping hot and 74°C in the centre.",
+  "storage": "Cool leftover fried chicken quickly and keep in the fridge for up to 3 days, or freeze for up to 2 months. Reheat in a hot oven rather than the microwave to keep the crust crisp, until piping hot and 74°C (165°F) in the centre. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk",

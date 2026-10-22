@@ -86,9 +86,10 @@
     },
     {
       "group": "Patties",
-      "qty": 0.25,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
     },
     {
       "group": "Patties",
@@ -124,9 +125,10 @@
     },
     {
       "group": "Quick-pickled onion",
-      "qty": 1,
-      "unit": "pinch",
-      "item": "fine salt"
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
     },
     {
       "group": "To assemble",
@@ -181,7 +183,7 @@
   "steps": [
     {
       "title": "Dry-roast the beans",
-      "text": "Pat the black beans dry and spread them in a single layer on the lined tray, then bake at 180°C (160°C fan) for 15-20 minutes, until the skins start to split and the beans feel dry on the outside but are still soft within. Driving off this moisture is what stops the finished patties turning mushy; don't take them so far that they go hard and crunchy."
+      "text": "Pat the black beans dry and spread them in a single layer on the lined tray, then bake at 180°C (160°C fan, 350°F) for 15-20 minutes, until the skins start to split and the beans feel dry on the outside but are still soft within. Driving off this moisture is what stops the finished patties turning mushy; don't take them so far that they go hard and crunchy."
     },
     {
       "title": "Soften the vegetables",
@@ -205,7 +207,7 @@
     },
     {
       "title": "Fry the patties",
-      "text": "Heat 2 tablespoons of oil in a non-stick pan over medium heat and cook the patties for 4-5 minutes per side until deep brown and crisp, flipping gently with a fish slice as they're more delicate than beef. Add cheddar on top after flipping and cover for 1 minute to melt it; because the mixture contains egg, cook until the centre reaches 74°C."
+      "text": "Heat 2 tablespoons of oil in a non-stick pan over medium heat and cook the patties for 4-5 minutes per side until deep brown and crisp, flipping gently with a fish slice as they're more delicate than beef. Add cheddar on top after flipping and cover for 1 minute to melt it; because the mixture contains egg, cook until the centre reaches 74°C (165°F)."
     },
     {
       "title": "Toast the buns",
@@ -220,9 +222,10 @@
     "Don't skip drying the beans in the oven - this step gets rid of excess moisture and is what stops the patties turning mushy.",
     "Chill the shaped patties for 20 minutes before cooking so they firm up and hold together in the pan.",
     "Flip the patties gently with a fish slice, and not too early, as they're more delicate than beef until that first crust forms.",
-    "If the mixture feels too soft to shape, work in another 1-2 tablespoons of panko before chilling."
+    "If the mixture feels too soft to shape, work in another 1-2 tablespoons of panko before chilling.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
   ],
-  "storage": "Cooked patties keep in the fridge for up to 3 days, or freeze them cooked and cooled for up to 2 months. Reheat from chilled or frozen on a tray in a 180°C (160°C fan) oven for 10-20 minutes, until piping hot and 74°C in the centre, because the mixture contains egg.",
+  "storage": "Cooked patties keep in the fridge for up to 3 days, or freeze them cooked and cooled for up to 2 months. Reheat from chilled or frozen on a tray in a 180°C (160°C fan, 350°F) oven for 10-20 minutes, until piping hot and 74°C (165°F) in the centre, because the mixture contains egg. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk",

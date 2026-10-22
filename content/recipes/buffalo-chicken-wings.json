@@ -41,9 +41,10 @@
     },
     {
       "group": "Wings",
-      "qty": 0.5,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 3.0,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
     },
     {
       "group": "Wings",
@@ -111,11 +112,11 @@
     },
     {
       "title": "Render at low heat",
-      "text": "Bake at 120°C (100°C fan) on the lower-middle shelves for 30 minutes. This slow start renders out fat gently before the skin starts to colour, leaving it crisper rather than greasy once it browns."
+      "text": "Bake at 120°C (100°C fan, 250°F) on the lower-middle shelves for 30 minutes. This slow start renders out fat gently before the skin starts to colour, leaving it crisper rather than greasy once it browns."
     },
     {
       "title": "Blast at high heat",
-      "text": "Increase the oven to 220°C (200°C fan) and bake for a further 40-50 minutes, swapping the trays halfway through. Continue until deep golden and blistered, with the thickest drumette reading at least 74°C, ideally pushed to 80°C or beyond so the connective tissue softens fully."
+      "text": "Increase the oven to 220°C (200°C fan, 425°F) and bake for a further 40-50 minutes, swapping the trays halfway through. Continue until deep golden and blistered, with the thickest drumette reading at least 74°C (165°F), ideally pushed to 80°C (175°F) or beyond so the connective tissue softens fully."
     },
     {
       "title": "Make the buffalo sauce",
@@ -136,7 +137,7 @@
     "Toss the wings in sauce only just before serving, not earlier, or the crisp skin will turn soft underneath.",
     "Leave the blue cheese dip a little lumpy rather than mashing it smooth - it holds up better alongside the hot wings."
   ],
-  "storage": "Un-sauced baked wings keep in the fridge for up to 3 days or freeze for 2 months; keep the blue cheese dip separately in the fridge for up to 3 days. Reheat plain wings in a hot oven until piping hot (74°C) before saucing, rather than reheating them once already coated.",
+  "storage": "Un-sauced baked wings keep in the fridge for up to 3 days or freeze for 2 months; keep the blue cheese dip separately in the fridge for up to 3 days. Reheat plain wings in a hot oven until piping hot (74°C (165°F)) before saucing, rather than reheating them once already coated. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "milk",
     "eggs",

@@ -30,9 +30,10 @@
     },
     {
       "group": "Stew",
-      "qty": 0.25,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
     },
     {
       "group": "Stew",
@@ -122,9 +123,10 @@
     },
     {
       "group": "Dumplings",
-      "qty": 0.25,
-      "unit": "tsp",
-      "item": "fine salt"
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
     },
     {
       "group": "Dumplings",
@@ -156,7 +158,7 @@
     },
     {
       "title": "Build the stew",
-      "text": "Stir in the flour and cook for 1 minute, then slowly whisk in the stock. Add the thyme and bay leaves, return the chicken to the pot, and simmer gently, partly covered, for 30-35 minutes until the thighs reach 80°C and are tender."
+      "text": "Stir in the flour and cook for 1 minute, then slowly whisk in the stock. Add the thyme and bay leaves, return the chicken to the pot, and simmer gently, partly covered, for 30-35 minutes until the thighs reach 80°C (175°F) and are tender."
     },
     {
       "title": "Shred the chicken",
@@ -186,7 +188,7 @@
     "Shred the chicken into fairly large pieces so it doesn't disappear into the stew.",
     "Space the dumplings out when you drop them in, as they expand significantly while steaming."
   ],
-  "storage": "Keep in the fridge for up to 3 days; dumplings soften on standing but still taste good. Reheat gently on the hob until piping hot throughout (74°C); freezing isn't recommended as the dumplings turn gluey.",
+  "storage": "Keep in the fridge for up to 3 days; dumplings soften on standing but still taste good. Reheat gently on the hob until piping hot throughout (74°C (165°F)); freezing isn't recommended as the dumplings turn gluey. Cool leftovers in a shallow container and refrigerate within 2 hours (1 hour on a day above 32°C (90°F)).",
   "allergens": [
     "gluten",
     "milk",
