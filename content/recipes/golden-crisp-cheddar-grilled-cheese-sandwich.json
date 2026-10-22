@@ -1,0 +1,110 @@
+{
+  "slug": "golden-crisp-cheddar-grilled-cheese-sandwich",
+  "title": "Golden Crisp Cheddar Grilled Cheese Sandwich",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "grilled-cheese",
+  "dish_title": "Grilled cheese",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "White sandwich bread spread with butter and mayonnaise is filled with grated mature cheddar and cooked slowly until crisp, golden and oozing.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 16,
+  "difficulty": "easy",
+  "equipment": [
+    "small bowl",
+    "box grater",
+    "butter knife",
+    "large non-stick or cast-iron frying pan with a lid",
+    "fish slice (spatula)",
+    "wire rack set on a baking tray",
+    "chopping board and bread knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Sandwiches",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices white sandwich bread, about 1 cm thick",
+      "note": "about 40 g each"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 200,
+      "unit": "g",
+      "item": "mature cheddar, coarsely grated (check the rennet)"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "mayonnaise"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the spread",
+      "text": "Mix the butter and mayonnaise in the small bowl until smooth, then spread it thinly over one side of every bread slice, right to the edges. Mayonnaise browns evenly and resists burning, while butter adds flavour."
+    },
+    {
+      "title": "Assemble",
+      "text": "Lay 4 slices spread side down on the board, pile 50 g cheddar onto each, leaving a 5 mm border, and top with the remaining slices, spread side up. Grated cheese melts faster and more evenly than slices."
+    },
+    {
+      "title": "Heat the pan",
+      "text": "Heat the oven to 100 °C (80 °C fan) with the rack and tray inside. Heat the pan over medium heat for 2 minutes, then turn it down to medium-low. A preheated pan browns evenly from the start."
+    },
+    {
+      "title": "Cook",
+      "text": "Cook 2 sandwiches at a time, covered with the lid, for 3-4 minutes until the base is deep golden; the lid traps heat to start melting the cheese. Flip, press gently with the spatula and cook uncovered for 3-4 minutes more, until the second side is golden and the cheese is fully melted. Keep them warm on the rack in the oven while you cook the second pair."
+    },
+    {
+      "title": "Serve",
+      "text": "Rest the sandwiches for 1-2 minutes so the cheese sets slightly, then cut in half and serve straight away."
+    }
+  ],
+  "tips": [
+    "Too high a heat is the commonest mistake; the bread burns before the cheese melts.",
+    "Let the cheddar come to room temperature for a faster melt.",
+    "Press gently; flattening the sandwich hard squeezes the cheese out.",
+    "Bread about 1 cm thick gives the best balance of crunch and melt."
+  ],
+  "storage": "Best eaten hot. Leftovers can be refrigerated for up to 1 day and reheated in a dry pan over medium-low heat until the cheese melts again. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 519,
+    "protein_g": 19.3,
+    "carbs_g": 40.6,
+    "sugar_g": 4.7,
+    "free_sugar_g": 4.6,
+    "fat_g": 30.9,
+    "satfat_g": 14.9,
+    "salt_g": 1.9,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "grilled-cheese-basic.jpg",
+  "image_alt": "A golden grilled cheese sandwich cut in half with melted cheddar oozing out, on a dark plate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

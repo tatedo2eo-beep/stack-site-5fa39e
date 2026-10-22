@@ -56,6 +56,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
 | caramelised-onion-flatbread-anchovies-black-olives-thyme | Pissaladière | Classic | 3 | 5 |
 | caramelised-onion-soup-gruyere-toasts | French onion | Classic | 3 | 5 |
+| carne-asada-street-tacos-onion-coriander-lime | Taco | Classic | 2 | 4 |
 | carrot-cake | Carrot | Classic | 2 | 4 |
 | celeriac-remoulade-mustard-parsley | Celeriac rémoulade | Classic | 3 | 5 |
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |
@@ -194,6 +195,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gnocchi-pesto | Gnocchi | Pesto | 3 | 5 |
 | goan-style-coconut-fish-curry-rice | Fish curry | Classic | 4 | 6 |
 | golden-crab-cakes-paprika-lemon-mayonnaise | Crab cakes | Classic | 4 | 6 |
+| golden-crisp-cheddar-grilled-cheese-sandwich | Grilled cheese | Classic | 2 | 4 |
 | graham-crackers | Graham crackers | Classic | 3 | 5 |
 | gratin-dauphinois | Gratin dauphinois | Classic | 2 | 4 |
 | greek-mint-oregano-meatballs | Meatballs | Greek (mint-oregano) | 2 | 4 |
@@ -400,6 +402,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | slow-roast-beef-yorkshire-puddings | Roast beef | Classic | 5 | 7 |
 | slow-roasted-spiced-lamb-shoulder-cumin-salt | Mechoui | Classic | 2 | 4 |
 | slow-smoked-beef-brisket-salt-pepper | Brisket (smoked) | Classic | 3 | 5 |
+| smoky-chipotle-lime-chicken-fajitas-peppers-guacamole | Fajita | Classic | 2 | 4 |
 | smoky-chipotle-tomato-shredded-chicken-tacos | Taco | Chicken tinga | 4 | 6 |
 | snickerdoodles | Snickerdoodle | Classic | 3 | 5 |
 | soft-rice-and-yellow-lentil-porridge-cumin-ghee | Khichdi | Classic | 2 | 4 |
