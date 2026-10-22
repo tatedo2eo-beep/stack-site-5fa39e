@@ -132,10 +132,10 @@
     },
     {
       "group": "Spaghetti",
-      "qty": 12,
+      "qty": 7.5,
       "unit": "g",
-      "item": "fine sea salt or table salt, for the pasta water (12 g in 1.5 litres, 0.8%)",
-      "note": "about 2 tsp"
+      "item": "fine sea salt or table salt, for the pasta water (7.5 g in 1.5 litres, 0.5%)",
+      "note": "about 1¼ tsp"
     }
   ],
   "steps": [
@@ -161,7 +161,7 @@
     },
     {
       "title": "Cook the pasta and serve",
-      "text": "While the cutlets grill, cook the spaghetti in 1.5 litres of boiling water salted with 12 g (2 tsp) salt - a lighter 0.8% because the sauce and cheese are already salty - for 1 minute less than the packet suggests, then drain and toss with most of the remaining sauce. Serve the cutlets on the spaghetti, scattered with basil."
+      "text": "While the cutlets grill, cook the spaghetti in 1.5 litres of boiling water salted with 7.5 g (1¼ tsp) salt - a light 0.5% because the sauce and cheese are already salty - for 1 minute less than the packet suggests, then drain and toss with most of the remaining sauce. Serve the cutlets on the spaghetti, scattered with basil."
     }
   ],
   "tips": [
@@ -187,7 +187,7 @@
     "free_sugar_g": 1.1,
     "fat_g": 35.5,
     "satfat_g": 10.0,
-    "salt_g": 3.18,
+    "salt_g": 3.3,
     "fibre_g": 7.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",

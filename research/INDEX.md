@@ -21,6 +21,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | buffalo-chicken-wings | Chicken wings | Buffalo | 4 | 6 |
 | butter-chicken | Butter chicken | Classic | 2 | 4 |
 | buttermilk-fried-chicken | Fried chicken (Southern) | Buttermilk-brined | 4 | 6 |
+| butternut-squash-ravioli | Filled (ravioli, tortellini, agnolotti) | Butternut squash | 4 | 6 |
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |
 | cheeseburger-sliders | Sliders | Classic | 2 | 5 |
 | chewy-amaretti | Amaretti | Classic | 2 | 4 |
@@ -58,10 +59,14 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fesenjan | Fesenjan | Classic | 2 | 4 |
 | florentines | Florentines | Classic | 2 | 4 |
 | flourless-fudgy-brownies | Flourless | Classic | 3 | 5 |
+| fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
 | gai-yang | Gai yang | Classic | 2 | 4 |
 | garlic-parmesan-chicken-wings | Chicken wings | Garlic-parmesan | 3 | 5 |
 | general-tsos-chicken | General Tso's chicken | Classic | 2 | 4 |
 | gingerbread-cookies | Gingerbread | Classic | 3 | 5 |
+| gnocchi-brown-butter-sage | Gnocchi | Brown butter-sage | 3 | 5 |
+| gnocchi-cherry-tomato | Gnocchi | Tomato | 3 | 5 |
+| gnocchi-pesto | Gnocchi | Pesto | 3 | 5 |
 | graham-crackers | Graham crackers | Classic | 3 | 5 |
 | guacamole | Guacamole | Classic | 2 | 3 |
 | hainanese-chicken-rice | Hainanese chicken rice | Classic | 3 | 5 |
@@ -72,24 +77,29 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | kitchen-sink-cookies | Kitchen-sink cookie | Classic | 3 | 5 |
 | kung-pao-chicken | Kung Pao chicken | Classic | 3 | 5 |
 | langues-de-chat | Langues de chat | Classic | 2 | 4 |
+| lasagne-bolognese | Sheets/baked (lasagne) | Classic | 4 | 6 |
 | lemon-bars | Lemon bars | Classic | 3 | 5 |
 | lemon-cut-out-sugar-cookies | Sugar/cut-out | Lemon | 2 | 4 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
 | madeleines | Madeleines (cake-like) | Classic | 3 | 5 |
 | millionaires-shortbread | Bars (magic bars, millionaire's shortbread) | Classic | 4 | 6 |
 | musakhan | Musakhan | Classic | 3 | 6 |
+| mushroom-lasagne | Sheets/baked (lasagne) | Mushroom | 3 | 5 |
 | nanaimo-bars | Nanaimo bar | Classic | 3 | 5 |
 | nashville-hot-chicken | Nashville hot chicken | Classic | 2 | 5 |
 | ohn-no-khao-swe | Ohn no khao swè | Classic | 2 | 4 |
 | oklahoma-onion-burger | Oklahoma onion burger | Classic | 3 | 7 |
 | peanut-butter-cookies | Peanut butter | Classic | 3 | 5 |
 | peking-duck | Peking duck | Classic | 2 | 4 |
+| penne-arrabbiata | Short (penne, rigatoni, fusilli) | Classic | 3 | 5 |
 | piri-piri-chicken | Piri-piri | Classic | 2 | 4 |
 | pizzelle | Pizzelle | Classic | 2 | 4 |
 | poached-chicken | Poached | Classic | 2 | 4 |
 | pollo-al-mattone | Pollo al mattone (chicken under a brick) | Classic | 2 | 4 |
+| potato-gnocchi | Gnocchi | Classic | 4 | 6 |
 | raspberry-thumbprint-cookies | Thumbprints | Raspberry | 3 | 5 |
 | red-lentil-soup | Lentil | Classic | 2 | 3 |
+| ricotta-ravioli | Filled (ravioli, tortellini, agnolotti) | Classic | 4 | 6 |
 | roast-chicken | Whole roast chicken | Classic | 3 | 6 |
 | rugelach | Rugelach | Classic | 2 | 4 |
 | sables-diamants | Diamant | Classic | 2 | 4 |
@@ -99,6 +109,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | signature-smash-burger | Smash burger | Classic | 3 | 8 |
 | snickerdoodles | Snickerdoodle | Classic | 3 | 5 |
 | southern-fried-chicken | Fried chicken (Southern) | Classic | 3 | 6 |
+| spaghetti-al-pomodoro | Long dried (spaghetti, linguine, bucatini) | Classic | 3 | 5 |
 | speculoos | Speculoos | Classic | 3 | 5 |
 | spicy-chicken-burger | Chicken burger | Spicy (cayenne/hot sauce) | 2 | 8 |
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |

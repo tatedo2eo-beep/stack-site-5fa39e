@@ -1,0 +1,183 @@
+{
+  "slug": "gnocchi-pesto",
+  "title": "Potato Gnocchi with Basil Pesto",
+  "category": "pasta-noodles",
+  "cuisine": "Italian (Liguria)",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "gnocchi",
+  "dish_title": "Gnocchi",
+  "flavour": "Pesto",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "potato-gnocchi",
+  "changes_from_base": "Butter-tomato sauce replaced by a pounded basil, pine nut, Parmesan and pecorino pesto, folded through off the heat.",
+  "summary": "This follows the same potato gnocchi method as our classic recipe, finished instead with a hand-pounded basil, pine nut and Parmesan pesto stirred through off the heat.",
+  "servings": 4,
+  "prep_min": 45,
+  "cook_min": 60,
+  "difficulty": "medium",
+  "equipment": [
+    "baking tray",
+    "potato ricer or food mill",
+    "bench scraper",
+    "fine sieve",
+    "2 baking trays dusted with flour or semolina",
+    "large pot (at least 5 litres)",
+    "slotted spoon or spider strainer",
+    "large frying pan (28 cm)",
+    "mortar and pestle or small food processor",
+    "small dry frying pan"
+  ],
+  "ingredients": [
+    {
+      "group": "Gnocchi",
+      "qty": 1000,
+      "unit": "g",
+      "item": "floury potatoes (such as Maris Piper, King Edward or russet), scrubbed"
+    },
+    {
+      "group": "Gnocchi",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Gnocchi",
+      "qty": 140,
+      "unit": "g",
+      "item": "plain flour, plus extra for dusting",
+      "note": "you may need 10-20 g less or more"
+    },
+    {
+      "group": "Gnocchi",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Pesto",
+      "qty": 60,
+      "unit": "g",
+      "item": "basil leaves"
+    },
+    {
+      "group": "Pesto",
+      "qty": 25,
+      "unit": "g",
+      "item": "pine nuts"
+    },
+    {
+      "group": "Pesto",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Pesto",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "coarse salt"
+    },
+    {
+      "group": "Pesto",
+      "qty": 25,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "Pesto",
+      "qty": 15,
+      "unit": "g",
+      "item": "pecorino (or a vegetarian hard cheese), finely grated"
+    },
+    {
+      "group": "Pesto",
+      "qty": 100,
+      "unit": "ml",
+      "item": "mild extra-virgin olive oil"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 40,
+      "unit": "g",
+      "item": "fine salt for 4 litres of pasta water (1%)",
+      "note": "about 6.75 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "To serve",
+      "qty": 15,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the pine nuts",
+      "text": "Toast the pine nuts in a dry frying pan over medium-low heat for 3-4 minutes, until they turn pale gold, then tip them out to cool."
+    },
+    {
+      "title": "Pound the pesto base",
+      "text": "Pound the garlic with a pinch of coarse salt in a mortar until it forms a paste, then add the cooled pine nuts and pound again until roughly broken down. Add the basil a handful at a time, grinding it against the sides of the mortar rather than cutting it, since bruising the leaves this way releases their oils without the heat of a blade darkening them."
+    },
+    {
+      "title": "Finish the pesto",
+      "text": "Stir in the Parmesan and pecorino, then pour in the olive oil in a thin stream, stirring until the pesto turns creamy. If using a food processor instead, pulse rather than running it continuously, and add the oil last. Press a layer of cling film onto the surface to stop it discolouring while you make the gnocchi."
+    },
+    {
+      "title": "Bake the potatoes",
+      "text": "Preheat the oven to 220°C (200°C fan) at least 20 minutes ahead, prick the potatoes and bake directly on the rack for 50-60 minutes, until a knife slides in with no resistance. Baking rather than boiling keeps the potato dry, which keeps the gnocchi light."
+    },
+    {
+      "title": "Rice the potatoes",
+      "text": "While still hot, halve the potatoes and scoop the flesh through a ricer onto the worktop in a thin layer, letting it stand for 5 minutes to steam off a little moisture while still warm."
+    },
+    {
+      "title": "Bring the dough together",
+      "text": "Sprinkle over the salt and egg yolk, sieve over two-thirds of the flour and cut it in with a bench scraper, then gather and fold-press 4-5 times, adding the remaining flour only until the dough just holds together and feels barely tacky. Avoid kneading or smearing it, since this would overwork the gluten and make the gnocchi tough."
+    },
+    {
+      "title": "Test and shape",
+      "text": "Boil a single piece to test it, adding 1-2 tablespoons more flour if it falls apart. Cut the dough into 6 pieces, roll each into a 2cm rope and cut into 2cm lengths, then roll each down a fork or gnocchi board to leave ridges and lay them on floured trays without touching."
+    },
+    {
+      "title": "Cook until they float",
+      "text": "Bring 4 litres of water to a rolling boil with the 40g of salt and cook the gnocchi in 2 batches. They're ready when they float, after about 2 minutes, then give them 30 seconds more before lifting them into a warm bowl with a slotted spoon, keeping a mug of the cooking water."
+    },
+    {
+      "title": "Fold through the pesto",
+      "text": "Loosen the pesto in the warm bowl with 3-4 tablespoons of the cooking water, off the heat, then add the gnocchi and fold gently until coated. Keeping the pan off the heat protects the pesto's bright colour and fresh flavour, since direct heat quickly dulls both. Serve with Parmesan."
+    }
+  ],
+  "tips": [
+    "Pound the basil rather than blitzing it hard in a processor — the gentler bruising action keeps the pesto bright green instead of turning it dull and dark.",
+    "Add the olive oil to the pesto last and in a thin stream, so it emulsifies into a creamy paste rather than separating.",
+    "Never let the pesto touch direct heat — fold it through the hot gnocchi off the hob to protect its colour and flavour.",
+    "Bake rather than boil the potatoes for the gnocchi, as boiling leaves them too wet and means needing extra flour."
+  ],
+  "storage": "Shaped, uncooked gnocchi freeze well on a floured tray for up to 2 months; the pesto keeps separately in the fridge, covered with a thin layer of oil, for up to 4 days. Reheat cooked gnocchi in a pan with a splash of water until piping hot, then fold the pesto through off the heat. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 612,
+    "protein_g": 15.0,
+    "carbs_g": 67.5,
+    "sugar_g": 2.2,
+    "free_sugar_g": 0.0,
+    "fat_g": 32.2,
+    "satfat_g": 6.2,
+    "salt_g": 1.74,
+    "fibre_g": 5.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gnocchi-basic--pesto.jpg",
+  "image_alt": "Potato gnocchi coated in bright green basil pesto with fresh basil leaves in a black bowl on dark slate."
+}

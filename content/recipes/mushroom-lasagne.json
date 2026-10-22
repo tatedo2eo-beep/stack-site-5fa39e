@@ -1,0 +1,229 @@
+{
+  "slug": "mushroom-lasagne",
+  "title": "Mushroom Lasagne with Porcini Béchamel",
+  "category": "pasta-noodles",
+  "cuisine": "Italian",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "sheets-baked-lasagne",
+  "dish_title": "Sheets/baked (lasagne)",
+  "flavour": "Mushroom",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "lasagne-bolognese",
+  "changes_from_base": "Beef ragù replaced by a browned chestnut-and-porcini mushroom filling bound with some of the béchamel; mozzarella added to each layer; three filling layers instead of four. No wine.",
+  "summary": "This follows the same layering and baking method as our classic beef lasagne, but swaps the meat ragù for a deeply savoury porcini and chestnut mushroom filling bound with béchamel, with mozzarella melted through three filling layers instead of four.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 80,
+  "difficulty": "medium",
+  "equipment": [
+    "heatproof jug",
+    "fine sieve lined with kitchen paper",
+    "large wide frying pan or sauté pan (30 cm)",
+    "medium saucepan",
+    "whisk",
+    "baking dish about 23 x 33 cm, at least 6 cm deep",
+    "foil",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Mushrooms",
+      "qty": 15,
+      "unit": "g",
+      "item": "dried porcini mushrooms"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 300,
+      "unit": "ml",
+      "item": "boiling water"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 900,
+      "unit": "g",
+      "item": "chestnut mushrooms, finely chopped",
+      "note": "pulse in a food processor in batches"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 2,
+      "unit": "pc",
+      "item": "shallots, finely chopped",
+      "note": "about 60 g"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fresh thyme leaves"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 50,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 800,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Assembly",
+      "qty": 300,
+      "unit": "g",
+      "item": "dried lasagne sheets (no-precook type)"
+    },
+    {
+      "group": "Assembly",
+      "qty": 250,
+      "unit": "g",
+      "item": "low-moisture mozzarella, grated"
+    },
+    {
+      "group": "Assembly",
+      "qty": 60,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "Assembly",
+      "qty": 10,
+      "unit": "g",
+      "item": "butter for the dish"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped parsley"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak the porcini",
+      "text": "Pour the boiling water over the dried porcini in a heatproof jug and leave to soak for 20 minutes until soft. Lift the mushrooms out, squeeze out the excess liquid and chop them finely, then strain the soaking liquid through a sieve lined with kitchen paper to catch any grit, keeping the liquid to one side."
+    },
+    {
+      "title": "Brown the chestnut mushrooms",
+      "text": "Heat the butter and olive oil in a wide pan over medium-high heat, then add the chopped chestnut mushrooms and salt. Cook for 12-15 minutes, stirring regularly, until all their released water has evaporated and they start to sizzle and brown in the fat. This browning builds a deep, savoury flavour that stands in for the meat, while the salt first draws the water out so the mushrooms can colour rather than stew."
+    },
+    {
+      "title": "Add aromatics and porcini liquid",
+      "text": "Stir in the shallots, garlic, thyme and chopped porcini, and cook for 3 minutes until fragrant. Pour in the strained porcini liquid and let it bubble for 4-5 minutes until almost completely gone, then stir in the lemon juice and pepper. The porcini liquid carries concentrated mushroom flavour straight back into the filling."
+    },
+    {
+      "title": "Make the béchamel",
+      "text": "Melt the butter in a saucepan over medium heat, whisk in the flour and cook for 1-2 minutes without colouring it. Gradually whisk in the milk, then simmer for 5 minutes, whisking often, until it coats the back of a spoon; finish with the nutmeg and salt."
+    },
+    {
+      "title": "Bind the filling",
+      "text": "Stir a quarter of the béchamel into the mushroom mixture. This makes the filling spreadable and adds moisture that keeps the pasta sheets from drying out as they bake."
+    },
+    {
+      "title": "Preheat and prepare the dish",
+      "text": "Preheat the oven to 200°C (180°C fan) at least 20 minutes ahead, and butter the baking dish. Starting with a fully heated oven helps the lasagne cook through evenly without the edges drying out before the centre is hot."
+    },
+    {
+      "title": "Layer the lasagne",
+      "text": "Spread a thin layer of béchamel over the base of the dish, then lay pasta sheets on top, breaking them to fit without overlapping. Spoon over a third of the mushroom filling, a quarter of the mozzarella and Parmesan, then a thin layer of béchamel, and repeat this sequence twice more, finishing with sheets, the remaining béchamel, mozzarella and Parmesan."
+    },
+    {
+      "title": "Bake covered then open",
+      "text": "Cover tightly with foil and bake for 20 minutes, then uncover and bake for a further 20-25 minutes until bubbling and golden on top. The pasta is ready when a knife slides through easily and the centre reads 74°C."
+    },
+    {
+      "title": "Rest and finish",
+      "text": "Leave the lasagne to rest for 15 minutes before serving, which lets the layers settle so it slices cleanly. Scatter over the chopped parsley just before bringing it to the table."
+    }
+  ],
+  "tips": [
+    "Cook the chestnut mushrooms until every trace of their liquid has evaporated — stopping too soon leaves a watery filling that makes the pasta soggy.",
+    "Strain the porcini soaking liquid through kitchen paper, not just a regular sieve, since the grit that collects at the bottom of dried mushrooms is easy to miss.",
+    "Keep the mozzarella grated rather than sliced so it melts evenly through each layer instead of forming rubbery pockets.",
+    "Rest the lasagne for the full 15 minutes before cutting, or the layers will slide apart on the plate."
+  ],
+  "storage": "Cover and keep in the fridge for up to 3 days, or freeze portions for up to 3 months. Reheat until the centre reaches 74°C and is piping hot before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 511,
+    "protein_g": 22.2,
+    "carbs_g": 45.8,
+    "sugar_g": 9.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 27.5,
+    "satfat_g": 15.1,
+    "salt_g": 1.9,
+    "fibre_g": 3.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sheets-baked-lasagne-basic--mushroom.jpg",
+  "image_alt": "A slice of mushroom lasagne showing creamy béchamel and dark mushroom layers on a black plate."
+}

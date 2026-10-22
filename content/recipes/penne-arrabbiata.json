@@ -1,0 +1,138 @@
+{
+  "slug": "penne-arrabbiata",
+  "title": "Penne all'Arrabbiata",
+  "category": "pasta-noodles",
+  "cuisine": "Italian (Roman)",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "short-penne-rigatoni-fusilli",
+  "dish_title": "Short (penne, rigatoni, fusilli)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A fiery Roman classic where garlic and chilli are coaxed gently into olive oil before a quick simmer with tomatoes builds a punchy, bright sauce.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large frying pan or sauté pan (30 cm)",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried chilli flakes",
+      "note": "use ½ tsp for mild, up to 2 tsp for fiery"
+    },
+    {
+      "group": "Sauce",
+      "qty": 800,
+      "unit": "g",
+      "item": "tinned whole plum tomatoes (2 tins), crushed by hand"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pasta",
+      "qty": 400,
+      "unit": "g",
+      "item": "dried penne"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 24,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.8%)",
+      "note": "about 4 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "To finish",
+      "qty": 40,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped flat-leaf parsley"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse the oil cold",
+      "text": "Put the olive oil, sliced garlic and chilli flakes into the pan while it's still cold, then set it over medium-low heat. Warming the aromatics gradually with the oil lets the garlic infuse its flavour without scorching, since burnt garlic turns bitter fast. Sizzle gently for 4-5 minutes until the garlic turns pale gold rather than brown."
+    },
+    {
+      "title": "Add tomatoes and simmer",
+      "text": "Crush the tomatoes in by hand along with the salt, then let the sauce simmer briskly for 12-15 minutes, stirring now and then. It's ready when it has thickened and a little oil starts to separate at the edges of the pan, a sign the tomatoes have broken down fully into the fat."
+    },
+    {
+      "title": "Boil and salt the water",
+      "text": "Bring 3 litres of water to the boil and stir in the 24g of salt. Add the penne and stir well during the first minute so the pieces don't stick to each other or the base of the pot, then cook for one minute less than the packet time."
+    },
+    {
+      "title": "Reserve water and drain",
+      "text": "Ladle out 240ml of the cooking water into a mug, then drain the penne in a colander. This starchy water will help the sauce grip the pasta rather than slide off it."
+    },
+    {
+      "title": "Finish in the sauce",
+      "text": "Tip the penne into the sauce with 60ml of the reserved water and set the pan over high heat, tossing and stirring for 1-2 minutes. The pasta finishes cooking here, and its released starch thickens the sauce into a coating rather than a puddle; add more water if it tightens up too fast."
+    },
+    {
+      "title": "Stir in cheese and parsley",
+      "text": "Take the pan off the heat before stirring in half the Parmesan and the chopped parsley, so the cheese melts smoothly into the sauce instead of clumping into strings over direct heat. Serve immediately with the remaining Parmesan on the side."
+    }
+  ],
+  "tips": [
+    "Start the garlic and chilli in cold oil, not a hot pan — adding them to already-hot oil is the easiest way to burn the garlic and turn the sauce bitter.",
+    "Adjust the chilli flakes to taste before you start: half a teaspoon gives a mild warmth, while 2 teaspoons makes it properly fiery.",
+    "Stir the Parmesan in off the heat so it melts into the sauce rather than seizing into clumps.",
+    "Keep back the pasta water — it's what lets the sauce coat the penne instead of sitting in a thin puddle at the bottom of the bowl."
+  ],
+  "storage": "Store in an airtight container in the fridge for up to 3 days, or freeze the sauce alone for up to 3 months. Reheat in a pan over medium heat with a splash of water until piping hot throughout. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 537,
+    "protein_g": 18.5,
+    "carbs_g": 83.1,
+    "sugar_g": 7.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 14.8,
+    "satfat_g": 3.4,
+    "salt_g": 2.47,
+    "fibre_g": 7.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "short-penne-rigatoni-fusilli-basic.jpg",
+  "image_alt": "Penne coated in a chilli-flecked tomato sauce with grated Parmesan and chopped parsley in a black bowl on dark slate."
+}

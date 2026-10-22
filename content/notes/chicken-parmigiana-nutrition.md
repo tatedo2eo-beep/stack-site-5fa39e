@@ -20,17 +20,17 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | mozzarella, torn or sliced | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 125 | 397.5 | 27.0 | 3.1 | 1.26 | 0.00 | 30.8 | 19.45 | 888 | 0.0 |
 | grated parmesan | Cheese, parmesan, grated (FDC 171247) | 20 | 84.0 | 5.7 | 2.8 | 0.01 | 0.00 | 5.6 | 3.07 | 361 | 0.0 |
 | dried spaghetti | Pasta, dry, enriched (SR 20120) | 280 | 1038.8 | 36.5 | 209.1 | 7.48 | 0.00 | 4.2 | 0.78 | 17 | 9.0 |
-| salt for the pasta water (12 g in 1.5 litres, 0.8%) (about 1.3 g absorbed by the pasta) | Salt, table (SR 02047) | 1.3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 504 | 0.0 |
-| **Total** | | | 3658 | 244.7 | 349.9 | 48.77 | 4.34 | 141.9 | 39.83 | 5084 | 28.7 |
+| salt for the pasta water (7.5 g in 1.5 litres, 0.5%) (about 1.8 g: 280 g dried spaghetti takes up about 1.3x its weight in water) | Salt, table (SR 02047) | 1.8 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 698 | 0.0 |
+| **Total** | | | 3658 | 244.7 | 349.9 | 48.77 | 4.34 | 141.9 | 39.83 | 5278 | 28.7 |
 
-**Per serving (total / 4):** kcal 915, protein_g 61.2, carbs_g 87.5, sugar_g 12.2, free_sugar_g 1.1, fat_g 35.5, satfat_g 10.0, salt_g 3.18, fibre_g 7.2
+**Per serving (total / 4):** kcal 915, protein_g 61.2, carbs_g 87.5, sugar_g 12.2, free_sugar_g 1.1, fat_g 35.5, satfat_g 10.0, salt_g 3.3, fibre_g 7.2
 
 ## Checks
 - Protein per 100 kcal: 6.7 g -> High Protein (>=10): no
 - Fat energy: 35% (<=30%: fail)
 - Sat fat energy: 9.8% (<10%: pass)
 - Free sugar energy: 0.5% (<10%: pass)
-- Salt: 3.18 g/serving (modest = <= 1.7 g, about a third of WHO's 5 g/day: fail)
+- Salt: 3.3 g/serving (modest = <= 1.7 g, about a third of WHO's 5 g/day: fail)
 - WHO Healthy by these numbers: no
 
 ## Assumptions

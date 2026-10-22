@@ -31,7 +31,8 @@ Changes made:
 - Shallow-frying oil listed as 400 ml (about 1 cm deep); absorbed oil in the nutrition unchanged at 40 g
 - Salt given in grams (06-G1): 1 tbsp salt for the pasta water -> 18 g
 - Salt given in grams (06-G1): 2 tsp salt for the pasta water (12 g in 1.5 litres, 0.8%) -> 12 g
+- Salt given in grams (06-G1): 1.25 tsp salt for the pasta water (7.5 g in 1.5 litres, 0.5%) -> 7.5 g
 - Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).
 
 ## Salt re-check
-Re-checked 22 Oct: salt = sodium x 2.5 from the USDA rows in the nutrition note, no double counting (brine, rub and pasta-water salt are counted only for the share absorbed). Pasta water lowered from about 1.2 % to 0.8 % (12 g in 1.5 litres), as 04-P1 advises when the sauce and cheese are salty; absorbed salt 2 g -> 1.3 g. 3.35 -> 3.18 g for a full plate with spaghetti. Chicken salt is only 0.25 % of the meat.
+Re-checked 22 Oct: salt = sodium x 2.5 from the USDA rows in the nutrition note, no double counting (brine, rub and pasta-water salt are counted only for the share absorbed). Pasta water lowered from about 1.2 % to 0.5 % (7.5 g in 1.5 litres), the low end 04-P1 gives when the sauce and cheese are salty. Absorbed salt is now worked with the same model as every other pasta recipe on the site (dried pasta takes up about 1.3x its weight in water): 1.3 x 280 g x 0.5 % = 1.8 g for the pot. (A 22 Oct re-check found the earlier 1.3 g figure had used a lower uptake factor; corrected.) Result: 3.30 g per full plate with spaghetti (cheese, crumb and sauce carry the rest). Chicken salt is only 0.25 % of the meat.

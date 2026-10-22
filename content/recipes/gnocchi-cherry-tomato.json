@@ -1,0 +1,166 @@
+{
+  "slug": "gnocchi-cherry-tomato",
+  "title": "Potato Gnocchi with Fresh Cherry Tomato and Basil Sauce",
+  "category": "pasta-noodles",
+  "cuisine": "Italian (Campania)",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "gnocchi",
+  "dish_title": "Gnocchi",
+  "flavour": "Tomato",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "potato-gnocchi",
+  "changes_from_base": "Slow butter-tomato sauce replaced by a quick sauce of fresh cherry tomatoes, garlic, olive oil and plenty of basil.",
+  "summary": "This follows the same potato gnocchi method as our classic recipe, with the slow butter-tomato sauce swapped for a quick, fresh cherry tomato and basil sauce.",
+  "servings": 4,
+  "prep_min": 40,
+  "cook_min": 70,
+  "difficulty": "medium",
+  "equipment": [
+    "baking tray",
+    "potato ricer or food mill",
+    "bench scraper",
+    "fine sieve",
+    "2 baking trays dusted with flour or semolina",
+    "large pot (at least 5 litres)",
+    "slotted spoon or spider strainer",
+    "large frying pan (28 cm)"
+  ],
+  "ingredients": [
+    {
+      "group": "Gnocchi",
+      "qty": 1000,
+      "unit": "g",
+      "item": "floury potatoes (such as Maris Piper, King Edward or russet), scrubbed"
+    },
+    {
+      "group": "Gnocchi",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Gnocchi",
+      "qty": 140,
+      "unit": "g",
+      "item": "plain flour, plus extra for dusting",
+      "note": "you may need 10-20 g less or more"
+    },
+    {
+      "group": "Gnocchi",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Sauce",
+      "qty": 500,
+      "unit": "g",
+      "item": "cherry tomatoes, halved"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 15,
+      "unit": "g",
+      "item": "basil leaves"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 40,
+      "unit": "g",
+      "item": "fine salt for 4 litres of pasta water (1%)",
+      "note": "about 6.75 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "To serve",
+      "qty": 20,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Bake the potatoes",
+      "text": "Preheat the oven to 220°C (200°C fan) at least 20 minutes ahead, prick the potatoes and bake directly on the rack for 50-60 minutes, until a knife slides in with no resistance. As with the classic gnocchi, baking rather than boiling keeps the flesh dry, so less flour is needed."
+    },
+    {
+      "title": "Rice the potatoes",
+      "text": "While still hot, halve the potatoes and scoop the flesh through a ricer onto the worktop in a thin layer, letting it stand for 5 minutes to steam off a little moisture while still warm."
+    },
+    {
+      "title": "Bring the dough together",
+      "text": "Sprinkle over the salt and egg yolk, sieve over two-thirds of the flour and cut it in with a bench scraper, then gather and fold-press 4-5 times, adding the remaining flour only until it just holds together and feels barely tacky. Avoid kneading or smearing it, which would overwork the gluten and make the gnocchi rubbery."
+    },
+    {
+      "title": "Test and shape",
+      "text": "Boil a single piece to test it, folding in another 1-2 tablespoons of flour if it falls apart. Cut the dough into 6 pieces, roll each into a 2cm rope and cut into 2cm lengths, then roll each down a fork or gnocchi board for ridges and lay them on floured trays without touching."
+    },
+    {
+      "title": "Cook the garlic gently",
+      "text": "Warm the olive oil and sliced garlic in a frying pan over medium-low heat for 2-3 minutes, until the garlic turns pale gold. Starting it gently like this stops the garlic burning and turning bitter before the tomatoes go in."
+    },
+    {
+      "title": "Burst the tomatoes",
+      "text": "Raise the heat to medium-high, add the cherry tomatoes and salt, and cook for 8-10 minutes, pressing some of them with a spoon as you go. Many should burst into a chunky sauce while others keep their shape, since the short cooking time is what keeps the flavour fresh and bright rather than cooked-down. Tear in half of the basil at the end."
+    },
+    {
+      "title": "Cook until they float",
+      "text": "Bring 4 litres of water to a rolling boil with the 40g of salt and cook the gnocchi in 2 batches. They're ready when they float, after about 2 minutes, then give them 30 seconds more before lifting them straight into the sauce with a slotted spoon, keeping a mug of the cooking water."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Add the gnocchi to the sauce with 2-3 tablespoons of the cooking water and shake the pan gently for 1 minute to coat everything. Serve straight away with the remaining basil and Parmesan scattered over."
+    }
+  ],
+  "tips": [
+    "Bake the potatoes rather than boiling them, just as for the classic gnocchi — extra water in the potato means extra flour and heavier dumplings.",
+    "Don't let the tomato sauce cook too long; a quick 8-10 minutes keeps the fresh flavour that this version is all about.",
+    "Start the garlic in a cool pan and bring the heat up slowly, since burnt garlic will turn the whole sauce bitter.",
+    "Shake the pan rather than stirring once the gnocchi are in the sauce, as they're delicate and can break apart easily."
+  ],
+  "storage": "Shaped, uncooked gnocchi freeze well on a floured tray for up to 2 months and cook from frozen with an extra minute. Cooked gnocchi with sauce keep in the fridge for up to 2 days; reheat gently until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 448,
+    "protein_g": 12.0,
+    "carbs_g": 71.4,
+    "sugar_g": 5.2,
+    "free_sugar_g": 0.0,
+    "fat_g": 13.4,
+    "satfat_g": 2.8,
+    "salt_g": 2.02,
+    "fibre_g": 7.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gnocchi-basic--tomato.jpg",
+  "image_alt": "Potato gnocchi in a chunky cherry tomato sauce with basil leaves in a black bowl on dark slate."
+}

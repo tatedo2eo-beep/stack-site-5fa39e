@@ -1,0 +1,137 @@
+{
+  "slug": "spaghetti-al-pomodoro",
+  "title": "Spaghetti al Pomodoro with Butter-Onion Tomato Sauce",
+  "category": "pasta-noodles",
+  "cuisine": "Italian",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "long-dried-spaghetti-linguine-bucatini",
+  "dish_title": "Long dried (spaghetti, linguine, bucatini)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A simple butter-and-onion tomato sauce simmered low and slow, tossed through spaghetti for a classic, comforting plate.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 50,
+  "difficulty": "easy",
+  "equipment": [
+    "medium heavy saucepan or sauté pan (24 cm)",
+    "potato masher or wooden spoon",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 400,
+      "unit": "g",
+      "item": "tin whole plum tomatoes with their juice"
+    },
+    {
+      "group": "Sauce",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, peeled and halved",
+      "note": "lifted out at the end"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Pasta",
+      "qty": 360,
+      "unit": "g",
+      "item": "dried spaghetti"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 24,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.8%)",
+      "note": "about 4 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "To serve",
+      "qty": 8,
+      "unit": "pc",
+      "item": "basil leaves, torn"
+    },
+    {
+      "group": "To serve",
+      "qty": 30,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Combine the sauce base",
+      "text": "Tip the tomatoes and their juice into the pan with the butter, onion halves (cut side down) and salt, then set over medium heat until it reaches a gentle simmer. Keeping the onion in halves rather than chopping it lets it release sweetness slowly instead of breaking apart into the sauce. Watch for the first lazy bubbles before turning the heat down."
+    },
+    {
+      "title": "Simmer low and slow",
+      "text": "Drop the heat so the sauce ticks over at a lazy simmer, uncovered, for 45 minutes, stirring and crushing the tomatoes against the side of the pan every 10 minutes. You'll know it's ready when small droplets of melted butter float free on top and the sauce has thickened enough to coat the spoon. That separation is a sign the sharp acidity of the tomatoes has mellowed."
+    },
+    {
+      "title": "Lift out the onion",
+      "text": "Fish out the softened onion halves with a spoon and discard them, since their job of flavouring the sauce from the inside is done. The sauce should look glossy and deep red with no large watery pools left."
+    },
+    {
+      "title": "Boil and salt the water",
+      "text": "About 10 minutes before the sauce is due to finish, bring 3 litres of water to a rolling boil and stir in the 24g of salt. Add the spaghetti and stir well during the first minute, since this is when strands are most likely to clump before the water sets the surface starch. Cook for one minute less than the packet suggests, leaving it slightly firmer than you want for the final dish."
+    },
+    {
+      "title": "Reserve water and drain",
+      "text": "Scoop out 240ml of the starchy cooking water into a mug before draining the spaghetti in a colander. That cloudy water is full of starch and becomes the glue that pulls the sauce together in the next step."
+    },
+    {
+      "title": "Toss pasta into the sauce",
+      "text": "Tip the drained spaghetti into the sauce over medium-low heat with 60ml of the reserved pasta water, then toss for 1-2 minutes until every strand is coated and glossy. The starch in the water binds with the butter and tomato to form a sauce that clings rather than pools, and the pasta finishes cooking right in it. Splash in a little more water if the pan looks tight or dry."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Take the pan off the heat and scatter in the torn basil, stirring just enough to distribute it without wilting it completely. Serve straight away with the Parmesan at the table, since the cheese is best added fresh rather than melted into the hot pan."
+    }
+  ],
+  "tips": [
+    "Don't chop the onion — leaving it in halves flavours the sauce gently without turning the texture grainy.",
+    "Resist boiling the sauce hard; a lazy simmer keeps the butter and tomato emulsified instead of splitting.",
+    "Always reserve pasta water before draining — without it, the sauce won't loosen or cling to the spaghetti properly.",
+    "Taste before adding extra salt at the end, since the pasta water already carries plenty from cooking."
+  ],
+  "storage": "Keep leftovers covered in the fridge for up to 3 days, or freeze the sauce alone for up to 3 months. Reheat gently in a pan with a splash of water until piping hot all the way through. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 489,
+    "protein_g": 15.4,
+    "carbs_g": 71.3,
+    "sugar_g": 5.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 15.7,
+    "satfat_g": 9.2,
+    "salt_g": 2.35,
+    "fibre_g": 4.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "long-dried-spaghetti-linguine-bucatini-basic.jpg",
+  "image_alt": "Spaghetti in a glossy red tomato sauce topped with grated Parmesan and a sprig of basil in a black bowl on dark slate."
+}
