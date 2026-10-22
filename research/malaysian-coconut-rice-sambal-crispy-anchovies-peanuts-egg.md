@@ -1,0 +1,28 @@
+# Research: Malaysian Coconut Rice with Sambal, Crispy Anchovies, Peanuts and Egg
+Dish: Nasi lemak / flavour: Classic. Private file, not published.
+
+## Sources actually opened
+- [Nasi Lemak, Malaysian Coconut Rice (Serious Eats)](https://www.seriouseats.com/nasi-lemak-malaysian-coconut-rice-recipe-7197924) [Tier 1 (locked list): Serious Eats]: Jasmine rice rinsed until the water runs almost clear, cooked with coconut milk, water, pandan, ginger and salt until thick like rice pudding, then steamed about 45 min until the grains are separate; served with sambal, fried dried anchovies, hard-boiled eggs, fried peanuts and cucumber, optionally on banana leaf. _(curl 200; JSON-LD recipe (ingredients and steps) read)_
+- [Nasi Lemak (NYT Cooking)](https://cooking.nytimes.com/recipes/1026254-nasi-lemak) [Tier 2 (locked list): NYT Cooking]: Rice rinsed at least four times; coconut milk, lemongrass, pandan, bay, ginger, galangal, coriander, salt and water boiled, rice stirred in and simmered covered on low 16-20 min, rested 2-3 min, fluffed; peanuts fried in oil about 3 min until red turns brown, anchovies added 2-3 min until very crisp, drained and seasoned with sugar and salt; rice packed into a bowl and turned out as a dome with eggs, sambal oelek and cucumber. _(curl 200; JSON-LD recipe (ingredients and steps) read)_
+- [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
+- [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
+
+> Written for the rice chapter. Quantities are my own (salt, stock and soy set to keep each serving at about 3 g salt or less); the core method matches the locked-list sources listed above; nothing copied. Ham, mirin, fish sauce, kombu and seasoning granules in the sources are not used.
+
+## Own cooking judgment
+- Jasmine rice rinsed until the water runs almost clear (SE; NYT); cooked in coconut milk and water with pandan, ginger and salt (SE; NYT) and lemongrass (NYT); simmered covered on low 16-20 min, rested and fluffed (NYT); peanuts fried until red turns brown, then dried anchovies until very crisp, drained and sprinkled with sugar (NYT); served as a dome turned out of a bowl (NYT) with sambal, hard-boiled eggs and cucumber (SE; NYT). Rinsing the anchovies, no added salt on them, the 10 min egg boil and the reduced salt are my own.
+
+## Reliability checks
+- Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
+- Doneness cues in the method: 0 step(s) carry a temperature, and every cooking step has a visual cue.
+- Timing sanity check: prep 20 min + cook 30 min against the step times.
+- Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/malaysian-coconut-rice-sambal-crispy-anchovies-peanuts-egg-nutrition.md).
+- Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
+
+## Knowledge check
+Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C6 (frying temperatures); 06-G6 (frying safety).
+Changes made:
+- sugar: 0.5 tsp → 2.1 g (CHECKLIST 1, weights in grams)
+- Salt given in grams (06-G1): 0.5 tsp fine salt -> 3 g
+- Storage: added "refrigerate within 2 hours" line (06-G9)
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

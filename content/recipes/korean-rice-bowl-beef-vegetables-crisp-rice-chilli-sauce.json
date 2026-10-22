@@ -1,0 +1,307 @@
+{
+  "slug": "korean-rice-bowl-beef-vegetables-crisp-rice-chilli-sauce",
+  "title": "Korean Rice Bowl with Beef, Vegetables, Crisp Rice and Chilli Sauce",
+  "category": "rice-grains",
+  "cuisine": "Korean",
+  "chapter": "rice",
+  "book_chapter": "rice",
+  "dish": "bibimbap-dolsot",
+  "dish_title": "Bibimbap (dolsot)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A warming Korean rice bowl of seared beef, five separate vegetables and a fried egg, arranged over rice that's given a golden, crackling crust in a hot pan. A simple chilli, sesame and vinegar sauce is spooned over and everything is mixed together at the table.",
+  "servings": 4,
+  "prep_min": 40,
+  "cook_min": 45,
+  "difficulty": "hard",
+  "equipment": [
+    "sieve",
+    "medium saucepan with a tight lid",
+    "medium saucepan for blanching",
+    "colander",
+    "large frying pan",
+    "30 cm cast-iron or heavy frying pan",
+    "small non-stick frying pan with a lid",
+    "bowls",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Rice",
+      "qty": 400,
+      "unit": "g",
+      "item": "short-grain white rice"
+    },
+    {
+      "group": "Rice",
+      "qty": 530,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Beef",
+      "qty": 400,
+      "unit": "g",
+      "item": "beef sirloin steak (halal)"
+    },
+    {
+      "group": "Beef",
+      "qty": 100,
+      "unit": "g",
+      "item": "ripe pear, grated"
+    },
+    {
+      "group": "Beef",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Beef",
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh ginger, grated"
+    },
+    {
+      "group": "Beef",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Beef",
+      "qty": 12,
+      "unit": "g",
+      "item": "light brown sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Beef",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Chilli sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "Korean chilli flakes (gochugaru)"
+    },
+    {
+      "group": "Chilli sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Chilli sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "rice vinegar (check the label: no alcohol)"
+    },
+    {
+      "group": "Chilli sauce",
+      "qty": 8,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Chilli sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Chilli sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Chilli sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 300,
+      "unit": "g",
+      "item": "bean sprouts"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 150,
+      "unit": "g",
+      "item": "spinach"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 200,
+      "unit": "g",
+      "item": "shiitake mushrooms, stems removed, sliced"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium courgette, cut into matchsticks",
+      "note": "about 200 g"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large carrot, cut into matchsticks",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "toasted sesame seeds"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "To finish",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "pc",
+      "item": "spring onions, sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Slice and marinate the beef",
+      "text": "Freeze the steak for 20 minutes so it firms up enough to slice very thinly across the grain. Mix the grated pear, garlic, ginger, soy sauce, brown sugar, sesame oil and pepper in a bowl, stir in the beef and marinate in the fridge for 30 minutes, or up to 4 hours. The grated pear contains enzymes that gently soften the meat as it sits, so the thin slices stay juicy rather than toughening up when seared."
+    },
+    {
+      "title": "Cook the rice",
+      "text": "Rinse the rice until the water runs clear, then tip it into a saucepan with the 530ml water. Bring to the boil, cover with a tight lid and cook on low for 15 minutes, then leave covered off the heat for a further 10 minutes. Resting undisturbed lets the steam finish cooking the grains evenly all the way through."
+    },
+    {
+      "title": "Mix the chilli sauce",
+      "text": "Stir together the chilli flakes, sesame oil, rice vinegar, sugar, soy sauce, grated garlic and water in a small bowl until smooth. Set aside at room temperature; the flavours mellow together as the sugar dissolves into the oil. This is the sauce that ties every separate element of the bowl together at the table."
+    },
+    {
+      "title": "Blanch the sprouts and spinach",
+      "text": "Boil the bean sprouts in unsalted water for 3 minutes until just slightly translucent, then lift out and toss with half the vegetable garlic, 1 teaspoon of sesame oil and a pinch of salt. Add the spinach to the same water for 1 minute, then drain, cool under cold water and squeeze out the excess liquid before tossing with the remaining sesame oil, a pinch of salt and the sesame seeds. A brief blanch keeps both vegetables bright and crisp-tender rather than waterlogged."
+    },
+    {
+      "title": "Cook the mushrooms and vegetables",
+      "text": "Heat 1 tablespoon of oil in the large frying pan over medium-high heat and cook the shiitakes with a pinch of salt for 5-6 minutes until browned, then stir in the remaining garlic and soy sauce for 30 seconds and set aside. Add the remaining 1 tablespoon of oil and stir-fry the courgette for 2 minutes with a pinch of salt, then the carrot for 1-2 minutes, cooking each separately. Keeping them apart means every vegetable keeps its own colour and bite instead of blending into one mix."
+    },
+    {
+      "title": "Sear the beef",
+      "text": "Heat 1 tablespoon of oil in the large pan over high heat, lift the beef from the marinade and cook in two batches for 1-2 minutes per side until browned outside and cooked through to at least 63°C. Because the slices are so thin, they colour and cook through fast, so watch closely rather than walking away. Searing in batches keeps the pan hot enough to brown the beef instead of stewing it in its own juices."
+    },
+    {
+      "title": "Crisp the rice",
+      "text": "Brush the cast-iron or heavy pan with the 2 teaspoons of sesame oil and spread the hot cooked rice over the base in an even layer without pressing it down. Cook over medium-low heat for 8-10 minutes, undisturbed, until you can hear it crackle and a golden crust has formed underneath. Steady, gentle heat toasts the rice touching the metal while the layer on top stays soft and fluffy."
+    },
+    {
+      "title": "Fry the eggs",
+      "text": "Fry the eggs in the remaining oil in a small non-stick pan, covered, for 3-4 minutes until the whites and yolks are both fully set at 71°C. Covering the pan traps enough heat to set the tops of the yolks without flipping them. Fully set eggs mean the bowl is safe to eat as soon as it's mixed."
+    },
+    {
+      "title": "Assemble the bowl",
+      "text": "Arrange the beef and each vegetable in its own section over the crisp rice, place the eggs in the middle and scatter with spring onions. Bring the pan to the table so everyone sees the crust before it's broken up. Spoon over chilli sauce to taste, mix everything together, scraping up the crust from the base, then divide into bowls."
+    }
+  ],
+  "tips": [
+    "Slice the beef as thinly as you can manage; a common mistake is cutting it too thick, which leaves it chewy once seared over the high heat needed to brown it quickly.",
+    "Cook the vegetables in batches rather than all together so each one keeps its own texture instead of stewing in the others' liquid.",
+    "Leave the rice undisturbed while it crisps in the pan — stirring it stops the crust from forming properly on the base.",
+    "Add the sauce gradually at the table rather than all at once, so everyone can adjust the heat to their own taste.",
+    "Check the beef reaches at least 63°C and the eggs are fully set before serving, especially if any slices turned out thicker than planned."
+  ],
+  "storage": "Cool leftovers quickly, refrigerate within 1 hour and use within 24 hours. Reheat only once, until piping hot and 74°C throughout; the crisp rice softens on reheating, so it's best enjoyed warm rather than crunchy the next day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "sesame",
+    "soya",
+    "sulphites"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 920,
+    "protein_g": 42.8,
+    "carbs_g": 107.8,
+    "sugar_g": 15.7,
+    "free_sugar_g": 4.9,
+    "fat_g": 35.9,
+    "satfat_g": 6.1,
+    "salt_g": 2.72,
+    "fibre_g": 8.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bibimbap-dolsot-advanced.jpg",
+  "image_alt": "A hot rice bowl topped with sections of beef, spinach, bean sprouts, mushrooms, carrot and courgette around an egg in the centre.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

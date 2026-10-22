@@ -104,13 +104,17 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | hot-dry-noodles | Hot dry noodles | Classic | 1 | 3 |
 | hummingbird-cake | Hummingbird cake | Classic | 3 | 5 |
 | iced-coffee | Iced coffee | Classic | 2 | 3 |
+| indonesian-sweet-soy-fried-rice-chicken-prawns-fried-egg | Nasi goreng | Classic | 3 | 5 |
 | japanese-cotton-cheesecake | Japanese soufflé/cotton | Classic | 3 | 5 |
+| japanese-rice-triangles-flaked-salmon-nori | Onigiri | Classic | 3 | 5 |
 | japchae | Japchae | Classic | 3 | 5 |
 | jerk-chicken | Jerk | Classic | 2 | 4 |
 | juicy-lucy | Juicy Lucy (stuffed) | Classic | 2 | 5 |
 | kalguksu | Kalguksu | Classic | 1 | 3 |
 | kasespatzle | Käsespätzle | Classic | 3 | 5 |
 | kitchen-sink-cookies | Kitchen-sink cookie | Classic | 3 | 5 |
+| korean-rice-bowl-beef-vegetables-crisp-rice-chilli-sauce | Bibimbap (dolsot) | Classic | 2 | 4 |
+| korean-seaweed-rice-rolls-beef-egg-vegetables | Kimbap | Classic | 2 | 4 |
 | kung-pao-chicken | Kung Pao chicken | Classic | 3 | 5 |
 | langues-de-chat | Langues de chat | Classic | 2 | 4 |
 | lasagne-bolognese | Sheets/baked (lasagne) | Classic | 4 | 6 |
@@ -121,10 +125,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-pound-cake | Pound cake | Lemon | 3 | 5 |
 | lo-mein | Lo mein | Classic | 2 | 4 |
 | madeleines | Madeleines (cake-like) | Classic | 3 | 5 |
+| malaysian-coconut-rice-sambal-crispy-anchovies-peanuts-egg | Nasi lemak | Classic | 2 | 4 |
 | malloreddus-saffron-tomato | Malloreddus | Classic | 2 | 4 |
 | marble-pound-cake | Pound cake | Marble | 3 | 5 |
 | matcha-chiffon-cake | Chiffon | Matcha | 2 | 4 |
 | mee-goreng | Mee goreng | Classic | 2 | 4 |
+| mexican-red-rice-tomato-peas-carrots | Mexican rice (arroz rojo) | Classic | 3 | 5 |
 | millionaires-shortbread | Bars (magic bars, millionaire's shortbread) | Classic | 4 | 6 |
 | molten-chocolate-cakes | Molten chocolate | Classic | 3 | 5 |
 | musakhan | Musakhan | Classic | 3 | 6 |
@@ -155,6 +161,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pear-upside-down-cake | Upside-down | Pear | 2 | 4 |
 | peking-duck | Peking duck | Classic | 2 | 4 |
 | penne-arrabbiata | Short (penne, rigatoni, fusilli) | Classic | 3 | 5 |
+| persian-saffron-rice-golden-crust-barberries | Tahdig/Persian polo | Classic | 3 | 5 |
 | pesto-alla-trapanese | Pesto alla trapanese | Classic | 2 | 4 |
 | pineapple-upside-down-cake | Upside-down | Pineapple | 2 | 4 |
 | piri-piri-chicken | Piri-piri | Classic | 2 | 4 |
@@ -205,6 +212,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | vanilla-raspberry-mousse-cake | Entremets (mousse cake) | Classic | 2 | 4 |
 | vegetable-chow-mein | Chow mein/lo mein | Vegetable | 2 | 4 |
 | vegetable-lo-mein | Lo mein | Vegetable | 2 | 4 |
+| vine-leaves-stuffed-herbed-rice-lemon | Dolma/stuffed vine leaves | Classic | 2 | 4 |
+| west-african-tomato-pepper-rice-thyme-bay | Jollof | Classic | 3 | 5 |
 | yakisoba | Yakisoba | Classic | 2 | 4 |
 | yakitori | Yakitori | Classic | 2 | 4 |
 | yangnyeom-chicken | Yangnyeom chicken | Classic | 3 | 6 |
