@@ -1,0 +1,141 @@
+{
+  "slug": "horseradish-mashed-potatoes",
+  "title": "Horseradish Mashed Potatoes",
+  "category": "snacks-sides",
+  "cuisine": "British / Central European",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "mashed",
+  "dish_title": "Mashed",
+  "flavour": "Horseradish",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "classic-mashed-potatoes",
+  "changes_from_base": "Part of the butter and milk replaced by soured cream with prepared horseradish, folded in off the heat.",
+  "summary": "This follows the classic buttery mash method, but part of the butter and milk is swapped for soured cream stirred with prepared horseradish, folded in at the very end off the heat.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan (at least 4 litres)",
+    "colander",
+    "potato ricer or food mill (or a masher)",
+    "small saucepan",
+    "flexible spatula",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1500,
+      "unit": "g",
+      "item": "floury potatoes (such as Maris Piper, King Edward or russet)"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 10,
+      "unit": "g",
+      "item": "fine salt, for the cooking water"
+    },
+    {
+      "group": "Mash",
+      "qty": 80,
+      "unit": "g",
+      "item": "unsalted butter, diced, at room temperature"
+    },
+    {
+      "group": "Mash",
+      "qty": 250,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Mash",
+      "qty": 100,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Mash",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "prepared horseradish (or 30 g fresh horseradish, finely grated)",
+      "note": "check the jar is free of alcohol and sweeteners"
+    },
+    {
+      "group": "Mash",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Mash",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Peel, Cut and Simmer the Potatoes",
+      "text": "Start by peeling the potatoes, then chop them into 4-5 cm pieces and rinse them under running water until it turns clear, getting them ready for the horseradish mash. Cover with fresh cold water by 2 cm, add the 10 g salt, bring to the boil and simmer gently for 15-20 minutes, until a knife slides in with no resistance, since cooking from cold lets the chunks heat through evenly."
+    },
+    {
+      "title": "Drain and Press Through a Ricer",
+      "text": "Drain, rinse briefly under hot water to remove loose starch, then dry the potatoes over low heat for a minute before passing them through a ricer or food mill. A ricer keeps the mash light rather than gluey."
+    },
+    {
+      "title": "Fold in the Butter",
+      "text": "Fold in the 80 g butter and stir until fully absorbed. Coating the starch in fat first stops the milk that follows from making the mash gummy."
+    },
+    {
+      "title": "Fold in the Milk",
+      "text": "Heat the 250 ml milk until steaming and fold it in across two additions over low heat, until soft and creamy."
+    },
+    {
+      "title": "Stir Horseradish Into the Soured Cream",
+      "text": "Off the heat, stir the horseradish into the soured cream in the small bowl. Horseradish's heat comes from volatile compounds that fade quickly with cooking, which is why it's kept separate and added right at the end."
+    },
+    {
+      "title": "Fold Through and Season",
+      "text": "Fold the horseradish cream through the mash, tasting as you go and adding more horseradish a teaspoon at a time if you'd like extra heat. Season with salt and pepper and serve while still warm."
+    }
+  ],
+  "tips": [
+    "Common mistake: adding the horseradish too early or while the pot is still over heat — the sharpness cooks away fast, so stir it in off the heat right at the end.",
+    "Check the horseradish jar label, as some brands include alcohol or sweeteners that you'll want to avoid.",
+    "Taste before adding all the horseradish cream — strength varies a lot between jars and fresh roots.",
+    "Keep the mash itself slightly looser than usual, since the soured cream will thicken it further once folded in.",
+    "Fresh horseradish is noticeably hotter than most jarred versions, so start with less if using it."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days, as the soured cream shortens its keeping time slightly; reheat gently on the hob or in the microwave, stirring, until piping hot (74°C) throughout. Freezing isn't recommended, since soured cream can separate and turn grainy once thawed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 321,
+    "protein_g": 6.3,
+    "carbs_g": 40.7,
+    "sugar_g": 5.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 15.6,
+    "satfat_g": 9.4,
+    "salt_g": 0.9,
+    "fibre_g": 4.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "mashed-basic--horseradish.jpg",
+  "image_alt": "A black bowl of creamy mashed potatoes beside a fresh horseradish root on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

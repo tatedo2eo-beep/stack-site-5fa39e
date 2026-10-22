@@ -1,0 +1,119 @@
+{
+  "slug": "swiss-rosti",
+  "title": "Swiss Rösti (Golden Potato Cake)",
+  "category": "snacks-sides",
+  "cuisine": "Swiss",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "rosti",
+  "dish_title": "Rösti",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "The traditional Swiss rösti: potatoes boiled whole and chilled overnight, then grated and fried into one large crisp-shelled cake, flipped halfway through to crisp both sides.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 50,
+  "difficulty": "medium",
+  "equipment": [
+    "medium saucepan",
+    "box grater",
+    "large bowl",
+    "non-stick or cast-iron frying pan (25 cm)",
+    "flexible spatula",
+    "flat plate larger than the pan"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 900,
+      "unit": "g",
+      "item": "waxy or all-purpose potatoes (such as Charlotte or Yukon Gold), unpeeled"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 10,
+      "unit": "g",
+      "item": "fine salt, for the cooking water"
+    },
+    {
+      "group": "Rösti",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Rösti",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Rösti",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter or ghee, divided"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil the Potatoes Whole",
+      "text": "A day ahead, cover the whole unpeeled potatoes with cold water, add the salt, bring to a simmer and cook for 20-25 minutes, until a knife just pierces them but they're still firm. Try not to let the skins split, as that lets too much water in."
+    },
+    {
+      "title": "Chill Overnight",
+      "text": "Drain, cool, then refrigerate overnight, uncovered after the first hour. Chilling sets the starch inside, which is what lets the grated shreds hold their shape in the pan rather than turning gluey."
+    },
+    {
+      "title": "Peel and Grate",
+      "text": "Peel the cold potatoes and grate them on the large holes of the box grater. Season with the salt and pepper and mix gently with a fork, keeping the strands as intact as possible."
+    },
+    {
+      "title": "Shape the Cake",
+      "text": "Melt half the butter in the frying pan over medium-high heat until foaming, then add the grated potato, pressing it into an even 2-3 cm cake and tucking in the edges."
+    },
+    {
+      "title": "Cook the First Side",
+      "text": "Cook for 10-12 minutes, shaking the pan now and then, until the base is deep golden and crisp. The shaking helps the cake cook evenly without needing to lift and check it constantly."
+    },
+    {
+      "title": "Flip and Finish",
+      "text": "Slide the rösti onto the plate, invert the pan over it and flip it back in. Add the remaining butter around the edge and cook for a further 10 minutes until golden, then cut into wedges and serve."
+    }
+  ],
+  "tips": [
+    "Common mistake: grating warm or freshly boiled potatoes — without the overnight chill the starch hasn't set, so the shreds turn mushy and won't hold together in the pan.",
+    "Don't let the potatoes boil so long that the skins split; just-firm is exactly what you want before chilling.",
+    "Press the grated potato into a firm, even cake before cooking, as a loose pile won't hold together when flipped.",
+    "Shake the pan occasionally rather than lifting the rösti to check underneath, which can tear the forming crust.",
+    "Use a plate wider than the pan for flipping, so the whole cake lands safely without sliding off the edge."
+  ],
+  "storage": "Best eaten fresh; leftovers keep in the fridge for up to 2 days and reheat well in a hot dry pan, both sides, until piping hot (74°C) and crisp again. Freezing isn't recommended, as the texture turns watery and soft once thawed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 258,
+    "protein_g": 4.1,
+    "carbs_g": 34.2,
+    "sugar_g": 1.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 12.3,
+    "satfat_g": 7.8,
+    "salt_g": 1.24,
+    "fibre_g": 4.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "rosti-basic.jpg",
+  "image_alt": "A thick golden rösti with a wedge cut out to show the tender inside on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

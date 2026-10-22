@@ -1,0 +1,150 @@
+{
+  "slug": "roasted-garlic-mashed-potatoes",
+  "title": "Roasted Garlic Mashed Potatoes",
+  "category": "snacks-sides",
+  "cuisine": "British / American",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "mashed",
+  "dish_title": "Mashed",
+  "flavour": "Garlic",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "classic-mashed-potatoes",
+  "changes_from_base": "A whole head of slow-roasted garlic mashed into the butter; chives to finish; 10 g less butter.",
+  "summary": "This follows the classic buttery mash method, but with a whole roasted head of garlic mashed into slightly less butter and a scattering of chives to finish.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 60,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan (at least 4 litres)",
+    "colander",
+    "potato ricer or food mill (or a masher)",
+    "small saucepan",
+    "flexible spatula",
+    "foil",
+    "small baking dish"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1500,
+      "unit": "g",
+      "item": "floury potatoes (such as Maris Piper, King Edward or russet)"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 10,
+      "unit": "g",
+      "item": "fine salt, for the cooking water"
+    },
+    {
+      "group": "Garlic",
+      "qty": 1,
+      "unit": "pc",
+      "item": "whole head of garlic (about 60 g)"
+    },
+    {
+      "group": "Garlic",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Mash",
+      "qty": 90,
+      "unit": "g",
+      "item": "unsalted butter, diced, at room temperature"
+    },
+    {
+      "group": "Mash",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Mash",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Mash",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "snipped chives"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast the Garlic",
+      "text": "Preheat the oven to 200°C (180°C fan) at least 20 minutes ahead. Slice the top 5 mm off the garlic head, drizzle with the oil, wrap tightly in foil and roast for 45-60 minutes, until the cloves are deep golden and soft as jam. Slow roasting mellows garlic's sharp raw bite into something sweet and nutty, which is why it works folded into butter rather than used raw."
+    },
+    {
+      "title": "Cool and Mash the Cloves",
+      "text": "Let the garlic cool for 10 minutes, then squeeze the cloves out of their skins and mash to a smooth paste with a fork. Setting it aside now means it's ready to fold straight into the butter later."
+    },
+    {
+      "title": "Peel, Cut and Simmer the Potatoes",
+      "text": "Peel the potatoes and cut into 4-5 cm chunks, rinsing until the water runs clear. Cover with fresh cold water by 2 cm, add the 10 g salt, bring to the boil and simmer gently for 15-20 minutes, until a knife slides in with no resistance; starting from cold lets the chunks cook through evenly."
+    },
+    {
+      "title": "Drain and Press Through a Ricer",
+      "text": "Drain, rinse briefly under hot water to wash off loose starch, then dry the potatoes over low heat for a minute before passing them through a ricer or food mill back into the pot. A ricer keeps the texture light, unlike a blender, which turns the starch to glue."
+    },
+    {
+      "title": "Fold in the Garlic Butter",
+      "text": "Fold in the 90 g butter together with the roasted garlic paste until fully absorbed. Because the garlic has already lost its sharpness in the oven, it melts straight into the butter rather than needing any extra cooking."
+    },
+    {
+      "title": "Fold in the Milk",
+      "text": "Heat the milk until steaming and fold it through in three additions over low heat, until the mash is soft enough to slump from a spoon. Season with salt and pepper to taste."
+    },
+    {
+      "title": "Finish With Chives",
+      "text": "Scatter the snipped chives over the top and serve straight away. Their fresh, mild onion flavour cuts nicely through the richness of the roasted garlic butter."
+    }
+  ],
+  "tips": [
+    "Common mistake: using raw garlic instead of roasted — it will taste sharp and overpowering against the butter, so give it the full 45-60 minutes in the oven to mellow.",
+    "Wrap the garlic head tightly in foil so it steams as it roasts, rather than drying out before the cloves soften.",
+    "Mash the roasted garlic to a smooth paste before folding it in, so you don't end up with uneven pockets of flavour.",
+    "Add chives right at the end — cooking them dulls their fresh colour and bite.",
+    "If you want a stronger garlic flavour, roast a second head rather than adding raw garlic, which won't mellow in the finished mash."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days; reheat gently on the hob or in the microwave with a splash of milk, stirring until piping hot (74°C) throughout. It freezes well for up to 1 month — thaw fully and loosen with a little extra milk when reheating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 319,
+    "protein_g": 6.5,
+    "carbs_g": 42.0,
+    "sugar_g": 4.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 14.8,
+    "satfat_g": 8.8,
+    "salt_g": 1.06,
+    "fibre_g": 4.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "mashed-basic--garlic.jpg",
+  "image_alt": "A black bowl of creamy mashed potatoes topped with roasted garlic cloves and snipped chives on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

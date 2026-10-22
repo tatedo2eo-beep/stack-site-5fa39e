@@ -1,0 +1,147 @@
+{
+  "slug": "crispy-oven-potato-wedges",
+  "title": "Crispy Oven-Baked Potato Wedges",
+  "category": "snacks-sides",
+  "cuisine": "British / American",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "wedges",
+  "dish_title": "Wedges",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chunky, craggy-edged wedges with a crunchy crust and fluffy centre, parboiled in alkaline water before roasting to maximise the crisp factor.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "large rimmed baking tray",
+    "large pot",
+    "colander",
+    "large bowl",
+    "thin metal spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1100,
+      "unit": "g",
+      "item": "floury potatoes (such as Maris Piper or russet), scrubbed, skin on"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "water, for parboiling"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 25,
+      "unit": "g",
+      "item": "fine salt, for the parboiling water"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Roasting",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Roasting",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Roasting",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Roasting",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Roasting",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the Oven and Tray",
+      "text": "Preheat the oven to 230°C (210°C fan) at least 20 minutes ahead, with a rack in the lower third, and oil the tray evenly so it's properly hot before the wedges go on. A searing-hot, oiled tray crisps the cut surface the instant it makes contact, rather than letting it stew."
+    },
+    {
+      "title": "Cut the Potatoes Into Wedges",
+      "text": "Halve the potatoes lengthwise, then cut each half into 3-4 wedges around 3 cm thick. Aiming for roughly even sizes means every wedge finishes cooking at the same rate."
+    },
+    {
+      "title": "Parboil in Alkaline Water",
+      "text": "Bring the water to the boil with the salt and bicarbonate of soda, add the wedges and simmer for about 7 minutes, until barely tender with a knife meeting some resistance. The alkaline water roughens the potato surface at a microscopic level, which is exactly what lets the roasted crust grip and crunch rather than staying smooth."
+    },
+    {
+      "title": "Drain and Steam-Dry",
+      "text": "Drain the wedges gently and let them steam-dry for 2 minutes, taking care not to knock the softened edges about. Any lingering moisture here would steam in the oven instead of crisping."
+    },
+    {
+      "title": "Toss in the Seasoning",
+      "text": "In the bowl, toss the wedges with the paprika, garlic powder, salt and pepper until the fluffy roughened edges are evenly coated. This seasoned layer is what caramelises into the craggy golden crust once roasted."
+    },
+    {
+      "title": "Roast Cut-Side Down",
+      "text": "Arrange the wedges on the oiled tray, one cut side down, leaving space between them. Overcrowding traps steam and stops browning, so give them room; roast for 20 minutes until the underside is deep golden."
+    },
+    {
+      "title": "Flip and Finish Roasting",
+      "text": "Turn each wedge onto its other cut side and roast for a further 10-15 minutes, until crisp all over. Serve them hot and straight from the tray, while the crust is still audibly crunchy."
+    }
+  ],
+  "tips": [
+    "Common mistake: crowding the tray — wedges packed too close trap steam and come out soft rather than crisp, so spread them with gaps on a large tray.",
+    "Don't over-boil at the parboil stage; aim for barely tender so the wedges keep their shape through roasting.",
+    "Pat or steam-dry thoroughly before tossing in seasoning, as wet wedges won't crisp properly in the oven.",
+    "Cut the wedges to an even thickness so thin and thick pieces don't finish at different times.",
+    "A dark, heavy baking tray holds heat better than a thin shiny one and gives a crisper base."
+  ],
+  "storage": "Keep leftovers in the fridge for up to 3 days; reheat on a tray in a hot oven at around 200°C (180°C fan) or an air fryer at 200°C until piping hot (74°C) and crisp again, as microwaving will leave them soft. Cooked wedges also freeze well for up to 2 months — reheat from frozen in a hot oven until piping hot throughout. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 335,
+    "protein_g": 5.8,
+    "carbs_g": 48.9,
+    "sugar_g": 2.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 13.8,
+    "satfat_g": 1.1,
+    "salt_g": 1.55,
+    "fibre_g": 6.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "wedges-basic.jpg",
+  "image_alt": "Golden, crisp skin-on potato wedges piled on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

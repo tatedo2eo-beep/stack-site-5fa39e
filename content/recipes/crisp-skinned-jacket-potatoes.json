@@ -1,0 +1,124 @@
+{
+  "slug": "crisp-skinned-jacket-potatoes",
+  "title": "Crisp-Skinned Jacket Potatoes",
+  "category": "snacks-sides",
+  "cuisine": "British / American",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "baked-jacket",
+  "dish_title": "Baked/jacket",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Large baking potatoes baked until fluffy inside, then oiled and salted right at the end for a genuinely crisp skin, split open and loaded with butter, soured cream and chives.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 70,
+  "difficulty": "easy",
+  "equipment": [
+    "baking tray",
+    "fork",
+    "probe thermometer (optional)",
+    "clean tea towel"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large floury baking potatoes (about 300 g each), scrubbed"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    },
+    {
+      "group": "To serve",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "snipped chives"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the Oven",
+      "text": "Preheat to 230°C (210°C fan) at least 20 minutes ahead, so the potatoes go into a properly hot oven from the start. A hot oven from the first minute is what drives a long, even bake rather than a slow, soggy one."
+    },
+    {
+      "title": "Dry and Prick the Potatoes",
+      "text": "Dry the scrubbed potatoes thoroughly, then prick each one 4-5 times with a fork. These holes let the steam that builds up inside escape gradually instead of splitting the skin."
+    },
+    {
+      "title": "Bake Until Fluffy",
+      "text": "Bake directly on the oven rack, with a tray on the shelf below to catch any drips, for 50-60 minutes. A skewer should slide in with no resistance, or a probe thermometer should read 96-99°C at the centre, the point at which the starch inside has fully swollen into a fluffy texture."
+    },
+    {
+      "title": "Crisp the Skin",
+      "text": "Take the potatoes out, brush the skins with oil, sprinkle with the flaky salt and return to the oven for 10 minutes. Oiling now, rather than at the start, gives a genuinely crisp skin instead of a leathery one, since it hasn't had time to steam into the surface."
+    },
+    {
+      "title": "Open and Fill",
+      "text": "Holding each potato in a tea towel, cut a cross on top and squeeze the base gently to pop it open. Fill immediately with the butter, soured cream, chives and pepper, and serve right away, since leaving it to sit lets trapped steam soften the skin again."
+    }
+  ],
+  "tips": [
+    "Common mistake: wrapping the potatoes in foil to bake — this traps steam against the skin and leaves it soft rather than crisp, so bake them uncovered.",
+    "Dry the potatoes well before pricking and baking; damp skin steams instead of crisping in the oven.",
+    "Choose genuinely floury baking potatoes, as waxy varieties stay dense rather than turning fluffy inside.",
+    "Add the oil and salt only in the last 10 minutes, not before baking, for the crispest result.",
+    "Serve as soon as the potatoes are split open, since the filling and trapped heat soften the skin the longer it sits."
+  ],
+  "storage": "Unfilled baked potatoes keep in the fridge for up to 2 days; reheat in a hot oven at around 200°C (180°C fan) for 15-20 minutes until piping hot (74°C) right through to the centre. It's best not to freeze once filled with soured cream and butter, as the texture suffers on thawing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 361,
+    "protein_g": 6.9,
+    "carbs_g": 55.1,
+    "sugar_g": 2.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 13.8,
+    "satfat_g": 6.9,
+    "salt_g": 0.66,
+    "fibre_g": 4.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "baked-jacket-basic.jpg",
+  "image_alt": "Two crisp-skinned jacket potatoes split open with butter and soured cream on a black plate on dark slate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "classic-mashed-potatoes",
+  "title": "Classic Buttery Mashed Potatoes",
+  "category": "snacks-sides",
+  "cuisine": "British / French",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "mashed",
+  "dish_title": "Mashed",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Fluffy, genuinely smooth mashed potato made the classic way: simmered gently from cold water, pushed through a ricer rather than mashed, and finished with butter before milk.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan (at least 4 litres)",
+    "colander",
+    "potato ricer or food mill (or a masher)",
+    "small saucepan",
+    "flexible spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1500,
+      "unit": "g",
+      "item": "floury potatoes (such as Maris Piper, King Edward or russet)"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 10,
+      "unit": "g",
+      "item": "fine salt, for the cooking water"
+    },
+    {
+      "group": "Mash",
+      "qty": 100,
+      "unit": "g",
+      "item": "unsalted butter, diced, at room temperature"
+    },
+    {
+      "group": "Mash",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Mash",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Mash",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground white or black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Peel and Cut the Potatoes",
+      "text": "Peel the potatoes and cut them into 4-5 cm chunks, rinsing in cold water until it runs clear. This removes surface starch that would otherwise make the finished mash gluey."
+    },
+    {
+      "title": "Simmer Gently From Cold",
+      "text": "Cover with fresh cold water by 2 cm, add the 10 g salt, then bring to the boil and simmer gently for 15-20 minutes until a knife slides in with no resistance. Starting the chunks in cold water lets them heat through evenly, so the centre cooks at the same pace as the outside instead of turning mushy before the middle is done."
+    },
+    {
+      "title": "Drain and Dry Out",
+      "text": "Drain the potatoes and rinse briefly, for about 30 seconds, under hot water to wash off any loose starch clinging to the surface. Return them to the pot over low heat and shake for a minute to let the last moisture steam away, since wet potatoes dilute the finished mash."
+    },
+    {
+      "title": "Press Through a Ricer",
+      "text": "Pass the potatoes through a ricer or food mill back into the pot. A ricer keeps the starch cells mostly intact, whereas a blender or food processor bursts them open and turns the mash to paste."
+    },
+    {
+      "title": "Fold in the Butter First",
+      "text": "Fold in the butter and stir until fully absorbed, before any liquid goes in. Coating the starch in fat at this stage means the milk that follows can't work its way in and turn the mash gluey."
+    },
+    {
+      "title": "Warm and Fold in the Milk",
+      "text": "Heat the milk until steaming, then fold it in across three additions over low heat until the mash is soft enough to slump gently off a spoon. Season with salt and pepper and serve while still hot."
+    }
+  ],
+  "tips": [
+    "Common mistake: using a blender or food processor to finish the mash — it ruptures the starch cells and turns the texture gluey, so stick to a ricer, food mill or hand masher.",
+    "Don't skip rinsing the chunks before and after boiling; leftover starch is the main cause of gummy mash.",
+    "Add the butter before the milk, not the other way round, so the fat seals the starch first.",
+    "Warm the milk before adding it — cold milk cools the mash and can make it stiffen unevenly.",
+    "Floury potatoes such as Maris Piper or King Edward break down far more easily than waxy varieties."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days; reheat gently on the hob or in the microwave with a splash of extra milk, stirring often, until piping hot (74°C) throughout. It also freezes well for up to 1 month — thaw fully and reheat with a little extra milk and butter to loosen it back to a creamy texture. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 313,
+    "protein_g": 6.1,
+    "carbs_g": 39.5,
+    "sugar_g": 4.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 15.3,
+    "satfat_g": 9.5,
+    "salt_g": 1.06,
+    "fibre_g": 4.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "mashed-basic.jpg",
+  "image_alt": "A black bowl of smooth, creamy mashed potatoes with a swirl of melted butter on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

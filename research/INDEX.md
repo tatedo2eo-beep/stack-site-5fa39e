@@ -27,6 +27,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | boston-cream-pie | Boston cream pie | Classic | 2 | 4 |
 | brookies | Brookies | Classic | 2 | 4 |
 | brown-butter-chocolate-chip-cookies | Brown-butter chocolate chip cookie | Classic | 2 | 4 |
+| brown-butter-mashed-potatoes | Mashed | Brown butter | 2 | 4 |
 | brown-sugar-shortbread | Shortbread | Brown sugar | 1 | 5 |
 | buffalo-chicken-burger | Chicken burger | Buffalo | 3 | 8 |
 | buffalo-chicken-wings | Chicken wings | Buffalo | 4 | 6 |
@@ -73,15 +74,21 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-almond-biscotti | Biscotti | Classic | 3 | 5 |
 | classic-butter-shortbread | Shortbread | Classic | 2 | 6 |
 | classic-cheeseburger | Cheeseburger | Classic | 4 | 7 |
+| classic-mashed-potatoes | Mashed | Classic | 2 | 4 |
 | classic-patty-melt | Patty melt | Classic | 2 | 6 |
 | classic-smash-burger | Smash burger | Cheese | 3 | 7 |
 | cold-somen | Somen | Classic | 3 | 5 |
 | coronation-chicken | Coronation chicken | Classic | 2 | 5 |
 | creamy-cashew-yoghurt-chicken-curry-cardamom | Korma | Chicken | 3 | 5 |
 | crisp-battered-white-fish-tacos-red-cabbage-lime-crema | Taco | Fish | 3 | 5 |
+| crisp-skinned-jacket-potatoes | Baked/jacket | Classic | 2 | 4 |
 | crispy-baked-chicken-wings | Chicken wings | Classic | 3 | 5 |
 | crispy-chicken-sandwich | Chicken burger | Classic | 3 | 6 |
+| crispy-oven-potato-wedges | Wedges | Classic | 3 | 5 |
+| crispy-roast-potatoes | Roast potatoes | Classic | 3 | 5 |
+| crispy-shredded-hash-browns | Hash browns | Classic | 3 | 5 |
 | cut-out-sugar-cookies | Sugar/cut-out | Classic | 2 | 4 |
+| double-fried-french-fries | French fries (double-fried) | Classic | 3 | 5 |
 | everyday-chicken-curry | Chicken curry | Classic | 3 | 6 |
 | falafel-wrap | Falafel pita | Classic | 2 | 4 |
 | fesenjan | Fesenjan | Classic | 2 | 4 |
@@ -104,6 +111,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | hainanese-chicken-rice | Hainanese chicken rice | Classic | 3 | 5 |
 | haluski | Haluski | Classic | 2 | 4 |
 | high-heat-roast-chicken | High-heat roast chicken | Classic | 3 | 5 |
+| horseradish-mashed-potatoes | Mashed | Horseradish | 3 | 5 |
 | hot-dry-noodles | Hot dry noodles | Classic | 1 | 3 |
 | hummingbird-cake | Hummingbird cake | Classic | 3 | 5 |
 | iced-coffee | Iced coffee | Classic | 2 | 3 |
@@ -147,6 +155,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | northern-thai-coconut-curry-noodle-soup-chicken | Khao soi | Chicken | 3 | 5 |
 | ohn-no-khao-swe | Ohn no khao swè | Classic | 2 | 4 |
 | oklahoma-onion-burger | Oklahoma onion burger | Classic | 3 | 7 |
+| onion-rosti | Rösti | Onion | 3 | 5 |
 | orecchiette-broccoli | Hand-rolled shapes (orecchiette, pici, trofie, cavatelli) | Classic | 3 | 5 |
 | pad-see-ew | Pad see ew | Classic | 3 | 5 |
 | pad-thai-tofu | Pad thai | Tofu | 3 | 5 |
@@ -183,6 +192,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | red-velvet-cake | Red velvet | Classic | 2 | 4 |
 | ricotta-ravioli | Filled (ravioli, tortellini, agnolotti) | Classic | 4 | 6 |
 | roast-chicken | Whole roast chicken | Classic | 3 | 6 |
+| roasted-garlic-mashed-potatoes | Mashed | Garlic | 3 | 5 |
+| rosemary-garlic-roast-potatoes | Roast potatoes | Rosemary-garlic | 3 | 5 |
 | rugelach | Rugelach | Classic | 2 | 4 |
 | sables-diamants | Diamant | Classic | 2 | 4 |
 | sachertorte | Sachertorte | Classic | 2 | 4 |
@@ -208,6 +219,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spinach-ricotta-lasagne | Sheets/baked (lasagne) | Spinach and ricotta | 3 | 5 |
 | stovetop-mac-and-cheese | Mac and cheese | Stovetop | 3 | 5 |
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
+| swiss-rosti | Rösti | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
 | thai-coconut-beef-curry-potatoes-peanuts-tamarind | Massaman | Beef | 2 | 4 |
 | thai-green-coconut-curry-chicken-aubergine-basil | Green curry | Chicken | 3 | 5 |

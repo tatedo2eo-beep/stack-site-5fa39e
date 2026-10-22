@@ -1,0 +1,119 @@
+{
+  "slug": "crispy-shredded-hash-browns",
+  "title": "Crispy Shredded Hash Browns",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "hash-browns",
+  "dish_title": "Hash browns",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Lacy, crisp shredded hash browns fried as one big cake, with the shreds wrung thoroughly dry first so they turn deep golden instead of soggy.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "box grater",
+    "large bowl",
+    "clean tea towel",
+    "large non-stick or well-seasoned cast-iron frying pan (28-30 cm)",
+    "wide thin spatula",
+    "large plate"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 700,
+      "unit": "g",
+      "item": "floury potatoes (such as russet or Maris Piper), peeled"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Frying",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Frying",
+      "qty": 20,
+      "unit": "g",
+      "item": "unsalted butter"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Grate and Rinse the Potatoes",
+      "text": "Grate the potatoes on the large holes of a box grater into a bowl of cold water, swishing and draining, then repeating until the water is nearly clear. This washes off surface starch, which is what keeps the shreds separate and lacy rather than clumping into a gluey mass."
+    },
+    {
+      "title": "Wring Out the Shreds",
+      "text": "Pile the shreds onto the tea towel, roll it up and wring hard until no more liquid comes out. Dry shreds are what brown properly in the pan, while wet ones mostly steam, so toss the dried shreds with the salt and pepper once wrung out."
+    },
+    {
+      "title": "Heat the Pan",
+      "text": "Heat 2 tablespoons of the oil and the butter in the frying pan over medium-high heat until the butter foams, which signals the pan is hot enough for the shreds to start crisping on contact."
+    },
+    {
+      "title": "Press Into a Thin Layer",
+      "text": "Add the shreds to the pan, spreading them into an even layer about 1 cm thick, and press lightly. A thin, even layer cooks through to crisp before the centre has a chance to turn soft."
+    },
+    {
+      "title": "Cook the First Side",
+      "text": "Cook without moving the pan for 6-8 minutes, until the underside is deep golden and crisp. Leaving it undisturbed lets a solid crust form, since stirring at this stage would simply break it apart."
+    },
+    {
+      "title": "Flip and Finish",
+      "text": "Slide the hash brown onto the plate, invert the pan over it and flip back in, or flip in sections if that's easier. Add the remaining oil at the edge of the pan and cook for 5-6 minutes more until crisp, then cut into wedges and serve."
+    }
+  ],
+  "tips": [
+    "Common mistake: skipping the wringing step — leftover moisture in the shreds steams in the pan and stops them ever turning properly crisp, so squeeze them firmly dry first.",
+    "Rinse the grated potato until the water runs close to clear; leftover starch makes the shreds stick together instead of staying lacy.",
+    "Resist moving the hash brown while the first side cooks, since disturbing it breaks the crust before it's set.",
+    "Use a wide spatula and work quickly when flipping, or flip it in sections if a full flip feels risky.",
+    "A well-seasoned cast-iron or good non-stick pan makes a real difference here, as the shreds can otherwise catch and tear."
+  ],
+  "storage": "Best eaten freshly cooked; leftovers keep in the fridge for up to 2 days and reheat well in a hot dry pan or oven until piping hot (74°C) and crisp again, as a microwave leaves them soft. Cooked hash browns also freeze for up to 1 month — reheat from frozen in a hot pan or oven until piping hot throughout. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 237,
+    "protein_g": 3.6,
+    "carbs_g": 30.7,
+    "sugar_g": 1.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 11.7,
+    "satfat_g": 3.2,
+    "salt_g": 1.12,
+    "fibre_g": 3.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "hash-browns-basic.jpg",
+  "image_alt": "A round, lacy, golden shredded hash brown on a black plate on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "onion-rosti",
+  "title": "Onion Rösti",
+  "category": "snacks-sides",
+  "cuisine": "Swiss",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "rosti",
+  "dish_title": "Rösti",
+  "flavour": "Onion",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "swiss-rosti",
+  "changes_from_base": "Made with raw grated potato and thinly sliced onion squeezed dry together, cooked over gentler heat; no overnight chilling.",
+  "summary": "This follows the classic rösti method, but uses raw grated potato mixed with thinly sliced onion squeezed dry together, cooked over gentler heat with no overnight chilling needed.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "box grater",
+    "large bowl",
+    "clean tea towel",
+    "non-stick or cast-iron frying pan (25-28 cm)",
+    "flexible spatula",
+    "flat plate larger than the pan"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 800,
+      "unit": "g",
+      "item": "floury or all-purpose potatoes (such as russet or Yukon Gold), peeled"
+    },
+    {
+      "group": "Rösti",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, very thinly sliced",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Rösti",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Rösti",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Frying",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Frying",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter or ghee"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "snipped chives"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Grate the Potato and Onion",
+      "text": "Grate the potatoes on the large holes of a box grater, rinse once in cold water and drain. Add the sliced onion, then wring the mixture hard in the tea towel until dry, since onion releases plenty of its own water and needs squeezing out together with the potato; toss with the salt and pepper once wrung dry."
+    },
+    {
+      "title": "Heat the Pan",
+      "text": "Heat the oil and half the butter in the frying pan over medium heat until foaming, ready for the raw mixture to go straight in."
+    },
+    {
+      "title": "Shape the Cake",
+      "text": "Add the potato and onion mixture to the pan, spreading it into an even layer about 1.5-2 cm thick and pressing lightly to help it hold together."
+    },
+    {
+      "title": "Cook Gently",
+      "text": "Cook for 10-12 minutes over medium heat, which is gentler than the boiled-potato version, since the raw shreds need more time to cook through before the outside burns. Look for a deep golden base with the onion at the edges turning caramelised."
+    },
+    {
+      "title": "Flip and Finish",
+      "text": "Slide the rösti onto the plate, invert the pan over it and flip back in. Add the remaining butter around the edge and cook for a further 8-10 minutes, until golden and tender right through to the centre when pierced."
+    },
+    {
+      "title": "Finish With Chives",
+      "text": "Scatter over the snipped chives, cut into wedges and serve while still hot and crisp."
+    }
+  ],
+  "tips": [
+    "Common mistake: cooking over high heat because it's raw potato — this burns the outside before the inside cooks through, so keep the heat at medium and give it the full time.",
+    "Squeeze the potato and onion together, not separately, as the onion needs wringing out just as much as the potato does.",
+    "Check the centre is tender with a knife before the final flip is finished cooking; raw potato needs longer than the boiled version to cook all the way through.",
+    "Slice the onion thinly and evenly so it caramelises at the edges rather than staying raw in patches.",
+    "Add chives only at the end, off the heat, to keep their colour and bite."
+  ],
+  "storage": "Best eaten fresh; leftovers keep in the fridge for up to 2 days and reheat well in a hot dry pan, both sides, until piping hot (74°C) and crisp again. Freezing isn't recommended, as the onion and potato release moisture on thawing and the texture turns soft. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 286,
+    "protein_g": 4.6,
+    "carbs_g": 38.6,
+    "sugar_g": 3.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 13.3,
+    "satfat_g": 5.6,
+    "salt_g": 1.13,
+    "fibre_g": 4.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "rosti-basic--onion.jpg",
+  "image_alt": "A round, golden onion rösti with crisp shredded edges on a black plate on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

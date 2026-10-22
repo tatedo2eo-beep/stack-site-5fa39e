@@ -1,0 +1,130 @@
+{
+  "slug": "crispy-roast-potatoes",
+  "title": "Crispy Roast Potatoes",
+  "category": "snacks-sides",
+  "cuisine": "British",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "roast-potatoes",
+  "dish_title": "Roast potatoes",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "The classic Sunday roast potato: parboiled in alkaline water, roughed up in the colander, then roasted in hot oil until deeply golden and glassy-crisp.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 60,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy roasting tin",
+    "large pot",
+    "colander",
+    "fine sieve"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1500,
+      "unit": "g",
+      "item": "floury potatoes (such as Maris Piper, King Edward or russet), peeled"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "water, for parboiling"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 25,
+      "unit": "g",
+      "item": "fine salt, for the parboiling water"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Roasting",
+      "qty": 5,
+      "unit": "tbsp",
+      "item": "olive oil or ghee"
+    },
+    {
+      "group": "To finish",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the Oven and Oil",
+      "text": "Preheat the oven to 230°C (210°C fan) at least 20 minutes ahead, with the oil already in the roasting tin. By the time the potatoes go in, the oil needs to be properly hot, which is what gives that instant sizzle and crust."
+    },
+    {
+      "title": "Cut the Potatoes",
+      "text": "Cut the peeled potatoes into roughly even 5 cm chunks, so they all finish cooking at the same rate."
+    },
+    {
+      "title": "Parboil in Alkaline Water",
+      "text": "Bring the water to the boil with the salt and bicarbonate of soda, add the potatoes, return to a simmer and cook for about 10 minutes, until a knife meets only a little resistance at the edges. The alkaline water breaks down the pectin on the surface, which is the first step towards a proper crust."
+    },
+    {
+      "title": "Rough Up the Surface",
+      "text": "Drain the potatoes and leave them in the colander for a minute, then shake hard until the surfaces turn to a starchy, mashed-looking paste. This roughed-up coating is exactly what crisps into the familiar crunchy shell once roasted."
+    },
+    {
+      "title": "Roast in Hot Oil",
+      "text": "Carefully tip the potatoes into the hot oil, which should sizzle on contact, then turn to coat them and spread out in the tin. Roast for 20 minutes undisturbed to let a base crust form."
+    },
+    {
+      "title": "Turn and Finish Roasting",
+      "text": "Turn the potatoes and roast for a further 20-30 minutes, turning once more, until deep golden and glassy-crisp all over. Season with the salt and pepper and serve straight from the tin."
+    }
+  ],
+  "tips": [
+    "Common mistake: skipping the bicarbonate of soda in the parboiling water — without it the surfaces stay smooth and the crust never forms properly, so don't leave it out.",
+    "Shake the drained potatoes hard enough to really rough up the edges; a gentle shake isn't enough to create the crust-friendly texture.",
+    "Tip the potatoes into oil that's already hot, not warm, so you hear a genuine sizzle as they go in.",
+    "Give the potatoes space in the tin rather than crowding them, or they'll steam instead of crisp.",
+    "Turn them only once or twice during roasting — too much turning stops a solid crust forming on any one side."
+  ],
+  "storage": "Keep leftovers in the fridge for up to 3 days; reheat on a tray in a hot oven at around 200°C (180°C fan) until piping hot (74°C) and crisp again, since a microwave will leave them soft. Cooked roast potatoes also freeze well for up to 2 months — reheat from frozen in a hot oven until piping hot throughout. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 281,
+    "protein_g": 5.1,
+    "carbs_g": 43.8,
+    "sugar_g": 2.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 10.2,
+    "satfat_g": 1.4,
+    "salt_g": 0.96,
+    "fibre_g": 5.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "roast-potatoes-basic.jpg",
+  "image_alt": "A black bowl of deep golden, crunchy roast potatoes on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

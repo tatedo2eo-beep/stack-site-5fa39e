@@ -1,0 +1,119 @@
+{
+  "slug": "double-fried-french-fries",
+  "title": "Double-Fried French Fries",
+  "category": "snacks-sides",
+  "cuisine": "Belgian / French",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "french-fries-double-fried",
+  "dish_title": "French fries (double-fried)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "These are proper Belgian-style double-fried chips: blanched in vinegar water, dried, then fried twice for a shatteringly crisp crust around a soft, fluffy centre.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "large heavy pot or Dutch oven (at least 5 litres) or a deep fryer",
+    "deep-frying or probe thermometer",
+    "spider strainer or slotted spoon",
+    "2 rimmed baking trays, one lined with kitchen paper, one with a wire rack",
+    "large bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1000,
+      "unit": "g",
+      "item": "floury potatoes (such as Maris Piper, King Edward or russet)"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "distilled white vinegar"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 20,
+      "unit": "g",
+      "item": "fine salt, for the blanching water"
+    },
+    {
+      "group": "To finish",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt, to finish",
+      "note": "about 1 tsp; to taste"
+    },
+    {
+      "group": "Frying",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cut and Rinse the Potatoes",
+      "text": "Peel the potatoes and cut them into even 7-8 mm batons, dropping each batch into a bowl of cold water as you go. Rinse repeatedly until the water runs clear rather than cloudy. Washing off the surface starch this way stops the fries sticking together and browning in blotchy patches later on."
+    },
+    {
+      "title": "Blanch Until Just Tender",
+      "text": "Put the batons into a pot with 2 litres cold water, the vinegar and 20 g salt, then bring to the boil and simmer for 8-10 minutes until just tender but still holding their shape. A knife should slide in easily without the edges breaking up. The vinegar firms the pectin on the outside so the fries don't collapse, while the salt seasons them right through."
+    },
+    {
+      "title": "Drain and Steam-Dry",
+      "text": "Drain well and spread the fries out on the paper-lined tray, leaving them for 5 minutes. During this short rest, the last of the surface moisture escapes as steam. A properly dry surface is what lets the first fry crisp instead of spitting and turning soggy."
+    },
+    {
+      "title": "First Fry to Set the Crust",
+      "text": "Heat the oil to 200°C and fry the potatoes in three batches, about 1 minute each; the temperature will dip to around 180°C as they go in, which is expected. Once a faint pale skin has formed, lift them onto the rack and leave to cool for at least 30 minutes, or freeze overnight for the crispest result. This cooling stage sets the outer crust and dries it further, setting up the crunch for round two."
+    },
+    {
+      "title": "Second Fry Until Deep Gold",
+      "text": "Reheat the oil to 200°C and fry the potatoes again in batches for 3-4 minutes, until deep golden and audibly crisp. Drain on fresh paper, toss with the remaining salt and serve at once, while the crust is at its sharpest. Hot oil shouldn't be left unattended, so keep a lid close by throughout."
+    }
+  ],
+  "tips": [
+    "Common mistake: skipping the rinse after cutting — leftover surface starch makes the fries clump and brown unevenly, so rinse until the water is properly clear.",
+    "Don't rush the cooling between fries; a warm, un-set crust will soften straight back down in the second fry instead of crisping further.",
+    "Keep a thermometer in the oil rather than guessing — too cool and the fries turn greasy, too hot and the outside burns before the inside cooks.",
+    "Fry in small batches so the oil doesn't drop too far below temperature, which leaves fries pale and limp.",
+    "Floury potatoes give the fluffiest interior; waxy varieties won't break down the same way inside the crust.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best eaten freshly fried, but leftovers keep in the fridge for up to 2 days; reheat in a very hot oven at around 200°C (180°C fan) or an air fryer at 200°C until piping hot (74°C) and crisp again, as a microwave will leave them soft. Freezing cooked fries isn't recommended since the crust loses its crunch — instead freeze the par-fried batons after the first fry, as suggested in the method. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 318,
+    "protein_g": 4.4,
+    "carbs_g": 37.2,
+    "sugar_g": 1.7,
+    "free_sugar_g": 0.0,
+    "fat_g": 17.7,
+    "satfat_g": 1.3,
+    "salt_g": 1.73,
+    "fibre_g": 4.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "french-fries-double-fried-basic.jpg",
+  "image_alt": "A pile of golden double-fried French fries on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

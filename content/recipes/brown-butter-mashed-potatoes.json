@@ -1,0 +1,140 @@
+{
+  "slug": "brown-butter-mashed-potatoes",
+  "title": "Brown Butter Mashed Potatoes",
+  "category": "snacks-sides",
+  "cuisine": "French / American",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "mashed",
+  "dish_title": "Mashed",
+  "flavour": "Brown butter",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "classic-mashed-potatoes",
+  "changes_from_base": "Butter browned to a nutty colour before folding in; milk infused with thyme and garlic; a pool of brown butter on top.",
+  "summary": "This follows the classic buttery mash method, but the butter is browned to a nutty colour first, the milk is infused with thyme and garlic, and a pool of brown butter finishes the bowl.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan (at least 4 litres)",
+    "colander",
+    "potato ricer or food mill (or a masher)",
+    "small saucepan",
+    "flexible spatula",
+    "light-coloured small saucepan",
+    "heatproof jug"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1500,
+      "unit": "g",
+      "item": "floury potatoes (such as Maris Piper, King Edward or russet)"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 10,
+      "unit": "g",
+      "item": "fine salt, for the cooking water"
+    },
+    {
+      "group": "Brown butter",
+      "qty": 120,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Mash",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Mash",
+      "qty": 3,
+      "unit": "pc",
+      "item": "thyme sprigs"
+    },
+    {
+      "group": "Mash",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, lightly crushed"
+    },
+    {
+      "group": "Mash",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Mash",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown the Butter",
+      "text": "Melt the butter in the light-coloured pan over medium heat, swirling as it foams. The foam will settle and the milk solids turn hazelnut brown with a nutty smell after 5-7 minutes; a pale pan lets you watch the colour change clearly, and since the solids go from brown to burnt within seconds, pour the butter into the jug immediately, scraping in all the browned bits."
+    },
+    {
+      "title": "Infuse the Milk",
+      "text": "Warm the milk with the thyme sprigs and crushed garlic over low heat for 10 minutes to let the flavours infuse, then strain out the solids. This gentle warming draws out aroma without boiling the milk, which could otherwise make it taste flat."
+    },
+    {
+      "title": "Peel, Cut and Simmer the Potatoes",
+      "text": "Peel the potatoes and cut into 4-5 cm chunks, rinsing until clear. Cover with fresh cold water by 2 cm, add the 10 g salt, bring to the boil and simmer gently for 15-20 minutes, until a knife slides in with no resistance."
+    },
+    {
+      "title": "Drain and Press Through a Ricer",
+      "text": "Drain, rinse briefly under hot water to remove loose starch, dry over low heat for a minute, then pass through a ricer or food mill back into the pot. This keeps the texture light rather than pasty."
+    },
+    {
+      "title": "Fold in the Brown Butter and Milk",
+      "text": "Fold in all but 2 tablespoons of the brown butter until absorbed, then fold in the warm infused milk across three additions over low heat. Season with salt and pepper to taste."
+    },
+    {
+      "title": "Finish With a Pool of Brown Butter",
+      "text": "Spoon the mash into a serving bowl, make a small well in the centre and pour in the reserved brown butter. Serving it this way means the nutty aroma hits you before the first spoonful."
+    }
+  ],
+  "tips": [
+    "Common mistake: walking away while browning butter — the milk solids can burn in seconds once they turn golden, so stay at the pan and pour it out the moment it smells nutty.",
+    "Use a light-coloured pan so you can actually see the butter change colour rather than guessing by smell alone.",
+    "Strain the thyme and garlic out of the milk before adding it, or you'll end up with woody bits through the mash.",
+    "Keep back a couple of spoonfuls of brown butter to pool on top — it's what makes the dish look and taste finished.",
+    "Don't rush the milk infusion; 10 minutes on low heat draws out far more flavour than a quick boil."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days; reheat gently on the hob or in the microwave with a splash of milk, stirring until piping hot (74°C). It freezes for up to 1 month, though the finishing pool of brown butter is best added fresh after reheating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 339,
+    "protein_g": 6.2,
+    "carbs_g": 39.9,
+    "sugar_g": 4.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 18.1,
+    "satfat_g": 11.3,
+    "salt_g": 1.06,
+    "fibre_g": 4.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "mashed-basic--brown-butter.jpg",
+  "image_alt": "A black bowl of mashed potatoes with a pool of nut-brown butter in the centre on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}
