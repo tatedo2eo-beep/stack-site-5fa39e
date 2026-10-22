@@ -1,0 +1,123 @@
+{
+  "slug": "egg-fried-rice-spring-onions",
+  "title": "Egg Fried Rice with Spring Onions",
+  "category": "rice-grains",
+  "cuisine": "Chinese",
+  "chapter": "rice",
+  "book_chapter": "rice",
+  "dish": "fried-rice",
+  "dish_title": "Fried rice",
+  "flavour": "Egg",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A quick, classic Chinese-style fried rice where day-old grains are tossed with fluffy egg and spring onion over high heat until every grain is separate and piping hot.",
+  "servings": 2,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "large nonstick frying pan (28-30 cm) or carbon-steel wok",
+    "wok spatula or wide spatula",
+    "small bowl",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Fried rice",
+      "qty": 500,
+      "unit": "g",
+      "item": "cold cooked long-grain or jasmine rice (from about 200 g raw rice, cooked the day before)"
+    },
+    {
+      "group": "Fried rice",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Fried rice",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Fried rice",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Fried rice",
+      "qty": 3,
+      "unit": "pc",
+      "item": "spring onions, whites and greens sliced separately"
+    },
+    {
+      "group": "Fried rice",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "soy sauce (alcohol-free)"
+    },
+    {
+      "group": "Fried rice",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground white pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Break Up the Rice",
+      "text": "Crumble the cold cooked rice between your fingers so no clumps remain, then beat the eggs with the salt until no streaks of white are visible. Using rice that was cooked and chilled the day before matters here, since the grains have dried out slightly and will fry rather than steam."
+    },
+    {
+      "title": "Scramble the Egg",
+      "text": "Heat the pan or wok over high heat until very hot, add 1 tablespoon of oil and swirl to coat, then pour in the beaten egg. Cook for 30-60 seconds, stirring now and then, until puffy, lightly golden underneath, and fully set with no liquid egg left (71°C). Push the egg to one side of the pan, or tip it onto a plate if the pan feels crowded."
+    },
+    {
+      "title": "Fry the Rice",
+      "text": "Add another tablespoon of oil along with the spring onion whites, stir for 15 seconds, then tip in the rice. Stir-fry for 3-5 minutes, pressing and tossing constantly, until the grains separate and start to jump in the pan, breaking the egg into small pieces as you go. The high, dry heat drives off surface moisture so the rice crisps slightly instead of turning soft and sticky."
+    },
+    {
+      "title": "Season and Serve",
+      "text": "Drizzle the last tablespoon of oil around the edge of the pan, add the soy sauce to the same spot so it sizzles, then toss everything together until evenly coloured. Stir in the white pepper and spring onion greens, toss for 30 seconds, and check the centre of the rice with the probe thermometer — it should read 74°C. Serve immediately, while the rice is at its hottest and the spring onion still has some bite."
+    }
+  ],
+  "tips": [
+    "Use rice that's been cooked and chilled for at least a few hours (ideally overnight) — warm, freshly cooked rice is too wet and turns gluey in the pan.",
+    "Get the pan properly hot before the oil goes in; a pan that isn't hot enough steams the rice instead of frying it, so it never develops a lightly crisp edge.",
+    "Break up clumps of cold rice with your fingers before it goes anywhere near the heat, so every grain fries separately.",
+    "Keep tossing constantly once the rice is in the pan so it heats evenly and doesn't catch on the bottom.",
+    "Check the centre of the rice with a thermometer rather than guessing by eye; it should reach 74°C before you serve it."
+  ],
+  "storage": "Cool freshly fried rice quickly by spreading it on a tray, refrigerate within 1 hour and use within 24 hours. Reheat only once, until piping hot throughout (74°C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 662,
+    "protein_g": 17.4,
+    "carbs_g": 82.6,
+    "sugar_g": 0.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 28.1,
+    "satfat_g": 4.0,
+    "salt_g": 1.77,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "fried-rice-basic--egg.jpg",
+  "image_alt": "A dark bowl of golden egg fried rice with soft pieces of scrambled egg and sliced spring onion greens.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

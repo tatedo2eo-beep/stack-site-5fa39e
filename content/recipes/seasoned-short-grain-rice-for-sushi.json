@@ -1,0 +1,123 @@
+{
+  "slug": "seasoned-short-grain-rice-for-sushi",
+  "title": "Seasoned Short-Grain Rice for Sushi",
+  "category": "rice-grains",
+  "cuisine": "Japanese",
+  "chapter": "rice",
+  "book_chapter": "rice",
+  "dish": "sushi-rice",
+  "dish_title": "Sushi rice",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Glossy, lightly sweet-and-sour short-grain rice, seasoned and fanned by hand so the grains stay tender and separate enough to shape or roll.",
+  "servings": 4,
+  "prep_min": 40,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "fine sieve",
+    "medium heavy saucepan with a tight lid",
+    "small saucepan or microwave-safe jug",
+    "wide shallow bowl or tray (wood, glass or plastic, not metal)",
+    "rice paddle or flexible spatula",
+    "clean damp tea towel",
+    "fan or a piece of card"
+  ],
+  "ingredients": [
+    {
+      "group": "Rice",
+      "qty": 300,
+      "unit": "g",
+      "item": "Japanese short-grain (sushi) rice"
+    },
+    {
+      "group": "Rice",
+      "qty": 360,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Sushi vinegar",
+      "qty": 60,
+      "unit": "ml",
+      "item": "plain rice vinegar (unseasoned, alcohol-free)"
+    },
+    {
+      "group": "Sushi vinegar",
+      "qty": 20,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sushi vinegar",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Rinse Until Clear",
+      "text": "Put the rice in the bowl, cover with cold water and swish gently with your fingers until the water turns cloudy, then drain through the sieve. Repeat this four to five times until the water runs almost clear. Washing away this much surface starch stops the cooked rice turning gummy instead of pleasantly sticky."
+    },
+    {
+      "title": "Soak the Grains",
+      "text": "Tip the drained rice into the saucepan with the 360 ml of cold water and leave it to soak for 30 minutes. This gives the grains time to absorb water evenly all the way through, so they cook at the same rate rather than ending up chalky in the centre."
+    },
+    {
+      "title": "Cook Without Peeking",
+      "text": "Bring the pan to the boil over medium-high heat, then cover, turn the heat down to its lowest setting and cook for 12 minutes without lifting the lid. Take the pan off the heat and leave it covered for a further 15 minutes to finish steaming. Keeping the lid shut the whole time traps steam evenly, which is what turns the grains tender rather than crunchy or wet."
+    },
+    {
+      "title": "Warm the Vinegar",
+      "text": "While the rice cooks, warm the rice vinegar, sugar and salt together in the small saucepan over low heat, or for 20-30 seconds in the microwave, stirring until the sugar and salt fully dissolve. Don't let it boil, or the vinegar's sharpness will cook off and flatten the flavour."
+    },
+    {
+      "title": "Season and Fan",
+      "text": "Tip the hot rice into the wide bowl and pour the vinegar mixture over it, spreading it across the surface with the back of the spatula. Fold and cut through the rice with the paddle in slicing motions, fanning it at the same time, for 5-10 minutes until it looks glossy and has cooled to just above body temperature. Cutting rather than stirring keeps the grains whole, while fanning drives off steam so the surface turns glossy instead of wet."
+    },
+    {
+      "title": "Hold and Store",
+      "text": "Cover the rice with the damp tea towel and use it within 2 hours while it's at room temperature. To keep it longer, cool it and refrigerate within 2 hours, then use within 24 hours — it firms up slightly, which actually suits fried rice well. Never leave the seasoned rice out for longer than 2 hours."
+    }
+  ],
+  "tips": [
+    "Don't rush the rinsing — stopping before the water runs clear leaves the rice gummy once cooked.",
+    "Never let the vinegar mixture boil; it just needs to be warm enough to dissolve the sugar and salt.",
+    "Cut and fold the rice with slicing motions rather than stirring, or you'll crush the grains into a paste.",
+    "Keep track of time once the rice is seasoned — it's only safe to leave it at room temperature for 2 hours.",
+    "Fan the rice as you season it; skipping this leaves the grains wet and dull instead of glossy."
+  ],
+  "storage": "Use the seasoned rice within 2 hours at room temperature for serving cold. To keep it longer, cool it and refrigerate within 2 hours, then use within 24 hours — it firms up and is best used for fried rice at that point, reheated until piping hot (74°C) throughout.",
+  "allergens": [
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 296,
+    "protein_g": 5.3,
+    "carbs_g": 65.0,
+    "sugar_g": 5.1,
+    "free_sugar_g": 5.0,
+    "fat_g": 0.5,
+    "satfat_g": 0.1,
+    "salt_g": 1.46,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sushi-rice-basic.jpg",
+  "image_alt": "A dark bowl heaped with glossy white seasoned short-grain sushi rice.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

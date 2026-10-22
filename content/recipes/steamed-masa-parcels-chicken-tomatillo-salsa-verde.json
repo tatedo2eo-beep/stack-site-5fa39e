@@ -1,0 +1,237 @@
+{
+  "slug": "steamed-masa-parcels-chicken-tomatillo-salsa-verde",
+  "title": "Steamed Masa Parcels with Chicken and Tomatillo Salsa Verde",
+  "category": "chicken",
+  "cuisine": "Mexican",
+  "chapter": "mexican-latin-american",
+  "book_chapter": "mexican-latin-american",
+  "dish": "tamal",
+  "dish_title": "Tamal",
+  "flavour": "Chicken in salsa verde",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "steamed-masa-parcels-red-chilli-chicken",
+  "changes_from_base": "Same masa, filling and steaming method, with the chicken folded through a charred tomatillo, chilli and coriander salsa verde instead of the red chilli sauce.",
+  "summary": "These follow the same classic masa and steaming method as our red chilli tamales, but the shredded chicken is folded through a bright, tangy salsa of charred tomatillos, chillies and coriander instead.",
+  "servings": 6,
+  "prep_min": 60,
+  "cook_min": 120,
+  "difficulty": "hard",
+  "equipment": [
+    "large saucepan with a lid",
+    "large heatproof bowl (for soaking husks)",
+    "blender",
+    "instant-read thermometer",
+    "stand mixer with paddle or electric hand mixer and large bowl",
+    "small bowl of cold water (float test)",
+    "large steamer pot with a basket (or a stockpot with a rack)",
+    "clean tea towel",
+    "tongs",
+    "foil-lined baking tray",
+    "frying pan"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 600,
+      "unit": "g",
+      "item": "boneless, skinless chicken thighs (halal)"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1250,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.25,
+      "unit": "pc",
+      "item": "onion, in 1 piece"
+    },
+    {
+      "group": "Chicken",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Salsa verde",
+      "qty": 450,
+      "unit": "g",
+      "item": "tomatillos, husked and rinsed"
+    },
+    {
+      "group": "Salsa verde",
+      "qty": 2,
+      "unit": "pc",
+      "item": "jalapeños or serrano chillies, stemmed"
+    },
+    {
+      "group": "Salsa verde",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, unpeeled"
+    },
+    {
+      "group": "Salsa verde",
+      "qty": 0.25,
+      "unit": "pc",
+      "item": "onion, in 2 wedges"
+    },
+    {
+      "group": "Salsa verde",
+      "qty": 20,
+      "unit": "g",
+      "item": "coriander leaves and stems"
+    },
+    {
+      "group": "Salsa verde",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Salsa verde",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Wrappers",
+      "qty": 16,
+      "unit": "pc",
+      "item": "large dried corn husks, plus a few extra for lining"
+    },
+    {
+      "group": "Masa dough",
+      "qty": 170,
+      "unit": "g",
+      "item": "vegetable shortening (check the label: 100% plant-based, no animal fat), softened"
+    },
+    {
+      "group": "Masa dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Masa dough",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Masa dough",
+      "qty": 360,
+      "unit": "g",
+      "item": "masa harina for tamales"
+    },
+    {
+      "group": "Masa dough",
+      "qty": 475,
+      "unit": "ml",
+      "item": "warm chicken cooking liquid from the filling (or low-sodium chicken stock), plus more if needed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Poach the chicken",
+      "text": "Combine the chicken thighs with the water, onion, garlic and bay leaf in a large saucepan, then heat gently over medium until the surface barely trembles. Partially cover and cook for 25-30 minutes, until an instant-read thermometer in the thickest piece reads 74°C. Gentle heat here keeps the thighs moist rather than tightening them into tough strands."
+    },
+    {
+      "title": "Shred and strain the broth",
+      "text": "Lift the chicken out with tongs, cool slightly, then pull it into shreds with two forks. Strain the cooking liquid and set it aside - you need about 725ml in total for the masa. This broth carries most of the flavour through to the finished dish, so keep every drop."
+    },
+    {
+      "title": "Soak the corn husks",
+      "text": "Cover the dried husks with very hot water in a large heatproof bowl and weigh them down with a plate so they stay submerged. Leave for 30 minutes until soft and pliable, then drain and pat dry. Soaking makes the husk flexible enough to fold around the filling without splitting."
+    },
+    {
+      "title": "Char the tomatillos",
+      "text": "Heat the grill (broiler) to high and spread the tomatillos, chillies, garlic and onion over a foil-lined tray. Grill for 8-10 minutes, turning once, until the skins are blistered and the vegetables have softened and slumped. Charring under fierce heat browns the natural sugars and burns off the tomatillos' raw sourness, building a deeper flavour than simmering would."
+    },
+    {
+      "title": "Blend the salsa verde",
+      "text": "Peel the blackened skins from the garlic, then blend it with the grilled tomatillos, chillies and onion along with the coriander until fairly smooth. The charred vegetables bring plenty of their own moisture, so the sauce comes together without needing extra liquid."
+    },
+    {
+      "title": "Fry the salsa and add chicken",
+      "text": "Heat the oil in a frying pan over medium-high heat and tip in the salsa verde - it will splutter as it meets the hot pan, so keep your face back and pour it in carefully. Fry for 5-6 minutes, stirring, until it thickens slightly and the colour deepens. Stir in 1/4 teaspoon salt and the shredded chicken, then leave to cool; the brief fry tames the salsa's sharp edge."
+    },
+    {
+      "title": "Beat the shortening light",
+      "text": "Beat the vegetable shortening with the baking powder and 3/4 teaspoon salt in the stand mixer on medium-high for about 2 minutes, until it turns light and fluffy. This whips air into the fat, which is what keeps the finished masa light rather than heavy. Check the label to be sure the shortening is 100% plant-based, with no animal fat."
+    },
+    {
+      "title": "Work in the masa harina",
+      "text": "With the mixer on low, add the masa harina in three batches, alternating with the 475ml warm reserved cooking liquid. Turn to medium speed and beat for 3-5 minutes until the dough is soft, fluffy and roughly the texture of thick hummus, loosening with a splash more liquid if it's stiff. This longer beating hydrates the masa fully and keeps the texture light rather than pasty."
+    },
+    {
+      "title": "Run the float test",
+      "text": "Test it by dropping a 1/2 teaspoon ball of dough into a glass of cold water. A ball that floats means the dough is aerated enough to use; if it sinks, beat for 2 more minutes and test again. Skipping this step is how tamales end up dense instead of light."
+    },
+    {
+      "title": "Spread masa and fill",
+      "text": "Lay a husk smooth-side up with the wide end towards you and spread about 50g masa into a 10cm square over the wide half, leaving a 2cm border. Lay about 1 1/2 tablespoons of filling in a line along the middle. Fold in the long sides to enclose the filling, then fold up the narrow end to seal; repeat to make 12-16 parcels."
+    },
+    {
+      "title": "Pack the steamer",
+      "text": "Pour 5cm of water into the steamer pot, below the basket, and line the basket with spare husks. Stand the tamales upright, open end up, packed snugly so they hold one another closed. A tight stack stops the parcels tipping over and unwrapping as the masa softens."
+    },
+    {
+      "title": "Steam until set",
+      "text": "Cover with more husks, then the damp tea towel, then the lid, and steam over medium heat for 75-90 minutes. Top the water up with boiling water through the cook so the pot never boils dry, since scorching the base can taint the whole batch. Moist, steady heat is what sets the masa while keeping it tender."
+    },
+    {
+      "title": "Check for doneness",
+      "text": "Lift out one tamal, rest it for 5 minutes, then unwrap. It's ready when the masa is firm and peels cleanly from the husk and a thermometer in the centre reads 74°C; if it clings, steam the rest 10-15 minutes more. The short rest lets the masa finish setting outside the heat."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Take the pot off the heat and let the tamales rest for 15 minutes before serving, still wrapped. Unwrap at the table, but leave the husk on the plate rather than eating it - it's only ever a wrapper. Resting lets the filling settle so each parcel holds together when opened."
+    }
+  ],
+  "tips": [
+    "Check the shortening label - you want a 100% plant-based one, with no animal fat, for a properly light masa.",
+    "A common mistake is grilling the tomatillos only until warm; leave them until the skins are properly blistered and blackened in spots for the best flavour.",
+    "If the dough sinks in the float test, keep beating - a few extra minutes makes the difference between light and dense tamales.",
+    "Stand the tamales upright and pack them snugly in the steamer so they don't tip over and unwrap.",
+    "Keep a kettle of boiling water ready to top up the steamer, since letting it boil dry can scorch the husks and spoil the batch."
+  ],
+  "storage": "Once cooled, refrigerate within 1 hour and eat within 3 days, or freeze for up to 3 months. Reheat by steaming for 15-20 minutes (25-30 minutes from frozen) until the centre is piping hot at 74°C. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "celery"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 649,
+    "protein_g": 26.4,
+    "carbs_g": 53.2,
+    "sugar_g": 4.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 37.9,
+    "satfat_g": 8.8,
+    "salt_g": 2.16,
+    "fibre_g": 5.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tamal-basic--chicken-in-salsa-verde.jpg",
+  "image_alt": "Tamales tied in corn husks on a dark plate, one unwrapped to show soft masa filled with chicken in green tomatillo salsa.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

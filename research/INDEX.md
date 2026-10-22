@@ -44,6 +44,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | buttered-spaetzle | Spätzle | Classic | 3 | 5 |
 | buttermilk-fried-chicken | Fried chicken (Southern) | Buttermilk-brined | 4 | 6 |
 | butternut-squash-ravioli | Filled (ravioli, tortellini, agnolotti) | Butternut squash | 4 | 6 |
+| buttery-rice-pilaf-toasted-vermicelli-herbs | Steamed/pilaf | Classic | 3 | 5 |
 | cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
 | carrot-cake | Carrot | Classic | 2 | 4 |
 | celeriac-remoulade-mustard-parsley | Celeriac rémoulade | Classic | 3 | 5 |
@@ -123,6 +124,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | diner-style-home-fries | Home fries | Classic | 2 | 4 |
 | double-fried-french-fries | French fries (double-fried) | Classic | 3 | 5 |
 | duchess-potatoes | Duchesse | Classic | 2 | 4 |
+| egg-fried-rice-spring-onions | Fried rice | Egg | 3 | 5 |
 | ensaladilla-rusa-tuna-peppers | Ensaladilla rusa | Classic | 2 | 4 |
 | ethiopian-berbere-beef-tibs | Tibs | Classic | 2 | 4 |
 | everyday-chicken-curry | Chicken curry | Classic | 3 | 6 |
@@ -154,6 +156,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | graham-crackers | Graham crackers | Classic | 3 | 5 |
 | gratin-dauphinois | Gratin dauphinois | Classic | 2 | 4 |
 | greek-mint-oregano-meatballs | Meatballs | Greek (mint-oregano) | 2 | 4 |
+| green-chilli-tomatillo-chicken-hominy-soup | Pozole verde | Classic | 2 | 4 |
 | green-pesto-pasta-salad-cherry-tomatoes | Pasta salad | Pesto | 2 | 4 |
 | green-tomatillo-chicken-enchiladas-charred-chilli-sauce | Enchilada | Green (verdes) | 3 | 5 |
 | grilled-beef-kebabs-peppers | Kebabs/skewers | Classic | 3 | 5 |
@@ -269,6 +272,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | potatoes-sarladaises | Potatoes sarladaises | Classic | 2 | 4 |
 | pound-cake | Pound cake | Classic | 2 | 4 |
 | poutine-fries-curds-gravy | Poutine | Classic | 3 | 5 |
+| prawn-fried-rice-egg-peas-sweetcorn | Fried rice | Shrimp | 3 | 5 |
 | pumpkin-whoopie-pies | Whoopie pie | Pumpkin | 2 | 4 |
 | rainbow-fruit-salad-lime-mint | Fruit salad | Classic | 3 | 5 |
 | raspberry-thumbprint-cookies | Thumbprints | Raspberry | 3 | 5 |
@@ -287,6 +291,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | samgyetang | Samgyetang | Classic | 2 | 4 |
 | seared-mushroom-tacos-chipotle-onion-coriander | Taco | Mushroom | 3 | 5 |
 | seared-scallops-garlic-thyme-butter-lemon | Seared scallops | Classic | 4 | 6 |
+| seasoned-short-grain-rice-for-sushi | Sushi rice | Classic | 3 | 5 |
 | shakshuka | Shakshuka | Classic | 2 | 4 |
 | signature-fudgy-brownies | Brownie (fudgy or cakey) | Classic | 2 | 4 |
 | signature-smash-burger | Smash burger | Classic | 3 | 8 |
@@ -309,6 +314,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spicy-chicken-burger | Chicken burger | Spicy (cayenne/hot sauce) | 2 | 8 |
 | spinach-ricotta-cannelloni | Cannelloni | Classic | 2 | 4 |
 | spinach-ricotta-lasagne | Sheets/baked (lasagne) | Spinach and ricotta | 3 | 5 |
+| steamed-masa-parcels-chicken-tomatillo-salsa-verde | Tamal | Chicken in salsa verde | 2 | 4 |
+| steamed-masa-parcels-red-chilli-chicken | Tamal | Classic | 2 | 4 |
 | steamed-whole-sea-bass-ginger-spring-onions-sizzling-oil | Cantonese steamed whole fish | Classic | 3 | 5 |
 | stovetop-mac-and-cheese | Mac and cheese | Stovetop | 3 | 5 |
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
@@ -337,6 +344,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | vanilla-cupcakes | Cupcakes | Classic | 2 | 4 |
 | vanilla-raspberry-mousse-cake | Entremets (mousse cake) | Classic | 2 | 4 |
 | vegetable-chow-mein | Chow mein/lo mein | Vegetable | 2 | 4 |
+| vegetable-fried-rice-red-pepper-peas-sweetcorn | Fried rice | Vegetable | 3 | 5 |
 | vegetable-lo-mein | Lo mein | Vegetable | 2 | 4 |
 | vietnamese-shaking-beef | Bò lúc lắc | Classic | 2 | 4 |
 | village-greek-salad-feta-slab | Greek | Classic | 3 | 5 |

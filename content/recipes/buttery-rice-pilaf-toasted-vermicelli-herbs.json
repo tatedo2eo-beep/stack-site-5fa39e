@@ -1,0 +1,137 @@
+{
+  "slug": "buttery-rice-pilaf-toasted-vermicelli-herbs",
+  "title": "Buttery Rice Pilaf with Toasted Vermicelli and Herbs",
+  "category": "rice-grains",
+  "cuisine": "Middle Eastern",
+  "chapter": "rice",
+  "book_chapter": "rice",
+  "dish": "steamed-pilaf",
+  "dish_title": "Steamed/pilaf",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A classic buttery pilaf where broken vermicelli is toasted until golden before the rice goes in, giving every spoonful a nutty crunch alongside fresh herbs.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "sieve",
+    "medium heavy saucepan (about 2.5 litres) with a tight lid",
+    "clean tea towel",
+    "fork"
+  ],
+  "ingredients": [
+    {
+      "group": "Pilaf",
+      "qty": 300,
+      "unit": "g",
+      "item": "basmati or other long-grain white rice"
+    },
+    {
+      "group": "Pilaf",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Pilaf",
+      "qty": 40,
+      "unit": "g",
+      "item": "vermicelli or fine spaghetti, broken into 2 cm pieces"
+    },
+    {
+      "group": "Pilaf",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small onion, finely chopped",
+      "note": "about 100 g"
+    },
+    {
+      "group": "Pilaf",
+      "qty": 570,
+      "unit": "ml",
+      "item": "chicken stock (halal) or vegetable stock, low-salt, hot"
+    },
+    {
+      "group": "Pilaf",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pilaf",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 10,
+      "unit": "g",
+      "item": "flat-leaf parsley and/or dill, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Rinse the Rice",
+      "text": "Tip the rice into the sieve and rinse under cold running water, rubbing the grains gently between your fingers, until the water runs almost clear, about 1 minute. Leave it to drain for 10 minutes. This washes away loose surface starch that would otherwise make the cooked grains clump together."
+    },
+    {
+      "title": "Toast the Vermicelli",
+      "text": "Melt the butter in the saucepan over medium heat, then add the vermicelli pieces and stir for 3-4 minutes until evenly golden brown. Watch closely towards the end, since the pale strands can turn from golden to burnt within seconds. The toasting builds a nutty, savoury flavour that runs through the whole pilaf."
+    },
+    {
+      "title": "Soften Onion, Coat Rice",
+      "text": "Stir in the chopped onion and cook for 3-4 minutes until soft but not coloured, then add the drained rice. Stir for 2 minutes more, until every grain is glossy with butter and the edges look slightly translucent. Coating the rice in fat this way helps the grains stay separate once the liquid is added."
+    },
+    {
+      "title": "Simmer Until Absorbed",
+      "text": "Pour in the hot stock, add the salt and pepper, stir once, and bring everything to a full rolling boil. Cover tightly, drop the heat to its lowest setting and cook for 15 minutes without lifting the lid, until the surface is dotted with small steam holes and the liquid has disappeared. Keeping the lid shut traps steam evenly around the grains so they cook through without turning mushy."
+    },
+    {
+      "title": "Rest Under a Towel",
+      "text": "Remove the pan from the heat, lift the lid, and lay the folded tea towel over the rice before replacing the lid. Leave it for 10 minutes undisturbed. The towel soaks up condensation that would otherwise drip back in, so the grains finish drying and firm up nicely."
+    },
+    {
+      "title": "Fluff and Finish",
+      "text": "Fluff the rice gently with the fork, folding through half the chopped herbs as you go. Scatter the remaining herbs over the top just before serving. A fork rather than a spoon keeps the grains whole instead of crushing them into a paste."
+    }
+  ],
+  "tips": [
+    "Rinsing the rice is the step people most often skip, but missing it leaves extra starch on the grains and the pilaf turns clumpy instead of light and separate.",
+    "Keep the lid on for the entire 15-minute simmer — lifting it to check lets steam escape and can leave patches of rice undercooked.",
+    "Use hot stock rather than cold so the pan comes back to the boil quickly and the grains start cooking evenly from the start.",
+    "Don't skip the towel-lined rest at the end; it soaks up condensation that would otherwise make the bottom layer of rice soggy.",
+    "Watch the vermicelli closely once it starts to colour — it goes from golden to burnt within seconds."
+  ],
+  "storage": "Cool the cooked pilaf quickly by spreading it out on a tray, then refrigerate within 1 hour and use within 24 hours. Reheat only once, until piping hot all the way through (74°C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "celery"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 384,
+    "protein_g": 8.0,
+    "carbs_g": 70.7,
+    "sugar_g": 2.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 7.1,
+    "satfat_g": 4.0,
+    "salt_g": 1.7,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "steamed-pilaf-basic.jpg",
+  "image_alt": "A dark bowl of fluffy long-grain rice pilaf flecked with golden toasted vermicelli and chopped green herbs.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

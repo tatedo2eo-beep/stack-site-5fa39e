@@ -1,0 +1,236 @@
+{
+  "slug": "steamed-masa-parcels-red-chilli-chicken",
+  "title": "Steamed Masa Parcels with Red Chilli Chicken",
+  "category": "chicken",
+  "cuisine": "Mexican",
+  "chapter": "mexican-latin-american",
+  "book_chapter": "mexican-latin-american",
+  "dish": "tamal",
+  "dish_title": "Tamal",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Soft, fluffy masa parcels steamed in corn husks and filled with shredded chicken in a deep red chilli sauce - a proper weekend project that rewards the wait.",
+  "servings": 6,
+  "prep_min": 60,
+  "cook_min": 120,
+  "difficulty": "hard",
+  "equipment": [
+    "large saucepan with a lid",
+    "large heatproof bowl (for soaking husks)",
+    "blender",
+    "instant-read thermometer",
+    "stand mixer with paddle or electric hand mixer and large bowl",
+    "small bowl of cold water (float test)",
+    "large steamer pot with a basket (or a stockpot with a rack)",
+    "clean tea towel",
+    "tongs",
+    "frying pan"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 600,
+      "unit": "g",
+      "item": "boneless, skinless chicken thighs (halal)"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1250,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.25,
+      "unit": "pc",
+      "item": "onion, in 1 piece"
+    },
+    {
+      "group": "Chicken",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Red chilli sauce",
+      "qty": 4,
+      "unit": "pc",
+      "item": "dried mild red chillies (such as guajillo), stemmed and seeded"
+    },
+    {
+      "group": "Red chilli sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Red chilli sauce",
+      "qty": 0.25,
+      "unit": "pc",
+      "item": "onion, chopped"
+    },
+    {
+      "group": "Red chilli sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Red chilli sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried oregano"
+    },
+    {
+      "group": "Red chilli sauce",
+      "qty": 250,
+      "unit": "ml",
+      "item": "chicken cooking liquid (from above)"
+    },
+    {
+      "group": "Red chilli sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Red chilli sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Wrappers",
+      "qty": 16,
+      "unit": "pc",
+      "item": "large dried corn husks, plus a few extra for lining"
+    },
+    {
+      "group": "Masa dough",
+      "qty": 170,
+      "unit": "g",
+      "item": "vegetable shortening (check the label: 100% plant-based, no animal fat), softened"
+    },
+    {
+      "group": "Masa dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Masa dough",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Masa dough",
+      "qty": 360,
+      "unit": "g",
+      "item": "masa harina for tamales"
+    },
+    {
+      "group": "Masa dough",
+      "qty": 475,
+      "unit": "ml",
+      "item": "warm chicken cooking liquid from the filling (or low-sodium chicken stock), plus more if needed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Poach the chicken",
+      "text": "Place the chicken thighs, water, onion, garlic and bay leaf in a large saucepan and bring to a bare simmer over medium heat. Partially cover and cook for 25-30 minutes, until an instant-read thermometer pushed into the thickest piece reads 74°C. Keeping the liquid just below a simmer stops the proteins seizing up, so the meat stays moist and easy to shred."
+    },
+    {
+      "title": "Shred and strain the broth",
+      "text": "Lift the chicken onto a board with tongs and let it cool slightly before pulling it into shreds with two forks. Strain the cooking liquid through a sieve and set it aside - you need roughly 725ml in total for the sauce and the masa. Nothing here goes to waste, since this broth is where most of the flavour lives."
+    },
+    {
+      "title": "Soak the corn husks",
+      "text": "Cover the dried husks with very hot water in a large heatproof bowl, then weigh them down with a plate so they stay submerged. Leave to soak for 30 minutes until soft and pliable, then drain and pat dry with a tea towel. Soaking rehydrates the husk so it bends around the filling instead of cracking."
+    },
+    {
+      "title": "Blend the red chilli sauce",
+      "text": "Soak the dried chillies in boiling water for 10 minutes until softened, then drain. Blend them with the garlic, onion, cumin, oregano and 250ml of the reserved chicken liquid until completely smooth. The soak loosens the tough dried skins so the blender turns them into a silky sauce rather than a fibrous paste."
+    },
+    {
+      "title": "Fry the sauce and add chicken",
+      "text": "Heat the oil in a frying pan over medium-high heat and pour in the blended sauce - it will spit a little as it hits the hot oil, so keep back slightly. Fry for 5-6 minutes, stirring often, until the sauce thickens and deepens in colour. Stir in 1/4 teaspoon salt and the shredded chicken, then set aside to cool; the brief fry cooks off the raw chilli edge and concentrates the flavour."
+    },
+    {
+      "title": "Beat the shortening light",
+      "text": "Put the vegetable shortening, baking powder and 3/4 teaspoon salt in a stand mixer bowl and beat on medium-high for about 2 minutes until pale and fluffy. This traps tiny air pockets in the fat, which is what makes the finished masa light rather than dense. Check the shortening label first to be sure it's 100% plant-based, with no animal fat."
+    },
+    {
+      "title": "Work in the masa harina",
+      "text": "With the mixer on low, add the masa harina in three batches, alternating with the 475ml warm reserved cooking liquid, until combined. Turn the speed to medium and beat for 3-5 minutes until the dough is soft, fluffy and about the texture of thick hummus, adding a splash more liquid if it still feels stiff. The extended beating folds in air and lets the dried masa fully hydrate, which gives tamales their light crumb."
+    },
+    {
+      "title": "Run the float test",
+      "text": "Drop a 1/2 teaspoon ball of the dough into a bowl of cold water. If it floats, the dough is aerated enough to use; if it sinks, beat for 2 more minutes and test again. This quick check saves you from steaming a batch of heavy, gummy tamales."
+    },
+    {
+      "title": "Spread masa and fill",
+      "text": "Lay a husk smooth-side up with the wide end towards you, then spread about 50g masa into a 10cm square over the wide half, leaving a 2cm border at the sides. Spoon roughly 1 1/2 tablespoons of the chicken filling down the centre. Fold in the long sides so the dough encases the filling, then fold up the narrow pointed end to seal; repeat to make 12-16 parcels."
+    },
+    {
+      "title": "Pack the steamer",
+      "text": "Pour 5cm of water into the steamer pot, well below the basket, and line the basket with spare husks. Stand the tamales upright, open end facing up, packing them snugly so they support one another and stay closed. A tight, upright stack stops the parcels toppling open as the masa softens with steam."
+    },
+    {
+      "title": "Steam until set",
+      "text": "Cover the tamales with more husks, then the damp tea towel, then the lid, and steam over medium heat for 75-90 minutes. Keep an eye on the water level and top it up with boiling water so the pot never boils dry, as scorching the base would taint the whole batch. Steady, moist heat is what sets the masa without drying it out."
+    },
+    {
+      "title": "Check for doneness",
+      "text": "Lift out one tamal with tongs and let it rest for 5 minutes before unwrapping. It's ready when the masa is firm and peels cleanly away from the husk, and a thermometer in the centre reads 74°C; if it still clings to the husk, steam the rest for 10-15 minutes more. Resting lets the masa finish firming up outside the intense heat of the pot."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Take the tamales off the heat and leave them to rest for 15 minutes before serving, still wrapped in their husks. Unwrap at the table, but don't eat the husk itself - it's just a wrapper, not part of the dish. This short rest lets the filling settle so the parcels hold together when sliced open."
+    }
+  ],
+  "tips": [
+    "Check the shortening label before you buy it - some brands blend in animal fat, and you want a purely vegetable one for this recipe.",
+    "A common mistake is simmering the chicken too hard; keep it at a bare simmer so the meat stays tender rather than turning tough and stringy.",
+    "If the dough sinks in the float test, don't skip the extra beating - it's the difference between light tamales and dense ones.",
+    "Pack the tamales upright and snug in the steamer so they don't tip over and spill open as they cook.",
+    "Keep a kettle of boiling water nearby to top up the steamer; letting it boil dry can scorch the bottom husks and taint the batch."
+  ],
+  "storage": "Once cooled, refrigerate within 1 hour and eat within 3 days, or freeze for up to 3 months. Reheat by steaming for 15-20 minutes (25-30 minutes from frozen) until the centre is piping hot at 74°C. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "celery"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 635,
+    "protein_g": 26.0,
+    "carbs_g": 50.6,
+    "sugar_g": 1.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 37.4,
+    "satfat_g": 8.7,
+    "salt_g": 2.16,
+    "fibre_g": 5.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tamal-basic.jpg",
+  "image_alt": "Three corn-husk-wrapped tamales on a dark plate, one opened to show soft masa filled with shredded chicken in red chilli sauce, with a small bowl of green salsa.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}
