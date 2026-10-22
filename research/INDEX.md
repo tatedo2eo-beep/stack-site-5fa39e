@@ -22,6 +22,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | beef-chili | Chili con carne | Classic | 2 | 4 |
 | beef-chow-fun | Beef chow fun | Classic | 3 | 5 |
 | beef-chow-mein | Chow mein/lo mein | Beef | 3 | 5 |
+| beef-larb-toasted-rice-herbs | Larb | Classic | 3 | 5 |
 | beef-lo-mein | Lo mein | Beef | 2 | 4 |
 | beef-meatballs-tomato-sauce | Meatballs | Classic | 2 | 4 |
 | beef-stroganoff-mushrooms-noodles | Beef stroganoff | Classic | 2 | 4 |
@@ -45,6 +46,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | butternut-squash-ravioli | Filled (ravioli, tortellini, agnolotti) | Butternut squash | 4 | 6 |
 | cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
 | carrot-cake | Carrot | Classic | 2 | 4 |
+| celeriac-remoulade-mustard-parsley | Celeriac rémoulade | Classic | 3 | 5 |
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |
 | cheeseburger-sliders | Sliders | Classic | 2 | 5 |
 | cheesy-potato-gratin | Gratin | Classic | 2 | 4 |
@@ -60,6 +62,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chicken-fried-steak | Chicken fried steak | Classic | 3 | 6 |
 | chicken-inasal | Chicken inasal | Classic | 1 | 4 |
 | chicken-kiev | Chicken Kiev | Classic | 2 | 4 |
+| chicken-larb-gai-toasted-rice-mint | Larb | Chicken | 2 | 4 |
 | chicken-maryland | Chicken Maryland | Classic | 2 | 4 |
 | chicken-paprikash | Chicken paprikash | Classic | 3 | 5 |
 | chicken-parmigiana | Chicken parmigiana | Classic | 3 | 5 |
@@ -120,6 +123,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | diner-style-home-fries | Home fries | Classic | 2 | 4 |
 | double-fried-french-fries | French fries (double-fried) | Classic | 3 | 5 |
 | duchess-potatoes | Duchesse | Classic | 2 | 4 |
+| ensaladilla-rusa-tuna-peppers | Ensaladilla rusa | Classic | 2 | 4 |
 | ethiopian-berbere-beef-tibs | Tibs | Classic | 2 | 4 |
 | everyday-chicken-curry | Chicken curry | Classic | 3 | 6 |
 | falafel-wrap | Falafel pita | Classic | 2 | 4 |
@@ -128,6 +132,9 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | filipino-oxtail-peanut-stew | Kare-kare | Classic | 2 | 4 |
 | florentines | Florentines | Classic | 2 | 4 |
 | flourless-fudgy-brownies | Flourless | Classic | 3 | 5 |
+| folded-butter-omelette-chives | Omelette | Classic | 3 | 5 |
+| folded-butter-omelette-fresh-herbs | Omelette | Herb (fines herbes) | 3 | 5 |
+| folded-butter-omelette-melted-cheese | Omelette | Cheese | 2 | 4 |
 | fondant-potatoes | Fondant potatoes | Classic | 2 | 4 |
 | fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
 | gai-yang | Gai yang | Classic | 2 | 4 |
@@ -185,6 +192,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | langues-de-chat | Langues de chat | Classic | 2 | 4 |
 | lasagne-bolognese | Sheets/baked (lasagne) | Classic | 4 | 6 |
 | layered-chilli-lime-potato-terrine-chicken-avocado | Causa limeña | Classic | 2 | 4 |
+| layered-vegetable-biryani-cauliflower-potato-cashews | Biryani | Vegetable | 3 | 5 |
 | lemon-bars | Lemon bars | Classic | 3 | 5 |
 | lemon-chiffon-cake | Chiffon | Lemon | 3 | 5 |
 | lemon-cut-out-sugar-cookies | Sugar/cut-out | Lemon | 2 | 4 |
@@ -219,6 +227,9 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | onion-rosti | Rösti | Onion | 3 | 5 |
 | orecchiette-broccoli | Hand-rolled shapes (orecchiette, pici, trofie, cavatelli) | Classic | 3 | 5 |
 | oven-baked-sweet-potato-fries | Sweet-potato fries | Classic | 3 | 5 |
+| oven-finished-frittata-courgette-herbs | Frittata | Zucchini | 2 | 4 |
+| oven-finished-frittata-red-pepper-spinach | Frittata | Classic | 3 | 5 |
+| oven-finished-frittata-spinach-feta | Frittata | Spinach-feta | 2 | 4 |
 | pad-see-ew | Pad see ew | Classic | 3 | 5 |
 | pad-thai-tofu | Pad thai | Tofu | 3 | 5 |
 | pad-thai | Pad thai | Classic | 2 | 4 |
@@ -271,16 +282,20 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | rugelach | Rugelach | Classic | 2 | 4 |
 | sables-diamants | Diamant | Classic | 2 | 4 |
 | sachertorte | Sachertorte | Classic | 2 | 4 |
+| saffron-layered-lamb-biryani-golden-onions-mint | Biryani | Lamb | 2 | 4 |
+| salade-nicoise-tuna-eggs-potatoes | Niçoise | Classic | 2 | 4 |
 | samgyetang | Samgyetang | Classic | 2 | 4 |
 | seared-mushroom-tacos-chipotle-onion-coriander | Taco | Mushroom | 3 | 5 |
 | seared-scallops-garlic-thyme-butter-lemon | Seared scallops | Classic | 4 | 6 |
 | shakshuka | Shakshuka | Classic | 2 | 4 |
 | signature-fudgy-brownies | Brownie (fudgy or cakey) | Classic | 2 | 4 |
 | signature-smash-burger | Smash burger | Classic | 3 | 8 |
+| silky-rice-congee-ginger-crispy-shallots-spring-onion | Congee/porridge | Classic | 3 | 5 |
 | slow-cooked-dry-coconut-beef-curry-lemongrass-lime-leaf | Rendang | Beef (classic) | 3 | 5 |
 | slow-roast-beef-yorkshire-puddings | Roast beef | Classic | 5 | 7 |
 | smoky-chipotle-tomato-shredded-chicken-tacos | Taco | Chicken tinga | 4 | 6 |
 | snickerdoodles | Snickerdoodle | Classic | 3 | 5 |
+| som-tam-green-papaya-salad | Som tam | Classic | 3 | 5 |
 | sour-cream-coffee-cake | Coffee cake | Classic | 3 | 5 |
 | southern-fried-chicken | Fried chicken (Southern) | Classic | 3 | 6 |
 | spaghetti-aglio-e-olio | Aglio e olio | Classic | 2 | 4 |

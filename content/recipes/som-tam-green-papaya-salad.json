@@ -1,0 +1,150 @@
+{
+  "slug": "som-tam-green-papaya-salad",
+  "title": "Som Tam (Thai Green Papaya Salad) with Long Beans and Peanuts",
+  "category": "salads-bowls",
+  "cuisine": "Thai",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "som-tam",
+  "dish_title": "Som tam",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A punchy Thai green papaya salad bruised together in a mortar with chillies, lime, fish sauce and peanuts for a fiery balance of sour, salty, sweet and hot.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 0,
+  "difficulty": "medium",
+  "equipment": [
+    "large mortar and pestle (or a sturdy bowl and the end of a rolling pin)",
+    "julienne peeler or coarse box grater",
+    "large spoon",
+    "chopping board and knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Salad",
+      "qty": 400,
+      "unit": "g",
+      "item": "green (unripe) papaya, peeled and shredded into long strands"
+    },
+    {
+      "group": "Salad",
+      "qty": 100,
+      "unit": "g",
+      "item": "long beans or green beans, cut into 5 cm pieces"
+    },
+    {
+      "group": "Salad",
+      "qty": 150,
+      "unit": "g",
+      "item": "cherry tomatoes, halved"
+    },
+    {
+      "group": "Paste",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Paste",
+      "qty": 2,
+      "unit": "pc",
+      "item": "Thai bird's-eye chillies, stemmed (use 1 for milder)"
+    },
+    {
+      "group": "Paste",
+      "qty": 10,
+      "unit": "g",
+      "item": "dried shrimp, chopped"
+    },
+    {
+      "group": "Paste",
+      "qty": 40,
+      "unit": "g",
+      "item": "roasted unsalted peanuts, divided"
+    },
+    {
+      "group": "Paste",
+      "qty": 18,
+      "unit": "g",
+      "item": "palm sugar or light brown sugar, chopped",
+      "note": "about 1.5 tbsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lime juice (about 2 limes), squeezed halves kept"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "fish sauce"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "lime wedges, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Shred the papaya",
+      "text": "Peel the papaya and shred it into long thin strands using a julienne peeler, or by drawing the whole length across the coarse side of a box grater. Chill the strands in iced water for 10 minutes for extra crunch, then drain really well. This short soak firms up the shreds so the finished salad stays crisp rather than watery."
+    },
+    {
+      "title": "Crush the paste",
+      "text": "In the mortar, crush the garlic and chillies - use just one chilli for a milder salad - until roughly broken up, then add the dried shrimp and half the peanuts and bash briefly, stopping before it turns into a paste so there's still texture. Work in the sugar, grinding in circles until it dissolves into a sticky base. This stage releases the garlic and chilli's flavour far more effectively than chopping would."
+    },
+    {
+      "title": "Bruise beans and tomatoes",
+      "text": "Add the beans to the mortar with the squeezed lime halves and bash them 20-30 times until they just split. Tip in the tomatoes and press down only until they burst, then stir in the lime juice and fish sauce. Bruising rather than pulverising keeps some bite in the beans while still letting the dressing's flavours mingle."
+    },
+    {
+      "title": "Toss in the papaya",
+      "text": "Add the shredded papaya and lightly crush it against the sides of the mortar while turning the mixture with a spoon, around 20-30 strokes in total. You're looking for the papaya to soften just slightly and take on the dressing while staying crisp, not to mash it. This light bruising opens the strands up so they drink up the sour, salty, sweet dressing."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Discard the lime halves and taste the salad for a balance of sour, salty and sweet, adjusting with a little more lime or fish sauce if needed. Pile it onto a plate, crush the remaining peanuts over the top and serve straightaway with lime wedges. For a milder version, use just the one chilli from the ingredient list rather than two."
+    }
+  ],
+  "tips": [
+    "Use papaya that's still firm and green - a ripe, sweet one won't shred into crisp strands or take on the dressing properly.",
+    "A common mistake is pulverising everything in the mortar; bash and bruise rather than crush it to a pulp so the salad keeps its crunch.",
+    "Start with one chilli if you're not sure how much heat you want, then taste and add the second only if needed.",
+    "Chilling the shredded papaya in iced water for the full 10 minutes makes a real difference to the final crunch."
+  ],
+  "storage": "Som tam is best made and eaten within about 20 minutes, while the papaya is still crisp. It doesn't keep well, as the vegetables soften and release liquid on standing, so avoid storing or freezing leftovers. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "peanuts",
+    "fish",
+    "crustaceans"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 149,
+    "protein_g": 6.1,
+    "carbs_g": 22.4,
+    "sugar_g": 15.1,
+    "free_sugar_g": 4.9,
+    "fat_g": 5.4,
+    "satfat_g": 0.9,
+    "salt_g": 1.92,
+    "fibre_g": 3.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "som-tam-advanced.jpg",
+  "image_alt": "Shredded green papaya with long beans, cherry tomatoes and peanuts, with a lime wedge.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

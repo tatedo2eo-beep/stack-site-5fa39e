@@ -1,0 +1,116 @@
+{
+  "slug": "folded-butter-omelette-chives",
+  "title": "Folded Butter Omelette with Chives",
+  "category": "breakfast",
+  "cuisine": "French",
+  "chapter": "eggs",
+  "book_chapter": "eggs",
+  "dish": "omelette",
+  "dish_title": "Omelette",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A classic French-style omelette made with just eggs, butter and a scattering of chives, cooked to soft curds and folded into a neat parcel. It comes together in minutes and makes a simple, satisfying light meal any time of day.",
+  "servings": 1,
+  "prep_min": 3,
+  "cook_min": 5,
+  "difficulty": "medium",
+  "equipment": [
+    "medium bowl",
+    "fork",
+    "20 cm non-stick frying pan with a lid",
+    "heatproof silicone spatula",
+    "warm plate"
+  ],
+  "ingredients": [
+    {
+      "group": "Omelette",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Omelette",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Omelette",
+      "qty": 1,
+      "unit": "pc",
+      "item": "pinch ground black pepper"
+    },
+    {
+      "group": "Omelette",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "chives, finely snipped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Beat the eggs",
+      "text": "Crack the eggs into the bowl with the salt and pepper, then beat with a fork for about 30 seconds until no streaks of white remain and the mixture turns pale and even. Thorough beating breaks the egg proteins apart evenly, so the cooked omelette has a consistent, tender texture rather than patchy firm and soft spots."
+    },
+    {
+      "title": "Melt the butter",
+      "text": "Put the butter into the 20cm pan over medium heat and swirl it around as it melts, watching closely until it foams but stops short of turning brown. Butter that's foaming but not browned coats the pan evenly without scorching, which stops the eggs sticking or taking on a bitter, burnt-butter taste."
+    },
+    {
+      "title": "Scramble the curds",
+      "text": "Pour in the eggs and stir briskly with the spatula while shaking the pan, scraping the curds away from the base and sides for 1-2 minutes. Small, soft curds should form with only a thin layer of liquid egg left; constant movement at this stage stops any one spot overcooking while the rest stays wet. Spread the mixture evenly over the base and push in any thin edges before moving on."
+    },
+    {
+      "title": "Set over low heat",
+      "text": "Turn the heat down to low, cover the pan and leave for 1-2 minutes until the top is fully set with no liquid or glossy raw egg showing, around 71°C in the centre. Gentle heat under a lid lets trapped steam finish cooking the surface evenly without colouring or toughening the base. The outside should stay pale rather than browned."
+    },
+    {
+      "title": "Fold and plate",
+      "text": "Tilt the pan away from you and use the spatula to fold the near third of the omelette over the middle, then slide it to the edge and roll it out onto the warm plate seam-side down, landing folded in three. This gentle rolling keeps the curds soft and intact instead of squashing them flat. Scatter over the chives and serve at once, while the omelette is still warm."
+    }
+  ],
+  "tips": [
+    "Beat the eggs just until combined — overbeating adds too much air and can leave the omelette rubbery rather than silky.",
+    "Keep the heat moderate to low throughout; too fierce a pan sets the outside before the inside catches up, giving uneven texture.",
+    "A common mistake is carrying on stirring after small curds have formed — once they appear, stop and let the covered, gentle heat finish the job evenly.",
+    "Make sure the butter is properly melted and foaming before the eggs go in, as a well-coated pan is what lets the fold slide out cleanly.",
+    "Snip the chives just before serving, since they dull and lose flavour quickly once cut."
+  ],
+  "storage": "Omelettes are best enjoyed straight from the pan. If there's any left, cool and refrigerate within 1 hour, use within 1 day, and reheat until piping hot all the way through (74°C) before eating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 323,
+    "protein_g": 19.1,
+    "carbs_g": 1.4,
+    "sugar_g": 0.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 26.5,
+    "satfat_g": 12.4,
+    "salt_g": 1.26,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "omelette-basic.jpg",
+  "image_alt": "A smooth, pale golden folded omelette on a dark plate, scattered with snipped chives.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

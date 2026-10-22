@@ -1,0 +1,124 @@
+{
+  "slug": "folded-butter-omelette-melted-cheese",
+  "title": "Folded Butter Omelette with Melted Cheese",
+  "category": "breakfast",
+  "cuisine": "French",
+  "chapter": "eggs",
+  "book_chapter": "eggs",
+  "dish": "omelette",
+  "dish_title": "Omelette",
+  "flavour": "Cheese",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "folded-butter-omelette-chives",
+  "changes_from_base": "Same omelette method with grated cheese scattered over the eggs before the covered finish so it melts inside the fold.",
+  "summary": "This follows the same classic folded butter omelette method, with grated cheese scattered over the curds before the covered finish so it melts into the fold. The result is a softer, richer omelette with pockets of melted cheese running through it.",
+  "servings": 1,
+  "prep_min": 5,
+  "cook_min": 5,
+  "difficulty": "medium",
+  "equipment": [
+    "medium bowl",
+    "fork",
+    "20 cm non-stick frying pan with a lid",
+    "heatproof silicone spatula",
+    "warm plate",
+    "fine grater"
+  ],
+  "ingredients": [
+    {
+      "group": "Omelette",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Omelette",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Omelette",
+      "qty": 1,
+      "unit": "pc",
+      "item": "pinch ground black pepper"
+    },
+    {
+      "group": "Omelette",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Filling",
+      "qty": 30,
+      "unit": "g",
+      "item": "Gruyère or mature cheddar, finely grated (animal-rennet-free)"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "chives, finely snipped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Beat the eggs",
+      "text": "Break the eggs into the bowl, season with the salt and pepper and whisk with a fork for roughly 30 seconds, until the colour is a single even yellow with no clear white left. A well-mixed egg sets uniformly, giving a tender omelette that won't have rubbery patches next to runny ones under the cheese."
+    },
+    {
+      "title": "Melt the butter",
+      "text": "Melt the butter in the 20cm pan on a medium heat, tilting the pan so it runs over the whole base, and wait for it to froth without letting it colour. Frothing butter tells you the pan is hot enough for the eggs to slide rather than stick, while keeping it pale avoids any scorched, bitter edge."
+    },
+    {
+      "title": "Scramble the curds",
+      "text": "Tip the eggs into the pan and keep them moving for 1-2 minutes, jiggling the pan with one hand and sweeping the spatula across the base and around the edge with the other. Stop once you have a mass of fine, creamy curds sitting in a little still-runny egg; keeping everything in motion means no patch sets hard before the rest catches up. Level the curds into an even layer and nudge any thin, lacy edges back towards the middle."
+    },
+    {
+      "title": "Melt the cheese",
+      "text": "Scatter the grated cheese over the curds, then turn the heat to low, cover and leave for 1-2 minutes until the top is fully set with no liquid or glossy raw egg showing, around 71°C in the centre, and the cheese has melted. Trapped steam under the lid cooks the surface gently while giving the cheese just enough warmth to soften without turning oily. The outside should stay pale rather than browned."
+    },
+    {
+      "title": "Fold and plate",
+      "text": "Tilt the pan away from you and use the spatula to fold the near third of the omelette over the middle, then slide it to the edge and roll it out onto the warm plate seam-side down, landing folded in three with the melted cheese held inside. Rolling rather than pressing keeps the cheesy curds tender and in one piece. Scatter over the chives and serve at once, while everything is still warm."
+    }
+  ],
+  "tips": [
+    "Beat the eggs just until combined — overbeating adds too much air and can leave the omelette rubbery rather than silky.",
+    "Grate the cheese finely so it melts quickly in the short covered cooking time rather than staying in hard, unmelted pieces.",
+    "A common mistake is adding too much cheese, which can stop the egg beneath it from setting properly — stick to the amount given and scatter it evenly.",
+    "If you want the dish fully vegetarian, check the pack and choose a cheese labelled animal-rennet-free.",
+    "Snip the chives just before serving, since they dull and lose flavour quickly once cut."
+  ],
+  "storage": "Omelettes are best enjoyed straight from the pan. If there's any left, cool and refrigerate within 1 hour, use within 1 day, and reheat until piping hot all the way through (74°C) before eating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 447,
+    "protein_g": 28.0,
+    "carbs_g": 1.5,
+    "sugar_g": 0.7,
+    "free_sugar_g": 0.0,
+    "fat_g": 36.2,
+    "satfat_g": 18.1,
+    "salt_g": 1.8,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "omelette-basic--cheese.jpg",
+  "image_alt": "A golden folded omelette on a dark plate with melted cheese spilling from the fold, topped with snipped chives.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

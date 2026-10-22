@@ -1,0 +1,160 @@
+{
+  "slug": "ensaladilla-rusa-tuna-peppers",
+  "title": "Ensaladilla Rusa (Spanish Potato Salad) with Tuna and Roasted Peppers",
+  "category": "salads-bowls",
+  "cuisine": "Spanish",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "ensaladilla-rusa",
+  "dish_title": "Ensaladilla rusa",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A creamy Spanish potato salad studded with tuna, peas, carrot and egg, finished with roasted peppers and olives.",
+  "servings": 6,
+  "prep_min": 30,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot",
+    "slotted spoon",
+    "sieve",
+    "clean tea towel",
+    "large bowl",
+    "rubber spatula",
+    "serving plate"
+  ],
+  "ingredients": [
+    {
+      "group": "Vegetables",
+      "qty": 900,
+      "unit": "g",
+      "item": "waxy yellow potatoes (about 5 medium), unpeeled"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium carrots, peeled"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 18,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the cooking water",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 130,
+      "unit": "g",
+      "item": "frozen peas"
+    },
+    {
+      "group": "Salad",
+      "qty": 4,
+      "unit": "pc",
+      "item": "hard-boiled eggs, peeled",
+      "note": "3 finely chopped, 1 sliced for the top"
+    },
+    {
+      "group": "Salad",
+      "qty": 150,
+      "unit": "g",
+      "item": "tinned tuna in olive oil, drained weight"
+    },
+    {
+      "group": "Salad",
+      "qty": 220,
+      "unit": "g",
+      "item": "mayonnaise (halal-certified)"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Salad",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Salad",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 80,
+      "unit": "g",
+      "item": "roasted red peppers (jarred or piquillo), cut into strips"
+    },
+    {
+      "group": "To serve",
+      "qty": 40,
+      "unit": "g",
+      "item": "pitted green olives"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the vegetables",
+      "text": "Put the whole potatoes and carrots into the large pot, cover with cold water, add the salt, bring to the boil and simmer gently for 20-30 minutes until a knife slides easily into the potatoes. Lift them out and leave to cool for 20 minutes. Starting the vegetables in cold water lets them cook through evenly, right to the centre, without the outsides turning mushy."
+    },
+    {
+      "title": "Blanch the peas",
+      "text": "While the potatoes cool, drop the peas into the same still-boiling water for 2 minutes, then drain and leave them to cool. Cooking them briefly in the same pot saves on washing up and keeps their colour and sweetness intact."
+    },
+    {
+      "title": "Dice everything",
+      "text": "Rub the skins off the cooled potatoes using the tea towel, then cut the potatoes and carrots into small, even 1cm cubes. Even-sized pieces mean every spoonful has a bit of potato, carrot and egg in the same bite."
+    },
+    {
+      "title": "Mix the salad",
+      "text": "In a large bowl, gently fold together the diced potatoes and carrots, peas, chopped eggs, flaked tuna, 180g of the mayonnaise, lemon juice, salt and pepper. A little of the potato breaking down as you fold is normal and actually helps give the salad its creamy texture. Taste before adding any extra salt, since the tuna and mayonnaise both carry a fair amount already. Cover and chill for at least 1 hour, or up to 3 days."
+    },
+    {
+      "title": "Serve",
+      "text": "Mound the salad onto a serving plate and smooth the remaining 40g of mayonnaise over the top like an even layer of icing. Finish with the roasted pepper strips, sliced egg and olives arranged over the surface. Serve chilled, straight from the fridge, for the best texture."
+    }
+  ],
+  "tips": [
+    "Taste the mixture before adding extra salt - the tuna, mayonnaise and olives all bring plenty on their own.",
+    "A common mistake is dicing the potatoes while still hot; let them cool for the full 20 minutes first so they hold their shape instead of turning to mash.",
+    "Starting the potatoes in cold water helps them cook evenly all the way through, so check with a knife rather than guessing the time.",
+    "Chill the salad for at least an hour before serving - the flavours come together much better once it's cold."
+  ],
+  "storage": "Cover and keep in the fridge for up to 3 days. This isn't suitable for freezing, as the mayonnaise will separate and the vegetables will turn watery once thawed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard",
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 509,
+    "protein_g": 16.6,
+    "carbs_g": 34.6,
+    "sugar_g": 4.9,
+    "free_sugar_g": 0.3,
+    "fat_g": 34.0,
+    "satfat_g": 5.9,
+    "salt_g": 1.91,
+    "fibre_g": 5.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ensaladilla-rusa-basic.jpg",
+  "image_alt": "A smooth mound of Spanish potato salad topped with roasted red pepper strips and olives.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

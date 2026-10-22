@@ -1,0 +1,142 @@
+{
+  "slug": "folded-butter-omelette-fresh-herbs",
+  "title": "Folded Butter Omelette with Fresh Herbs",
+  "category": "breakfast",
+  "cuisine": "French",
+  "chapter": "eggs",
+  "book_chapter": "eggs",
+  "dish": "omelette",
+  "dish_title": "Omelette",
+  "flavour": "Herb (fines herbes)",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "folded-butter-omelette-chives",
+  "changes_from_base": "Same omelette method with a mix of finely chopped parsley, chives, tarragon and chervil beaten into the eggs and scattered on top.",
+  "summary": "This follows the same classic folded butter omelette method, with a mix of finely chopped parsley, chives, tarragon and chervil beaten into the eggs and scattered over the finished fold. The fresh herbs give a lighter, more fragrant take on the classic.",
+  "servings": 1,
+  "prep_min": 5,
+  "cook_min": 5,
+  "difficulty": "medium",
+  "equipment": [
+    "medium bowl",
+    "fork",
+    "20 cm non-stick frying pan with a lid",
+    "heatproof silicone spatula",
+    "warm plate",
+    "chopping board and knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Omelette",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Omelette",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Omelette",
+      "qty": 1,
+      "unit": "pc",
+      "item": "pinch ground black pepper"
+    },
+    {
+      "group": "Omelette",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Herbs",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "flat-leaf parsley, finely chopped"
+    },
+    {
+      "group": "Herbs",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "chives, finely snipped"
+    },
+    {
+      "group": "Herbs",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "tarragon leaves, finely chopped"
+    },
+    {
+      "group": "Herbs",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "chervil, finely chopped (optional, or more parsley)"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small parsley sprig, to garnish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Beat the eggs",
+      "text": "Crack the eggs into the bowl with the salt and pepper, add most of the chopped herbs, and beat with a fork for about 30 seconds until no streaks of white remain and the mixture turns pale and even. Mixing the herbs in at this stage means their flavour spreads right through the egg rather than sitting only on the surface."
+    },
+    {
+      "title": "Melt the butter",
+      "text": "Set the 20cm pan over medium heat with the butter and keep it moving as it liquefies; it's ready once bubbles appear across the surface but before any golden tinge. Pale, bubbling butter gives a slick, non-stick film and a clean flavour that lets the fresh herbs come through."
+    },
+    {
+      "title": "Scramble the curds",
+      "text": "Add the herby egg mixture and work it hard for 1-2 minutes, shaking the pan and drawing the spatula through the setting egg from the sides inwards. You want tiny, moist curds with just a shallow film of uncooked egg remaining; the steady stirring lets the whole panful cook at the same pace. Smooth the curds flat across the pan, tucking any wispy edges back in so the omelette folds neatly."
+    },
+    {
+      "title": "Set over low heat",
+      "text": "Lower the heat to its minimum, put a lid on and give it 1-2 minutes, until the surface is matt and set all over and the middle reaches about 71°C. The lid holds in steam that cooks the top through, so the underside can stay soft and pale instead of browning. The outside should stay pale rather than browned."
+    },
+    {
+      "title": "Fold and plate",
+      "text": "Angle the pan downwards, flip the third nearest you over the centre with the spatula, then shuffle the omelette to the far rim and turn it out onto the warm plate so it lands in three layers with the join underneath. Folding it this way, rather than pressing down, keeps the herb-flecked curds light and whole. Scatter over the remaining herbs and the parsley sprig, then serve at once while still warm."
+    }
+  ],
+  "tips": [
+    "Chop the herbs finely and evenly so they distribute through the egg rather than clumping in one spot.",
+    "Beat the eggs just until combined — overbeating adds too much air and can leave the omelette rubbery rather than silky.",
+    "A common mistake is adding all the herbs only at the end, which loses the fragrance beaten through the egg — keep some back for beating in and some for the finish.",
+    "If chervil isn't available, simply use a little extra parsley instead, as the recipe allows.",
+    "Keep the heat moderate to low throughout, since fierce heat can scorch delicate herbs and toughen the egg."
+  ],
+  "storage": "Omelettes are best enjoyed straight from the pan. If there's any left, cool and refrigerate within 1 hour, use within 1 day, and reheat until piping hot all the way through (74°C) before eating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 325,
+    "protein_g": 19.2,
+    "carbs_g": 1.7,
+    "sugar_g": 0.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 26.5,
+    "satfat_g": 12.4,
+    "salt_g": 1.27,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "omelette-basic--herb-fines-herbes.jpg",
+  "image_alt": "A golden folded omelette flecked with chopped fresh herbs on a dark plate, with a sprig of parsley.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

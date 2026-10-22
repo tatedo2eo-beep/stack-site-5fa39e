@@ -1,0 +1,149 @@
+{
+  "slug": "oven-finished-frittata-courgette-herbs",
+  "title": "Oven-Finished Frittata with Courgette and Herbs",
+  "category": "vegetarian",
+  "cuisine": "Italian",
+  "chapter": "eggs",
+  "book_chapter": "eggs",
+  "dish": "frittata",
+  "dish_title": "Frittata",
+  "flavour": "Zucchini",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "oven-finished-frittata-red-pepper-spinach",
+  "changes_from_base": "Same frittata method with browned courgette rounds, garlic and basil or mint as the filling, with some rounds laid on top, in place of the red pepper and spinach.",
+  "summary": "This follows the same oven-finished frittata method, with browned courgette rounds, garlic and basil or mint forming the filling, and a few extra rounds laid on top before grilling, in place of the red pepper and spinach.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "25 cm ovenproof non-stick frying pan",
+    "large bowl",
+    "whisk or fork",
+    "heatproof silicone spatula",
+    "oven gloves",
+    "instant-read thermometer",
+    "chopping board and knife",
+    "plate or board for serving"
+  ],
+  "ingredients": [
+    {
+      "group": "Eggs",
+      "qty": 8,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Eggs",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "whole milk"
+    },
+    {
+      "group": "Eggs",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Eggs",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Eggs",
+      "qty": 25,
+      "unit": "g",
+      "item": "Parmesan-style hard cheese, finely grated (animal-rennet-free)"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium courgettes (zucchini), sliced into 3 mm rounds",
+      "note": "about 450 g"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 10,
+      "unit": "g",
+      "item": "basil or mint leaves, torn, plus a few to finish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk the eggs",
+      "text": "Beat the eggs in the bowl with the milk, salt and pepper and fold through the grated cheese, working for about 30 seconds until it's a uniform yellow. The milk keeps the finished frittata tender, while the cheese seasons it from within."
+    },
+    {
+      "title": "Brown the courgettes",
+      "text": "Heat the oil in the pan over medium-high heat and cook the courgette rounds in an even layer for 8-10 minutes, turning occasionally, until golden and tender and their liquid has evaporated. Browning in a single layer lets the surface of each round caramelise and lose moisture instead of steaming, which is what gives the filling its flavour. Set aside about 12 of the best rounds on a plate for later."
+    },
+    {
+      "title": "Add garlic and herbs",
+      "text": "Add the garlic to the pan and cook for 30 seconds until fragrant, then stir in the basil or mint. Adding the herbs off the heat at the end keeps their flavour fresh rather than letting it fade under prolonged cooking."
+    },
+    {
+      "title": "Set the base",
+      "text": "Switch the grill (broiler) to its highest setting and position a rack roughly 15cm beneath the element. Turn the heat under the pan down to medium-low, pour in the egg mixture and stir gently for 30 seconds so the filling is evenly spread, lay the reserved courgette rounds over the top, then leave undisturbed for 6-8 minutes, lifting the edge once or twice to let liquid egg run underneath. The base and edges should be set while the top stays wet."
+    },
+    {
+      "title": "Finish under the grill",
+      "text": "Wearing oven gloves, since the handle will be scorching, slide the pan under the grill for 3-5 minutes, until the courgette frittata has risen, picked up a pale golden colour and firmed all the way through. Check by inserting a knife in the middle: it should emerge clean and dry, and a thermometer there should show 71°C."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Give it 5 minutes to settle, run the spatula round the sides and underneath, then ease it out onto the plate and slice into wedges. Finish with a few torn basil or mint leaves and serve hot or warm."
+    }
+  ],
+  "tips": [
+    "Cook the courgette rounds in a single layer rather than piling them up — crowding the pan traps steam and stops them browning properly.",
+    "A common mistake is skipping the liquid-reducing step; make sure the courgettes' released water has fully evaporated before moving on, or the frittata will turn watery.",
+    "Check the cheese is labelled animal-rennet-free if you'd like the dish to be fully vegetarian.",
+    "Remember the pan handle will be very hot straight from the grill — always use oven gloves when lifting it out.",
+    "Add the torn basil or mint at the end rather than cooking it for long, so the flavour stays bright."
+  ],
+  "storage": "Refrigerate leftovers within 1 hour, use within 2 days, and either eat cold or reheat until piping hot all the way through (74°C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 254,
+    "protein_g": 16.6,
+    "carbs_g": 5.5,
+    "sugar_g": 3.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 18.5,
+    "satfat_g": 5.3,
+    "salt_g": 1.36,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "frittata-basic--zucchini.jpg",
+  "image_alt": "A golden frittata topped with overlapping courgette rounds and fresh herb leaves on a dark plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

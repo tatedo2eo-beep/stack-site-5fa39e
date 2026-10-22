@@ -1,0 +1,307 @@
+{
+  "slug": "layered-vegetable-biryani-cauliflower-potato-cashews",
+  "title": "Layered Vegetable Biryani with Cauliflower, Potato and Cashews",
+  "category": "rice-grains",
+  "cuisine": "Indian",
+  "chapter": "rice",
+  "book_chapter": "rice",
+  "dish": "biryani",
+  "dish_title": "Biryani",
+  "flavour": "Vegetable",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "saffron-layered-lamb-biryani-golden-onions-mint",
+  "changes_from_base": "Same layered saffron biryani with a yoghurt-spiced cauliflower, potato, carrot, green bean and pea base simmered 15-20 min instead of the marinated lamb, and cashews and raisins fried with the onions for the top.",
+  "summary": "This vegetable biryani follows the same layered, saffron-steamed method as a classic lamb biryani, swapping in a yoghurt-spiced cauliflower, potato, carrot, green bean and pea base topped with golden onions, cashews and raisins.",
+  "servings": 6,
+  "prep_min": 40,
+  "cook_min": 70,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "fine sieve",
+    "large heavy ovenproof casserole with a lid (5-6 litres)",
+    "large saucepan for the rice",
+    "small saucepan",
+    "slotted spoon",
+    "kitchen paper",
+    "foil",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Vegetables",
+      "qty": 300,
+      "unit": "g",
+      "item": "cauliflower, in 3 cm florets"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 250,
+      "unit": "g",
+      "item": "waxy potato, peeled and cut into 2 cm cubes"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "carrot, cut into 1 cm pieces",
+      "note": "about 100 g"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 100,
+      "unit": "g",
+      "item": "green beans, cut into 3 cm lengths"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 80,
+      "unit": "g",
+      "item": "frozen peas"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 120,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 5,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 240,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Garnish",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted cashews"
+    },
+    {
+      "group": "Garnish",
+      "qty": 30,
+      "unit": "g",
+      "item": "raisins"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 1,
+      "unit": "pc",
+      "item": "cinnamon stick (about 5 cm)"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 4,
+      "unit": "pc",
+      "item": "whole cloves"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 3,
+      "unit": "pc",
+      "item": "green cardamom pods, lightly cracked"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "garam masala"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "Kashmiri chilli powder (or mild paprika)"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh coriander, chopped"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 15,
+      "unit": "g",
+      "item": "mint leaves, chopped"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 1,
+      "unit": "pc",
+      "item": "green chilli, finely chopped"
+    },
+    {
+      "group": "Rice",
+      "qty": 400,
+      "unit": "g",
+      "item": "basmati rice"
+    },
+    {
+      "group": "Rice",
+      "qty": 2500,
+      "unit": "ml",
+      "item": "water, for parboiling"
+    },
+    {
+      "group": "Rice",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp; most of this salt is drained away with the water; it is counted in full"
+    },
+    {
+      "group": "Rice",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Rice",
+      "qty": 2,
+      "unit": "pc",
+      "item": "green cardamom pods, lightly cracked"
+    },
+    {
+      "group": "Saffron and onions",
+      "qty": 60,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Saffron and onions",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "saffron threads"
+    },
+    {
+      "group": "Saffron and onions",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "ghee or neutral oil"
+    },
+    {
+      "group": "Saffron and onions",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large onions, halved and thinly sliced",
+      "note": "about 600 g"
+    },
+    {
+      "group": "Saffron and onions",
+      "qty": 20,
+      "unit": "g",
+      "item": "unsalted butter, in small pieces"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Fry onions, cashews and raisins",
+      "text": "This vegetable biryani follows the same layered, saffron-steamed method as a classic lamb biryani, but swaps the meat for a spiced vegetable base. Warm the ghee in the casserole over medium heat, add the sliced onions and cook, stirring often, for 15-20 minutes until deep golden brown, then lift half out onto kitchen paper and reserve. Add the cashews and raisins to the hot fat and stir for 1-2 minutes until the nuts turn light golden and the raisins puff up, then lift them out to join the onions. The residual heat in the ghee is enough to toast the nuts and plump the raisins quickly, and frying brings out a nuttiness plain boiling can't."
+    },
+    {
+      "title": "Rinse and soak the rice",
+      "text": "Rinse the basmati in a sieve under cold running water until it runs almost clear, then soak in cold water for 30 minutes and drain. Washing off the surface starch stops the grains sticking together, and the soak lets water penetrate evenly so the rice swells fully once it reaches the pot."
+    },
+    {
+      "title": "Build the spice base",
+      "text": "Turn the heat to low and stir the cinnamon, cloves, cardamom and bay leaves into the pot for 30 seconds, then add the garlic, ginger and green chilli for 30 seconds, followed by the garam masala, chilli powder and turmeric for 15 seconds. The mixture should smell fragrant, not smoky. Cooking the aromatics and ground spices briefly in hot fat before the vegetables go in means every mouthful carries their flavour, rather than tasting raw and dusty."
+    },
+    {
+      "title": "Simmer the vegetables",
+      "text": "Stir in the yoghurt, cauliflower, potato, carrot, green beans, salt and water, then bring to a boil, cover and simmer over medium-low heat for 15-20 minutes, stirring often so the base doesn't catch. It's ready when a knife slides into the potato with little resistance. Simmering gently in a covered pot lets the vegetables cook through evenly in the spiced yoghurt sauce without the yoghurt splitting from too fierce a heat."
+    },
+    {
+      "title": "Finish with peas and herbs",
+      "text": "Stir in the peas and half the coriander and mint, then cook for 2 minutes until there are just a few tablespoons of thick sauce left on the base. Take the pot off the heat and scatter over the remaining herbs. Adding the peas right at the end keeps their colour bright and their texture tender, rather than soft and grey from overcooking."
+    },
+    {
+      "title": "Steep the saffron milk",
+      "text": "Heat the milk gently in a small pan just until it steams, remove from the heat, rub the saffron threads in between your fingers and set aside to infuse. Warm milk draws out saffron's colour and aroma far faster than cold liquid, giving the streaky gold-and-white look the finished rice is known for."
+    },
+    {
+      "title": "Parboil the rice",
+      "text": "Put the 2.5 litres water on to boil hard, seasoned with the salt, lemon juice and cardamom pods. Tip in the drained rice, give it a single stir and cook at a full boil for 2-3 minutes; snap a grain and you should see just a fine chalky centre, with plenty of bite left. Drain immediately. Cooking the rice only partway means it finishes gently in the sealed pot's steam rather than direct boiling water, so it stays intact instead of turning mushy."
+    },
+    {
+      "title": "Layer and seal the pot",
+      "text": "Heat the oven to 180°C (160°C fan). Spread the parboiled rice evenly over the vegetables without stirring the two together, drizzle the saffron milk over in streaks, scatter over the reserved onions, cashews and raisins, and dot with the butter. Seal the pot with a double sheet of foil pressed firmly round the rim and fit the lid on top. Keeping the layers distinct and the pot well sealed traps steam so the rice finishes cooking from the heat and moisture below rather than turning into a single stodgy mass."
+    },
+    {
+      "title": "Steam and rest",
+      "text": "Cook in the oven for 25 minutes, then let it sit unopened for 10 minutes; lift the foil away from you, as a burst of hot steam will come out. Every grain should now be soft, and a probe pushed into the middle of the vegetables and rice should register 74°C or more. Leaving it sealed lets the steam soften the uppermost rice and gives the spices time to mellow into the vegetables."
+    },
+    {
+      "title": "Serve",
+      "text": "Dig the serving spoon right down to the base of the pot for each portion, so everyone gets a mix of plain and saffron-coloured rice along with the vegetables and sauce underneath. Dig right down to the base with each scoop so everyone gets saffron rice, plain rice and the spiced vegetables in the same portion."
+    }
+  ],
+  "tips": [
+    "Cut the potato and carrot pieces to a similar, small size so they finish tender at the same time as the cauliflower.",
+    "Common mistake: stirring the vegetable base too much while it reduces - the vegetables break apart easily, so stir only occasionally and let the sauce thicken on its own.",
+    "Toast the cashews just until light golden; left too long in the hot ghee they turn bitter.",
+    "Check with a probe thermometer that the centre of the pot reads at least 74°C before serving, since vegetables layered deep in the pot can lag behind the rice.",
+    "Keep the foil seal tight during baking so the steam stays trapped and the rice on top finishes as tender as the rice nearer the vegetables."
+  ],
+  "storage": "Cool leftovers quickly and refrigerate within 1 hour; use within 24 hours. Reheat only once, covered, until piping hot and the centre reaches at least 74°C. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 538,
+    "protein_g": 11.9,
+    "carbs_g": 87.7,
+    "sugar_g": 13.0,
+    "free_sugar_g": 0.1,
+    "fat_g": 16.6,
+    "satfat_g": 8.7,
+    "salt_g": 2.12,
+    "fibre_g": 7.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "biryani-basic--vegetable.jpg",
+  "image_alt": "A dark bowl of saffron-streaked vegetable biryani with potato, cauliflower, carrot and peas, scattered with fresh herbs.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

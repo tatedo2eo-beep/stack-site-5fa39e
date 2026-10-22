@@ -1,0 +1,147 @@
+{
+  "slug": "celeriac-remoulade-mustard-parsley",
+  "title": "Celeriac Rémoulade with Mustard, Lemon and Parsley",
+  "category": "salads-bowls",
+  "cuisine": "French",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "celeriac-remoulade",
+  "dish_title": "Celeriac rémoulade",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A French bistro classic of finely shredded celeriac in a creamy, lemony mustard dressing, lifted with fresh parsley and chives.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "sharp chef's knife",
+    "food processor with grating disc or julienne peeler",
+    "colander",
+    "clean tea towel",
+    "large bowl",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Celeriac",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium celeriac (about 600 g peeled)"
+    },
+    {
+      "group": "Celeriac",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for wilting",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Celeriac",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "mustard powder"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cold water"
+    },
+    {
+      "group": "Dressing",
+      "qty": 100,
+      "unit": "g",
+      "item": "mayonnaise (halal-certified)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "g",
+      "item": "plain Greek-style yoghurt"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Herbs",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, chopped"
+    },
+    {
+      "group": "Herbs",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "chives, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prep the celeriac",
+      "text": "Slice the top and base off the celeriac, then cut away the knobbly skin following its curve, trimming off any stubborn brown bits with a small knife. Quarter it and shred into fine matchsticks using a food processor's grating disc or a julienne peeler. Cutting it this way, rather than grating finely, gives the rémoulade a pleasant bite instead of turning to mush."
+    },
+    {
+      "title": "Wilt the celeriac",
+      "text": "Toss the shredded celeriac with the salt and 1 tablespoon of lemon juice in a colander, then leave it for 20-30 minutes. The salt draws out moisture and softens the raw crunch slightly, while the lemon stops it browning. Squeeze it firmly in a clean tea towel, a handful at a time, to get rid of the excess liquid."
+    },
+    {
+      "title": "Make the dressing",
+      "text": "Stir the mustard powder with the cold water in a small bowl and leave it for 10 minutes to let its heat develop fully. Mix in the mayonnaise, yoghurt, lemon juice and pepper until smooth - the dressing should be a touch looser than plain mayonnaise, so add a teaspoon more water if it feels thick. Letting the mustard powder sit in water first brings out more flavour than adding it dry."
+    },
+    {
+      "title": "Dress and chill",
+      "text": "Toss the squeezed celeriac with the dressing and most of the parsley and chives, then taste and adjust the salt and lemon to your liking. Chill for 1 hour before serving, as the flavours mellow and the texture turns pleasantly tender in that time. Scatter the remaining herbs over the top just before bringing it to the table."
+    }
+  ],
+  "tips": [
+    "Squeeze the celeriac really firmly after wilting - leftover water will make the dressing watery and dull.",
+    "A common mistake is skipping the mustard powder's soaking time; give it the full 10 minutes in water so its flavour comes through properly.",
+    "Choose a celeriac that feels heavy and firm, as a soft or hollow one won't shred cleanly into crisp strands.",
+    "Chill the rémoulade for the full hour if you can - it tastes noticeably better once the flavours have had time to settle."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days; the celeriac will soften slightly but stays good to eat. This salad isn't suitable for freezing, as the mayonnaise and yoghurt will separate. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 172,
+    "protein_g": 2.9,
+    "carbs_g": 10.5,
+    "sugar_g": 2.3,
+    "free_sugar_g": 0.2,
+    "fat_g": 13.7,
+    "satfat_g": 2.3,
+    "salt_g": 0.96,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "celeriac-remoulade-advanced.jpg",
+  "image_alt": "Fine matchsticks of creamy celeriac rémoulade topped with parsley on a black plate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}
