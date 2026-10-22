@@ -1,0 +1,185 @@
+{
+  "slug": "chicken-caesar-wraps-lemon-chicken-crunchy-panko",
+  "title": "Chicken Caesar Wraps with Lemon Chicken and Crunchy Panko",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "wraps",
+  "dish_title": "Wraps",
+  "flavour": "Chicken Caesar",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Thin chicken cutlets are seared to 74 °C and sliced, romaine is tossed in a creamy anchovy-Parmesan dressing, and both are rolled into warmed tortillas with toasted panko.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "meat mallet or rolling pin",
+    "large non-stick frying pan",
+    "small frying pan",
+    "instant-read thermometer",
+    "medium bowl",
+    "large bowl",
+    "chopping board and sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 500,
+      "unit": "g",
+      "item": "boneless, skinless chicken breasts (halal)",
+      "note": "2 breasts"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Crunch",
+      "qty": 30,
+      "unit": "g",
+      "item": "panko breadcrumbs"
+    },
+    {
+      "group": "Crunch",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "g",
+      "item": "mayonnaise (halal-certified)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 25,
+      "unit": "g",
+      "item": "Parmesan, finely grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "pc",
+      "item": "anchovy fillets in oil, drained and mashed"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "English mustard powder"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Wraps",
+      "qty": 250,
+      "unit": "g",
+      "item": "romaine hearts, shredded",
+      "note": "about 2 small hearts"
+    },
+    {
+      "group": "Wraps",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large flour tortillas (about 25 cm)",
+      "note": "about 60 g each"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the chicken",
+      "text": "Slice each breast horizontally into 2 thin cutlets and pound them to an even 1.5 cm between sheets of baking paper. Rub with the oil, salt and pepper."
+    },
+    {
+      "title": "Cook the chicken",
+      "text": "Heat the large pan over medium-high heat. Cook the cutlets 3-4 minutes per side until golden and 74 °C in the thickest part. Rest 5 minutes, then slice into strips."
+    },
+    {
+      "title": "Toast the panko",
+      "text": "Toast the panko in the oil in the small pan over medium heat, stirring, for 2-3 minutes until golden. Tip onto a plate so it stops cooking."
+    },
+    {
+      "title": "Make the dressing",
+      "text": "Whisk the mayonnaise, Parmesan, lemon juice, garlic, mashed anchovy, mustard powder and pepper together in the medium bowl."
+    },
+    {
+      "title": "Dress the lettuce",
+      "text": "Toss the romaine with two-thirds of the dressing in the large bowl."
+    },
+    {
+      "title": "Warm the tortillas",
+      "text": "Warm each tortilla in the dry large pan for about 15 seconds per side so it folds without cracking."
+    },
+    {
+      "title": "Roll",
+      "text": "Spread a little of the remaining dressing down the middle of each tortilla. Add a quarter of the lettuce and chicken, scatter with panko, fold in the sides and roll up tightly. Cut in half on the diagonal and serve."
+    }
+  ],
+  "tips": [
+    "Pounding the chicken evenly means it cooks through before the outside dries out.",
+    "Add the panko at the last moment so it stays crunchy.",
+    "Wrap each roll tightly in baking paper if you want to eat it on the go."
+  ],
+  "storage": "Best eaten within an hour of rolling. Keep leftover chicken and dressing separately in the fridge for up to 1 day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "fish"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 564,
+    "protein_g": 37.9,
+    "carbs_g": 38.4,
+    "sugar_g": 3.2,
+    "free_sugar_g": 2.3,
+    "fat_g": 28.4,
+    "satfat_g": 5.3,
+    "salt_g": 2.44,
+    "fibre_g": 3.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "wraps-basic--chicken-caesar.jpg",
+  "image_alt": "Two halves of a chicken Caesar wrap showing romaine, sliced chicken and Parmesan.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

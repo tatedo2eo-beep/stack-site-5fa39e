@@ -1,0 +1,126 @@
+{
+  "slug": "philly-cheesesteaks-shaved-ribeye-caramelised-onions",
+  "title": "Philly Cheesesteaks with Shaved Ribeye and Soft Onions",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "philly-cheesesteak",
+  "dish_title": "Philly cheesesteak",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Partly frozen ribeye is shaved paper-thin, seared hard in batches, drained, combined with golden onions, topped with melting white cheese and scooped into toasted rolls.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "baking tray",
+    "very sharp knife",
+    "large heavy frying pan or flat griddle (cast iron ideal)",
+    "two metal spatulas",
+    "colander set over a bowl",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Steak",
+      "qty": 700,
+      "unit": "g",
+      "item": "boneless ribeye steak (halal), fat trimmed"
+    },
+    {
+      "group": "Steak",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Steak",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Steak",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium onions, thinly sliced",
+      "note": "about 300 g"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices white American cheese (about 90 g)",
+      "note": "or mild provolone"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 4,
+      "unit": "pc",
+      "item": "soft sub rolls (about 20 cm)",
+      "note": "about 80 g each"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Freeze the steak",
+      "text": "Put the steak on a tray in the freezer for 45-60 minutes until very firm but not frozen solid."
+    },
+    {
+      "title": "Toast the rolls",
+      "text": "Heat the oven to 200 °C (180 °C fan). Split the rolls lengthwise, leaving a hinge, and toast on a tray for 5 minutes until lightly crisp."
+    },
+    {
+      "title": "Shave the beef",
+      "text": "Slice the firm steak as thinly as possible across the grain, then roughly chop the pile 10-15 times."
+    },
+    {
+      "title": "Cook the onions",
+      "text": "Heat 1 tbsp oil in the pan over medium heat and cook the onions for 10 minutes, stirring, until soft and golden. Tip out."
+    },
+    {
+      "title": "Sear the steak",
+      "text": "Heat the remaining oil over high heat until smoking. Add the beef in one layer and cook undisturbed for 3 minutes until browned underneath, then stir for 1-2 minutes until no pink remains (at least 63 °C). Drain in the colander, then return to the pan over medium heat with the onions and pepper."
+    },
+    {
+      "title": "Melt the cheese",
+      "text": "Divide the meat into 4 long piles, lay 2 slices of cheese over each and cover for 1 minute until melted."
+    },
+    {
+      "title": "Fill",
+      "text": "Slide a spatula under each pile, scoop it into a roll and serve hot."
+    }
+  ],
+  "tips": [
+    "Freezing the steak first is what makes the paper-thin slices possible.",
+    "Draining the meat stops the roll going soggy.",
+    "Mild provolone is the other classic cheese if you can't find white American."
+  ],
+  "storage": "Best eaten hot. Refrigerate leftover filling within 1 hour, use within 3 days and reheat until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 870,
+    "protein_g": 44.2,
+    "carbs_g": 49.8,
+    "sugar_g": 6.9,
+    "free_sugar_g": 3.7,
+    "fat_g": 54.3,
+    "satfat_g": 20.8,
+    "salt_g": 2.4,
+    "fibre_g": 3.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "philly-cheesesteak-advanced.jpg",
+  "image_alt": "A long roll stuffed with shaved beef, onions and melted white cheese.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

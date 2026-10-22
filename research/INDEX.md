@@ -75,10 +75,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chicken-adobo | Chicken adobo | Classic | 2 | 5 |
 | chicken-and-dumplings | Chicken and dumplings | Classic | 2 | 4 |
 | chicken-caesar-salad-griddled-breast | Caesar | Chicken | 3 | 5 |
+| chicken-caesar-wraps-lemon-chicken-crunchy-panko | Wraps | Chicken Caesar | 2 | 4 |
 | chicken-chow-mein | Chow mein/lo mein | Chicken | 3 | 5 |
 | chicken-fried-rice-egg-peas-carrot | Fried rice | Classic | 2 | 4 |
 | chicken-fried-steak | Chicken fried steak | Classic | 3 | 6 |
 | chicken-inasal | Chicken inasal | Classic | 1 | 4 |
+| chicken-katsu-sando-milk-bread-tangy-katsu-sauce | Katsu sando | Chicken | 2 | 4 |
 | chicken-kiev | Chicken Kiev | Classic | 2 | 4 |
 | chicken-larb-gai-toasted-rice-mint | Larb | Chicken | 2 | 4 |
 | chicken-maryland | Chicken Maryland | Classic | 2 | 4 |
@@ -124,6 +126,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | clear-white-chicken-stock-slow-simmered | White/brown chicken | Classic | 2 | 4 |
 | cod-baked-in-parchment-vegetables-lemon-dill | En papillote | Classic | 4 | 6 |
 | cold-somen | Somen | Classic | 3 | 5 |
+| colombian-arepas-de-queso-cheese-filled-corn-cakes | Arepa | Cheese | 2 | 4 |
 | cool-yoghurt-rice-mustard-seeds-curry-leaves-pomegranate | Curd rice | Classic | 2 | 4 |
 | corn-egg-drop-soup-chicken | Egg drop soup | Corn egg drop | 3 | 5 |
 | coronation-chicken | Coronation chicken | Classic | 2 | 5 |
@@ -149,6 +152,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crisp-thin-crust-tavern-pizza-peppers-onion-fennel-tomato | Bar/tavern-style pizza | Classic | 2 | 4 |
 | crispy-baked-chicken-wings | Chicken wings | Classic | 3 | 5 |
 | crispy-chicken-sandwich | Chicken burger | Classic | 3 | 6 |
+| crispy-cornmeal-shrimp-po-boys-creole-mayo | Po' boy | Shrimp | 2 | 4 |
 | crispy-hasselback-potatoes | Hasselback | Classic | 2 | 4 |
 | crispy-oven-potato-wedges | Wedges | Classic | 3 | 5 |
 | crispy-potato-latkes | Latkes/potato pancakes | Classic | 3 | 5 |
@@ -299,10 +303,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mulligatawny-chicken-red-lentil-coconut | Mulligatawny | Classic | 3 | 5 |
 | musakhan | Musakhan | Classic | 3 | 6 |
 | mushroom-lasagne | Sheets/baked (lasagne) | Mushroom | 3 | 5 |
+| mushroom-poblano-quesadillas-oregano-queso-fresco | Quesadilla | Mushroom | 3 | 5 |
 | naengmyeon | Naengmyeon | Classic | 2 | 4 |
 | nanaimo-bars | Nanaimo bar | Classic | 3 | 5 |
 | nashville-hot-chicken | Nashville hot chicken | Classic | 2 | 5 |
 | neapolitan-style-margherita-pizza-tomato-mozzarella-basil | Neapolitan | Classic | 5 | 7 |
+| new-england-lobster-rolls-buttered-toasted-buns | Lobster roll | Classic | 2 | 4 |
 | new-york-cheesecake | New York (baked, dense) | Classic | 3 | 5 |
 | new-york-chocolate-egg-cream-seltzer | Egg cream | Chocolate | 3 | 5 |
 | new-york-style-cheese-pizza-oregano-tomato-sauce | New York | Classic | 2 | 4 |
@@ -356,6 +362,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | persian-saffron-rice-golden-crust-barberries | Tahdig/Persian polo | Classic | 3 | 5 |
 | peruvian-style-beef-tomato-stir-fry-chips | Lomo saltado | Classic | 3 | 5 |
 | pesto-alla-trapanese | Pesto alla trapanese | Classic | 2 | 4 |
+| philly-cheesesteaks-shaved-ribeye-caramelised-onions | Philly cheesesteak | Classic | 2 | 4 |
 | pho-bo-vietnamese-beef-noodle-soup | Pho | Classic | 2 | 4 |
 | pineapple-upside-down-cake | Upside-down | Pineapple | 2 | 4 |
 | piri-piri-chicken | Piri-piri | Classic | 2 | 4 |
@@ -417,6 +424,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | silky-rice-congee-ginger-crispy-shallots-spring-onion | Congee/porridge | Classic | 3 | 5 |
 | singapore-style-chilli-crab-tomato-egg-sauce | Chili crab | Classic | 2 | 4 |
 | skillet-eggs-tomato-green-pepper-chilli-flakes | Menemen | Classic | 3 | 5 |
+| sloppy-joes-tangy-tomato-beef-toasted-buns | Sloppy Joes | Classic | 2 | 4 |
 | slow-cooked-dry-coconut-beef-curry-lemongrass-lime-leaf | Rendang | Beef (classic) | 3 | 5 |
 | slow-cooked-duck-legs-crisp-potatoes-frisee | Duck confit | Classic | 3 | 5 |
 | slow-cooked-lamb-wheat-harees | Harees | Classic | 2 | 4 |
@@ -444,6 +452,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spaghetti-roasted-cherry-tomatoes | Long dried (spaghetti, linguine, bucatini) | Cherry tomato | 2 | 4 |
 | speculoos | Speculoos | Classic | 3 | 5 |
 | spiced-beef-shawarma-tahini-flatbread | Shawarma/döner | Classic | 2 | 4 |
+| spiced-chicken-cheddar-jack-quesadillas-pickled-jalapenos | Quesadilla | Chicken | 2 | 4 |
 | spiced-lamb-seekh-kebabs-mint-chutney | Seekh kebab | Classic | 2 | 4 |
 | spiced-masala-chai-ginger-cardamom | Masala chai | Classic | 2 | 4 |
 | spiced-minced-beef-keema-peas | Keema | Keema matar (with peas) | 3 | 5 |
@@ -500,6 +509,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | vegetable-chow-mein | Chow mein/lo mein | Vegetable | 2 | 4 |
 | vegetable-fried-rice-red-pepper-peas-sweetcorn | Fried rice | Vegetable | 3 | 5 |
 | vegetable-lo-mein | Lo mein | Vegetable | 2 | 4 |
+| venezuelan-arepas-butter-grated-white-cheese | Arepa | Classic | 2 | 4 |
 | vichyssoise-chilled-leek-potato-soup | Vichyssoise | Classic | 2 | 4 |
 | vietnamese-shaking-beef | Bò lúc lắc | Classic | 2 | 4 |
 | village-greek-salad-feta-slab | Greek | Classic | 3 | 5 |

@@ -1,0 +1,119 @@
+{
+  "slug": "venezuelan-arepas-butter-grated-white-cheese",
+  "title": "Venezuelan Arepas with Butter and Grated White Cheese",
+  "category": "burgers-sandwiches",
+  "cuisine": "Venezuelan",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "arepa",
+  "dish_title": "Arepa",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Masarepa dough is shaped into discs, seared in a heavy pan until crusted, baked until they sound hollow, then split and filled with butter and grated white cheese.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "clean tea towel",
+    "large cast-iron or heavy frying pan",
+    "baking tray",
+    "wire rack",
+    "serrated knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Arepas",
+      "qty": 300,
+      "unit": "g",
+      "item": "precooked white corn flour (masarepa, such as P.A.N.)"
+    },
+    {
+      "group": "Arepas",
+      "qty": 600,
+      "unit": "ml",
+      "item": "warm water"
+    },
+    {
+      "group": "Arepas",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Arepas",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Filling",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Filling",
+      "qty": 120,
+      "unit": "g",
+      "item": "queso fresco or mild white cheese, grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix the dough",
+      "text": "Whisk the salt into the warm water, then add the corn flour gradually, mixing with your hand until no dry lumps remain. Cover with the towel and rest for 5 minutes. It should feel like soft play dough; add 1-2 tbsp water if it cracks."
+    },
+    {
+      "title": "Shape",
+      "text": "Divide into 8 balls (about 110 g each). With damp hands, flatten each into a 10 cm disc about 1.5 cm thick, smoothing any cracked edges."
+    },
+    {
+      "title": "Sear",
+      "text": "Heat the oven to 180 °C (160 °C fan). Heat the oil in the pan over medium heat and cook the arepas in batches for 5-6 minutes per side until a pale golden crust forms."
+    },
+    {
+      "title": "Bake",
+      "text": "Move them to the tray and bake for 10-15 minutes until slightly puffed and hollow-sounding when tapped."
+    },
+    {
+      "title": "Fill",
+      "text": "Cool for 2 minutes on the rack, then split each almost all the way through, spread with butter and stuff with cheese. Serve hot."
+    }
+  ],
+  "tips": [
+    "Use precooked corn flour (masarepa); masa harina or cornmeal will not hold together.",
+    "Smooth cracks at the edge before cooking, or the arepas split in the pan.",
+    "Try other fillings: black beans, shredded chicken or avocado."
+  ],
+  "storage": "Best eaten fresh. Cooled unfilled arepas keep in the fridge for 3 days or the freezer for a month; reheat in a 180 °C oven for 10 minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 469,
+    "protein_g": 10.8,
+    "carbs_g": 60.5,
+    "sugar_g": 1.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 19.9,
+    "satfat_g": 9.4,
+    "salt_g": 1.67,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "arepa-advanced.jpg",
+  "image_alt": "Split golden corn arepas filled with butter and white cheese.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

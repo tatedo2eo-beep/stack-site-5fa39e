@@ -1,0 +1,129 @@
+{
+  "slug": "colombian-arepas-de-queso-cheese-filled-corn-cakes",
+  "title": "Colombian Arepas de Queso (Cheesy Corn Cakes)",
+  "category": "burgers-sandwiches",
+  "cuisine": "Colombian",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "arepa",
+  "dish_title": "Arepa",
+  "flavour": "Cheese",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Precooked corn flour is kneaded with warm water, melted butter, mozzarella and queso fresco, shaped into thick discs and cooked slowly on a dry griddle until deeply golden.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "clean damp tea towel",
+    "large heavy griddle or frying pan",
+    "wide fish slice (spatula)"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "precooked white corn flour (masarepa, such as P.A.N.)"
+    },
+    {
+      "group": "Dough",
+      "qty": 4,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 560,
+      "unit": "ml",
+      "item": "warm water"
+    },
+    {
+      "group": "Dough",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 150,
+      "unit": "g",
+      "item": "low-moisture mozzarella, coarsely grated"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "g",
+      "item": "queso fresco or feta, crumbled"
+    },
+    {
+      "group": "To serve",
+      "qty": 20,
+      "unit": "g",
+      "item": "unsalted butter, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dough",
+      "text": "Mix the corn flour and sugar in the bowl. Add the warm water gradually, mixing with your fingers, then work in the melted butter and salt. Knead into a soft dough."
+    },
+    {
+      "title": "Add the cheese",
+      "text": "Knead in the mozzarella and queso fresco in two additions until evenly speckled and smooth; add 1 tbsp water if it feels dry. Cover with the damp towel and rest for 15 minutes."
+    },
+    {
+      "title": "Shape",
+      "text": "Divide into 8 portions (about 135 g each), roll into balls and pat each into a 10 cm disc about 1.5 cm thick."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat the griddle over medium-low heat; no oil is needed. Cook in batches for 7-8 minutes per side until deeply golden, with crisp cheese edges, and hot right through."
+    },
+    {
+      "title": "Serve",
+      "text": "Top each with a little butter and serve straight away."
+    }
+  ],
+  "tips": [
+    "Keep the heat medium-low so the inside heats through before the cheese burns.",
+    "Taste a crumb of your queso fresco: if it is very salty, skip the added salt.",
+    "They are also good split and filled with scrambled eggs for breakfast."
+  ],
+  "storage": "Best eaten hot. Refrigerate leftovers within 1 hour for up to 3 days and reheat in a dry pan until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 535,
+    "protein_g": 16.3,
+    "carbs_g": 62.0,
+    "sugar_g": 2.9,
+    "free_sugar_g": 1.0,
+    "fat_g": 24.3,
+    "satfat_g": 14.4,
+    "salt_g": 1.69,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "arepa-advanced--cheese.jpg",
+  "image_alt": "Golden cheese-stuffed corn arepas with crisp edges, topped with butter.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "slug": "sloppy-joes-tangy-tomato-beef-toasted-buns",
+  "title": "Sloppy Joes with Tangy Tomato Beef on Toasted Buns",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "sloppy-joes",
+  "dish_title": "Sloppy Joes",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Beef mince is tenderised with a little bicarbonate, browned with onion, garlic, paprika and tomato purée, then simmered with ketchup, cider vinegar and mustard until thick.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "small bowl",
+    "large bowl",
+    "large non-stick frying pan",
+    "wooden spoon",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Beef",
+      "qty": 450,
+      "unit": "g",
+      "item": "beef mince, 15% fat (halal)"
+    },
+    {
+      "group": "Beef",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Beef",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 110 g"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 8,
+      "unit": "g",
+      "item": "soft brown sugar",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "paprika"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "chilli flakes"
+    },
+    {
+      "group": "Sauce",
+      "qty": 40,
+      "unit": "g",
+      "item": "tomato purée (paste)"
+    },
+    {
+      "group": "Sauce",
+      "qty": 60,
+      "unit": "g",
+      "item": "tomato ketchup"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "yellow mustard"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "Sauce",
+      "qty": 200,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "burger buns",
+      "note": "about 60 g each"
+    },
+    {
+      "group": "To serve",
+      "qty": 40,
+      "unit": "g",
+      "item": "dill pickle slices"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Tenderise the beef",
+      "text": "Stir the bicarbonate into 1 tbsp water, then mix it and the salt into the beef. Leave for 10 minutes; this keeps the mince tender and juicy."
+    },
+    {
+      "title": "Start the sauce",
+      "text": "Heat the oil in the pan over medium heat and cook the onion for 4 minutes until soft. Add the garlic, sugar, paprika and chilli flakes for 30 seconds, then the tomato purée, cooking for 2 minutes until it darkens."
+    },
+    {
+      "title": "Brown the beef",
+      "text": "Add the beef, breaking it into small pieces, and cook for 5-6 minutes until no pink remains."
+    },
+    {
+      "title": "Simmer",
+      "text": "Whisk the ketchup, vinegar, mustard, cornflour and 200 ml water together. Stir into the pan and simmer for 8-10 minutes, stirring, until thick enough to mound on a spoon and the beef reaches 71 °C."
+    },
+    {
+      "title": "Serve",
+      "text": "Toast the cut sides of the buns in a dry pan for 1 minute. Spoon a quarter of the beef onto each base, add pickles and the lid."
+    }
+  ],
+  "tips": [
+    "Taste before serving and add a splash more vinegar if you like it sharper.",
+    "The mixture thickens as it stands, so add a spoonful of water if it gets too stiff.",
+    "Freeze any extra filling for a quick weeknight dinner."
+  ],
+  "storage": "Refrigerate the filling within 1 hour for up to 3 days, or freeze for up to 3 months. Reheat until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 493,
+    "protein_g": 28.0,
+    "carbs_g": 42.8,
+    "sugar_g": 12.2,
+    "free_sugar_g": 9.5,
+    "fat_g": 22.9,
+    "satfat_g": 7.4,
+    "salt_g": 2.09,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sloppy-joes-basic.jpg",
+  "image_alt": "A toasted bun overflowing with saucy tomato beef, with pickles on the side.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

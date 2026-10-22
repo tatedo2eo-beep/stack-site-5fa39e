@@ -1,0 +1,166 @@
+{
+  "slug": "mushroom-poblano-quesadillas-oregano-queso-fresco",
+  "title": "Mushroom and Poblano Quesadillas with Oregano and Queso Fresco",
+  "category": "burgers-sandwiches",
+  "cuisine": "Mexican",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "quesadilla",
+  "dish_title": "Quesadilla",
+  "flavour": "Mushroom",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "Mushrooms are steamed in a little water then browned with poblano and onion, mixed with mozzarella, queso fresco and coriander, and folded into tortillas cooked until crisp.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large non-stick frying pan (at least 26 cm)",
+    "wooden spoon",
+    "box grater",
+    "large bowl",
+    "wide fish slice (spatula)",
+    "wire rack set on a baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 500,
+      "unit": "g",
+      "item": "chestnut mushrooms, thinly sliced"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "poblano or green pepper, seeded and thinly sliced",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "onion, thinly sliced"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried oregano"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Quesadillas",
+      "qty": 150,
+      "unit": "g",
+      "item": "low-moisture mozzarella, coarsely grated"
+    },
+    {
+      "group": "Quesadillas",
+      "qty": 40,
+      "unit": "g",
+      "item": "queso fresco or feta, crumbled"
+    },
+    {
+      "group": "Quesadillas",
+      "qty": 10,
+      "unit": "g",
+      "item": "coriander, chopped"
+    },
+    {
+      "group": "Quesadillas",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large flour tortillas (about 25 cm)",
+      "note": "about 60 g each"
+    },
+    {
+      "group": "Quesadillas",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lime, cut into wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the mushrooms",
+      "text": "Put the mushrooms and 3 tbsp water in the pan over medium-high heat, cover and cook for 4 minutes until collapsed. Uncover and cook 4-5 minutes until the liquid has gone."
+    },
+    {
+      "title": "Brown the vegetables",
+      "text": "Add the oil, pepper and onion and cook for 6-7 minutes, stirring, until browned and soft. Stir in the garlic, oregano and salt for 1 minute. Tip into the bowl, cool 5 minutes and wipe out the pan."
+    },
+    {
+      "title": "Mix the filling",
+      "text": "Stir the mozzarella, queso fresco and coriander into the vegetables."
+    },
+    {
+      "title": "Fill",
+      "text": "Spread a quarter of the filling over one half of each tortilla, leaving a 1 cm border, and fold over, pressing gently."
+    },
+    {
+      "title": "Cook",
+      "text": "Put the rack on its tray in a 100 °C (80 °C fan) oven. Heat 1 tbsp oil in the pan over medium heat and cook 2 quesadillas 2-3 minutes per side until crisp and golden and the cheese has melted. Keep warm and repeat."
+    },
+    {
+      "title": "Serve",
+      "text": "Cut into wedges and serve with lime."
+    }
+  ],
+  "tips": [
+    "Starting the mushrooms in water drives out their moisture fast so they brown instead of stewing.",
+    "Cool the filling slightly so the cheese doesn't melt before the tortillas crisp.",
+    "A green pepper works if you can't find poblano; add a pinch of chilli flakes for heat."
+  ],
+  "storage": "Refrigerate leftovers within 1 hour and eat within 3 days. Reheat in a dry pan until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 464,
+    "protein_g": 19.3,
+    "carbs_g": 39.4,
+    "sugar_g": 6.5,
+    "free_sugar_g": 1.7,
+    "fat_g": 26.8,
+    "satfat_g": 8.7,
+    "salt_g": 2.35,
+    "fibre_g": 3.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "quesadilla-basic--mushroom.jpg",
+  "image_alt": "Crisp mushroom quesadilla wedges with melted cheese and herbs on a board.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

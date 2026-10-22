@@ -1,0 +1,130 @@
+{
+  "slug": "new-england-lobster-rolls-buttered-toasted-buns",
+  "title": "New England Lobster Rolls in Buttered, Toasted Buns",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "lobster-roll",
+  "dish_title": "Lobster roll",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Cooked lobster is folded through a light mayonnaise, celery, lemon and chive dressing, then served cold in hot, butter-toasted buns lined with lettuce.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 6,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "large non-stick frying pan",
+    "butter knife",
+    "chopping board and sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Lobster",
+      "qty": 450,
+      "unit": "g",
+      "item": "cooked lobster meat, in 1-2 cm chunks",
+      "note": "from about 3 × 600 g lobsters"
+    },
+    {
+      "group": "Lobster",
+      "qty": 50,
+      "unit": "g",
+      "item": "mayonnaise (halal-certified)"
+    },
+    {
+      "group": "Lobster",
+      "qty": 40,
+      "unit": "g",
+      "item": "celery, finely chopped",
+      "note": "1 stick"
+    },
+    {
+      "group": "Lobster",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Lobster",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "chives, finely chopped"
+    },
+    {
+      "group": "Lobster",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Rolls",
+      "qty": 6,
+      "unit": "pc",
+      "item": "hot dog buns (top-split if you can find them)",
+      "note": "about 45 g each"
+    },
+    {
+      "group": "Rolls",
+      "qty": 25,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Rolls",
+      "qty": 6,
+      "unit": "pc",
+      "item": "soft lettuce leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the salad",
+      "text": "Whisk the mayonnaise, celery, lemon juice, chives and cayenne in the bowl. Fold in the lobster gently so the chunks stay whole, then chill while you toast the buns."
+    },
+    {
+      "title": "Toast the buns",
+      "text": "Spread the outsides of the buns with the butter. Toast them in the pan over medium-low heat for 2-3 minutes per side until crisp and golden."
+    },
+    {
+      "title": "Fill",
+      "text": "Line each bun with a lettuce leaf, pile in the lobster salad and serve straight away, while the bun is warm and the filling cold."
+    }
+  ],
+  "tips": [
+    "Use just enough mayonnaise to coat; the lobster should be the star.",
+    "Pat cooked lobster meat dry so the dressing doesn't turn watery.",
+    "Top-split buns are traditional because they have flat sides to toast."
+  ],
+  "storage": "Not suitable for storing once assembled. Keep the lobster salad covered in the fridge below 5 °C and use within 1 day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "celery",
+    "crustaceans"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 281,
+    "protein_g": 18.9,
+    "carbs_g": 23.1,
+    "sugar_g": 3.5,
+    "free_sugar_g": 3.4,
+    "fat_g": 12.1,
+    "satfat_g": 3.7,
+    "salt_g": 1.62,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "lobster-roll-advanced.jpg",
+  "image_alt": "A butter-toasted bun piled with chunks of lobster salad and chives.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

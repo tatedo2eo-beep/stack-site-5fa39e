@@ -1,0 +1,157 @@
+{
+  "slug": "spiced-chicken-cheddar-jack-quesadillas-pickled-jalapenos",
+  "title": "Spiced Chicken, Cheddar and Jack Quesadillas with Pickled Jalapeños",
+  "category": "burgers-sandwiches",
+  "cuisine": "Mexican",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "quesadilla",
+  "dish_title": "Quesadilla",
+  "flavour": "Chicken",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Spiced chicken breasts are pan-cooked to 74 °C and shredded, mixed with two cheeses, jalapeños and spring onions, then folded into tortillas and cooked until crisp.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large non-stick frying pan (at least 26 cm)",
+    "instant-read thermometer",
+    "two forks",
+    "box grater",
+    "large bowl",
+    "wide fish slice (spatula)",
+    "wire rack set on a baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 400,
+      "unit": "g",
+      "item": "boneless, skinless chicken breasts (halal)"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "chilli powder"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Quesadillas",
+      "qty": 120,
+      "unit": "g",
+      "item": "Monterey Jack, coarsely grated"
+    },
+    {
+      "group": "Quesadillas",
+      "qty": 60,
+      "unit": "g",
+      "item": "mature Cheddar, coarsely grated"
+    },
+    {
+      "group": "Quesadillas",
+      "qty": 30,
+      "unit": "g",
+      "item": "pickled jalapeño slices, chopped"
+    },
+    {
+      "group": "Quesadillas",
+      "qty": 2,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced"
+    },
+    {
+      "group": "Quesadillas",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large flour tortillas (about 25 cm)",
+      "note": "about 60 g each"
+    },
+    {
+      "group": "Quesadillas",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 80,
+      "unit": "g",
+      "item": "soured cream, to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lime, cut into wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the chicken",
+      "text": "Rub the breasts with the oil, chilli powder and cumin. Cook in the pan over medium heat for 5-6 minutes per side until 74 °C in the thickest part. Rest 5 minutes, shred with two forks and wipe out the pan."
+    },
+    {
+      "title": "Mix the filling",
+      "text": "Toss the chicken with both cheeses, the jalapeños and spring onions in the bowl."
+    },
+    {
+      "title": "Fill",
+      "text": "Scatter a quarter of the filling over one half of each tortilla, leaving a 1 cm border, and fold over, pressing gently."
+    },
+    {
+      "title": "Heat up",
+      "text": "Put the rack on its tray in a 100 °C (80 °C fan) oven. Heat 1 tbsp oil in the pan over medium heat."
+    },
+    {
+      "title": "Cook",
+      "text": "Cook 2 quesadillas for 2-3 minutes until crisp and golden underneath, then flip and cook 2 minutes more until the cheese has melted and the filling is piping hot. Keep warm on the rack and repeat with the remaining oil."
+    },
+    {
+      "title": "Serve",
+      "text": "Cut each into 3 wedges and serve with soured cream and lime wedges."
+    }
+  ],
+  "tips": [
+    "No salt is added: the cheese, jalapeños and tortillas season the filling.",
+    "Mixing the filling first means every wedge gets chicken and cheese.",
+    "Leftover roast chicken works too; use about 300 g shredded."
+  ],
+  "storage": "Refrigerate leftovers within 1 hour and eat within 3 days. Reheat in a dry pan until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 609,
+    "protein_g": 39.1,
+    "carbs_g": 32.7,
+    "sugar_g": 2.9,
+    "free_sugar_g": 1.7,
+    "fat_g": 35.6,
+    "satfat_g": 12.7,
+    "salt_g": 2.3,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "quesadilla-basic--chicken.jpg",
+  "image_alt": "Golden chicken and cheese quesadilla wedges with melted cheese, soured cream and lime.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}
