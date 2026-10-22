@@ -1,10 +1,93 @@
-<h1>Calculator</h1>
-<p class="draft-note"><strong>Coming soon.</strong> This is a reserved slot in the menu.</p>
-<p class="lead">A calculator for your daily energy and protein needs is being built. When it's ready it will live here, in the same look as the rest of {{BRAND}}.</p>
-<h2>What it will do</h2>
-<ul>
-<li>Estimate how much energy you use in a day from your age, height, weight and activity.</li>
-<li>Suggest a protein range, and show which recipes fit it.</li>
-<li>Explain every number and link to the guidance it comes from.</li>
+<section class="nc" data-nc data-base="{{BASE}}" aria-labelledby="nc-title">
+  <header class="nc-head">
+    <h1 id="nc-title">Daily needs calculator</h1>
+    <p class="nc-lead">Find a starting point for your daily calories, protein, fat, carbs, fibre, sugar, salt and water, with the reason behind each number.</p>
+  </header>
+
+  <div class="nc-disclaimer" role="note">
+    <p><strong>General information, not medical advice.</strong> This tool is for healthy adults (18+). It is not for pregnancy or breastfeeding, anyone under 18, or anyone with a medical condition such as diabetes, kidney disease or an eating disorder. If that's you, please speak to your doctor or a registered dietitian.</p>
+  </div>
+
+  <form class="nc-card nc-form" novalidate>
+    <fieldset class="nc-field">
+      <legend>Sex</legend>
+      <div class="nc-seg">
+        <input type="radio" id="nc-sex-f" name="nc-sex" value="female" required><label for="nc-sex-f">Female</label>
+        <input type="radio" id="nc-sex-m" name="nc-sex" value="male"><label for="nc-sex-m">Male</label>
+      </div>
+      <p class="nc-range">The calorie formula uses sex at birth because it affects body make-up.</p>
+    </fieldset>
+
+    <div class="nc-field">
+      <label for="nc-age">Age (years)</label>
+      <input type="number" id="nc-age" name="nc-age" inputmode="numeric" min="1" max="110" step="1" placeholder="e.g. 35" required>
+    </div>
+
+    <div class="nc-field">
+      <label for="nc-cm">Height (cm)</label>
+      <input type="number" id="nc-cm" name="nc-cm" inputmode="decimal" min="120" max="230" step="0.5" placeholder="e.g. 170" required>
+    </div>
+
+    <div class="nc-field">
+      <label for="nc-kg">Weight (kg)</label>
+      <input type="number" id="nc-kg" name="nc-kg" inputmode="decimal" min="30" max="300" step="0.1" placeholder="e.g. 70" required>
+    </div>
+
+    <div class="nc-field nc-span2">
+      <label for="nc-activity">How active are you on a normal day?</label>
+      <select id="nc-activity" name="nc-activity" required>
+        <option value="sedentary">Mostly sitting, little exercise</option>
+        <option value="moderate" selected>Moderately active</option>
+        <option value="active">Active</option>
+        <option value="very">Very active</option>
+      </select>
+      <p class="nc-range"><strong>Mostly sitting:</strong> desk job, little exercise. <strong>Moderately active:</strong> on your feet some of the day, or exercise 2&ndash;3 times a week. <strong>Active:</strong> physical job, or exercise most days. <strong>Very active:</strong> hard physical job, or hard training every day.</p>
+    </div>
+
+    <fieldset class="nc-field">
+      <legend>Do you lift weights or do other resistance training?</legend>
+      <div class="nc-seg">
+        <input type="radio" id="nc-lift-y" name="nc-lift" value="yes"><label for="nc-lift-y">Yes, 2+ times a week</label>
+        <input type="radio" id="nc-lift-n" name="nc-lift" value="no" checked><label for="nc-lift-n">No</label>
+      </div>
+    </fieldset>
+
+    <fieldset class="nc-field">
+      <legend>Your goal</legend>
+      <div class="nc-seg">
+        <input type="radio" id="nc-goal-l" name="nc-goal" value="lose"><label for="nc-goal-l">Lose fat</label>
+        <input type="radio" id="nc-goal-m" name="nc-goal" value="maintain" checked><label for="nc-goal-m">Maintain</label>
+        <input type="radio" id="nc-goal-g" name="nc-goal" value="gain"><label for="nc-goal-g">Gain muscle</label>
+      </div>
+    </fieldset>
+
+    <div class="nc-field nc-span2">
+      <div class="nc-check nc-hidden" data-nc-preg>
+        <input type="checkbox" id="nc-pregnant" name="nc-pregnant"><label for="nc-pregnant">I'm pregnant or breastfeeding</label>
+      </div>
+      <div class="nc-check">
+        <input type="checkbox" id="nc-condition" name="nc-condition"><label for="nc-condition">I have a medical condition or take medicine that affects my diet or weight</label>
+      </div>
+    </div>
+
+    <div class="nc-field nc-span2">
+      <button type="submit" class="nc-btn">Calculate</button>
+    </div>
+  </form>
+
+  <div class="nc-out nc-hidden" data-nc-out aria-live="polite"></div>
+
+  <p class="nc-foot">How we got these numbers: Mifflin-St Jeor (1990) for resting calories, EFSA activity levels, and guidance from WHO, EFSA, the US Dietary Guidelines and peer-reviewed sports-nutrition research. Each result shows its sources. Want food that hits a high protein target? <a href="{{BASE}}macro-meals/">Macro Meals</a> (at least 10 g protein per 100 kcal) are coming soon.</p>
+</section>
+
+<h2>Where the numbers come from</h2>
+<ul class="nc-sources">
+<li><strong>Calories at rest (BMR):</strong> Mifflin-St Jeor equation, men 10 &times; kg + 6.25 &times; cm &minus; 5 &times; age + 5; women the same &minus; 161. <a href="https://pubmed.ncbi.nlm.nih.gov/2305711/" target="_blank" rel="noopener">Mifflin et al. 1990</a></li>
+<li><strong>Activity:</strong> BMR &times; 1.4 / 1.6 / 1.8 / 2.0 (EFSA physical activity levels). <a href="https://www.efsa.europa.eu/sites/default/files/2017_09_DRVs_summary_report.pdf" target="_blank" rel="noopener">EFSA 2017</a></li>
+<li><strong>Losing:</strong> 500 kcal below maintenance, not below 1,200 kcal (women) or 1,500 kcal (men). <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5819889/" target="_blank" rel="noopener">AHA/ACC/TOS 2013</a>. <strong>Gaining:</strong> 10% above maintenance. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6680710/" target="_blank" rel="noopener">Iraki et al. 2019</a></li>
+<li><strong>Protein:</strong> lifting 1.6&ndash;2.2 g/kg (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5867436/" target="_blank" rel="noopener">Morton et al. 2018</a>); exercising 1.4&ndash;2.0 g/kg (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/" target="_blank" rel="noopener">ISSN 2017</a>); losing weight 1.2&ndash;1.6 g/kg (<a href="https://pubmed.ncbi.nlm.nih.gov/25926512/" target="_blank" rel="noopener">Leidy et al. 2015</a>); everyone else 1.2&ndash;1.6 g/kg (<a href="https://cdn.realfood.gov/DGA.pdf" target="_blank" rel="noopener">US Dietary Guidelines 2025&ndash;2030</a>); minimum 0.83 g/kg (<a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2012.2557" target="_blank" rel="noopener">EFSA 2012</a>; US RDA 0.8 g/kg); over 65 at least 1.0&ndash;1.2 g/kg (<a href="https://pubmed.ncbi.nlm.nih.gov/23867520/" target="_blank" rel="noopener">PROT-AGE 2013</a>); never more than 35% of calories (<a href="https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf" target="_blank" rel="noopener">US DGA 2020&ndash;2025, App. 1</a>).</li>
+<li><strong>Fat, free sugar, salt, fibre:</strong> fat about 30% of calories, saturated fat under 10%, free sugar under 10% (ideally 5%), salt under 5 g, fibre at least 25 g. <a href="https://www.who.int/news-room/fact-sheets/detail/healthy-diet" target="_blank" rel="noopener">WHO Healthy diet</a>. Fat never under 20%, carbs 45&ndash;60%: <a href="https://www.efsa.europa.eu/en/press/news/nda100326" target="_blank" rel="noopener">EFSA</a>. Fibre 14 g per 1,000 kcal, carbs at least 130 g: <a href="https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf" target="_blank" rel="noopener">US DGA 2020&ndash;2025</a>.</li>
+<li><strong>Grams from calories:</strong> 4 kcal per g protein and carbs, 9 kcal per g fat. <a href="https://www.fao.org/4/y5022e/y5022e04.htm" target="_blank" rel="noopener">FAO 2003</a></li>
+<li><strong>Water:</strong> 2.0 litres (women) / 2.5 litres (men) a day from drinks and food. <a href="https://www.efsa.europa.eu/en/press/news/nda100326" target="_blank" rel="noopener">EFSA</a></li>
 </ul>
-<p>It gives estimates for healthy adults, not medical advice.</p>
+<p>Choosing one number inside each range (for example 1.6 g/kg rather than 2.2 g/kg) and rounding calories to 10 kcal are our own choices.</p>

@@ -22,7 +22,7 @@ ${cfg.noindex ? '<meta name="robots" content="noindex,nofollow">\n' : ''}<link r
 <meta name="theme-color" content="#111010">
 <link rel="icon" href="${u('favicon.svg')}" type="image/svg+xml">
 <script>(function(h){h.classList.replace('no-js','js');try{var L=${JSON.stringify(Object.fromEntries(D.DESIGNS.map(x => [x.k, x.pals.map(p => p.id)])))},d=localStorage.getItem('design'),p=localStorage.getItem('pal');if(L[d]){h.dataset.design=d;h.dataset.pal=L[d].indexOf(p)>-1?p:L[d][0]}var q=location.search.match(/[?&]preview=(premium|off)/);if(q){if(q[1]=='off')localStorage.removeItem('preview');else localStorage.setItem('preview','premium')}if(localStorage.getItem('preview')=='premium')h.classList.add('is-premium')}catch(e){}})(document.documentElement)</script>
-<link rel="stylesheet" href="${assets.css}">
+<link rel="stylesheet" href="${assets.css}">${(p.styles || []).map(s => `<link rel="stylesheet" href="${s}">`).join('')}
 ${p.head || ''}${p.jsonld ? `<script type="application/ld+json">${JSON.stringify(p.jsonld).replace(/</g, '\\u003c')}</script>` : ''}
 </head>
 <body class="${p.bodyClass || ''}">

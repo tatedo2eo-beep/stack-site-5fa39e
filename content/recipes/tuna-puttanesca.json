@@ -1,0 +1,170 @@
+{
+  "slug": "tuna-puttanesca",
+  "title": "Spaghetti Puttanesca with Tuna",
+  "category": "pasta-noodles",
+  "cuisine": "Italian (Campania)",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "puttanesca",
+  "dish_title": "Puttanesca",
+  "flavour": "Tuna",
+  "flavour_order": 100,
+  "access": "premium",
+  "base_recipe": "spaghetti-puttanesca",
+  "changes_from_base": "Flaked tinned tuna folded in off the heat; shallot and fried tomato purée added to the base; fewer anchovies.",
+  "extra_flavour": true,
+  "summary": "This follows the classic spaghetti puttanesca method, but uses fewer anchovies, adds shallot and fried tomato purée to the base, and folds in flaked tinned tuna off the heat at the end.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large frying pan or sauté pan (30 cm)",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta",
+      "qty": 400,
+      "unit": "g",
+      "item": "dried spaghetti or linguine"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 15,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.5%)",
+      "note": "about 2.5 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, coarsely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small shallot, thinly sliced"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "pc",
+      "item": "anchovy fillets in oil, chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "capers, rinsed"
+    },
+    {
+      "group": "Sauce",
+      "qty": 50,
+      "unit": "g",
+      "item": "pitted black olives, halved"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "tomato purée (paste)"
+    },
+    {
+      "group": "Sauce",
+      "qty": 800,
+      "unit": "g",
+      "item": "tinned whole plum tomatoes (2 tins), crushed by hand"
+    },
+    {
+      "group": "Sauce",
+      "qty": 200,
+      "unit": "g",
+      "item": "tinned tuna in olive oil, drained and flaked"
+    },
+    {
+      "group": "To finish",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "chopped flat-leaf parsley"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil the pasta water",
+      "text": "Bring 3 litres of water to the boil with only the 15 g of salt, since the anchovies, capers, olives and tuna all bring their own saltiness. Add the spaghetti or linguine, stirring during the first minute, and cook for 2 minutes less than the packet time."
+    },
+    {
+      "title": "Build the base",
+      "text": "While the water comes up to the boil, put the oil, garlic, shallot, anchovies, capers, olives and chilli flakes into the cold pan and bring to a sizzle over medium-high heat. Turn the heat down to medium-low and cook for 5-6 minutes, until the shallot has softened and the garlic is lightly golden."
+    },
+    {
+      "title": "Fry the tomato purée",
+      "text": "Stir in the tomato purée and cook for 1-2 minutes, stirring often, until it darkens slightly. Frying the purée directly in the hot oil caramelises its sugars, giving the sauce a deeper flavour than if it were added straight into the liquid."
+    },
+    {
+      "title": "Simmer the sauce",
+      "text": "Add the crushed tomatoes and simmer gently for 15 minutes, breaking up the larger pieces with a spoon as they soften. You're after a thick, chunky sauce that clings to the pasta rather than a thin one that runs off it."
+    },
+    {
+      "title": "Drain the pasta",
+      "text": "Reserve 240 ml of the pasta cooking water, then drain the spaghetti once its 2 minutes short of the packet time are up."
+    },
+    {
+      "title": "Fold in the tuna",
+      "text": "Take the sauce off the heat and fold in the flaked tuna and parsley in large pieces, stirring gently rather than beating it in. Adding the tuna off the heat at the very end keeps it moist, instead of turning dry and stringy from extra cooking."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Return the pan to medium heat, add the drained pasta and 60 ml of the reserved water, and toss for 1-2 minutes until al dente and well coated. Taste before adding any extra salt, as the sauce is already well seasoned, then serve straight away."
+    }
+  ],
+  "tips": [
+    "Hold back on extra salt until you taste at the end - anchovies, capers, olives and tuna already season the sauce generously.",
+    "Fold the tuna in off the heat at the very last minute; cooking it further turns it dry and stringy.",
+    "Fry the tomato purée until it darkens slightly before adding the tinned tomatoes - skipping this leaves the sauce tasting flat.",
+    "Keep back the reserved pasta water; a splash at the end helps the sauce coat the strands instead of sitting in a puddle."
+  ],
+  "storage": "Refrigerate in an airtight container for up to 2 days. Reheat gently in a pan with a splash of water, stirring, until piping hot throughout (74°C); freezing isn't recommended as the tuna's texture suffers on thawing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "fish"
+  ],
+  "diet": [
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 631,
+    "protein_g": 31.0,
+    "carbs_g": 86.5,
+    "sugar_g": 9.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 18.0,
+    "satfat_g": 2.9,
+    "salt_g": 2.48,
+    "fibre_g": 8.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "puttanesca-basic.jpg",
+  "image_alt": "Spaghetti in a chunky tomato sauce with black olives, capers and parsley in a black bowl on dark slate.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

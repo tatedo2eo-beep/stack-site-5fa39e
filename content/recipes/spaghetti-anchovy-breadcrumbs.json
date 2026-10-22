@@ -1,0 +1,154 @@
+{
+  "slug": "spaghetti-anchovy-breadcrumbs",
+  "title": "Spaghetti with Garlic, Anchovies and Toasted Breadcrumbs",
+  "category": "pasta-noodles",
+  "cuisine": "Italian (southern)",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "aglio-e-olio",
+  "dish_title": "Aglio e olio",
+  "flavour": "Anchovy and breadcrumbs",
+  "flavour_order": 100,
+  "access": "premium",
+  "base_recipe": "spaghetti-aglio-e-olio",
+  "changes_from_base": "Anchovies melted into the garlic oil; toasted breadcrumbs, lemon zest and parsley added; fresh chilli replaced by flakes; lighter-salted water.",
+  "extra_flavour": true,
+  "summary": "This follows the classic spaghetti aglio e olio method, but melts anchovies into the garlic oil and finishes with toasted breadcrumbs, lemon zest and parsley, using chilli flakes in place of fresh chilli and a lighter-salted pasta water.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large deep frying pan (30 cm)",
+    "small frying pan",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta",
+      "qty": 400,
+      "unit": "g",
+      "item": "dried spaghetti"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 15,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.5%)",
+      "note": "about 2.5 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Sauce",
+      "qty": 80,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 10,
+      "unit": "pc",
+      "item": "anchovy fillets in oil, drained and chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 5,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Breadcrumbs",
+      "qty": 70,
+      "unit": "g",
+      "item": "dried breadcrumbs (from stale bread)"
+    },
+    {
+      "group": "Breadcrumbs",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "To finish",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "chopped flat-leaf parsley"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, zest and wedges"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the breadcrumbs",
+      "text": "Warm 1 tbsp of oil in a small frying pan over medium-low heat, add the breadcrumbs and toast for 3-4 minutes, stirring constantly, until evenly golden. Tip them onto a plate as soon as they're coloured, since breadcrumbs burn quickly once they start to brown."
+    },
+    {
+      "title": "Cook the spaghetti",
+      "text": "Bring 3 litres of water to the boil with only the 15 g of salt, since the anchovies will add plenty of saltiness later. Add the spaghetti, stirring during the first minute, and cook for 1 minute less than the packet time."
+    },
+    {
+      "title": "Melt the anchovies",
+      "text": "Meanwhile, put the 80 ml of oil, anchovies, garlic and chilli flakes into the large pan while it's still cold, then warm over medium-low heat for 3-4 minutes. Press the anchovies with a spoon as they soften, until they dissolve into the oil and the garlic turns pale gold. Starting from a cold pan stops the garlic scorching before the anchovies have had time to melt in."
+    },
+    {
+      "title": "Build the emulsion",
+      "text": "Scoop out 240 ml of pasta water, then add 80 ml of it to the anchovy oil and boil hard for 1 minute until the liquid turns cloudy. This cloudy, starchy water is what lets the oil and water bind into a silky sauce instead of separating."
+    },
+    {
+      "title": "Toss the spaghetti",
+      "text": "Drain the spaghetti and add it straight to the pan, tossing over high heat for 1-2 minutes and adding small splashes of the remaining pasta water as needed, until every strand is glossy and coated. Take the pan off the heat once the sauce clings rather than pools at the bottom."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Off the heat, toss through the parsley, lemon zest, black pepper and half the toasted breadcrumbs. Serve topped with the remaining breadcrumbs for crunch, with lemon wedges alongside for squeezing over."
+    }
+  ],
+  "tips": [
+    "Start the anchovies in a cold pan rather than a hot one, so they melt into the oil before the garlic has a chance to burn.",
+    "Salt the pasta water lightly - the anchovies and oily breadcrumbs bring enough saltiness on their own.",
+    "Watch the breadcrumbs closely once they start to colour; they go from golden to burnt in seconds.",
+    "Toss the pasta hard over high heat with the reserved water so the oil and starch bind into a sauce instead of sitting separately."
+  ],
+  "storage": "Best eaten straight away, as the breadcrumbs lose their crunch on standing. Leftovers keep in the fridge for up to 1 day; reheat gently in a pan with a splash of water until piping hot (74°C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "fish"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 659,
+    "protein_g": 18.7,
+    "carbs_g": 89.2,
+    "sugar_g": 3.9,
+    "free_sugar_g": 1.1,
+    "fat_g": 24.9,
+    "satfat_g": 3.7,
+    "salt_g": 1.99,
+    "fibre_g": 4.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "aglio-e-olio-basic.jpg",
+  "image_alt": "Spaghetti glossy with olive oil, golden garlic slices, chilli and chopped parsley in a black bowl on dark slate.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

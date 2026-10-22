@@ -1,0 +1,189 @@
+{
+  "slug": "pasta-e-ceci",
+  "title": "Pasta e Ceci (Pasta and Chickpea Stew with Rosemary)",
+  "category": "pasta-noodles",
+  "cuisine": "Italian (Roman)",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "pasta-e-fagioli",
+  "dish_title": "Pasta e fagioli",
+  "flavour": "Chickpea",
+  "flavour_order": 100,
+  "access": "premium",
+  "base_recipe": "pasta-e-fagioli",
+  "changes_from_base": "Chickpeas replace cannellini or borlotti beans; chilli and lemon added; escarole or kale wilted in; celery and tomato purée left out.",
+  "extra_flavour": true,
+  "summary": "This follows the classic pasta e fagioli method, but uses chickpeas in place of cannellini or borlotti beans, adds chilli and lemon, wilts in escarole or kale, and leaves out the celery and tomato purée.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy saucepan or casserole (at least 4 litres)",
+    "potato masher or wooden spoon",
+    "ladle"
+  ],
+  "ingredients": [
+    {
+      "group": "Soup",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small carrot, finely chopped"
+    },
+    {
+      "group": "Soup",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Soup",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "finely chopped rosemary"
+    },
+    {
+      "group": "Soup",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Soup",
+      "qty": 200,
+      "unit": "g",
+      "item": "tinned whole plum tomatoes, drained and crushed"
+    },
+    {
+      "group": "Soup",
+      "qty": 2,
+      "unit": "pc",
+      "item": "400 g tins chickpeas, drained and rinsed (about 480 g drained)"
+    },
+    {
+      "group": "Soup",
+      "qty": 900,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Soup",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Soup",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Soup",
+      "qty": 150,
+      "unit": "g",
+      "item": "ditalini or other small pasta"
+    },
+    {
+      "group": "Soup",
+      "qty": 100,
+      "unit": "g",
+      "item": "escarole, kale or spinach, roughly chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "To serve",
+      "qty": 25,
+      "unit": "g",
+      "item": "pecorino or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil, to drizzle"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften the vegetables",
+      "text": "Warm the olive oil in a large heavy saucepan over medium heat and cook the onion and carrot for 5-6 minutes, until softened but not coloured. Keep the heat gentle so the vegetables sweeten slowly rather than catching and turning bitter."
+    },
+    {
+      "title": "Add the aromatics",
+      "text": "Stir in the garlic, rosemary and chilli flakes and cook for 1 minute, just until fragrant. Keep stirring at this stage, as garlic and rosemary can turn bitter if left too long over direct heat."
+    },
+    {
+      "title": "Add tomatoes and chickpeas",
+      "text": "Tip in the crushed tomatoes and chickpeas, then crush about a quarter of the chickpeas against the side of the pot with a spoon or masher. Crushing some of the chickpeas releases their starch into the broth, naturally thickening the stew without any flour or cream."
+    },
+    {
+      "title": "Simmer the broth",
+      "text": "Pour in the water and add the salt and pepper, then bring to the boil before turning down to a simmer for 10 minutes. This gives the flavours time to come together into a well-seasoned broth before the pasta goes in."
+    },
+    {
+      "title": "Cook the pasta",
+      "text": "Add the ditalini and simmer for 10-12 minutes, stirring often so it doesn't catch on the bottom, until al dente and most of the liquid has been absorbed. For a brothier, soupier stew, stir in a splash more water towards the end."
+    },
+    {
+      "title": "Wilt in the greens",
+      "text": "Stir in the escarole, kale or spinach and cook just until wilted, then stir through the lemon juice. The brief heat softens the leaves while keeping their colour and a little bite."
+    },
+    {
+      "title": "Serve and finish",
+      "text": "Ladle into bowls and finish each with a scattering of pecorino and a drizzle of extra-virgin olive oil. If reheating leftovers, add a splash of water and bring back to a simmer until piping hot throughout (74°C), as the pasta keeps absorbing liquid as it sits."
+    }
+  ],
+  "tips": [
+    "Crush some of the chickpeas against the pot rather than leaving them all whole; this is what thickens the broth naturally.",
+    "Stir often once the pasta goes in - small pasta shapes catch on the bottom of the pot easily as the liquid reduces.",
+    "Add the lemon juice at the end, off any high heat, so its brightness doesn't cook away.",
+    "Keep a little extra water on hand when reheating, since the pasta keeps soaking up liquid even once it's off the heat."
+  ],
+  "storage": "Refrigerate in an airtight container for up to 3 days, or freeze for up to 2 months (the pasta softens slightly on thawing). Reheat in a pan with a splash of water, stirring, until piping hot throughout (74°C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 489,
+    "protein_g": 17.2,
+    "carbs_g": 64.5,
+    "sugar_g": 9.6,
+    "free_sugar_g": 0.1,
+    "fat_g": 19.1,
+    "satfat_g": 3.4,
+    "salt_g": 2.2,
+    "fibre_g": 11.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pasta-e-fagioli-basic.jpg",
+  "image_alt": "A thick bean and pasta soup topped with grated cheese and a sprig of rosemary in a black bowl on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

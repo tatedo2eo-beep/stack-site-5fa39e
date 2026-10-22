@@ -1,0 +1,219 @@
+{
+  "slug": "spinach-ricotta-lasagne",
+  "title": "Spinach and Ricotta Lasagne",
+  "category": "pasta-noodles",
+  "cuisine": "Italian",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "sheets-baked-lasagne",
+  "dish_title": "Sheets/baked (lasagne)",
+  "flavour": "Spinach and ricotta",
+  "flavour_order": 100,
+  "access": "premium",
+  "base_recipe": "lasagne-bolognese",
+  "changes_from_base": "Meat ragù replaced by wilted, well-drained spinach folded into seasoned ricotta with egg and Parmesan; mozzarella between the layers.",
+  "extra_flavour": true,
+  "summary": "This follows the classic lasagne bolognese method, but swaps the meat ragù for wilted, well-drained spinach folded into seasoned ricotta with egg and Parmesan, layered with mozzarella and béchamel.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 60,
+  "difficulty": "medium",
+  "equipment": [
+    "large saucepan or casserole",
+    "fine sieve",
+    "food processor or large bowl and whisk",
+    "medium saucepan",
+    "whisk",
+    "baking dish about 23 x 33 cm",
+    "foil",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Spinach",
+      "qty": 1000,
+      "unit": "g",
+      "item": "fresh spinach, washed (or 600 g frozen leaf spinach, thawed)"
+    },
+    {
+      "group": "Spinach",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Spinach",
+      "qty": 1,
+      "unit": "pc",
+      "item": "shallot, finely chopped"
+    },
+    {
+      "group": "Spinach",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Spinach",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Ricotta",
+      "qty": 500,
+      "unit": "g",
+      "item": "whole-milk ricotta"
+    },
+    {
+      "group": "Ricotta",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Ricotta",
+      "qty": 60,
+      "unit": "g",
+      "item": "Parmesan or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "Ricotta",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Ricotta",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Ricotta",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 50,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 45,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 800,
+      "unit": "ml",
+      "item": "whole milk, warmed"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Assembly",
+      "qty": 250,
+      "unit": "g",
+      "item": "dried no-pre-cook lasagne sheets"
+    },
+    {
+      "group": "Assembly",
+      "qty": 200,
+      "unit": "g",
+      "item": "mozzarella, grated"
+    },
+    {
+      "group": "Assembly",
+      "qty": 30,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Wilt the spinach",
+      "text": "Warm the olive oil in a large saucepan over medium heat and soften the shallot and garlic for 1 minute. Add the spinach in handfuls, stirring each batch down before adding the next, until fully wilted. Keep cooking until the liquid it releases has evaporated and the pan looks dry, since watery spinach is the most common cause of a soggy lasagne."
+    },
+    {
+      "title": "Drain and chop",
+      "text": "Tip the wilted spinach into a fine sieve and press down hard with a spatula to squeeze out as much liquid as possible. Roughly chop the drained spinach. The drier it is now, the firmer each slice of lasagne will hold together later."
+    },
+    {
+      "title": "Mix the ricotta filling",
+      "text": "Blend or whisk the ricotta, egg, Parmesan, nutmeg, salt and pepper together until smooth. Fold in the drained, chopped spinach until evenly distributed through the mixture. The egg sets lightly as the lasagne bakes, holding the ricotta in soft, sliceable layers rather than letting it ooze out."
+    },
+    {
+      "title": "Make the béchamel",
+      "text": "Melt the butter in a medium saucepan, then whisk in the flour and cook for 1-2 minutes without letting it colour, to cook out the raw flour taste. Gradually whisk in the warm milk, a little at a time, keeping the sauce smooth before each new addition. Add the bay leaf and salt and simmer for 8-10 minutes, whisking often, until the sauce coats the back of a spoon; discard the bay leaf once done."
+    },
+    {
+      "title": "Preheat the oven",
+      "text": "Preheat the oven to 190°C (170°C fan) at least 20 minutes ahead, so the dish cooks evenly from the moment it goes in. Use this time to have the baking dish, lasagne sheets and remaining ingredients ready for assembly."
+    },
+    {
+      "title": "Layer the lasagne",
+      "text": "Spread a thin coat of béchamel over the base of the 23 x 33 cm dish, then add a layer of sheets, a third of the spinach-ricotta mixture, a little béchamel and a quarter of the mozzarella. Repeat this layering twice more, then finish with a final layer of sheets, the rest of the béchamel, and the remaining mozzarella and Parmesan on top. Make sure every sheet touches sauce, as any dry patch of pasta will stay hard and chalky once baked."
+    },
+    {
+      "title": "Bake covered then open",
+      "text": "Cover the dish loosely with tented foil, so it doesn't touch the cheese, and bake on the tray for 30 minutes. Uncover and bake for a further 20-25 minutes, until the top is bubbling and golden and a knife slides through the layers easily; check the centre reaches 74°C. The uncovered stage lets the top brown and crisp while the inside finishes cooking through."
+    },
+    {
+      "title": "Rest before serving",
+      "text": "Leave the lasagne to rest for 15 minutes before cutting. This short rest lets the béchamel and ricotta layers firm up slightly, so slices lift out cleanly instead of collapsing."
+    }
+  ],
+  "tips": [
+    "Squeeze the spinach as dry as possible - leftover water is the main reason spinach lasagne turns watery.",
+    "Make sure every pasta sheet is covered in sauce; dry edges stay hard and crunchy after baking.",
+    "Let the lasagne rest for the full 15 minutes before slicing, or the layers will slide apart.",
+    "Check the centre reaches 74°C before serving, especially if your oven runs cool."
+  ],
+  "storage": "Cool completely, then refrigerate covered for up to 3 days or freeze (baked or unbaked) for up to 3 months. Reheat in a 180°C (160°C fan) oven, covered, until piping hot and the centre reaches 74°C. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 518,
+    "protein_g": 26.6,
+    "carbs_g": 43.9,
+    "sugar_g": 7.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 27.1,
+    "satfat_g": 15.5,
+    "salt_g": 2.18,
+    "fibre_g": 4.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sheets-baked-lasagne-basic.jpg",
+  "image_alt": "A neat slice of beef lasagne with a golden, bubbling top on a black plate, the baking dish behind it.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

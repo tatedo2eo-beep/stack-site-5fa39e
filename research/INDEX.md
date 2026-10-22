@@ -129,6 +129,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pappardelle-beef-ragu | Pappardelle | Classic | 2 | 4 |
 | pasta-al-limone | Pasta al limone | Classic | 2 | 4 |
 | pasta-alla-norma | Alla Norma | Classic | 2 | 4 |
+| pasta-e-ceci | Pasta e fagioli | Chickpea | 2 | 4 |
 | pasta-e-fagioli | Pasta e fagioli | Classic | 2 | 4 |
 | pasta-primavera | Pasta primavera | Classic | 3 | 5 |
 | pastitsio | Pastitsio | Classic | 3 | 5 |
@@ -157,16 +158,21 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | southern-fried-chicken | Fried chicken (Southern) | Classic | 3 | 6 |
 | spaghetti-aglio-e-olio | Aglio e olio | Classic | 2 | 4 |
 | spaghetti-al-pomodoro | Long dried (spaghetti, linguine, bucatini) | Classic | 3 | 5 |
+| spaghetti-anchovy-breadcrumbs | Aglio e olio | Anchovy and breadcrumbs | 2 | 4 |
 | spaghetti-and-meatballs | Spaghetti with meatballs | Classic | 2 | 4 |
 | spaghetti-puttanesca | Puttanesca | Classic | 2 | 4 |
+| spaghetti-roasted-cherry-tomatoes | Long dried (spaghetti, linguine, bucatini) | Cherry tomato | 2 | 4 |
 | speculoos | Speculoos | Classic | 3 | 5 |
 | spicy-chicken-burger | Chicken burger | Spicy (cayenne/hot sauce) | 2 | 8 |
 | spinach-ricotta-cannelloni | Cannelloni | Classic | 2 | 4 |
+| spinach-ricotta-lasagne | Sheets/baked (lasagne) | Spinach and ricotta | 3 | 5 |
+| stovetop-mac-and-cheese | Mac and cheese | Stovetop | 3 | 5 |
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
 | thumbprint-cookies | Thumbprints | Classic | 3 | 5 |
 | trenette-al-pesto | Trenette al pesto | Classic | 3 | 5 |
 | trofie-al-pesto | Trofie | Classic | 3 | 5 |
+| tuna-puttanesca | Puttanesca | Tuna | 2 | 4 |
 | vegetable-chow-mein | Chow mein/lo mein | Vegetable | 2 | 4 |
 | vegetable-lo-mein | Lo mein | Vegetable | 2 | 4 |
 | yakisoba | Yakisoba | Classic | 2 | 4 |

@@ -1,0 +1,164 @@
+{
+  "slug": "stovetop-mac-and-cheese",
+  "title": "Creamy Stovetop Macaroni Cheese",
+  "category": "pasta-noodles",
+  "cuisine": "British / American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "mac-and-cheese",
+  "dish_title": "Mac and cheese",
+  "flavour": "Stovetop",
+  "flavour_order": 100,
+  "access": "premium",
+  "base_recipe": "baked-mac-and-cheese",
+  "changes_from_base": "Finished on the hob instead of baked; cheeses stirred into the sauce off the heat; optional toasted panko instead of a baked crumb.",
+  "extra_flavour": true,
+  "summary": "This follows the classic baked macaroni cheese method, but finishes entirely on the hob instead of in the oven, with the cheeses stirred into the sauce off the heat for a looser, creamier result and optional toasted panko standing in for a baked crumb.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot (at least 4 litres)",
+    "large saucepan",
+    "whisk",
+    "colander",
+    "small frying pan",
+    "heatproof mug"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta",
+      "qty": 350,
+      "unit": "g",
+      "item": "dried macaroni (elbows)"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 15,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.5%)",
+      "note": "about 2.5 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 25,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 600,
+      "unit": "ml",
+      "item": "whole milk, warmed"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "English mustard powder"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 200,
+      "unit": "g",
+      "item": "mature Cheddar, grated"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 50,
+      "unit": "g",
+      "item": "Gruyère or Monterey Jack, grated"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Crunchy topping (optional)",
+      "qty": 40,
+      "unit": "g",
+      "item": "panko breadcrumbs"
+    },
+    {
+      "group": "Crunchy topping (optional)",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the panko",
+      "text": "If using the crunchy topping, warm the oil in a small frying pan over medium heat, add the panko and toast for 3-4 minutes, stirring constantly, until evenly golden. Tip the crumbs onto a plate straightaway so they don't keep colouring in the hot pan."
+    },
+    {
+      "title": "Cook the macaroni",
+      "text": "Bring 3 litres of water to the boil and stir in the 15 g of salt. Add the macaroni, stirring during the first minute so it doesn't stick, and cook until fully al dente according to the packet time, since this version isn't finished in the oven and needs to be cooked right through. Reserve 240 ml of the cooking water, then drain."
+    },
+    {
+      "title": "Build the roux",
+      "text": "While the pasta cooks, melt the butter in a large saucepan over medium-low heat and whisk in the flour, cooking for 2 minutes until smooth. This short cooking lets the flour's starch swell gently without browning, so it can thicken the milk cleanly without a raw, floury taste."
+    },
+    {
+      "title": "Whisk in the milk",
+      "text": "Add the warm milk a ladleful at a time, whisking each addition smooth before pouring in the next, to stop lumps forming. Simmer for 2 minutes once it's all in, until slightly thickened. Stir in the mustard powder and cayenne, which add background warmth that sharpens the cheese flavour without tasting spicy."
+    },
+    {
+      "title": "Melt in the cheese",
+      "text": "Take the pan off the heat completely, then stir in the Cheddar and Gruyère or Jack a handful at a time, letting each addition melt before adding more. Working off the heat keeps the sauce smooth, since cheese melted too hard or too fast can split into grainy curds and oily fat. Keep stirring until fully smooth and glossy."
+    },
+    {
+      "title": "Fold in the pasta",
+      "text": "Add the drained macaroni to the cheese sauce and fold through, loosening with a splash of the reserved pasta water until it coats every piece thickly. Season with the black pepper and taste before adding any extra salt, as the cheeses are already salty. Serve immediately, scattered with the panko if using, as the sauce thickens noticeably as it sits."
+    }
+  ],
+  "tips": [
+    "Take the pan off the heat before adding the cheese - melting it over direct heat is what makes the sauce turn grainy or oily.",
+    "Add the milk gradually and whisk out any lumps before pouring in more, or the sauce will end up patchy.",
+    "Loosen the finished sauce with the reserved pasta water rather than extra milk, which can dilute the flavour.",
+    "Serve straight away; stovetop macaroni cheese thickens quickly as it cools."
+  ],
+  "storage": "Refrigerate in an airtight container for up to 2 days; it isn't suitable for freezing as the sauce separates on thawing. Reheat gently in a pan with a splash of milk or water, stirring, until piping hot throughout (74°C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 821,
+    "protein_g": 34.1,
+    "carbs_g": 85.8,
+    "sugar_g": 10.8,
+    "free_sugar_g": 0.6,
+    "fat_g": 37.3,
+    "satfat_g": 19.6,
+    "salt_g": 1.95,
+    "fibre_g": 3.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "mac-and-cheese-basic.jpg",
+  "image_alt": "Baked macaroni cheese with a golden, crunchy crumb top in a black oval dish on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

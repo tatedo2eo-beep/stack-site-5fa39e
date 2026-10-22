@@ -82,7 +82,10 @@ async function buildAssets() {
   const css = rd('vendor/tami/css/fonts.css').replace(/url\(\.\.\/fonts\//g, `url(${cfg.basePath}fonts/`) + rd('vendor/tami/css/base.css') + rd('vendor/tami/css/designs.css') + require('./templates/designs').paletteCss({ design: cfg.defaultDesign, palette: cfg.defaultPalette }) + rd('src/assets/css/extras.css') + rd('src/assets/css/mobile.css');
   const cssMin = (await esbuild.transform(css, { loader: 'css', minify: true, target: ['chrome90', 'safari14', 'firefox90'] })).code;
   a.css = cfg.basePath + `assets/site.${hash(cssMin)}.css`; writeFile(a.css.slice(cfg.basePath.length), cssMin);
-  for (const n of ['site', 'recipe', 'list', 'hero']) {
+  // calculator page only: its own CSS file, so other pages are unchanged
+  const calcCss = (await esbuild.transform(rd('src/assets/css/calculator.css'), { loader: 'css', minify: true, target: ['chrome90', 'safari14', 'firefox90'] })).code;
+  a.calcCss = cfg.basePath + `assets/calculator.${hash(calcCss)}.css`; writeFile(a.calcCss.slice(cfg.basePath.length), calcCss);
+  for (const n of ['site', 'recipe', 'list', 'hero', 'calculator']) {
     const js = fs.readFileSync(path.join(ROOT, `src/assets/js/${n}.js`), 'utf8');
     const min = (await esbuild.transform(js, { loader: 'js', minify: true, target: 'es2018' })).code;
     a.js[n] = cfg.basePath + `assets/${n}.${hash(min)}.js`; writeFile(a.js[n].slice(cfg.basePath.length), min);
@@ -210,9 +213,10 @@ function placeholderSvg(label) {
     emit(P.plansPage(ctx));
     const frag = n => fs.readFileSync(path.join(ROOT, 'content/pages', n), 'utf8')
       .replace(/\{\{BRAND\}\}/g, cfg.brand).replace(/\{\{EMAIL\}\}/g, cfg.contactEmail + (cfg.contactEmailIsPlaceholder ? ' (placeholder address)' : ''))
-      .replace(/\{\{UPDATED\}\}/g, new Date().toISOString().slice(0, 10))
+      .replace(/\{\{UPDATED\}\}/g, new Date().toISOString().slice(0, 10)).replace(/\{\{BASE\}\}/g, cfg.basePath)
       .replace(/<!--HL-->([\s\S]*?)<!--\/HL-->/g, cfg.healthyLabels === false ? '' : '$1');
-    emit({ ...P.simplePage(ctx, 'calculator/', 'Calculator (coming soon)', frag('calculator.html'), 'A nutrition calculator is coming soon.'), navKey: 'calculator' });
+    emit({ ...P.simplePage(ctx, 'calculator/', 'Daily needs calculator: calories, protein and more', frag('calculator.html'), 'Work out your daily calories, protein, fat, carbs, fibre, free sugar, salt and water, metric, with the source of every number.'), navKey: 'calculator', scripts: [assets.js.calculator], styles: [assets.calcCss] });
+    emit(P.simplePage(ctx, 'macro-meals/', 'Macro Meals (coming soon)', frag('macro-meals.html'), 'Macro Meals: high-protein recipes with at least 10 g protein per 100 kcal. Coming soon.'));
     emit(P.simplePage(ctx, 'about/', 'About', frag('about.html'), `About ${cfg.brand}.`));
     emit(P.simplePage(ctx, 'contact/', 'Contact', frag('contact.html'), `Contact ${cfg.brand}.`));
     emit(P.simplePage(ctx, 'privacy/', 'Privacy policy (draft)', frag('privacy.html'), 'Privacy policy (draft).'));

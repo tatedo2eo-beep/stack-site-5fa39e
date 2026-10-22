@@ -1,0 +1,71 @@
+/* Joe's Stack Nutrition Calculator. All colours come from the host theme variables:
+   --bg --surface --text --muted --accent --line (optional --on-accent). Scoped under .nc. */
+.nc{box-sizing:border-box;color:var(--text,#f2ebdd);font-family:inherit;line-height:1.5;display:block;max-width:1100px;margin:0 auto;padding:0 16px}
+.nc *,.nc *::before,.nc *::after{box-sizing:border-box}
+.nc p{margin:0}
+.nc a{color:var(--accent,#c9a45c);text-underline-offset:2px}
+.nc a:focus-visible{outline:2px solid var(--accent,#c9a45c);outline-offset:2px;border-radius:2px}
+.nc-head{margin:0 0 16px}
+.nc-head h2{margin:0 0 6px;font-size:clamp(1.4rem,4vw,2rem);line-height:1.2}
+.nc-lead{color:var(--muted,#b5ab9b)}
+.nc-sr{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+
+.nc-card{background:var(--surface,#1a1816);border:1px solid var(--line,#3b352d);border-radius:12px;padding:16px;margin:16px 0}
+.nc-form{display:grid;grid-template-columns:1fr;gap:18px}
+@media (min-width:640px){.nc-form{grid-template-columns:1fr 1fr;padding:20px}.nc-span2{grid-column:1/-1}}
+.nc fieldset{border:0;margin:0;padding:0;min-width:0}
+.nc-field{display:flex;flex-direction:column;gap:8px;min-width:0}
+.nc legend,.nc-field>label{font-size:.9rem;font-weight:600;color:var(--text,#f2ebdd);line-height:1.3;padding:0;margin:0 0 8px}
+.nc-field>label{margin:0}
+.nc input[type=number],.nc select{min-height:44px;width:100%;padding:0 12px;border-radius:8px;border:1px solid var(--line,#3b352d);background:var(--bg,#111010);color:var(--text,#f2ebdd);font:inherit;font-size:1rem}
+.nc select{appearance:none;padding-right:36px;background-image:linear-gradient(45deg,transparent 50%,var(--muted,#b5ab9b) 50%),linear-gradient(135deg,var(--muted,#b5ab9b) 50%,transparent 50%);background-position:calc(100% - 18px) 50%,calc(100% - 13px) 50%;background-size:5px 5px;background-repeat:no-repeat;text-overflow:ellipsis}
+.nc input[type=number]:focus-visible,.nc select:focus-visible{outline:2px solid var(--accent,#c9a45c);outline-offset:2px}
+.nc input::placeholder{color:var(--muted,#b5ab9b);opacity:.8}
+.nc input:disabled{opacity:.5}
+.nc-pair{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.nc-mini{display:block;font-size:.78rem;color:var(--muted,#b5ab9b);margin:0 0 4px}
+
+.nc-seg{position:relative;display:flex;flex-wrap:wrap;gap:8px}
+.nc-seg input{position:absolute;opacity:0;width:1px;height:1px;margin:0;pointer-events:none}
+.nc-seg label{display:flex;align-items:center;justify-content:center;min-height:44px;padding:6px 16px;border:1px solid var(--line,#3b352d);border-radius:999px;background:var(--bg,#111010);color:var(--text,#f2ebdd);cursor:pointer;font-size:.9rem;text-align:center;transition:border-color .15s ease,background-color .15s ease}
+.nc-seg input:checked+label{border-color:var(--accent,#c9a45c);background:var(--surface,#1a1816);background:color-mix(in srgb,var(--accent,#c9a45c) 18%,var(--surface,#1a1816));font-weight:600}
+.nc-seg input:focus-visible+label{outline:2px solid var(--accent,#c9a45c);outline-offset:2px}
+.nc-units label{min-height:36px;padding:4px 14px;font-size:.8rem}
+.nc-check{display:flex;align-items:flex-start;gap:10px;min-height:44px;padding:6px 0}
+.nc-check input[type=checkbox]{width:22px;height:22px;flex:none;margin:1px 0 0;accent-color:var(--accent,#c9a45c)}
+.nc-check label{font-size:.9rem}
+
+.nc-btn{display:flex;align-items:center;justify-content:center;width:100%;min-height:48px;padding:0 24px;border:0;border-radius:10px;background:var(--accent,#c9a45c);color:var(--on-accent,#16110a);font:inherit;font-size:1rem;font-weight:700;cursor:pointer;transition:opacity .15s ease}
+.nc-btn:hover{opacity:.9}
+.nc-btn:focus-visible{outline:2px solid var(--text,#f2ebdd);outline-offset:3px}
+@media (min-width:640px){.nc-btn{width:auto;justify-self:start}}
+
+.nc-out{margin:16px 0;scroll-margin-top:80px}
+.nc-out:focus{outline:none}
+.nc-summary{color:var(--muted,#b5ab9b);margin:0 0 12px!important}
+.nc-results{display:grid;grid-template-columns:1fr;gap:12px;margin:0 0 12px}
+@media (min-width:640px){.nc-results{grid-template-columns:1fr 1fr}}
+@media (min-width:960px){.nc-results{grid-template-columns:1fr 1fr 1fr}}
+.nc-span-all{grid-column:1/-1}
+.nc-stat{background:var(--surface,#1a1816);border:1px solid var(--line,#3b352d);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.nc-stat-label{margin:0;font-size:.75rem;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--muted,#b5ab9b)}
+.nc-stat-value{font-size:1.7rem;font-weight:700;line-height:1.15;color:var(--accent,#c9a45c)}
+.nc-stat-sub,.nc-range{font-size:.82rem;color:var(--muted,#b5ab9b)}
+.nc-stat-why{font-size:.9rem;margin-top:4px!important}
+.nc-bar{display:flex;width:100%;height:12px;border-radius:999px;overflow:hidden;background:var(--line,#3b352d);margin:6px 0}
+.nc-bar span{display:block;height:100%}
+.nc-bar-p{background:var(--accent,#c9a45c)}
+.nc-bar-f{background:var(--muted,#b5ab9b);background:color-mix(in srgb,var(--accent,#c9a45c) 50%,var(--text,#f2ebdd))}
+.nc-bar-c{background:var(--line,#3b352d);background:color-mix(in srgb,var(--accent,#c9a45c) 30%,var(--surface,#1a1816))}
+
+.nc-note,.nc-warn{border-left:3px solid var(--accent,#c9a45c);background:var(--surface,#1a1816);padding:12px 14px;border-radius:8px;font-size:.92rem;margin:0 0 10px}
+.nc-note{background:color-mix(in srgb,var(--accent,#c9a45c) 8%,var(--surface,#1a1816))}
+.nc-warn{border-left-width:4px;background:color-mix(in srgb,var(--accent,#c9a45c) 16%,var(--surface,#1a1816));font-weight:600}
+.nc-disclaimer{font-size:.85rem;line-height:1.45;color:var(--muted,#b5ab9b);background:var(--surface,#1a1816);border:1px solid var(--line,#3b352d);border-radius:10px;padding:12px 14px}
+.nc-disclaimer strong{color:var(--text,#f2ebdd)}
+.nc-foot{font-size:.82rem;color:var(--muted,#b5ab9b);margin:16px 0!important}
+.nc-hidden{display:none!important}
+@media (prefers-reduced-motion:reduce){.nc *{transition:none!important;scroll-behavior:auto!important}}
+.nc-src{margin:.6rem 0 0;font-size:.78rem;line-height:1.45;color:var(--muted,#a9a39a)}
+.nc-src a{color:inherit;text-decoration:underline;text-underline-offset:2px;overflow-wrap:anywhere}
+.nc-sources li{margin:.35rem 0;overflow-wrap:anywhere}
