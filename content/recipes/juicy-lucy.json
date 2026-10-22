@@ -32,17 +32,24 @@
     },
     {
       "group": "Stuffed patties",
-      "qty": 8,
+      "qty": 4,
       "unit": "pc",
       "item": "slices American-style processed cheese",
-      "note": "2 per burger"
+      "note": "1 per burger"
     },
     {
       "group": "Stuffed patties",
-      "qty": 5.5,
+      "qty": 80,
+      "unit": "g",
+      "item": "mature Cheddar, coarsely grated",
+      "note": "20 g per burger, packed with the American slice"
+    },
+    {
+      "group": "Stuffed patties",
+      "qty": 2,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about 0.9 tsp"
+      "note": "about 0.33 tsp; sprinkled on the outside just before cooking; the cheese seasons the middle"
     },
     {
       "group": "Stuffed patties",
@@ -101,11 +108,11 @@
     },
     {
       "title": "Stuff with cheese",
-      "text": "Fold 2 slices of American cheese into a small stacked square, about 5cm across, and place one onto each of 4 of the discs, leaving a clear 2cm border around the edge. Keeping that border clean and free of cheese is essential for sealing properly later."
+      "text": "Fold 1 slice of American cheese into a small square, about 5cm across, top it with 20g of grated mature Cheddar pressed into a neat mound, and place one onto each of 4 of the discs, leaving a clear 2cm border around the edge. Keeping that border clean and free of cheese is essential for sealing properly later."
     },
     {
       "title": "Seal the patties",
-      "text": "Cover each cheese-topped disc with one of the remaining discs, then pinch and press the edges firmly all the way round. Cup each patty between your palms and smooth the seam over; any gap left in the seal is how melted cheese escapes and blows out in the pan."
+      "text": "Cover each cheese-topped disc with one of the remaining discs, then pinch and press the edges firmly all the way round. Cradle each patty between your palms and smooth the seam over; any gap left in the seal is how melted cheese escapes and blows out in the pan."
     },
     {
       "title": "Chill",
@@ -113,7 +120,7 @@
     },
     {
       "title": "Season and toast the buns",
-      "text": "Season the outside of each patty with salt and pepper, then toast the buns until golden. Set both aside ready for cooking."
+      "text": "Season the outside of each patty lightly with the salt and the pepper (the salty cheese inside seasons the middle), then toast the buns until golden. Set both aside ready for cooking."
     },
     {
       "title": "Cook over medium heat",
@@ -144,14 +151,14 @@
   ],
   "diet": [],
   "nutrition_per_serving": {
-    "kcal": 790,
-    "protein_g": 42.7,
-    "carbs_g": 35.7,
+    "kcal": 799,
+    "protein_g": 43.9,
+    "carbs_g": 35.1,
     "sugar_g": 6.5,
     "free_sugar_g": 5.7,
-    "fat_g": 52.0,
-    "satfat_g": 22.0,
-    "salt_g": 4.44,
+    "fat_g": 52.7,
+    "satfat_g": 22.3,
+    "salt_g": 3.08,
     "fibre_g": 1.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",

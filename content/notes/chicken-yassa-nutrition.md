@@ -7,7 +7,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | bone-in, skin-on chicken thighs and drumsticks (edible meat and skin, about 65%) | Chicken, broilers or fryers, thigh, meat and skin, raw (FDC 172385) | 780 | 1723.8 | 128.9 | 1.9 | 0.00 | 0.00 | 129.6 | 35.29 | 632 | 0.0 |
 | large onions, thinly sliced | Onions, raw (SR 11282) | 800 | 320.0 | 8.8 | 74.7 | 33.92 | 0.00 | 0.8 | 0.34 | 32 | 13.6 |
 | lemon juice (about 3 lemons) | Lemon juice, raw (SR 09152) - juice sugars counted as free | 80 | 17.6 | 0.3 | 5.5 | 2.02 | 2.02 | 0.2 | 0.03 | 1 | 0.2 |
-| Dijon mustard (choose one made without wine) | Mustard, prepared (SR 02046), proxy for Dijon | 30 | 18.0 | 1.1 | 1.7 | 0.28 | 0.00 | 1.0 | 0.06 | 331 | 1.2 |
+| yellow mustard | Mustard, prepared, yellow (SR 02046) | 30 | 18.0 | 1.1 | 1.7 | 0.28 | 0.00 | 1.0 | 0.06 | 331 | 1.2 |
 | garlic cloves, finely grated | Garlic, raw (SR 11215) | 12 | 17.9 | 0.8 | 4.0 | 0.12 | 0.00 | 0.1 | 0.01 | 2 | 0.3 |
 | fine salt | Salt, table (SR 02047) | 6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2325 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 2.4 | 6.0 | 0.2 | 1.5 | 0.02 | 0.00 | 0.1 | 0.03 | 0 | 0.6 |

@@ -9,7 +9,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | sprigs fresh thyme | Spices, thyme, dried (SR 02042) | 2 | 5.5 | 0.2 | 1.3 | 0.03 | 0.00 | 0.1 | 0.05 | 1 | 0.7 |
 | unsalted butter | Butter, without salt (SR 01145) | 20 | 143.4 | 0.2 | 0.0 | 0.01 | 0.00 | 16.2 | 10.27 | 2 | 0.0 |
-| Dijon mustard (choose one made without wine) | Mustard, prepared (SR 02046), proxy for Dijon | 5 | 3.0 | 0.2 | 0.3 | 0.05 | 0.00 | 0.2 | 0.01 | 55 | 0.2 |
+| yellow mustard | Mustard, prepared, yellow (SR 02046) | 5 | 3.0 | 0.2 | 0.3 | 0.05 | 0.00 | 0.2 | 0.01 | 55 | 0.2 |
 | **Total** | | | 2494 | 203.0 | 2.3 | 0.10 | 0.00 | 180.4 | 57.25 | 3727 | 1.2 |
 
 **Per serving (total / 4):** kcal 624, protein_g 50.8, carbs_g 0.6, sugar_g 0.0, free_sugar_g 0.0, fat_g 45.1, satfat_g 14.3, salt_g 2.33, fibre_g 0.3
