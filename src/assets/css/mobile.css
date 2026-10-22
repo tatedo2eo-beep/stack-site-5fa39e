@@ -109,3 +109,7 @@
 @media(max-width:420px){[data-design=c] .rgrid{columns:1}}
 @media(max-width:900px){.gbento{grid-template-rows:none}.gbig{min-height:300px}}
 @media(max-width:640px){.drh .arch.big{width:min(500px,100%);height:auto;aspect-ratio:1}.dchap .arch.big{width:min(460px,100%);height:auto;aspect-ratio:46/36}}
+/* E home: the Featured cover sat on top of the search box on phones; put it under the search instead */
+@media(max-width:1099px){.ehero:not(.rh){height:auto;min-height:640px;padding-top:48px}.ehero .ecover{position:static;width:auto;max-width:320px;margin-top:22px}}
+/* C: the round chapter-number badge (right:-8px) poked ~1 px past the screen edge (horizontal scroll) */
+@media(max-width:1099px){[data-design=c] .tgrid{padding-left:8px;padding-right:8px}}

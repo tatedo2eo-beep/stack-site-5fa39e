@@ -64,7 +64,7 @@ function recipeParts(ctx, r, related) {
   // ingredients (full / names only)
   const groups = [];
   for (const ing of r.ingredients) { const g = ing.group || ''; if (!groups.length || groups[groups.length - 1].g !== g) groups.push({ g, items: [] }); groups[groups.length - 1].items.push(ing); }
-  const ingFull = `<p class="unit">Metric · ${r.servings} servings</p>` + groups.map(gr => `${gr.g ? `<h4 class="ingg">${esc(gr.g)}</h4>` : ''}<ul class="ing">${gr.items.map(i => `<li data-qty="${typeof i.qty === 'number' ? i.qty : ''}" data-unit="${esc(i.unit)}"><b class="q">${esc(formatQty(i.qty, i.unit))}</b> ${esc(i.item)}${i.note ? ` <small>${esc(i.note)}</small>` : ''}</li>`).join('')}</ul>`).join('');
+  const ingFull = `<p class="unit">Metric · ${r.servings} servings</p>` + groups.map(gr => `${gr.g ? `<h4 class="ingg" role="heading" aria-level="3">${esc(gr.g)}</h4>` : ''}<ul class="ing">${gr.items.map(i => `<li data-qty="${typeof i.qty === 'number' ? i.qty : ''}" data-unit="${esc(i.unit)}"><b class="q">${esc(formatQty(i.qty, i.unit))}</b> ${esc(i.item)}${i.note ? ` <small>${esc(i.note)}</small>` : ''}</li>`).join('')}</ul>`).join('');
   const ingNames = `<p class="unit">${LOCK} Ingredient names · quantities with ${t.ui.premium}</p><ul class="ing names">${r.ingredients.map(i => `<li>${esc(i.item)}</li>`).join('')}</ul>`;
   P.ingTitle = t.ui.ingredients;
   P.ing = `<div id="r-ing">${prem ? ingNames : ingFull}</div>`;
@@ -75,9 +75,9 @@ function recipeParts(ctx, r, related) {
   P.methTitle = t.ui.method;
   P.steps = `<div id="r-steps">${prem ? stepsLocked : stepsFull}</div>`;
   P.stepsList = r.steps;
-  const extraFull = `<div class="extra"><div class="xf"><h4>${t.ui.tips}</h4><ul class="lst">${r.tips.map(x => `<li>${esc(x)}</li>`).join('')}</ul></div><div class="xf"><h4>${t.ui.storage}</h4><p>${esc(r.storage)}</p></div></div>`;
+  const extraFull = `<div class="extra"><div class="xf"><h4 role="heading" aria-level="3">${t.ui.tips}</h4><ul class="lst">${r.tips.map(x => `<li>${esc(x)}</li>`).join('')}</ul></div><div class="xf"><h4 role="heading" aria-level="3">${t.ui.storage}</h4><p>${esc(r.storage)}</p></div></div>`;
   P.extra = `<div id="r-extras">${prem ? '' : extraFull}</div>`;
-  P.misc = `<h4>${t.ui.equipment}</h4><div class="s"><ul class="lst">${r.equipment.map(e => `<li>${esc(e)}</li>`).join('')}</ul></div>`;
+  P.misc = `<h4 role="heading" aria-level="3">${t.ui.equipment}</h4><div class="s"><ul class="lst">${r.equipment.map(e => `<li>${esc(e)}</li>`).join('')}</ul></div>`;
   // why it's healthy
   let why = '';
   if (ctx.cfg.healthyLabels !== false && (H.highProtein.pass || H.who.pass)) {
@@ -130,12 +130,13 @@ function recipePage(ctx, r, related) {
   };
   if (!jsonld.suitableForDiet.length) delete jsonld.suitableForDiet;
   if (prem) jsonld.isAccessibleForFree = false;
-  return { path: r.url, title: r.title, description: r.summary, image: r.img && r.img.w1200, ogType: 'article', views, jsonld, bodyClass: 'page-recipe', navKey: 'recipes', scripts: [ctx.assets.js.recipe] };
+  return { path: r.url, title: r.title, description: r.summary, image: r.img && r.img.w1200, imageAlt: r.img ? (r.image_alt || r.title) : null, preload: r.img ? P.imgUrl : null, ogType: 'article', views, jsonld, bodyClass: 'page-recipe', navKey: 'recipes', scripts: [ctx.assets.js.recipe] };
 }
 
 // ---------------- chapters and dishes ----------------
 const dishCoverUrl = (ctx, d, w) => d.cover && d.cover.img ? ctx.u(w === 600 ? d.cover.img.w600 : d.cover.img.w1200) : ctx.u(`img/ph/${d.flavours[0].category}.svg`);
 const dishImg = (ctx, d) => d.cover ? img(ctx, d.cover, CARD_SIZES, '', false) : `<img src="${dishCoverUrl(ctx, d)}" alt="" width="1200" height="900" loading="lazy" decoding="async">`;
+const photoAlt = (ctx, url, fb) => esc(ctx.photoAlt ? ctx.photoAlt(url, fb) : '');
 const chCover = (ctx, ch, design) => { const p = ctx.covers && ctx.covers[design || 'e'] && ctx.covers[design || 'e'][ch.key]; if (p) return ctx.u(p); const d = ch.dishes.find(x => x.cover) || ch.dishes[0]; return d ? dishCoverUrl(ctx, d, 600) : ''; };
 function dishCard(ctx, d) {
   const { t, u } = ctx, n = d.flavours.length, kc = d.flavours.map(r => Math.round(r.nutrition_per_serving.kcal));
@@ -153,9 +154,9 @@ function chapterChips(ctx, chapters, current) {
 }
 const chapterNav = (ctx, chapters, current) => `<nav class="chips chnav" aria-label="${ctx.t.ui.chapters}">${chapterChips(ctx, chapters, current)}</nav>`;
 // shared header variants for chapter + dish pages (vChapter layouts)
-function headVariant(d, { cr, num, name, dek, cov, chips, slot }) {
+function headVariant(d, { cr, num, name, dek, cov, chips, slot, alt }) {
   const ds = slot ? ` data-slot="${slot}"` : '';
-  const img = cov ? `<img${ds} src="${cov}" alt="" width="1200" height="900" decoding="async">` : '';
+  const img = cov ? `<img${ds} src="${cov}" alt="${alt || ''}" width="1200" height="900" fetchpriority="high" decoding="async">` : '';
   const fbar = `<div class="fbar"><div class="wrap fbin">${chips}</div></div>`;
   if (d === 'c') return `<section class="wrap chead"><div class="cnote">${cr}<h1>${name}</h1><p class="dek">${dek}</p></div>${img ? `<figure class="polaroid tilt">${img}<figcaption>${num}</figcaption></figure>` : ''}</section>${fbar}`;
   if (d === 'd') return `<section class="wrap dchap">${img ? `<span class="arch big">${img}</span>` : ''}<div class="dribbon">${cr}<h1>${name}</h1><p class="dek">${dek}</p></div></section>${fbar}`;
@@ -164,9 +165,9 @@ function headVariant(d, { cr, num, name, dek, cov, chips, slot }) {
 }
 function listPageViews(ctx, h0, gridHtml, below, a1, a2) {
   return each(d => {
-    const h = { ...h0, cov: typeof h0.cov === 'function' ? h0.cov(d) : h0.cov };
+    const h = { ...h0, cov: typeof h0.cov === 'function' ? h0.cov(d) : h0.cov }; h.alt = h.cov ? photoAlt(ctx, h.cov, h0.altFb) : '';
     if (d === 'b') {
-      const img = h.cov ? `<figure class="plate"><img${h.slot ? ` data-slot="${h.slot}"` : ''} src="${h.cov}" alt="" width="1200" height="900" decoding="async"></figure>` : '';
+      const img = h.cov ? `<figure class="plate"><img${h.slot ? ` data-slot="${h.slot}"` : ''} src="${h.cov}" alt="${h.alt || ''}" width="1200" height="900" fetchpriority="high" decoding="async"></figure>` : '';
       return `<section class="book wrap"><div class="spread"><div class="page left opener">${h.cr}<div class="bignum">${h.num}</div><h1>${h.name}</h1><div class="orn">❦</div><p class="dek">${h.dek}</p>${img}<span class="folio">${h.num}</span></div><div class="page right"><div class="runhead"><span>${h.name}</span><span>${h.runner}</span></div><div class="fbin pagef">${h.chips}</div>${h.gridTitle ? `<h2 class="pageh">${h.gridTitle}</h2>` : ''}${gridHtml}</div></div></section>${a1}${below}${a2}`;
     }
     const head = headVariant(d, h).replace(`<b>${h.num}</b></div><div class="gt gfil">`, `<b>${h.count}</b></div><div class="gt gfil">`).replace("<small>Here</small>", `<small>${h.countLabel}</small>`);
@@ -176,17 +177,18 @@ function listPageViews(ctx, h0, gridHtml, below, a1, a2) {
 function chapterPage(ctx, ch, chapters) {
   const { t, u } = ctx, c = t.chapters[ch.key], nR = ch.dishes.reduce((a, d) => a + d.flavours.length, 0);
   const idx = chapters.indexOf(ch) + 1;
-  const h = { cr: crumbs(ctx, [['chapters/', t.ui.chapters], [null, c.name]]), num: num2(idx), name: esc(c.name), dek: `${esc(c.intro)} ${ch.dishes.length} dish${ch.dishes.length === 1 ? '' : 'es'} · ${nR} recipe${nR === 1 ? '' : 's'}.`, cov: dd => chCover(ctx, ch, dd), slot: `cover:${ch.key}`, chips: chapterChips(ctx, chapters, ch.key), runner: t.groups[ch.group], gridTitle: 'Dishes', side: `${ch.dishes.length} dish${ch.dishes.length === 1 ? '' : 'es'}`, count: ch.dishes.length, countLabel: 'Dishes' };
+  const h = { cr: crumbs(ctx, [['chapters/', t.ui.chapters], [null, c.name]]), num: num2(idx), name: esc(c.name), dek: `${esc(c.intro)} ${ch.dishes.length} dish${ch.dishes.length === 1 ? '' : 'es'} · ${nR} recipe${nR === 1 ? '' : 's'}.`, cov: dd => chCover(ctx, ch, dd), slot: `cover:${ch.key}`, chips: chapterChips(ctx, chapters, ch.key), runner: t.groups[ch.group], gridTitle: 'Dishes', side: `${ch.dishes.length} dish${ch.dishes.length === 1 ? '' : 'es'}`, count: ch.dishes.length, countLabel: 'Dishes', altFb: c.name };
   const g = `<div class="rgrid dishes">${ch.dishes.map(d => dishCard(ctx, d)).join('')}</div>`;
-  return { path: `chapter/${ch.key}/`, title: c.name, description: `${c.name}: ${c.intro}`, views: listPageViews(ctx, h, g, '', adw(ctx, 1), adw(ctx, 2)), navKey: 'chapters' };
+  const cov = ctx.covers && ctx.covers[ctx.cfg.defaultDesign] && ctx.covers[ctx.cfg.defaultDesign][ch.key];
+  return { path: `chapter/${ch.key}/`, title: c.name, description: `${c.name}: ${c.intro}`, image: cov, preload: chCover(ctx, ch, ctx.cfg.defaultDesign), views: listPageViews(ctx, h, g, '', adw(ctx, 1), adw(ctx, 2)), navKey: 'chapters' };
 }
 function dishPage(ctx, d, ch) {
   const { t, u } = ctx, nF = d.flavours.length;
   const others = ch.dishes.filter(x => x !== d).slice(0, 4);
-  const h = { cr: crumbs(ctx, [['chapters/', t.ui.chapters], [`chapter/${ch.key}/`, t.chapters[ch.key].name], [null, d.title]]), num: num2(nF), name: esc(d.title), dek: esc(d.intro), cov: d.cover ? dishCoverUrl(ctx, d, 1200) : '', chips: `<span class="fl">${nF} ${nF === 1 ? t.ui.flavour : t.ui.flavours}</span>${d.flavours.map(r => `<a class="chip" href="${u(r.url)}">${r.access === 'premium' ? LOCK + ' ' : ''}${esc(r.flavour)}</a>`).join('')}`, runner: esc(t.chapters[ch.key].name), gridTitle: t.ui.chooseFlavour, side: `${nF} ${nF === 1 ? t.ui.flavour : t.ui.flavours}`, count: nF, countLabel: 'Flavours' };
+  const h = { cr: crumbs(ctx, [['chapters/', t.ui.chapters], [`chapter/${ch.key}/`, t.chapters[ch.key].name], [null, d.title]]), num: num2(nF), name: esc(d.title), dek: esc(d.intro), cov: d.cover ? dishCoverUrl(ctx, d, 1200) : '', chips: `<span class="fl">${nF} ${nF === 1 ? t.ui.flavour : t.ui.flavours}</span>${d.flavours.map(r => `<a class="chip" href="${u(r.url)}">${r.access === 'premium' ? LOCK + ' ' : ''}${esc(r.flavour)}</a>`).join('')}`, runner: esc(t.chapters[ch.key].name), gridTitle: t.ui.chooseFlavour, side: `${nF} ${nF === 1 ? t.ui.flavour : t.ui.flavours}`, count: nF, countLabel: 'Flavours', altFb: d.title };
   const g = `<div class="rgrid flavours">${d.flavours.map(r => flavourCard(ctx, r)).join('')}</div>${d.flavours.some(r => r.access === 'premium') ? `<p class="prem-note">${LOCK} <span>Flavours marked with a lock are part of <a href="${u('plans/')}">Premium</a> (coming soon). The first flavour of every dish is free.</span></p>` : ''}`;
   const below = others.length ? `<section class="sec"><div class="wrap"><div class="sh2"><h2>${t.ui.otherDishes} ${esc(t.chapters[ch.key].name)}</h2></div><div class="rgrid dishes">${others.map(x => dishCard(ctx, x)).join('')}</div></div></section>` : '';
-  return { path: `dish/${d.slug}/`, title: `${d.title}: ${nF} ${nF === 1 ? t.ui.flavour : t.ui.flavours}`, description: d.intro, views: listPageViews(ctx, h, g, below, adw(ctx, 1), adw(ctx, 2)), image: d.cover && d.cover.img && d.cover.img.w1200, navKey: 'chapters' };
+  return { path: `dish/${d.slug}/`, title: `${d.title}: ${nF} ${nF === 1 ? t.ui.flavour : t.ui.flavours}`, description: d.intro, views: listPageViews(ctx, h, g, below, adw(ctx, 1), adw(ctx, 2)), image: d.cover && d.cover.img && d.cover.img.w1200, preload: d.cover ? dishCoverUrl(ctx, d, 1200) : null, navKey: 'chapters' };
 }
 // chapter index (chapterGroups): book contents for B, picture tiles for the rest
 function chapterGroups(ctx, d, chapters) {
@@ -194,8 +196,8 @@ function chapterGroups(ctx, d, chapters) {
   const groups = ['salty', 'sweet', 'more'].map(g => [g, chapters.filter(c => c.group === g)]).filter(g => g[1].length);
   const nR = chapters.reduce((a, c) => a + c.n, 0);
   let i = 0;
-  if (d === 'b') return `<section class="book wrap"><div class="spread single"><div class="page"><div class="runhead"><span>Contents</span><span>${nR} recipes</span></div><h1 class="pageh">${t.ui.chapters}</h1>${groups.map(([g, list]) => `<div class="ctg"><h3>${t.groups[g]}</h3>${list.map(c => `<a class="ctl" href="${u(`chapter/${c.key}/`)}"><span class="cn">${num2(++i)}</span><img data-slot="cover:${c.key}" loading="lazy" src="${chCover(ctx, c, d)}" alt=""><span class="ct">${esc(t.chapters[c.key].name)}</span><em></em><b>${c.n}</b></a>`).join('')}</div>`).join('')}</div></div></section>`;
-  return `<section class="sec chg"><div class="wrap"><div class="sh2"><h2>${t.ui.chapters}</h2><span>${nR} recipes</span></div>${groups.map(([g, list]) => `<div class="grp" id="g-${g}"><h3>${t.groups[g]}</h3></div><div class="tgrid">${list.map(c => `<a class="tile" href="${u(`chapter/${c.key}/`)}"><span class="ti"><img data-slot="cover:${c.key}" loading="lazy" src="${chCover(ctx, c, d)}" alt=""></span><span class="num">${num2(++i)}</span><h4>${esc(t.chapters[c.key].name)}</h4><span class="cnt">${c.n} recipe${c.n === 1 ? '' : 's'}</span></a>`).join('')}</div>`).join('')}</div></section>`;
+  if (d === 'b') return `<section class="book wrap"><div class="spread single"><div class="page"><div class="runhead"><span>Contents</span><span>${nR} recipes</span></div><h1 class="pageh">${t.ui.chapters}</h1>${groups.map(([g, list]) => `<div class="ctg"><h3>${t.groups[g]}</h3>${list.map(c => `<a class="ctl" href="${u(`chapter/${c.key}/`)}"><span class="cn">${num2(++i)}</span><img data-slot="cover:${c.key}" loading="lazy" decoding="async"${ctx.photoWH ? ctx.photoWH(chCover(ctx, c, d)) : ''} src="${chCover(ctx, c, d)}" alt="${photoAlt(ctx, chCover(ctx, c, d), t.chapters[c.key].name)}"><span class="ct">${esc(t.chapters[c.key].name)}</span><em></em><b>${c.n}</b></a>`).join('')}</div>`).join('')}</div></div></section>`;
+  return `<section class="sec chg"><div class="wrap"><div class="sh2"><h2>${t.ui.chapters}</h2><span>${nR} recipes</span></div>${groups.map(([g, list]) => `<div class="grp" id="g-${g}"><h3>${t.groups[g]}</h3></div><div class="tgrid">${list.map(c => `<a class="tile" href="${u(`chapter/${c.key}/`)}"><span class="ti"><img data-slot="cover:${c.key}" loading="lazy" decoding="async"${ctx.photoWH ? ctx.photoWH(chCover(ctx, c, d)) : ''} src="${chCover(ctx, c, d)}" alt="${photoAlt(ctx, chCover(ctx, c, d), t.chapters[c.key].name)}"></span><span class="num">${num2(++i)}</span><h4>${esc(t.chapters[c.key].name)}</h4><span class="cnt">${c.n} recipe${c.n === 1 ? '' : 's'}</span></a>`).join('')}</div>`).join('')}</div></section>`;
 }
 function chaptersPage(ctx, chapters) {
   return { path: 'chapters/', title: ctx.t.ui.chapters, description: 'Every chapter: pick a chapter, then a dish, then your flavour.', views: each(d => chapterGroups(ctx, d, chapters).replace('<h2>', '<h1>').replace('</h2>', '</h1>') + adw(ctx, 1) + adw(ctx, 2)), navKey: 'chapters' };
@@ -309,13 +311,13 @@ function plansPage(ctx) {
 ${ad(ctx, 1)}
 <section class="box faq"><h2>Questions</h2>
 <details><summary>Can I pay now?</summary><p>No. Premium isn't available yet and there is no checkout on the site. The buttons are placeholders.</p></details>
-<details><summary>What can I see on a Premium flavour without Premium?</summary><p>The photo, the intro, the ingredient names, the nutrition per serving and the healthy checks. The quantities, the method, tips and storage are for members.</p></details>
+<details><summary>What can I see on a Premium flavour without Premium?</summary><p>The photo, the intro, the ingredient names${ctx.cfg.healthyLabels === false ? ' and the nutrition per serving' : ', the nutrition per serving and the healthy checks'}. The quantities, the method, tips and storage are for members.</p></details>
 <details><summary>Will the free recipes stay free?</summary><p>Yes. The classic flavour of every dish, the chapter and dish pages, search, nutrition, cook mode and the scaler stay free.</p></details>
 <details><summary>What will the AI assistant do?</summary><p>Answer questions about the recipe you're cooking: swaps for missing ingredients, how to scale, timing, and fixes. Its answers are suggestions; always use your own judgement on food safety and allergies.</p></details>
 </section>
 ${ad(ctx, 2)}
 </div></div></section>`;
-  return { path: 'plans/', navKey: 'plans', title: 'Plans: Free vs Premium', description: 'The classic flavour of every dish is free. Premium (coming soon) unlocks every flavour, the healthy versions, the AI assistant and no ads.', body };
+  return { path: 'plans/', navKey: 'plans', title: 'Plans: Free vs Premium', description: `The classic flavour of every dish is free. Premium (coming soon) unlocks every flavour${ctx.cfg.healthyLabels === false ? '' : ', the healthy versions'}, the AI assistant and no ads.`, body };
 }
 function simplePage(ctx, path, title, html, description) {
   const parts = html.split(/(?=<h2)/);

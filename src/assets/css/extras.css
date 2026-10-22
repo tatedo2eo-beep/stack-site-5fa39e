@@ -115,3 +115,28 @@ ins.adsbygoogle[data-ad-status="unfilled"]{display:none!important}
 
 /* Inspired-by credit line under the recipe title (plain text) */
 .insp{margin:.25rem 0 .5rem;font-size:.9rem;font-style:italic;opacity:.75}
+/* ===== WCAG AA text contrast (checked with axe on all 15 looks at 390 px); smallest change that passes ===== */
+.soonwrap .soon{opacity:1}
+.bdg.prem{color:color-mix(in srgb,#a8872e 65%,var(--text))}
+.dribbon .crumbs,.dribbon .crumbs a,.dribbon .insp,.dchap .dek{opacity:1}
+.cnote .insp{opacity:.9}
+[data-design=c] .cnote .algrid .al.on{color:var(--onaccent)}
+[data-design=c] .cnote .alh,[data-design=c] .cnote .nutnote{color:inherit;opacity:.85}
+[data-design=c] .cnote .btn.ghost{color:inherit;border-color:currentColor}
+[data-design=c][data-pal=espresso-apricot] .cnote h1 span{color:#8a3d00}
+[data-design=c][data-pal=espresso-apricot] .catcard .ctb .pl{color:#9a5a20}
+html[data-pal=blush-charcoal]{--accentText:#9f3851}
+[data-design=g] .gmarks .heart{color:var(--text)}
+[data-design=g] .gmarks .btn.ghost{color:var(--popText);border-color:currentColor}
+/* contact form */
+.cform{display:grid;gap:14px;max-width:560px;margin:18px 0 8px}
+.cform label{display:block;font-size:14px;font-weight:600;margin-bottom:6px}
+.cform input,.cform textarea{width:100%;box-sizing:border-box;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--text);font:inherit}
+.cform textarea{min-height:140px;resize:vertical}
+.cform input:focus-visible,.cform textarea:focus-visible{outline:2px solid var(--accentText);outline-offset:1px}
+.cform [aria-invalid=true]{border-color:#c0392b}
+.cform .err{color:var(--text);font-size:13px;margin-top:4px}
+.cform .err:not(:empty)::before{content:'⚠ ';color:#c0392b}
+.cform .hp{position:absolute!important;left:-9999px;width:1px;height:1px;overflow:hidden}
+.cform .status{font-size:14px}
+.no-js .js-only{display:none}

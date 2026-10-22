@@ -18,11 +18,12 @@ function layout(ctx, p) {
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
 ${cfg.noindex ? '<meta name="robots" content="noindex,nofollow">\n' : ''}<link rel="canonical" href="${canonical}">${alt}
-<meta property="og:site_name" content="${esc(cfg.brand)}"><meta property="og:type" content="${p.ogType || 'website'}"><meta property="og:title" content="${esc(p.title || cfg.brand)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${canonical}"><meta property="og:image" content="${ogImg}"><meta property="og:locale" content="${t.ogLocale}"><meta name="twitter:card" content="summary_large_image">
+<meta property="og:site_name" content="${esc(cfg.brand)}"><meta property="og:type" content="${p.ogType || 'website'}"><meta property="og:title" content="${esc(p.title || cfg.brand)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${canonical}"><meta property="og:image" content="${ogImg}">${p.imageAlt ? `<meta property="og:image:alt" content="${esc(p.imageAlt)}">` : ''}<meta property="og:locale" content="${t.ogLocale}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${esc(p.title || cfg.brand)}"><meta name="twitter:description" content="${esc(desc)}"><meta name="twitter:image" content="${ogImg}">
 <meta name="theme-color" content="#111010">
-<link rel="icon" href="${u('favicon.svg')}" type="image/svg+xml">
+<link rel="icon" href="${u('favicon.svg')}" type="image/svg+xml"><link rel="icon" href="${u('favicon-32.png')}" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="${u('apple-touch-icon.png')}">
 <script>(function(h){h.classList.replace('no-js','js');try{var L=${JSON.stringify(Object.fromEntries(D.DESIGNS.map(x => [x.k, x.pals.map(p => p.id)])))},d=localStorage.getItem('design'),p=localStorage.getItem('pal');if(L[d]){h.dataset.design=d;h.dataset.pal=L[d].indexOf(p)>-1?p:L[d][0]}var q=location.search.match(/[?&]preview=(premium|off)/);if(q){if(q[1]=='off')localStorage.removeItem('preview');else localStorage.setItem('preview','premium')}if(localStorage.getItem('preview')=='premium')h.classList.add('is-premium')}catch(e){}})(document.documentElement)</script>
-<link rel="stylesheet" href="${assets.css}">${(p.styles || []).map(s => `<link rel="stylesheet" href="${s}">`).join('')}
+${p.preload ? `<link rel="preload" as="image" href="${p.preload}" fetchpriority="high">
+` : ''}<link rel="stylesheet" href="${assets.css}">${(p.styles || []).map(s => `<link rel="stylesheet" href="${s}">`).join('')}
 ${p.head || ''}${p.jsonld ? `<script type="application/ld+json">${JSON.stringify(p.jsonld).replace(/</g, '\\u003c')}</script>` : ''}
 </head>
 <body class="${p.bodyClass || ''}">

@@ -178,17 +178,39 @@ function placeholderSvg(label) {
   // 'more' (recipes outside the book chapters) has no cookbook cover: give each design a photo no pick uses
   const spare = Object.values(TAMI_BY_NAME).filter(x => !usedPick.has(x)).sort();
   for (const dk of Object.keys(picks)) if (!covers[dk].more && spare.length) { const im = await tamiImg(spare.shift()); if (im) covers[dk].more = im.w1200; }
-  const chapters = cfg.chapters.map(c => ({ ...c, dishes: dishes.filter(d => d.chapter === c.key).sort((a, b) => b.flavours.length - a.flavours.length || a.title.localeCompare(b.title)) })).filter(c => c.dishes.length);
+  // Book order (Tami's cookbook, /workspace/rw/tami_manifest.json, read only): dishes in the order the book lists them,
+  // and within a dish the book flavours first (base photo, then the book's flavour list), extra flavours after.
+  // Dishes / flavours the book doesn't have keep their previous order after the book ones. Access (free/premium) is unchanged.
+  const BOOK = {};
+  { const mf = '/workspace/rw/tami_manifest.json';
+    if (fs.existsSync(mf)) JSON.parse(fs.readFileSync(mf, 'utf8')).forEach((m, i) => {
+      const put = (img, k) => { if (img && BOOK[img] === undefined) BOOK[img] = i * 1000 + k; };
+      put(m.img, 0); (m.flavours || []).forEach((f, k) => put((m.flav_img || {})[f], k + 1));
+      BOOK['name:' + String(m.name).toLowerCase()] = BOOK['name:' + String(m.name).toLowerCase()] ?? i * 1000;
+    });
+    else console.log(C.yel('warning: tami_manifest.json not found; chapters keep the old dish order')); }
+  const recRank = r => { const rel = TAMI.recipes[r.slug] || tamiRel(r.image); return rel && BOOK[rel] !== undefined ? BOOK[rel] : Infinity; };
+  const dishRank = d => Math.min(...[tamiRel(d.image) || TAMI.dishes[d.slug]].filter(Boolean).map(x => BOOK[x] !== undefined ? BOOK[x] - (BOOK[x] % 1000) : Infinity), BOOK['name:' + d.title.toLowerCase()] ?? Infinity, ...d.flavours.map(r => { const k = recRank(r); return k === Infinity ? k : k - (k % 1000); }));
+  for (const d of dishes) { d.bookRank = dishRank(d); const pos = new Map(d.flavours.map((r, i) => [r, i])); d.flavours = d.flavours.slice().sort((a, b) => (recRank(a) - recRank(b)) || pos.get(a) - pos.get(b)); }
+  const oldOrder = (a, b) => b.flavours.length - a.flavours.length || a.title.localeCompare(b.title);
+  const chapters = cfg.chapters.map(c => ({ ...c, dishes: dishes.filter(d => d.chapter === c.key).sort((a, b) => (a.bookRank === b.bookRank ? 0 : a.bookRank - b.bookRank) || oldOrder(a, b)) })).filter(c => c.dishes.length);
   for (const c of chapters) c.n = c.dishes.reduce((a, d) => a + d.flavours.length, 0);
   const cats = R.CATEGORIES.map(key => ({ key, list: recipes.filter(r => r.category === key) })).filter(c => c.list.length);
   const hp = recipes.filter(r => r.health.highProtein.pass).sort((a, b) => b.health.highProtein.value - a.health.highProtein.value);
   const who = recipes.filter(r => r.health.who.pass);
 
+  // alt text for every food photo, from the dish/recipe it shows (falls back to a name made from the photo's file name)
+  const photoAlt = {};
+  for (const d of dishes) if (d.cover && d.cover.img && !photoAlt[d.cover.img.w1200]) photoAlt[d.cover.img.w1200] = d.title;
+  for (const r of recipes) if (r.img) photoAlt[r.img.w1200] = r.image_alt || r.title;
+  const altFromFile = f => { const [m, fl] = path.basename(f).replace(/\.\w+$/, '').split('--'); const s = m.replace(/-(basic|advanced)$/, '').replace(/-/g, ' ') + (fl ? ` (${fl.replace(/-/g, ' ')})` : ''); return s.charAt(0).toUpperCase() + s.slice(1); };
+  const photoAltFor = (url, fb) => { if (!url) return fb || ''; const rel = url.startsWith(cfg.basePath) ? url.slice(cfg.basePath.length) : url; return photoAlt[rel] || (/^img\/t\//.test(rel) ? altFromFile(rel) : fb || ''); };
+  const photoWH = url => { if (!url) return ''; const rel = url.startsWith(cfg.basePath) ? url.slice(cfg.basePath.length) : url; const m = Object.values(copied).find(x => x.w1200 === rel); return m ? ` width="${m.width}" height="${m.height}"` : ''; };
   const locales = cfg.locales.map(code => ({ code, prefix: code === cfg.locales[0] ? '' : code + '/', t: require(path.join(ROOT, 'i18n', code + '.js')) }));
   const pages = [], checked = [];
   for (const L of locales) {
     let ctx; ctx = {
-      cfg, covers, homePicks, counts: { recipes: recipes.length }, t: L.t, assets, locales, chapters, chapterNav: k => P.chapterNav(ctx, chapters, k),
+      cfg, covers, homePicks, photoAlt: photoAltFor, photoWH, counts: { recipes: recipes.length }, t: L.t, assets, locales, chapters, chapterNav: k => P.chapterNav(ctx, chapters, k),
       u: p => cfg.basePath + L.prefix + p,
       abs: p => cfg.siteUrl + cfg.basePath + (p.startsWith('img/') || p.startsWith('media/') ? '' : L.prefix) + p,
       absFor: (l, p) => cfg.siteUrl + cfg.basePath + l.prefix + p
@@ -217,11 +239,11 @@ function placeholderSvg(label) {
       .replace(/<!--HL-->([\s\S]*?)<!--\/HL-->/g, cfg.healthyLabels === false ? '' : '$1');
     emit({ ...P.simplePage(ctx, 'calculator/', 'Daily needs calculator: calories, protein and more', frag('calculator.html'), 'Work out your daily calories, protein, fat, carbs, fibre, free sugar, salt and water, metric, with the source of every number.'), navKey: 'calculator', scripts: [assets.js.calculator], styles: [assets.calcCss] });
     emit(P.simplePage(ctx, 'macro-meals/', 'Macro Meals (coming soon)', frag('macro-meals.html'), 'Macro Meals: high-protein recipes with at least 10 g protein per 100 kcal. Coming soon.'));
-    emit(P.simplePage(ctx, 'about/', 'About', frag('about.html'), `About ${cfg.brand}.`));
-    emit(P.simplePage(ctx, 'contact/', 'Contact', frag('contact.html'), `Contact ${cfg.brand}.`));
-    emit(P.simplePage(ctx, 'privacy/', 'Privacy policy (draft)', frag('privacy.html'), 'Privacy policy (draft).'));
-    emit(P.simplePage(ctx, 'terms/', 'Terms of use (draft)', frag('terms.html'), 'Terms of use (draft).'));
-    emit(P.simplePage(ctx, 'login/', 'Sign in', frag('login.html'), 'Accounts are coming soon.'));
+    emit(P.simplePage(ctx, 'about/', 'About', frag('about.html'), `About ${cfg.brand}: an independent recipe site with metric recipes, nutrition per serving and EU allergens, written for this site.`));
+    emit(P.simplePage(ctx, 'contact/', 'Contact', frag('contact.html'), `Contact ${cfg.brand}: questions, corrections or a recipe that didn't work. Email us or use the contact form.`));
+    emit(P.simplePage(ctx, 'privacy/', 'Privacy policy (draft)', frag('privacy.html'), `How ${cfg.brand} handles your data: no cookies today, preferences kept on your device, and our plans for ads and analytics.`));
+    emit(P.simplePage(ctx, 'terms/', 'Terms of use (draft)', frag('terms.html'), `The terms for using ${cfg.brand}: personal use of recipes, copyright, nutrition and allergen estimates, food safety and planned features.`));
+    emit(P.simplePage(ctx, 'login/', 'Sign in', frag('login.html'), `Sign in to ${cfg.brand}. Accounts and Premium are coming soon.`));
     emit(P.simplePage(ctx, '404.html', 'Page not found', frag('404.html'), 'Page not found.'), '404.html');
     pages[pages.length - 1].loc = null;
   }
@@ -233,7 +255,12 @@ function placeholderSvg(label) {
   }
   writeFile('img/og.png', fs.readFileSync(path.join(ROOT, 'src/assets/og.png')));
   for (const k of R.CATEGORIES) writeFile(`img/ph/${k}.svg`, placeholderSvg(require(path.join(ROOT, 'i18n', cfg.locales[0] + '.js')).categories[k]));
-  writeFile('favicon.svg', `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#0b0a08"/><g fill="#d4a24c"><rect x="14" y="16" width="36" height="8" rx="4"/><rect x="12" y="28" width="40" height="6" rx="3" opacity=".75"/><rect x="14" y="38" width="36" height="10" rx="5"/></g></svg>`);
+  const favSvg = rx => `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="${rx}" fill="#0b0a08"/><g fill="#d4a24c"><rect x="14" y="16" width="36" height="8" rx="4"/><rect x="12" y="28" width="40" height="6" rx="3" opacity=".75"/><rect x="14" y="38" width="36" height="10" rx="5"/></g></svg>`;
+  writeFile('favicon.svg', favSvg(14));
+  // PNG fallbacks: 32 px tab icon for browsers without SVG favicons, 180 px square apple-touch-icon (iOS rounds the corners itself)
+  const sharp = require('sharp');
+  writeFile('favicon-32.png', await sharp(Buffer.from(favSvg(14)), { density: 300 }).resize(32, 32).png({ compressionLevel: 9 }).toBuffer());
+  writeFile('apple-touch-icon.png', await sharp(Buffer.from(favSvg(0)), { density: 300 }).resize(180, 180).png({ compressionLevel: 9 }).toBuffer());
   // sitemap + robots (noindex flag flips both, plus the meta tag in every page)
   const today = new Date().toISOString().slice(0, 10);
   writeFile('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${pages.filter(p => p.loc && !/\/(login)\/$/.test(p.loc)).map(p => `<url><loc>${p.loc}</loc><lastmod>${today}</lastmod></url>`).join('\n')}\n</urlset>\n`);

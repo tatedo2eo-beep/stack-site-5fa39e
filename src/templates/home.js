@@ -21,7 +21,8 @@ function designHome(ctx, d, P, data) {
   const pHref = p => live.has(p.ch) ? u(`chapter/${p.ch}/`) : u('chapters/');
   const pNote = p => live.has(p.ch) ? `${live.get(p.ch).n} recipe${live.get(p.ch).n === 1 ? '' : 's'} →` : 'Chapter coming soon';
   const pUrl = p => (p ? u(p.url) : '');
-  const pImg = (slot, p, extra = '') => p ? `<img data-slot="${slot}" src="${pUrl(p)}" alt="" loading="lazy" decoding="async"${extra}>` : '';
+  const pAlt = p => esc(ctx.photoAlt ? ctx.photoAlt(p.url, chName(p.ch)) : chName(p.ch));
+  const pImg = (slot, p, extra = '') => p ? `<img data-slot="${slot}" src="${pUrl(p)}" alt="${pAlt(p)}" loading="lazy" decoding="async"${/width=/.test(extra) || !ctx.photoWH ? '' : ctx.photoWH(p.url)}${extra}>` : '';
   const GRP = { salty: 'savory', sweet: 'sweet', more: 'drinks' };
   const groups = ['salty', 'sweet', 'more'].map(g => { const cs = chapters.filter(c => c.group === g); return { k: g, name: t.groups[g], cs, n: cs.reduce((a, c) => a + c.n, 0), pick: PK.grp && PK.grp[GRP[g]] }; }).filter(g => g.cs.length);
   const chW = n => n === 1 ? 'chapter' : 'chapters';
@@ -38,7 +39,7 @@ function designHome(ctx, d, P, data) {
   if (d === 'b') {
     const pl = PK.plate;
     const toc = groups.map(g => `<div class="ctg"><h3>${g.name}</h3>${g.cs.map(c => `<a class="ctl" href="${u(`chapter/${c.key}/`)}"><span class="cn">${P.num2(++i)}</span><span class="ct">${esc(chName(c.key))}</span><em></em><b>${c.n}</b></a>`).join('')}</div>`).join('');
-    return `<section class="book wrap"><div class="spread home"><div class="page left title">${pl ? `<a class="frontis" href="${pHref(pl)}"><span class="fpl">${pImg('plate', pl, ` alt="${esc(chName(pl.ch))}"`).replace(' alt=""', '')}</span><span class="fcap">${esc(chName(pl.ch))}</span></a>` : ''}<span class="kicker">${esc(ctx.cfg.tagline)}</span><h1>${esc(ctx.cfg.brand.replace(/\s*\S+$/, ''))} <i>${esc(ctx.cfg.brand.split(/\s+/).pop())}</i></h1><div class="orn">❦</div><p>${sub}. Metric, with nutrition per serving.</p>${sform()}${quick}<span class="folio">i</span></div><div class="page right"><div class="runhead"><span>Contents</span><span>${sub}</span></div><h2 class="pageh">Contents</h2>${toc}<span class="folio">ii</span></div></div></section>${a1}${featSec}${a2}`;
+    return `<section class="book wrap"><div class="spread home"><div class="page left title">${pl ? `<a class="frontis" href="${pHref(pl)}"><span class="fpl">${pImg('plate', pl)}</span><span class="fcap">${esc(chName(pl.ch))}</span></a>` : ''}<span class="kicker">${esc(ctx.cfg.tagline)}</span><h1>${esc(ctx.cfg.brand.replace(/\s*\S+$/, ''))} <i>${esc(ctx.cfg.brand.split(/\s+/).pop())}</i></h1><div class="orn">❦</div><p>${sub}. Metric, with nutrition per serving.</p>${sform()}${quick}<span class="folio">i</span></div><div class="page right"><div class="runhead"><span>Contents</span><span>${sub}</span></div><h2 class="pageh">Contents</h2>${toc}<span class="folio">ii</span></div></div></section>${a1}${featSec}${a2}`;
   }
   if (d === 'c') {
     const h = PK.hero;
