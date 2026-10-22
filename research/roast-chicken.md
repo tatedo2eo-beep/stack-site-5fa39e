@@ -21,3 +21,12 @@ Dish: Whole roast chicken / flavour: Classic. Private file, not published.
 - Timing sanity check: prep 15 min + cook 80 min against the step times.
 - Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/roast-chicken-nutrition.md).
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 3. Non-top-tier pages are context only.
+
+## Knowledge check
+Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C1 (74 °C, carryover; resting is not juice reabsorption); 02-C6 (frying temperatures); 06-G6 (frying safety); 02-C8 (whole roast chicken); CHECKLIST 6 (preheat at least 20 min, stated before the oven step).
+Changes made:
+- Salt given in grams (06-G1): 1.25 tsp fine salt -> 7.5 g
+- Storage: added "refrigerate within 2 hours" line (06-G9)
+- Dry-brine time for a whole bird set to 12-24 h, minimum 6 h (02-C2, 02-C8)
+- plain flour: 1 tsp → 2.7 g (CHECKLIST 1, weights in grams)
+- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).

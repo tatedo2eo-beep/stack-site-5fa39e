@@ -17,3 +17,10 @@ Dish: Guacamole / flavour: Classic. Private file, not published.
 - Timing sanity check: prep 15 min + cook 0 min against the step times.
 - Quantities checked against servings (6). Nutrition worked from USDA FDC (see content/notes/guacamole-nutrition.md).
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
+
+## Knowledge check
+Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage).
+Changes made:
+- Salt given in grams (06-G1): 0.5 tsp fine salt -> 3.0 g
+- Storage: added "refrigerate within 2 hours" line (06-G9)
+- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).

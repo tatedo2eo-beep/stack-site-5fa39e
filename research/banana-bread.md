@@ -18,3 +18,11 @@ Dish: Banana bread/quick breads / flavour: Classic. Private file, not published.
 - Timing sanity check: prep 20 min + cook 60 min against the step times.
 - Quantities checked against servings (10). Nutrition worked from USDA FDC (see content/notes/banana-bread-nutrition.md).
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
+
+## Knowledge check
+Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C6 (frying temperatures); 06-G6 (frying safety); 03-K1 (ratios); 03-K5 (dough rest); 03-K6 (doneness); 03-K8 (brownies); 03-K10 (raw dough); CHECKLIST 6 (preheat at least 20 min, stated before the oven step).
+Changes made:
+- Salt given in grams (06-G1): 0.5 tsp fine salt -> 3.0 g
+- Added the do-not-eat-raw-dough note (03-K10)
+- Fridge storage cut from 5 to 4 days (06-G9)
+- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).

@@ -138,9 +138,10 @@
     },
     {
       "group": "Chilli sauce",
-      "qty": 1,
-      "unit": "tsp",
-      "item": "sugar"
+      "qty": 4,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tsp"
     },
     {
       "group": "Chilli sauce",
@@ -194,9 +195,10 @@
     },
     {
       "group": "To serve",
-      "qty": 1,
-      "unit": "tsp",
-      "item": "sugar"
+      "qty": 4,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tsp"
     },
     {
       "group": "To serve",

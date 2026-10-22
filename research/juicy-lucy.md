@@ -17,3 +17,12 @@ Dish: Juicy Lucy (stuffed) / flavour: Classic. Private file, not published.
 - Timing sanity check: prep 25 min + cook 20 min against the step times.
 - Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/juicy-lucy-nutrition.md).
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
+
+## Knowledge check
+Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 01-B1 (fat); 01-B2 (when to salt); 01-B3 (how much salt); 01-B5 (pan heat); 01-B8 (71 °C).
+Changes made:
+- Salt given in grams (06-G1): 0.75 tsp fine salt -> 4.5 g
+- Storage: added "refrigerate within 2 hours" line (06-G9)
+- Salt given in grams (06-G1): 0.9 tsp fine salt -> 5.5 g
+- Patty salt raised from 4.5 g to 5.5 g (0.81% of beef) per 01-B3; nutrition rebuilt
+- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).

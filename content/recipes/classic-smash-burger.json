@@ -31,9 +31,10 @@
     },
     {
       "group": "Patties",
-      "qty": 1,
+      "qty": 2.5,
       "unit": "g",
-      "item": "fine salt"
+      "item": "fine salt",
+      "note": "about ½ tsp; for the outside of the patties"
     },
     {
       "group": "Patties",
@@ -57,9 +58,10 @@
     },
     {
       "group": "To build",
-      "qty": 1,
-      "unit": "tbsp",
-      "item": "butter, softened"
+      "qty": 14,
+      "unit": "g",
+      "item": "butter, softened",
+      "note": "about 1 tbsp"
     },
     {
       "group": "To build",
@@ -124,7 +126,7 @@
     "Baking paper between the spatula and the meat stops it sticking, so you can press hard without tearing the patty.",
     "Season only after smashing; salt mixed into the mince early makes the patties dense and springy."
   ],
-  "storage": "Best eaten immediately. Cooked patties keep in a covered container in the fridge for up to 2 days; reheat in a hot pan until piping hot all the way through. Do not store assembled burgers. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "storage": "Best eaten immediately. Cooked patties keep in a covered container in the fridge for up to 2 days; reheat in a hot pan until piping hot all the way through (74°C in the centre). Do not store assembled burgers. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "cereals containing gluten",
     "eggs",
@@ -141,7 +143,7 @@
     "free_sugar_g": 7.4,
     "fat_g": 61.7,
     "satfat_g": 27,
-    "salt_g": 2.8,
+    "salt_g": 3.5,
     "fibre_g": 2.4
   },
   "nutrition_source": "Estimated per burger from USDA FoodData Central (SR Legacy) values: ground beef 80% lean raw, cheddar cheese, butter salted, mayonnaise, ketchup, pickles, tomato, lettuce; brioche bun estimated from typical label values. Raw-meat values used, so actual fat is a little lower because some renders out.",

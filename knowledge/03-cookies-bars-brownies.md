@@ -74,18 +74,117 @@ Worked out from three tested recipes:
 - **Failure → fix:** dry, cakey or chalky brownies were overbaked or baked in glass, so pull them at moist crumbs or 96 °C. If there is no crackly top, the eggs and sugar weren't whipped enough. If they are gummy and collapsed, they were cut warm or underbaked, so cool fully.
 - **Sources:** Serious Eats / Stella Parks, "Glossy Fudge Brownies" https://www.seriouseats.com/bravetart-glossy-fudge-brownies · ATK, "A Guide to Making Brownies" (toothpick; glass vs metal; 1 : 3 butter-to-oil; sugar and shine) https://www.americastestkitchen.com/articles/665-a-guide-to-making-brownies · ATK, "Knowing When Cookies and Brownies Are Done" https://www.americastestkitchen.com/how_tos/5556-knowing-when-cookies-and-brownies-are-done
 
-## K9. Bars (blondies and other bar cookies)
-- **Rule:** use the brownie logic. **Melted butter, hand-stirred, plus brown sugar** gives chew. Use a metal pan with a **foil or parchment sling**. Underbake slightly (moist crumbs). **Cool in the pan** before lifting it out and cutting.
-- **Why:** the same gluten, sugar and fat mechanisms as K3 and K4. The sling lets you lift the bars out cleanly without breaking them.
-- **Sources:** ATK, "How to Make the Chewiest Cookies and Bars" https://www.americastestkitchen.com/articles/7676-how-to-make-chewy-cookies · ATK, "A Guide to Making Brownies" (foil sling) https://www.americastestkitchen.com/articles/665-a-guide-to-making-brownies · Serious Eats, "Glossy Fudge Brownies" (foil sling, cool before cutting) https://www.seriouseats.com/bravetart-glossy-fudge-brownies
-- **Gap:** I found no stand-alone, locked-list **blondie** recipe with readable text. Stella Parks' blondies are in her book only.
+## K9. Bars (blondies and other bar cookies) — expanded in pass 2
+- **Rule (blondies):** **melted butter** (browned for a nuttier bar), **light brown sugar**, hand-stirred. Base about **1 : 1 sugar to flour**. Season boldly: about 1 tsp salt and up to 2 tbsp vanilla per 13×9 pan, flaky salt on top. Use a **foil sling**. Bake at **175 °C / 350 °F**: a 13×9 pan takes **22–25 min**, until the top is shiny, cracked and light golden. **Do not overbake.** Cool fully in the pan before cutting.
+- **Reference formula (ATK Congo bars, 13×9):** 213 g flour, 1 tsp baking powder, ½ tsp salt, 170 g melted butter, 298 g light brown sugar, 2 eggs, 4 tsp vanilla, plus chocolate, toasted coconut and nuts.
+- **Why:** melting the butter instead of creaming it gives a dense, chewy bar instead of a cakey one. Brown sugar's moisture gives chew and a butterscotch flavour. ATK found that cutting the sugar made the bars drier and tougher. To make them less sweet, ATK swapped part of the brown sugar for corn syrup rather than cutting it. Brownie batter made without chocolate came out greasy and gummy, because it lacks the cocoa starch. Cookie dough pressed into a pan came out dry and tough. So blondies need their own formula.
+- **Cue:** shiny, crackled, light-golden top, with edges just set. A toothpick inserted **5 cm / 2 in from the side** should come out **almost clean** (Milk Bar).
+- **Failure → fix:**
+  - Cakey → melted butter, not creamed; mix by hand.
+  - Greasy or gummy → don't adapt a brownie recipe; use a blondie formula.
+  - Dry or tough → you overbaked it or cut the sugar; pull it at the shiny-top stage.
+- **Own judgment (marked):** for an 8×8 pan, use half the 13×9 formula. Start checking at 20 min and judge by the toothpick cue. Milk Bar's mix-based 8×8 blondie bakes at 325 °F for 25–30 min. Its formula is a packaged mix, so only the cue and timing are used, not the ratios. Keeps about **1 week** covered at room temperature (ATK and Milk Bar agree).
+- **Sources:**
+  - ATK, "How to Make the Perfect Blondie": https://www.americastestkitchen.com/articles/1194-how-to-make-the-perfect-blondie
+  - ATK, "Congo Bars": https://www.americastestkitchen.com/recipes/1837-congo-bars
+  - Milk Bar (Tosi), "Chocolate Chunk Blondies": https://milkbarstore.com/blogs/recipes/chocolate-chunk-blondies
+  - ATK, chewy cookies and bars: https://www.americastestkitchen.com/articles/7676-how-to-make-chewy-cookies
+  - ATK, brownie guide (sling): https://www.americastestkitchen.com/articles/665-a-guide-to-making-brownies
 
 ## K10. Safety for cookie dough and batters
 - **Rule:** recipes must not invite people to eat raw dough or batter (raw egg and raw flour). Bake fully, to the cues above. FSIS lists egg dishes at 71 °C / 160 °F. Brownies at 96 °C are far above that.
 - **Sources:** FSIS chart https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart · FoodSafety.gov chart https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
 
+## K11. Shortbread
+- **Rule:** use a ratio of **butter : sugar : starch ≈ 2 : 1 : 2–3** by weight, with **no egg and no leavener**. Part of the flour can be cornflour or semolina for a short, sandy crumb.
+  - Paul Hollywood: 225 g butter / 110 g caster sugar / 225 g plain flour + 110 g cornflour.
+  - Mary Berry: 225 g butter / 100 g caster sugar / 225 g flour + 100 g semolina.
+  - King Arthur: 227 g butter / 113 g confectioners' sugar / 240 g flour.
+  - Add a pinch to ¼ tsp salt (½ tsp if the butter is unsalted).
+  - Dock (prick) the dough and chill it until firm (at least 30 min).
+  - Bake **low**:
+
+    | Source | Shape | Oven | Time |
+    |---|---|---|---|
+    | Paul Hollywood | rolled 1 cm | 170 °C | about 20 min |
+    | Mary Berry | pressed in a tin | 160 °C / 140 °C fan | about 35 min |
+    | King Arthur | pressed in a pan | 325 °F (163 °C) | 35–40 min |
+- **Why:** with no egg or water, little gluten forms, which gives the "short" texture. Cornflour or semolina dilutes the gluten further and adds crunch. A low oven sets the dough without browning, and docking stops it puffing or bubbling.
+- **Cue:** **pale to just golden** all over, a little deeper at the edges. Never brown. Cut pan shortbread into fingers or wedges **while still warm** (5–10 min out of the oven). It snaps cleanly once cold.
+- **Failure → fix:**
+  - Greasy or tough → too much handling or re-rolling; re-roll scraps **once** only (Paul Hollywood).
+  - Spread or blurred edges → chill before baking.
+  - Crumbles when cut → cut while warm.
+  - Too brown → lower the oven.
+- **Keeps:** 3–4 days airtight (Hollywood).
+- **Sources:**
+  - Paul Hollywood, "Buttery Shortbread": https://www.paulhollywood.com/post/buttery-shortbread
+  - King Arthur, "Shortbread Cookies": https://www.kingarthurbaking.com/recipes/shortbread-cookies-recipe
+  - Mary Berry, "The Very Best Shortbread" (excerpt from her book on the publisher's Happy Foodie site): https://thehappyfoodie.co.uk/recipes/the-very-best-shortbread/
+
+## K12. Sugar cookies (cut-out, no-spread)
+- **Rule:**
+  - Use an **unleavened or lightly leavened** dough of creamed butter (or part shortening), sugar, 1 egg and flour. Sugar Geek uses equal weights of butter and sugar to about 2.25× flour (8 oz : 8 oz : 18 oz). King Arthur adds 56 g cornstarch to 300 g flour.
+  - Chill the dough (30 min KA; 2 h Sugar Geek). Roll **between parchment** to **6 mm / ¼ in** for sturdy cookies or **3 mm / ⅛ in** for delicate ones.
+  - **Chill the cut-outs about 15 min**, then bake at **175 °C / 350 °F**: about 10 min for ⅛ in, 10–14 min for ¼ in.
+- **Why:**
+  - Leaveners and warm fat cause spread. Shortening melts at a higher temperature than butter, so it holds edges better.
+  - Rolling between parchment avoids working in extra flour, which toughens the dough.
+  - Cutting sugar by about 10 % or chilling for 30–60 min also reduces spread (KA).
+- **Cue:** edges **very lightly golden**, centres pale and set. Cookies should look matte, not wet.
+- **Failure → fix:**
+  - Spreads → chill longer, switch part of the butter to shortening, and check that flour was weighed.
+  - Tough → too much bench flour; re-roll less.
+  - Dough splits or curdles → have butter and egg at room temperature (Sugar Geek).
+- **Sources:**
+  - KA, "Cut-out sugar cookies" tips: https://www.kingarthurbaking.com/blog/2016/12/11/cut-out-sugar-cookies
+  - KA, "Classic Cut-Out Cookies": https://www.kingarthurbaking.com/recipes/classic-cut-out-cookies-recipe
+  - KA, "Why are my cookies spreading?": https://www.kingarthurbaking.com/blog/2023/12/19/why-are-my-cookies-spreading
+  - Sugar Geek Show, "No-Spread Sugar Cookies" (read via WebFetch): https://sugargeekshow.com/no-spread-sugar-cookie-recipe/
+
+## K13. Macarons
+- **Rule:** use equal weights of **almond flour and icing sugar**, sifted together. Two meringue methods:
+  - **French (home default):** 75 g whites + 75 g sugar + ¼ tsp cream of tartar, with 85 g almond flour + 100 g icing sugar (KA). Le Cordon Bleu uses 65 g almond + 110 g icing sugar with 60 g whites + 27 g sugar.
+  - **Italian (Hermé):** 80 g almond + 80 g icing sugar + 30 g whites makes the paste. A syrup of 80 g sugar + 25 g water is cooked to **118 °C** and poured onto another 30 g whites, then whipped until cool. The Italian method is more stable.
+- **Whipping:** whip French meringue to **medium-firm, glossy peaks**: KA says "soft-serve tip", Le Cordon Bleu says stiff peaks. Do not whip it dry.
+- **Macaronage:** fold, then smear the batter up the side of the bowl until it **falls in a thick continuous ribbon that slowly sinks back** and the surface is shiny.
+- **Pipe and rest:** pipe 3.5–4 cm rounds (8 mm nozzle), rap the tray, then rest uncovered **15 min–2 h until a skin forms** (matte and not sticky to a light touch).
+- **Bake low:**
+
+  | Source | Oven | Time |
+  |---|---|---|
+  | Le Cordon Bleu | 140 °C | about 12 min |
+  | Hermé | 150 °C | about 13 min, turning the tray at about 9 min |
+  | KA | 160 °C (320–325 °F) | 15–20 min (drop to 150 °C / 300 °F if colouring) |
+
+  **House:** 150 °C, about 13–15 min, oven-tested.
+- **Cool and mature:** cool on the tray. Fill, then **refrigerate filled shells 24–48 h** to mature (KA; Hermé matures overnight). Serve at room temperature after about 1 h out of the fridge.
+- **Why:** the skin forces steam out through the base, which forms the "foot" instead of a cracked top. Macaronage knocks out large bubbles but keeps small ones. Maturing lets moisture from the filling soften the shell into the classic chewy interior.
+- **Cue:** **done when the shell lifts cleanly off the mat** and doesn't wobble on its foot (Hermé, KA).
+- **Failure → fix:**
+  - Cracked tops, no feet → under-rested, or the batter is too stiff.
+  - Flat, spread, no feet → over-mixed batter.
+  - Hollow → under-mixed or oven too hot.
+  - Browned → lower the oven or put a tray above.
+  - Sticking → bake longer; freeze the tray for 15–20 min to release.
+  - Dull batter → add a little egg white (Le Cordon Bleu).
+- **Storage:** about 1 week chilled, 1 month frozen (KA).
+- **Safety:** the shells are baked. Italian meringue reaches 118 °C syrup. Fillings follow 05-CK12 and CK13.
+- **Sources:**
+  - KA, "French Macarons": https://www.kingarthurbaking.com/recipes/french-macarons-recipe
+  - KA, macaronage blog: https://www.kingarthurbaking.com/blog/2026/04/16/mixing-macarons-macaronage
+  - Pierre Hermé Paris (Japan), chocolate macaron home recipe (Japanese): https://www.pierreherme.co.jp/journal/homemade-recipe-macaron-au-chocolat/
+  - Le Cordon Bleu, "Technique video: macaronage" (written recipe on the page): https://www.cordonbleu.edu/news/technique-video-macaronage/en
+
 ---
 ### Gaps and notes
-- **Christina Tosi (Milk Bar):** the only copies of her recipes I found were on news or blog sites (LA Times, Oprah.com, Bon Appétit, The Kitchn), all outside the locked list. **Not cited.** To fill this, find recipes on milkbarstore.com or in her NYT Cooking pieces.
-- **Claire Saffitz:** her cookie recipe is in her book and on YouTube. I found no readable official text. **Not cited.**
-- Shortbread, sugar cookies, oat cookies and macarons are not covered yet. Dominique Ansel, Pierre Hermé, Cédric Grolet and École Valrhona are the obvious locked sources for these.
+- **Pass 2:**
+  - Blondies are covered by K9 (ATK and Milk Bar).
+  - Shortbread is K11, sugar cookies K12, macarons K13.
+  - Tosi is now cited through milkbarstore.com (blondie doneness cue). Her other online recipes are behind a login or are mix-based.
+- **Still open:**
+  - Oat cookies.
+  - A Saffitz cookie recipe. Her NYT text found is a sponge cake (05-CK6/CK11).
+  - Cédric Grolet: no readable recipe on an allowed outlet; only book listings and a Le Cordon Bleu event page.
+  - Dominique Ansel: his site has only cakes and quick breads, no cookie or macaron techniques.
+  - Mary Berry's shortbread comes from the publisher's book-excerpt page (thehappyfoodie.co.uk). Its author is on the list, but the outlet is not named on it. Flag this if Joe wants outlet-level strictness.

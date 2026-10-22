@@ -1,6 +1,6 @@
 # Research index
 
-Recipe research files list only sources actually opened. Locked-list technique sources counts only sources on the allowed list (test kitchens, food science, culinary schools, chefs' own recipes, major food publications, government food safety, ThermoWorks) and excludes USDA FSIS and FDC, which every recipe uses. Blogs, news, Wikipedia and polling sites appear only as context. Each source is tagged with its tier.
+Recipe research files list only sources actually opened. Locked-list technique sources counts only sources on the allowed list (test kitchens, food science, culinary schools, chefs' own recipes, major food publications, government food safety) and excludes USDA FSIS and FDC, which every recipe uses. Blogs, news, Wikipedia and polling sites appear only as context. Each source is tagged with its tier.
 
 | Recipe | Dish | Flavour | Locked-list technique sources | All sources |
 |---|---|---|---|---|

@@ -12,7 +12,15 @@ Dish: Pollo al mattone (chicken under a brick) / flavour: Classic. Private file,
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
-- Doneness cues in the method: 1 step(s) carry a temperature, and every cooking step has a visual cue.
+- Doneness cues in the method: 2 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 15 min + cook 40 min against the step times.
 - Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/pollo-al-mattone-nutrition.md).
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
+
+## Knowledge check
+Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C1 (74 °C, carryover; resting is not juice reabsorption); 02-C2 (dry brine); 02-C3 (wet brine); 02-C6 (frying temperatures); 06-G6 (frying safety); 02-C8 (whole roast chicken); CHECKLIST 6 (preheat at least 20 min, stated before the oven step).
+Changes made:
+- Salt given in grams (06-G1): 1.25 tsp fine salt -> 7.5 g
+- Storage: added "refrigerate within 2 hours" line (06-G9)
+- Oven preheat moved before the sear (CHECKLIST Preheat)
+- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).

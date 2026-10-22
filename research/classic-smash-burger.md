@@ -21,3 +21,12 @@ Dish: Smash burger / flavour: Cheese. Private file, not published.
 - Timing sanity check: prep 10 min + cook 10 min against the step times.
 - Quantities checked against servings (2). Nutrition worked from USDA FDC (see content/notes/classic-smash-burger-nutrition.md).
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 3. Non-top-tier pages are context only.
+
+## Knowledge check
+Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 01-B1 (fat); 01-B2 (when to salt); 01-B3 (how much salt); 01-B5 (pan heat); 01-B8 (71 °C); 02-C6 (frying temperatures); 06-G6 (frying safety).
+Changes made:
+- Storage: added "refrigerate within 2 hours" line (06-G9)
+- Patty salt raised from 1 g to 2.5 g (0.83% of the 300 g beef) to meet 01-B3; salt per serving recalculated 2.8 → 3.5 g (+1.5 g salt ÷ 2 servings)
+- Reheat line now gives 74°C in the centre (06-G9)
+- butter, softened: 1 tbsp → 14 g (CHECKLIST 1, weights in grams)
+- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).

@@ -18,3 +18,9 @@ Dish: Chili con carne / flavour: Classic. Private file, not published.
 - Timing sanity check: prep 20 min + cook 75 min against the step times.
 - Quantities checked against servings (8). Nutrition worked from USDA FDC (see content/notes/beef-chili-nutrition.md).
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
+
+## Knowledge check
+Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C6 (frying temperatures); 06-G6 (frying safety).
+Changes made:
+- Salt given in grams (06-G1): 0.75 tsp fine salt -> 4.5 g
+- Not applied: CHECKLIST 7 asks for °F beside °C, but Joe's hard rule is metric units and the site validator flags imperial units, so the recipe stays metric only (conflict reported to Joe).
