@@ -1,0 +1,162 @@
+{
+  "slug": "crisp-belgian-waffles-strawberries-cream",
+  "title": "Crisp Belgian Waffles with Strawberries and Whipped Cream",
+  "category": "breakfast",
+  "cuisine": "Belgian",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "waffles-belgian",
+  "dish_title": "Waffles (Belgian)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A butter-rich batter lightened with whisked egg whites is cooked in a very hot deep-pocket waffle iron, and the waffles are kept crisp on a rack until everything is ready.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "Belgian (deep-pocket) waffle iron",
+    "2 medium bowls",
+    "balloon whisk or electric mixer",
+    "large rubber spatula",
+    "ladle",
+    "wire rack set in a baking tray",
+    "medium bowl for the cream"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, separated"
+    },
+    {
+      "group": "Batter",
+      "qty": 480,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 110,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled slightly"
+    },
+    {
+      "group": "Batter",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "vanilla extract (alcohol-free)"
+    },
+    {
+      "group": "Batter",
+      "qty": 256,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil, for the iron (if needed)"
+    },
+    {
+      "group": "To serve",
+      "qty": 150,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 250,
+      "unit": "g",
+      "item": "strawberries, halved"
+    },
+    {
+      "group": "To serve",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat up",
+      "text": "Heat the waffle iron until very hot. Heat the oven to 100 °C (80 °C fan) with the rack and tray in it."
+    },
+    {
+      "title": "Mix the batter",
+      "text": "Put the whites in one clean bowl and the yolks in the other. Whisk the milk, melted butter, sugar and vanilla into the yolks, then add the flour, baking powder and salt and whisk gently until just combined. A few lumps are fine; overmixing makes the waffles chewy."
+    },
+    {
+      "title": "Whisk the whites",
+      "text": "Whisk the egg whites to stiff peaks, about 2 minutes. Fold them into the batter in 2 additions, scooping up from the bottom, until no streaks remain. The trapped air is what makes the inside light."
+    },
+    {
+      "title": "Cook",
+      "text": "Brush the iron lightly with oil if it is not non-stick. Ladle in enough batter to fill the grid (about 200 ml for an 18 cm round iron), spread it to the edges and close. Cook for 4-6 minutes, until deep golden and crisp and the steam has almost stopped."
+    },
+    {
+      "title": "Keep crisp",
+      "text": "Move each waffle to the rack in the oven, not onto a plate, while you cook the rest. You should get about 6. Air all round keeps them crisp."
+    },
+    {
+      "title": "Serve",
+      "text": "Whip the cream to soft peaks. Dust the waffles with icing sugar and serve with the strawberries and cream."
+    }
+  ],
+  "tips": [
+    "Opening the iron too early is the commonest mistake; wait until the steam has almost stopped or the waffle will tear.",
+    "Use a clean, grease-free bowl for the whites, or they won't whip.",
+    "Fill the grid fully so the waffle has crisp edges and deep pockets.",
+    "Cooled waffles reheat well on a rack in a 200 °C oven for 3-5 minutes."
+  ],
+  "storage": "Cool on a rack, wrap individually and freeze for up to 1 month. Reheat on a rack in a 200 °C oven until crisp and hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 509,
+    "protein_g": 10.2,
+    "carbs_g": 50.7,
+    "sugar_g": 16.9,
+    "free_sugar_g": 9.9,
+    "fat_g": 29.4,
+    "satfat_g": 17.3,
+    "salt_g": 0.77,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "waffles-belgian-basic.jpg",
+  "image_alt": "Two crisp golden Belgian waffles with strawberries and whipped cream on a dark plate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

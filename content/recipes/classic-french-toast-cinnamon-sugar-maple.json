@@ -1,0 +1,160 @@
+{
+  "slug": "classic-french-toast-cinnamon-sugar-maple",
+  "title": "Classic French Toast with Cinnamon Sugar and Maple Syrup",
+  "category": "breakfast",
+  "cuisine": "French",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "french-toast",
+  "dish_title": "French toast",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thick bread is dipped quickly in a rich custard with extra yolks, fried in butter until set through, then finished with caramelised cinnamon sugar and maple syrup.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "shallow dish, about 23 x 33 cm",
+    "whisk",
+    "large heavy non-stick frying pan",
+    "fish slice",
+    "wire rack set in a baking tray",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla extract (alcohol-free)"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Custard",
+      "qty": 8,
+      "unit": "g",
+      "item": "soft light brown sugar",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Bread",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices brioche or thick white bread, 2 cm thick (about 400 g), ideally a day old"
+    },
+    {
+      "group": "Cooking",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter, for cooking"
+    },
+    {
+      "group": "To serve",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar mixed with 1 tsp ground cinnamon",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 80,
+      "unit": "ml",
+      "item": "maple syrup"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Warm the oven",
+      "text": "Heat the oven to 100 °C (80 °C fan) with the rack and tray in it, ready to keep the first batch warm."
+    },
+    {
+      "title": "Make the custard",
+      "text": "Whisk the eggs, yolks, milk, vanilla, cinnamon, brown sugar and salt in the shallow dish until smooth and frothy. Extra yolks make the inside rich and creamy."
+    },
+    {
+      "title": "Heat the butter",
+      "text": "Melt a small knob of butter in the pan over low heat, then raise the heat to medium until it sizzles."
+    },
+    {
+      "title": "Dip",
+      "text": "Turn 2 slices in the custard for about 5 seconds each side, so they are evenly wet but not soggy. Lift them out, let the excess drip off and lay them in the pan. Repeat to fill the pan."
+    },
+    {
+      "title": "Cook through",
+      "text": "Fry for 2-3 minutes until golden underneath. Add a little more butter, swirl the pan, flip and cook for 2-3 minutes more over medium-low heat, until the second side is golden and the centre springs back when pressed (71 °C). If a dent stays, cook a little longer; the egg in the middle must set."
+    },
+    {
+      "title": "Caramelise",
+      "text": "Sprinkle the tops with cinnamon sugar, flip for 20 seconds to caramelise, then sprinkle the other side."
+    },
+    {
+      "title": "Serve",
+      "text": "Keep each batch warm in the oven while you cook the rest. Serve 2 slices each with the maple syrup."
+    }
+  ],
+  "tips": [
+    "Soaking the bread too long is the commonest mistake; it turns soggy and won't cook through.",
+    "Slightly stale bread holds its shape best.",
+    "Keep the heat moderate so the outside doesn't burn before the middle sets.",
+    "Add fresh butter before flipping so the second side browns evenly."
+  ],
+  "storage": "Best eaten straight away. Cooled slices can be refrigerated for up to 2 days or frozen for up to 1 month; reheat in a 180 °C oven or toaster until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 581,
+    "protein_g": 17.3,
+    "carbs_g": 82.7,
+    "sugar_g": 36.4,
+    "free_sugar_g": 30.2,
+    "fat_g": 20.0,
+    "satfat_g": 9.7,
+    "salt_g": 1.65,
+    "fibre_g": 3.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "french-toast-basic.jpg",
+  "image_alt": "Thick slices of golden caramelised French toast stacked on a dark plate with maple syrup.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

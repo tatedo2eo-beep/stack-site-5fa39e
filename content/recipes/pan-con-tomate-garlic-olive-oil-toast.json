@@ -1,0 +1,116 @@
+{
+  "slug": "pan-con-tomate-garlic-olive-oil-toast",
+  "title": "Pan con Tomate: Grilled Bread with Grated Tomato, Garlic and Olive Oil",
+  "category": "breakfast",
+  "cuisine": "Spanish",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pan-con-tomate",
+  "dish_title": "Pan con tomate",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Ripe tomatoes are grated into a fresh pulp and spooned onto charred, garlic-rubbed bread, then finished with olive oil and flaky salt.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "box grater",
+    "large bowl",
+    "pastry brush",
+    "grill (broiler) pan or baking tray with a rack",
+    "spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Tomato",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large very ripe tomatoes",
+      "note": "about 500 g; gives about 250 g pulp"
+    },
+    {
+      "group": "Tomato",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Bread",
+      "qty": 320,
+      "unit": "g",
+      "item": "ciabatta or sourdough, cut into 8 slices about 2 cm thick"
+    },
+    {
+      "group": "Bread",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Bread",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, peeled and halved"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Grate the tomatoes",
+      "text": "Halve the tomatoes across. Set the grater in the bowl and rub the cut faces over the large holes, flattening your palm on the skin, until only the skin is left in your hand. Discard the skins and season the pulp with the fine salt."
+    },
+    {
+      "title": "Grill the bread",
+      "text": "Heat the grill to high with the rack about 10 cm below. Brush the cut side of the bread with a little oil and grill for 2-3 minutes, until crisp and charred at the edges, then turn and toast the other side for 1 minute. Watch closely, as it goes from golden to burnt quickly."
+    },
+    {
+      "title": "Rub with garlic",
+      "text": "While the toast is hot, rub each piece with the cut side of the garlic; the rough surface grates it in. Rub lightly for a milder taste."
+    },
+    {
+      "title": "Finish",
+      "text": "Spoon the tomato pulp over the toasts, drizzle with the rest of the oil and sprinkle with the flaky salt. Serve straight away, before the bread softens."
+    }
+  ],
+  "tips": [
+    "Pale, underripe tomatoes are the commonest mistake; they give watery pulp with little flavour.",
+    "Use bread with an open crumb, such as ciabatta, so the pulp soaks in.",
+    "Add the tomato at the last moment to keep the toast crisp.",
+    "Use your best extra-virgin olive oil; you will taste it."
+  ],
+  "storage": "Best eaten straight away. Grated tomato pulp keeps covered in the fridge for up to 1 day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 362,
+    "protein_g": 9.8,
+    "carbs_g": 46.9,
+    "sugar_g": 7.0,
+    "free_sugar_g": 3.7,
+    "fat_g": 15.7,
+    "satfat_g": 2.3,
+    "salt_g": 1.95,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pan-con-tomate-basic.jpg",
+  "image_alt": "Slices of grilled bread topped with fresh grated tomato and olive oil on a dark plate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

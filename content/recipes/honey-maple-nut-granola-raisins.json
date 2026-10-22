@@ -1,0 +1,162 @@
+{
+  "slug": "honey-maple-nut-granola-raisins",
+  "title": "Honey-Maple Granola with Walnuts, Almonds, Seeds and Raisins",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "granola",
+  "dish_title": "Granola",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Oats, walnuts, almonds, coconut and seeds are coated with warm maple syrup, honey and oil, baked golden in clusters and mixed with raisins.",
+  "servings": 16,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "small saucepan",
+    "whisk",
+    "rubber spatula",
+    "large rimmed baking tray, about 30 x 43 cm",
+    "second baking tray",
+    "wire rack",
+    "airtight jar or tub (about 2 litres)"
+  ],
+  "ingredients": [
+    {
+      "group": "Dry",
+      "qty": 270,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Dry",
+      "qty": 120,
+      "unit": "g",
+      "item": "walnuts, broken into 1 cm pieces"
+    },
+    {
+      "group": "Dry",
+      "qty": 70,
+      "unit": "g",
+      "item": "blanched almonds, halved"
+    },
+    {
+      "group": "Dry",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsweetened desiccated or shredded coconut"
+    },
+    {
+      "group": "Dry",
+      "qty": 35,
+      "unit": "g",
+      "item": "sesame seeds"
+    },
+    {
+      "group": "Dry",
+      "qty": 35,
+      "unit": "g",
+      "item": "sunflower seeds"
+    },
+    {
+      "group": "Dry",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Syrup",
+      "qty": 60,
+      "unit": "ml",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Syrup",
+      "qty": 60,
+      "unit": "ml",
+      "item": "runny honey"
+    },
+    {
+      "group": "Syrup",
+      "qty": 75,
+      "unit": "ml",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Fruit",
+      "qty": 150,
+      "unit": "g",
+      "item": "raisins"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 160 °C (140 °C fan) with a shelf in the middle. A moderate heat toasts the oats evenly without scorching the nuts."
+    },
+    {
+      "title": "Mix the dry ingredients",
+      "text": "Stir the oats, walnuts, almonds, coconut, sesame, sunflower seeds and salt together in the large bowl."
+    },
+    {
+      "title": "Coat",
+      "text": "Warm the maple syrup, honey and oil in the small saucepan, whisking, until runny and just warm. Pour over the dry mixture and stir until every flake is coated. Warm syrup spreads more evenly."
+    },
+    {
+      "title": "Spread",
+      "text": "Tip onto the baking tray, spread evenly and press down lightly so the mixture bakes into clusters."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 15-20 minutes, stirring and re-spreading after 8 and 15 minutes, until light golden. Watch the final minutes, as nuts burn quickly."
+    },
+    {
+      "title": "Cool",
+      "text": "Tip onto the second tray to stop the cooking, stir in the raisins, press flat and leave to cool completely on the rack, about 30 minutes. It crisps as it cools, so don't judge it while warm. Break into clusters."
+    },
+    {
+      "title": "Store and serve",
+      "text": "Keep in the airtight jar. Serve 60 g with yoghurt or milk."
+    }
+  ],
+  "tips": [
+    "Taking it out too late is the commonest mistake; it should be light golden, as it keeps colouring on the hot tray.",
+    "Add the raisins after baking, or they turn hard and bitter.",
+    "For bigger clusters, stir less and press the mixture down firmly.",
+    "Let it cool completely before storing, or it softens."
+  ],
+  "storage": "Keep in an airtight container at room temperature for up to 3 weeks. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sesame",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 275,
+    "protein_g": 5.6,
+    "carbs_g": 30.1,
+    "sugar_g": 14.3,
+    "free_sugar_g": 7.4,
+    "fat_g": 16.3,
+    "satfat_g": 2.8,
+    "salt_g": 0.11,
+    "fibre_g": 4.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "granola-basic.jpg",
+  "image_alt": "A dark bowl of clustered golden granola with nuts and dried fruit.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

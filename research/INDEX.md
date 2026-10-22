@@ -30,6 +30,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | beef-rice-stuffed-peppers-tomato-melted-cheese | Stuffed peppers | Classic | 2 | 4 |
 | beef-stroganoff-mushrooms-noodles | Beef stroganoff | Classic | 2 | 4 |
 | biang-biang-noodles | Biang biang/hand-pulled lamian | Classic | 2 | 4 |
+| bircher-muesli-apple-pecans-raspberries | Muesli | Classic | 2 | 4 |
 | black-and-white-cookies | Black-and-white | Classic | 2 | 4 |
 | black-bean-burger | Veggie/bean burger | Classic | 2 | 6 |
 | black-bean-fried-rice-peppers-coriander-fried-eggs | Gallo pinto | Classic | 2 | 4 |
@@ -109,6 +110,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-beef-meatloaf | Meatloaf | Classic | 2 | 4 |
 | classic-butter-shortbread | Shortbread | Classic | 2 | 6 |
 | classic-cheeseburger | Cheeseburger | Classic | 4 | 7 |
+| classic-french-toast-cinnamon-sugar-maple | French toast | Classic | 2 | 4 |
 | classic-mashed-potatoes | Mashed | Classic | 2 | 4 |
 | classic-patty-melt | Patty melt | Classic | 2 | 6 |
 | classic-smash-burger | Smash burger | Cheese | 3 | 7 |
@@ -125,6 +127,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | creamy-potato-salad | Potato salad | Classic | 2 | 4 |
 | creamy-two-cabbage-coleslaw | Coleslaw | Classic | 3 | 5 |
 | crisp-battered-white-fish-tacos-red-cabbage-lime-crema | Taco | Fish | 3 | 5 |
+| crisp-belgian-waffles-strawberries-cream | Waffles (Belgian) | Classic | 2 | 4 |
 | crisp-breaded-beef-cutlets-lemon-salad | Milanesa | Classic | 2 | 4 |
 | crisp-cod-potato-fish-cakes-lemon-herb-mayonnaise | Fish cakes | Classic | 3 | 5 |
 | crisp-corn-tostadas-chicken-refried-beans-avocado | Tostada | Chicken | 3 | 5 |
@@ -154,6 +157,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | diner-style-home-fries | Home fries | Classic | 2 | 4 |
 | double-fried-french-fries | French fries (double-fried) | Classic | 3 | 5 |
 | duchess-potatoes | Duchesse | Classic | 2 | 4 |
+| dutch-baby-pancake-berries-lemon | Dutch baby | Classic | 2 | 4 |
 | egg-drop-soup-ginger-spring-onion | Egg drop soup | Classic | 3 | 5 |
 | egg-fried-rice-spring-onions | Fried rice | Egg | 3 | 5 |
 | eggs-royale-smoked-salmon-poached-eggs-lemon-hollandaise | Eggs Royale (smoked-salmon Benedict) | Classic | 3 | 5 |
@@ -167,6 +171,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | filipino-oxtail-peanut-stew | Kare-kare | Classic | 2 | 4 |
 | florentines | Florentines | Classic | 2 | 4 |
 | flourless-fudgy-brownies | Flourless | Classic | 3 | 5 |
+| fluffy-buttermilk-pancakes-maple-syrup | Pancakes (American) | Classic | 2 | 4 |
 | folded-butter-omelette-chives | Omelette | Classic | 3 | 5 |
 | folded-butter-omelette-fresh-herbs | Omelette | Herb (fines herbes) | 3 | 5 |
 | folded-butter-omelette-melted-cheese | Omelette | Cheese | 2 | 4 |
@@ -210,8 +215,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | herb-tabbouleh-bulgur-lemon | Tabbouleh | Classic | 3 | 5 |
 | high-heat-roast-chicken | High-heat roast chicken | Classic | 3 | 5 |
 | home-fries-peppers-onions | Home fries | Peppers and onions | 2 | 4 |
+| honey-maple-nut-granola-raisins | Granola | Classic | 2 | 4 |
 | horseradish-mashed-potatoes | Mashed | Horseradish | 3 | 5 |
 | hot-dry-noodles | Hot dry noodles | Classic | 1 | 3 |
+| huevos-rancheros-black-beans-fresh-salsa | Huevos rancheros | Classic | 2 | 4 |
 | hummingbird-cake | Hummingbird cake | Classic | 3 | 5 |
 | hungarian-beef-goulash | Goulash | Classic | 2 | 4 |
 | hungarian-paprika-beef-stew-dumplings | Pörkölt | Classic | 3 | 5 |
@@ -299,6 +306,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pad-thai-tofu | Pad thai | Tofu | 3 | 5 |
 | pad-thai | Pad thai | Classic | 2 | 4 |
 | pain-de-genes | Pain de Gênes | Classic | 2 | 4 |
+| pan-con-tomate-garlic-olive-oil-toast | Pan con tomate | Classic | 2 | 4 |
 | pan-fried-beef-cabbage-dumplings-ginger-dipping-sauce | Potstickers (guotie/jiaozi) | Classic | 4 | 6 |
 | pan-fried-eggs-lacy-edges-set-yolks | Fried | Classic | 2 | 4 |
 | pan-fried-sole-brown-butter-lemon-parsley | Sole meunière | Classic | 4 | 6 |
@@ -366,6 +374,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | roman-style-sheet-pan-pizza-tomato-mozzarella-rosemary-potato | Pizza al taglio (Roman teglia) | Classic | 2 | 4 |
 | rosemary-garlic-roast-potatoes | Roast potatoes | Rosemary-garlic | 3 | 5 |
 | rugelach | Rugelach | Classic | 2 | 4 |
+| sabich-pita-fried-aubergine-eggs-hummus-tahini | Sabich | Classic | 2 | 4 |
 | sables-diamants | Diamant | Classic | 2 | 4 |
 | sachertorte | Sachertorte | Classic | 2 | 4 |
 | saffron-layered-chicken-biryani-golden-onions-eggs | Biryani | Classic | 2 | 4 |
@@ -438,6 +447,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | thai-green-coconut-curry-chicken-aubergine-basil | Green curry | Chicken | 3 | 5 |
 | thai-thick-coconut-red-curry-beef-lime-leaf-peanuts | Panang curry | Beef | 2 | 4 |
 | thai-yellow-coconut-curry-chicken-potatoes-onion | Thai yellow curry (kaeng kari) | Chicken | 2 | 4 |
+| thin-french-crepes-sugar-lemon | Crêpes | Classic | 2 | 4 |
 | thin-spiced-lamb-flatbreads-sumac-onion-parsley-lemon | Lahmacun | Classic | 3 | 5 |
 | thumbprint-cookies | Thumbprints | Classic | 3 | 5 |
 | tiny-lamb-dumplings-garlic-yoghurt-paprika-butter | Manti | Classic | 2 | 4 |

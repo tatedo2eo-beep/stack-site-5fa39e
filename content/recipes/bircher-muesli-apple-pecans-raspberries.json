@@ -1,0 +1,133 @@
+{
+  "slug": "bircher-muesli-apple-pecans-raspberries",
+  "title": "Overnight Bircher Muesli with Grated Apple, Pecans and Raspberries",
+  "category": "breakfast",
+  "cuisine": "Swiss",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "muesli",
+  "dish_title": "Muesli",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Rolled oats soak overnight in milk and yoghurt with grated apple, pecans and dried fruit, then are topped with raspberries and apple slices.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "box grater",
+    "large bowl or lidded container (about 1.5 litres)",
+    "spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Muesli",
+      "qty": 150,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Muesli",
+      "qty": 250,
+      "unit": "ml",
+      "item": "whole milk, plus a little more to loosen"
+    },
+    {
+      "group": "Muesli",
+      "qty": 150,
+      "unit": "g",
+      "item": "plain Greek-style yoghurt"
+    },
+    {
+      "group": "Muesli",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium apples, grated on the large holes with skin",
+      "note": "about 300 g"
+    },
+    {
+      "group": "Muesli",
+      "qty": 40,
+      "unit": "g",
+      "item": "pecans, chopped"
+    },
+    {
+      "group": "Muesli",
+      "qty": 30,
+      "unit": "g",
+      "item": "raisins"
+    },
+    {
+      "group": "Muesli",
+      "qty": 30,
+      "unit": "g",
+      "item": "dried cranberries"
+    },
+    {
+      "group": "To serve",
+      "qty": 150,
+      "unit": "g",
+      "item": "raspberries"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small apple, thinly sliced, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Stir the oats, milk, yoghurt, grated apple with its juice, pecans, raisins and cranberries together in the bowl. Grating the apple with its skin adds fibre, and its juice sweetens the mixture."
+    },
+    {
+      "title": "Soak",
+      "text": "Cover and refrigerate for at least 1 hour, ideally overnight, until the oats are soft and creamy."
+    },
+    {
+      "title": "Loosen",
+      "text": "Stir well and add a splash of milk if it has become too thick."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon into 4 bowls and top with the raspberries and apple slices."
+    }
+  ],
+  "tips": [
+    "Using instant oats is the commonest mistake; they turn to mush, while rolled oats stay pleasantly chewy.",
+    "Grate the apple just before mixing so it doesn't brown.",
+    "Add the fresh toppings only when serving.",
+    "Sweeten with a little honey at the table if you like."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 392,
+    "protein_g": 10.1,
+    "carbs_g": 62.7,
+    "sugar_g": 28.6,
+    "free_sugar_g": 5.4,
+    "fat_g": 13.4,
+    "satfat_g": 3.0,
+    "salt_g": 0.13,
+    "fibre_g": 10.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "muesli-basic.jpg",
+  "image_alt": "A bowl of creamy soaked muesli topped with raspberries and apple slices.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "slug": "fluffy-buttermilk-pancakes-maple-syrup",
+  "title": "Fluffy Buttermilk Pancakes with Butter and Maple Syrup",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A lumpy buttermilk and soured cream batter, rested briefly, makes tall, tender pancakes cooked on a lightly oiled pan and kept warm in a low oven.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "2 medium bowls",
+    "whisk",
+    "rubber spatula",
+    "30 cm non-stick frying pan or griddle",
+    "60 ml measure or small ladle",
+    "thin wide spatula",
+    "wire rack set in a baking tray",
+    "kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Dry",
+      "qty": 285,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dry",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Dry",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dry",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Wet",
+      "qty": 480,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Wet",
+      "qty": 60,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Wet",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Wet",
+      "qty": 45,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled slightly"
+    },
+    {
+      "group": "Cooking",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 20,
+      "unit": "g",
+      "item": "unsalted butter, to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 120,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Warm the oven",
+      "text": "Heat the oven to 100 °C (80 °C fan) and put the wire rack and tray inside. This keeps the first pancakes warm without drying them while you cook the rest."
+    },
+    {
+      "title": "Mix the dry ingredients",
+      "text": "Whisk the flour, sugar, baking powder, bicarbonate of soda and salt in one bowl so the raising agents are evenly spread."
+    },
+    {
+      "title": "Mix the wet ingredients",
+      "text": "In the second bowl, whisk the buttermilk, soured cream, eggs and melted butter until smooth."
+    },
+    {
+      "title": "Combine and rest",
+      "text": "Make a well in the dry ingredients, pour in the wet mixture and fold gently with the spatula until just combined, leaving lumps and a few streaks of flour. Rest for 10 minutes. Overmixing develops the gluten and makes pancakes tough, while resting lets the flour hydrate and the bubbles start to form."
+    },
+    {
+      "title": "Heat the pan",
+      "text": "Heat 1 tsp oil in the pan over medium heat until shimmering, then wipe it out with kitchen paper to leave only a thin film. Too much oil gives blotchy, greasy pancakes."
+    },
+    {
+      "title": "Cook",
+      "text": "Pour in 60 ml batter per pancake, 4 at a time. Cook for 2-3 minutes until the edges look set, the base is golden and bubbles on top are starting to burst. Flip and cook for 1-2 minutes more, until golden underneath and the centre springs back when pressed."
+    },
+    {
+      "title": "Keep warm",
+      "text": "Move the pancakes to the rack in the oven and repeat with the remaining batter, adding a little oil when the pan looks dry. You should get about 16 pancakes, 10 cm across."
+    },
+    {
+      "title": "Serve",
+      "text": "Stack 4 pancakes on each plate and top with a little butter and the maple syrup."
+    }
+  ],
+  "tips": [
+    "Flipping too early is the commonest mistake; wait until bubbles break on the surface and the edges look dry.",
+    "If the first pancake browns before the bubbles appear, turn the heat down a little.",
+    "Keep the pancakes on a rack, not stacked on a plate, or they steam and turn soggy.",
+    "Don't press pancakes flat with the spatula, or you'll squeeze out the air."
+  ],
+  "storage": "Cool, then refrigerate for up to 2 days or freeze, layered with baking paper, for up to 1 month. Reheat in a toaster or a 180 °C oven until hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 639,
+    "protein_g": 15.1,
+    "carbs_g": 94.5,
+    "sugar_g": 37.1,
+    "free_sugar_g": 30.4,
+    "fat_g": 22.5,
+    "satfat_g": 11.6,
+    "salt_g": 1.86,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pancakes-american-basic.jpg",
+  "image_alt": "A tall stack of golden buttermilk pancakes topped with a pat of butter and maple syrup on a dark plate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

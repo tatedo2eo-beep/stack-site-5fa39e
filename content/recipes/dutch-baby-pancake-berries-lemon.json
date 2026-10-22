@@ -1,0 +1,150 @@
+{
+  "slug": "dutch-baby-pancake-berries-lemon",
+  "title": "Dutch Baby Pancake with Berries, Lemon and Icing Sugar",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "dutch-baby",
+  "dish_title": "Dutch baby",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A smooth egg-rich batter is poured into foaming butter in a hot cast-iron pan and baked until puffed, then finished with lemon, berries and icing sugar.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "26 cm cast-iron or heavy ovenproof frying pan",
+    "blender or bowl and whisk",
+    "oven gloves",
+    "sieve for dusting"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Batter",
+      "qty": 90,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 160,
+      "unit": "ml",
+      "item": "whole milk, at room temperature"
+    },
+    {
+      "group": "Batter",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla extract (alcohol-free)"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Pan",
+      "qty": 45,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "To serve",
+      "qty": 200,
+      "unit": "g",
+      "item": "mixed berries (blueberries, raspberries)"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "lemon, juice and a wedge to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 25,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 2 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 220 °C (200 °C fan) with a shelf in the middle. A very hot oven makes the batter puff."
+    },
+    {
+      "title": "Blend the batter",
+      "text": "Blend the eggs, flour, milk, sugar, vanilla, nutmeg and salt for about 30 seconds until very smooth, or whisk hard by hand. Room-temperature eggs and milk help it rise."
+    },
+    {
+      "title": "Heat the pan",
+      "text": "Put the butter in the pan and heat it in the oven for 3-5 minutes, until melted and foaming but not brown."
+    },
+    {
+      "title": "Bake",
+      "text": "Take the pan out, swirl the butter round the sides, pour in the batter at once and return it to the oven. Bake for 20 minutes without opening the door, until puffed high and deep golden. Lower the oven to 150 °C (130 °C fan) and bake 5 minutes more so the centre sets fully."
+    },
+    {
+      "title": "Serve",
+      "text": "It will sink a little, which is normal. Squeeze over the lemon juice, add the berries, dust with icing sugar and cut into 4 wedges at the table. Remember the handle is very hot."
+    }
+  ],
+  "tips": [
+    "Opening the oven door early is the commonest mistake; the cold air makes it collapse before it sets.",
+    "The pan and butter must be hot when the batter goes in.",
+    "A heavy cast-iron pan gives the crispest edges.",
+    "Keep an oven glove on the handle as a reminder that it is hot."
+  ],
+  "storage": "Best eaten straight from the oven; it does not keep well. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 318,
+    "protein_g": 10.5,
+    "carbs_g": 33.6,
+    "sugar_g": 13.0,
+    "free_sugar_g": 7.2,
+    "fat_g": 15.7,
+    "satfat_g": 8.2,
+    "salt_g": 0.41,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "dutch-baby-advanced.jpg",
+  "image_alt": "A puffed golden Dutch baby in a cast-iron pan filled with blueberries, raspberries and a lemon wedge.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

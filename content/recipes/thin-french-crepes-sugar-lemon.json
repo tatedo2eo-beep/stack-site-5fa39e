@@ -1,0 +1,156 @@
+{
+  "slug": "thin-french-crepes-sugar-lemon",
+  "title": "Thin French Crêpes with Sugar and Lemon",
+  "category": "breakfast",
+  "cuisine": "French",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "crepes",
+  "dish_title": "Crêpes",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A smooth, rested batter of flour, milk, eggs and butter is swirled thinly into a hot non-stick pan, then the crêpes are folded with sugar and served with lemon.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "2 medium bowls",
+    "whisk",
+    "25-30 cm non-stick frying pan",
+    "60 ml ladle or measure",
+    "rubber spatula",
+    "wire rack",
+    "kitchen paper",
+    "2 large plates"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 140,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 4,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled"
+    },
+    {
+      "group": "Cooking",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 33,
+      "unit": "g",
+      "item": "caster sugar, for sprinkling",
+      "note": "about 8 tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges"
+    },
+    {
+      "group": "To serve",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter, to serve (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the batter",
+      "text": "Whisk the flour, 1 tsp sugar and salt in one bowl and the milk and eggs in the other. Whisk half the milk mixture into the flour until smooth, then the melted butter, then the rest of the milk. Adding the liquid in stages prevents lumps."
+    },
+    {
+      "title": "Rest",
+      "text": "Leave the batter for 30 minutes. It should be the thickness of single cream; whisk in a splash of milk if it is thicker. Resting relaxes the gluten so the crêpes are tender and don't tear."
+    },
+    {
+      "title": "Heat the pan slowly",
+      "text": "Put the oil in the pan over low heat for 10 minutes, then wipe it out with kitchen paper, leaving a thin film. Turn the heat to medium for 1 minute. Slow heating gives an even surface with no hot spots."
+    },
+    {
+      "title": "Test the heat",
+      "text": "Cook 1 tsp batter for 20 seconds; it should be golden underneath. Adjust the heat if it is pale or too dark."
+    },
+    {
+      "title": "Cook",
+      "text": "Pour 60 ml batter into the far side of the pan and immediately tilt and swirl it to coat the base thinly. Cook without moving for about 25-40 seconds, until the top looks dry and the edges brown and lift. Loosen an edge with the spatula, lift it with your fingertips and flip, then cook for 20 seconds until spotted underneath."
+    },
+    {
+      "title": "Stack",
+      "text": "Turn each crêpe out onto the rack, spotted side up, and repeat with the rest of the batter, reheating the pan for 10 seconds between crêpes. You should get about 10; the first one is often a test."
+    },
+    {
+      "title": "Fill and serve",
+      "text": "Sprinkle half of each warm crêpe with about 1 tsp sugar, fold it in half, then into quarters. Serve 2-3 per person with lemon wedges, and a little butter if you like."
+    }
+  ],
+  "tips": [
+    "Not swirling straight away is the commonest mistake: the batter sets in seconds, so tilt the pan as you pour.",
+    "Don't worry if the first crêpe is uneven; it tells you how to adjust the heat.",
+    "Cooked crêpes can be stacked and warmed together under a plate in the microwave for 30-45 seconds.",
+    "If the batter gets thicker as it stands, thin it with 1-2 tbsp milk."
+  ],
+  "storage": "Stack unfilled crêpes between baking paper, wrap and refrigerate for up to 3 days or freeze for up to 2 months. Warm in a dry pan before filling. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 363,
+    "protein_g": 11.3,
+    "carbs_g": 40.8,
+    "sugar_g": 14.0,
+    "free_sugar_g": 9.2,
+    "fat_g": 17.1,
+    "satfat_g": 8.8,
+    "salt_g": 0.6,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "crepes-basic.jpg",
+  "image_alt": "Thin golden crêpes folded into triangles with a pat of butter and a lemon wedge on a dark plate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}
