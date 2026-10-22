@@ -1,0 +1,162 @@
+{
+  "slug": "deep-caramelised-french-onion-dip-chives-crisps",
+  "title": "Deeply Caramelised French Onion Dip with Chives and Crisps",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "french-onion-dip",
+  "dish_title": "French onion dip",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Onions are softened in butter and oil, then cooked low with splashes of water until deep brown, finished with cider vinegar and folded into soured cream and mayonnaise.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 50,
+  "difficulty": "easy",
+  "equipment": [
+    "large (30 cm) frying pan with a lid",
+    "wooden spoon",
+    "medium bowl",
+    "airtight container"
+  ],
+  "ingredients": [
+    {
+      "group": "Onions",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Onions",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Onions",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large onions (about 900 g), finely diced"
+    },
+    {
+      "group": "Onions",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Onions",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Onions",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Onions",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Dip",
+      "qty": 240,
+      "unit": "g",
+      "item": "full-fat soured cream"
+    },
+    {
+      "group": "Dip",
+      "qty": 120,
+      "unit": "g",
+      "item": "mayonnaise (halal-certified)"
+    },
+    {
+      "group": "Dip",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "onion powder"
+    },
+    {
+      "group": "Dip",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "To serve",
+      "qty": 10,
+      "unit": "g",
+      "item": "chives, finely chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 150,
+      "unit": "g",
+      "item": "ridged (crinkle-cut) potato crisps"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften the onions",
+      "text": "Melt the butter with the oil in the pan over medium-high heat. Add the onions, salt, pepper and cayenne, cover and cook 5 minutes."
+    },
+    {
+      "title": "Caramelise",
+      "text": "Uncover, lower the heat to medium-low and cook 35-45 minutes, stirring often. Each time a brown crust forms, add 2 tbsp water and scrape it up. Stop when the onions are deep mahogany."
+    },
+    {
+      "title": "Finish the onions",
+      "text": "Stir in the vinegar for 1 minute, tip into the bowl and cool completely, about 20 minutes."
+    },
+    {
+      "title": "Mix and chill",
+      "text": "Stir in the soured cream, mayonnaise, onion powder and garlic powder. Cover and chill at least 2 hours, ideally overnight."
+    },
+    {
+      "title": "Serve",
+      "text": "Stir, taste, spoon into a bowl and scatter with chives. Serve cold with crisps."
+    }
+  ],
+  "tips": [
+    "Don't rush the onions: the slow, deep browning is all the flavour.",
+    "Deglazing with water lifts the browned bits back into the onions.",
+    "The dip tastes even better the next day."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days. Do not leave out for more than 2 hours. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 468,
+    "protein_g": 4.6,
+    "carbs_g": 30.2,
+    "sugar_g": 8.0,
+    "free_sugar_g": 0.1,
+    "fat_g": 37.7,
+    "satfat_g": 10.2,
+    "salt_g": 1.18,
+    "fibre_g": 3.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "french-onion-dip-basic.jpg",
+  "image_alt": "A bowl of creamy French onion dip with caramelised onions and ridged crisps.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

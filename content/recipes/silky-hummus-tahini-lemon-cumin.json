@@ -1,0 +1,154 @@
+{
+  "slug": "silky-hummus-tahini-lemon-cumin",
+  "title": "Silky Hummus with Tahini, Lemon and Cumin",
+  "category": "snacks-sides",
+  "cuisine": "Levantine",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "hummus",
+  "dish_title": "Hummus",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Canned chickpeas are simmered soft and skinned, then blended with a strained garlic-lemon liquid, cumin, plenty of tahini and olive oil, and served with warm pita.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "colander",
+    "fine sieve",
+    "small bowl",
+    "food processor",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Chickpeas",
+      "qty": 2,
+      "unit": "pc",
+      "item": "400 g cans chickpeas, drained and rinsed",
+      "note": "about 480 g drained"
+    },
+    {
+      "group": "Chickpeas",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, grated to a paste"
+    },
+    {
+      "group": "Dressing",
+      "qty": 80,
+      "unit": "ml",
+      "item": "lemon juice",
+      "note": "about 2 lemons"
+    },
+    {
+      "group": "Dressing",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cumin",
+      "note": "plus a pinch to serve"
+    },
+    {
+      "group": "Dressing",
+      "qty": 120,
+      "unit": "g",
+      "item": "tahini, well stirred"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil, to drizzle"
+    },
+    {
+      "group": "To serve",
+      "qty": 5,
+      "unit": "g",
+      "item": "flat-leaf parsley, chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "pita breads, warmed and cut into wedges",
+      "note": "about 60 g each"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simmer the chickpeas",
+      "text": "Put the chickpeas, bicarbonate of soda and 1.5 litres water in the pan. Bring to the boil and simmer 20-25 minutes until very soft and the skins float."
+    },
+    {
+      "title": "Infuse the lemon",
+      "text": "Stir the garlic, lemon juice and salt in a small bowl and leave 10 minutes. Strain, pressing on the garlic, and discard the solids."
+    },
+    {
+      "title": "Remove the skins",
+      "text": "Drain the chickpeas, return to the pan and cover with cold water. Swish with your fingers and pour off the floating skins; repeat 3-4 times. Drain and keep 2 tbsp whole chickpeas aside."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the remaining chickpeas with the lemon liquid, 60 ml cold water and the cumin for 1 minute. Add the tahini and 2 tbsp oil and blend 1 minute more until pale and creamy, adding water a teaspoon at a time if it is too thick."
+    },
+    {
+      "title": "Serve",
+      "text": "Spread in a shallow bowl and top with the reserved chickpeas, a pinch of cumin, parsley and a drizzle of oil. Serve with warm pita."
+    }
+  ],
+  "tips": [
+    "Removing the skins is what makes this hummus so silky.",
+    "Straining the garlic gives its flavour without harsh raw bits.",
+    "The hummus thickens as it chills; loosen with a spoonful of water before serving."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days. Do not leave out for more than 2 hours. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 303,
+    "protein_g": 9.6,
+    "carbs_g": 34.6,
+    "sugar_g": 3.1,
+    "free_sugar_g": 0.6,
+    "fat_g": 15.0,
+    "satfat_g": 2.0,
+    "salt_g": 1.52,
+    "fibre_g": 5.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "hummus-basic.jpg",
+  "image_alt": "A bowl of smooth hummus topped with whole chickpeas and olive oil, with a pita wedge.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "slug": "muhammara-roasted-red-pepper-walnut-pomegranate",
+  "title": "Muhammara with Roasted Red Peppers, Walnuts and Pomegranate Molasses",
+  "category": "snacks-sides",
+  "cuisine": "Syrian",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "muhammara",
+  "dish_title": "Muhammara",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Grilled, peeled red peppers are blended with toasted walnuts, panko, spring onions, pomegranate molasses, lemon and spices, then finished with a well of oil, molasses and crumbled walnuts.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "grill (broiler) and foil-lined baking tray",
+    "tongs",
+    "medium bowl and cling film",
+    "small dry frying pan",
+    "food processor",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Peppers",
+      "qty": 3,
+      "unit": "pc",
+      "item": "red peppers (about 500 g)"
+    },
+    {
+      "group": "Dip",
+      "qty": 120,
+      "unit": "g",
+      "item": "walnut halves",
+      "note": "keep 2-3 halves for the top"
+    },
+    {
+      "group": "Dip",
+      "qty": 30,
+      "unit": "g",
+      "item": "panko breadcrumbs"
+    },
+    {
+      "group": "Dip",
+      "qty": 2,
+      "unit": "pc",
+      "item": "spring onions, roughly chopped"
+    },
+    {
+      "group": "Dip",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "pomegranate molasses",
+      "note": "plus 1 tsp to serve"
+    },
+    {
+      "group": "Dip",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dip",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Dip",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Dip",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "Aleppo pepper or mild chilli flakes"
+    },
+    {
+      "group": "Dip",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Dip",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast the peppers",
+      "text": "Grill the peppers close to a hot grill for 15-20 minutes, turning every 5 minutes, until blackened and soft. Cover in a bowl for 15 minutes to steam."
+    },
+    {
+      "title": "Toast the walnuts",
+      "text": "Toast the walnuts in a dry pan over medium heat for 4-5 minutes until fragrant. Cool."
+    },
+    {
+      "title": "Peel",
+      "text": "Peel and seed the peppers, discard the stems and juices, and pat dry."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the peppers, all but 3 walnut halves, the panko, spring onions, 2 tbsp molasses, lemon, cumin, paprika, half the Aleppo pepper, the salt and 3 tbsp oil to a coarse, thick purée."
+    },
+    {
+      "title": "Serve",
+      "text": "Spread in a bowl, make a well and fill with the remaining oil, 1 tsp molasses and the rest of the Aleppo pepper. Crumble the reserved walnuts on top."
+    }
+  ],
+  "tips": [
+    "Pat the peppers dry so the dip stays thick.",
+    "Pulse rather than blend smooth: muhammara should have some texture.",
+    "Pomegranate molasses varies in sharpness; add the last spoonful to taste."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days. Do not leave out for more than 2 hours. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 209,
+    "protein_g": 3.6,
+    "carbs_g": 12.5,
+    "sugar_g": 6.2,
+    "free_sugar_g": 3.0,
+    "fat_g": 17.0,
+    "satfat_g": 1.9,
+    "salt_g": 0.63,
+    "fibre_g": 2.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "muhammara-basic.jpg",
+  "image_alt": "A bowl of brick-red muhammara swirled with oil and topped with walnut halves.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

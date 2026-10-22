@@ -1,0 +1,145 @@
+{
+  "slug": "classic-deviled-eggs-paprika-chives",
+  "title": "Classic Deviled Eggs with Paprika and Chives",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "deviled-eggs",
+  "dish_title": "Deviled eggs",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Eggs are steamed until fully set, iced and peeled; the yolks are mashed with mayonnaise, mustard powder and cider vinegar and piped back into the whites.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan with a lid and steamer basket",
+    "large bowl of iced water",
+    "sharp knife",
+    "small bowl and fork",
+    "piping bag with a large star nozzle (or a sandwich bag)",
+    "serving plate"
+  ],
+  "ingredients": [
+    {
+      "group": "Eggs",
+      "qty": 7,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "1 extra in case one tears"
+    },
+    {
+      "group": "Filling",
+      "qty": 45,
+      "unit": "g",
+      "item": "mayonnaise (halal-certified)"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "English mustard powder"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "sweet paprika, to dust"
+    },
+    {
+      "group": "To serve",
+      "qty": 5,
+      "unit": "g",
+      "item": "chives, snipped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Steam the eggs",
+      "text": "Bring 2-3 cm water to a rolling boil. Put the eggs in a steamer basket over the water, cover and cook over medium heat for 13 minutes until both whites and yolks are completely firm."
+    },
+    {
+      "title": "Chill",
+      "text": "Lift the eggs into iced water and leave 15 minutes."
+    },
+    {
+      "title": "Halve",
+      "text": "Peel, halve lengthwise and tip the yolks into a bowl. Set the 12 best white halves on a plate."
+    },
+    {
+      "title": "Make the filling",
+      "text": "Mash the yolks finely, then mix in the mayonnaise, mustard powder, vinegar, salt, pepper and cayenne until smooth."
+    },
+    {
+      "title": "Pipe",
+      "text": "Spoon into a piping bag and pipe a generous swirl into each white."
+    },
+    {
+      "title": "Serve",
+      "text": "Dust with paprika and scatter with chives."
+    }
+  ],
+  "tips": [
+    "Steaming makes eggs easier to peel than boiling.",
+    "Cooking one extra egg covers any whites that tear.",
+    "Pipe just before serving; keep filling and whites chilled separately until then."
+  ],
+  "storage": "Keep covered in the fridge and eat within 2 days. Do not leave out for more than 2 hours. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 137,
+    "protein_g": 7.5,
+    "carbs_g": 0.8,
+    "sugar_g": 0.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 11.3,
+    "satfat_g": 2.7,
+    "salt_g": 0.57,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "deviled-eggs-basic.jpg",
+  "image_alt": "Deviled egg halves with piped yolk filling, paprika and chives on a plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

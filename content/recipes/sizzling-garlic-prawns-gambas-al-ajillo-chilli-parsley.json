@@ -1,0 +1,131 @@
+{
+  "slug": "sizzling-garlic-prawns-gambas-al-ajillo-chilli-parsley",
+  "title": "Sizzling Garlic Prawns (Gambas al Ajillo) with Chilli and Parsley",
+  "category": "snacks-sides",
+  "cuisine": "Spanish",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "tapas-gambas-al-ajillo",
+  "dish_title": "Tapas (gambas al ajillo)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Lightly salted prawns are cooked quickly in olive oil slowly infused with garlic and chilli, then finished with parsley and lemon and served with crusty bread.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "kitchen paper",
+    "30 cm cast-iron or heavy frying pan (or a terracotta cazuela)",
+    "tongs",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Prawns",
+      "qty": 700,
+      "unit": "g",
+      "item": "large raw prawns, peeled and deveined",
+      "note": "about 28"
+    },
+    {
+      "group": "Prawns",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Garlic oil",
+      "qty": 150,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Garlic oil",
+      "qty": 8,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Garlic oil",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "chilli flakes, or 2 small dried red chillies"
+    },
+    {
+      "group": "To finish",
+      "qty": 15,
+      "unit": "g",
+      "item": "flat-leaf parsley, chopped"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "To serve",
+      "qty": 200,
+      "unit": "g",
+      "item": "crusty bread, sliced, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Salt the prawns",
+      "text": "Pat the prawns dry, toss with the salt and chill 15 minutes."
+    },
+    {
+      "title": "Infuse the oil",
+      "text": "Put the oil, garlic and chilli in a cold pan and heat over medium-low for 6-8 minutes until the garlic is pale gold. Do not let it brown."
+    },
+    {
+      "title": "Cook the prawns",
+      "text": "Raise the heat to medium, add the prawns in one layer and cook 2 minutes. Turn and cook 1-2 minutes more until pink and opaque all the way through (63 °C)."
+    },
+    {
+      "title": "Finish",
+      "text": "Off the heat, stir in the parsley and lemon juice."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve sizzling from the pan with bread to dip in the garlic oil."
+    }
+  ],
+  "tips": [
+    "Starting the garlic in cold oil infuses it without burning.",
+    "Pull the prawns as soon as they are opaque; they keep cooking in the hot oil.",
+    "A shallow cast-iron pan or terracotta cazuela keeps everything sizzling at the table."
+  ],
+  "storage": "Best eaten straight away. Refrigerate leftovers within 1 hour, eat within 1 day and reheat gently until just hot (63 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "crustaceans"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 595,
+    "protein_g": 41.1,
+    "carbs_g": 28.6,
+    "sugar_g": 2.5,
+    "free_sugar_g": 2.4,
+    "fat_g": 35.9,
+    "satfat_g": 5.1,
+    "salt_g": 2.01,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tapas-gambas-al-ajillo-advanced.jpg",
+  "image_alt": "Garlic prawns in sizzling olive oil in a terracotta dish, with crusty bread.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

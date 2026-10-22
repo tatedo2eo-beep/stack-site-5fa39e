@@ -1,0 +1,139 @@
+{
+  "slug": "smoky-baba-ghanoush-charred-aubergine-tahini-lemon",
+  "title": "Smoky Baba Ghanoush with Charred Aubergine, Tahini and Lemon",
+  "category": "snacks-sides",
+  "cuisine": "Levantine",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "baba-ghanoush",
+  "dish_title": "Baba ghanoush",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Whole aubergines are charred until completely soft, drained, chopped and whisked into a lemon-garlic base with tahini, a little yoghurt and olive oil.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "grill or gas hob, or an oven with a grill",
+    "foil-lined baking tray",
+    "tongs",
+    "colander",
+    "medium bowl",
+    "sharp knife and chopping board",
+    "spoon and whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Aubergine",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium aubergines (about 700 g)",
+      "note": "about 350 g each"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice",
+      "note": "plus extra to taste"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated to a paste"
+    },
+    {
+      "group": "Dressing",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "g",
+      "item": "tahini, well stirred"
+    },
+    {
+      "group": "Dressing",
+      "qty": 20,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 5,
+      "unit": "g",
+      "item": "flat-leaf parsley, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Char the aubergines",
+      "text": "Prick each aubergine 6 times. Grill on a foil-lined tray as close to a very hot grill as possible, or turn over a gas flame or barbecue, for 30-40 minutes, turning every 10 minutes, until blackened and completely soft."
+    },
+    {
+      "title": "Drain",
+      "text": "Put the aubergines in a colander and leave for 20 minutes to cool and drain off the bitter juices."
+    },
+    {
+      "title": "Mellow the garlic",
+      "text": "Meanwhile stir the lemon juice, garlic and salt together in the bowl."
+    },
+    {
+      "title": "Chop",
+      "text": "Split the aubergines, scoop out the flesh and discard the skin and stems. Chop the flesh finely and add it to the bowl."
+    },
+    {
+      "title": "Mix",
+      "text": "Whisk in the tahini, yoghurt and 2 tbsp oil. Leave 20 minutes for the flavours to blend, then add more lemon to taste."
+    },
+    {
+      "title": "Serve",
+      "text": "Spread in a shallow bowl, drizzle with the remaining oil and scatter with parsley. Serve with warm pita."
+    }
+  ],
+  "tips": [
+    "The blacker the skin, the smokier the dip; a gas flame or barbecue gives the most flavour.",
+    "Draining the flesh keeps the dip thick and stops it tasting bitter.",
+    "Chopping by hand gives a better texture than a food processor."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days. Do not leave out for more than 2 hours. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 153,
+    "protein_g": 3.0,
+    "carbs_g": 9.7,
+    "sugar_g": 4.5,
+    "free_sugar_g": 0.1,
+    "fat_g": 12.5,
+    "satfat_g": 1.8,
+    "salt_g": 0.77,
+    "fibre_g": 4.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "baba-ghanoush-basic.jpg",
+  "image_alt": "A bowl of smoky baba ghanoush drizzled with olive oil and scattered with parsley.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

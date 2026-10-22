@@ -1,0 +1,148 @@
+{
+  "slug": "crisp-socca-onions-rosemary-black-olives",
+  "title": "Crisp Socca with Onions, Rosemary and Black Olives",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "socca",
+  "dish_title": "Socca",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A rested chickpea-flour batter is poured into a very hot pan over browned onions and rosemary, dotted with olives, baked until set and grilled until spotted brown.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "30 cm cast-iron frying pan or round pizza tin",
+    "medium bowl and whisk",
+    "oven gloves",
+    "pastry brush",
+    "chopping board and knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 120,
+      "unit": "g",
+      "item": "besan (finely milled chickpeas, also sold as gram)"
+    },
+    {
+      "group": "Batter",
+      "qty": 250,
+      "unit": "ml",
+      "item": "lukewarm water"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Pan",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Pan",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "large onion, thinly sliced",
+      "note": "about 100 g"
+    },
+    {
+      "group": "Pan",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "fresh rosemary, chopped",
+      "note": "plus a few small sprigs"
+    },
+    {
+      "group": "Topping",
+      "qty": 40,
+      "unit": "g",
+      "item": "pitted black olives, halved"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil, to brush"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the batter",
+      "text": "Whisk the besan, salt and pepper, then slowly whisk in the water until smooth. Stir in 2 tbsp oil, cover and rest at least 30 minutes."
+    },
+    {
+      "title": "Heat the pan",
+      "text": "Put the pan in the oven and heat to 230 °C (210 °C fan)."
+    },
+    {
+      "title": "Brown the onions",
+      "text": "Add 2 tbsp oil and the onions to the hot pan and return to the oven for 6-8 minutes, stirring once, until browned. Stir in the rosemary."
+    },
+    {
+      "title": "Bake",
+      "text": "Stir the onions into the batter, pour back into the hot pan, dot with olives and rosemary sprigs, and bake 12-15 minutes until firm with crisp edges."
+    },
+    {
+      "title": "Brown the top",
+      "text": "Brush with the remaining oil and grill 1-2 minutes until browned in spots."
+    },
+    {
+      "title": "Serve",
+      "text": "Cut into wedges and serve hot or warm."
+    }
+  ],
+  "tips": [
+    "A screaming-hot pan gives the crisp edges.",
+    "Resting the batter lets the besan hydrate for a creamier middle.",
+    "The batter should be as thin as single cream; add a splash of water if it has thickened."
+  ],
+  "storage": "Best eaten warm. Refrigerate leftovers within 1 hour, eat within 3 days and reheat in a hot oven until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 288,
+    "protein_g": 7.1,
+    "carbs_g": 20.6,
+    "sugar_g": 4.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 20.0,
+    "satfat_g": 2.8,
+    "salt_g": 0.97,
+    "fibre_g": 4.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "socca-basic.jpg",
+  "image_alt": "A golden socca pancake cut into wedges and topped with black olives and rosemary.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

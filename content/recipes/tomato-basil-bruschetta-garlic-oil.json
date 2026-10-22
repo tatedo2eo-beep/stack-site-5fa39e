@@ -1,0 +1,133 @@
+{
+  "slug": "tomato-basil-bruschetta-garlic-oil",
+  "title": "Tomato and Basil Bruschetta with Gentle Garlic Oil",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "bruschetta",
+  "dish_title": "Bruschetta",
+  "flavour": "Tomato-basil",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Diced tomatoes are salted and drained, mixed with a gently warmed garlic oil and shredded basil, and spooned onto garlic-rubbed grilled bread.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "colander set over a bowl",
+    "small saucepan",
+    "griddle pan or grill",
+    "medium bowl",
+    "pastry brush",
+    "serving board"
+  ],
+  "ingredients": [
+    {
+      "group": "Topping",
+      "qty": 500,
+      "unit": "g",
+      "item": "ripe plum tomatoes, cored and diced",
+      "note": "4-5 tomatoes"
+    },
+    {
+      "group": "Topping",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Topping",
+      "qty": 10,
+      "unit": "g",
+      "item": "basil leaves, finely shredded"
+    },
+    {
+      "group": "Toasts",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices crusty country bread (about 360 g)",
+      "note": "1.5 cm thick, about 45 g each"
+    },
+    {
+      "group": "Toasts",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, peeled and halved"
+    },
+    {
+      "group": "Toasts",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Drain the tomatoes",
+      "text": "Toss the tomatoes with the salt in a colander over a bowl and leave 30 minutes (up to 2 hours)."
+    },
+    {
+      "title": "Make the garlic oil",
+      "text": "Warm the oil and sliced garlic in a small pan over low heat for 5 minutes until soft and fragrant, without browning. Cool."
+    },
+    {
+      "title": "Mix",
+      "text": "Combine the drained tomatoes, garlic oil and basil."
+    },
+    {
+      "title": "Toast",
+      "text": "Grill or griddle the bread 1-2 minutes per side until golden and charred. Rub with the cut garlic and brush lightly with oil."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon the tomatoes onto the warm toasts with a slotted spoon and serve straight away."
+    }
+  ],
+  "tips": [
+    "Draining the tomatoes stops the toasts going soggy.",
+    "Use the ripest tomatoes you can find; this dish is only as good as they are.",
+    "Top the toasts just before serving."
+  ],
+  "storage": "Leftover topping keeps covered in the fridge for 1 day; bring to room temperature. The toasts are best freshly made. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 420,
+    "protein_g": 11.0,
+    "carbs_g": 52.4,
+    "sugar_g": 7.5,
+    "free_sugar_g": 4.2,
+    "fat_g": 19.3,
+    "satfat_g": 2.8,
+    "salt_g": 2.1,
+    "fibre_g": 3.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bruschetta-basic--tomato-basil.jpg",
+  "image_alt": "Grilled bread slices topped with diced tomatoes and fresh basil.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

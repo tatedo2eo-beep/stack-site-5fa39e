@@ -1,0 +1,168 @@
+{
+  "slug": "hot-spinach-artichoke-dip-parmesan-mozzarella",
+  "title": "Hot Spinach and Artichoke Dip with Parmesan and Mozzarella",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "spinach-artichoke",
+  "dish_title": "Spinach-artichoke",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Spinach is wilted with garlic and stirred with cream cheese, artichokes, mayonnaise, soured cream, lemon zest, mozzarella and Parmesan, then baked until bubbling and golden.",
+  "servings": 10,
+  "prep_min": 20,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large frying pan",
+    "wooden spoon",
+    "clean tea towel for squeezing",
+    "large bowl",
+    "box grater",
+    "2-litre baking dish",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Dip",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Dip",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Dip",
+      "qty": 300,
+      "unit": "g",
+      "item": "baby spinach, roughly chopped"
+    },
+    {
+      "group": "Dip",
+      "qty": 400,
+      "unit": "g",
+      "item": "frozen artichoke hearts, thawed, squeezed dry and chopped"
+    },
+    {
+      "group": "Dip",
+      "qty": 225,
+      "unit": "g",
+      "item": "full-fat cream cheese, softened"
+    },
+    {
+      "group": "Dip",
+      "qty": 120,
+      "unit": "g",
+      "item": "mayonnaise (halal-certified)"
+    },
+    {
+      "group": "Dip",
+      "qty": 120,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Dip",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Dip",
+      "qty": 150,
+      "unit": "g",
+      "item": "low-moisture mozzarella, coarsely grated"
+    },
+    {
+      "group": "Dip",
+      "qty": 60,
+      "unit": "g",
+      "item": "Parmesan, finely grated",
+      "note": "keep 15 g for the top"
+    },
+    {
+      "group": "Dip",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dip",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "baguette (about 300 g), sliced and toasted, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 190 °C (170 °C fan)."
+    },
+    {
+      "title": "Wilt the spinach",
+      "text": "Heat the oil in the pan over medium-high heat. Add the garlic for 30 seconds, then the spinach a handful at a time. Cook 3-4 minutes until the liquid has evaporated. Tip into the bowl."
+    },
+    {
+      "title": "Mix",
+      "text": "Stir the cream cheese into the warm spinach until melted, then mix in the artichokes, mayonnaise, soured cream, lemon zest, mozzarella, 45 g Parmesan, pepper and cayenne."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread in the baking dish, top with the remaining Parmesan and bake 22-25 minutes until bubbling, golden and 74 °C in the centre."
+    },
+    {
+      "title": "Toast",
+      "text": "Meanwhile toast the baguette slices on a tray in the oven for 6-8 minutes until crisp."
+    },
+    {
+      "title": "Serve",
+      "text": "Rest the dip 5-10 minutes and serve hot with the toasts."
+    }
+  ],
+  "tips": [
+    "Squeeze the thawed artichokes well in a tea towel so the dip isn't watery.",
+    "No salt is needed; the cheeses season the dip.",
+    "Assemble up to 2 days ahead and bake from cold, adding 10 minutes."
+  ],
+  "storage": "Refrigerate leftovers within 1 hour and eat within 3 days. Reheat once until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 373,
+    "protein_g": 12.4,
+    "carbs_g": 22.6,
+    "sugar_g": 3.1,
+    "free_sugar_g": 1.5,
+    "fat_g": 26.7,
+    "satfat_g": 10.9,
+    "salt_g": 1.44,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "spinach-artichoke-basic.jpg",
+  "image_alt": "A golden, bubbling spinach and artichoke dip in a baking dish with toasted bread.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

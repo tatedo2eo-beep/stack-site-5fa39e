@@ -37,6 +37,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | black-bean-burger | Veggie/bean burger | Classic | 2 | 6 |
 | black-bean-fried-rice-peppers-coriander-fried-eggs | Gallo pinto | Classic | 2 | 4 |
 | black-forest-cake | Black Forest | Classic | 3 | 5 |
+| black-olive-tapenade-capers-anchovy-thyme | Tapenade | Classic | 3 | 5 |
 | blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
 | boiled-eggs-spiced-onion-tomato-coconut-curry | Egg curry | Classic | 3 | 5 |
 | boston-cream-pie | Boston cream pie | Classic | 2 | 4 |
@@ -118,6 +119,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-beef-meatloaf | Meatloaf | Classic | 2 | 4 |
 | classic-butter-shortbread | Shortbread | Classic | 2 | 6 |
 | classic-cheeseburger | Cheeseburger | Classic | 4 | 7 |
+| classic-deviled-eggs-paprika-chives | Deviled eggs | Classic | 3 | 5 |
 | classic-french-toast-cinnamon-sugar-maple | French toast | Classic | 2 | 4 |
 | classic-fresh-squeezed-lemonade | Lemonade | Classic | 2 | 4 |
 | classic-mashed-potatoes | Mashed | Classic | 2 | 4 |
@@ -149,6 +151,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crisp-pita-fattoush-sumac | Fattoush | Classic | 3 | 5 |
 | crisp-salt-pepper-squid-chilli-garlic-spring-onion | Salt and pepper squid | Classic | 4 | 6 |
 | crisp-skinned-jacket-potatoes | Baked/jacket | Classic | 2 | 4 |
+| crisp-socca-onions-rosemary-black-olives | Socca | Classic | 2 | 4 |
 | crisp-thin-crust-tavern-pizza-peppers-onion-fennel-tomato | Bar/tavern-style pizza | Classic | 2 | 4 |
 | crispy-baked-chicken-wings | Chicken wings | Classic | 3 | 5 |
 | crispy-chicken-sandwich | Chicken burger | Classic | 3 | 6 |
@@ -164,6 +167,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | curry-laksa-chicken-prawn-coconut-noodle-soup | Laksa | Classic | 2 | 4 |
 | cut-out-sugar-cookies | Sugar/cut-out | Classic | 2 | 4 |
 | dashi-kombu-bonito-japanese-stock | Dashi | Classic | 3 | 5 |
+| deep-caramelised-french-onion-dip-chives-crisps | French onion dip | Classic | 3 | 5 |
 | detroit-style-pan-pizza-crisp-cheese-edges-tomato-stripes | Pan/Detroit | Classic | 3 | 5 |
 | dill-potato-salad | Potato salad | Dill | 2 | 4 |
 | diner-style-home-fries | Home fries | Classic | 2 | 4 |
@@ -235,6 +239,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | honey-maple-nut-granola-raisins | Granola | Classic | 2 | 4 |
 | horseradish-mashed-potatoes | Mashed | Horseradish | 3 | 5 |
 | hot-dry-noodles | Hot dry noodles | Classic | 1 | 3 |
+| hot-spinach-artichoke-dip-parmesan-mozzarella | Spinach-artichoke | Classic | 3 | 5 |
 | huevos-rancheros-black-beans-fresh-salsa | Huevos rancheros | Classic | 2 | 4 |
 | hummingbird-cake | Hummingbird cake | Classic | 3 | 5 |
 | hungarian-beef-goulash | Goulash | Classic | 2 | 4 |
@@ -300,6 +305,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mixed-berry-banana-yoghurt-smoothie-orange | Smoothies | Classic | 2 | 4 |
 | molten-chocolate-cakes | Molten chocolate | Classic | 3 | 5 |
 | moroccan-gunpowder-green-mint-tea | Moroccan mint | Classic | 2 | 4 |
+| muhammara-roasted-red-pepper-walnut-pomegranate | Muhammara | Classic | 3 | 5 |
 | mulligatawny-chicken-red-lentil-coconut | Mulligatawny | Classic | 3 | 5 |
 | musakhan | Musakhan | Classic | 3 | 6 |
 | mushroom-lasagne | Sheets/baked (lasagne) | Mushroom | 3 | 5 |
@@ -420,9 +426,11 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | sicilian-style-thick-pan-pizza-onion-tomato-crisp-crumbs | Sicilian/sfincione | Classic | 2 | 4 |
 | signature-fudgy-brownies | Brownie (fudgy or cakey) | Classic | 2 | 4 |
 | signature-smash-burger | Smash burger | Classic | 3 | 8 |
+| silky-hummus-tahini-lemon-cumin | Hummus | Classic | 3 | 5 |
 | silky-potato-leek-soup-chives-crispy-leeks | Potato-leek | Classic | 3 | 5 |
 | silky-rice-congee-ginger-crispy-shallots-spring-onion | Congee/porridge | Classic | 3 | 5 |
 | singapore-style-chilli-crab-tomato-egg-sauce | Chili crab | Classic | 2 | 4 |
+| sizzling-garlic-prawns-gambas-al-ajillo-chilli-parsley | Tapas (gambas al ajillo) | Classic | 3 | 5 |
 | skillet-eggs-tomato-green-pepper-chilli-flakes | Menemen | Classic | 3 | 5 |
 | sloppy-joes-tangy-tomato-beef-toasted-buns | Sloppy Joes | Classic | 2 | 4 |
 | slow-cooked-dry-coconut-beef-curry-lemongrass-lime-leaf | Rendang | Beef (classic) | 3 | 5 |
@@ -431,6 +439,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | slow-roast-beef-yorkshire-puddings | Roast beef | Classic | 5 | 7 |
 | slow-roasted-spiced-lamb-shoulder-cumin-salt | Mechoui | Classic | 2 | 4 |
 | slow-smoked-beef-brisket-salt-pepper | Brisket (smoked) | Classic | 3 | 5 |
+| smoky-baba-ghanoush-charred-aubergine-tahini-lemon | Baba ghanoush | Classic | 2 | 4 |
 | smoky-chipotle-lime-chicken-fajitas-peppers-guacamole | Fajita | Classic | 2 | 4 |
 | smoky-chipotle-tomato-shredded-chicken-tacos | Taco | Chicken tinga | 4 | 6 |
 | smooth-cold-brew-coffee-concentrate | Cold brew | Classic | 2 | 4 |
@@ -491,6 +500,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | thumbprint-cookies | Thumbprints | Classic | 3 | 5 |
 | tiny-lamb-dumplings-garlic-yoghurt-paprika-butter | Manti | Classic | 2 | 4 |
 | tom-yum-goong-thai-hot-sour-prawn-soup | Tom yum | Classic | 3 | 5 |
+| tomato-basil-bruschetta-garlic-oil | Bruschetta | Tomato-basil | 2 | 4 |
 | tomato-mozzarella-caprese-basil | Caprese | Classic | 3 | 5 |
 | tortilla-espanola | Tortilla española | Classic | 2 | 4 |
 | trenette-al-pesto | Trenette al pesto | Classic | 3 | 5 |
