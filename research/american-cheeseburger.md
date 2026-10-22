@@ -25,6 +25,7 @@ Changes made:
 - Storage: added "refrigerate within 2 hours" line (06-G9)
 - Salt given in grams (06-G1): 0.8 tsp fine salt -> 5 g
 - Patty salt raised from 4.5 g to 4.8 g (0.8% of beef, the low end because of the American cheese) per 01-B3; nutrition rebuilt
+- Salt given in grams (06-G1): 0.4 tsp fine salt -> 2.5 g
 - Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).
 
 ## Salt re-check

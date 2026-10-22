@@ -42,10 +42,10 @@
     },
     {
       "group": "Chicken and marinade",
-      "qty": 6,
+      "qty": 3,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about 1 tsp"
+      "note": "about ½ tsp"
     },
     {
       "group": "Chicken and marinade",
@@ -79,10 +79,10 @@
     },
     {
       "group": "Coating",
-      "qty": 4.5,
+      "qty": 3,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about ¾ tsp"
+      "note": "about ½ tsp"
     },
     {
       "group": "Coating",
@@ -99,13 +99,13 @@
     },
     {
       "group": "Buffalo sauce",
-      "qty": 60,
+      "qty": 45,
       "unit": "ml",
       "item": "hot pepper sauce (vinegar-based, such as a Louisiana-style sauce)"
     },
     {
       "group": "Buffalo sauce",
-      "qty": 30,
+      "qty": 40,
       "unit": "g",
       "item": "unsalted butter"
     },
@@ -221,14 +221,14 @@
   ],
   "diet": [],
   "nutrition_per_serving": {
-    "kcal": 768,
+    "kcal": 785,
     "protein_g": 42.2,
     "carbs_g": 52.1,
-    "sugar_g": 7.2,
+    "sugar_g": 7.1,
     "free_sugar_g": 4.5,
-    "fat_g": 42.7,
-    "satfat_g": 11.7,
-    "salt_g": 4.22,
+    "fat_g": 44.7,
+    "satfat_g": 13.0,
+    "salt_g": 3.36,
     "fibre_g": 2.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",

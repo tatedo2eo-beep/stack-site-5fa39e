@@ -26,4 +26,5 @@ Changes made:
 - Salt given in grams (06-G1): 1 pinch fine salt -> 0.5 g
 - Storage: added "refrigerate within 2 hours" line (06-G9)
 - Salt given in grams (06-G1): 1 tsp fine salt -> 6 g
+- Salt given in grams (06-G1): 0.65 tsp fine salt -> 4 g
 - Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

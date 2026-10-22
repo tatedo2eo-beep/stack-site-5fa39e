@@ -44,10 +44,10 @@
     },
     {
       "group": "Brine",
-      "qty": 7.5,
+      "qty": 6,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about 1¼ tsp"
+      "note": "about 1 tsp"
     },
     {
       "group": "Dredge",
@@ -205,7 +205,7 @@
     "free_sugar_g": 5.8,
     "fat_g": 42.9,
     "satfat_g": 7.3,
-    "salt_g": 3.06,
+    "salt_g": 2.81,
     "fibre_g": 2.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",

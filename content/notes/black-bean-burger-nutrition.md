@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| tins black beans (400 g each), drained and rinsed | Beans, black turtle, canned (FDC 175188) | 480 | 436.8 | 28.9 | 79.7 | 1.10 | 0.00 | 1.4 | 0.36 | 1843 | 33.1 |
+| tins no-added-salt black beans (400 g each), drained and rinsed | Beans, black, mature seeds, cooked, boiled, without salt (FDC 173735) | 480 | 633.6 | 42.5 | 113.8 | 1.54 | 0.00 | 2.6 | 0.67 | 5 | 41.8 |
 | olive oil | Oil, olive, salad or cooking (SR 04053) | 13 | 114.9 | 0.0 | 0.0 | 0.00 | 0.00 | 13.0 | 1.80 | 0 | 0.0 |
 | small onion, finely diced | Onions, raw (SR 11282) | 100 | 40.0 | 1.1 | 9.3 | 4.24 | 0.00 | 0.1 | 0.04 | 4 | 1.7 |
 | small red pepper, finely diced | Peppers, sweet, red, raw (SR 11821) | 120 | 37.2 | 1.2 | 7.2 | 5.04 | 0.00 | 0.4 | 0.03 | 5 | 2.5 |
@@ -14,7 +14,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | soy sauce | Soy sauce, shoyu (FDC 174277) | 10 | 5.3 | 0.8 | 0.5 | 0.04 | 0.00 | 0.1 | 0.01 | 549 | 0.1 |
 | panko breadcrumbs | Bread crumbs, dry, grated, plain (FDC 174928); proxy for panko | 60 | 237.0 | 8.0 | 43.2 | 3.72 | 3.72 | 3.2 | 0.72 | 439 | 2.7 |
 | large egg, beaten | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
-| fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
+| fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | neutral oil, for frying | Oil, canola (SR 04582) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 1.99 | 0 | 0.0 |
 | slices mature cheddar | Cheese, cheddar, sharp, sliced (FDC 170899) | 80 | 328.0 | 19.4 | 1.7 | 0.22 | 0.00 | 27.0 | 15.52 | 515 | 0.0 |
@@ -29,16 +29,16 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | sriracha | Sauce, hot chile, sriracha (FDC 171186) | 15 | 13.9 | 0.3 | 2.9 | 2.26 | 2.26 | 0.1 | 0.01 | 318 | 0.3 |
 | smoked paprika | Spices, paprika (SR 02028) | 2.3 | 6.5 | 0.3 | 1.2 | 0.24 | 0.00 | 0.3 | 0.05 | 2 | 0.8 |
 | lime juice | Lime juice, raw (SR 09160) - juice sugars counted as free | 5 | 1.2 | 0.0 | 0.4 | 0.08 | 0.08 | 0.0 | 0.00 | 0 | 0.0 |
-| **Total** | | | 2792 | 95.0 | 291.2 | 44.22 | 24.39 | 141.7 | 36.57 | 6116 | 51.8 |
+| **Total** | | | 2989 | 108.6 | 325.3 | 44.65 | 24.39 | 142.9 | 36.87 | 4859 | 60.4 |
 
-**Per serving (total / 4):** kcal 698, protein_g 23.8, carbs_g 72.8, sugar_g 11.1, free_sugar_g 6.1, fat_g 35.4, satfat_g 9.1, salt_g 3.82, fibre_g 13.0
+**Per serving (total / 4):** kcal 747, protein_g 27.2, carbs_g 81.3, sugar_g 11.2, free_sugar_g 6.1, fat_g 35.7, satfat_g 9.2, salt_g 3.04, fibre_g 15.1
 
 ## Checks
-- Protein per 100 kcal: 3.4 g -> High Protein (>=10): no
-- Fat energy: 46% (<=30%: fail)
-- Sat fat energy: 11.7% (<10%: fail)
-- Free sugar energy: 3.5% (<10%: pass)
-- Salt: 3.82 g/serving (modest = <= 1.7 g, about a third of WHO's 5 g/day: fail)
+- Protein per 100 kcal: 3.6 g -> High Protein (>=10): no
+- Fat energy: 43% (<=30%: fail)
+- Sat fat energy: 11.1% (<10%: fail)
+- Free sugar energy: 3.3% (<10%: pass)
+- Salt: 3.04 g/serving (modest = <= 1.7 g, about a third of WHO's 5 g/day: fail)
 - WHO Healthy by these numbers: no
 
 ## Assumptions

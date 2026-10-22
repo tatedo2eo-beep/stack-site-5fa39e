@@ -29,6 +29,7 @@ Changes made:
 - Storage: added "refrigerate within 2 hours" line (06-G9)
 - Added the frying-safety tip: pot half full, thermometer, never unattended, no water on a grease fire (06-G6)
 - Oven preheat stated first (CHECKLIST Preheat)
+- Salt given in grams (06-G1): 0.5 tsp fine salt -> 3 g
 - Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).
 
 ## Salt re-check

@@ -41,10 +41,10 @@
     },
     {
       "group": "Wings",
-      "qty": 3,
+      "qty": 1.5,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about ½ tsp"
+      "note": "about ¼ tsp"
     },
     {
       "group": "Wings",
@@ -54,7 +54,7 @@
     },
     {
       "group": "Buffalo sauce",
-      "qty": 90,
+      "qty": 75,
       "unit": "ml",
       "item": "vinegar-based cayenne hot pepper sauce"
     },
@@ -151,12 +151,12 @@
   "nutrition_per_serving": {
     "kcal": 563,
     "protein_g": 35.7,
-    "carbs_g": 3.7,
-    "sugar_g": 1.5,
+    "carbs_g": 3.6,
+    "sugar_g": 1.4,
     "free_sugar_g": 0.1,
     "fat_g": 44.6,
     "satfat_g": 16.7,
-    "salt_g": 3.63,
+    "salt_g": 3.02,
     "fibre_g": 0.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",

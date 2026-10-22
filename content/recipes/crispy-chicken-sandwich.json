@@ -38,10 +38,10 @@
     },
     {
       "group": "Chicken and marinade",
-      "qty": 6,
+      "qty": 3.6,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about 1 tsp"
+      "note": "about ⅔ tsp"
     },
     {
       "group": "Chicken and marinade",
@@ -82,10 +82,10 @@
     },
     {
       "group": "Coating",
-      "qty": 4.5,
+      "qty": 3,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about ¾ tsp"
+      "note": "about ½ tsp"
     },
     {
       "group": "Coating",
@@ -200,7 +200,7 @@
     "free_sugar_g": 4.5,
     "fat_g": 35.4,
     "satfat_g": 5.3,
-    "salt_g": 3.28,
+    "salt_g": 2.75,
     "fibre_g": 2.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",

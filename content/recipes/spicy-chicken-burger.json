@@ -42,10 +42,10 @@
     },
     {
       "group": "Chicken and marinade",
-      "qty": 6,
+      "qty": 3.5,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about 1 tsp"
+      "note": "about 0.6 tsp"
     },
     {
       "group": "Chicken and marinade",
@@ -79,10 +79,10 @@
     },
     {
       "group": "Coating",
-      "qty": 4.5,
+      "qty": 3,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about ¾ tsp"
+      "note": "about ½ tsp"
     },
     {
       "group": "Coating",
@@ -99,7 +99,7 @@
     },
     {
       "group": "Chicken and marinade",
-      "qty": 2,
+      "qty": 1.5,
       "unit": "tbsp",
       "item": "hot pepper sauce (vinegar-based, such as a Louisiana-style sauce)",
       "note": "stirred into the buttermilk"
@@ -151,7 +151,7 @@
     },
     {
       "group": "To assemble",
-      "qty": 60,
+      "qty": 40,
       "unit": "g",
       "item": "dill pickle slices"
     },
@@ -196,7 +196,7 @@
   "steps": [
     {
       "title": "Marinate the chicken",
-      "text": "Submerge the chicken thighs in buttermilk mixed with salt, garlic powder, paprika and 2 tablespoons of hot sauce, then cover and refrigerate for at least 1 hour and up to 24 hours. The buttermilk's acidity gently tenderises the meat while seasoning it right through."
+      "text": "Submerge the chicken thighs in buttermilk mixed with salt, garlic powder, paprika and 1½ tablespoons of hot sauce, then cover and refrigerate for at least 1 hour and up to 24 hours. The buttermilk's acidity gently tenderises the meat while seasoning it right through."
     },
     {
       "title": "Build the dredge",
@@ -248,15 +248,15 @@
   ],
   "diet": [],
   "nutrition_per_serving": {
-    "kcal": 756,
+    "kcal": 755,
     "protein_g": 40.0,
-    "carbs_g": 55.7,
-    "sugar_g": 9.1,
+    "carbs_g": 55.5,
+    "sugar_g": 9.0,
     "free_sugar_g": 5.4,
     "fat_g": 41.1,
     "satfat_g": 6.3,
-    "salt_g": 3.79,
-    "fibre_g": 3.5
+    "salt_g": 3.04,
+    "fibre_g": 3.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-burger-basic--spicy-cayenne-hot-sauce.jpg",

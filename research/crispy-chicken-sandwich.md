@@ -31,4 +31,6 @@ Changes made:
 - Added the frying-safety tip: pot half full, thermometer, never unattended, no water on a grease fire (06-G6)
 - Dredged chicken rests at least 10 min on a rack (02-C6)
 - Frying hold temperature set to 150-165 °C (02-C6)
+- Salt given in grams (06-G1): 0.6 tsp fine salt -> 3.5 g
+- Salt given in grams (06-G1): 0.5 tsp fine salt -> 3 g
 - Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

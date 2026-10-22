@@ -91,7 +91,7 @@
       "group": "Tomato sauce",
       "qty": 800,
       "unit": "g",
-      "item": "tinned crushed tomatoes (2 tins)"
+      "item": "tinned crushed or chopped tomatoes, no added salt (2 tins)"
     },
     {
       "group": "Tomato sauce",
@@ -101,10 +101,10 @@
     },
     {
       "group": "Tomato sauce",
-      "qty": 0.5,
+      "qty": 1.5,
       "unit": "g",
-      "item": "fine sea salt or table salt, only if needed",
-      "note": "about 1 pinch; taste first: tinned tomatoes are usually salted"
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp; the tomatoes have no added salt; taste and adjust"
     },
     {
       "group": "Tomato sauce",
@@ -141,7 +141,7 @@
   "steps": [
     {
       "title": "Simmer the tomato sauce",
-      "text": "Warm the olive oil and garlic in a saucepan over medium-low heat for 1-2 minutes until pale gold, then add the tomatoes, oregano, salt if needed and a few basil stems. Simmer for 15-20 minutes until thickened, tasting first since tinned tomatoes are usually already salted."
+      "text": "Warm the olive oil and garlic in a saucepan over medium-low heat for 1-2 minutes until pale gold, then add the no-added-salt tomatoes, oregano, the ¼ tsp salt and a few basil stems. Simmer for 15-20 minutes until thickened, then taste and adjust the seasoning."
     },
     {
       "title": "Flatten and season the chicken",
@@ -180,14 +180,14 @@
   ],
   "diet": [],
   "nutrition_per_serving": {
-    "kcal": 915,
-    "protein_g": 61.2,
-    "carbs_g": 87.5,
-    "sugar_g": 12.2,
+    "kcal": 883,
+    "protein_g": 59.5,
+    "carbs_g": 79.8,
+    "sugar_g": 8.5,
     "free_sugar_g": 1.1,
-    "fat_g": 35.5,
-    "satfat_g": 10.0,
-    "salt_g": 3.3,
+    "fat_g": 35.4,
+    "satfat_g": 9.9,
+    "salt_g": 2.78,
     "fibre_g": 7.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",

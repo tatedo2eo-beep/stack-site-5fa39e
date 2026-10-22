@@ -35,4 +35,6 @@ Changes made:
 - Frying oil preheated to 175 °C, held 150-165 °C (02-C6)
 - Salt given in grams (06-G1): 1 tsp fine salt -> 6 g
 - light brown sugar: 1 tsp → 4 g (CHECKLIST 1, weights in grams)
+- Salt given in grams (06-G1): 0.6 tsp fine salt -> 3.5 g
+- Salt given in grams (06-G1): 0.5 tsp fine salt -> 3 g
 - Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

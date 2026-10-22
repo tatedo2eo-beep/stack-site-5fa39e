@@ -27,8 +27,8 @@
       "group": "Patties",
       "qty": 2,
       "unit": "pc",
-      "item": "tins black beans (400 g each), drained and rinsed",
-      "note": "about 480 g drained"
+      "item": "tins no-added-salt black beans (400 g each), drained and rinsed",
+      "note": "about 480 g drained; or 480 g home-cooked black beans"
     },
     {
       "group": "Patties",
@@ -86,10 +86,10 @@
     },
     {
       "group": "Patties",
-      "qty": 1.5,
+      "qty": 3,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about ¼ tsp"
+      "note": "about ½ tsp"
     },
     {
       "group": "Patties",
@@ -237,15 +237,15 @@
     "vegetarian"
   ],
   "nutrition_per_serving": {
-    "kcal": 698,
-    "protein_g": 23.8,
-    "carbs_g": 72.8,
-    "sugar_g": 11.1,
+    "kcal": 747,
+    "protein_g": 27.2,
+    "carbs_g": 81.3,
+    "sugar_g": 11.2,
     "free_sugar_g": 6.1,
-    "fat_g": 35.4,
-    "satfat_g": 9.1,
-    "salt_g": 3.82,
-    "fibre_g": 13.0
+    "fat_g": 35.7,
+    "satfat_g": 9.2,
+    "salt_g": 3.04,
+    "fibre_g": 15.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "veggie-bean-burger-basic.jpg",

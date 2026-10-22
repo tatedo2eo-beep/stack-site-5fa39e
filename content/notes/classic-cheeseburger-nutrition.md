@@ -5,7 +5,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | beef mince, 20% fat | Beef, ground, 80% lean/20% fat, raw (SR 23572) | 600 | 1524.0 | 103.0 | 0.0 | 0.00 | 0.00 | 120.0 | 45.48 | 396 | 0.0 |
-| fine salt | Salt, table (SR 02047) | 6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2325 | 0.0 |
+| fine salt | Salt, table (SR 02047) | 4.2 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1628 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | neutral oil | Oil, canola (SR 04582) | 5 | 44.2 | 0.0 | 0.0 | 0.00 | 0.00 | 5.0 | 0.37 | 0 | 0.0 |
 | slices mild cheddar | Cheese, cheddar, sharp, sliced (FDC 170899) | 80 | 328.0 | 19.4 | 1.7 | 0.22 | 0.00 | 27.0 | 15.52 | 515 | 0.0 |
@@ -17,16 +17,16 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | dill pickle slices | Pickles, cucumber, dill (SR 11937) | 40 | 4.8 | 0.2 | 1.0 | 0.51 | 0.00 | 0.1 | 0.03 | 324 | 0.4 |
 | tomato ketchup | Catsup (SR 11935) | 40 | 40.4 | 0.4 | 11.0 | 8.51 | 8.51 | 0.0 | 0.00 | 363 | 0.1 |
 | yellow mustard | Mustard, prepared, yellow (SR 02046) | 20 | 12.0 | 0.7 | 1.2 | 0.18 | 0.00 | 0.7 | 0.04 | 221 | 0.8 |
-| **Total** | | | 2746 | 149.5 | 146.6 | 33.33 | 25.98 | 170.8 | 68.68 | 5344 | 8.9 |
+| **Total** | | | 2746 | 149.5 | 146.6 | 33.33 | 25.98 | 170.8 | 68.68 | 4646 | 8.9 |
 
-**Per serving (total / 4):** kcal 687, protein_g 37.4, carbs_g 36.6, sugar_g 8.3, free_sugar_g 6.5, fat_g 42.7, satfat_g 17.2, salt_g 3.34, fibre_g 2.2
+**Per serving (total / 4):** kcal 687, protein_g 37.4, carbs_g 36.6, sugar_g 8.3, free_sugar_g 6.5, fat_g 42.7, satfat_g 17.2, salt_g 2.9, fibre_g 2.2
 
 ## Checks
 - Protein per 100 kcal: 5.4 g -> High Protein (>=10): no
 - Fat energy: 56% (<=30%: fail)
 - Sat fat energy: 22.5% (<10%: fail)
 - Free sugar energy: 3.8% (<10%: pass)
-- Salt: 3.34 g/serving (modest = <= 1.7 g, about a third of WHO's 5 g/day: fail)
+- Salt: 2.9 g/serving (modest = <= 1.7 g, about a third of WHO's 5 g/day: fail)
 - WHO Healthy by these numbers: no
 
 ## Assumptions

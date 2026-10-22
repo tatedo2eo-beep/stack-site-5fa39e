@@ -24,6 +24,7 @@ Changes made:
 - Salt given in grams (06-G1): 1 tsp fine salt -> 6.0 g
 - Storage: added "refrigerate within 2 hours" line (06-G9)
 - Salt given in grams (06-G1): 1 tsp fine salt -> 6 g
+- Salt given in grams (06-G1): 0.85 tsp fine salt -> 5 g
 - Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).
 
 ## Salt re-check

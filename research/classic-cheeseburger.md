@@ -30,4 +30,5 @@ Changes made:
 - Storage: added "refrigerate within 2 hours" line (06-G9)
 - Resting reason corrected: no juice-reabsorption claim (02-C1, 06-G5)
 - Salt given in grams (06-G1): 1 tsp fine salt -> 6 g
+- Salt given in grams (06-G1): 0.7 tsp fine salt -> 4 g
 - Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

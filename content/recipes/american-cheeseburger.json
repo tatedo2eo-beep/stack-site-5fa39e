@@ -33,10 +33,10 @@
     },
     {
       "group": "Patties",
-      "qty": 5,
+      "qty": 2.5,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about 0.8 tsp"
+      "note": "about 0.4 tsp"
     },
     {
       "group": "Patties",
@@ -84,7 +84,7 @@
     },
     {
       "group": "To assemble",
-      "qty": 40,
+      "qty": 25,
       "unit": "g",
       "item": "dill pickle slices"
     },
@@ -173,15 +173,15 @@
   ],
   "diet": [],
   "nutrition_per_serving": {
-    "kcal": 769,
+    "kcal": 768,
     "protein_g": 35.9,
-    "carbs_g": 34.9,
+    "carbs_g": 34.8,
     "sugar_g": 6.7,
     "free_sugar_g": 5.8,
     "fat_g": 53.1,
     "satfat_g": 18.7,
-    "salt_g": 3.71,
-    "fibre_g": 1.8
+    "salt_g": 3.05,
+    "fibre_g": 1.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "cheeseburger-basic--american.jpg",

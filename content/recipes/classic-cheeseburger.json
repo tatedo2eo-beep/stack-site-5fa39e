@@ -31,10 +31,10 @@
     },
     {
       "group": "Patties",
-      "qty": 6,
+      "qty": 4,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about 1 tsp"
+      "note": "about 0.7 tsp"
     },
     {
       "group": "Patties",
@@ -166,7 +166,7 @@
     "free_sugar_g": 6.5,
     "fat_g": 42.7,
     "satfat_g": 17.2,
-    "salt_g": 3.34,
+    "salt_g": 2.9,
     "fibre_g": 2.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",

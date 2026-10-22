@@ -24,7 +24,7 @@ t('gluten-free dropped when flour', () => { const r = mk([[100, 'g', 'plain flou
 t('rice flour is not gluten', () => assert(!R.checkAllergens(mk([[100, 'g', 'rice flour']])).list.includes('gluten')));
 t('allergen auto-add: parmesan -> milk, tahini -> sesame', () => { const a = R.checkAllergens(mk([[10, 'g', 'parmesan'], [1, 'tbsp', 'tahini']])).list; assert(a.includes('milk') && a.includes('sesame')); });
 t('eggplant is not egg', () => assert(!R.checkAllergens(mk([[300, 'g', 'eggplant']])).list.includes('eggs')));
-t('unknown chapter rejected', () => assert(R.validate(mk([[1, 'g', 'x']], {}, { chapter: 'soups' })).errors.some(e => /^chapter/.test(e))));
+t('unknown chapter rejected', () => assert(R.validate(mk([[1, 'g', 'x']], {}, { chapter: 'not-a-real-chapter' })).errors.some(e => /^chapter/.test(e))));
 t('bad access rejected', () => assert(R.validate(mk([[1, 'g', 'x']], {}, { access: 'gold' })).errors.some(e => /^access/.test(e))));
 t('dish file validated', () => { assert.deepStrictEqual(R.validateDish({ slug: 'smash-burger', title: 'Smash burger', chapter: 'burgers', intro: 'x' }, 'smash-burger.json'), []); assert(R.validateDish({ slug: 'x', title: '', chapter: 'nope', intro: '' }).length === 3); });
 t('first flavour free, others premium, Classic first', () => { const a = R.assignAccess([mk([], {}, { title: 'B', flavour: 'Spicy' }), mk([], {}, { title: 'C', flavour: 'Classic' }), mk([], {}, { title: 'A', flavour: 'BBQ' })]); assert.deepStrictEqual(a.map(r => r.flavour + ':' + r.access), ['Classic:free', 'BBQ:premium', 'Spicy:premium']); });

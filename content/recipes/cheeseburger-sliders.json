@@ -31,10 +31,10 @@
     },
     {
       "group": "Mini patties",
-      "qty": 6,
+      "qty": 5,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about 1 tsp"
+      "note": "about 0.85 tsp"
     },
     {
       "group": "Mini patties",
@@ -143,7 +143,7 @@
     "free_sugar_g": 5.3,
     "fat_g": 30.6,
     "satfat_g": 13.0,
-    "salt_g": 3.05,
+    "salt_g": 2.91,
     "fibre_g": 1.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",

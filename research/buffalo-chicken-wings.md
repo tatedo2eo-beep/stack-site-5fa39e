@@ -28,4 +28,5 @@ Changes made:
 - Oven preheat stated 20 min ahead (CHECKLIST Preheat)
 - Sulphites added to allergens (vinegar, hot sauce or mustard may contain them)
 - Salt given in grams (06-G1): 0.5 tsp fine salt -> 3 g
+- Salt given in grams (06-G1): 0.25 tsp fine salt -> 1.5 g
 - Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).
