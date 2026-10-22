@@ -1,0 +1,195 @@
+{
+  "slug": "chocolate-layer-cake",
+  "title": "Chocolate Layer Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cakes-cupcakes",
+  "book_chapter": "cakes-cupcakes",
+  "dish": "chocolate-layer",
+  "dish_title": "Chocolate layer",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A moist, deeply chocolatey layer cake made with an oil-based batter and coffee for extra depth, finished with glossy chocolate ganache.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "two 20 cm round cake tins (5 cm deep), greased and base-lined",
+    "2 large bowls and a whisk",
+    "saucepan",
+    "stand mixer or electric hand whisk",
+    "wire racks",
+    "palette knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Cake",
+      "qty": 60,
+      "unit": "g",
+      "item": "cocoa powder (Dutch-processed), sifted"
+    },
+    {
+      "group": "Cake",
+      "qty": 240,
+      "unit": "ml",
+      "item": "hot strong coffee or boiling water",
+      "note": "coffee deepens the chocolate; it is not tasted"
+    },
+    {
+      "group": "Cake",
+      "qty": 250,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Cake",
+      "qty": 325,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cake",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Cake",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Cake",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Cake",
+      "qty": 120,
+      "unit": "g",
+      "item": "neutral oil (sunflower or rapeseed)"
+    },
+    {
+      "group": "Cake",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Cake",
+      "qty": 240,
+      "unit": "g",
+      "item": "buttermilk, at room temperature"
+    },
+    {
+      "group": "Cake",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Ganache frosting",
+      "qty": 300,
+      "unit": "g",
+      "item": "dark chocolate (about 60% cocoa solids), finely chopped"
+    },
+    {
+      "group": "Ganache frosting",
+      "qty": 300,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Ganache frosting",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Ganache frosting",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the Oven",
+      "text": "Set the oven to 175°C (155°C fan) and let it heat for at least 20 minutes before baking, with a shelf positioned in the middle."
+    },
+    {
+      "title": "Bloom the Cocoa",
+      "text": "Whisk the cocoa powder into the hot coffee until smooth, then leave it for 5 minutes. Blooming cocoa in hot liquid like this draws out more of its flavour than simply stirring it into the batter dry."
+    },
+    {
+      "title": "Mix Wet and Dry Separately",
+      "text": "Whisk the flour, sugar, bicarbonate of soda, baking powder and salt together in a large bowl. In a second bowl, whisk the oil, eggs, buttermilk and vanilla, then whisk in the cocoa mixture."
+    },
+    {
+      "title": "Combine the Batter",
+      "text": "Pour the wet mixture into the dry and whisk just until smooth; the batter will be noticeably thin, which is normal for this style of cake. Overmixing here is the main way to end up with a tough, rubbery crumb instead of a moist one."
+    },
+    {
+      "title": "Bake the Layers",
+      "text": "Divide the batter between the two tins and bake for 30-35 minutes, until the tops spring back to the touch and a skewer comes out with just a few moist crumbs clinging to it."
+    },
+    {
+      "title": "Cool Completely",
+      "text": "Cool the cakes in their tins for 10 minutes, then turn out onto a rack and leave to cool fully before icing."
+    },
+    {
+      "title": "Make the Ganache",
+      "text": "Bring the cream just to the boil and pour it over the chopped chocolate. Leave for 3 minutes, then stir from the centre outwards until glossy and smooth, before stirring in the butter and salt."
+    },
+    {
+      "title": "Thicken the Ganache",
+      "text": "Leave the ganache at room temperature for 1-1½ hours, stirring occasionally, until it's thick enough to spread, holding its shape rather like soft peanut butter. Whip it for 30 seconds with the mixer if you'd like a lighter, fluffier frosting."
+    },
+    {
+      "title": "Assemble",
+      "text": "Sandwich the cooled layers with a third of the ganache, then spread the remainder over the top and sides to finish."
+    }
+  ],
+  "tips": [
+    "Don't skip the coffee bloom - it isn't there for a coffee flavour, just to make the chocolate taste richer.",
+    "The batter is meant to be thin; resist adding more flour, as it will bake up moist rather than dense.",
+    "Let the ganache cool and thicken properly before spreading - using it warm will just slide off the sides of the cake.",
+    "Make sure the cakes are completely cool before assembling, or the ganache will melt and pool.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered at room temperature for up to 2 days, or in the fridge for up to 5 days, bringing slices back to room temperature before serving. The unfrosted sponges freeze well, wrapped tightly, for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 579,
+    "protein_g": 8.0,
+    "carbs_g": 59.3,
+    "sugar_g": 35.0,
+    "free_sugar_g": 33.1,
+    "fat_g": 36.0,
+    "satfat_g": 16.1,
+    "salt_g": 1.04,
+    "fibre_g": 4.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chocolate-layer-basic.jpg",
+  "image_alt": "A tall slice of dark chocolate layer cake with glossy swirled chocolate frosting on a black plate on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

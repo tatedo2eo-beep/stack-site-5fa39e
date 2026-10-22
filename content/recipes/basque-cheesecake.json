@@ -1,0 +1,140 @@
+{
+  "slug": "basque-cheesecake",
+  "title": "Basque Burnt Cheesecake",
+  "category": "desserts",
+  "cuisine": "Spanish (Basque)",
+  "chapter": "cakes-cupcakes",
+  "book_chapter": "cakes-cupcakes",
+  "dish": "basque-burnt-san-sebastian",
+  "dish_title": "Basque burnt (San Sebastián)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A crustless cheesecake baked at high heat until the top is deeply burnished, with a centre that stays loose and custardy.",
+  "servings": 12,
+  "prep_min": 15,
+  "cook_min": 60,
+  "difficulty": "easy",
+  "equipment": [
+    "23 cm springform tin (at least 7 cm deep)",
+    "baking paper",
+    "stand mixer or electric hand whisk",
+    "fine sieve",
+    "rimmed baking tray",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 900,
+      "unit": "g",
+      "item": "full-fat cream cheese (block), at room temperature"
+    },
+    {
+      "group": "Filling",
+      "qty": 300,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Filling",
+      "qty": 400,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Filling",
+      "qty": 30,
+      "unit": "g",
+      "item": "plain flour"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the Oven",
+      "text": "Heat the oven to 220°C (200°C fan) for at least 20 minutes before baking, with a shelf set in the middle. This cheesecake needs a properly hot oven from the first minute so the top colours before the centre has a chance to overcook."
+    },
+    {
+      "title": "Line the Tin",
+      "text": "Scrunch two large sheets of baking paper, flatten them out, then press them into the tin so they overlap and stand about 5cm above the rim. The crumpled paper is what gives the finished cheesecake its rough, rustic sides once it's turned out."
+    },
+    {
+      "title": "Beat Cheese, Sugar and Salt",
+      "text": "Beat the cream cheese, sugar and salt together on low-medium speed for 2-3 minutes until completely smooth and the sugar has fully dissolved. Rushing this stage leaves grainy sugar crystals that never disappear once the eggs go in."
+    },
+    {
+      "title": "Add Eggs, Cream and Flour",
+      "text": "Add the eggs one at a time on low speed, then beat in the double cream and vanilla. Sift the flour over the top and mix on low just until smooth, scraping the bowl well so nothing is hiding at the bottom."
+    },
+    {
+      "title": "Strain the Batter",
+      "text": "If any lumps remain, strain the batter through a fine sieve before pouring it into the lined tin. A smooth batter at this point is what gives the baked cheesecake its silky, lump-free centre."
+    },
+    {
+      "title": "Bake Until Deeply Burnished",
+      "text": "Set the tin on a baking tray and bake for 50-60 minutes, until it's puffed up and very dark brown on top - that bitter, caramelised crust is the whole point of this cheesecake. The centre should still wobble loosely and read 65-68°C, well short of a fully set custard."
+    },
+    {
+      "title": "Cool and Sink",
+      "text": "Cool the cheesecake in the tin on a rack for at least 2 hours; it will sink and dimple noticeably as it cools, which is completely normal. Serve at room temperature for a soft, almost molten centre, or chill for 4 hours if you'd prefer a firmer slice."
+    },
+    {
+      "title": "Unmould",
+      "text": "Lift the cheesecake out of the tin using the baking paper and gently peel it away before transferring it to a plate."
+    }
+  ],
+  "tips": [
+    "Let the top get properly dark - a pale top means an undercooked, overly wobbly cheesecake rather than the intended burnt crust.",
+    "Don't skip straining the batter if you spot lumps; the sieve is a quick fix that saves a gritty texture later.",
+    "Expect a dramatic sink as it cools - that's a sign the centre is as soft and custardy as it should be, not a mistake.",
+    "Use the baking paper overhang to lift the cheesecake out cleanly instead of trying to unclip a sticky tin.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Cover and keep in the fridge for up to 4 days; let slices come back to room temperature before serving for the softest centre. It also freezes well, tightly wrapped, for up to 2 months, and should be thawed overnight in the fridge.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 518,
+    "protein_g": 9.0,
+    "carbs_g": 32.2,
+    "sugar_g": 28.9,
+    "free_sugar_g": 25.0,
+    "fat_g": 40.3,
+    "satfat_g": 23.6,
+    "salt_g": 0.82,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "basque-burnt-san-sebastian-cheesecakes.jpg",
+  "image_alt": "A wedge of cheesecake with a deeply caramelised, almost black top and creamy centre, with crumpled baking paper on a black plate on dark slate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

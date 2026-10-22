@@ -1,0 +1,162 @@
+{
+  "slug": "genoise-sponge",
+  "title": "Genoise Sponge Cake",
+  "category": "desserts",
+  "cuisine": "French / Italian",
+  "chapter": "cakes-cupcakes",
+  "book_chapter": "cakes-cupcakes",
+  "dish": "sponge-genoise",
+  "dish_title": "Sponge (genoise)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A light, whisked sponge with no raising agent, its lift coming entirely from warmed, whipped eggs, served simply with whipped cream and berries.",
+  "servings": 8,
+  "prep_min": 35,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "20 cm round cake tin (6-7 cm deep), base-lined and sides greased",
+    "heatproof bowl and saucepan for a bain-marie",
+    "stand mixer or electric hand whisk",
+    "fine sieve",
+    "large metal spoon or spatula",
+    "balloon whisk for the cream"
+  ],
+  "ingredients": [
+    {
+      "group": "Sponge",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Sponge",
+      "qty": 120,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sponge",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Sponge",
+      "qty": 90,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Sponge",
+      "qty": 30,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "Sponge",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled to warm"
+    },
+    {
+      "group": "Sponge",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "To serve",
+      "qty": 300,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 20,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "To serve",
+      "qty": 250,
+      "unit": "g",
+      "item": "strawberries or mixed berries"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the Oven",
+      "text": "Switch the oven on to 175°C (155°C fan), giving it at least 20 minutes to come up to temperature, and set a shelf in the middle."
+    },
+    {
+      "title": "Sift the Flours Twice",
+      "text": "Sift the plain flour and cornflour together twice. Sifting twice gets rid of any lumps and makes sure the two flours are evenly combined before they meet the whipped eggs."
+    },
+    {
+      "title": "Warm and Whisk the Eggs",
+      "text": "Whisk the eggs, sugar and salt together in a bowl set over barely simmering water until just warm to the touch, around 40°C, and the sugar has dissolved, about 2-3 minutes. Warming the eggs loosens them so they whip up to a far greater volume than they would cold."
+    },
+    {
+      "title": "Whip to Ribbon Stage",
+      "text": "Off the heat, whisk on high speed for 6-8 minutes until tripled in volume, pale and thick enough that a ribbon trailed from the whisk sits visibly on the surface for about 5 seconds. Whisk for 1 minute more on low speed to even out any large bubbles."
+    },
+    {
+      "title": "Fold in the Flour",
+      "text": "Sift a third of the flour mixture over the whipped eggs and fold it in gently with a large spatula, cutting through the centre and turning the bowl as you go. Repeat with the remaining flour in two more additions, folding just until it disappears, since a heavy hand here will knock out the air you've just whipped in."
+    },
+    {
+      "title": "Fold in the Butter",
+      "text": "Stir a large spoonful of the batter into the warm melted butter and vanilla to loosen it, then fold this mixture back into the rest. Lightening the butter first stops it sinking straight to the bottom and deflating the sponge as you fold."
+    },
+    {
+      "title": "Bake",
+      "text": "Pour the batter into the tin and bake for 25-30 minutes, until golden, springy to the touch and just starting to shrink away from the sides of the tin."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool in the tin for 5 minutes, then run a knife around the edge, turn out onto a rack and leave to cool completely."
+    },
+    {
+      "title": "Serve",
+      "text": "Whip the double cream with the icing sugar to soft peaks. Cut the sponge into wedges and serve with the whipped cream and berries alongside."
+    }
+  ],
+  "tips": [
+    "Don't rush the whisking stage - a thin, pale batter that won't hold a ribbon won't rise properly, however long it bakes.",
+    "Fold gently rather than stir; a heavy hand here is the most common reason a genoise turns out flat and dense.",
+    "Lighten the melted butter with a spoonful of batter before folding it in fully, or it will sink and leave dense patches.",
+    "This same sponge can be split in half once cool and filled, if you'd like to turn it into a layered cake.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep the plain sponge wrapped at room temperature for up to 2 days, or in the fridge for up to 4 days once filled with cream. It freezes well unfilled, wrapped tightly, for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 334,
+    "protein_g": 5.6,
+    "carbs_g": 33.2,
+    "sugar_g": 20.3,
+    "free_sugar_g": 17.5,
+    "fat_g": 20.2,
+    "satfat_g": 12.0,
+    "salt_g": 0.21,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sponge-genoise-basic.jpg",
+  "image_alt": "A round golden genoise sponge with a wedge cut out, showing its fine, even crumb on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

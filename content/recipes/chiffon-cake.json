@@ -1,0 +1,170 @@
+{
+  "slug": "chiffon-cake",
+  "title": "Chiffon Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cakes-cupcakes",
+  "book_chapter": "cakes-cupcakes",
+  "dish": "chiffon",
+  "dish_title": "Chiffon",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A very light, tall tube cake made with oil rather than butter and lifted with a whisked meringue, cooled upside down to stop its airy crumb collapsing.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 60,
+  "difficulty": "medium",
+  "equipment": [
+    "25 cm two-piece tube (angel food) tin, ungreased and unlined",
+    "2 large bowls",
+    "stand mixer or electric hand whisk",
+    "balloon whisk",
+    "wire rack or glass bottle for cooling upside down"
+  ],
+  "ingredients": [
+    {
+      "group": "Cake",
+      "qty": 240,
+      "unit": "g",
+      "item": "cake flour (or plain flour; see note)",
+      "note": "plain flour works with a slightly firmer crumb"
+    },
+    {
+      "group": "Cake",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cake",
+      "qty": 2.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Cake",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Cake",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Cake",
+      "qty": 110,
+      "unit": "g",
+      "item": "neutral oil (sunflower or rapeseed)"
+    },
+    {
+      "group": "Cake",
+      "qty": 180,
+      "unit": "ml",
+      "item": "water or whole milk"
+    },
+    {
+      "group": "Cake",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Meringue",
+      "qty": 8,
+      "unit": "pc",
+      "item": "large egg whites, at room temperature"
+    },
+    {
+      "group": "Meringue",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "cream of tartar"
+    },
+    {
+      "group": "Meringue",
+      "qty": 140,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cake",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free almond extract",
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the Oven",
+      "text": "Heat the oven to 165°C (145°C fan) for at least 20 minutes before baking, with a shelf set in the lower third."
+    },
+    {
+      "title": "Leave the Tin Ungreased",
+      "text": "Don't grease or line the tube tin. The batter needs to cling to the bare sides as it rises, which is exactly how this cake climbs to its full height."
+    },
+    {
+      "title": "Make the Batter",
+      "text": "Whisk the flour, 150g of the sugar, baking powder and salt together in a large bowl. Make a well in the centre, add the egg yolks, oil, water or milk and vanilla, and whisk until smooth and glossy, about 1 minute."
+    },
+    {
+      "title": "Whisk the Meringue",
+      "text": "Whisk the egg whites and cream of tartar on medium speed until foamy, then add the 140g of sugar gradually on medium-high speed, whisking to stiff, glossy peaks that hold straight up. A chiffon cake needs a properly firm meringue like this to give it enough structure to rise tall."
+    },
+    {
+      "title": "Fold Together",
+      "text": "Whisk a third of the meringue into the batter to lighten it, then fold in the rest in two additions with a spatula, scraping down to the bottom of the bowl, until no white streaks remain."
+    },
+    {
+      "title": "Fill and Bake",
+      "text": "Pour the batter into the tin, run a skewer through it to burst any large bubbles, and smooth the top. Bake for 50-60 minutes, until well risen and deep golden, springy to the touch, with no wet crackle visible in the cracks and a skewer coming out clean."
+    },
+    {
+      "title": "Cool Upside Down",
+      "text": "As soon as it comes out of the oven, turn the tin upside down onto its feet, or balance it over the neck of a bottle, and leave to cool completely, about 2 hours. Cooling it this way stops gravity collapsing the light, delicate crumb while it's still warm and fragile."
+    },
+    {
+      "title": "Unmould",
+      "text": "Run a thin knife around the sides of the tin and around the central tube, lift out the base, then release the bottom of the cake. Dust with icing sugar or serve with whipped cream."
+    }
+  ],
+  "tips": [
+    "Never grease the tin - a greased tin is the single biggest reason chiffon cakes slide back down as they cool.",
+    "Whisk the meringue to stiff, not soft, peaks; a soft meringue won't hold the cake's height.",
+    "Cool it upside down straight after baking, not once it's already started cooling the right way up.",
+    "Use a long, thin knife to release it from the tube tin cleanly without tearing the sides.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered at room temperature for up to 3 days, or in the fridge for up to 5 days. It freezes well, wrapped tightly, for up to 2 months; thaw at room temperature before serving.",
+  "allergens": [
+    "gluten",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 289,
+    "protein_g": 5.4,
+    "carbs_g": 40.6,
+    "sugar_g": 24.5,
+    "free_sugar_g": 24.2,
+    "fat_g": 11.6,
+    "satfat_g": 1.5,
+    "salt_g": 0.57,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chiffon-basic.jpg",
+  "image_alt": "A tall golden chiffon tube cake with a slice showing the light, airy crumb on a black plate on dark slate.",
+  "inspired_by": [
+    "King Arthur Baking",
+    "NYT Cooking"
+  ]
+}

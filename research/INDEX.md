@@ -12,6 +12,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | baked-mac-and-cheese | Mac and cheese | Classic | 2 | 4 |
 | baked-ziti | Baked ziti | Classic | 2 | 4 |
 | banana-bread | Banana bread/quick breads | Classic | 2 | 4 |
+| basque-cheesecake | Basque burnt (San Sebastián) | Classic | 2 | 4 |
 | bbq-chicken-wings | Chicken wings | BBQ | 2 | 4 |
 | beef-chili | Chili con carne | Classic | 2 | 4 |
 | beef-chow-fun | Beef chow fun | Classic | 3 | 5 |
@@ -50,8 +51,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chicken-souvlaki | Chicken souvlaki | Classic | 2 | 4 |
 | chicken-tenders | Nuggets/tenders | Classic | 3 | 5 |
 | chicken-yassa | Yassa | Classic | 3 | 5 |
+| chiffon-cake | Chiffon | Classic | 2 | 4 |
 | chocolate-biscotti | Biscotti | Chocolate | 3 | 5 |
 | chocolate-dipped-shortbread | Shortbread | Chocolate-dipped | 2 | 5 |
+| chocolate-layer-cake | Chocolate layer | Classic | 2 | 4 |
 | chocolate-rugelach | Rugelach | Chocolate | 2 | 4 |
 | chocolate-sandwich-cookies | Sandwich cookies | Classic | 2 | 4 |
 | chow-mein | Chow mein/lo mein | Classic | 3 | 5 |
@@ -75,6 +78,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gai-yang | Gai yang | Classic | 2 | 4 |
 | garlic-parmesan-chicken-wings | Chicken wings | Garlic-parmesan | 3 | 5 |
 | general-tsos-chicken | General Tso's chicken | Classic | 2 | 4 |
+| genoise-sponge | Sponge (genoise) | Classic | 2 | 4 |
 | gingerbread-cookies | Gingerbread | Classic | 3 | 5 |
 | gnocchi-brown-butter-sage | Gnocchi | Brown butter-sage | 3 | 5 |
 | gnocchi-cherry-tomato | Gnocchi | Tomato | 3 | 5 |
@@ -86,6 +90,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | high-heat-roast-chicken | High-heat roast chicken | Classic | 3 | 5 |
 | hot-dry-noodles | Hot dry noodles | Classic | 1 | 3 |
 | iced-coffee | Iced coffee | Classic | 2 | 3 |
+| japanese-cotton-cheesecake | Japanese soufflé/cotton | Classic | 3 | 5 |
 | japchae | Japchae | Classic | 3 | 5 |
 | jerk-chicken | Jerk | Classic | 2 | 4 |
 | juicy-lucy | Juicy Lucy (stuffed) | Classic | 2 | 5 |
@@ -96,11 +101,13 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | langues-de-chat | Langues de chat | Classic | 2 | 4 |
 | lasagne-bolognese | Sheets/baked (lasagne) | Classic | 4 | 6 |
 | lemon-bars | Lemon bars | Classic | 3 | 5 |
+| lemon-chiffon-cake | Chiffon | Lemon | 3 | 5 |
 | lemon-cut-out-sugar-cookies | Sugar/cut-out | Lemon | 2 | 4 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
 | lo-mein | Lo mein | Classic | 2 | 4 |
 | madeleines | Madeleines (cake-like) | Classic | 3 | 5 |
 | malloreddus-saffron-tomato | Malloreddus | Classic | 2 | 4 |
+| matcha-chiffon-cake | Chiffon | Matcha | 2 | 4 |
 | mee-goreng | Mee goreng | Classic | 2 | 4 |
 | millionaires-shortbread | Bars (magic bars, millionaire's shortbread) | Classic | 4 | 6 |
 | musakhan | Musakhan | Classic | 3 | 6 |
@@ -108,6 +115,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | naengmyeon | Naengmyeon | Classic | 2 | 4 |
 | nanaimo-bars | Nanaimo bar | Classic | 3 | 5 |
 | nashville-hot-chicken | Nashville hot chicken | Classic | 2 | 5 |
+| new-york-cheesecake | New York (baked, dense) | Classic | 3 | 5 |
 | noodle-kugel | Kugel | Classic | 3 | 5 |
 | ohn-no-khao-swe | Ohn no khao swè | Classic | 2 | 4 |
 | oklahoma-onion-burger | Oklahoma onion burger | Classic | 3 | 7 |
@@ -117,6 +125,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pad-thai | Pad thai | Classic | 2 | 4 |
 | pancit-bihon | Pancit bihon | Classic | 2 | 4 |
 | pancit-canton | Pancit | Classic | 2 | 4 |
+| pandan-chiffon-cake | Chiffon | Pandan | 2 | 4 |
 | pappardelle-beef-ragu | Pappardelle | Classic | 2 | 4 |
 | pasta-al-limone | Pasta al limone | Classic | 2 | 4 |
 | pasta-alla-norma | Alla Norma | Classic | 2 | 4 |
@@ -163,5 +172,6 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | yakisoba | Yakisoba | Classic | 2 | 4 |
 | yakitori | Yakitori | Classic | 2 | 4 |
 | yangnyeom-chicken | Yangnyeom chicken | Classic | 3 | 6 |
+| yellow-butter-cake-chocolate-frosting | Butter/layer cake (yellow/vanilla) | Classic | 3 | 5 |
 
 Flavour maps: [smash-burger-flavours.md](smash-burger-flavours.md) (extra flavours ON HOLD per Joe's final rule: book flavours only).

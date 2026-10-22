@@ -1,0 +1,167 @@
+{
+  "slug": "matcha-chiffon-cake",
+  "title": "Matcha Chiffon Cake",
+  "category": "desserts",
+  "cuisine": "Japanese",
+  "chapter": "cakes-cupcakes",
+  "book_chapter": "cakes-cupcakes",
+  "dish": "chiffon",
+  "dish_title": "Chiffon",
+  "flavour": "Matcha",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "chiffon-cake",
+  "changes_from_base": "12 g matcha sifted with the flour replaces the vanilla.",
+  "summary": "This follows the classic chiffon method, with 12g of matcha sifted into the flour in place of the vanilla, giving the cake its colour and a gentle, slightly bitter green tea flavour.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 60,
+  "difficulty": "medium",
+  "equipment": [
+    "25 cm two-piece tube (angel food) tin, ungreased and unlined",
+    "fine sieve",
+    "2 large bowls",
+    "stand mixer or electric hand whisk",
+    "balloon whisk",
+    "wire rack or glass bottle for cooling upside down"
+  ],
+  "ingredients": [
+    {
+      "group": "Cake",
+      "qty": 240,
+      "unit": "g",
+      "item": "cake flour (or plain flour; see note)",
+      "note": "plain flour works with a slightly firmer crumb"
+    },
+    {
+      "group": "Cake",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cake",
+      "qty": 2.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Cake",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Cake",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Cake",
+      "qty": 110,
+      "unit": "g",
+      "item": "neutral oil (sunflower or rapeseed)"
+    },
+    {
+      "group": "Cake",
+      "qty": 180,
+      "unit": "ml",
+      "item": "water or whole milk"
+    },
+    {
+      "group": "Meringue",
+      "qty": 8,
+      "unit": "pc",
+      "item": "large egg whites, at room temperature"
+    },
+    {
+      "group": "Meringue",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "cream of tartar"
+    },
+    {
+      "group": "Meringue",
+      "qty": 140,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cake",
+      "qty": 12,
+      "unit": "g",
+      "item": "matcha powder (culinary grade)",
+      "note": "about 2 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the Oven",
+      "text": "Warm the oven to 165°C (145°C fan) for a minimum of 20 minutes before you bake, with a shelf positioned in the lower third."
+    },
+    {
+      "title": "Leave the Tin Ungreased",
+      "text": "Leave the tube tin completely untouched by grease or lining paper. The batter has to grip the bare sides on its way up, and that grip is what lets it reach its full height."
+    },
+    {
+      "title": "Make the Batter",
+      "text": "Sift the matcha into the flour, passing it through the sieve twice to break up any clumps, then whisk this together with 150g of the sugar, the baking powder and the salt in a large bowl. Create a well in the centre, pour in the egg yolks, oil and water or milk, and whisk to a smooth, glossy batter, about 1 minute."
+    },
+    {
+      "title": "Whisk the Meringue",
+      "text": "Whip the egg whites and cream of tartar on medium speed until they turn foamy, then gradually whisk in the 140g of sugar on medium-high speed until the meringue holds stiff, glossy peaks standing straight up. A sturdy meringue like this is what gives the cake the structure to rise so high."
+    },
+    {
+      "title": "Fold Together",
+      "text": "Whisk a third of the meringue through the batter first to lighten it, then fold through the remaining meringue in two more additions using a spatula, scraping down to the base of the bowl, until no white streaks are left."
+    },
+    {
+      "title": "Fill and Bake",
+      "text": "Spoon the batter into the tin, run a skewer through to pop any large bubbles, then smooth over the surface. Bake for 50-60 minutes, until well risen, springy to the touch, with no wet crackle visible in the cracks and a skewer coming out clean."
+    },
+    {
+      "title": "Cool Upside Down",
+      "text": "Straight from the oven, turn the tin upside down onto its feet, or prop it over the neck of a bottle, and allow it to cool completely, about 2 hours. Cooling it inverted stops the still-warm, delicate crumb from sinking back down under gravity."
+    },
+    {
+      "title": "Unmould",
+      "text": "Work a thin knife around the sides of the tin and the central tube, lift off the base, and release the cake from the bottom. Serve dusted with icing sugar, or alongside whipped cream."
+    }
+  ],
+  "tips": [
+    "Sift the matcha twice with the flour; skipping this leaves bitter green specks through the crumb.",
+    "Never grease the tin - a greased tin is the single biggest reason chiffon cakes slide back down as they cool.",
+    "Whisk the meringue to stiff, not soft, peaks; a soft meringue won't hold the cake's height.",
+    "Cool it upside down straight after baking to keep the delicate crumb from collapsing.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered at room temperature for up to 3 days, or in the fridge for up to 5 days. It freezes well, wrapped tightly, for up to 2 months; thaw at room temperature before serving.",
+  "allergens": [
+    "gluten",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 287,
+    "protein_g": 5.4,
+    "carbs_g": 40.5,
+    "sugar_g": 24.4,
+    "free_sugar_g": 24.1,
+    "fat_g": 11.6,
+    "satfat_g": 1.5,
+    "salt_g": 0.57,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chiffon-basic--matcha.jpg",
+  "image_alt": "A matcha chiffon tube cake with a slice showing the green crumb on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "King Arthur Baking"
+  ]
+}
