@@ -1,0 +1,165 @@
+{
+  "slug": "cinnamon-raisin-bagels-cream-cheese",
+  "title": "Cinnamon-Raisin Bagels with Cream Cheese",
+  "category": "breakfast",
+  "cuisine": "Jewish American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "bagels",
+  "dish_title": "Bagels",
+  "flavour": "Cinnamon-raisin",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A firm bread-flour dough with cinnamon and sugar has soaked raisins kneaded in, is shaped into rings, chilled overnight, poached and baked a little cooler so the fruit does not scorch.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "stand mixer with dough hook (or large bowl)",
+    "2 baking trays lined with baking paper",
+    "cling film",
+    "large wide pan",
+    "slotted spoon",
+    "clean tea towel",
+    "wire rack",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 20,
+      "unit": "g",
+      "item": "runny honey",
+      "note": "replaces barley malt syrup"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 290,
+      "unit": "ml",
+      "item": "water",
+      "note": "ice-cold"
+    },
+    {
+      "group": "Dough",
+      "qty": 2.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Dough",
+      "qty": 15,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 120,
+      "unit": "g",
+      "item": "raisins",
+      "note": "soaked 10 min in hot water, drained and patted dry"
+    },
+    {
+      "group": "To boil",
+      "qty": 3000,
+      "unit": "ml",
+      "item": "water, for boiling"
+    },
+    {
+      "group": "To boil",
+      "qty": 21,
+      "unit": "g",
+      "item": "runny honey",
+      "note": "about 1 tbsp; for colour; very little clings to the bagels"
+    },
+    {
+      "group": "To boil",
+      "qty": 15,
+      "unit": "g",
+      "item": "fine cornmeal or semolina, for the tray"
+    },
+    {
+      "group": "To serve",
+      "qty": 150,
+      "unit": "g",
+      "item": "full-fat cream cheese, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak the raisins",
+      "text": "Soak the raisins in hot water 10 minutes, drain and pat dry."
+    },
+    {
+      "title": "Make the dough",
+      "text": "Combine the flour, yeast, salt, cinnamon and sugar with the honeyed ice water, knead 8 minutes, then knead in the raisins."
+    },
+    {
+      "title": "Portion",
+      "text": "Cut into 8 pieces, round into tight balls and rest 15 minutes."
+    },
+    {
+      "title": "Form rings",
+      "text": "Press a thumb through each ball and stretch into a ring with a 4 cm hole."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and refrigerate 12-24 hours."
+    },
+    {
+      "title": "Poach and bake",
+      "text": "Heat the oven to 220 °C (200 °C fan). Poach 45 seconds a side, then bake 20-24 minutes until evenly browned. Cool before splitting."
+    }
+  ],
+  "tips": [
+    "Dry raisins knead in more easily and do not tear the dough.",
+    "Tuck any raisins on the surface underneath so they do not burn.",
+    "Toast leftovers to bring back the crust."
+  ],
+  "storage": "Keep wrapped at room temperature and eat within 2 days, or freeze for up to 1 month. Refresh in a hot oven for a few minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 357,
+    "protein_g": 9.5,
+    "carbs_g": 63.6,
+    "sugar_g": 14.6,
+    "free_sugar_g": 3.9,
+    "fat_g": 7.6,
+    "satfat_g": 4.0,
+    "salt_g": 1.26,
+    "fibre_g": 2.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bagels-basic--cinnamon-raisin.jpg",
+  "image_alt": "Cinnamon-raisin bagels studded with raisins, one split to show the swirled crumb, with cream cheese.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

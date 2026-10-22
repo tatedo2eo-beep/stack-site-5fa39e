@@ -1,0 +1,139 @@
+{
+  "slug": "crisp-olive-oil-grissini-sea-salt",
+  "title": "Crisp Olive Oil Grissini with Sea Salt",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "grissini",
+  "dish_title": "Grissini",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A plain olive oil dough is risen, rolled and cut into strips, stretched into 30 cm ropes, brushed with oil, sprinkled with flaky salt and baked until crisp through.",
+  "servings": 10,
+  "prep_min": 35,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film",
+    "rolling pin",
+    "pizza wheel or sharp knife",
+    "2 large baking trays lined with baking paper",
+    "pastry brush",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 4,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 170,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dough",
+      "text": "Knead the flour, yeast, sugar, salt, water and olive oil 8 minutes until smooth and elastic."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave 1-1.5 hours until doubled."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 200 °C (180 °C fan)."
+    },
+    {
+      "title": "Cut",
+      "text": "Roll the dough into a 30 x 20 cm rectangle and cut into 30 strips."
+    },
+    {
+      "title": "Stretch",
+      "text": "Roll each strip into a 30 cm rope and lay on the trays."
+    },
+    {
+      "title": "Bake",
+      "text": "Brush with oil, sprinkle with flaky salt and bake 15-20 minutes until golden and crisp. Cool on the trays."
+    }
+  ],
+  "tips": [
+    "If a rope springs back, let it rest a moment and roll again.",
+    "Even thickness means even crispness.",
+    "Cool completely before storing or they soften."
+  ],
+  "storage": "Store in an airtight tin at room temperature for up to 1 week. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 159,
+    "protein_g": 3.2,
+    "carbs_g": 23.4,
+    "sugar_g": 0.5,
+    "free_sugar_g": 0.4,
+    "fat_g": 5.7,
+    "satfat_g": 0.8,
+    "salt_g": 0.68,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "grissini-basic.jpg",
+  "image_alt": "Thin golden grissini standing in a glass, with more laid on a small board.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "persian-faloodeh-rose-water-lime",
+  "title": "Persian Faloodeh with Rose Water and Lime",
+  "category": "desserts",
+  "cuisine": "Persian",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "faloodeh",
+  "dish_title": "Faloodeh",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A simple sugar syrup is mixed with water, lime juice and alcohol-free rose water, half-frozen, studded with soft chopped rice vermicelli and scraped with a fork into fluffy crystals.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "shallow freezer-proof dish about 23 x 33 cm",
+    "saucepan for the noodles",
+    "sieve",
+    "scissors",
+    "fork"
+  ],
+  "ingredients": [
+    {
+      "group": "Rose syrup",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Rose syrup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Rose syrup",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Rose syrup",
+      "qty": 950,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Rose syrup",
+      "qty": 80,
+      "unit": "ml",
+      "item": "fresh lime juice",
+      "note": "about 3 limes"
+    },
+    {
+      "group": "Rose syrup",
+      "qty": 30,
+      "unit": "ml",
+      "item": "rose water",
+      "note": "food-grade, alcohol-free"
+    },
+    {
+      "group": "Noodles",
+      "qty": 60,
+      "unit": "g",
+      "item": "very thin dried rice vermicelli"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "g",
+      "item": "pomegranate seeds"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "limes, cut into wedges"
+    },
+    {
+      "group": "To serve",
+      "qty": 6,
+      "unit": "pc",
+      "item": "small mint leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the syrup",
+      "text": "Dissolve the sugar and salt in 120 ml water over low heat, then cool."
+    },
+    {
+      "title": "Start freezing",
+      "text": "Mix the syrup with the cold water, lime juice and rose water in a shallow dish and freeze about 1 hour until crystals form at the edges."
+    },
+    {
+      "title": "Cook the noodles",
+      "text": "Boil the vermicelli 5-8 minutes until very soft, rinse in cold water and snip into short lengths."
+    },
+    {
+      "title": "Add the noodles",
+      "text": "Stir the noodles into the half-frozen mixture so they stay suspended."
+    },
+    {
+      "title": "Scrape",
+      "text": "Scrape with a fork every 45-60 minutes for 3-4 hours until fluffy and icy."
+    },
+    {
+      "title": "Serve",
+      "text": "Pile into chilled bowls with pomegranate seeds, a mint leaf and lime wedges."
+    }
+  ],
+  "tips": [
+    "Cook the noodles until completely soft; they firm up in the freezer.",
+    "Add the noodles only once ice crystals have formed or they sink.",
+    "Choose food-grade, alcohol-free rose water."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week. Scrape again with a fork before serving.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 177,
+    "protein_g": 0.8,
+    "carbs_g": 44.4,
+    "sugar_g": 34.9,
+    "free_sugar_g": 33.5,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.13,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "faloodeh-basic.jpg",
+  "image_alt": "A dark bowl of icy faloodeh noodles topped with pomegranate seeds and a green leaf.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

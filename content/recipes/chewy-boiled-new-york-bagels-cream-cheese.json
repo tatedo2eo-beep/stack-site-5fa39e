@@ -1,0 +1,145 @@
+{
+  "slug": "chewy-boiled-new-york-bagels-cream-cheese",
+  "title": "Chewy Boiled New York Bagels with Cream Cheese",
+  "category": "breakfast",
+  "cuisine": "Jewish American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "bagels",
+  "dish_title": "Bagels",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A stiff honey-sweetened bread-flour dough is shaped into 8 rings, retarded in the fridge 12-24 hours, boiled 45 seconds a side and baked hot until glossy.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "stand mixer with dough hook (or large bowl)",
+    "2 baking trays lined with baking paper",
+    "cling film",
+    "large wide pan",
+    "slotted spoon",
+    "clean tea towel",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 20,
+      "unit": "g",
+      "item": "runny honey",
+      "note": "replaces barley malt syrup"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 290,
+      "unit": "ml",
+      "item": "water",
+      "note": "ice-cold"
+    },
+    {
+      "group": "To boil",
+      "qty": 3000,
+      "unit": "ml",
+      "item": "water, for boiling"
+    },
+    {
+      "group": "To boil",
+      "qty": 21,
+      "unit": "g",
+      "item": "runny honey",
+      "note": "about 1 tbsp; for colour; very little clings to the bagels"
+    },
+    {
+      "group": "To boil",
+      "qty": 15,
+      "unit": "g",
+      "item": "fine cornmeal or semolina, for the tray"
+    },
+    {
+      "group": "To serve",
+      "qty": 150,
+      "unit": "g",
+      "item": "full-fat cream cheese, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix and knead",
+      "text": "Dissolve the honey in the ice-cold water, mix with the flour, yeast and salt, rest 10 minutes, then knead 8-10 minutes until smooth and very firm."
+    },
+    {
+      "title": "Divide",
+      "text": "Cut into 8 pieces, roll into taut balls and rest 15 minutes."
+    },
+    {
+      "title": "Shape",
+      "text": "Roll into 25 cm ropes, wrap round your hand with the ends overlapping and roll the join to seal. Set on the cornmeal-dusted tray."
+    },
+    {
+      "title": "Retard",
+      "text": "Cover tightly and refrigerate 12-24 hours."
+    },
+    {
+      "title": "Boil",
+      "text": "Heat the oven to 230 °C (210 °C fan). Boil the bagels 45 seconds per side in water with honey and drain briefly."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 18-22 minutes until glossy and deep golden. Cool 15 minutes, then split and spread with cream cheese."
+    }
+  ],
+  "tips": [
+    "The dough should be stiff; resist adding water.",
+    "Seal the join firmly or the rings open in the pot.",
+    "A bagel that floats within a few seconds is ready to boil."
+  ],
+  "storage": "Keep wrapped at room temperature and eat within 2 days, or freeze for up to 1 month. Refresh in a hot oven for a few minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 303,
+    "protein_g": 8.9,
+    "carbs_g": 49.2,
+    "sugar_g": 3.0,
+    "free_sugar_g": 2.1,
+    "fat_g": 7.6,
+    "satfat_g": 4.0,
+    "salt_g": 1.25,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bagels-basic.jpg",
+  "image_alt": "Glossy golden bagels on a dark plate, one split open, with a bowl of cream cheese.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

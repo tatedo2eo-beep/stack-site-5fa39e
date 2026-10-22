@@ -1,0 +1,185 @@
+{
+  "slug": "dry-spiced-aloo-gobi-cumin-tomato",
+  "title": "Dry-Spiced Aloo Gobi with Cumin and Tomato",
+  "category": "vegetarian",
+  "cuisine": "Indian",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "aloo-gobi",
+  "dish_title": "Aloo gobi",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Potatoes and cauliflower are browned separately, then steamed in an onion, ginger, garlic and tomato masala and finished with garam masala, lemon and coriander.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "large deep frying pan or sauté pan with lid",
+    "slotted spoon",
+    "bowl",
+    "wooden spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Vegetables",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 500,
+      "unit": "g",
+      "item": "waxy potatoes (such as Charlotte or Maris Peer)",
+      "note": "peeled, 2.5 cm cubes"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium cauliflower",
+      "note": "about 600 g florets, 3 cm pieces"
+    },
+    {
+      "group": "Masala",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cumin seeds"
+    },
+    {
+      "group": "Masala",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Masala",
+      "qty": 1,
+      "unit": "pc",
+      "item": "green chilli, slit lengthways"
+    },
+    {
+      "group": "Masala",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Masala",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger, grated"
+    },
+    {
+      "group": "Masala",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Masala",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground coriander"
+    },
+    {
+      "group": "Masala",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "Kashmiri chilli powder"
+    },
+    {
+      "group": "Masala",
+      "qty": 2,
+      "unit": "pc",
+      "item": "ripe tomatoes, chopped"
+    },
+    {
+      "group": "Masala",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "garam masala"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "To finish",
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh coriander, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown the potatoes",
+      "text": "Fry the potatoes in 3 tbsp oil over medium heat 8-10 minutes until golden in spots. Lift out."
+    },
+    {
+      "title": "Brown the cauliflower",
+      "text": "Add the remaining oil and the cauliflower and cook 5 minutes until browned in spots. Lift out."
+    },
+    {
+      "title": "Build the masala",
+      "text": "Sizzle the cumin seeds, then cook the onion and chilli until golden. Add the garlic and ginger, then the ground spices."
+    },
+    {
+      "title": "Add tomatoes",
+      "text": "Add the tomatoes and salt and cook 4-5 minutes to a thick paste."
+    },
+    {
+      "title": "Steam",
+      "text": "Return the vegetables with 80 ml water, cover and cook on low 12-15 minutes until the potatoes are tender."
+    },
+    {
+      "title": "Finish",
+      "text": "Uncover and cook 2 minutes on higher heat, then fold in the garam masala, lemon juice and coriander."
+    }
+  ],
+  "tips": [
+    "Browning the vegetables first stops them turning mushy in the masala.",
+    "Stir gently so the cauliflower keeps its shape.",
+    "Waxy potatoes hold their cubes; floury ones crumble."
+  ],
+  "storage": "Cool quickly, cover and refrigerate within 2 hours. Eat within 3 days, reheated until piping hot (75 °C in the centre).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 292,
+    "protein_g": 6.9,
+    "carbs_g": 37.8,
+    "sugar_g": 7.1,
+    "free_sugar_g": 0.1,
+    "fat_g": 14.6,
+    "satfat_g": 1.3,
+    "salt_g": 1.6,
+    "fibre_g": 7.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "aloo-gobi-basic.jpg",
+  "image_alt": "A dark bowl of golden aloo gobi, potatoes and cauliflower scattered with fresh coriander.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

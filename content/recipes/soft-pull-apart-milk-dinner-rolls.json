@@ -1,0 +1,151 @@
+{
+  "slug": "soft-pull-apart-milk-dinner-rolls",
+  "title": "Soft Pull-Apart Milk Dinner Rolls",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "dinner-rolls",
+  "dish_title": "Dinner rolls",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A cooked water-and-flour paste is mixed with milk, egg, bread flour and yeast, enriched with butter, shaped into 12 balls in a round tin and baked to 88-90 °C.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "small saucepan",
+    "whisk",
+    "stand mixer with dough hook (or large bowl)",
+    "cling film",
+    "23 cm round cake tin",
+    "pastry brush",
+    "instant-read thermometer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Flour paste",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water",
+      "note": "cold"
+    },
+    {
+      "group": "Flour paste",
+      "qty": 20,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 125,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "cold"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 320,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "To finish",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter, melted, to brush"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the flour paste",
+      "text": "Whisk the water and 20 g flour over medium heat 1-2 minutes until thick and smooth. Whisk in the cold milk, then the egg."
+    },
+    {
+      "title": "Mix",
+      "text": "Add the flour and yeast and mix until no dry flour remains. Rest 15 minutes."
+    },
+    {
+      "title": "Knead in butter",
+      "text": "Add the sugar and salt and knead 5 minutes, then add the butter a little at a time and knead 5 minutes more."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave about 1 hour until doubled."
+    },
+    {
+      "title": "Shape",
+      "text": "Divide into 12 tight balls, arrange in the greased tin and prove 45-60 minutes until touching. Heat the oven to 190 °C (170 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 25-30 minutes until golden and 88-90 °C in the centre. Brush with butter and serve warm."
+    }
+  ],
+  "tips": [
+    "The cooked paste makes a softer, longer-keeping roll.",
+    "Shape tight balls for even, round tops.",
+    "Weigh the pieces so they bake evenly."
+  ],
+  "storage": "Keep wrapped at room temperature and eat within 2 days, or freeze for up to 1 month. Refresh in a hot oven for a few minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 166,
+    "protein_g": 4.5,
+    "carbs_g": 23.3,
+    "sugar_g": 2.7,
+    "free_sugar_g": 2.1,
+    "fat_g": 6.0,
+    "satfat_g": 3.4,
+    "salt_g": 0.52,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "dinner-rolls-basic.jpg",
+  "image_alt": "A round of golden pull-apart dinner rolls, one torn open to show the soft white crumb.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

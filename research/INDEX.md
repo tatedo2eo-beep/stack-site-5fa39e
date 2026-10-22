@@ -59,6 +59,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
 | caramelised-onion-flatbread-anchovies-black-olives-thyme | Pissaladière | Classic | 3 | 5 |
 | caramelised-onion-soup-gruyere-toasts | French onion | Classic | 3 | 5 |
+| carne-asada-burrito-black-beans-lime-rice | Burrito | Carne asada | 3 | 5 |
 | carne-asada-street-tacos-onion-coriander-lime | Taco | Classic | 2 | 4 |
 | carrot-cake | Carrot | Classic | 2 | 4 |
 | celeriac-remoulade-mustard-parsley | Celeriac rémoulade | Classic | 3 | 5 |
@@ -70,6 +71,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cheesy-potato-gratin | Gratin | Classic | 2 | 4 |
 | chewy-amaretti | Amaretti | Classic | 2 | 4 |
 | chewy-blondies | Blondies | Classic | 2 | 4 |
+| chewy-boiled-new-york-bagels-cream-cheese | Bagels | Classic | 3 | 5 |
 | chewy-chocolate-chip-cookies | Drop (chocolate chip, oatmeal) | Classic | 3 | 5 |
 | chewy-tapioca-cheese-rolls | Pão de queijo | Classic | 4 | 6 |
 | chicago-style-deep-dish-pizza-buttery-crust-chunky-tomato | Chicago deep-dish | Classic | 3 | 5 |
@@ -114,6 +116,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chow-mein | Chow mein/lo mein | Classic | 3 | 5 |
 | chunky-garden-vegetable-soup-tomato-herbs | Vegetable | Classic | 2 | 4 |
 | cinnamon-almond-rice-horchata-lime-zest | Horchata | Classic | 2 | 4 |
+| cinnamon-raisin-bagels-cream-cheese | Bagels | Cinnamon-raisin | 2 | 4 |
 | cinnamon-streusel-coffee-cake | Coffee cake | Cinnamon streusel | 2 | 4 |
 | citrus-chilli-marinated-grilled-steak-charred-spring-onions-guacamole | Carne asada | Classic | 3 | 5 |
 | classic-almond-biscotti | Biscotti | Classic | 3 | 5 |
@@ -149,10 +152,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crisp-fried-squid-rings-tomato-dip | Calamari | Classic | 2 | 4 |
 | crisp-garden-salad-honey-mustard-vinaigrette | Green/garden | Classic | 2 | 4 |
 | crisp-melted-monterey-jack-cheese-quesadillas-fresh-salsa | Quesadilla | Classic | 2 | 4 |
+| crisp-olive-oil-grissini-sea-salt | Grissini | Classic | 3 | 5 |
 | crisp-pita-fattoush-sumac | Fattoush | Classic | 3 | 5 |
 | crisp-salt-pepper-squid-chilli-garlic-spring-onion | Salt and pepper squid | Classic | 4 | 6 |
 | crisp-skinned-jacket-potatoes | Baked/jacket | Classic | 2 | 4 |
 | crisp-socca-onions-rosemary-black-olives | Socca | Classic | 2 | 4 |
+| crisp-spiced-aloo-tikki-mint-chutney | Aloo tikki | Classic | 2 | 4 |
 | crisp-thin-crust-tavern-pizza-peppers-onion-fennel-tomato | Bar/tavern-style pizza | Classic | 2 | 4 |
 | crispy-baked-chicken-wings | Chicken wings | Classic | 3 | 5 |
 | crispy-chicken-sandwich | Chicken burger | Classic | 3 | 6 |
@@ -173,6 +178,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | dill-potato-salad | Potato salad | Dill | 2 | 4 |
 | diner-style-home-fries | Home fries | Classic | 2 | 4 |
 | double-fried-french-fries | French fries (double-fried) | Classic | 3 | 5 |
+| dry-spiced-aloo-gobi-cumin-tomato | Aloo gobi | Classic | 3 | 5 |
 | duchess-potatoes | Duchesse | Classic | 2 | 4 |
 | dutch-baby-pancake-berries-lemon | Dutch baby | Classic | 2 | 4 |
 | egg-drop-soup-ginger-spring-onion | Egg drop soup | Classic | 3 | 5 |
@@ -371,6 +377,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | peking-duck | Peking duck | Classic | 2 | 4 |
 | penne-arrabbiata | Short (penne, rigatoni, fusilli) | Classic | 3 | 5 |
 | persian-cucumber-tomato-salad-shirazi | Shirazi | Classic | 2 | 4 |
+| persian-faloodeh-rose-water-lime | Faloodeh | Classic | 2 | 4 |
 | persian-herb-lamb-kidney-bean-stew | Ghormeh sabzi | Classic | 2 | 4 |
 | persian-saffron-rice-golden-crust-barberries | Tahdig/Persian polo | Classic | 3 | 5 |
 | peruvian-style-beef-tomato-stir-fry-chips | Lomo saltado | Classic | 3 | 5 |
@@ -429,6 +436,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | seared-mushroom-tacos-chipotle-onion-coriander | Taco | Mushroom | 3 | 5 |
 | seared-scallops-garlic-thyme-butter-lemon | Seared scallops | Classic | 4 | 6 |
 | seasoned-short-grain-rice-for-sushi | Sushi rice | Classic | 3 | 5 |
+| semolina-sesame-grissini | Grissini | Sesame | 2 | 4 |
 | shakshuka | Shakshuka | Classic | 2 | 4 |
 | sicilian-style-thick-pan-pizza-onion-tomato-crisp-crumbs | Sicilian/sfincione | Classic | 2 | 4 |
 | signature-fudgy-brownies | Brownie (fudgy or cakey) | Classic | 2 | 4 |
@@ -453,6 +461,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | snickerdoodles | Snickerdoodle | Classic | 3 | 5 |
 | soft-layered-wholemeal-chapati | Chapati | Classic | 3 | 5 |
 | soft-puffed-pita-bread-olive-oil | Pita | Classic | 3 | 5 |
+| soft-pull-apart-milk-dinner-rolls | Dinner rolls | Classic | 3 | 5 |
 | soft-rice-and-yellow-lentil-porridge-cumin-ghee | Khichdi | Classic | 2 | 4 |
 | soft-scrambled-eggs-butter-chives-toast | Scrambled | Classic | 3 | 5 |
 | soft-steamed-rice-lentil-idli-coconut-chutney | Idli | Classic | 2 | 4 |
