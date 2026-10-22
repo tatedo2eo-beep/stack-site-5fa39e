@@ -86,6 +86,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | creamy-potato-salad | Potato salad | Classic | 2 | 4 |
 | crisp-battered-white-fish-tacos-red-cabbage-lime-crema | Taco | Fish | 3 | 5 |
 | crisp-corn-tostadas-chicken-refried-beans-avocado | Tostada | Chicken | 3 | 5 |
+| crisp-salt-pepper-squid-chilli-garlic-spring-onion | Salt and pepper squid | Classic | 4 | 6 |
 | crisp-skinned-jacket-potatoes | Baked/jacket | Classic | 2 | 4 |
 | crispy-baked-chicken-wings | Chicken wings | Classic | 3 | 5 |
 | crispy-chicken-sandwich | Chicken burger | Classic | 3 | 6 |
@@ -110,6 +111,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fondant-potatoes | Fondant potatoes | Classic | 2 | 4 |
 | fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
 | gai-yang | Gai yang | Classic | 2 | 4 |
+| galician-style-octopus-potatoes-smoked-paprika | Pulpo a la gallega | Classic | 4 | 6 |
 | garlic-parmesan-chicken-wings | Chicken wings | Garlic-parmesan | 3 | 5 |
 | gateau-basque | Basque cake | Classic | 2 | 4 |
 | general-tsos-chicken | General Tso's chicken | Classic | 2 | 4 |
@@ -127,6 +129,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | guacamole | Guacamole | Classic | 2 | 3 |
 | hainanese-chicken-rice | Hainanese chicken rice | Classic | 3 | 5 |
 | haluski | Haluski | Classic | 2 | 4 |
+| hanoi-style-turmeric-fish-dill-spring-onions-rice-noodles | Chả cá Lã Vọng | Classic | 3 | 5 |
 | high-heat-roast-chicken | High-heat roast chicken | Classic | 3 | 5 |
 | home-fries-peppers-onions | Home fries | Peppers and onions | 2 | 4 |
 | horseradish-mashed-potatoes | Mashed | Horseradish | 3 | 5 |
@@ -205,6 +208,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pizzelle | Pizzelle | Classic | 2 | 4 |
 | pizzoccheri | Pizzoccheri | Classic | 2 | 4 |
 | poached-chicken | Poached | Classic | 2 | 4 |
+| poached-white-fish-dumplings-carrot-beetroot-horseradish | Gefilte fish | Classic | 4 | 6 |
 | pollo-al-mattone | Pollo al mattone (chicken under a brick) | Classic | 2 | 4 |
 | pommes-anna-layered-potato-cake | Pommes Anna | Classic | 3 | 5 |
 | pommes-dauphine-potato-puffs | Pommes dauphine | Classic | 2 | 4 |
@@ -245,6 +249,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spicy-chicken-burger | Chicken burger | Spicy (cayenne/hot sauce) | 2 | 8 |
 | spinach-ricotta-cannelloni | Cannelloni | Classic | 2 | 4 |
 | spinach-ricotta-lasagne | Sheets/baked (lasagne) | Spinach and ricotta | 3 | 5 |
+| steamed-whole-sea-bass-ginger-spring-onions-sizzling-oil | Cantonese steamed whole fish | Classic | 3 | 5 |
 | stovetop-mac-and-cheese | Mac and cheese | Stovetop | 3 | 5 |
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
 | stuffed-corn-griddle-cakes-melted-cheese-cabbage-relish | Pupusa | Cheese | 4 | 6 |
