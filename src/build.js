@@ -113,18 +113,24 @@ const ALIAS_OUT = {};
     if (rel) { TAMI_BY_NAME[f] = rel; ALIAS_OUT[rel] = f; }
   }
 }
+// Public-site-only photo exceptions (Joe approved, 2026-10-22). These are the ONLY photos not byte-identical to an original:
+// an edited copy of the named original, kept in content/images/ (name ends -public-only.jpg). Tami's own files are never touched; the recipe
+// and dish JSON still name the original, so validation is unchanged, and only the served file is swapped.
+const PUBLIC_ONLY = { 'img/dishes/13-soups/lentil-basic.jpg': 'red-lentil-soup-public-only.jpg' }; // red lentil soup: whole brown lentils -> smooth red lentil soup
 const tamiRel = name => !name ? null : name.startsWith('img/dishes/') ? name : TAMI_BY_NAME[path.basename(name)] || null;
 async function tamiImg(rel) {
   if (!rel) return null;
   if (copied[rel]) return copied[rel];
-  const src = path.join(TAMI.source, rel);
+  const po = PUBLIC_ONLY[rel] && path.join(ROOT, 'content/images', PUBLIC_ONLY[rel]);
+  if (po && !fs.existsSync(po)) throw new Error(`public-only photo missing: ${po}`);
+  const src = po || path.join(TAMI.source, rel);
   if (!fs.existsSync(src)) { console.log(C.yel(`warning: photo not found ${rel}`)); return null; }
   const rel2 = ALIAS_OUT[rel] ? path.posix.join(path.posix.dirname(rel), ALIAS_OUT[rel]) : rel;
-  const out = 'img/t/' + rel2.replace(/^img\/dishes\//, '');
+  const out = po ? 'img/t/' + path.posix.join(path.posix.dirname(rel.replace(/^img\/dishes\//, '')), PUBLIC_ONLY[rel]) : 'img/t/' + rel2.replace(/^img\/dishes\//, '');
   fs.mkdirSync(path.dirname(path.join(OUT, out)), { recursive: true });
   fs.copyFileSync(src, path.join(OUT, out));
   const m = await require('sharp')(src).metadata();
-  return (copied[rel] = { w600: out, w1200: out, width: m.width, height: m.height, orig: true });
+  return (copied[rel] = { w600: out, w1200: out, width: m.width, height: m.height, orig: !po });
 }
 async function buildImages(recipes) {
   for (const r of recipes) {
