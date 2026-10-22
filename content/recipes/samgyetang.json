@@ -1,0 +1,137 @@
+{
+  "slug": "samgyetang",
+  "title": "Samgyetang (Korean Ginseng Chicken Soup)",
+  "category": "chicken",
+  "cuisine": "Korean",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "samgyetang",
+  "dish_title": "Samgyetang",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Whole poussins are stuffed with glutinous rice, jujubes and garlic, then simmered with ginseng and ginger until the meat is tender and the rice inside has cooked through.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 75,
+  "difficulty": "easy",
+  "equipment": [
+    "large deep pot with lid (at least 5 litres)",
+    "wooden or metal skewers or kitchen string",
+    "ladle",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 2,
+      "unit": "pc",
+      "item": "poussins (spring chickens), about 550 g each"
+    },
+    {
+      "group": "Stuffing",
+      "qty": 80,
+      "unit": "g",
+      "item": "glutinous (sweet) rice, soaked 1 h and drained"
+    },
+    {
+      "group": "Stuffing",
+      "qty": 8,
+      "unit": "pc",
+      "item": "dried jujubes (Korean red dates)"
+    },
+    {
+      "group": "Stuffing",
+      "qty": 12,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Broth",
+      "qty": 2,
+      "unit": "pc",
+      "item": "small ginseng roots, fresh or dried",
+      "note": "from Korean or Asian grocers"
+    },
+    {
+      "group": "Broth",
+      "qty": 4,
+      "unit": "pc",
+      "item": "thin slices fresh ginger"
+    },
+    {
+      "group": "Broth",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "To serve",
+      "qty": 3,
+      "unit": "pc",
+      "item": "spring onions, finely sliced"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fine salt, for the table"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper, for the table"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare rice and chicken",
+      "text": "Soak the glutinous rice for 1 hour, then drain. Rinse the poussins and trim away any excess fat around the cavity, so the stuffing has room and the broth doesn't turn greasy."
+    },
+    {
+      "title": "Stuff the birds",
+      "text": "Fill each cavity with half the rice, 2 jujubes and 3 garlic cloves, packing loosely rather than tightly since the rice will swell as it cooks. Cross the legs and secure with a skewer or kitchen string so the stuffing stays put during simmering."
+    },
+    {
+      "title": "Start the broth",
+      "text": "Put the stuffed birds into the large pot with the ginseng, ginger, and the remaining jujubes and garlic, then add water to cover. Bring to a boil over high heat and skim off any foam that rises to the surface, which keeps the broth clear."
+    },
+    {
+      "title": "Simmer gently",
+      "text": "Once the foam is skimmed, reduce the heat to a gentle simmer, partly covered, and cook for 60-75 minutes. The chicken is ready once the legs wiggle loosely, the rice inside is soft when checked with a skewer, and the thigh meat is well above 74°C."
+    },
+    {
+      "title": "Serve",
+      "text": "Skim off any excess fat if you like a cleaner broth, then serve each half bird - split at the table - in a deep bowl with plenty of broth, the jujubes and garlic. Scatter spring onions over the top, with salt and pepper left on the table so everyone can season their own bowl, since the broth itself is deliberately left unsalted."
+    }
+  ],
+  "tips": [
+    "Pack the rice loosely into the cavity rather than tightly - it swells a lot during the long simmer and can split the skin if packed too firmly.",
+    "Skim the foam early on; it's the easiest way to keep the broth clear rather than cloudy.",
+    "Check the rice inside the bird with a skewer, not just the chicken itself, since it needs the full simmering time to cook through.",
+    "Leave the broth unsalted during cooking and season bowls individually at the table - this is traditional and lets everyone adjust to taste.",
+    "Secure the legs well with a skewer or string so the stuffing stays inside during the long simmer."
+  ],
+  "storage": "Fridge for up to 2 days; because of the rice, this doesn't freeze especially well, so it's best eaten fresh. Reheat gently on the hob until piping hot and the chicken reaches 74°C throughout.",
+  "allergens": [],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 294,
+    "protein_g": 34.0,
+    "carbs_g": 21.8,
+    "sugar_g": 0.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 6.9,
+    "satfat_g": 1.8,
+    "salt_g": 1.26,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "samgyetang-basic.jpg",
+  "image_alt": "A whole stuffed poussin in a bowl of clear broth with ginseng root, jujubes and sliced spring onion."
+}

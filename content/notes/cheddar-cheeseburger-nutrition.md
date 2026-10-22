@@ -18,7 +18,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | rocket (arugula) | Arugula (rocket), raw (SR 11959) | 40 | 10.0 | 1.0 | 1.5 | 0.82 | 0.00 | 0.3 | 0.03 | 11 | 0.6 |
 | dill pickle slices | Pickles, cucumber, dill (SR 11937) | 40 | 4.8 | 0.2 | 1.0 | 0.51 | 0.00 | 0.1 | 0.03 | 324 | 0.4 |
 | mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 50 | 340.0 | 0.5 | 0.3 | 0.28 | 0.28 | 37.4 | 5.87 | 318 | 0.0 |
-| Dijon mustard | Mustard, prepared (SR 02046), proxy for Dijon | 10 | 6.0 | 0.4 | 0.6 | 0.09 | 0.00 | 0.3 | 0.02 | 110 | 0.4 |
+| Dijon mustard (choose one made without wine) | Mustard, prepared (SR 02046), proxy for Dijon | 10 | 6.0 | 0.4 | 0.6 | 0.09 | 0.00 | 0.3 | 0.02 | 110 | 0.4 |
 | **Total** | | | 3359 | 157.4 | 163.8 | 36.43 | 17.76 | 228.0 | 84.05 | 5526 | 12.9 |
 
 **Per serving (total / 4):** kcal 840, protein_g 39.4, carbs_g 41.0, sugar_g 9.1, free_sugar_g 4.4, fat_g 57.0, satfat_g 21.0, salt_g 3.45, fibre_g 3.2

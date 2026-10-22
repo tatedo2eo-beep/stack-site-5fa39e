@@ -1,0 +1,174 @@
+{
+  "slug": "coronation-chicken",
+  "title": "Coronation Chicken",
+  "category": "chicken",
+  "cuisine": "British",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "coronation-chicken",
+  "dish_title": "Coronation chicken",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Poached chicken is folded through a curried mayonnaise and yoghurt dressing with mango chutney and apricots, finished with toasted almonds.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan with lid",
+    "small frying pan",
+    "mixing bowl",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 600,
+      "unit": "g",
+      "item": "skinless chicken breasts"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fine salt, for the poaching water"
+    },
+    {
+      "group": "Chicken",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "mild curry powder"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Dressing",
+      "qty": 100,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 100,
+      "unit": "g",
+      "item": "Greek yoghurt"
+    },
+    {
+      "group": "Dressing",
+      "qty": 40,
+      "unit": "g",
+      "item": "mango chutney"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 40,
+      "unit": "g",
+      "item": "dried apricots, finely chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "To finish",
+      "qty": 25,
+      "unit": "g",
+      "item": "flaked almonds, toasted"
+    },
+    {
+      "group": "To finish",
+      "qty": 10,
+      "unit": "g",
+      "item": "coriander leaves, chopped"
+    },
+    {
+      "group": "To finish",
+      "qty": 100,
+      "unit": "g",
+      "item": "crisp lettuce leaves, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Poach the chicken",
+      "text": "Put the chicken breasts in a pan with water to cover by 2 cm, along with the salt and bay leaves. Bring to 80°C - just small bubbles at the edge of the pan, no full boil - then cover and cook on the lowest heat for 18-24 minutes, until the chicken reaches 74°C."
+    },
+    {
+      "title": "Cool and shred",
+      "text": "Rather than lifting it straight out, let the chicken cool in its poaching liquid for 20 minutes, which keeps it noticeably juicier. Once cool enough to handle, shred or cut it into bite-sized pieces and chill."
+    },
+    {
+      "title": "Bloom the curry powder",
+      "text": "Warm the oil in a small pan over low heat, add the curry powder and cinnamon, and stir for 1 minute until fragrant. This brief cooking removes the raw, dusty edge curry powder can have straight from the jar; let it cool before using."
+    },
+    {
+      "title": "Mix the dressing",
+      "text": "Stir together the mayonnaise, yoghurt, mango chutney, lemon juice, chopped apricots, salt and the cooled bloomed spices. Fold in the chilled chicken, then cover and chill for at least 1 hour so the flavours have time to meld together."
+    },
+    {
+      "title": "Toast the almonds",
+      "text": "In a dry pan, toast the flaked almonds over medium-low heat for 3 minutes, until golden, keeping them moving so they colour evenly without burning."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve the chicken on a bed of crisp lettuce leaves, or piled into sandwiches, topped with the toasted almonds and chopped coriander."
+    }
+  ],
+  "tips": [
+    "Poach the chicken gently at 80°C rather than boiling it - a hard boil toughens the breast meat and squeezes out moisture.",
+    "Let the chicken cool in its own poaching liquid rather than draining it straight away, which keeps it noticeably more tender.",
+    "Bloom the curry powder in warm oil before mixing it in - this one minute of cooking removes its raw, dusty taste.",
+    "Chill the finished mixture for at least an hour; the flavours taste noticeably flatter if served right away.",
+    "Toast the almonds just before serving so they stay crisp rather than going soft in the dressing."
+  ],
+  "storage": "Keep in the fridge for up to 3 days in a covered container; this dish isn't suitable for freezing as the mayonnaise-based dressing will separate. Serve chilled rather than reheating.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "mustard",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 476,
+    "protein_g": 38.5,
+    "carbs_g": 16.0,
+    "sugar_g": 12.1,
+    "free_sugar_g": 5.2,
+    "fat_g": 28.4,
+    "satfat_g": 4.7,
+    "salt_g": 1.59,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "coronation-chicken-basic.jpg",
+  "image_alt": "A bowl of creamy, pale golden coronation chicken studded with apricot pieces, topped with toasted almond flakes and fresh coriander, served on crisp lettuce."
+}

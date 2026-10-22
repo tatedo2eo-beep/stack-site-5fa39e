@@ -2,12 +2,12 @@
 Dish: Chicken burger / flavour: Classic. Private file, not published.
 
 ## Sources actually opened
-- [5-Ingredient Fried Chicken Sandwiches (Serious Eats)](https://www.seriouseats.com/five-ingredient-fried-chicken-sandwich-recipe) [Top-tier: test kitchen / food science]: Boneless thighs; buttermilk dip; drizzle ~3 tbsp buttermilk into the flour for shaggy clumps, press on firmly; hold oil 150-177 °C after the drop. _(opened; curl 200)_
-- [Four Secrets to Improving Any Fried Chicken Recipe (The Food Lab, Serious Eats)](https://www.seriouseats.com/four-secrets-for-better-fried-chicken) [Top-tier: test kitchen / food science]: About 2 tbsp marinade per cup of dredge, worked in with fingertips, for a craggier crust. _(opened; curl 200)_
-- [Nashville Hot Chicken Sandwich (Serious Eats)](https://www.seriouseats.com/nashville-hot-chicken-sandwich-recipe-8403635) [Top-tier: test kitchen / food science]: Buttermilk + hot sauce brine; rest dredged chicken ~15 min so flour hydrates; oil ~175 °C; thighs to 80 °C; cayenne/brown sugar bloomed in hot oil and basted on immediately. _(read via search extract; curl got 403 bot-block)_
-- [Buffalo Chicken Sandwich (FOX13, chef recipe)](https://www.fox13now.com/the-place/recipes/foodie-friday-cougar-tail-buffalo-chicken-sandwich) [Context only (not top-tier; not relied on for method, ratios or temperatures)]: Hot sauce in the buttermilk; drizzle buttermilk into the dredge for craggy crust; fry at 175 °C to 74 °C; sauce warmed not boiled. _(read via search extract)_
-- [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Top-tier: food safety (government)]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
-- [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Top-tier: nutrition data (government)]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
+- [5-Ingredient Fried Chicken Sandwiches (Serious Eats)](https://www.seriouseats.com/five-ingredient-fried-chicken-sandwich-recipe) [Tier 1 (locked list): Serious Eats]: Boneless thighs; buttermilk dip; drizzle ~3 tbsp buttermilk into the flour for shaggy clumps, press on firmly; hold oil 150-177 °C after the drop. _(opened; curl 200)_
+- [Four Secrets to Improving Any Fried Chicken Recipe (The Food Lab, Serious Eats)](https://www.seriouseats.com/four-secrets-for-better-fried-chicken) [Tier 1 (locked list): Serious Eats]: About 2 tbsp marinade per cup of dredge, worked in with fingertips, for a craggier crust. _(opened; curl 200)_
+- [Nashville Hot Chicken Sandwich (Serious Eats)](https://www.seriouseats.com/nashville-hot-chicken-sandwich-recipe-8403635) [Tier 1 (locked list): Serious Eats]: Buttermilk + hot sauce brine; rest dredged chicken ~15 min so flour hydrates; oil ~175 °C; thighs to 80 °C; cayenne/brown sugar bloomed in hot oil and basted on immediately. _(read via search extract; curl got 403 bot-block)_
+- [Buffalo Chicken Sandwich (FOX13, chef recipe)](https://www.fox13now.com/the-place/recipes/foodie-friday-cougar-tail-buffalo-chicken-sandwich) [NOT on the locked list: context only, not relied on for method, ratios, temperatures or flavours]: Hot sauce in the buttermilk; drizzle buttermilk into the dredge for craggy crust; fry at 175 °C to 74 °C; sauce warmed not boiled. _(read via search extract)_
+- [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
+- [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
 
 > Written before the research rule. Re-checked on 22 Oct against top-tier sources after the source-quality rule: thighs, buttermilk soak, buttermilk clumps in the dredge, 160-170 °C oil after the drop and 74 °C all match Serious Eats. The FOX13 page is now context only.
 
@@ -20,4 +20,4 @@ Dish: Chicken burger / flavour: Classic. Private file, not published.
 - Doneness cues in the method: 3 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 25 min + cook 25 min against the step times.
 - Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/crispy-chicken-sandwich-nutrition.md).
-- Top-tier sources supporting the core method (excluding FSIS/FDC): 3. Non-top-tier pages are context only.
+- Locked-list sources supporting the core method (excluding FSIS/FDC): 3. Non-top-tier pages are context only.

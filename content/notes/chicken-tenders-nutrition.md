@@ -15,7 +15,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ground black pepper | Spices, pepper, black (SR 02030) | 1 | 2.5 | 0.1 | 0.6 | 0.01 | 0.00 | 0.0 | 0.01 | 0 | 0.3 |
 | frying oil absorbed (estimated absorption) | Oil, canola (SR 04582) | 60 | 530.4 | 0.0 | 0.0 | 0.00 | 0.00 | 60.0 | 4.42 | 0 | 0.0 |
 | mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 60 | 408.0 | 0.6 | 0.3 | 0.34 | 0.34 | 44.9 | 7.04 | 381 | 0.0 |
-| Dijon mustard | Mustard, prepared (SR 02046), proxy for Dijon | 20 | 12.0 | 0.7 | 1.2 | 0.18 | 0.00 | 0.7 | 0.04 | 221 | 0.8 |
+| Dijon mustard (choose one made without wine) | Mustard, prepared (SR 02046), proxy for Dijon | 20 | 12.0 | 0.7 | 1.2 | 0.18 | 0.00 | 0.7 | 0.04 | 221 | 0.8 |
 | honey | Honey (SR 19296) | 21 | 63.8 | 0.1 | 17.3 | 17.25 | 17.25 | 0.0 | 0.00 | 1 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 5 | 1.1 | 0.0 | 0.3 | 0.13 | 0.13 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 2243 | 154.4 | 115.4 | 26.28 | 22.05 | 126.5 | 16.27 | 3988 | 6.7 |

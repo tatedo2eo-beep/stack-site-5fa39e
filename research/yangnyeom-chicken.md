@@ -1,0 +1,24 @@
+# Research: Yangnyeom Chicken (Korean Sweet-Spicy Fried Chicken)
+Dish: Yangnyeom chicken / flavour: Classic. Private file, not published.
+
+## Sources actually opened
+- [Korean Fried Chicken Wings (Bon Appétit)](https://www.bonappetit.com/recipe/korean-fried-chicken-wings) [NOT on the locked list: context only, not relied on for method, ratios, temperatures or flavours]: Light potato-starch coating; fry at 175 °C, refry hotter for crunch; toss in gochujang-soy glaze, sesame. _(read via search extract; curl 200)_
+- [The Best Korean Fried Chicken (Serious Eats)](https://www.seriouseats.com/korean-fried-chicken-recipe) [Tier 1 (locked list): Serious Eats]: Thin cornstarch-based batter (with a little baking powder) gives a thin, brittle crust; sauce tossed on at the end. _(read via search extract; curl 200)_
+- [Korean Fried Chicken (America's Test Kitchen)](https://www.americastestkitchen.com/recipes/5203-korean-fried-chicken-yang-nyum-tong-dak) [Tier 1 (locked list): America's Test Kitchen]: Thin batter; double fry; sweet-spicy gochujang sauce. _(read via search extract; curl 200)_
+- [Korean Fried Chicken (NYT Cooking)](https://cooking.nytimes.com/recipes/1012801-korean-fried-chicken) [Tier 2 (locked list): NYT Cooking]: Gochujang-ketchup-sugar sauce; refrying for extra crispness. _(read via search extract; curl 200)_
+- [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
+- [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
+
+## Own cooking judgment
+- Boneless thigh pieces (boneless is common in Korea) and peanuts to match the photo.
+- Alcohol-free gochujang note (some brands contain added alcohol).
+
+## Source conflicts
+- Serious Eats found double-frying unnecessary with a thin batter; BA and ATK double fry. Kept the double fry because the sauce goes on thickly.
+
+## Reliability checks
+- Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
+- Doneness cues in the method: 2 step(s) carry a temperature, and every cooking step has a visual cue.
+- Timing sanity check: prep 20 min + cook 30 min against the step times.
+- Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/yangnyeom-chicken-nutrition.md).
+- Locked-list sources supporting the core method (excluding FSIS/FDC): 3. Non-top-tier pages are context only.

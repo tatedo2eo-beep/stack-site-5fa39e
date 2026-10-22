@@ -1,0 +1,20 @@
+# Research: Chicken Fried Steak with Cream Gravy
+Dish: Chicken fried steak / flavour: Classic. Private file, not published.
+
+## Sources actually opened
+- [Chicken Fried Steak (America's Test Kitchen)](https://www.americastestkitchen.com/recipes/1844-chicken-fried-steak) [Tier 1 (locked list): America's Test Kitchen]: Pound cube steaks thin; seasoned flour, aerated buttermilk-egg batter (baking powder), flour again; fry hot; milk gravy made from the pan drippings. _(read via search extract; curl 200)_
+- [Chicken-Fried Steak (Serious Eats)](https://www.seriouseats.com/chicken-fried-steak-recipe) [Tier 1 (locked list): Serious Eats]: Buttermilk-egg breading; gravy from browned flour in the frying fat plus milk. _(read via search extract; curl got 403 bot-block)_
+- [Chicken Fried Steak (NYT Cooking)](https://cooking.nytimes.com/recipes/1024639-chicken-fried-steak) [Tier 2 (locked list): NYT Cooking]: Cube steak, flour-buttermilk breading, peppery white gravy. _(read via search extract; curl 200)_
+- [Mechanically Tenderized Beef (USDA FSIS)](http://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/meat-fish/mechanically-tenderized-beef) [Safety database (locked list): USDA FSIS]: Mechanically tenderised beef (such as cube steak): cook to 63 °C (145 °F) with a 3-minute rest. _(read via search extract; FSIS blocks curl (403))_
+- [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
+- [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
+
+## Own cooking judgment
+- Shallow-fried at 180 °C in 1.5 cm oil; 71 °C as a safety margin.
+
+## Reliability checks
+- Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
+- Doneness cues in the method: 1 step(s) carry a temperature, and every cooking step has a visual cue.
+- Timing sanity check: prep 25 min + cook 30 min against the step times.
+- Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/chicken-fried-steak-nutrition.md).
+- Locked-list sources supporting the core method (excluding FSIS/FDC): 3. Non-top-tier pages are context only.

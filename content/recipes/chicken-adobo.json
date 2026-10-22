@@ -1,0 +1,145 @@
+{
+  "slug": "chicken-adobo",
+  "title": "Chicken Adobo",
+  "category": "chicken",
+  "cuisine": "Filipino",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "chicken-adobo",
+  "dish_title": "Chicken adobo",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chicken is browned, then gently braised in a tangy soy and vinegar sauce until tender, before the sauce is reduced to a dark, glossy glaze.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 50,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy casserole or deep lidded frying pan (28 cm)",
+    "tongs",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 1200,
+      "unit": "g",
+      "item": "bone-in, skin-on chicken thighs and drumsticks"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Braise",
+      "qty": 8,
+      "unit": "pc",
+      "item": "garlic cloves, smashed and peeled"
+    },
+    {
+      "group": "Braise",
+      "qty": 3,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "Braise",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "black peppercorns, lightly cracked"
+    },
+    {
+      "group": "Braise",
+      "qty": 80,
+      "unit": "ml",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Braise",
+      "qty": 100,
+      "unit": "ml",
+      "item": "cane, rice or cider vinegar"
+    },
+    {
+      "group": "Braise",
+      "qty": 250,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Braise",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "brown sugar",
+      "note": "optional, rounds off the vinegar"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "spring onions, sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown the chicken",
+      "text": "Pat the chicken dry, then heat the oil in the pan over medium-high heat. Brown the chicken skin-side down for 8-10 minutes until deep golden and the fat has rendered out, then turn and cook for a further 2 minutes before lifting it out. Starting skin-side down gives the fat time to melt and the skin time to crisp, rather than steaming in its own moisture."
+    },
+    {
+      "title": "Fry the aromatics",
+      "text": "Once most of the fat is poured off, leaving about a tablespoon in the pan, add the garlic, peppercorns and bay leaves over medium heat. Cook for 1 minute, just until fragrant, taking care not to let the garlic catch and turn bitter."
+    },
+    {
+      "title": "Boil the sauce base",
+      "text": "Pour in the soy sauce, vinegar, water and sugar, then bring to a boil and let it bubble for 2 minutes without stirring. This brief hard boil softens vinegar's raw, sharp edge before the chicken goes back in."
+    },
+    {
+      "title": "Braise until tender",
+      "text": "Return the chicken to the pan skin-side up, cover, and simmer gently for 25-30 minutes until it's tender and the thigh meat reads at least 74°C, ideally closer to 80°C for dark meat. Keep the heat low enough for a lazy simmer, since a hard boil would toughen the meat before it has time to soften."
+    },
+    {
+      "title": "Reduce the sauce",
+      "text": "With the chicken lifted out onto a tray, boil the sauce uncovered for 5-8 minutes until it has reduced by about half and turned glossy. This concentrates the flavour into a sauce that clings to the chicken rather than pooling thinly around it."
+    },
+    {
+      "title": "Crisp the skin (optional)",
+      "text": "For crisper skin, grill (broiler) the chicken skin-side up for 3-4 minutes until it browns further, keeping a close eye so it doesn't burn under the direct heat."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Return the chicken to the reduced sauce to coat, then scatter over the sliced spring onions. Serve with steamed rice - adobo is one of those dishes that tastes even better the next day, once the flavours have had time to settle."
+    }
+  ],
+  "tips": [
+    "Don't rush the browning step - well-rendered, golden skin gives the sauce a deeper flavour than chicken added to the pan raw.",
+    "Boil the vinegar and soy mixture briefly before the chicken goes back in; this takes the raw harshness off the vinegar.",
+    "Check the chicken reaches at least 74°C (ideally 80°C for thighs) rather than judging by time alone, since pan and chicken sizes vary.",
+    "If the sauce looks thin after braising, reduce it uncovered rather than thickening it with flour - that's what gives adobo its characteristic glossy finish.",
+    "Leftovers taste better the next day, so this is a good dish to make ahead."
+  ],
+  "storage": "Store in the fridge for up to 4 days or freeze for up to 3 months. Reheat gently on the hob or in the microwave until piping hot and the chicken reaches 74°C throughout.",
+  "allergens": [
+    "gluten",
+    "soya"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 498,
+    "protein_g": 34.1,
+    "carbs_g": 7.5,
+    "sugar_g": 3.2,
+    "free_sugar_g": 2.9,
+    "fat_g": 35.9,
+    "satfat_g": 9.1,
+    "salt_g": 2.47,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chicken-adobo-basic.jpg",
+  "image_alt": "Deep golden-brown chicken pieces glazed in a dark, glossy adobo sauce, scattered with sliced spring onion, served over steamed rice."
+}

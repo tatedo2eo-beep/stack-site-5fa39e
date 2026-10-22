@@ -1,0 +1,155 @@
+{
+  "slug": "chicken-yassa",
+  "title": "Chicken Yassa",
+  "category": "chicken",
+  "cuisine": "Senegalese",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "yassa",
+  "dish_title": "Yassa",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chicken is marinated in lemon, mustard and onions, browned, then braised with the deeply softened onions until tender, finished with a scattering of olives.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 60,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "large heavy casserole with lid (28 cm)",
+    "tongs",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 1200,
+      "unit": "g",
+      "item": "bone-in, skin-on chicken thighs and drumsticks"
+    },
+    {
+      "group": "Marinade",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large onions, thinly sliced",
+      "note": "about 800 g"
+    },
+    {
+      "group": "Marinade",
+      "qty": 80,
+      "unit": "ml",
+      "item": "lemon juice (about 3 lemons)"
+    },
+    {
+      "group": "Marinade",
+      "qty": 30,
+      "unit": "g",
+      "item": "Dijon mustard (choose one made without wine)"
+    },
+    {
+      "group": "Marinade",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Marinade",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Marinade",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To cook",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "To cook",
+      "qty": 1,
+      "unit": "pc",
+      "item": "Scotch bonnet chilli, pierced (or ½, seeded, for mild)"
+    },
+    {
+      "group": "To cook",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "To cook",
+      "qty": 250,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "To cook",
+      "qty": 60,
+      "unit": "g",
+      "item": "pitted green olives"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Marinate the chicken",
+      "text": "Toss the chicken and sliced onions with the lemon juice, mustard, garlic, salt and pepper in a large bowl. Cover and refrigerate for 2-12 hours, which gives the lemon time to season the meat and start softening the onions."
+    },
+    {
+      "title": "Brown the chicken",
+      "text": "Lift the chicken out, scraping the onions back into the bowl of marinade, and pat the skin dry. Heat the oil in the casserole over medium-high heat and brown the chicken skin-side down for 8-10 minutes until deep golden - or grill it instead - then turn for 2 minutes before setting it aside."
+    },
+    {
+      "title": "Caramelise the onions",
+      "text": "With a slotted spoon, lift the onions out of the marinade, keeping the liquid, and add them to the pan with a pinch of salt. Cook over medium heat for 20-25 minutes, stirring often, until they turn very soft and a deep golden-caramel colour - this slow sweetening is what balances out the sharp lemon in the final dish."
+    },
+    {
+      "title": "Simmer the chicken",
+      "text": "Add the reserved marinade, water, the Scotch bonnet and bay leaves, and bring to a simmer. Nestle the chicken back in skin-side up, cover, and simmer gently for 25-30 minutes until the thigh meat reaches 80°C and the chicken is tender."
+    },
+    {
+      "title": "Add the olives",
+      "text": "For the final 5 minutes of cooking, stir in the olives uncovered so they warm through without turning soft and losing their bite. Remove the Scotch bonnet before serving unless you want the extra heat."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve the chicken and onions over white rice, spooning plenty of the sauce over the top. The soft, sweet onions and sharp lemon sauce are what make this dish so distinctive."
+    }
+  ],
+  "tips": [
+    "Don't skip the long, slow cooking of the onions - rushed onions stay sharp and raw-tasting instead of turning sweet enough to balance the lemon.",
+    "Keep the Scotch bonnet whole and pierced rather than chopped if you want just background heat, and remove it before serving.",
+    "Check the chicken reaches 80°C in the thigh rather than relying on time alone, since bone-in pieces vary in thickness.",
+    "Add the olives right at the end so they stay firm rather than turning mushy.",
+    "Marinating for the full 12 hours, rather than the minimum 2, gives a noticeably deeper flavour if you have time."
+  ],
+  "storage": "Keep in the fridge for up to 3 days or freeze for up to 3 months. Reheat gently on the hob until piping hot and the chicken reaches 74°C throughout.",
+  "allergens": [
+    "mustard"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 638,
+    "protein_g": 35.2,
+    "carbs_g": 23.2,
+    "sugar_g": 9.3,
+    "free_sugar_g": 0.5,
+    "fat_g": 45.4,
+    "satfat_g": 10.0,
+    "salt_g": 2.67,
+    "fibre_g": 4.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "yassa-basic.jpg",
+  "image_alt": "Golden chicken in a heap of soft lemony onions with green olives, served with white rice."
+}

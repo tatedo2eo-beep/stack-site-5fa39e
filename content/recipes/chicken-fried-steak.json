@@ -1,0 +1,192 @@
+{
+  "slug": "chicken-fried-steak",
+  "title": "Chicken Fried Steak with Cream Gravy",
+  "category": "beef-lamb",
+  "cuisine": "American (Texas)",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "chicken-fried-steak",
+  "dish_title": "Chicken fried steak",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thin beef steaks are pounded, double-dredged and fried until crisp, then served smothered in a peppery cream gravy made from the pan drippings.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "large heavy frying pan, cast iron if possible (30 cm)",
+    "meat mallet or rolling pin",
+    "baking paper",
+    "3 shallow dishes",
+    "wire rack over a tray",
+    "whisk",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Steaks",
+      "qty": 4,
+      "unit": "pc",
+      "item": "beef cube steaks or thin top-round steaks, about 150 g each"
+    },
+    {
+      "group": "Steaks",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Steaks",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Seasoned flour",
+      "qty": 150,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Seasoned flour",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Seasoned flour",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Seasoned flour",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Seasoned flour",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Batter",
+      "qty": 200,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "To fry",
+      "qty": 300,
+      "unit": "ml",
+      "item": "neutral oil, for shallow frying",
+      "note": "about 1.5 cm deep"
+    },
+    {
+      "group": "Cream gravy",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "frying fat from the pan"
+    },
+    {
+      "group": "Cream gravy",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "plain flour"
+    },
+    {
+      "group": "Cream gravy",
+      "qty": 400,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Cream gravy",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Cream gravy",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "coarsely ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pound and season",
+      "text": "Pound the steaks between sheets of baking paper to an even 6-8 mm thickness, then season with the salt and pepper. Pounding to an even thickness means the steaks cook through evenly rather than some parts drying out before others are done."
+    },
+    {
+      "title": "Set up dredge and batter",
+      "text": "In one dish, whisk the flour with the garlic powder, paprika, cayenne and salt. In another, whisk the buttermilk, egg and baking powder together - the bubbles this creates help puff up the crust once it hits the hot oil."
+    },
+    {
+      "title": "Coat the steaks",
+      "text": "Dip each steak first in the seasoned flour, then the buttermilk batter, then back into the flour, pressing firmly each time so the coating sticks. Rest the coated steaks on the rack for 10 minutes before frying."
+    },
+    {
+      "title": "Fry the steaks",
+      "text": "Heat the oil to 180°C in the large frying pan. Fry 2 steaks at a time for 2-3 minutes per side, until deep golden and crisp and the meat reaches 71°C inside - since these steaks are thin, the crust and the centre finish cooking at roughly the same time. Drain on the rack and keep warm in a 100°C oven while you fry the rest."
+    },
+    {
+      "title": "Make the gravy",
+      "text": "Pour off all the frying fat except 2 tablespoons, leaving the browned crumbs stuck to the pan behind, since they add a lot of flavour to the gravy. Whisk in the flour over medium heat and cook for 1-2 minutes until it turns pale gold."
+    },
+    {
+      "title": "Finish the gravy",
+      "text": "Slowly whisk in the milk, then simmer for 3-5 minutes, stirring often, until the gravy thickens enough to coat the back of a spoon. Season generously with the salt and a good amount of coarsely ground black pepper."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon the warm gravy generously over the fried steaks and serve straight away with mashed potatoes."
+    }
+  ],
+  "tips": [
+    "Pound the steaks to an even thickness - uneven steaks cook unevenly, leaving thin spots overdone before thicker spots catch up.",
+    "Press the coating on firmly at each dredging stage and let the steaks rest for 10 minutes before frying, so the crust doesn't fall off in the oil.",
+    "Keep the browned crumbs left in the pan after frying rather than wiping them out - they're the base of the gravy's flavour.",
+    "Whisk the milk in gradually when making the gravy to avoid lumps forming.",
+    "Check the steaks reach 71°C rather than judging by colour alone, since the thin cut cooks faster than it might look."
+  ],
+  "storage": "Keep the steaks and gravy separately in the fridge for up to 2 days. Reheat the gravy gently on the hob and the steaks in a hot oven until piping hot (74°C), as a microwave will make the crust soggy.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 522,
+    "protein_g": 41.3,
+    "carbs_g": 21.4,
+    "sugar_g": 6.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 29.3,
+    "satfat_g": 6.1,
+    "salt_g": 2.59,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chicken-fried-steak-basic.jpg",
+  "image_alt": "A crisp, golden-crusted fried steak on a plate, smothered in creamy peppery gravy, with mashed potatoes alongside."
+}

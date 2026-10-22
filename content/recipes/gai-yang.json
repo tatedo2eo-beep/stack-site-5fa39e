@@ -1,0 +1,182 @@
+{
+  "slug": "gai-yang",
+  "title": "Gai Yang (Thai Grilled Chicken) with Jaew",
+  "category": "chicken",
+  "cuisine": "Thai (Isan)",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "gai-yang",
+  "dish_title": "Gai yang",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chicken legs are marinated in a coriander root and garlic paste, slow-roasted or grilled until charred, and served with a sharp, toasty jaew dipping sauce.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "mortar and pestle or small food processor",
+    "roasting tin with wire rack",
+    "small dry frying pan",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 1200,
+      "unit": "g",
+      "item": "bone-in, skin-on chicken thighs and drumsticks"
+    },
+    {
+      "group": "Marinade",
+      "qty": 20,
+      "unit": "g",
+      "item": "coriander roots and stems, chopped"
+    },
+    {
+      "group": "Marinade",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves, roughly chopped"
+    },
+    {
+      "group": "Marinade",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground white pepper"
+    },
+    {
+      "group": "Marinade",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "coriander seeds, toasted"
+    },
+    {
+      "group": "Marinade",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "fish sauce"
+    },
+    {
+      "group": "Marinade",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "light soy sauce"
+    },
+    {
+      "group": "Marinade",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "brown or palm sugar"
+    },
+    {
+      "group": "Marinade",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Jaew dipping sauce",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "fish sauce"
+    },
+    {
+      "group": "Jaew dipping sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Jaew dipping sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "brown or palm sugar"
+    },
+    {
+      "group": "Jaew dipping sauce",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Jaew dipping sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "toasted rice powder (glutinous rice toasted and ground)"
+    },
+    {
+      "group": "Jaew dipping sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small shallot, finely sliced"
+    },
+    {
+      "group": "Jaew dipping sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "chopped coriander leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the marinade paste",
+      "text": "Using a mortar and pestle or small food processor, pound the coriander roots and stems, garlic, white pepper and toasted coriander seed into a coarse paste. Mix in the fish sauce, soy sauce, sugar and oil."
+    },
+    {
+      "title": "Marinate the chicken",
+      "text": "Slash the chicken to the bone and rub the paste in well, working it into the cuts. Marinate in the fridge for 2-24 hours, so the paste has time to flavour the meat right through, not just the surface."
+    },
+    {
+      "title": "Toast the rice powder",
+      "text": "In a dry pan, toast a tablespoon of glutinous rice over medium heat for 4-5 minutes, shaking regularly, until deep golden, then grind it coarsely. This toasted rice powder gives the jaew sauce its distinctive nutty aroma and gentle thickening."
+    },
+    {
+      "title": "Roast the chicken",
+      "text": "Heat the oven to 200°C (180°C fan) and roast the chicken skin-up on the rack for 35-40 minutes, until the thigh meat reaches 80°C."
+    },
+    {
+      "title": "Char the skin",
+      "text": "Finish under a high grill (broiler) for 3-5 minutes until charred in spots. To barbecue instead of roasting, cook over medium indirect heat with the lid down for 30-40 minutes until the thigh reaches 80°C, then finish skin-side down over direct heat for 2-3 minutes to crisp and char."
+    },
+    {
+      "title": "Rest and make the jaew",
+      "text": "Rest the chicken for 5 minutes. Meanwhile, stir the fish sauce, lime juice and sugar together until the sugar dissolves, then add the chilli flakes, shallot, toasted rice powder and coriander just before serving, since the rice powder thickens the sauce as it sits."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve the chicken with sticky rice and the jaew sauce for dipping. The charred, smoky chicken and the sharp, nutty dip are meant to be eaten together."
+    }
+  ],
+  "tips": [
+    "Don't just chop the coriander roots and stems - pounding them into a proper paste releases far more flavour than mincing alone.",
+    "Watch the rice powder closely while toasting; it goes from golden to burnt quickly and that bitterness will carry through the jaew.",
+    "Add the rice powder to the jaew just before serving, as it thickens the sauce the longer it sits.",
+    "Check the thigh reaches 80°C after roasting, rather than relying on the grill or barbecue finish for doneness instead of just colour.",
+    "Marinate for closer to 24 hours if you have time - the flavour goes much deeper than with the minimum 2 hours."
+  ],
+  "storage": "Fridge for up to 3 days or freeze for up to 2 months. Reheat in a hot oven until piping hot and the chicken reaches 74°C again; make the jaew fresh rather than storing it, as the rice powder loses its texture over time.",
+  "allergens": [
+    "gluten",
+    "soya",
+    "fish"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 504,
+    "protein_g": 33.9,
+    "carbs_g": 10.1,
+    "sugar_g": 4.7,
+    "free_sugar_g": 4.1,
+    "fat_g": 36.0,
+    "satfat_g": 9.1,
+    "salt_g": 2.79,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gai-yang-basic.jpg",
+  "image_alt": "Charred chicken legs with a basket of sticky rice and a small bowl of jaew dipping sauce."
+}

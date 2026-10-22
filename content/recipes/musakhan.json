@@ -1,0 +1,166 @@
+{
+  "slug": "musakhan",
+  "title": "Musakhan (Sumac Chicken with Onions on Flatbread)",
+  "category": "chicken",
+  "cuisine": "Palestinian",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "musakhan",
+  "dish_title": "Musakhan",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chicken is marinated in sumac and warm spices, roasted until deep golden, then piled onto crisped flatbreads with soft sumac onions, toasted pine nuts and parsley.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 75,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "roasting tin",
+    "large frying pan (28-30 cm)",
+    "2 baking trays",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 1200,
+      "unit": "g",
+      "item": "bone-in, skin-on chicken thighs and drumsticks"
+    },
+    {
+      "group": "Chicken and onions",
+      "qty": 100,
+      "unit": "ml",
+      "item": "extra virgin olive oil"
+    },
+    {
+      "group": "Chicken and onions",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "ground sumac"
+    },
+    {
+      "group": "Chicken and onions",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground allspice"
+    },
+    {
+      "group": "Chicken and onions",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Chicken and onions",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Chicken and onions",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Chicken and onions",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Chicken and onions",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Chicken and onions",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Chicken and onions",
+      "qty": 4,
+      "unit": "pc",
+      "item": "red onions, thinly sliced",
+      "note": "about 700 g"
+    },
+    {
+      "group": "To finish",
+      "qty": 30,
+      "unit": "g",
+      "item": "pine nuts"
+    },
+    {
+      "group": "To finish",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large flatbreads (taboon, markook or thick pitta), about 80 g each"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped parsley"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Marinate the chicken",
+      "text": "Mix half the oil with 2 tablespoons of the sumac, the allspice, cumin, cinnamon, garlic, lemon juice, ¾ teaspoon of salt and the pepper, then rub it all over the chicken. Marinate in the fridge for 1-3 hours, or overnight if you have the time, so the spices properly flavour the meat rather than just sitting on the surface."
+    },
+    {
+      "title": "Roast the chicken",
+      "text": "Heat the oven to 190°C (170°C fan). Roast the chicken skin-up in the tin for 40-45 minutes, until deep golden and the thigh meat reaches 80°C."
+    },
+    {
+      "title": "Soften the onions",
+      "text": "While the chicken roasts, cook the sliced onions in the remaining oil with ¼ teaspoon of salt over medium heat for 15-20 minutes, stirring now and then, until completely soft and pale golden. Don't let them caramelise or go dark: they should stay sweet and silky. Stir in the remaining sumac once they're done, so its flavour stays bright."
+    },
+    {
+      "title": "Toast the pine nuts",
+      "text": "In a dry pan, toast the pine nuts over medium-low heat for 3-4 minutes, shaking the pan often, until golden. Keep a close eye on them, as pine nuts burn very quickly once they start to colour."
+    },
+    {
+      "title": "Crisp the flatbreads",
+      "text": "With the oven raised to 220°C (200°C fan), brush the flatbreads with the roasting juices or onion oil, spread over the sumac onions, and bake on trays for 5-7 minutes until the edges turn crisp."
+    },
+    {
+      "title": "Assemble and serve",
+      "text": "Top each flatbread with chicken, either left whole or pulled from the bone, and spoon over any remaining roasting juices. Finish with the toasted pine nuts, parsley and an extra scattering of sumac."
+    }
+  ],
+  "tips": [
+    "Cook the onions until soft and pale golden, not caramelised. Dark, caramelised onions turn the dish sweet and heavy and hide the sharp, lemony sumac.",
+    "Watch the pine nuts closely once they go in the pan, as they can burn within seconds of turning golden.",
+    "Check the chicken thigh reaches 80°C before taking it out, since bone-in pieces can look done on the outside before they're fully cooked through.",
+    "Brush the flatbreads with the flavourful roasting juices rather than plain oil for the best flavour.",
+    "Add the sumac to the onions after cooking, not during, so its tangy flavour stays fresh rather than fading in the pan."
+  ],
+  "storage": "Keep the chicken and onions in the fridge separately from the bread for up to 3 days. Reheat the chicken and onions until piping hot (74°C) and crisp the bread briefly in the oven before assembling again, rather than freezing the assembled dish.",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 974,
+    "protein_g": 43.1,
+    "carbs_g": 69.2,
+    "sugar_g": 9.0,
+    "free_sugar_g": 1.2,
+    "fat_g": 59.7,
+    "satfat_g": 12.3,
+    "salt_g": 2.95,
+    "fibre_g": 7.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "musakhan-basic.jpg",
+  "image_alt": "Golden sumac-roasted chicken on crisp flatbread with soft sumac onions, toasted pine nuts and parsley."
+}
