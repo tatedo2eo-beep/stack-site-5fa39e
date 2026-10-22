@@ -1,0 +1,128 @@
+{
+  "slug": "poached-eggs-buttered-sourdough-toast-chives",
+  "title": "Poached Eggs on Buttered Sourdough Toast with Chives",
+  "category": "breakfast",
+  "cuisine": "British",
+  "chapter": "eggs",
+  "book_chapter": "eggs",
+  "dish": "poached-eggs",
+  "dish_title": "Poached eggs",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Very fresh eggs, drained of their thin whites, are poached in barely simmering water until the yolks are set, then served on buttered sourdough with chives.",
+  "servings": 2,
+  "prep_min": 5,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "wide saucepan or casserole (about 24 cm, at least 2.5 litres)",
+    "fine sieve",
+    "small bowl",
+    "4 ramekins or small dishes",
+    "slotted spoon",
+    "kitchen paper",
+    "toaster or grill",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Eggs",
+      "qty": 4,
+      "unit": "pc",
+      "item": "very fresh large eggs"
+    },
+    {
+      "group": "Eggs",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Toast",
+      "qty": 2,
+      "unit": "pc",
+      "item": "thick slices sourdough bread",
+      "note": "about 120 g"
+    },
+    {
+      "group": "Toast",
+      "qty": 15,
+      "unit": "g",
+      "item": "soft unsalted butter"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "chives, finely snipped"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "flaky salt"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the water",
+      "text": "Bring the water to the boil in the wide pan, then lower the heat until it barely shivers, with small bubbles on the base (about 90 °C). Gentle heat cooks the white evenly without tearing it apart."
+    },
+    {
+      "title": "Drain the eggs",
+      "text": "Crack one egg into the sieve set over the small bowl and swirl for 20-30 seconds so the thin, watery white drips away, then tip the egg into a ramekin. Repeat with each egg. Removing the loose white is what stops ragged wisps forming in the pan."
+    },
+    {
+      "title": "Poach",
+      "text": "Hold a ramekin just above the water and gently tip in the egg, then repeat with the others, spacing them apart. Keep the water at a bare simmer and cook for 6-7 minutes, until the whites are firm and the yolk feels firm when pressed with a spoon (71 °C at the centre). Set yolks need a few minutes longer than runny ones."
+    },
+    {
+      "title": "Toast the bread",
+      "text": "Meanwhile, toast the bread and spread it with the butter. Thick, well-toasted sourdough holds the eggs without going soggy."
+    },
+    {
+      "title": "Serve",
+      "text": "Lift each egg with the slotted spoon, rest it on kitchen paper for a moment to drain, then set 2 on each toast. Scatter with chives, salt and pepper and serve."
+    }
+  ],
+  "tips": [
+    "Fresh eggs give the neatest shape, because their whites are thicker.",
+    "A rolling boil is the commonest mistake: it breaks up the whites, so keep the water just shivering.",
+    "Use a wide pan so the eggs do not touch.",
+    "Blot each egg on kitchen paper before plating so the toast stays crisp."
+  ],
+  "storage": "Best eaten straight away. Poached eggs can be chilled in cold water for up to 1 day and reheated in hot water until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 361,
+    "protein_g": 19.2,
+    "carbs_g": 32.1,
+    "sugar_g": 3.2,
+    "free_sugar_g": 2.8,
+    "fat_g": 17.1,
+    "satfat_g": 7.3,
+    "salt_g": 1.99,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "poached-eggs-basic.jpg",
+  "image_alt": "Two poached eggs on a thick slice of toasted sourdough, sprinkled with chopped chives.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

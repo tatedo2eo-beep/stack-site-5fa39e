@@ -1,0 +1,273 @@
+{
+  "slug": "saffron-layered-chicken-biryani-golden-onions-eggs",
+  "title": "Saffron Layered Chicken Biryani with Golden Onions and Boiled Eggs",
+  "category": "rice-grains",
+  "cuisine": "Indian",
+  "chapter": "rice",
+  "book_chapter": "rice",
+  "dish": "biryani",
+  "dish_title": "Biryani",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Yoghurt-marinated chicken is simmered with whole spices and golden onions, then covered with parboiled basmati, saffron milk and herbs and baked sealed. Boiled egg halves finish each plate.",
+  "servings": 6,
+  "prep_min": 40,
+  "cook_min": 95,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "fine sieve",
+    "large heavy ovenproof casserole with a lid (5-6 litres)",
+    "large saucepan for the rice",
+    "small saucepan",
+    "slotted spoon",
+    "kitchen paper",
+    "foil",
+    "instant-read probe thermometer",
+    "medium saucepan for the eggs"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 1200,
+      "unit": "g",
+      "item": "bone-in chicken thighs and drumsticks (halal), skin removed",
+      "note": "about 10 pieces; slash each to the bone"
+    },
+    {
+      "group": "Chicken",
+      "qty": 240,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt"
+    },
+    {
+      "group": "Chicken",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Chicken",
+      "qty": 25,
+      "unit": "g",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Chicken",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Chicken",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 1,
+      "unit": "pc",
+      "item": "cinnamon stick (about 5 cm)"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 4,
+      "unit": "pc",
+      "item": "whole cloves"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 3,
+      "unit": "pc",
+      "item": "green cardamom pods, lightly cracked"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "garam masala"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "Kashmiri chilli powder (or mild paprika)"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh coriander, chopped"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 15,
+      "unit": "g",
+      "item": "mint leaves, chopped"
+    },
+    {
+      "group": "Spices and herbs",
+      "qty": 1,
+      "unit": "pc",
+      "item": "green chilli, finely chopped"
+    },
+    {
+      "group": "Rice",
+      "qty": 400,
+      "unit": "g",
+      "item": "basmati rice"
+    },
+    {
+      "group": "Rice",
+      "qty": 2500,
+      "unit": "ml",
+      "item": "water, for parboiling"
+    },
+    {
+      "group": "Rice",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp; most of this salt is drained away with the water; it is counted in full"
+    },
+    {
+      "group": "Rice",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Rice",
+      "qty": 2,
+      "unit": "pc",
+      "item": "green cardamom pods, lightly cracked"
+    },
+    {
+      "group": "Saffron and onions",
+      "qty": 60,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Saffron and onions",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "saffron threads"
+    },
+    {
+      "group": "Saffron and onions",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "ghee or neutral oil"
+    },
+    {
+      "group": "Saffron and onions",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large onions, halved and thinly sliced",
+      "note": "about 600 g"
+    },
+    {
+      "group": "Saffron and onions",
+      "qty": 20,
+      "unit": "g",
+      "item": "unsalted butter, in small pieces"
+    },
+    {
+      "group": "To serve",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Marinate the chicken",
+      "text": "Mix the yoghurt, garlic, ginger and salt in the large bowl, add the chicken and turn to coat it well. Cover and refrigerate overnight, or for at least 1 hour. The slashes let the marinade reach the bone, and the yoghurt's acidity tenderises the meat."
+    },
+    {
+      "title": "Fry the onions",
+      "text": "Heat the ghee in the casserole over medium heat, add the onions and cook for 20-25 minutes, stirring often, until deep golden brown; lower the heat if they colour unevenly. Lift out half with the slotted spoon onto kitchen paper for the top. Slowly browned onions bring sweetness and depth."
+    },
+    {
+      "title": "Bloom the spices",
+      "text": "Turn the heat to low, add the cinnamon, cloves, cardamom and bay leaves and stir for 30 seconds, then add the garam masala, chilli powder and turmeric for 15 seconds. Warm fat draws out their aroma, but ground spices scorch fast, so keep them moving."
+    },
+    {
+      "title": "Simmer the chicken",
+      "text": "Add the chicken with all its marinade, the water, half the coriander and mint and the green chilli. Bring to the boil, cover and simmer gently for 25-30 minutes, turning once, until tender and at least 74 °C at the bone. Uncover and boil for 3-5 minutes so the sauce clings to the chicken with just a little on the base, then scatter over the rest of the herbs."
+    },
+    {
+      "title": "Rinse and soak the rice",
+      "text": "While the chicken cooks, rinse the rice in the sieve under cold water until it runs almost clear, then soak it in cold water for 30 minutes and drain. Rinsing removes surface starch and soaking helps the grains cook long and separate."
+    },
+    {
+      "title": "Boil the eggs",
+      "text": "Lower the eggs into boiling water in the medium saucepan and boil for 10 minutes until fully set. Cool them in cold water, then peel and halve. Cooling quickly stops a grey ring forming around the yolk."
+    },
+    {
+      "title": "Saffron milk and parboil",
+      "text": "Warm the milk until steaming, take it off the heat, crumble in the saffron and leave it to steep. Bring the 2.5 litres water to a rolling boil with the salt, lemon juice and cardamom, add the drained rice, stir once and boil for 2-3 minutes, until a broken grain shows a thin white core. Drain well straight away; the rice finishes cooking in the steam."
+    },
+    {
+      "title": "Layer and seal",
+      "text": "Heat the oven to 180 °C (160 °C fan). Spread the rice evenly over the chicken without stirring, drizzle the saffron milk over in streaks, scatter over the reserved onions and dot with the butter. Cover tightly with 2 layers of foil, crimp the edges and put the lid on, so no steam escapes."
+    },
+    {
+      "title": "Bake and rest",
+      "text": "Bake for 25 minutes, then leave to stand, still sealed, for 10 minutes. Peel back the foil carefully, as the steam is very hot. The rice should be fully tender and the chicken and rice should read at least 74 °C in the centre."
+    },
+    {
+      "title": "Serve",
+      "text": "Dig the spoon right to the bottom of the pot so each portion gets white rice, saffron rice and chicken. Top each plate with boiled egg halves."
+    }
+  ],
+  "tips": [
+    "Do not stir the rice into the chicken before baking; the layers steam separately and give the dish its contrast.",
+    "Parboiling the rice too long is the commonest mistake, as it turns mushy in the oven; stop while it still has a firm core.",
+    "Seal the pot well: if steam escapes, the top layer stays hard.",
+    "Thighs and drumsticks stay juicier than breast during the long cooking."
+  ],
+  "storage": "Cool quickly, refrigerate within 1 hour and eat within 24 hours. Reheat only once, covered, until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 650,
+    "protein_g": 40.9,
+    "carbs_g": 68.8,
+    "sugar_g": 7.2,
+    "free_sugar_g": 0.1,
+    "fat_g": 22.6,
+    "satfat_g": 10.9,
+    "salt_g": 2.23,
+    "fibre_g": 3.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "biryani-basic.jpg",
+  "image_alt": "A platter of white and saffron-yellow biryani rice with chicken pieces, fried onions, fresh herbs and a halved boiled egg.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

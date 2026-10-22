@@ -38,6 +38,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | boiled-eggs-spiced-onion-tomato-coconut-curry | Egg curry | Classic | 3 | 5 |
 | boston-cream-pie | Boston cream pie | Classic | 2 | 4 |
 | braised-beef-pot-roast | Pot roast | Classic | 2 | 4 |
+| brandade-de-morue-baked-salt-cod-potato-gratin | Brandade | Classic | 2 | 4 |
 | brazilian-style-fish-prawn-coconut-stew | Moqueca | Classic | 3 | 5 |
 | breaded-veal-schnitzel-potato-salad | Wiener schnitzel | Classic | 2 | 4 |
 | brookies | Brookies | Classic | 2 | 4 |
@@ -70,6 +71,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chicken-and-dumplings | Chicken and dumplings | Classic | 2 | 4 |
 | chicken-caesar-salad-griddled-breast | Caesar | Chicken | 3 | 5 |
 | chicken-chow-mein | Chow mein/lo mein | Chicken | 3 | 5 |
+| chicken-fried-rice-egg-peas-carrot | Fried rice | Classic | 2 | 4 |
 | chicken-fried-steak | Chicken fried steak | Classic | 3 | 6 |
 | chicken-inasal | Chicken inasal | Classic | 1 | 4 |
 | chicken-kiev | Chicken Kiev | Classic | 2 | 4 |
@@ -110,6 +112,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-mashed-potatoes | Mashed | Classic | 2 | 4 |
 | classic-patty-melt | Patty melt | Classic | 2 | 6 |
 | classic-smash-burger | Smash burger | Cheese | 3 | 7 |
+| clear-white-chicken-stock-slow-simmered | White/brown chicken | Classic | 2 | 4 |
 | cod-baked-in-parchment-vegetables-lemon-dill | En papillote | Classic | 4 | 6 |
 | cold-somen | Somen | Classic | 3 | 5 |
 | cool-yoghurt-rice-mustard-seeds-curry-leaves-pomegranate | Curd rice | Classic | 2 | 4 |
@@ -153,6 +156,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | duchess-potatoes | Duchesse | Classic | 2 | 4 |
 | egg-drop-soup-ginger-spring-onion | Egg drop soup | Classic | 3 | 5 |
 | egg-fried-rice-spring-onions | Fried rice | Egg | 3 | 5 |
+| eggs-royale-smoked-salmon-poached-eggs-lemon-hollandaise | Eggs Royale (smoked-salmon Benedict) | Classic | 3 | 5 |
 | egusi-soup-beef-spinach-palm-oil | Egusi soup | Classic | 2 | 4 |
 | ensaladilla-rusa-tuna-peppers | Ensaladilla rusa | Classic | 2 | 4 |
 | ethiopian-berbere-beef-tibs | Tibs | Classic | 2 | 4 |
@@ -227,6 +231,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | kale-caesar-salad-massaged-leaves | Caesar | Kale | 3 | 5 |
 | kalguksu | Kalguksu | Classic | 1 | 3 |
 | kasespatzle | Käsespätzle | Classic | 3 | 5 |
+| kedgeree-smoked-haddock-curried-rice-eggs | Kedgeree | Classic | 2 | 4 |
 | ketchup-chicken-fried-rice-folded-omelette | Omurice | Ketchup | 3 | 5 |
 | ketchup-glazed-meatloaf | Meatloaf | Ketchup-brown sugar glaze | 2 | 4 |
 | kimchi-fried-rice-fried-egg-sesame | Kimchi fried rice | Classic | 3 | 5 |
@@ -299,6 +304,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pan-fried-sole-brown-butter-lemon-parsley | Sole meunière | Classic | 4 | 6 |
 | pan-roasted-duck-breast-orange-sauce | Duck à l'orange | Classic | 3 | 5 |
 | pan-seared-strip-steak | Pan-seared steak | Classic | 4 | 6 |
+| panang-chicken-curry-makrut-lime-leaves-peanuts | Panang curry | Classic | 2 | 4 |
 | pancit-bihon | Pancit bihon | Classic | 2 | 4 |
 | pancit-canton | Pancit | Classic | 2 | 4 |
 | pandan-chiffon-cake | Chiffon | Pandan | 2 | 4 |
@@ -327,6 +333,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pizzelle | Pizzelle | Classic | 2 | 4 |
 | pizzoccheri | Pizzoccheri | Classic | 2 | 4 |
 | poached-chicken | Poached | Classic | 2 | 4 |
+| poached-eggs-buttered-sourdough-toast-chives | Poached eggs | Classic | 2 | 4 |
 | poached-eggs-garlic-yoghurt-chilli-butter | Çılbır | Classic | 2 | 4 |
 | poached-prawns-classic-cocktail-sauce | Shrimp cocktail | Classic | 3 | 5 |
 | poached-white-fish-dumplings-carrot-beetroot-horseradish | Gefilte fish | Classic | 4 | 6 |
@@ -361,6 +368,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | rugelach | Rugelach | Classic | 2 | 4 |
 | sables-diamants | Diamant | Classic | 2 | 4 |
 | sachertorte | Sachertorte | Classic | 2 | 4 |
+| saffron-layered-chicken-biryani-golden-onions-eggs | Biryani | Classic | 2 | 4 |
 | saffron-layered-lamb-biryani-golden-onions-mint | Biryani | Lamb | 2 | 4 |
 | salade-nicoise-tuna-eggs-potatoes | Niçoise | Classic | 2 | 4 |
 | samgyetang | Samgyetang | Classic | 2 | 4 |

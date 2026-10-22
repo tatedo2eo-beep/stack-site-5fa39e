@@ -1,0 +1,157 @@
+{
+  "slug": "eggs-royale-smoked-salmon-poached-eggs-lemon-hollandaise",
+  "title": "Eggs Royale: Smoked Salmon and Poached Eggs with Lemon Hollandaise",
+  "category": "breakfast",
+  "cuisine": "British",
+  "chapter": "eggs",
+  "book_chapter": "eggs",
+  "dish": "eggs-royale-smoked-salmon-benedict",
+  "dish_title": "Eggs Royale (smoked-salmon Benedict)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Toasted English muffins are layered with smoked salmon and poached eggs with fully set yolks, then coated with a lemon hollandaise cooked over water to a safe 71 °C.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "heatproof bowl",
+    "saucepan that the bowl sits on without touching the water",
+    "balloon whisk",
+    "fine sieve",
+    "8 ramekins or small dishes",
+    "deep frying pan or wide saucepan (about 28 cm)",
+    "slotted spoon",
+    "kitchen paper",
+    "bowl of hot water (about 60 °C)",
+    "toaster or grill",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Hollandaise",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Hollandaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Hollandaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Hollandaise",
+      "qty": 150,
+      "unit": "g",
+      "item": "unsalted butter, melted and kept warm"
+    },
+    {
+      "group": "Hollandaise",
+      "qty": 1,
+      "unit": "pc",
+      "item": "pinch cayenne pepper"
+    },
+    {
+      "group": "Hollandaise",
+      "qty": 1,
+      "unit": "pc",
+      "item": "pinch fine salt"
+    },
+    {
+      "group": "Eggs",
+      "qty": 8,
+      "unit": "pc",
+      "item": "very fresh large eggs"
+    },
+    {
+      "group": "Eggs",
+      "qty": 2500,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "To assemble",
+      "qty": 4,
+      "unit": "pc",
+      "item": "English muffins, split",
+      "note": "about 240 g"
+    },
+    {
+      "group": "To assemble",
+      "qty": 200,
+      "unit": "g",
+      "item": "sliced smoked salmon"
+    },
+    {
+      "group": "To assemble",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "dill or chives, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the yolks",
+      "text": "Put 3 cm water in the saucepan and bring it to a bare simmer. Whisk the yolks, lemon juice and water in the bowl, set it over the pan and whisk constantly for 3-5 minutes until thick, pale and leaving a trail, and the mixture reads 71 °C. If the edges start to look grainy, lift the bowl off for a few seconds; gentle, even heat thickens the yolks without scrambling them."
+    },
+    {
+      "title": "Whisk in the butter",
+      "text": "Take the bowl off the heat and whisk in the warm butter a spoonful at a time, then in a thin stream, until the sauce is thick and glossy. Season with the cayenne and salt, and whisk in 1 tsp warm water if it is too thick. Keep it over the pan, off the heat, and use within 30 minutes."
+    },
+    {
+      "title": "Drain the eggs",
+      "text": "Crack each egg into the sieve over a bowl and swirl for 20-30 seconds so the thin white drips away, then tip it into a ramekin. This gives neat, compact poached eggs."
+    },
+    {
+      "title": "Poach in two batches",
+      "text": "Bring the water to the boil in the deep pan, then lower it to a bare simmer. Tip in 4 eggs, spaced apart, and cook for 6-7 minutes until the whites are firm and the yolks feel set when pressed (71 °C). Lift them into the bowl of hot water to keep warm and poach the other 4."
+    },
+    {
+      "title": "Assemble",
+      "text": "Toast the muffins and put 2 halves on each plate. Top with the smoked salmon, then a drained egg, blotted on kitchen paper. Spoon over the hollandaise, scatter with dill and serve straight away."
+    }
+  ],
+  "tips": [
+    "If the hollandaise starts to split, whisk a spoonful of warm water into a clean bowl and slowly whisk the sauce back into it.",
+    "Do not let the bowl touch the water; direct heat scrambles the yolks.",
+    "Make the sauce first and keep it warm off the heat, so you can concentrate on the eggs.",
+    "Blot the eggs well, or their water will thin the sauce."
+  ],
+  "storage": "Best eaten straight away. Hollandaise does not keep; leftover salmon and muffins can be refrigerated separately for up to 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "fish"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 657,
+    "protein_g": 28.8,
+    "carbs_g": 29.4,
+    "sugar_g": 0.7,
+    "free_sugar_g": 0.2,
+    "fat_g": 46.8,
+    "satfat_g": 24.3,
+    "salt_g": 2.02,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "eggs-royale-smoked-salmon-benedict-basic.jpg",
+  "image_alt": "Two toasted English muffin halves topped with smoked salmon and poached eggs under glossy yellow hollandaise.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

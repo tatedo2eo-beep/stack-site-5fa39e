@@ -1,0 +1,154 @@
+{
+  "slug": "clear-white-chicken-stock-slow-simmered",
+  "title": "Clear White Chicken Stock, Slow Simmered",
+  "category": "soups-stews",
+  "cuisine": "French",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "white-brown-chicken",
+  "dish_title": "White/brown chicken",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Raw wings, backs and carcasses are started in cold water, skimmed and held at the barest simmer with onion, carrot, celery and herbs for 3 hours. The result is about 3 litres of clear, unsalted, golden stock.",
+  "servings": 12,
+  "prep_min": 15,
+  "cook_min": 220,
+  "difficulty": "easy",
+  "equipment": [
+    "stockpot (at least 8 litres)",
+    "colander",
+    "ladle or skimmer",
+    "fine sieve",
+    "muslin or a clean thin tea towel (optional)",
+    "large heatproof bowl",
+    "sink or larger bowl of iced water",
+    "lidded containers",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Stock",
+      "qty": 2000,
+      "unit": "g",
+      "item": "raw chicken wings, backs and carcasses (halal)"
+    },
+    {
+      "group": "Stock",
+      "qty": 4000,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Stock",
+      "qty": 2,
+      "unit": "pc",
+      "item": "onions, unpeeled, quartered"
+    },
+    {
+      "group": "Stock",
+      "qty": 2,
+      "unit": "pc",
+      "item": "carrots, peeled and halved"
+    },
+    {
+      "group": "Stock",
+      "qty": 2,
+      "unit": "pc",
+      "item": "celery sticks, halved"
+    },
+    {
+      "group": "Stock",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves, lightly crushed"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "black peppercorns"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 4,
+      "unit": "pc",
+      "item": "thyme sprigs"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 5,
+      "unit": "pc",
+      "item": "parsley sprigs"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Start in cold water",
+      "text": "Rinse the chicken pieces under cold water and put them in the stockpot with the cold water, so they are covered by about 5 cm. Starting cold lets the proteins release slowly and rise as foam, which keeps the stock clear."
+    },
+    {
+      "title": "Heat slowly and skim",
+      "text": "Bring the pot to just below a simmer over medium heat, which takes 30-40 minutes. As grey foam gathers on the surface, skim it off with the ladle. Removing it now stops it being churned back into the liquid."
+    },
+    {
+      "title": "Add the aromatics",
+      "text": "Add the onions, carrots, celery, garlic, peppercorns, bay, thyme and parsley and push them under the surface. Adding them after skimming means you lose none of their flavour with the foam."
+    },
+    {
+      "title": "Simmer barely",
+      "text": "Keep the stock at the barest simmer, uncovered, with only an occasional bubble breaking the surface (about 90 °C), for 3 hours. Do not stir or let it boil, as agitation emulsifies the fat and clouds the stock. Skim now and then and top up with a little hot water if the bones poke out."
+    },
+    {
+      "title": "Strain without pressing",
+      "text": "Ladle the stock through the sieve, lined with damp muslin if you have it, into the heatproof bowl, and do not press the solids. Discard the bones and vegetables. You should have about 3 litres of clear stock."
+    },
+    {
+      "title": "Cool quickly",
+      "text": "Stand the bowl in the iced water and stir now and then until the stock drops below 21 °C within 2 hours, then refrigerate. Next day, lift off the set fat in one layer. The stock is unsalted, so season whatever dish you use it in."
+    },
+    {
+      "title": "Store",
+      "text": "Pour into lidded containers and refrigerate for up to 4 days or freeze for up to 3 months. Always bring it to the boil before using."
+    }
+  ],
+  "tips": [
+    "The most common mistake is boiling: keep it to a lazy bubble or the stock turns cloudy and greasy.",
+    "Wings and backs give the best body because they are rich in connective tissue.",
+    "Freeze some in 250 ml portions so you can thaw just what a recipe needs.",
+    "For a darker, roasted flavour, roast the bones at 220 °C (200 °C fan) until browned before simmering."
+  ],
+  "storage": "Refrigerate for up to 4 days or freeze for up to 3 months. Bring to a full boil before using. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "celery"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 90,
+    "protein_g": 6.3,
+    "carbs_g": 8.8,
+    "sugar_g": 4.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 3.0,
+    "satfat_g": 0.8,
+    "salt_g": 0.89,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "white-brown-chicken-basic.jpg",
+  "image_alt": "A bowl of clear, golden chicken stock beside a glass jar of more stock.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

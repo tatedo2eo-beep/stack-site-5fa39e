@@ -1,0 +1,169 @@
+{
+  "slug": "kedgeree-smoked-haddock-curried-rice-eggs",
+  "title": "Kedgeree: Curried Basmati Rice with Smoked Haddock and Eggs",
+  "category": "rice-grains",
+  "cuisine": "British",
+  "chapter": "rice",
+  "book_chapter": "rice",
+  "dish": "kedgeree",
+  "dish_title": "Kedgeree",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Smoked haddock is poached and its liquid used to cook butter-toasted, gently spiced basmati. Flaked fish, parsley and quartered eggs are folded in, with lemon to squeeze over.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "wide frying pan or shallow saucepan with a lid (about 26 cm)",
+    "slotted spoon",
+    "measuring jug",
+    "sieve",
+    "small saucepan for the eggs",
+    "medium heavy saucepan or casserole with a tight lid (about 3 litres)",
+    "fork",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Fish",
+      "qty": 400,
+      "unit": "g",
+      "item": "undyed smoked haddock fillet"
+    },
+    {
+      "group": "Fish",
+      "qty": 600,
+      "unit": "ml",
+      "item": "just-boiled water"
+    },
+    {
+      "group": "Eggs",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Rice",
+      "qty": 250,
+      "unit": "g",
+      "item": "basmati rice"
+    },
+    {
+      "group": "Rice",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Rice",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, thinly sliced",
+      "note": "about 200 g"
+    },
+    {
+      "group": "Rice",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "mild curry powder or garam masala"
+    },
+    {
+      "group": "Rice",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Rice",
+      "qty": 4,
+      "unit": "pc",
+      "item": "green cardamom pods, lightly cracked"
+    },
+    {
+      "group": "Rice",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "To serve",
+      "qty": 20,
+      "unit": "g",
+      "item": "flat-leaf parsley, chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Poach the haddock",
+      "text": "Lay the haddock in the wide pan, pour over the just-boiled water, cover and simmer very gently for 5-8 minutes, until it flakes easily and reads at least 63 °C. Lift it onto a plate and measure 375 ml of the poaching liquid. That smoky liquid seasons the rice, so no extra salt is needed."
+    },
+    {
+      "title": "Boil the eggs",
+      "text": "Lower the eggs into boiling water and boil for 10 minutes until fully set. Cool them in cold water, then peel and quarter. Plunging them into cold water makes peeling easier."
+    },
+    {
+      "title": "Rinse the rice",
+      "text": "Rinse the rice in the sieve until the water runs almost clear, then drain well. Washing off the loose starch keeps the cooked grains separate."
+    },
+    {
+      "title": "Toast the spices and rice",
+      "text": "Melt the butter in the medium saucepan over medium heat, add the onion and cook for 8 minutes, stirring, until soft and lightly golden. Stir in the curry powder, turmeric, cardamom and bay, then the rice, and stir for 2-3 minutes until the grains are coated and lightly toasted. Toasting in butter gives the rice a nutty flavour and helps it hold its shape."
+    },
+    {
+      "title": "Cook the rice",
+      "text": "Pour in the 375 ml poaching liquid, bring to a simmer, cover tightly and turn the heat to low. Cook for 15 minutes until the liquid is absorbed, then take off the heat and leave covered for 5 minutes. The rest lets the steam finish the grains evenly."
+    },
+    {
+      "title": "Fold and serve",
+      "text": "Flake the fish, discarding skin and bones. Fluff the rice with the fork, then gently fold in the fish, most of the parsley and the pepper; it should be piping hot (at least 74 °C). Taste before adding any salt, top with the eggs and remaining parsley and serve with lemon wedges."
+    }
+  ],
+  "tips": [
+    "Choose undyed smoked haddock; the dyed kind adds colour but nothing else.",
+    "Do not stir the rice while it simmers, or it will break and turn sticky.",
+    "Fold the fish in gently so it stays in large flakes.",
+    "A squeeze of lemon at the table brightens the smoky, buttery rice."
+  ],
+  "storage": "Cool quickly, refrigerate within 1 hour and eat within 24 hours. Reheat only once, covered, until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 514,
+    "protein_g": 36.9,
+    "carbs_g": 56.3,
+    "sugar_g": 2.6,
+    "free_sugar_g": 0.1,
+    "fat_g": 14.4,
+    "satfat_g": 7.0,
+    "salt_g": 2.11,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "kedgeree-advanced.jpg",
+  "image_alt": "A plate of turmeric-yellow rice with flaked smoked haddock, quartered boiled eggs and chopped parsley.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}
