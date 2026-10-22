@@ -150,19 +150,20 @@ function chapterChips(ctx, chapters, current) {
 }
 const chapterNav = (ctx, chapters, current) => `<nav class="chips chnav" aria-label="${ctx.t.ui.chapters}">${chapterChips(ctx, chapters, current)}</nav>`;
 // shared header variants for chapter + dish pages (vChapter layouts)
-function headVariant(d, { cr, num, name, dek, cov, chips }) {
-  const img = cov ? `<img src="${cov}" alt="" width="1200" height="900" decoding="async">` : '';
+function headVariant(d, { cr, num, name, dek, cov, chips, slot }) {
+  const ds = slot ? ` data-slot="${slot}"` : '';
+  const img = cov ? `<img${ds} src="${cov}" alt="" width="1200" height="900" decoding="async">` : '';
   const fbar = `<div class="fbar"><div class="wrap fbin">${chips}</div></div>`;
   if (d === 'c') return `<section class="wrap chead"><div class="cnote">${cr}<h1>${name}</h1><p class="dek">${dek}</p></div>${img ? `<figure class="polaroid tilt">${img}<figcaption>${num}</figcaption></figure>` : ''}</section>${fbar}`;
   if (d === 'd') return `<section class="wrap dchap">${img ? `<span class="arch big">${img}</span>` : ''}<div class="dribbon">${cr}<h1>${name}</h1><p class="dek">${dek}</p></div></section>${fbar}`;
   if (d === 'g') return `<section class="wrap gchap"><div class="gt gimg">${img}</div><div class="gt gtitle">${cr}<h1>${name}</h1><p class="dek">${dek}</p></div><div class="gt gnum"><small>No.</small><b>${num}</b></div><div class="gt gcount"><small>${'Here'}</small><b>${num}</b></div><div class="gt gfil">${chips}</div></section>`;
-  return `<section class="echap" style="--hero-img:url(&quot;${cov}&quot;)"><div class="eshade"></div><div class="wrap ehin">${cr}<div class="bignum">${num}</div><h1>${name}</h1><p class="dek">${dek}</p></div></section>${fbar}`;
+  return `<section class="echap"${ds} style="--hero-img:url(&quot;${cov}&quot;)"><div class="eshade"></div><div class="wrap ehin">${cr}<div class="bignum">${num}</div><h1>${name}</h1><p class="dek">${dek}</p></div></section>${fbar}`;
 }
 function listPageViews(ctx, h0, gridHtml, below, a1, a2) {
   return each(d => {
     const h = { ...h0, cov: typeof h0.cov === 'function' ? h0.cov(d) : h0.cov };
     if (d === 'b') {
-      const img = h.cov ? `<figure class="plate"><img src="${h.cov}" alt="" width="1200" height="900" decoding="async"></figure>` : '';
+      const img = h.cov ? `<figure class="plate"><img${h.slot ? ` data-slot="${h.slot}"` : ''} src="${h.cov}" alt="" width="1200" height="900" decoding="async"></figure>` : '';
       return `<section class="book wrap"><div class="spread"><div class="page left opener">${h.cr}<div class="bignum">${h.num}</div><h1>${h.name}</h1><div class="orn">❦</div><p class="dek">${h.dek}</p>${img}<span class="folio">${h.num}</span></div><div class="page right"><div class="runhead"><span>${h.name}</span><span>${h.runner}</span></div><div class="fbin pagef">${h.chips}</div>${h.gridTitle ? `<h2 class="pageh">${h.gridTitle}</h2>` : ''}${gridHtml}</div></div></section>${a1}${below}${a2}`;
     }
     const head = headVariant(d, h).replace(`<b>${h.num}</b></div><div class="gt gfil">`, `<b>${h.count}</b></div><div class="gt gfil">`).replace("<small>Here</small>", `<small>${h.countLabel}</small>`);
@@ -172,7 +173,7 @@ function listPageViews(ctx, h0, gridHtml, below, a1, a2) {
 function chapterPage(ctx, ch, chapters) {
   const { t, u } = ctx, c = t.chapters[ch.key], nR = ch.dishes.reduce((a, d) => a + d.flavours.length, 0);
   const idx = chapters.indexOf(ch) + 1;
-  const h = { cr: crumbs(ctx, [['chapters/', t.ui.chapters], [null, c.name]]), num: num2(idx), name: esc(c.name), dek: `${esc(c.intro)} ${ch.dishes.length} dish${ch.dishes.length === 1 ? '' : 'es'} · ${nR} recipe${nR === 1 ? '' : 's'}.`, cov: dd => chCover(ctx, ch, dd), chips: chapterChips(ctx, chapters, ch.key), runner: t.groups[ch.group], gridTitle: 'Dishes', side: `${ch.dishes.length} dish${ch.dishes.length === 1 ? '' : 'es'}`, count: ch.dishes.length, countLabel: 'Dishes' };
+  const h = { cr: crumbs(ctx, [['chapters/', t.ui.chapters], [null, c.name]]), num: num2(idx), name: esc(c.name), dek: `${esc(c.intro)} ${ch.dishes.length} dish${ch.dishes.length === 1 ? '' : 'es'} · ${nR} recipe${nR === 1 ? '' : 's'}.`, cov: dd => chCover(ctx, ch, dd), slot: `cover:${ch.key}`, chips: chapterChips(ctx, chapters, ch.key), runner: t.groups[ch.group], gridTitle: 'Dishes', side: `${ch.dishes.length} dish${ch.dishes.length === 1 ? '' : 'es'}`, count: ch.dishes.length, countLabel: 'Dishes' };
   const g = `<div class="rgrid dishes">${ch.dishes.map(d => dishCard(ctx, d)).join('')}</div>`;
   return { path: `chapter/${ch.key}/`, title: c.name, description: `${c.name}: ${c.intro}`, views: listPageViews(ctx, h, g, '', adw(ctx, 1), adw(ctx, 2)), navKey: 'chapters' };
 }
@@ -190,8 +191,8 @@ function chapterGroups(ctx, d, chapters) {
   const groups = ['salty', 'sweet', 'more'].map(g => [g, chapters.filter(c => c.group === g)]).filter(g => g[1].length);
   const nR = chapters.reduce((a, c) => a + c.n, 0);
   let i = 0;
-  if (d === 'b') return `<section class="book wrap"><div class="spread single"><div class="page"><div class="runhead"><span>Contents</span><span>${nR} recipes</span></div><h1 class="pageh">${t.ui.chapters}</h1>${groups.map(([g, list]) => `<div class="ctg"><h3>${t.groups[g]}</h3>${list.map(c => `<a class="ctl" href="${u(`chapter/${c.key}/`)}"><span class="cn">${num2(++i)}</span><img loading="lazy" src="${chCover(ctx, c, d)}" alt=""><span class="ct">${esc(t.chapters[c.key].name)}</span><em></em><b>${c.n}</b></a>`).join('')}</div>`).join('')}</div></div></section>`;
-  return `<section class="sec chg"><div class="wrap"><div class="sh2"><h2>${t.ui.chapters}</h2><span>${nR} recipes</span></div>${groups.map(([g, list]) => `<div class="grp" id="g-${g}"><h3>${t.groups[g]}</h3></div><div class="tgrid">${list.map(c => `<a class="tile" href="${u(`chapter/${c.key}/`)}"><span class="ti"><img loading="lazy" src="${chCover(ctx, c, d)}" alt=""></span><span class="num">${num2(++i)}</span><h4>${esc(t.chapters[c.key].name)}</h4><span class="cnt">${c.n} recipe${c.n === 1 ? '' : 's'}</span></a>`).join('')}</div>`).join('')}</div></section>`;
+  if (d === 'b') return `<section class="book wrap"><div class="spread single"><div class="page"><div class="runhead"><span>Contents</span><span>${nR} recipes</span></div><h1 class="pageh">${t.ui.chapters}</h1>${groups.map(([g, list]) => `<div class="ctg"><h3>${t.groups[g]}</h3>${list.map(c => `<a class="ctl" href="${u(`chapter/${c.key}/`)}"><span class="cn">${num2(++i)}</span><img data-slot="cover:${c.key}" loading="lazy" src="${chCover(ctx, c, d)}" alt=""><span class="ct">${esc(t.chapters[c.key].name)}</span><em></em><b>${c.n}</b></a>`).join('')}</div>`).join('')}</div></div></section>`;
+  return `<section class="sec chg"><div class="wrap"><div class="sh2"><h2>${t.ui.chapters}</h2><span>${nR} recipes</span></div>${groups.map(([g, list]) => `<div class="grp" id="g-${g}"><h3>${t.groups[g]}</h3></div><div class="tgrid">${list.map(c => `<a class="tile" href="${u(`chapter/${c.key}/`)}"><span class="ti"><img data-slot="cover:${c.key}" loading="lazy" src="${chCover(ctx, c, d)}" alt=""></span><span class="num">${num2(++i)}</span><h4>${esc(t.chapters[c.key].name)}</h4><span class="cnt">${c.n} recipe${c.n === 1 ? '' : 's'}</span></a>`).join('')}</div>`).join('')}</div></section>`;
 }
 function chaptersPage(ctx, chapters) {
   return { path: 'chapters/', title: ctx.t.ui.chapters, description: 'Every chapter: pick a chapter, then a dish, then your flavour.', views: each(d => chapterGroups(ctx, d, chapters).replace('<h2>', '<h1>').replace('</h2>', '</h1>') + adw(ctx, 1) + adw(ctx, 2)), navKey: 'chapters' };

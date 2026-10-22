@@ -144,6 +144,22 @@ function placeholderSvg(label) {
   const picks = JSON.parse(fs.readFileSync(path.join(TAMI.source, 'data/index.json'), 'utf8')).meta.picks;
   const covers = {};
   for (const dk of Object.keys(picks)) { covers[dk] = {}; for (const c of cfg.chapters) { const p = picks[dk].covers[c.stem || TAMI.chapterStems[c.key]]; const im = p && await tamiImg(p.img); if (im) covers[dk][c.key] = im.w1200; } }
+  // home picks per design (hero / plate / issue / cpin / feat / grp), exactly the cookbook's meta.picks[design].home.
+  // Each photo links to the chapter it belongs to (or the chapter list while that chapter is still empty).
+  const chKeyOf = id => id.split('/')[0].replace(/^\d+-/, '');
+  const homePicks = {}, usedPick = new Set();
+  const one = async x => { if (!x || !x.img) return null; usedPick.add(x.img); const im = await tamiImg(x.img); return im && { url: im.w1200, ch: chKeyOf(x.id) }; };
+  for (const dk of Object.keys(picks)) {
+    const h = picks[dk].home || {}, o = homePicks[dk] = {};
+    for (const k of ['hero', 'plate']) if (h[k]) o[k] = await one(h[k]);
+    for (const k of ['issue', 'cpin', 'feat']) if (h[k]) o[k] = (await Promise.all(h[k].map(one))).filter(Boolean);
+    if (h.grp) { o.grp = {}; for (const [g, x] of Object.entries(h.grp)) o.grp[g] = await one(x); }
+    for (const c of Object.values(picks[dk].covers || {})) usedPick.add(c.img);
+    for (const c of Object.values(picks[dk].meals || {})) usedPick.add(c.img);
+  }
+  // 'more' (recipes outside the book chapters) has no cookbook cover: give each design a photo no pick uses
+  const spare = Object.values(TAMI_BY_NAME).filter(x => !usedPick.has(x)).sort();
+  for (const dk of Object.keys(picks)) if (!covers[dk].more && spare.length) { const im = await tamiImg(spare.shift()); if (im) covers[dk].more = im.w1200; }
   const chapters = cfg.chapters.map(c => ({ ...c, dishes: dishes.filter(d => d.chapter === c.key).sort((a, b) => b.flavours.length - a.flavours.length || a.title.localeCompare(b.title)) })).filter(c => c.dishes.length);
   for (const c of chapters) c.n = c.dishes.reduce((a, d) => a + d.flavours.length, 0);
   const cats = R.CATEGORIES.map(key => ({ key, list: recipes.filter(r => r.category === key) })).filter(c => c.list.length);
@@ -151,10 +167,10 @@ function placeholderSvg(label) {
   const who = recipes.filter(r => r.health.who.pass);
 
   const locales = cfg.locales.map(code => ({ code, prefix: code === cfg.locales[0] ? '' : code + '/', t: require(path.join(ROOT, 'i18n', code + '.js')) }));
-  const pages = [];
+  const pages = [], checked = [];
   for (const L of locales) {
     let ctx; ctx = {
-      cfg, covers, counts: { recipes: recipes.length }, t: L.t, assets, locales, chapters, chapterNav: k => P.chapterNav(ctx, chapters, k),
+      cfg, covers, homePicks, counts: { recipes: recipes.length }, t: L.t, assets, locales, chapters, chapterNav: k => P.chapterNav(ctx, chapters, k),
       u: p => cfg.basePath + L.prefix + p,
       abs: p => cfg.siteUrl + cfg.basePath + (p.startsWith('img/') || p.startsWith('media/') ? '' : L.prefix) + p,
       absFor: (l, p) => cfg.siteUrl + cfg.basePath + l.prefix + p
@@ -162,6 +178,7 @@ function placeholderSvg(label) {
     const emit = (page, file) => {
       const html = layout(ctx, page).replace(/\{\{BASE\}\}/g, cfg.basePath + L.prefix);
       const rel = L.prefix + (file || (page.path ? page.path + 'index.html' : 'index.html'));
+      if (!L.prefix && page.views && (page.navKey === 'home' || /^chapters?\//.test(page.path || ''))) checked.push({ path: page.path, views: page.views });
       writeFile(rel, html); pages.push({ rel, loc: page.path === null ? null : ctx.abs(page.path), bytes: Buffer.byteLength(html) });
     };
     emit(require('./templates/home').homePage(ctx, P, recipes, chapters, { hp: hp.length, who: who.length }));
@@ -188,6 +205,12 @@ function placeholderSvg(label) {
     emit(P.simplePage(ctx, 'login/', 'Sign in', frag('login.html'), 'Accounts are coming soon.'));
     emit(P.simplePage(ctx, '404.html', 'Page not found', frag('404.html'), 'Page not found.'), '404.html');
     pages[pages.length - 1].loc = null;
+  }
+  {
+    const cardPhotos = new Set([...recipes.filter(r => r.img).map(r => r.img.w1200), ...dishes.filter(d => d.cover && d.cover.img).map(d => d.cover.img.w1200)]);
+    const pc = require('./lib/photo-check').checkPhotos(checked, cardPhotos);
+    if (pc.fail.length) { pc.fail.slice(0, 40).forEach(f => console.log(C.red('✗ photo rule: ' + f))); console.log(C.red(`Build stopped: ${pc.fail.length} photo rule failure(s).`)); process.exit(1); }
+    console.log(C.grn(`Photo rule OK: featured photos per design ${JSON.stringify(pc.counts)}, none shared or repeated.`));
   }
   writeFile('img/og.png', fs.readFileSync(path.join(ROOT, 'src/assets/og.png')));
   for (const k of R.CATEGORIES) writeFile(`img/ph/${k}.svg`, placeholderSvg(require(path.join(ROOT, 'i18n', cfg.locales[0] + '.js')).categories[k]));
