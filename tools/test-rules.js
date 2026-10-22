@@ -1,6 +1,6 @@
 // Quick sanity tests for the healthy/diet/allergen rules: node tools/test-rules.js
 const R = require('../src/lib/rules'); const assert = require('assert');
-const base = { slug: 't', title: 'T', category: 'chicken', cuisine: 'x', summary: 's', servings: 2, prep_min: 5, cook_min: 5, difficulty: 'easy', equipment: [], steps: [{ title: 'a', text: 'b' }], tips: [], storage: 's', allergens: [], diet: [], nutrition_source: 'USDA', image: null, image_alt: '' };
+const base = { slug: 't', title: 'T', category: 'chicken', cuisine: 'x', summary: 's', servings: 2, prep_min: 5, cook_min: 5, difficulty: 'easy', equipment: [], steps: [{ title: 'a', text: 'b' }], tips: [], storage: 's', allergens: [], diet: [], nutrition_source: 'USDA', image: null, image_alt: '', chapter: 'chicken', dish: 'd', dish_title: 'D', flavour: 'Classic' };
 const mk = (ings, n, extra) => ({ ...base, ingredients: ings.map(([qty, unit, item]) => ({ qty, unit, item })), nutrition_per_serving: { kcal: 400, protein_g: 20, carbs_g: 40, sugar_g: 5, free_sugar_g: 0, fat_g: 10, satfat_g: 2, salt_g: 1, fibre_g: 6, ...n }, ...extra });
 let ok = 0; const t = (name, fn) => { fn(); ok++; };
 t('cups rejected', () => assert(R.validate(mk([[1, 'cup', 'rice']])).errors.some(e => /not metric/.test(e))));
@@ -24,4 +24,11 @@ t('gluten-free dropped when flour', () => { const r = mk([[100, 'g', 'plain flou
 t('rice flour is not gluten', () => assert(!R.checkAllergens(mk([[100, 'g', 'rice flour']])).list.includes('gluten')));
 t('allergen auto-add: parmesan -> milk, tahini -> sesame', () => { const a = R.checkAllergens(mk([[10, 'g', 'parmesan'], [1, 'tbsp', 'tahini']])).list; assert(a.includes('milk') && a.includes('sesame')); });
 t('eggplant is not egg', () => assert(!R.checkAllergens(mk([[300, 'g', 'eggplant']])).list.includes('eggs')));
+t('unknown chapter rejected', () => assert(R.validate(mk([[1, 'g', 'x']], {}, { chapter: 'soups' })).errors.some(e => /^chapter/.test(e))));
+t('bad access rejected', () => assert(R.validate(mk([[1, 'g', 'x']], {}, { access: 'gold' })).errors.some(e => /^access/.test(e))));
+t('dish file validated', () => { assert.deepStrictEqual(R.validateDish({ slug: 'smash-burger', title: 'Smash burger', chapter: 'burgers', intro: 'x' }, 'smash-burger.json'), []); assert(R.validateDish({ slug: 'x', title: '', chapter: 'nope', intro: '' }).length === 3); });
+t('first flavour free, others premium, Classic first', () => { const a = R.assignAccess([mk([], {}, { title: 'B', flavour: 'Spicy' }), mk([], {}, { title: 'C', flavour: 'Classic' }), mk([], {}, { title: 'A', flavour: 'BBQ' })]); assert.deepStrictEqual(a.map(r => r.flavour + ':' + r.access), ['Classic:free', 'BBQ:premium', 'Spicy:premium']); });
+t('explicit access wins', () => { const a = R.assignAccess([mk([], {}, { flavour: 'Classic', access: 'premium' }), mk([], {}, { flavour: 'Two', access: 'free' })]); assert.deepStrictEqual(a.map(r => r.access), ['premium', 'free']); });
+t('flavour_order wins over Classic', () => assert.strictEqual(R.orderFlavours([mk([], {}, { flavour: 'Classic' }), mk([], {}, { flavour: 'Lite', flavour_order: 1 })])[0].flavour, 'Lite'));
+t('missing chapter fields get safe defaults + warning', () => { const r = mk([[1, 'g', 'x']], {}, { chapter: undefined, dish: undefined, dish_title: undefined, flavour: undefined, slug: 'zz', title: 'Zz' }); const w = R.applyChapterDefaults(r, {}); assert(w.length && r.chapter === 'more' && r.dish === 'zz' && r.flavour === 'Classic'); });
 console.log(`rules: ${ok} tests passed`);

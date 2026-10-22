@@ -8,6 +8,9 @@ const img = (ctx, r, sizes, cls, eager) => {
   return `<img class="${cls}" src="${ctx.u(r.img.w600)}" srcset="${ctx.u(r.img.w600)} 600w, ${ctx.u(r.img.w1200)} 1200w" sizes="${sizes}" alt="${a}" width="${r.img.width}" height="${r.img.height}"${eager ? ' fetchpriority="high"' : ' loading="lazy"'} decoding="async">`;
 };
 
+const LOCK = '<svg class="lock" viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path d="M4.5 7V5a3.5 3.5 0 0 1 7 0v2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect x="3" y="7" width="10" height="7.5" rx="1.6" fill="currentColor"/></svg>';
+const accessTag = (ctx, r) => r.access === 'premium' ? `<span class="badge prem">${LOCK}${ctx.t.ui.premium}</span>` : `<span class="badge free">${ctx.t.ui.free}</span>`;
+
 function badges(ctx, r) {
   const b = [];
   if (r.health.highProtein.pass) b.push(`<span class="badge hp">${ctx.t.nav.protein}</span>`);
@@ -17,10 +20,10 @@ function badges(ctx, r) {
 
 function card(ctx, r) {
   const { t, u } = ctx;
-  const text = [r.title, r.summary, r.cuisine, t.categories[r.category], ...r.ingredients.map(i => i.item), ...r.dietTags.map(d => t.diets[d])].join(' ').toLowerCase();
-  return `<li class="card reveal" data-slug="${r.slug}" data-cat="${r.category}" data-diet="${r.filterTags.join(' ')}" data-time="${r.total_min}" data-diff="${r.difficulty}" data-text="${esc(text)}">
-<a href="${u(r.url)}"><div class="card-img">${img(ctx, r, '(min-width:1000px) 360px, (min-width:640px) 45vw, 92vw', '', false)}<span class="fav-dot" aria-hidden="true">♥</span></div>
-<div class="card-body"><span class="kicker">${esc(t.categories[r.category])}</span><h3>${esc(r.title)}</h3>
+  const text = [r.title, r.summary, r.cuisine, t.categories[r.category], r.dish_title, r.flavour, t.chapters[r.chapter].name, ...r.ingredients.map(i => i.item), ...r.dietTags.map(d => t.diets[d])].join(' ').toLowerCase();
+  return `<li class="card reveal${r.access === 'premium' ? ' is-prem' : ''}" data-slug="${r.slug}" data-cat="${r.category}" data-ch="${r.chapter}" data-diet="${r.filterTags.join(' ')}" data-time="${r.total_min}" data-diff="${r.difficulty}" data-text="${esc(text)}">
+<a href="${u(r.url)}"><div class="card-img">${img(ctx, r, '(min-width:1000px) 360px, (min-width:640px) 45vw, 92vw', '', false)}<span class="fav-dot" aria-hidden="true">♥</span>${r.access === 'premium' ? `<span class="lock-dot" title="${t.ui.premium}">${LOCK}<span class="sr">${t.ui.premium}</span></span>` : ''}</div>
+<div class="card-body"><span class="kicker">${esc(r.dish_title)} · ${esc(r.flavour)}</span><h3>${esc(r.title)}</h3>
 <p class="card-meta">${mins(r.total_min)} · ${t.difficulty[r.difficulty]} · ${Math.round(r.nutrition_per_serving.kcal)} kcal</p>
 <p class="badges">${badges(ctx, r)}${r.dietTags.map(d => `<span class="badge diet">${t.diets[d]}</span>`).join('')}</p></div></a></li>`;
 }
@@ -55,27 +58,8 @@ ${nrow('kcal', Math.round(n.kcal), ' kcal')}${nrow('protein_g', n.protein_g, ' g
   }
   const allergens = r.allergenKeys.length
     ? `<ul class="chips">${r.allergenKeys.map(a => `<li>${t.allergens[a]}</li>`).join('')}</ul>` : `<p>${t.ui.noAllergens}</p>`;
-  const body = `<article class="recipe" itemscope>
-<div class="wrap">
-${crumbs(ctx, [['recipes/', t.ui.allRecipes], [`category/${r.category}/`, t.categories[r.category]], [null, r.title]])}
-<div class="r-top">
- <div class="r-intro">
-  <p class="kicker">${esc(t.categories[r.category])} · ${esc(r.cuisine)}</p>
-  <h1 class="r-title">${esc(r.title)}</h1>
-  <p class="lead">${esc(r.summary)}</p>
-  <dl class="facts"><div><dt>${t.ui.prep}</dt><dd>${mins(r.prep_min)}</dd></div><div><dt>${t.ui.cook}</dt><dd>${mins(r.cook_min)}</dd></div><div><dt>${t.ui.total}</dt><dd>${mins(r.total_min)}</dd></div><div><dt>${t.ui.difficulty}</dt><dd>${t.difficulty[r.difficulty]}</dd></div><div><dt>Per serving</dt><dd>${Math.round(n.kcal)} kcal</dd></div></dl>
-  <p class="badges">${badges(ctx, r)}${r.dietTags.map(d => `<span class="badge diet">${t.diets[d]}</span>`).join('')}</p>
-  <div class="r-actions">
-   <button type="button" class="btn sm fav-btn" data-slug="${r.slug}" aria-pressed="false"><span aria-hidden="true">♥</span> <span class="fav-label">${t.ui.save}</span></button>
-   <button type="button" class="btn ghost sm" id="cook-btn" aria-pressed="false">${t.ui.cookMode}</button>
-   <button type="button" class="btn ghost sm" id="print-btn">${t.ui.print}</button>
-  </div>
- </div>
- <div class="r-img">${img(ctx, r, '(min-width:1000px) 560px, 100vw', '', true)}</div>
-</div>
-${ad(ctx, 1)}
-<div class="r-body">
- <aside class="r-side">
+  const prem = r.access === 'premium';
+  const side = `<aside class="r-side">
   <section class="box ingredients" aria-labelledby="ing-h">
    <div class="ing-head"><h2 id="ing-h">${t.ui.ingredients}</h2>
     <div class="scaler" data-base="${r.servings}" role="group" aria-label="${t.ui.servings}"><button type="button" data-scale="-1" aria-label="Fewer servings">−</button><span><output id="servings" aria-live="polite">${r.servings}</output> <span class="mute">${t.ui.servings.toLowerCase()}</span></span><button type="button" data-scale="1" aria-label="More servings">+</button></div></div>
@@ -83,20 +67,49 @@ ${ad(ctx, 1)}
   </section>
   <section class="box" aria-labelledby="eq-h"><h2 id="eq-h">${t.ui.equipment}</h2><ul class="plain">${r.equipment.map(e => `<li>${esc(e)}</li>`).join('')}</ul></section>
   <section class="box allergens" aria-labelledby="al-h"><h2 id="al-h">${t.ui.allergens}</h2>${allergens}<p class="mute small">${t.ui.allergenNote}</p></section>
- </aside>
- <section class="r-method" aria-labelledby="m-h">
-  <h2 id="m-h">${t.ui.method}</h2>
-  <ol class="steps">${steps}</ol>
- </section>
+ </aside>`;
+  const method = `<section class="r-method" aria-labelledby="m-h"><h2 id="m-h">${t.ui.method}</h2><ol class="steps">${steps}</ol></section>`;
+  const extras = `<section class="box" aria-labelledby="tip-h"><h2 id="tip-h">${t.ui.tips}</h2><ul class="plain tips">${r.tips.map(x => `<li>${esc(x)}</li>`).join('')}</ul></section>
+ <section class="box" aria-labelledby="st-h"><h2 id="st-h">${t.ui.storage}</h2><p>${esc(r.storage)}</p></section>`;
+  // Premium (placeholder gating): ingredient names only, method hidden behind a lock card.
+  const lockedSide = `<aside class="r-side">
+  <section class="box ingredients" aria-labelledby="ing-h"><div class="ing-head"><h2 id="ing-h">${t.ui.ingredients}</h2><span class="badge prem">${LOCK}${t.ui.premium}</span></div>
+   <ul class="ings names">${r.ingredients.map(i => `<li class="ing"><span class="i">${esc(i.item)}</span></li>`).join('')}</ul></section>
+  <section class="box allergens" aria-labelledby="al-h"><h2 id="al-h">${t.ui.allergens}</h2>${allergens}<p class="mute small">${t.ui.allergenNote}</p></section>
+ </aside>`;
+  const lockCard = `<div class="lock-card"><span class="lock-ic">${LOCK}</span><h2>${t.ui.lockTitle}</h2><p>${t.ui.lockText}</p><p><a class="btn" href="${u('plans/')}">${t.ui.lockCta}</a></p><p class="mute small">${t.ui.lockSoon}</p></div>`;
+  const lockedMethod = `<section class="r-method locked" aria-labelledby="m-h"><h2 id="m-h">${t.ui.method}</h2>${lockCard}
+  <ol class="steps blurred" aria-hidden="true">${r.steps.map(() => `<li class="step"><h3>Step</h3><p>Premium members see the full method here, step by step, with timings and the details that make it work.</p></li>`).join('')}</ol></section>`;
+  const body = `<article class="recipe${prem ? ' is-locked' : ''}" itemscope>
+<div class="wrap">
+${crumbs(ctx, [[`chapter/${r.chapter}/`, t.chapters[r.chapter].name], [`dish/${r.dish}/`, r.dish_title], [null, r.flavour]])}
+<div class="r-top">
+ <div class="r-intro">
+  <p class="kicker"><a href="${u(`dish/${r.dish}/`)}">${esc(r.dish_title)}</a> · ${esc(r.flavour)} · ${esc(r.cuisine)}</p>
+  <h1 class="r-title">${esc(r.title)}</h1>
+  <p class="lead">${esc(r.summary)}</p>
+  <dl class="facts"><div><dt>${t.ui.prep}</dt><dd>${mins(r.prep_min)}</dd></div><div><dt>${t.ui.cook}</dt><dd>${mins(r.cook_min)}</dd></div><div><dt>${t.ui.total}</dt><dd>${mins(r.total_min)}</dd></div><div><dt>${t.ui.difficulty}</dt><dd>${t.difficulty[r.difficulty]}</dd></div><div><dt>Per serving</dt><dd>${Math.round(n.kcal)} kcal</dd></div></dl>
+  <p class="badges">${accessTag(ctx, r)}${badges(ctx, r)}${r.dietTags.map(d => `<span class="badge diet">${t.diets[d]}</span>`).join('')}</p>
+  <div class="r-actions">
+   <button type="button" class="btn sm fav-btn" data-slug="${r.slug}" aria-pressed="false"><span aria-hidden="true">♥</span> <span class="fav-label">${t.ui.save}</span></button>
+   <button type="button" class="btn ghost sm${prem ? ' premium-only' : ''}" id="cook-btn" aria-pressed="false">${t.ui.cookMode}</button>
+   <button type="button" class="btn ghost sm${prem ? ' premium-only' : ''}" id="print-btn">${t.ui.print}</button>
+  </div>
+ </div>
+ <div class="r-img">${img(ctx, r, '(min-width:1000px) 560px, 100vw', '', true)}</div>
+</div>
+${ad(ctx, 1)}
+<div class="r-body" id="r-body">
+ ${prem ? lockedSide + lockedMethod : side + method}
 </div>
 ${ad(ctx, 2)}
 <div class="r-more">
  <section class="box nutrition">${nutrition}</section>
  ${why}
- <section class="box" aria-labelledby="tip-h"><h2 id="tip-h">${t.ui.tips}</h2><ul class="plain tips">${r.tips.map(x => `<li>${esc(x)}</li>`).join('')}</ul></section>
- <section class="box" aria-labelledby="st-h"><h2 id="st-h">${t.ui.storage}</h2><p>${esc(r.storage)}</p></section>
+ ${prem ? '<div id="r-extras"></div>' : extras}
 </div>
-${related.length ? `<section class="related"><h2>${t.ui.moreIn} ${esc(t.categories[r.category])}</h2>${grid(ctx, related)}</section>` : ''}
+${prem ? `<template id="premium-full"><div data-into="r-body">${side}${method}</div><div data-into="r-extras">${extras}</div></template>` : ''}
+${related.length ? `<section class="related"><h2>${t.ui.moreIn} ${esc(r.dish_title)}</h2>${grid(ctx, related)}</section>` : ''}
 </div>
 <div class="cook-bar" id="cook-bar" hidden><button type="button" class="btn ghost sm" data-step="prev">${t.ui.prev}</button><span><b id="cook-pos"></b><small id="cook-status"></small></span><button type="button" class="btn sm" data-step="next">${t.ui.next}</button><button type="button" class="icon-btn" data-step="exit" aria-label="${t.ui.exit}">✕</button></div>
 </article>`;
@@ -108,23 +121,77 @@ ${related.length ? `<section class="related"><h2>${t.ui.moreIn} ${esc(t.categori
     prepTime: iso(r.prep_min), cookTime: iso(r.cook_min), totalTime: iso(r.total_min),
     keywords: [...r.dietTags.map(d => t.diets[d]), H.highProtein.pass && 'high protein'].filter(Boolean).join(', ') || undefined,
     suitableForDiet: r.dietTags.filter(d => diets[d]).map(d => `https://schema.org/${diets[d]}`),
-    recipeIngredient: r.ingredients.map(i => (i.unit === 'to taste' ? `${i.item}, to taste` : `${formatQty(i.qty, i.unit)} ${i.item}`) + (i.note ? ` (${i.note})` : '')),
-    recipeInstructions: r.steps.map((s, i) => ({ '@type': 'HowToStep', name: s.title, text: s.text, url: ctx.abs(r.url) + `#step-${i + 1}` })),
+    recipeIngredient: prem ? r.ingredients.map(i => i.item) : r.ingredients.map(i => (i.unit === 'to taste' ? `${i.item}, to taste` : `${formatQty(i.qty, i.unit)} ${i.item}`) + (i.note ? ` (${i.note})` : '')),
+    recipeInstructions: prem ? undefined : r.steps.map((s, i) => ({ '@type': 'HowToStep', name: s.title, text: s.text, url: ctx.abs(r.url) + `#step-${i + 1}` })),
     nutrition: { '@type': 'NutritionInformation', servingSize: '1 serving', calories: `${Math.round(n.kcal)} kcal`, proteinContent: `${n.protein_g} g`, carbohydrateContent: `${n.carbs_g} g`, sugarContent: `${n.sugar_g} g`, fatContent: `${n.fat_g} g`, saturatedFatContent: `${n.satfat_g} g`, fiberContent: `${n.fibre_g} g`, sodiumContent: `${Math.round(n.salt_g * 400)} mg` },
     tool: r.equipment.map(e => ({ '@type': 'HowToTool', name: e }))
   };
   if (!jsonld.suitableForDiet.length) delete jsonld.suitableForDiet;
+  if (prem) jsonld.isAccessibleForFree = false;
   return { path: r.url, title: r.title, description: r.summary, image: r.img && r.img.w1200, ogType: 'article', body, jsonld, bodyClass: 'page-recipe', scripts: [ctx.assets.js.recipe] };
 }
 
+
+// ---------------- chapters and dishes ----------------
+const dishImg = (ctx, d) => d.cover ? img(ctx, d.cover, '(min-width:1000px) 360px, (min-width:640px) 45vw, 92vw', '', false) : `<img src="${ctx.u(`img/ph/${d.flavours[0].category}.svg`)}" alt="" width="1200" height="900" loading="lazy" decoding="async">`;
+function dishCard(ctx, d) {
+  const { t, u } = ctx, n = d.flavours.length, kc = d.flavours.map(r => Math.round(r.nutrition_per_serving.kcal));
+  const range = Math.min(...kc) === Math.max(...kc) ? `${kc[0]} kcal` : `${Math.min(...kc)}–${Math.max(...kc)} kcal`;
+  return `<li class="card dish-card reveal"><a href="${u(`dish/${d.slug}/`)}"><div class="card-img">${dishImg(ctx, d)}</div>
+<div class="card-body"><span class="kicker">${n} ${n === 1 ? t.ui.flavour : t.ui.flavours}</span><h3>${esc(d.title)}</h3><p class="card-meta">${range} · from ${mins(Math.min(...d.flavours.map(r => r.total_min)))}</p>
+<p class="badges">${d.flavours.some(r => r.access === 'free') ? `<span class="badge free">${t.ui.free} classic</span>` : ''}${d.flavours.some(r => r.access === 'premium') ? `<span class="badge prem">${LOCK}${d.flavours.filter(r => r.access === 'premium').length} premium</span>` : ''}</p></div></a></li>`;
+}
+function flavourCard(ctx, r) {
+  const { t, u } = ctx, n = r.nutrition_per_serving, prem = r.access === 'premium';
+  return `<li class="card flavour-card reveal${prem ? ' is-prem' : ''}" data-slug="${r.slug}"><a href="${u(r.url)}"><div class="card-img">${img(ctx, r, '(min-width:1000px) 360px, (min-width:640px) 45vw, 92vw', '', false)}<span class="fav-dot" aria-hidden="true">♥</span>${prem ? `<span class="lock-dot">${LOCK}<span class="sr">${t.ui.premium}</span></span>` : ''}</div>
+<div class="card-body"><span class="kicker">${prem ? t.ui.premium : t.ui.free}</span><h3>${esc(r.flavour)}</h3>
+<p class="nbadge"><b>${Math.round(n.kcal)}</b> kcal <i></i> <b>${Math.round(n.protein_g)} g</b> protein</p>
+<p class="card-meta">${mins(r.total_min)} · ${t.difficulty[r.difficulty]}</p>
+<p class="badges">${badges(ctx, r)}${r.dietTags.map(d => `<span class="badge diet">${t.diets[d]}</span>`).join('')}</p></div></a></li>`;
+}
+function chapterNav(ctx, chapters, current) {
+  const { t, u } = ctx;
+  return `<nav class="ch-nav" aria-label="${t.ui.chapters}">${['salty', 'sweet', 'more'].map(g => {
+    const list = chapters.filter(c => c.group === g); if (!list.length) return '';
+    return `<span class="ch-group">${g === 'more' ? '' : `<b>${t.groups[g]}</b>`}${list.map(c => `<a href="${u(`chapter/${c.key}/`)}"${c.key === current ? ' aria-current="page"' : ''}>${t.chapters[c.key].name}</a>`).join('')}</span>`;
+  }).join('')}</nav>`;
+}
+function chapterPage(ctx, ch, chapters) {
+  const { t, u } = ctx, c = t.chapters[ch.key], nR = ch.dishes.reduce((a, d) => a + d.flavours.length, 0);
+  const body = `${pageHead(`// ${t.groups[ch.group]} · ${ch.dishes.length} dish${ch.dishes.length === 1 ? '' : 'es'} · ${nR} recipe${nR === 1 ? '' : 's'}`, esc(c.name), esc(c.intro))}
+<div class="wrap">
+${chapterNav(ctx, chapters, ch.key)}
+${ad(ctx, 1)}
+<ul class="cards dishes">${ch.dishes.map(d => dishCard(ctx, d)).join('')}</ul>
+${ad(ctx, 2)}
+</div>`;
+  return { path: `chapter/${ch.key}/`, title: c.name, description: `${c.name}: ${c.intro}`, body };
+}
+function dishPage(ctx, d, ch) {
+  const { t, u } = ctx, nF = d.flavours.length;
+  const others = ch.dishes.filter(x => x !== d).slice(0, 3);
+  const body = `<div class="wrap">${crumbs(ctx, [[`chapter/${ch.key}/`, t.chapters[ch.key].name], [null, d.title]])}</div>
+${pageHead(`// ${esc(t.chapters[ch.key].name)} · ${nF} ${nF === 1 ? t.ui.flavour : t.ui.flavours}`, esc(d.title), esc(d.intro))}
+<div class="wrap">
+<h2 class="sec-h">${t.ui.chooseFlavour}</h2>
+<ul class="cards flavours">${d.flavours.map(r => flavourCard(ctx, r)).join('')}</ul>
+${d.flavours.some(r => r.access === 'premium') ? `<p class="prem-note">${LOCK} <span>Flavours marked with a lock are part of <a href="${u('plans/')}">Premium</a> (coming soon). The first flavour of every dish is free.</span></p>` : ''}
+${ad(ctx, 1)}
+${others.length ? `<section class="related"><h2>${t.ui.otherDishes} ${esc(t.chapters[ch.key].name)}</h2><ul class="cards dishes">${others.map(x => dishCard(ctx, x)).join('')}</ul></section>` : ''}
+${ad(ctx, 2)}
+</div>`;
+  return { path: `dish/${d.slug}/`, title: `${d.title}: ${nF} ${nF === 1 ? t.ui.flavour : t.ui.flavours}`, description: d.intro, body, image: d.cover && d.cover.img && d.cover.img.w1200 };
+}
+
 // ---------------- list pages ----------------
-function allRecipesPage(ctx, recipes, cats) {
+function allRecipesPage(ctx, recipes, cats, chapters) {
   const { t } = ctx;
   const diets = ['vegetarian', 'vegan', 'gluten-free', 'dairy-free', 'sugar-free'];
   const body = `${pageHead('// ' + recipes.length + ' ' + t.ui.recipesCount, t.ui.allRecipes, 'Search everything, or narrow it down by category, diet, time and difficulty. Every recipe is metric with nutrition per serving.')}
 <div class="wrap">
 <form id="filters" class="filters" role="search">
  <label class="f-q"><span class="sr">${t.ui.search}</span><input id="q" type="search" placeholder="${t.ui.searchPh}" autocomplete="off" aria-label="${t.ui.search}"></label>
+ <label><span>${t.ui.chapters.replace(/s$/, '')}</span><select id="f-ch"><option value="">${t.ui.any}</option>${chapters.map(c => `<option value="${c.key}">${t.chapters[c.key].name}</option>`).join('')}</select></label>
  <label><span>${t.ui.category}</span><select id="f-cat"><option value="">${t.ui.allCats}</option>${cats.map(c => `<option value="${c.key}">${t.categories[c.key]} (${c.list.length})</option>`).join('')}</select></label>
  <label><span>${t.ui.time}</span><select id="f-time"><option value="">${t.ui.any}</option><option value="20">≤ 20 min</option><option value="30">≤ 30 min</option><option value="45">≤ 45 min</option><option value="60">≤ 1 hour</option></select></label>
  <label><span>${t.ui.difficulty}</span><select id="f-diff"><option value="">${t.ui.any}</option><option value="easy">${t.difficulty.easy}</option><option value="medium">${t.difficulty.medium}</option><option value="hard">${t.difficulty.hard}</option></select></label>
@@ -245,21 +312,22 @@ ${ad(ctx, 2)}
 function plansPage(ctx) {
   const { u } = ctx;
   const li = a => a.map(x => `<li>${x}</li>`).join('');
-  const body = `${pageHead('// Plans', 'Free vs Premium', 'Everything you need to cook is free. Premium will add an AI cooking assistant and remove ads. No payments are taken yet.')}
+  const body = `${pageHead('// Plans', 'Free vs Premium', 'Every dish has a free classic flavour, in full. Premium unlocks every other flavour, the High Protein and WHO Healthy versions, the AI cooking assistant, and removes ads. No payments are taken yet.')}
 <div class="wrap">
 <div class="plans">
- <section class="plan reveal"><h2>Free</h2><p class="price">€0 <small>forever</small></p><ul class="ticks">${li(['Every recipe, with metric units', 'Servings scaler and cook mode', 'Nutrition, allergens and diet tags', 'High Protein and WHO Healthy sections', 'Favourites saved on this device', 'Supported by ads'])}</ul><a class="btn ghost" href="${u('recipes/')}">Start cooking</a></section>
- <section class="plan premium reveal"><p class="kicker">// Coming soon</p><h2>Premium</h2><p class="price">Price TBC</p><ul class="ticks">${li(['Everything in Free, <b>without ads</b>', '<b>AI cooking assistant</b>: ask about substitutions, timings, scaling and what to do when something goes wrong, while you cook', 'Favourites synced across your devices', 'Weekly meal plans and shopping lists', 'Early access to new recipes'])}</ul><button type="button" class="btn" disabled aria-disabled="true">Coming soon</button><p class="mute small">Checkout will be handled by Lemon Squeezy (planned). Nothing can be bought yet.</p></section>
+ <section class="plan reveal"><h2>Free</h2><p class="price">€0 <small>forever</small></p><ul class="ticks">${li(['The first (classic) flavour of every dish, in full', 'All chapter and dish pages', 'Search and filters across every recipe', 'Nutrition, allergens and diet tags on every flavour', 'Servings scaler and cook mode', 'Favourites saved on this device', 'Supported by ads'])}</ul><a class="btn ghost" href="${u('recipes/')}">Start cooking</a></section>
+ <section class="plan premium reveal"><p class="kicker">// Coming soon</p><h2>Premium</h2><p class="price">Price TBC</p><ul class="ticks">${li(['Everything in Free', '<b>Every flavour</b> of every dish, with full quantities and method', 'The <b>High Protein</b> and <b>WHO Healthy</b> versions', '<b>AI cooking assistant</b> (later): swaps, timings, scaling and fixes while you cook', '<b>No ads</b>'])}</ul><button type="button" class="btn" disabled aria-disabled="true">Coming soon</button><p class="mute small">Checkout will be handled by Lemon Squeezy (planned). Nothing can be bought yet.</p></section>
 </div>
 ${ad(ctx, 1)}
 <section class="box faq"><h2>Questions</h2>
 <details><summary>Can I pay now?</summary><p>No. Premium isn't available yet and there is no checkout on the site. The buttons are placeholders.</p></details>
-<details><summary>Will the free recipes stay free?</summary><p>Yes. Recipes, the scaler, cook mode and nutrition stay free.</p></details>
+<details><summary>What can I see on a Premium flavour without Premium?</summary><p>The photo, the intro, the ingredient names, the nutrition per serving and the healthy checks. The quantities, the method, tips and storage are for members.</p></details>
+<details><summary>Will the free recipes stay free?</summary><p>Yes. The classic flavour of every dish, the chapter and dish pages, search, nutrition, cook mode and the scaler stay free.</p></details>
 <details><summary>What will the AI assistant do?</summary><p>Answer questions about the recipe you're cooking: swaps for missing ingredients, how to scale, timing, and fixes. Its answers are suggestions; always use your own judgement on food safety and allergies.</p></details>
 </section>
 ${ad(ctx, 2)}
 </div>`;
-  return { path: 'plans/', title: 'Plans: Free vs Premium', description: 'Free recipes for everyone. Premium (coming soon) adds an AI cooking assistant and no ads.', body };
+  return { path: 'plans/', title: 'Plans: Free vs Premium', description: 'The classic flavour of every dish is free. Premium (coming soon) unlocks every flavour, the healthy versions, the AI assistant and no ads.', body };
 }
 function simplePage(ctx, path, title, html, description) {
   const parts = html.split(/(?=<h2)/);
@@ -268,4 +336,4 @@ function simplePage(ctx, path, title, html, description) {
   return { path, title, description, body };
 }
 
-module.exports = { grid, recipePage, allRecipesPage, categoryPage, highProteinPage, whoPage, homePage, plansPage, simplePage, WHO_LINKS };
+module.exports = { chapterPage, dishPage, chapterNav, dishCard, LOCK, grid, recipePage, allRecipesPage, categoryPage, highProteinPage, whoPage, homePage, plansPage, simplePage, WHO_LINKS };

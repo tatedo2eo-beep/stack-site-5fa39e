@@ -4,6 +4,8 @@
 
 const CATEGORIES = ['burgers-sandwiches', 'chicken', 'beef-lamb', 'fish-seafood', 'pasta-noodles', 'rice-grains',
   'vegetarian', 'salads-bowls', 'soups-stews', 'breakfast', 'snacks-sides', 'desserts', 'drinks'];
+const CHAPTERS = ['burgers', 'chicken', 'pasta', 'cookies-bars-brownies', 'cakes-cupcakes', 'more'];
+const ACCESS = ['free', 'premium'];
 const DIFFICULTY = ['easy', 'medium', 'hard'];
 const DIETS = ['gluten-free', 'dairy-free', 'vegetarian', 'vegan', 'sugar-free'];
 const NUTR = ['kcal', 'protein_g', 'carbs_g', 'sugar_g', 'free_sugar_g', 'fat_g', 'satfat_g', 'salt_g', 'fibre_g'];
@@ -89,6 +91,18 @@ function hit(rules, s) { return (rules || []).some(({ re, ex }) => re.test(s) &&
 const DIET_ALIASES = { 'no-added-sugar': 'sugar-free', 'no added sugar': 'sugar-free', 'gluten free': 'gluten-free', 'dairy free': 'dairy-free', 'glutenfree': 'gluten-free' };
 function normDiet(r) { if (Array.isArray(r.diet)) r.diet = [...new Set(r.diet.map(d => DIET_ALIASES[String(d).toLowerCase()] || String(d).toLowerCase()))]; return r; }
 
+// Recipes written before chapters existed: fill chapter/dish/flavour from a map, else safe defaults (warning).
+function applyChapterDefaults(r, map) {
+  const W = [], m = (map || {})[r.slug];
+  if (r.chapter && r.dish && r.dish_title && r.flavour) return W;
+  if (m) { const [chapter, dish, dish_title, flavour] = m; r.chapter = r.chapter || chapter; r.dish = r.dish || dish; r.dish_title = r.dish_title || dish_title; r.flavour = r.flavour || flavour; W.push('chapter/dish/flavour taken from tools/chapter-map.json; add them to the JSON'); }
+  if (!r.chapter || !r.dish || !r.dish_title || !r.flavour) {
+    W.push(`missing ${['chapter', 'dish', 'dish_title', 'flavour'].filter(k => !r[k]).join(', ')}; filed under "more" as its own dish`);
+    r.chapter = r.chapter || 'more'; r.dish = r.dish || r.slug; r.dish_title = r.dish_title || r.title; r.flavour = r.flavour || 'Classic';
+  }
+  return W;
+}
+
 // ---------- validation ----------
 function validate(r, file) {
   normDiet(r);
@@ -150,10 +164,41 @@ function validate(r, file) {
       if (dev > 0.15) W.push(`kcal ${n.kcal} vs ${Math.round(est)} from macros (${Math.round(dev * 100)}% off) - check nutrition`);
     }
   }
+  // chapter -> dish -> flavour
+  req('chapter', CHAPTERS.includes(r.chapter), `one of ${CHAPTERS.join(', ')}`);
+  req('dish', isStr(r.dish) && /^[a-z0-9]+(-[a-z0-9]+)*$/.test(r.dish), 'lowercase-kebab dish slug required');
+  req('dish_title', isStr(r.dish_title), 'required');
+  req('flavour', isStr(r.flavour), 'required (e.g. "Classic")');
+  if (r.access !== undefined && r.access !== null && !ACCESS.includes(r.access)) E.push('access: "free" or "premium"');
+  if (r.flavour_order !== undefined && !isNum(r.flavour_order)) E.push('flavour_order: number');
   req('nutrition_source', isStr(r.nutrition_source), 'required');
   req('image', r.image === null || isStr(r.image), 'string or null');
   req('image_alt', isStr(r.image_alt) || r.image === null, 'required when image is set');
   return { errors: E, warnings: W };
+}
+
+function validateDish(d, file) {
+  const E = [];
+  const isStr = v => typeof v === 'string' && v.trim().length > 0;
+  if (!isStr(d.slug) || !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(d.slug)) E.push('slug: lowercase-kebab string required');
+  if (file && d.slug && !file.endsWith(`${d.slug}.json`)) E.push(`file name should be ${d.slug}.json`);
+  if (!isStr(d.title)) E.push('title: required');
+  if (!CHAPTERS.includes(d.chapter)) E.push(`chapter: one of ${CHAPTERS.join(', ')}`);
+  if (!isStr(d.intro)) E.push('intro: required');
+  if (d.image !== undefined && d.image !== null && !isStr(d.image)) E.push('image: string or null');
+  return E;
+}
+
+// Flavour order inside a dish: flavour_order, then "Classic", then title. The first flavour is free unless the
+// recipe says otherwise; every other flavour defaults to premium. An explicit "access" always wins.
+function orderFlavours(list) {
+  return list.slice().sort((a, b) => (a.flavour_order ?? 999) - (b.flavour_order ?? 999)
+    || (/^classic/i.test(b.flavour) - /^classic/i.test(a.flavour)) || a.title.localeCompare(b.title));
+}
+function assignAccess(list) {
+  const ordered = orderFlavours(list);
+  ordered.forEach((r, i) => { r.access = r.access === 'free' || r.access === 'premium' ? r.access : (i === 0 ? 'free' : 'premium'); });
+  return ordered;
 }
 
 // Allergens: declared + auto-detected strong hits. Returns {list, added, maybe}
@@ -229,4 +274,4 @@ function health(r) {
   return { highProtein, who };
 }
 
-module.exports = { CATEGORIES, DIETS, ALLERGEN_KEYS, validate, checkAllergens, checkDiet, health, vegGramsPerServing, HP_MIN, MEAL_SALT_MAX };
+module.exports = { applyChapterDefaults, CHAPTERS, validateDish, orderFlavours, assignAccess, CATEGORIES, DIETS, ALLERGEN_KEYS, validate, checkAllergens, checkDiet, health, vegGramsPerServing, HP_MIN, MEAL_SALT_MAX };

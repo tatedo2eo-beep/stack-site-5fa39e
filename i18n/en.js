@@ -8,6 +8,15 @@ module.exports = {
     vegetarian: 'Vegetarian', 'salads-bowls': 'Salads & bowls', 'soups-stews': 'Soups & stews',
     breakfast: 'Breakfast', 'snacks-sides': 'Snacks & sides', desserts: 'Desserts', drinks: 'Drinks'
   },
+  groups: { salty: 'Salty', sweet: 'Sweet', more: 'More' },
+  chapters: {
+    burgers: { name: 'Burgers', intro: 'Smash burgers, chicken burgers and everything in a bun. Pick a dish, then pick your flavour.' },
+    chicken: { name: 'Chicken', intro: 'Weeknight chicken that is big on flavour: skillets, curries, bowls and salads.' },
+    pasta: { name: 'Pasta', intro: 'Quick pasta dinners with proper sauces, measured in grams so they come out right every time.' },
+    'cookies-bars-brownies': { name: 'Cookies, bars & brownies', intro: 'Chewy cookies, fudgy brownies and traybakes, weighed for reliable results.' },
+    'cakes-cupcakes': { name: 'Cakes & cupcakes', intro: 'Loaf cakes, layer cakes and cupcakes. Bake by weight and they work.' },
+    more: { name: 'More recipes', intro: 'Breakfasts, soups, sides, drinks and more, while the next chapters are being written.' }
+  },
   diets: { 'gluten-free': 'Gluten-free', 'dairy-free': 'Dairy-free', vegetarian: 'Vegetarian', vegan: 'Vegan', 'sugar-free': 'No added sugar' },
   difficulty: { easy: 'Easy', medium: 'Medium', hard: 'Hard' },
   allergens: {
@@ -28,6 +37,9 @@ module.exports = {
     allCats: 'All categories', time: 'Total time', diet: 'Diet', favOnly: 'My favourites only', clear: 'Clear filters',
     noResults: 'No recipes match those filters yet.', recipesCount: 'recipes', theme: 'Theme', menu: 'Menu',
     seeAll: 'See all recipes →', comingSoon: 'Coming soon', draft: 'Draft', placeholder: 'Placeholder',
-    prev: '← Prev', next: 'Next →', exit: 'Exit cook mode', moreIn: 'More in', backTo: 'Back to'
+    prev: '← Prev', chapters: 'Chapters', flavours: 'flavours', flavour: 'flavour', free: 'Free', premium: 'Premium',
+    lockTitle: 'Unlock all flavours with Premium', lockText: 'This flavour is part of Premium. You can see the ingredients and nutrition; the quantities and the full method are for members.',
+    lockCta: 'See Premium', lockSoon: 'Premium is coming soon. No payments are taken yet.', previewOn: 'Premium preview is on (test only).', previewOff: 'Turn off',
+    chooseFlavour: 'Choose your flavour', otherDishes: 'More dishes in', next: 'Next →', exit: 'Exit cook mode', moreIn: 'More in', backTo: 'Back to'
   }
 };

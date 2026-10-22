@@ -14,6 +14,7 @@ const OUT = path.join(ROOT, cfg.outDir);
 const C = { red: s => `\x1b[31m${s}\x1b[0m`, yel: s => `\x1b[33m${s}\x1b[0m`, grn: s => `\x1b[32m${s}\x1b[0m` };
 
 // ---------- load + validate ----------
+const CHAPTER_MAP = fs.existsSync(path.join(ROOT, 'tools/chapter-map.json')) ? require(path.join(ROOT, 'tools/chapter-map.json')) : {};
 function loadRecipes() {
   const dir = path.join(ROOT, 'content/recipes');
   const files = fs.readdirSync(dir).filter(f => f.endsWith('.json')).sort();
@@ -22,7 +23,9 @@ function loadRecipes() {
     let r;
     try { r = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')); }
     catch (e) { console.log(C.red(`✗ ${f}: invalid JSON: ${e.message}`)); errors++; continue; }
+    const pre = R.applyChapterDefaults(r, CHAPTER_MAP);
     const v = R.validate(r, f);
+    v.warnings.push(...pre);
     if (r.slug && slugs.has(r.slug)) v.errors.push(`duplicate slug "${r.slug}"`);
     slugs.add(r.slug);
     if (r.image && !fs.existsSync(path.join(ROOT, 'content/images', r.image))) v.errors.push(`image "${r.image}" not found in content/images/`);
@@ -40,8 +43,24 @@ function loadRecipes() {
     v.warnings.forEach(w => console.log(C.yel(`! ${f}: ${w}`)));
     errors += v.errors.length; warnings += v.warnings.length;
   }
+  // dishes: content/dishes/<slug>.json; a recipe whose dish has no file gets one made from dish_title (warning)
+  const ddir = path.join(ROOT, 'content/dishes'); const dishes = new Map();
+  if (fs.existsSync(ddir)) for (const f of fs.readdirSync(ddir).filter(f => f.endsWith('.json')).sort()) {
+    let d; try { d = JSON.parse(fs.readFileSync(path.join(ddir, f), 'utf8')); } catch (e) { console.log(C.red(`✗ dishes/${f}: invalid JSON`)); errors++; continue; }
+    const de = R.validateDish(d, f); de.forEach(e => console.log(C.red(`✗ dishes/${f}: ${e}`))); errors += de.length;
+    if (d.image && !fs.existsSync(path.join(ROOT, 'content/images', d.image))) { console.log(C.red(`✗ dishes/${f}: image "${d.image}" not found`)); errors++; }
+    if (!de.length) dishes.set(d.slug, { ...d, flavours: [] });
+  }
+  for (const r of out) {
+    if (!dishes.has(r.dish)) { dishes.set(r.dish, { slug: r.dish, title: r.dish_title, chapter: r.chapter, intro: r.summary, image: null, flavours: [] }); console.log(C.yel(`! ${r.slug}.json: no content/dishes/${r.dish}.json, using dish_title and summary`)); warnings++; }
+    const d = dishes.get(r.dish);
+    if (d.chapter !== r.chapter) { console.log(C.yel(`! ${r.slug}.json: chapter "${r.chapter}" differs from dish "${d.slug}" chapter "${d.chapter}"; using the dish's`)); warnings++; r.chapter = d.chapter; }
+    if (d.flavours.some(x => x.flavour.toLowerCase() === r.flavour.toLowerCase())) { console.log(C.red(`✗ ${r.slug}.json: dish "${r.dish}" already has a flavour "${r.flavour}"`)); errors++; }
+    d.flavours.push(r);
+  }
+  for (const d of dishes.values()) d.flavours = R.assignAccess(d.flavours);
   console.log(`${files.length} recipe file(s): ${errors ? C.red(errors + ' error(s)') : C.grn('0 errors')}, ${warnings} warning(s)`);
-  return { recipes: out, errors, warnings };
+  return { recipes: out, dishes: [...dishes.values()].filter(d => d.flavours.length), errors, warnings };
 }
 
 // ---------- assets ----------
@@ -98,7 +117,7 @@ function placeholderSvg(label) {
 
 // ---------- main ----------
 (async () => {
-  const { recipes, errors, warnings } = loadRecipes();
+  const { recipes, dishes, errors, warnings } = loadRecipes();
   if (errors || (STRICT && warnings)) { console.log(C.red('Build stopped: fix the recipe errors above.')); process.exit(1); }
   if (VALIDATE_ONLY) return;
   fs.rmSync(OUT, { recursive: true, force: true }); fs.mkdirSync(OUT, { recursive: true });
@@ -115,6 +134,9 @@ function placeholderSvg(label) {
     r.mtime = fs.statSync(path.join(rdir, `${r.slug}.json`)).mtimeMs;
   }
   recipes.sort((a, b) => b.mtime - a.mtime || a.title.localeCompare(b.title));
+  for (const d of dishes) { d.cover = d.image ? null : d.flavours.find(r => r.img) || null; }
+  await buildImages(dishes.filter(d => d.image).map(d => { const o = { slug: 'dish-' + d.slug, image: d.image }; d.cover = o; o.image_alt = d.title; return o; }));
+  const chapters = cfg.chapters.map(c => ({ ...c, dishes: dishes.filter(d => d.chapter === c.key).sort((a, b) => b.flavours.length - a.flavours.length || a.title.localeCompare(b.title)) })).filter(c => c.dishes.length);
   const cats = R.CATEGORIES.map(key => ({ key, list: recipes.filter(r => r.category === key) })).filter(c => c.list.length);
   const hp = recipes.filter(r => r.health.highProtein.pass).sort((a, b) => b.health.highProtein.value - a.health.highProtein.value);
   const who = recipes.filter(r => r.health.who.pass);
@@ -122,8 +144,8 @@ function placeholderSvg(label) {
   const locales = cfg.locales.map(code => ({ code, prefix: code === cfg.locales[0] ? '' : code + '/', t: require(path.join(ROOT, 'i18n', code + '.js')) }));
   const pages = [];
   for (const L of locales) {
-    const ctx = {
-      cfg, t: L.t, assets, locales,
+    let ctx; ctx = {
+      cfg, t: L.t, assets, locales, chapters, chapterNav: k => P.chapterNav(ctx, chapters, k),
       u: p => cfg.basePath + L.prefix + p,
       abs: p => cfg.siteUrl + cfg.basePath + (p.startsWith('img/') || p.startsWith('media/') ? '' : L.prefix) + p,
       absFor: (l, p) => cfg.siteUrl + cfg.basePath + l.prefix + p
@@ -133,12 +155,14 @@ function placeholderSvg(label) {
       const rel = L.prefix + (file || (page.path ? page.path + 'index.html' : 'index.html'));
       writeFile(rel, html); pages.push({ rel, loc: page.path === null ? null : ctx.abs(page.path), bytes: Buffer.byteLength(html) });
     };
-    emit(require('./templates/home').homePage(ctx, P, recipes, cats, { hp: hp.length, who: who.length }));
-    emit(P.allRecipesPage(ctx, recipes, cats));
+    emit(require('./templates/home').homePage(ctx, P, recipes, chapters, { hp: hp.length, who: who.length }));
+    for (const ch of chapters) emit({ ...P.chapterPage(ctx, ch, chapters), chapterKey: ch.key });
+    for (const ch of chapters) for (const d of ch.dishes) emit({ ...P.dishPage(ctx, d, ch), chapterKey: ch.key });
+    emit(P.allRecipesPage(ctx, recipes, cats, chapters));
     for (const c of cats) emit(P.categoryPage(ctx, c.key, c.list, cats));
     for (const r of recipes) {
-      const related = recipes.filter(x => x !== r && x.category === r.category).slice(0, 3);
-      emit(P.recipePage(ctx, r, related));
+      const related = dishes.find(d => d.slug === r.dish).flavours.filter(x => x !== r).slice(0, 3);
+      emit({ ...P.recipePage(ctx, r, related), chapterKey: r.chapter });
     }
     emit(P.highProteinPage(ctx, hp, R.HP_MIN));
     emit(P.whoPage(ctx, who, recipes.length));
@@ -163,6 +187,6 @@ function placeholderSvg(label) {
   writeFile('robots.txt', cfg.noindex ? `# TEST deployment: keep crawlers out. Flip noindex in site.config.js at launch.\nUser-agent: *\nDisallow: /\n` : `User-agent: *\nAllow: /\nSitemap: ${cfg.siteUrl}${cfg.basePath}sitemap.xml\n`);
   writeFile('.nojekyll', '');
   const rp = pages.filter(p => /^recipes\/[^/]+\/index\.html$/.test(p.rel));
-  console.log(C.grn(`Built ${pages.length} pages into ${cfg.outDir}/ (${recipes.length} recipes, ${cats.length} categories, ${hp.length} high-protein, ${who.length} WHO healthy).`));
+  console.log(C.grn(`Built ${pages.length} pages into ${cfg.outDir}/ (${recipes.length} recipes, ${dishes.length} dishes in ${chapters.length} chapters, ${recipes.filter(r => r.access === 'premium').length} premium, ${cats.length} categories, ${hp.length} high-protein, ${who.length} WHO healthy).`));
   if (rp.length) console.log(`Largest recipe HTML: ${Math.max(...rp.map(p => p.bytes))} bytes`);
 })().catch(e => { console.error(e); process.exit(1); });

@@ -9,6 +9,7 @@ function layout(ctx, p) {
   const canonical = abs(p.path);
   const ogImg = p.image ? abs(p.image) : abs('img/og.png');
   const navItems = [['', t.nav.home], ['recipes/', t.nav.recipes], ['high-protein/', t.nav.protein], ['who-healthy/', t.nav.who], ['plans/', t.nav.plans]];
+  const chapterLinks = ctx.chapters.map(c => `<a class="nav-ch" href="${u(`chapter/${c.key}/`)}"${p.path === `chapter/${c.key}/` ? ' aria-current="page"' : ''}>${t.chapters[c.key].name}</a>`).join('');
   const nav = navItems.map(([h, l]) => `<a href="${u(h)}"${p.path === h ? ' aria-current="page"' : ''}>${l}</a>`).join('');
   const themes = cfg.themes.map(th => `<button type="button" role="menuitemradio" data-theme-id="${th.id}" aria-checked="false"><i class="sw sw-${th.id}"></i>${esc(th.name)}<small>${th.dark ? 'dark' : 'light'}</small></button>`).join('');
   const alt = ctx.locales.length > 1 ? ctx.locales.map(l => `<link rel="alternate" hreflang="${l.code}" href="${ctx.absFor(l, p.path)}">`).join('') : '';
@@ -23,7 +24,7 @@ ${cfg.noindex ? '<meta name="robots" content="noindex,nofollow">\n' : ''}<link r
 <meta property="og:site_name" content="${esc(cfg.brand)}"><meta property="og:type" content="${p.ogType || 'website'}"><meta property="og:title" content="${esc(p.title || cfg.brand)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${canonical}"><meta property="og:image" content="${ogImg}"><meta property="og:locale" content="${t.ogLocale}"><meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#0b0a08">
 <link rel="icon" href="${u('favicon.svg')}" type="image/svg+xml">
-<script>document.documentElement.classList.replace('no-js','js');try{var t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+<script>(function(h){h.classList.replace('no-js','js');try{var t=localStorage.getItem('theme');if(t)h.dataset.theme=t;var q=location.search.match(/[?&]preview=(premium|off)/);if(q){if(q[1]=='off')localStorage.removeItem('preview');else localStorage.setItem('preview','premium')}if(localStorage.getItem('preview')=='premium')h.classList.add('is-premium')}catch(e){}})(document.documentElement)</script>
 <link rel="stylesheet" href="${assets.css}">
 ${p.head || ''}${p.jsonld ? `<script type="application/ld+json">${JSON.stringify(p.jsonld).replace(/</g, '\\u003c')}</script>` : ''}
 </head>
@@ -32,7 +33,7 @@ ${p.head || ''}${p.jsonld ? `<script type="application/ld+json">${JSON.stringify
 <header class="site-head${p.overlayHeader ? ' over' : ''}">
  <div class="wrap head-in">
   <a class="brand" href="${u('')}">${cfg.brandHtml}</a>
-  <nav class="main-nav" id="main-nav" aria-label="Main">${nav}</nav>
+  <nav class="main-nav" id="main-nav" aria-label="Main">${nav}<span class="nav-chs"><b>${t.ui.chapters}</b>${chapterLinks}</span></nav>
   <div class="head-actions">
    <a class="icon-btn" href="${u('login/')}" aria-label="${t.nav.login}" title="${t.nav.login}"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="12" cy="8" r="4" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></a>
    <div class="theme-pick"><button type="button" class="icon-btn" id="theme-btn" aria-haspopup="true" aria-expanded="false" aria-controls="theme-menu" title="${t.ui.theme}"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor"/></svg><span class="sr">${t.ui.theme}</span></button>
@@ -41,12 +42,14 @@ ${p.head || ''}${p.jsonld ? `<script type="application/ld+json">${JSON.stringify
   </div>
  </div>
 </header>
+${p.overlayHeader ? '' : `<div class="ch-bar"><div class="wrap">${ctx.chapterNav(p.chapterKey)}</div></div>`}
 <main id="main">
 ${p.body}
 </main>
 <footer class="site-foot"><div class="wrap">
  <div class="foot-grid">
   <div><a class="brand" href="${u('')}">${cfg.brandHtml}</a><p class="mute">${esc(cfg.tagline)}. Metric measurements, nutrition per serving, no life stories.</p></div>
+  <nav aria-label="${t.ui.chapters}"><b>${t.ui.chapters}</b>${ctx.chapters.map(c => `<a href="${u(`chapter/${c.key}/`)}">${t.chapters[c.key].name}</a>`).join('')}</nav>
   <nav aria-label="Recipes"><b>Cook</b><a href="${u('recipes/')}">${t.ui.allRecipes}</a><a href="${u('high-protein/')}">${t.nav.protein}</a><a href="${u('who-healthy/')}">${t.nav.who}</a><a href="${u('recipes/')}?fav=1">My favourites</a></nav>
   <nav aria-label="Site"><b>Site</b><a href="${u('plans/')}">${t.nav.plans}</a><a href="${u('about/')}">About</a><a href="${u('contact/')}">Contact</a><a href="${u('privacy/')}">Privacy (draft)</a><a href="${u('terms/')}">Terms (draft)</a></nav>
  </div>

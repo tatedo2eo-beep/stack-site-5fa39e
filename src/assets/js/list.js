@@ -6,6 +6,7 @@
 
   var q = document.getElementById("q");
   var fcat = document.getElementById("f-cat");
+  var fch = document.getElementById("f-ch");
   var ftime = document.getElementById("f-time");
   var fdiff = document.getElementById("f-diff");
   var ffav = document.getElementById("f-fav");
@@ -43,6 +44,7 @@
     var p = new URLSearchParams(location.search);
     q.value = p.get("q") || "";
     fcat.value = p.get("cat") || "";
+    if (fch) fch.value = p.get("ch") || "";
     var diet = (p.get("diet") || "").split(",").filter(Boolean);
     dietBoxes.forEach(function (cb) {
       cb.checked = diet.indexOf(cb.value) !== -1;
@@ -56,6 +58,7 @@
     var p = new URLSearchParams();
     if (q.value) p.set("q", q.value);
     if (fcat.value) p.set("cat", fcat.value);
+    if (fch && fch.value) p.set("ch", fch.value);
     var diet = dietBoxes
       .filter(function (cb) {
         return cb.checked;
@@ -91,6 +94,7 @@
       var el = c.el;
       var ok = true;
       if (cat && el.dataset.cat !== cat) ok = false;
+      if (fch && fch.value && el.dataset.ch !== fch.value) ok = false;
       if (ok && diets.length) {
         var cd = el.dataset.diet ? el.dataset.diet.split(" ") : [];
         ok = diets.every(function (d) {
@@ -136,6 +140,7 @@
   });
   q.addEventListener("input", debouncedFilter);
   fcat.addEventListener("change", immediateUpdate);
+  if (fch) fch.addEventListener("change", immediateUpdate);
   ftime.addEventListener("change", immediateUpdate);
   fdiff.addEventListener("change", immediateUpdate);
   ffav.addEventListener("change", immediateUpdate);
@@ -146,6 +151,7 @@
   clearBtn.addEventListener("click", function () {
     q.value = "";
     fcat.value = "";
+    if (fch) fch.value = "";
     dietBoxes.forEach(function (cb) {
       cb.checked = false;
     });

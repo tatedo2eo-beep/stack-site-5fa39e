@@ -4,6 +4,15 @@
   var d = document, html = d.documentElement;
   function ls(k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) { return null; } }
 
+  // premium preview (TEST ONLY, ?preview=premium / ?preview=off): show full premium pages, hide ads
+  if (html.classList.contains('is-premium')) {
+    var tpl = d.getElementById('premium-full');
+    if (tpl && tpl.content) [].forEach.call(tpl.content.children, function (part) { var into = d.getElementById(part.dataset.into); if (into) { into.innerHTML = ''; while (part.firstChild) into.appendChild(part.firstChild); } });
+    var art = d.querySelector('.recipe.is-locked'); if (art) art.classList.remove('is-locked');
+    var bn = d.createElement('div'); bn.className = 'preview-bar'; bn.innerHTML = 'Premium preview is on (test only). <a href="?preview=off">Turn off</a>';
+    d.body.insertBefore(bn, d.body.firstChild);
+  }
+
   // theme
   var tb = d.getElementById('theme-btn'), tm = d.getElementById('theme-menu');
   function markTheme() { if (!tm) return; tm.querySelectorAll('[data-theme-id]').forEach(function (b) { b.setAttribute('aria-checked', b.dataset.themeId === html.dataset.theme ? 'true' : 'false'); }); }

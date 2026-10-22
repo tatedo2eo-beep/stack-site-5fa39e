@@ -22,5 +22,11 @@ module.exports = {
     { id: 'ivory-oxblood', name: 'Ivory & Oxblood', dark: false },
     { id: 'lavender-mint', name: 'Lavender & Mint', dark: false }
   ],
-  defaultTheme: 'noir-gold'
+  defaultTheme: 'noir-gold',
+  // Top-level browse: chapter -> dish -> flavour -> recipe. 'more' holds recipes outside the launch chapters.
+  chapters: [
+    { key: 'burgers', group: 'salty' }, { key: 'chicken', group: 'salty' }, { key: 'pasta', group: 'salty' },
+    { key: 'cookies-bars-brownies', group: 'sweet' }, { key: 'cakes-cupcakes', group: 'sweet' },
+    { key: 'more', group: 'more' }
+  ]
 };

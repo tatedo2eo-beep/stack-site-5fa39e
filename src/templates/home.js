@@ -90,19 +90,25 @@ const HOME_CSS = `
  .plate img{opacity:1}
 }`;
 
-function homePage(ctx, P, recipes, cats, counts) {
+function homePage(ctx, P, recipes, chapters, counts) {
   const { t, u } = ctx;
-  const featured = recipes.find(r => r.category === 'burgers-sandwiches') || recipes[0];
-  const latest = recipes.filter(r => r !== featured).concat(featured ? [featured] : []).slice(0, 6);
+  const featured = recipes.find(r => r.dish === 'smash-burger' && r.access === 'free') || recipes.find(r => r.access === 'free') || recipes[0];
+  const chTiles = g => chapters.filter(c => c.group === g).map(c => { const n = c.dishes.reduce((a, d) => a + d.flavours.length, 0); return `<li class="reveal"><a href="${u(`chapter/${c.key}/`)}"><b>${t.chapters[c.key].name}</b><small>${c.dishes.length} dish${c.dishes.length === 1 ? '' : 'es'} · ${n} recipe${n === 1 ? '' : 's'}</small></a></li>`; }).join('');
+  const latest = recipes.filter(r => r !== featured).slice(0, 6);
   const body = `${homeStory(ctx, featured)}
 <div class="home-rest"><div class="wrap">
+<section class="chapters-browse"><p class="kicker">// 04 · The chapters</p><h2 class="sec-h">Pick a chapter</h2>
+ <h3 class="grp-h">${t.groups.salty}</h3><ul class="cat-tiles ch-tiles">${chTiles('salty')}</ul>
+ <h3 class="grp-h">${t.groups.sweet}</h3><ul class="cat-tiles ch-tiles">${chTiles('sweet')}</ul>
+ ${chTiles('more') ? `<ul class="cat-tiles ch-tiles more">${chTiles('more')}</ul>` : ''}
+</section>
 ${ad(ctx, 1)}
-<section><p class="kicker">// 04 · The lineup</p><h2 class="sec-h">Latest recipes</h2>${P.grid(ctx, latest)}<p class="cta"><a class="btn ghost" href="${u('recipes/')}">${t.ui.seeAll}</a></p></section>
+<section><p class="kicker">// 05 · The lineup</p><h2 class="sec-h">Latest recipes</h2>${P.grid(ctx, latest)}<p class="cta"><a class="btn ghost" href="${u('recipes/')}">${t.ui.seeAll}</a></p></section>
 <section class="duo">
  <a class="promo reveal" href="${u('high-protein/')}"><span class="kicker">// ${counts.hp} recipe${counts.hp === 1 ? '' : 's'}</span><h2>${t.nav.protein}</h2><p>At least 10 g protein per 100 kcal, calculated from the numbers.</p><span class="more">See them →</span></a>
  <a class="promo reveal" href="${u('who-healthy/')}"><span class="kicker">// ${counts.who} recipe${counts.who === 1 ? '' : 's'}</span><h2>${t.nav.who}</h2><p>Fat, saturated fat, free sugars, salt and fibre within WHO limits per serving.</p><span class="more">See the rule →</span></a>
 </section>
-<section><h2 class="sec-h">Categories</h2><ul class="cat-tiles">${cats.map(c => `<li class="reveal"><a href="${u(`category/${c.key}/`)}"><b>${t.categories[c.key]}</b><small>${c.list.length} recipe${c.list.length === 1 ? '' : 's'}</small></a></li>`).join('')}</ul></section>
+
 ${ad(ctx, 2)}
 </div></div>`;
   return {
