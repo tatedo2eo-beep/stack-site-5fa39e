@@ -1,0 +1,190 @@
+{
+  "slug": "baked-ziti",
+  "title": "Baked Ziti with Ricotta and Mozzarella",
+  "category": "pasta-noodles",
+  "cuisine": "Italian American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "baked-ziti",
+  "dish_title": "Baked ziti",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A layered pasta bake of ziti, rich tomato sauce, ricotta and mozzarella, baked until bubbling and golden.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 75,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy saucepan or casserole (at least 4 litres)",
+    "large pot (at least 5 litres)",
+    "colander",
+    "large bowl",
+    "baking dish about 23 x 33 cm, at least 6 cm deep",
+    "foil",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Tomato sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "tomato purée (paste)"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 800,
+      "unit": "g",
+      "item": "tinned whole plum tomatoes (2 tins), crushed by hand"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 500,
+      "unit": "g",
+      "item": "passata"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried chilli flakes",
+      "note": "optional"
+    },
+    {
+      "group": "Pasta",
+      "qty": 450,
+      "unit": "g",
+      "item": "dried ziti, penne or rigatoni"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 20,
+      "unit": "g",
+      "item": "fine salt for 4 litres of pasta water (0.5%)",
+      "note": "about 3.25 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Filling",
+      "qty": 400,
+      "unit": "g",
+      "item": "whole-milk ricotta"
+    },
+    {
+      "group": "Filling",
+      "qty": 50,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Filling",
+      "qty": 300,
+      "unit": "g",
+      "item": "low-moisture mozzarella, grated or cut into small cubes"
+    },
+    {
+      "group": "To serve",
+      "qty": 10,
+      "unit": "g",
+      "item": "basil leaves, torn"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Build the Tomato Sauce",
+      "text": "Warm the olive oil in the saucepan over medium heat and cook the onion with a pinch of the salt for 8-10 minutes until soft and translucent but not browned. Add the garlic for 1 minute, then the tomato purée for 2 minutes until it turns brick red. Frying the tomato purée deepens and sweetens its flavour before the rest of the sauce goes in."
+    },
+    {
+      "title": "Simmer the Sauce",
+      "text": "Add the tinned tomatoes, passata, remaining salt and chilli flakes if using, then simmer for 25 minutes until thickened. A long, gentle simmer concentrates the tomatoes into a rich sauce that will hold its own once baked with the pasta."
+    },
+    {
+      "title": "Heat the Oven",
+      "text": "Preheat the oven to 200°C (180°C fan) at least 20 minutes ahead so it's fully hot before the dish goes in."
+    },
+    {
+      "title": "Mix the Ricotta Filling",
+      "text": "Mix the ricotta, Parmesan and black pepper together in a bowl until smooth and well combined."
+    },
+    {
+      "title": "Cook the Pasta",
+      "text": "Bring 4 litres of water to the boil with the 20g salt, a light 0.5% since the passata and cheeses are already salty, and cook the pasta for 2 minutes less than the packet time, since it will finish cooking in the oven."
+    },
+    {
+      "title": "Loosen the Sauce",
+      "text": "Reserve 240ml of the pasta water and drain the pasta, then stir the reserved water into the sauce to keep the bake moist, and toss the pasta with half the sauce. The extra water stops the pasta drying out as it absorbs liquid during baking."
+    },
+    {
+      "title": "Layer the Dish",
+      "text": "Spread a little sauce in the base of the dish, then layer half the pasta, dollops of half the ricotta mixture and a third of the mozzarella; repeat the layers, then finish with the remaining sauce and mozzarella on top. Layering rather than simply mixing everything together gives pockets of melted ricotta and mozzarella running through the bake."
+    },
+    {
+      "title": "Bake Covered, Then Uncovered",
+      "text": "Cover the dish with foil and bake for 20 minutes, then uncover and bake for a further 15-20 minutes until bubbling, golden in patches and the centre reaches 74°C. Baking covered first heats the dish through gently, while removing the foil lets the top brown and the cheese turn golden in spots."
+    },
+    {
+      "title": "Rest Before Serving",
+      "text": "Rest for 10 minutes, then scatter over the basil before serving. Resting lets the layers set slightly so they hold together when served, rather than sliding apart on the plate."
+    }
+  ],
+  "tips": [
+    "Don't skip reserving some pasta water to stir into the sauce, as it keeps the bake from drying out while the pasta absorbs liquid in the oven.",
+    "Undercook the pasta deliberately, since it keeps cooking in the oven and can turn mushy if it's already fully done going in.",
+    "Check the centre reaches 74°C before serving, especially if the dish has gone into the oven cold after being assembled ahead.",
+    "Let the dish rest for the full 10 minutes before cutting, or the layers will be too loose to serve neatly."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days, or freeze, baked or unbaked, for up to 3 months. Reheat in a 180°C (160°C fan) oven until piping hot and the centre reaches 74°C, covering with foil if it starts to brown too much. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 517,
+    "protein_g": 23.5,
+    "carbs_g": 56.7,
+    "sugar_g": 8.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 22.4,
+    "satfat_g": 11.0,
+    "salt_g": 2.78,
+    "fibre_g": 5.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "baked-ziti-basic.jpg",
+  "image_alt": "Baked pasta tubes in tomato sauce under melted, browned mozzarella with basil on a black plate."
+}

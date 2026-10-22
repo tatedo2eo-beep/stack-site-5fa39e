@@ -1,0 +1,115 @@
+{
+  "slug": "fettuccine-alfredo",
+  "title": "Roman-Style Fettuccine Alfredo (Butter and Parmesan, No Cream)",
+  "category": "pasta-noodles",
+  "cuisine": "Italian (Roman)",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "alfredo-roman-original",
+  "dish_title": "Alfredo (Roman original)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Fresh fettuccine tossed with butter, Parmesan and starchy pasta water until it forms a creamy sauce with no cream at all.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot (at least 4 litres)",
+    "large heatproof mixing bowl (warmed)",
+    "fine grater (rasp)",
+    "tongs",
+    "heatproof mug"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta",
+      "qty": 400,
+      "unit": "g",
+      "item": "fresh egg fettuccine",
+      "note": "shop-bought or homemade"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 24,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.8%)",
+      "note": "about 4 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Sauce",
+      "qty": 100,
+      "unit": "g",
+      "item": "unsalted butter, diced, at room temperature"
+    },
+    {
+      "group": "Sauce",
+      "qty": 100,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano, ideally 18-24 months) or a vegetarian hard cheese, very finely grated"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Warm the Bowl",
+      "text": "Fill the mixing bowl with hot water to warm it through, then dry it thoroughly and add the diced butter and 80g of the Parmesan. A warm bowl keeps the butter soft and ready to melt quickly once the hot pasta goes in, rather than seizing against a cold surface."
+    },
+    {
+      "title": "Boil the Water and Cook the Pasta",
+      "text": "Bring the 3 litres of water to the boil with the salt, then cook the fettuccine for 1½-2 minutes. Fresh pasta cooks very quickly and should still have a slight bite when it comes out."
+    },
+    {
+      "title": "Transfer to the Bowl",
+      "text": "Reserve 240ml of the pasta water, then lift the pasta straight from the pot into the bowl with tongs and add 120ml of the hot pasta water. Carrying some water over with the pasta keeps everything hot enough to melt the butter and cheese straight away."
+    },
+    {
+      "title": "Toss into a Creamy Sauce",
+      "text": "Toss and lift the pasta vigorously for 1-2 minutes until the butter and cheese melt into a creamy, pale sauce that clings to the strands. The milk solids in the butter combine with the starchy water and melting cheese to form an emulsion, which is the only reason this sauce looks and feels creamy with no actual cream involved."
+    },
+    {
+      "title": "Loosen if Needed",
+      "text": "If the sauce looks greasy or has seized up tight, add more of the reserved pasta water a spoonful at a time, tossing constantly, until it turns glossy and smooth again. A tight or oily-looking sauce simply needs a little more water to bring the emulsion back together."
+    },
+    {
+      "title": "Serve at Once",
+      "text": "Serve immediately with the remaining Parmesan and a little black pepper, keeping in mind the sauce will thicken further as it cools."
+    }
+  ],
+  "tips": [
+    "Use a genuinely warm bowl and hot pasta water, since this sauce depends on heat to melt the butter and cheese into an emulsion rather than separate pools of fat.",
+    "If the sauce looks oily rather than creamy, that's usually a sign it needs more hot water, not more cheese.",
+    "Fresh pasta cooks in under 2 minutes, so have everything else ready before it goes into the pot.",
+    "Serve immediately, as this sauce firms up quickly once it starts to cool."
+  ],
+  "storage": "Best eaten fresh, as the butter-based sauce doesn't hold well; leftovers can be kept covered in the fridge for up to a day. Reheat gently in a pan with a splash of water over low heat, tossing until piping hot, as it can separate if reheated too fiercely. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 566,
+    "protein_g": 20.5,
+    "carbs_g": 55.6,
+    "sugar_g": 0.2,
+    "free_sugar_g": 0.0,
+    "fat_g": 29.0,
+    "satfat_g": 17.3,
+    "salt_g": 1.61,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "alfredo-roman-original-basic.jpg",
+  "image_alt": "A neat nest of fresh fettuccine coated in a pale butter and Parmesan sauce in a black bowl on dark slate."
+}

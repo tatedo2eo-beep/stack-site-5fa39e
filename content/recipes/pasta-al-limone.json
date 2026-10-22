@@ -1,0 +1,136 @@
+{
+  "slug": "pasta-al-limone",
+  "title": "Spaghetti al Limone (Lemon, Butter and Parmesan)",
+  "category": "pasta-noodles",
+  "cuisine": "Italian (Amalfi Coast)",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "pasta-al-limone",
+  "dish_title": "Pasta al limone",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A zesty Amalfi Coast pasta of spaghetti glazed in butter, Parmesan and lemon until glossy and bright.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large frying pan or sauté pan (30 cm)",
+    "fine grater (rasp)",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta",
+      "qty": 400,
+      "unit": "g",
+      "item": "dried spaghetti"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 24,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.8%)",
+      "note": "about 4 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Sauce",
+      "qty": 70,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "unwaxed lemons",
+      "note": "zest finely grated; juice squeezed"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Sauce",
+      "qty": 40,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 10,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the Spaghetti",
+      "text": "Bring 3 litres of water to the boil with the salt and cook the spaghetti for 1 minute less than the packet time."
+    },
+    {
+      "title": "Infuse the Butter with Zest",
+      "text": "Meanwhile, melt the butter in the pan over medium heat until foaming, then lower the heat and add the lemon zest and garlic, cooking for 1-2 minutes until fragrant but not coloured. The fragrant oils in the zest dissolve into the warm butter, giving a strong lemon aroma without the sharp bitterness that browning the zest would bring."
+    },
+    {
+      "title": "Reserve Water and Drain",
+      "text": "Reserve 240ml of the pasta water, then drain the spaghetti."
+    },
+    {
+      "title": "Glaze the Pasta",
+      "text": "Add the pasta and 120ml of the pasta water to the butter, raise the heat to medium-high and toss for 1 minute until glazed and satiny. Tossing the hot pasta vigorously with the water and butter starts pulling everything into a smooth coating rather than separate puddles of fat."
+    },
+    {
+      "title": "Add Cheese Off the Heat",
+      "text": "Take the pan off the heat and add the Parmesan, tossing hard until the sauce thickens. Melting the cheese off direct heat keeps the sauce smooth; cheese added over high heat is far more likely to clump or turn oily."
+    },
+    {
+      "title": "Add Lemon Juice to Taste",
+      "text": "Stir in 2 tbsp of the lemon juice, toss, then taste and add more juice, up to about 40ml in total, if you'd like it sharper. Adding the juice right at the end, off the heat, keeps its fresh tang intact and stops the acidity splitting the butter and cheese emulsion."
+    },
+    {
+      "title": "Season and Serve",
+      "text": "Season with the black pepper and serve with the remaining Parmesan."
+    }
+  ],
+  "tips": [
+    "Add the cheese off the heat rather than over a simmering pan, or it's more likely to clump instead of melting into a smooth sauce.",
+    "Taste the lemon juice gradually rather than adding it all at once, since two lemons' worth of zest already carries a lot of flavour.",
+    "Keep the garlic and zest over low heat, as letting them colour turns the sauce bitter.",
+    "Hold back some pasta water in reserve, since the sauce thickens quickly and may need loosening just before serving."
+  ],
+  "storage": "Best eaten straight away, as the butter sauce tightens and can separate on cooling; keep covered in the fridge for up to a day if needed. Reheat gently in a pan with a splash of water over low heat, tossing constantly, until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 550,
+    "protein_g": 17.8,
+    "carbs_g": 76.5,
+    "sugar_g": 3.1,
+    "free_sugar_g": 0.3,
+    "fat_g": 19.0,
+    "satfat_g": 11.3,
+    "salt_g": 1.76,
+    "fibre_g": 3.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pasta-al-limone-basic.jpg",
+  "image_alt": "A nest of buttery spaghetti with basil leaves and a lemon half on a black plate on dark slate."
+}

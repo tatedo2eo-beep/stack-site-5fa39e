@@ -1,0 +1,131 @@
+{
+  "slug": "spaghetti-aglio-e-olio",
+  "title": "Spaghetti Aglio e Olio (Garlic, Olive Oil and Chilli)",
+  "category": "pasta-noodles",
+  "cuisine": "Italian (Neapolitan)",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "aglio-e-olio",
+  "dish_title": "Aglio e olio",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A quick Neapolitan spaghetti dressed in garlic- and chilli-infused olive oil, finished with parsley for a simple, fragrant plate of pasta.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large deep frying pan or sauté pan (30 cm)",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta",
+      "qty": 400,
+      "unit": "g",
+      "item": "dried spaghetti"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 30,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (1%)",
+      "note": "about 5 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Sauce",
+      "qty": 100,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "fresh red chilli, thinly sliced",
+      "note": "or ½-1 tsp dried chilli flakes"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "chopped flat-leaf parsley"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice",
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Salt and Boil the Water",
+      "text": "Bring 3 litres of water to the boil with the 30g salt, a fuller 1% since there's no cheese in this dish to help season it. The sauce here is just oil, garlic and pasta water, so well-salted water does much of the seasoning work."
+    },
+    {
+      "title": "Cook the Spaghetti",
+      "text": "Add the spaghetti to the boiling water and cook for 1 minute less than the packet time, stirring during the first minute to stop it sticking together."
+    },
+    {
+      "title": "Infuse the Oil",
+      "text": "Meanwhile, put the olive oil, garlic and chilli into the cold pan and set it over medium-low heat, cooking for 3-4 minutes, stirring, until the garlic is pale gold at the edges and never brown. Starting the garlic in cold oil lets its flavour dissolve gradually into the fat, whereas garlic that browns too quickly turns bitter and acrid."
+    },
+    {
+      "title": "Add Parsley",
+      "text": "Take the pan off the heat and stir in the chopped parsley. Adding it off the heat keeps its colour bright and its flavour fresh rather than cooked and flat."
+    },
+    {
+      "title": "Reduce the Oil with Water",
+      "text": "Reserve 240ml of the pasta water, then carefully add 120ml of it to the garlic oil, standing back as it will spit, and boil hard over high heat for 1-2 minutes until reduced by about half and cloudy. This is where the starchy water begins binding with the oil, the first step toward a sauce that coats the pasta rather than sliding off it."
+    },
+    {
+      "title": "Drain and Toss the Pasta",
+      "text": "Drain the spaghetti and add it straight to the pan, tossing vigorously over high heat for 1-2 minutes, adding splashes of the reserved pasta water as needed, until the oil turns from a slick into a light, creamy coating on every strand. Vigorous tossing emulsifies the starchy water into the oil, the same principle behind a well-whisked vinaigrette."
+    },
+    {
+      "title": "Finish and Serve",
+      "text": "Stir in the lemon juice if using, then serve the spaghetti straight away. A squeeze of lemon lifts the dish with a little brightness without overpowering the garlic and chilli."
+    }
+  ],
+  "tips": [
+    "Start the garlic in cold oil and watch it closely, since once it goes past pale gold it turns bitter and there's no saving it.",
+    "Don't skip reserving the pasta water; its starch is what turns the oil into a sauce that clings instead of pooling.",
+    "Toss the pasta hard and keep it moving over high heat so the sauce emulsifies instead of separating.",
+    "If you like more heat, add extra chilli flakes at the start rather than the end so the flavour has time to infuse the oil."
+  ],
+  "storage": "Best eaten fresh, as the oil-based sauce can separate on standing; keep covered in the fridge for up to 2 days. Reheat gently in a pan with a splash of water over low heat, tossing until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 579,
+    "protein_g": 13.5,
+    "carbs_g": 76.7,
+    "sugar_g": 2.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 24.1,
+    "satfat_g": 3.4,
+    "salt_g": 1.67,
+    "fibre_g": 3.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "aglio-e-olio-basic.jpg",
+  "image_alt": "Spaghetti glossy with olive oil, golden garlic slices, chilli and chopped parsley in a black bowl on dark slate."
+}

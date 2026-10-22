@@ -1,0 +1,167 @@
+{
+  "slug": "pasta-e-fagioli",
+  "title": "Pasta e Fagioli (Bean and Pasta Soup with Rosemary)",
+  "category": "soups-stews",
+  "cuisine": "Italian",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "pasta-e-fagioli",
+  "dish_title": "Pasta e fagioli",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A hearty Italian bean and pasta soup built on a sweet vegetable base and simmered with rosemary until thick and warming.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy saucepan or casserole (at least 4 litres)",
+    "stick blender or potato masher",
+    "ladle"
+  ],
+  "ingredients": [
+    {
+      "group": "Soup",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium carrot, finely chopped"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "celery stick, finely chopped"
+    },
+    {
+      "group": "Soup",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "sprig rosemary (about 10 cm)"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "tomato purée (paste)"
+    },
+    {
+      "group": "Soup",
+      "qty": 2,
+      "unit": "pc",
+      "item": "400 g tins cannellini or borlotti beans, drained and rinsed (about 480 g drained)"
+    },
+    {
+      "group": "Soup",
+      "qty": 1200,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Soup",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Soup",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Soup",
+      "qty": 150,
+      "unit": "g",
+      "item": "ditalini or other small pasta"
+    },
+    {
+      "group": "To serve",
+      "qty": 30,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil, to drizzle"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Build the Soffritto",
+      "text": "Warm the olive oil in the pan over medium heat and cook the onion, carrot and celery with a pinch of the salt for 8-10 minutes until soft and sweet but not browned. This slow start, known as a soffritto, builds a sweet vegetable base that underpins the whole soup."
+    },
+    {
+      "title": "Add Garlic, Rosemary and Tomato Purée",
+      "text": "Stir in the garlic, rosemary and tomato purée, cooking for 1-2 minutes until the purée darkens slightly. Frying the purée briefly cooks off its raw, tinny edge and deepens its flavour before the liquid goes in."
+    },
+    {
+      "title": "Simmer with Beans",
+      "text": "Add the beans, water, remaining salt and pepper, then bring to a simmer and cook for 15 minutes; lift out the rosemary sprig once it's done its job. This gentle simmer softens the beans further and lets their flavour spread through the broth."
+    },
+    {
+      "title": "Blend Part of the Soup",
+      "text": "Blend or mash about a third of the soup in the pan, leaving the rest whole, so you get a creamy body without needing any cream. Breaking down some of the beans naturally thickens the broth while the whole beans and vegetables keep some texture."
+    },
+    {
+      "title": "Cook the Pasta In the Soup",
+      "text": "Bring the soup back to a lively simmer, add the pasta and cook, stirring often so it doesn't stick to the base, for the packet time plus 1-2 minutes until tender, adding a splash of water if it gets too thick. Cooking the pasta directly in the soup lets it release starch into the broth, thickening it further as it sits."
+    },
+    {
+      "title": "Taste and Serve",
+      "text": "Taste for salt before serving, then ladle into bowls and top with the grated Parmesan and a drizzle of olive oil. A finishing drizzle of good oil adds a fresh, fruity note that cooking alone can't give the soup."
+    }
+  ],
+  "tips": [
+    "Don't rush the soffritto; letting the onion, carrot and celery soften slowly for the full 8-10 minutes builds a much sweeter base than cooking them hard and fast.",
+    "Stir the pasta often once it goes into the soup, as it's prone to sticking to the bottom of the pan.",
+    "Keep some beans whole when blending so the soup has both creaminess and texture.",
+    "The soup thickens a lot as it cools and sits, so loosen leftovers with a splash of water when reheating."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days, or freeze for up to 3 months; the pasta softens further on freezing, so it's best added fresh if making ahead for the freezer. Reheat gently in a pan with a splash of water, stirring, until piping hot throughout. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "celery"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 457,
+    "protein_g": 17.3,
+    "carbs_g": 61.2,
+    "sugar_g": 4.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 16.5,
+    "satfat_g": 3.3,
+    "salt_g": 2.52,
+    "fibre_g": 8.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pasta-e-fagioli-basic.jpg",
+  "image_alt": "A thick bean and pasta soup topped with grated cheese and a sprig of rosemary in a black bowl on dark slate."
+}

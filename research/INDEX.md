@@ -9,6 +9,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | american-cheeseburger | Cheeseburger | American | 3 | 5 |
 | anise-biscotti | Biscotti | Anise | 3 | 5 |
 | anzac-biscuits | Anzac biscuit | Classic | 2 | 4 |
+| baked-mac-and-cheese | Mac and cheese | Classic | 2 | 4 |
+| baked-ziti | Baked ziti | Classic | 2 | 4 |
 | banana-bread | Banana bread/quick breads | Classic | 2 | 4 |
 | bbq-chicken-wings | Chicken wings | BBQ | 2 | 4 |
 | beef-chili | Chili con carne | Classic | 2 | 4 |
@@ -22,6 +24,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | butter-chicken | Butter chicken | Classic | 2 | 4 |
 | buttermilk-fried-chicken | Fried chicken (Southern) | Buttermilk-brined | 4 | 6 |
 | butternut-squash-ravioli | Filled (ravioli, tortellini, agnolotti) | Butternut squash | 4 | 6 |
+| cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |
 | cheeseburger-sliders | Sliders | Classic | 2 | 5 |
 | chewy-amaretti | Amaretti | Classic | 2 | 4 |
@@ -57,6 +60,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | everyday-chicken-curry | Chicken curry | Classic | 3 | 6 |
 | falafel-wrap | Falafel pita | Classic | 2 | 4 |
 | fesenjan | Fesenjan | Classic | 2 | 4 |
+| fettuccine-alfredo | Alfredo (Roman original) | Classic | 3 | 5 |
 | florentines | Florentines | Classic | 2 | 4 |
 | flourless-fudgy-brownies | Flourless | Classic | 3 | 5 |
 | fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
@@ -89,9 +93,13 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | nashville-hot-chicken | Nashville hot chicken | Classic | 2 | 5 |
 | ohn-no-khao-swe | Ohn no khao swè | Classic | 2 | 4 |
 | oklahoma-onion-burger | Oklahoma onion burger | Classic | 3 | 7 |
+| pasta-al-limone | Pasta al limone | Classic | 2 | 4 |
+| pasta-alla-norma | Alla Norma | Classic | 2 | 4 |
+| pasta-e-fagioli | Pasta e fagioli | Classic | 2 | 4 |
 | peanut-butter-cookies | Peanut butter | Classic | 3 | 5 |
 | peking-duck | Peking duck | Classic | 2 | 4 |
 | penne-arrabbiata | Short (penne, rigatoni, fusilli) | Classic | 3 | 5 |
+| pesto-alla-trapanese | Pesto alla trapanese | Classic | 2 | 4 |
 | piri-piri-chicken | Piri-piri | Classic | 2 | 4 |
 | pizzelle | Pizzelle | Classic | 2 | 4 |
 | poached-chicken | Poached | Classic | 2 | 4 |
@@ -109,12 +117,16 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | signature-smash-burger | Smash burger | Classic | 3 | 8 |
 | snickerdoodles | Snickerdoodle | Classic | 3 | 5 |
 | southern-fried-chicken | Fried chicken (Southern) | Classic | 3 | 6 |
+| spaghetti-aglio-e-olio | Aglio e olio | Classic | 2 | 4 |
 | spaghetti-al-pomodoro | Long dried (spaghetti, linguine, bucatini) | Classic | 3 | 5 |
+| spaghetti-and-meatballs | Spaghetti with meatballs | Classic | 2 | 4 |
+| spaghetti-puttanesca | Puttanesca | Classic | 2 | 4 |
 | speculoos | Speculoos | Classic | 3 | 5 |
 | spicy-chicken-burger | Chicken burger | Spicy (cayenne/hot sauce) | 2 | 8 |
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
 | thumbprint-cookies | Thumbprints | Classic | 3 | 5 |
+| trenette-al-pesto | Trenette al pesto | Classic | 3 | 5 |
 | yakitori | Yakitori | Classic | 2 | 4 |
 | yangnyeom-chicken | Yangnyeom chicken | Classic | 3 | 6 |
 

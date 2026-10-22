@@ -1,0 +1,151 @@
+{
+  "slug": "pesto-alla-trapanese",
+  "title": "Linguine with Pesto alla Trapanese (Almond, Tomato and Basil)",
+  "category": "pasta-noodles",
+  "cuisine": "Italian (Sicilian)",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "pesto-alla-trapanese",
+  "dish_title": "Pesto alla trapanese",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A raw Sicilian pesto of toasted almonds, ripe tomatoes and basil tossed through linguine for a bright, summery sauce.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "small dry frying pan",
+    "small saucepan for blanching",
+    "bowl of iced water",
+    "mortar and pestle or food processor",
+    "large heatproof serving bowl",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Pesto",
+      "qty": 60,
+      "unit": "g",
+      "item": "blanched almonds"
+    },
+    {
+      "group": "Pesto",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Pesto",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "coarse salt"
+    },
+    {
+      "group": "Pesto",
+      "qty": 25,
+      "unit": "g",
+      "item": "basil leaves"
+    },
+    {
+      "group": "Pesto",
+      "qty": 450,
+      "unit": "g",
+      "item": "ripe plum tomatoes"
+    },
+    {
+      "group": "Pesto",
+      "qty": 30,
+      "unit": "g",
+      "item": "Pecorino Romano (or a vegetarian hard cheese), very finely grated"
+    },
+    {
+      "group": "Pesto",
+      "qty": 30,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "Pesto",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Pasta",
+      "qty": 400,
+      "unit": "g",
+      "item": "dried linguine (or busiate)"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 24,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.8%)",
+      "note": "about 4 tsp; most of it goes down the drain"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the Almonds",
+      "text": "Toast the almonds in the dry frying pan over medium-low heat for 4-5 minutes until pale gold, then leave to cool. Toasting draws out the almonds' natural oils and deepens their flavour before they're pounded into the sauce."
+    },
+    {
+      "title": "Peel and Seed the Tomatoes",
+      "text": "Score a cross in the base of each tomato, blanch for 30 seconds in boiling water, then plunge into iced water and slip off the skins; halve, scoop out the seeds and chop the flesh. Removing the seeds and juice stops the pesto turning watery, keeping it thick and spoonable."
+    },
+    {
+      "title": "Pound the Pesto",
+      "text": "Pound the garlic with the coarse salt to a paste, add the almonds and pound again, then work in the basil, both cheeses, and finally the chopped tomatoes and olive oil until you have a rough, pinkish sauce. Pounding rather than chopping bruises and crushes the ingredients, releasing far more aroma than a quick chop would. If using a food processor, pulse the garlic and almonds first, then add everything else and pulse briefly to a rough paste."
+    },
+    {
+      "title": "Set Aside Two-Thirds",
+      "text": "Spoon about two-thirds of the pesto into the serving bowl, keeping the rest back to serve on top."
+    },
+    {
+      "title": "Cook the Linguine",
+      "text": "Bring 3 litres of water to the boil with the salt and cook the linguine until al dente."
+    },
+    {
+      "title": "Toss Off the Heat",
+      "text": "Reserve 240ml of the pasta water, then lift the pasta into the serving bowl with 60ml of the water and toss off the heat until creamy and well coated, adding more water by the tablespoon if it looks dry. Tossing off the heat keeps the tomatoes and basil tasting fresh rather than cooked, which is the whole point of this raw sauce."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve with the remaining pesto spooned over the top."
+    }
+  ],
+  "tips": [
+    "Seed and drain the tomatoes properly before chopping, or the pesto can turn thin and watery.",
+    "Pound the ingredients in a mortar rather than just blitzing everything together if you can; it gives a rougher texture and a brighter flavour.",
+    "Toast the almonds until just golden, as taking them further turns them bitter rather than nutty.",
+    "Toss the pasta into the sauce off the heat so the raw tomato and basil keep their fresh flavour."
+  ],
+  "storage": "Best made fresh, as the raw tomato in the pesto doesn't keep well; leftovers can be kept covered in the fridge for up to a day. Serve any leftover pesto cold rather than reheating, as heat dulls its fresh flavour; if tossing with warm pasta, use pasta that's merely hot rather than simmering. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 657,
+    "protein_g": 22.3,
+    "carbs_g": 82.5,
+    "sugar_g": 5.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 26.9,
+    "satfat_g": 5.3,
+    "salt_g": 1.83,
+    "fibre_g": 6.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pesto-alla-trapanese-basic.jpg",
+  "image_alt": "Linguine coated in a rough almond and tomato pesto, topped with basil leaves in a black bowl on dark slate."
+}

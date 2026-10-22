@@ -1,0 +1,142 @@
+{
+  "slug": "spaghetti-puttanesca",
+  "title": "Spaghetti Puttanesca (Tomatoes, Olives, Capers and Anchovies)",
+  "category": "pasta-noodles",
+  "cuisine": "Italian (Campania)",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "puttanesca",
+  "dish_title": "Puttanesca",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A punchy spaghetti sauce built from tomatoes, olives, capers and anchovies, simmered until thick and intensely savoury.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large frying pan or sauté pan (30 cm)",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta",
+      "qty": 400,
+      "unit": "g",
+      "item": "dried spaghetti"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 15,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.5%)",
+      "note": "about 2.5 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Sauce",
+      "qty": 6,
+      "unit": "pc",
+      "item": "anchovy fillets in oil, drained and finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "capers, rinsed and roughly chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 60,
+      "unit": "g",
+      "item": "pitted black olives, roughly chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 400,
+      "unit": "g",
+      "item": "tin whole plum tomatoes, crushed by hand"
+    },
+    {
+      "group": "To finish",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "chopped flat-leaf parsley"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil the Water Lightly",
+      "text": "Bring 3 litres of water to the boil with just 15g salt, a lighter 0.5% since the anchovies, capers and olives bring plenty of salt of their own."
+    },
+    {
+      "title": "Build the Base",
+      "text": "In the cold pan, combine 3 tbsp of the olive oil with the garlic, anchovies and chilli flakes, then cook over medium heat for 4-5 minutes, stirring, until the garlic turns lightly golden and the anchovies melt into the oil. Starting cold lets the anchovies dissolve gently into savoury depth rather than frying hard and tasting fishy."
+    },
+    {
+      "title": "Add Capers, Olives and Tomatoes",
+      "text": "Stir in the capers and olives for 1 minute, then add the crushed tomatoes and simmer for 8-10 minutes until thick and jammy; hold off on any extra salt for now. The capers and olives need only a minute to release their brininess before the tomatoes slowly reduce to a rich, clingy sauce."
+    },
+    {
+      "title": "Cook the Spaghetti",
+      "text": "Cook the spaghetti in the boiling water for 2 minutes less than the packet time. Cooking it a little short leaves it ready to finish softening directly in the sauce, where it picks up more flavour."
+    },
+    {
+      "title": "Finish in the Sauce",
+      "text": "Reserve 240ml of the pasta water and drain the spaghetti, then add it to the sauce with 60ml of the water over medium-high heat, tossing for 1-2 minutes until al dente and well coated, adding more water as needed to keep it loose. Finishing the pasta in the sauce lets the starch on its surface thicken the sauce so it clings rather than sitting in a puddle."
+    },
+    {
+      "title": "Finish and Taste",
+      "text": "Take the pan off the heat and stir in the remaining 1 tbsp of oil and the parsley. Taste before adding any salt, since between the anchovies, capers and olives the dish rarely needs more."
+    }
+  ],
+  "tips": [
+    "Hold back on salting the sauce until the end; the anchovies, capers and olives usually season it fully on their own.",
+    "Let the anchovies melt into the oil over gentle heat rather than frying them hard, or they turn bitter and overpoweringly fishy.",
+    "Rinse the capers before adding them to soften their sharp brininess slightly.",
+    "Finish cooking the pasta in the sauce rather than simply stirring it through at the end, so it absorbs more flavour."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days, or freeze the sauce (without pasta) for up to 3 months. Reheat in a pan over medium heat with a splash of water, stirring until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "fish"
+  ],
+  "diet": [
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 544,
+    "protein_g": 16.1,
+    "carbs_g": 80.6,
+    "sugar_g": 5.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 17.6,
+    "satfat_g": 2.7,
+    "salt_g": 2.13,
+    "fibre_g": 5.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "puttanesca-basic.jpg",
+  "image_alt": "Spaghetti in a chunky tomato sauce with black olives, capers and parsley in a black bowl on dark slate."
+}
