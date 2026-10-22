@@ -1,0 +1,249 @@
+{
+  "slug": "pastitsio",
+  "title": "Pastitsio (Greek Baked Pasta with Spiced Beef and Béchamel)",
+  "category": "pasta-noodles",
+  "cuisine": "Greek",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "pastitsio",
+  "dish_title": "Pastitsio",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A Greek baked pasta dish of cinnamon-spiced beef sauce and egg-bound pasta layered under a rich, golden béchamel.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 110,
+  "difficulty": "medium",
+  "equipment": [
+    "large deep frying pan or wide saucepan",
+    "large pot (at least 5 litres)",
+    "colander",
+    "large saucepan",
+    "whisk",
+    "baking dish about 23 x 33 cm, at least 7 cm deep",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Meat sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 700,
+      "unit": "g",
+      "item": "minced beef (15% fat)"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "tomato purée (paste)"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried oregano"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 400,
+      "unit": "g",
+      "item": "tin crushed tomatoes"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 150,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Pasta",
+      "qty": 450,
+      "unit": "g",
+      "item": "dried bucatini or ziti"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 32,
+      "unit": "g",
+      "item": "fine salt for 4 litres of pasta water (0.8%)",
+      "note": "about 5.25 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Pasta",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, beaten"
+    },
+    {
+      "group": "Pasta",
+      "qty": 30,
+      "unit": "g",
+      "item": "Pecorino (or a vegetarian hard cheese), finely grated"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 80,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 80,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "whole milk, warmed"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 50,
+      "unit": "g",
+      "item": "Pecorino (or a vegetarian hard cheese), finely grated"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 10,
+      "unit": "g",
+      "item": "butter for the dish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the onion and beef",
+      "text": "Warm the olive oil in a large deep frying pan over medium heat and cook the onion for 6-8 minutes until soft, then add the garlic for 1 minute. Add the minced beef, salt and pepper, breaking it up as it cooks for 8-10 minutes, until no pink remains and all the liquid it releases has cooked away - the mince needs to reach at least 71°C right through."
+    },
+    {
+      "title": "Add the spices",
+      "text": "Stir in the tomato purée, cinnamon, oregano and bay leaf and cook for 1-2 minutes. Warming the spices briefly in the fat before adding liquid helps bloom their flavour fully into the sauce rather than leaving it muted."
+    },
+    {
+      "title": "Simmer the meat sauce",
+      "text": "Pour in the tinned tomatoes and water, then simmer for 25-30 minutes, until thick rather than wet. Discard the bay leaf once the sauce tastes deep and well seasoned."
+    },
+    {
+      "title": "Cook and bind the pasta",
+      "text": "Bring 4 litres of water to the boil with the 32 g salt and cook the pasta for 2 minutes less than the packet time, since it will soften further in the oven. Drain and cool for 5 minutes, then toss with the beaten egg and 30 g of pecorino - the egg coats and binds the strands so the pasta layer holds together when the dish is sliced."
+    },
+    {
+      "title": "Make the béchamel",
+      "text": "Melt the butter in a saucepan, whisk in the flour and cook for 1-2 minutes without letting it colour. Gradually whisk in the warm milk, then simmer, whisking constantly, for 5-6 minutes until it thickens to the consistency of custard."
+    },
+    {
+      "title": "Finish the béchamel",
+      "text": "Take the pan off the heat and whisk in the nutmeg and salt, then the egg yolks and 40 g of pecorino. The yolks are what let the sauce set into a thick, golden top once baked, rather than staying runny."
+    },
+    {
+      "title": "Preheat and layer",
+      "text": "Preheat the oven to 180°C (160°C fan) at least 20 minutes ahead and butter the baking dish. Spread the egg-bound pasta in the base, cover with the meat sauce, then pour over the béchamel and scatter with the remaining cheese."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 45-50 minutes, until the top is deep golden and puffed and an instant-read thermometer in the centre reads 74°C."
+    },
+    {
+      "title": "Rest before cutting",
+      "text": "Leave the pastitsio to rest for 30 minutes before cutting it into squares. This is essential - without it, the layers won't have set enough to hold together and it will collapse into a heap on the plate."
+    }
+  ],
+  "tips": [
+    "Make sure the béchamel is genuinely thick, like custard, before it goes over the layers - a thin béchamel won't set and the dish will be sloppy when sliced.",
+    "Don't skip resting the pastitsio for the full 30 minutes; cutting it too soon is the most common reason it falls apart on the plate.",
+    "Check the centre reaches 74°C with a thermometer, especially in a deeper dish, to make sure both the beef and egg layers are fully cooked through.",
+    "Cooking the pasta slightly under packet time keeps it from turning mushy once it's baked again in the oven."
+  ],
+  "storage": "Leftovers keep covered in the fridge for up to 3 days, or can be frozen in portions for up to 2 months. Reheat in a 180°C oven, covered loosely with foil, until piping hot and the centre reaches 74°C. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 707,
+    "protein_g": 34.6,
+    "carbs_g": 63.2,
+    "sugar_g": 11.5,
+    "free_sugar_g": 0.0,
+    "fat_g": 34.8,
+    "satfat_g": 16.0,
+    "salt_g": 2.4,
+    "fibre_g": 3.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pastitsio-basic.jpg",
+  "image_alt": "A tall square of pastitsio showing layers of pasta, spiced beef sauce and a thick golden béchamel top on a black plate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

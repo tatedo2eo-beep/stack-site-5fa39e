@@ -1,0 +1,148 @@
+{
+  "slug": "haluski",
+  "title": "Haluski (Buttery Cabbage and Egg Noodles)",
+  "category": "pasta-noodles",
+  "cuisine": "Central European (Slovak / Polish)",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "haluski",
+  "dish_title": "Haluski",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Egg noodles tossed with cabbage and onion cooked slowly until silky and sweet, finished with butter and served with sour cream.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 55,
+  "difficulty": "easy",
+  "equipment": [
+    "large casserole or very large deep frying pan with lid (at least 30 cm)",
+    "large pot (at least 4 litres)",
+    "colander"
+  ],
+  "ingredients": [
+    {
+      "group": "Cabbage",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Cabbage",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large onion, thinly sliced (about 200 g)"
+    },
+    {
+      "group": "Cabbage",
+      "qty": 900,
+      "unit": "g",
+      "item": "green or white cabbage, cored and thinly sliced"
+    },
+    {
+      "group": "Cabbage",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Cabbage",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Noodles",
+      "qty": 340,
+      "unit": "g",
+      "item": "dried wide egg noodles"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 24,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.8%)",
+      "note": "about 4 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Noodles",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "chopped dill",
+      "note": "optional"
+    },
+    {
+      "group": "To serve",
+      "qty": 100,
+      "unit": "g",
+      "item": "sour cream"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften the onion",
+      "text": "Melt 45 g of the butter in a large casserole or deep frying pan over medium-high heat and cook the onion for 4-5 minutes, until soft and lightly browned."
+    },
+    {
+      "title": "Steam the cabbage",
+      "text": "Add the cabbage, salt and pepper and toss to coat, then cover and lower the heat to medium-low. Cook for 30 minutes, stirring every 5-10 minutes, until the cabbage turns silky and tender - it will shrink down to about a third of its original volume, as the cover traps steam that softens it gently."
+    },
+    {
+      "title": "Brown the cabbage",
+      "text": "Uncover the pan, raise the heat to medium, and cook for a further 10-15 minutes, stirring often, until the cabbage turns golden and sweet in patches. Add a tablespoon of water if it starts to catch on the bottom - this browning is what turns the cabbage's sharper, sulphury notes into something nutty and sweet."
+    },
+    {
+      "title": "Cook the noodles",
+      "text": "Bring 3 litres of water to the boil with the 24 g salt and cook the egg noodles to the packet time. Reserve 240 ml of the cooking water, then drain."
+    },
+    {
+      "title": "Combine and toss",
+      "text": "Add the noodles, 120 ml of the reserved water and the remaining butter to the cabbage, and stir over medium-high heat for 1-2 minutes until everything looks glossy. Taste and adjust the seasoning."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve hot, topped with the chopped dill if using and a dollop of sour cream."
+    }
+  ],
+  "tips": [
+    "Don't rush the covered cooking stage - cabbage needs the full 30 minutes to collapse down and turn tender rather than staying crunchy.",
+    "Let the cabbage brown properly once uncovered; stopping too early leaves it merely soft, missing the sweeter, nuttier flavour that comes from browning.",
+    "Keep a splash of water nearby during the browning stage in case the cabbage starts to catch and burn on the bottom of the pan.",
+    "Reserve some pasta water before draining the noodles, since it's easy to forget and the dish relies on it to bring everything together."
+  ],
+  "storage": "Keeps in the fridge for up to 3 days. Reheat in a pan with a splash of water over medium heat, stirring, until piping hot throughout. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 588,
+    "protein_g": 16.3,
+    "carbs_g": 79.7,
+    "sugar_g": 11.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 24.1,
+    "satfat_g": 13.3,
+    "salt_g": 2.36,
+    "fibre_g": 9.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "haluski-basic.jpg",
+  "image_alt": "A heap of buttery, golden wide egg noodles on a black plate on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

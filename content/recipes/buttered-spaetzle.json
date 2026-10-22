@@ -1,0 +1,140 @@
+{
+  "slug": "buttered-spaetzle",
+  "title": "Buttered Spätzle with Parsley",
+  "category": "pasta-noodles",
+  "cuisine": "German (Swabian)",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "spatzle",
+  "dish_title": "Spätzle",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Soft egg batter dumplings cooked in batches, then finished with a light fry in butter and tossed with parsley.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "wooden spoon",
+    "large pot (at least 5 litres)",
+    "spätzle maker, or a colander or perforated tray with 5-6 mm holes",
+    "slotted spoon or spider strainer",
+    "large frying pan"
+  ],
+  "ingredients": [
+    {
+      "group": "Spätzle",
+      "qty": 300,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Spätzle",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Spätzle",
+      "qty": 150,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Spätzle",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Spätzle",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 32,
+      "unit": "g",
+      "item": "fine salt for 4 litres of pasta water (0.8%)",
+      "note": "about 5.25 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "To finish",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped parsley"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the batter",
+      "text": "Whisk the flour, salt and nutmeg together in a bowl, then in a separate jug whisk the eggs with the milk. Beat the egg mixture into the flour with a wooden spoon for 2-3 minutes, until the batter turns smooth, thick and elastic, falling slowly off the spoon in ribbons and showing small bubbles on the surface - this beating builds just enough gluten to hold the little dumplings together once cooked."
+    },
+    {
+      "title": "Rest the batter",
+      "text": "Leave the batter to rest for 20 minutes before cooking."
+    },
+    {
+      "title": "Cook the spätzle",
+      "text": "Bring 4 litres of water to a simmer with the 32 g salt. Working in 3 batches, press the batter through a spätzle maker, or through a colander held over the pot using a spatula, letting it drop straight into the water. The spätzle are ready about 1 minute after they float to the surface; cook them for 30 seconds more, then lift out with a slotted spoon and drain well."
+    },
+    {
+      "title": "Fry in butter",
+      "text": "Melt the butter in a large frying pan over medium heat until it foams, then add the drained spätzle. Toss for 3-4 minutes, until hot through and catching a little golden colour in places - this light fry adds a toasty edge that plain boiling wouldn't give."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Toss the spätzle with the chopped parsley and black pepper, then serve straight from the pan while hot."
+    }
+  ],
+  "tips": [
+    "Beat the batter until it falls off the spoon in slow ribbons - under-beaten batter won't hold together and the spätzle will fall apart in the water.",
+    "Work in batches when pressing the batter into the water, since too much at once will clump together before it has a chance to form separate dumplings.",
+    "Drain the spätzle well before frying, as excess water will make them splutter and stop them catching any colour in the butter.",
+    "Keep the butter at a steady foam rather than letting it burn, which happens quickly once it starts browning."
+  ],
+  "storage": "Cooked spätzle keep in the fridge for up to 3 days, or can be frozen for up to 2 months. Reheat in a frying pan with a little extra butter until piping hot throughout. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 423,
+    "protein_g": 13.8,
+    "carbs_g": 59.6,
+    "sugar_g": 2.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 13.7,
+    "satfat_g": 7.2,
+    "salt_g": 1.37,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "spatzle-basic.jpg",
+  "image_alt": "A heap of golden buttered spätzle in a black bowl on dark slate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

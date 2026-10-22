@@ -22,6 +22,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | buffalo-chicken-burger | Chicken burger | Buffalo | 3 | 8 |
 | buffalo-chicken-wings | Chicken wings | Buffalo | 4 | 6 |
 | butter-chicken | Butter chicken | Classic | 2 | 4 |
+| buttered-spaetzle | Spätzle | Classic | 3 | 5 |
 | buttermilk-fried-chicken | Fried chicken (Southern) | Buttermilk-brined | 4 | 6 |
 | butternut-squash-ravioli | Filled (ravioli, tortellini, agnolotti) | Butternut squash | 4 | 6 |
 | cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
@@ -74,10 +75,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | graham-crackers | Graham crackers | Classic | 3 | 5 |
 | guacamole | Guacamole | Classic | 2 | 3 |
 | hainanese-chicken-rice | Hainanese chicken rice | Classic | 3 | 5 |
+| haluski | Haluski | Classic | 2 | 4 |
 | high-heat-roast-chicken | High-heat roast chicken | Classic | 3 | 5 |
 | iced-coffee | Iced coffee | Classic | 2 | 3 |
 | jerk-chicken | Jerk | Classic | 2 | 4 |
 | juicy-lucy | Juicy Lucy (stuffed) | Classic | 2 | 5 |
+| kasespatzle | Käsespätzle | Classic | 3 | 5 |
 | kitchen-sink-cookies | Kitchen-sink cookie | Classic | 3 | 5 |
 | kung-pao-chicken | Kung Pao chicken | Classic | 3 | 5 |
 | langues-de-chat | Langues de chat | Classic | 2 | 4 |
@@ -86,25 +89,33 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-cut-out-sugar-cookies | Sugar/cut-out | Lemon | 2 | 4 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
 | madeleines | Madeleines (cake-like) | Classic | 3 | 5 |
+| malloreddus-saffron-tomato | Malloreddus | Classic | 2 | 4 |
 | millionaires-shortbread | Bars (magic bars, millionaire's shortbread) | Classic | 4 | 6 |
 | musakhan | Musakhan | Classic | 3 | 6 |
 | mushroom-lasagne | Sheets/baked (lasagne) | Mushroom | 3 | 5 |
 | nanaimo-bars | Nanaimo bar | Classic | 3 | 5 |
 | nashville-hot-chicken | Nashville hot chicken | Classic | 2 | 5 |
+| noodle-kugel | Kugel | Classic | 3 | 5 |
 | ohn-no-khao-swe | Ohn no khao swè | Classic | 2 | 4 |
 | oklahoma-onion-burger | Oklahoma onion burger | Classic | 3 | 7 |
+| orecchiette-broccoli | Hand-rolled shapes (orecchiette, pici, trofie, cavatelli) | Classic | 3 | 5 |
+| pappardelle-beef-ragu | Pappardelle | Classic | 2 | 4 |
 | pasta-al-limone | Pasta al limone | Classic | 2 | 4 |
 | pasta-alla-norma | Alla Norma | Classic | 2 | 4 |
 | pasta-e-fagioli | Pasta e fagioli | Classic | 2 | 4 |
+| pasta-primavera | Pasta primavera | Classic | 3 | 5 |
+| pastitsio | Pastitsio | Classic | 3 | 5 |
 | peanut-butter-cookies | Peanut butter | Classic | 3 | 5 |
 | peking-duck | Peking duck | Classic | 2 | 4 |
 | penne-arrabbiata | Short (penne, rigatoni, fusilli) | Classic | 3 | 5 |
 | pesto-alla-trapanese | Pesto alla trapanese | Classic | 2 | 4 |
 | piri-piri-chicken | Piri-piri | Classic | 2 | 4 |
 | pizzelle | Pizzelle | Classic | 2 | 4 |
+| pizzoccheri | Pizzoccheri | Classic | 2 | 4 |
 | poached-chicken | Poached | Classic | 2 | 4 |
 | pollo-al-mattone | Pollo al mattone (chicken under a brick) | Classic | 2 | 4 |
 | potato-gnocchi | Gnocchi | Classic | 4 | 6 |
+| potato-vareniki | Vareniki | Classic | 2 | 4 |
 | raspberry-thumbprint-cookies | Thumbprints | Raspberry | 3 | 5 |
 | red-lentil-soup | Lentil | Classic | 2 | 3 |
 | ricotta-ravioli | Filled (ravioli, tortellini, agnolotti) | Classic | 4 | 6 |
@@ -123,10 +134,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spaghetti-puttanesca | Puttanesca | Classic | 2 | 4 |
 | speculoos | Speculoos | Classic | 3 | 5 |
 | spicy-chicken-burger | Chicken burger | Spicy (cayenne/hot sauce) | 2 | 8 |
+| spinach-ricotta-cannelloni | Cannelloni | Classic | 2 | 4 |
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
 | thumbprint-cookies | Thumbprints | Classic | 3 | 5 |
 | trenette-al-pesto | Trenette al pesto | Classic | 3 | 5 |
+| trofie-al-pesto | Trofie | Classic | 3 | 5 |
 | yakitori | Yakitori | Classic | 2 | 4 |
 | yangnyeom-chicken | Yangnyeom chicken | Classic | 3 | 6 |
 
