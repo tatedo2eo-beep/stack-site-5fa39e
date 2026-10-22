@@ -1,0 +1,107 @@
+{
+  "slug": "guacamole",
+  "title": "Fresh Chunky Guacamole",
+  "category": "snacks-sides",
+  "cuisine": "Mexican",
+  "summary": "A fresh, chunky guacamole built on properly ripe avocado, bright lime juice and a handful of simple aromatics. Ready in minutes and best served the moment it's made.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board and sharp knife",
+    "medium bowl",
+    "fork or potato masher"
+  ],
+  "ingredients": [
+    {
+      "qty": 3,
+      "unit": "pc",
+      "item": "ripe Hass avocados",
+      "note": "about 420 g flesh"
+    },
+    {
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lime juice",
+      "note": "from 1-2 limes"
+    },
+    {
+      "qty": 40,
+      "unit": "g",
+      "item": "white or red onion, very finely chopped"
+    },
+    {
+      "qty": 1,
+      "unit": "pc",
+      "item": "jalapeño or green chilli, deseeded and finely chopped"
+    },
+    {
+      "qty": 1,
+      "unit": "pc",
+      "item": "ripe tomato, deseeded and diced",
+      "note": "about 100 g"
+    },
+    {
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh coriander, finely chopped"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "fine salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Check the Avocados are Ripe",
+      "text": "Press gently near the stem end of each avocado — ripe ones yield slightly, and the small stem cap flicks off easily to reveal green underneath (brown underneath means it's overripe). If yours are still hard, leave them at room temperature in a paper bag for 2-4 days to ripen."
+    },
+    {
+      "title": "Rinse the Onion",
+      "text": "Next, tip the finely chopped onion into a sieve and rinse briefly under cold running water, then drain well. This washes away the sharp, sulphurous bite of raw onion while keeping its crunch intact."
+    },
+    {
+      "title": "Mash the Aromatics",
+      "text": "In the serving bowl, mash the rinsed onion, chilli, half the coriander and the salt together with a fork for about 30 seconds until they form a rough paste. Breaking down the aromatics first spreads their flavour evenly through the finished guacamole rather than leaving pockets of raw onion or chilli."
+    },
+    {
+      "title": "Mash in the Avocado",
+      "text": "Halve, stone and scoop the avocado flesh into the bowl, add the lime juice, and mash roughly with a fork, keeping it chunky rather than smooth. The lime's acidity brightens the flavour and also slows down the browning reaction that happens when cut avocado meets air."
+    },
+    {
+      "title": "Fold in the Tomato",
+      "text": "Finally, fold in the diced tomato and the remaining coriander, then taste and add a little more lime juice or salt if needed. Serve straight away with tortilla chips or vegetable sticks."
+    }
+  ],
+  "tips": [
+    "Deseed the tomato before dicing it, or the extra liquid will make the guacamole watery.",
+    "Avoid a food processor — it turns the avocado gluey rather than pleasantly chunky.",
+    "Jalapeño heat can vary a lot, so add it gradually and taste as you go.",
+    "Make guacamole no more than 1 hour ahead of serving for the best colour and freshness."
+  ],
+  "storage": "Press cling film directly onto the surface to keep air out, as oxygen is what causes browning, and refrigerate for up to 1 day. Scrape away any thin brown layer that forms before serving; guacamole does not freeze well.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 120,
+    "protein_g": 1.7,
+    "carbs_g": 7.9,
+    "sugar_g": 1.4,
+    "free_sugar_g": 0.1,
+    "fat_g": 10.3,
+    "satfat_g": 1.5,
+    "salt_g": 0.5,
+    "fibre_g": 5.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A bowl of chunky pale-green guacamole flecked with red tomato, onion and coriander, served with a scattering of tortilla chips."
+}
