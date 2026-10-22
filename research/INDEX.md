@@ -52,16 +52,19 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | butternut-squash-ravioli | Filled (ravioli, tortellini, agnolotti) | Butternut squash | 4 | 6 |
 | buttery-rice-pilaf-toasted-vermicelli-herbs | Steamed/pilaf | Classic | 3 | 5 |
 | cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
+| caramelised-onion-flatbread-anchovies-black-olives-thyme | Pissaladière | Classic | 3 | 5 |
 | caramelised-onion-soup-gruyere-toasts | French onion | Classic | 3 | 5 |
 | carrot-cake | Carrot | Classic | 2 | 4 |
 | celeriac-remoulade-mustard-parsley | Celeriac rémoulade | Classic | 3 | 5 |
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |
+| cheese-bread-boats-melted-mozzarella-feta-baked-egg | Khachapuri | Classic | 2 | 4 |
 | cheeseburger-sliders | Sliders | Classic | 2 | 5 |
 | cheesy-potato-gratin | Gratin | Classic | 2 | 4 |
 | chewy-amaretti | Amaretti | Classic | 2 | 4 |
 | chewy-blondies | Blondies | Classic | 2 | 4 |
 | chewy-chocolate-chip-cookies | Drop (chocolate chip, oatmeal) | Classic | 3 | 5 |
 | chewy-tapioca-cheese-rolls | Pão de queijo | Classic | 4 | 6 |
+| chicago-style-deep-dish-pizza-buttery-crust-chunky-tomato | Chicago deep-dish | Classic | 3 | 5 |
 | chicken-65 | Chicken 65 | Classic | 2 | 5 |
 | chicken-adobo | Chicken adobo | Classic | 2 | 5 |
 | chicken-and-dumplings | Chicken and dumplings | Classic | 2 | 4 |
@@ -110,6 +113,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cool-yoghurt-rice-mustard-seeds-curry-leaves-pomegranate | Curd rice | Classic | 2 | 4 |
 | corn-egg-drop-soup-chicken | Egg drop soup | Corn egg drop | 3 | 5 |
 | coronation-chicken | Coronation chicken | Classic | 2 | 5 |
+| cracker-thin-pizza-three-cheese-blend-sweet-oregano-sauce | St. Louis-style pizza | Classic | 2 | 4 |
 | creamy-cashew-yoghurt-chicken-curry-cardamom | Korma | Chicken | 3 | 5 |
 | creamy-chicken-salad-celery-herbs | Chicken salad | Classic | 3 | 5 |
 | creamy-egg-salad-celery-spring-onion-toast | Egg salad | Classic | 3 | 5 |
@@ -126,6 +130,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crisp-pita-fattoush-sumac | Fattoush | Classic | 3 | 5 |
 | crisp-salt-pepper-squid-chilli-garlic-spring-onion | Salt and pepper squid | Classic | 4 | 6 |
 | crisp-skinned-jacket-potatoes | Baked/jacket | Classic | 2 | 4 |
+| crisp-thin-crust-tavern-pizza-peppers-onion-fennel-tomato | Bar/tavern-style pizza | Classic | 2 | 4 |
 | crispy-baked-chicken-wings | Chicken wings | Classic | 3 | 5 |
 | crispy-chicken-sandwich | Chicken burger | Classic | 3 | 6 |
 | crispy-hasselback-potatoes | Hasselback | Classic | 2 | 4 |
@@ -137,6 +142,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crispy-steak-fries | Steak fries | Classic | 3 | 5 |
 | curried-chicken-salad-mango-chutney-almonds | Chicken salad | Curry | 3 | 5 |
 | cut-out-sugar-cookies | Sugar/cut-out | Classic | 2 | 4 |
+| detroit-style-pan-pizza-crisp-cheese-edges-tomato-stripes | Pan/Detroit | Classic | 3 | 5 |
 | dill-potato-salad | Potato salad | Dill | 2 | 4 |
 | diner-style-home-fries | Home fries | Classic | 2 | 4 |
 | double-fried-french-fries | French fries (double-fried) | Classic | 3 | 5 |
@@ -157,6 +163,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | folded-butter-omelette-melted-cheese | Omelette | Cheese | 2 | 4 |
 | fondant-potatoes | Fondant potatoes | Classic | 2 | 4 |
 | fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
+| fried-mini-pizzas-tomato-mozzarella-basil | Pizza fritta/montanara | Classic | 2 | 4 |
 | gai-yang | Gai yang | Classic | 2 | 4 |
 | galician-style-octopus-potatoes-smoked-paprika | Pulpo a la gallega | Classic | 4 | 6 |
 | garlic-parmesan-chicken-wings | Chicken wings | Garlic-parmesan | 3 | 5 |
@@ -253,7 +260,9 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | naengmyeon | Naengmyeon | Classic | 2 | 4 |
 | nanaimo-bars | Nanaimo bar | Classic | 3 | 5 |
 | nashville-hot-chicken | Nashville hot chicken | Classic | 2 | 5 |
+| neapolitan-style-margherita-pizza-tomato-mozzarella-basil | Neapolitan | Classic | 5 | 7 |
 | new-york-cheesecake | New York (baked, dense) | Classic | 3 | 5 |
+| new-york-style-cheese-pizza-oregano-tomato-sauce | New York | Classic | 2 | 4 |
 | nigerian-spiced-beef-suya | Suya | Classic | 2 | 4 |
 | noodle-kugel | Kugel | Classic | 3 | 5 |
 | northern-thai-coconut-curry-noodle-soup-chicken | Khao soi | Chicken | 3 | 5 |
@@ -330,6 +339,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | roasted-butternut-squash-soup-sage-pumpkin-seeds | Butternut squash | Classic | 3 | 5 |
 | roasted-garlic-mashed-potatoes | Mashed | Garlic | 3 | 5 |
 | romaine-caesar-salad-garlic-croutons | Caesar | Classic | 3 | 5 |
+| roman-style-sheet-pan-pizza-tomato-mozzarella-rosemary-potato | Pizza al taglio (Roman teglia) | Classic | 2 | 4 |
 | rosemary-garlic-roast-potatoes | Roast potatoes | Rosemary-garlic | 3 | 5 |
 | rugelach | Rugelach | Classic | 2 | 4 |
 | sables-diamants | Diamant | Classic | 2 | 4 |
@@ -337,10 +347,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | saffron-layered-lamb-biryani-golden-onions-mint | Biryani | Lamb | 2 | 4 |
 | salade-nicoise-tuna-eggs-potatoes | Niçoise | Classic | 2 | 4 |
 | samgyetang | Samgyetang | Classic | 2 | 4 |
+| savoury-cabbage-pancakes-spring-onion-tangy-sauce-mayo | Okonomiyaki (Japanese "pizza" – debatable) | Classic | 3 | 5 |
 | seared-mushroom-tacos-chipotle-onion-coriander | Taco | Mushroom | 3 | 5 |
 | seared-scallops-garlic-thyme-butter-lemon | Seared scallops | Classic | 4 | 6 |
 | seasoned-short-grain-rice-for-sushi | Sushi rice | Classic | 3 | 5 |
 | shakshuka | Shakshuka | Classic | 2 | 4 |
+| sicilian-style-thick-pan-pizza-onion-tomato-crisp-crumbs | Sicilian/sfincione | Classic | 2 | 4 |
 | signature-fudgy-brownies | Brownie (fudgy or cakey) | Classic | 2 | 4 |
 | signature-smash-burger | Smash burger | Classic | 3 | 8 |
 | silky-potato-leek-soup-chives-crispy-leeks | Potato-leek | Classic | 3 | 5 |
@@ -375,8 +387,11 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spiced-minced-beef-keema | Keema | Classic | 2 | 4 |
 | spiced-saudi-chicken-rice-tomato-almonds-raisins | Kabsa | Chicken | 2 | 4 |
 | spicy-chicken-burger | Chicken burger | Spicy (cayenne/hot sauce) | 2 | 8 |
+| spinach-ricotta-calzones-tomato-dipping-sauce | Calzone | Classic | 2 | 4 |
 | spinach-ricotta-cannelloni | Cannelloni | Classic | 2 | 4 |
 | spinach-ricotta-lasagne | Sheets/baked (lasagne) | Spinach and ricotta | 3 | 5 |
+| spinach-ricotta-mozzarella-stromboli-garlic-crust | Stromboli | Classic | 2 | 4 |
+| square-sheet-pan-pizza-garlic-tomato-dollops-mozzarella | Grandma pizza | Classic | 2 | 4 |
 | steamed-masa-parcels-chicken-tomatillo-salsa-verde | Tamal | Chicken in salsa verde | 2 | 4 |
 | steamed-masa-parcels-red-chilli-chicken | Tamal | Classic | 2 | 4 |
 | steamed-whole-sea-bass-ginger-spring-onions-sizzling-oil | Cantonese steamed whole fish | Classic | 3 | 5 |
@@ -394,6 +409,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | thai-green-coconut-curry-chicken-aubergine-basil | Green curry | Chicken | 3 | 5 |
 | thai-thick-coconut-red-curry-beef-lime-leaf-peanuts | Panang curry | Beef | 2 | 4 |
 | thai-yellow-coconut-curry-chicken-potatoes-onion | Thai yellow curry (kaeng kari) | Chicken | 2 | 4 |
+| thin-spiced-lamb-flatbreads-sumac-onion-parsley-lemon | Lahmacun | Classic | 3 | 5 |
 | thumbprint-cookies | Thumbprints | Classic | 3 | 5 |
 | tiny-lamb-dumplings-garlic-yoghurt-paprika-butter | Manti | Classic | 2 | 4 |
 | tom-yum-goong-thai-hot-sour-prawn-soup | Tom yum | Classic | 3 | 5 |
@@ -424,5 +440,6 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | yangnyeom-chicken | Yangnyeom chicken | Classic | 3 | 6 |
 | yellow-butter-cake-chocolate-frosting | Butter/layer cake (yellow/vanilla) | Classic | 3 | 5 |
 | yellow-sheet-cake | Sheet cake | Classic | 2 | 4 |
+| zaatar-flatbreads-olive-oil-cucumber-tomato-mint | Manakish | Classic | 2 | 4 |
 
 Flavour maps: [smash-burger-flavours.md](smash-burger-flavours.md) (extra flavours ON HOLD per Joe's final rule: book flavours only).

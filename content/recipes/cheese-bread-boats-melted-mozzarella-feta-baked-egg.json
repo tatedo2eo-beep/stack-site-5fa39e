@@ -1,0 +1,161 @@
+{
+  "slug": "cheese-bread-boats-melted-mozzarella-feta-baked-egg",
+  "title": "Cheese Bread Boats with Melted Mozzarella, Feta and Baked Egg",
+  "category": "vegetarian",
+  "cuisine": "Georgian",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "khachapuri",
+  "dish_title": "Khachapuri",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Eye-shaped bread boats filled with melting mozzarella and feta, topped with a baked egg cooked until set and finished with butter. Tear off the crust and dip it into the cheesy centre; one boat serves two.",
+  "servings": 4,
+  "prep_min": 30,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "large mixing bowl",
+    "baking tray lined with baking paper",
+    "rolling pin",
+    "pastry brush",
+    "spoon",
+    "instant-read probe thermometer",
+    "clean tea towel"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "strong white bread flour, plus extra for dusting"
+    },
+    {
+      "group": "Dough",
+      "qty": 190,
+      "unit": "ml",
+      "item": "lukewarm water"
+    },
+    {
+      "group": "Dough",
+      "qty": 1.25,
+      "unit": "tsp",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 4,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Filling",
+      "qty": 180,
+      "unit": "g",
+      "item": "low-moisture whole-milk mozzarella, coarsely grated"
+    },
+    {
+      "group": "Filling",
+      "qty": 120,
+      "unit": "g",
+      "item": "feta, drained and finely crumbled"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium eggs"
+    },
+    {
+      "group": "Finish",
+      "qty": 20,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "10 g melted for brushing, 10 g in small cubes"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dough",
+      "text": "Mix the flour, yeast, sugar and salt, add the water and oil and knead for 5-8 minutes until smooth. Cover and leave for 1 hour 30 minutes to 2 hours, until doubled. A well-risen dough gives the boats a light, airy rim."
+    },
+    {
+      "title": "Preheat the oven",
+      "text": "Heat the oven to 230°C (fan 210°C), with the shelf in the middle. A hot oven sets the crust quickly so the boats hold their shape."
+    },
+    {
+      "title": "Shape the boats",
+      "text": "Divide the dough in two and roll each piece on a lightly floured surface to a 28cm round about 5mm thick, then lay both on the lined tray. Roll 2 opposite edges of each round in towards the centre by about 6cm, then pinch the ends together and twist to form pointed tips. This gives an eye-shaped boat about 28cm long with a raised rim; leave for 20 minutes to puff."
+    },
+    {
+      "title": "Fill with cheese",
+      "text": "Mix the mozzarella and feta with the 2 tbsp water and divide between the boats, mounding it in the centre. The water helps the cheeses melt into a smooth, creamy pool rather than turning oily."
+    },
+    {
+      "title": "First bake",
+      "text": "Bake for 15 minutes, until the crust is golden and the cheese has melted. Brush the rims with the melted butter for a soft, glossy finish."
+    },
+    {
+      "title": "Bake the egg",
+      "text": "With a spoon, make a 5cm well in the middle of each cheese filling and crack an egg into each. Return to the oven for 6-8 minutes, until the white is fully set and the yolk has thickened and is set at the edges, reading 71°C on the probe in the centre of the yolk. This style is often eaten with a runny yolk, but here the egg is cooked through for safety."
+    },
+    {
+      "title": "Butter and serve",
+      "text": "Dot the cubed butter over the hot cheese and serve at once. Tear off the crust ends and dip them into the cheese as it melts together with the butter."
+    }
+  ],
+  "tips": [
+    "A common mistake is not sealing the twisted tips firmly, so they unravel in the oven; pinch and twist them well.",
+    "Drain and finely crumble the feta so it melts evenly with the mozzarella.",
+    "Make a deep enough well for the egg so it stays in the centre rather than sliding off the cheese.",
+    "Check the yolk with the probe for 71°C before serving."
+  ],
+  "storage": "Cool leftovers within 2 hours and refrigerate for up to 3 days. Reheat in a hot oven or a dry frying pan until piping hot (74°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 602,
+    "protein_g": 26.6,
+    "carbs_g": 58.3,
+    "sugar_g": 3.0,
+    "free_sugar_g": 1.0,
+    "fat_g": 28.6,
+    "satfat_g": 15.5,
+    "salt_g": 2.31,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "khachapuri-advanced.jpg",
+  "image_alt": "A boat-shaped golden bread filled with bubbling melted cheese, an egg yolk and a cube of butter in the centre.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}
