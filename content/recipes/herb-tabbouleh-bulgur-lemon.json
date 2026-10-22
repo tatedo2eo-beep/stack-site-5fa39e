@@ -1,0 +1,152 @@
+{
+  "slug": "herb-tabbouleh-bulgur-lemon",
+  "title": "Herb Tabbouleh with Bulgur and Lemon",
+  "category": "salads-bowls",
+  "cuisine": "Lebanese",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "tabbouleh",
+  "dish_title": "Tabbouleh",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A herb-packed tabbouleh where finely chopped parsley and mint outweigh the bulgur, which softens in lemon and tomato juice rather than water. Serve it with crisp romaine leaves for scooping.",
+  "servings": 4,
+  "prep_min": 30,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "fine sieve set over a bowl",
+    "2 medium bowls",
+    "large bowl",
+    "chopping board and large sharp knife",
+    "salad spinner or clean tea towel",
+    "whisk or fork"
+  ],
+  "ingredients": [
+    {
+      "group": "Salad",
+      "qty": 350,
+      "unit": "g",
+      "item": "ripe tomatoes, cored and finely diced (5 mm)"
+    },
+    {
+      "group": "Salad",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Salad",
+      "qty": 45,
+      "unit": "g",
+      "item": "fine or medium bulgur wheat"
+    },
+    {
+      "group": "Dressing",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "lemon juice (about 2 lemons)"
+    },
+    {
+      "group": "Salad",
+      "qty": 120,
+      "unit": "g",
+      "item": "flat-leaf parsley (about 3 large bunches), leaves and tender stems, finely chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh mint leaves, finely chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 3,
+      "unit": "pc",
+      "item": "spring onions, finely sliced"
+    },
+    {
+      "group": "Dressing",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "romaine heart, leaves separated, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Drain the tomatoes",
+      "text": "Toss the diced tomatoes with ¼ tsp of the salt, tip them into the sieve set over a bowl and leave for 30 minutes, stirring once. This draws off the tomatoes' watery juice so it doesn't dilute the salad, and that juice is kept rather than discarded."
+    },
+    {
+      "title": "Soften the bulgur",
+      "text": "Rinse the bulgur under cold water, drain well, and put it in a medium bowl with 2 tbsp of the lemon juice and 2 tbsp of the reserved tomato juice. Leave for 30-40 minutes until the grains soften. No cooking is needed here, as the bulgur simply drinks up the tart juice instead of water, picking up flavour as it swells."
+    },
+    {
+      "title": "Chop the herbs",
+      "text": "Wash the parsley and mint and dry them thoroughly, since wet herbs will water down the finished salad. Chop them finely by hand with a sharp knife rather than in a food processor, which keeps the leaves fresh and green instead of bruised and dark."
+    },
+    {
+      "title": "Make the dressing and combine",
+      "text": "Whisk the remaining 2 tbsp lemon juice, the olive oil, cayenne, pepper and remaining ¼ tsp salt together in the large bowl. Add the drained tomatoes, softened bulgur, parsley, mint and spring onions, then toss everything gently to combine."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Cover and leave at room temperature for 30 minutes, by which point the bulgur should be tender and the flavours well blended. Toss once more, taste for salt and lemon, and serve with the romaine leaves alongside for scooping."
+    }
+  ],
+  "tips": [
+    "Using damp herbs is the most common mistake in tabbouleh — dry the parsley and mint thoroughly or the salad turns watery.",
+    "Resist chopping the herbs in a food processor; a sharp knife keeps them bright green instead of mushy and dull.",
+    "Remember this is a herb salad with bulgur in it, not the other way round, so don't be shy with the parsley.",
+    "Give the bulgur the full soaking time so it's tender rather than chalky.",
+    "Taste before serving and adjust the lemon and salt, as both mellow slightly during the rest."
+  ],
+  "storage": "Refrigerate within 2 hours and eat within 1 day, as the herbs will wilt and the bulgur will carry on softening over time. Not suitable for freezing.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 202,
+    "protein_g": 4.0,
+    "carbs_g": 17.8,
+    "sugar_g": 3.7,
+    "free_sugar_g": 0.4,
+    "fat_g": 14.3,
+    "satfat_g": 2.0,
+    "salt_g": 0.8,
+    "fibre_g": 5.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tabbouleh-advanced.jpg",
+  "image_alt": "A bright green mound of finely chopped parsley with bulgur and diced tomato beside crisp lettuce leaves.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

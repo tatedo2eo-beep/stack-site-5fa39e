@@ -1,0 +1,27 @@
+# Research: Filipino Oxtail and Peanut Stew with Vegetables
+Dish: Kare-kare / flavour: Classic. Private file, not published.
+
+## Sources actually opened
+- [Kare-Kare (Filipino Curry) (Serious Eats)](https://www.seriouseats.com/kare-kare-filipino-curry-5196493) [Tier 1 (locked list): Serious Eats]: Toasted rice flour; oxtail water-braised about 3 h and skimmed; natural peanut butter, annatto and fish sauce; bok choy, aubergine and long beans cooked separately; bagoong and crushed peanuts. _(curl 200; JSON-LD recipe (ingredients and steps) read)_
+- [Oxtail Stew in Peanut Sauce (Kare-Kare) (NYT Cooking)](https://cooking.nytimes.com/recipes/1019215-oxtail-stew-in-peanut-sauce-kare-kare) [Tier 2 (locked list): NYT Cooking]: Oxtail simmered until tender; annatto-coloured peanut sauce thickened with toasted rice; vegetables; bagoong at the table. (Its wine is not used.) _(curl 200; JSON-LD recipe (ingredients and steps) read)_
+- [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
+- [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
+
+> Written for the meat chapter. Quantities are my own; the core method matches the locked-list sources listed above; nothing copied. Whole cuts cooked to at least 63 °C plus rest and ground meat to 71 °C (site rules, FSIS), regardless of the lower pull temperatures some sources give.
+
+## Own cooking judgment
+- Water braise about 3 h and skim, toasted rice flour, natural peanut butter, annatto and fish sauce, vegetables cooked separately (SE); bagoong at the table (SE, NYT); water instead of the wine in NYT.
+
+## Reliability checks
+- Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
+- Doneness cues in the method: 0 step(s) carry a temperature, and every cooking step has a visual cue.
+- Timing sanity check: prep 30 min + cook 240 min against the step times.
+- Quantities checked against servings (6). Nutrition worked from USDA FDC (see content/notes/filipino-oxtail-peanut-stew-nutrition.md).
+- Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
+
+## Knowledge check
+Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C6 (frying temperatures); 06-G6 (frying safety).
+Changes made:
+- white rice flour: 4 tbsp → 32 g (CHECKLIST 1, weights in grams)
+- Salt given in grams (06-G1): 0.75 tsp fine salt -> 4.5 g
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

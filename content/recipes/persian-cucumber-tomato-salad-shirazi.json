@@ -1,0 +1,145 @@
+{
+  "slug": "persian-cucumber-tomato-salad-shirazi",
+  "title": "Persian Cucumber and Tomato Salad (Salad-e Shirazi)",
+  "category": "salads-bowls",
+  "cuisine": "Persian",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "shirazi",
+  "dish_title": "Shirazi",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A refreshing Persian diced salad of cucumber, tomato and onion in a tangy lime and dried mint dressing, finished with sumac for a fruity sharpness. A short rest after dressing is all it needs to come together.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board and sharp knife",
+    "large bowl",
+    "small bowl",
+    "whisk or fork",
+    "vegetable peeler"
+  ],
+  "ingredients": [
+    {
+      "group": "Salad",
+      "qty": 340,
+      "unit": "g",
+      "item": "small cucumbers (about 3), partly peeled in stripes and cut into 5 mm dice"
+    },
+    {
+      "group": "Salad",
+      "qty": 400,
+      "unit": "g",
+      "item": "ripe tomatoes (about 3 medium), cored and cut into 5 mm dice"
+    },
+    {
+      "group": "Salad",
+      "qty": 120,
+      "unit": "g",
+      "item": "red onion (1 small), cut into 3-5 mm dice"
+    },
+    {
+      "group": "Salad",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, finely chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "lime juice (about 2 limes)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried mint, crumbled"
+    },
+    {
+      "group": "Dressing",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground sumac"
+    },
+    {
+      "group": "To finish",
+      "qty": 4,
+      "unit": "pc",
+      "item": "small fresh mint sprigs"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dice the vegetables",
+      "text": "Cut the cucumber, tomato and onion into small, even dice of about 5 mm, with the onion slightly smaller than the rest. Keeping the pieces uniform means every spoonful gets a balanced mix of all three rather than one dominating. Tip them into the large bowl with the chopped parsley."
+    },
+    {
+      "title": "Whisk the dressing",
+      "text": "Whisk the lime juice, olive oil, dried mint, salt and pepper together in the small bowl. Crumble the dried mint between your fingers as you add it, since this releases its aroma far more than simply sprinkling it in whole."
+    },
+    {
+      "title": "Dress and rest",
+      "text": "Pour the dressing over the diced vegetables, toss well, and leave for 15 minutes. During this rest the salt draws juice out of the tomato and cucumber, which mingles with the lime and oil to flavour everything evenly."
+    },
+    {
+      "title": "Finish and garnish",
+      "text": "Toss the salad again and taste, adding a touch more lime juice if you'd like it sharper. Sprinkle with the sumac and top with the mint sprigs just before serving, so its colour and citrusy tang stay bright rather than fading into the dressing."
+    }
+  ],
+  "tips": [
+    "Cutting the vegetables too large is a common mistake with this salad — keep the dice small and even so the flavours balance in every bite.",
+    "Don't skip the 15-minute rest; it's what lets the salt draw out juice and bring the dressing together.",
+    "Dice the onion a touch smaller than the cucumber and tomato, as its flavour is stronger.",
+    "Serve at room temperature or lightly chilled rather than ice-cold, which mutes the lime and mint."
+  ],
+  "storage": "Cover and refrigerate within 2 hours and eat within 2 days; the vegetables will soften gradually as they sit. This salad isn't suitable for freezing.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 137,
+    "protein_g": 1.9,
+    "carbs_g": 11.4,
+    "sugar_g": 5.6,
+    "free_sugar_g": 0.3,
+    "fat_g": 10.4,
+    "satfat_g": 1.5,
+    "salt_g": 1.11,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "shirazi-advanced.jpg",
+  "image_alt": "A small bowl of finely diced cucumber, tomato and red onion topped with mint.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "tomato-mozzarella-caprese-basil",
+  "title": "Tomato and Mozzarella Caprese with Basil",
+  "category": "salads-bowls",
+  "cuisine": "Italian",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "caprese",
+  "dish_title": "Caprese",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A simple caprese of overlapping ripe tomato and mozzarella slices with whole basil leaves, finished with good olive oil. Letting the cheese lose its fridge chill before serving makes all the difference to its flavour.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board and sharp serrated knife",
+    "serving platter",
+    "kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Salad",
+      "qty": 600,
+      "unit": "g",
+      "item": "ripe mixed red and yellow tomatoes, at room temperature"
+    },
+    {
+      "group": "Salad",
+      "qty": 250,
+      "unit": "g",
+      "item": "fresh mozzarella (2 balls, animal-rennet-free), drained"
+    },
+    {
+      "group": "Salad",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh basil leaves (1 small bunch)"
+    },
+    {
+      "group": "Salad",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Salad",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp; flaky sea salt if you have it"
+    },
+    {
+      "group": "Salad",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Slice and rest the cheese",
+      "text": "Slice the cold mozzarella about 1 cm thick, since it cuts far more cleanly straight from the fridge, then pat the slices dry with kitchen paper. Leave them covered for 20 minutes to come up to room temperature. Cold mozzarella tastes muted, so this short rest is what lets its milky flavour actually show through."
+    },
+    {
+      "title": "Slice and season the tomatoes",
+      "text": "Cut the tomatoes into 1 cm slices on the board and season with half the salt. The salt draws out a little of the tomatoes' juice straight away, concentrating their flavour before they even reach the platter."
+    },
+    {
+      "title": "Layer the platter",
+      "text": "Overlap the tomato slices, mozzarella slices and whole basil leaves in alternating rows across the platter. Pour over any juice that has collected on the board, as it's full of flavour and shouldn't be wasted. Aim for an even mix of colour and texture across the plate."
+    },
+    {
+      "title": "Season and finish",
+      "text": "Scatter over the remaining salt and the pepper, then drizzle with the olive oil and tuck in a few extra basil leaves for freshness. Serve within 30 minutes so the basil stays bright and green rather than wilting against the warm tomatoes."
+    }
+  ],
+  "tips": [
+    "Serving the mozzarella straight from the fridge is a common mistake — the cold mutes its flavour, so give it the full 20 minutes to come to room temperature.",
+    "Check your mozzarella is animal-rennet-free if that matters to you.",
+    "Use the ripest tomatoes you can find; this salad has nowhere to hide if they're underripe.",
+    "Dress it close to serving time, as basil leaves can darken and lose their shine if left sitting in oil and salt too long."
+  ],
+  "storage": "Best enjoyed fresh within 30 minutes of assembling. If you must keep leftovers, refrigerate within 2 hours and eat within 1 day; it doesn't freeze well and there's no cooking or reheating involved.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 315,
+    "protein_g": 15.0,
+    "carbs_g": 7.6,
+    "sugar_g": 4.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 25.7,
+    "satfat_g": 11.2,
+    "salt_g": 1.86,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "caprese-basic.jpg",
+  "image_alt": "Overlapping slices of red and yellow tomato and mozzarella with whole basil leaves on a black plate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}
