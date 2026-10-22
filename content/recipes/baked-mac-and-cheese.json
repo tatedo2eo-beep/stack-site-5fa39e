@@ -172,5 +172,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "mac-and-cheese-basic.jpg",
-  "image_alt": "Baked macaroni cheese with a golden, crunchy crumb top in a black oval dish on dark slate."
+  "image_alt": "Baked macaroni cheese with a golden, crunchy crumb top in a black oval dish on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

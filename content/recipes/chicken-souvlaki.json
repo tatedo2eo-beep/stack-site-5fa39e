@@ -177,5 +177,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-souvlaki-basic.jpg",
-  "image_alt": "Charred chicken souvlaki skewers served with warm pitta, a bowl of thick tzatziki, tomato wedges and sliced red onion."
+  "image_alt": "Charred chicken souvlaki skewers served with warm pitta, a bowl of thick tzatziki, tomato wedges and sliced red onion.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

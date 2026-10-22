@@ -139,5 +139,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "cutlet-schnitzel-basic.jpg",
-  "image_alt": "A large, golden breaded chicken schnitzel on a dark plate with a lemon wedge and a sprig of parsley."
+  "image_alt": "A large, golden breaded chicken schnitzel on a dark plate with a lemon wedge and a sprig of parsley.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
 }

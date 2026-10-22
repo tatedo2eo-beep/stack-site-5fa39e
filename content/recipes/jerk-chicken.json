@@ -172,5 +172,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "jerk-advanced.jpg",
-  "image_alt": "Smoky, deeply charred jerk chicken leg quarters piled on a platter with fresh lime wedges."
+  "image_alt": "Smoky, deeply charred jerk chicken leg quarters piled on a platter with fresh lime wedges.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

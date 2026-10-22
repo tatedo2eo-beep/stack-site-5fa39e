@@ -162,5 +162,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "gnocchi-basic--tomato.jpg",
-  "image_alt": "Potato gnocchi in a chunky cherry tomato sauce with basil leaves in a black bowl on dark slate."
+  "image_alt": "Potato gnocchi in a chunky cherry tomato sauce with basil leaves in a black bowl on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

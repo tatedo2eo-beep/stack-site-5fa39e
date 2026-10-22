@@ -134,5 +134,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "samgyetang-basic.jpg",
-  "image_alt": "A whole stuffed poussin in a bowl of clear broth with ginseng root, jujubes and sliced spring onion."
+  "image_alt": "A whole stuffed poussin in a bowl of clear broth with ginseng root, jujubes and sliced spring onion.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
 }

@@ -133,5 +133,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "long-dried-spaghetti-linguine-bucatini-basic.jpg",
-  "image_alt": "Spaghetti in a glossy red tomato sauce topped with grated Parmesan and a sprig of basil in a black bowl on dark slate."
+  "image_alt": "Spaghetti in a glossy red tomato sauce topped with grated Parmesan and a sprig of basil in a black bowl on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

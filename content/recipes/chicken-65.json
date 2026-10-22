@@ -196,5 +196,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-65-basic.jpg",
-  "image_alt": "A pile of deep red-brown, crisply fried chicken pieces scattered with crackled curry leaves and garlic, served with onion rings and lemon wedges."
+  "image_alt": "A pile of deep red-brown, crisply fried chicken pieces scattered with crackled curry leaves and garlic, served with onion rings and lemon wedges.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Food Network Kitchen"
+  ]
 }

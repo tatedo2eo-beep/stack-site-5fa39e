@@ -152,5 +152,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-wings-basic.jpg",
-  "image_alt": "Crisp, golden baked chicken wings on a dark plate with celery sticks and a bowl of creamy white dip."
+  "image_alt": "Crisp, golden baked chicken wings on a dark plate with celery sticks and a bowl of creamy white dip.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
 }

@@ -153,5 +153,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "yassa-basic.jpg",
-  "image_alt": "Golden chicken in a heap of soft lemony onions with green olives, served with white rice."
+  "image_alt": "Golden chicken in a heap of soft lemony onions with green olives, served with white rice.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
 }

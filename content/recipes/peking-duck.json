@@ -164,5 +164,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "peking-duck-advanced.jpg",
-  "image_alt": "Thin slices of glossy, mahogany-skinned roast duck arranged beside soft pancakes, hoisin sauce, cucumber batons and spring onion strips."
+  "image_alt": "Thin slices of glossy, mahogany-skinned roast duck arranged beside soft pancakes, hoisin sauce, cucumber batons and spring onion strips.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

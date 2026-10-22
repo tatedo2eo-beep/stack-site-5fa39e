@@ -183,5 +183,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "cheeseburger-basic--cheddar.jpg",
-  "image_alt": "A cheeseburger with melted orange cheddar and frilly lettuce in a glossy toasted bun."
+  "image_alt": "A cheeseburger with melted orange cheddar and frilly lettuce in a glossy toasted bun.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
 }

@@ -135,5 +135,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-wings-basic--lemon-pepper.jpg",
-  "image_alt": "Golden lemon pepper chicken wings flecked with lemon zest and black pepper, with lemon wedges on a dark plate."
+  "image_alt": "Golden lemon pepper chicken wings flecked with lemon zest and black pepper, with lemon wedges on a dark plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
 }

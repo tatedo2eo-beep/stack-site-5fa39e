@@ -156,5 +156,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "juicy-lucy-stuffed-advanced.jpg",
-  "image_alt": "A Juicy Lucy burger cut in half, molten cheese oozing from the centre of the patty, with pickles alongside."
+  "image_alt": "A Juicy Lucy burger cut in half, molten cheese oozing from the centre of the patty, with pickles alongside.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
 }

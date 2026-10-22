@@ -165,5 +165,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "alfajores-advanced.jpg",
-  "image_alt": "Alfajores sandwich cookies filled with dulce de leche and rolled in coconut on a black plate against a dark background."
+  "image_alt": "Alfajores sandwich cookies filled with dulce de leche and rolled in coconut on a black plate against a dark background.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "King Arthur Baking"
+  ]
 }

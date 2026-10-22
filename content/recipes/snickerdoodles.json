@@ -150,5 +150,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "snickerdoodle-basic.jpg",
-  "image_alt": "Soft, crackled cinnamon-sugar snickerdoodles, one broken open, on a black plate against a dark background."
+  "image_alt": "Soft, crackled cinnamon-sugar snickerdoodles, one broken open, on a black plate against a dark background.",
+  "inspired_by": [
+    "King Arthur Baking",
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
 }

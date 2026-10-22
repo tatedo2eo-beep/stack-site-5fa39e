@@ -141,5 +141,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "diamant-advanced.jpg",
-  "image_alt": "Round, pale golden sablé biscuits with sugar-crusted edges on a black plate against a dark background."
+  "image_alt": "Round, pale golden sablé biscuits with sugar-crusted edges on a black plate against a dark background.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

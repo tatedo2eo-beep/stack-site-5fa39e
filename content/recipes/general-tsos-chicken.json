@@ -211,5 +211,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "general-tso-s-chicken-basic.jpg",
-  "image_alt": "Glossy General Tso's chicken pieces in a dark sweet-savoury sauce with sesame seeds, next to steamed broccoli."
+  "image_alt": "Glossy General Tso's chicken pieces in a dark sweet-savoury sauce with sesame seeds, next to steamed broccoli.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
 }

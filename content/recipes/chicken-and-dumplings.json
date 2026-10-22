@@ -210,5 +210,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-and-dumplings-basic.jpg",
-  "image_alt": "A bowl of creamy chicken and vegetable stew topped with plump, golden-flecked dumplings, steam rising from the surface."
+  "image_alt": "A bowl of creamy chicken and vegetable stew topped with plump, golden-flecked dumplings, steam rising from the surface.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
 }

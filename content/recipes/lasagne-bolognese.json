@@ -216,5 +216,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "sheets-baked-lasagne-basic.jpg",
-  "image_alt": "A neat slice of beef lasagne with a golden, bubbling top on a black plate, the baking dish behind it."
+  "image_alt": "A neat slice of beef lasagne with a golden, bubbling top on a black plate, the baking dish behind it.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
 }

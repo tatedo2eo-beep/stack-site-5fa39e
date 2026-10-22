@@ -142,5 +142,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-adobo-basic.jpg",
-  "image_alt": "Deep golden-brown chicken pieces glazed in a dark, glossy adobo sauce, scattered with sliced spring onion, served over steamed rice."
+  "image_alt": "Deep golden-brown chicken pieces glazed in a dark, glossy adobo sauce, scattered with sliced spring onion, served over steamed rice.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

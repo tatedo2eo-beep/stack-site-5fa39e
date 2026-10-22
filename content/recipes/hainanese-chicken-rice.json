@@ -272,5 +272,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "hainanese-chicken-rice-advanced.jpg",
-  "image_alt": "Sliced poached chicken with a dome of golden rice, cucumber slices and small bowls of chilli sauce, ginger-spring onion oil and soy."
+  "image_alt": "Sliced poached chicken with a dome of golden rice, cucumber slices and small bowls of chilli sauce, ginger-spring onion oil and soy.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
 }

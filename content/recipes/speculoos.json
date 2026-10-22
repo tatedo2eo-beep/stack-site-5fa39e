@@ -152,5 +152,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "speculoos-advanced.jpg",
-  "image_alt": "Rectangular deep-brown speculoos biscuits on a black plate against a dark background."
+  "image_alt": "Rectangular deep-brown speculoos biscuits on a black plate against a dark background.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
 }

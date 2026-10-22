@@ -112,3 +112,6 @@ table.data thead th{font-size:12px;letter-spacing:.06em;text-transform:uppercase
 /* Real ads: hide any slot Google leaves unfilled so no blank gap remains */
 ins.adsbygoogle[data-ad-status="unfilled"]{display:none!important}
 .ad-slot:has(ins.adsbygoogle[data-ad-status="unfilled"]),.adw:has(ins.adsbygoogle[data-ad-status="unfilled"]){display:none!important}
+
+/* Inspired-by credit line under the recipe title (plain text) */
+.insp{margin:.25rem 0 .5rem;font-size:.9rem;font-style:italic;opacity:.75}

@@ -193,5 +193,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-fried-steak-basic.jpg",
-  "image_alt": "A crisp, golden-crusted fried steak on a plate, smothered in creamy peppery gravy, with mashed potatoes alongside."
+  "image_alt": "A crisp, golden-crusted fried steak on a plate, smothered in creamy peppery gravy, with mashed potatoes alongside.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

@@ -154,5 +154,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "lentil-basic.jpg",
-  "image_alt": "A bowl of lentil soup with diced vegetables and fresh herbs, served with a lemon wedge."
+  "image_alt": "A bowl of lentil soup with diced vegetables and fresh herbs, served with a lemon wedge.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
 }

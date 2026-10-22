@@ -135,5 +135,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "shortbread-basic--chocolate-dipped.jpg",
-  "image_alt": "Shortbread fingers with one end dipped in dark chocolate on a black plate against a dark background."
+  "image_alt": "Shortbread fingers with one end dipped in dark chocolate on a black plate against a dark background.",
+  "inspired_by": [
+    "King Arthur Baking",
+    "NYT Cooking"
+  ]
 }

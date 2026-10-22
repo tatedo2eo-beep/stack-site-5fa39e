@@ -163,5 +163,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chili-con-carne-basic.jpg",
-  "image_alt": "A dark bowl of beef and bean chilli topped with soured cream, grated cheese and sliced spring onion."
+  "image_alt": "A dark bowl of beef and bean chilli topped with soured cream, grated cheese and sliced spring onion.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
 }

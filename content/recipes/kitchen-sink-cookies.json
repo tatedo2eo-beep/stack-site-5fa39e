@@ -178,5 +178,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "kitchen-sink-cookie-advanced.jpg",
-  "image_alt": "Thick kitchen-sink cookies studded with chocolate, pretzels and crisps."
+  "image_alt": "Thick kitchen-sink cookies studded with chocolate, pretzels and crisps.",
+  "inspired_by": [
+    "Milk Bar",
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
 }

@@ -122,5 +122,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "high-heat-roast-chicken-advanced.jpg",
-  "image_alt": "A golden-brown whole roast chicken with crisp, deeply burnished skin resting in a cast-iron pan, surrounded by buttery pan juices and fresh thyme sprigs."
+  "image_alt": "A golden-brown whole roast chicken with crisp, deeply burnished skin resting in a cast-iron pan, surrounded by buttery pan juices and fresh thyme sprigs.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

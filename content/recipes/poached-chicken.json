@@ -176,5 +176,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "poached-basic.jpg",
-  "image_alt": "Slices of pale, moist poached chicken breast on a dark plate with bright green vegetables."
+  "image_alt": "Slices of pale, moist poached chicken breast on a dark plate with bright green vegetables.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
 }

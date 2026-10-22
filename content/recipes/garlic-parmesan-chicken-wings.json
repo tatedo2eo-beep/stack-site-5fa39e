@@ -145,5 +145,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-wings-basic--garlic-parmesan.jpg",
-  "image_alt": "Crisp chicken wings coated in grated parmesan and chopped parsley on a dark plate."
+  "image_alt": "Crisp chicken wings coated in grated parmesan and chopped parsley on a dark plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

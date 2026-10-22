@@ -233,5 +233,8 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-burger-basic--buffalo.jpg",
-  "image_alt": "A crispy chicken burger coated in orange buffalo sauce, topped with blue cheese crumbles and pickles, on lettuce in a toasted bun."
+  "image_alt": "A crispy chicken burger coated in orange buffalo sauce, topped with blue cheese crumbles and pickles, on lettuce in a toasted bun.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
 }

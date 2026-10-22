@@ -162,5 +162,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "gnocchi-basic.jpg",
-  "image_alt": "Ridged potato gnocchi in tomato sauce with grated Parmesan and fresh basil in a black bowl on dark slate."
+  "image_alt": "Ridged potato gnocchi in tomato sauce with grated Parmesan and fresh basil in a black bowl on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

@@ -185,5 +185,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "cheeseburger-basic--american.jpg",
-  "image_alt": "A cheeseburger with thick, glossy melted American cheese draping over the patty and diced onion beneath, in a toasted bun."
+  "image_alt": "A cheeseburger with thick, glossy melted American cheese draping over the patty and diced onion beneath, in a toasted bun.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
 }

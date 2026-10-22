@@ -225,5 +225,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "sheets-baked-lasagne-basic--mushroom.jpg",
-  "image_alt": "A slice of mushroom lasagne showing creamy béchamel and dark mushroom layers on a black plate."
+  "image_alt": "A slice of mushroom lasagne showing creamy béchamel and dark mushroom layers on a black plate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

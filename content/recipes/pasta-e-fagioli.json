@@ -163,5 +163,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "pasta-e-fagioli-basic.jpg",
-  "image_alt": "A thick bean and pasta soup topped with grated cheese and a sprig of rosemary in a black bowl on dark slate."
+  "image_alt": "A thick bean and pasta soup topped with grated cheese and a sprig of rosemary in a black bowl on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
 }

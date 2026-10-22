@@ -156,5 +156,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "trenette-al-pesto-basic.jpg",
-  "image_alt": "Pasta coated in bright green basil pesto with pieces of potato and basil leaves in a black bowl on dark slate."
+  "image_alt": "Pasta coated in bright green basil pesto with pieces of potato and basil leaves in a black bowl on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

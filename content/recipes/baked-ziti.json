@@ -186,5 +186,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "baked-ziti-basic.jpg",
-  "image_alt": "Baked pasta tubes in tomato sauce under melted, browned mozzarella with basil on a black plate."
+  "image_alt": "Baked pasta tubes in tomato sauce under melted, browned mozzarella with basil on a black plate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
 }

@@ -172,5 +172,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-kiev-advanced.jpg",
-  "image_alt": "A golden, crisply crumbed chicken Kiev sliced open on a plate, with garlic-herb butter melting out over a scattering of green beans."
+  "image_alt": "A golden, crisply crumbed chicken Kiev sliced open on a plate, with garlic-herb butter melting out over a scattering of green beans.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
 }

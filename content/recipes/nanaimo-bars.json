@@ -170,5 +170,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "nanaimo-bar-basic.jpg",
-  "image_alt": "Nanaimo bars showing a crumb base, pale custard layer and glossy chocolate top on a black plate against a dark background."
+  "image_alt": "Nanaimo bars showing a crumb base, pale custard layer and glossy chocolate top on a black plate against a dark background.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats",
+    "King Arthur Baking"
+  ]
 }

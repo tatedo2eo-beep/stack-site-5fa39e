@@ -182,5 +182,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "fesenjan-advanced.jpg",
-  "image_alt": "A deep brown walnut and pomegranate chicken stew in a bowl, scattered with ruby pomegranate seeds, beside a mound of golden-flecked saffron rice."
+  "image_alt": "A deep brown walnut and pomegranate chicken stew in a bowl, scattered with ruby pomegranate seeds, beside a mound of golden-flecked saffron rice.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
 }

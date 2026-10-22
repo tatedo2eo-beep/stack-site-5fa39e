@@ -206,5 +206,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-paprikash-basic.jpg",
-  "image_alt": "A rich, rust-red chicken paprikash in a creamy sauce, served over a bowl of soft nokedli dumplings with a swirl of soured cream."
+  "image_alt": "A rich, rust-red chicken paprikash in a creamy sauce, served over a bowl of soft nokedli dumplings with a swirl of soured cream.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
 }

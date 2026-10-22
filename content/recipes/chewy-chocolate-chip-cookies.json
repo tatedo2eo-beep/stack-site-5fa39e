@@ -138,5 +138,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "drop-chocolate-chip-oatmeal-basic.jpg",
-  "image_alt": "A plate of chunky chocolate chip cookies and oat cookies with golden edges."
+  "image_alt": "A plate of chunky chocolate chip cookies and oat cookies with golden edges.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
 }

@@ -148,5 +148,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "blondies-brownies.jpg",
-  "image_alt": "Golden blondie squares studded with chocolate and nuts, stacked on a black plate against a dark background."
+  "image_alt": "Golden blondie squares studded with chocolate and nuts, stacked on a black plate against a dark background.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "King Arthur Baking"
+  ]
 }

@@ -210,5 +210,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "tandoori-advanced.jpg",
-  "image_alt": "Charred, deep red tandoori chicken legs on a platter with red onion rings, lemon wedges and a bowl of bright green mint chutney."
+  "image_alt": "Charred, deep red tandoori chicken legs on a platter with red onion rings, lemon wedges and a bowl of bright green mint chutney.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
 }

@@ -163,5 +163,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "musakhan-basic.jpg",
-  "image_alt": "Golden sumac-roasted chicken on crisp flatbread with soft sumac onions, toasted pine nuts and parsley."
+  "image_alt": "Golden sumac-roasted chicken on crisp flatbread with soft sumac onions, toasted pine nuts and parsley.",
+  "inspired_by": [
+    "Yotam Ottolenghi",
+    "NYT Cooking",
+    "Serious Eats"
+  ]
 }

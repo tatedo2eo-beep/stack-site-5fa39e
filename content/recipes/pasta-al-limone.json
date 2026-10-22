@@ -132,5 +132,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "pasta-al-limone-basic.jpg",
-  "image_alt": "A nest of buttery spaghetti with basil leaves and a lemon half on a black plate on dark slate."
+  "image_alt": "A nest of buttery spaghetti with basil leaves and a lemon half on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

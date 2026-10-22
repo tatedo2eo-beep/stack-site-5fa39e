@@ -164,5 +164,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "graham-crackers-basic.jpg",
-  "image_alt": "Docked rectangular graham crackers stacked on a black plate against a dark background."
+  "image_alt": "Docked rectangular graham crackers stacked on a black plate against a dark background.",
+  "inspired_by": [
+    "King Arthur Baking",
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
 }

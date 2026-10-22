@@ -219,5 +219,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "falafel-pita-advanced.jpg",
-  "image_alt": "A pitta stuffed with crisp falafel, lettuce, diced tomato and a drizzle of tahini sauce."
+  "image_alt": "A pitta stuffed with crisp falafel, lettuce, diced tomato and a drizzle of tahini sauce.",
+  "inspired_by": [
+    "Serious Eats",
+    "Yotam Ottolenghi"
+  ]
 }

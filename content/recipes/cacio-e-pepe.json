@@ -139,5 +139,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "cacio-e-pepe-basic.jpg",
-  "image_alt": "A tall twirled nest of pale spaghetti flecked with black pepper in a black bowl on dark slate."
+  "image_alt": "A tall twirled nest of pale spaghetti flecked with black pepper in a black bowl on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

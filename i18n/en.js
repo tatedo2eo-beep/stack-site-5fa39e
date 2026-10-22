@@ -26,6 +26,8 @@ const S = module.exports = {
   },
   nutr: { kcal: 'Energy', protein_g: 'Protein', carbs_g: 'Carbohydrate', sugar_g: 'of which sugars', fat_g: 'Fat', satfat_g: 'of which saturates', salt_g: 'Salt', fibre_g: 'Fibre' },
   ui: {
+    inspiredBy: 'Inspired by techniques from', and: 'and',
+    originalNote: 'Our recipes are original, written by us and inspired by techniques from professional chefs and test kitchens. They are not affiliated with or endorsed by them.',
     prep: 'Prep', cook: 'Cook', total: 'Total', min: 'min', servings: 'Servings', difficulty: 'Difficulty',
     ingredients: 'Ingredients', method: 'Method', equipment: 'Equipment', tips: 'Tips', storage: 'Storage',
     allergens: 'Allergens (EU 14)', noAllergens: 'None of the 14 major EU allergens.', allergenNote: 'Always check the labels of the products you use.',

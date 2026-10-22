@@ -249,5 +249,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "veggie-bean-burger-basic.jpg",
-  "image_alt": "A dark black bean burger with lettuce, tomato, red onion and avocado slices in a wholemeal-style bun."
+  "image_alt": "A dark black bean burger with lettuce, tomato, red onion and avocado slices in a wholemeal-style bun.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
 }

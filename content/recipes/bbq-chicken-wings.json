@@ -146,5 +146,8 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-wings-basic--bbq.jpg",
-  "image_alt": "Dark, sticky barbecue-glazed chicken wings piled on a black plate."
+  "image_alt": "Dark, sticky barbecue-glazed chicken wings piled on a black plate.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
 }

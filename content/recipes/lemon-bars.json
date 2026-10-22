@@ -146,5 +146,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "lemon-bars-basic.jpg",
-  "image_alt": "Squares of lemon bar with a thin golden crust and bright yellow filling, one bitten, on a black plate against a dark background."
+  "image_alt": "Squares of lemon bar with a thin golden crust and bright yellow filling, one bitten, on a black plate against a dark background.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

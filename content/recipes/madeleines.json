@@ -163,5 +163,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "madeleines-cake-like-advanced.jpg",
-  "image_alt": "Shell-shaped golden madeleines piled on a black plate against a dark background."
+  "image_alt": "Shell-shaped golden madeleines piled on a black plate against a dark background.",
+  "inspired_by": [
+    "NYT Cooking",
+    "King Arthur Baking",
+    "Serious Eats"
+  ]
 }

@@ -200,5 +200,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "yangnyeom-chicken-basic.jpg",
-  "image_alt": "Glossy, deep red-glazed fried chicken pieces piled in a bowl, scattered with crushed peanuts and sesame seeds."
+  "image_alt": "Glossy, deep red-glazed fried chicken pieces piled in a bowl, scattered with crushed peanuts and sesame seeds.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
 }

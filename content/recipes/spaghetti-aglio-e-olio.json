@@ -127,5 +127,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "aglio-e-olio-basic.jpg",
-  "image_alt": "Spaghetti glossy with olive oil, golden garlic slices, chilli and chopped parsley in a black bowl on dark slate."
+  "image_alt": "Spaghetti glossy with olive oil, golden garlic slices, chilli and chopped parsley in a black bowl on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
 }

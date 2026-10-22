@@ -188,5 +188,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-pot-pie-basic.jpg",
-  "image_alt": "A chicken pot pie with a puffed, golden puff pastry lid."
+  "image_alt": "A chicken pot pie with a puffed, golden puff pastry lid.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
 }

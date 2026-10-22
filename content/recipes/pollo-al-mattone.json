@@ -128,5 +128,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "pollo-al-mattone-chicken-under-a-brick-basic.jpg",
-  "image_alt": "A flattened, deeply golden chicken with crisp skin and herbs on a dark plate with charred lemon halves."
+  "image_alt": "A flattened, deeply golden chicken with crisp skin and herbs on a dark plate with charred lemon halves.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
 }

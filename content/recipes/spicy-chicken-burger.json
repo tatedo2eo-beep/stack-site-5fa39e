@@ -260,5 +260,8 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-burger-basic--spicy-cayenne-hot-sauce.jpg",
-  "image_alt": "A crispy red-glazed spicy chicken burger with shredded lettuce and a drizzle of hot sauce in a brioche bun."
+  "image_alt": "A crispy red-glazed spicy chicken burger with shredded lettuce and a drizzle of hot sauce in a brioche bun.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
 }

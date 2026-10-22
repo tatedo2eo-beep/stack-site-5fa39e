@@ -168,5 +168,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "patty-melt-basic.jpg",
-  "image_alt": "A patty melt on griddled rye bread cut in half, showing beef, melted Swiss cheese and onions."
+  "image_alt": "A patty melt on griddled rye bread cut in half, showing beef, melted Swiss cheese and onions.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
 }

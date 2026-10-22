@@ -194,5 +194,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "spaghetti-with-meatballs-basic.jpg",
-  "image_alt": "Spaghetti in tomato sauce topped with three browned beef meatballs and basil in a black bowl on dark slate."
+  "image_alt": "Spaghetti in tomato sauce topped with three browned beef meatballs and basil in a black bowl on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
 }

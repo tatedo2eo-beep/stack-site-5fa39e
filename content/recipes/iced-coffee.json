@@ -103,5 +103,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "iced-coffee-basic.jpg",
-  "image_alt": "A tall glass of iced coffee over ice with milk swirling through it as it is poured."
+  "image_alt": "A tall glass of iced coffee over ice with milk swirling through it as it is poured.",
+  "inspired_by": [
+    "James Hoffmann",
+    "Serious Eats"
+  ]
 }

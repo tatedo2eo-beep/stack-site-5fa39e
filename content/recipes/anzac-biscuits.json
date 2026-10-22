@@ -147,5 +147,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "anzac-biscuit-basic.jpg",
-  "image_alt": "Golden, craggy oat and coconut Anzac biscuits on a black plate against a dark background."
+  "image_alt": "Golden, craggy oat and coconut Anzac biscuits on a black plate against a dark background.",
+  "inspired_by": [
+    "King Arthur Baking",
+    "NYT Cooking"
+  ]
 }

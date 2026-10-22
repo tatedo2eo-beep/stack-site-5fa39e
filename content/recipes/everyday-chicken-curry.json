@@ -190,5 +190,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-curry-basic.jpg",
-  "image_alt": "A bowl of chicken curry in a rich red-brown sauce scattered with coriander, with white rice on the side."
+  "image_alt": "A bowl of chicken curry in a rich red-brown sauce scattered with coriander, with white rice on the side.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen",
+    "Madhur Jaffrey"
+  ]
 }

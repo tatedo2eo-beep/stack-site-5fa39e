@@ -186,5 +186,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "brookies-brownies.jpg",
-  "image_alt": "Brookie bars showing a dark brownie base under a golden chocolate chip cookie layer on a black plate against a dark background."
+  "image_alt": "Brookie bars showing a dark brownie base under a golden chocolate chip cookie layer on a black plate against a dark background.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Food Network Kitchen"
+  ]
 }

@@ -148,5 +148,10 @@
   },
   "nutrition_source": "Estimated per burger from USDA FoodData Central (SR Legacy) values: ground beef 80% lean raw, cheddar cheese, butter salted, mayonnaise, ketchup, pickles, tomato, lettuce; brioche bun estimated from typical label values. Raw-meat values used, so actual fat is a little lower because some renders out.",
   "image": "smash-burger-basic--cheese.jpg",
-  "image_alt": "A cheeseburger made with smashed beef patties and melted cheese in a soft bun."
+  "image_alt": "A cheeseburger made with smashed beef patties and melted cheese in a soft bun.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
 }

@@ -140,5 +140,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "yakitori-advanced.jpg",
-  "image_alt": "Glossy, lightly charred chicken and spring onion skewers glazed with a dark soy tare on a black tray."
+  "image_alt": "Glossy, lightly charred chicken and spring onion skewers glazed with a dark soy tare on a black tray.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

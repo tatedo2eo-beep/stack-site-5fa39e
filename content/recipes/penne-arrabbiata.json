@@ -134,5 +134,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "short-penne-rigatoni-fusilli-basic.jpg",
-  "image_alt": "Penne coated in a chilli-flecked tomato sauce with grated Parmesan and chopped parsley in a black bowl on dark slate."
+  "image_alt": "Penne coated in a chilli-flecked tomato sauce with grated Parmesan and chopped parsley in a black bowl on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
 }

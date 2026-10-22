@@ -168,5 +168,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "gingerbread-basic.jpg",
-  "image_alt": "Gingerbread people and stars piped with white icing on a black plate against a dark background."
+  "image_alt": "Gingerbread people and stars piped with white icing on a black plate against a dark background.",
+  "inspired_by": [
+    "King Arthur Baking",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

@@ -148,5 +148,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "whole-roast-chicken-basic.jpg",
-  "image_alt": "A glossy, golden whole roast chicken on a dark plate with lemon halves and sprigs of thyme beside it."
+  "image_alt": "A glossy, golden whole roast chicken on a dark plate with lemon halves and sprigs of thyme beside it.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

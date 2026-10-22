@@ -171,5 +171,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "cheeseburger-basic.jpg",
-  "image_alt": "A cheeseburger on a sesame bun with melted cheese, lettuce, tomato and red onion on a dark plate."
+  "image_alt": "A cheeseburger on a sesame bun with melted cheese, lettuce, tomato and red onion on a dark plate.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
 }

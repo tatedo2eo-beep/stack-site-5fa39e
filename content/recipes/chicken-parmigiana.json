@@ -192,5 +192,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-parmigiana-advanced.jpg",
-  "image_alt": "A golden, crisp-crumbed chicken cutlet topped with melted bubbling mozzarella and tomato sauce, served over a tangle of spaghetti."
+  "image_alt": "A golden, crisp-crumbed chicken cutlet topped with melted bubbling mozzarella and tomato sauce, served over a tangle of spaghetti.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
 }

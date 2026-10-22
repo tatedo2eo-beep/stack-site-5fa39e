@@ -148,5 +148,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "oklahoma-onion-burger-basic.jpg",
-  "image_alt": "An onion burger with a thick layer of browned onions, melted cheese and pickles in a soft bun."
+  "image_alt": "An onion burger with a thick layer of browned onions, melted cheese and pickles in a soft bun.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
 }

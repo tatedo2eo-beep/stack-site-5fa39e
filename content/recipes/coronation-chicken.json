@@ -172,5 +172,8 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "coronation-chicken-basic.jpg",
-  "image_alt": "A bowl of creamy, pale golden coronation chicken studded with apricot pieces, topped with toasted almond flakes and fresh coriander, served on crisp lettuce."
+  "image_alt": "A bowl of creamy, pale golden coronation chicken studded with apricot pieces, topped with toasted almond flakes and fresh coriander, served on crisp lettuce.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
 }

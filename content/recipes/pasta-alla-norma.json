@@ -151,5 +151,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "alla-norma-basic.jpg",
-  "image_alt": "Rigatoni in tomato sauce with roasted aubergine, grated cheese and basil leaves in a black bowl on dark slate."
+  "image_alt": "Rigatoni in tomato sauce with roasted aubergine, grated cheese and basil leaves in a black bowl on dark slate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
 }
