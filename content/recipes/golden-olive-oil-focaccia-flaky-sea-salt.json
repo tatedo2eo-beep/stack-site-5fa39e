@@ -1,0 +1,130 @@
+{
+  "slug": "golden-olive-oil-focaccia-flaky-sea-salt",
+  "title": "Golden Olive Oil Focaccia with Flaky Sea Salt",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "focaccia",
+  "dish_title": "Focaccia",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A same-day wet dough is strengthened with four sets of folds instead of kneading, risen in an oiled tin, dimpled deeply and baked hot with olive oil and flaky sea salt.",
+  "servings": 12,
+  "prep_min": 20,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "spatula or wooden spoon",
+    "cling film",
+    "23 x 33 cm metal baking tin",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 10.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1.75 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 400,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tin and topping",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tin and topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix the dough",
+      "text": "Stir the flour, yeast and fine salt together, add the water and 2 tbsp oil and mix 1-2 minutes to a sticky dough with no dry flour. Cover and rest 15 minutes."
+    },
+    {
+      "title": "Fold",
+      "text": "With a wet hand, stretch one side of the dough up and fold it over the middle; turn the bowl and repeat 4 times. Repeat these folds 3 more times, every 30 minutes, until the dough is smooth and bubbly."
+    },
+    {
+      "title": "Rise in the tin",
+      "text": "Pour 2 tbsp oil into the tin, add the dough, turn to coat and stretch towards the corners. Cover and leave 1 hour until puffy, stretching into the corners again halfway."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 230 °C (210 °C fan) with a shelf in the lower third."
+    },
+    {
+      "title": "Dimple",
+      "text": "Drizzle with the last 1 tbsp oil, press oiled fingers firmly to the bottom of the tin all over, then scatter with flaky salt."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 22-26 minutes until deep golden on top and underneath. Cool on a rack at least 20 minutes before cutting."
+    }
+  ],
+  "tips": [
+    "Wet hands stop the sticky dough clinging to you during folding.",
+    "Press the dimples right to the base or they will spring back in the oven.",
+    "A metal tin gives a crisper, more golden base than glass or ceramic."
+  ],
+  "storage": "Keep wrapped at room temperature and eat within 2 days, or freeze for up to 1 month. Refresh in a hot oven for a few minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 202,
+    "protein_g": 5.2,
+    "carbs_g": 30.5,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 6.4,
+    "satfat_g": 0.9,
+    "salt_g": 1.02,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "focaccia-basic.jpg",
+  "image_alt": "A golden, dimpled slab of focaccia on a wooden board, cut to show the airy crumb.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

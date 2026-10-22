@@ -1,0 +1,126 @@
+{
+  "slug": "soft-puffed-pita-bread-olive-oil",
+  "title": "Soft Puffed Pita Bread",
+  "category": "snacks-sides",
+  "cuisine": "Levantine",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "pita",
+  "dish_title": "Pita",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A simple olive oil dough is kneaded, risen, rolled into even 5 mm rounds and baked for a few minutes on a preheated tray until fully puffed.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film",
+    "rolling pin",
+    "2 large baking trays or a baking steel",
+    "clean tea towel"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "plus a little for rolling"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 4,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 310,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dough",
+      "text": "Stir the flour, yeast, sugar and salt together, add the water and oil and knead 8-10 minutes by hand, or 5 minutes in a mixer, until smooth and springy."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave 1-1.5 hours until doubled."
+    },
+    {
+      "title": "Divide",
+      "text": "Knock back and cut into 8 pieces of about 105 g. Shape into tight balls, cover and rest 10 minutes."
+    },
+    {
+      "title": "Heat the tray",
+      "text": "Heat an upturned baking tray or steel on the lowest shelf at 250 °C (230 °C fan) for at least 30 minutes."
+    },
+    {
+      "title": "Roll",
+      "text": "Roll each ball into a 16-17 cm round about 5 mm thick, keeping the thickness even. Keep covered."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 2-3 at a time for 3-4 minutes until fully puffed and pale gold in patches. Wrap at once in a tea towel and serve warm with hummus."
+    }
+  ],
+  "tips": [
+    "An even thickness is what makes pita puff; thin spots tear and thick spots stay flat.",
+    "Do not overbake: pale pita stays soft, golden pita turns crisp.",
+    "Keep the rolled rounds covered so the surface does not dry and stop them puffing."
+  ],
+  "storage": "Keep wrapped at room temperature and eat within 2 days, or freeze for up to 1 month. Refresh in a hot oven for a few minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 262,
+    "protein_g": 6.8,
+    "carbs_g": 48.6,
+    "sugar_g": 0.7,
+    "free_sugar_g": 0.5,
+    "fat_g": 4.1,
+    "satfat_g": 0.6,
+    "salt_g": 1.1,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pita-basic.jpg",
+  "image_alt": "A stack of soft pita breads on a dark plate with a bowl of hummus.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

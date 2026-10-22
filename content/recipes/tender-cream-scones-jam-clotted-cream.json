@@ -1,0 +1,143 @@
+{
+  "slug": "tender-cream-scones-jam-clotted-cream",
+  "title": "Tender Cream Scones with Jam and Clotted Cream",
+  "category": "breakfast",
+  "cuisine": "British",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "scone",
+  "dish_title": "Scone",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Butter is rubbed into flour, baking powder and sugar, the dough is bound with egg and double cream, cut into rounds and baked hot until risen and golden.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "whisk",
+    "6 cm round cutter",
+    "baking tray lined with baking paper",
+    "pastry brush",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "plus extra for dusting"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Dough",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 70,
+      "unit": "g",
+      "item": "cold unsalted butter, diced"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 180,
+      "unit": "ml",
+      "item": "double cream",
+      "note": "plus 1 tbsp to brush"
+    },
+    {
+      "group": "To serve",
+      "qty": 120,
+      "unit": "g",
+      "item": "strawberry jam"
+    },
+    {
+      "group": "To serve",
+      "qty": 120,
+      "unit": "g",
+      "item": "clotted cream or very thick double cream"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 220 °C (200 °C fan)."
+    },
+    {
+      "title": "Rub in the butter",
+      "text": "Whisk the flour, baking powder, sugar and salt, then rub in the butter with your fingertips until it looks like fine breadcrumbs."
+    },
+    {
+      "title": "Bind",
+      "text": "Whisk the egg into the cream, add to the bowl and stir with a knife into a soft dough. Knead 3-4 times only."
+    },
+    {
+      "title": "Cut",
+      "text": "Pat out 2.5 cm thick and stamp straight down with a floured cutter; re-roll the scraps once to make 8. Brush the tops with cream."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 12-15 minutes until risen and golden, then cool 10 minutes."
+    },
+    {
+      "title": "Serve",
+      "text": "Split while warm and serve with jam and clotted cream."
+    }
+  ],
+  "tips": [
+    "Handle the dough as little as possible for a light, tender scone.",
+    "Cutting straight down without twisting helps them rise tall and even.",
+    "Scones are best eaten the day they are baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 2 days, or freeze for up to 1 month. Warm through before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 398,
+    "protein_g": 5.9,
+    "carbs_g": 45.5,
+    "sugar_g": 13.5,
+    "free_sugar_g": 12.3,
+    "fat_g": 21.7,
+    "satfat_g": 13.4,
+    "salt_g": 0.65,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "scone-basic.jpg",
+  "image_alt": "Risen golden scones on a plate with small bowls of jam and clotted cream.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "wholemeal-irish-brown-soda-bread-oats",
+  "title": "Wholemeal Irish Brown Soda Bread with Oats",
+  "category": "snacks-sides",
+  "cuisine": "Irish",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "soda-bread",
+  "dish_title": "Soda bread",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Wholemeal and plain flour, oats, bicarbonate, salt and a little brown sugar are stirred with buttermilk and melted butter, shaped into a round, cut with a deep cross and baked to 93 °C.",
+  "servings": 10,
+  "prep_min": 15,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "fork or butter knife",
+    "baking tray lined with baking paper",
+    "sharp knife",
+    "instant-read thermometer",
+    "wire rack",
+    "clean tea towel"
+  ],
+  "ingredients": [
+    {
+      "group": "Dry",
+      "qty": 300,
+      "unit": "g",
+      "item": "wholemeal (whole-wheat) flour"
+    },
+    {
+      "group": "Dry",
+      "qty": 150,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "plus extra for dusting"
+    },
+    {
+      "group": "Dry",
+      "qty": 40,
+      "unit": "g",
+      "item": "rolled oats",
+      "note": "plus 1 tbsp for the top"
+    },
+    {
+      "group": "Dry",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda",
+      "note": "sifted"
+    },
+    {
+      "group": "Dry",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dry",
+      "qty": 12,
+      "unit": "g",
+      "item": "soft light brown sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Wet",
+      "qty": 25,
+      "unit": "g",
+      "item": "butter, melted"
+    },
+    {
+      "group": "Wet",
+      "qty": 450,
+      "unit": "ml",
+      "item": "buttermilk",
+      "note": "plus 2-3 tbsp if needed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 200 °C (180 °C fan)."
+    },
+    {
+      "title": "Mix",
+      "text": "Stir the flours, oats, bicarbonate, salt and sugar together. Add the melted butter and buttermilk and stir quickly into a soft, sticky dough. Do not knead."
+    },
+    {
+      "title": "Shape",
+      "text": "Tip onto a floured surface and shape gently into a round about 18 cm across. Put on the tray, scatter with oats and cut a deep cross across the top."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake straight away for 40-45 minutes until browned, hollow-sounding underneath and 93 °C in the centre."
+    },
+    {
+      "title": "Cool",
+      "text": "Wrap in a tea towel for a soft crust, or leave uncovered for a crisp one, and cool at least 30 minutes before slicing."
+    }
+  ],
+  "tips": [
+    "Work quickly: the bicarbonate starts reacting as soon as it meets the buttermilk.",
+    "A wet dough makes a lighter loaf, so do not add too much flour.",
+    "The deep cross lets heat reach the centre so it bakes through evenly."
+  ],
+  "storage": "Keep wrapped at room temperature and eat within 2 days, or freeze for up to 1 month. Refresh in a hot oven for a few minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 213,
+    "protein_g": 7.6,
+    "carbs_g": 39.1,
+    "sugar_g": 3.6,
+    "free_sugar_g": 1.2,
+    "fat_g": 3.6,
+    "satfat_g": 1.7,
+    "salt_g": 1.22,
+    "fibre_g": 4.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "soda-bread-basic.jpg",
+  "image_alt": "A round brown soda bread with a deep cross on a wooden board.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

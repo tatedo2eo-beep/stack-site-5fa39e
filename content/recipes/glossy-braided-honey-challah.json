@@ -1,0 +1,146 @@
+{
+  "slug": "glossy-braided-honey-challah",
+  "title": "Glossy Braided Honey Challah",
+  "category": "snacks-sides",
+  "cuisine": "Jewish",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "challah",
+  "dish_title": "Challah",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "An egg, honey and oil dough is kneaded until silky, risen, plaited into a single three-strand loaf, glazed twice and baked to 88-90 °C in the centre.",
+  "servings": 12,
+  "prep_min": 35,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film",
+    "baking tray lined with baking paper",
+    "pastry brush",
+    "instant-read thermometer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour",
+      "note": "plus a little for shaping"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "g",
+      "item": "runny honey"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, plus 1 yolk",
+      "note": "keep the white for glazing"
+    },
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 170,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Glaze",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, beaten with the reserved white, to glaze"
+    },
+    {
+      "group": "Glaze",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "sesame or poppy seeds (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dough",
+      "text": "Stir the flour, yeast and salt together. Whisk the honey, 2 eggs, yolk, oil and water, add to the flour and mix to a soft dough. Knead 10 minutes by hand or 6-7 minutes in a mixer until smooth and elastic."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave 1.5-2 hours until doubled."
+    },
+    {
+      "title": "Braid",
+      "text": "Divide into 3, roll each into a 40 cm rope slightly fatter in the middle, pinch the tops together and plait loosely. Tuck both ends under and lift onto the lined tray."
+    },
+    {
+      "title": "Prove",
+      "text": "Brush with egg glaze, cover loosely and leave 45-60 minutes until puffy. Heat the oven to 180 °C (160 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Glaze again, add seeds if using and bake 30-35 minutes until deep brown and 88-90 °C in the centre, covering with foil after 20 minutes if needed."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool on a rack at least 30 minutes before slicing."
+    }
+  ],
+  "tips": [
+    "Plait loosely; a tight braid tears as the loaf rises in the oven.",
+    "Two coats of glaze give the deepest shine.",
+    "Honey browns quickly, so check the colour after 20 minutes."
+  ],
+  "storage": "Keep wrapped at room temperature and eat within 2 days, or freeze for up to 1 month. Refresh in a hot oven for a few minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 246,
+    "protein_g": 7.3,
+    "carbs_g": 34.9,
+    "sugar_g": 4.3,
+    "free_sugar_g": 4.1,
+    "fat_g": 8.4,
+    "satfat_g": 1.1,
+    "salt_g": 0.78,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "challah-basic.jpg",
+  "image_alt": "A glossy braided challah loaf on a board with slices cut from one end.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "flaky-layered-buttermilk-biscuits",
+  "title": "Flaky Layered Buttermilk Biscuits",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "biscuit",
+  "dish_title": "Biscuit",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Cold butter is cut into a seasoned flour mixture, bound with buttermilk, folded twice like a letter for layers, cut and baked close together until tall and golden.",
+  "servings": 12,
+  "prep_min": 20,
+  "cook_min": 17,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor or large bowl",
+    "rolling pin",
+    "bench scraper or knife",
+    "6.5 cm round cutter",
+    "baking tray lined with baking paper",
+    "pastry brush"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "plus extra for rolling"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dough",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 115,
+      "unit": "g",
+      "item": "very cold unsalted butter, cut into thin slices"
+    },
+    {
+      "group": "Dough",
+      "qty": 240,
+      "unit": "ml",
+      "item": "cold buttermilk",
+      "note": "plus 1-2 tbsp if needed"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "unsalted butter, melted, to brush"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 220 °C (200 °C fan)."
+    },
+    {
+      "title": "Cut in the butter",
+      "text": "Pulse the flour, baking powder, bicarbonate, sugar and salt, add the cold butter and pulse 8-10 times until the largest pieces are pea-sized."
+    },
+    {
+      "title": "Bind",
+      "text": "Add the buttermilk and fold with a spatula until just combined into a shaggy dough."
+    },
+    {
+      "title": "Fold",
+      "text": "Pat into a 30 x 20 cm rectangle, fold in three like a letter, turn and repeat once. Pat 2.5 cm thick."
+    },
+    {
+      "title": "Cut and chill",
+      "text": "Stamp out rounds without twisting, set them touching on the tray and re-cut the scraps once to make 12. Chill 10 minutes."
+    },
+    {
+      "title": "Bake",
+      "text": "Brush with melted butter and bake 14-17 minutes until tall and deep golden. Serve warm."
+    }
+  ],
+  "tips": [
+    "Keep everything cold; warm butter melts into the flour and the layers disappear.",
+    "Baking the biscuits touching makes them rise taller.",
+    "A floured cutter pressed straight down gives clean edges that rise evenly."
+  ],
+  "storage": "Store airtight at room temperature for up to 2 days, or freeze for up to 1 month. Warm through before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 189,
+    "protein_g": 3.4,
+    "carbs_g": 21.3,
+    "sugar_g": 2.1,
+    "free_sugar_g": 1.0,
+    "fat_g": 10.1,
+    "satfat_g": 6.3,
+    "salt_g": 0.95,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "biscuit-basic.jpg",
+  "image_alt": "Tall, flaky buttermilk biscuits on a dark plate, one pulled apart.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

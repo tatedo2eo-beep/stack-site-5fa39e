@@ -63,6 +63,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | carrot-cake | Carrot | Classic | 2 | 4 |
 | celeriac-remoulade-mustard-parsley | Celeriac rémoulade | Classic | 3 | 5 |
 | champurrado-thick-mexican-chocolate-masa-drink | Champurrado | Classic | 2 | 4 |
+| charred-tawa-naan-yoghurt-ghee | Naan | Classic | 2 | 4 |
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |
 | cheese-bread-boats-melted-mozzarella-feta-baked-egg | Khachapuri | Classic | 2 | 4 |
 | cheeseburger-sliders | Sliders | Classic | 2 | 5 |
@@ -185,6 +186,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fesenjan | Fesenjan | Classic | 2 | 4 |
 | fettuccine-alfredo | Alfredo (Roman original) | Classic | 3 | 5 |
 | filipino-oxtail-peanut-stew | Kare-kare | Classic | 2 | 4 |
+| flaky-layered-buttermilk-biscuits | Biscuit | Classic | 3 | 5 |
 | florentines | Florentines | Classic | 2 | 4 |
 | flourless-fudgy-brownies | Flourless | Classic | 3 | 5 |
 | fluffy-buttermilk-pancakes-maple-syrup | Pancakes (American) | Classic | 2 | 4 |
@@ -200,6 +202,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gai-yang | Gai yang | Classic | 2 | 4 |
 | galbitang-korean-beef-short-rib-radish-soup | Galbitang | Classic | 2 | 4 |
 | galician-style-octopus-potatoes-smoked-paprika | Pulpo a la gallega | Classic | 4 | 6 |
+| garlic-coriander-butter-naan | Naan | Garlic | 3 | 5 |
 | garlic-parmesan-chicken-wings | Chicken wings | Garlic-parmesan | 3 | 5 |
 | garlic-rosemary-roast-beef | Roast beef | Garlic-rosemary | 3 | 5 |
 | gateau-basque | Basque cake | Classic | 2 | 4 |
@@ -208,18 +211,22 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | german-chocolate-cake | German chocolate cake | Classic | 2 | 4 |
 | ginger-chicken-rice-porridge-crispy-garlic-egg | Arroz caldo | Classic | 2 | 4 |
 | gingerbread-cookies | Gingerbread | Classic | 3 | 5 |
+| glossy-braided-honey-challah | Challah | Classic | 3 | 5 |
 | gnocchi-brown-butter-sage | Gnocchi | Brown butter-sage | 3 | 5 |
 | gnocchi-cherry-tomato | Gnocchi | Tomato | 3 | 5 |
 | gnocchi-pesto | Gnocchi | Pesto | 3 | 5 |
 | goan-style-coconut-fish-curry-rice | Fish curry | Classic | 4 | 6 |
+| golden-brown-butter-skillet-cornbread | Cornbread | Classic | 2 | 4 |
 | golden-crab-cakes-paprika-lemon-mayonnaise | Crab cakes | Classic | 4 | 6 |
 | golden-crisp-cheddar-grilled-cheese-sandwich | Grilled cheese | Classic | 2 | 4 |
+| golden-olive-oil-focaccia-flaky-sea-salt | Focaccia | Classic | 2 | 4 |
 | graham-crackers | Graham crackers | Classic | 3 | 5 |
 | gratin-dauphinois | Gratin dauphinois | Classic | 2 | 4 |
 | greek-mint-oregano-meatballs | Meatballs | Greek (mint-oregano) | 2 | 4 |
 | green-chilli-tomatillo-chicken-hominy-soup | Pozole verde | Classic | 2 | 4 |
 | green-pesto-pasta-salad-cherry-tomatoes | Pasta salad | Pesto | 2 | 4 |
 | green-tomatillo-chicken-enchiladas-charred-chilli-sauce | Enchilada | Green (verdes) | 3 | 5 |
+| griddled-english-muffins-nooks-crannies | English muffins | Classic | 2 | 4 |
 | grilled-beef-kebabs-peppers | Kebabs/skewers | Classic | 3 | 5 |
 | grilled-porterhouse-steak-rosemary-lemon | Bistecca alla fiorentina | Classic | 2 | 4 |
 | groundnut-soup-sweet-potato-kale-peanut | Groundnut soup | Classic | 2 | 4 |
@@ -444,6 +451,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | smoky-chipotle-tomato-shredded-chicken-tacos | Taco | Chicken tinga | 4 | 6 |
 | smooth-cold-brew-coffee-concentrate | Cold brew | Classic | 2 | 4 |
 | snickerdoodles | Snickerdoodle | Classic | 3 | 5 |
+| soft-layered-wholemeal-chapati | Chapati | Classic | 3 | 5 |
+| soft-puffed-pita-bread-olive-oil | Pita | Classic | 3 | 5 |
 | soft-rice-and-yellow-lentil-porridge-cumin-ghee | Khichdi | Classic | 2 | 4 |
 | soft-scrambled-eggs-butter-chives-toast | Scrambled | Classic | 3 | 5 |
 | soft-steamed-rice-lentil-idli-coconut-chutney | Idli | Classic | 2 | 4 |
@@ -488,6 +497,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | swiss-rosti | Rösti | Classic | 2 | 4 |
 | tafelspitz-apple-horseradish | Tafelspitz | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
+| tender-cream-scones-jam-clotted-cream | Scone | Classic | 2 | 4 |
 | texas-chocolate-sheet-cake-pecan-icing | Sheet cake | Chocolate (Texas-style) | 3 | 5 |
 | thai-coconut-beef-curry-potatoes-peanuts-tamarind | Massaman | Beef | 2 | 4 |
 | thai-green-coconut-curry-chicken-aubergine-basil | Green curry | Chicken | 3 | 5 |
@@ -528,6 +538,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | west-african-tomato-pepper-rice-thyme-bay | Jollof | Classic | 3 | 5 |
 | whipped-dalgona-coffee-cold-milk | Dalgona coffee | Classic | 2 | 4 |
 | whole-sea-bass-baked-in-salt-crust-lemon-herbs | Salt-crusted fish | Classic | 4 | 6 |
+| wholemeal-irish-brown-soda-bread-oats | Soda bread | Classic | 3 | 5 |
 | yakisoba | Yakisoba | Classic | 2 | 4 |
 | yakitori | Yakitori | Classic | 2 | 4 |
 | yangnyeom-chicken | Yangnyeom chicken | Classic | 3 | 6 |

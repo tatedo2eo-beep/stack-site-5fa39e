@@ -1,0 +1,162 @@
+{
+  "slug": "garlic-coriander-butter-naan",
+  "title": "Garlic and Coriander Butter Naan",
+  "category": "snacks-sides",
+  "cuisine": "Indian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "naan",
+  "dish_title": "Naan",
+  "flavour": "Garlic",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Yoghurt naan dough is studded with garlic, charred in a very hot pan and brushed generously with warm garlic ghee and chopped coriander.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "cling film",
+    "rolling pin",
+    "heavy cast-iron frying pan or tawa",
+    "tongs",
+    "pastry brush",
+    "clean tea towel",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "plus extra for rolling"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 8,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Dough",
+      "qty": 150,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt"
+    },
+    {
+      "group": "Dough",
+      "qty": 200,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "ghee or neutral oil, melted"
+    },
+    {
+      "group": "Garlic butter",
+      "qty": 40,
+      "unit": "g",
+      "item": "ghee or butter"
+    },
+    {
+      "group": "Garlic butter",
+      "qty": 5,
+      "unit": "pc",
+      "item": "garlic cloves, very finely chopped"
+    },
+    {
+      "group": "Garlic butter",
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh coriander, finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Combine the flour, yeast, sugar, salt and baking powder in a large bowl, then work in the yoghurt, water and 2 tbsp melted ghee until a soft, tacky dough forms. Knead for 5 minutes until it feels smooth."
+    },
+    {
+      "title": "Prove",
+      "text": "Cover the bowl and leave in a warm spot for 1.5-2 hours, until the dough has doubled."
+    },
+    {
+      "title": "Form",
+      "text": "Divide into 8, roll each into a ball and let them relax for 10 minutes, then stretch or roll each one into a 22 cm teardrop, 5 mm thick."
+    },
+    {
+      "title": "Make the garlic butter",
+      "text": "Warm the ghee and garlic over low heat for 2 minutes until fragrant but not browned. Take off the heat and stir in most of the coriander."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat the frying pan over high heat for 3 minutes. Brush the top of a naan with water, press a little of the garlic into the dry side and lay it wet side down. Cook 1-1.5 minutes until bubbled and charred underneath."
+    },
+    {
+      "title": "Char",
+      "text": "Flip and cook 1 minute more until the garlic side is golden and spotted."
+    },
+    {
+      "title": "Finish",
+      "text": "Brush with garlic butter, scatter with the remaining coriander and wrap in a tea towel while you cook the rest. Serve hot."
+    }
+  ],
+  "tips": [
+    "Keep the garlic butter on low heat; browned garlic tastes bitter.",
+    "Press the garlic firmly into the dough so it stays put when you flip.",
+    "Chop the coriander finely so it clings to the butter."
+  ],
+  "storage": "Keep wrapped at room temperature and eat within 2 days, or freeze for up to 1 month. Refresh in a hot oven for a few minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 321,
+    "protein_g": 7.6,
+    "carbs_g": 50.7,
+    "sugar_g": 2.1,
+    "free_sugar_g": 1.0,
+    "fat_g": 9.5,
+    "satfat_g": 5.6,
+    "salt_g": 1.25,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "naan-basic--garlic.jpg",
+  "image_alt": "Garlic naan glistening with butter and scattered with chopped coriander.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

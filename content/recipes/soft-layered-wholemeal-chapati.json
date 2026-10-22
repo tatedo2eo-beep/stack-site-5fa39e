@@ -1,0 +1,127 @@
+{
+  "slug": "soft-layered-wholemeal-chapati",
+  "title": "Soft Layered Wholemeal Chapati",
+  "category": "snacks-sides",
+  "cuisine": "Kenyan",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "chapati",
+  "dish_title": "Chapati",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A part-wholemeal dough is rested, rolled thin, oiled, rolled into a log, sliced and pressed into spirals, then rolled out again and cooked in a hot pan with a little oil.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "clean tea towel",
+    "rolling pin",
+    "pastry brush",
+    "heavy frying pan or tawa",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 200,
+      "unit": "g",
+      "item": "wholemeal (whole-wheat) flour or atta"
+    },
+    {
+      "group": "Dough",
+      "qty": 250,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "plus extra for rolling"
+    },
+    {
+      "group": "Dough",
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1¼ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 280,
+      "unit": "ml",
+      "item": "water",
+      "note": "warm, plus 1-2 tbsp if needed"
+    },
+    {
+      "group": "Layering and cooking",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dough",
+      "text": "Stir the flours and salt, add 2 tbsp oil and the warm water and knead 6-8 minutes until smooth. Cover and rest 30 minutes."
+    },
+    {
+      "title": "Roll and oil",
+      "text": "Roll into a thin 30 x 45 cm rectangle, brush with about 1 tbsp oil and dust lightly with flour."
+    },
+    {
+      "title": "Coil",
+      "text": "Roll up tightly from a long side, cut into 8, stand each cut side up and press into a disc. Cover and rest 20 minutes."
+    },
+    {
+      "title": "Shape",
+      "text": "Roll each disc into a 22-24 cm round, turning as you go."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat a dry pan over medium-high heat, brush with oil and cook each chapati about 1 minute until bubbly and spotted brown. Brush with oil, flip and cook 45-60 seconds, pressing so it puffs."
+    },
+    {
+      "title": "Keep warm",
+      "text": "Stack in a tea towel while you cook the rest. Serve warm with dal or curry."
+    }
+  ],
+  "tips": [
+    "Resting the dough twice makes it easy to roll thin without springing back.",
+    "The oil between the layers is what makes chapati flaky.",
+    "Stacking them in a towel steams them soft."
+  ],
+  "storage": "Keep wrapped at room temperature and eat within 2 days, or freeze for up to 1 month. Refresh in a hot oven for a few minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 288,
+    "protein_g": 6.5,
+    "carbs_g": 41.8,
+    "sugar_g": 0.2,
+    "free_sugar_g": 0.0,
+    "fat_g": 11.1,
+    "satfat_g": 0.9,
+    "salt_g": 0.91,
+    "fibre_g": 3.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chapati-basic.jpg",
+  "image_alt": "Folded wholemeal chapati on a plate with a small bowl of dal.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "griddled-english-muffins-nooks-crannies",
+  "title": "Griddled English Muffins with Nooks and Crannies",
+  "category": "breakfast",
+  "cuisine": "British",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "english-muffins",
+  "dish_title": "English muffins",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A soft milk dough is rolled, cut and proved on semolina, griddled slowly on both sides and finished briefly in the oven until cooked through.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film",
+    "rolling pin",
+    "9 cm round cutter",
+    "baking tray",
+    "large heavy frying pan or griddle",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 450,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk, warmed to about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 25,
+      "unit": "g",
+      "item": "butter, melted"
+    },
+    {
+      "group": "Dusting",
+      "qty": 20,
+      "unit": "g",
+      "item": "fine semolina or cornmeal, for dusting"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dough",
+      "text": "Stir the flour, yeast, sugar and salt together, add the warm milk and melted butter and knead 8-10 minutes by hand or 5 minutes in a mixer until smooth."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave 1-1.5 hours until doubled."
+    },
+    {
+      "title": "Cut",
+      "text": "Dust a tray with half the semolina. Roll the dough 2 cm thick and cut 8 rounds, re-rolling the scraps once. Dust the tops with the remaining semolina."
+    },
+    {
+      "title": "Prove",
+      "text": "Cover loosely and leave 30-45 minutes until puffy. Heat the oven to 175 °C (155 °C fan)."
+    },
+    {
+      "title": "Griddle",
+      "text": "Cook in a dry pan over medium-low heat for 6-7 minutes per side until deep golden."
+    },
+    {
+      "title": "Finish",
+      "text": "Bake 8-10 minutes until 93 °C in the centre. Cool 10 minutes, split with a fork and toast."
+    }
+  ],
+  "tips": [
+    "Low heat is key: too hot and the outside burns before the middle cooks.",
+    "The oven finish guarantees no doughy centre.",
+    "Splitting with a fork, not a knife, keeps the craggy texture."
+  ],
+  "storage": "Keep wrapped at room temperature and eat within 2 days, or freeze for up to 1 month. Refresh in a hot oven for a few minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 266,
+    "protein_g": 8.6,
+    "carbs_g": 46.3,
+    "sugar_g": 3.6,
+    "free_sugar_g": 1.5,
+    "fat_g": 4.8,
+    "satfat_g": 2.5,
+    "salt_g": 1.14,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "english-muffins-basic.jpg",
+  "image_alt": "Golden English muffins on a plate, one split open with butter.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "slug": "golden-brown-butter-skillet-cornbread",
+  "title": "Golden Brown-Butter Skillet Cornbread",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "cornbread",
+  "dish_title": "Cornbread",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Butter is browned in the preheated skillet, whisked with buttermilk and eggs, folded into cornmeal, flour and leaveners, and baked in the same hot pan until golden.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "25 cm cast-iron frying pan",
+    "2 mixing bowls",
+    "whisk",
+    "spatula",
+    "skewer",
+    "oven gloves"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Batter",
+      "qty": 150,
+      "unit": "g",
+      "item": "fine yellow cornmeal"
+    },
+    {
+      "group": "Batter",
+      "qty": 140,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 360,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "To serve",
+      "qty": 20,
+      "unit": "g",
+      "item": "butter, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the pan",
+      "text": "Put the empty cast-iron pan in the oven and heat to 220 °C (200 °C fan)."
+    },
+    {
+      "title": "Mix the dry ingredients",
+      "text": "Whisk the cornmeal, flour, sugar, baking powder, bicarbonate and salt together."
+    },
+    {
+      "title": "Brown the butter",
+      "text": "Take out the hot pan, add the butter and swirl 1-2 minutes until it foams and smells nutty. Pour all but 1 tbsp into a bowl."
+    },
+    {
+      "title": "Mix the batter",
+      "text": "Whisk the buttermilk and eggs into the browned butter, pour into the dry ingredients and fold until just combined."
+    },
+    {
+      "title": "Bake",
+      "text": "Scrape into the hot pan and bake 18-22 minutes until golden and a skewer comes out clean."
+    },
+    {
+      "title": "Serve",
+      "text": "Cool 5 minutes, cut into 8 wedges and serve warm with butter."
+    }
+  ],
+  "tips": [
+    "The batter should sizzle as it hits the pan; that is what makes the crisp crust.",
+    "Stop folding as soon as the flour disappears for a tender crumb.",
+    "Use oven gloves throughout: the cast-iron handle gets very hot."
+  ],
+  "storage": "Store airtight at room temperature for up to 2 days, or freeze for up to 1 month. Warm through before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 290,
+    "protein_g": 6.5,
+    "carbs_g": 37.1,
+    "sugar_g": 8.9,
+    "free_sugar_g": 6.2,
+    "fat_g": 12.9,
+    "satfat_g": 7.5,
+    "salt_g": 1.38,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "cornbread-basic.jpg",
+  "image_alt": "Golden cornbread in a cast-iron skillet, with a wedge topped with butter.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

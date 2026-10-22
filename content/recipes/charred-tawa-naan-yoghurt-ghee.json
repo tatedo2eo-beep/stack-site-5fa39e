@@ -1,0 +1,144 @@
+{
+  "slug": "charred-tawa-naan-yoghurt-ghee",
+  "title": "Charred Pan Naan with Yoghurt and Ghee",
+  "category": "snacks-sides",
+  "cuisine": "Indian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "naan",
+  "dish_title": "Naan",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A soft yoghurt and ghee dough is shaped into teardrops, cooked wet side down in a very hot cast-iron pan, charred over a flame and brushed with ghee.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "cling film",
+    "rolling pin",
+    "heavy cast-iron frying pan or tawa",
+    "tongs",
+    "pastry brush",
+    "clean tea towel"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "plus extra for rolling"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 8,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Dough",
+      "qty": 150,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt"
+    },
+    {
+      "group": "Dough",
+      "qty": 200,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "ghee or neutral oil, melted"
+    },
+    {
+      "group": "To finish",
+      "qty": 30,
+      "unit": "g",
+      "item": "ghee or butter, melted, to brush"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dough",
+      "text": "Stir the flour, yeast, sugar, salt and baking powder together. Add the yoghurt, water and 2 tbsp ghee and mix to a soft, slightly sticky dough. Knead 5 minutes until smooth."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave 1.5-2 hours until doubled."
+    },
+    {
+      "title": "Shape",
+      "text": "Cut into 8 pieces, roll into balls and rest 10 minutes. Roll or stretch each into a teardrop about 22 cm long and 5 mm thick."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat the pan over high heat for 3 minutes. Brush the top of a naan with water and lay it wet side down. Cook 1-1.5 minutes until big bubbles rise and the base is charred in spots."
+    },
+    {
+      "title": "Char",
+      "text": "Flip and cook 1 minute more, or hold the bubbled side over a gas flame for a few seconds until it blisters."
+    },
+    {
+      "title": "Finish",
+      "text": "Brush at once with melted ghee and wrap in a tea towel while you cook the rest. Serve hot."
+    }
+  ],
+  "tips": [
+    "The pan must be very hot before the first naan goes in, or it dries out instead of puffing.",
+    "Wetting the top helps the naan grip the pan, just as it sticks to a tandoor wall.",
+    "A soft, slightly sticky dough gives the lightest naan; resist adding extra flour."
+  ],
+  "storage": "Keep wrapped at room temperature and eat within 2 days, or freeze for up to 1 month. Refresh in a hot oven for a few minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 307,
+    "protein_g": 7.5,
+    "carbs_g": 50.1,
+    "sugar_g": 2.0,
+    "free_sugar_g": 1.0,
+    "fat_g": 8.3,
+    "satfat_g": 4.8,
+    "salt_g": 1.25,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "naan-basic.jpg",
+  "image_alt": "Blistered, charred naan breads on a dark plate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}
