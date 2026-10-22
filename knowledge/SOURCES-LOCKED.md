@@ -21,3 +21,6 @@ USDA FSIS, FoodSafety.gov, UK Food Standards Agency, EFSA (safe temperatures and
 
 ## Never
 Small blogs, AI recipe sites, news sites, Wikipedia, Allrecipes, The Spruce Eats, Simply Recipes, Food & Wine, Martha Stewart, EatingWell, Epicurious, The Kitchn, BBC Good Food, Bon Appétit (not on Joe's list), or any source not named above.
+
+## Clarification (2026-10-22, not a new source)
+A locked-list author's own recipe may be read on that author's official publisher page or official channel (e.g. Penguin's thehappyfoodie.co.uk book excerpts for Mary Berry and Madhur Jaffrey). Third-party reposts, blogs and banned outlets are still never allowed.

@@ -37,6 +37,7 @@ const SCENES = {
     pick: ['signature-fudgy-brownies', 'chewy-chocolate-chip-cookies']
   },
   c: {
+    frame: 'polaroid', cap: 'Hot slice · No. 06',
     food: 'New York cheese pizza', lab: ['Blistered crust', 'Bright tomato sauce', 'Molten mozzarella', 'The stretch'],
     seq: [[0.08, 0], [0.72, 1]], scale: [[0, 0.96], [0.35, 1.08], [0.72, 1.2], [1, 0.9]], y: [[0, 2], [0.72, 6], [1, 0]],
     k: [[0, 0], [0.3, 0.12], [0.62, 0.24], [0.86, 0.1], [0.96, 0]], g: [[0, 0.3], [0.4, 0.7], [0.72, 0.9], [1, 0]],
@@ -90,7 +91,7 @@ ${i === 4 ? `<div class="s5-cta">${f ? `<a class="s5-card" href="${u(f.url)}">${
 </div></div></section>`;
   return `<div class="story5" id="story" data-scene="${d}" data-cfg='${JSON.stringify(cfg)}'>
 <div class="s5-stage" aria-hidden="true"><div class="s5-bg"></div><div class="s5-glow"></div><div class="s5-grid"></div>${macros}
-<div class="s5-obj" style="--ar:${M.w}/${M.h}"><img class="s5-poster" src="${F(0)}" alt="" width="${M.w}" height="${M.h}" fetchpriority="high" decoding="async"><canvas class="s5-cv"></canvas><i class="s5-scan"></i></div>
+<div class="s5-obj${S.frame ? ` s5-${S.frame}` : ''}" style="--ar:${M.w}/${M.h}"><img class="s5-poster" src="${F(0)}" alt="" width="${M.w}" height="${M.h}" fetchpriority="high" decoding="async"><canvas class="s5-cv"></canvas><i class="s5-scan"></i>${S.cap ? `<b class="s5-cap">${esc(S.cap)}</b>` : ''}</div>
 <ol class="s5-labs">${labs}</ol>
 <div class="s5-hud"><span class="s5-tag">${esc(S.food)}</span><span class="s5-n"><b>01</b> / 05</span><span class="s5-rail"><i></i></span></div><div class="s5-grain"></div></div>
 ${S.copy.map(sec).join('')}

@@ -8,7 +8,7 @@
   var story = document.getElementById('story'); if (!story || !story.dataset.cfg) return;
   if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
   var C = JSON.parse(story.dataset.cfg);
-  var obj = story.querySelector('.s5-obj'), cv = story.querySelector('.s5-cv'), cx = cv.getContext('2d');
+  var obj = story.querySelector('.s5-obj'), tilt = obj.classList.contains('s5-polaroid'), cv = story.querySelector('.s5-cv'), cx = cv.getContext('2d');
   var labs = story.querySelector('.s5-labs'), nEl = story.querySelector('.s5-n b');
   var macros = [].slice.call(story.querySelectorAll('.s5-macro'));
   var cl = function (v) { return v < 0 ? 0 : v > 1 ? 1 : v; };
@@ -22,7 +22,7 @@
   function measure() {
     mobile = innerWidth < 900; dpr = Math.min(2, window.devicePixelRatio || 1);
     top0 = story.getBoundingClientRect().top + scrollY; len = Math.max(1, story.offsetHeight - innerHeight);
-    var w = obj.offsetWidth, h = obj.offsetHeight; cv.width = Math.round(w * dpr); cv.height = Math.round(h * dpr); last = -1;
+    var w = cv.offsetWidth, h = cv.offsetHeight; cv.width = Math.round(w * dpr); cv.height = Math.round(h * dpr); last = -1;
   }
   function near(i) { for (var d = 0; d < C.n; d++) { if (frames[i - d] && frames[i - d].ok) return frames[i - d]; if (frames[i + d] && frames[i + d].ok) return frames[i + d]; } return null; }
   function draw(f) {
@@ -39,7 +39,7 @@
     s.setProperty('--gx', (mobile ? 50 : 70) + '%'); s.setProperty('--gy', (mobile ? 40 : 50) + '%');
     var q = cl(key(C.seq, p)), sc = key(C.scale, p), y = key(C.y, p);
     if (loaded) draw(q * (C.n - 1));
-    obj.style.transform = (mobile ? 'translate(-50%,-50%) ' : 'translate(0,-50%) ') + 'translateY(' + y.toFixed(2) + '%) scale(' + sc.toFixed(4) + ')';
+    obj.style.transform = (mobile ? 'translate(-50%,-50%) ' : 'translate(0,-50%) ') + 'translateY(' + y.toFixed(2) + '%) scale(' + sc.toFixed(4) + ')' + (tilt ? ' rotate(' + (-3 + 4 * p).toFixed(2) + 'deg)' : '');
     // scanner line passes over the food while the sequence plays
     var on = q > 0 && q < 1 ? 1 : 0; obj.style.setProperty('--sc', ((q * 3) % 1).toFixed(3)); obj.style.setProperty('--so', (on * 0.55).toFixed(2));
     // labels appear around the first third of the sequence

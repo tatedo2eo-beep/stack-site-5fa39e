@@ -137,9 +137,132 @@
   - Raw cookie dough or flour needs a do-not-eat-raw note (03-K10).
 - **Sources:** FSIS, Safe Minimum Internal Temperature Chart https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart · FoodSafety.gov, Safe Minimum Internal Temperatures https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures · FSIS, "Danger Zone (40 °F–140 °F)" https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/danger-zone-40f-140f · FoodSafety.gov, "4 Steps to Food Safety" https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety · FoodSafety.gov, Cold Food Storage Chart https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts
 
+## G10. Stocks
+- **Rule (white chicken stock, Serious Eats):**
+  - Use **1.8–3.6 kg chicken parts per 3.8 L water**. Include **wings or feet for gelatin**, plus some meat (not just bones) for flavour.
+  - Add diced onion, carrot, celery, garlic and parsley. Raw (not sautéed) aromatics tasted cleanest in the test.
+  - Start cold, bring up over low heat, and hold at a **very gentle simmer (never a boil) for about 1½ h**.
+  - Fine-strain, chill, then lift off the fat.
+  - **Thin stock fix:** 1 packet unflavoured gelatin, softened in ¼ cup cold water, per 1 L stock.
+- **Brown/quick variant (ATK):**
+  - Brown 1.8 kg chicken pieces in batches.
+  - Cover and sweat on low about 20 min until the juices release.
+  - Add 2 L **boiling** water and barely simmer about 20 min. Strain and defat.
+- **Pressure cooker (ATK):**
+  - 1½ h gives a **darker, meatier** stock; a pot gives a **cleaner chicken** taste.
+  - Use pressure stock for braises and stews, pot stock for clear soups.
+- **Why:**
+  - Collagen from skin, joints and wings converts to gelatin, which gives body.
+  - A gentle simmer keeps fat and proteins from emulsifying into cloudiness. Serious Eats: a very gentle simmer removes the need to skim.
+  - Pressure-cooker heat extracts more flavour compounds and breaks proteins into savoury peptides.
+- **Cue:** a chilled stock that sets to a soft jelly has good body. If it is still thin, use the gelatin fix.
+- **Failure → fix:**
+  - Cloudy or greasy → it boiled. Keep it below a simmer, fine-strain, and chill to defat.
+  - Thin → add wings or feet, or the gelatin fix.
+  - Flat → add more meat, or use the pressure method.
+- **Storage (disagreement → safer pick):** ATK says up to **2 days** chilled; Serious Eats says 5 days. **House: chill quickly and use within 2 days, or freeze.** Frozen stock keeps for months: "several" per ATK, up to 6 per SE. Cool and reheat per G9 (reheat leftovers to 74 °C).
+- **Sources:**
+  - Serious Eats, "Rich and Easy White Chicken Stock": https://www.seriouseats.com/best-rich-easy-white-chicken-stock-recipe
+  - ATK, "Making Stock: Pot versus Pressure Cooker": https://www.americastestkitchen.com/how_tos/6585-making-stock-pot-versus-pressure-cooker
+  - ATK, "Chicken Stock with Ginger and Scallions": https://www.americastestkitchen.com/recipes/5140-asian-chicken-stock
+
+## G11. Mother sauces (Escoffier's five) and roux
+- **The five (Le Cordon Bleu):**
+  - **Béchamel:** milk + white roux. Mornay = béchamel + cheese; soubise = béchamel + onion.
+  - **Velouté:** light stock (chicken or fish) + white or blond roux. Suprême = velouté + cream; allemande = velouté + yolks, lemon and cream.
+  - **Espagnole:** brown stock + brown roux + mirepoix + tomato purée. It is the base of demi-glace.
+  - **Sauce tomate:** reduced tomatoes. Roux is traditional but optional; for Italian style see 04-P9.
+  - **Hollandaise:** warm melted butter emulsified into egg yolks with acid. Béarnaise adds a reduction of vinegar, shallot and tarragon.
+- **Roux rule:**
+  - Roughly **equal parts fat and flour**. Cook until the raw-flour smell is gone, about 1 min for white roux.
+  - Add the liquid **gradually while whisking**: warm milk for béchamel. The sauce goes very thick, then thin, then thickens again at the simmer.
+  - Thickness per 240 ml liquid (Serious Eats):
+
+    | Consistency | Flour per 240 ml | Fat |
+    |---|---|---|
+    | Light, gravy-like | 1–2 tbsp | equal amount |
+    | Standard béchamel | 1½ tbsp (12 g) | 1½ tbsp butter (20 g) |
+    | Thick (soufflé or moussaka base) | 3 tbsp | equal amount |
+
+  - Simmer about 3 min, until it coats a spoon.
+- **Why:** gelatinised flour starch thickens the liquid; cooking the roux first removes the raw taste. **The darker the roux, the less it thickens**, because browning breaks starch chains. A brown roux needs more flour for the same body.
+- **Cue:** the sauce coats the back of a spoon and a finger drawn through it leaves a clear line. Press plastic onto the surface to stop a skin forming.
+- **Failure → fix:**
+  - Lumps → whisk hard or use a hand blender.
+  - Raw or pasty taste → cook the roux longer, then simmer the sauce at least 3 min.
+  - Too thin with a dark roux → expected; use more roux.
+  - Velouté and espagnole: simmer and skim for clarity (LCB).
+- **Hollandaise (blender method, Serious Eats):**
+  1. Put 1 yolk, 1 tsp water, 1 tsp lemon juice and salt in a **narrow cup that just fits the immersion blender**.
+  2. Heat **113 g butter until the foaming subsides**, then stream it in with the blender running.
+  3. Thin with warm water, 1 tbsp at a time.
+  - Hold in a warm place for **up to 1 h**. It **cannot be cooled and reheated**.
+  - Classic method (LCB): whisk the yolks over a bain-marie and add the butter slowly. **If it splits, whisk in a spoon of warm water or a fresh yolk.**
+  - **Safety (house):** the yolks are only lightly cooked, so recipe copy must carry the **pasteurised-egg note** (site override).
+- **Sources:**
+  - Le Cordon Bleu, "What are the mother sauces of French cooking?": https://www.cordonbleu.edu/news/what-are-the-mother-sauces-of-french-cooking/en
+  - Le Cordon Bleu Malaysia, "How to Make the Perfect Sauce": https://www.cordonbleu.edu/malaysia/blog-how-to-make-the-perfect-sauce-mastering-barnaise-bchamel-more/en
+  - Serious Eats, "Classic Béchamel": https://www.seriouseats.com/bechamel-white-sauce-recipe
+  - Serious Eats, "How to Make a Roux": https://www.seriouseats.com/a-brief-guide-to-roux
+  - Serious Eats, "Quick Immersion Blender Hollandaise": https://www.seriouseats.com/foolproof-2-minute-hollandaise-recipe
+
+## G12. Rice and grains
+- **Key rule:** in absorption cooking, **rice absorbs about its own volume of water, about 1 : 1**. Anything extra is only there to **evaporate**, and evaporation depends on the pot, lid and heat, **not on the batch size**. **Never scale the water linearly** (ATK): ATK's 1½ cups rice : 2¼ cups water pilaf **doubles to 3 cups rice : 3¾ cups water, not 4½**.
+- **Working ratios by volume, rinsed rice, covered pot:**
+
+  | Rice | Rice : water | Simmer | Rest | Source |
+  |---|---|---|---|---|
+  | Long-grain or basmati pilaf | 1 : 1.5 | covered on low 16–18 min | 10 min under a towel | ATK |
+  | Thai jasmine | 1 : 1.25 (185 g : 300 ml) | about 20 min | 5–10 min | SE |
+  | Sealed-pot method | 1 : 1 | 15–25 min | 5 min | SE (pot wrapped and weighted so almost nothing evaporates) |
+
+- **Method (pilaf, ATK):**
+  1. **Rinse** 4–5 times until the water runs almost clear.
+  2. Sweat the onion in butter.
+  3. **Toast the rice about 3 min, until the edges turn translucent.**
+  4. Add **hot** salted water (1½ tsp table salt per 1½ cups rice), boil, cover, and cook on low.
+  5. Off the heat, put a **folded towel under the lid for 10 min**, then fluff.
+- **Pasta method (Serious Eats test):**
+  - Boil the rice in plenty of water (1 cup basmati in 2 qt, about 10 min) and drain.
+  - Grains come out **plumper and more separate**, with a slightly lighter flavour.
+  - The margin for error is small. For biryani or tahdig, **drain at 80–90 % done** and finish by steaming.
+- **Risotto (Serious Eats classic):**
+  1. Use 400 g carnaroli to up to 2 L hot stock. Sweat the onion and **toast the rice 2–3 min, until translucent at the edges**.
+  2. Add the wine, then add stock **½ cup at a time, stirring**. It takes 15–20 min, until the rice is al dente.
+  3. **Off the heat, beat in cold butter and Parmigiano.**
+  4. Serve loose, "like lava", on warm plates.
+  - **Single source, marked:** the risotto numbers rest on Serious Eats only.
+- **Why:**
+  - Rinsing removes surface starch that would glue the grains.
+  - Toasting coats the grains in fat and starts the flavour.
+  - The towel absorbs condensation so water doesn't drip back and make the top layer soggy.
+  - In absorption cooking the last liquid is starchy, which makes the grains cling. Draining removes that starch.
+- **Cue:** tilt the pot or push a spatula to the bottom. **No water left** means it is done. If the bottom is dry but the rice is still firm, rest it covered 5–10 min, or sprinkle on 2 tbsp water and cook on low (SE jasmine).
+- **Failure → fix:**
+  - Mushy, especially on doubled batches → too much water for the evaporation; use the ATK rule.
+  - Gummy → not rinsed, or stirred during the simmer.
+  - Crunchy → under-watered or the lid leaked; add 2 tbsp water, cover and steam.
+  - Scorched → heat too high; use the lowest setting.
+- **Safety:** cool leftover rice quickly and keep it chilled. The Serious Eats jasmine page allows 1 week, which is **longer than the house leftovers rule (G9)**, so **follow G9**. Reheat to 74 °C.
+- **Sources:**
+  - ATK, "Basic Rice Pilaf": https://www.americastestkitchen.com/recipes/516-simple-rice-pilaf
+  - ATK, "Science: The Secrets of Cooking Rice": https://www.americastestkitchen.com/how_tos/9395-science-the-secrets-of-cooking-rice
+  - Serious Eats, "Basic White Rice": https://www.seriouseats.com/basic-white-rice-recipe-5189757
+  - Serious Eats, "Perfect Stovetop Thai Jasmine Rice": https://www.seriouseats.com/perfect-stovetop-thai-jasmine-rice
+  - Serious Eats, "Boiling Rice Like Pasta" test: https://www.seriouseats.com/boiling-rice-like-pasta-makes-fluffier-grains-11970536
+  - Serious Eats, "Classic Risotto al Parmigiano": https://www.seriouseats.com/classic-risotto-recipe-8347844
+
 ---
 ### Gaps and notes
-- **Samin Nosrat:** the NYT salt article was opened but returned no readable text (two WebFetch tries, and curl gave a 254-byte page). Her own site has no technique text. G2 is therefore built on Serious Eats only. Add Nosrat if the page becomes readable.
-- **Not used for lack of an openable online text:** McGee, Modernist Cuisine, Heston Blumenthal, Le Cordon Bleu, and the CIA beyond the knife chart.
-- **Not covered:** stocks, mother sauces (hollandaise, béchamel), and rice and grains cookery. Suggested next additions.
+- **Samin Nosrat:** the NYT salt article was opened but returned no readable text (two WebFetch tries, and curl gave a 254-byte page). Her own site has no technique text. G2 is therefore built on Serious Eats only.
+- **Pass 2:**
+  - Stocks are in G10, mother sauces and roux in G11, rice and grains in G12.
+  - Le Cordon Bleu is now cited (G11).
+- **Still without a readable allowed-outlet text (gaps):**
+  - **Harold McGee:** curiouscook.typepad.com is blocked by Cloudflare to both curl and WebFetch, and his NYT columns are 403.
+  - **Modernist Cuisine:** the modernistcuisine.com pages that open are only blog or video announcements with no technique figures. modernistcookingathome.com is a fan blog, not cited.
+  - **Heston Blumenthal:** his recipes appear only on Epicurious (banned), SBS, The Times, Great British Chefs and Michelin, none of which are on the locked list.
+  - **Aaron Franklin:** the NYT brisket article returned empty (WebFetch) or 403 (curl). The other copies are MasterClass or blogs, not on the list.
+  - **The CIA**, beyond the knife chart.
+- **Single-source items, marked in the text:** risotto (G12); the stock gelatin-fix amount (G10, Serious Eats).
 - **Unsourced house rules, labelled as such:** the texture-contrast rule in G2 and the "half full" fill level in G6.

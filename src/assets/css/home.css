@@ -44,6 +44,12 @@
 .s5-card b{display:block;font-family:var(--fh);font-size:20px;line-height:1.15;margin:3px 0}
 .s5-card em{font-style:normal;color:var(--accentText,var(--accent));font-size:13px}
 .s5-btn{justify-self:start;display:inline-block;padding:12px 20px;border-radius:999px;background:var(--accent);color:var(--onaccent);font-weight:700;text-decoration:none}
+/* C: the sequence is a real photo, so it is shown as one of the design's polaroids (white card, tilt, caption) */
+.s5-polaroid{background:#fff;padding:3.2% 3.2% 13%;box-shadow:0 18px 40px rgba(var(--shade),.32);border-radius:2px;box-sizing:content-box}
+.s5-polaroid .s5-poster,.s5-polaroid .s5-cv{inset:3.2% 3.2% auto;width:93.6%;height:auto;aspect-ratio:var(--ar)}
+.s5-polaroid::after{display:none}
+.s5-polaroid .s5-cap{position:absolute;left:0;right:0;bottom:3.5%;text-align:center;font-family:var(--fh);font-weight:400;font-size:clamp(16px,2.2vw,26px);color:#2a1a14}
+.s5-polaroid::before{content:"";position:absolute;left:50%;top:-12px;width:90px;height:24px;transform:translateX(-50%) rotate(-3deg);background:color-mix(in oklab,var(--pop,var(--accent)) 70%,transparent);z-index:2}
 @media(min-width:900px){
  .s5-obj,.s5-labs{left:auto;right:max(90px,calc(50vw - 560px));top:50%;width:min(40vw,70svh,620px);transform:translate(0,-50%)}
  .s5-labs{height:min(70svh,620px)}

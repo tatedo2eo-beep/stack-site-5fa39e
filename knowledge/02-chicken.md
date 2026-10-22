@@ -86,6 +86,14 @@
 - **Failure → fix:** if the breast is dry and the thighs are underdone, roast leg-side first or on the sides, as above. If the skin is pale, the bird wasn't dried, the oven was too low, or the pan was too deep and crowded with vegetables, which make steam.
 - **Sources:** Jacques Pépin, "Basic Roast Chicken" (NYT Cooking) https://cooking.nytimes.com/recipes/11353-jacques-pepins-basic-roast-chicken · Serious Eats, "Perfect Roast Chicken" https://www.seriouseats.com/perfect-roast-chicken-recipe-8384377 · Jacques Pépin, KQED Essential Pépin, "How to Truss a Chicken for Roasting" [V] (trussing holds the bird together for easier carving) https://www.kqed.org/jpepinheart/780/jacques-pepin-teaches-you-how-to-truss-a-chicken-for-roasting · Serious Eats, resting science https://www.seriouseats.com/meat-resting-science-11776272
 
+- **Pass 2, Thomas Keller one-pot roast chicken (Serious Eats, "Cook the Book"):**
+  1. Remove the wishbone and truss the bird. Salt it evenly from height, "like snow", and pepper it liberally.
+  2. Set it on a bed of root vegetables, shallots, bay and thyme in a heavy pot, and dot with 2–3 tbsp butter.
+  3. Roast **uncovered at 375 °F / 190 °C for 45–60 min** for a 3 lb (1.4 kg) bird.
+  4. Rest a few minutes, then serve on the caramelised vegetables.
+  - Keller judges doneness by **clear juices at the leg joint**. **Site rule overrides that: probe 74 °C** in the thickest thigh (C1).
+  - Source: https://www.seriouseats.com/thomas-kellers-one-pot-roast-chicken-recipe
+
 ## C9. Curry base (onion, aromatics, spices, liquid)
 - **Rule (sequence):**
   1. Heat the fat (oil, butter or ghee). **Whole spices** (cumin seed, cinnamon, cardamom) go in first, for **10 s–2 min**, until fragrant.
@@ -106,8 +114,29 @@
 - **Why:** salted buttermilk works as a brine. Its proteins help the flour coat stick and brown.
 - **Sources:** Serious Eats, "Buttermilk-Brined Southern Fried Chicken" https://www.seriouseats.com/the-food-lab-southern-fried-chicken-recipe · Serious Eats, "Four Secrets for Better Fried Chicken" https://www.seriouseats.com/four-secrets-for-better-fried-chicken
 
+## C11. Stir-fry marinade (Sichuan-style diced chicken) and Thai brined, air-dried birds
+- **Dunlop marinade (Gong Bao, NYT adaptation):** for about 330 g diced breast, use **½ tsp salt, 2 tsp light soy, 1 tsp Shaoxing and 1½ tsp potato starch or cornstarch, plus 1 tbsp water**.
+  1. Cut the chicken into even ~1.3 cm cubes.
+  2. Pre-mix the sauce: sugar, a little starch, dark and light soy, black vinegar, sesame oil, stock.
+  3. Wok over high heat: fry the dried chiles and Sichuan pepper briefly in the oil until they **darken but don't burn**.
+  4. Add the chicken and stir-fry until the cubes **separate**. Then add the garlic, ginger and scallion and cook until the meat is just cooked through.
+  5. Add the sauce, toss until **thick and shiny**, then stir in the peanuts.
+  - **Why:** the starch-and-liquid coating protects the surface of lean breast meat over fierce heat and helps the sauce cling.
+  - **Single source for these amounts** (the Serious Eats velveting article timed out or returned 403, so it is not cited). Probe-check large pieces, 74 °C (C1).
+- **Ricker kai yaang (Serious Eats, Pok Pok excerpt):**
+  - **Wet brine:** ½ cup kosher salt + ¼ cup sugar in 10 cups (2.4 L) tepid water, with bruised aromatics. Brine **4 h minimum, overnight better**.
+  - Then stuff, and **air-dry uncovered in the fridge 4–12 h**.
+  - Brush with marinade and chill 2 h more.
+  - Cook by **indirect grilling at 350–375 °F** (or roast at 350 °F, finishing at 400 °F). Glaze with honey only near the end.
+  - **This agrees with C3/C4:** wet-brine for moisture, but dry the skin uncovered afterwards so it crisps. A late honey glaze avoids burning.
+  - The salt brand is not stated, so convert carefully: the strength varies about 2× between Diamond and Morton.
+- **Sources:**
+  - NYT Cooking, "Gong Bao Chicken With Peanuts" (adapted from Fuchsia Dunlop, *Every Grain of Rice*; read via WebFetch): https://cooking.nytimes.com/recipes/1015131-gong-bao-chicken-with-peanuts
+  - Serious Eats, Andy Ricker kai yaang: https://www.seriouseats.com/andy-ricker-whole-roasted-chicken-game-hen-recipe-from-pok-pok-cookbook
+  - Serious Eats, Andy Ricker phat thai (wok-heat sequencing reference): https://www.seriouseats.com/andy-rickers-phat-thai-stir-fried-rice-noodles-shrimp-tofu-peanuts
+
 ---
 ### Gaps and notes
-- **Thomas Keller** roast chicken: the only full text is on Epicurious, which is a banned outlet, and thomaskeller.com has only a book description. **Not cited.**
+- **Thomas Keller:** in pass 2 I found a readable Serious Eats excerpt of his one-pot roast chicken, now in C8. The Epicurious version is still not used.
 - Pass 2: the AmazingRibs wet-vs-dry brine figures were **re-verified from the full page** (WebFetch). They match, and the extra figures (10 % gain, 12 % dry-brine loss) were added. Meathead's dry-brining page was re-read: ½ tsp kosher salt per lb; poultry at least 2–4 h, overnight fine; uncovered on a rack.
-- No **Fuchsia Dunlop** or **Andy Ricker** chicken methods (velveting, stir-fry) are covered yet. Add them if the book needs Chinese or Thai chicken.
+- **Fuchsia Dunlop and Andy Ricker:** added in C11 in pass 2. Stand-alone velveting (egg white plus starch, water or oil blanch) is still a **gap**: the Serious Eats page timed out (WebFetch) or returned 403 (curl).
