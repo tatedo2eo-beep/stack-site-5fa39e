@@ -167,5 +167,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "pound-cake-basic--marble.jpg",
-  "image_alt": "A marble pound cake loaf with slices showing chocolate and vanilla swirls on a dark wooden board."
+  "image_alt": "A marble pound cake loaf with slices showing chocolate and vanilla swirls on a dark wooden board.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

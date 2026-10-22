@@ -180,5 +180,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "pound-cake-basic--lemon.jpg",
-  "image_alt": "A lemon pound cake loaf with white lemon drizzle and zest on top, with slices on a dark wooden board."
+  "image_alt": "A lemon pound cake loaf with white lemon drizzle and zest on top, with slices on a dark wooden board.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

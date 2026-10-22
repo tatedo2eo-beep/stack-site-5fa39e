@@ -201,5 +201,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "carrot-basic.jpg",
-  "image_alt": "A square slice of two-layer carrot cake with walnuts and thick cream cheese frosting on a black plate on dark slate."
+  "image_alt": "A square slice of two-layer carrot cake with walnuts and thick cream cheese frosting on a black plate on dark slate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
 }

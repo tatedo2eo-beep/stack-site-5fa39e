@@ -23,6 +23,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | black-and-white-cookies | Black-and-white | Classic | 2 | 4 |
 | black-bean-burger | Veggie/bean burger | Classic | 2 | 6 |
 | blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
+| boston-cream-pie | Boston cream pie | Classic | 2 | 4 |
 | brookies | Brookies | Classic | 2 | 4 |
 | brown-butter-chocolate-chip-cookies | Brown-butter chocolate chip cookie | Classic | 2 | 4 |
 | brown-sugar-shortbread | Shortbread | Brown sugar | 1 | 5 |
@@ -57,10 +58,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chiffon-cake | Chiffon | Classic | 2 | 4 |
 | chocolate-angel-food-cake | Angel food | Chocolate | 3 | 5 |
 | chocolate-biscotti | Biscotti | Chocolate | 3 | 5 |
+| chocolate-cupcakes | Cupcakes | Chocolate | 3 | 5 |
 | chocolate-dipped-shortbread | Shortbread | Chocolate-dipped | 2 | 5 |
 | chocolate-layer-cake | Chocolate layer | Classic | 2 | 4 |
 | chocolate-rugelach | Rugelach | Chocolate | 2 | 4 |
 | chocolate-sandwich-cookies | Sandwich cookies | Classic | 2 | 4 |
+| chocolate-whoopie-pies | Whoopie pie | Classic | 2 | 4 |
 | chow-mein | Chow mein/lo mein | Classic | 3 | 5 |
 | cinnamon-streusel-coffee-cake | Coffee cake | Cinnamon streusel | 2 | 4 |
 | classic-almond-biscotti | Biscotti | Classic | 3 | 5 |
@@ -94,6 +97,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | haluski | Haluski | Classic | 2 | 4 |
 | high-heat-roast-chicken | High-heat roast chicken | Classic | 3 | 5 |
 | hot-dry-noodles | Hot dry noodles | Classic | 1 | 3 |
+| hummingbird-cake | Hummingbird cake | Classic | 3 | 5 |
 | iced-coffee | Iced coffee | Classic | 2 | 3 |
 | japanese-cotton-cheesecake | Japanese soufflé/cotton | Classic | 3 | 5 |
 | japchae | Japchae | Classic | 3 | 5 |
@@ -141,9 +145,11 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pasta-primavera | Pasta primavera | Classic | 3 | 5 |
 | pastitsio | Pastitsio | Classic | 3 | 5 |
 | peanut-butter-cookies | Peanut butter | Classic | 3 | 5 |
+| pear-upside-down-cake | Upside-down | Pear | 2 | 4 |
 | peking-duck | Peking duck | Classic | 2 | 4 |
 | penne-arrabbiata | Short (penne, rigatoni, fusilli) | Classic | 3 | 5 |
 | pesto-alla-trapanese | Pesto alla trapanese | Classic | 2 | 4 |
+| pineapple-upside-down-cake | Upside-down | Pineapple | 2 | 4 |
 | piri-piri-chicken | Piri-piri | Classic | 2 | 4 |
 | pizzelle | Pizzelle | Classic | 2 | 4 |
 | pizzoccheri | Pizzoccheri | Classic | 2 | 4 |
@@ -152,6 +158,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | potato-gnocchi | Gnocchi | Classic | 4 | 6 |
 | potato-vareniki | Vareniki | Classic | 2 | 4 |
 | pound-cake | Pound cake | Classic | 2 | 4 |
+| pumpkin-whoopie-pies | Whoopie pie | Pumpkin | 2 | 4 |
 | raspberry-thumbprint-cookies | Thumbprints | Raspberry | 3 | 5 |
 | red-lentil-soup | Lentil | Classic | 2 | 3 |
 | red-velvet-cake | Red velvet | Classic | 2 | 4 |
@@ -183,12 +190,15 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | trenette-al-pesto | Trenette al pesto | Classic | 3 | 5 |
 | trofie-al-pesto | Trofie | Classic | 3 | 5 |
 | tuna-puttanesca | Puttanesca | Tuna | 2 | 4 |
+| upside-down-cake | Upside-down | Classic | 2 | 4 |
 | vanilla-bundt-cake | Bundt | Classic | 2 | 4 |
+| vanilla-cupcakes | Cupcakes | Classic | 2 | 4 |
 | vegetable-chow-mein | Chow mein/lo mein | Vegetable | 2 | 4 |
 | vegetable-lo-mein | Lo mein | Vegetable | 2 | 4 |
 | yakisoba | Yakisoba | Classic | 2 | 4 |
 | yakitori | Yakitori | Classic | 2 | 4 |
 | yangnyeom-chicken | Yangnyeom chicken | Classic | 3 | 6 |
 | yellow-butter-cake-chocolate-frosting | Butter/layer cake (yellow/vanilla) | Classic | 3 | 5 |
+| yellow-sheet-cake | Sheet cake | Classic | 2 | 4 |
 
 Flavour maps: [smash-burger-flavours.md](smash-burger-flavours.md) (extra flavours ON HOLD per Joe's final rule: book flavours only).

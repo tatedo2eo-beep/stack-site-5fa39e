@@ -189,5 +189,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "red-velvet-basic.jpg",
-  "image_alt": "A slice of deep red two-layer red velvet cake with white cream cheese frosting on a black plate on dark slate."
+  "image_alt": "A slice of deep red two-layer red velvet cake with white cream cheese frosting on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

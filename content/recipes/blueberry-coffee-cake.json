@@ -184,5 +184,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "coffee-cake-basic--blueberry.jpg",
-  "image_alt": "Two squares of blueberry coffee cake studded with berries under a crumb topping on a black plate on dark slate."
+  "image_alt": "Two squares of blueberry coffee cake studded with berries under a crumb topping on a black plate on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
 }

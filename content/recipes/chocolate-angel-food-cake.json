@@ -177,5 +177,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "angel-food-basic--chocolate.jpg",
-  "image_alt": "A slice of chocolate angel food cake with fresh strawberries on a black plate on dark slate."
+  "image_alt": "A slice of chocolate angel food cake with fresh strawberries on a black plate on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
 }

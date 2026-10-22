@@ -143,5 +143,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "angel-food-basic.jpg",
-  "image_alt": "A tall slice of white angel food cake with a golden crust and fresh strawberries on a black plate on dark slate."
+  "image_alt": "A tall slice of white angel food cake with a golden crust and fresh strawberries on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

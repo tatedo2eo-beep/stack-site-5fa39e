@@ -168,5 +168,8 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "bundt-basic.jpg",
-  "image_alt": "A golden vanilla Bundt cake with white glaze running down the ridges and a slice cut on a black plate on dark slate."
+  "image_alt": "A golden vanilla Bundt cake with white glaze running down the ridges and a slice cut on a black plate on dark slate.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
 }

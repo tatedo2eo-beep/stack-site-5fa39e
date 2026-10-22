@@ -139,5 +139,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "pound-cake-basic.jpg",
-  "image_alt": "A golden pound cake loaf with a split top and three thick slices on a dark wooden board."
+  "image_alt": "A golden pound cake loaf with a split top and three thick slices on a dark wooden board.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

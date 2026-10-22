@@ -1,0 +1,195 @@
+{
+  "slug": "chocolate-cupcakes",
+  "title": "Chocolate Cupcakes with Chocolate Buttercream",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cakes-cupcakes",
+  "book_chapter": "cakes-cupcakes",
+  "dish": "cupcakes",
+  "dish_title": "Cupcakes",
+  "flavour": "Chocolate",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "vanilla-cupcakes",
+  "changes_from_base": "Cocoa bloomed in hot water replaces the milk and some flour; chocolate buttercream.",
+  "summary": "This follows the classic vanilla cupcake method, with cocoa bloomed in hot water standing in for the milk and some of the flour, and a rich chocolate buttercream on top.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 22,
+  "difficulty": "easy",
+  "equipment": [
+    "12-hole muffin tin lined with paper cases",
+    "stand mixer or electric hand whisk",
+    "piping bag with a large star nozzle",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Cupcakes",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, softened (about 18°C)"
+    },
+    {
+      "group": "Cupcakes",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cupcakes",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Cupcakes",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Cupcakes",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Cupcakes",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Cupcakes",
+      "qty": 130,
+      "unit": "g",
+      "item": "cake flour (or plain flour; see note)",
+      "note": "plain flour works with a slightly firmer crumb"
+    },
+    {
+      "group": "Cupcakes",
+      "qty": 30,
+      "unit": "g",
+      "item": "cocoa powder (Dutch-processed)"
+    },
+    {
+      "group": "Cupcakes",
+      "qty": 120,
+      "unit": "ml",
+      "item": "hot water or hot coffee"
+    },
+    {
+      "group": "Buttercream",
+      "qty": 170,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Buttercream",
+      "qty": 300,
+      "unit": "g",
+      "item": "icing sugar, sifted"
+    },
+    {
+      "group": "Buttercream",
+      "qty": 40,
+      "unit": "g",
+      "item": "cocoa powder, sifted"
+    },
+    {
+      "group": "Buttercream",
+      "qty": 60,
+      "unit": "g",
+      "item": "dark chocolate, melted and cooled"
+    },
+    {
+      "group": "Buttercream",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "whole milk"
+    },
+    {
+      "group": "Buttercream",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Bloom the cocoa",
+      "text": "Whisk the cocoa powder into the hot water or hot coffee until completely smooth, then set it aside to cool to warm. Blooming the cocoa in hot liquid draws out more of its flavour than simply stirring it into the dry ingredients would."
+    },
+    {
+      "title": "Preheat the oven",
+      "text": "Set the oven to 175°C (155°C fan), position a shelf centrally, and let it fully preheat for a minimum of 20 minutes before you begin baking."
+    },
+    {
+      "title": "Cream butter and sugar",
+      "text": "Cream together the butter, caster sugar and salt for 3-4 minutes, whisking until the mixture turns pale and airy — the base that will carry the cocoa flavour. Add the eggs one at a time, then mix in the vanilla extract. This builds the air structure that lifts the cupcakes in the oven."
+    },
+    {
+      "title": "Fold in flour and cocoa liquid",
+      "text": "On low speed, add the flour and baking powder in two additions, alternating with the cooled cocoa liquid, mixing just until smooth. Cocoa powder has no gluten, so the batter can look slightly looser than a plain vanilla one – that's expected."
+    },
+    {
+      "title": "Fill the cases",
+      "text": "Divide the batter evenly between the paper cases, filling each about two-thirds full. This leaves enough room for the cupcakes to dome as they rise."
+    },
+    {
+      "title": "Bake until set",
+      "text": "Bake for 18-22 minutes, until the tops spring back when touched and a skewer comes out with a few moist crumbs. Chocolate batter can look done on top before the centre has fully set, so moist crumbs rather than a totally clean skewer is the cue to trust."
+    },
+    {
+      "title": "Cool before icing",
+      "text": "Leave the cupcakes in the tin for 5 minutes, then move them to a wire rack to cool completely. Icing them while warm would melt the buttercream straight off."
+    },
+    {
+      "title": "Make the buttercream",
+      "text": "Beat the butter for 3 minutes, then mix in the icing sugar and cocoa powder on low speed. Add the cooled melted chocolate, milk and salt, and beat for 3 minutes until fluffy. The melted chocolate on top of the cocoa powder gives a deeper, less chalky flavour."
+    },
+    {
+      "title": "Pipe and finish",
+      "text": "Once the cupcakes are completely cold, pipe tall swirls of the chocolate buttercream on top with a star nozzle."
+    }
+  ],
+  "tips": [
+    "Let the cocoa and hot water mixture cool to warm before adding it to the batter, or it can start to cook the eggs already mixed in.",
+    "Check doneness by looking for a few moist crumbs on the skewer rather than a completely clean one – chocolate batter can look underdone when it's actually ready.",
+    "Cool the cupcakes fully before piping the buttercream so it holds its swirl instead of sliding off.",
+    "Sift the cocoa for the buttercream first to avoid small lumps that won't smooth out once mixed in.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep iced cupcakes in an airtight container at room temperature for up to 2 days, or in the fridge for up to 4 days. Unfrosted sponge freezes for up to 2 months; thaw at room temperature before icing.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 414,
+    "protein_g": 3.7,
+    "carbs_g": 52.0,
+    "sugar_g": 38.5,
+    "free_sugar_g": 38.2,
+    "fat_g": 23.1,
+    "satfat_g": 14.2,
+    "salt_g": 0.36,
+    "fibre_g": 2.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "cupcakes-basic--chocolate.jpg",
+  "image_alt": "Chocolate cupcakes with tall swirls of chocolate buttercream on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}
