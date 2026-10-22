@@ -1,0 +1,142 @@
+{
+  "slug": "thai-green-coconut-curry-chicken-aubergine-basil",
+  "title": "Thai Green Coconut Curry with Chicken, Aubergine and Basil",
+  "category": "chicken",
+  "cuisine": "Thai",
+  "chapter": "curries",
+  "book_chapter": "curries",
+  "dish": "green-curry",
+  "dish_title": "Green curry",
+  "flavour": "Chicken",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A vibrant, fragrant green curry where chicken thighs and tender aubergine simmer in a properly cracked coconut paste, finished with wilted Thai basil and lime leaf.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "small bowl",
+    "medium saucepan (about 3 l)",
+    "silicone spatula",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Curry",
+      "qty": 400,
+      "unit": "ml",
+      "item": "full-fat coconut milk (1 can), divided"
+    },
+    {
+      "group": "Curry",
+      "qty": 160,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Curry",
+      "qty": 10,
+      "unit": "pc",
+      "item": "makrut lime leaves, central rib removed"
+    },
+    {
+      "group": "Curry",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "virgin coconut oil"
+    },
+    {
+      "group": "Curry",
+      "qty": 60,
+      "unit": "g",
+      "item": "store-bought Thai green curry paste (check the label is halal)"
+    },
+    {
+      "group": "Curry",
+      "qty": 25,
+      "unit": "g",
+      "item": "palm sugar or light brown sugar"
+    },
+    {
+      "group": "Curry",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fish sauce (check the label is halal)"
+    },
+    {
+      "group": "Chicken and vegetables",
+      "qty": 500,
+      "unit": "g",
+      "item": "boneless, skinless chicken thighs (halal), cut into 5 cm pieces"
+    },
+    {
+      "group": "Chicken and vegetables",
+      "qty": 150,
+      "unit": "g",
+      "item": "Thai round aubergines, quartered and kept in a bowl of water",
+      "note": "or 150 g regular aubergine in 3 cm cubes"
+    },
+    {
+      "group": "Chicken and vegetables",
+      "qty": 30,
+      "unit": "g",
+      "item": "Thai basil leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the components",
+      "text": "Whisk 120 ml of the coconut milk with the 160 ml water and set it aside for later. Keep 8 lime leaves whole for cooking, and stack, roll and slice the other 2 into hair-thin strips to scatter over at the end. Having everything measured out matters here, since the paste moves quickly once it starts frying."
+    },
+    {
+      "title": "Fry the paste",
+      "text": "Put the coconut oil and 120 ml coconut milk in the saucepan over medium heat and simmer for 1 minute, stirring, until slightly thickened. Stir in the curry paste firmly, scraping the sides, then turn the heat up to medium-high and cook for about 1 minute, stirring, until it starts to spit. The brief blast of higher heat cooks off the raw edge from the fresh chillies and garlic in the paste."
+    },
+    {
+      "title": "Crack the coconut milk",
+      "text": "Turn the heat back to medium and add the remaining 160 ml coconut milk 2 tbsp at a time, stirring and scraping constantly for 5-6 minutes, until the paste darkens slightly and oil separates out from it. This separating oil, known as cracking the paste, shows that its aromatic oils have fully rendered out into the sauce. Rushing this stage leaves the curry tasting thin and raw."
+    },
+    {
+      "title": "Add the chicken",
+      "text": "Stir in the fish sauce and sugar for 30 seconds, just until the sugar dissolves, then add the chicken and whole lime leaves and stir to coat. Pour in the thinned coconut milk and bring to a simmer. Cook for about 10 minutes, stirring now and then, until the sauce has thickened slightly and the chicken reaches 74°C in its thickest piece, checked with a probe thermometer."
+    },
+    {
+      "title": "Finish with basil",
+      "text": "Drain the aubergines and add them to the pan, simmering for 3 minutes until just tender but still with some bite. Take the pan off the heat and stir in the basil until it wilts, then scatter over the sliced lime leaves. Adding the basil off the heat keeps its colour bright and its aroma fresh, as prolonged cooking would turn it dull and bitter. Serve with jasmine rice."
+    }
+  ],
+  "tips": [
+    "Check that both the green curry paste and fish sauce are labelled halal before you buy them.",
+    "A common mistake is adding the coconut milk too quickly when cracking the paste — add it gradually, 2 tbsp at a time, so the oil has a chance to separate properly.",
+    "Use a probe thermometer to confirm the chicken has reached 74°C in the thickest piece rather than judging by eye.",
+    "Keep the aubergine pieces in water until you need them, as this stops them browning before they go into the pot.",
+    "Taste before adding more fish sauce, since different brands of paste and fish sauce vary in saltiness."
+  ],
+  "storage": "Cool quickly and refrigerate within 1 hour; use within 3 days and reheat only once until piping hot (74°C). This curry also freezes well for up to 3 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 467,
+    "protein_g": 27.9,
+    "carbs_g": 13.8,
+    "sugar_g": 8.5,
+    "free_sugar_g": 6.2,
+    "fat_g": 34.5,
+    "satfat_g": 26.0,
+    "salt_g": 2.34,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "green-curry-basic--chicken.jpg",
+  "image_alt": "A dark bowl of pale green coconut curry with sliced chicken, quartered Thai aubergines and fresh basil leaves.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

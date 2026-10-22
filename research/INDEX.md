@@ -57,6 +57,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chicken-tenders | Nuggets/tenders | Classic | 3 | 5 |
 | chicken-yassa | Yassa | Classic | 3 | 5 |
 | chiffon-cake | Chiffon | Classic | 2 | 4 |
+| chilli-braised-beef-tacos-melted-cheese-dipping-broth | Birria | Classic | 3 | 5 |
 | chocolate-angel-food-cake | Angel food | Chocolate | 3 | 5 |
 | chocolate-biscotti | Biscotti | Chocolate | 3 | 5 |
 | chocolate-buche-de-noel | Swiss roll/bûche de Noël | Classic | 3 | 5 |
@@ -76,6 +77,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-smash-burger | Smash burger | Cheese | 3 | 7 |
 | cold-somen | Somen | Classic | 3 | 5 |
 | coronation-chicken | Coronation chicken | Classic | 2 | 5 |
+| creamy-cashew-yoghurt-chicken-curry-cardamom | Korma | Chicken | 3 | 5 |
+| crisp-battered-white-fish-tacos-red-cabbage-lime-crema | Taco | Fish | 3 | 5 |
 | crispy-baked-chicken-wings | Chicken wings | Classic | 3 | 5 |
 | crispy-chicken-sandwich | Chicken burger | Classic | 3 | 6 |
 | cut-out-sugar-cookies | Sugar/cut-out | Classic | 2 | 4 |
@@ -107,6 +110,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | indonesian-sweet-soy-fried-rice-chicken-prawns-fried-egg | Nasi goreng | Classic | 3 | 5 |
 | japanese-cotton-cheesecake | Japanese soufflé/cotton | Classic | 3 | 5 |
 | japanese-rice-triangles-flaked-salmon-nori | Onigiri | Classic | 3 | 5 |
+| japanese-style-beef-curry-carrots-potatoes-spiced-roux | Japanese curry | Classic | 4 | 6 |
 | japchae | Japchae | Classic | 3 | 5 |
 | jerk-chicken | Jerk | Classic | 2 | 4 |
 | juicy-lucy | Juicy Lucy (stuffed) | Classic | 2 | 5 |
@@ -140,6 +144,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | nashville-hot-chicken | Nashville hot chicken | Classic | 2 | 5 |
 | new-york-cheesecake | New York (baked, dense) | Classic | 3 | 5 |
 | noodle-kugel | Kugel | Classic | 3 | 5 |
+| northern-thai-coconut-curry-noodle-soup-chicken | Khao soi | Chicken | 3 | 5 |
 | ohn-no-khao-swe | Ohn no khao swè | Classic | 2 | 4 |
 | oklahoma-onion-burger | Oklahoma onion burger | Classic | 3 | 7 |
 | orecchiette-broccoli | Hand-rolled shapes (orecchiette, pici, trofie, cavatelli) | Classic | 3 | 5 |
@@ -182,9 +187,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | sables-diamants | Diamant | Classic | 2 | 4 |
 | sachertorte | Sachertorte | Classic | 2 | 4 |
 | samgyetang | Samgyetang | Classic | 2 | 4 |
+| seared-mushroom-tacos-chipotle-onion-coriander | Taco | Mushroom | 3 | 5 |
 | shakshuka | Shakshuka | Classic | 2 | 4 |
 | signature-fudgy-brownies | Brownie (fudgy or cakey) | Classic | 2 | 4 |
 | signature-smash-burger | Smash burger | Classic | 3 | 8 |
+| slow-cooked-dry-coconut-beef-curry-lemongrass-lime-leaf | Rendang | Beef (classic) | 3 | 5 |
+| smoky-chipotle-tomato-shredded-chicken-tacos | Taco | Chicken tinga | 4 | 6 |
 | snickerdoodles | Snickerdoodle | Classic | 3 | 5 |
 | sour-cream-coffee-cake | Coffee cake | Classic | 3 | 5 |
 | southern-fried-chicken | Fried chicken (Southern) | Classic | 3 | 6 |
@@ -201,6 +209,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | stovetop-mac-and-cheese | Mac and cheese | Stovetop | 3 | 5 |
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
+| thai-coconut-beef-curry-potatoes-peanuts-tamarind | Massaman | Beef | 2 | 4 |
+| thai-green-coconut-curry-chicken-aubergine-basil | Green curry | Chicken | 3 | 5 |
+| thai-thick-coconut-red-curry-beef-lime-leaf-peanuts | Panang curry | Beef | 2 | 4 |
+| thai-yellow-coconut-curry-chicken-potatoes-onion | Thai yellow curry (kaeng kari) | Chicken | 2 | 4 |
 | thumbprint-cookies | Thumbprints | Classic | 3 | 5 |
 | trenette-al-pesto | Trenette al pesto | Classic | 3 | 5 |
 | tres-leches-cake | Tres leches | Classic | 3 | 5 |

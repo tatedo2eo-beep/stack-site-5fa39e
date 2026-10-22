@@ -1,0 +1,123 @@
+{
+  "slug": "thai-yellow-coconut-curry-chicken-potatoes-onion",
+  "title": "Thai Yellow Coconut Curry with Chicken, Potatoes and Onion",
+  "category": "chicken",
+  "cuisine": "Thai",
+  "chapter": "curries",
+  "book_chapter": "curries",
+  "dish": "thai-yellow-curry-kaeng-kari",
+  "dish_title": "Thai yellow curry (kaeng kari)",
+  "flavour": "Chicken",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A gentle, golden Thai-style yellow curry with soft potatoes, sweet onion wedges and chicken thighs simmered together in coconut milk.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan (about 2-3 l) with a lid",
+    "wooden spoon",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Curry",
+      "qty": 400,
+      "unit": "ml",
+      "item": "full-fat coconut milk (1 can, unshaken)"
+    },
+    {
+      "group": "Curry",
+      "qty": 60,
+      "unit": "g",
+      "item": "store-bought Thai yellow curry paste (check the label is halal)"
+    },
+    {
+      "group": "Curry",
+      "qty": 450,
+      "unit": "g",
+      "item": "waxy potatoes, peeled and cut into 4-5 cm chunks"
+    },
+    {
+      "group": "Curry",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium onions, cut lengthwise into 6 wedges each",
+      "note": "about 400 g"
+    },
+    {
+      "group": "Curry",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fish sauce (check the label is halal)"
+    },
+    {
+      "group": "Curry",
+      "qty": 150,
+      "unit": "ml",
+      "item": "water, as needed"
+    },
+    {
+      "group": "Curry",
+      "qty": 450,
+      "unit": "g",
+      "item": "boneless, skinless chicken thighs (halal), cut into 5 cm pieces"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crack the coconut cream",
+      "text": "Spoon 120ml of the thick cream from the top of the coconut milk can into the saucepan with the curry paste and cook over medium-high heat for 3-4 minutes, stirring, until the coconut fat splits away from the paste and it smells fragrant. This brief fry in the separated fat wakes up the paste's spices before the rest of the liquid goes in."
+    },
+    {
+      "title": "Simmer the vegetables",
+      "text": "Add the potatoes, onion wedges, the remaining coconut milk and the fish sauce, along with just enough water to keep everything covered. Bring to the boil, then cover, lower the heat and simmer for about 15 minutes, stirring occasionally, until the potatoes are just soft when pierced. Keeping the vegetables only just covered lets them cook evenly without the sauce turning thin and watery."
+    },
+    {
+      "title": "Add the chicken",
+      "text": "Add the chicken thigh pieces, return the pan to a gentle boil, cover and simmer for 8-10 minutes until the chicken reaches 74°C in the thickest piece. Thigh meat stays juicy even with a few extra minutes of cooking, so there's no need to rush this step. The sauce should look loosely creamy, with the potatoes starting to soften at the edges."
+    },
+    {
+      "title": "Season to taste",
+      "text": "Taste the curry and add only a few extra drops of fish sauce if it needs it. Because curry paste brands vary in saltiness, tasting before adjusting avoids tipping the whole pot too salty."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon the curry into bowls and serve with jasmine rice. The onion wedges should still hold their shape while the potatoes are tender enough to break apart easily with a spoon."
+    }
+  ],
+  "tips": [
+    "Keep the vegetables just covered with liquid rather than swimming in it, or the curry can end up thin.",
+    "Cut the onion into even wedges so the pieces cook through at the same rate as the potatoes.",
+    "Taste before adding extra fish sauce — curry pastes vary in saltiness, and it's easy to tip the balance too salty.",
+    "Check the chicken in the thickest piece with a thermometer rather than guessing by eye; thigh meat is forgiving but still easy to under- or overcook."
+  ],
+  "storage": "Cool quickly and refrigerate within 1 hour; use within 3 days. Reheat until piping hot (74°C) throughout; the potatoes may turn a little softer if the curry has been frozen and thawed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 484,
+    "protein_g": 28.2,
+    "carbs_g": 34.2,
+    "sugar_g": 6.2,
+    "free_sugar_g": 0.2,
+    "fat_g": 27.4,
+    "satfat_g": 20.4,
+    "salt_g": 2.33,
+    "fibre_g": 4.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "thai-yellow-curry-kaeng-kari-basic--chicken.jpg",
+  "image_alt": "A dark bowl of bright yellow coconut curry with chicken, potato chunks and soft onion wedges.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

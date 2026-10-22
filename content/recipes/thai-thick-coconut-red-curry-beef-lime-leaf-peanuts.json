@@ -1,0 +1,145 @@
+{
+  "slug": "thai-thick-coconut-red-curry-beef-lime-leaf-peanuts",
+  "title": "Thai Thick Coconut Red Curry Beef with Lime Leaf and Peanuts",
+  "category": "beef-lamb",
+  "cuisine": "Thai",
+  "chapter": "curries",
+  "book_chapter": "curries",
+  "dish": "panang-curry",
+  "dish_title": "Panang curry",
+  "flavour": "Beef",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A rich, thick Thai-style red curry with fork-tender braised beef, fragrant shredded lime leaf and a scattering of peanuts, reduced until the sauce clings and glistens with oil.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 100,
+  "difficulty": "medium",
+  "equipment": [
+    "large saucepan with a lid",
+    "slotted spoon",
+    "bowl",
+    "large frying pan or wok (30 cm), preferably non-stick",
+    "silicone spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Beef",
+      "qty": 900,
+      "unit": "g",
+      "item": "boneless beef chuck or boneless short rib (halal)",
+      "note": "cut into 5 cm strips, then sliced 6 mm thick across the grain"
+    },
+    {
+      "group": "Beef",
+      "qty": 1500,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Curry",
+      "qty": 400,
+      "unit": "ml",
+      "item": "full-fat coconut milk (1 can, unshaken)"
+    },
+    {
+      "group": "Curry",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Curry",
+      "qty": 50,
+      "unit": "g",
+      "item": "store-bought panang curry paste (check the label is halal)"
+    },
+    {
+      "group": "Curry",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "fish sauce (check the label is halal)"
+    },
+    {
+      "group": "Curry",
+      "qty": 10,
+      "unit": "g",
+      "item": "palm sugar or light brown sugar"
+    },
+    {
+      "group": "To finish",
+      "qty": 6,
+      "unit": "pc",
+      "item": "makrut lime leaves, central rib removed, very thinly sliced"
+    },
+    {
+      "group": "To finish",
+      "qty": 40,
+      "unit": "g",
+      "item": "roasted unsalted peanuts, finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Braise the beef",
+      "text": "Put the beef into the large saucepan, cover with the water and bring to the boil, skimming off any foam. Cover, lower the heat and simmer gently for 1 hour to 1 hour 15 minutes, until the beef is fork-tender. This long, low simmer carries the meat well past 63°C, giving the tough connective tissue in the chuck time to soften fully."
+    },
+    {
+      "title": "Drain the beef",
+      "text": "Lift the beef out with the slotted spoon into the bowl and discard the cooking water. Draining it here keeps the curry sauce concentrated rather than watery, since the beef will finish absorbing flavour in the coconut sauce instead."
+    },
+    {
+      "title": "Crack the coconut cream",
+      "text": "Spoon 120ml of the thick cream from the top of the coconut milk can into the large frying pan with the oil and cook over medium heat for 2-3 minutes, stirring, until it bubbles and the oil visibly separates from the solids. Set aside 2 tbsp of the remaining coconut milk for drizzling later. This cracking step renders the coconut fat so the paste can properly fry in it rather than simply boil."
+    },
+    {
+      "title": "Fry the curry paste",
+      "text": "Add the curry paste to the cracked coconut cream and cook for 5-8 minutes, stirring often, until it turns a deep brick red and smells thoroughly fragrant. Frying it this long cooks off the paste's raw edge and lets the chilli and aromatics bloom fully in the hot fat."
+    },
+    {
+      "title": "Build the sauce",
+      "text": "Stir in the rest of the coconut milk, the fish sauce and the sugar, mixing until the sugar dissolves. Add the braised beef and bring the sauce back to a simmer. At this stage it should look loose and glossy, before it reduces in the next step."
+    },
+    {
+      "title": "Reduce until thick",
+      "text": "Simmer briskly for 12-15 minutes, stirring now and then, until the sauce has reduced by about half and is thick enough to coat the beef, with visible streaks of oil on the surface. The beef, already braised far beyond 63°C, stays fork-tender throughout. Stir in most of the lime leaves and simmer a further 1-2 minutes until fragrant."
+    },
+    {
+      "title": "Serve",
+      "text": "Drizzle the reserved coconut milk over the top, then scatter with the chopped peanuts and remaining lime leaves. Serve alongside jasmine rice, with the sauce thick enough to sit on the rice rather than run off it."
+    }
+  ],
+  "tips": [
+    "Don't skip skimming the beef as it comes to the boil; it keeps the braising liquid clear and stops scum settling back into the meat.",
+    "Watch for the oil to visibly separate when cracking the coconut cream — that's the cue the fat is hot enough to fry the paste properly.",
+    "Taste before adding extra fish sauce, as curry pastes differ in saltiness from one brand to the next.",
+    "Let the sauce reduce fully until streaks of oil appear on top; a thin, soupy panang usually means it hasn't simmered long enough."
+  ],
+  "storage": "Cool quickly and refrigerate within 1 hour; use within 3 days. Reheat gently until piping hot (74°C), stirring so the sauce doesn't catch on the base of the pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "peanuts",
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 481,
+    "protein_g": 32.2,
+    "carbs_g": 6.3,
+    "sugar_g": 2.6,
+    "free_sugar_g": 1.8,
+    "fat_g": 37.7,
+    "satfat_g": 20.9,
+    "salt_g": 1.74,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "panang-curry-basic--beef.jpg",
+  "image_alt": "A dark bowl of thick red coconut curry with tender beef slices, drizzled with coconut milk and scattered with thin strips of lime leaf.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}
