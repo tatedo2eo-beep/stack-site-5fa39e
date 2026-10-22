@@ -40,7 +40,7 @@
       "group": "Cake",
       "qty": 4.5,
       "unit": "g",
-      "item": "fine sea salt or table salt, or table salt",
+      "item": "fine sea salt or table salt",
       "note": "about ¾ tsp"
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "title": "Prepare the tin thoroughly",
-      "text": "Brush soft butter into every ridge and groove of the tin, dust it all over with flour, then tip out the excess. A Bundt tin's decorative ridges are exactly where a cake is most likely to stick, so missing even a small section can tear the pattern when it's turned out."
+      "text": "Brush soft butter (or a flavourless oil) into every ridge and groove of the tin, dust it all over with flour, then tip out the excess. A non-stick baking spray works even better if you have one, since butter can sometimes make the cake stick. A Bundt tin's decorative ridges are exactly where a cake is most likely to stick, so missing even a small section can tear the pattern when it's turned out."
     },
     {
       "title": "Cream the butter and sugar",
@@ -170,6 +170,7 @@
   "image": "bundt-basic.jpg",
   "image_alt": "A golden vanilla Bundt cake with white glaze running down the ridges and a slice cut on a black plate on dark slate.",
   "inspired_by": [
-    "NYT Cooking"
+    "NYT Cooking",
+    "King Arthur Baking"
   ]
 }

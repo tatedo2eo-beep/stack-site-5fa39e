@@ -8,12 +8,14 @@ Dish: Chicken burger / flavour: Buffalo. Private file, not published.
 - [Buffalo Sauce Ratio Guide (SpicyBuffalo.com)](https://spicybuffalo.com/diy/buffalo-sauce-ratios/) [NOT on the locked list: context only, not relied on for method, ratios, temperatures or flavours]: Classic ratio 2 parts hot sauce : 1 part butter by volume. _(read via search extract)_
 - [Buffalo Sauce Won't Emulsify (SpicyBuffalo.com)](https://spicybuffalo.com/faq/buffalo-sauce-wont-emulsify/) [NOT on the locked list: context only, not relied on for method, ratios, temperatures or flavours]: Keep warm, never boil (butter emulsion breaks when too hot). _(read via search extract)_
 - [Buffalo Chicken Sandwich (FOX13, chef recipe)](https://www.fox13now.com/the-place/recipes/foodie-friday-cougar-tail-buffalo-chicken-sandwich) [NOT on the locked list: context only, not relied on for method, ratios, temperatures or flavours]: Hot sauce in the buttermilk; drizzle buttermilk into the dredge for craggy crust; fry at 175 °C to 74 °C; sauce warmed not boiled. _(read via search extract)_
+- [Buffalo Chicken Burgers (America's Test Kitchen)](https://www.americastestkitchen.com/recipes/12878-buffalo-chicken-burgers) [Tier 1 (locked list): America's Test Kitchen]: Buffalo sauce of 4 tbsp butter, 6 tbsp hot sauce, molasses and ½ tsp cornstarch, warmed until slightly thickened so it stays emulsified, then brushed on and the rest passed at the table. Served on buns with lettuce, crumbled blue cheese and thinly sliced celery, the same build as ours. Its patties are ground chicken, which we don't use; our fried thighs follow the main source. _(curl 200; read 2026-10-22)_
 - [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
 - [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
 
 > Re-checked on 22 Oct after the source-quality rule: the sauce (hot sauce + butter, about 2:1 by volume, 60 ml : 30 g) and the celery/blue cheese pairing are now backed by Serious Eats. SpicyBuffalo and FOX13 are context only.
 
 ## Own cooking judgment
+- 2026-10-22 second-source check (ATK): added ATK's trick of a little cornflour so the butter and hot sauce don't split. Salt was 3.36 g a serving, over the site's limit of about 3 g. Brought it to 2.95 g by cutting the marinade salt from 3 g to 2 g, the dredge salt from 3 g to 1.5 g and the hot sauce from 45 ml to 40 ml; the hot sauce and blue cheese still season it well.
 - Blue cheese sauce with yoghurt.
 - Low heat and no boiling for the sauce: Serious Eats melts it over medium-low; the no-boil rule is my own judgement (a hot butter emulsion splits).
 
@@ -22,7 +24,7 @@ Dish: Chicken burger / flavour: Buffalo. Private file, not published.
 - Doneness cues in the method: 1 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 25 min + cook 30 min against the step times.
 - Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/buffalo-chicken-burger-nutrition.md).
-- Locked-list sources supporting the core method (excluding FSIS/FDC): 3. Non-top-tier pages are context only.
+- Locked-list sources supporting the core method (excluding FSIS/FDC): 4. Non-top-tier pages are context only.
 
 ## Knowledge check
 Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C1 (74 °C, carryover; resting is not juice reabsorption); 02-C4 (crisp skin); 02-C5 (wings); 02-C6 (frying temperatures); 06-G6 (frying safety); 02-C10 (buttermilk marinade).

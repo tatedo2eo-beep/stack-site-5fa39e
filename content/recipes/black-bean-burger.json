@@ -10,7 +10,7 @@
   "flavour": "Classic",
   "flavour_order": 0,
   "access": "free",
-  "summary": "A hearty vegetarian burger with roasted black beans, warming spices and a crisp cheddar-topped crust, served with a quick-pickled onion and sriracha mayo.",
+  "summary": "A hearty vegetarian burger of oven-dried black beans and warming smoky spices with a crisp crust, stacked in a wholemeal bun with lettuce, tomato, raw red onion, avocado and sriracha mayo.",
   "servings": 4,
   "prep_min": 30,
   "cook_min": 40,
@@ -108,33 +108,13 @@
       "qty": 4,
       "unit": "pc",
       "item": "slices mature cheddar",
-      "note": "optional but recommended"
-    },
-    {
-      "group": "Quick-pickled onion",
-      "qty": 1,
-      "unit": "pc",
-      "item": "small red onion, very thinly sliced",
-      "note": "about 80 g"
-    },
-    {
-      "group": "Quick-pickled onion",
-      "qty": 2,
-      "unit": "tbsp",
-      "item": "lime juice"
-    },
-    {
-      "group": "Quick-pickled onion",
-      "qty": 0.5,
-      "unit": "g",
-      "item": "fine sea salt or table salt",
-      "note": "about 1 pinch"
+      "note": "optional; not in the photo"
     },
     {
       "group": "To assemble",
       "qty": 4,
       "unit": "pc",
-      "item": "soft burger buns or brioche-style buns",
+      "item": "wholemeal burger buns",
       "note": "about 60 g each"
     },
     {
@@ -156,25 +136,39 @@
       "item": "large ripe tomato, sliced"
     },
     {
-      "group": "Chipotle-style mayo",
+      "group": "To assemble",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small red onion, sliced into thin rings",
+      "note": "about 80 g"
+    },
+    {
+      "group": "To assemble",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large ripe avocado, sliced just before serving",
+      "note": "about 150 g flesh"
+    },
+    {
+      "group": "Sriracha mayo",
       "qty": 60,
       "unit": "g",
       "item": "mayonnaise"
     },
     {
-      "group": "Chipotle-style mayo",
+      "group": "Sriracha mayo",
       "qty": 15,
       "unit": "g",
       "item": "sriracha"
     },
     {
-      "group": "Chipotle-style mayo",
+      "group": "Sriracha mayo",
       "qty": 1,
       "unit": "tsp",
       "item": "smoked paprika"
     },
     {
-      "group": "Chipotle-style mayo",
+      "group": "Sriracha mayo",
       "qty": 1,
       "unit": "tsp",
       "item": "lime juice"
@@ -198,8 +192,8 @@
       "text": "With wet hands, shape the mixture into 4 patties about 10cm wide and 2cm thick, then chill for 20 minutes. Chilling firms the patties so they hold together when they hit the hot pan."
     },
     {
-      "title": "Quick-pickle the onion",
-      "text": "Toss the sliced red onion with lime juice and a pinch of salt and leave to pickle while you cook. The acidity softens the onion's sharp bite and turns it a vivid pink."
+      "title": "Prepare the toppings",
+      "text": "Slice the red onion into thin rings and separate them. If you find raw onion too sharp, soak the rings in cold water for 10 minutes, then drain and pat dry. Halve, stone and peel the avocado just before you build the burgers and cut it into thin slices so it doesn't brown."
     },
     {
       "title": "Make the sriracha mayo",
@@ -207,7 +201,7 @@
     },
     {
       "title": "Fry the patties",
-      "text": "Heat 2 tablespoons of oil in a non-stick pan over medium heat and cook the patties for 4-5 minutes per side until deep brown and crisp, flipping gently with a fish slice as they're more delicate than beef. Add cheddar on top after flipping and cover for 1 minute to melt it; because the mixture contains egg, cook until the centre reaches 74°C."
+      "text": "Heat 2 tablespoons of oil in a non-stick pan over medium heat and cook the patties for 4-5 minutes per side until deep brown and crisp, flipping gently with a fish slice as they're more delicate than beef. If using cheddar, lay a slice on each patty after flipping and cover for 1 minute to melt it. Because the mixture contains egg, cook until the centre reaches 74°C."
     },
     {
       "title": "Toast the buns",
@@ -215,15 +209,14 @@
     },
     {
       "title": "Build the burger",
-      "text": "Spread the sriracha mayo on the bun, then layer lettuce, tomato, the cheesy patty and the pickled red onion. The pickled onion's sharpness lifts the whole burger."
+      "text": "Spread the sriracha mayo on the cut faces of the buns. On each bottom bun layer lettuce, then tomato, then a patty, then the red onion rings and the avocado slices, and finish with the top bun. The cool avocado and sharp onion balance the warm, smoky patty."
     }
   ],
   "tips": [
     "Don't skip drying the beans in the oven - this step gets rid of excess moisture and is what stops the patties turning mushy.",
     "Chill the shaped patties for 20 minutes before cooking so they firm up and hold together in the pan.",
     "Flip the patties gently with a fish slice, and not too early, as they're more delicate than beef until that first crust forms.",
-    "If the mixture feels too soft to shape, work in another 1-2 tablespoons of panko before chilling.",
-    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+    "If the mixture feels too soft to shape, work in another 1-2 tablespoons of panko before chilling."
   ],
   "storage": "Cooked patties keep in the fridge for up to 3 days, or freeze them cooked and cooled for up to 2 months. Reheat from chilled or frozen on a tray in a 180°C (160°C fan) oven for 10-20 minutes, until piping hot and 74°C in the centre, because the mixture contains egg. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
@@ -237,19 +230,19 @@
     "vegetarian"
   ],
   "nutrition_per_serving": {
-    "kcal": 747,
-    "protein_g": 27.2,
-    "carbs_g": 81.3,
-    "sugar_g": 11.2,
-    "free_sugar_g": 6.1,
-    "fat_g": 35.7,
-    "satfat_g": 9.2,
-    "salt_g": 3.04,
-    "fibre_g": 15.1
+    "kcal": 789,
+    "protein_g": 29.5,
+    "carbs_g": 79.5,
+    "sugar_g": 9.5,
+    "free_sugar_g": 4.2,
+    "fat_g": 41.0,
+    "satfat_g": 9.9,
+    "salt_g": 2.86,
+    "fibre_g": 20.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "veggie-bean-burger-basic.jpg",
-  "image_alt": "A dark black bean burger with lettuce, tomato, red onion and avocado slices in a wholemeal-style bun.",
+  "image_alt": "A dark black bean burger on lettuce and tomato, topped with red onion rings and avocado slices, in a wholemeal bun on a black plate.",
   "inspired_by": [
     "Serious Eats",
     "America's Test Kitchen"

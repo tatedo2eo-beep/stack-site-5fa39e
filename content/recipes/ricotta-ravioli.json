@@ -10,7 +10,7 @@
   "flavour": "Classic",
   "flavour_order": 0,
   "access": "free",
-  "summary": "Fresh egg pasta parcels filled with a lemony ricotta and Parmesan mixture, finished simply in melted butter so the filling stays the focus.",
+  "summary": "Fresh egg pasta squares filled with a lemony ricotta and Parmesan mixture, finished simply in melted butter so the filling stays the focus.",
   "servings": 4,
   "prep_min": 75,
   "cook_min": 15,
@@ -23,7 +23,7 @@
     "2 clean tea towels and a baking tray",
     "pasta machine (or long rolling pin)",
     "pastry brush and small bowl of water",
-    "6-7 cm round cutter or fluted pasta wheel",
+    "fluted pasta wheel (or a sharp knife)",
     "2 baking trays dusted with semolina",
     "large pot (at least 5 litres)",
     "slotted spoon",
@@ -150,7 +150,7 @@
     },
     {
       "title": "Cut and rest",
-      "text": "Cut around each mound with a round cutter or fluted wheel, pressing the edges again to be sure they're sealed, then lay the ravioli on semolina-dusted trays without letting them touch. Repeat with the remaining sheets until you have about 36-40 ravioli."
+      "text": "Cut between the mounds with the fluted pasta wheel to make squares of about 5-6 cm, pressing the edges again to be sure they're sealed, then lay the ravioli on semolina-dusted trays without letting them touch. Repeat with the remaining sheets until you have about 36-40 ravioli."
     },
     {
       "title": "Cook in batches",
@@ -165,7 +165,8 @@
     "Press as much water out of the ricotta as you can — a wet filling is the main reason homemade ravioli split open in the pot.",
     "Seal each ravioli by pressing from the filling outward, not just around the rim, to push out trapped air that would otherwise make them burst while boiling.",
     "Don't overcrowd the pot — cooking in two batches keeps the water at a steady boil so the ravioli cook evenly.",
-    "Keep uncooked ravioli on a well-floured tray and not touching each other, since fresh pasta sticks readily and tears when pulled apart."
+    "Keep uncooked ravioli on a well-floured tray and not touching each other, since fresh pasta sticks readily and tears when pulled apart.",
+    "To make some tortellini as well, cut a 6 cm square, add 1 tsp filling, fold it into a triangle and seal, then wrap the two long corners round your fingertip and pinch them together. They cook in the same 3-4 minutes."
   ],
   "storage": "Uncooked ravioli keep in the fridge for up to 1 day on a floured tray, or freeze in a single layer for up to 1 month, cooking straight from frozen with an extra minute. Reheat any cooked leftovers gently in a little butter until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
@@ -190,7 +191,7 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "filled-ravioli-tortellini-agnolotti-basic.jpg",
-  "image_alt": "Fresh egg pasta ravioli and tortellini arranged on a black plate on dark slate.",
+  "image_alt": "Square ricotta ravioli with fluted edges next to a few tortellini on a black plate on dark slate.",
   "inspired_by": [
     "Serious Eats",
     "NYT Cooking"

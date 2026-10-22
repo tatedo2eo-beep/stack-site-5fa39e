@@ -10,7 +10,7 @@
   "flavour": "Classic",
   "flavour_order": 0,
   "access": "free",
-  "summary": "Egg noodles tossed with cabbage and onion cooked slowly until silky and sweet, finished with butter and served with sour cream.",
+  "summary": "Wide egg noodles tossed with cabbage and onion cooked slowly until soft, sweet and browned in patches, finished with butter and plenty of black pepper.",
   "servings": 4,
   "prep_min": 15,
   "cook_min": 55,
@@ -82,13 +82,14 @@
       "group": "To serve",
       "qty": 100,
       "unit": "g",
-      "item": "sour cream"
+      "item": "sour cream",
+      "note": "optional, to serve on the side"
     }
   ],
   "steps": [
     {
       "title": "Soften the onion",
-      "text": "Melt 45 g of the butter in a large casserole or deep frying pan over medium-high heat and cook the onion for 4-5 minutes, until soft and lightly browned."
+      "text": "Melt the 60 g of butter in a large casserole or deep frying pan over medium-high heat and cook the onion for 4-5 minutes, until soft and lightly browned."
     },
     {
       "title": "Steam the cabbage",
@@ -104,11 +105,11 @@
     },
     {
       "title": "Combine and toss",
-      "text": "Add the noodles, 120 ml of the reserved water and the remaining butter to the cabbage, and stir over medium-high heat for 1-2 minutes until everything looks glossy. Taste and adjust the seasoning."
+      "text": "Add the noodles, 120 ml of the reserved water and the 15 g of butter to the cabbage, and stir over medium-high heat for 1-2 minutes until everything looks glossy. Taste and adjust the seasoning."
     },
     {
       "title": "Serve",
-      "text": "Serve hot, topped with the chopped dill if using and a dollop of sour cream."
+      "text": "Serve hot with an extra grind of black pepper, the chopped dill if using, and the sour cream on the side for anyone who wants it."
     }
   ],
   "tips": [
@@ -140,7 +141,7 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "haluski-basic.jpg",
-  "image_alt": "A heap of buttery, golden wide egg noodles on a black plate on dark slate.",
+  "image_alt": "A heap of buttery wide egg noodles tossed with browned cabbage, onion and black pepper on a black plate on dark slate.",
   "inspired_by": [
     "NYT Cooking",
     "America's Test Kitchen"

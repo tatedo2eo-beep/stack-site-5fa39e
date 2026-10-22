@@ -108,11 +108,11 @@
   "steps": [
     {
       "title": "Boil the pasta water",
-      "text": "Bring 3 litres of water to the boil with only the 15 g of salt, since the anchovies, capers, olives and tuna all bring their own saltiness. Add the spaghetti or linguine, stirring during the first minute, and cook for 2 minutes less than the packet time."
+      "text": "Bring 3 litres of water to the boil with only the 15 g of salt, since the anchovies, capers, olives and tuna all bring their own saltiness. Keep it at a simmer, covered, until the sauce is under way; the pasta goes in during step 4."
     },
     {
       "title": "Build the base",
-      "text": "While the water comes up to the boil, put the oil, garlic, shallot, anchovies, capers, olives and chilli flakes into the cold pan and bring to a sizzle over medium-high heat. Turn the heat down to medium-low and cook for 5-6 minutes, until the shallot has softened and the garlic is lightly golden."
+      "text": "Put the oil, garlic, shallot, anchovies, capers, olives and chilli flakes into the cold pan and bring to a sizzle over medium-high heat. Turn the heat down to medium-low and cook for 5-6 minutes, until the shallot has softened and the garlic is lightly golden."
     },
     {
       "title": "Fry the tomato purée",
@@ -120,19 +120,19 @@
     },
     {
       "title": "Simmer the sauce",
-      "text": "Add the crushed tomatoes and simmer gently for 15 minutes, breaking up the larger pieces with a spoon as they soften. You're after a thick, chunky sauce that clings to the pasta rather than a thin one that runs off it."
+      "text": "Add the crushed tomatoes and simmer gently for 15 minutes, breaking up the larger pieces with a spoon as they soften. You're after a thick, chunky sauce that clings to the pasta rather than a thin one that runs off it. When the sauce has about 10 minutes left, bring the water back to a rolling boil, add the spaghetti or linguine, stir during the first minute, and cook for 2 minutes less than the packet time."
     },
     {
       "title": "Drain the pasta",
-      "text": "Reserve 240 ml of the pasta cooking water, then drain the spaghetti once its 2 minutes short of the packet time are up."
+      "text": "Reserve 240 ml of the pasta cooking water, then drain the pasta."
     },
     {
-      "title": "Fold in the tuna",
-      "text": "Take the sauce off the heat and fold in the flaked tuna and parsley in large pieces, stirring gently rather than beating it in. Adding the tuna off the heat at the very end keeps it moist, instead of turning dry and stringy from extra cooking."
+      "title": "Toss the pasta in the sauce",
+      "text": "Add the drained pasta and 60 ml of the reserved water to the sauce and toss over medium heat for 1-2 minutes, until the pasta is al dente and well coated. Add a little more water if the sauce gets too thick."
     },
     {
-      "title": "Finish and serve",
-      "text": "Return the pan to medium heat, add the drained pasta and 60 ml of the reserved water, and toss for 1-2 minutes until al dente and well coated. Taste before adding any extra salt, as the sauce is already well seasoned, then serve straight away."
+      "title": "Fold in the tuna and serve",
+      "text": "Take the pan off the heat, then gently fold in the flaked tuna, in large pieces, and the parsley. Adding the tuna off the heat at the very end keeps it moist instead of dry and stringy. Taste before adding any extra salt, as the sauce is already well seasoned, then serve straight away."
     }
   ],
   "tips": [
@@ -165,6 +165,8 @@
   "image": "puttanesca-basic.jpg",
   "image_alt": "Spaghetti in a chunky tomato sauce with black olives, capers and parsley in a black bowl on dark slate.",
   "inspired_by": [
-    "NYT Cooking"
+    "NYT Cooking",
+    "Serious Eats",
+    "America's Test Kitchen"
   ]
 }

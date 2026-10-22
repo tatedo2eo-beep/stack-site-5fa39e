@@ -126,7 +126,7 @@
       "group": "Stir-fry",
       "qty": 100,
       "unit": "g",
-      "item": "shiitake mushrooms, stems removed, sliced"
+      "item": "fresh bean sprouts, rinsed and drained well"
     },
     {
       "group": "Stir-fry",
@@ -168,7 +168,7 @@
     },
     {
       "title": "Stir-fry the vegetables",
-      "text": "Add the remaining oil to the wok with the garlic and ginger and stir for 20 seconds until fragrant, then add the carrot and shiitake and stir-fry for 2 minutes. Add the pak choi stems for 1 minute, followed by the leaves and spring onions for a final 30 seconds. Cooking the sturdier vegetables first and the leaves last keeps everything crisp-tender rather than overcooked."
+      "text": "Add the remaining oil to the wok with the garlic and ginger and stir for 20 seconds until fragrant, then add the carrot and stir-fry for 2 minutes. Add the pak choi stems for 1 minute, followed by the leaves, bean sprouts and spring onions for a final 30-45 seconds, until the sprouts are hot but still crunchy. Cooking the sturdier vegetables first and the leaves last keeps everything crisp-tender rather than overcooked."
     },
     {
       "title": "Add sauce and chicken",
@@ -198,19 +198,19 @@
     "dairy-free"
   ],
   "nutrition_per_serving": {
-    "kcal": 517,
-    "protein_g": 34.1,
-    "carbs_g": 53.1,
-    "sugar_g": 3.1,
+    "kcal": 516,
+    "protein_g": 34.2,
+    "carbs_g": 52.9,
+    "sugar_g": 3.5,
     "free_sugar_g": 0.0,
-    "fat_g": 18.6,
-    "satfat_g": 1.9,
+    "fat_g": 18.5,
+    "satfat_g": 2.0,
     "salt_g": 2.5,
-    "fibre_g": 2.5
+    "fibre_g": 2.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chow-mein-lo-mein-basic.jpg",
-  "image_alt": "Chow mein noodles topped with sliced chicken, pak choi, carrot and spring onions on a black plate on dark slate.",
+  "image_alt": "Chow mein noodles topped with sliced chicken, pak choi, carrot, bean sprouts and spring onions on a black plate on dark slate.",
   "inspired_by": [
     "America's Test Kitchen",
     "NYT Cooking",

@@ -41,7 +41,7 @@
       "group": "Cake",
       "qty": 3,
       "unit": "g",
-      "item": "fine sea salt or table salt, or table salt",
+      "item": "fine sea salt or table salt",
       "note": "about ½ tsp"
     },
     {
@@ -109,7 +109,7 @@
       "group": "Crumb topping",
       "qty": 1,
       "unit": "g",
-      "item": "fine sea salt or table salt, or table salt",
+      "item": "fine sea salt or table salt",
       "note": "about ⅛ tsp"
     },
     {
@@ -205,6 +205,7 @@
   "image": "coffee-cake-basic--cinnamon-streusel.jpg",
   "image_alt": "Two squares of cinnamon streusel coffee cake with a streusel layer through the middle and on top on a black plate on dark slate.",
   "inspired_by": [
-    "NYT Cooking"
+    "NYT Cooking",
+    "King Arthur Baking"
   ]
 }

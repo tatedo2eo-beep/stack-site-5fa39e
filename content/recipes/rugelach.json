@@ -10,7 +10,7 @@
   "flavour": "Classic",
   "flavour_order": 0,
   "access": "free",
-  "summary": "Flaky cream cheese pastry rolled around an apricot, walnut and cinnamon filling, baked into golden crescents.",
+  "summary": "Flaky cream cheese pastry spread with apricot jam, walnuts, raisins and cinnamon sugar, rolled into logs and sliced into golden spirals.",
   "servings": 48,
   "prep_min": 60,
   "cook_min": 25,
@@ -46,7 +46,7 @@
       "group": "Dough",
       "qty": 3,
       "unit": "g",
-      "item": "fine sea salt or table salt, or table salt",
+      "item": "fine sea salt or table salt",
       "note": "about ½ tsp"
     },
     {
@@ -111,27 +111,27 @@
     },
     {
       "title": "Chill the dough",
-      "text": "Divide the dough into four, shape each piece into a flat disc, wrap, and chill for at least 2 hours, up to 2 days. This long chill firms the butter and cream cheese back up, which is essential for rolling the dough thinly without it tearing or sticking. Dough that hasn't chilled long enough will feel greasy and hard to work with."
+      "text": "Divide the dough into four, shape each piece into a flat rectangle about 2 cm thick, wrap, and chill for at least 2 hours, up to 2 days. This long chill firms the butter and cream cheese back up, which is essential for rolling the dough thinly without it tearing or sticking. Dough that hasn't chilled long enough will feel greasy and hard to work with."
     },
     {
       "title": "Heat the oven",
-      "text": "Heat the oven to 180°C (160°C fan) for at least 20 minutes before you start baking, with a shelf in the middle. Line two large metal trays with baking paper while it heats. Starting the bake in a fully heated oven helps the pastry layers set and puff before the filling has a chance to leak out."
+      "text": "Heat the oven to 180°C (160°C fan) for at least 20 minutes before you start baking, with a shelf in the middle. Line two large metal trays with baking paper while it heats. Starting the bake in a fully heated oven helps the pastry set and puff before the filling has a chance to leak out."
     },
     {
       "title": "Roll and fill",
-      "text": "On a lightly floured surface, roll one disc into a 23 cm round, about 3 mm thick — if it cracks as you roll, let it rest for 5 minutes to relax before continuing. Spread a quarter of the jam over the round to within 1 cm of the edge, then scatter over the cinnamon sugar, walnuts and raisins, pressing lightly so they stick. Leaving that border free of filling stops it squeezing out of the edges as you roll each piece up."
+      "text": "On a lightly floured surface, roll one rectangle of dough into a 28 x 18 cm rectangle, about 3 mm thick, with a long side nearest you. If it cracks as you roll, let it rest for 5 minutes before carrying on. Spread a quarter of the jam over the dough, leaving a 1 cm strip clear along the far long edge, then scatter over a quarter of the cinnamon sugar, walnuts and raisins and press lightly so they stick. The clear strip is what seals the log closed."
     },
     {
-      "title": "Cut and roll into crescents",
-      "text": "Cut the round into 12 wedges, then roll each one up from the wide end to the point. Set the rolled pieces point-side down, spaced 3 cm apart, on the lined trays. Rolling from the wide end naturally tucks the point underneath, which helps the crescents hold their shape in the oven."
+      "title": "Roll into a log and slice",
+      "text": "Starting from the long side nearest you, roll the dough up tightly like a Swiss roll and finish with the seam underneath. Trim a thin slice off each end (bake the offcuts too), then cut the log into 12 slices about 2 cm wide. Set the slices seam-side down, 3 cm apart, on the lined trays. Rolling tightly and keeping the seam underneath stops the spirals opening up in the oven."
     },
     {
       "title": "Chill the shaped pastries",
-      "text": "Chill the shaped rugelach for 15-20 minutes before baking. This short second chill firms the butter in the dough one more time, so the layers hold their shape and don't collapse flat as soon as they hit the oven's heat. Use this time to repeat the rolling and filling with the remaining discs."
+      "text": "Chill the shaped rugelach for 15-20 minutes before baking. This short second chill firms the butter in the dough one more time, so the layers hold their shape and don't collapse flat as soon as they hit the oven's heat. Use this time to roll, fill and slice the remaining three pieces of dough."
     },
     {
       "title": "Glaze and bake",
-      "text": "Brush the chilled pastries with the egg wash and sprinkle with sugar, then bake for 20-25 minutes, until deep golden brown all over. Deep colour matters here: pastries that come out pale can taste raw and floury rather than properly baked through. The egg wash is what gives the crescents their shiny, golden-brown finish."
+      "text": "Brush the chilled pastries with the egg wash and sprinkle with sugar, then bake for 20-25 minutes, until deep golden brown all over. Deep colour matters here: pastries that come out pale can taste raw and floury rather than properly baked through. The egg wash is what gives the spirals their shiny, golden-brown finish."
     },
     {
       "title": "Cool quickly",
@@ -140,13 +140,14 @@
   ],
   "tips": [
     "Chill the dough for the full 2 hours minimum — a common shortcut that leaves the dough too soft to roll thinly without tearing.",
-    "Leave a clear 1 cm border free of filling around the edge of each round, or it will squeeze out and burn onto the tray as the rugelach roll up.",
+    "Leave the 1 cm strip along the far edge free of jam so the log seals shut; filling right to the edge squeezes out and burns onto the tray.",
     "Bake until deep golden brown rather than just lightly coloured — pale rugelach taste undercooked and floury in the middle.",
     "Move the baked pastries off the tray within 5 minutes, since any leaked filling sets hard fast and can stick them in place.",
     "If the dough cracks while rolling, don't force it — let it rest for 5 minutes to relax before continuing.",
-    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked.",
+    "Cut with a sharp serrated knife in a gentle sawing motion so the slices keep a neat round spiral instead of squashing flat."
   ],
-  "storage": "Store in an airtight container at room temperature for up to 4 days. Both baked and unbaked shaped rugelach freeze well for up to 3 months; bake unbaked ones straight from frozen, adding 5 minutes to the time.",
+  "storage": "Store in an airtight container at room temperature for up to 4 days. Both baked and unbaked sliced rugelach freeze well for up to 3 months; bake unbaked ones straight from frozen, adding 5 minutes to the time.",
   "allergens": [
     "gluten",
     "milk",
@@ -170,9 +171,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "rugelach-advanced.jpg",
-  "image_alt": "Golden rolled rugelach showing a nut and fruit swirl on a black plate against a dark background.",
+  "image_alt": "Golden rugelach slices showing a spiral of walnut, raisin and jam filling, on a black plate against a dark background.",
   "inspired_by": [
     "King Arthur Baking",
+    "America's Test Kitchen",
     "NYT Cooking"
   ]
 }

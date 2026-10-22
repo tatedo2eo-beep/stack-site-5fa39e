@@ -42,10 +42,10 @@
     },
     {
       "group": "Chicken and marinade",
-      "qty": 3,
+      "qty": 2,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about ½ tsp"
+      "note": "about ⅓ tsp"
     },
     {
       "group": "Chicken and marinade",
@@ -79,10 +79,10 @@
     },
     {
       "group": "Coating",
-      "qty": 3,
+      "qty": 1.5,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about ½ tsp"
+      "note": "about ¼ tsp"
     },
     {
       "group": "Coating",
@@ -99,9 +99,16 @@
     },
     {
       "group": "Buffalo sauce",
-      "qty": 45,
+      "qty": 40,
       "unit": "ml",
       "item": "hot pepper sauce (vinegar-based, such as a Louisiana-style sauce)"
+    },
+    {
+      "group": "Buffalo sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cornflour (cornstarch)",
+      "note": "keeps the sauce from splitting"
     },
     {
       "group": "Buffalo sauce",
@@ -184,7 +191,7 @@
     },
     {
       "title": "Make the buffalo sauce",
-      "text": "Melt butter in a small pan over low heat, then whisk in hot sauce and garlic powder until glossy and fully combined. Keep the heat low and don't let it boil, or the butter will split and the sauce will turn oily instead of silky."
+      "text": "Stir the cornflour into the hot sauce until smooth. Melt the butter in a small pan over low heat, then whisk in the hot sauce mixture and garlic powder and warm gently, whisking, for 2-3 minutes until glossy and slightly thickened. A few small bubbles at the edge are fine, but don't let it boil hard. The cornflour holds the butter and hot sauce together, so the sauce stays silky and doesn't split into oil."
     },
     {
       "title": "Toss the chicken",
@@ -221,20 +228,21 @@
   ],
   "diet": [],
   "nutrition_per_serving": {
-    "kcal": 785,
-    "protein_g": 42.2,
-    "carbs_g": 52.1,
+    "kcal": 786,
+    "protein_g": 42.1,
+    "carbs_g": 52.2,
     "sugar_g": 7.1,
     "free_sugar_g": 4.5,
-    "fat_g": 44.7,
+    "fat_g": 44.6,
     "satfat_g": 13.0,
-    "salt_g": 3.36,
-    "fibre_g": 2.4
+    "salt_g": 2.95,
+    "fibre_g": 2.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "chicken-burger-basic--buffalo.jpg",
   "image_alt": "A crispy chicken burger coated in orange buffalo sauce, topped with blue cheese crumbles and pickles, on lettuce in a toasted bun.",
   "inspired_by": [
-    "Serious Eats"
+    "Serious Eats",
+    "America's Test Kitchen"
   ]
 }

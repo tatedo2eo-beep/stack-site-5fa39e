@@ -6,10 +6,12 @@ Dish: Fried chicken (Southern) / flavour: Buttermilk-brined. Private file, not p
 - [Four Secrets to Improving Any Fried Chicken Recipe (The Food Lab, Serious Eats)](https://www.seriouseats.com/four-secrets-for-better-fried-chicken) [Tier 1 (locked list): Serious Eats]: About 2 tbsp marinade per cup of dredge, worked in with fingertips, for a craggier crust. _(opened; curl 200)_
 - [5-Ingredient Fried Chicken Sandwiches (Serious Eats)](https://www.seriouseats.com/five-ingredient-fried-chicken-sandwich-recipe) [Tier 1 (locked list): Serious Eats]: Boneless thighs; buttermilk dip; drizzle ~3 tbsp buttermilk into the flour for shaggy clumps, press on firmly; hold oil 150-177 °C after the drop. _(opened; curl 200)_
 - [Hattie B's Hot Chicken from "Fried & True" (Serious Eats)](https://www.seriouseats.com/hattie-bs-hot-chicken-from-fried-true) [Tier 1 (locked list): Serious Eats]: Bone-in pieces dry-brined overnight; flour, milk-egg, flour; fried at about 163 °C for 15-20 min depending on the piece; hot oil spice paste brushed on after frying. _(read via search extract; curl 200)_
+- [Supercrunchy Buttermilk Fried Chicken (America's Test Kitchen)](https://www.americastestkitchen.com/recipes/16851-supercrunchy-buttermilk-fried-chicken) [Tier 1 (locked list): America's Test Kitchen]: Bone-in pieces brined 2-24 hours, then coated in a buttermilk batter and a cornstarch, flour and baking-powder dredge. Fried in batches at 152-157 °C (after heating to 171 °C) for 10-18 minutes, until thighs and drumsticks reach 71 °C, then rested on a rack. This supports our long brine, the cornflour and baking powder in the coating, our 150-160 °C frying range and our 13-16 minute frying time for bone-in dark meat. _(curl 200; read 2026-10-22)_
 - [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
 - [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
 
 ## Own cooking judgment
+- 2026-10-22 second-source check (ATK): the method agrees. Clarified the batch size (4 pieces at a time) and told the cook to let the oil come back to 175 °C between batches, so the second batch doesn't go into cooler oil.
 - Same oil temperature and timing as the Classic.
 - Hot sauce in the brine.
 
@@ -18,7 +20,7 @@ Dish: Fried chicken (Southern) / flavour: Buttermilk-brined. Private file, not p
 - Doneness cues in the method: 1 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 30 min + cook 45 min against the step times.
 - Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/buttermilk-fried-chicken-nutrition.md).
-- Locked-list sources supporting the core method (excluding FSIS/FDC): 4. Non-top-tier pages are context only.
+- Locked-list sources supporting the core method (excluding FSIS/FDC): 5. Non-top-tier pages are context only.
 
 ## Knowledge check
 Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C1 (74 °C, carryover; resting is not juice reabsorption); 02-C2 (dry brine); 02-C3 (wet brine); 02-C4 (crisp skin); 02-C5 (wings); 02-C6 (frying temperatures); 06-G6 (frying safety); 02-C10 (buttermilk marinade).

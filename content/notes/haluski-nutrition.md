@@ -27,5 +27,6 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - WHO Healthy by these numbers: no
 
 ## Assumptions
+- The optional sour cream and dill are counted in the totals.
 - Salt: 1 tsp fine salt taken as 6 g.
 - Bacon, often added, is left out (halal and vegetarian).

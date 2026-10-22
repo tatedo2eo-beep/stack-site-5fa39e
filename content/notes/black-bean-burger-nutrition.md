@@ -18,10 +18,8 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | neutral oil, for frying | Oil, canola (SR 04582) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 1.99 | 0 | 0.0 |
 | slices mature cheddar | Cheese, cheddar, sharp, sliced (FDC 170899) | 80 | 328.0 | 19.4 | 1.7 | 0.22 | 0.00 | 27.0 | 15.52 | 515 | 0.0 |
-| small red onion, very thinly sliced | Onions, raw (SR 11282) | 80 | 32.0 | 0.9 | 7.5 | 3.39 | 0.00 | 0.1 | 0.03 | 3 | 1.4 |
-| lime juice | Lime juice, raw (SR 09160) - juice sugars counted as free | 30 | 7.5 | 0.1 | 2.5 | 0.51 | 0.51 | 0.0 | 0.00 | 1 | 0.1 |
-| fine salt | Salt, table (SR 02047) | 0.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 194 | 0.0 |
-| soft burger buns or brioche-style buns | Rolls, hamburger, plain (FDC 172796) | 240 | 669.6 | 23.4 | 120.2 | 17.47 | 17.47 | 9.4 | 2.02 | 1186 | 4.3 |
+| small red onion, sliced into thin rings | Onions, raw (FDC 170000) | 80 | 32.0 | 0.9 | 7.5 | 3.39 | 0.00 | 0.1 | 0.03 | 3 | 1.4 |
+| wholemeal burger buns | Bread, whole-wheat, commercially prepared (FDC 172688) | 240 | 604.8 | 29.9 | 102.5 | 10.42 | 10.42 | 8.4 | 1.73 | 1092 | 14.4 |
 | unsalted butter, softened, for toasting | Butter, without salt (SR 01145) | 10 | 71.7 | 0.1 | 0.0 | 0.01 | 0.00 | 8.1 | 5.14 | 1 | 0.0 |
 | crisp lettuce leaves | Lettuce, iceberg, raw (SR 11252) | 40 | 5.6 | 0.4 | 1.2 | 0.79 | 0.00 | 0.1 | 0.01 | 4 | 0.5 |
 | large ripe tomato, sliced | Tomatoes, red, ripe, raw (SR 11529) | 150 | 27.0 | 1.3 | 5.8 | 3.94 | 0.00 | 0.3 | 0.04 | 8 | 1.8 |
@@ -29,19 +27,20 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | sriracha | Sauce, hot chile, sriracha (FDC 171186) | 15 | 13.9 | 0.3 | 2.9 | 2.26 | 2.26 | 0.1 | 0.01 | 318 | 0.3 |
 | smoked paprika | Spices, paprika (SR 02028) | 2.3 | 6.5 | 0.3 | 1.2 | 0.24 | 0.00 | 0.3 | 0.05 | 2 | 0.8 |
 | lime juice | Lime juice, raw (SR 09160) - juice sugars counted as free | 5 | 1.2 | 0.0 | 0.4 | 0.08 | 0.08 | 0.0 | 0.00 | 0 | 0.0 |
-| **Total** | | | 2989 | 108.6 | 325.3 | 44.65 | 24.39 | 142.9 | 36.87 | 4859 | 60.4 |
+| large ripe avocado, sliced | Avocados, raw, all commercial varieties (FDC 171705) | 150 | 240.0 | 3.0 | 12.8 | 0.99 | 0.00 | 22.0 | 3.19 | 10 | 10.1 |
+| **Total** | | | 3157 | 118.0 | 317.8 | 38.08 | 16.82 | 164.0 | 39.77 | 4581 | 80.5 |
 
-**Per serving (total / 4):** kcal 747, protein_g 27.2, carbs_g 81.3, sugar_g 11.2, free_sugar_g 6.1, fat_g 35.7, satfat_g 9.2, salt_g 3.04, fibre_g 15.1
+**Per serving (total / 4):** kcal 789, protein_g 29.5, carbs_g 79.5, sugar_g 9.5, free_sugar_g 4.2, fat_g 41.0, satfat_g 9.9, salt_g 2.86, fibre_g 20.1
 
 ## Checks
-- Protein per 100 kcal: 3.6 g -> High Protein (>=10): no
-- Fat energy: 43% (<=30%: fail)
-- Sat fat energy: 11.1% (<10%: fail)
-- Free sugar energy: 3.3% (<10%: pass)
+- Protein per 100 kcal: 3.7 g -> High Protein (>=10): no
+- Fat energy: 47% (<=30%: fail)
+- Sat fat energy: 11.3% (<10%: fail)
+- Free sugar energy: 2.1% (<10%: pass)
 - Salt: 3.04 g/serving (modest = <= 1.7 g, about a third of WHO's 5 g/day: fail)
 - WHO Healthy by these numbers: no
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Only about a third of the lime pickling juice assumed eaten.
+- The optional cheddar is counted in the totals. The red onion is served raw (no pickling liquid or salt).
 - Frying oil: about 2 tbsp, all counted.

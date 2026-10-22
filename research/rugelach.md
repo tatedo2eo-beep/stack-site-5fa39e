@@ -4,12 +4,14 @@ Dish: Rugelach / flavour: Classic. Private file, not published.
 ## Sources actually opened
 - [Rugelach (King Arthur Baking)](https://www.kingarthurbaking.com/recipes/rugelach-recipe) [Tier 1 (locked list): King Arthur Baking]: Cream-cheese and butter dough with soured cream and salt; chilled, rolled into rounds, filled, cut into wedges and rolled up. _(curl 200; JSON-LD recipe (ingredients and steps) read)_
 - [Rugelach (NYT Cooking)](https://cooking.nytimes.com/recipes/1015634-rugelach) [Tier 2 (locked list): NYT Cooking]: Cold cream cheese and butter pulsed with flour and salt; jam or marmalade, nuts and dried fruit filling; chilled before rolling. _(curl 200; JSON-LD recipe (ingredients and steps) read)_
+- [Roulade-Shaped Rugelach (America's Test Kitchen)](https://www.americastestkitchen.com/recipes/1363-roulade-shaped-rugelach) [Tier 1 (locked list): America's Test Kitchen]: Cream cheese, butter and soured cream dough split in four, each rolled to about 28 x 18 cm, spread with preserves, cinnamon sugar, walnuts and raisins, rolled up from the long side, ends trimmed, cut into slices, chilled and baked seam-side down with an egg wash at about 190 °C. Supports the log-and-slice shape in the cookbook photo. _(curl 200; recipe page read 2026-10-22)_
 - [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
 - [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
 
 > Written in the cookies/bars/brownies chapter. Quantities are my own; the core method matches the locked-list sources listed above.
 
 ## Own cooking judgment
+- Shaped as a log and sliced into spirals (as in the cookbook photo and the America's Test Kitchen roulade method), not crescents. Each quarter of dough rolls to 28 x 18 cm and gives 12 slices, so the batch still makes 48.
 - Apricot jam, walnut and cinnamon-sugar filling.
 
 ## Reliability checks
@@ -17,7 +19,7 @@ Dish: Rugelach / flavour: Classic. Private file, not published.
 - Doneness cues in the method: 1 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 60 min + cook 25 min against the step times.
 - Quantities checked against servings (48). Nutrition worked from USDA FDC (see content/notes/rugelach-nutrition.md).
-- Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
+- Locked-list sources supporting the core method (excluding FSIS/FDC): 3. Non-top-tier pages are context only.
 
 ## Knowledge check
 Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C6 (frying temperatures); 06-G6 (frying safety); 03-K6 (baking and doneness cues); 03-K10 (raw dough and batter safety); 03-K2 (creaming); 03-K5 (resting and chilling); CHECKLIST 6 (preheat at least 20 min, stated before the oven step).
