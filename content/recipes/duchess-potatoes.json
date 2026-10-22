@@ -1,0 +1,159 @@
+{
+  "slug": "duchess-potatoes",
+  "title": "Duchess Potatoes (Piped Golden Potato Rosettes)",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "duchesse",
+  "dish_title": "Duchesse",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Buttery mashed potato enriched with egg is piped into neat rosettes and baked until the ridges turn deep golden and crisp. They make an impressive side for a roast dinner without much more effort than ordinary mash.",
+  "servings": 6,
+  "prep_min": 30,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "large saucepan",
+    "colander",
+    "potato ricer or food mill",
+    "large bowl",
+    "flexible spatula",
+    "piping bag with a large open star nozzle (1.5 cm)",
+    "baking tray lined with baking paper",
+    "pastry brush"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1200,
+      "unit": "g",
+      "item": "floury potatoes (such as russet or Maris Piper)"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 10,
+      "unit": "g",
+      "item": "fine salt, for the cooking water"
+    },
+    {
+      "group": "Mix",
+      "qty": 75,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Mix",
+      "qty": 60,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Mix",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Mix",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Mix",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground white pepper"
+    },
+    {
+      "group": "Mix",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Mix",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "To finish",
+      "qty": 15,
+      "unit": "g",
+      "item": "butter, melted, for brushing"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Preheat the oven to 220°C (200°C fan) at least 20 minutes ahead so it's fully up to temperature when the rosettes go in. A properly hot oven sets the egg quickly and crisps the ridges before the potato dries out."
+    },
+    {
+      "title": "Prepare the potatoes",
+      "text": "Peel the potatoes, cut into roughly 3cm chunks and rinse under cold water until it runs clear, washing away the surface starch that would otherwise make the mash sticky."
+    },
+    {
+      "title": "Boil until tender",
+      "text": "Cover with cold water, stir in the 10g salt and bring to the boil, then simmer for 10-15 minutes until a knife meets no resistance. Drain thoroughly in a colander."
+    },
+    {
+      "title": "Dry and rice",
+      "text": "Return the potatoes to the pot over low heat and shake for about 1 minute to drive off moisture — dry potato takes less butter and egg and holds a firmer piped shape. Pass through a ricer or food mill for a smooth purée."
+    },
+    {
+      "title": "Season the purée",
+      "text": "Beat in the melted butter, then the cream, nutmeg, salt and pepper until smooth."
+    },
+    {
+      "title": "Add the eggs",
+      "text": "Once the purée has cooled to warm rather than hot, beat in the whole egg and extra yolks until smooth, taking care not to overwork it. Adding eggs to mash that's still too hot would scramble them, and overbeating can make the piped rosettes dense instead of light."
+    },
+    {
+      "title": "Pipe the rosettes",
+      "text": "Spoon the mixture into a piping bag fitted with a large star nozzle and pipe 5-6cm rosettes onto the lined tray, spacing them 3cm apart. Brush each one lightly with the extra melted butter, which helps the ridges turn deep golden rather than pale."
+    },
+    {
+      "title": "Bake until golden",
+      "text": "Bake for 15-20 minutes until the ridges are deep golden and crisp and the bases feel set. The egg firms up to hold the piped shape, while the exposed ridges catch the oven's heat first and brown fastest. Serve straight from the oven while the crust is at its crispest."
+    }
+  ],
+  "tips": [
+    "Let the mash cool to warm before adding the eggs — stirring them into hot potato will scramble them and leave streaks.",
+    "Pack the piping bag well and pipe firmly; a loosely piped rosette collapses and loses its ridges in the oven.",
+    "Use a properly preheated oven — a cool oven lets the rosettes dry out before they brown.",
+    "Don't overwork the mash once the eggs go in, or the rosettes can turn gluey instead of light."
+  ],
+  "storage": "Pipe and bake while fresh for the best texture; cooked rosettes keep in the fridge for up to 2 days. Reheat in a hot oven at 200°C (180°C fan) for 8-10 minutes until piping hot and crisp again. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 301,
+    "protein_g": 5.8,
+    "carbs_g": 29.8,
+    "sugar_g": 1.7,
+    "free_sugar_g": 0.0,
+    "fat_g": 18.3,
+    "satfat_g": 10.9,
+    "salt_g": 0.88,
+    "fibre_g": 3.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "duchesse-advanced.jpg",
+  "image_alt": "Piped duchess potato rosettes with browned ridges on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

@@ -5,6 +5,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | Recipe | Dish | Flavour | Locked-list technique sources | All sources |
 |---|---|---|---|---|
 | alfajores | Alfajores | Classic | 2 | 4 |
+| aligot-cheesy-mashed-potatoes | Aligot | Classic | 2 | 4 |
 | almond-tuiles | Tuiles | Classic | 2 | 4 |
 | american-cheeseburger | Cheeseburger | American | 3 | 5 |
 | angel-food-cake | Angel food | Classic | 2 | 4 |
@@ -84,24 +85,29 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | creamy-cashew-yoghurt-chicken-curry-cardamom | Korma | Chicken | 3 | 5 |
 | creamy-potato-salad | Potato salad | Classic | 2 | 4 |
 | crisp-battered-white-fish-tacos-red-cabbage-lime-crema | Taco | Fish | 3 | 5 |
+| crisp-corn-tostadas-chicken-refried-beans-avocado | Tostada | Chicken | 3 | 5 |
 | crisp-skinned-jacket-potatoes | Baked/jacket | Classic | 2 | 4 |
 | crispy-baked-chicken-wings | Chicken wings | Classic | 3 | 5 |
 | crispy-chicken-sandwich | Chicken burger | Classic | 3 | 6 |
+| crispy-hasselback-potatoes | Hasselback | Classic | 2 | 4 |
 | crispy-oven-potato-wedges | Wedges | Classic | 3 | 5 |
 | crispy-potato-latkes | Latkes/potato pancakes | Classic | 3 | 5 |
 | crispy-roast-potatoes | Roast potatoes | Classic | 3 | 5 |
 | crispy-shredded-hash-browns | Hash browns | Classic | 3 | 5 |
+| crispy-smashed-potatoes | Crispy smashed potatoes | Classic | 2 | 4 |
 | crispy-steak-fries | Steak fries | Classic | 3 | 5 |
 | cut-out-sugar-cookies | Sugar/cut-out | Classic | 2 | 4 |
 | dill-potato-salad | Potato salad | Dill | 2 | 4 |
 | diner-style-home-fries | Home fries | Classic | 2 | 4 |
 | double-fried-french-fries | French fries (double-fried) | Classic | 3 | 5 |
+| duchess-potatoes | Duchesse | Classic | 2 | 4 |
 | everyday-chicken-curry | Chicken curry | Classic | 3 | 6 |
 | falafel-wrap | Falafel pita | Classic | 2 | 4 |
 | fesenjan | Fesenjan | Classic | 2 | 4 |
 | fettuccine-alfredo | Alfredo (Roman original) | Classic | 3 | 5 |
 | florentines | Florentines | Classic | 2 | 4 |
 | flourless-fudgy-brownies | Flourless | Classic | 3 | 5 |
+| fondant-potatoes | Fondant potatoes | Classic | 2 | 4 |
 | fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
 | gai-yang | Gai yang | Classic | 2 | 4 |
 | garlic-parmesan-chicken-wings | Chicken wings | Garlic-parmesan | 3 | 5 |
@@ -117,6 +123,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | golden-crab-cakes-paprika-lemon-mayonnaise | Crab cakes | Classic | 4 | 6 |
 | graham-crackers | Graham crackers | Classic | 3 | 5 |
 | gratin-dauphinois | Gratin dauphinois | Classic | 2 | 4 |
+| green-tomatillo-chicken-enchiladas-charred-chilli-sauce | Enchilada | Green (verdes) | 3 | 5 |
 | guacamole | Guacamole | Classic | 2 | 3 |
 | hainanese-chicken-rice | Hainanese chicken rice | Classic | 3 | 5 |
 | haluski | Haluski | Classic | 2 | 4 |
@@ -147,6 +154,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
 | lemon-pound-cake | Pound cake | Lemon | 3 | 5 |
 | lo-mein | Lo mein | Classic | 2 | 4 |
+| lyonnaise-potatoes | Lyonnaise potatoes | Classic | 2 | 4 |
 | madeleines | Madeleines (cake-like) | Classic | 3 | 5 |
 | malaysian-coconut-rice-sambal-crispy-anchovies-peanuts-egg | Nasi lemak | Classic | 2 | 4 |
 | malloreddus-saffron-tomato | Malloreddus | Classic | 2 | 4 |
@@ -178,12 +186,14 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pancit-canton | Pancit | Classic | 2 | 4 |
 | pandan-chiffon-cake | Chiffon | Pandan | 2 | 4 |
 | pappardelle-beef-ragu | Pappardelle | Classic | 2 | 4 |
+| parmesan-garlic-hasselback-potatoes | Hasselback | Parmesan | 2 | 4 |
 | pasta-al-limone | Pasta al limone | Classic | 2 | 4 |
 | pasta-alla-norma | Alla Norma | Classic | 2 | 4 |
 | pasta-e-ceci | Pasta e fagioli | Chickpea | 2 | 4 |
 | pasta-e-fagioli | Pasta e fagioli | Classic | 2 | 4 |
 | pasta-primavera | Pasta primavera | Classic | 3 | 5 |
 | pastitsio | Pastitsio | Classic | 3 | 5 |
+| patatas-bravas | Patatas bravas | Classic | 2 | 4 |
 | peanut-butter-cookies | Peanut butter | Classic | 3 | 5 |
 | pear-upside-down-cake | Upside-down | Pear | 2 | 4 |
 | peking-duck | Peking duck | Classic | 2 | 4 |
@@ -197,8 +207,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | poached-chicken | Poached | Classic | 2 | 4 |
 | pollo-al-mattone | Pollo al mattone (chicken under a brick) | Classic | 2 | 4 |
 | pommes-anna-layered-potato-cake | Pommes Anna | Classic | 3 | 5 |
+| pommes-dauphine-potato-puffs | Pommes dauphine | Classic | 2 | 4 |
 | potato-gnocchi | Gnocchi | Classic | 4 | 6 |
 | potato-vareniki | Vareniki | Classic | 2 | 4 |
+| potatoes-sarladaises | Potatoes sarladaises | Classic | 2 | 4 |
 | pound-cake | Pound cake | Classic | 2 | 4 |
 | poutine-fries-curds-gravy | Poutine | Classic | 3 | 5 |
 | pumpkin-whoopie-pies | Whoopie pie | Pumpkin | 2 | 4 |
@@ -235,6 +247,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spinach-ricotta-lasagne | Sheets/baked (lasagne) | Spinach and ricotta | 3 | 5 |
 | stovetop-mac-and-cheese | Mac and cheese | Stovetop | 3 | 5 |
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
+| stuffed-corn-griddle-cakes-melted-cheese-cabbage-relish | Pupusa | Cheese | 4 | 6 |
+| stuffed-corn-griddle-cakes-refried-beans-cheese-cabbage-relish | Pupusa | Bean-cheese | 3 | 5 |
 | swiss-rosti | Rösti | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
 | thai-coconut-beef-curry-potatoes-peanuts-tamarind | Massaman | Beef | 2 | 4 |
@@ -242,8 +256,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | thai-thick-coconut-red-curry-beef-lime-leaf-peanuts | Panang curry | Beef | 2 | 4 |
 | thai-yellow-coconut-curry-chicken-potatoes-onion | Thai yellow curry (kaeng kari) | Chicken | 2 | 4 |
 | thumbprint-cookies | Thumbprints | Classic | 3 | 5 |
+| tortilla-espanola | Tortilla española | Classic | 2 | 4 |
 | trenette-al-pesto | Trenette al pesto | Classic | 3 | 5 |
 | tres-leches-cake | Tres leches | Classic | 3 | 5 |
+| triple-cooked-chips | Pont-Neuf/triple-cooked chips | Classic | 2 | 4 |
 | trofie-al-pesto | Trofie | Classic | 3 | 5 |
 | tuna-puttanesca | Puttanesca | Tuna | 2 | 4 |
 | upside-down-cake | Upside-down | Classic | 2 | 4 |

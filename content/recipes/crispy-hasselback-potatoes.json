@@ -1,0 +1,137 @@
+{
+  "slug": "crispy-hasselback-potatoes",
+  "title": "Crispy Hasselback Potatoes",
+  "category": "snacks-sides",
+  "cuisine": "Swedish",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "hasselback",
+  "dish_title": "Hasselback",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Whole potatoes are thinly sliced almost all the way through, basted with butter and herbs, and roasted until the fanned slices turn crisp and golden. It's a simple way to get far more crunchy, buttery surface than a regular roast potato.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 70,
+  "difficulty": "medium",
+  "equipment": [
+    "baking tray lined with baking paper",
+    "2 chopsticks or wooden spoon handles",
+    "sharp knife",
+    "small bowl",
+    "pastry brush"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 6,
+      "unit": "pc",
+      "item": "medium floury or all-purpose potatoes (about 150 g each), scrubbed"
+    },
+    {
+      "group": "Basting",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Basting",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Basting",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Basting",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Basting",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "chopped rosemary or thyme"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Preheat the oven to 220°C (200°C fan) at least 20 minutes ahead so the potatoes start crisping as soon as they go in."
+    },
+    {
+      "title": "Slice the potatoes",
+      "text": "Lay a potato between two chopsticks and cut straight down across it at 3mm intervals, stopping when the knife meets the chopsticks so the base stays whole. The chopsticks act as a guide and a stop, keeping every potato fanned but intact."
+    },
+    {
+      "title": "Rinse and dry",
+      "text": "Rinse each potato under cold water, gently fanning the slices apart to wash away loose starch, then dry thoroughly. A dry surface is essential for the fat to crisp the slices rather than steam them."
+    },
+    {
+      "title": "Baste and season",
+      "text": "Mix the melted butter, oil, salt, pepper and chopped herbs in a small bowl, then brush generously over and between the slices."
+    },
+    {
+      "title": "First roast",
+      "text": "Roast for 30 minutes, by which time the slices will have started to fan open and turn pale gold at the edges."
+    },
+    {
+      "title": "Baste again",
+      "text": "Brush the potatoes again with the fat from the tray, easing the slices apart slightly so the baste reaches deeper between them."
+    },
+    {
+      "title": "Finish roasting",
+      "text": "Roast for a further 30-40 minutes, basting every 15-20 minutes with the fat in the tray, until the edges are crisp and golden and a skewer slides easily into the centre. As the slices open further during roasting, each basting reaches further down between them, so the whole potato crisps evenly."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Sprinkle with flaky sea salt and serve while the edges are still crackling."
+    }
+  ],
+  "tips": [
+    "Cut almost all the way through but stop at the chopsticks — cutting too far will separate the slices completely instead of leaving a fanned potato.",
+    "Dry the potatoes thoroughly after rinsing; any leftover water on the surface will steam instead of crisp in the oven.",
+    "Baste more than once during roasting — a single basting at the start is the most common reason the lower slices stay pale and soft.",
+    "Choose potatoes of a similar size so they all roast through in the same time."
+  ],
+  "storage": "Leftovers keep in the fridge for up to 2 days. Reheat in a hot oven at 200°C (180°C fan) for 10-15 minutes until piping hot and crisp again, rather than microwaving, which will soften the edges. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 226,
+    "protein_g": 3.3,
+    "carbs_g": 27.2,
+    "sugar_g": 0.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 12.2,
+    "satfat_g": 4.4,
+    "salt_g": 1.15,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "hasselback-advanced.jpg",
+  "image_alt": "A golden hasselback potato with crisp fanned slices on a black plate on dark slate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

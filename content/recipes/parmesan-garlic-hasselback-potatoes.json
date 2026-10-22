@@ -1,0 +1,145 @@
+{
+  "slug": "parmesan-garlic-hasselback-potatoes",
+  "title": "Parmesan and Garlic Hasselback Potatoes",
+  "category": "snacks-sides",
+  "cuisine": "Swedish / Italian",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "hasselback",
+  "dish_title": "Hasselback",
+  "flavour": "Parmesan",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "crispy-hasselback-potatoes",
+  "changes_from_base": "Garlic slices tucked into the slices midway; finely grated Parmesan baked on for the last 10 minutes; less oil and salt.",
+  "summary": "These hasselback potatoes follow the classic fanned-and-roasted method, with thin slices of garlic tucked in partway through and a finish of melted Parmesan for the last 10 minutes, using a little less oil and salt than the classic version.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 70,
+  "difficulty": "medium",
+  "equipment": [
+    "baking tray lined with baking paper",
+    "2 chopsticks or wooden spoon handles",
+    "sharp knife",
+    "small bowl",
+    "pastry brush"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 6,
+      "unit": "pc",
+      "item": "medium floury or all-purpose potatoes (about 150 g each), scrubbed"
+    },
+    {
+      "group": "Basting",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Basting",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Basting",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Basting",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Basting",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, very thinly sliced"
+    },
+    {
+      "group": "Cheese",
+      "qty": 60,
+      "unit": "g",
+      "item": "Parmesan or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped flat-leaf parsley"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Preheat the oven to 220°C (200°C fan) at least 20 minutes ahead — the same start as classic hasselback potatoes, with garlic and Parmesan added later in the roasting rather than at the start."
+    },
+    {
+      "title": "Slice the potatoes",
+      "text": "Lay a potato between two chopsticks and cut straight down at 3mm intervals, stopping when the knife meets the chopsticks so the base stays whole and the slices fan out."
+    },
+    {
+      "title": "Rinse and dry",
+      "text": "Rinse each potato under cold water, fanning the slices to wash off loose starch, then dry thoroughly so the fat can crisp the surface rather than steam it."
+    },
+    {
+      "title": "First roast",
+      "text": "Brush generously with the melted butter, oil, salt and pepper, then roast for 30 minutes until the slices begin to open and turn pale gold."
+    },
+    {
+      "title": "Add the garlic",
+      "text": "Tuck the thin garlic slices into the opened gaps between the potato slices, then brush again with the fat from the tray. Adding the garlic now, rather than at the start, stops it burning and turning bitter over the full roasting time."
+    },
+    {
+      "title": "Continue roasting",
+      "text": "Roast for a further 25-30 minutes, basting occasionally, until the slices are golden and mostly crisp."
+    },
+    {
+      "title": "Add the cheese",
+      "text": "Scatter the Parmesan over the tops of the potatoes, pressing a little between the slices, then return to the oven for 8-10 minutes until the cheese has melted into a golden, crisp layer and a skewer slides easily into the centre."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Scatter over the chopped parsley and serve while the cheese is still crisp and the edges are hot."
+    }
+  ],
+  "tips": [
+    "Add the garlic only after the first roast — tucked in from the start, it will burn and turn bitter over the full cooking time.",
+    "Dry the potatoes thoroughly before basting so the fat crisps the surface instead of steaming it.",
+    "Don't add the Parmesan too early, or it can burn before the potato finishes cooking — the last 8-10 minutes is enough to melt and crisp it.",
+    "A vegetarian hard cheese alternative works just as well if needed."
+  ],
+  "storage": "Best eaten fresh while the cheese is crisp; leftovers keep in the fridge for up to 2 days. Reheat in a hot oven at 200°C (180°C fan) for 10 minutes until piping hot, as the cheese won't recrisp well in a microwave. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 248,
+    "protein_g": 7.0,
+    "carbs_g": 28.1,
+    "sugar_g": 1.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 12.6,
+    "satfat_g": 5.7,
+    "salt_g": 0.91,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "hasselback-advanced--parmesan.jpg",
+  "image_alt": "Two golden hasselback potatoes with melted Parmesan between the slices on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

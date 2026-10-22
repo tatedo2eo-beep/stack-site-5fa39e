@@ -1,0 +1,127 @@
+{
+  "slug": "potatoes-sarladaises",
+  "title": "Potatoes Sarladaises (Garlic and Parsley Potatoes)",
+  "category": "snacks-sides",
+  "cuisine": "French (Périgord)",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "potatoes-sarladaises",
+  "dish_title": "Potatoes sarladaises",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Sliced potatoes are browned in duck fat or ghee with garlic, then steamed briefly and crisped again for a rich, garlicky side from south-west France. Fresh parsley at the end keeps it from feeling too heavy.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy non-stick or cast-iron frying pan (30 cm) with a lid",
+    "thin metal spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 900,
+      "unit": "g",
+      "item": "waxy or all-purpose potatoes (such as Yukon Gold), peeled and cut into 1 cm rounds"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 45,
+      "unit": "g",
+      "item": "halal duck fat or ghee",
+      "note": "duck fat is traditional; ghee works the same way"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 180,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "chopped flat-leaf parsley"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the fat",
+      "text": "Heat the duck fat or ghee in the pan over medium-high heat until shimmering."
+    },
+    {
+      "title": "Brown the potatoes",
+      "text": "Add the potato rounds in as even a layer as possible and cook for 6-8 minutes, turning occasionally, until lightly browned on both sides."
+    },
+    {
+      "title": "Add the garlic",
+      "text": "Add the garlic slices and cook for 2-3 minutes, turning, until the potatoes are golden and the garlic has turned pale gold rather than dark brown. Garlic burns quickly, so it only goes in once the potatoes already have some colour."
+    },
+    {
+      "title": "Steam through",
+      "text": "Lower the heat to medium-low, add the water and salt, cover and cook for 12-15 minutes until the potatoes are tender, topping up with a splash more water if the pan dries out first. Covering the pan traps steam that finishes cooking the potatoes through after the fat has already browned the outside."
+    },
+    {
+      "title": "Crisp again",
+      "text": "Uncover and cook for 2-3 minutes until the remaining liquid has cooked away and the potatoes turn crisp again in the fat."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Toss with the chopped parsley and black pepper, then serve hot."
+    }
+  ],
+  "tips": [
+    "Add the garlic only once the potatoes already have some colour — putting it in too early is a common way to burn it and turn the dish bitter.",
+    "Keep an eye on the water level while the pan is covered; letting it boil completely dry before the potatoes are tender can cause them to catch on the base.",
+    "Ghee is a good substitute for duck fat and behaves the same way in the pan if duck fat isn't available.",
+    "Give the potatoes a few extra minutes uncovered at the end — this is what brings back the crisp edges after steaming."
+  ],
+  "storage": "Leftovers keep in the fridge for up to 2 days. Reheat in a hot frying pan with a little extra fat until piping hot and crisp again. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 280,
+    "protein_g": 5.0,
+    "carbs_g": 41.1,
+    "sugar_g": 1.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 11.4,
+    "satfat_g": 7.0,
+    "salt_g": 1.5,
+    "fibre_g": 4.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "potatoes-sarladaises-basic.jpg",
+  "image_alt": "A black bowl of golden sliced potatoes with garlic and parsley on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

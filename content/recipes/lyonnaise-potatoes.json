@@ -1,0 +1,132 @@
+{
+  "slug": "lyonnaise-potatoes",
+  "title": "Lyonnaise Potatoes (Sautéed Potatoes and Caramelised Onions)",
+  "category": "snacks-sides",
+  "cuisine": "French (Lyon)",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "lyonnaise-potatoes",
+  "dish_title": "Lyonnaise potatoes",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Fried potato slices are tossed through deeply caramelised onions for a rich, bistro-style side from Lyon. The slow-cooked onions give the dish most of its flavour, so it's worth taking your time with them.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "large pan for simmering",
+    "colander",
+    "large heavy frying pan (30 cm)",
+    "thin metal spatula",
+    "bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 800,
+      "unit": "g",
+      "item": "waxy or all-purpose potatoes (such as Yukon Gold), peeled and cut into 6 mm rounds"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 15,
+      "unit": "g",
+      "item": "fine salt, for the water"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "distilled white vinegar"
+    },
+    {
+      "group": "Frying",
+      "qty": 60,
+      "unit": "g",
+      "item": "ghee (clarified butter), divided"
+    },
+    {
+      "group": "Frying",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large onion, thinly sliced"
+    },
+    {
+      "group": "Frying",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Frying",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "chopped flat-leaf parsley"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Par-cook the potatoes",
+      "text": "Cover the potato rounds with cold water, add the salt and vinegar, bring to the boil and simmer for about 4 minutes until just barely tender. The vinegar firms the pectin in the potato slightly, which keeps the rounds whole rather than falling apart when they're fried."
+    },
+    {
+      "title": "Drain and dry",
+      "text": "Drain well and spread the rounds out on a towel to dry thoroughly. Any surface moisture left on the potato will stop it browning properly in the pan."
+    },
+    {
+      "title": "Caramelise the onions",
+      "text": "Heat 1 tablespoon of ghee in the pan over medium heat and cook the onion with a pinch of salt for 12-15 minutes, stirring occasionally, until soft and deep golden. Add a splash of water to lift the browned bits from the base of the pan, then tip the onions into a bowl."
+    },
+    {
+      "title": "Fry the potatoes",
+      "text": "Heat 2 tablespoons of ghee in the same pan over medium-high heat and fry half the potato rounds in a single layer for 4-5 minutes per side until golden; repeat with the remaining ghee and potatoes. Ghee can take this higher heat without burning the way whole butter would, so the potatoes get properly crisp."
+    },
+    {
+      "title": "Combine and serve",
+      "text": "Return all the potatoes and onions to the pan, toss together for 1-2 minutes to heat through, then season with the pepper, scatter over the parsley and serve."
+    }
+  ],
+  "tips": [
+    "Simmer the potato rounds only briefly before frying — overcooking them at this stage makes them fall apart once they hit the hot pan.",
+    "Take your time with the onions; rushing the caramelising is the most common reason lyonnaise potatoes taste flat instead of richly sweet.",
+    "Dry the potato slices well before frying so they brown instead of steaming in the pan.",
+    "Fry the potatoes in batches rather than overcrowding the pan, or they'll turn soft instead of crisp."
+  ],
+  "storage": "Leftovers keep in the fridge for up to 2 days. Reheat in a hot frying pan over medium heat until piping hot and recrisped, as a microwave will leave them soft. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 312,
+    "protein_g": 4.9,
+    "carbs_g": 41.1,
+    "sugar_g": 4.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 15.2,
+    "satfat_g": 9.4,
+    "salt_g": 1.25,
+    "fibre_g": 5.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "lyonnaise-potatoes-basic.jpg",
+  "image_alt": "Golden sautéed potato rounds with caramelised onions on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

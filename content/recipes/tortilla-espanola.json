@@ -1,0 +1,126 @@
+{
+  "slug": "tortilla-espanola",
+  "title": "Tortilla Española (Spanish Potato and Onion Omelette)",
+  "category": "snacks-sides",
+  "cuisine": "Spanish",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "tortilla-espanola",
+  "dish_title": "Tortilla española",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Potato and onion are poached slowly in olive oil until silky-soft, then bound with beaten egg and cooked gently into a thick, golden Spanish omelette. It's equally good served warm, at room temperature or cold.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "25 cm non-stick or well-seasoned frying pan with sloping sides",
+    "sieve over a heatproof bowl",
+    "large bowl",
+    "flat plate larger than the pan",
+    "flexible spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 700,
+      "unit": "g",
+      "item": "waxy potatoes (such as Charlotte or Yukon Gold), peeled, quartered and thinly sliced"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large onion, thinly sliced"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 400,
+      "unit": "ml",
+      "item": "olive oil, for poaching"
+    },
+    {
+      "group": "Eggs",
+      "qty": 8,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Eggs",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oil",
+      "text": "Warm the oil in the frying pan over medium heat until a slice of potato dropped in sizzles gently rather than aggressively. A moderate, steady temperature is what poaches the potatoes rather than frying them crisp."
+    },
+    {
+      "title": "Poach the potatoes and onion",
+      "text": "Add the potatoes and onion and cook at a gentle bubble, stirring occasionally, for 20-25 minutes until meltingly tender but barely coloured. Cooking slowly in oil rather than hot oil gives the classic soft, silky tortilla texture instead of crisp chips."
+    },
+    {
+      "title": "Drain",
+      "text": "Drain the potatoes and onion in a sieve set over a bowl, keeping the flavoured oil for cooking the tortilla."
+    },
+    {
+      "title": "Combine with the eggs",
+      "text": "Beat the eggs with the salt until frothy, then stir in the warm potatoes and onion. Leave to stand for 5-10 minutes so the potato can soak up some of the egg, which helps the finished tortilla hold together when it's turned out."
+    },
+    {
+      "title": "Start cooking",
+      "text": "Wipe out the pan, heat 2 tablespoons of the reserved oil over medium-high, then pour in the mixture and shake the pan for 30 seconds to settle it. Lower the heat to medium-low and cook for 4-5 minutes, running a spatula round the edge, until the sides are set and the base is golden."
+    },
+    {
+      "title": "Flip",
+      "text": "Cover the pan with a flat plate larger than the pan and invert in one confident, swift move so the tortilla lands on the plate. Slide it back into the pan to cook the other side."
+    },
+    {
+      "title": "Finish cooking",
+      "text": "Cook for a further 3-4 minutes until just set — for a firmer centre, give it 2-3 minutes longer. The centre should reach at least 71°C, or show no liquid egg at all, if serving anyone vulnerable to undercooked eggs."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Let the tortilla rest for 5 minutes before serving warm or at room temperature; resting lets the egg finish setting gently without the heat of the pan."
+    }
+  ],
+  "tips": [
+    "Cook the potatoes gently in the oil rather than letting it get too hot — a fierce heat fries and browns them instead of giving the soft, silky texture a tortilla needs.",
+    "Let the egg and potato mixture rest for a few minutes before cooking so the potato can soak up some egg; skipping this is a common reason tortillas fall apart when sliced.",
+    "Use a confident, quick motion when flipping with the plate — hesitating halfway is what causes spills.",
+    "If you're unsure about the centre, cook it a little longer rather than serving it too runny, especially for anyone vulnerable to undercooked eggs."
+  ],
+  "storage": "Tortilla keeps covered in the fridge for up to 2 days. Serve cold or at room temperature, or reheat gently in a covered pan over low heat until piping hot throughout. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 294,
+    "protein_g": 11.3,
+    "carbs_g": 25.6,
+    "sugar_g": 3.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 16.5,
+    "satfat_g": 3.5,
+    "salt_g": 1.23,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tortilla-espanola-advanced.jpg",
+  "image_alt": "A thick golden Spanish tortilla with a wedge cut out to show the potato layers on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

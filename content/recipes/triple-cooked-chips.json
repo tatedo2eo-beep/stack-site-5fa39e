@@ -1,0 +1,124 @@
+{
+  "slug": "triple-cooked-chips",
+  "title": "Triple-Cooked Chips",
+  "category": "snacks-sides",
+  "cuisine": "British",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "pont-neuf-triple-cooked-chips",
+  "dish_title": "Pont-Neuf/triple-cooked chips",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "These chunky chips are parboiled, fried twice at different temperatures and chilled between each stage to build an exceptionally crisp shell around a fluffy centre. The extra steps take time but give a crunch that lasts well after they leave the fryer.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 45,
+  "difficulty": "hard",
+  "equipment": [
+    "large heavy pot or Dutch oven (at least 5 litres) or a deep fryer",
+    "deep-frying or probe thermometer",
+    "spider strainer or slotted spoon",
+    "2 rimmed baking trays, one lined with kitchen paper, one with a wire rack",
+    "large pan for simmering",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1200,
+      "unit": "g",
+      "item": "floury potatoes (such as Maris Piper or King Edward)"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "distilled white vinegar"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 30,
+      "unit": "g",
+      "item": "fine salt, for the water"
+    },
+    {
+      "group": "Frying",
+      "qty": 2500,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cut the chips",
+      "text": "Cut the potatoes into thick blocks, about 2x2cm and 8-9cm long, then rinse under cold water until it runs clear. Squared-off chips in this Pont-Neuf style give more flat surface to crisp up than a thinner cut."
+    },
+    {
+      "title": "First cook — simmer",
+      "text": "Put the chips into a pan of cold water with the vinegar and 30g salt, bring to the boil and simmer for 10-12 minutes until just tender and the edges are starting to crack. Those small fissures are exactly what you want, as they turn into the craggy crust later on."
+    },
+    {
+      "title": "Dry and chill",
+      "text": "Lift the chips carefully onto a wire rack and leave to dry for 5 minutes, then chill or freeze for 1 hour until firm. Cooling firms up the starch on the surface, which stops the chips falling apart in the next frying stage."
+    },
+    {
+      "title": "Second cook — seal",
+      "text": "Heat the oil to 130°C and fry the chips in batches for about 5 minutes until a pale crust has formed but no real colour yet. Drain on the rack."
+    },
+    {
+      "title": "Chill again",
+      "text": "Chill or freeze the fried chips for a further 30 minutes until firm. Drying the chips out between each stage drives off surface moisture, which is what keeps the final crust crisp rather than soggy."
+    },
+    {
+      "title": "Third cook — crisp",
+      "text": "Heat the oil to 190°C and fry the chips in batches for 3-5 minutes until deep golden and glassy-looking on the outside. The high heat at this final stage flashes the outside into a hard, glossy shell while the inside stays fluffy."
+    },
+    {
+      "title": "Season and serve",
+      "text": "Drain well, scatter with the flaky sea salt and serve immediately while the crust is at its crispest. Never leave hot oil unattended at any stage of frying."
+    }
+  ],
+  "tips": [
+    "Dry and chill the chips properly between each stage — skipping this is the most common reason home-made triple-cooked chips turn soggy instead of crisp.",
+    "Keep an eye on the oil temperature with a thermometer; frying too hot too soon browns the outside before the inside is cooked.",
+    "Cut the chips to an even, chunky size so they all cook through at the same rate.",
+    "Fry in small batches so the oil doesn't cool down and the chips crisp rather than steam.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Chips are best eaten straight away, but can be parboiled and frozen after the first cook for up to 1 month. Finish from frozen with the second and third fry as above, making sure they're piping hot all the way through before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 369,
+    "protein_g": 5.1,
+    "carbs_g": 43.7,
+    "sugar_g": 2.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 20.2,
+    "satfat_g": 1.5,
+    "salt_g": 1.61,
+    "fibre_g": 5.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pont-neuf-triple-cooked-chips-advanced.jpg",
+  "image_alt": "Thick, squared, golden triple-cooked chips stacked on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

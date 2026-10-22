@@ -1,0 +1,123 @@
+{
+  "slug": "crispy-smashed-potatoes",
+  "title": "Crispy Smashed Potatoes",
+  "category": "snacks-sides",
+  "cuisine": "International",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "crispy-smashed-potatoes",
+  "dish_title": "Crispy smashed potatoes",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Small boiled potatoes are flattened and fried until deeply golden and craggy-crisp on both sides. They're quick to make and deliver far more crunch than a plain roast potato.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot",
+    "colander",
+    "chopping board",
+    "heavy frying pan or flat-bottomed mug for smashing",
+    "large non-stick or cast-iron frying pan (30 cm)",
+    "thin metal spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1000,
+      "unit": "g",
+      "item": "small waxy potatoes (such as new potatoes or baby Yukon Gold), scrubbed"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 20,
+      "unit": "g",
+      "item": "fine salt, for the water"
+    },
+    {
+      "group": "Frying",
+      "qty": 5,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "snipped chives or chopped parsley"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil the potatoes",
+      "text": "Cover the potatoes with cold water, add the salt and bring to the boil, then simmer for 12-15 minutes until fully tender right to the centre. They need to be properly soft all the way through, or they'll crumble apart rather than flatten evenly when smashed."
+    },
+    {
+      "title": "Steam dry",
+      "text": "Drain and leave the potatoes to stand for 10 minutes so any trapped steam escapes. This dries the surface slightly, which helps them crisp rather than steam once they hit the hot oil."
+    },
+    {
+      "title": "Smash the potatoes",
+      "text": "Press each potato with the base of a heavy pan until it's about 1.5cm thick, keeping it in one piece. Don't worry about neat edges — the ragged, broken bits are what turn into the crunchiest parts once fried."
+    },
+    {
+      "title": "Fry the first side",
+      "text": "Heat half the oil in a large frying pan over medium heat until shimmering, then lay the potatoes in a single layer and fry without moving for 5-6 minutes until the underside is deep golden."
+    },
+    {
+      "title": "Flip and finish",
+      "text": "Carefully flip each potato and fry for a further 4-5 minutes until the second side is equally golden and crisp."
+    },
+    {
+      "title": "Repeat and season",
+      "text": "Repeat with the remaining oil and potatoes, then season with the flaky salt and pepper, scatter over the herbs and serve hot."
+    }
+  ],
+  "tips": [
+    "Boil the potatoes until properly tender before smashing — undercooked potatoes will crack apart instead of flattening into one piece.",
+    "Don't move the potatoes while the first side is frying; disturbing them too soon is the most common reason the crust doesn't form properly.",
+    "Fry in a single layer rather than crowding the pan, or the potatoes will steam instead of crisp.",
+    "Leave the smashed edges rough rather than neat — the ragged bits crisp up the most."
+  ],
+  "storage": "Leftovers keep in the fridge for up to 2 days. Reheat in a hot frying pan with a little oil until piping hot and crisp again, as a microwave will leave them soft. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 304,
+    "protein_g": 5.2,
+    "carbs_g": 43.9,
+    "sugar_g": 2.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 12.7,
+    "satfat_g": 1.8,
+    "salt_g": 1.37,
+    "fibre_g": 5.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "crispy-smashed-potatoes-basic.jpg",
+  "image_alt": "Crispy golden smashed potatoes scattered with herbs on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

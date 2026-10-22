@@ -1,0 +1,143 @@
+{
+  "slug": "fondant-potatoes",
+  "title": "Fondant Potatoes (Butter-Basted Potato Cylinders)",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "fries-potatoes",
+  "book_chapter": "fries-potatoes",
+  "dish": "fondant-potatoes",
+  "dish_title": "Fondant potatoes",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thick potato cylinders are seared until deeply golden, then slowly basted and braised in butter, garlic and stock until the inside turns almost custard-soft. The reduced pan juices make the perfect finishing sauce.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "large ovenproof frying pan (30 cm), stainless or cast iron",
+    "sharp knife",
+    "round cutter about 5 cm (optional)",
+    "tongs",
+    "spoon for basting"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1000,
+      "unit": "g",
+      "item": "large waxy or all-purpose potatoes (such as Yukon Gold), peeled"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Basting",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter, diced"
+    },
+    {
+      "group": "Basting",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, lightly crushed"
+    },
+    {
+      "group": "Basting",
+      "qty": 4,
+      "unit": "pc",
+      "item": "thyme sprigs"
+    },
+    {
+      "group": "Basting",
+      "qty": 200,
+      "unit": "ml",
+      "item": "chicken stock (halal) or vegetable stock, low-salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Preheat the oven to 220°C (200°C fan) at least 20 minutes ahead, so the potatoes finish cooking in a fully heated oven rather than one still warming up."
+    },
+    {
+      "title": "Shape the potatoes",
+      "text": "Trim the peeled potatoes into 4-5cm tall cylinders with flat top and bottom; a round cutter about 5cm across makes this quick and keeps every piece the same size. Even cylinders cook and brown at the same rate, so none finish before the others."
+    },
+    {
+      "title": "Dry and season",
+      "text": "Pat the potatoes completely dry, then season all over with the salt and pepper. A dry surface browns properly in the hot oil — any surface moisture would simply steam instead of sear."
+    },
+    {
+      "title": "Sear the first side",
+      "text": "Heat the oil in the ovenproof pan over medium-high until shimmering, then stand the potatoes on one flat end and sear without moving for 5-7 minutes until deep golden. Resist checking them too soon — moving them early stops a proper crust forming."
+    },
+    {
+      "title": "Sear the other side",
+      "text": "Turn the potatoes onto the other flat end and sear for a further 4-5 minutes until that side is equally golden."
+    },
+    {
+      "title": "Baste in butter",
+      "text": "Lower the heat to medium and add the butter, garlic and thyme to the pan. As soon as the butter foams, spoon it over the potatoes for 1-2 minutes so the aromatics flavour every side."
+    },
+    {
+      "title": "Add stock and transfer to the oven",
+      "text": "Pour in the stock so it comes halfway up the potatoes, then move the pan to the oven. Cook for 25-35 minutes, basting twice, until a knife slides through with no resistance and the liquid has reduced to a glossy glaze. The potatoes slowly absorb the buttery stock as it simmers, which is what makes the inside meltingly soft."
+    },
+    {
+      "title": "Serve",
+      "text": "Lift the potatoes out and spoon the glossy pan juices over the top before serving."
+    }
+  ],
+  "tips": [
+    "Dry the potato cylinders properly before searing — any surface moisture will steam instead of brown and you'll end up with a pale crust.",
+    "Don't move the potatoes while they're searing; disturbing them too early is the most common reason the crust fails to form.",
+    "Cut the cylinders to an even size so they all finish cooking in the same time.",
+    "Baste regularly once the stock goes in — it keeps the top from drying out while the inside softens."
+  ],
+  "storage": "Best served straight from the pan, but leftovers keep in the fridge for up to 2 days. Reheat gently in a covered pan with a splash of stock or water until piping hot throughout. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "celery"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 327,
+    "protein_g": 4.6,
+    "carbs_g": 36.1,
+    "sugar_g": 1.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 19.2,
+    "satfat_g": 8.3,
+    "salt_g": 1.4,
+    "fibre_g": 4.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "fondant-potatoes-advanced.jpg",
+  "image_alt": "Golden-seared fondant potato cylinders with thyme and garlic on a black plate on dark slate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}
