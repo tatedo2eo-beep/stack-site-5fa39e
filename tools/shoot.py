@@ -1,7 +1,8 @@
 # Screenshots: python3 tools/shoot.py  (needs: python3 -m http.server 8080 --directory .serve)
 import asyncio, sys
 from playwright.async_api import async_playwright
-B='http://localhost:8080/stack-site-5fa39e/'
+import os
+B=os.environ.get('B','http://localhost:8080/stack-site-5fa39e/')
 PAGES=[('home','',[0]),('list','recipes/',None),('recipe','recipes/lemon-garlic-chicken-white-beans/',None),('protein','high-protein/',None),('who','who-healthy/',None),('plans','plans/',None)]
 async def main():
   only=sys.argv[1:] 

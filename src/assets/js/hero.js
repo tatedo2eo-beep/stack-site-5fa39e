@@ -25,7 +25,7 @@
     want = Math.round(f * (N - 1)); draw(want);
     // travel: drifts down a little while splitting, then flies into the plate
     var tx = 0, ty = (ss(p / .46) * .06 - ss((p - .46) / .14) * .02) * geo.vh, sc = 1 - ss(p / .14) * .04 + ss((p - .14) / .32) * .04, rot = (1 - ss(p / .2)) * -5;
-    if (!geo.wide) tx = -Math.max(0, geo.x + geo.w * .78 + 118 - innerWidth) * (p < .46 ? ss((p - .14) / .32) : 1 - ss((p - .6) / .1));
+    if (!geo.wide) tx = -Math.max(0, geo.x + geo.w * .78 + 132 - innerWidth) * (p < .46 ? ss((p - .14) / .32) : 1 - ss((p - .6) / .1));
     var land = ss((p - .62) / .2), landed = false;
     if (land > 0 && slot) {
       var s = slot.getBoundingClientRect(), k = s.width / geo.w;
