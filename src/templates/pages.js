@@ -2,6 +2,7 @@
 const { esc, formatQty, iso, mins } = require('../lib/format');
 const { ad } = require('./layout');
 const { ICON } = require('./designs');
+const DRINKS_CSS = require('fs').readFileSync(require('path').join(__dirname, '../assets/css/drinks.css'), 'utf8');
 
 const img = (ctx, r, sizes, cls, eager) => {
   const a = esc(r.image_alt || r.title);
@@ -180,7 +181,12 @@ function chapterPage(ctx, ch, chapters) {
   const h = { cr: crumbs(ctx, [['chapters/', t.ui.chapters], [null, c.name]]), num: num2(idx), name: esc(c.name), dek: `${esc(c.intro)} ${ch.dishes.length} dish${ch.dishes.length === 1 ? '' : 'es'} · ${nR} recipe${nR === 1 ? '' : 's'}.`, cov: dd => chCover(ctx, ch, dd), slot: `cover:${ch.key}`, chips: chapterChips(ctx, chapters, ch.key), runner: t.groups[ch.group], gridTitle: 'Dishes', side: `${ch.dishes.length} dish${ch.dishes.length === 1 ? '' : 'es'}`, count: ch.dishes.length, countLabel: 'Dishes', altFb: c.name };
   const g = `<div class="rgrid dishes">${ch.dishes.map(d => dishCard(ctx, d)).join('')}</div>`;
   const cov = ctx.covers && ctx.covers[ctx.cfg.defaultDesign] && ctx.covers[ctx.cfg.defaultDesign][ch.key];
-  return { path: `chapter/${ch.key}/`, title: c.name, description: `${c.name}: ${c.intro}`, image: cov, preload: chCover(ctx, ch, ctx.cfg.defaultDesign), views: listPageViews(ctx, h, g, '', adw(ctx, 1), adw(ctx, 2)), navKey: 'chapters' };
+  let views = listPageViews(ctx, h, g, '', adw(ctx, 1), adw(ctx, 2)), head = '', scripts;
+  if (ch.key === 'drinks') { // every drink recipe on the site as a photo showcase, above the chapter page
+    const show = require('./kitchen').drinksShowcase(ctx, ch.dishes.flatMap(d => d.flavours));
+    if (show) { views = Object.fromEntries(Object.entries(views).map(([k, v]) => [k, show + v])); head = `<style>${DRINKS_CSS.replace(/\n\s*/g, '')}</style>`; scripts = [ctx.assets.js.drinks]; }
+  }
+  return { path: `chapter/${ch.key}/`, title: c.name, description: `${c.name}: ${c.intro}`, image: cov, preload: chCover(ctx, ch, ctx.cfg.defaultDesign), views, head, scripts, navKey: 'chapters' };
 }
 function dishPage(ctx, d, ch) {
   const { t, u } = ctx, nF = d.flavours.length;

@@ -1,0 +1,67 @@
+/* Home: kitchen fly-through hero (.kx), pinned featured recipe (.kf), numbers (.kn). Static by default
+   (no JS / reduced motion: one screen, last frame); scroll-driven only with JS and motion allowed. */
+.kx{position:relative;color:#f4ece1;background:#120c0a;--kxa:#ffb37a}
+.kx-stage{position:relative;height:100vh;height:100svh;overflow:hidden;contain:paint}
+.kx-po,.kx-endp,.kx-cv{position:absolute;inset:0;width:100%;height:100%;display:block}
+.kx-po img,.kx-endp img{width:100%;height:100%;object-fit:cover;display:block}
+.kx-po{display:none}.kx-cv{display:none}
+.kx-shade{position:absolute;inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(18,12,10,.5),rgba(18,12,10,0) 26%,rgba(18,12,10,0) 58%,rgba(18,12,10,.78))}
+.kx-ch{position:absolute;left:clamp(20px,6vw,88px);bottom:clamp(56px,12vh,130px);max-width:620px;text-shadow:0 2px 24px rgba(0,0,0,.5);opacity:0;visibility:hidden;will-change:transform,opacity;pointer-events:none}
+.kx-ch.act{pointer-events:auto}
+.kx-ch h2{font-family:var(--fh,inherit);font-size:clamp(34px,4.6vw,66px);line-height:1.02;letter-spacing:-.02em;margin:0 0 12px;color:#f4ece1}
+.kx-in h2{font-size:clamp(44px,7.2vw,104px)}
+.kx-ch h2 span{color:var(--kxa)}
+.kx-k{font:600 12px/1.3 ui-sans-serif,system-ui,sans-serif;letter-spacing:.16em;text-transform:uppercase;color:var(--kxa);margin:0 0 14px}
+.kx-lede{font-size:18px;line-height:1.5;color:rgba(244,236,225,.8);max-width:440px;margin:16px 0 0}
+.kx-l{color:rgba(244,236,225,.8);font-size:16px;margin:0}.kx-l a{display:block;color:inherit;text-decoration:underline;text-decoration-color:rgba(255,179,122,.6);text-underline-offset:4px;margin-top:4px}
+.kx-ch.side{max-width:420px}
+.kx-ch.r{left:auto;right:clamp(20px,6vw,88px);text-align:right}
+.kx-end{left:0;right:0;bottom:auto;top:13vh;margin:0 auto;text-align:center;max-width:none;width:90%}
+.kx-end .kx-l{margin-bottom:24px}
+.kx-btn{display:inline-block}
+.kx-cue{margin-top:30px;font-size:13px;color:rgba(244,236,225,.7);display:flex;align-items:center;gap:12px}
+.kx-cue span{width:1px;height:34px;background:linear-gradient(#f4ece1,transparent);animation:kxcue 1.8s ease-in-out infinite}
+@keyframes kxcue{0%{transform:scaleY(0);transform-origin:top}50%{transform:scaleY(1);transform-origin:top}51%{transform-origin:bottom}100%{transform:scaleY(0);transform-origin:bottom}}
+/* static (no JS / reduced motion): the finished kitchen and the closing line */
+.kx-end{opacity:1;visibility:visible}
+@media (prefers-reduced-motion:no-preference){
+  .js .kx{height:840vh}
+  .js .kx-stage{position:sticky;top:0;height:100vh;height:100lvh}
+  .js .kx-po,.js .kx-cv{display:block}.js .kx-endp{display:none}
+  .js .kx-live .kx-po{visibility:hidden}
+  .js .kx-in{opacity:1;visibility:visible}.js .kx-end{opacity:0;visibility:hidden}
+}
+@media (max-aspect-ratio:1/1){
+  .kx-shade{background:linear-gradient(180deg,rgba(18,12,10,.55) 0,rgba(18,12,10,0) 24%,rgba(18,12,10,0) 50%,rgba(18,12,10,.88) 84%)}
+  .kx-ch,.kx-ch.r{left:22px;right:22px;bottom:7vh;text-align:left;max-width:none}
+  .kx-end{top:auto;bottom:8vh;left:22px;right:22px;width:auto}
+  .kx-lede{font-size:16px}
+}
+/* featured recipe, pinned while its photo drifts and the facts slide in */
+.kf{position:relative;background:var(--bg);color:var(--text)}
+.kf-stage{display:grid;grid-template-columns:1.15fr 1fr;align-items:center;gap:clamp(24px,4vw,64px);width:min(1240px,calc(100% - 40px));margin:0 auto;padding:12vh 0}
+.kf-photo{display:block;position:relative;overflow:hidden;border-radius:22px;aspect-ratio:16/9;background:var(--surface2,#222);box-shadow:0 30px 80px -30px rgba(0,0,0,.6)}
+.kf-photo img{width:100%;height:100%;object-fit:cover;display:block;transform-origin:50% 50%;will-change:transform}
+.kf-info .kx-k{color:var(--accentText,var(--accent))}
+.kf-info h2{font-family:var(--fh,inherit);font-size:clamp(30px,3.6vw,52px);line-height:1.05;margin:0 0 14px}.kf-info h2 a{color:inherit;text-decoration:none}
+.kf-sum{color:var(--muted);margin:0 0 22px;line-height:1.55;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.kf-info ul{list-style:none;margin:0 0 26px;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:14px 22px}
+.kf-info li{border-top:1px solid color-mix(in oklab,var(--text) 16%,transparent);padding-top:12px}
+.kf-info li b{display:block;font-family:var(--fh,inherit);font-size:22px}.kf-info li span{color:var(--muted);font-size:14px}
+@media (prefers-reduced-motion:no-preference){
+  .js .kf{height:230vh}
+  .js .kf-stage{position:sticky;top:0;height:100vh;height:100svh;padding:0}
+  .js .kf-i{opacity:0;transform:translate3d(42px,0,0);transition:opacity .7s cubic-bezier(.16,1,.3,1),transform .7s cubic-bezier(.16,1,.3,1)}
+  .js .kf-i.on{opacity:1;transform:none}
+}
+@media (max-width:820px){
+  .kf-stage{grid-template-columns:1fr;align-content:center;gap:18px}
+  .kf-info h2{font-size:28px;margin-bottom:8px}.kf-sum{-webkit-line-clamp:3;margin-bottom:14px;font-size:15px}
+  .kf-info ul{gap:10px 16px;margin-bottom:18px}.kf-info li{padding-top:8px}.kf-info li b{font-size:18px}
+  .js .kf-i{transform:translate3d(0,22px,0)}
+}
+/* numbers */
+.kn{display:grid;grid-template-columns:repeat(4,1fr);gap:24px;padding:80px 0;border-top:1px solid color-mix(in oklab,var(--text) 12%,transparent);border-bottom:1px solid color-mix(in oklab,var(--text) 12%,transparent);margin-bottom:24px}
+.kn b{display:block;font-family:var(--fh,inherit);font-size:clamp(44px,5.4vw,78px);line-height:1.05;letter-spacing:-.02em;font-variant-numeric:tabular-nums;color:var(--text)}
+.kn span{color:var(--muted);font-size:15px}
+@media (max-width:820px){.kn{grid-template-columns:1fr 1fr;padding:56px 0;row-gap:34px}}

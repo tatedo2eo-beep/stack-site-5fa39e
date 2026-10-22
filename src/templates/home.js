@@ -3,8 +3,8 @@ const fs = require('fs'), path = require('path');
 const { esc, mins } = require('../lib/format');
 const { ICON } = require('./designs');
 
-// Home = the design's scroll story (templates/story.js) flowing straight into that design's home page.
-const HOME_CSS = fs.readFileSync(path.join(__dirname, '../assets/css/home.css'), 'utf8');
+// Home = the kitchen fly-through (templates/kitchen.js) flowing straight into that design's home page.
+const HOME_CSS = fs.readFileSync(path.join(__dirname, '../assets/css/kitchen.css'), 'utf8');
 
 // design-specific home sections below the story (ported from the cookbook home screens). Every featured or
 // decorative photo is the cookbook's own pick for that design (meta.picks[design].home) and carries data-slot,
@@ -62,12 +62,14 @@ function designHome(ctx, d, P, data) {
 function homePage(ctx, P, recipes, chapters, counts) {
   const { u } = ctx;
   const featured = recipes.find(r => r.dish === 'smash-burger' && r.access === 'free') || recipes.find(r => r.access === 'free') || recipes[0];
-  const views = P.each(d => require('./story').story(ctx, d, recipes) + designHome(ctx, d, P, { recipes, chapters, featured, counts }));
+  // the kitchen fly-through + featured recipe + numbers + cravings: the same for every design, then that design's home
+  const kitchen = require('./kitchen').kitchenHome(ctx, P, { recipes, chapters, featured });
+  const views = P.each(d => kitchen + designHome(ctx, d, P, { recipes, chapters, featured, counts }));
   return {
     path: '', navKey: 'home', description: `${ctx.cfg.brand}: metric recipes with nutrition per serving${ctx.cfg.healthyLabels === false ? '' : ', High Protein and WHO Healthy picks'}, cook mode and a servings scaler.`,
     views, bodyClass: 'page-home',
     head: `<style>${HOME_CSS.replace(/\n\s*/g, '')}</style>`,
-    scripts: [ctx.assets.js.hero]
+    scripts: [ctx.assets.js.kitchen]
   };
 }
 module.exports = { homePage };

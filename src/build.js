@@ -85,7 +85,7 @@ async function buildAssets() {
   // calculator page only: its own CSS file, so other pages are unchanged
   const calcCss = (await esbuild.transform(rd('src/assets/css/calculator.css'), { loader: 'css', minify: true, target: ['chrome90', 'safari14', 'firefox90'] })).code;
   a.calcCss = cfg.basePath + `assets/calculator.${hash(calcCss)}.css`; writeFile(a.calcCss.slice(cfg.basePath.length), calcCss);
-  for (const n of ['site', 'recipe', 'list', 'hero', 'calculator']) {
+  for (const n of ['site', 'recipe', 'list', 'hero', 'calculator', 'kitchen', 'drinks']) {
     const js = fs.readFileSync(path.join(ROOT, `src/assets/js/${n}.js`), 'utf8');
     const min = (await esbuild.transform(js, { loader: 'js', minify: true, target: 'es2018' })).code;
     a.js[n] = cfg.basePath + `assets/${n}.${hash(min)}.js`; writeFile(a.js[n].slice(cfg.basePath.length), min);
@@ -138,6 +138,19 @@ async function buildImages(recipes) {
     if (!r.img) console.log(C.yel(`warning: ${r.slug}: no photo mapped in tools/tami-images.json (placeholder used)`));
   }
 }
+// Background tone for the drinks showcase: the photo's main colour (read from the served copy, which is
+// byte-identical to the original), kept dark enough for light text. The photo itself is never changed.
+async function photoTone(rel) {
+  // colour-weighted average (chroma²), so a dark studio backdrop doesn't win over the food or drink itself
+  const px = await require('sharp')(path.join(OUT, rel)).resize(64, 36, { fit: 'fill' }).removeAlpha().raw().toBuffer();
+  let r = 0, g = 0, b = 0, w = 0;
+  for (let i = 0; i < px.length; i += 3) { const c = (Math.max(px[i], px[i + 1], px[i + 2]) - Math.min(px[i], px[i + 1], px[i + 2])) ** 2 + 1; r += px[i] * c; g += px[i + 1] * c; b += px[i + 2] * c; w += c; }
+  r /= w; g /= w; b /= w;
+  const R = r / 255, G = g / 255, B = b / 255, mx = Math.max(R, G, B), mn = Math.min(R, G, B), L = (mx + mn) / 2, d = mx - mn;
+  let h = 0; if (d) h = mx === R ? ((G - B) / d) % 6 : mx === G ? (B - R) / d + 2 : (R - G) / d + 4;
+  const S = d ? d / (1 - Math.abs(2 * L - 1)) : 0;
+  return `hsl(${Math.round((h * 60 + 360) % 360)} ${Math.round(Math.min(S, 0.55) * 100)}% ${Math.round(Math.min(Math.max(L, 0.16), 0.26) * 100)}%)`;
+}
 
 // Tasteful placeholder: dark gradient, thin gold plate-and-cutlery line art, category name.
 function placeholderSvg(label) {
@@ -153,6 +166,7 @@ function placeholderSvg(label) {
   const assets = await buildAssets();
   await buildImages(recipes);
   copyDir(path.join(ROOT, 'static'), OUT);
+  for (const r of recipes) if (r.img && (r.category === 'drinks' || r.book_chapter === 'drinks')) r.img = { ...r.img, tone: await photoTone(r.img.w1200) };
 
   // enrich + sort newest file first (by mtime) so "latest" is meaningful
   const rdir = path.join(ROOT, 'content/recipes');
