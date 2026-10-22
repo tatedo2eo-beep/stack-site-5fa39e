@@ -1,0 +1,108 @@
+{
+  "slug": "whipped-dalgona-coffee-cold-milk",
+  "title": "Whipped Dalgona Coffee over Cold Milk",
+  "category": "drinks",
+  "cuisine": "Korean",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "dalgona-coffee",
+  "dish_title": "Dalgona coffee",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Instant coffee, sugar and hot water are whisked into a stiff, glossy foam and spooned over glasses of iced whole milk.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "medium bowl",
+    "balloon whisk or electric hand mixer",
+    "4 glasses (about 350 ml)",
+    "spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Whipped coffee",
+      "qty": 14,
+      "unit": "g",
+      "item": "instant coffee granules",
+      "note": "about 4 tbsp"
+    },
+    {
+      "group": "Whipped coffee",
+      "qty": 30,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Whipped coffee",
+      "qty": 60,
+      "unit": "ml",
+      "item": "hot water"
+    },
+    {
+      "group": "To serve",
+      "qty": 960,
+      "unit": "ml",
+      "item": "whole milk, cold"
+    },
+    {
+      "group": "To serve",
+      "qty": 200,
+      "unit": "g",
+      "item": "ice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whip",
+      "text": "Put the instant coffee, sugar and hot water in the bowl. Whisk vigorously by hand for 6-8 minutes, or 2-3 minutes with the mixer, until thick, glossy, pale caramel and holding soft peaks."
+    },
+    {
+      "title": "Fill the glasses",
+      "text": "Put a few ice cubes in each glass and pour in 240 ml cold milk."
+    },
+    {
+      "title": "Top",
+      "text": "Spoon a quarter of the whipped coffee onto each glass, swirling it into a mound."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve straight away with a spoon, and stir the coffee into the milk before drinking."
+    }
+  ],
+  "tips": [
+    "Only instant coffee whips; brewed or ground coffee won't hold a foam.",
+    "Use a wide bowl and tilt it so the whisk stays in the mixture.",
+    "Decaffeinated instant coffee whips just as well.",
+    "For a hot version, spoon the foam over warm milk instead."
+  ],
+  "storage": "The whipped coffee keeps covered in the fridge for up to 1 day; assemble just before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 192,
+    "protein_g": 8.2,
+    "carbs_g": 22.0,
+    "sugar_g": 20.0,
+    "free_sugar_g": 7.5,
+    "fat_g": 8.1,
+    "satfat_g": 4.6,
+    "salt_g": 0.27,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "dalgona-coffee-basic.jpg",
+  "image_alt": "A glass of cold milk topped with a thick swirl of whipped dalgona coffee, with a spoon.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

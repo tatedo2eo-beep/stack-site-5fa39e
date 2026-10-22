@@ -1,0 +1,153 @@
+{
+  "slug": "cinnamon-almond-rice-horchata-lime-zest",
+  "title": "Cinnamon-Almond Rice Horchata with Lime Zest",
+  "category": "drinks",
+  "cuisine": "Mexican",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "horchata",
+  "dish_title": "Horchata",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Toasted almonds and cinnamon soak overnight with rice and lime zest, are blended and strained, then sweetened and finished with cold milk and vanilla.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 7,
+  "difficulty": "easy",
+  "equipment": [
+    "large frying pan",
+    "large bowl or jug (at least 2 litres)",
+    "blender",
+    "nut-milk bag or sieve lined with a double layer of muslin",
+    "pitcher"
+  ],
+  "ingredients": [
+    {
+      "group": "Horchata",
+      "qty": 70,
+      "unit": "g",
+      "item": "blanched almonds (slivered or whole)"
+    },
+    {
+      "group": "Horchata",
+      "qty": 2,
+      "unit": "pc",
+      "item": "cinnamon sticks (preferably Ceylon), crumbled"
+    },
+    {
+      "group": "Horchata",
+      "qty": 200,
+      "unit": "g",
+      "item": "long-grain white rice, uncooked"
+    },
+    {
+      "group": "Horchata",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Horchata",
+      "qty": 1,
+      "unit": "pc",
+      "item": "strip lime zest (about 5 cm)"
+    },
+    {
+      "group": "To finish",
+      "qty": 90,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "To finish",
+      "qty": 400,
+      "unit": "ml",
+      "item": "whole milk, cold"
+    },
+    {
+      "group": "To serve",
+      "qty": 400,
+      "unit": "g",
+      "item": "ice, to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "ground cinnamon"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast",
+      "text": "Toast the almonds and cinnamon in the dry frying pan over medium heat, stirring, for 5-7 minutes until fragrant and just turning golden. Toasting gives a rounder, nuttier flavour."
+    },
+    {
+      "title": "Soak overnight",
+      "text": "Tip them into the bowl with the rice, 1 litre water and the lime zest. Cover and leave for at least 8 hours at cool room temperature or in the fridge, so the rice softens enough to blend smooth."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend everything, in 2 batches if needed, for 2-3 minutes until the rice and nuts are very finely ground."
+    },
+    {
+      "title": "Strain",
+      "text": "Pour through the nut-milk bag or lined sieve into the pitcher, then squeeze firmly to extract as much liquid as possible. Discard the solids."
+    },
+    {
+      "title": "Sweeten and chill",
+      "text": "Stir in the sugar, vanilla and salt until dissolved, then the cold milk. Chill until cold."
+    },
+    {
+      "title": "Serve",
+      "text": "Stir well, as horchata settles, then pour over ice and dust with ground cinnamon."
+    }
+  ],
+  "tips": [
+    "A nut-milk bag gives the smoothest result; muslin works but squeeze it well.",
+    "Ceylon cinnamon is softer and sweeter than cassia and crumbles more easily.",
+    "Taste before adding all the sugar if you prefer it less sweet.",
+    "For a dairy-free version, replace the milk with more water or an oat drink."
+  ],
+  "storage": "Keeps covered in the fridge for up to 3 days; stir before pouring. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 153,
+    "protein_g": 3.4,
+    "carbs_g": 26.1,
+    "sugar_g": 18.8,
+    "free_sugar_g": 15.1,
+    "fat_g": 3.8,
+    "satfat_g": 1.4,
+    "salt_g": 0.14,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "horchata-basic.jpg",
+  "image_alt": "A pitcher and an iced glass of creamy white horchata with a cinnamon stick.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

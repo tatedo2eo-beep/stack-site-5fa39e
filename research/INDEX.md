@@ -5,6 +5,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | Recipe | Dish | Flavour | Locked-list technique sources | All sources |
 |---|---|---|---|---|
 | adana-style-lamb-kebabs | Adana kebabı | Classic | 3 | 5 |
+| agua-de-jamaica-hibiscus-allspice-orange | Agua de jamaica | Classic | 2 | 4 |
 | alfajores | Alfajores | Classic | 2 | 4 |
 | aligot-cheesy-mashed-potatoes | Aligot | Classic | 2 | 4 |
 | almond-tuiles | Tuiles | Classic | 2 | 4 |
@@ -106,6 +107,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chorba-algerian-lamb-chickpea-tomato-soup | Chorba | Classic | 3 | 5 |
 | chow-mein | Chow mein/lo mein | Classic | 3 | 5 |
 | chunky-garden-vegetable-soup-tomato-herbs | Vegetable | Classic | 2 | 4 |
+| cinnamon-almond-rice-horchata-lime-zest | Horchata | Classic | 2 | 4 |
 | cinnamon-streusel-coffee-cake | Coffee cake | Cinnamon streusel | 2 | 4 |
 | citrus-chilli-marinated-grilled-steak-charred-spring-onions-guacamole | Carne asada | Classic | 3 | 5 |
 | classic-almond-biscotti | Biscotti | Classic | 3 | 5 |
@@ -113,6 +115,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-butter-shortbread | Shortbread | Classic | 2 | 6 |
 | classic-cheeseburger | Cheeseburger | Classic | 4 | 7 |
 | classic-french-toast-cinnamon-sugar-maple | French toast | Classic | 2 | 4 |
+| classic-fresh-squeezed-lemonade | Lemonade | Classic | 2 | 4 |
 | classic-mashed-potatoes | Mashed | Classic | 2 | 4 |
 | classic-patty-melt | Patty melt | Classic | 2 | 6 |
 | classic-smash-burger | Smash burger | Cheese | 3 | 7 |
@@ -181,6 +184,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fondant-potatoes | Fondant potatoes | Classic | 2 | 4 |
 | fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
 | fried-mini-pizzas-tomato-mozzarella-basil | Pizza fritta/montanara | Classic | 2 | 4 |
+| frothy-whisked-matcha-green-tea | Matcha (whisked) | Classic | 2 | 4 |
 | gai-yang | Gai yang | Classic | 2 | 4 |
 | galbitang-korean-beef-short-rib-radish-soup | Galbitang | Classic | 2 | 4 |
 | galician-style-octopus-potatoes-smoked-paprika | Pulpo a la gallega | Classic | 4 | 6 |
@@ -226,6 +230,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | hummingbird-cake | Hummingbird cake | Classic | 3 | 5 |
 | hungarian-beef-goulash | Goulash | Classic | 2 | 4 |
 | hungarian-paprika-beef-stew-dumplings | Pörkölt | Classic | 3 | 5 |
+| iced-black-tea-lemon-mint | Iced tea | Classic | 2 | 4 |
 | iced-coffee | Iced coffee | Classic | 2 | 3 |
 | indonesian-sweet-soy-fried-rice-chicken-prawns-fried-egg | Nasi goreng | Classic | 3 | 5 |
 | irish-lamb-stew-potatoes-carrots | Irish stew | Classic | 3 | 5 |
@@ -283,6 +288,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | millionaires-shortbread | Bars (magic bars, millionaire's shortbread) | Classic | 4 | 6 |
 | miso-soup-tofu-wakame | Miso | Classic | 2 | 4 |
 | molten-chocolate-cakes | Molten chocolate | Classic | 3 | 5 |
+| moroccan-gunpowder-green-mint-tea | Moroccan mint | Classic | 2 | 4 |
 | mulligatawny-chicken-red-lentil-coconut | Mulligatawny | Classic | 3 | 5 |
 | musakhan | Musakhan | Classic | 3 | 6 |
 | mushroom-lasagne | Sheets/baked (lasagne) | Mushroom | 3 | 5 |
@@ -371,6 +377,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | red-velvet-cupcakes-cream-cheese-frosting | Cupcakes | Red velvet | 2 | 4 |
 | reverse-seared-rib-eye-steak-thyme-garlic | Reverse-sear steak | Classic | 2 | 4 |
 | ribollita-tuscan-bean-kale-bread-soup | Ribollita | Classic | 2 | 4 |
+| rich-dark-chocolate-hot-chocolate-chocolat-chaud | Hot chocolate (French chocolat chaud, Spanish thick) | Classic | 2 | 4 |
 | ricotta-ravioli | Filled (ravioli, tortellini, agnolotti) | Classic | 4 | 6 |
 | roast-beef-fillet-tarragon-butter-sauce | Châteaubriand | Classic | 6 | 8 |
 | roast-chicken | Whole roast chicken | Classic | 3 | 6 |
@@ -409,6 +416,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | slow-smoked-beef-brisket-salt-pepper | Brisket (smoked) | Classic | 3 | 5 |
 | smoky-chipotle-lime-chicken-fajitas-peppers-guacamole | Fajita | Classic | 2 | 4 |
 | smoky-chipotle-tomato-shredded-chicken-tacos | Taco | Chicken tinga | 4 | 6 |
+| smooth-cold-brew-coffee-concentrate | Cold brew | Classic | 2 | 4 |
 | snickerdoodles | Snickerdoodle | Classic | 3 | 5 |
 | soft-rice-and-yellow-lentil-porridge-cumin-ghee | Khichdi | Classic | 2 | 4 |
 | soft-scrambled-eggs-butter-chives-toast | Scrambled | Classic | 3 | 5 |
@@ -427,6 +435,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | speculoos | Speculoos | Classic | 3 | 5 |
 | spiced-beef-shawarma-tahini-flatbread | Shawarma/döner | Classic | 2 | 4 |
 | spiced-lamb-seekh-kebabs-mint-chutney | Seekh kebab | Classic | 2 | 4 |
+| spiced-masala-chai-ginger-cardamom | Masala chai | Classic | 2 | 4 |
 | spiced-minced-beef-keema-peas | Keema | Keema matar (with peas) | 3 | 5 |
 | spiced-minced-beef-keema-potatoes | Keema | Aloo keema (potato) | 3 | 5 |
 | spiced-minced-beef-keema | Keema | Classic | 2 | 4 |
@@ -454,6 +463,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | texas-chocolate-sheet-cake-pecan-icing | Sheet cake | Chocolate (Texas-style) | 3 | 5 |
 | thai-coconut-beef-curry-potatoes-peanuts-tamarind | Massaman | Beef | 2 | 4 |
 | thai-green-coconut-curry-chicken-aubergine-basil | Green curry | Chicken | 3 | 5 |
+| thai-iced-tea-condensed-milk-star-anise | Thai tea | Classic | 2 | 4 |
 | thai-thick-coconut-red-curry-beef-lime-leaf-peanuts | Panang curry | Beef | 2 | 4 |
 | thai-yellow-coconut-curry-chicken-potatoes-onion | Thai yellow curry (kaeng kari) | Chicken | 2 | 4 |
 | thick-acai-bowl-banana-berries-granola | Açaí bowl | Classic | 2 | 4 |
@@ -484,7 +494,9 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | vietnamese-shaking-beef | Bò lúc lắc | Classic | 2 | 4 |
 | village-greek-salad-feta-slab | Greek | Classic | 3 | 5 |
 | vine-leaves-stuffed-herbed-rice-lemon | Dolma/stuffed vine leaves | Classic | 2 | 4 |
+| watermelon-lime-agua-fresca-mint | Agua fresca | Classic | 2 | 4 |
 | west-african-tomato-pepper-rice-thyme-bay | Jollof | Classic | 3 | 5 |
+| whipped-dalgona-coffee-cold-milk | Dalgona coffee | Classic | 2 | 4 |
 | whole-sea-bass-baked-in-salt-crust-lemon-herbs | Salt-crusted fish | Classic | 4 | 6 |
 | yakisoba | Yakisoba | Classic | 2 | 4 |
 | yakitori | Yakitori | Classic | 2 | 4 |

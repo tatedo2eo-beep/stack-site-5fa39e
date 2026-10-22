@@ -1,0 +1,124 @@
+{
+  "slug": "classic-fresh-squeezed-lemonade",
+  "title": "Classic Fresh-Squeezed Lemonade",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "lemonade",
+  "dish_title": "Lemonade",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Lemon slices are mashed with sugar, dissolved in hot water, then mixed with fresh lemon juice and cold water, strained and chilled.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "potato masher",
+    "citrus juicer",
+    "fine sieve",
+    "large pitcher"
+  ],
+  "ingredients": [
+    {
+      "group": "Lemon sugar",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, thinly sliced, ends discarded"
+    },
+    {
+      "group": "Lemon sugar",
+      "qty": 140,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Lemon sugar",
+      "qty": 160,
+      "unit": "ml",
+      "item": "hot water"
+    },
+    {
+      "group": "Lemonade",
+      "qty": 240,
+      "unit": "ml",
+      "item": "fresh lemon juice, strained",
+      "note": "from 6-8 lemons"
+    },
+    {
+      "group": "Lemonade",
+      "qty": 900,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "To serve",
+      "qty": 600,
+      "unit": "g",
+      "item": "ice, to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, sliced into rounds, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mash",
+      "text": "Put the lemon slices and sugar in the bowl and mash with the potato masher for about 1 minute, until the slices release their juice and oil and the sugar looks wet."
+    },
+    {
+      "title": "Dissolve",
+      "text": "Pour in the hot water and stir until the sugar has completely dissolved."
+    },
+    {
+      "title": "Mix and strain",
+      "text": "Add the lemon juice and cold water, stir, then strain through the sieve into the pitcher, pressing on the slices. Discard them."
+    },
+    {
+      "title": "Chill",
+      "text": "Refrigerate for at least 30 minutes, until cold."
+    },
+    {
+      "title": "Serve",
+      "text": "Add fresh lemon rounds to the pitcher and pour over plenty of ice."
+    }
+  ],
+  "tips": [
+    "Roll lemons firmly on the worktop before juicing to get more juice.",
+    "Strain the juice so pips and pulp don't cloud the drink.",
+    "Don't leave the mashed slices in too long, or the pith turns the lemonade bitter.",
+    "For less sugar, cut it to 100 g and add a few extra lemon rounds for aroma."
+  ],
+  "storage": "Keeps covered in the fridge for up to 3 days; stir before pouring. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 102,
+    "protein_g": 0.3,
+    "carbs_g": 27.1,
+    "sugar_g": 24.6,
+    "free_sugar_g": 24.3,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.0,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "lemonade-basic.jpg",
+  "image_alt": "An iced glass and pitcher of pale lemonade with lemon slices and halved lemons.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

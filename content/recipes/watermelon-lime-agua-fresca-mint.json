@@ -1,0 +1,125 @@
+{
+  "slug": "watermelon-lime-agua-fresca-mint",
+  "title": "Watermelon-Lime Agua Fresca with Mint",
+  "category": "drinks",
+  "cuisine": "Mexican",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "agua-fresca",
+  "dish_title": "Agua fresca",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Watermelon is blended with water and strained, then seasoned with lime juice, honey and a pinch of salt and served over ice with mint.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board and large knife",
+    "blender",
+    "fine sieve",
+    "large pitcher"
+  ],
+  "ingredients": [
+    {
+      "group": "Agua fresca",
+      "qty": 1200,
+      "unit": "g",
+      "item": "seedless watermelon flesh, cubed",
+      "note": "from about a 2.5 kg melon"
+    },
+    {
+      "group": "Agua fresca",
+      "qty": 480,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Agua fresca",
+      "qty": 60,
+      "unit": "ml",
+      "item": "fresh lime juice",
+      "note": "from about 3 limes"
+    },
+    {
+      "group": "Agua fresca",
+      "qty": 42,
+      "unit": "g",
+      "item": "honey or agave syrup",
+      "note": "about 2 tbsp; adjust to the melon"
+    },
+    {
+      "group": "Agua fresca",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "To serve",
+      "qty": 600,
+      "unit": "g",
+      "item": "ice"
+    },
+    {
+      "group": "To serve",
+      "qty": 6,
+      "unit": "pc",
+      "item": "mint sprigs and lime wheels, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Blend the watermelon and water for about 30 seconds, until completely smooth."
+    },
+    {
+      "title": "Strain",
+      "text": "Pour through the sieve into the pitcher, stirring gently so the juice runs through. Discard the pulp."
+    },
+    {
+      "title": "Season",
+      "text": "Stir in the lime juice, honey and salt until dissolved. Taste: a sweet melon may need no more honey, a pale one a little more lime and honey. The pinch of salt makes the melon taste sweeter."
+    },
+    {
+      "title": "Chill",
+      "text": "Refrigerate for at least 30 minutes, until cold. It separates on standing, so stir before pouring."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour over ice and finish with a mint sprig and a lime wheel."
+    }
+  ],
+  "tips": [
+    "Choose a heavy melon with a creamy yellow patch where it rested on the ground.",
+    "Don't over-blend seeded melon; crushed seeds make it bitter.",
+    "Strain through a fine sieve for a clear drink or skip straining for a pulpy one.",
+    "Freeze cubes of watermelon to use as ice."
+  ],
+  "storage": "Best within 1 day; keeps covered in the fridge for up to 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 84,
+    "protein_g": 1.3,
+    "carbs_g": 21.7,
+    "sugar_g": 18.3,
+    "free_sugar_g": 5.9,
+    "fat_g": 0.3,
+    "satfat_g": 0.0,
+    "salt_g": 0.07,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "agua-fresca-basic.jpg",
+  "image_alt": "A jar and glass of pink watermelon agua fresca with ice, a watermelon wedge and lime halves.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

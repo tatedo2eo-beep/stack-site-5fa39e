@@ -1,0 +1,110 @@
+{
+  "slug": "smooth-cold-brew-coffee-concentrate",
+  "title": "Smooth Cold Brew Coffee from Concentrate",
+  "category": "drinks",
+  "cuisine": "International",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "cold-brew",
+  "dish_title": "Cold brew",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Coarse coffee steeps in cold water for 12-24 hours, is strained through a paper filter, then diluted 1:1 with cold water over ice.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "large jar or cafetière (at least 1 litre)",
+    "long spoon",
+    "fine sieve",
+    "paper coffee filter",
+    "bottle or jar with a lid, for storing"
+  ],
+  "ingredients": [
+    {
+      "group": "Concentrate",
+      "qty": 100,
+      "unit": "g",
+      "item": "medium-roast coffee, coarsely ground",
+      "note": "as coarse as for a cafetière"
+    },
+    {
+      "group": "Concentrate",
+      "qty": 750,
+      "unit": "ml",
+      "item": "cold filtered water"
+    },
+    {
+      "group": "To serve",
+      "qty": 550,
+      "unit": "ml",
+      "item": "cold water, to dilute"
+    },
+    {
+      "group": "To serve",
+      "qty": 400,
+      "unit": "g",
+      "item": "ice"
+    },
+    {
+      "group": "To serve",
+      "qty": 200,
+      "unit": "ml",
+      "item": "cold milk",
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Combine",
+      "text": "Put the coffee in the jar, pour in the 750 ml water and stir until all the grounds are wet. Wait 10 minutes for a crust to form, then stir again so nothing stays dry."
+    },
+    {
+      "title": "Steep",
+      "text": "Cover and leave at room temperature for 12-24 hours; 12 hours gives a mellow brew, 24 a stronger one."
+    },
+    {
+      "title": "Strain",
+      "text": "Line the sieve with the paper filter and set it over a jug. Pour the coffee through slowly, pressing the plunger first if using a cafetière, and let it drip. Don't squeeze the filter, or the brew turns cloudy and bitter. You should have about 550 ml concentrate."
+    },
+    {
+      "title": "Dilute and serve",
+      "text": "Fill 4 glasses with ice and add equal parts concentrate and cold water, about 135 ml of each per glass. Top with milk if you like."
+    }
+  ],
+  "tips": [
+    "Grind coarsely: fine grounds over-extract and clog the filter.",
+    "Use filtered water if your tap water tastes of chlorine.",
+    "Strain twice through fresh filters for the clearest coffee.",
+    "Freeze some diluted cold brew as ice cubes to keep the glass strong."
+  ],
+  "storage": "Undiluted concentrate keeps in a lidded bottle in the fridge for up to 1 week. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 27,
+    "protein_g": 1.9,
+    "carbs_g": 2.5,
+    "sugar_g": 2.5,
+    "free_sugar_g": 0.0,
+    "fat_g": 1.0,
+    "satfat_g": 0.7,
+    "salt_g": 0.07,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "cold-brew-basic.jpg",
+  "image_alt": "A tall glass of iced cold brew coffee beside a bottle of concentrate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

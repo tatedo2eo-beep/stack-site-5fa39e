@@ -1,0 +1,118 @@
+{
+  "slug": "iced-black-tea-lemon-mint",
+  "title": "Crisp Iced Black Tea with Lemon and Mint",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "iced-tea",
+  "dish_title": "Iced tea",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Black tea steeps 4 minutes in boiling water, ice water is added to halt the brew, then it is strained, chilled and served over ice with lemon and mint.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "kettle",
+    "medium heatproof bowl",
+    "fine sieve",
+    "pitcher"
+  ],
+  "ingredients": [
+    {
+      "group": "Tea",
+      "qty": 8,
+      "unit": "g",
+      "item": "loose black tea, such as Ceylon or Assam",
+      "note": "about 1 1/2 tbsp, or 4 tea bags"
+    },
+    {
+      "group": "Tea",
+      "qty": 720,
+      "unit": "ml",
+      "item": "boiling water"
+    },
+    {
+      "group": "Tea",
+      "qty": 240,
+      "unit": "ml",
+      "item": "ice-cold water"
+    },
+    {
+      "group": "To serve",
+      "qty": 600,
+      "unit": "g",
+      "item": "ice"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "mint sprigs"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brew",
+      "text": "Put the tea in the bowl, pour over the boiling water and steep for 4 minutes."
+    },
+    {
+      "title": "Cool",
+      "text": "Add the ice-cold water and leave for 1 hour. The cold water stops the brew, so the tea stays bright rather than bitter."
+    },
+    {
+      "title": "Strain and chill",
+      "text": "Strain into the pitcher and refrigerate for at least 1 hour, until cold."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour into ice-filled glasses and finish each with a lemon wedge and a mint sprig. Sweeten at the table if you like."
+    },
+    {
+      "title": "Cold-steep option",
+      "text": "Instead of brewing hot, steep 8 g tea in 1 litre cold water in the fridge for 5 hours, then strain. It is softer and never clouds."
+    }
+  ],
+  "tips": [
+    "Cooling too fast in the fridge can make hot-brewed tea cloudy; the ice-water step prevents this.",
+    "Ceylon gives a brisk, bright tea; Assam is maltier.",
+    "Sweeten with simple syrup rather than sugar, which won't dissolve in cold tea.",
+    "Add the lemon at serving; left in the pitcher, the peel turns bitter."
+  ],
+  "storage": "Keeps covered in the fridge for up to 3 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 3,
+    "protein_g": 0.0,
+    "carbs_g": 0.8,
+    "sugar_g": 0.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.02,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "iced-tea-basic.jpg",
+  "image_alt": "A glass of iced black tea with lemon and mint beside a pitcher of iced tea.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

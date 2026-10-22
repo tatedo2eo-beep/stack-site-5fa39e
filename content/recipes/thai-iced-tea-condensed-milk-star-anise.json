@@ -1,0 +1,144 @@
+{
+  "slug": "thai-iced-tea-condensed-milk-star-anise",
+  "title": "Thai Iced Tea with Condensed Milk and Star Anise",
+  "category": "drinks",
+  "cuisine": "Thai",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "thai-tea",
+  "dish_title": "Thai tea",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Assam tea steeps with cinnamon, star anise and turmeric, is sweetened and chilled, then poured over ice and topped with condensed milk, half-and-half and vanilla.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "kettle",
+    "heatproof jug or bowl",
+    "fine sieve lined with a paper coffee filter",
+    "small jug",
+    "4 tall glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Tea",
+      "qty": 15,
+      "unit": "g",
+      "item": "strong loose black tea, such as Assam",
+      "note": "about 5 tsp, or 7 tea bags"
+    },
+    {
+      "group": "Tea",
+      "qty": 1,
+      "unit": "pc",
+      "item": "cinnamon stick (about 5 cm)"
+    },
+    {
+      "group": "Tea",
+      "qty": 2,
+      "unit": "pc",
+      "item": "star anise"
+    },
+    {
+      "group": "Tea",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground turmeric (for the amber colour)"
+    },
+    {
+      "group": "Tea",
+      "qty": 720,
+      "unit": "ml",
+      "item": "boiling water"
+    },
+    {
+      "group": "Tea",
+      "qty": 25,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Creamy topping",
+      "qty": 100,
+      "unit": "g",
+      "item": "sweetened condensed milk",
+      "note": "about 5 tbsp"
+    },
+    {
+      "group": "Creamy topping",
+      "qty": 120,
+      "unit": "ml",
+      "item": "half-and-half (or 60 ml whole milk mixed with 60 ml single cream)"
+    },
+    {
+      "group": "Creamy topping",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "To serve",
+      "qty": 600,
+      "unit": "g",
+      "item": "ice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Steep",
+      "text": "Put the tea, cinnamon, star anise and turmeric in the heatproof jug, pour over the boiling water and steep for 15 minutes. A long steep makes the tea strong enough to stand up to the milk."
+    },
+    {
+      "title": "Strain and chill",
+      "text": "Strain through the lined sieve, stir in the sugar until dissolved and let it cool, then chill for at least 1 hour."
+    },
+    {
+      "title": "Mix the topping",
+      "text": "Whisk the condensed milk, half-and-half and vanilla together in the small jug."
+    },
+    {
+      "title": "Assemble",
+      "text": "Fill the glasses with ice and pour in the tea to about 3 cm from the top. Slowly pour a quarter of the creamy topping over each, so it swirls down through the tea."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve with a straw and stir before drinking."
+    }
+  ],
+  "tips": [
+    "Line the sieve with a coffee filter to catch the fine turmeric.",
+    "Chill the tea fully before pouring over ice, or it melts and dilutes too fast.",
+    "Pour the topping over the back of a spoon for neater layers.",
+    "Reduce the condensed milk to 70 g for a less sweet drink."
+  ],
+  "storage": "The plain tea keeps in the fridge for up to 3 days; add the topping just before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 152,
+    "protein_g": 3.0,
+    "carbs_g": 22.7,
+    "sugar_g": 21.2,
+    "free_sugar_g": 20.0,
+    "fat_g": 5.7,
+    "satfat_g": 3.5,
+    "salt_g": 0.14,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "thai-tea-basic.jpg",
+  "image_alt": "A tall glass of amber Thai iced tea with creamy milk swirling through the ice.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

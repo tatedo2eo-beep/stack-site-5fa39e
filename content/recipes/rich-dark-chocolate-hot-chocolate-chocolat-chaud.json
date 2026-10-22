@@ -1,0 +1,126 @@
+{
+  "slug": "rich-dark-chocolate-hot-chocolate-chocolat-chaud",
+  "title": "Rich Dark Hot Chocolate (Chocolat Chaud)",
+  "category": "drinks",
+  "cuisine": "French",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "hot-chocolate-french-chocolat-chaud-spanish-thick",
+  "dish_title": "Hot chocolate (French chocolat chaud, Spanish thick)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Cocoa is whisked into boiling water, then whole milk; chopped dark chocolate, sugar and a pinch of salt are melted in until glossy and slightly thick, and vanilla goes in at the end.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "balloon whisk",
+    "chopping board and serrated knife",
+    "4 small mugs"
+  ],
+  "ingredients": [
+    {
+      "group": "Hot chocolate",
+      "qty": 80,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Hot chocolate",
+      "qty": 20,
+      "unit": "g",
+      "item": "unsweetened cocoa powder, preferably Dutch-processed",
+      "note": "about 3 tbsp"
+    },
+    {
+      "group": "Hot chocolate",
+      "qty": 720,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Hot chocolate",
+      "qty": 130,
+      "unit": "g",
+      "item": "dark chocolate (60-70% cocoa), finely chopped"
+    },
+    {
+      "group": "Hot chocolate",
+      "qty": 12,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tbsp; up to 3 tbsp to taste"
+    },
+    {
+      "group": "Hot chocolate",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Hot chocolate",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Bloom the cocoa",
+      "text": "Bring the water to the boil in the saucepan, then whisk in the cocoa to a smooth paste; a few lumps are fine. Hot water releases the cocoa's flavour."
+    },
+    {
+      "title": "Add the milk",
+      "text": "Lower the heat to medium and whisk in the milk, sweeping around the sides of the pan to dissolve the cocoa."
+    },
+    {
+      "title": "Melt the chocolate",
+      "text": "When the milk starts to steam and bubble at the edges, whisk in the chocolate, 1 tbsp sugar and the salt. Turn the heat to low and whisk for 2-3 minutes until melted, glossy and slightly thickened; don't let it boil hard."
+    },
+    {
+      "title": "Finish",
+      "text": "Taste and whisk in more sugar if you like, then take the pan off the heat and whisk in the vanilla."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour into the mugs and serve straight away; it thickens further as it cools."
+    }
+  ],
+  "tips": [
+    "Chop the chocolate finely so it melts evenly without scorching.",
+    "Dutch-processed cocoa is darker and smoother; natural cocoa works but is tangier.",
+    "Serve it in small mugs: it is rich enough to be a dessert.",
+    "For a thinner drink, whisk in an extra 100 ml hot milk."
+  ],
+  "storage": "Refrigerate leftovers, covered, for up to 2 days. Reheat gently, whisking. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 334,
+    "protein_g": 9.4,
+    "carbs_g": 30.0,
+    "sugar_g": 20.5,
+    "free_sugar_g": 11.0,
+    "fat_g": 20.6,
+    "satfat_g": 11.8,
+    "salt_g": 0.29,
+    "fibre_g": 5.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "hot-chocolate-french-chocolat-chaud-spanish-thick-basic.jpg",
+  "image_alt": "A mug of thick dark hot chocolate with a spoon and pieces of dark chocolate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

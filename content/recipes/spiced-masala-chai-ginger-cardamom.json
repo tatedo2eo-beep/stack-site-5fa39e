@@ -1,0 +1,142 @@
+{
+  "slug": "spiced-masala-chai-ginger-cardamom",
+  "title": "Spiced Masala Chai with Ginger and Cardamom",
+  "category": "drinks",
+  "cuisine": "Indian",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "masala-chai",
+  "dish_title": "Masala chai",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Cardamom, cinnamon, cloves, peppercorns and star anise are cracked and toasted, simmered with ginger and strong black tea, then boiled with milk and a little sugar and strained.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "heavy frying pan or rolling pin, for crushing",
+    "medium saucepan",
+    "fine sieve",
+    "heatproof jug"
+  ],
+  "ingredients": [
+    {
+      "group": "Spices",
+      "qty": 6,
+      "unit": "pc",
+      "item": "green cardamom pods"
+    },
+    {
+      "group": "Spices",
+      "qty": 1,
+      "unit": "pc",
+      "item": "cinnamon stick (about 5 cm)"
+    },
+    {
+      "group": "Spices",
+      "qty": 4,
+      "unit": "pc",
+      "item": "whole cloves"
+    },
+    {
+      "group": "Spices",
+      "qty": 6,
+      "unit": "pc",
+      "item": "black peppercorns"
+    },
+    {
+      "group": "Spices",
+      "qty": 1,
+      "unit": "pc",
+      "item": "star anise"
+    },
+    {
+      "group": "Chai",
+      "qty": 600,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Chai",
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh ginger, thinly sliced (no need to peel)"
+    },
+    {
+      "group": "Chai",
+      "qty": 12,
+      "unit": "g",
+      "item": "strong loose black tea, such as Assam",
+      "note": "about 4 tsp"
+    },
+    {
+      "group": "Chai",
+      "qty": 400,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Chai",
+      "qty": 17,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 4 tsp; or to taste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crack the spices",
+      "text": "Put the cardamom, cinnamon, cloves, peppercorns and star anise on a board and press down hard with the base of a heavy pan until coarsely cracked. Cracking opens the pods and releases their oils."
+    },
+    {
+      "title": "Toast",
+      "text": "Tip the spices into the saucepan and toast over medium heat, stirring, for 1-2 minutes until fragrant."
+    },
+    {
+      "title": "Simmer with tea",
+      "text": "Add the water and ginger, bring to the boil, then lower the heat and simmer for 5 minutes. Add the tea and simmer for 3 minutes more, until very dark."
+    },
+    {
+      "title": "Boil with milk",
+      "text": "Pour in the milk and sugar, bring back to a lively boil and cook for 2 minutes, watching closely as milk tea boils over in seconds."
+    },
+    {
+      "title": "Strain and serve",
+      "text": "Strain through the sieve into the jug, pressing on the tea leaves, and pour into 4 mugs."
+    }
+  ],
+  "tips": [
+    "Use a strong, malty tea such as Assam; delicate teas get lost under the milk and spices.",
+    "Lift the pan off the heat for a moment if the chai rises; it settles straight away.",
+    "Adjust the sugar at the end; chai is traditionally quite sweet, but this version is lightly sweetened.",
+    "For a stronger spice hit, add an extra slice of ginger rather than more tea, which turns bitter."
+  ],
+  "storage": "Best fresh. Refrigerate leftovers, covered, for up to 2 days and reheat until steaming. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 85,
+    "protein_g": 3.4,
+    "carbs_g": 10.8,
+    "sugar_g": 9.5,
+    "free_sugar_g": 4.2,
+    "fat_g": 3.4,
+    "satfat_g": 1.9,
+    "salt_g": 0.12,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "masala-chai-basic.jpg",
+  "image_alt": "A glass of steaming milky masala chai beside a dark teapot, with cinnamon sticks, cardamom and star anise.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

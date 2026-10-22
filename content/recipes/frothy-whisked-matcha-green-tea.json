@@ -1,0 +1,95 @@
+{
+  "slug": "frothy-whisked-matcha-green-tea",
+  "title": "Frothy Whisked Matcha Green Tea",
+  "category": "drinks",
+  "cuisine": "Japanese",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "matcha-whisked",
+  "dish_title": "Matcha (whisked)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Sifted matcha is whisked to a paste with a little 80 °C water, then whisked briskly with the rest until covered in fine green foam.",
+  "servings": 2,
+  "prep_min": 5,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "kettle and thermometer",
+    "fine tea strainer or small sieve",
+    "2 wide tea bowls (or cereal bowls)",
+    "bamboo matcha whisk (chasen) or small milk frother"
+  ],
+  "ingredients": [
+    {
+      "group": "Matcha",
+      "qty": 4,
+      "unit": "g",
+      "item": "matcha green tea powder",
+      "note": "2 level tsp; 2 g per bowl"
+    },
+    {
+      "group": "Matcha",
+      "qty": 140,
+      "unit": "ml",
+      "item": "water, heated to 80 °C",
+      "note": "70 ml per bowl"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Warm the bowls",
+      "text": "Pour some hot water into each bowl to warm it, then pour it away and dry the whisk. Let the 140 ml water cool to 80 °C; boiling water makes matcha bitter."
+    },
+    {
+      "title": "Sift",
+      "text": "Sift 2 g matcha into each bowl to break up any lumps."
+    },
+    {
+      "title": "Make a paste",
+      "text": "Add 15 ml of the water to each bowl and whisk gently into a smooth paste with no dry spots."
+    },
+    {
+      "title": "Whisk to a froth",
+      "text": "Add the remaining water, about 55 ml per bowl, and whisk briskly in a zigzag 'M' motion from the wrist for 20-30 seconds, until covered in fine, pale green foam. Lift the whisk out from the centre."
+    },
+    {
+      "title": "Serve",
+      "text": "Drink straight away, before the powder settles. For a milder, longer drink, stir in up to 120 ml more 80 °C water after whisking."
+    }
+  ],
+  "tips": [
+    "Soak a bamboo whisk in warm water for a minute first so the tines are supple.",
+    "Ceremonial-grade matcha is sweeter and greener; culinary grade is better for lattes and baking.",
+    "Keep matcha sealed in the fridge; it loses colour and flavour quickly once opened.",
+    "Whisk from the wrist, not the arm, keeping the whisk just off the bottom of the bowl."
+  ],
+  "storage": "Best made and drunk at once; it doesn't keep. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 6,
+    "protein_g": 0.6,
+    "carbs_g": 0.8,
+    "sugar_g": 0.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.0,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "matcha-whisked-basic.jpg",
+  "image_alt": "A dark bowl of frothy bright green matcha with a bamboo whisk and scoop.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

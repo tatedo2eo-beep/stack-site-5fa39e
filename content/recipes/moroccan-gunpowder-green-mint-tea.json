@@ -1,0 +1,105 @@
+{
+  "slug": "moroccan-gunpowder-green-mint-tea",
+  "title": "Moroccan Mint Tea with Gunpowder Green Tea",
+  "category": "drinks",
+  "cuisine": "Moroccan",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "moroccan-mint",
+  "dish_title": "Moroccan mint",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Gunpowder green tea is rinsed with boiling water, then steeped for 5 minutes with fresh mint and sugar and poured from a height so it froths.",
+  "servings": 6,
+  "prep_min": 5,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "kettle",
+    "small heatproof bowl",
+    "fine sieve",
+    "teapot or heatproof jug (at least 1.5 litres)",
+    "small heatproof glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Tea",
+      "qty": 1060,
+      "unit": "ml",
+      "item": "boiling water",
+      "note": "60 ml to rinse the leaves, 1000 ml to brew"
+    },
+    {
+      "group": "Tea",
+      "qty": 8,
+      "unit": "g",
+      "item": "gunpowder green tea leaves",
+      "note": "about 4 tsp"
+    },
+    {
+      "group": "Tea",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh spearmint leaves, plus sprigs to serve",
+      "note": "a large handful"
+    },
+    {
+      "group": "Tea",
+      "qty": 50,
+      "unit": "g",
+      "item": "sugar",
+      "note": "or to taste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Rinse the tea",
+      "text": "Put the tea in the small bowl, pour over 60 ml of the boiling water, swirl for a few seconds and pour the water off through the sieve, keeping the leaves. This takes the edge off any bitterness."
+    },
+    {
+      "title": "Brew",
+      "text": "Put the rinsed tea, mint and sugar in the teapot, pour in the remaining 1 litre boiling water and stir until the sugar dissolves. Cover and steep for 5 minutes, no longer."
+    },
+    {
+      "title": "Pour high",
+      "text": "Strain into the glasses, lifting the pot high as you pour so the tea froths, then lower it before moving to the next glass."
+    },
+    {
+      "title": "Serve",
+      "text": "Add a fresh mint sprig to each glass and serve straight away, holding the glass by its rim as it is very hot."
+    }
+  ],
+  "tips": [
+    "Spearmint is traditional; peppermint is sharper and can taste medicinal.",
+    "Steeping longer than 5 minutes makes green tea bitter.",
+    "Pouring from height cools the tea slightly and gives the prized foam.",
+    "Moroccans often serve it sweeter; add sugar to taste."
+  ],
+  "storage": "Best drunk fresh. Leftover tea can be chilled for up to 1 day and served over ice. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 36,
+    "protein_g": 0.5,
+    "carbs_g": 8.8,
+    "sugar_g": 8.3,
+    "free_sugar_g": 8.3,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "moroccan-mint-basic.jpg",
+  "image_alt": "Two glasses of Moroccan mint tea with fresh mint sprigs beside a silver teapot.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

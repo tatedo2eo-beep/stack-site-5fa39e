@@ -1,0 +1,136 @@
+{
+  "slug": "agua-de-jamaica-hibiscus-allspice-orange",
+  "title": "Agua de Jamaica (Hibiscus Cooler) with Allspice and Orange",
+  "category": "drinks",
+  "cuisine": "Mexican",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "agua-de-jamaica",
+  "dish_title": "Agua de jamaica",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Rinsed dried hibiscus steeps in the fridge with allspice and orange zest, is strained and diluted, then sweetened and served over ice with lime.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "sieve",
+    "large bowl or jug (at least 2 litres)",
+    "fine sieve",
+    "small jug",
+    "large pitcher"
+  ],
+  "ingredients": [
+    {
+      "group": "Infusion",
+      "qty": 60,
+      "unit": "g",
+      "item": "dried hibiscus flowers (flor de jamaica)"
+    },
+    {
+      "group": "Infusion",
+      "qty": 10,
+      "unit": "pc",
+      "item": "allspice berries, lightly cracked"
+    },
+    {
+      "group": "Infusion",
+      "qty": 2,
+      "unit": "pc",
+      "item": "strips orange zest (about 7 cm)"
+    },
+    {
+      "group": "Infusion",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "To finish",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "cold water, to dilute"
+    },
+    {
+      "group": "To finish",
+      "qty": 100,
+      "unit": "g",
+      "item": "sugar",
+      "note": "or to taste"
+    },
+    {
+      "group": "To finish",
+      "qty": 120,
+      "unit": "ml",
+      "item": "hot water, for dissolving the sugar"
+    },
+    {
+      "group": "To serve",
+      "qty": 600,
+      "unit": "g",
+      "item": "ice, to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lime, cut into wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Rinse",
+      "text": "Put the hibiscus in the sieve and rinse well under cold water to remove any dust, then drain."
+    },
+    {
+      "title": "Steep cold",
+      "text": "Tip the flowers into the bowl with the allspice, orange zest and 1 litre cold water. Cover and leave in the fridge for 4-12 hours; the longer it steeps, the deeper and tarter it gets."
+    },
+    {
+      "title": "Strain and dilute",
+      "text": "Pour through the fine sieve into the pitcher, pressing firmly on the flowers, then discard them. Add the remaining 1 litre cold water."
+    },
+    {
+      "title": "Sweeten",
+      "text": "Stir the sugar into the hot water until fully dissolved, then add it to the pitcher. Taste and add a little more if you like it sweeter."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour over ice in tall glasses and add a lime wedge."
+    }
+  ],
+  "tips": [
+    "Hibiscus stains, so use glass or stainless steel rather than plastic.",
+    "Sweeten after diluting so you can judge the balance of tart and sweet.",
+    "A short 4-hour steep gives a lighter, fruitier drink; overnight is bolder.",
+    "Freeze some in an ice-cube tray so the drink doesn't water down."
+  ],
+  "storage": "Keeps covered in the fridge for up to 5 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 49,
+    "protein_g": 0.0,
+    "carbs_g": 12.6,
+    "sugar_g": 12.5,
+    "free_sugar_g": 12.5,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.03,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "agua-de-jamaica-basic.jpg",
+  "image_alt": "A glass and pitcher of deep red hibiscus agua de jamaica with lime and a bowl of dried flowers.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}
