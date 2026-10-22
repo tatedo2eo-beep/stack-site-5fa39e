@@ -1,0 +1,134 @@
+{
+  "slug": "pan-seared-strip-steak",
+  "title": "Pan-Seared Sirloin Steak with Garlic-Thyme Butter",
+  "category": "beef-lamb",
+  "cuisine": "International",
+  "chapter": "meat",
+  "book_chapter": "meat",
+  "dish": "pan-seared-steak",
+  "dish_title": "Pan-seared steak",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A thick-cut sirloin steak is dry-brined for a deep crust, pan-seared hard and basted in garlic-thyme butter for a juicy, evenly cooked centre.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "heavy 30 cm cast-iron or carbon-steel frying pan",
+    "tongs",
+    "large metal spoon",
+    "instant-read probe thermometer",
+    "wire rack set over a plate",
+    "carving board and sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Steak",
+      "qty": 2,
+      "unit": "pc",
+      "item": "sirloin (strip loin) steaks, about 400 g each and 3.5 cm thick",
+      "note": "trimmed of excess outer fat"
+    },
+    {
+      "group": "Steak",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Steak",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Steak",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil with a high smoke point"
+    },
+    {
+      "group": "Basting",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Basting",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, lightly crushed, skin on"
+    },
+    {
+      "group": "Basting",
+      "qty": 4,
+      "unit": "pc",
+      "item": "fresh thyme sprigs"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "flaky sea salt, to finish",
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dry-brine the steaks",
+      "text": "Pat the steaks completely dry with paper towel, then season all over with the fine salt. Set them on the wire rack over a plate and refrigerate uncovered for at least 45 minutes, or up to 24 hours. The salt first pulls moisture to the surface, then dissolves into it and is drawn back in, seasoning the meat deeply while leaving a dry surface that sears fast and hard."
+    },
+    {
+      "title": "Bring to temperature",
+      "text": "Take the steaks out of the fridge about 20 minutes before cooking so they lose their chill. Pat them dry once more and season all over with the black pepper. A steak that isn't ice-cold at the centre cooks through more evenly once it hits the hot pan."
+    },
+    {
+      "title": "Sear hard and fast",
+      "text": "Heat the cast-iron pan over high heat for 4-5 minutes, until a flicked drop of water skitters and vanishes instantly. Add the oil, swirl to coat, and wait until it shimmers and just starts to smoke. Lay the steaks in away from you with 2cm between them, turning every minute for 2 minutes total, then stand each one on its fat edge for 1 minute to render it; frequent turning builds an even, deep crust rather than one scorched side."
+    },
+    {
+      "title": "Baste with garlic butter",
+      "text": "Turn the heat down to medium and add the butter, crushed garlic and thyme sprigs. Once the butter foams and smells nutty, tilt the pan and spoon it continuously over the steaks, turning once, for 3-5 minutes more. Check with a probe thermometer in the thickest part; pull the steaks once it reads 63°C, which gives a juicy medium centre."
+    },
+    {
+      "title": "Rest and slice",
+      "text": "Move the steaks to the wire rack and leave them to rest for 5 minutes; carryover heat keeps the centre at or above 63°C while the juices settle back into the fibres. Slice 1cm thick against the grain, then spoon over the garlic-thyme butter from the pan. Scatter over the softened garlic and thyme and finish with a pinch of flaky sea salt if using."
+    }
+  ],
+  "tips": [
+    "Don't skip drying the steak before it hits the pan — any surface moisture has to boil off before browning can start, which steals time and stops a crust forming.",
+    "Resist crowding the steaks together in the pan; keep the 2cm gap so steam escapes instead of softening the crust.",
+    "A probe thermometer removes the guesswork — cooking by time alone on a 3.5cm steak often leaves the centre under- or over-done.",
+    "If the butter starts to blacken, lower the heat slightly; it should foam and smell nutty, not burn."
+  ],
+  "storage": "Leftover steak keeps in a sealed container in the fridge for up to 3 days. Reheat gently in a covered pan or the oven until piping hot throughout (74°C), or slice cold into a salad rather than microwaving, which can dry it out. Not suitable for freezing once cooked, as the texture suffers on thawing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 547,
+    "protein_g": 41.6,
+    "carbs_g": 1.7,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 40.5,
+    "satfat_g": 16.6,
+    "salt_g": 1.96,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pan-seared-steak-basic.jpg",
+  "image_alt": "Sliced seared sirloin steak with a dark crust, garnished with garlic cloves and thyme sprigs on a black plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

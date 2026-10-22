@@ -1,0 +1,156 @@
+{
+  "slug": "apple-grape-walnut-waldorf-salad",
+  "title": "Apple, Grape and Walnut Waldorf Salad",
+  "category": "salads-bowls",
+  "cuisine": "American",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "waldorf",
+  "dish_title": "Waldorf",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A creamy apple, grape and walnut salad lightened with yoghurt, bringing together crisp fruit, celery and toasted nuts in the classic combination.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "dry frying pan",
+    "large bowl",
+    "small bowl",
+    "whisk",
+    "chopping board and knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Salad",
+      "qty": 60,
+      "unit": "g",
+      "item": "walnut halves"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "g",
+      "item": "mayonnaise (halal-certified)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 45,
+      "unit": "g",
+      "item": "plain whole-milk Greek-style yoghurt"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 7,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Salad",
+      "qty": 2,
+      "unit": "pc",
+      "item": "crisp apples (1 tart green, 1 sweet red, about 350 g), cored and cut into 1.5 cm dice"
+    },
+    {
+      "group": "Salad",
+      "qty": 150,
+      "unit": "g",
+      "item": "seedless red grapes, halved"
+    },
+    {
+      "group": "Salad",
+      "qty": 2,
+      "unit": "pc",
+      "item": "celery sticks, thinly sliced, plus a few leaves"
+    },
+    {
+      "group": "Salad",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "crisp lettuce leaves, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the walnuts",
+      "text": "Toast the walnut halves in the dry frying pan over medium heat for 4-5 minutes, shaking the pan often, until fragrant and a shade darker. Toasting deepens their flavour and softens any bitterness in the skins. Tip onto a plate to cool, then roughly chop."
+    },
+    {
+      "title": "Whisk the dressing",
+      "text": "In the large bowl, whisk together the mayonnaise, yoghurt, lemon juice, honey, salt and pepper until smooth. The yoghurt lightens the mayonnaise and adds a gentle tang, so the dressing coats the fruit without feeling heavy."
+    },
+    {
+      "title": "Toss the salad",
+      "text": "Dice the apples last so they don't have time to brown, then add them straight into the dressing along with the grapes, celery and parsley. The lemon in the dressing coats the cut apple and slows the browning, keeping the salad looking fresh. Stir in most of the chopped walnuts, saving a few for garnish."
+    },
+    {
+      "title": "Chill and serve",
+      "text": "Chill the salad for 15-30 minutes if you have time, which lets the flavours mingle. Spoon it onto the lettuce leaves to serve, and finish with the reserved walnuts and a few celery leaves scattered over the top."
+    }
+  ],
+  "tips": [
+    "Dice the apple last and toss it into the dressing straight away — leaving cut apple exposed to the air is the common mistake that causes it to brown.",
+    "Toast the walnuts just until fragrant; leave the pan too long and they turn bitter rather than nutty.",
+    "Use one tart and one sweet apple for a better balance of flavour than either variety alone.",
+    "Chill briefly before serving so the flavours have time to come together."
+  ],
+  "storage": "Keep refrigerated in a covered container and eat within 1 day, as the apple and celery soften over time. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "mustard",
+    "nuts",
+    "celery"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 291,
+    "protein_g": 3.8,
+    "carbs_g": 24.6,
+    "sugar_g": 17.9,
+    "free_sugar_g": 1.6,
+    "fat_g": 21.7,
+    "satfat_g": 3.0,
+    "salt_g": 0.68,
+    "fibre_g": 4.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "waldorf-basic.jpg",
+  "image_alt": "Diced red apple, celery, grapes and walnuts in a light creamy dressing on lettuce leaves.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

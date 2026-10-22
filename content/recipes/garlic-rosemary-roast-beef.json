@@ -1,0 +1,151 @@
+{
+  "slug": "garlic-rosemary-roast-beef",
+  "title": "Garlic and Rosemary Crusted Roast Beef",
+  "category": "beef-lamb",
+  "cuisine": "British",
+  "chapter": "meat",
+  "book_chapter": "meat",
+  "dish": "roast-beef",
+  "dish_title": "Roast beef",
+  "flavour": "Garlic-rosemary",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "slow-roast-beef-yorkshire-puddings",
+  "changes_from_base": "Coated after searing with a rosemary, garlic, lemon zest and chilli paste, roasted over whole garlic cloves and finished with a short blast at 250 °C to crisp the herb crust; served without Yorkshire puddings or gravy.",
+  "summary": "This follows the same slow-roast method as our classic roast beef, but the joint is coated in a rosemary, garlic, lemon and chilli paste, roasted over whole garlic cloves, then blasted at high heat to crisp the herb crust — served simply, without puddings or gravy.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 135,
+  "difficulty": "medium",
+  "equipment": [
+    "roasting tin with a wire rack",
+    "large frying pan",
+    "tongs",
+    "instant-read probe thermometer",
+    "pestle and mortar or small food processor",
+    "carving board and sharp knife",
+    "aluminium foil"
+  ],
+  "ingredients": [
+    {
+      "group": "Beef",
+      "qty": 1500,
+      "unit": "g",
+      "item": "beef topside or eye-of-round roasting joint, tied"
+    },
+    {
+      "group": "Beef",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Garlic-rosemary paste",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "fresh rosemary needles, finely chopped"
+    },
+    {
+      "group": "Garlic-rosemary paste",
+      "qty": 5,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Garlic-rosemary paste",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Garlic-rosemary paste",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon zest, finely grated"
+    },
+    {
+      "group": "Garlic-rosemary paste",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "To roast alongside",
+      "qty": 1,
+      "unit": "pc",
+      "item": "whole garlic bulb, cloves separated, skin on"
+    },
+    {
+      "group": "To roast alongside",
+      "qty": 4,
+      "unit": "pc",
+      "item": "rosemary sprigs"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dry-brine the joint",
+      "text": "The day before, or at least 4 hours ahead, pat the beef dry and rub it all over with the fine salt. Set it on a rack over a tray and refrigerate uncovered, which lets the salt season the meat deeply and dries the surface ready for browning."
+    },
+    {
+      "title": "Make the herb paste",
+      "text": "Crush or blitz the rosemary, grated garlic, olive oil, lemon zest, chilli flakes and black pepper to a coarse green paste. Crushing the rosemary and garlic this way releases their aromatic oils, so the paste tastes punchy rather than just chopped."
+    },
+    {
+      "title": "Sear, then coat",
+      "text": "Heat the oven to 120°C (100°C fan). Pat the beef dry, rub with half the neutral oil, then brown it in the remaining hot oil in a frying pan over high heat for 2-3 minutes a side, until coloured all over. Let it cool for 10 minutes, then spread the paste thickly over the top and sides; searing first means the garlic in the paste roasts gently rather than catching and burning."
+    },
+    {
+      "title": "Roast low and rest",
+      "text": "Set the joint on a rack in the roasting tin with the whole garlic cloves and rosemary sprigs scattered underneath, and roast for 1 hour 30 minutes to 2 hours, until a probe thermometer in the centre reads 60°C. Tent loosely with foil and rest for 20 minutes, during which the temperature continues to climb."
+    },
+    {
+      "title": "Crisp the crust and serve",
+      "text": "Heat the oven to 250°C (230°C fan), then uncover the beef and return it for 6-8 minutes, until the herb crust is crisp and fragrant and the centre reads at least 63°C on the probe thermometer. Rest for a further 3 minutes, then carve thinly across the grain and serve with the soft roasted garlic squeezed from its skins."
+    }
+  ],
+  "tips": [
+    "Let the beef cool briefly before adding the paste — spreading it onto a scorching-hot joint straight from searing can singe the garlic before it even reaches the oven.",
+    "Don't skip the final high-heat blast; it's what turns the soft herb coating into a crisp, fragrant crust.",
+    "Check the centre temperature with a probe rather than guessing by time, since joints vary in shape and thickness.",
+    "Squeeze the roasted garlic cloves straight from their skins over the sliced beef — they turn soft and sweet during roasting."
+  ],
+  "storage": "Carved beef keeps in a sealed container in the fridge for up to 3 days. Reheat slices gently, covered, in a low oven or in a pan with a splash of stock until piping hot throughout (74°C); this joint doesn't freeze well once roasted, as the crust loses its crispness. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 511,
+    "protein_g": 54.4,
+    "carbs_g": 3.7,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 29.7,
+    "satfat_g": 9.3,
+    "salt_g": 1.82,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "roast-beef-basic--garlic-rosemary.jpg",
+  "image_alt": "Sliced roast beef with a green herb crust, surrounded by roasted garlic cloves and rosemary sprigs.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "slug": "slow-roast-beef-yorkshire-puddings",
+  "title": "Slow-Roast Beef with Yorkshire Puddings and Gravy",
+  "category": "beef-lamb",
+  "cuisine": "British",
+  "chapter": "meat",
+  "book_chapter": "meat",
+  "dish": "roast-beef",
+  "dish_title": "Roast beef",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A whole beef joint is seasoned well ahead and roasted low and slow for an evenly cooked, juicy result, served with tall, crisp Yorkshire puddings and a deeply savoury gravy.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 140,
+  "difficulty": "medium",
+  "equipment": [
+    "roasting tin with a wire rack",
+    "large frying pan",
+    "tongs",
+    "instant-read probe thermometer",
+    "12-hole muffin tin",
+    "mixing bowl and whisk",
+    "jug",
+    "small saucepan",
+    "carving board and sharp knife",
+    "aluminium foil"
+  ],
+  "ingredients": [
+    {
+      "group": "Beef",
+      "qty": 1500,
+      "unit": "g",
+      "item": "beef topside or eye-of-round roasting joint, tied"
+    },
+    {
+      "group": "Beef",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Yorkshire puddings",
+      "qty": 140,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Yorkshire puddings",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Yorkshire puddings",
+      "qty": 200,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Yorkshire puddings",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Yorkshire puddings",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "neutral oil or beef dripping, for the tin"
+    },
+    {
+      "group": "Gravy",
+      "qty": 25,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Gravy",
+      "qty": 20,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Gravy",
+      "qty": 500,
+      "unit": "ml",
+      "item": "beef stock, low-salt or homemade"
+    },
+    {
+      "group": "Gravy",
+      "qty": 2,
+      "unit": "pc",
+      "item": "fresh thyme sprigs"
+    },
+    {
+      "group": "Gravy",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "tomato purée"
+    },
+    {
+      "group": "Gravy",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dry-brine the joint",
+      "text": "The day before, or at least 4 hours ahead, pat the beef joint dry and rub it all over with the fine salt. Set it on a wire rack over a tray and refrigerate uncovered. The salt seasons the meat right through over time while drying the surface, which helps it brown properly later."
+    },
+    {
+      "title": "Sear the outside",
+      "text": "Heat the oven to 120°C (100°C fan). Pat the beef dry again, rub with half the oil and the black pepper, then heat the remaining oil in a frying pan over high heat until smoking. Brown the joint on every side for 2-3 minutes a side, holding it with tongs to colour the ends — this builds flavour on the crust before the gentle roasting begins."
+    },
+    {
+      "title": "Roast low and slow",
+      "text": "Set the joint on a rack in a roasting tin and roast for 1 hour 30 minutes to 2 hours, until a probe thermometer in the centre reads 63°C. A low oven cooks the beef gently from the outside in, so the meat stays an even colour throughout with only a thin grey band at the surface."
+    },
+    {
+      "title": "Rest the beef",
+      "text": "Lift the joint onto a board, cover loosely with foil and leave to rest for at least 20 minutes. It will hold at or above 63°C during this time while the juices redistribute through the meat, so carving doesn't flood the board."
+    },
+    {
+      "title": "Make the batter",
+      "text": "While the beef roasts, whisk the flour, eggs, milk and salt together until smooth and the consistency of single cream. Leave it to rest at room temperature for at least 30 minutes so the starch in the flour hydrates fully, which helps the puddings rise taller."
+    },
+    {
+      "title": "Bake the puddings",
+      "text": "Once the beef is out, turn the oven up to 230°C (210°C fan). Put a teaspoon of oil in each hole of the muffin tin and heat in the oven for 10 minutes until smoking hot. Pour in the batter quickly, filling each hole about halfway, then bake for 18-22 minutes without opening the door, until puffed, deep golden and crisp — the scorching fat and trapped steam are what make them billow up, and letting cool air in collapses them."
+    },
+    {
+      "title": "Finish the gravy and serve",
+      "text": "Pour off all but a tablespoon of fat from the roasting tin and set it over medium heat; stir in the butter and flour and cook for 2 minutes until biscuit-coloured. Stir in the tomato purée, then gradually whisk in the stock, scraping up the browned bits from the tin, add the thyme and any resting juices, and simmer for 5-8 minutes until it coats the back of a spoon. Season with pepper, strain into a jug, then carve the beef as thinly as possible across the grain and serve straight away with the puddings and gravy."
+    }
+  ],
+  "tips": [
+    "Resting the beef isn't optional — skip it and the juices run straight out onto the board when you carve, leaving the meat drier on the plate.",
+    "Keep the oven door shut while the Yorkshire puddings bake; even a quick peek lets out the steam that holds them up.",
+    "The fat in the muffin tin must be properly smoking before the batter goes in, or the puddings will sit flat instead of rising.",
+    "Carve against the grain and as thinly as you can manage — it makes every slice more tender to eat."
+  ],
+  "storage": "Carved beef keeps in a sealed container in the fridge for up to 3 days, and gravy separately for up to 3 days or frozen for 3 months. Reheat slices gently in gravy on the stove, or in a covered dish in the oven, until piping hot throughout (74°C); Yorkshire puddings are best eaten fresh but can be recrisped in a hot oven for a few minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 688,
+    "protein_g": 63.5,
+    "carbs_g": 23.9,
+    "sugar_g": 2.5,
+    "free_sugar_g": 0.0,
+    "fat_g": 35.9,
+    "satfat_g": 12.6,
+    "salt_g": 2.63,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "roast-beef-basic.jpg",
+  "image_alt": "Thin slices of roast beef with a puffed Yorkshire pudding and a jug of gravy.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

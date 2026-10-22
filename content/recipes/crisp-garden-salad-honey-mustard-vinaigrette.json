@@ -1,0 +1,147 @@
+{
+  "slug": "crisp-garden-salad-honey-mustard-vinaigrette",
+  "title": "Crisp Garden Salad with Honey-Mustard Vinaigrette",
+  "category": "salads-bowls",
+  "cuisine": "International",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "green-garden",
+  "dish_title": "Green/garden",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A crunchy, colourful garden salad finished with a honey-mustard vinaigrette that balances sharp cider vinegar against a touch of honey.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "salad spinner or clean tea towels",
+    "small bowl or jam jar with a lid",
+    "whisk",
+    "large wide salad bowl",
+    "chopping board and knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Salad",
+      "qty": 250,
+      "unit": "g",
+      "item": "green leaf or butterhead lettuce (1 head)"
+    },
+    {
+      "group": "Salad",
+      "qty": 200,
+      "unit": "g",
+      "item": "cherry tomatoes, halved"
+    },
+    {
+      "group": "Salad",
+      "qty": 150,
+      "unit": "g",
+      "item": "cucumber, halved lengthwise and sliced"
+    },
+    {
+      "group": "Salad",
+      "qty": 4,
+      "unit": "pc",
+      "item": "radishes, thinly sliced"
+    },
+    {
+      "group": "Salad",
+      "qty": 40,
+      "unit": "g",
+      "item": "red onion, very thinly sliced"
+    },
+    {
+      "group": "Vinaigrette",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Vinaigrette",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "mustard powder"
+    },
+    {
+      "group": "Vinaigrette",
+      "qty": 7,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Vinaigrette",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Vinaigrette",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Vinaigrette",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Wash and dry leaves",
+      "text": "Wash the lettuce thoroughly in plenty of cold water, then dry it very well in a salad spinner, working in batches, or roll it in a clean tea towel. Tear into bite-size pieces by hand and keep chilled until you're ready to serve. Any water left clinging to the leaves dilutes the vinaigrette and stops it clinging properly."
+    },
+    {
+      "title": "Whisk the vinaigrette",
+      "text": "In a small bowl or jam jar, whisk together the cider vinegar, mustard powder, honey, salt, pepper and 1 tsp water. Whisking steadily (or shaking hard in the jar for about 20 seconds), add the olive oil in a thin stream until the mixture thickens slightly. The mustard powder acts as an emulsifier, helping the oil and vinegar bind instead of separating."
+    },
+    {
+      "title": "Dress the vegetables",
+      "text": "In the large salad bowl, toss the halved cherry tomatoes, sliced cucumber, radishes and red onion with 2 tablespoons of the vinaigrette. Dressing these firmer vegetables first lets them pick up flavour evenly without crushing the delicate lettuce underneath."
+    },
+    {
+      "title": "Add leaves and toss",
+      "text": "Just before serving, add the chilled lettuce to the bowl and drizzle over the rest of the vinaigrette a little at a time. Toss gently by hand until the leaves are lightly glossed, not drenched — adding the dressing gradually stops them wilting under too much liquid. Serve at once."
+    }
+  ],
+  "tips": [
+    "Dry the lettuce thoroughly; wet leaves stop the dressing from clinging and leave it pooling at the bottom of the bowl.",
+    "Dress the lettuce only at the last minute so it stays crisp rather than wilting.",
+    "Whisk the oil in slowly for a vinaigrette that stays combined rather than splitting.",
+    "Shake the vinaigrette again before using if it has been sitting, as it can separate slightly."
+  ],
+  "storage": "Keep the undressed lettuce and vegetables separately, covered, in the fridge for up to 2 days. Once dressed the salad wilts quickly, so toss only what you'll eat and finish it the same day; the vinaigrette alone keeps in a sealed jar in the fridge for about a week. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 159,
+    "protein_g": 1.9,
+    "carbs_g": 8.3,
+    "sugar_g": 4.6,
+    "free_sugar_g": 1.4,
+    "fat_g": 13.9,
+    "satfat_g": 1.9,
+    "salt_g": 0.43,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "green-garden-basic.jpg",
+  "image_alt": "A bowl of torn green lettuce with halved cherry tomatoes, cucumber, radish slices and thin red onion.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

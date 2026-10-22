@@ -1,0 +1,150 @@
+{
+  "slug": "creamy-two-cabbage-coleslaw",
+  "title": "Creamy Two-Cabbage Coleslaw",
+  "category": "salads-bowls",
+  "cuisine": "American",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "coleslaw",
+  "dish_title": "Coleslaw",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A classic creamy coleslaw built on salted, well-drained cabbage so it keeps its crunch under a tangy mayonnaise and soured cream dressing.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board and large sharp knife",
+    "box grater",
+    "large colander set over a bowl",
+    "clean tea towel",
+    "very large bowl",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Slaw",
+      "qty": 700,
+      "unit": "g",
+      "item": "green cabbage (about ¾ medium head), quartered, cored and finely shredded"
+    },
+    {
+      "group": "Slaw",
+      "qty": 300,
+      "unit": "g",
+      "item": "red cabbage, cored and finely shredded"
+    },
+    {
+      "group": "Slaw",
+      "qty": 2,
+      "unit": "pc",
+      "item": "carrots, peeled and coarsely grated"
+    },
+    {
+      "group": "Slaw",
+      "qty": 50,
+      "unit": "g",
+      "item": "onion (about ½ small), coarsely grated"
+    },
+    {
+      "group": "Slaw",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for wilting (most is rinsed off)",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 120,
+      "unit": "g",
+      "item": "mayonnaise (halal-certified)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 8,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "celery seeds"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Salt and wilt vegetables",
+      "text": "Finely shred the green and red cabbage and coarsely grate the carrot and onion, then tip everything into a colander set over a bowl. Scatter over the 1.5 tsp salt, toss well and leave for at least 1 hour, up to 4. The salt draws water out of the cabbage by osmosis, so the slaw keeps its crunch rather than turning watery once dressed."
+    },
+    {
+      "title": "Rinse and dry",
+      "text": "Rinse the wilted vegetables under cold running water to wash off the excess salt, then press gently — don't wring, or you'll lose the texture — and blot dry with a clean tea towel. This removes most of the salt while leaving the cabbage pleasantly crisp."
+    },
+    {
+      "title": "Whisk the dressing",
+      "text": "In the very large bowl, whisk together the mayonnaise, soured cream, cider vinegar, sugar, celery seeds and pepper until smooth. The soured cream loosens the mayonnaise slightly and adds a gentle tang that balances the sweetness of the cabbage."
+    },
+    {
+      "title": "Toss and chill",
+      "text": "Add the drained vegetables to the dressing and toss until every strand is coated. Refrigerate for at least 30 minutes so it firms up slightly and the flavours have time to settle together rather than tasting sharp and separate. Taste and adjust the pepper before serving."
+    }
+  ],
+  "tips": [
+    "Don't skip the salting step — unsalted cabbage releases water into the dressing later and leaves the slaw watery.",
+    "Press rather than wring the rinsed cabbage, or you'll squeeze out the texture you want to keep.",
+    "Make it at least 30 minutes ahead; the flavours improve as it chills.",
+    "Keep it covered and refrigerated, and don't leave it out of the fridge for more than 2 hours."
+  ],
+  "storage": "Keep refrigerated in a covered container for up to 2 days. Don't leave the coleslaw out of the fridge for more than 2 hours, and give it a stir before serving as a little liquid may settle at the bottom. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "mustard",
+    "celery",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 165,
+    "protein_g": 2.3,
+    "carbs_g": 11.8,
+    "sugar_g": 6.7,
+    "free_sugar_g": 1.1,
+    "fat_g": 12.9,
+    "satfat_g": 2.6,
+    "salt_g": 0.71,
+    "fibre_g": 3.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "coleslaw-basic.jpg",
+  "image_alt": "Finely shredded green and red cabbage with carrot strips in a black bowl.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}
