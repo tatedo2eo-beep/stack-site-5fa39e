@@ -1,0 +1,167 @@
+{
+  "slug": "chocolate-cheesecake-biscuit-base",
+  "title": "Chocolate Cheesecake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cakes-cupcakes",
+  "book_chapter": "cakes-cupcakes",
+  "dish": "new-york-baked-dense",
+  "dish_title": "New York (baked, dense)",
+  "flavour": "Chocolate",
+  "flavour_order": 100,
+  "access": "premium",
+  "base_recipe": "new-york-cheesecake",
+  "changes_from_base": "Dark chocolate melted with the soured cream and cocoa in the filling, cocoa biscuit base, lemon and flour left out, oven 150°C.",
+  "extra_flavour": true,
+  "summary": "This follows the classic New York cheesecake method with a water bath and slow cooling, but dark chocolate melted with soured cream and a little cocoa enrich the filling, the base gets cocoa too, and the oven runs slightly lower. Rich, smooth and deeply chocolatey.",
+  "servings": 12,
+  "prep_min": 35,
+  "cook_min": 85,
+  "difficulty": "medium",
+  "equipment": [
+    "23 cm springform tin (at least 7 cm deep)",
+    "roasting tin large enough to hold the springform",
+    "heavy-duty foil",
+    "heatproof bowl and small saucepan",
+    "stand mixer or electric hand whisk",
+    "kettle",
+    "instant-read thermometer",
+    "thin knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 200,
+      "unit": "g",
+      "item": "digestive biscuits or graham crackers, finely crushed"
+    },
+    {
+      "group": "Base",
+      "qty": 10,
+      "unit": "g",
+      "item": "cocoa powder"
+    },
+    {
+      "group": "Base",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Filling",
+      "qty": 225,
+      "unit": "g",
+      "item": "dark chocolate (50-60% cocoa solids), chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 240,
+      "unit": "g",
+      "item": "soured cream, at room temperature"
+    },
+    {
+      "group": "Filling",
+      "qty": 680,
+      "unit": "g",
+      "item": "full-fat cream cheese (block), at room temperature"
+    },
+    {
+      "group": "Filling",
+      "qty": 175,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 15,
+      "unit": "g",
+      "item": "cocoa powder"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat oven for base",
+      "text": "Set a shelf just below the middle of the oven and switch it on to 160°C (140°C fan) a good 20 minutes or more before the base goes in. Mix the biscuit crumbs, cocoa, sugar and melted butter until the mixture holds when squeezed, press firmly into the springform tin and bake for 10 minutes, then cool."
+    },
+    {
+      "title": "Lower and wrap",
+      "text": "Turn the oven down to 150°C (130°C fan). Wrap the outside of the tin in 2 layers of heavy-duty foil. The lower temperature suits this filling, because chocolate helps it set sooner than a plain cheesecake."
+    },
+    {
+      "title": "Melt the chocolate",
+      "text": "Melt the chocolate with the soured cream in the heatproof bowl over barely simmering water, stirring, until smooth. Cool for 10 minutes until just warm. Too hot and it would scramble the eggs; too cold and it would set in streaks through the filling."
+    },
+    {
+      "title": "Beat the filling",
+      "text": "Whisk the sugar, cocoa and salt together. Beat the cream cheese with the cocoa sugar on low for 2-3 minutes until completely smooth, scraping the bowl twice. Add the eggs one at a time on low, then the vanilla, then pour in the chocolate mixture with the mixer still on low and finish by hand until no streaks remain."
+    },
+    {
+      "title": "Bake in water bath",
+      "text": "Pour the filling over the base and tap out any bubbles. Set the tin in the roasting tin and add just-boiled water to come 2.5 cm up the sides. Bake for 70-85 minutes until the top looks dry, the centre wobbles slightly and reads 65 °C; the surrounding water stops the edges overcooking before the middle sets."
+    },
+    {
+      "title": "Cool and chill",
+      "text": "Switch off the oven, prop the door open and leave for 1 hour. Loosen the sides with a thin knife, let the cheesecake come down to room temperature, and refrigerate it uncovered for 8 hours or longer before opening the clip. Slow cooling and long chilling give the dense, sliceable texture and help prevent cracks."
+    }
+  ],
+  "tips": [
+    "A common mistake is adding the chocolate while it is still hot; let it cool for the full 10 minutes so it blends in smoothly.",
+    "Keep the mixer on low throughout to avoid whipping in air, which makes the top rise and crack.",
+    "Choose a dark chocolate with 50-60% cocoa solids for a rich but not bitter filling.",
+    "Make sure the foil wrap has no tears so no water reaches the base."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days. Freeze well-wrapped slices for up to 1 month and thaw overnight in the fridge.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 562,
+    "protein_g": 8.6,
+    "carbs_g": 43.7,
+    "sugar_g": 28.3,
+    "free_sugar_g": 25.4,
+    "fat_g": 40.4,
+    "satfat_g": 22.5,
+    "salt_g": 0.85,
+    "fibre_g": 3.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "new-york-baked-dense-cheesecakes.jpg",
+  "image_alt": "A dense dark chocolate cheesecake on a cocoa biscuit base, cut into neat slices.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

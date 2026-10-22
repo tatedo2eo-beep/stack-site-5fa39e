@@ -1,0 +1,219 @@
+# Research: Red Velvet Cupcakes with Cream Cheese Frosting
+Dish: Cupcakes / flavour: Red velvet. Private file, not published.
+
+## Sources actually opened
+- [Red Velvet Cupcakes (NYT Cooking)](https://cooking.nytimes.com/recipes/1021896-red-velvet-cupcakes) [Tier 2 (locked list): NYT Cooking]: Cake flour, sugar, bicarbonate, salt and a little cocoa sifted; oil, buttermilk, eggs, red colouring, distilled vinegar and vanilla whisked; combined just until smooth; baked about 18 minutes at about 175 °C; cream cheese frosting. _(curl 200; JSON-LD recipe (ingredients and steps) read)_
+- [Red Velvet Cupcakes, Reduced Sugar (America's Test Kitchen)](https://www.americastestkitchen.com/recipes/12716-red-velvet-cupcakes-reduced-sugar) [Tier 1 (locked list): America's Test Kitchen]: Natural cocoa, bicarbonate, red colouring and distilled vinegar in a 12-cupcake batch; cream cheese frosting. _(curl 200; JSON-LD recipe (ingredients and steps) read)_
+- [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
+- [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
+
+> Written as an extra flavour for the cakes chapter. Quantities are my own; the core method matches the locked-list sources listed above; nothing copied.
+
+## Own cooking judgment
+- H
+- a
+- l
+- a
+- l
+- :
+-  
+- h
+- a
+- l
+- a
+- l
+- -
+- c
+- e
+- r
+- t
+- i
+- f
+- i
+- e
+- d
+- ,
+-  
+- c
+- a
+- r
+- m
+- i
+- n
+- e
+- -
+- f
+- r
+- e
+- e
+-  
+- c
+- o
+- l
+- o
+- u
+- r
+- i
+- n
+- g
+- ;
+-  
+- a
+- l
+- c
+- o
+- h
+- o
+- l
+- -
+- f
+- r
+- e
+- e
+-  
+- v
+- a
+- n
+- i
+- l
+- l
+- a
+- ;
+-  
+- d
+- i
+- s
+- t
+- i
+- l
+- l
+- e
+- d
+-  
+- v
+- i
+- n
+- e
+- g
+- a
+- r
+-  
+- c
+- o
+- n
+- t
+- a
+- i
+- n
+- s
+-  
+- n
+- o
+-  
+- a
+- l
+- c
+- o
+- h
+- o
+- l
+- .
+-  
+- N
+- o
+-  
+- s
+- w
+- e
+- e
+- t
+- e
+- n
+- e
+- r
+- s
+-  
+- u
+- s
+- e
+- d
+-  
+- (
+- t
+- h
+- e
+-  
+- A
+- T
+- K
+-  
+- v
+- e
+- r
+- s
+- i
+- o
+- n
+-  
+- u
+- s
+- e
+- s
+-  
+- S
+- u
+- c
+- a
+- n
+- a
+- t
+-  
+- a
+- n
+- d
+-  
+- h
+- o
+- n
+- e
+- y
+- ;
+-  
+- I
+-  
+- u
+- s
+- e
+-  
+- o
+- r
+- d
+- i
+- n
+- a
+- r
+- y
+-  
+- s
+- u
+- g
+- a
+- r
+- )
+- .
+
+## Reliability checks
+- Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
+- Doneness cues in the method: 1 step(s) carry a temperature, and every cooking step has a visual cue.
+- Timing sanity check: prep 25 min + cook 21 min against the step times.
+- Quantities checked against servings (12). Nutrition worked from USDA FDC (see content/notes/red-velvet-cupcakes-cream-cheese-frosting-nutrition.md).
+- Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
+
+## Knowledge check
+Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C10 (buttermilk marinade); 05-CK2 (ingredient temperature); 05-CK7 (oven temperature); 05-CK8 (doneness cues); 05-CK9 (cooling and unmoulding); 03-K10 (raw batter safety); 05-CK3 (creaming); 05-CK12 (buttercreams and cream cheese frosting); 05-CK13 (chocolate and ganache); 05-CK1 (base ratios); CHECKLIST 6 (preheat at least 20 min, stated before the oven step).
+Changes made:
+- Sulphites added to allergens (vinegar, hot sauce or mustard may contain them)
+- Salt given in grams (06-G1): 0.25 tsp fine sea salt or table salt -> 1.5 g
+- Salt given in grams (06-G1): 0.125 tsp fine sea salt or table salt -> 1 g
+- Added the do-not-eat-raw-dough note (03-K10)
+- Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

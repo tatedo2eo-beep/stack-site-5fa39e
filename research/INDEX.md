@@ -90,6 +90,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chocolate-angel-food-cake | Angel food | Chocolate | 3 | 5 |
 | chocolate-biscotti | Biscotti | Chocolate | 3 | 5 |
 | chocolate-buche-de-noel | Swiss roll/bûche de Noël | Classic | 3 | 5 |
+| chocolate-cheesecake-biscuit-base | New York (baked, dense) | Chocolate | 2 | 4 |
 | chocolate-cupcakes | Cupcakes | Chocolate | 3 | 5 |
 | chocolate-dipped-shortbread | Shortbread | Chocolate-dipped | 2 | 5 |
 | chocolate-layer-cake | Chocolate layer | Classic | 2 | 4 |
@@ -234,7 +235,9 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lasagne-bolognese | Sheets/baked (lasagne) | Classic | 4 | 6 |
 | layered-chilli-lime-potato-terrine-chicken-avocado | Causa limeña | Classic | 2 | 4 |
 | layered-vegetable-biryani-cauliflower-potato-cashews | Biryani | Vegetable | 3 | 5 |
+| lemon-angel-food-cake | Angel food | Lemon | 3 | 5 |
 | lemon-bars | Lemon bars | Classic | 3 | 5 |
+| lemon-bundt-cake-lemon-glaze | Bundt | Lemon | 2 | 4 |
 | lemon-chiffon-cake | Chiffon | Lemon | 3 | 5 |
 | lemon-cut-out-sugar-cookies | Sugar/cut-out | Lemon | 2 | 4 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
@@ -331,6 +334,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | raspberry-thumbprint-cookies | Thumbprints | Raspberry | 3 | 5 |
 | red-lentil-soup | Lentil | Classic | 2 | 3 |
 | red-velvet-cake | Red velvet | Classic | 2 | 4 |
+| red-velvet-cupcakes-cream-cheese-frosting | Cupcakes | Red velvet | 2 | 4 |
 | reverse-seared-rib-eye-steak-thyme-garlic | Reverse-sear steak | Classic | 2 | 4 |
 | ricotta-ravioli | Filled (ravioli, tortellini, agnolotti) | Classic | 4 | 6 |
 | roast-beef-fillet-tarragon-butter-sauce | Châteaubriand | Classic | 6 | 8 |
@@ -385,6 +389,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spiced-minced-beef-keema-peas | Keema | Keema matar (with peas) | 3 | 5 |
 | spiced-minced-beef-keema-potatoes | Keema | Aloo keema (potato) | 3 | 5 |
 | spiced-minced-beef-keema | Keema | Classic | 2 | 4 |
+| spiced-pumpkin-cheesecake | New York (baked, dense) | Pumpkin | 2 | 4 |
 | spiced-saudi-chicken-rice-tomato-almonds-raisins | Kabsa | Chicken | 2 | 4 |
 | spicy-chicken-burger | Chicken burger | Spicy (cayenne/hot sauce) | 2 | 8 |
 | spinach-ricotta-calzones-tomato-dipping-sauce | Calzone | Classic | 2 | 4 |
@@ -405,6 +410,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | swiss-rosti | Rösti | Classic | 2 | 4 |
 | tafelspitz-apple-horseradish | Tafelspitz | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
+| texas-chocolate-sheet-cake-pecan-icing | Sheet cake | Chocolate (Texas-style) | 3 | 5 |
 | thai-coconut-beef-curry-potatoes-peanuts-tamarind | Massaman | Beef | 2 | 4 |
 | thai-green-coconut-curry-chicken-aubergine-basil | Green curry | Chicken | 3 | 5 |
 | thai-thick-coconut-red-curry-beef-lime-leaf-peanuts | Panang curry | Beef | 2 | 4 |

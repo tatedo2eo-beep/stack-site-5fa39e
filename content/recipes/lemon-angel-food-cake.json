@@ -1,0 +1,163 @@
+{
+  "slug": "lemon-angel-food-cake",
+  "title": "Lemon Angel Food Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cakes-cupcakes",
+  "book_chapter": "cakes-cupcakes",
+  "dish": "angel-food",
+  "dish_title": "Angel food",
+  "flavour": "Lemon",
+  "flavour_order": 100,
+  "access": "premium",
+  "base_recipe": "angel-food-cake",
+  "changes_from_base": "Lemon zest and juice whisked into the meringue, less vanilla, berries to serve.",
+  "extra_flavour": true,
+  "summary": "This follows the classic angel food cake method, tin and bake, with lemon zest and juice whisked into the finished meringue and a little less vanilla. Light as air, fat-free in the sponge and served with fresh berries.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "25 cm two-piece tube (angel food) tin, ungreased and unlined",
+    "fine grater",
+    "fine sieve",
+    "stand mixer or electric hand whisk",
+    "large spatula",
+    "wire rack or glass bottle for cooling upside down",
+    "serrated knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Dry mix",
+      "qty": 120,
+      "unit": "g",
+      "item": "cake flour (or plain flour; see note)",
+      "note": "plain flour works with a slightly firmer crumb"
+    },
+    {
+      "group": "Dry mix",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Meringue",
+      "qty": 12,
+      "unit": "pc",
+      "item": "large egg whites, at room temperature"
+    },
+    {
+      "group": "Meringue",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "cream of tartar"
+    },
+    {
+      "group": "Meringue",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Meringue",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Meringue",
+      "qty": 2,
+      "unit": "pc",
+      "item": "unwaxed lemons, finely grated zest"
+    },
+    {
+      "group": "Meringue",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Meringue",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "To serve",
+      "qty": 250,
+      "unit": "g",
+      "item": "raspberries or blueberries, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat oven, leave tin bare",
+      "text": "Position a shelf in the lower-middle of the oven and give it at least 20 minutes to reach 175°C (155°C fan). Do not grease the tube tin; the batter needs to grip the sides as it climbs, which is what lets it rise tall."
+    },
+    {
+      "title": "Sift the flour",
+      "text": "Sift the flour with the first 150 g caster sugar three times. Repeated sifting aerates the mixture and makes it easier to fold into the meringue without knocking out air."
+    },
+    {
+      "title": "Whisk the meringue",
+      "text": "In a spotless, grease-free bowl, whisk the egg whites on medium-low until frothy, then add the cream of tartar and salt and whisk on medium-high to soft peaks. Add the remaining 150 g sugar a spoonful at a time and whisk to glossy peaks that bend at the tip. Even a trace of fat or yolk stops whites foaming, so the clean bowl matters."
+    },
+    {
+      "title": "Add the lemon",
+      "text": "Whisk in the lemon zest, juice and vanilla for a few seconds only. The cream of tartar keeps the foam stable despite the extra acid from the lemon."
+    },
+    {
+      "title": "Fold in the flour",
+      "text": "Sift a quarter of the flour mixture over the meringue and fold it in with a few broad strokes of the spatula. Repeat until just combined, with no pockets of flour left. Gentle folding preserves the air bubbles that give the cake its height."
+    },
+    {
+      "title": "Fill and bake",
+      "text": "Spoon the batter into the tin, run a knife through it to remove air pockets and smooth the top. Bake for 35-40 minutes until golden, the cracks look dry and a skewer comes out clean."
+    },
+    {
+      "title": "Cool upside down",
+      "text": "Turn the tin upside down at once, resting it on its feet or over the neck of a glass bottle, and cool completely, about 2-3 hours. Hanging upside down stops the delicate sponge collapsing under its own weight while it sets."
+    },
+    {
+      "title": "Release and slice",
+      "text": "Run a thin knife round the sides and the tube to release the cake. Slice with the serrated knife using a gentle sawing action and serve with the berries."
+    }
+  ],
+  "tips": [
+    "A common mistake is greasing the tin; the batter then slides down the sides and the cake sinks, so always use a clean, ungreased tin.",
+    "Separate the eggs one at a time into a small bowl so a broken yolk does not spoil the whole batch of whites.",
+    "Add the lemon only after the meringue reaches glossy peaks, and whisk just long enough to combine.",
+    "Use a serrated knife; a straight blade squashes the airy crumb.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered at room temperature for up to 2 days. Wrapped slices freeze for up to 1 month; thaw at room temperature. Add the berries just before serving.",
+  "allergens": [
+    "gluten",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 163,
+    "protein_g": 4.7,
+    "carbs_g": 36.0,
+    "sugar_g": 26.2,
+    "free_sugar_g": 25.0,
+    "fat_g": 0.3,
+    "satfat_g": 0.0,
+    "salt_g": 0.26,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "angel-food-basic.jpg",
+  "image_alt": "A tall, airy lemon angel food cake ring with fresh berries beside it.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking",
+    "King Arthur Baking"
+  ]
+}

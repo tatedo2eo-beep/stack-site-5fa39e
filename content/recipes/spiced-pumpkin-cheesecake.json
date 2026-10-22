@@ -1,0 +1,206 @@
+{
+  "slug": "spiced-pumpkin-cheesecake",
+  "title": "Spiced Pumpkin Cheesecake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cakes-cupcakes",
+  "book_chapter": "cakes-cupcakes",
+  "dish": "new-york-baked-dense",
+  "dish_title": "New York (baked, dense)",
+  "flavour": "Pumpkin",
+  "flavour_order": 100,
+  "access": "premium",
+  "base_recipe": "new-york-cheesecake",
+  "changes_from_base": "Blotted pumpkin purée and warm spices in the filling, double cream instead of soured cream, spiced biscuit base.",
+  "extra_flavour": true,
+  "summary": "This follows the classic New York cheesecake method in a water bath, with blotted pumpkin purée and warm spices in the filling, double cream in place of soured cream and a spiced biscuit base. Dense, creamy and fragrant with cinnamon and ginger.",
+  "servings": 12,
+  "prep_min": 40,
+  "cook_min": 90,
+  "difficulty": "medium",
+  "equipment": [
+    "23 cm springform tin (at least 7 cm deep)",
+    "roasting tin large enough to hold the springform",
+    "heavy-duty foil",
+    "large baking tray lined with kitchen paper",
+    "stand mixer or electric hand whisk",
+    "kettle",
+    "instant-read thermometer",
+    "thin knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 180,
+      "unit": "g",
+      "item": "digestive biscuits or graham crackers, finely crushed"
+    },
+    {
+      "group": "Base",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Base",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Base",
+      "qty": 80,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Filling",
+      "qty": 425,
+      "unit": "g",
+      "item": "tinned pumpkin purée (unsweetened, not pie filling)"
+    },
+    {
+      "group": "Filling",
+      "qty": 250,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground allspice"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 680,
+      "unit": "g",
+      "item": "full-fat cream cheese (block), at room temperature"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Filling",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "at room temperature"
+    },
+    {
+      "group": "Filling",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 160°C (140°C fan) at least 20 minutes ahead, with a shelf in the lower-middle position. A fully heated oven is important for a slow bake that sets the filling evenly."
+    },
+    {
+      "title": "Bake the base",
+      "text": "Mix the biscuit crumbs, sugar, cinnamon, ginger and melted butter until the mixture holds together when squeezed, then press it firmly into the springform tin. Bake for 12-15 minutes until fragrant and darker at the edges, then cool. Pre-baking firms the base so it stays crisp under the moist filling."
+    },
+    {
+      "title": "Wrap the tin",
+      "text": "Wrap the outside of the tin in 2 layers of heavy-duty foil. This keeps the water bath from seeping in through the seam of the springform."
+    },
+    {
+      "title": "Blot the pumpkin",
+      "text": "Spread the pumpkin purée thinly over the kitchen paper on the baking tray, cover with more paper and press gently, then peel it off. Removing excess water means the filling sets dense and creamy rather than wet."
+    },
+    {
+      "title": "Make the filling",
+      "text": "Whisk the sugar, spices and salt together, making sure everything else is at room temperature. Beat the cream cheese with the spiced sugar on low for 2-3 minutes until completely smooth, scraping the bowl twice. Beat in the pumpkin, vanilla and lemon juice, then the eggs one at a time on low just until each disappears, and stir in the cream by hand. Low speed adds little air, and less air means fewer cracks as the cheesecake bakes and cools."
+    },
+    {
+      "title": "Bake in water",
+      "text": "Pour the filling over the base and tap the tin to bring up any bubbles. Set it in the roasting tin and pour in just-boiled water to come 2.5 cm up the sides. Bake for 75-90 minutes until the edges are set, the centre wobbles slightly when nudged and reads 65 °C; the water keeps the heat gentle so the eggs set smoothly instead of puffing and splitting."
+    },
+    {
+      "title": "Cool slowly",
+      "text": "Turn off the oven, prop the door open and leave the cheesecake inside for 1 hour. Run a thin knife round the edge, cool to room temperature, then chill uncovered for at least 8 hours before unclipping. Gradual cooling prevents the sudden shrinkage that causes cracks."
+    }
+  ],
+  "tips": [
+    "A common mistake is using cold cream cheese, which leaves lumps; let it soften fully at room temperature before beating.",
+    "Use unsweetened pumpkin purée, not pumpkin pie filling, which already contains sugar and spices.",
+    "Check the centre with a thermometer; a slight wobble at 65 °C firms up completely as it chills.",
+    "Clean the knife in hot water between slices for neat portions."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days. Freeze whole or in slices, well wrapped, for up to 1 month; thaw overnight in the fridge.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 507,
+    "protein_g": 7.6,
+    "carbs_g": 41.9,
+    "sugar_g": 30.7,
+    "free_sugar_g": 26.7,
+    "fat_g": 35.5,
+    "satfat_g": 20.3,
+    "salt_g": 0.96,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "new-york-baked-dense-cheesecakes.jpg",
+  "image_alt": "A smooth orange pumpkin cheesecake on a dark biscuit base, one slice lifted out.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}
