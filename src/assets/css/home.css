@@ -50,6 +50,11 @@
 .s5-polaroid::after{display:none}
 .s5-polaroid .s5-cap{position:absolute;left:0;right:0;bottom:3.5%;text-align:center;font-family:var(--fh);font-weight:400;font-size:clamp(16px,2.2vw,26px);color:#2a1a14}
 .s5-polaroid::before{content:"";position:absolute;left:50%;top:-12px;width:90px;height:24px;transform:translateX(-50%) rotate(-3deg);background:color-mix(in oklab,var(--pop,var(--accent)) 70%,transparent);z-index:2}
+/* G: the sequence is a real photo, so it is shown as one of the design's bento tiles (24px radius, number pill, frosted label card) */
+.s5-tile{border-radius:24px;overflow:hidden;background:var(--surface2);box-shadow:0 18px 40px rgba(var(--shade),.22)}
+.s5-tile::after{display:none}
+.s5-tile .s5-num{position:absolute;top:4%;left:4%;z-index:2;background:var(--tile2,var(--accent));color:var(--tile2Text,var(--onaccent));border-radius:999px;padding:1px 10px;font-family:var(--fb);font-weight:700;font-size:12.5px}
+.s5-tile .s5-cap{position:absolute;left:3%;right:3%;bottom:3%;z-index:2;background:rgba(255,255,255,.93);color:#1d1a24;border-radius:16px;padding:10px 13px;font-family:var(--fh);font-weight:700;font-size:clamp(14px,1.6vw,19px);backdrop-filter:blur(6px)}
 @media(min-width:900px){
  .s5-obj,.s5-labs{left:auto;right:max(90px,calc(50vw - 560px));top:50%;width:min(40vw,70svh,620px);transform:translate(0,-50%)}
  .s5-labs{height:min(70svh,620px)}
