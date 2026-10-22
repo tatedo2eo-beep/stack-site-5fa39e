@@ -1,0 +1,140 @@
+{
+  "slug": "arnold-palmer-layered-iced-tea-lemonade",
+  "title": "Arnold Palmer: Layered Iced Tea and Lemonade",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "iced-tea-lemonade",
+  "dish_title": "Iced tea lemonade",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Black tea is brewed and chilled, lemonade is made from lemon zest mashed with sugar, hot water and fresh juice, then the two are layered over ice.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "kettle",
+    "heatproof jug",
+    "vegetable peeler",
+    "medium bowl",
+    "potato masher",
+    "fine sieve",
+    "2 jugs"
+  ],
+  "ingredients": [
+    {
+      "group": "Tea",
+      "qty": 750,
+      "unit": "ml",
+      "item": "water, freshly boiled"
+    },
+    {
+      "group": "Tea",
+      "qty": 4,
+      "unit": "pc",
+      "item": "black tea bags, such as English Breakfast (about 8 g)"
+    },
+    {
+      "group": "Lemonade base",
+      "qty": 2,
+      "unit": "pc",
+      "item": "lemons, scrubbed",
+      "note": "zest only; then juice them"
+    },
+    {
+      "group": "Lemonade base",
+      "qty": 120,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Lemonade base",
+      "qty": 120,
+      "unit": "ml",
+      "item": "hot water"
+    },
+    {
+      "group": "Lemonade base",
+      "qty": 180,
+      "unit": "ml",
+      "item": "fresh lemon juice",
+      "note": "from 4-6 lemons, including the 2 above"
+    },
+    {
+      "group": "Lemonade base",
+      "qty": 450,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "To serve",
+      "qty": 600,
+      "unit": "g",
+      "item": "ice, to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, sliced into rounds"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brew the tea",
+      "text": "Pour the boiled water over the tea bags, steep for 5 minutes, then discard the bags. Cool to room temperature, about 30 minutes, then chill."
+    },
+    {
+      "title": "Make lemon sugar",
+      "text": "Peel the zest from the 2 scrubbed lemons in strips, avoiding the white pith, and mash it with the sugar in the bowl for 2 minutes until damp and very fragrant. The sugar pulls the oils out of the zest."
+    },
+    {
+      "title": "Finish the lemonade",
+      "text": "Stir in the hot water until the sugar dissolves, then add the lemon juice and cold water. Strain into a jug, pressing on the zest, and chill."
+    },
+    {
+      "title": "Layer",
+      "text": "Fill 6 tall glasses with ice and pour in lemonade to half way. Slowly pour the cold tea over the back of a spoon so it floats on top. Garnish with a lemon round."
+    },
+    {
+      "title": "Serve",
+      "text": "Stir before drinking."
+    }
+  ],
+  "tips": [
+    "The tea must be cold before layering, or it mixes straight into the lemonade.",
+    "Pouring over the back of a spoon spreads the tea gently so the layers stay separate.",
+    "For a pitcher version, simply mix equal amounts of tea and lemonade.",
+    "English Breakfast or any brisk black tea works well."
+  ],
+  "storage": "Keep the tea and lemonade separate, covered, in the fridge for up to 3 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 85,
+    "protein_g": 0.1,
+    "carbs_g": 22.5,
+    "sugar_g": 20.7,
+    "free_sugar_g": 20.7,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "arnold-palmer-basic.jpg",
+  "image_alt": "A tall iced glass with dark tea layered over pale lemonade, garnished with lemon.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

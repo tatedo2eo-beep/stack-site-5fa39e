@@ -1,0 +1,134 @@
+{
+  "slug": "peach-ginger-shrub-cider-vinegar-soda",
+  "title": "Peach and Ginger Shrub with Cider Vinegar and Soda",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "shrubs",
+  "dish_title": "Shrubs",
+  "flavour": "Peach",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Peaches simmer with sugar, water and ginger until soft, are mashed and strained, then the syrup is sharpened with cider vinegar and topped with soda water over ice.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan with lid",
+    "potato masher",
+    "fine sieve",
+    "medium bowl",
+    "whisk",
+    "clean jar or bottle"
+  ],
+  "ingredients": [
+    {
+      "group": "Shrub syrup",
+      "qty": 250,
+      "unit": "g",
+      "item": "ripe peaches (or thawed frozen), stoned and chopped",
+      "note": "about 2 medium"
+    },
+    {
+      "group": "Shrub syrup",
+      "qty": 150,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Shrub syrup",
+      "qty": 180,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Shrub syrup",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger, thinly sliced"
+    },
+    {
+      "group": "Shrub syrup",
+      "qty": 60,
+      "unit": "ml",
+      "item": "apple cider vinegar",
+      "note": "use cider vinegar only"
+    },
+    {
+      "group": "To serve",
+      "qty": 1200,
+      "unit": "ml",
+      "item": "soda water, very cold"
+    },
+    {
+      "group": "To serve",
+      "qty": 600,
+      "unit": "g",
+      "item": "ice"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "peach, sliced, to garnish (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the peaches",
+      "text": "Put the peaches, sugar, water and ginger in the saucepan and bring to the boil over high heat. Lower to medium-low, cover and simmer for 10 minutes, stirring now and then, until the peaches are soft and falling apart."
+    },
+    {
+      "title": "Mash",
+      "text": "Take the pan off the heat and mash the peaches with the masher until evenly pulpy."
+    },
+    {
+      "title": "Strain",
+      "text": "Pour through the sieve into the bowl, pressing hard on the solids to extract all the syrup, then discard the solids."
+    },
+    {
+      "title": "Add vinegar",
+      "text": "Whisk in the cider vinegar, cool, then pour into the jar and refrigerate. You will have about 300 ml."
+    },
+    {
+      "title": "Serve",
+      "text": "For each glass, pour 50 ml shrub syrup over ice, top with 200 ml cold soda water, stir gently and add a peach slice if you like."
+    }
+  ],
+  "tips": [
+    "The vinegar is added after cooking so it stays bright and sharp.",
+    "Ripe, fragrant peaches give the best flavour; frozen peaches work well out of season.",
+    "The shrub mellows over a few days in the fridge.",
+    "Adjust the ratio to taste: more syrup for sweeter, more soda for lighter."
+  ],
+  "storage": "The syrup keeps in a closed jar in the fridge for up to 2 weeks. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 107,
+    "protein_g": 0.2,
+    "carbs_g": 27.1,
+    "sugar_g": 26.7,
+    "free_sugar_g": 24.9,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.0,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "shrubs-basic--peach.jpg",
+  "image_alt": "A tall iced glass of peach shrub soda with peach slices beside a small bottle of syrup.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

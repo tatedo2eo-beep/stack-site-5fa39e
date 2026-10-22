@@ -1,0 +1,130 @@
+{
+  "slug": "southern-sweet-tea-lemon-mint",
+  "title": "Southern Sweet Tea with Lemon and Mint",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "sweet-tea",
+  "dish_title": "Sweet tea",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Black tea steeps for 5 minutes, sugar and lemon juice are stirred into the hot tea, then it is diluted with cold water and ice, chilled and served with lemon and mint.",
+  "servings": 8,
+  "prep_min": 5,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "kettle",
+    "heatproof jug or large saucepan",
+    "large pitcher (at least 2.5 litres)",
+    "long spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Tea",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "water, freshly boiled"
+    },
+    {
+      "group": "Tea",
+      "qty": 8,
+      "unit": "pc",
+      "item": "black tea bags (about 16 g)"
+    },
+    {
+      "group": "Tea",
+      "qty": 100,
+      "unit": "g",
+      "item": "granulated sugar",
+      "note": "or to taste"
+    },
+    {
+      "group": "Tea",
+      "qty": 60,
+      "unit": "ml",
+      "item": "fresh lemon juice",
+      "note": "from about 2 lemons"
+    },
+    {
+      "group": "To finish",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "To serve",
+      "qty": 800,
+      "unit": "g",
+      "item": "ice, to chill and serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, sliced into rounds"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "sprigs fresh mint"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Steep",
+      "text": "Pour the boiled water over the tea bags in the heatproof jug and leave for exactly 5 minutes. Lift out the bags, pressing them gently against the side, and discard."
+    },
+    {
+      "title": "Sweeten while hot",
+      "text": "Stir in the sugar while the tea is still hot until it has completely dissolved; it won't dissolve properly once cold. Stir in the lemon juice."
+    },
+    {
+      "title": "Dilute",
+      "text": "Pour into the pitcher, add the cold water and about 300 g of the ice and stir. Taste and add a little more sugar if you like it sweeter."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and refrigerate for at least 1 hour until cold through."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour over the remaining ice in tall glasses and add a lemon round and a mint sprig."
+    }
+  ],
+  "tips": [
+    "Don't squeeze the tea bags hard; it pushes bitter tannins into the tea.",
+    "Adding ice straight away cools the tea quickly and helps keep it clear.",
+    "Traditional Southern sweet tea is much sweeter; add up to 50 g more sugar if you want the real thing.",
+    "For decaffeinated sweet tea, use decaf black tea bags with the same method."
+  ],
+  "storage": "Keeps covered in the fridge for up to 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 51,
+    "protein_g": 0.0,
+    "carbs_g": 13.4,
+    "sugar_g": 12.7,
+    "free_sugar_g": 12.7,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sweet-tea-basic.jpg",
+  "image_alt": "A mason-jar glass of iced sweet tea with lemon and mint beside a pitcher of tea.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

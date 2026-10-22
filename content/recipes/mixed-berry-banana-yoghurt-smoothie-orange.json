@@ -1,0 +1,115 @@
+{
+  "slug": "mixed-berry-banana-yoghurt-smoothie-orange",
+  "title": "Mixed Berry and Banana Yoghurt Smoothie with Orange",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "smoothies",
+  "dish_title": "Smoothies",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Banana is blended smooth with honey and a pinch of salt, then frozen mixed berries, whole-milk yoghurt and orange juice are blended in until thick.",
+  "servings": 2,
+  "prep_min": 5,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "blender",
+    "spatula",
+    "2 tall glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Smoothie",
+      "qty": 1,
+      "unit": "pc",
+      "item": "ripe banana (about 120 g peeled), broken into chunks"
+    },
+    {
+      "group": "Smoothie",
+      "qty": 21,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Smoothie",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Smoothie",
+      "qty": 250,
+      "unit": "g",
+      "item": "frozen mixed berries (strawberries, raspberries, blueberries)"
+    },
+    {
+      "group": "Smoothie",
+      "qty": 200,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt"
+    },
+    {
+      "group": "Smoothie",
+      "qty": 80,
+      "unit": "ml",
+      "item": "orange juice"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "fresh berries, to garnish (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend the banana",
+      "text": "Put the banana, honey and salt in the blender and blend for about 10 seconds until smooth. Doing this first means no banana lumps later."
+    },
+    {
+      "title": "Add the berries",
+      "text": "Add the frozen berries, yoghurt and orange juice and blend for about 1 minute until completely smooth and thick, scraping down the sides once or twice. If the blender stalls, add 1-2 tbsp more orange juice."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour into the glasses straight away and top with a few fresh berries if you like."
+    }
+  ],
+  "tips": [
+    "Frozen berries make the smoothie cold and thick without diluting it with ice.",
+    "A very ripe, freckled banana gives the most sweetness, so you may need less honey.",
+    "The pinch of salt doesn't make it salty; it just makes the fruit taste brighter.",
+    "Use Greek yoghurt for an even thicker, higher-protein smoothie."
+  ],
+  "storage": "Best drunk within 30 minutes; it separates on standing. Stir or re-blend briefly if needed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 224,
+    "protein_g": 5.5,
+    "carbs_g": 45.6,
+    "sugar_g": 32.1,
+    "free_sugar_g": 12.1,
+    "fat_g": 4.1,
+    "satfat_g": 2.2,
+    "salt_g": 0.22,
+    "fibre_g": 6.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "smoothies-basic.jpg",
+  "image_alt": "A tall glass of thick pink berry smoothie beside strawberries, blueberries and banana slices.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

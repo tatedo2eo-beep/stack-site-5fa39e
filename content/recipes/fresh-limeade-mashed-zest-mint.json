@@ -1,0 +1,139 @@
+{
+  "slug": "fresh-limeade-mashed-zest-mint",
+  "title": "Fresh Limeade with Mashed Lime Zest and Mint",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "limeade",
+  "dish_title": "Limeade",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Lime zest is mashed with sugar and a pinch of salt, dissolved in hot water, mixed with fresh lime juice and strained into a concentrate that is topped with still or soda water over ice.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "vegetable peeler",
+    "medium bowl",
+    "potato masher",
+    "citrus juicer",
+    "fine sieve",
+    "jug"
+  ],
+  "ingredients": [
+    {
+      "group": "Lime syrup",
+      "qty": 3,
+      "unit": "pc",
+      "item": "limes, scrubbed and dried",
+      "note": "zest only; then juice them"
+    },
+    {
+      "group": "Lime syrup",
+      "qty": 100,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Lime syrup",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Lime syrup",
+      "qty": 240,
+      "unit": "ml",
+      "item": "hot water"
+    },
+    {
+      "group": "Lime syrup",
+      "qty": 180,
+      "unit": "ml",
+      "item": "fresh lime juice",
+      "note": "from 6-8 limes, including the 3 above"
+    },
+    {
+      "group": "To serve",
+      "qty": 480,
+      "unit": "ml",
+      "item": "cold water or soda water"
+    },
+    {
+      "group": "To serve",
+      "qty": 500,
+      "unit": "g",
+      "item": "ice"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "sprigs fresh mint"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lime, cut into wheels"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Peel the zest",
+      "text": "Peel the zest from the 3 scrubbed limes in strips, leaving the bitter white pith behind. Put the strips in the bowl with the sugar and salt."
+    },
+    {
+      "title": "Mash",
+      "text": "Mash firmly with the masher for about 2 minutes until the sugar is wet and very fragrant."
+    },
+    {
+      "title": "Dissolve",
+      "text": "Pour in the hot water and stir until the sugar dissolves, then leave to cool for about 30 minutes. Meanwhile, juice the limes."
+    },
+    {
+      "title": "Strain and chill",
+      "text": "Stir the lime juice into the cooled syrup, strain into the jug, pressing on the zest, and chill for at least 1 hour."
+    },
+    {
+      "title": "Serve",
+      "text": "For each glass, pour 100 ml concentrate over ice, top with 120 ml cold still or soda water, stir and add a mint sprig and a lime wheel."
+    }
+  ],
+  "tips": [
+    "Roll the limes firmly on the worktop before juicing to get more juice.",
+    "The pinch of salt sharpens the lime flavour, as in Indian nimbu pani.",
+    "Use soda water for a sparkling limeade.",
+    "Add the juice only after the syrup has cooled to keep its fresh flavour."
+  ],
+  "storage": "The concentrate keeps covered in the fridge for up to 2 weeks. Dilute only when serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 109,
+    "protein_g": 0.2,
+    "carbs_g": 28.9,
+    "sugar_g": 25.7,
+    "free_sugar_g": 25.7,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.1,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "limeade-basic.jpg",
+  "image_alt": "A tall iced glass of pale green limeade with a lime wheel and halved limes.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

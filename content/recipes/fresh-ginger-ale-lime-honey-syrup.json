@@ -1,0 +1,134 @@
+{
+  "slug": "fresh-ginger-ale-lime-honey-syrup",
+  "title": "Fresh Ginger Ale with Lime and Honey Syrup",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "ginger-ale",
+  "dish_title": "Ginger ale",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Sliced fresh ginger is simmered with water, sugar, honey and salt, lime juice is added, and the strained syrup is topped with cold soda water over ice.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "wooden spoon",
+    "fine sieve lined with muslin",
+    "medium bowl",
+    "jar or bottle",
+    "6 tall glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Ginger syrup",
+      "qty": 120,
+      "unit": "g",
+      "item": "fresh ginger, sliced 5 mm thick (no need to peel)"
+    },
+    {
+      "group": "Ginger syrup",
+      "qty": 360,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Ginger syrup",
+      "qty": 60,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Ginger syrup",
+      "qty": 60,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 3 tbsp"
+    },
+    {
+      "group": "Ginger syrup",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Ginger syrup",
+      "qty": 60,
+      "unit": "ml",
+      "item": "fresh lime juice",
+      "note": "from about 2 limes"
+    },
+    {
+      "group": "To serve",
+      "qty": 1100,
+      "unit": "ml",
+      "item": "soda water or plain seltzer, very cold"
+    },
+    {
+      "group": "To serve",
+      "qty": 600,
+      "unit": "g",
+      "item": "ice"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lime, cut into wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simmer the ginger",
+      "text": "Put the ginger, water, sugar, honey and salt in the saucepan and bring to a simmer over medium heat. Lower the heat and cook gently for 15 minutes, stirring now and then, until it smells strongly of ginger."
+    },
+    {
+      "title": "Add lime and cool",
+      "text": "Take the pan off the heat, stir in the lime juice and leave to cool completely, about 30 minutes."
+    },
+    {
+      "title": "Strain",
+      "text": "Pour through the lined sieve into the bowl, pressing on the ginger to extract every drop, then discard the ginger. You will have about 360 ml syrup; pour it into the jar and chill."
+    },
+    {
+      "title": "Serve",
+      "text": "Fill each glass with ice, add 60 ml syrup and top with about 180 ml cold soda water. Stir once, gently, and add a lime wedge."
+    }
+  ],
+  "tips": [
+    "Young ginger is milder; mature, fibrous ginger gives more heat.",
+    "For a spicier ale, add a few slices of fresh ginger to the glass.",
+    "Stir gently after adding the soda water, or the bubbles escape.",
+    "Keep the soda water very cold; warm soda loses its fizz fast."
+  ],
+  "storage": "The syrup keeps in a closed jar in the fridge for up to 1 week. Add the soda water only when serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 73,
+    "protein_g": 0.1,
+    "carbs_g": 19.4,
+    "sugar_g": 18.4,
+    "free_sugar_g": 18.4,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.05,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ginger-ale-basic.jpg",
+  "image_alt": "A tall glass of fizzy pale ginger ale over ice with a lime wedge and fresh ginger.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

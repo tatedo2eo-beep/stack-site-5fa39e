@@ -1,0 +1,121 @@
+{
+  "slug": "homemade-chocolate-milk-cocoa-syrup",
+  "title": "Homemade Chocolate Milk with Cocoa Syrup",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "chocolate-milk",
+  "dish_title": "Chocolate milk",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Sugar, salt and water are boiled, cocoa is whisked in, chopped chocolate and vanilla are melted through, and the cooled syrup is stirred into cold milk.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "whisk",
+    "heatproof jar",
+    "long spoon",
+    "4 glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Cocoa syrup",
+      "qty": 75,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Cocoa syrup",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Cocoa syrup",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Cocoa syrup",
+      "qty": 20,
+      "unit": "g",
+      "item": "unsweetened cocoa powder, preferably Dutch-processed",
+      "note": "about 3 tbsp"
+    },
+    {
+      "group": "Cocoa syrup",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsweetened (100%) chocolate, finely chopped"
+    },
+    {
+      "group": "Cocoa syrup",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "To serve",
+      "qty": 960,
+      "unit": "ml",
+      "item": "whole milk, very cold"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil the syrup",
+      "text": "Put the sugar, salt and water in the saucepan and bring to the boil over medium heat, whisking until the sugar dissolves. Whisk in the cocoa until completely smooth, then take the pan off the heat."
+    },
+    {
+      "title": "Melt the chocolate",
+      "text": "Add the chopped chocolate and whisk until melted and glossy, then whisk in the vanilla."
+    },
+    {
+      "title": "Cool",
+      "text": "Pour into the jar and leave until it reaches room temperature, about 30 minutes. To hurry it, stand the jar in a bowl of iced water and stir. You will have about 140 ml."
+    },
+    {
+      "title": "Mix",
+      "text": "For each glass, stir 2 tbsp (30 ml) of syrup into 240 ml cold milk until evenly brown. Taste and add a little more syrup if you like."
+    }
+  ],
+  "tips": [
+    "Dutch-processed cocoa gives a darker, smoother, less sharp chocolate flavour.",
+    "Cooking the cocoa in the syrup removes any raw, dusty taste.",
+    "Cold syrup is thick; stir it into a splash of milk first, then add the rest.",
+    "For hot chocolate milk, warm the milk until steaming and stir in the syrup."
+  ],
+  "storage": "The syrup keeps in a closed jar in the fridge for up to 2 weeks. Mixed chocolate milk is best drunk the same day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 260,
+    "protein_g": 9.3,
+    "carbs_g": 34.6,
+    "sugar_g": 31.4,
+    "free_sugar_g": 18.8,
+    "fat_g": 10.7,
+    "satfat_g": 6.2,
+    "salt_g": 0.37,
+    "fibre_g": 2.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chocolate-milk-basic.jpg",
+  "image_alt": "A tall glass of cold chocolate milk beside a piece of dark chocolate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

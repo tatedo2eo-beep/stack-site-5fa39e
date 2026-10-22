@@ -1,0 +1,131 @@
+{
+  "slug": "mango-lassi-cardamom-pistachio",
+  "title": "Mango Lassi with Cardamom and Pistachio",
+  "category": "drinks",
+  "cuisine": "Indian",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "lassi",
+  "dish_title": "Lassi",
+  "flavour": "Mango",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Ripe mango, whole-milk yoghurt, milk, honey, lime juice, salt and cardamom are blended until silky and served topped with pistachios.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "blender",
+    "spatula",
+    "fine sieve (optional)",
+    "jug",
+    "4 glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Lassi",
+      "qty": 450,
+      "unit": "g",
+      "item": "ripe mango flesh, fresh or frozen, chopped",
+      "note": "from about 2 large mangoes"
+    },
+    {
+      "group": "Lassi",
+      "qty": 500,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt, cold"
+    },
+    {
+      "group": "Lassi",
+      "qty": 200,
+      "unit": "ml",
+      "item": "cold whole milk or water"
+    },
+    {
+      "group": "Lassi",
+      "qty": 42,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 2 tbsp; or to taste"
+    },
+    {
+      "group": "Lassi",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "fresh lime juice"
+    },
+    {
+      "group": "Lassi",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Lassi",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "To serve",
+      "qty": 300,
+      "unit": "g",
+      "item": "ice, to serve (optional)"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "unsalted pistachios, finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Put the mango, yoghurt, milk, honey, lime juice, salt and cardamom in the blender. Blend on low for 10 seconds, then on high for about 1 minute until completely smooth, scraping down the sides once."
+    },
+    {
+      "title": "Adjust",
+      "text": "Taste, and add more honey if the mango was tart. If too thick to pour, add cold water 1-2 tbsp at a time. For an extra-silky lassi, push it through a sieve, which helps with stringy mangoes."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour into glasses, over ice if you used fresh rather than frozen mango, and scatter with the pistachios."
+    }
+  ],
+  "tips": [
+    "Alphonso or Kesar mangoes give the deepest colour and flavour; good tinned Alphonso pulp also works (reduce the honey).",
+    "Frozen mango makes the lassi cold and thick without ice.",
+    "Use thick, full-fat yoghurt; low-fat yoghurt makes it thin and sharp.",
+    "Starting the blender on low stops the frozen mango from jamming."
+  ],
+  "storage": "Keeps covered in the fridge for up to 1 day; stir before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 220,
+    "protein_g": 7.4,
+    "carbs_g": 34.7,
+    "sugar_g": 32.6,
+    "free_sugar_g": 8.7,
+    "fat_g": 7.1,
+    "satfat_g": 3.8,
+    "salt_g": 0.32,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "lassi-basic--mango.jpg",
+  "image_alt": "A glass of thick golden mango lassi sprinkled with cardamom, beside a cut mango and pistachios.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

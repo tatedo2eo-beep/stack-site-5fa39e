@@ -14,6 +14,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | anise-biscotti | Biscotti | Anise | 3 | 5 |
 | anzac-biscuits | Anzac biscuit | Classic | 2 | 4 |
 | apple-grape-walnut-waldorf-salad | Waldorf | Classic | 3 | 5 |
+| arnold-palmer-layered-iced-tea-lemonade | Iced tea lemonade | Classic | 3 | 5 |
 | avgolemono-greek-chicken-rice-soup-egg-lemon | Avgolemono | Classic | 2 | 4 |
 | baked-cheese-souffle-gruyere-parmesan | Soufflé (savory) | Classic | 2 | 4 |
 | baked-mac-and-cheese | Mac and cheese | Classic | 2 | 4 |
@@ -60,6 +61,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | carne-asada-street-tacos-onion-coriander-lime | Taco | Classic | 2 | 4 |
 | carrot-cake | Carrot | Classic | 2 | 4 |
 | celeriac-remoulade-mustard-parsley | Celeriac rémoulade | Classic | 3 | 5 |
+| champurrado-thick-mexican-chocolate-masa-drink | Champurrado | Classic | 2 | 4 |
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |
 | cheese-bread-boats-melted-mozzarella-feta-baked-egg | Khachapuri | Classic | 2 | 4 |
 | cheeseburger-sliders | Sliders | Classic | 2 | 5 |
@@ -183,6 +185,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | folded-butter-omelette-melted-cheese | Omelette | Cheese | 2 | 4 |
 | fondant-potatoes | Fondant potatoes | Classic | 2 | 4 |
 | fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
+| fresh-ginger-ale-lime-honey-syrup | Ginger ale | Classic | 2 | 4 |
+| fresh-limeade-mashed-zest-mint | Limeade | Classic | 2 | 4 |
 | fried-mini-pizzas-tomato-mozzarella-basil | Pizza fritta/montanara | Classic | 2 | 4 |
 | frothy-whisked-matcha-green-tea | Matcha (whisked) | Classic | 2 | 4 |
 | gai-yang | Gai yang | Classic | 2 | 4 |
@@ -223,6 +227,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | herb-tabbouleh-bulgur-lemon | Tabbouleh | Classic | 3 | 5 |
 | high-heat-roast-chicken | High-heat roast chicken | Classic | 3 | 5 |
 | home-fries-peppers-onions | Home fries | Peppers and onions | 2 | 4 |
+| homemade-chocolate-milk-cocoa-syrup | Chocolate milk | Classic | 2 | 4 |
 | honey-maple-nut-granola-raisins | Granola | Classic | 2 | 4 |
 | horseradish-mashed-potatoes | Mashed | Horseradish | 3 | 5 |
 | hot-dry-noodles | Hot dry noodles | Classic | 1 | 3 |
@@ -280,6 +285,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | malaysian-coconut-rice-sambal-crispy-anchovies-peanuts-egg | Nasi lemak | Classic | 2 | 4 |
 | malaysian-style-fish-head-curry-okra-aubergine | Fish head curry | Classic | 2 | 4 |
 | malloreddus-saffron-tomato | Malloreddus | Classic | 2 | 4 |
+| mango-lassi-cardamom-pistachio | Lassi | Mango | 2 | 4 |
 | marble-pound-cake | Pound cake | Marble | 3 | 5 |
 | matcha-chiffon-cake | Chiffon | Matcha | 2 | 4 |
 | matzah-ball-soup-chicken-dill | Matzah ball soup | Classic | 2 | 4 |
@@ -287,6 +293,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mexican-red-rice-tomato-peas-carrots | Mexican rice (arroz rojo) | Classic | 3 | 5 |
 | millionaires-shortbread | Bars (magic bars, millionaire's shortbread) | Classic | 4 | 6 |
 | miso-soup-tofu-wakame | Miso | Classic | 2 | 4 |
+| mixed-berry-banana-yoghurt-smoothie-orange | Smoothies | Classic | 2 | 4 |
 | molten-chocolate-cakes | Molten chocolate | Classic | 3 | 5 |
 | moroccan-gunpowder-green-mint-tea | Moroccan mint | Classic | 2 | 4 |
 | mulligatawny-chicken-red-lentil-coconut | Mulligatawny | Classic | 3 | 5 |
@@ -297,6 +304,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | nashville-hot-chicken | Nashville hot chicken | Classic | 2 | 5 |
 | neapolitan-style-margherita-pizza-tomato-mozzarella-basil | Neapolitan | Classic | 5 | 7 |
 | new-york-cheesecake | New York (baked, dense) | Classic | 3 | 5 |
+| new-york-chocolate-egg-cream-seltzer | Egg cream | Chocolate | 3 | 5 |
 | new-york-style-cheese-pizza-oregano-tomato-sauce | New York | Classic | 2 | 4 |
 | nigerian-spiced-beef-suya | Suya | Classic | 2 | 4 |
 | noodle-kugel | Kugel | Classic | 3 | 5 |
@@ -338,6 +346,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pasta-primavera | Pasta primavera | Classic | 3 | 5 |
 | pastitsio | Pastitsio | Classic | 3 | 5 |
 | patatas-bravas | Patatas bravas | Classic | 2 | 4 |
+| peach-ginger-shrub-cider-vinegar-soda | Shrubs | Peach | 2 | 4 |
 | peanut-butter-cookies | Peanut butter | Classic | 3 | 5 |
 | pear-upside-down-cake | Upside-down | Pear | 2 | 4 |
 | peking-duck | Peking duck | Classic | 2 | 4 |
@@ -426,6 +435,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | sour-cream-coffee-cake | Coffee cake | Classic | 3 | 5 |
 | south-indian-lemon-rice-peanuts-curry-leaves | Lemon rice | Classic | 2 | 4 |
 | southern-fried-chicken | Fried chicken (Southern) | Classic | 3 | 6 |
+| southern-sweet-tea-lemon-mint | Sweet tea | Classic | 2 | 4 |
 | spaghetti-aglio-e-olio | Aglio e olio | Classic | 2 | 4 |
 | spaghetti-al-pomodoro | Long dried (spaghetti, linguine, bucatini) | Classic | 3 | 5 |
 | spaghetti-anchovy-breadcrumbs | Aglio e olio | Anchovy and breadcrumbs | 2 | 4 |

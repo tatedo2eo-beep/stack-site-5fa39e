@@ -1,0 +1,90 @@
+{
+  "slug": "new-york-chocolate-egg-cream-seltzer",
+  "title": "New York Chocolate Egg Cream with Seltzer",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "egg-cream",
+  "dish_title": "Egg cream",
+  "flavour": "Chocolate",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Chocolate syrup and cold milk are stirred together in a chilled glass, then cold seltzer is poured in while stirring hard until a thick foam rises.",
+  "servings": 2,
+  "prep_min": 3,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "2 tall glasses (about 350 ml)",
+    "long spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Egg cream",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "sweetened chocolate syrup (60 ml)",
+      "note": "2 tbsp per glass"
+    },
+    {
+      "group": "Egg cream",
+      "qty": 160,
+      "unit": "ml",
+      "item": "whole milk, very cold"
+    },
+    {
+      "group": "Egg cream",
+      "qty": 320,
+      "unit": "ml",
+      "item": "plain seltzer or soda water, very cold, from a freshly opened bottle"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix the base",
+      "text": "Spoon 2 tbsp chocolate syrup into the bottom of each chilled glass and pour 80 ml cold milk on top. Stir with the long spoon until evenly combined."
+    },
+    {
+      "title": "Add the fizz",
+      "text": "Pour about 160 ml seltzer into each glass in a steady stream while stirring hard for about 30 seconds, until a thick white foam rises to the top."
+    },
+    {
+      "title": "Serve",
+      "text": "Drink immediately, topping up with a splash more seltzer as the foam settles."
+    }
+  ],
+  "tips": [
+    "Chill the glasses in the freezer for 10 minutes for a better foam.",
+    "A freshly opened bottle of seltzer gives the most bubbles and the tallest head.",
+    "Whole milk makes a richer, more stable foam than skimmed.",
+    "For a vanilla egg cream, use vanilla syrup instead of chocolate syrup (check it is alcohol-free)."
+  ],
+  "storage": "Not suitable for storing; it goes flat within minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 158,
+    "protein_g": 3.4,
+    "carbs_g": 30.0,
+    "sugar_g": 26.2,
+    "free_sugar_g": 22.0,
+    "fat_g": 3.1,
+    "satfat_g": 1.7,
+    "salt_g": 0.16,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "egg-cream-basic--chocolate.jpg",
+  "image_alt": "A tall glass of chocolate egg cream with a thick white foam head and a long spoon.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

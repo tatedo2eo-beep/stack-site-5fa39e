@@ -1,0 +1,131 @@
+{
+  "slug": "champurrado-thick-mexican-chocolate-masa-drink",
+  "title": "Champurrado: Thick Mexican Chocolate and Masa Drink",
+  "category": "drinks",
+  "cuisine": "Mexican",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "champurrado",
+  "dish_title": "Champurrado",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Masa harina is toasted and blended with warm water, then simmered with milk, Mexican chocolate, piloncillo, cinnamon and star anise until thick and frothy.",
+  "servings": 6,
+  "prep_min": 5,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy saucepan",
+    "blender or whisk",
+    "medium bowl",
+    "whisk or molinillo",
+    "6 mugs"
+  ],
+  "ingredients": [
+    {
+      "group": "Masa",
+      "qty": 60,
+      "unit": "g",
+      "item": "masa harina"
+    },
+    {
+      "group": "Masa",
+      "qty": 480,
+      "unit": "ml",
+      "item": "warm water"
+    },
+    {
+      "group": "Chocolate",
+      "qty": 720,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Chocolate",
+      "qty": 135,
+      "unit": "g",
+      "item": "Mexican table chocolate (such as Abuelita or Ibarra), chopped",
+      "note": "about 1½ tablets"
+    },
+    {
+      "group": "Chocolate",
+      "qty": 60,
+      "unit": "g",
+      "item": "piloncillo, grated, or dark brown sugar"
+    },
+    {
+      "group": "Chocolate",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Chocolate",
+      "qty": 2,
+      "unit": "pc",
+      "item": "cinnamon sticks"
+    },
+    {
+      "group": "Chocolate",
+      "qty": 1,
+      "unit": "pc",
+      "item": "star anise"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the masa",
+      "text": "Toast the masa harina in the dry saucepan over medium heat, stirring constantly, for about 3 minutes until fragrant and pale golden. Tip into the blender or a bowl and cool for 2 minutes."
+    },
+    {
+      "title": "Make a slurry",
+      "text": "Add the warm water and blend, or whisk hard, until completely smooth with no lumps."
+    },
+    {
+      "title": "Melt the chocolate",
+      "text": "In the same saucepan, combine the milk, chocolate, piloncillo, salt, cinnamon and star anise. Heat over medium heat, whisking, for about 5 minutes until the chocolate melts and the sugar dissolves."
+    },
+    {
+      "title": "Thicken",
+      "text": "Pour in the masa mixture, whisking. Bring to a gentle boil, then lower the heat and simmer for 8-10 minutes, whisking often and scraping the bottom so it doesn't catch, until it coats a spoon like thick custard."
+    },
+    {
+      "title": "Froth and serve",
+      "text": "Remove the cinnamon and star anise, whisk until frothy (with a molinillo if you have one) and ladle into mugs while hot."
+    }
+  ],
+  "tips": [
+    "Whisk constantly once the masa goes in; it sticks to the pan easily.",
+    "Mexican chocolate is grainy and already sweet and spiced, so taste before adding more sugar.",
+    "If you can't find piloncillo, dark brown sugar gives a similar molasses flavour.",
+    "Champurrado thickens as it stands; loosen with a splash of hot milk."
+  ],
+  "storage": "Refrigerate leftovers, covered, for up to 2 days. Reheat gently, whisking in a little milk. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 247,
+    "protein_g": 5.6,
+    "carbs_g": 40.4,
+    "sugar_g": 31.7,
+    "free_sugar_g": 25.5,
+    "fat_g": 7.5,
+    "satfat_g": 3.9,
+    "salt_g": 0.21,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "champurrado-basic.jpg",
+  "image_alt": "A steaming dark mug of thick champurrado beside a wooden molinillo and a disc of Mexican chocolate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}
