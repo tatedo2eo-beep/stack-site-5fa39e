@@ -1,0 +1,130 @@
+{
+  "slug": "rainbow-fruit-salad-lime-mint",
+  "title": "Rainbow Fruit Salad with Lime and Mint",
+  "category": "salads-bowls",
+  "cuisine": "International",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "fruit-salad",
+  "dish_title": "Fruit salad",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A colourful mix of strawberries, pineapple, mango, kiwi and blueberries tossed in a fragrant lime and mint sugar for a refreshing, no-fuss fruit salad.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "fine grater",
+    "citrus juicer",
+    "large bowl",
+    "chopping board and knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Lime sugar",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lime",
+      "note": "zest finely grated, then juiced (about 30 ml)"
+    },
+    {
+      "group": "Lime sugar",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Lime sugar",
+      "qty": 10,
+      "unit": "pc",
+      "item": "mint leaves, very finely shredded"
+    },
+    {
+      "group": "Fruit",
+      "qty": 250,
+      "unit": "g",
+      "item": "strawberries, hulled and halved or quartered"
+    },
+    {
+      "group": "Fruit",
+      "qty": 250,
+      "unit": "g",
+      "item": "fresh pineapple, cut into 2 cm chunks"
+    },
+    {
+      "group": "Fruit",
+      "qty": 1,
+      "unit": "pc",
+      "item": "ripe mango, peeled and cut into 2 cm chunks",
+      "note": "about 200 g flesh"
+    },
+    {
+      "group": "Fruit",
+      "qty": 3,
+      "unit": "pc",
+      "item": "kiwis, peeled and cut into chunks"
+    },
+    {
+      "group": "Fruit",
+      "qty": 150,
+      "unit": "g",
+      "item": "blueberries"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "small mint sprigs, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the Lime Sugar",
+      "text": "In the large bowl, rub the lime zest into the caster sugar with your fingertips for about 30 seconds until the mixture turns damp and smells strongly of lime. Rubbing the zest this way releases the fragrant oils trapped in its skin far more effectively than just scattering it on top. Stir in the lime juice and shredded mint and keep stirring until the sugar has mostly dissolved."
+    },
+    {
+      "title": "Toss in the Fruit",
+      "text": "Add the strawberries, pineapple, mango, kiwi and blueberries to the bowl and toss everything gently so the fruit doesn't bruise. Leave it to sit for 5-15 minutes, no longer, so the sugar draws out some juice from the fruit and the flavours mingle. Strawberries especially turn soft and lose their shape if they sit in the sugar for too long, so don't leave it any longer than that."
+    },
+    {
+      "title": "Serve Cold",
+      "text": "Spoon the fruit salad into bowls while it's still cold, topping each with a small mint sprig. It's best eaten the same day it's made, while the fruit is still firm and the colours are at their brightest."
+    }
+  ],
+  "tips": [
+    "Rub the lime zest into the sugar rather than just sprinkling it in loose — it releases far more of the lime's fragrance.",
+    "Common mistake: leaving the fruit to sit in the sugar for too long, which turns the strawberries mushy; 15 minutes is the limit.",
+    "Cut all the fruit into similarly sized chunks so each spoonful gets a good mix of colours and textures.",
+    "Choose ripe, in-season fruit for the best flavour, since there's nothing in the dressing to disguise underripe fruit.",
+    "Add the mint sprigs just before serving so they stay fresh-looking rather than wilting in the bowl."
+  ],
+  "storage": "Best eaten the same day it's made, as the fruit softens and releases more juice the longer it sits. It isn't suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 102,
+    "protein_g": 1.3,
+    "carbs_g": 25.8,
+    "sugar_g": 20.2,
+    "free_sugar_g": 2.1,
+    "fat_g": 0.5,
+    "satfat_g": 0.1,
+    "salt_g": 0.01,
+    "fibre_g": 3.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "fruit-salad-basic.jpg",
+  "image_alt": "Chunks of mango, pineapple, kiwi, strawberries and blueberries with mint in a black bowl.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

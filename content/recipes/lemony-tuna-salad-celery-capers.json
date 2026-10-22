@@ -1,0 +1,157 @@
+{
+  "slug": "lemony-tuna-salad-celery-capers",
+  "title": "Lemony Tuna Salad with Celery and Capers",
+  "category": "salads-bowls",
+  "cuisine": "American",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "tuna-salad",
+  "dish_title": "Tuna salad",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Flaked tuna is softened with a quick warm onion and lemon dressing before being folded with mayonnaise, celery and capers for a bright, zesty tuna salad.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 2,
+  "difficulty": "easy",
+  "equipment": [
+    "sieve",
+    "small microwave-safe bowl or small frying pan",
+    "medium bowl",
+    "fork",
+    "chopping board and knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Tuna",
+      "qty": 320,
+      "unit": "g",
+      "item": "tinned tuna, drained weight (about 3 small tins)"
+    },
+    {
+      "group": "Tuna",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tuna",
+      "qty": 50,
+      "unit": "g",
+      "item": "onion, finely chopped"
+    },
+    {
+      "group": "Tuna",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Tuna",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dressing",
+      "qty": 80,
+      "unit": "g",
+      "item": "mayonnaise (halal-certified)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "celery stick, finely diced"
+    },
+    {
+      "group": "Dressing",
+      "qty": 40,
+      "unit": "g",
+      "item": "red pepper, finely diced"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "capers, rinsed and chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 150,
+      "unit": "g",
+      "item": "crisp lettuce leaves, to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 150,
+      "unit": "g",
+      "item": "cucumber, sliced, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Drain the Tuna Well",
+      "text": "The tuna goes into the sieve first, pressed firmly with a fork to squeeze out as much liquid as possible, then flaked into the bowl. Getting it properly dry matters here, since tuna that's still wet will dilute the dressing and leave the finished salad watery rather than creamy."
+    },
+    {
+      "title": "Soften the Onion",
+      "text": "Cook the chopped onion with the olive oil in the microwave for 1-2 minutes, or in the small frying pan over low heat for about 3 minutes, until it's just softened but not browned. This brief cooking takes the raw bite out of the onion without turning it mushy or coloured."
+    },
+    {
+      "title": "Season the Tuna",
+      "text": "Once the onion is ready, stir it and its oil into the tuna along with the lemon juice and black pepper, then leave it for 10 minutes before going any further. Letting the warm, acidic mixture sit with the fish gives it time to actually absorb the flavour rather than just coating the surface."
+    },
+    {
+      "title": "Fold in the Rest",
+      "text": "Add the mayonnaise, celery, red pepper, capers and parsley and fold everything together gently. Taste the salad before reaching for any extra salt, since both the tuna and the capers are already salty and it's easy to over-season by mistake."
+    },
+    {
+      "title": "Serve and Enjoy",
+      "text": "A plate of crisp lettuce and sliced cucumber is the classic way to serve this, or pile it into sandwiches instead. It keeps well in the fridge for up to 1 day, covered."
+    }
+  ],
+  "tips": [
+    "Common mistake: skipping the step of pressing the tuna dry in a sieve — this is the biggest reason the salad ends up watery.",
+    "Taste before you add any salt; tuna and capers are both salty on their own, so extra salt is rarely needed.",
+    "Cook the onion only until softened, not browned, so it keeps a fresh bite rather than tasting sweet and caramelised.",
+    "Rinse the capers before chopping them to tone down their brininess slightly.",
+    "Let the tuna sit with the warm onion, lemon and pepper for the full 10 minutes before adding the mayonnaise — it makes a real difference to the flavour."
+  ],
+  "storage": "Keep covered in the fridge for up to 1 day. It's not suitable for freezing, as the mayonnaise will separate once thawed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard",
+    "celery",
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 348,
+    "protein_g": 24.7,
+    "carbs_g": 5.4,
+    "sugar_g": 2.3,
+    "free_sugar_g": 0.3,
+    "fat_g": 25.1,
+    "satfat_g": 4.1,
+    "salt_g": 1.34,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tuna-salad-basic.jpg",
+  "image_alt": "A mound of creamy tuna salad with crisp lettuce and cucumber slices.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

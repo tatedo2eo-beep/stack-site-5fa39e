@@ -1,0 +1,166 @@
+{
+  "slug": "tuscan-panzanella-tomato-bread-salad",
+  "title": "Tuscan Panzanella with Tomatoes, Cucumber and Basil",
+  "category": "salads-bowls",
+  "cuisine": "Italian",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "panzanella",
+  "dish_title": "Panzanella",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Toasted bread cubes soak up a tomato-juice dressing alongside salted tomatoes, cucumber and basil in this rustic Italian bread salad.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "large rimmed baking tray",
+    "colander set over a bowl",
+    "large bowl",
+    "whisk",
+    "chopping board and serrated knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Bread",
+      "qty": 250,
+      "unit": "g",
+      "item": "day-old ciabatta or crusty white bread, cut into 2.5 cm cubes"
+    },
+    {
+      "group": "Bread",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tomatoes",
+      "qty": 800,
+      "unit": "g",
+      "item": "ripe tomatoes (mixed sizes), cut into bite-size chunks"
+    },
+    {
+      "group": "Tomatoes",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "mustard powder"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dressing",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Salad",
+      "qty": 150,
+      "unit": "g",
+      "item": "cucumber, halved, seeded and sliced"
+    },
+    {
+      "group": "Salad",
+      "qty": 60,
+      "unit": "g",
+      "item": "red onion, very thinly sliced"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "capers, rinsed",
+      "note": "optional"
+    },
+    {
+      "group": "Salad",
+      "qty": 20,
+      "unit": "g",
+      "item": "basil leaves, torn"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the Bread",
+      "text": "The oven needs to be at 200°C (180°C fan) before anything else happens. Toss the bread cubes with 2 tablespoons of olive oil, spread them on the baking tray, and bake for 12-15 minutes, turning once, until they're dry and lightly golden but not rock hard. Drying the bread out this way means it can soak up plenty of dressing later without turning to mush, while still keeping some chew in the centre. Leave it to cool."
+    },
+    {
+      "title": "Salt the Tomatoes",
+      "text": "Toss the tomato chunks with the salt in the colander set over the bowl, then leave them for 15 minutes, tossing once partway through. The salt draws juice out of the tomatoes, and that juice becomes the base of the dressing rather than being wasted down the sink."
+    },
+    {
+      "title": "Whisk the Dressing",
+      "text": "Into the collected tomato juice — you should have about 60-100 ml — whisk the vinegar, garlic, mustard powder and pepper, then whisk in the 4 tablespoons of olive oil until it comes together. The tomato juice adds body and sweetness to the dressing that a plain vinegar-and-oil mix wouldn't have on its own."
+    },
+    {
+      "title": "Soak the Bread",
+      "text": "Toss the toasted bread with half the dressing in the large bowl and leave it for 10 minutes to soak it up properly. Add the salted tomatoes, cucumber, red onion and capers, then pour over the rest of the dressing and toss again until everything is well coated."
+    },
+    {
+      "title": "Rest and Finish",
+      "text": "A rest of 15-30 minutes at room temperature lets the bread finish softening and the flavours settle together. Fold in the torn basil right at the end to keep it looking fresh, then serve the same day while the bread still has some texture left."
+    }
+  ],
+  "tips": [
+    "Dry the bread out properly in the oven rather than using fresh bread straight from the bag — fresh bread turns to paste once dressed.",
+    "Common mistake: skipping the salting step for the tomatoes; that extra 15 minutes is what gives the dressing its flavour and body.",
+    "Don't dress the salad too far ahead of time — it's best eaten the same day, before the bread goes past pleasantly soft into soggy.",
+    "Seed the cucumber before slicing it so the salad doesn't end up watery.",
+    "Add the basil at the very end so it keeps its colour and doesn't turn dark and bitter."
+  ],
+  "storage": "Best eaten the same day it's made, ideally within a few hours of assembling, since the bread continues to soften the longer it sits. It isn't suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 402,
+    "protein_g": 9.2,
+    "carbs_g": 43.6,
+    "sugar_g": 9.5,
+    "free_sugar_g": 2.9,
+    "fat_g": 22.3,
+    "satfat_g": 3.2,
+    "salt_g": 2.19,
+    "fibre_g": 4.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "panzanella-advanced.jpg",
+  "image_alt": "Golden toasted bread cubes tossed with tomato chunks, cucumber, red onion and basil.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

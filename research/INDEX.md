@@ -94,6 +94,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cold-somen | Somen | Classic | 3 | 5 |
 | coronation-chicken | Coronation chicken | Classic | 2 | 5 |
 | creamy-cashew-yoghurt-chicken-curry-cardamom | Korma | Chicken | 3 | 5 |
+| creamy-chicken-salad-celery-herbs | Chicken salad | Classic | 3 | 5 |
 | creamy-potato-salad | Potato salad | Classic | 2 | 4 |
 | creamy-two-cabbage-coleslaw | Coleslaw | Classic | 3 | 5 |
 | crisp-battered-white-fish-tacos-red-cabbage-lime-crema | Taco | Fish | 3 | 5 |
@@ -113,6 +114,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crispy-shredded-hash-browns | Hash browns | Classic | 3 | 5 |
 | crispy-smashed-potatoes | Crispy smashed potatoes | Classic | 2 | 4 |
 | crispy-steak-fries | Steak fries | Classic | 3 | 5 |
+| curried-chicken-salad-mango-chutney-almonds | Chicken salad | Curry | 3 | 5 |
 | cut-out-sugar-cookies | Sugar/cut-out | Classic | 2 | 4 |
 | dill-potato-salad | Potato salad | Dill | 2 | 4 |
 | diner-style-home-fries | Home fries | Classic | 2 | 4 |
@@ -145,6 +147,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | graham-crackers | Graham crackers | Classic | 3 | 5 |
 | gratin-dauphinois | Gratin dauphinois | Classic | 2 | 4 |
 | greek-mint-oregano-meatballs | Meatballs | Greek (mint-oregano) | 2 | 4 |
+| green-pesto-pasta-salad-cherry-tomatoes | Pasta salad | Pesto | 2 | 4 |
 | green-tomatillo-chicken-enchiladas-charred-chilli-sauce | Enchilada | Green (verdes) | 3 | 5 |
 | grilled-beef-kebabs-peppers | Kebabs/skewers | Classic | 3 | 5 |
 | guacamole | Guacamole | Classic | 2 | 3 |
@@ -162,6 +165,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | iced-coffee | Iced coffee | Classic | 2 | 3 |
 | indonesian-sweet-soy-fried-rice-chicken-prawns-fried-egg | Nasi goreng | Classic | 3 | 5 |
 | irish-lamb-stew-potatoes-carrots | Irish stew | Classic | 3 | 5 |
+| italian-style-pasta-salad-mozzarella-olives | Pasta salad | Classic | 3 | 5 |
 | jamaican-braised-oxtail-butter-beans | Oxtail stew | Classic | 3 | 5 |
 | jamaican-curry-goat-rice-peas | Curry goat | Classic | 2 | 4 |
 | japanese-cotton-cheesecake | Japanese soufflé/cotton | Classic | 3 | 5 |
@@ -186,6 +190,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-cut-out-sugar-cookies | Sugar/cut-out | Lemon | 2 | 4 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
 | lemon-pound-cake | Pound cake | Lemon | 3 | 5 |
+| lemony-tuna-salad-celery-capers | Tuna salad | Classic | 3 | 5 |
 | lime-cumin-steak-fajitas-charred-peppers-onions | Fajita | Beef | 3 | 5 |
 | lo-mein | Lo mein | Classic | 2 | 4 |
 | lyonnaise-potatoes | Lyonnaise potatoes | Classic | 2 | 4 |
@@ -254,6 +259,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pound-cake | Pound cake | Classic | 2 | 4 |
 | poutine-fries-curds-gravy | Poutine | Classic | 3 | 5 |
 | pumpkin-whoopie-pies | Whoopie pie | Pumpkin | 2 | 4 |
+| rainbow-fruit-salad-lime-mint | Fruit salad | Classic | 3 | 5 |
 | raspberry-thumbprint-cookies | Thumbprints | Raspberry | 3 | 5 |
 | red-lentil-soup | Lentil | Classic | 2 | 3 |
 | red-velvet-cake | Red velvet | Classic | 2 | 4 |
@@ -310,6 +316,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | triple-cooked-chips | Pont-Neuf/triple-cooked chips | Classic | 2 | 4 |
 | trofie-al-pesto | Trofie | Classic | 3 | 5 |
 | tuna-puttanesca | Puttanesca | Tuna | 2 | 4 |
+| tuscan-panzanella-tomato-bread-salad | Panzanella | Classic | 3 | 5 |
 | upside-down-cake | Upside-down | Classic | 2 | 4 |
 | vanilla-bundt-cake | Bundt | Classic | 2 | 4 |
 | vanilla-cupcakes | Cupcakes | Classic | 2 | 4 |
