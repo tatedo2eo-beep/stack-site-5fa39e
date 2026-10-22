@@ -1,0 +1,150 @@
+{
+  "slug": "roast-chicken",
+  "title": "Classic Roast Chicken with Lemon and Thyme",
+  "category": "chicken",
+  "cuisine": "British",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "whole-roast-chicken",
+  "dish_title": "Whole roast chicken",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A whole roast chicken seasoned simply with salt, lemon and thyme, for a classic centrepiece with crisp skin, juicy meat and its own pan gravy.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 80,
+  "difficulty": "easy",
+  "equipment": [
+    "roasting tin or large ovenproof frying pan",
+    "wire rack (optional)",
+    "kitchen string (optional)",
+    "instant-read thermometer",
+    "carving board"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "whole chicken, about 1.6 kg",
+      "note": "giblets removed"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1.25,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Chicken",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, halved"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "head of garlic, halved across"
+    },
+    {
+      "group": "Chicken",
+      "qty": 6,
+      "unit": "pc",
+      "item": "sprigs fresh thyme"
+    },
+    {
+      "group": "Chicken",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium onions, thickly sliced, to sit under the bird"
+    },
+    {
+      "group": "Pan juices",
+      "qty": 150,
+      "unit": "ml",
+      "item": "water, for the pan juices"
+    },
+    {
+      "group": "Pan juices",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "plain flour"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dry-brine the bird",
+      "text": "Pat the chicken dry inside and out with kitchen paper, then rub salt all over the skin and inside the cavity. Ideally leave it uncovered on a plate in the fridge for 8-24 hours, or at least 1 hour if time is short. The salt draws out moisture then redissolves it back into the meat, seasoning it right through while leaving the skin drier for better crisping."
+    },
+    {
+      "title": "Bring to room temperature",
+      "text": "Take the chicken out of the fridge about 30 minutes before roasting to take the chill off, and heat the oven to 220°C (200°C fan). A fully preheated oven matters more than the bird's starting temperature: the first blast of heat is what starts the skin browning."
+    },
+    {
+      "title": "Butter and stuff",
+      "text": "Rub the softened butter over the skin and season with the pepper, then push the lemon halves, garlic and thyme sprigs into the cavity. Tie the legs together with string if you want a neater shape. The butter bastes the skin as it melts, while the lemon and garlic scent the meat gently from the inside."
+    },
+    {
+      "title": "Roast on onions",
+      "text": "Lay the thickly sliced onions in the base of the roasting tin and set the chicken on top, breast-side up. Roast at 220°C for 20 minutes to kick-start browning, then lower the oven to 190°C (170°C fan) and continue for 45-55 minutes more (about 65-75 minutes total for a 1.6 kg bird). The onions lift the chicken off the tin so air circulates underneath and soak up fat to flavour the pan juices."
+    },
+    {
+      "title": "Check it's cooked",
+      "text": "Look for skin that has turned deep golden all over, with juices running clear when the thigh is pierced. Confirm with a thermometer: the thickest part of the thigh, away from the bone, should read 74°C, and the breast should also reach at least 74°C. These are the slowest-cooking points, so they're the true test of doneness."
+    },
+    {
+      "title": "Rest before carving",
+      "text": "Lift the chicken onto a board, cover loosely with foil and leave to rest for 15 minutes. The meat firms up slightly as it cools a little, so it carves cleanly and loses less juice on the board, and the thigh keeps cooking gently from the inside."
+    },
+    {
+      "title": "Make the pan juices",
+      "text": "Spoon off most of the fat from the tin, then set the tin on the hob over medium heat and stir in the flour. Add the water, scraping up the browned bits stuck to the base, and simmer for 2-3 minutes until lightly thickened, then squeeze in a little juice from the roasted lemon and strain. Those browned bits carry deep, savoury flavour that the flour helps bind into a light gravy."
+    },
+    {
+      "title": "Carve and serve",
+      "text": "Cut the legs away from the body at the joint, then separate the thighs from the drumsticks. Slice the breast meat off the bone in neat pieces. Carving along the chicken's natural joints gives clean pieces instead of torn, ragged meat."
+    }
+  ],
+  "tips": [
+    "Don't skip the rest - cutting straight from the oven lets the juices run out onto the board instead of back into the meat.",
+    "Use a thermometer rather than guessing by time alone; oven and bird sizes vary, and it's the only sure way to know the thigh has reached a safe 74°C.",
+    "If the skin isn't crisp enough at the end, a few minutes under the grill (broiler) will finish it off - watch it closely so it doesn't catch.",
+    "Save the strained pan juices and any leftover bones for a simple stock rather than throwing them away."
+  ],
+  "storage": "Once cooled, store cooked chicken in the fridge for up to 3 days, or freeze meat and pan juices separately for up to 3 months. Reheat fully until piping hot and 74°C in the centre before eating, and only reheat once.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 656,
+    "protein_g": 51.2,
+    "carbs_g": 4.1,
+    "sugar_g": 1.2,
+    "free_sugar_g": 0.1,
+    "fat_g": 47.1,
+    "satfat_g": 15.6,
+    "salt_g": 2.3,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "whole-roast-chicken-basic.jpg",
+  "image_alt": "A glossy, golden whole roast chicken on a dark plate with lemon halves and sprigs of thyme beside it."
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "crispy-baked-chicken-wings",
+  "title": "Crispy Oven-Baked Chicken Wings",
+  "category": "chicken",
+  "cuisine": "American",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "chicken-wings",
+  "dish_title": "Chicken wings",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Wings are coated in a baking-powder seasoning and baked low then high on a rack, for deeply crisp, blistered skin without deep frying, served with celery and a cool garlic-chive soured cream dip.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 80,
+  "difficulty": "easy",
+  "equipment": [
+    "2 large baking trays",
+    "2 wire racks that fit the trays",
+    "large mixing bowl",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Wings",
+      "qty": 1200,
+      "unit": "g",
+      "item": "chicken wings, split into drumettes and flats",
+      "note": "tips removed"
+    },
+    {
+      "group": "Wings",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder (not bicarbonate of soda)"
+    },
+    {
+      "group": "Wings",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Wings",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Wings",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Wings",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "smoked paprika"
+    },
+    {
+      "group": "Garlic-chive dip",
+      "qty": 120,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Garlic-chive dip",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Garlic-chive dip",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely chopped chives"
+    },
+    {
+      "group": "Garlic-chive dip",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Garlic-chive dip",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "fine salt"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "celery sticks, cut into batons"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dry and season",
+      "text": "Pat the split wings thoroughly dry with kitchen paper, then toss them in a large bowl with the baking powder, salt, pepper, garlic powder and smoked paprika until lightly and evenly coated. Baking powder raises the pH of the skin, helping it brown deeply and blister as it bakes - never use bicarbonate of soda here, as it leaves a soapy taste."
+    },
+    {
+      "title": "Arrange on racks",
+      "text": "Spread the wings skin-side up on wire racks set over two baking trays, spacing them so they don't touch. For extra crispness, refrigerate uncovered for 1 hour up to overnight before baking, which dries the skin further; this step is optional."
+    },
+    {
+      "title": "Render at low heat",
+      "text": "Bake at 120°C (100°C fan) on the lower-middle shelves for 30 minutes. This gentle start slowly renders fat out of the skin before any colour develops, setting up a crisper, less greasy finish later."
+    },
+    {
+      "title": "Blast at high heat",
+      "text": "Raise the oven to 220°C (200°C fan) and bake for a further 40-50 minutes, swapping the trays' shelf positions halfway through. Bake until the skin is deep golden, blistered and crackly, and the thickest drumette reads at least 74°C - wings are especially good taken to 80°C or above, where the connective tissue softens right through."
+    },
+    {
+      "title": "Rest briefly",
+      "text": "Pull the wings from the oven and leave them for 5 minutes before touching. This short rest lets residual steam escape so the crackly skin doesn't go soft underneath."
+    },
+    {
+      "title": "Make the dip and serve",
+      "text": "While the wings rest, stir the soured cream with the garlic powder, chives, lemon juice and a pinch of salt. Pile the wings onto a platter with the celery sticks and the dip, and serve straight away while the skin is at its crispest."
+    }
+  ],
+  "tips": [
+    "Pat the wings really dry before coating - any surface moisture steams in the oven and stops the skin crisping properly.",
+    "Always use baking powder, not bicarbonate of soda; they look similar but bicarbonate leaves a distinctly soapy, bitter taste.",
+    "Give the wings space on the rack - crowding them traps steam between pieces and stops the skin blistering evenly.",
+    "Swap the trays between shelves halfway through the hot bake, since ovens rarely heat perfectly evenly top to bottom."
+  ],
+  "storage": "Keep cooked wings in the fridge for up to 3 days, or freeze for up to 2 months. Reheat in a hot oven until piping hot and 74°C in the centre to bring back some crispness; microwaving will leave the skin soft.",
+  "allergens": [
+    "milk",
+    "celery"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 428,
+    "protein_g": 33.9,
+    "carbs_g": 4.6,
+    "sugar_g": 1.7,
+    "free_sugar_g": 0.0,
+    "fat_g": 29.9,
+    "satfat_g": 9.7,
+    "salt_g": 2.58,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chicken-wings-basic.jpg",
+  "image_alt": "Crisp, golden baked chicken wings on a dark plate with celery sticks and a bowl of creamy white dip."
+}

@@ -1,0 +1,179 @@
+{
+  "slug": "poached-chicken",
+  "title": "Gently Poached Chicken with Herb Broth",
+  "category": "chicken",
+  "cuisine": "International",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "poached",
+  "dish_title": "Poached",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chicken breasts are gently poached in an aromatic broth until just tender, then served sliced with a bright herb and caper dressing.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan or deep sauté pan with lid (24 cm)",
+    "instant-read thermometer",
+    "slotted spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 4,
+      "unit": "pc",
+      "item": "skinless chicken breasts, about 700 g"
+    },
+    {
+      "group": "Poaching liquid",
+      "qty": 1500,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Poaching liquid",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "fine salt",
+      "note": "mostly stays in the liquid"
+    },
+    {
+      "group": "Poaching liquid",
+      "qty": 1,
+      "unit": "pc",
+      "item": "onion, quartered"
+    },
+    {
+      "group": "Poaching liquid",
+      "qty": 1,
+      "unit": "pc",
+      "item": "carrot, sliced"
+    },
+    {
+      "group": "Poaching liquid",
+      "qty": 1,
+      "unit": "pc",
+      "item": "celery stick, sliced",
+      "note": "leave out if avoiding celery"
+    },
+    {
+      "group": "Poaching liquid",
+      "qty": 4,
+      "unit": "pc",
+      "item": "slices fresh ginger"
+    },
+    {
+      "group": "Poaching liquid",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "Poaching liquid",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "black peppercorns"
+    },
+    {
+      "group": "Poaching liquid",
+      "qty": 6,
+      "unit": "pc",
+      "item": "sprigs parsley stalks"
+    },
+    {
+      "group": "Herb dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra virgin olive oil"
+    },
+    {
+      "group": "Herb dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Herb dressing",
+      "qty": 15,
+      "unit": "g",
+      "item": "parsley leaves, chopped"
+    },
+    {
+      "group": "Herb dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "capers, chopped"
+    },
+    {
+      "group": "Herb dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Herb dressing",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "fine salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Flavour the liquid",
+      "text": "Combine the water, salt, onion, carrot, celery, ginger, bay leaves, peppercorns and parsley stalks in a large pan. Bring to the boil, then simmer for 10 minutes before adding the chicken. This gives the vegetables and aromatics time to flavour the liquid, which in turn seasons the chicken as it cooks."
+    },
+    {
+      "title": "Add the chicken",
+      "text": "Lower the breasts into the pan in a single layer, making sure they're covered by at least 2 cm of liquid. Top up with a little extra water if needed so every piece is fully submerged."
+    },
+    {
+      "title": "Poach gently",
+      "text": "Bring the liquid back to a bare simmer, then turn the heat right down so it barely shivers at around 75-80°C, never a rolling boil. Cover and cook for 18-24 minutes until the thickest part of the breast reads 74°C on a thermometer. Gentle heat keeps lean breast meat tender; a boil tightens the proteins fast and squeezes out moisture."
+    },
+    {
+      "title": "Rest in the liquid",
+      "text": "If time allows, turn off the heat and leave the chicken sitting in the liquid for a further 5 minutes before lifting it out. This optional rest lets the meat finish gently and settle without any risk of overcooking, since the liquid is no longer actively heating it."
+    },
+    {
+      "title": "Make the dressing",
+      "text": "Whisk together the olive oil, lemon juice, chopped parsley, capers, grated garlic and a pinch of salt in a small bowl. The sharp, salty dressing contrasts nicely with the plain, delicate poached chicken."
+    },
+    {
+      "title": "Slice and serve",
+      "text": "Lift the chicken from the liquid with a slotted spoon and slice. Serve with the herb dressing spooned over, and strain the poaching liquid to keep as a light broth for soups or cooking rice."
+    }
+  ],
+  "tips": [
+    "Keep the liquid barely shivering, not boiling, throughout cooking - this is the single biggest factor in whether the breast meat stays moist or turns dry.",
+    "Make sure the chicken is fully submerged by at least 2 cm of liquid so it cooks evenly all over, not just where it touches the liquid.",
+    "Check the thickest part of the breast with a thermometer rather than cutting it open to look, since cutting lets valuable juices escape.",
+    "Don't throw away the strained poaching liquid - it's a ready-flavoured broth that's worth keeping for soups or cooking grains.",
+    "Serve it warm with steamed green vegetables, or cold in salads and sandwiches."
+  ],
+  "storage": "Store sliced poached chicken in the fridge for up to 3 days, or freeze for up to 3 months; keep the strained broth separately in the fridge for up to 3 days or frozen for up to 3 months. Reheat gently until piping hot and 74°C throughout, or use cold straight from the fridge in salads and sandwiches.",
+  "allergens": [
+    "celery"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 303,
+    "protein_g": 39.6,
+    "carbs_g": 1.1,
+    "sugar_g": 0.2,
+    "free_sugar_g": 0.2,
+    "fat_g": 14.7,
+    "satfat_g": 2.4,
+    "salt_g": 1.18,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "poached-basic.jpg",
+  "image_alt": "Slices of pale, moist poached chicken breast on a dark plate with bright green vegetables."
+}

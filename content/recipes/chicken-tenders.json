@@ -1,0 +1,172 @@
+{
+  "slug": "chicken-tenders",
+  "title": "Crispy Chicken Tenders",
+  "category": "chicken",
+  "cuisine": "American",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "nuggets-tenders",
+  "dish_title": "Nuggets/tenders",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Buttermilk-soaked chicken strips are coated in a seasoned panko crumb and fried until golden, served with a quick honey mustard dip.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy cast-iron or deep frying pan (28-30 cm) or heavy pot",
+    "frying thermometer",
+    "wire rack set over a tray",
+    "tongs",
+    "instant-read thermometer",
+    "large bowl",
+    "shallow dish"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 600,
+      "unit": "g",
+      "item": "chicken breast or mini fillets, cut into 2 cm-wide strips"
+    },
+    {
+      "group": "Chicken",
+      "qty": 250,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Coating",
+      "qty": 100,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Coating",
+      "qty": 100,
+      "unit": "g",
+      "item": "panko breadcrumbs"
+    },
+    {
+      "group": "Coating",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Coating",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Coating",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "For frying",
+      "qty": 1200,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    },
+    {
+      "group": "Honey mustard dip",
+      "qty": 60,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Honey mustard dip",
+      "qty": 20,
+      "unit": "g",
+      "item": "Dijon mustard"
+    },
+    {
+      "group": "Honey mustard dip",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "honey"
+    },
+    {
+      "group": "Honey mustard dip",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cut and soak",
+      "text": "Slice the chicken breast into strips about 2 cm wide, or use mini fillets with the white tendon pulled out. Submerge the strips in the buttermilk mixed with salt and garlic powder, and leave in the fridge for anywhere from 30 minutes up to 12 hours. The buttermilk's mild acidity gently tenderises the meat while seasoning it right through."
+    },
+    {
+      "title": "Mix the coating",
+      "text": "Combine the flour, panko, paprika, salt and pepper in a shallow dish, then crush the panko lightly between your fingers as you mix. Breaking the crumbs down slightly helps the coating cling evenly rather than falling off in clumps."
+    },
+    {
+      "title": "Coat the strips",
+      "text": "Lift each strip from the buttermilk, letting the excess drip off, then press firmly into the coating on all sides. Rest the coated strips on a wire rack for 10 minutes before frying, which gives the crumb time to set onto the surface."
+    },
+    {
+      "title": "Heat the oil",
+      "text": "Pour the oil into a heavy pot to a depth of about 4 cm and heat to 175°C, checking with a frying thermometer. Getting the temperature right before frying starts keeps the thin strips from burning outside or staying raw within their short cooking time."
+    },
+    {
+      "title": "Fry in batches",
+      "text": "Fry 5-6 strips at a time for 3-4 minutes, turning once partway through, until deep golden and the thickest strip reads 74°C. Frying in small batches keeps the oil temperature steady, so each batch browns at the same even rate."
+    },
+    {
+      "title": "Drain and season",
+      "text": "Lift the cooked strips onto a wire rack to drain, and sprinkle lightly with salt while still hot. Salting immediately helps it dissolve slightly into the warm, oily crust rather than sitting on top as loose grains."
+    },
+    {
+      "title": "Make the dip",
+      "text": "Whisk together the mayonnaise, Dijon mustard, honey and lemon juice in a small bowl until smooth. Serve alongside the warm tenders for dipping."
+    }
+  ],
+  "tips": [
+    "Pull the white tendon out of mini fillets before cooking - it toughens and curls up when fried, which is unpleasant to bite into.",
+    "Don't skip the 10-minute rest after coating; it lets the crumb bind to the chicken so less of it falls off in the oil.",
+    "Fry in small batches of 5-6 strips rather than crowding the pot, since too much chicken at once drops the oil temperature and leaves the coating soft.",
+    "Check doneness with a thermometer rather than by colour alone - thin strips can look done outside before the middle reaches a safe 74°C."
+  ],
+  "storage": "Cooked tenders keep in the fridge for up to 3 days, or freeze for up to 2 months. Reheat in a hot oven until piping hot and 74°C in the centre to keep the crust crisp rather than soft from a microwave.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 561,
+    "protein_g": 38.6,
+    "carbs_g": 28.8,
+    "sugar_g": 6.6,
+    "free_sugar_g": 5.5,
+    "fat_g": 31.6,
+    "satfat_g": 4.1,
+    "salt_g": 2.49,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "nuggets-tenders-basic.jpg",
+  "image_alt": "Crunchy golden chicken tenders on a dark plate with a small bowl of honey mustard dip."
+}

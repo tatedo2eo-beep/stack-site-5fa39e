@@ -1,0 +1,148 @@
+{
+  "slug": "garlic-parmesan-chicken-wings",
+  "title": "Garlic Parmesan Chicken Wings",
+  "category": "chicken",
+  "cuisine": "American",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "chicken-wings",
+  "dish_title": "Chicken wings",
+  "flavour": "Garlic-parmesan",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "crispy-baked-chicken-wings",
+  "changes_from_base": "Same baking-powder oven method as the Classic wings. The hot wings are tossed in gently cooked garlic butter with chilli flakes, then in grated parmesan and parsley.",
+  "summary": "These wings use the same baking-powder oven method as the classic recipe, then get tossed in gently cooked garlic butter with chilli flakes before a final toss in parmesan and parsley.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 80,
+  "difficulty": "easy",
+  "equipment": [
+    "2 large baking trays",
+    "2 wire racks that fit the trays",
+    "large mixing bowl",
+    "instant-read thermometer",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Wings",
+      "qty": 1200,
+      "unit": "g",
+      "item": "chicken wings, split into drumettes and flats",
+      "note": "tips removed"
+    },
+    {
+      "group": "Wings",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder (not bicarbonate of soda)"
+    },
+    {
+      "group": "Wings",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Wings",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Garlic parmesan butter",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Garlic parmesan butter",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Garlic parmesan butter",
+      "qty": 40,
+      "unit": "g",
+      "item": "parmesan, finely grated"
+    },
+    {
+      "group": "Garlic parmesan butter",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "finely chopped parsley"
+    },
+    {
+      "group": "Garlic parmesan butter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "chilli flakes"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dry and season",
+      "text": "Pat the split wings dry with kitchen paper, then toss with the baking powder, salt and pepper in a large bowl, as in the classic base method. Baking powder raises the pH of the skin so it browns and blisters in the oven; use baking powder rather than bicarbonate of soda, which leaves a soapy taste."
+    },
+    {
+      "title": "Arrange on racks",
+      "text": "Spread the wings skin-side up on wire racks over two trays, leaving space between them. Refrigerating uncovered for 1 hour up to overnight dries the skin further for extra crispness, though it's optional."
+    },
+    {
+      "title": "Render at low heat",
+      "text": "Bake at 120°C (100°C fan) on the lower-middle shelves for 30 minutes to render the fat out slowly. This gentle stage sets up a crisper skin once the oven temperature rises."
+    },
+    {
+      "title": "Blast at high heat",
+      "text": "Turn the oven up to 220°C (200°C fan) and bake for a further 40-50 minutes, swapping the trays halfway through. Bake until deep golden and blistered, with the thickest drumette reading at least 74°C, ideally closer to 80°C for maximum tenderness."
+    },
+    {
+      "title": "Make the garlic butter",
+      "text": "Melt the butter in a small saucepan over low heat, add the grated garlic and chilli flakes, and cook for 1-2 minutes until fragrant and just turning pale gold. Keep the heat low and watch closely, since browned garlic turns bitter almost instantly and would spoil the whole dish."
+    },
+    {
+      "title": "Toss in garlic butter",
+      "text": "Rest the wings for 5 minutes, then tip them into a big bowl and toss with the warm garlic butter until evenly coated. The butter gives the parmesan something to stick to in the next step."
+    },
+    {
+      "title": "Finish with parmesan",
+      "text": "Add the grated parmesan and chopped parsley to the bowl and toss again briefly so the cheese clings to the buttery skin and softens slightly. Serve immediately with lemon wedges."
+    }
+  ],
+  "tips": [
+    "Cook the garlic only until pale gold, not brown - burnt garlic turns sharply bitter and there's no fixing it once it happens.",
+    "Toss the parmesan in after the butter, not before, so it sticks to the buttery surface rather than clumping in the pan.",
+    "Grate the garlic finely rather than chopping it, so it cooks evenly in the short time it's in the butter.",
+    "Serve these wings as soon as they're tossed - the cheese is at its best while the wings are still hot."
+  ],
+  "storage": "Keep plain baked wings in the fridge for up to 3 days or freeze for 2 months; make the garlic butter and parmesan topping fresh rather than storing it sauced. Reheat wings in a hot oven until piping hot (74°C) before tossing in a fresh batch of garlic butter and parmesan.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 474,
+    "protein_g": 36.6,
+    "carbs_g": 2.4,
+    "sugar_g": 0.2,
+    "free_sugar_g": 0.1,
+    "fat_g": 34.7,
+    "satfat_g": 13.4,
+    "salt_g": 2.42,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chicken-wings-basic--garlic-parmesan.jpg",
+  "image_alt": "Crisp chicken wings coated in grated parmesan and chopped parsley on a dark plate."
+}

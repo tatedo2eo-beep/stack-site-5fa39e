@@ -1,0 +1,163 @@
+{
+  "slug": "buffalo-chicken-wings",
+  "title": "Buffalo Chicken Wings",
+  "category": "chicken",
+  "cuisine": "American",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "chicken-wings",
+  "dish_title": "Chicken wings",
+  "flavour": "Buffalo",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "crispy-baked-chicken-wings",
+  "changes_from_base": "Same baking-powder oven method as the Classic wings, without the paprika and garlic rub. The hot wings are tossed in a butter and hot-sauce buffalo sauce and served with a blue cheese dip and celery.",
+  "summary": "These wings follow the same baking-powder base method as the classic oven-baked wings, minus the paprika and garlic, then get tossed in a glossy butter and hot-sauce buffalo sauce with a cooling blue cheese dip and celery.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 80,
+  "difficulty": "easy",
+  "equipment": [
+    "2 large baking trays",
+    "2 wire racks that fit the trays",
+    "large mixing bowl",
+    "instant-read thermometer",
+    "small saucepan",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Wings",
+      "qty": 1200,
+      "unit": "g",
+      "item": "chicken wings, split into drumettes and flats",
+      "note": "tips removed"
+    },
+    {
+      "group": "Wings",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder (not bicarbonate of soda)"
+    },
+    {
+      "group": "Wings",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Wings",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Buffalo sauce",
+      "qty": 90,
+      "unit": "ml",
+      "item": "vinegar-based cayenne hot pepper sauce"
+    },
+    {
+      "group": "Buffalo sauce",
+      "qty": 45,
+      "unit": "g",
+      "item": "unsalted butter, cold, cubed"
+    },
+    {
+      "group": "Buffalo sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Blue cheese dip",
+      "qty": 40,
+      "unit": "g",
+      "item": "blue cheese, crumbled"
+    },
+    {
+      "group": "Blue cheese dip",
+      "qty": 60,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Blue cheese dip",
+      "qty": 30,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Blue cheese dip",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "celery sticks, cut into batons"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dry and season",
+      "text": "Pat the split wings dry with kitchen paper, then toss in a large bowl with the baking powder, salt and pepper until lightly coated, using the same base method as the classic oven wings but without the paprika and garlic powder, since the sauce carries plenty of flavour on its own. Baking powder raises the skin's pH so it browns and blisters properly; never swap in bicarbonate of soda, which tastes soapy."
+    },
+    {
+      "title": "Arrange on racks",
+      "text": "Lay the wings skin-side up on wire racks over two trays, spaced apart so air reaches all sides. Refrigerating uncovered for 1 hour up to overnight dries the skin further for an even crisper bake, though this step is optional."
+    },
+    {
+      "title": "Render at low heat",
+      "text": "Bake at 120°C (100°C fan) on the lower-middle shelves for 30 minutes. This slow start renders out fat gently before the skin starts to colour, leaving it crisper rather than greasy once it browns."
+    },
+    {
+      "title": "Blast at high heat",
+      "text": "Increase the oven to 220°C (200°C fan) and bake for a further 40-50 minutes, swapping the trays halfway through. Continue until deep golden and blistered, with the thickest drumette reading at least 74°C, ideally pushed to 80°C or beyond so the connective tissue softens fully."
+    },
+    {
+      "title": "Make the buffalo sauce",
+      "text": "While the wings finish baking, warm the hot sauce and garlic powder in a small saucepan over low heat until steaming but not boiling. Take the pan off the heat and whisk in the cold butter a few cubes at a time until glossy and emulsified. Keeping it off direct heat as the butter goes in stops the sauce splitting into an oily mess - boiling it will do exactly that."
+    },
+    {
+      "title": "Make the blue cheese dip",
+      "text": "Mash the blue cheese roughly with the soured cream, mayonnaise and lemon juice in a bowl, leaving it a little chunky rather than smooth. The texture contrast against the sauce and crisp wings is part of the appeal."
+    },
+    {
+      "title": "Toss and serve",
+      "text": "Rest the wings for 5 minutes, then tip them into a big bowl and toss with the warm buffalo sauce right before serving. Serve immediately with the blue cheese dip and celery batons, since the skin only stays crisp for a short while once sauced."
+    }
+  ],
+  "tips": [
+    "Take the pan off the heat before whisking in the butter - adding it over direct heat or letting the sauce boil will split it into an oily puddle instead of a glossy sauce.",
+    "Add the butter a few cubes at a time rather than all at once, so each addition has a chance to emulsify.",
+    "Toss the wings in sauce only just before serving, not earlier, or the crisp skin will turn soft underneath.",
+    "Leave the blue cheese dip a little lumpy rather than mashing it smooth - it holds up better alongside the hot wings."
+  ],
+  "storage": "Un-sauced baked wings keep in the fridge for up to 3 days or freeze for 2 months; keep the blue cheese dip separately in the fridge for up to 3 days. Reheat plain wings in a hot oven until piping hot (74°C) before saucing, rather than reheating them once already coated.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "mustard",
+    "celery"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 563,
+    "protein_g": 35.7,
+    "carbs_g": 3.7,
+    "sugar_g": 1.5,
+    "free_sugar_g": 0.1,
+    "fat_g": 44.6,
+    "satfat_g": 16.7,
+    "salt_g": 3.63,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chicken-wings-basic--buffalo.jpg",
+  "image_alt": "Glossy orange buffalo chicken wings on a dark plate with celery sticks and a bowl of blue cheese dip."
+}

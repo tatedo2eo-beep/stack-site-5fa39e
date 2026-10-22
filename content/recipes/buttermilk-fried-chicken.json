@@ -1,0 +1,167 @@
+{
+  "slug": "buttermilk-fried-chicken",
+  "title": "Buttermilk-Brined Fried Chicken",
+  "category": "chicken",
+  "cuisine": "American (Southern)",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "fried-chicken-southern",
+  "dish_title": "Fried chicken (Southern)",
+  "flavour": "Buttermilk-brined",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "southern-fried-chicken",
+  "changes_from_base": "Same pieces, oil temperature and frying times as the Classic Southern Fried Chicken. The dry brine and egg wash are replaced by a 4-24 hour salted buttermilk soak with hot sauce, and the flour gets baking powder and buttermilk clumps for an extra-craggy crust.",
+  "summary": "This follows the same classic Southern frying method, temperature and times, but swaps the dry brine and egg wash for a tangy, salted buttermilk soak with hot sauce, plus a craggy baking-powder crust.",
+  "servings": 4,
+  "prep_min": 30,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "large heavy cast-iron or deep frying pan (28-30 cm) or heavy pot",
+    "frying thermometer",
+    "wire rack set over a tray",
+    "tongs",
+    "instant-read thermometer",
+    "large bowl or zip bag",
+    "wide shallow bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Buttermilk brine",
+      "qty": 1200,
+      "unit": "g",
+      "item": "chicken pieces on the bone: thighs and drumsticks, skin on",
+      "note": "8 pieces"
+    },
+    {
+      "group": "Buttermilk brine",
+      "qty": 500,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Buttermilk brine",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Buttermilk brine",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "hot pepper sauce"
+    },
+    {
+      "group": "Buttermilk brine",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Seasoned flour",
+      "qty": 200,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Seasoned flour",
+      "qty": 30,
+      "unit": "g",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "Seasoned flour",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Seasoned flour",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Seasoned flour",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Seasoned flour",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Seasoned flour",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Seasoned flour",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "For frying",
+      "qty": 1500,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Buttermilk brine",
+      "text": "Combine the buttermilk, salt, hot pepper sauce and garlic powder in a large bowl or zip bag, add the chicken pieces and turn to coat. Cover and refrigerate for 4-24 hours. The salt seasons the meat right through, while the buttermilk's mild acidity helps keep it tender and juicy."
+    },
+    {
+      "title": "Build the craggy flour",
+      "text": "Whisk the flour, cornflour, baking powder and seasonings together in a shallow dish. Drizzle in about 3 tablespoons of the buttermilk marinade and rub it through with your fingers until it forms small, craggy clumps. The baking powder lifts and aerates the crust as it fries, while the buttermilk clumps create extra texture and shatter."
+    },
+    {
+      "title": "Coat the chicken",
+      "text": "Lift each piece from the marinade, letting the excess drip off for a few seconds, then press firmly into the flour mixture on all sides, working the clumps into the surface. Rest the coated pieces on a rack for 15 minutes so the coating sets before frying."
+    },
+    {
+      "title": "Fry until deep golden",
+      "text": "Heat the oil to 165°C in a heavy pot or deep pan, then fry the pieces in batches, turning regularly, as the oil settles to 150-160°C. Fry for 13-16 minutes until the crust is deep golden and craggy and the thickest part of the thigh reads 77-80°C. The extra-textured crust browns a little more unevenly than a smooth dredge, which gives the rough look this style is known for."
+    },
+    {
+      "title": "Drain and rest",
+      "text": "Lift the pieces onto a wire rack to drain any excess oil. Letting them sit for a few minutes keeps the crust crisp, since steam escapes upward instead of being trapped against a plate."
+    }
+  ],
+  "tips": [
+    "Don't cut the buttermilk soak short - at least 4 hours gives the acidity time to tenderise the meat, though it can safely go up to 24 hours.",
+    "Work the buttermilk into the flour with your fingertips rather than a spoon, so you get genuine craggy clumps instead of a smooth paste.",
+    "Watch the oil temperature during frying just as for the classic recipe - the thicker, clumpy crust can burn outside if the oil runs too hot.",
+    "Let excess marinade drip off before dredging, or the flour will turn gluey rather than forming a crisp crust."
+  ],
+  "storage": "Keep leftovers in the fridge for up to 3 days or freeze for up to 2 months. Reheat in a hot oven until piping hot and 74°C in the centre, to stop the crust going soft.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 773,
+    "protein_g": 36.2,
+    "carbs_g": 25.1,
+    "sugar_g": 2.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 58.1,
+    "satfat_g": 10.9,
+    "salt_g": 2.65,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "fried-chicken-southern-basic--buttermilk-brined.jpg",
+  "image_alt": "Buttermilk-brined fried chicken drumsticks and thighs with a thick, rough golden crust on a dark slate plate."
+}

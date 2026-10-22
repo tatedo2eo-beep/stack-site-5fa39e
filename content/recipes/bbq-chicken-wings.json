@@ -1,0 +1,148 @@
+{
+  "slug": "bbq-chicken-wings",
+  "title": "Sticky BBQ Chicken Wings",
+  "category": "chicken",
+  "cuisine": "American",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "chicken-wings",
+  "dish_title": "Chicken wings",
+  "flavour": "BBQ",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "crispy-baked-chicken-wings",
+  "changes_from_base": "Same baking-powder oven method as the Classic wings, with smoked paprika in the coating. The baked wings are tossed in a warm, tangy BBQ-honey glaze and topped with spring onion.",
+  "summary": "These wings follow the same baking-powder base method as the classic recipe with smoked paprika added, then get tossed in a warm, tangy BBQ-honey glaze and topped with spring onion.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 80,
+  "difficulty": "easy",
+  "equipment": [
+    "2 large baking trays",
+    "2 wire racks that fit the trays",
+    "large mixing bowl",
+    "instant-read thermometer",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Wings",
+      "qty": 1200,
+      "unit": "g",
+      "item": "chicken wings, split into drumettes and flats",
+      "note": "tips removed"
+    },
+    {
+      "group": "Wings",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder (not bicarbonate of soda)"
+    },
+    {
+      "group": "Wings",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "group": "Wings",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Wings",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "smoked paprika"
+    },
+    {
+      "group": "BBQ glaze",
+      "qty": 150,
+      "unit": "g",
+      "item": "barbecue sauce (alcohol-free)"
+    },
+    {
+      "group": "BBQ glaze",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "honey"
+    },
+    {
+      "group": "BBQ glaze",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "BBQ glaze",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dry and season",
+      "text": "Pat the split wings dry, then toss with the baking powder, salt, pepper and smoked paprika in a large bowl, following the same base method as the classic oven wings. The baking powder raises the skin's pH to help it blister and brown; always use baking powder here, never bicarbonate of soda, which tastes soapy."
+    },
+    {
+      "title": "Arrange on racks",
+      "text": "Lay the wings skin-side up on wire racks over two trays, spaced apart. Refrigerating uncovered for 1 hour up to overnight dries the skin further, though this step can be skipped if pressed for time."
+    },
+    {
+      "title": "Render at low heat",
+      "text": "Bake at 120°C (100°C fan) on the lower-middle shelves for 30 minutes to render out the fat gently. This keeps the skin from browning too fast before the fat underneath has had a chance to melt away."
+    },
+    {
+      "title": "Blast at high heat",
+      "text": "Raise the oven to 220°C (200°C fan) and bake for 40-50 minutes, swapping the trays halfway through. Continue until deep golden and blistered, with the thickest drumette at least 74°C - pushing to 80°C or above gives a more tender result."
+    },
+    {
+      "title": "Make the glaze",
+      "text": "While the wings bake, simmer the barbecue sauce, honey, cider vinegar and cayenne pepper together in a small saucepan for 2-3 minutes until slightly thickened. Simmering concentrates the glaze a little so it clings to the wings rather than running straight off."
+    },
+    {
+      "title": "Toss in the glaze",
+      "text": "Rest the baked wings for 5 minutes, then tip them into a big bowl with the warm glaze and toss until every piece is coated and sticky. Adding the glaze after baking rather than in the oven means the sugars can't scorch on the hot trays."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Scatter over the sliced spring onions and serve while still warm, with plenty of napkins. The crisp skin underneath holds the glaze without going soggy if you eat them soon after tossing."
+    }
+  ],
+  "tips": [
+    "Keep an eye on the wings once the glaze goes on - the sugars caramelise quickly under high heat and can burn in just a minute or two.",
+    "Brush the glaze on generously but only in the last 8-10 minutes, not earlier, or it will burn long before the wings finish cooking.",
+    "Simmer the glaze until just slightly thickened, not syrupy, so it coats the wings rather than clumping.",
+    "Toss with the reserved glaze after baking for an extra layer of stickiness, rather than relying on what's brushed on alone.",
+    "Bottled barbecue sauces vary: check the label for alcohol, gluten (malt vinegar or Worcestershire sauce) and allergens such as mustard, celery or fish before you buy."
+  ],
+  "storage": "Keep glazed wings in the fridge for up to 3 days; freezing isn't recommended once sauced, as the glaze can turn watery on thawing. Reheat in a hot oven until piping hot and 74°C in the centre.",
+  "allergens": [
+    "sulphites"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 443,
+    "protein_g": 33.2,
+    "carbs_g": 21.4,
+    "sugar_g": 17.0,
+    "free_sugar_g": 16.8,
+    "fat_g": 24.3,
+    "satfat_g": 6.6,
+    "salt_g": 2.62,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chicken-wings-basic--bbq.jpg",
+  "image_alt": "Dark, sticky barbecue-glazed chicken wings piled on a black plate."
+}
