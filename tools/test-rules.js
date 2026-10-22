@@ -1,0 +1,27 @@
+// Quick sanity tests for the healthy/diet/allergen rules: node tools/test-rules.js
+const R = require('../src/lib/rules'); const assert = require('assert');
+const base = { slug: 't', title: 'T', category: 'chicken', cuisine: 'x', summary: 's', servings: 2, prep_min: 5, cook_min: 5, difficulty: 'easy', equipment: [], steps: [{ title: 'a', text: 'b' }], tips: [], storage: 's', allergens: [], diet: [], nutrition_source: 'USDA', image: null, image_alt: '' };
+const mk = (ings, n, extra) => ({ ...base, ingredients: ings.map(([qty, unit, item]) => ({ qty, unit, item })), nutrition_per_serving: { kcal: 400, protein_g: 20, carbs_g: 40, sugar_g: 5, free_sugar_g: 0, fat_g: 10, satfat_g: 2, salt_g: 1, fibre_g: 6, ...n }, ...extra });
+let ok = 0; const t = (name, fn) => { fn(); ok++; };
+t('cups rejected', () => assert(R.validate(mk([[1, 'cup', 'rice']])).errors.some(e => /not metric/.test(e))));
+t('valid recipe passes', () => assert.deepStrictEqual(R.validate(mk([[100, 'g', 'rice']])).errors, []));
+t('high protein at 10 g/100 kcal', () => assert(R.health(mk([], { protein_g: 40 })).highProtein.pass));
+t('not high protein at 9.9', () => assert(!R.health(mk([], { protein_g: 39.6 })).highProtein.pass));
+t('WHO: fat 30% passes, 31% fails', () => { assert(R.health(mk([], { fat_g: 13.33 })).who.pass); assert(!R.health(mk([], { fat_g: 13.8 })).who.pass); });
+t('WHO: satfat exactly 10% fails (<10)', () => assert(!R.health(mk([], { satfat_g: 400 * 0.1 / 9 })).who.pass));
+t('WHO: free sugar 10% fails', () => assert(!R.health(mk([], { free_sugar_g: 10, sugar_g: 12 })).who.pass));
+t('WHO: meal salt 1.7 ok, 1.8 fails', () => { assert(R.health(mk([], { salt_g: 1.7 })).who.pass); assert(!R.health(mk([], { salt_g: 1.8 })).who.pass); });
+t('WHO: snack salt scaled by energy', () => { assert(!R.health(mk([], { salt_g: 1.2 }, { category: 'snacks-sides' })).who.pass); assert(R.health(mk([], { salt_g: 0.9 }, { category: 'snacks-sides' })).who.pass); });
+t('WHO: low fibre passes via 80 g veg', () => { const r = mk([[200, 'g', 'baby spinach']], { fibre_g: 1 }); assert(R.health(r).who.pass); });
+t('WHO: potatoes do not count as veg', () => assert(!R.health(mk([[400, 'g', 'potatoes']], { fibre_g: 1 })).who.pass));
+t('vegan dropped when butter', () => assert(R.checkDiet(mk([[10, 'g', 'butter']], {}, { diet: ['vegan'] }), ['milk']).list.length === 0));
+t('vegan ok with peanut butter + coconut milk', () => { const r = mk([[10, 'g', 'peanut butter'], [100, 'ml', 'coconut milk']], {}, { diet: ['vegan'] }); assert.deepStrictEqual(R.checkDiet(r, ['peanuts']).list, ['dairy-free', 'vegetarian', 'vegan']); });
+t('vegetarian dropped with chicken stock', () => assert(!R.checkDiet(mk([[100, 'ml', 'chicken stock']], {}, { diet: ['vegetarian'] }), []).list.length));
+t('vegetarian ok with vegetable stock', () => assert(R.checkDiet(mk([[100, 'ml', 'vegetable stock']], {}, { diet: ['vegetarian'] }), []).list.includes('vegetarian')));
+t('sugar-free dropped with honey', () => assert(!R.checkDiet(mk([[1, 'tbsp', 'honey']], {}, { diet: ['sugar-free'] }), []).list.length));
+t('sugar-free ok with sugar snap peas', () => assert(R.checkDiet(mk([[100, 'g', 'sugar snap peas']], {}, { diet: ['sugar-free'] }), []).list.length === 1));
+t('gluten-free dropped when flour', () => { const r = mk([[100, 'g', 'plain flour']], {}, { diet: ['gluten-free'] }); const a = R.checkAllergens(r); assert(a.list.includes('gluten')); assert(!R.checkDiet(r, a.list).list.length); });
+t('rice flour is not gluten', () => assert(!R.checkAllergens(mk([[100, 'g', 'rice flour']])).list.includes('gluten')));
+t('allergen auto-add: parmesan -> milk, tahini -> sesame', () => { const a = R.checkAllergens(mk([[10, 'g', 'parmesan'], [1, 'tbsp', 'tahini']])).list; assert(a.includes('milk') && a.includes('sesame')); });
+t('eggplant is not egg', () => assert(!R.checkAllergens(mk([[300, 'g', 'eggplant']])).list.includes('eggs')));
+console.log(`rules: ${ok} tests passed`);

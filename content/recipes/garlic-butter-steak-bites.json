@@ -1,0 +1,121 @@
+{
+  "slug": "garlic-butter-steak-bites",
+  "title": "Garlic Butter Steak Bites",
+  "category": "beef-lamb",
+  "cuisine": "American",
+  "summary": "Cubes of sirloin steak are seared hard in a very hot pan for a deep crust, then tossed through a quick garlic butter for a fast, juicy dinner.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "large cast-iron or stainless frying pan (about 30 cm)",
+    "tongs",
+    "kitchen paper",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "qty": 800,
+      "unit": "g",
+      "item": "top sirloin (rump) steak, about 3 cm thick",
+      "note": "trimmed of the outer fat"
+    },
+    {
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "coarsely ground black pepper"
+    },
+    {
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil with a high smoke point"
+    },
+    {
+      "qty": 25,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "qty": 5,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "chilli flakes",
+      "note": "optional"
+    },
+    {
+      "qty": 10,
+      "unit": "g",
+      "item": "flat-leaf parsley, finely chopped"
+    },
+    {
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cut and dry",
+      "text": "Trim the steak of its outer fat and cut it into 2.5-3 cm cubes. Pat the pieces very dry with kitchen paper. Any surface moisture has to evaporate before browning can even begin, so drying the meat first means a faster, deeper crust."
+    },
+    {
+      "title": "Season the steak",
+      "text": "Salt and pepper go on either 15-45 minutes ahead, left at room temperature, or right before cooking. Try to avoid the in-between window of around 5-10 minutes, when beads of moisture sit drawn out on the surface and get in the way of browning."
+    },
+    {
+      "title": "Heat the pan",
+      "text": "A 30 cm cast iron or stainless pan needs 3-4 minutes over high heat before it's truly hot. Add half the oil and let it shimmer until it just starts to smoke."
+    },
+    {
+      "title": "Sear in batches",
+      "text": "Add half the steak in a single layer with space between the pieces, and leave it completely untouched for 1.5-2 minutes until a deep brown crust forms. Turn with tongs and sear for 1-2 minutes more, around 3-4 minutes in total per batch for medium-rare. Check the biggest cube with a thermometer: 54-57°C for medium-rare, or 63°C — the official safe minimum for whole cuts — for medium, bearing in mind the bites will climb a couple more degrees as they rest. Transfer to a plate and repeat with the remaining oil and steak."
+    },
+    {
+      "title": "Make the garlic butter",
+      "text": "Turn the heat down to low and wait 30 seconds for the pan to cool slightly, then add the butter, garlic and chilli flakes if using. Stir for 30-45 seconds until fragrant and just turning pale gold. Keeping the heat low matters here, since garlic burns quickly and turns bitter, and the milk solids in butter scorch just as fast."
+    },
+    {
+      "title": "Toss and serve",
+      "text": "Back into the pan go the steak and its resting juices, tossed for 30 seconds to coat everything in the garlic butter. Off the heat, stir in the parsley and lemon juice, and serve immediately with rice, salad or greens."
+    }
+  ],
+  "tips": [
+    "Don't crowd the pan — too much steak at once drops the temperature and the meat steams instead of searing, leaving it grey rather than browned.",
+    "Look at the grain running through the steak and cut your cubes so the fibres end up short; this keeps each bite tender rather than chewy.",
+    "Add the garlic only after the steak comes out of the pan — it burns within seconds in the high heat needed to sear beef.",
+    "Let the pan reheat properly between batches rather than rushing the second batch into a cooling pan.",
+    "Rump or sirloin sear beautifully in minutes; cheaper stewing cuts need long, slow cooking and turn tough if seared quickly like this."
+  ],
+  "storage": "Keep leftovers in an airtight container in the fridge for up to 2 days. Reheat briefly in a hot pan just until warmed through, as overheating toughens the meat; or enjoy the steak bites cold in a salad. They're not ideal for freezing once cooked.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 342,
+    "protein_g": 44.6,
+    "carbs_g": 1.9,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.1,
+    "fat_g": 16.3,
+    "satfat_g": 6.5,
+    "salt_g": 1.5,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Glistening seared steak cubes coated in golden garlic butter and flecked with parsley, served in a cast iron pan."
+}

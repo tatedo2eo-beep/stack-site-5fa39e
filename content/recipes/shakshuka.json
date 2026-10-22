@@ -1,0 +1,147 @@
+{
+  "slug": "shakshuka",
+  "title": "Smoky Shakshuka with Feta",
+  "category": "vegetarian",
+  "cuisine": "North African",
+  "summary": "Peppers and onion melt into a smoky paprika-spiced tomato sauce, topped with eggs poached right in the pan and finished with crumbled feta.",
+  "servings": 3,
+  "prep_min": 10,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "deep frying pan or sauté pan with a lid (28 cm)",
+    "wooden spoon",
+    "ramekin or small bowl"
+  ],
+  "ingredients": [
+    {
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, thinly sliced"
+    },
+    {
+      "qty": 2,
+      "unit": "pc",
+      "item": "red peppers, deseeded and thinly sliced",
+      "note": "about 300 g"
+    },
+    {
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "qty": 2,
+      "unit": "tsp",
+      "item": "smoked or sweet paprika"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "chilli flakes",
+      "note": "or to taste"
+    },
+    {
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "tomato purée (paste)"
+    },
+    {
+      "qty": 800,
+      "unit": "g",
+      "item": "chopped tomatoes (2 tins)"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "fine salt",
+      "note": "feta adds more saltiness"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "qty": 6,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "qty": 60,
+      "unit": "g",
+      "item": "feta, crumbled"
+    },
+    {
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh coriander or parsley, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften Onion and Pepper",
+      "text": "Heat the oil in the 28 cm deep pan over medium heat, then add the onion and peppers with a pinch of the salt. Cook for 10-12 minutes, stirring often, until very soft and starting to turn sweet and faintly golden at the edges — that slow cooking is what turns the pepper's raw sharpness into sweetness."
+    },
+    {
+      "title": "Bloom the Spices",
+      "text": "Stir in the garlic, cumin, paprika and chilli flakes and cook for 1 minute. The gentle heat releases the spices' fat-soluble aromas straight into the oil, but watch the paprika closely, as it turns bitter if it catches and burns."
+    },
+    {
+      "title": "Simmer the Sauce",
+      "text": "Stir in the tomato purée and cook for 1 minute, then add the chopped tomatoes with the remaining salt and the pepper. Simmer uncovered over medium-low heat for 12-15 minutes, stirring occasionally, until thick enough that a spoon dragged through leaves a clear trail for a second or two — too thin a sauce and the eggs will sink and spread into watery whites."
+    },
+    {
+      "title": "Add the Eggs",
+      "text": "Use the back of a spoon to make 6 hollows in the sauce. Crack each egg into a ramekin or small bowl first to check for shell or a broken yolk, then slide it gently into a well, seasoning the eggs with a little pepper."
+    },
+    {
+      "title": "Cook Covered",
+      "text": "Cover the pan and cook over low heat for 6-9 minutes, until the whites are fully set and opaque with no clear jelly left around the yolks, while the yolks still jiggle softly. The lid traps steam that cooks the tops of the whites evenly. For firmer yolks — recommended for pregnant people, young children, older people or anyone more vulnerable to foodborne illness — cook for a further 3-4 minutes until the yolks are fully set and reach 71°C."
+    },
+    {
+      "title": "Top and Serve",
+      "text": "Scatter the crumbled feta and chopped herbs over the top and bring the pan straight to the table with warm bread for scooping."
+    }
+  ],
+  "tips": [
+    "If the white nearest the yolk is slow to set, spoon a little of the hot sauce over that spot to help it along without overcooking the yolk.",
+    "The tomato base can be made up to 2 days ahead; bring it back to a simmer before adding the eggs.",
+    "Tinned tomatoes vary in acidity from brand to brand, so taste the sauce before the eggs go in and adjust the salt; a few extra minutes of simmering also mellows a sharp batch.",
+    "Use a pan with a lid, or cover it with a baking tray if you don't have one — trapping the steam is what sets the egg whites on top."
+  ],
+  "storage": "The tomato sauce keeps well on its own for up to 3 days in the fridge or 3 months in the freezer. Once the eggs are cooked in, shakshuka doesn't reheat well, so it's best eaten freshly made.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 387,
+    "protein_g": 19.9,
+    "carbs_g": 25.1,
+    "sugar_g": 14.7,
+    "free_sugar_g": 0.0,
+    "fat_g": 24.2,
+    "satfat_g": 7.6,
+    "salt_g": 2.58,
+    "fibre_g": 9.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A pan of deep red, smoky tomato and pepper sauce with six just-set eggs nestled on top, scattered with crumbled white feta and fresh green herbs."
+}

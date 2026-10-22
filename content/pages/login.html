@@ -1,0 +1,91 @@
+<section class="login">
+  <div class="egg-wrap">
+    <svg class="egg" viewBox="0 0 120 140" width="120" height="140" aria-hidden="true" focusable="false">
+      <path class="egg-body" d="M60 15 C85 15 100 55 100 85 C100 112 82 130 60 130 C38 130 20 112 20 85 C20 55 35 15 60 15 Z" fill="var(--surface2)" stroke="var(--accent)" stroke-width="2.5"/>
+      <path class="hat" d="M36 28 Q60 2 84 28 Q78 19 60 17 Q42 19 36 28 Z" fill="var(--accent)"/>
+      <rect class="hat-band" x="34" y="25" width="52" height="8" rx="4" fill="var(--accent)"/>
+      <circle class="eye" cx="46" cy="62" r="8" fill="#fff"/>
+      <circle class="eye" cx="74" cy="62" r="8" fill="#fff"/>
+      <circle class="pupil pupil-l" cx="46" cy="62" r="3" fill="#1a1a1a"/>
+      <circle class="pupil pupil-r" cx="74" cy="62" r="3" fill="#1a1a1a"/>
+      <path class="hand hand-l" d="M30 102 q-14 -2 -16 12 q-2 12 12 14 q12 2 16 -10 q2 -8 -12 -16 z" fill="var(--surface2)" stroke="var(--accent)" stroke-width="2"/>
+      <path class="hand hand-r" d="M90 102 q14 -2 16 12 q2 12 -12 14 q-12 2 -16 -10 q-2 -8 12 -16 z" fill="var(--surface2)" stroke="var(--accent)" stroke-width="2"/>
+    </svg>
+  </div>
+
+  <h1>Sign in</h1>
+  <p class="notice">Accounts and Premium are coming soon. Nothing you type here is sent or stored anywhere.</p>
+
+  <form id="login-form" novalidate>
+    <div class="field">
+      <label for="login-email">Email</label>
+      <input type="email" id="login-email" name="email" autocomplete="email" placeholder="you@example.com">
+    </div>
+    <div class="field">
+      <label for="login-pass">Password</label>
+      <input type="password" id="login-pass" name="password" autocomplete="current-password" placeholder="••••••••">
+    </div>
+    <button type="submit" class="btn" disabled>Sign in (coming soon)</button>
+  </form>
+
+  <a class="plans-link" href="{{BASE}}plans/">See Free vs Premium</a>
+</section>
+
+<style>
+.login{max-width:420px;margin:0 auto;padding:2rem 1.5rem;background:var(--surface);border:1px solid var(--line);border-radius:12px;color:var(--text);text-align:center}
+.login h1{margin:.5rem 0;font-size:1.75rem}
+.login .notice{color:var(--muted);font-size:.875rem;line-height:1.4;margin:0 0 1.5rem}
+.login .egg-wrap{width:120px;margin:0 auto .5rem}
+.login svg.egg{display:block;overflow:visible}
+.login .hand{transform:translateY(0);transition:transform .3s ease}
+.login svg.egg.cover .hand-l{transform:translate(16px,-50px) rotate(-10deg)}
+.login svg.egg.cover .hand-r{transform:translate(-16px,-50px) rotate(10deg)}
+.login form{display:flex;flex-direction:column;gap:1rem;text-align:left;margin-top:1rem}
+.login label{font-size:.8rem;color:var(--muted);display:block;margin-bottom:.35rem}
+.login input{width:100%;padding:.6rem .75rem;background:var(--bg);border:1px solid var(--line);border-radius:8px;color:var(--text);font-size:1rem;box-sizing:border-box}
+.login input:focus{outline:none;border-color:var(--accent)}
+.login .btn{margin-top:.5rem;padding:.7rem;border-radius:8px;border:1px solid var(--line);background:var(--surface2);color:var(--muted);font-weight:600;cursor:not-allowed}
+.login .plans-link{display:inline-block;margin-top:1.25rem;color:var(--accent);font-size:.875rem;text-decoration:none}
+.login .plans-link:hover{text-decoration:underline}
+@media (prefers-reduced-motion:reduce){.login .hand{transition:none}}
+</style>
+
+<script>
+(function(){
+  var reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var svg = document.querySelector('.login .egg');
+  var pupils = svg.querySelectorAll('.pupil');
+  var email = document.getElementById('login-email');
+  var pass = document.getElementById('login-pass');
+  var form = document.getElementById('login-form');
+  var raf = null, tx = 0, ty = 0;
+
+  function setPupils(x, y){
+    pupils.forEach(function(p){ p.setAttribute('transform', 'translate(' + x + ',' + y + ')'); });
+  }
+
+  if (!reduced){
+    svg.addEventListener('pointermove', function(e){
+      var r = svg.getBoundingClientRect();
+      var nx = ((e.clientX - r.left) / r.width - 0.5) * 6;
+      var ny = ((e.clientY - r.top) / r.height - 0.5) * 6;
+      tx = Math.max(-3, Math.min(3, nx));
+      ty = Math.max(-3, Math.min(3, ny));
+      if (!raf){
+        raf = requestAnimationFrame(function(){ setPupils(tx, ty); raf = null; });
+      }
+    });
+    svg.addEventListener('pointerleave', function(){ setPupils(0, 0); });
+  }
+
+  email.addEventListener('input', function(){
+    var shift = Math.max(-3, Math.min(3, email.value.length - 5));
+    setPupils(shift, 0);
+  });
+
+  pass.addEventListener('focus', function(){ svg.classList.add('cover'); });
+  pass.addEventListener('blur', function(){ svg.classList.remove('cover'); });
+
+  form.addEventListener('submit', function(e){ e.preventDefault(); });
+})();
+</script>

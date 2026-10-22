@@ -1,0 +1,3 @@
+# TEST deployment: keep crawlers out. Flip noindex in site.config.js at launch.
+User-agent: *
+Disallow: /

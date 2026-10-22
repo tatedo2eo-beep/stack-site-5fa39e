@@ -1,0 +1,150 @@
+{
+  "slug": "red-lentil-soup",
+  "title": "Lemony Red Lentil Soup",
+  "category": "soups-stews",
+  "cuisine": "Middle Eastern",
+  "summary": "A warming, budget-friendly soup where red lentils simmer down into a smooth, spiced purée, brightened at the end with a good hit of lemon.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy saucepan or casserole (at least 3 litres) with lid",
+    "sieve",
+    "stick (immersion) blender or jug blender",
+    "wooden spoon"
+  ],
+  "ingredients": [
+    {
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil",
+      "note": "plus a little to serve (not counted)"
+    },
+    {
+      "qty": 1,
+      "unit": "pc",
+      "item": "large onion, chopped"
+    },
+    {
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium carrots, peeled and chopped",
+      "note": "about 150 g"
+    },
+    {
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, chopped"
+    },
+    {
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "chilli flakes",
+      "note": "optional"
+    },
+    {
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "tomato purée (paste)"
+    },
+    {
+      "qty": 250,
+      "unit": "g",
+      "item": "split red lentils"
+    },
+    {
+      "qty": 1400,
+      "unit": "ml",
+      "item": "water",
+      "note": "or low-salt vegetable stock (then reduce the salt, and check the label for celery)"
+    },
+    {
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fine salt"
+    },
+    {
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice",
+      "note": "plus lemon wedges to serve"
+    },
+    {
+      "qty": 10,
+      "unit": "g",
+      "item": "flat-leaf parsley, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Rinse the lentils",
+      "text": "Tip the lentils into a sieve and rinse under running water until it runs fairly clear, picking out any small stones as you go. This washes away dust and some of the surface starch that would otherwise cause heavy foaming once the lentils hit the boiling water. It only takes a minute or two."
+    },
+    {
+      "title": "Soften the vegetables",
+      "text": "Heat the oil in a pan of at least 3 litres over medium heat, then add the onion and carrot with a pinch of the salt. Cook for 8-10 minutes, stirring occasionally, until the vegetables have softened and the onion is turning golden at the edges. This slow start builds a sweet base flavour before anything else goes in."
+    },
+    {
+      "title": "Bloom the spices",
+      "text": "Stir in the garlic, cumin, turmeric, paprika and chilli flakes (if using) and cook for 1 minute, stirring constantly so nothing catches. Warming spices gently in the oil like this releases far more of their aroma than adding them later into liquid. Add the tomato purée and cook for a further minute until it darkens slightly and smells rich."
+    },
+    {
+      "title": "Simmer the soup",
+      "text": "Add the lentils, water and remaining salt, then bring to the boil and skim off any foam that rises to the surface. Turn the heat down to a gentle simmer, cover partly, and cook for 20-25 minutes, stirring now and then so the lentils don't catch on the bottom of the pan. You're looking for the lentils to have completely collapsed and the carrots to be very tender."
+    },
+    {
+      "title": "Blend until smooth",
+      "text": "Blend the soup until smooth, either with a stick blender directly in the pan or by transferring it in batches to a jug blender filled no more than halfway, with the lid vented to let steam escape safely. Thin with a little extra hot water until it coats the back of a spoon rather than sitting thick and stodgy. The texture should feel silky, not grainy."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Stir in the lemon juice off the heat, then taste and adjust the salt - the acidity lifts the earthy lentils and stops the soup tasting flat. Ladle into bowls and finish with a scattering of parsley, a drizzle of olive oil and lemon wedges on the side."
+    }
+  ],
+  "tips": [
+    "This soup thickens noticeably as it sits, so loosen it with a splash of water when reheating rather than serving it stodgy.",
+    "Red lentils need no soaking beforehand, unlike many other dried pulses.",
+    "Don't swap in green or brown lentils without increasing the cooking time, as they hold their shape instead of breaking down.",
+    "Don't skip the lemon juice at the end - it's what stops the soup tasting flat and one-note.",
+    "If using stock cubes instead of water, go easy on the added salt, as most stock cubes are already quite salty."
+  ],
+  "storage": "Keeps in the fridge for up to 4 days or in the freezer for up to 3 months. Reheat until piping hot throughout (74°C), stirring in a little water as needed to loosen the texture.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 334,
+    "protein_g": 16.5,
+    "carbs_g": 50.8,
+    "sugar_g": 5.9,
+    "free_sugar_g": 0.2,
+    "fat_g": 8.6,
+    "satfat_g": 1.2,
+    "salt_g": 1.58,
+    "fibre_g": 9.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A bowl of smooth, golden-orange lentil soup garnished with parsley and a swirl of olive oil, served with a lemon wedge."
+}

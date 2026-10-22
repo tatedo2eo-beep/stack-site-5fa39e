@@ -1,0 +1,142 @@
+{
+  "slug": "classic-smash-burger",
+  "title": "Classic double smash burger",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "summary": "Two thin beef patties pressed hard onto a smoking-hot pan so the edges turn lacy and dark, stacked with melting cheddar in a buttery toasted brioche bun. Loud, quick and very much a treat.",
+  "servings": 2,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "Cast-iron pan or flat griddle",
+    "Stiff flat metal spatula or burger press",
+    "Baking paper",
+    "Small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Patties",
+      "qty": 300,
+      "unit": "g",
+      "item": "beef mince, 20% fat",
+      "note": "kept in the fridge until you cook"
+    },
+    {
+      "group": "Patties",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine salt"
+    },
+    {
+      "group": "Patties",
+      "qty": null,
+      "unit": "to taste",
+      "item": "black pepper, freshly ground"
+    },
+    {
+      "group": "Patties",
+      "qty": 4,
+      "unit": "slice",
+      "item": "cheddar cheese",
+      "note": "about 20 g each"
+    },
+    {
+      "group": "To build",
+      "qty": 2,
+      "unit": "pc",
+      "item": "brioche buns",
+      "note": "about 70 g each"
+    },
+    {
+      "group": "To build",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "butter, softened"
+    },
+    {
+      "group": "To build",
+      "qty": 4,
+      "unit": "pc",
+      "item": "little gem lettuce leaves"
+    },
+    {
+      "group": "To build",
+      "qty": 1,
+      "unit": "pc",
+      "item": "ripe tomato",
+      "note": "about 120 g, sliced"
+    },
+    {
+      "group": "Burger sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Burger sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "tomato ketchup"
+    },
+    {
+      "group": "Burger sauce",
+      "qty": 15,
+      "unit": "g",
+      "item": "gherkin, finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Get everything ready",
+      "text": "Slice the tomato, rinse and dry the lettuce, and stir the mayonnaise, ketchup and chopped gherkin together. The cooking takes minutes, so have every part of the burger within reach before the pan goes on."
+    },
+    {
+      "title": "Portion the beef",
+      "text": "Divide the mince into four loose balls of about 75 g each. Handle them as little as possible and do not pack them tight; put them back in the fridge while you toast the buns."
+    },
+    {
+      "title": "Toast the buns",
+      "text": "Spread the butter on the cut sides of the buns and toast them, cut side down, in the dry pan over medium heat for about a minute until golden. Set aside."
+    },
+    {
+      "title": "Smash the patties",
+      "text": "Turn the heat to high and wait until the pan is smoking. Add two balls, lay a square of baking paper on each and press straight down firmly with the spatula for about 10 seconds until each is roughly 1 cm thin with ragged edges. Peel off the paper and season with the salt and pepper."
+    },
+    {
+      "title": "Flip and melt the cheese",
+      "text": "Leave the patties alone for about 2 minutes until the edges are deep brown and crisp. Scrape firmly under the crust, flip, add a slice of cheese to each and cook for 1 more minute. Stack one patty on another. Repeat with the other two balls."
+    },
+    {
+      "title": "Build and serve",
+      "text": "Spread sauce on the bottom bun, add lettuce and tomato, then the cheesy double patty and the top bun. Serve straight away while the edges are still crunchy. Beef mince should be cooked through with no pink in the middle (at least 71 °C)."
+    }
+  ],
+  "tips": [
+    "The pan has to be properly hot before the beef goes in. A lukewarm pan steams the meat instead of browning it.",
+    "Baking paper between the spatula and the meat stops it sticking, so you can press hard without tearing the patty.",
+    "Season only after smashing; salt mixed into the mince early makes the patties dense and springy."
+  ],
+  "storage": "Best eaten immediately. Cooked patties keep in a covered container in the fridge for up to 2 days; reheat in a hot pan until piping hot all the way through. Do not store assembled burgers.",
+  "allergens": [
+    "cereals containing gluten",
+    "eggs",
+    "milk",
+    "mustard"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 897,
+    "protein_g": 42.2,
+    "carbs_g": 41.7,
+    "sugar_g": 11.0,
+    "free_sugar_g": 7.4,
+    "fat_g": 61.7,
+    "satfat_g": 27.0,
+    "salt_g": 2.8,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Estimated per burger from USDA FoodData Central (SR Legacy) values: ground beef 80% lean raw, cheddar cheese, butter salted, mayonnaise, ketchup, pickles, tomato, lettuce; brioche bun estimated from typical label values. Raw-meat values used, so actual fat is a little lower because some renders out.",
+  "image": "classic-smash-burger.jpg",
+  "image_alt": "Double smash burger with melted cheddar, lettuce and tomato in a glossy brioche bun on baking paper"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "joes-stack-site",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Static multi-page recipe site (test deployment)",
+  "scripts": {
+    "build": "node src/build.js",
+    "validate": "node src/build.js --validate-only",
+    "test": "node tools/test-rules.js",
+    "serve": "python3 -m http.server 8080 --directory .serve"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2",
+    "sharp": "^0.35.5"
+  }
+}
