@@ -17,6 +17,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | beef-chow-fun | Beef chow fun | Classic | 3 | 5 |
 | beef-chow-mein | Chow mein/lo mein | Beef | 3 | 5 |
 | beef-lo-mein | Lo mein | Beef | 2 | 4 |
+| biang-biang-noodles | Biang biang/hand-pulled lamian | Classic | 2 | 4 |
 | black-and-white-cookies | Black-and-white | Classic | 2 | 4 |
 | black-bean-burger | Veggie/bean burger | Classic | 2 | 6 |
 | brookies | Brookies | Classic | 2 | 4 |
@@ -59,6 +60,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-cheeseburger | Cheeseburger | Classic | 4 | 7 |
 | classic-patty-melt | Patty melt | Classic | 2 | 6 |
 | classic-smash-burger | Smash burger | Cheese | 3 | 7 |
+| cold-somen | Somen | Classic | 3 | 5 |
 | coronation-chicken | Coronation chicken | Classic | 2 | 5 |
 | crispy-baked-chicken-wings | Chicken wings | Classic | 3 | 5 |
 | crispy-chicken-sandwich | Chicken burger | Classic | 3 | 6 |
@@ -82,9 +84,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | hainanese-chicken-rice | Hainanese chicken rice | Classic | 3 | 5 |
 | haluski | Haluski | Classic | 2 | 4 |
 | high-heat-roast-chicken | High-heat roast chicken | Classic | 3 | 5 |
+| hot-dry-noodles | Hot dry noodles | Classic | 1 | 3 |
 | iced-coffee | Iced coffee | Classic | 2 | 3 |
+| japchae | Japchae | Classic | 3 | 5 |
 | jerk-chicken | Jerk | Classic | 2 | 4 |
 | juicy-lucy | Juicy Lucy (stuffed) | Classic | 2 | 5 |
+| kalguksu | Kalguksu | Classic | 1 | 3 |
 | kasespatzle | Käsespätzle | Classic | 3 | 5 |
 | kitchen-sink-cookies | Kitchen-sink cookie | Classic | 3 | 5 |
 | kung-pao-chicken | Kung Pao chicken | Classic | 3 | 5 |
@@ -96,9 +101,11 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lo-mein | Lo mein | Classic | 2 | 4 |
 | madeleines | Madeleines (cake-like) | Classic | 3 | 5 |
 | malloreddus-saffron-tomato | Malloreddus | Classic | 2 | 4 |
+| mee-goreng | Mee goreng | Classic | 2 | 4 |
 | millionaires-shortbread | Bars (magic bars, millionaire's shortbread) | Classic | 4 | 6 |
 | musakhan | Musakhan | Classic | 3 | 6 |
 | mushroom-lasagne | Sheets/baked (lasagne) | Mushroom | 3 | 5 |
+| naengmyeon | Naengmyeon | Classic | 2 | 4 |
 | nanaimo-bars | Nanaimo bar | Classic | 3 | 5 |
 | nashville-hot-chicken | Nashville hot chicken | Classic | 2 | 5 |
 | noodle-kugel | Kugel | Classic | 3 | 5 |
@@ -108,6 +115,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pad-see-ew | Pad see ew | Classic | 3 | 5 |
 | pad-thai-tofu | Pad thai | Tofu | 3 | 5 |
 | pad-thai | Pad thai | Classic | 2 | 4 |
+| pancit-bihon | Pancit bihon | Classic | 2 | 4 |
+| pancit-canton | Pancit | Classic | 2 | 4 |
 | pappardelle-beef-ragu | Pappardelle | Classic | 2 | 4 |
 | pasta-al-limone | Pasta al limone | Classic | 2 | 4 |
 | pasta-alla-norma | Alla Norma | Classic | 2 | 4 |
@@ -151,6 +160,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | trofie-al-pesto | Trofie | Classic | 3 | 5 |
 | vegetable-chow-mein | Chow mein/lo mein | Vegetable | 2 | 4 |
 | vegetable-lo-mein | Lo mein | Vegetable | 2 | 4 |
+| yakisoba | Yakisoba | Classic | 2 | 4 |
 | yakitori | Yakitori | Classic | 2 | 4 |
 | yangnyeom-chicken | Yangnyeom chicken | Classic | 3 | 6 |
 

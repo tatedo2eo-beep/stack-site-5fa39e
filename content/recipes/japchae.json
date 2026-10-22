@@ -1,0 +1,216 @@
+{
+  "slug": "japchae",
+  "title": "Japchae (Korean Glass Noodles with Beef and Vegetables)",
+  "category": "pasta-noodles",
+  "cuisine": "Korean",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "japchae",
+  "dish_title": "Japchae",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A colourful Korean noodle dish of chewy sweet potato glass noodles tossed with soy-marinated beef and a rainbow of separately cooked vegetables, finished with sesame.",
+  "servings": 4,
+  "prep_min": 30,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "large pot (at least 4 litres)",
+    "colander",
+    "kitchen scissors",
+    "large frying pan (28 cm)",
+    "very large mixing bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Noodles",
+      "qty": 200,
+      "unit": "g",
+      "item": "Korean sweet potato glass noodles (dangmyeon)"
+    },
+    {
+      "group": "Beef",
+      "qty": 200,
+      "unit": "g",
+      "item": "beef sirloin, cut into thin 6 cm strips"
+    },
+    {
+      "group": "Beef",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "light soy sauce"
+    },
+    {
+      "group": "Beef",
+      "qty": 4,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 200,
+      "unit": "g",
+      "item": "spinach"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 120,
+      "unit": "g",
+      "item": "shiitake mushrooms, sliced"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, thinly sliced",
+      "note": "about 120 g"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "carrot, cut into matchsticks"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "red pepper, in thin strips"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 3,
+      "unit": "pc",
+      "item": "spring onions, cut into 5 cm lengths"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil (rapeseed, sunflower or vegetable)"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the vegetables",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "light soy sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 19,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1.5 tbsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "toasted sesame seeds"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix the sauce",
+      "text": "Stir together the soy sauce, sugar, sesame oil, garlic and black pepper in a small bowl until the sugar dissolves. Making this ahead means every component of the dish can be seasoned from the same base, keeping the flavour consistent."
+    },
+    {
+      "title": "Marinate the beef",
+      "text": "Toss the beef strips with the soy sauce, sugar, garlic and sesame oil, then leave to marinate for 15 minutes at room temperature. This short soak is enough for the thin strips to pick up seasoning without the sugar starting to toughen the surface."
+    },
+    {
+      "title": "Blanch and dress spinach",
+      "text": "Bring 3 litres of water to the boil and blanch the spinach for just 10 seconds, then lift it out, rinse under cold water, squeeze dry and toss with 1 teaspoon of the sauce. The icy rinse stops the leaves cooking further and keeps them a fresh, deep green."
+    },
+    {
+      "title": "Cook and season noodles",
+      "text": "In the same pot of water, cook the glass noodles for 6-8 minutes until they turn clear and are chewy but tender right through. Drain, rinse under cold water, drain well again, snip into roughly 20cm lengths with scissors, then toss in the large bowl with 2 tablespoons of the sauce while still warm so they absorb it fully."
+    },
+    {
+      "title": "Stir-fry vegetables separately",
+      "text": "Working one vegetable at a time over medium-high heat in a little oil with a pinch of salt, cook the onion, carrot, pepper, mushrooms and spring onions for 1-3 minutes each, just until tender but still bright, tipping each batch into the big bowl as it finishes. Cooking them individually, rather than all together, keeps every colour clean and stops the quicker-cooking vegetables turning soft before the others are ready."
+    },
+    {
+      "title": "Brown the beef",
+      "text": "Stir-fry the marinated beef for 2-3 minutes over high heat until it's browned on the outside with no pink remaining inside, then add it to the bowl with the vegetables. High heat sears the surface quickly so the beef stays tender rather than stewing in its own juices."
+    },
+    {
+      "title": "Toss and finish",
+      "text": "Add the dressed spinach and the remaining sauce to the bowl, then toss everything together thoroughly with your hands or tongs so the noodles, vegetables and beef are evenly coated. Scatter over the toasted sesame seeds and serve warm or at room temperature."
+    }
+  ],
+  "tips": [
+    "Cook each vegetable separately rather than all in one go — crowding the pan steams them into one uniform colour and loses the distinct crunch japchae is known for.",
+    "Rinse the noodles well after boiling; leftover starch on the surface makes them clump and turn gluey once dressed.",
+    "Season the warm noodles with sauce straight after draining — they absorb flavour far better hot than once they've cooled and firmed up.",
+    "Don't overcook the glass noodles past 8 minutes or they turn slippery and fall apart when tossed.",
+    "If serving later, dress the noodles lightly and add the rest of the sauce just before eating, as they continue to soak up liquid on standing."
+  ],
+  "storage": "Keep japchae in an airtight container in the fridge for up to 2 days; it's traditionally enjoyed cold or at room temperature, but if reheating, warm gently in a pan or microwave until piping hot (74°C) throughout. It doesn't freeze well, as the glass noodles turn mushy once thawed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soya"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 445,
+    "protein_g": 16.0,
+    "carbs_g": 62.7,
+    "sugar_g": 10.8,
+    "free_sugar_g": 5.5,
+    "fat_g": 15.1,
+    "satfat_g": 2.1,
+    "salt_g": 2.37,
+    "fibre_g": 4.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "japchae-basic.jpg",
+  "image_alt": "Glossy glass noodles with beef, shiitake, spinach, carrot and yellow pepper on a black plate on dark slate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}
