@@ -1,29 +1,164 @@
 {
-  "classic-smash-burger": ["burgers", "smash-burger", "Smash burger", "Classic double"],
-  "signature-smash-burger": ["burgers", "smash-burger", "Smash burger", "Signature"],
-  "crispy-chicken-sandwich": ["burgers", "chicken-burger", "Chicken burger", "Crispy buttermilk"],
-  "lemon-garlic-chicken-white-beans": ["chicken", "lemon-garlic-chicken", "Lemon-garlic chicken", "White beans & spinach"],
-  "signature-chicken-tikka-masala": ["chicken", "chicken-tikka-masala", "Chicken tikka masala", "Signature"],
-  "chicken-fried-rice": ["chicken", "chicken-fried-rice", "Chicken fried rice", "Takeaway-style"],
-  "signature-chicken-shawarma-bowl": ["chicken", "chicken-shawarma", "Chicken shawarma", "High-protein bowl"],
-  "lighter-chicken-caesar-salad": ["chicken", "chicken-caesar-salad", "Chicken Caesar salad", "Lighter"],
-  "creamy-tomato-chicken-pasta": ["pasta", "creamy-tomato-pasta", "Creamy tomato pasta", "Chicken penne"],
-  "lemon-garlic-shrimp-pasta": ["pasta", "lemon-garlic-pasta", "Lemon garlic pasta", "Prawn linguine"],
-  "chewy-chocolate-chip-cookies": ["cookies-bars-brownies", "chocolate-chip-cookies", "Chocolate chip cookies", "Chewy classic"],
-  "signature-fudgy-brownies": ["cookies-bars-brownies", "brownies", "Brownies", "Fudgy"],
-  "banana-bread": ["cakes-cupcakes", "banana-bread", "Banana bread", "Brown butter"],
-  "beef-chili": ["more", "beef-chili", "Beef chili", "Beef & bean"],
-  "beef-kofta": ["more", "beef-kofta", "Beef kofta", "Tahini yoghurt"],
-  "garlic-butter-steak-bites": ["more", "steak-bites", "Steak bites", "Garlic butter"],
-  "crispy-oven-fries": ["more", "oven-fries", "Oven fries", "Extra-crispy"],
-  "egg-white-veg-omelette": ["more", "omelette", "Omelette", "Egg white & veg"],
-  "falafel-wrap": ["more", "falafel", "Falafel", "Herb falafel wraps"],
-  "greek-yoghurt-pancakes": ["more", "pancakes", "Pancakes", "Greek yoghurt"],
-  "guacamole": ["more", "guacamole", "Guacamole", "Fresh chunky"],
-  "high-protein-greek-yoghurt-berry-bowl": ["more", "yoghurt-bowl", "Yoghurt bowl", "High-protein berry"],
-  "iced-coffee": ["more", "iced-coffee", "Iced coffee", "Smooth"],
-  "overnight-oats": ["more", "overnight-oats", "Overnight oats", "Cinnamon banana"],
-  "red-lentil-soup": ["more", "lentil-soup", "Lentil soup", "Lemony red lentil"],
-  "salmon-teriyaki": ["more", "salmon-teriyaki", "Salmon teriyaki", "Glossy"],
-  "shakshuka": ["more", "shakshuka", "Shakshuka", "Smoky with feta"]
+ "classic-smash-burger": [
+  "burgers",
+  "smash-burger",
+  "Smash burger",
+  "Classic double"
+ ],
+ "signature-smash-burger": [
+  "burgers",
+  "smash-burger",
+  "Smash burger",
+  "Signature"
+ ],
+ "crispy-chicken-sandwich": [
+  "burgers",
+  "crispy-chicken-burger",
+  "Chicken burger",
+  "Crispy buttermilk"
+ ],
+ "lemon-garlic-chicken-white-beans": [
+  "chicken",
+  "lemon-garlic-chicken",
+  "Lemon-garlic chicken",
+  "White beans & spinach"
+ ],
+ "signature-chicken-tikka-masala": [
+  "chicken",
+  "chicken-tikka-masala",
+  "Chicken tikka masala",
+  "Signature"
+ ],
+ "chicken-fried-rice": [
+  "chicken",
+  "chicken-fried-rice",
+  "Chicken fried rice",
+  "Takeaway-style"
+ ],
+ "signature-chicken-shawarma-bowl": [
+  "chicken",
+  "chicken-shawarma",
+  "Chicken shawarma",
+  "High-protein bowl"
+ ],
+ "lighter-chicken-caesar-salad": [
+  "chicken",
+  "chicken-caesar-salad",
+  "Chicken Caesar salad",
+  "Lighter"
+ ],
+ "creamy-tomato-chicken-pasta": [
+  "pasta",
+  "creamy-tomato-chicken-pasta",
+  "Creamy tomato pasta",
+  "Chicken penne"
+ ],
+ "lemon-garlic-shrimp-pasta": [
+  "pasta",
+  "lemon-garlic-prawn-pasta",
+  "Lemon garlic pasta",
+  "Prawn linguine"
+ ],
+ "chewy-chocolate-chip-cookies": [
+  "cookies-bars-brownies",
+  "chocolate-chip-cookies",
+  "Chocolate chip cookies",
+  "Chewy classic"
+ ],
+ "signature-fudgy-brownies": [
+  "cookies-bars-brownies",
+  "fudgy-brownies",
+  "Brownies",
+  "Fudgy"
+ ],
+ "banana-bread": [
+  "cakes-cupcakes",
+  "banana-bread",
+  "Banana bread",
+  "Brown butter"
+ ],
+ "beef-chili": [
+  "more",
+  "beef-chili",
+  "Beef chili",
+  "Beef & bean"
+ ],
+ "beef-kofta": [
+  "more",
+  "beef-kofta",
+  "Beef kofta",
+  "Tahini yoghurt"
+ ],
+ "garlic-butter-steak-bites": [
+  "more",
+  "steak-bites",
+  "Steak bites",
+  "Garlic butter"
+ ],
+ "crispy-oven-fries": [
+  "more",
+  "oven-fries",
+  "Oven fries",
+  "Extra-crispy"
+ ],
+ "egg-white-veg-omelette": [
+  "more",
+  "omelette",
+  "Omelette",
+  "Egg white & veg"
+ ],
+ "falafel-wrap": [
+  "more",
+  "falafel",
+  "Falafel",
+  "Herb falafel wraps"
+ ],
+ "greek-yoghurt-pancakes": [
+  "more",
+  "pancakes",
+  "Pancakes",
+  "Greek yoghurt"
+ ],
+ "guacamole": [
+  "more",
+  "guacamole",
+  "Guacamole",
+  "Fresh chunky"
+ ],
+ "high-protein-greek-yoghurt-berry-bowl": [
+  "more",
+  "yoghurt-bowl",
+  "Yoghurt bowl",
+  "High-protein berry"
+ ],
+ "iced-coffee": [
+  "more",
+  "iced-coffee",
+  "Iced coffee",
+  "Smooth"
+ ],
+ "overnight-oats": [
+  "more",
+  "overnight-oats",
+  "Overnight oats",
+  "Cinnamon banana"
+ ],
+ "red-lentil-soup": [
+  "more",
+  "lentil-soup",
+  "Lentil soup",
+  "Lemony red lentil"
+ ],
+ "salmon-teriyaki": [
+  "more",
+  "salmon-teriyaki",
+  "Salmon teriyaki",
+  "Glossy"
+ ],
+ "shakshuka": [
+  "more",
+  "shakshuka",
+  "Shakshuka",
+  "Smoky with feta"
+ ]
 }
