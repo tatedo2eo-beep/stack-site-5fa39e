@@ -1,0 +1,161 @@
+{
+  "slug": "slow-cooked-lamb-wheat-harees",
+  "title": "Slow-Cooked Lamb and Wheat Porridge with Spiced Ghee",
+  "category": "beef-lamb",
+  "cuisine": "Emirati",
+  "chapter": "meat",
+  "book_chapter": "meat",
+  "dish": "harees",
+  "dish_title": "Harees",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Emirati harees: lamb and soaked wheat cooked very slowly with cinnamon and cardamom, then beaten into a thick, smooth, stretchy porridge. Served with a pool of warm spiced ghee in the centre.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 195,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "large heavy casserole (Dutch oven, 6 litres) with lid",
+    "colander",
+    "tongs",
+    "sturdy wooden spoon",
+    "stick blender or potato masher",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Harees",
+      "qty": 300,
+      "unit": "g",
+      "item": "whole wheat grains (wheat berries) or pearled wheat, rinsed",
+      "note": "soaked in cold water overnight"
+    },
+    {
+      "group": "Harees",
+      "qty": 800,
+      "unit": "g",
+      "item": "boneless lamb shoulder, trimmed of excess fat, cut into 5 cm pieces"
+    },
+    {
+      "group": "Harees",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, peeled and halved",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Harees",
+      "qty": 1,
+      "unit": "pc",
+      "item": "cinnamon stick"
+    },
+    {
+      "group": "Harees",
+      "qty": 4,
+      "unit": "pc",
+      "item": "green cardamom pods, lightly crushed"
+    },
+    {
+      "group": "Harees",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "Harees",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Harees",
+      "qty": 2200,
+      "unit": "ml",
+      "item": "water",
+      "note": "plus extra as needed"
+    },
+    {
+      "group": "Spiced ghee",
+      "qty": 50,
+      "unit": "g",
+      "item": "ghee"
+    },
+    {
+      "group": "Spiced ghee",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Spiced ghee",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cumin"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak the wheat",
+      "text": "Cover the wheat with plenty of cold water and soak for 8-12 hours, then drain. Soaking softens the hard grains so they cook faster and break down more easily later."
+    },
+    {
+      "title": "Start the lamb",
+      "text": "Put the lamb, onion, cinnamon stick, cardamom, bay leaves, salt and the water in the casserole and bring to the boil. Skim off the foam that rises for 10 minutes; removing these proteins keeps the finished porridge clean-tasting and pale."
+    },
+    {
+      "title": "Simmer for hours",
+      "text": "Add the wheat, partly cover and simmer very gently for 2 h 30 min-3 h. Stir every 15-20 minutes, more often towards the end so it does not stick, and add hot water a little at a time if it becomes too thick. It is ready when the lamb falls apart and the wheat is completely soft and bursting."
+    },
+    {
+      "title": "Remove the aromatics",
+      "text": "Lift out the onion, cinnamon stick, bay leaves and cardamom pods with the tongs. They have given their flavour to the porridge and would spoil the smooth texture if beaten in."
+    },
+    {
+      "title": "Beat until stretchy",
+      "text": "Mash vigorously with the potato masher, or blend in short bursts with the stick blender, then beat with the wooden spoon for 3-4 minutes until the meat has broken into fine strands and the porridge is thick, smooth and stretchy. Beating releases starch from the wheat, which gives harees its characteristic elastic texture. Loosen with hot water to a thick, spoonable consistency."
+    },
+    {
+      "title": "Make the spiced ghee",
+      "text": "Melt the ghee in the small saucepan over low heat, take it off the heat and stir in the ground cinnamon and cumin. Adding the spices off the heat lets them bloom in the warm fat without scorching."
+    },
+    {
+      "title": "Serve with ghee",
+      "text": "Spoon the harees into bowls, make a hollow in the centre of each and fill it with the spiced ghee."
+    }
+  ],
+  "tips": [
+    "A common mistake is cooking at too lively a simmer; the base scorches and the water evaporates too fast, so keep the heat very low and stir regularly.",
+    "Keep a kettle of hot water handy so you can loosen the porridge without stopping the simmer.",
+    "Use a sturdy wooden spoon for beating; the mixture is heavy and stretchy at this stage.",
+    "Lamb shoulder works best, as its connective tissue melts into the porridge during the long cook."
+  ],
+  "storage": "Cool within 2 hours and refrigerate for up to 3 days. It thickens as it chills, so add a splash of hot water when reheating and heat until piping hot (74 °C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 596,
+    "protein_g": 29.1,
+    "carbs_g": 38.6,
+    "sugar_g": 1.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 37.0,
+    "satfat_g": 17.5,
+    "salt_g": 1.66,
+    "fibre_g": 6.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "harees-basic.jpg",
+  "image_alt": "Bowl of smooth, creamy wheat and lamb porridge with a pool of golden spiced ghee in the centre.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

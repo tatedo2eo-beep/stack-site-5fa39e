@@ -1,0 +1,135 @@
+{
+  "slug": "grilled-porterhouse-steak-rosemary-lemon",
+  "title": "Grilled Thick-Cut Porterhouse Steak with Rosemary, Olive Oil and Lemon",
+  "category": "beef-lamb",
+  "cuisine": "Italian",
+  "chapter": "meat",
+  "book_chapter": "meat",
+  "dish": "bistecca-alla-fiorentina",
+  "dish_title": "Bistecca alla fiorentina",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thick porterhouse steaks are charred over a hot fire and finished gently on the cooler side of the barbecue, then sliced and dressed with rosemary-infused olive oil, flaky salt and lemon.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "charcoal or gas barbecue set up for two-zone cooking",
+    "chimney starter (charcoal)",
+    "long tongs",
+    "wire rack set in a rimmed baking tray",
+    "foil",
+    "carving board",
+    "sharp knife",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Steak",
+      "qty": 2,
+      "unit": "pc",
+      "item": "porterhouse or T-bone steaks, 5 cm thick (about 1.2 kg each)"
+    },
+    {
+      "group": "Steak",
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1¼ tsp"
+    },
+    {
+      "group": "Steak",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Steak",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Steak",
+      "qty": 3,
+      "unit": "pc",
+      "item": "sprigs fresh rosemary"
+    },
+    {
+      "group": "Steak",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "flaky sea salt, to finish"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "lemons, cut into wedges"
+    },
+    {
+      "group": "To serve",
+      "qty": 100,
+      "unit": "g",
+      "item": "rocket"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Salt ahead",
+      "text": "Pat the steaks dry, sprinkle them all over with the steak salt and refrigerate uncovered on the rack for 1-24 h. Salt draws out moisture that is then reabsorbed, seasoning the meat more deeply and drying the surface for a better char."
+    },
+    {
+      "title": "Build a two-zone fire",
+      "text": "Light a full chimney of charcoal and, once the coals are covered in grey ash, pour them over half the barbecue. On a gas barbecue, heat on high for 15 min, then turn off one side. Clean and oil the grate so the steaks release easily."
+    },
+    {
+      "title": "Char over high heat",
+      "text": "Pat the steaks dry again, rub with 1 tbsp of the olive oil and season with the pepper. Place them over the hot side with the fillet sections facing the cooler side, since the smaller fillet cooks faster. Grill for 6-8 min per side, until well charred."
+    },
+    {
+      "title": "Finish gently",
+      "text": "Move the steaks to the cooler side with the bone facing the fire, cover and cook for 10-20 min, turning once. They are done when a thermometer pushed in sideways reads at least 63°C in both the strip and the fillet. The bone shields the meat from direct heat while the thick centre catches up gently."
+    },
+    {
+      "title": "Rest the steaks",
+      "text": "Rest on the rack, loosely covered with foil, for 10 min (at least 3 min). This gives the juices time to settle so less runs out when you carve."
+    },
+    {
+      "title": "Carve and dress",
+      "text": "Cut the strip and fillet away from the bone, slice each across the grain 1.5 cm thick and reassemble around the bones on the board. Warm the remaining olive oil with the rosemary for 2 min, spoon it over the meat and sprinkle with the flaky salt. Serve with lemon wedges and rocket."
+    }
+  ],
+  "tips": [
+    "A common mistake is relying on the clock with a steak this thick; probe both the strip and the fillet to be sure.",
+    "Make sure the coals are fully ashed over before cooking, or flare-ups will scorch the outside.",
+    "Keep the fillet side angled away from the hottest coals, as it is leaner and cooks faster.",
+    "Warm the rosemary oil gently so it infuses without frying the herbs."
+  ],
+  "storage": "Cool leftovers within 2 hours and refrigerate, covered, for up to 3 days. Reheat gently until piping hot (74°C), or serve cold, thinly sliced, over rocket.",
+  "allergens": [],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 631,
+    "protein_g": 60.7,
+    "carbs_g": 1.4,
+    "sugar_g": 0.5,
+    "free_sugar_g": 0.2,
+    "fat_g": 41.0,
+    "satfat_g": 14.4,
+    "salt_g": 1.77,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bistecca-alla-fiorentina-advanced.jpg",
+  "image_alt": "Thick grilled T-bone steak sliced off the bone, with rosemary sprigs and lemon wedges.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

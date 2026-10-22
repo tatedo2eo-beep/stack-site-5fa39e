@@ -1,0 +1,303 @@
+{
+  "slug": "spiced-beef-shawarma-tahini-flatbread",
+  "title": "Spiced Beef Shawarma with Tahini Sauce and Flatbread",
+  "category": "beef-lamb",
+  "cuisine": "Levantine",
+  "chapter": "meat",
+  "book_chapter": "meat",
+  "dish": "shawarma-doner",
+  "dish_title": "Shawarma/döner",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thin strips of beef in a yoghurt and home-ground spice marinade are seared in a hot pan until crisp-edged, then piled into flatbreads with tahini sauce, fresh salad and pink turnip pickles.",
+  "servings": 6,
+  "prep_min": 40,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "dry frying pan",
+    "spice grinder or mortar and pestle",
+    "food processor",
+    "sieve",
+    "large bowl",
+    "large cast-iron or heavy frying pan",
+    "tongs",
+    "jar or bowl for the pickles",
+    "instant-read probe thermometer",
+    "cling film"
+  ],
+  "ingredients": [
+    {
+      "group": "Spice blend",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "black peppercorns"
+    },
+    {
+      "group": "Spice blend",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "allspice berries"
+    },
+    {
+      "group": "Spice blend",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cumin seeds"
+    },
+    {
+      "group": "Spice blend",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "coriander seeds"
+    },
+    {
+      "group": "Spice blend",
+      "qty": 4,
+      "unit": "pc",
+      "item": "green cardamom pods, seeds only"
+    },
+    {
+      "group": "Spice blend",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Spice blend",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Spice blend",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Spice blend",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground sumac"
+    },
+    {
+      "group": "Spice blend",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Marinade",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, roughly chopped",
+      "note": "about 200 g"
+    },
+    {
+      "group": "Marinade",
+      "qty": 150,
+      "unit": "g",
+      "item": "whole-milk natural yoghurt"
+    },
+    {
+      "group": "Marinade",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lime or lemon juice"
+    },
+    {
+      "group": "Marinade",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "distilled white vinegar"
+    },
+    {
+      "group": "Marinade",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Marinade",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Marinade",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Beef",
+      "qty": 900,
+      "unit": "g",
+      "item": "beef flank or skirt steak, sliced across the grain into 5 mm strips"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Tahini sauce",
+      "qty": 100,
+      "unit": "g",
+      "item": "tahini"
+    },
+    {
+      "group": "Tahini sauce",
+      "qty": 80,
+      "unit": "g",
+      "item": "whole-milk natural yoghurt"
+    },
+    {
+      "group": "Tahini sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Tahini sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Tahini sauce",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "cold water",
+      "note": "plus more as needed"
+    },
+    {
+      "group": "Quick pink pickles",
+      "qty": 150,
+      "unit": "g",
+      "item": "turnip, peeled, cut into thin batons"
+    },
+    {
+      "group": "Quick pink pickles",
+      "qty": 1,
+      "unit": "pc",
+      "item": "thin slice raw beetroot (for colour)"
+    },
+    {
+      "group": "Quick pink pickles",
+      "qty": 100,
+      "unit": "ml",
+      "item": "distilled white vinegar"
+    },
+    {
+      "group": "Quick pink pickles",
+      "qty": 100,
+      "unit": "ml",
+      "item": "hot water"
+    },
+    {
+      "group": "Quick pink pickles",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Quick pink pickles",
+      "qty": 4,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium tomatoes, diced"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "cucumber, diced"
+    },
+    {
+      "group": "To serve",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh flat-leaf parsley, chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 6,
+      "unit": "pc",
+      "item": "pitta or soft flatbreads (about 60 g each)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast and grind spices",
+      "text": "Toast the peppercorns, allspice, cumin, coriander and cardamom seeds in the dry pan over medium heat for 1 min until fragrant. Leave to cool, then grind finely with the paprika, turmeric, cinnamon, sumac and garlic powder. Toasting draws out aromatic oils, giving a deeper, rounder blend."
+    },
+    {
+      "title": "Pickle the turnips",
+      "text": "Put the turnip and beetroot in the jar. Dissolve the pickle salt and sugar in the hot water, add the vinegar and pour over, then chill for at least 2 h. The beetroot slowly bleeds its colour, turning the turnip a vivid pink."
+    },
+    {
+      "title": "Make the marinade",
+      "text": "Purée the onion, press it through the sieve into the bowl and discard the pulp. Onion juice carries the flavour without leaving bits that would burn in the pan. Whisk in the yoghurt, lime juice, vinegar, olive oil, garlic, salt and all the spice blend."
+    },
+    {
+      "title": "Marinate the beef",
+      "text": "Toss the beef strips through the marinade, cover and refrigerate for 3-8 h. Acid and yoghurt gently tenderise the surface while the spices soak in."
+    },
+    {
+      "title": "Whisk the tahini",
+      "text": "Whisk the tahini, yoghurt, lemon juice and garlic together, then add the water a spoonful at a time. It will tighten and look grainy at first before loosening into a smooth, pourable sauce; this is normal as the sesame paste absorbs liquid."
+    },
+    {
+      "title": "Sear the beef",
+      "text": "Take the beef out of the fridge 20 min before cooking, lift it from the marinade and let the excess drip off, discarding the rest. Heat the pan over high heat with a little oil and cook in 3-4 single-layer batches for 4-5 min each, turning, until well browned with crisp edges and cooked through (at least 63°C in a thicker piece). Keep each batch warm while you cook the next."
+    },
+    {
+      "title": "Assemble",
+      "text": "Pile the beef onto warm flatbreads with the tomato, cucumber, parsley and drained pickles. Drizzle generously with tahini sauce and serve straight away."
+    }
+  ],
+  "tips": [
+    "A common mistake is adding wet, dripping beef to the pan; let the marinade drain off well or the meat steams instead of crisping.",
+    "Make the pickles a day ahead for deeper colour and flavour.",
+    "If the tahini sauce thickens on standing, whisk in a little more cold water.",
+    "Slice the beef across the grain so each strip stays tender."
+  ],
+  "storage": "Cool within 2 hours and refrigerate the beef for up to 3 days or freeze for up to 3 months. Reheat in a hot pan until piping hot (74°C). The pickles keep for up to 2 weeks in the fridge, and the tahini sauce for 4 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "sesame",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 653,
+    "protein_g": 43.3,
+    "carbs_g": 50.9,
+    "sugar_g": 7.6,
+    "free_sugar_g": 1.7,
+    "fat_g": 31.1,
+    "satfat_g": 7.8,
+    "salt_g": 2.37,
+    "fibre_g": 5.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "shawarma-doner-advanced.jpg",
+  "image_alt": "Spiced beef strips on flatbread with diced tomato and cucumber, pink pickled turnips, parsley and a drizzle of tahini sauce.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

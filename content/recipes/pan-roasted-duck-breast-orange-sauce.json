@@ -1,0 +1,154 @@
+{
+  "slug": "pan-roasted-duck-breast-orange-sauce",
+  "title": "Pan-Roasted Duck Breast with Orange Sauce",
+  "category": "beef-lamb",
+  "cuisine": "French",
+  "chapter": "meat",
+  "book_chapter": "meat",
+  "dish": "duck-a-lorange",
+  "dish_title": "Duck à l'orange",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Duck breasts are rendered slowly from a cold pan until the skin is crisp, finished in the oven and served with a glossy orange, honey and lime sauce studded with segments and zest.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "sharp knife",
+    "large ovenproof frying pan (30 cm), cold to start",
+    "small saucepan",
+    "heatproof bowl for fat",
+    "fine sieve",
+    "carving board",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Duck",
+      "qty": 4,
+      "unit": "pc",
+      "item": "boneless duck breasts with skin (about 200 g each)"
+    },
+    {
+      "group": "Duck",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Duck",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Orange sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "oranges",
+      "note": "zest of 1 pared into thin strips; both segmented"
+    },
+    {
+      "group": "Orange sauce",
+      "qty": 300,
+      "unit": "ml",
+      "item": "orange juice (freshly squeezed or not-from-concentrate)"
+    },
+    {
+      "group": "Orange sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Orange sauce",
+      "qty": 42,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Orange sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "shallot, finely chopped"
+    },
+    {
+      "group": "Orange sauce",
+      "qty": 200,
+      "unit": "ml",
+      "item": "chicken broth (ready-to-use, alcohol-free)"
+    },
+    {
+      "group": "Orange sauce",
+      "qty": 20,
+      "unit": "g",
+      "item": "cold unsalted butter, diced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Score and season",
+      "text": "Heat the oven to 200°C (fan 180°C). With a sharp knife, score the duck skin in a close criss-cross, cutting through the fat but not into the meat. Pat dry and season all over with the duck salt and pepper; the scoring lets fat escape and helps the skin crisp."
+    },
+    {
+      "title": "Prepare zest and glaze",
+      "text": "Blanch the zest strips in boiling water for 1 min and drain, which softens them and removes harsh bitterness. In the small saucepan, simmer the orange juice, lime juice and honey for 15-20 min, until reduced to about 100 ml and lightly syrupy."
+    },
+    {
+      "title": "Render from cold",
+      "text": "Lay the breasts skin side down in the cold frying pan and set it over medium-low heat. Cook for 15-20 min without moving them, pouring the melted fat into the bowl every 5 min, until most of the fat has gone and the skin is deep golden and crisp. Starting cold melts the fat slowly, so the skin crisps before the meat overcooks."
+    },
+    {
+      "title": "Finish in the oven",
+      "text": "Turn the breasts skin side up and put the pan in the oven for 6-10 min, until a thermometer in the thickest part reads at least 74°C. Move them to the board, skin side up, and rest for 5 min so the juices settle."
+    },
+    {
+      "title": "Build the sauce",
+      "text": "Pour off all but 1 tbsp fat, taking care with the hot handle, then cook the shallot over medium heat for 2 min. Add the broth and boil for 3-4 min, scraping up the browned bits, until reduced by half. Stir in the orange reduction, simmer 1 min and strain."
+    },
+    {
+      "title": "Mount with butter",
+      "text": "Off the heat, whisk in the cold butter until the sauce turns glossy and slightly thickened; cold butter emulsifies rather than separating into oil. Add the zest strips and orange segments to warm through."
+    },
+    {
+      "title": "Slice and serve",
+      "text": "Slice the breasts thinly across the grain and fan them on plates. Spoon over the sauce, segments and zest."
+    }
+  ],
+  "tips": [
+    "A common mistake is starting duck in a hot pan, which seizes the skin and leaves a thick layer of unrendered fat; always start cold.",
+    "Pour off the fat regularly while rendering so the skin fries rather than poaches.",
+    "Keep the zest strips thin and blanch them, otherwise they taste bitter.",
+    "Save the rendered fat in the fridge for roasting potatoes."
+  ],
+  "storage": "Refrigerate leftover duck and sauce separately within 2 hours for up to 3 days. Reheat the duck in a hot oven and the sauce gently in a pan, both until piping hot (74°C).",
+  "allergens": [
+    "milk",
+    "celery"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 536,
+    "protein_g": 35.4,
+    "carbs_g": 28.2,
+    "sugar_g": 21.7,
+    "free_sugar_g": 14.6,
+    "fat_g": 31.3,
+    "satfat_g": 12.2,
+    "salt_g": 2.28,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "duck-a-l-orange-advanced.jpg",
+  "image_alt": "Sliced duck breast with crisp skin, glossy orange sauce, orange segments and strips of zest.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

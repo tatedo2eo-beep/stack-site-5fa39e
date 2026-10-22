@@ -1,0 +1,211 @@
+{
+  "slug": "lamb-tagine-preserved-lemon-olives",
+  "title": "Lamb Tagine with Preserved Lemon and Green Olives",
+  "category": "beef-lamb",
+  "cuisine": "Moroccan",
+  "chapter": "meat",
+  "book_chapter": "meat",
+  "dish": "tagine",
+  "dish_title": "Tagine",
+  "flavour": "Preserved lemon and olive",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "lamb-tagine-prunes-apricots-almonds",
+  "changes_from_base": "No fruit or almonds; preserved lemon rind and green olives go in for the last 15 min and the base salt is reduced because both are salty.",
+  "summary": "This follows the classic lamb tagine method, but swaps the fruit and almonds for preserved lemon rind and green olives added in the last 15 min, with less salt in the base since both are salty. The result is bright, tangy and savoury.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 165,
+  "difficulty": "medium",
+  "equipment": [
+    "large heavy casserole (Dutch oven, 5-6 litres) with tight lid, or a tagine with a heat diffuser",
+    "tongs",
+    "wooden spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Tagine",
+      "qty": 1200,
+      "unit": "g",
+      "item": "boneless lamb shoulder, trimmed of excess fat, cut into 4 cm pieces"
+    },
+    {
+      "group": "Tagine",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Tagine",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Tagine",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Tagine",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large onions, thinly sliced",
+      "note": "about 300 g"
+    },
+    {
+      "group": "Tagine",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Tagine",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Tagine",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Tagine",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Tagine",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground coriander"
+    },
+    {
+      "group": "Tagine",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Tagine",
+      "qty": 1,
+      "unit": "pc",
+      "item": "cinnamon stick"
+    },
+    {
+      "group": "Tagine",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "saffron threads (about 20), crumbled into 2 tbsp hot water"
+    },
+    {
+      "group": "Tagine",
+      "qty": 500,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Tagine",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh coriander, stalks tied in a bunch, leaves chopped for serving"
+    },
+    {
+      "group": "Lemon and olives",
+      "qty": 1,
+      "unit": "pc",
+      "item": "preserved lemon (about 80 g)",
+      "note": "flesh discarded, rind rinsed and cut into thin strips"
+    },
+    {
+      "group": "Lemon and olives",
+      "qty": 100,
+      "unit": "g",
+      "item": "pitted green olives, rinsed"
+    },
+    {
+      "group": "Lemon and olives",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Lemon and olives",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh flat-leaf parsley, chopped"
+    },
+    {
+      "group": "Lemon and olives",
+      "qty": 1,
+      "unit": "pc",
+      "item": "fresh lemon, cut into wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Season the lamb",
+      "text": "This variation uses the classic tagine method, with less base salt and lemon and olives instead of fruit and nuts. Season the lamb all over with the tagine salt and pepper while the oven heats to 160°C (fan 140°C). The salt is reduced here because the preserved lemon and olives bring plenty of their own."
+    },
+    {
+      "title": "Brown the meat",
+      "text": "In the casserole, heat the oil over medium-high heat and brown the lamb in 2-3 batches for 6-8 min each, leaving space between the pieces. Remove each batch once deeply coloured; this browning is where much of the savoury flavour comes from."
+    },
+    {
+      "title": "Soften onions and spices",
+      "text": "Lower the heat to medium and cook the onions for 8-10 min until soft and golden. Add the garlic, fresh and ground ginger, turmeric, coriander, ground cinnamon and cinnamon stick and stir for 1 min until fragrant, so the spices bloom in the oil."
+    },
+    {
+      "title": "Braise low and slow",
+      "text": "Return the lamb with its juices, add the saffron and its water, the 500 ml water and the coriander stalks, and scrape up the browned bits. Bring to a simmer, cover tightly and braise in the oven for 2 h-2 h 30 min, stirring once or twice, until the lamb is very tender."
+    },
+    {
+      "title": "Add lemon and olives",
+      "text": "For the last 15 min in the oven, stir in the preserved lemon strips and olives. Adding them late keeps the olives firm and the lemon flavour bright rather than bitter."
+    },
+    {
+      "title": "Adjust the sauce",
+      "text": "Remove the coriander stalks and cinnamon stick. If the sauce is thin, simmer uncovered on the hob for 5-10 min until it clings to the meat, then stir in the lemon juice for a final lift of freshness."
+    },
+    {
+      "title": "Serve",
+      "text": "Scatter the tagine with parsley and coriander leaves and serve with lemon wedges and bread or couscous."
+    }
+  ],
+  "tips": [
+    "Rinse the preserved lemon rind well and discard the flesh, which is very salty and can turn bitter.",
+    "A common mistake is salting to taste before the olives go in; taste only at the end, once they have added their salt.",
+    "Choose firm green olives, as soft ones fall apart in the sauce.",
+    "Like most braises, this improves overnight in the fridge."
+  ],
+  "storage": "Cool within 2 hours, refrigerate for up to 3 days or freeze for up to 3 months. Reheat until piping hot (74°C), adding a splash of water if the sauce has thickened.",
+  "allergens": [],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 620,
+    "protein_g": 34.9,
+    "carbs_g": 9.4,
+    "sugar_g": 2.8,
+    "free_sugar_g": 0.1,
+    "fat_g": 49.1,
+    "satfat_g": 19.3,
+    "salt_g": 2.1,
+    "fibre_g": 3.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tagine-advanced--preserved-lemon-and-olive.jpg",
+  "image_alt": "Golden braised tagine in a dark dish with green olives, lemon wedges and chopped herbs.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

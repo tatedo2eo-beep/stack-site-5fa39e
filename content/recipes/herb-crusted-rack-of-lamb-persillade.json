@@ -1,0 +1,156 @@
+{
+  "slug": "herb-crusted-rack-of-lamb-persillade",
+  "title": "Herb-Crusted Rack of Lamb with Parsley and Garlic",
+  "category": "beef-lamb",
+  "cuisine": "French",
+  "chapter": "meat",
+  "book_chapter": "meat",
+  "dish": "rack-of-lamb-persillade",
+  "dish_title": "Rack of lamb/persillade",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Seared racks of lamb are pressed with a vivid parsley, garlic and lemon crumb and roasted until the crust is golden and the meat is cooked through.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "large ovenproof frying pan or cast-iron pan",
+    "wire rack set in a rimmed baking tray",
+    "food processor or mini chopper",
+    "tongs",
+    "carving board",
+    "sharp knife",
+    "foil",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Lamb",
+      "qty": 2,
+      "unit": "pc",
+      "item": "French-trimmed racks of lamb (7-8 bones, about 700 g each)",
+      "note": "fat trimmed to a thin layer"
+    },
+    {
+      "group": "Lamb",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Lamb",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Lamb",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Persillade crust",
+      "qty": 40,
+      "unit": "g",
+      "item": "fresh flat-leaf parsley leaves"
+    },
+    {
+      "group": "Persillade crust",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fresh rosemary leaves"
+    },
+    {
+      "group": "Persillade crust",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Persillade crust",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Persillade crust",
+      "qty": 50,
+      "unit": "g",
+      "item": "fine fresh or panko breadcrumbs"
+    },
+    {
+      "group": "Persillade crust",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Persillade crust",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat and season",
+      "text": "Heat the oven to 200°C (fan 180°C). Pat the racks dry and season them all over with the lamb salt and pepper. Dry meat browns quickly in the pan, which adds flavour before roasting."
+    },
+    {
+      "title": "Sear the racks",
+      "text": "Heat the oil in the pan over medium-high heat and brown each rack fat side down for 3-4 min, until golden and some fat has rendered. Give each other side 1 min, holding the rack upright with tongs to colour the ends too. Searing builds savoury flavour that the oven alone would not create."
+    },
+    {
+      "title": "Cool before crusting",
+      "text": "Move the racks to the wire rack in the tray, fat side up, and leave for 5 min. A slightly cooler surface stops the oil in the crumb from sliding off, so the crust sticks firmly."
+    },
+    {
+      "title": "Make the persillade",
+      "text": "In the food processor, blitz the parsley, rosemary, garlic and lemon zest until finely chopped. Add the breadcrumbs, olive oil and the crust salt and pulse until you have a bright green, damp crumb that holds together when squeezed. Pulsing rather than blending keeps the crumb light instead of pasty."
+    },
+    {
+      "title": "Press on the crust",
+      "text": "Spread the crumb in an even layer over the fat side and ends of each rack, pressing firmly with your palm. An even thickness means the crust browns at the same rate all over."
+    },
+    {
+      "title": "Roast and rest",
+      "text": "Roast for 18-25 min, until a thermometer in the thickest part of the eye, away from the bone, reads at least 63°C. Should the crust darken before then, lay a loose sheet of foil over the top. Rest for 5 min (at least 3 min) so the juices settle, then cut between the bones into cutlets and serve 4 per person."
+    }
+  ],
+  "tips": [
+    "A common mistake is pressing the crumb onto a piping-hot rack, where it slides off; the 5 min cooling time really matters.",
+    "Dry the parsley well after washing, since wet leaves turn the crumb soggy and dull its colour.",
+    "Keep the thermometer tip clear of the bone, which reads hotter than the meat around it.",
+    "Use a sharp knife and a gentle sawing motion when carving so the crust stays on each cutlet."
+  ],
+  "storage": "Cool leftovers within 2 hours and refrigerate, covered, for up to 3 days. Reheat in a hot oven until piping hot (74°C); the crust will soften a little but keeps its flavour.",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 860,
+    "protein_g": 32.8,
+    "carbs_g": 10.8,
+    "sugar_g": 0.9,
+    "free_sugar_g": 0.8,
+    "fat_g": 75.6,
+    "satfat_g": 28.7,
+    "salt_g": 1.99,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "rack-of-lamb-persillade-advanced.jpg",
+  "image_alt": "Rack of lamb with a bright green parsley and garlic crust, cut to show the cutlets, bones standing upright.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

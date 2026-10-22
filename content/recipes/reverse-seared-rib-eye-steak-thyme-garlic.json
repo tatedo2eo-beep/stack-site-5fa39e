@@ -1,0 +1,128 @@
+{
+  "slug": "reverse-seared-rib-eye-steak-thyme-garlic",
+  "title": "Reverse-Seared Rib-Eye Steak with Thyme and Garlic",
+  "category": "beef-lamb",
+  "cuisine": "American",
+  "chapter": "meat",
+  "book_chapter": "meat",
+  "dish": "reverse-sear-steak",
+  "dish_title": "Reverse-sear steak",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thick rib-eye steaks are slow-roasted at a low oven heat, then finished in a smoking-hot pan with butter, garlic and thyme for an even cook and a dark, savoury crust.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 70,
+  "difficulty": "medium",
+  "equipment": [
+    "wire rack set in a rimmed baking tray",
+    "heavy cast-iron or carbon-steel frying pan (28 cm)",
+    "tongs",
+    "large spoon for basting",
+    "carving board",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Steak",
+      "qty": 2,
+      "unit": "pc",
+      "item": "thick rib-eye steaks (4-5 cm thick, about 500 g each)"
+    },
+    {
+      "group": "Steak",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Steak",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Steak",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Steak",
+      "qty": 25,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Steak",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, unpeeled, lightly crushed"
+    },
+    {
+      "group": "Steak",
+      "qty": 6,
+      "unit": "pc",
+      "item": "sprigs fresh thyme"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dry and season",
+      "text": "Pat the steaks completely dry and season every surface with the salt and pepper. If time allows, leave them uncovered on the rack in the fridge for 1-24 h, then take them out 30 min before cooking. A drier surface browns far faster in the pan, so the crust forms before the inside overcooks."
+    },
+    {
+      "title": "Slow roast",
+      "text": "Heat the oven to 120°C (fan 100°C) and roast the steaks on the rack in the tray for 35-55 min, until a thermometer pushed into the centre of each reads 54°C. This is only a halfway mark, because the sear will finish the cooking. Trust the thermometer rather than the clock, as thickness and starting temperature vary."
+    },
+    {
+      "title": "Brief rest",
+      "text": "Leave the steaks on the rack for 10 min. During this pause the surface cools and dries a little more, which helps the pan sear quickly and cleanly."
+    },
+    {
+      "title": "Sear hard and fast",
+      "text": "Set the pan over high heat until it just begins to smoke, add the oil and lay in the steaks. Sear for 1-1.5 min per side until deeply browned, then stand them on their fat edge for 1 min to render it. Very high heat gives a rich crust in seconds, so the gently cooked centre is left undisturbed."
+    },
+    {
+      "title": "Baste with butter",
+      "text": "Lower the heat to medium and add the butter, garlic and thyme. Once the butter foams, tilt the pan and spoon it over the steaks for 1 min; the milk solids brown and carry the garlic and herb flavour onto the crust."
+    },
+    {
+      "title": "Check and slice",
+      "text": "Probe the centre of each steak: it must read at least 63°C. If it falls short, keep basting over medium heat and check every 30 s. Rest on the board for 3 min, then slice across the grain and spoon the pan butter, garlic and thyme over the top."
+    }
+  ],
+  "tips": [
+    "A common mistake is skipping the thermometer and relying on cooking times; steak thickness varies so much that only the probe reading is reliable.",
+    "Start with properly thick steaks of 4-5 cm, because thin ones overcook in the oven before the sear even starts.",
+    "Make sure the pan is genuinely smoking before the steaks go in, otherwise they steam and turn grey instead of browning.",
+    "Squeeze the soft roasted garlic out of its skins and spread it over the sliced steak."
+  ],
+  "storage": "Cool leftovers within 2 hours and refrigerate in a covered container for up to 3 days, or freeze for up to 3 months. Reheat gently until piping hot (74°C), or slice cold for sandwiches and salads.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 767,
+    "protein_g": 44.1,
+    "carbs_g": 1.7,
+    "sugar_g": 0.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 63.7,
+    "satfat_g": 26.0,
+    "salt_g": 1.81,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "reverse-sear-steak-advanced.jpg",
+  "image_alt": "Thick rib-eye steak with a dark seared crust, sliced across the grain, with thyme sprigs and a roasted garlic clove.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}
