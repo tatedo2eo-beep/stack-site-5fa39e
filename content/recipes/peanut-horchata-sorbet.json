@@ -1,0 +1,129 @@
+{
+  "slug": "peanut-horchata-sorbet",
+  "title": "Peanut Horchata Sorbet",
+  "category": "desserts",
+  "cuisine": "Mexican",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Peanut",
+  "flavour_order": 5,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "A soaked rice, almond and cinnamon milk blended with peanut butter and brown sugar replaces the mango, lime and syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A dairy-free sorbet made from homemade rice and almond milk flavoured with cinnamon, blended with peanut butter and dark brown sugar.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "blender",
+    "bowl",
+    "sieve lined with muslin",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Horchata",
+      "qty": 100,
+      "unit": "g",
+      "item": "long-grain white rice"
+    },
+    {
+      "group": "Horchata",
+      "qty": 80,
+      "unit": "g",
+      "item": "blanched almonds, lightly toasted"
+    },
+    {
+      "group": "Horchata",
+      "qty": 1,
+      "unit": "pc",
+      "item": "cinnamon stick (about 8 cm), broken"
+    },
+    {
+      "group": "Horchata",
+      "qty": 950,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 200,
+      "unit": "g",
+      "item": "smooth peanut butter"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 100,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Grind and soak",
+      "text": "Grind the rice, almonds and cinnamon in the blender to a coarse powder. Tip into the bowl, stir in 600 ml of the water, cover and refrigerate for 8-12 h."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the soaked mixture and its water until white and creamy, about 2 min."
+    },
+    {
+      "title": "Strain",
+      "text": "Pour through the lined sieve, then gather the cloth and squeeze out as much milk as you can. Stir in the remaining 350 ml water."
+    },
+    {
+      "title": "Sorbet base",
+      "text": "Rinse the blender and blend 500 ml of the rice-almond milk with the peanut butter, brown sugar and salt until smooth. Keep the rest of the milk in the fridge to drink."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn the cold base for 20-25 min, then freeze for at least 2 h. Leave out for 10 min before scooping."
+    }
+  ],
+  "tips": [
+    "Start the soaking the night before.",
+    "Use a smooth peanut butter made only from peanuts and salt.",
+    "Drink the leftover rice-almond milk chilled, sweetened with a little brown sugar."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [
+    "nuts",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 215,
+    "protein_g": 6.1,
+    "carbs_g": 19.9,
+    "sugar_g": 14.8,
+    "free_sugar_g": 12.1,
+    "fat_g": 13.8,
+    "satfat_g": 2.7,
+    "salt_g": 0.38,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Light tan peanut sorbet scoops sprinkled with ground cinnamon and chopped peanuts.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

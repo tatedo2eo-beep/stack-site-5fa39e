@@ -1,0 +1,165 @@
+{
+  "slug": "spiced-pumpkin-gelato",
+  "title": "Spiced Pumpkin Gelato",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "gelato",
+  "dish_title": "Gelato",
+  "flavour": "Pumpkin",
+  "flavour_order": 5,
+  "access": "premium",
+  "base_recipe": "pistachio-gelato-steeped-pistachio-milk",
+  "changes_from_base": "Pumpkin purée, brown sugar, honey and warm spices replace the pistachio milk; no egg yolks, the base is set with cornflour.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Pumpkin pie in gelato form: smooth pumpkin purée, brown sugar, honey and warm spices in an egg-free milk base.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "whisk",
+    "silicone spatula",
+    "fine sieve",
+    "bowl set in iced water",
+    "freezer container with lid",
+    "blender"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 650,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 100,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Base",
+      "qty": 90,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 42,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Base",
+      "qty": 20,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pumpkin",
+      "qty": 300,
+      "unit": "g",
+      "item": "smooth pumpkin purée (tinned or homemade)"
+    },
+    {
+      "group": "Pumpkin",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Pumpkin",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Pumpkin",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Pumpkin",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Pumpkin",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Slurry",
+      "text": "Whisk the cornflour with 60 ml of the milk until smooth."
+    },
+    {
+      "title": "Simmer",
+      "text": "Bring the rest of the milk, the cream, brown sugar, honey and salt to a simmer, whisk in the slurry and cook for 3 min, stirring, until it lightly coats the spatula."
+    },
+    {
+      "title": "Spice",
+      "text": "Take off the heat and whisk in the pumpkin, spices and vanilla. For the smoothest texture, blend for 30 seconds."
+    },
+    {
+      "title": "Chill",
+      "text": "Sieve into the bowl over iced water, stir until cool, then cover and chill for at least 4 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn for 20-25 min until thick."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pack into the container, cover the surface and freeze for at least 3 h. Leave in the fridge for 15 min before serving."
+    }
+  ],
+  "tips": [
+    "Use plain pumpkin purée, not ready-spiced pie filling.",
+    "Grate the nutmeg fresh; it is much more fragrant than ready-ground.",
+    "Serve with crushed ginger biscuits or a spoon of caramel sauce.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered with baking paper pressed on the surface in the freezer for up to 2 weeks. Soften for 10-15 min in the fridge before scooping.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 178,
+    "protein_g": 3.5,
+    "carbs_g": 25.7,
+    "sugar_g": 21.1,
+    "free_sugar_g": 15.3,
+    "fat_g": 7.4,
+    "satfat_g": 4.5,
+    "salt_g": 0.29,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Burnt-orange pumpkin gelato scoops dusted lightly with cinnamon.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

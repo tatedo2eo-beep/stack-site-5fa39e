@@ -1,0 +1,141 @@
+{
+  "slug": "roasted-strawberry-gelato",
+  "title": "Roasted Strawberry Gelato",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "gelato",
+  "dish_title": "Gelato",
+  "flavour": "Strawberry",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "pistachio-gelato-steeped-pistachio-milk",
+  "changes_from_base": "Oven-roasted strawberries blended into a cornflour-set milk base replace the pistachio milk; no egg yolks.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Roasting the strawberries concentrates their flavour, so even frozen or out-of-season berries make a deep, jammy pink gelato.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "whisk",
+    "silicone spatula",
+    "fine sieve",
+    "bowl set in iced water",
+    "freezer container with lid",
+    "roasting tin",
+    "blender"
+  ],
+  "ingredients": [
+    {
+      "group": "Strawberries",
+      "qty": 500,
+      "unit": "g",
+      "item": "strawberries, hulled (fresh or frozen)"
+    },
+    {
+      "group": "Strawberries",
+      "qty": 60,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 450,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Base",
+      "qty": 70,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 15,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast",
+      "text": "Heat the oven to 200 °C. Toss the strawberries with the 60 g sugar in the roasting tin and roast for 20-25 min, until soft and sitting in a syrupy red juice. Cool slightly."
+    },
+    {
+      "title": "Base",
+      "text": "Whisk the cornflour with 60 ml of the milk. Bring the rest of the milk, the cream, 70 g sugar and salt to a simmer, whisk in the slurry and cook for 3 min until lightly thickened."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the strawberries and every bit of their juice with the hot milk base until smooth."
+    },
+    {
+      "title": "Chill",
+      "text": "Pour into the bowl over iced water, stir until cool, then cover and chill for at least 4 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Stir in the lemon juice and churn for 20-25 min."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pack into the container and freeze for at least 3 h; soften in the fridge for 15 min before scooping."
+    }
+  ],
+  "tips": [
+    "Frozen strawberries roast well; add 5 min to the time.",
+    "Scrape every bit of syrup out of the tin; that is where the flavour is.",
+    "Serve with a few extra roasted strawberries spooned on top.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered with baking paper pressed on the surface in the freezer for up to 2 weeks. Soften for 10-15 min in the fridge before scooping.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 177,
+    "protein_g": 2.7,
+    "carbs_g": 26.1,
+    "sugar_g": 22.7,
+    "free_sugar_g": 16.2,
+    "fat_g": 7.5,
+    "satfat_g": 4.5,
+    "salt_g": 0.17,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Rosy pink strawberry gelato scoops beside a few roasted strawberries.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

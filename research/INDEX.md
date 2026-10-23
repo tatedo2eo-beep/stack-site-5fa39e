@@ -97,6 +97,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | blood-orange-marmalade | Marmalade | Classic | 2 | 4 |
 | blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
 | blueberry-custard-ice-cream | Custard-base (French) | Blueberry | 1 | 3 |
+| blueberry-ginger-sorbet | Sorbet | Blueberry & ginger | 1 | 3 |
 | blueberry-key-lime-tart-biscuit-base | Lemon tart | Blueberry | 1 | 3 |
 | blueberry-pie-bars | Bars (magic bars, millionaire's shortbread) | Blueberry | 1 | 3 |
 | boiled-eggs-spiced-onion-tomato-coconut-curry | Egg curry | Classic | 3 | 5 |
@@ -244,6 +245,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chocolate-cookie-crumb-custard-ice-cream | Custard-base (French) | Chocolate sandwich cookie | 1 | 3 |
 | chocolate-cupcakes | Cupcakes | Chocolate | 3 | 5 |
 | chocolate-dipped-shortbread | Shortbread | Chocolate-dipped | 2 | 5 |
+| chocolate-hazelnut-gelato-gianduja | Gelato | Chocolate & hazelnut | 1 | 3 |
 | chocolate-hazelnut-spread-brownies | Brownie (fudgy or cakey) | Nutella & hazelnut | 1 | 3 |
 | chocolate-layer-cake | Chocolate layer | Classic | 2 | 4 |
 | chocolate-rugelach | Rugelach | Chocolate | 2 | 4 |
@@ -308,6 +310,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | colcannon-kale-butter-well | Colcannon | Classic | 2 | 4 |
 | cold-somen | Somen | Classic | 3 | 5 |
 | colombian-arepas-de-queso-cheese-filled-corn-cakes | Arepa | Cheese | 2 | 4 |
+| concord-grape-sorbet | Sorbet | Grape | 1 | 3 |
 | cooked-yolk-hollandaise | Hollandaise (béarnaise, mousseline) | Classic | 2 | 4 |
 | cookies-and-cream-custard-ice-cream | Custard-base (French) | Cookies & cream | 1 | 3 |
 | cool-yoghurt-rice-mustard-seeds-curry-leaves-pomegranate | Curd rice | Classic | 2 | 4 |
@@ -678,6 +681,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-garlic-tahini-sauce | Tahini sauce | Lemon-garlic | 2 | 4 |
 | lemon-herb-quinoa-pilaf | Quinoa | Lemon-herb | 1 | 3 |
 | lemon-herb-vinaigrette | Vinaigrette | Lemon-herb | 2 | 4 |
+| lemon-mascarpone-gelato | Gelato | Lemon & mascarpone | 1 | 3 |
 | lemon-meringue-pie | Meringue pie (lemon) | Classic | 2 | 4 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
 | lemon-potato-sage-focaccia | Focaccia | Lemon | 1 | 3 |
@@ -691,6 +695,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | libyan-style-fish-spicy-tomato-pepper-sauce | Chraime | Classic | 2 | 4 |
 | liege-waffles-caramelised-pearl-sugar | Liège waffles | Classic | 2 | 4 |
 | lime-cumin-steak-fajitas-charred-peppers-onions | Fajita | Beef | 3 | 5 |
+| lime-ginger-star-anise-coconut-water-sorbet | Sorbet | Lime & anise | 1 | 3 |
 | lime-posset-zest | Posset | Lime | 2 | 4 |
 | lo-mein | Lo mein | Classic | 2 | 4 |
 | loaded-chocolate-chip-blondies | Blondies | Chocolate | 1 | 3 |
@@ -861,6 +866,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | peanut-butter-fudge-chopped-peanuts | Fudge | Peanut butter | 2 | 4 |
 | peanut-butter-honey-custard-ice-cream | Custard-base (French) | Peanut butter & honey | 1 | 3 |
 | peanut-butter-swirl-brownies | Brownie (fudgy or cakey) | Peanut butter | 1 | 3 |
+| peanut-horchata-sorbet | Sorbet | Peanut | 1 | 3 |
 | pear-tarte-tatin-dry-caramel | Tarte Tatin | Pear | 1 | 3 |
 | pear-upside-down-cake | Upside-down | Pear | 2 | 4 |
 | pearl-barley-with-mushrooms | Barley | Classic | 1 | 3 |
@@ -888,6 +894,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pickle-caper-tartar-sauce | Tartar sauce | Classic | 2 | 4 |
 | pimientos-de-padron-blistered-sea-salt | Pimientos de Padrón | Classic | 1 | 3 |
 | pinakbet-prawns-squash-bitter-melon | Pinakbet | Classic | 2 | 4 |
+| pineapple-coconut-gelato | Gelato | Pineapple & coconut | 1 | 3 |
 | pineapple-coconut-tarte-tatin | Tarte Tatin | Pineapple & coconut | 1 | 3 |
 | pineapple-upside-down-cake | Upside-down | Pineapple | 2 | 4 |
 | pink-grapefruit-marmalade | Marmalade | Grapefruit | 2 | 4 |
@@ -910,6 +917,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | poached-eggs-garlic-yoghurt-chilli-butter | Çılbır | Classic | 2 | 4 |
 | poached-pear-chocolate-almond-tart | Chocolate tart | Pear | 1 | 3 |
 | poached-pear-frangipane-tart | Frangipane | Classic | 2 | 4 |
+| poached-plum-sorbet | Sorbet | Plum | 1 | 3 |
 | poached-prawns-classic-cocktail-sauce | Shrimp cocktail | Classic | 3 | 5 |
 | poached-white-fish-dumplings-carrot-beetroot-horseradish | Gefilte fish | Classic | 4 | 6 |
 | pollo-al-mattone | Pollo al mattone (chicken under a brick) | Classic | 2 | 4 |
@@ -975,6 +983,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | ribollita-tuscan-bean-kale-bread-soup | Ribollita | Classic | 2 | 4 |
 | rich-dark-chocolate-hot-chocolate-chocolat-chaud | Hot chocolate (French chocolat chaud, Spanish thick) | Classic | 2 | 4 |
 | rich-dark-chocolate-tart | Chocolate tart | Classic | 2 | 4 |
+| ricotta-lemon-zest-gelato | Gelato | Ricotta | 1 | 3 |
 | ricotta-ravioli | Filled (ravioli, tortellini, agnolotti) | Classic | 4 | 6 |
 | ripe-banana-custard-ice-cream | Custard-base (French) | Banana | 1 | 3 |
 | roast-beef-fillet-tarragon-butter-sauce | Châteaubriand | Classic | 6 | 8 |
@@ -995,6 +1004,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | roasted-pepper-almond-romesco | Romesco | Classic | 2 | 4 |
 | roasted-red-pepper-hummus-almonds | Hummus | Roasted red pepper | 3 | 5 |
 | roasted-red-pepper-prawn-pasta-salad-asparagus-feta | Pasta salad | Roasted red pepper | 2 | 4 |
+| roasted-strawberry-gelato | Gelato | Strawberry | 1 | 3 |
 | rocky-road-brownies | Brownie (fudgy or cakey) | Rocky road | 1 | 3 |
 | rocky-road-custard-ice-cream | Custard-base (French) | Rocky road | 1 | 3 |
 | romaine-caesar-salad-garlic-croutons | Caesar | Classic | 3 | 5 |
@@ -1121,6 +1131,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spiced-minced-beef-keema-potatoes | Keema | Aloo keema (potato) | 3 | 5 |
 | spiced-minced-beef-keema | Keema | Classic | 2 | 4 |
 | spiced-pumpkin-cheesecake | New York (baked, dense) | Pumpkin | 2 | 4 |
+| spiced-pumpkin-gelato | Gelato | Pumpkin | 1 | 3 |
 | spiced-pumpkin-pull-apart-rolls | Dinner rolls | Pumpkin | 1 | 3 |
 | spiced-saudi-chicken-rice-tomato-almonds-raisins | Kabsa | Chicken | 2 | 4 |
 | spiced-sweet-potato-custard-ice-cream | Custard-base (French) | Sweet potato | 1 | 3 |
@@ -1259,6 +1270,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | vanilla-custard-ice-cream-french-style | Custard-base (French) | Classic | 1 | 3 |
 | vanilla-glazed-yeast-raised-doughnuts | Yeast-raised ring | Classic | 2 | 4 |
 | vanilla-panna-cotta-raspberry-sauce | Panna cotta | Classic | 3 | 5 |
+| vanilla-pineapple-sorbet | Sorbet | Pineapple | 1 | 3 |
 | vanilla-pod-creme-anglaise | Crème anglaise | Classic | 2 | 4 |
 | vanilla-raspberry-mousse-cake | Entremets (mousse cake) | Classic | 2 | 4 |
 | vegetable-chow-mein | Chow mein/lo mein | Vegetable | 2 | 4 |

@@ -1,0 +1,123 @@
+{
+  "slug": "ricotta-lemon-zest-gelato",
+  "title": "Ricotta Gelato with Lemon Zest",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "gelato",
+  "dish_title": "Gelato",
+  "flavour": "Ricotta",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "pistachio-gelato-steeped-pistachio-milk",
+  "changes_from_base": "Blended fresh ricotta, milk and a sugar syrup with lemon zest replace the cooked pistachio custard; no eggs and no cornflour.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Barely cooked and very quick: fresh ricotta blended with milk and a sugar syrup gives a light, cheesecake-like gelato with a hint of lemon.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "small saucepan",
+    "blender",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 375,
+      "unit": "g",
+      "item": "whole-milk ricotta, cold"
+    },
+    {
+      "group": "Base",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 90,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 150,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Syrup",
+      "text": "Warm 120 ml of the milk with the sugar, corn syrup and salt in the small pan, stirring, until the sugar dissolves. Cool completely."
+    },
+    {
+      "title": "Blend",
+      "text": "Put the ricotta, the remaining cold milk and the cooled syrup in the blender and blend until silky, about 45 seconds."
+    },
+    {
+      "title": "Flavour",
+      "text": "Add the zest and pulse to mix. Taste; a little more salt makes the dairy taste sweeter."
+    },
+    {
+      "title": "Chill",
+      "text": "If the mixture is not fridge-cold, chill the blender jug for 1-2 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn for 15-20 min, until thick and creamy."
+    },
+    {
+      "title": "Freeze",
+      "text": "Spoon it into the container, smooth the top, lay baking paper on it and freeze for at least 4 h. Leave in the fridge for 10 min before scooping."
+    }
+  ],
+  "tips": [
+    "Use the freshest, creamiest ricotta you can find; dry, grainy ricotta gives a grainy gelato.",
+    "Fold in chopped candied orange peel or dark chocolate in the last minute of churning.",
+    "Drizzle with honey and chopped pistachios to serve."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; it is best fresh. Soften for 10 min in the fridge before scooping.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 195,
+    "protein_g": 5.0,
+    "carbs_g": 31.3,
+    "sugar_g": 28.1,
+    "free_sugar_g": 25.6,
+    "fat_g": 6.3,
+    "satfat_g": 3.9,
+    "salt_g": 0.39,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Snow-white ricotta gelato flecked with lemon zest, served in a shallow bowl.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

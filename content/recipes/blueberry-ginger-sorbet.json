@@ -1,0 +1,121 @@
+{
+  "slug": "blueberry-ginger-sorbet",
+  "title": "Blueberry and Ginger Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Blueberry & ginger",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Blueberries and a fresh ginger syrup replace the mango and lime; no corn syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Bright blueberries with a warm kick of fresh ginger, steeped in the syrup and strained out so the sorbet stays perfectly smooth.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "small saucepan",
+    "blender",
+    "fine sieve",
+    "large jug",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Ginger syrup",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Ginger syrup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Ginger syrup",
+      "qty": 30,
+      "unit": "g",
+      "item": "fresh ginger, thinly sliced"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 600,
+      "unit": "g",
+      "item": "blueberries"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Ginger syrup",
+      "text": "Simmer the sugar, water and sliced ginger for 5 min, then take off the heat and leave for 20 min. Strain and throw away the ginger."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the blueberries with the warm syrup until completely smooth."
+    },
+    {
+      "title": "Strain",
+      "text": "Press through the sieve to remove the skins, then stir in the lemon juice and salt. Taste and add a little more lemon if it tastes flat."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and chill for at least 3 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn for 20-25 min until thick, pack into the container and freeze for at least 2 h."
+    }
+  ],
+  "tips": [
+    "Leave the ginger in the syrup longer for more heat.",
+    "Frozen blueberries work well; thaw them first.",
+    "Sieving out the skins gives a much smoother sorbet."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 158,
+    "protein_g": 0.8,
+    "carbs_g": 40.5,
+    "sugar_g": 35.1,
+    "free_sugar_g": 25.0,
+    "fat_g": 0.4,
+    "satfat_g": 0.0,
+    "salt_g": 0.13,
+    "fibre_g": 2.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Vivid violet blueberry sorbet scoops topped with a few fresh blueberries.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "pineapple-coconut-gelato",
+  "title": "Pineapple and Coconut Gelato",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "gelato",
+  "dish_title": "Gelato",
+  "flavour": "Pineapple & coconut",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "pistachio-gelato-steeped-pistachio-milk",
+  "changes_from_base": "Reduced crushed pineapple and coconut milk replace the pistachio milk, with milk powder for body and a lighter 3-yolk custard; no cornflour.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A tropical gelato of reduced pineapple and coconut milk, set with a light yolk custard and finished with toasted coconut.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "whisk",
+    "silicone spatula",
+    "fine sieve",
+    "bowl set in iced water",
+    "freezer container with lid",
+    "probe thermometer",
+    "heatproof bowl",
+    "blender"
+  ],
+  "ingredients": [
+    {
+      "group": "Pineapple",
+      "qty": 560,
+      "unit": "g",
+      "item": "tinned crushed pineapple in juice"
+    },
+    {
+      "group": "Base",
+      "qty": 400,
+      "unit": "ml",
+      "item": "full-fat coconut milk, well stirred"
+    },
+    {
+      "group": "Base",
+      "qty": 150,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 110,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 25,
+      "unit": "g",
+      "item": "whole milk powder"
+    },
+    {
+      "group": "Base",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "To serve",
+      "qty": 20,
+      "unit": "g",
+      "item": "unsweetened desiccated coconut, toasted, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Reduce the pineapple",
+      "text": "Simmer the pineapple and its juice in a wide pan, stirring often, until almost no liquid is left, 15-20 min. Cool."
+    },
+    {
+      "title": "Warm",
+      "text": "Heat half the coconut milk with the milk, sugar and milk powder, whisking out any lumps, until it steams."
+    },
+    {
+      "title": "Yolks",
+      "text": "Whisk the yolks in the bowl, then slowly whisk in a ladle of the hot coconut milk and pour everything back into the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat until it thickens slightly and reaches 77-80 °C. Off the heat, stir in the rest of the coconut milk and the vanilla."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the custard with the cooked pineapple until nearly smooth; small flecks of fruit are fine. Cool over iced water, cover and chill overnight."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn for 20-25 min until it mounds on a spoon."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pack into the container and freeze for at least 3 h. Scatter with toasted coconut to serve."
+    }
+  ],
+  "tips": [
+    "Cooking the pineapple down concentrates its flavour and stops ice crystals forming.",
+    "Use full-fat coconut milk and shake the tin well before opening.",
+    "Toast the coconut in a dry pan for 2-3 min, watching closely, as it burns quickly."
+  ],
+  "storage": "Keep covered with baking paper pressed on the surface in the freezer for up to 2 weeks. Soften for 10-15 min in the fridge before scooping.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 261,
+    "protein_g": 4.0,
+    "carbs_g": 29.2,
+    "sugar_g": 26.3,
+    "free_sugar_g": 13.8,
+    "fat_g": 15.6,
+    "satfat_g": 12.4,
+    "salt_g": 0.08,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Creamy pale-yellow pineapple gelato scattered with golden toasted coconut.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

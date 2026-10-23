@@ -1,0 +1,132 @@
+{
+  "slug": "lime-ginger-star-anise-coconut-water-sorbet",
+  "title": "Lime, Ginger and Star Anise Sorbet",
+  "category": "desserts",
+  "cuisine": "Thai",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Lime & anise",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Coconut water steeped with lime zest, lime leaves and star anise, with fresh ginger, replaces the mango purée; no corn syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A light, refreshing Thai-inspired sorbet of coconut water scented with lime, a little star anise and fresh ginger.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "medium saucepan",
+    "fine sieve",
+    "bowl set in iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Sorbet",
+      "qty": 800,
+      "unit": "ml",
+      "item": "coconut water (not coconut milk)"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 170,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 2,
+      "unit": "pc",
+      "item": "whole star anise"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 2,
+      "unit": "pc",
+      "item": "limes, zest pared in strips"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 8,
+      "unit": "pc",
+      "item": "makrut lime leaves (optional), lightly crushed"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated fresh ginger"
+    },
+    {
+      "group": "Finish",
+      "qty": 45,
+      "unit": "ml",
+      "item": "lime juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Warm gently",
+      "text": "Start with cold coconut water and put it in the pan with the lime zest, lime leaves and salt. Heat slowly to a bare simmer, uncovered."
+    },
+    {
+      "title": "Steep",
+      "text": "Take off the heat, stir in the sugar until it dissolves, add the star anise and leave for 15 min; longer gives a stronger anise taste."
+    },
+    {
+      "title": "Strain and cool",
+      "text": "Strain into the bowl over iced water and stir until cold."
+    },
+    {
+      "title": "Finish",
+      "text": "Stir in the grated ginger and most of the lime juice, taste, and add the rest if it needs more sharpness. Chill until very cold."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn for 20-25 min, then freeze for 1-2 h. This sorbet is light and icy, so it is best within a few days."
+    }
+  ],
+  "tips": [
+    "Heat the coconut water slowly from cold so the lime aromas come out fully.",
+    "Use coconut water, not coconut milk; the result is light and clear.",
+    "Makrut lime leaves are sold fresh or frozen in Asian shops; the sorbet is still good without them."
+  ],
+  "storage": "Keep covered in the freezer and eat within 3-4 days, as it becomes icy. Soften for 5 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 139,
+    "protein_g": 1.1,
+    "carbs_g": 34.4,
+    "sugar_g": 32.0,
+    "free_sugar_g": 28.4,
+    "fat_g": 0.3,
+    "satfat_g": 0.2,
+    "salt_g": 0.48,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale, almost white lime sorbet with a whole star anise and lime zest on top.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

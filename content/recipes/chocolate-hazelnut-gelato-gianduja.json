@@ -1,0 +1,145 @@
+{
+  "slug": "chocolate-hazelnut-gelato-gianduja",
+  "title": "Chocolate Hazelnut Gelato (Gianduja)",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "gelato",
+  "dish_title": "Gelato",
+  "flavour": "Chocolate & hazelnut",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "pistachio-gelato-steeped-pistachio-milk",
+  "changes_from_base": "Home-ground roasted hazelnut paste and Dutch cocoa replace the pistachio milk; no egg yolks, the base is set with cornflour.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "The flavour of the famous chocolate spread in a scoop: roasted hazelnuts ground to a runny paste and blended into a dark cocoa milk base.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "whisk",
+    "silicone spatula",
+    "fine sieve",
+    "bowl set in iced water",
+    "freezer container with lid",
+    "food processor"
+  ],
+  "ingredients": [
+    {
+      "group": "Paste",
+      "qty": 200,
+      "unit": "g",
+      "item": "roasted skinned hazelnuts"
+    },
+    {
+      "group": "Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "sunflower oil"
+    },
+    {
+      "group": "Base",
+      "qty": 40,
+      "unit": "g",
+      "item": "Dutch-process cocoa powder"
+    },
+    {
+      "group": "Base",
+      "qty": 160,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 600,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 150,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Base",
+      "qty": 15,
+      "unit": "g",
+      "item": "cornflour"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Paste",
+      "text": "Blitz the hazelnuts in the processor, scraping down now and then, until they go from crumbs to a clump and finally a runny paste, 5-8 min; add the oil once the paste starts to loosen."
+    },
+    {
+      "title": "Cocoa",
+      "text": "Whisk the cocoa, sugar, salt and cornflour together in the saucepan so the cocoa does not form lumps, then whisk in a splash of the milk to make a smooth paste."
+    },
+    {
+      "title": "Simmer",
+      "text": "Whisk in the rest of the milk and the cream, bring to a simmer and cook for 3 min, stirring, until it lightly coats the spatula."
+    },
+    {
+      "title": "Blend",
+      "text": "Pour the hot chocolate milk into the processor with the hazelnut paste and blend until completely smooth."
+    },
+    {
+      "title": "Chill",
+      "text": "Sieve into the bowl over iced water, pressing it through, stir until cool, then cover and chill for at least 4 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn for 20-25 min until thick."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pack into the container, cover the surface and freeze for at least 4 h. This gelato sets firm, so allow 15 min in the fridge before scooping."
+    }
+  ],
+  "tips": [
+    "Be patient with the paste; it looks dry for several minutes before it suddenly turns runny.",
+    "Buy hazelnuts already roasted and skinned to save time, or roast at 180 °C for 10-12 min and rub off the skins.",
+    "Top with chopped toasted hazelnuts for crunch.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered with baking paper pressed on the surface in the freezer for up to 2 weeks. Soften for 10-15 min in the fridge before scooping.",
+  "allergens": [
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 379,
+    "protein_g": 7.6,
+    "carbs_g": 33.0,
+    "sugar_g": 25.6,
+    "free_sugar_g": 20.0,
+    "fat_g": 26.9,
+    "satfat_g": 7.4,
+    "salt_g": 0.46,
+    "fibre_g": 3.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Glossy dark-brown chocolate hazelnut gelato scooped into a bowl, topped with chopped hazelnuts.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

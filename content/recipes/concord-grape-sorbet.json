@@ -1,0 +1,114 @@
+{
+  "slug": "concord-grape-sorbet",
+  "title": "Grape Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Grape",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Raw dark grapes crushed and strained, with a little corn syrup and lemon, replace the mango, lime and cooked syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A deep purple sorbet that tastes like biting into a ripe dark grape, made from just grapes, sugar and a drop of lemon.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "blender",
+    "fine sieve",
+    "large jug",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Sorbet",
+      "qty": 900,
+      "unit": "g",
+      "item": "dark grapes, such as Concord, stemmed and rinsed"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 110,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 40,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice, or to taste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crush",
+      "text": "Pulse the grapes in the blender just until they burst and turn to juice, about 10 seconds; do not blend long enough to grind the seeds, which taste bitter."
+    },
+    {
+      "title": "Strain",
+      "text": "Push the pulp through the sieve into the jug with a spoon, pressing hard on the skins. You should have about 650 ml of purée."
+    },
+    {
+      "title": "Sweeten",
+      "text": "Whisk in the sugar, corn syrup and salt until the sugar has dissolved, then taste and add lemon a few drops at a time until the grape flavour is bright."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and chill for at least 3 h, until very cold."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn for 20-25 min, then pack into the container and freeze for at least 3 h. Soften for 10 min before scooping."
+    }
+  ],
+  "tips": [
+    "Concord or other strongly scented dark grapes give the most flavour; seedless red grapes work too.",
+    "Pulse only briefly so the seeds stay whole and do not add bitterness.",
+    "Serve with a few frozen grapes on the side."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 165,
+    "protein_g": 0.8,
+    "carbs_g": 43.1,
+    "sugar_g": 40.2,
+    "free_sugar_g": 23.4,
+    "fat_g": 0.2,
+    "satfat_g": 0.1,
+    "salt_g": 0.14,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Deep purple grape sorbet scoops in a chilled glass with a small bunch of grapes.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "lemon-mascarpone-gelato",
+  "title": "Lemon and Mascarpone Gelato",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "gelato",
+  "dish_title": "Gelato",
+  "flavour": "Lemon & mascarpone",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "pistachio-gelato-steeped-pistachio-milk",
+  "changes_from_base": "Lemon peel infused in the milk and cold mascarpone whisked into a 4-yolk custard replace the pistachio milk; no cornflour.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A silky, sunny gelato: milk infused with lemon peel, cooked into a light yolk custard and enriched with cold mascarpone, then sharpened with fresh lemon juice at the churn.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "whisk",
+    "silicone spatula",
+    "fine sieve",
+    "bowl set in iced water",
+    "freezer container with lid",
+    "probe thermometer",
+    "heatproof bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 600,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 2,
+      "unit": "pc",
+      "item": "unwaxed lemons, zest pared in wide strips"
+    },
+    {
+      "group": "Base",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Finish",
+      "qty": 150,
+      "unit": "g",
+      "item": "mascarpone, cold"
+    },
+    {
+      "group": "Finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse",
+      "text": "Warm the milk with the lemon peel until it steams, then take it off the heat, cover and leave for 20 min so the oils flavour the milk. Lift out the peel."
+    },
+    {
+      "title": "Yolks",
+      "text": "Whisk the yolks, sugar and salt in the heatproof bowl until thick and pale."
+    },
+    {
+      "title": "Temper",
+      "text": "Rewarm the lemon milk to steaming and pour about a third of it slowly onto the yolks, whisking all the time, then tip everything back into the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat, scraping the base, until the custard coats the spatula and reaches 77-80 °C, 5-8 min. Do not let it boil."
+    },
+    {
+      "title": "Cool",
+      "text": "Sieve into the bowl over iced water and stir until cool. Whisk the cold mascarpone in the bowl with a ladle of custard until smooth, then whisk it into the rest. Cover and chill for at least 4 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Stir in the lemon juice, then churn for 20-25 min until thick and glossy."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pack into the container, cover the surface with baking paper and freeze for at least 3 h. Leave it in the fridge for 15 min before scooping."
+    }
+  ],
+  "tips": [
+    "Pare only the yellow peel; the white pith makes the custard bitter.",
+    "Add the lemon juice to the cold custard, never the hot one, or it may curdle.",
+    "Serve with crisp almond biscuits or fresh raspberries."
+  ],
+  "storage": "Keep covered with baking paper pressed on the surface in the freezer for up to 2 weeks. Soften for 10-15 min in the fridge before scooping.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 230,
+    "protein_g": 4.7,
+    "carbs_g": 23.9,
+    "sugar_g": 23.4,
+    "free_sugar_g": 18.8,
+    "fat_g": 13.2,
+    "satfat_g": 7.9,
+    "salt_g": 0.2,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale yellow lemon gelato scoops with a dense, creamy texture in a small glass dish.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

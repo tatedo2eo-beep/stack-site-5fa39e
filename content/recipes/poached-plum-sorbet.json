@@ -1,0 +1,121 @@
+{
+  "slug": "poached-plum-sorbet",
+  "title": "Plum Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Plum",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Plums cooked briefly in their skins for colour replace the mango and lime; less corn syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Ripe plums cooked briefly in their skins give this sorbet a deep pink colour and a rich, sweet-sharp flavour.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "blender",
+    "fine sieve",
+    "large jug",
+    "freezer container with lid",
+    "medium saucepan with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Sorbet",
+      "qty": 900,
+      "unit": "g",
+      "item": "ripe red or dark plums, stoned and quartered"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 80,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 170,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 20,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice, if needed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften",
+      "text": "Put the plums, skins and all, in the pan with the water and sugar, cover and cook gently for 8-10 min, until the fruit collapses and the juice turns deep pink."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend with the corn syrup and salt until smooth, then press through the sieve to catch any tough skin."
+    },
+    {
+      "title": "Taste",
+      "text": "Very sweet plums may need a little lemon juice; add it a few drops at a time."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and chill for at least 3 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn for 20-25 min, then freeze for at least 3 h. Soften for 10 min before scooping."
+    }
+  ],
+  "tips": [
+    "Dark-skinned plums give the most vivid colour.",
+    "Taste before adding lemon; tart plums may not need any.",
+    "Serve with a dollop of thick yoghurt or a crisp biscuit."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 141,
+    "protein_g": 0.8,
+    "carbs_g": 36.1,
+    "sugar_g": 34.3,
+    "free_sugar_g": 23.1,
+    "fat_g": 0.3,
+    "satfat_g": 0.0,
+    "salt_g": 0.1,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Deep magenta plum sorbet scoops beside halved ripe plums.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}
