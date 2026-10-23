@@ -1,0 +1,149 @@
+{
+  "slug": "borani-esfenaj-spinach-yoghurt-turmeric-onion",
+  "title": "Borani Esfenaj (Persian Spinach and Yoghurt with Golden Onion)",
+  "category": "snacks-sides",
+  "cuisine": "Persian",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "borani",
+  "dish_title": "Borani",
+  "flavour": "Spinach (esfenaj)",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Onion fried golden with garlic and turmeric, spinach wilted in the same pan until dry, then cooled and folded into thick yoghurt with lemon zest and juice. Chilled for 2 hours and finished with olive oil.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "30 cm frying pan",
+    "tongs",
+    "mixing bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Spinach",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Spinach",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Spinach",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Spinach",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Spinach",
+      "qty": 340,
+      "unit": "g",
+      "item": "baby spinach"
+    },
+    {
+      "group": "Spinach",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Spinach",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Yoghurt",
+      "qty": 250,
+      "unit": "g",
+      "item": "thick Greek yoghurt"
+    },
+    {
+      "group": "Yoghurt",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "plain yoghurt or water, to loosen"
+    },
+    {
+      "group": "Yoghurt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Yoghurt",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil, to finish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Fry the onion",
+      "text": "Heat the oil in the pan over medium-high heat and fry the onion for 6-8 min until golden brown. Lower the heat to medium-low, add the garlic for 2 min, then stir in the turmeric for 30 seconds."
+    },
+    {
+      "title": "Wilt the spinach",
+      "text": "Raise the heat to medium, add half the spinach and toss with tongs until it collapses, then add the rest with the salt and pepper. Cook for 3-5 min until wilted and the pan is dry. Tip into the bowl and leave to cool completely."
+    },
+    {
+      "title": "Combine",
+      "text": "Stir in the Greek yoghurt, the loosening yoghurt, lemon zest and juice. Taste and add more lemon if you like. Cover and chill for at least 2 hours so the flavours settle."
+    },
+    {
+      "title": "Serve",
+      "text": "Stir, spread in a shallow dish and drizzle with olive oil."
+    }
+  ],
+  "tips": [
+    "Cook the spinach until the pan is dry, or the borani will turn watery.",
+    "A few toasted walnuts or a pinch of dried mint on top are both traditional.",
+    "Frozen spinach works: thaw and squeeze it dry first."
+  ],
+  "storage": "Refrigerate in a covered container up to 3 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 221,
+    "protein_g": 8.7,
+    "carbs_g": 10.3,
+    "sugar_g": 4.7,
+    "free_sugar_g": 0.1,
+    "fat_g": 17.1,
+    "satfat_g": 3.5,
+    "salt_g": 0.96,
+    "fibre_g": 2.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "borani-basic--spinach-esfenaj.jpg",
+  "image_alt": "A bowl of pale green spinach and yoghurt dip drizzled with olive oil.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

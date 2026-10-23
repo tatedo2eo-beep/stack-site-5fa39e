@@ -1,0 +1,150 @@
+{
+  "slug": "pistachio-baklava-green-pistachio-squares",
+  "title": "Pistachio Baklava: Thick Green Pistachio Layer Squares",
+  "category": "desserts",
+  "cuisine": "Turkish",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "baklava",
+  "dish_title": "Baklava",
+  "flavour": "Pistachio",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "baklava-walnut-pistachio-honey-syrup",
+  "changes_from_base": "All pistachio instead of walnut and pistachio, ground finer with cardamom and packed into one thick green layer; a plain lemon sugar syrup replaces the honey syrup, it bakes hotter on a low shelf, and each square is topped with ground pistachio.",
+  "summary": "A thick single layer of finely ground pistachio and cardamom between buttered filo, baked crisp, soaked in lemon syrup and topped with more pistachio.",
+  "servings": 24,
+  "prep_min": 40,
+  "cook_min": 50,
+  "difficulty": "medium",
+  "equipment": [
+    "small saucepan",
+    "food processor",
+    "bowl",
+    "33 x 23 cm metal baking dish",
+    "pastry brush",
+    "clean damp tea towel",
+    "sharp knife",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Syrup",
+      "qty": 400,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 240,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "orange blossom water",
+      "note": "optional; not counted"
+    },
+    {
+      "group": "Filling",
+      "qty": 340,
+      "unit": "g",
+      "item": "shelled unsalted pistachios, bright green if possible"
+    },
+    {
+      "group": "Filling",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "Pastry",
+      "qty": 450,
+      "unit": "g",
+      "item": "filo (phyllo) pastry, thawed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 250,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the syrup",
+      "text": "Bring the sugar and water to the boil in the small pan, stirring until dissolved. Add the lemon juice and simmer for 6-8 min until slightly syrupy. Add the orange blossom water if using and leave to cool to room temperature."
+    },
+    {
+      "title": "Grind the pistachios",
+      "text": "Pulse the pistachios to a fine crumb that still has some texture; stop before it turns oily. Set aside 4 tbsp for the top and mix the rest with the sugar and cardamom."
+    },
+    {
+      "title": "Prepare the oven and pastry",
+      "text": "Heat the oven to 190 °C (170 °C fan) with a shelf in the lower third, so the bottom layers crisp. Trim the filo to fit the dish and keep it under the damp towel."
+    },
+    {
+      "title": "Lay the base",
+      "text": "Brush the dish with butter. Layer half the filo, brushing every second sheet with butter."
+    },
+    {
+      "title": "Add the filling",
+      "text": "Spread all the pistachio mixture over the base in one thick, even layer and press it down firmly with your palms."
+    },
+    {
+      "title": "Top and cut",
+      "text": "Cover with the remaining filo, buttering every second sheet, and brush the top generously. Cut right through to the base into 24 squares (6 x 4), then pour any leftover butter over the cuts."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake on the low shelf for 40-50 min until golden on top. Lift a corner of a middle square with a knife: the bottom layers should be crisp and golden. If the top darkens before the base is ready, lay foil loosely over it."
+    },
+    {
+      "title": "Soak and garnish",
+      "text": "Run the knife along the cuts again, then pour the cooled syrup evenly over the hot baklava. Spoon a small mound of the reserved pistachios onto the centre of each square and leave to cool for at least 4 h before serving."
+    }
+  ],
+  "tips": [
+    "Peeled Persian or Sicilian pistachios give the brightest green colour.",
+    "Pulse in short bursts so the nuts do not release their oil and clump.",
+    "A metal dish conducts heat better than glass and gives a crisper base."
+  ],
+  "storage": "Keep loosely covered at room temperature for up to 5 days. Do not refrigerate. Freezes well for up to 3 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 281,
+    "protein_g": 4.4,
+    "carbs_g": 31.7,
+    "sugar_g": 18.8,
+    "free_sugar_g": 17.7,
+    "fat_g": 16.1,
+    "satfat_g": 6.4,
+    "salt_g": 0.23,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "baklava-basic--pistachio.jpg",
+  "image_alt": "Squares of crisp filo baklava with a thick bright green pistachio layer and a mound of ground pistachio on top."
+}

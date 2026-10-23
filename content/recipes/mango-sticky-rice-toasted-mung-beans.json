@@ -1,0 +1,144 @@
+{
+  "slug": "mango-sticky-rice-toasted-mung-beans",
+  "title": "Mango Sticky Rice with Coconut Sauce and Toasted Mung Beans",
+  "category": "desserts",
+  "cuisine": "Thai",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "mango-sticky-rice",
+  "dish_title": "Mango sticky rice",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Steamed glutinous rice soaked in sweetened coconut milk, served with ripe mango, a salty-sweet coconut sauce and crunchy toasted mung beans.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "sieve",
+    "kitchen paper",
+    "small frying pan",
+    "2 bowls",
+    "wok or wide pan with a steamer basket and lid",
+    "clean damp tea towel"
+  ],
+  "ingredients": [
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "dried yellow split mung beans"
+    },
+    {
+      "group": "Rice",
+      "qty": 200,
+      "unit": "g",
+      "item": "Thai glutinous (sticky) rice"
+    },
+    {
+      "group": "Rice",
+      "qty": 240,
+      "unit": "ml",
+      "item": "coconut milk"
+    },
+    {
+      "group": "Rice",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Rice",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 160,
+      "unit": "ml",
+      "item": "coconut milk (rest of a 400 ml tin)"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "To serve",
+      "qty": 3,
+      "unit": "pc",
+      "item": "very ripe mangoes",
+      "note": "about 200 g flesh each"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak the rice",
+      "text": "Rinse the rice in several changes of water until it runs clear. Cover with plenty of cold water and soak for at least 1 h, or overnight in the fridge."
+    },
+    {
+      "title": "Toast the mung beans",
+      "text": "Cover the mung beans with just-boiled water and leave for 10 min. Drain, spread on kitchen paper to dry for 5 min, then toast in the dry frying pan over medium-high heat for 5-7 min, stirring, until golden and crunchy. Leave to cool."
+    },
+    {
+      "title": "Steam the rice",
+      "text": "Drain the rice, wrap it loosely in the damp tea towel and set it in the steamer basket. Cover and steam over simmering water for 20-25 min until the grains are translucent and chewy all the way through."
+    },
+    {
+      "title": "Sweeten the coconut milk",
+      "text": "While the rice steams, warm the 240 ml coconut milk with the sugar and 0.25 tsp salt, stirring until dissolved. Keep warm, but do not let it boil."
+    },
+    {
+      "title": "Soak the rice in coconut",
+      "text": "Turn the hot rice into a bowl, pour over the sweet coconut milk and stir gently to coat. Cover and leave for 15 min, until the liquid has been absorbed and the rice is glossy."
+    },
+    {
+      "title": "Make the sauce",
+      "text": "Bring the remaining coconut milk and 0.125 tsp salt to a simmer in the small pan. Stir in the cornflour mixed with 1 tsp water and cook for 1-2 min, stirring, until lightly thickened."
+    },
+    {
+      "title": "Plate",
+      "text": "Peel the mangoes, slice off the cheeks and cut them crosswise into 1 cm slices. Fan half a mango beside a mound of rice on each plate, spoon the sauce over the rice and sprinkle with the mung beans."
+    }
+  ],
+  "tips": [
+    "Use Thai glutinous rice; ordinary rice will not turn sticky.",
+    "The ripest, most fragrant mangoes make the dish; Thai or Pakistani varieties are ideal.",
+    "Serve the rice warm or at room temperature, never chilled.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best eaten the day it is made. Keep leftover rice covered at room temperature for up to 4 h, or chill and re-steam for 5 min until soft. Mung beans keep in an airtight jar for a week.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 362,
+    "protein_g": 5.4,
+    "carbs_g": 55.2,
+    "sugar_g": 22.3,
+    "free_sugar_g": 8.3,
+    "fat_g": 14.8,
+    "satfat_g": 12.8,
+    "salt_g": 0.4,
+    "fibre_g": 3.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "mango-sticky-rice-basic.jpg",
+  "image_alt": "Fanned slices of ripe mango beside a mound of sticky rice with coconut sauce and toasted mung beans."
+}

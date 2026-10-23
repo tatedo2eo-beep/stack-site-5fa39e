@@ -1,0 +1,166 @@
+{
+  "slug": "umm-ali-phyllo-milk-pudding-nuts-raisins",
+  "title": "Umm Ali: Baked Filo and Spiced Milk Pudding with Almonds, Pistachios and Raisins",
+  "category": "desserts",
+  "cuisine": "Egyptian",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "umm-ali",
+  "dish_title": "Umm Ali",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Buttered, cinnamon-sugared filo baked crisp, soaked in hot cardamom milk and cream, baked again until puffed and topped with toasted almonds, pistachios and raisins.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 55,
+  "difficulty": "easy",
+  "equipment": [
+    "20 x 28 cm (or similar) baking dish",
+    "small bowl",
+    "pastry brush",
+    "clean damp tea towel",
+    "medium saucepan",
+    "small frying pan"
+  ],
+  "ingredients": [
+    {
+      "group": "Filo",
+      "qty": 65,
+      "unit": "g",
+      "item": "unsalted butter, melted, plus extra for the dish"
+    },
+    {
+      "group": "Filo",
+      "qty": 20,
+      "unit": "g",
+      "item": "unsweetened desiccated coconut"
+    },
+    {
+      "group": "Filo",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Filo",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Filo",
+      "qty": 110,
+      "unit": "g",
+      "item": "filo (phyllo) pastry, thawed",
+      "note": "8-10 sheets"
+    },
+    {
+      "group": "Spiced milk",
+      "qty": 700,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Spiced milk",
+      "qty": 300,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Spiced milk",
+      "qty": 200,
+      "unit": "g",
+      "item": "sweetened condensed milk"
+    },
+    {
+      "group": "Spiced milk",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "flaked almonds"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "shelled pistachios, roughly chopped"
+    },
+    {
+      "group": "Topping",
+      "qty": 30,
+      "unit": "g",
+      "item": "raisins"
+    },
+    {
+      "group": "Topping",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the oven and dish",
+      "text": "Heat the oven to 175 °C (155 °C fan) and butter the baking dish. Combine the coconut, sugar and cinnamon in the small bowl."
+    },
+    {
+      "title": "Shape the filo",
+      "text": "Keep the filo under the damp towel. Brush one sheet with butter, sprinkle with about 1 tbsp of the coconut mixture, then gather it loosely into a puffy, crumpled ball and set it in the dish. Repeat with the remaining sheets, nestling the balls side by side, and brush their tops with the last of the butter."
+    },
+    {
+      "title": "First bake",
+      "text": "Bake for 25-30 min until crisp and golden. Leave to cool for 10 min and raise the oven to 200 °C (180 °C fan)."
+    },
+    {
+      "title": "Heat the milk",
+      "text": "While the filo bakes, warm the milk, cream, condensed milk and cardamom in the saucepan, stirring often, until steaming. Watch it closely, as it can boil over quickly."
+    },
+    {
+      "title": "Second bake",
+      "text": "Pour the hot milk evenly around and over the filo, leaving the tops poking out. Bake for 20-25 min until bubbling at the edges and deep golden and puffed on top."
+    },
+    {
+      "title": "Toast the topping",
+      "text": "Meanwhile toast the almonds and pistachios in the dry frying pan for 2-3 min until fragrant. Add the butter and raisins and stir for 1 min until the raisins plump up."
+    },
+    {
+      "title": "Serve",
+      "text": "Scatter the buttery nuts and raisins over the hot pudding and serve warm, spooning some of the milk into each bowl."
+    }
+  ],
+  "tips": [
+    "Scrunch the filo loosely; air pockets keep some of the top crisp after soaking.",
+    "Swap the almonds for hazelnuts or cashews if you prefer.",
+    "Serve within 15 min of baking for the best mix of crisp and soft."
+  ],
+  "storage": "Best eaten warm on the day. Leftovers keep covered in the fridge for 2 days; reheat in a 180 °C oven until piping hot.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 605,
+    "protein_g": 11.5,
+    "carbs_g": 46.9,
+    "sugar_g": 33.9,
+    "free_sugar_g": 22.3,
+    "fat_g": 42.9,
+    "satfat_g": 25.0,
+    "salt_g": 0.5,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "umm-ali-basic.jpg",
+  "image_alt": "A round dish of golden puffed pastry pudding topped with flaked almonds, chopped pistachios and dark raisins."
+}

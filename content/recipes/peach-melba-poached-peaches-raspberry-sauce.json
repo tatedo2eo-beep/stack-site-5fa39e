@@ -1,0 +1,153 @@
+{
+  "slug": "peach-melba-poached-peaches-raspberry-sauce",
+  "title": "Peach Melba: Vanilla-Poached Peaches with Raspberry Sauce and Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "peach-melba",
+  "dish_title": "Peach Melba",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Ripe peaches poached in a light honey, lemon and vanilla syrup, peeled and served with vanilla ice cream and a bright raspberry sauce.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "fine sieve",
+    "bowl",
+    "large wide saucepan",
+    "slotted spoon",
+    "large bowl of iced water",
+    "small sharp knife",
+    "ice-cream scoop"
+  ],
+  "ingredients": [
+    {
+      "group": "Raspberry sauce",
+      "qty": 450,
+      "unit": "g",
+      "item": "raspberries, fresh or frozen"
+    },
+    {
+      "group": "Raspberry sauce",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Raspberry sauce",
+      "qty": 90,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Raspberry sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Poached peaches",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Poached peaches",
+      "qty": 300,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Poached peaches",
+      "qty": 84,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 4 tbsp"
+    },
+    {
+      "group": "Poached peaches",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Poached peaches",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla paste or extract"
+    },
+    {
+      "group": "Poached peaches",
+      "qty": 6,
+      "unit": "pc",
+      "item": "ripe but firm peaches",
+      "note": "about 150 g each"
+    },
+    {
+      "group": "To serve",
+      "qty": 480,
+      "unit": "g",
+      "item": "vanilla ice cream",
+      "note": "6 scoops of about 80 g; choose one made without gelatine"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the raspberry sauce",
+      "text": "Put the raspberries, 120 ml water, 90 g sugar and 1 tsp lemon juice in the medium pan. Simmer for 10-12 min, stirring now and then, until the berries have fully collapsed. Press the mixture through the sieve into the bowl with the back of a spoon, scrape the underside of the sieve, discard the seeds and leave to cool."
+    },
+    {
+      "title": "Make the poaching syrup",
+      "text": "In the wide pan combine the 1000 ml water, 300 g sugar, honey, 4 tbsp lemon juice and vanilla. Bring to the boil, stirring until the sugar has dissolved."
+    },
+    {
+      "title": "Score the peaches",
+      "text": "With the small knife cut a shallow cross in the base of each peach. This lets the skins slip off cleanly after poaching."
+    },
+    {
+      "title": "Poach and chill",
+      "text": "Lower the peaches into the syrup, reduce the heat and simmer for about 6 min, turning them once, until a knife tip slides in with little resistance. Very ripe fruit may need only 3-4 min. Lift them straight into the iced water for 5 min to stop the cooking."
+    },
+    {
+      "title": "Peel and halve",
+      "text": "Peel the skins back from the cross; they should come away easily. Cut each peach in half along the seam, twist the halves apart and lift out the stone, keeping each half neat and whole."
+    },
+    {
+      "title": "Assemble",
+      "text": "Set 2 peach halves, cut side up, in each chilled bowl. Add a scoop of ice cream and spoon 2-3 tbsp raspberry sauce over the top. Serve at once."
+    }
+  ],
+  "tips": [
+    "Choose peaches that smell sweet but still feel slightly firm, so they hold their shape.",
+    "The sauce and poached peaches can be made a day ahead and chilled; assemble just before serving.",
+    "Keep the leftover poaching syrup in the fridge to sweeten drinks or fruit salad."
+  ],
+  "storage": "Poached peaches keep covered in a little of their syrup in the fridge for up to 2 days; the sauce keeps 4 days. Assemble only when serving.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 345,
+    "protein_g": 5.1,
+    "carbs_g": 63.4,
+    "sugar_g": 54.0,
+    "free_sugar_g": 38.1,
+    "fat_g": 9.7,
+    "satfat_g": 5.5,
+    "salt_g": 0.16,
+    "fibre_g": 7.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "peach-melba-basic.jpg",
+  "image_alt": "A dark bowl with a peeled golden poached peach and a scoop of vanilla ice cream, drizzled with bright red raspberry sauce."
+}

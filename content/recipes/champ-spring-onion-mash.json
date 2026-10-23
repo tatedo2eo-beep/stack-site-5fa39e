@@ -1,0 +1,118 @@
+{
+  "slug": "champ-spring-onion-mash",
+  "title": "Champ (Irish Spring Onion Mash)",
+  "category": "snacks-sides",
+  "cuisine": "Irish",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "champ",
+  "dish_title": "Champ",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Floury potatoes boiled and steamed dry, then mashed with hot milk infused with spring onions, butter and seasoning, and served with a pool of butter in the centre.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan",
+    "small saucepan",
+    "colander",
+    "potato masher or ricer"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 1000,
+      "unit": "g",
+      "item": "floury potatoes, peeled and cut into large chunks"
+    },
+    {
+      "group": "Spring onion milk",
+      "qty": 6,
+      "unit": "pc",
+      "item": "spring onions, finely sliced"
+    },
+    {
+      "group": "Spring onion milk",
+      "qty": 180,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Spring onion milk",
+      "qty": 50,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Spring onion milk",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Spring onion milk",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 20,
+      "unit": "g",
+      "item": "unsalted butter, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil the potatoes",
+      "text": "Cover the potatoes with cold water, bring to the boil and simmer for 15-20 min until completely tender. Drain well and return to the pan over low heat for 1 min to steam off excess moisture."
+    },
+    {
+      "title": "Infuse the milk",
+      "text": "Meanwhile, warm the spring onions in the milk with the 50 g butter, salt and pepper over low heat for 3-4 min, until the butter melts and the onions soften."
+    },
+    {
+      "title": "Mash",
+      "text": "Mash the potatoes until smooth, then beat in the hot spring onion milk."
+    },
+    {
+      "title": "Serve",
+      "text": "Pile into a warm dish, make a well in the centre and drop in the remaining butter to melt into a pool."
+    }
+  ],
+  "tips": [
+    "Floury potatoes such as Maris Piper or russet give the fluffiest result.",
+    "Keep the milk hot; cold milk makes mash gluey.",
+    "Chopped chives or a few peas are common variations."
+  ],
+  "storage": "Refrigerate up to 2 days. Reheat with a splash of milk until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 358,
+    "protein_g": 7.3,
+    "carbs_g": 49.1,
+    "sugar_g": 4.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 15.9,
+    "satfat_g": 9.9,
+    "salt_g": 1.18,
+    "fibre_g": 3.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "champ-basic.jpg",
+  "image_alt": "A mound of creamy mashed potato flecked with spring onion and a pool of melted butter.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

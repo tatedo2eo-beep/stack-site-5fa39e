@@ -1,0 +1,126 @@
+{
+  "slug": "carciofi-alla-giudia-twice-fried-artichokes",
+  "title": "Carciofi alla Giudia (Roman Twice-Fried Whole Artichokes)",
+  "category": "snacks-sides",
+  "cuisine": "Italian (Roman)",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "carciofi-alla-giudia",
+  "dish_title": "Carciofi alla giudia",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Whole trimmed artichokes are fried gently at 150-160 °C until tender, opened and de-choked, then fried again at 180 °C until bronzed and crisp. Served hot with salt and lemon.",
+  "servings": 4,
+  "prep_min": 30,
+  "cook_min": 35,
+  "difficulty": "hard",
+  "equipment": [
+    "large bowl",
+    "small sharp knife",
+    "grapefruit spoon or teaspoon",
+    "deep heavy pot or Dutch oven",
+    "cooking thermometer",
+    "tongs and slotted spoon",
+    "tray lined with kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Artichokes",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large globe artichokes",
+      "note": "about 1.2 kg whole; about 480 g once trimmed"
+    },
+    {
+      "group": "Artichokes",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, halved",
+      "note": "for the soaking water"
+    },
+    {
+      "group": "Artichokes",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Artichokes",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    },
+    {
+      "group": "Artichokes",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Artichokes",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Trim the artichokes",
+      "text": "Squeeze the lemon halves into the cold water and drop them in. Snap off the tough outer leaves of one artichoke until only pale ones remain. Peel the stem, leaving 5 cm, pare the base into a smooth round and cut off the top 2-3 cm. Keep it in the lemon water while you trim the rest."
+    },
+    {
+      "title": "First fry",
+      "text": "Heat oil 7-8 cm deep to 150-160 °C. Drain the artichokes, pat them completely dry, tap them upside down to loosen the leaves and rub with half the salt and the pepper. Fry for 12-15 min, turning, until a knife slides easily into the thickest part of the stem. Drain stem up on the tray."
+    },
+    {
+      "title": "Open them out",
+      "text": "When cool enough to handle, spread the leaves gently outwards like a flower and scoop out any hairy choke from the centre."
+    },
+    {
+      "title": "Second fry",
+      "text": "Heat the oil to 180 °C and fry the artichokes for 1-2 min, head down first, until bronzed and crackling. Drain, sprinkle with the remaining salt and serve at once with lemon wedges."
+    }
+  ],
+  "tips": [
+    "Dry the artichokes thoroughly before frying; water makes the hot oil spit.",
+    "Wear gloves while trimming, or rub your hands with lemon, to stop staining.",
+    "Never fill the pot more than half full of oil.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best eaten straight away. After the first fry they can wait at room temperature for up to 2 hours before the second fry. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 190,
+    "protein_g": 3.9,
+    "carbs_g": 12.9,
+    "sugar_g": 1.3,
+    "free_sugar_g": 0.1,
+    "fat_g": 15.2,
+    "satfat_g": 1.2,
+    "salt_g": 1.01,
+    "fibre_g": 6.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "carciofi-alla-giudia-basic.jpg",
+  "image_alt": "Whole deep-fried artichokes opened like bronze flowers with lemon wedges.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

@@ -30,9 +30,11 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | baked-dark-chocolate-pots-de-creme | Pot de crème | Classic | 2 | 4 |
 | baked-mac-and-cheese | Mac and cheese | Classic | 2 | 4 |
 | baked-ziti | Baked ziti | Classic | 2 | 4 |
+| baklava-walnut-pistachio-honey-syrup | Baklava | Classic | 2 | 4 |
 | balsamic-honey-vinaigrette | Vinaigrette | Balsamic | 3 | 5 |
 | banana-bread | Banana bread/quick breads | Classic | 2 | 4 |
 | banana-cream-pie | Cream pie (banana, coconut) | Classic | 2 | 4 |
+| basbousa-semolina-coconut-cake-almonds | Basbousa | Classic | 1 | 3 |
 | basil-pine-nut-pesto | Pesto | Classic | 2 | 4 |
 | basque-cheesecake | Basque burnt (San Sebastián) | Classic | 2 | 4 |
 | bbq-chicken-wings | Chicken wings | BBQ | 2 | 4 |
@@ -55,6 +57,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
 | boiled-eggs-spiced-onion-tomato-coconut-curry | Egg curry | Classic | 3 | 5 |
 | borani-esfenaj-spinach-yoghurt-dip | Borani | Classic | 2 | 4 |
+| borani-esfenaj-spinach-yoghurt-turmeric-onion | Borani | Spinach (esfenaj) | 2 | 4 |
 | boston-cream-pie | Boston cream pie | Classic | 2 | 4 |
 | braided-greek-tsoureki-orange-mahleb | Tsoureki | Classic | 2 | 4 |
 | braised-beef-pot-roast | Pot roast | Classic | 2 | 4 |
@@ -81,12 +84,15 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
 | caramelised-onion-flatbread-anchovies-black-olives-thyme | Pissaladière | Classic | 3 | 5 |
 | caramelised-onion-soup-gruyere-toasts | French onion | Classic | 3 | 5 |
+| carciofi-alla-giudia-twice-fried-artichokes | Carciofi alla giudia | Classic | 2 | 4 |
+| carciofi-alla-romana-mint-garlic-braise | Carciofi alla romana | Classic | 1 | 3 |
 | cardamom-kheer-pistachios-almonds | Kheer | Classic | 1 | 3 |
 | carne-asada-burrito-black-beans-lime-rice | Burrito | Carne asada | 3 | 5 |
 | carne-asada-street-tacos-onion-coriander-lime | Taco | Classic | 2 | 4 |
 | carrot-cake | Carrot | Classic | 2 | 4 |
 | carrot-nuoc-cham-dipping-sauce | Nuoc cham | Classic | 2 | 4 |
 | celeriac-remoulade-mustard-parsley | Celeriac rémoulade | Classic | 3 | 5 |
+| champ-spring-onion-mash | Champ | Classic | 1 | 3 |
 | champurrado-thick-mexican-chocolate-masa-drink | Champurrado | Classic | 2 | 4 |
 | chana-masala-chickpeas-tomato-gravy | Chickpeas (chana masala, falafel) | Classic | 2 | 4 |
 | charred-tawa-naan-yoghurt-ghee | Naan | Classic | 2 | 4 |
@@ -365,6 +371,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | groundnut-soup-sweet-potato-kale-peanut | Groundnut soup | Classic | 2 | 4 |
 | gruyere-parmesan-mornay-sauce | Mornay sauce | Classic | 2 | 4 |
 | guacamole | Guacamole | Classic | 2 | 3 |
+| gulab-jamun-cardamom-saffron-syrup | Gulab jamun | Classic | 2 | 4 |
 | hainanese-chicken-rice | Hainanese chicken rice | Classic | 3 | 5 |
 | haluski | Haluski | Classic | 2 | 4 |
 | hanoi-style-turmeric-fish-dill-spring-onions-rice-noodles | Chả cá Lã Vọng | Classic | 3 | 5 |
@@ -419,6 +426,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | key-lime-pie | Key lime | Classic | 2 | 4 |
 | kimchi-fried-rice-fried-egg-sesame | Kimchi fried rice | Classic | 3 | 5 |
 | kitchen-sink-cookies | Kitchen-sink cookie | Classic | 3 | 5 |
+| knafeh-orange-kataifi-melted-cheese | Knafeh | Classic | 2 | 4 |
 | korean-rice-bowl-beef-vegetables-crisp-rice-chilli-sauce | Bibimbap (dolsot) | Classic | 2 | 4 |
 | korean-seaweed-rice-rolls-beef-egg-vegetables | Kimbap | Classic | 2 | 4 |
 | korean-style-marinated-beef-bulgogi | Bulgogi/galbi | Classic | 3 | 5 |
@@ -457,6 +465,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | malaysian-style-fish-head-curry-okra-aubergine | Fish head curry | Classic | 2 | 4 |
 | malloreddus-saffron-tomato | Malloreddus | Classic | 2 | 4 |
 | mango-lassi-cardamom-pistachio | Lassi | Mango | 2 | 4 |
+| mango-sticky-rice-toasted-mung-beans | Mango sticky rice | Classic | 2 | 4 |
 | maple-glazed-carrots-ginger-lemon | Glazed carrots | Maple | 1 | 4 |
 | marble-pound-cake | Pound cake | Marble | 3 | 5 |
 | matcha-chiffon-cake | Chiffon | Matcha | 2 | 4 |
@@ -519,6 +528,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pain-de-campagne-rustic-sourdough-boule | Pain de campagne (levain) | Classic | 2 | 4 |
 | pain-de-genes | Pain de Gênes | Classic | 2 | 4 |
 | palak-paneer-golden-paneer-spinach | Palak paneer | Classic | 2 | 4 |
+| palestinian-salad-tomato-cucumber-mint | Palestinian salad | Classic | 1 | 3 |
 | pan-bagnat-tuna-egg-olive-baguette | Pan bagnat | Classic | 2 | 4 |
 | pan-con-tomate-garlic-olive-oil-toast | Pan con tomate | Classic | 2 | 4 |
 | pan-fried-beef-cabbage-dumplings-ginger-dipping-sauce | Potstickers (guotie/jiaozi) | Classic | 4 | 6 |
@@ -546,6 +556,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | patatas-bravas | Patatas bravas | Classic | 2 | 4 |
 | peach-cobbler-buttermilk-biscuits | Cobbler | Classic | 2 | 4 |
 | peach-ginger-shrub-cider-vinegar-soda | Shrubs | Peach | 2 | 4 |
+| peach-melba-poached-peaches-raspberry-sauce | Peach Melba | Classic | 2 | 4 |
 | peanut-butter-cookies | Peanut butter | Classic | 3 | 5 |
 | peanut-butter-fudge-chopped-peanuts | Fudge | Peanut butter | 2 | 4 |
 | pear-upside-down-cake | Upside-down | Pear | 2 | 4 |
@@ -561,8 +572,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | philly-cheesesteaks-shaved-ribeye-caramelised-onions | Philly cheesesteak | Classic | 2 | 4 |
 | pho-bo-vietnamese-beef-noodle-soup | Pho | Classic | 2 | 4 |
 | pickle-caper-tartar-sauce | Tartar sauce | Classic | 2 | 4 |
+| pinakbet-prawns-squash-bitter-melon | Pinakbet | Classic | 2 | 4 |
 | pineapple-upside-down-cake | Upside-down | Pineapple | 2 | 4 |
 | piri-piri-chicken | Piri-piri | Classic | 2 | 4 |
+| pistachio-baklava-green-pistachio-squares | Baklava | Pistachio | 3 | 5 |
 | pistachio-sesame-dukkah | Dukkah | Classic | 2 | 4 |
 | pistachio-tahini-halva-squares | Halva | Classic | 2 | 4 |
 | pizzelle | Pizzelle | Classic | 2 | 4 |
@@ -627,6 +640,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | salade-nicoise-tuna-eggs-potatoes | Niçoise | Classic | 2 | 4 |
 | salt-preserved-lemons | Preserved lemon | Classic | 2 | 4 |
 | samgyetang | Samgyetang | Classic | 2 | 4 |
+| sarson-ka-saag-makki-roti | Saag | Classic | 1 | 3 |
 | savoury-cabbage-pancakes-spring-onion-tangy-sauce-mayo | Okonomiyaki (Japanese "pizza" – debatable) | Classic | 3 | 5 |
 | scotch-broth-lamb-barley-kale | Scotch broth | Classic | 2 | 4 |
 | seared-mushroom-tacos-chipotle-onion-coriander | Taco | Mushroom | 3 | 5 |
@@ -776,6 +790,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tuscan-panzanella-tomato-bread-salad | Panzanella | Classic | 3 | 5 |
 | twisted-parmesan-puff-pastry-cheese-straws | Cheese straws | Classic | 3 | 5 |
 | ukrainian-borscht-beef-beetroot-cabbage | Borscht | Classic | 2 | 4 |
+| umm-ali-phyllo-milk-pudding-nuts-raisins | Umm Ali | Classic | 1 | 3 |
 | upside-down-cake | Upside-down | Classic | 2 | 4 |
 | upside-down-spiced-rice-chicken-roasted-aubergine | Maqluba | Eggplant | 3 | 5 |
 | upside-down-spiced-rice-chicken-roasted-cauliflower | Maqluba | Cauliflower | 3 | 5 |

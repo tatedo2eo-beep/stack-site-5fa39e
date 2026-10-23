@@ -1,0 +1,168 @@
+{
+  "slug": "basbousa-semolina-coconut-cake-almonds",
+  "title": "Basbousa: Syrup-Soaked Semolina and Coconut Cake with Almonds",
+  "category": "desserts",
+  "cuisine": "Egyptian",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "basbousa",
+  "dish_title": "Basbousa",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A coarse semolina and coconut cake made tender with yoghurt and ghee, baked with an almond on each square and soaked in a cool lemon syrup.",
+  "servings": 24,
+  "prep_min": 20,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "23 x 33 cm baking tin",
+    "baking paper",
+    "2 mixing bowls",
+    "whisk",
+    "spatula",
+    "thin knife",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Syrup",
+      "qty": 300,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 340,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Syrup",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Cake",
+      "qty": 275,
+      "unit": "g",
+      "item": "coarse semolina"
+    },
+    {
+      "group": "Cake",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsweetened desiccated coconut"
+    },
+    {
+      "group": "Cake",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Cake",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Cake",
+      "qty": 115,
+      "unit": "g",
+      "item": "ghee or unsalted butter, melted, plus extra for the tin"
+    },
+    {
+      "group": "Cake",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cake",
+      "qty": 230,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt"
+    },
+    {
+      "group": "Cake",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, beaten"
+    },
+    {
+      "group": "Cake",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Cake",
+      "qty": 24,
+      "unit": "pc",
+      "item": "whole blanched almonds"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the syrup first",
+      "text": "Simmer the sugar, water and lemon juice in the small pan for 5 min until clear. Set aside to cool completely while you make and bake the cake; cool syrup on a hot cake is absorbed evenly without turning it mushy."
+    },
+    {
+      "title": "Prepare the tin",
+      "text": "Heat the oven to 175 °C (155 °C fan). Line the tin with baking paper and grease it with a little ghee."
+    },
+    {
+      "title": "Mix the dry ingredients",
+      "text": "In one bowl stir together the semolina, coconut, baking powder and salt."
+    },
+    {
+      "title": "Mix the batter",
+      "text": "In the second bowl whisk the melted ghee with the sugar, then whisk in the yoghurt, eggs and vanilla. Fold in the dry mixture with the spatula until evenly combined. The batter will be thick, like wet sand."
+    },
+    {
+      "title": "Rest and decorate",
+      "text": "Spread the batter level in the tin and leave for 15 min so the semolina absorbs some liquid. Score lightly into 24 squares, 6 by 4, and press an almond into the centre of each."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 30-35 min until golden all over and a skewer pushed into the middle comes out clean."
+    },
+    {
+      "title": "Soak",
+      "text": "Re-cut along the scored lines with the thin knife. Pour the cold syrup slowly over the hot cake, a little at a time, letting each addition sink in. Cool completely in the tin, about 1 h, then cut through and lift out the squares."
+    }
+  ],
+  "tips": [
+    "Use coarse semolina, not fine, for the classic crumbly texture.",
+    "Do not overmix after adding the dry ingredients, or the cake turns tough.",
+    "If your yoghurt is thick Greek style, loosen it with 2 tbsp milk."
+  ],
+  "storage": "Keep covered at room temperature for 2 days or in the fridge for up to 5 days; bring to room temperature before serving. Freezes well for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 207,
+    "protein_g": 2.8,
+    "carbs_g": 30.9,
+    "sugar_g": 21.6,
+    "free_sugar_g": 20.8,
+    "fat_g": 8.5,
+    "satfat_g": 5.4,
+    "salt_g": 0.17,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "basbousa-basic.jpg",
+  "image_alt": "Golden squares of syrup-soaked semolina cake, each topped with a whole blanched almond."
+}

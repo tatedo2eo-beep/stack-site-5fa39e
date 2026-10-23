@@ -1,0 +1,162 @@
+{
+  "slug": "pinakbet-prawns-squash-bitter-melon",
+  "title": "Pinakbet (Filipino Vegetable Stew with Prawns and Shrimp Paste)",
+  "category": "snacks-sides",
+  "cuisine": "Filipino",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "pinakbet",
+  "dish_title": "Pinakbet",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Garlic, tomato paste and shrimp paste fried to a deep savoury base, then simmered with tomato, onion and squash before the green vegetables and bitter melon go in. Prawns are cooked through at the end. No extra salt is needed.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "large heavy pot or Dutch oven with lid",
+    "wooden spoon",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Base",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves, smashed"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "tomato paste"
+    },
+    {
+      "group": "Base",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "bagoong (Filipino fermented shrimp paste)",
+      "note": "the pink, untoasted kind; it is the only salt in the dish"
+    },
+    {
+      "group": "Base",
+      "qty": 2,
+      "unit": "pc",
+      "item": "ripe tomatoes, cut into chunks"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large onion, cut into chunks",
+      "note": "about 200 g"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 300,
+      "unit": "g",
+      "item": "kabocha squash, peeled and cut into 4 cm pieces"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 360,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 225,
+      "unit": "g",
+      "item": "okra, ends trimmed"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 200,
+      "unit": "g",
+      "item": "long beans or green beans, cut into 5 cm lengths"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "long aubergine, cut into 2.5 cm pieces"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bitter melon, halved, seeded and cut into 1 cm half-moons"
+    },
+    {
+      "group": "Prawns",
+      "qty": 250,
+      "unit": "g",
+      "item": "raw prawns, peeled and deveined"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "portions steamed jasmine rice, to serve",
+      "note": "not counted in nutrition"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Build the base",
+      "text": "Heat the oil in the pot over medium-high heat and cook the garlic for 2-3 min until soft. Stir in the tomato paste for 2 min until it turns brick red, then add the bagoong and fry for 1-2 min until it smells strong and toasty."
+    },
+    {
+      "title": "Simmer the squash",
+      "text": "Add the tomatoes and stir for 2-3 min, scraping up the sticky base, then add the onion, squash and 360 ml water. Simmer briskly for 10 min, stirring now and then, until the squash begins to soften and the sauce looks glossy."
+    },
+    {
+      "title": "Add the vegetables",
+      "text": "Add the okra, beans, aubergine and bitter melon and stir to coat. Cook for 5 min, then turn the heat to medium-low and cook for 12-15 min more, stirring gently so the squash does not break up, until everything is tender."
+    },
+    {
+      "title": "Cook the prawns",
+      "text": "Tuck the prawns into the vegetables, cover and cook for 3-4 min until pink and opaque right through (63 °C). Serve hot with steamed rice."
+    }
+  ],
+  "tips": [
+    "Bagoong varies a lot in saltiness; start with 1.5 tbsp and taste before adding the rest.",
+    "Salting the sliced bitter melon for 10 min, then rinsing it, tames its bitterness.",
+    "Leftover roast chicken or fried tofu can replace the prawns."
+  ],
+  "storage": "Refrigerate up to 2 days. Reheat until piping hot (74 °C); the prawns will firm up a little. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "crustaceans"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 247,
+    "protein_g": 19.6,
+    "carbs_g": 28.9,
+    "sugar_g": 11.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 8.2,
+    "satfat_g": 0.8,
+    "salt_g": 1.97,
+    "fibre_g": 10.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pinakbet-basic.jpg",
+  "image_alt": "A bowl of stewed squash, okra, beans, aubergine and bitter melon with pink prawns.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

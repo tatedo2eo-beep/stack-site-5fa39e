@@ -1,0 +1,160 @@
+{
+  "slug": "baklava-walnut-pistachio-honey-syrup",
+  "title": "Baklava: Walnut and Pistachio Pastry Squares in Honey Syrup",
+  "category": "desserts",
+  "cuisine": "Turkish",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "baklava",
+  "dish_title": "Baklava",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Buttered filo layered with a coarse walnut and pistachio filling, cut into squares, baked golden and drenched with a cold honey and lemon syrup.",
+  "servings": 24,
+  "prep_min": 45,
+  "cook_min": 50,
+  "difficulty": "medium",
+  "equipment": [
+    "small saucepan",
+    "food processor",
+    "medium bowl",
+    "33 x 23 cm metal baking dish",
+    "pastry brush",
+    "clean damp tea towel",
+    "sharp serrated knife",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Syrup",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 250,
+      "unit": "g",
+      "item": "honey"
+    },
+    {
+      "group": "Syrup",
+      "qty": 240,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "strip of lemon peel",
+      "note": "not counted"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "orange blossom water",
+      "note": "optional; not counted"
+    },
+    {
+      "group": "Filling",
+      "qty": 250,
+      "unit": "g",
+      "item": "shelled unsalted pistachios"
+    },
+    {
+      "group": "Filling",
+      "qty": 200,
+      "unit": "g",
+      "item": "walnut halves"
+    },
+    {
+      "group": "Filling",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Pastry",
+      "qty": 450,
+      "unit": "g",
+      "item": "filo (phyllo) pastry, thawed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 225,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the syrup",
+      "text": "Put the sugar, honey and water in the small pan and bring to a gentle boil, stirring until the sugar has dissolved. Add the lemon peel and simmer for 15 min until the syrup lightly coats a spoon. Remove the peel, stir in the orange blossom water if using, then cool and chill for at least 1 h. Cold syrup on hot pastry is what keeps baklava crisp."
+    },
+    {
+      "title": "Make the filling",
+      "text": "Pulse the pistachios and walnuts in the food processor in two batches until coarsely ground with some pea-size pieces left; do not let it turn to paste. Mix with the sugar and cinnamon."
+    },
+    {
+      "title": "Prepare the pastry",
+      "text": "Heat the oven to 175 °C (155 °C fan). Trim the filo stack to the size of the dish if needed and keep it covered with the damp towel while you work, as it dries out within minutes."
+    },
+    {
+      "title": "Build the base",
+      "text": "Brush the dish with melted butter. Lay in 2 sheets, brush the top sheet with butter, and keep going in buttered pairs until about a third of the filo is used."
+    },
+    {
+      "title": "Layer the nuts",
+      "text": "Scatter half the nut mixture evenly over the base. Cover with 3 buttered pairs of sheets, then spread the remaining nuts and press lightly. Use the rest of the filo in buttered pairs for the top and brush it generously."
+    },
+    {
+      "title": "Cut before baking",
+      "text": "With the serrated knife cut right down to the base in 6 rows by 4 to make 24 squares. Cutting now gives clean pieces and lets the syrup reach every layer."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 40-50 min, turning the dish halfway, until deep golden across the top and edges. Check from 40 min; pale baklava turns soggy once soaked."
+    },
+    {
+      "title": "Soak and rest",
+      "text": "Straight from the oven, spoon the cold syrup evenly over the hot pastry, making sure the corners and edges get their share; it will sizzle. Leave uncovered at room temperature for at least 6 h before lifting out the squares."
+    }
+  ],
+  "tips": [
+    "Keep the filo under a damp, not wet, towel; wet patches make the sheets stick together.",
+    "Torn sheets are fine in the middle layers; save the best ones for the top.",
+    "Do not cover the baklava while it soaks, or condensation will soften the top."
+  ],
+  "storage": "Keep loosely covered at room temperature for up to 5 days. Do not refrigerate, as the pastry turns chewy. Freezes well for up to 3 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 310,
+    "protein_g": 4.9,
+    "carbs_g": 33.1,
+    "sugar_g": 20.0,
+    "free_sugar_g": 18.9,
+    "fat_g": 18.9,
+    "satfat_g": 6.2,
+    "salt_g": 0.23,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "baklava-basic.jpg",
+  "image_alt": "Squares of golden layered filo baklava with a coarse pistachio and walnut filling, glistening with syrup."
+}

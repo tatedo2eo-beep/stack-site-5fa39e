@@ -1,0 +1,162 @@
+{
+  "slug": "knafeh-orange-kataifi-melted-cheese",
+  "title": "Knafeh: Golden Shredded Pastry with Melted Cheese and Orange Blossom Syrup",
+  "category": "desserts",
+  "cuisine": "Palestinian",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "knafeh",
+  "dish_title": "Knafeh",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Ghee-coated kataifi pressed around a layer of soft melting cheese, baked until crisp, turned out and soaked with orange blossom syrup and pistachios.",
+  "servings": 10,
+  "prep_min": 30,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "box grater",
+    "kitchen paper",
+    "25 cm cast-iron or heavy ovenproof frying pan",
+    "small bowl",
+    "large chopping board",
+    "round serving platter",
+    "thin spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Cheese",
+      "qty": 565,
+      "unit": "g",
+      "item": "Akkawi cheese, cut into 5 cm chunks",
+      "note": "or unsalted low-moisture mozzarella, no soaking needed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 340,
+      "unit": "g",
+      "item": "kataifi (shredded filo) pastry, thawed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 170,
+      "unit": "g",
+      "item": "ghee, melted"
+    },
+    {
+      "group": "Pastry",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "ghee, soft"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "orange gel food colouring",
+      "note": "optional; not counted"
+    },
+    {
+      "group": "Syrup",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "boiling water"
+    },
+    {
+      "group": "Syrup",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "orange blossom water",
+      "note": "optional; not counted"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "rose water",
+      "note": "optional; not counted"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "To finish",
+      "qty": 30,
+      "unit": "g",
+      "item": "pistachios, finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Desalt the cheese",
+      "text": "If using Akkawi, put the chunks in a bowl, cover with hot tap water and soak for 1.5 h, changing the water once halfway. Taste a crumb: it should be only mildly salty. Drain, pat dry with kitchen paper and grate coarsely. Unsalted mozzarella needs no soaking, just grating."
+    },
+    {
+      "title": "Make the syrup",
+      "text": "Stir the sugar into the boiling water in the small bowl until dissolved. Leave to cool for 20 min, then add the orange blossom water and rose water if using, and the lemon juice."
+    },
+    {
+      "title": "Prepare the pan",
+      "text": "Heat the oven to 200 °C (180 °C fan). Mix the soft ghee with the food colouring and brush it evenly over the base and a little up the sides of the pan. This becomes the bright top of the knafeh once it is turned out."
+    },
+    {
+      "title": "Coat the pastry",
+      "text": "Pull the kataifi strands apart, cut them into roughly 5 cm lengths and toss with the melted ghee in the large bowl until every strand glistens. Set aside about a third."
+    },
+    {
+      "title": "Assemble",
+      "text": "Press the larger portion of kataifi firmly over the base of the pan. Spread the cheese on top, leaving a 1 cm border all round so it does not leak and burn. Scatter over the reserved kataifi and press down well."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 40-45 min until the top is deep golden and the cheese has completely melted. Lift an edge with the spatula to check the base is crisp and coloured."
+    },
+    {
+      "title": "Turn out",
+      "text": "Drizzle 120 ml of the syrup over the hot knafeh. Slide it onto the board, place the serving platter on top and flip it over in one confident movement, so the orange base faces up."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Pour over the rest of the syrup, scatter with the pistachios and cut into wedges straight away, while the cheese is soft and stretchy."
+    }
+  ],
+  "tips": [
+    "Akkawi and nabulsi are the traditional cheeses; low-moisture mozzarella gives a similar stretch.",
+    "Keep the 1 cm cheese-free border: cheese touching the pan scorches.",
+    "Knafeh is best eaten within 30 min of baking."
+  ],
+  "storage": "Best eaten fresh. Leftovers keep covered in the fridge for 1 day; reheat in a 180 °C oven for 10-15 min until the cheese melts again.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 547,
+    "protein_g": 15.3,
+    "carbs_g": 40.2,
+    "sugar_g": 20.8,
+    "free_sugar_g": 20.0,
+    "fat_g": 36.7,
+    "satfat_g": 21.5,
+    "salt_g": 1.42,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "knafeh-basic.jpg",
+  "image_alt": "A round of orange shredded-pastry knafeh scattered with chopped pistachios, with a wedge lifted to show stretchy melted cheese."
+}
