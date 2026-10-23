@@ -1,0 +1,177 @@
+{
+  "slug": "salted-caramel-brownies",
+  "title": "Salted Caramel Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Salted caramel",
+  "flavour_order": 108,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Homemade caramel layered and swirled through, finished with flaky salt; no chocolate chunks.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Fudgy brownies layered and swirled with homemade caramel and finished with flaky sea salt.",
+  "servings": 16,
+  "prep_min": 30,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "20 cm square metal baking tin, lined with baking paper",
+    "heatproof bowl and small pan (or a microwave)",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer",
+    "small heavy saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Brownie",
+      "qty": 150,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Brownie",
+      "qty": 170,
+      "unit": "g",
+      "item": "dark chocolate (70% cocoa), chopped"
+    },
+    {
+      "group": "Brownie",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 230,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Brownie",
+      "qty": 80,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Brownie",
+      "qty": 25,
+      "unit": "g",
+      "item": "cocoa powder"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Caramel",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Caramel",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Caramel",
+      "qty": 80,
+      "unit": "ml",
+      "item": "double cream, warmed"
+    },
+    {
+      "group": "Caramel",
+      "qty": 20,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Caramel",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Finish",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Caramel",
+      "text": "Heat the sugar and water in the saucepan, swirling but not stirring, until amber, 6-8 min. Off the heat, whisk in the warm cream (it will bubble up), then the butter and fine salt. Cool until thick but pourable, about 30 min."
+    },
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the tin."
+    },
+    {
+      "title": "Batter",
+      "text": "Melt the butter and chocolate together. Whisk the eggs, sugar and vanilla until pale and thick, about 3 min, fold in the chocolate, then fold in the flour, cocoa and salt."
+    },
+    {
+      "title": "Layer",
+      "text": "Spread two-thirds of the batter in the tin, spoon over half the caramel, then cover with the rest of the batter and dot the remaining caramel on top. Swirl lightly with a knife."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 25-28 min, until set at the edges and a cocktail stick comes out with sticky crumbs. Sprinkle with the flaky salt."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool completely, ideally chill 1 h, then cut into 16."
+    }
+  ],
+  "tips": [
+    "Warm the cream first so the caramel does not seize.",
+    "Take the caramel off the heat as soon as it is amber; it burns fast.",
+    "Chilling helps the caramel set for clean slices.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight box at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 272,
+    "protein_g": 3.0,
+    "carbs_g": 30.5,
+    "sugar_g": 23.4,
+    "free_sugar_g": 23.2,
+    "fat_g": 16.1,
+    "satfat_g": 9.6,
+    "salt_g": 0.35,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Fudgy brownie squares oozing caramel and sprinkled with flaky salt.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

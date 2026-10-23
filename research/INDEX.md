@@ -137,6 +137,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cheese-empanadas-melting-mozzarella-fontina | Empanadas | Cheese | 1 | 3 |
 | cheese-jalapeno-nachos | Nachos | Classic | 2 | 4 |
 | cheeseburger-sliders | Sliders | Classic | 2 | 5 |
+| cheesecake-layer-brownies | Brownie (fudgy or cakey) | Cheesecake | 1 | 3 |
 | cheesy-gruyere-gougeres | Gougères | Classic | 2 | 4 |
 | cheesy-potato-gratin | Gratin | Classic | 2 | 4 |
 | cherry-bakewell-tart-glace-cherries | Bakewell | Cherry | 2 | 4 |
@@ -184,6 +185,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chocolate-cocoa-dusted-marshmallows | Marshmallows | Chocolate | 2 | 4 |
 | chocolate-cupcakes | Cupcakes | Chocolate | 3 | 5 |
 | chocolate-dipped-shortbread | Shortbread | Chocolate-dipped | 2 | 5 |
+| chocolate-hazelnut-spread-brownies | Brownie (fudgy or cakey) | Nutella & hazelnut | 1 | 3 |
 | chocolate-layer-cake | Chocolate layer | Classic | 2 | 4 |
 | chocolate-rugelach | Rugelach | Chocolate | 2 | 4 |
 | chocolate-sandwich-cookies | Sandwich cookies | Classic | 2 | 4 |
@@ -335,6 +337,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | egusi-soup-beef-spinach-palm-oil | Egusi soup | Classic | 2 | 4 |
 | ensaladilla-rusa-tuna-peppers | Ensaladilla rusa | Classic | 2 | 4 |
 | escalivada-roasted-peppers-aubergine-onion | Escalivada | Classic | 2 | 4 |
+| espresso-cashew-brownies | Brownie (fudgy or cakey) | Espresso & cashew | 1 | 3 |
 | espresso-macchiato-foam-dot | Macchiato | Classic | 2 | 4 |
 | ethiopian-berbere-beef-tibs | Tibs | Classic | 2 | 4 |
 | everyday-chicken-curry | Chicken curry | Classic | 3 | 6 |
@@ -405,6 +408,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | ginger-chicken-rice-porridge-crispy-garlic-egg | Arroz caldo | Classic | 2 | 4 |
 | ginger-rhubarb-crumble | Crumble | Rhubarb | 1 | 3 |
 | gingerbread-cookies | Gingerbread | Classic | 3 | 5 |
+| gingerbread-spice-brownies | Brownie (fudgy or cakey) | Gingerbread | 1 | 3 |
 | glassy-salted-peanut-brittle | Brittle | Peanut | 1 | 4 |
 | glossy-braided-honey-challah | ? | ? | MISSING | |
 | glossy-candied-orange-lemon-peel | Candied citrus peel | Classic | 3 | 5 |
@@ -687,13 +691,16 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | peanut-butter-banana-smoothie-thick | Smoothies | Banana-peanut butter | 2 | 4 |
 | peanut-butter-cookies | Peanut butter | Classic | 3 | 5 |
 | peanut-butter-fudge-chopped-peanuts | Fudge | Peanut butter | 2 | 4 |
+| peanut-butter-swirl-brownies | Brownie (fudgy or cakey) | Peanut butter | 1 | 3 |
 | pear-upside-down-cake | Upside-down | Pear | 2 | 4 |
 | pearl-barley-with-mushrooms | Barley | Classic | 1 | 3 |
 | pearl-sugar-chouquettes | Chouquettes | Classic | 2 | 4 |
 | pearl-sugar-tarte-tropezienne | Tropézienne | Classic | 0 | 3 |
+| pecan-pie-topped-brownies | Brownie (fudgy or cakey) | Pecan | 1 | 3 |
 | peking-duck | Peking duck | Classic | 2 | 4 |
 | penne-arrabbiata | Short (penne, rigatoni, fusilli) | Classic | 3 | 5 |
 | peperonata-sweet-peppers-basil | Peperonata | Classic | 2 | 4 |
+| peppermint-bark-brownies | Brownie (fudgy or cakey) | Peppermint | 1 | 3 |
 | peppermint-swirl-marshmallows | Marshmallows | Peppermint | 2 | 4 |
 | persian-cucumber-tomato-salad-shirazi | Shirazi | Classic | 2 | 4 |
 | persian-faloodeh-rose-water-lime | Faloodeh | Classic | 2 | 4 |
@@ -761,6 +768,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | red-chile-chicken-enchiladas-cheddar-crema | Enchilada | Classic | 2 | 4 |
 | red-lentil-soup | Lentil | Classic | 2 | 3 |
 | red-velvet-cake | Red velvet | Classic | 2 | 4 |
+| red-velvet-cream-cheese-brownies | Brownie (fudgy or cakey) | Red velvet | 1 | 3 |
 | red-velvet-cupcakes-cream-cheese-frosting | Cupcakes | Red velvet | 2 | 4 |
 | reverse-seared-rib-eye-steak-thyme-garlic | Reverse-sear steak | Classic | 2 | 4 |
 | ribollita-tuscan-bean-kale-bread-soup | Ribollita | Classic | 2 | 4 |
@@ -790,6 +798,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | sage-beurre-noisette | Beurre noisette | Classic | 2 | 4 |
 | salade-nicoise-tuna-eggs-potatoes | Niçoise | Classic | 2 | 4 |
 | salt-preserved-lemons | Preserved lemon | Classic | 2 | 4 |
+| salted-caramel-brownies | Brownie (fudgy or cakey) | Salted caramel | 1 | 3 |
 | salted-edamame-in-pods | Edamame | Classic | 1 | 3 |
 | saltenas-bolivian-chicken-hand-pies | Salteña | Chicken | 1 | 3 |
 | samgyetang | Samgyetang | Classic | 2 | 4 |

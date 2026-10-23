@@ -1,0 +1,183 @@
+{
+  "slug": "cheesecake-layer-brownies",
+  "title": "Cheesecake Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Cheesecake",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Cocoa brownie under a baked cream cheese layer, marbled on top; chilled.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A cocoa brownie layer topped with smooth baked cheesecake and marbled with chocolate batter.",
+  "servings": 16,
+  "prep_min": 25,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "20 cm square metal baking tin, lined with baking paper",
+    "heatproof bowl and small pan (or a microwave)",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer",
+    "food thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Brownie",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Brownie",
+      "qty": 225,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 55,
+      "unit": "g",
+      "item": "cocoa powder"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Brownie",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 55,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Brownie",
+      "qty": 100,
+      "unit": "g",
+      "item": "dark chocolate chips"
+    },
+    {
+      "group": "Cheesecake",
+      "qty": 225,
+      "unit": "g",
+      "item": "full-fat cream cheese, at room temperature"
+    },
+    {
+      "group": "Cheesecake",
+      "qty": 60,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cheesecake",
+      "qty": 8,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Cheesecake",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "double cream"
+    },
+    {
+      "group": "Cheesecake",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Cheesecake",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, at room temperature"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 170 °C (150 °C fan) and line the tin."
+    },
+    {
+      "title": "Brownie",
+      "text": "Melt the butter in a pan, stir in the sugar until glossy, then off the heat stir in the cocoa, salt, baking powder and vanilla. Cool 5 min, beat in the eggs, then the flour, and fold in the chocolate chips. Spread all but 4 tbsp in the tin."
+    },
+    {
+      "title": "Cheesecake",
+      "text": "Beat the cream cheese until lump-free, then the sugar and flour, then the cream, vanilla and egg until smooth. Pour evenly over the brownie layer."
+    },
+    {
+      "title": "Marble",
+      "text": "Drop the saved brownie batter on top in small spoonfuls and pull a knife through a few times."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 40-45 min, until the cheesecake layer is set at the edges with only a slight wobble in the middle and reads at least 71 °C."
+    },
+    {
+      "title": "Chill",
+      "text": "Cool to room temperature, then chill at least 3 h before cutting into 16. Keep in the fridge."
+    }
+  ],
+  "tips": [
+    "Soft cream cheese prevents lumps in the topping.",
+    "Wipe the knife between cuts for neat layers.",
+    "They taste best cold from the fridge.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days; let them stand 15 min before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 250,
+    "protein_g": 3.7,
+    "carbs_g": 26.7,
+    "sugar_g": 20.0,
+    "free_sugar_g": 19.3,
+    "fat_g": 15.4,
+    "satfat_g": 9.1,
+    "salt_g": 0.26,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Brownie squares with a thick creamy cheesecake layer marbled with chocolate.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

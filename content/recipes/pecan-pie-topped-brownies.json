@@ -1,0 +1,167 @@
+{
+  "slug": "pecan-pie-topped-brownies",
+  "title": "Pecan Pie Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Pecan",
+  "flavour_order": 109,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Unsweetened-chocolate batter topped with buttery caramel pecans, no eggs in the topping.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A chewy chocolate brownie topped with pecans in a brown sugar and butter caramel.",
+  "servings": 16,
+  "prep_min": 25,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin, lined with baking paper",
+    "heatproof bowl and small pan (or a microwave)",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Brownie",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsweetened (100%) chocolate, chopped"
+    },
+    {
+      "group": "Brownie",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Brownie",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Brownie",
+      "qty": 95,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Topping",
+      "qty": 120,
+      "unit": "g",
+      "item": "pecan halves",
+      "note": "about 60 g roughly chopped, 60 g left whole"
+    },
+    {
+      "group": "Topping",
+      "qty": 70,
+      "unit": "g",
+      "item": "dark brown soft sugar"
+    },
+    {
+      "group": "Topping",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "golden syrup"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "double cream"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the tin."
+    },
+    {
+      "title": "Batter",
+      "text": "Melt the chocolate and butter, then cool a few minutes. Whisk the sugar, baking powder, salt, eggs and vanilla for 15 seconds, whisk in the chocolate and stir in the flour. Spread in the tin and scatter with the chopped pecans."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 22-26 min, until a cocktail stick halfway in comes out clean. Cool for 1 h."
+    },
+    {
+      "title": "Topping",
+      "text": "Bring the brown sugar, butter and golden syrup to a simmer, stirring, and bubble 2 min. Take off the heat, stir in the cream and the whole pecans."
+    },
+    {
+      "title": "Finish",
+      "text": "Spoon the pecans over the brownie in a single layer and pour the sauce over. Leave about 1 h to set before cutting into 16."
+    }
+  ],
+  "tips": [
+    "Toast the pecans for extra flavour.",
+    "Pour the topping while warm so it spreads evenly.",
+    "Let the topping set before cutting.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight box at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 273,
+    "protein_g": 3.0,
+    "carbs_g": 26.2,
+    "sugar_g": 19.3,
+    "free_sugar_g": 18.9,
+    "fat_g": 18.1,
+    "satfat_g": 8.3,
+    "salt_g": 0.17,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Brownie squares covered with a glossy layer of caramel-coated pecan halves.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "peanut-butter-swirl-brownies",
+  "title": "Peanut Butter Swirl Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Peanut butter",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Peanut butter swirled through a slightly cakier batter; no cocoa or chocolate chunks.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A rich chocolate brownie batter with spoonfuls of peanut butter swirled through before baking.",
+  "servings": 16,
+  "prep_min": 20,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin, lined with baking paper",
+    "heatproof bowl and small pan (or a microwave)",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Brownie",
+      "qty": 140,
+      "unit": "g",
+      "item": "dark chocolate (70% cocoa), chopped"
+    },
+    {
+      "group": "Brownie",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, cubed"
+    },
+    {
+      "group": "Brownie",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Brownie",
+      "qty": 90,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Swirl",
+      "qty": 90,
+      "unit": "g",
+      "item": "smooth peanut butter, at room temperature"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the tin so the paper overhangs two sides."
+    },
+    {
+      "title": "Melt",
+      "text": "Melt the chocolate and butter together over barely simmering water or in short microwave bursts, stir smooth and leave 5 min to cool a little."
+    },
+    {
+      "title": "Batter",
+      "text": "Whisk the sugar, baking powder, salt, eggs and vanilla for about 30 seconds, whisk in the warm chocolate, then fold in the flour until no dry streaks remain. Spread in the tin."
+    },
+    {
+      "title": "Swirl",
+      "text": "Stir the peanut butter until loose, drop it over the batter in about 10 spoonfuls and drag a knife through in loops, keeping the tip off the paper."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 22-26 min, until a cocktail stick pushed in halfway between edge and centre comes out with only a few moist crumbs."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool in the tin at least 1 h, lift out by the paper and cut into 16 squares."
+    }
+  ],
+  "tips": [
+    "Warm stiff peanut butter for a few seconds so it swirls easily.",
+    "Natural or regular smooth peanut butter both work.",
+    "Do not over-swirl or the marbling disappears.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight box at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 216,
+    "protein_g": 3.4,
+    "carbs_g": 22.2,
+    "sugar_g": 15.2,
+    "free_sugar_g": 14.6,
+    "fat_g": 13.1,
+    "satfat_g": 6.6,
+    "salt_g": 0.21,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Chocolate brownie squares marbled with pale peanut butter swirls.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

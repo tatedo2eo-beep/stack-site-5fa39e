@@ -1,0 +1,159 @@
+{
+  "slug": "gingerbread-spice-brownies",
+  "title": "Gingerbread Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Gingerbread",
+  "flavour_order": 111,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Molasses and warm ginger in a cakier cocoa batter baked in a larger tin.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Cakey chocolate bars spiced with ginger and cinnamon and sweetened with treacle.",
+  "servings": 24,
+  "prep_min": 20,
+  "cook_min": 32,
+  "difficulty": "easy",
+  "equipment": [
+    "23 x 33 cm baking tin, lined with baking paper",
+    "small frying pan",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick"
+  ],
+  "ingredients": [
+    {
+      "group": "Dry",
+      "qty": 200,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dry",
+      "qty": 20,
+      "unit": "g",
+      "item": "Dutch-process cocoa powder"
+    },
+    {
+      "group": "Dry",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Dry",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Dry",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Wet",
+      "qty": 115,
+      "unit": "g",
+      "item": "dark chocolate (50-60% cocoa), chopped"
+    },
+    {
+      "group": "Wet",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Wet",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Wet",
+      "qty": 200,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Wet",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Wet",
+      "qty": 80,
+      "unit": "ml",
+      "item": "black treacle or molasses"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 160 °C (140 °C fan) and line the large tin. Whisk the flour, cocoa, salt, baking powder, bicarbonate and cinnamon together."
+    },
+    {
+      "title": "Bloom",
+      "text": "Put the chocolate in a large bowl. Melt the butter in the pan, add the ginger and sizzle for 15 seconds, then pour it over the chocolate. Leave 5 min and stir smooth."
+    },
+    {
+      "title": "Batter",
+      "text": "Whisk in the brown sugar, then the eggs and treacle until glossy, and stir in the dry mix until no flour shows."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread in the tin and bake 28-32 min, until a cocktail stick comes out with a few moist crumbs."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool completely in the tin, then cut into 24 bars."
+    }
+  ],
+  "tips": [
+    "Frying the ginger in butter wakes up its flavour.",
+    "Measure treacle with an oiled spoon.",
+    "They taste even spicier the next day.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight box at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 141,
+    "protein_g": 1.8,
+    "carbs_g": 21.8,
+    "sugar_g": 14.2,
+    "free_sugar_g": 14.1,
+    "fat_g": 5.9,
+    "satfat_g": 3.5,
+    "salt_g": 0.2,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Dark, spiced gingerbread brownie bars cut from a large tray.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

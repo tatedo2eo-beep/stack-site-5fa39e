@@ -1,0 +1,184 @@
+{
+  "slug": "red-velvet-cream-cheese-brownies",
+  "title": "Red Velvet Brownies with Cream Cheese Frosting",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Red velvet",
+  "flavour_order": 104,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "White chocolate and natural cocoa batter coloured red, with a cream cheese frosting; no dark chocolate.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "White chocolate and cocoa brownies coloured red, topped with tangy cream cheese frosting.",
+  "servings": 16,
+  "prep_min": 25,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "20 cm square metal baking tin, lined with baking paper",
+    "heatproof bowl and small pan (or a microwave)",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer",
+    "electric hand whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Brownie",
+      "qty": 170,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Brownie",
+      "qty": 110,
+      "unit": "g",
+      "item": "white chocolate, chopped"
+    },
+    {
+      "group": "Brownie",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 50,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "red gel food colouring",
+      "note": "optional"
+    },
+    {
+      "group": "Brownie",
+      "qty": 95,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Brownie",
+      "qty": 25,
+      "unit": "g",
+      "item": "natural (non-alkalised) cocoa powder"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "white vinegar"
+    },
+    {
+      "group": "Frosting",
+      "qty": 115,
+      "unit": "g",
+      "item": "full-fat cream cheese, softened"
+    },
+    {
+      "group": "Frosting",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Frosting",
+      "qty": 220,
+      "unit": "g",
+      "item": "icing sugar, sifted"
+    },
+    {
+      "group": "Frosting",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the tin."
+    },
+    {
+      "title": "Melt",
+      "text": "Warm the butter and white chocolate together in short bursts, stirring, until just melted."
+    },
+    {
+      "title": "Batter",
+      "text": "Whisk in both sugars, then the eggs, vanilla and colouring until smooth. Fold in the flour, cocoa and salt, then fold in the vinegar last. Spread in the tin."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 25-30 min, until the edges are set, the middle no longer looks wet and a cocktail stick comes out with a few crumbs. Cool completely, about 2 h."
+    },
+    {
+      "title": "Frosting",
+      "text": "Beat the cream cheese and butter until smooth, then beat in the icing sugar and vanilla until fluffy."
+    },
+    {
+      "title": "Finish",
+      "text": "Spread the frosting over the cold slab, chill 30 min so it firms, then cut into 16 with a clean, warm knife."
+    }
+  ],
+  "tips": [
+    "Use natural cocoa, not Dutch-process, for the classic red tone.",
+    "Gel colouring gives strong colour without thinning the batter.",
+    "Frost only when the brownies are completely cold.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days; let them stand 15 min before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 317,
+    "protein_g": 3.1,
+    "carbs_g": 39.3,
+    "sugar_g": 33.4,
+    "free_sugar_g": 33.1,
+    "fat_g": 17.3,
+    "satfat_g": 10.4,
+    "salt_g": 0.2,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Deep red brownie squares topped with a thick layer of white cream cheese frosting.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

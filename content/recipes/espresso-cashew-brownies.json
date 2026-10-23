@@ -1,0 +1,154 @@
+{
+  "slug": "espresso-cashew-brownies",
+  "title": "Espresso Cashew Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Espresso & cashew",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Instant espresso melted into the chocolate, with toasted cashews folded through and scattered on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Fudgy dark chocolate brownies with espresso melted into the batter and toasted cashews through and on top.",
+  "servings": 16,
+  "prep_min": 20,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin, lined with baking paper",
+    "heatproof bowl and small pan (or a microwave)",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Brownie",
+      "qty": 150,
+      "unit": "g",
+      "item": "unsalted cashews",
+      "note": "100 g chopped for the batter, 50 g halved for the top"
+    },
+    {
+      "group": "Brownie",
+      "qty": 110,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Brownie",
+      "qty": 200,
+      "unit": "g",
+      "item": "dark chocolate (60-70% cocoa), chopped"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "instant espresso powder"
+    },
+    {
+      "group": "Brownie",
+      "qty": 140,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 60,
+      "unit": "g",
+      "item": "dark brown soft sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Brownie",
+      "qty": 75,
+      "unit": "g",
+      "item": "plain flour"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast",
+      "text": "Heat the oven to 180 °C (160 °C fan), spread the cashews on a tray and toast 6-8 min until pale gold, then cool. Chop 100 g and halve the rest."
+    },
+    {
+      "title": "Melt",
+      "text": "Melt the butter, chocolate and espresso powder together gently, stir until smooth and let it stand 5 min."
+    },
+    {
+      "title": "Mix",
+      "text": "Whisk in both sugars and the salt, add the eggs one by one, whisking hard after each, then stir in the vanilla."
+    },
+    {
+      "title": "Fold",
+      "text": "Fold in the flour and the chopped cashews, scrape into the lined tin and scatter the halved cashews over the top."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 24-28 min, until the crust is set and a cocktail stick comes out with moist crumbs."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool fully in the tin before lifting out and cutting into 16 squares."
+    }
+  ],
+  "tips": [
+    "Use instant espresso powder, not ground coffee; decaf works too.",
+    "Salted roasted cashews work too; skip the added salt if using them.",
+    "Let the brownies cool fully for clean cuts.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight box at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 251,
+    "protein_g": 4.0,
+    "carbs_g": 24.8,
+    "sugar_g": 16.0,
+    "free_sugar_g": 15.4,
+    "fat_g": 15.7,
+    "satfat_g": 7.5,
+    "salt_g": 0.22,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Dark espresso brownie squares studded with golden toasted cashew halves on top.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

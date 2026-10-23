@@ -1,0 +1,142 @@
+{
+  "slug": "peppermint-bark-brownies",
+  "title": "Peppermint Bark Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Peppermint",
+  "flavour_order": 106,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Unsweetened-chocolate batter with a white chocolate peppermint bark top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Fudgy chocolate brownies topped with peppermint white chocolate and crushed candy canes.",
+  "servings": 16,
+  "prep_min": 20,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin, lined with baking paper",
+    "heatproof bowl and small pan (or a microwave)",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Brownie",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Brownie",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsweetened (100%) chocolate, chopped"
+    },
+    {
+      "group": "Brownie",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 80,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Bark",
+      "qty": 100,
+      "unit": "g",
+      "item": "white chocolate, chopped"
+    },
+    {
+      "group": "Bark",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "alcohol-free peppermint flavouring",
+      "note": "or 2 drops food-grade peppermint oil"
+    },
+    {
+      "group": "Bark",
+      "qty": 40,
+      "unit": "g",
+      "item": "peppermint candy canes, crushed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the tin."
+    },
+    {
+      "title": "Batter",
+      "text": "Melt the butter and unsweetened chocolate in a small pan over low heat, stirring, then take it off the heat and stir in the sugar. Beat in the eggs one at a time and stir in the flour and salt."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread in the tin and bake about 25 min, until the top is dry but the centre is still fudgy; a cocktail stick should come out with moist crumbs. Cool completely."
+    },
+    {
+      "title": "Bark",
+      "text": "Melt the white chocolate gently, stir in the peppermint flavouring and spread it over the cold brownie. Scatter the crushed candy canes over at once."
+    },
+    {
+      "title": "Set",
+      "text": "Leave about 1 h until the white chocolate sets, then cut into 16 with a hot knife."
+    }
+  ],
+  "tips": [
+    "Peppermint flavouring is strong, so add it a drop at a time.",
+    "Crush the candy canes in a bag with a rolling pin.",
+    "Add the candy straight away, before the chocolate sets.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight box in a cool place for up to 4 days; the candy softens in the fridge.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 205,
+    "protein_g": 2.5,
+    "carbs_g": 24.0,
+    "sugar_g": 17.8,
+    "free_sugar_g": 17.7,
+    "fat_g": 11.3,
+    "satfat_g": 6.8,
+    "salt_g": 0.14,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Brownie squares topped with white chocolate and crushed red and white candy cane.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}
