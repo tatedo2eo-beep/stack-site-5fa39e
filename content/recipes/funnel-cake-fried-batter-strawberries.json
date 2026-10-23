@@ -1,0 +1,153 @@
+{
+  "slug": "funnel-cake-fried-batter-strawberries",
+  "title": "Funnel Cake: Crisp Fried Batter Spirals with Icing Sugar and Strawberries",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "funnel-cake",
+  "dish_title": "Funnel cake",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A lacy tangle of light batter fried crisp at 190 °C, dusted with icing sugar and topped with fresh strawberries.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "whisk",
+    "23-25 cm heavy pot or deep frying pan",
+    "deep-fry thermometer",
+    "squeeze bottle or jug with a narrow spout (or a funnel)",
+    "2 fish slices or tongs",
+    "tray lined with kitchen paper",
+    "small sieve"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 180,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Batter",
+      "qty": 12,
+      "unit": "g",
+      "item": "granulated sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "vanilla extract"
+    },
+    {
+      "group": "Batter",
+      "qty": 130,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Frying",
+      "qty": 750,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for about 4 cm depth"
+    },
+    {
+      "group": "To serve",
+      "qty": 20,
+      "unit": "g",
+      "item": "icing sugar, for dusting"
+    },
+    {
+      "group": "To serve",
+      "qty": 150,
+      "unit": "g",
+      "item": "strawberries, sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk the batter",
+      "text": "Whisk the milk, egg, sugar and vanilla in the bowl, then add the flour, baking powder and salt and whisk until smooth. It should be thick but still pour in a steady ribbon. Rest it for 5 min."
+    },
+    {
+      "title": "Heat the oil",
+      "text": "Pour about 4 cm of oil into the pot and heat to 190 °C. Hot oil sets the thin strands instantly, so they stay crisp rather than oily."
+    },
+    {
+      "title": "Pour the spiral",
+      "text": "Fill the squeeze bottle with half the batter. Starting at the centre, squeeze it into the oil in a wide spiral, then zigzag back across so the loops join into a cake about 20 cm wide."
+    },
+    {
+      "title": "Fry and flip",
+      "text": "Fry for 60-90 s until the underside is golden, turn it over with the two fish slices and cook another 60-90 s until crisp and evenly coloured."
+    },
+    {
+      "title": "Make the second cake",
+      "text": "Drain on the paper, wait until the oil is back at 190 °C, then pour and fry the rest of the batter."
+    },
+    {
+      "title": "Top and serve",
+      "text": "Cut each cake in half, sift over a thick layer of icing sugar and pile on the strawberries. Eat while warm."
+    }
+  ],
+  "tips": [
+    "A common mistake is batter that is too thick; it forms heavy blobs, so loosen it with 1-2 tsp milk if it will not flow smoothly.",
+    "Always let the oil recover to 190 °C between cakes.",
+    "Use a pot no wider than 25 cm so the cake keeps a neat round shape.",
+    "Any soft fruit or a spoonful of jam works instead of strawberries.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Funnel cake is best eaten within minutes. Leftovers lose their crunch, but you can refresh them in a 200 °C (180 °C fan) oven for 4-5 min.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 320,
+    "protein_g": 6.6,
+    "carbs_g": 38.2,
+    "sugar_g": 12.3,
+    "free_sugar_g": 7.9,
+    "fat_g": 15.6,
+    "satfat_g": 2.2,
+    "salt_g": 0.59,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "funnel-cake-basic.jpg",
+  "image_alt": "A golden funnel cake dusted with icing sugar and topped with sliced strawberries.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

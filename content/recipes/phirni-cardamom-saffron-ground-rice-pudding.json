@@ -1,0 +1,128 @@
+{
+  "slug": "phirni-cardamom-saffron-ground-rice-pudding",
+  "title": "Phirni: Cardamom and Saffron Ground Rice Pudding",
+  "category": "desserts",
+  "cuisine": "Indian",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "phirni",
+  "dish_title": "Phirni",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Soaked basmati ground to a coarse paste and simmered in milk with sugar, cardamom and saffron, finished with almonds and pistachios.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "fine sieve",
+    "blender or food processor",
+    "heavy-based saucepan",
+    "silicone spatula",
+    "4 serving bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Pudding",
+      "qty": 100,
+      "unit": "g",
+      "item": "basmati rice"
+    },
+    {
+      "group": "Pudding",
+      "qty": 950,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Pudding",
+      "qty": 100,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Pudding",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "Pudding",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "saffron threads"
+    },
+    {
+      "group": "Nuts",
+      "qty": 35,
+      "unit": "g",
+      "item": "almonds, roughly chopped"
+    },
+    {
+      "group": "Nuts",
+      "qty": 35,
+      "unit": "g",
+      "item": "shelled pistachios, roughly chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Rinse the rice",
+      "text": "Cover the rice with cold water, swish it hard with your hand, then drain. Repeat until the water stays clear; washing off surface starch keeps the pudding from turning gluey."
+    },
+    {
+      "title": "Soak",
+      "text": "Cover the rice with 500 ml fresh water and soak for 2 h, then drain it well."
+    },
+    {
+      "title": "Grind coarsely",
+      "text": "Pulse in the blender about 8 times, until you have a gritty paste with some visible pieces. That coarse grind is what gives phirni its characteristic texture."
+    },
+    {
+      "title": "Simmer and stir",
+      "text": "Put the rice paste, milk, sugar, cardamom and saffron in the pan and bring to a simmer over medium heat. Cook for about 25 min, stirring all the time and scraping the base so nothing catches, until the rice is soft and the pudding is as thick as custard."
+    },
+    {
+      "title": "Add the nuts",
+      "text": "Stir in half of the almonds and pistachios."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon into the bowls and scatter over the remaining nuts. Eat it warm, or chill for 2 h for a firmer, more traditional set."
+    }
+  ],
+  "tips": [
+    "A common mistake is grinding the rice to flour; keep it coarse or the pudding turns pasty.",
+    "Use a heavy pan and keep stirring, as milk scorches easily.",
+    "The pudding thickens as it cools, so stop cooking when it just coats a spoon thickly.",
+    "Crush the saffron threads first for more colour."
+  ],
+  "storage": "Cover and refrigerate for up to 3 days. Serve cold, or stir in a splash of milk and warm gently until hot.",
+  "allergens": [
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 438,
+    "protein_g": 13.2,
+    "carbs_g": 61.2,
+    "sugar_g": 38.3,
+    "free_sugar_g": 24.9,
+    "fat_g": 16.5,
+    "satfat_g": 5.4,
+    "salt_g": 0.27,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "phirni-basic.jpg",
+  "image_alt": "A bowl of creamy phirni topped with slivered pistachios and almonds.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "pasteis-de-bacalhau-salt-cod-potato-fritters",
+  "title": "Pastéis de Bacalhau (Salt Cod and Potato Fritters)",
+  "category": "snacks-sides",
+  "cuisine": "Portuguese",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "pastel-de-bacalhau",
+  "dish_title": "Pastel de bacalhau",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Light, crisp-shelled Portuguese fritters of flaked salt cod, fluffy potato, onion and parsley, shaped between two spoons and fried golden. Serve with lemon.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 50,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "2 saucepans",
+    "colander",
+    "potato ricer or masher",
+    "clean tea towel",
+    "wooden spoon",
+    "2 dessert spoons",
+    "large heavy pot or deep fryer",
+    "instant-read thermometer",
+    "slotted spoon",
+    "paper towels"
+  ],
+  "ingredients": [
+    {
+      "group": "Cod",
+      "qty": 450,
+      "unit": "g",
+      "item": "thick dried salt cod",
+      "note": "soaked for 24-36 hours"
+    },
+    {
+      "group": "Mix",
+      "qty": 450,
+      "unit": "g",
+      "item": "floury potatoes, peeled and cut into 4 cm chunks"
+    },
+    {
+      "group": "Mix",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "small onion, grated and squeezed dry",
+      "note": "about 40 g"
+    },
+    {
+      "group": "Mix",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Mix",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, finely chopped"
+    },
+    {
+      "group": "Mix",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Mix",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "For frying",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak",
+      "text": "Rinse the cod, then soak it in plenty of cold water in the fridge for 24-36 hours, changing the water 3-4 times. This draws out most of the salt and rehydrates the fish."
+    },
+    {
+      "title": "Potatoes",
+      "text": "Boil the potatoes in unsalted water for 15-20 minutes, until a knife slides in easily. Drain, leave to steam dry for 5 minutes, then rice or mash until smooth; dry potato gives lighter fritters."
+    },
+    {
+      "title": "Cod",
+      "text": "Put the drained cod in a pan of fresh water, bring to a bare simmer and cook for 8-10 minutes, until it flakes. Drain and cool."
+    },
+    {
+      "title": "Flake",
+      "text": "Remove all skin and bones, then wrap the cod in a tea towel and rub it between your hands until it becomes fine, fluffy threads. Fine threads give the classic airy texture."
+    },
+    {
+      "title": "Beat",
+      "text": "Mix the potato, cod, onion, garlic, parsley and pepper with a wooden spoon, then beat in the eggs one at a time for 2-3 minutes, until the mixture is light and holds its shape."
+    },
+    {
+      "title": "Shape",
+      "text": "Scoop a heaped dessert spoon of mixture and pass it between 2 spoons 3-4 times to make a smooth, three-sided oval. Set it on a plate and repeat to make about 24."
+    },
+    {
+      "title": "Fry",
+      "text": "Heat the oil to 180 °C. Fry 6 at a time for 4-5 minutes, turning, until deep golden and the centre reads 74 °C. Drain on paper towels and serve warm with lemon."
+    }
+  ],
+  "tips": [
+    "Fry one fritter first as a test: if it breaks up, beat the mixture a little longer.",
+    "Squeeze the grated onion well; extra moisture makes the fritters spit.",
+    "Dip the spoons in hot water now and then so the mixture slides off cleanly.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best on the day. Cooked fritters keep in the fridge for 2 days; reheat at 200 °C for 8-10 minutes, until piping hot (74 °C). The mixture keeps for 1 day in the fridge before frying. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 161,
+    "protein_g": 14.0,
+    "carbs_g": 11.0,
+    "sugar_g": 0.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 6.7,
+    "satfat_g": 0.9,
+    "salt_g": 0.79,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pastel-de-bacalhau-basic.jpg",
+  "image_alt": "Golden oval salt cod fritters on a dark plate, one cut open to show the fluffy cod and potato, with lemon.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

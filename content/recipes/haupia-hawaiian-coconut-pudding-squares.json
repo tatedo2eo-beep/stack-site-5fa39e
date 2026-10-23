@@ -1,0 +1,130 @@
+{
+  "slug": "haupia-hawaiian-coconut-pudding-squares",
+  "title": "Haupia: Hawaiian Coconut Milk Pudding Squares",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "haupia",
+  "dish_title": "Haupia",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Coconut milk and milk thickened with cornflour into a smooth, gently sweet pudding that sets firm enough to cut into squares.",
+  "servings": 8,
+  "prep_min": 5,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "medium heavy saucepan",
+    "whisk",
+    "silicone spatula",
+    "20 cm square tin",
+    "cling film",
+    "sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Pudding",
+      "qty": 360,
+      "unit": "ml",
+      "item": "full-fat coconut milk"
+    },
+    {
+      "group": "Pudding",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Pudding",
+      "qty": 75,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Pudding",
+      "qty": 40,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "Pudding",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Pudding",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla extract"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "ti or banana leaf, to serve",
+      "note": "optional; not counted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Start cold",
+      "text": "Whisk the sugar, cornflour and salt together in the saucepan before it goes on the heat, then slowly whisk in the coconut milk and milk. Mixing into cold liquid keeps the starch from forming lumps."
+    },
+    {
+      "title": "Thicken",
+      "text": "Set over medium heat and whisk constantly for 6-8 min, until it bubbles and becomes thick and glossy."
+    },
+    {
+      "title": "Cook it out",
+      "text": "Lower the heat and keep stirring with the spatula for another 10 min, reaching into the corners of the pan. This fully cooks the starch, so the pudding sets firm and loses any raw, floury taste."
+    },
+    {
+      "title": "Add vanilla",
+      "text": "Take the pan off the heat and stir in the vanilla."
+    },
+    {
+      "title": "Chill to set",
+      "text": "Pour into the tin without greasing it, level the top and press cling film onto the surface so no skin forms. Chill for at least 2 h until firm."
+    },
+    {
+      "title": "Cut and serve",
+      "text": "Cut into 16 squares and serve cold, on a ti or banana leaf if you have one."
+    }
+  ],
+  "tips": [
+    "The common mistake is stopping when it first thickens; the extra 10 min on low is what gives a clean, firm set.",
+    "Use full-fat coconut milk and shake the tin well first.",
+    "Wipe the knife between cuts for sharp edges.",
+    "Toasted coconut flakes make a nice topping.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days. Do not freeze, as the texture turns spongy.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 175,
+    "protein_g": 2.4,
+    "carbs_g": 17.5,
+    "sugar_g": 11.8,
+    "free_sugar_g": 9.4,
+    "fat_g": 11.2,
+    "satfat_g": 9.5,
+    "salt_g": 0.1,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "haupia-basic.jpg",
+  "image_alt": "White squares of haupia coconut pudding arranged on a green leaf.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

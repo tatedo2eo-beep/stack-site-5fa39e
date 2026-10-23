@@ -1,0 +1,160 @@
+{
+  "slug": "pouding-chomeur-maple-pudding-cake",
+  "title": "Pouding Chômeur: Québec Pudding Cake Baked in Maple Cream Sauce",
+  "category": "desserts",
+  "cuisine": "Canadian",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "pouding-chomeur",
+  "dish_title": "Pouding chômeur",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A simple butter cake baked under hot maple syrup and cream, which sinks to become a thick sauce beneath a golden crust.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "heatproof jug",
+    "2 bowls",
+    "whisk",
+    "20 cm square (about 2 litre) baking dish",
+    "rimmed baking tray",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Maple sauce",
+      "qty": 240,
+      "unit": "ml",
+      "item": "pure maple syrup, preferably dark"
+    },
+    {
+      "group": "Maple sauce",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Maple sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Cake",
+      "qty": 175,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Cake",
+      "qty": 40,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Cake",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Cake",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Cake",
+      "qty": 160,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Cake",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Cake",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "vanilla extract"
+    },
+    {
+      "group": "Cake",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Set the oven to 190 °C (170 °C fan) with a shelf in the upper third."
+    },
+    {
+      "title": "Warm the sauce",
+      "text": "Heat the maple syrup, cream and salt in the saucepan over medium heat for about 5 min, until just simmering. Whisk and pour into the heatproof jug."
+    },
+    {
+      "title": "Combine the dry ingredients",
+      "text": "Whisk the flour, sugar, baking powder and salt in a large bowl."
+    },
+    {
+      "title": "Make the batter",
+      "text": "Whisk the milk, eggs and vanilla in the other bowl, add to the dry ingredients and whisk smooth, then whisk in the melted butter until glossy."
+    },
+    {
+      "title": "Pour on the sauce",
+      "text": "Spread the batter in the baking dish set on the tray. Pour the hot sauce slowly into one corner so it floats across the batter rather than digging holes in it. The tray catches any bubbling over."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 30-35 min until deep golden and a skewer pushed into the cake part comes out clean. As it bakes, the lighter batter rises up through the denser sauce, which settles at the bottom."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Leave it for 10 min so the sauce thickens, then spoon portions onto plates and flip each over so the sauce sits on top."
+    }
+  ],
+  "tips": [
+    "Use pure maple syrup, not a flavoured syrup, or the sauce will be thin and one-dimensional.",
+    "A common mistake is pouring the sauce fast in the middle; pour gently into a corner.",
+    "Serve warm with a spoonful of crème fraîche or plain yoghurt to cut the sweetness.",
+    "Dark maple syrup gives the deepest flavour.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Cover and refrigerate for up to 3 days. Reheat portions in the microwave or a 180 °C (160 °C fan) oven until piping hot.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 413,
+    "protein_g": 5.4,
+    "carbs_g": 50.7,
+    "sugar_g": 31.2,
+    "free_sugar_g": 29.2,
+    "fat_g": 21.5,
+    "satfat_g": 13.2,
+    "salt_g": 0.67,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pouding-chomeur-basic.jpg",
+  "image_alt": "Golden pouding chômeur in a dish with glossy maple sauce around the cake.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

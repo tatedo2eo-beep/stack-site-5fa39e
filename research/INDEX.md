@@ -97,6 +97,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | buffalo-chicken-wings | Chicken wings | Buffalo | 4 | 6 |
 | bulalo-beef-shank-marrow-bone-corn-soup | Bulalo | Classic | 1 | 3 |
 | butter-chicken | Butter chicken | Classic | 2 | 4 |
+| butter-tarts-canadian-raisin | Butter tart | Classic | 1 | 3 |
 | buttered-corn-on-the-cob | Corn on the cob | Classic | 1 | 4 |
 | buttered-spaetzle | Spätzle | Classic | 3 | 5 |
 | buttermilk-chess-pie | Chess | Classic | 2 | 4 |
@@ -111,6 +112,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | caffe-latte-rosetta-art | Latte | Classic | 4 | 6 |
 | canh-chua-catfish-tamarind-pineapple-soup | Canh chua | Classic | 2 | 4 |
 | canh-chua-snapper-fillet-tomato-pineapple | Canh chua | Fish | 2 | 4 |
+| cannoli-pistachio-mascarpone-cream | Cannoli | Pistachio | 2 | 4 |
+| cannoli-sicilian-ricotta-chocolate-chip | Cannoli | Classic | 1 | 3 |
 | caponata-aubergine-celery-capers-olives | Caponata | Classic | 1 | 3 |
 | caprese-panini-mozzarella-tomato-basil | Panini | Caprese | 1 | 3 |
 | caramel-choux-croquembouche | Croquembouche | Classic | 2 | 4 |
@@ -160,6 +163,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chicken-caesar-salad-griddled-breast | Caesar | Chicken | 3 | 5 |
 | chicken-caesar-wraps-lemon-chicken-crunchy-panko | Wraps | Chicken Caesar | 2 | 4 |
 | chicken-chow-mein | Chow mein/lo mein | Chicken | 3 | 5 |
+| chicken-croquetas-creamy-bechamel-crisp-panko | Croquetas | Chicken (de pollo) | 2 | 4 |
 | chicken-empanadas-peppers-olives-baked | Empanadas | Chicken | 2 | 4 |
 | chicken-fried-rice-egg-peas-carrot | Fried rice | Classic | 2 | 4 |
 | chicken-fried-steak | Chicken fried steak | Classic | 3 | 6 |
@@ -395,6 +399,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fruit-juice-gummy-cubes | Gelatin gummies | Classic | 1 | 3 |
 | ful-medames-cumin-lemon-tomato | Ful medames | Classic | 1 | 4 |
 | ful-medames-tahini-drizzle | Ful medames | Tahini | 2 | 4 |
+| funnel-cake-fried-batter-strawberries | Funnel cake | Classic | 1 | 3 |
 | gado-gado-peanut-sauce | Gado-gado | Classic | 2 | 4 |
 | gai-lan-oyster-sauce-sizzled-garlic | Stir-fried gai lan | Classic | 2 | 4 |
 | gai-yang | Gai yang | Classic | 2 | 4 |
@@ -468,6 +473,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | hard-boiled-eggs-ice-bath-easy-peel | Boiled (soft/hard) | Classic | 2 | 4 |
 | harira-moroccan-lentil-chickpea-soup | Harira | Classic | 2 | 4 |
 | harissa-yoghurt-beef-skewers | Kebabs/skewers | Harissa | 3 | 5 |
+| haupia-hawaiian-coconut-pudding-squares | Haupia | Classic | 1 | 3 |
 | hazelnut-linzertorte-raspberry-lattice | Linzer | Classic | 1 | 3 |
 | hazelnut-praline-paris-brest | Paris-Brest | Classic | 2 | 4 |
 | herb-crusted-rack-of-lamb-mustard | Rack of lamb/persillade | Mustard-herb crust | 4 | 6 |
@@ -528,6 +534,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | ketchup-chicken-fried-rice-folded-omelette | Omurice | Ketchup | 3 | 5 |
 | ketchup-glazed-meatloaf | Meatloaf | Ketchup-brown sugar glaze | 2 | 4 |
 | key-lime-pie | Key lime | Classic | 2 | 4 |
+| khanom-chan-thai-pandan-coconut-layer-cake | Khanom chan | Classic | 1 | 3 |
+| kibbeh-lamb-bulgur-shells-spiced-filling | Kibbeh | Classic | 2 | 4 |
 | kimchi-fried-rice-fried-egg-sesame | Kimchi fried rice | Classic | 3 | 5 |
 | kitchen-sink-cookies | Kitchen-sink cookie | Classic | 3 | 5 |
 | knafeh-orange-kataifi-melted-cheese | Knafeh | Classic | 2 | 4 |
@@ -591,6 +599,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | melomakarona-honey-syrup-walnut-cookies | Melomakarona | Classic | 1 | 3 |
 | mexican-atole-cinnamon-brown-sugar | Atole | Classic | 2 | 4 |
 | mexican-red-rice-tomato-peas-carrots | Mexican rice (arroz rojo) | Classic | 3 | 5 |
+| miang-kham-betel-leaf-bites-palm-sugar-sauce | Miang kham | Classic | 1 | 3 |
 | millionaires-shortbread | Bars (magic bars, millionaire's shortbread) | Classic | 4 | 6 |
 | mint-coriander-green-chutney | Chutney | Classic | 2 | 4 |
 | mint-coriander-raita | Raita | Classic | 2 | 4 |
@@ -679,6 +688,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pandan-chiffon-cake | Chiffon | Pandan | 2 | 4 |
 | pandan-coconut-kaya-toast-butter-soft-boiled-eggs | Kaya toast | Classic | 2 | 4 |
 | pandesal-filipino-bread-rolls | Pandesal | Classic | 1 | 3 |
+| panettone-orange-raisin-sweet-bread | Panettone | Classic | 1 | 3 |
+| pani-puri-tamarind-mint-water-potato-chickpea | Pani puri | Classic | 2 | 4 |
 | pappa-al-pomodoro-tuscan-tomato-bread-soup | Pappa al pomodoro | Classic | 2 | 4 |
 | pappardelle-beef-ragu | Pappardelle | Classic | 2 | 4 |
 | parmesan-cream-crackers-crisp | Parmesan crackers | Classic | 1 | 3 |
@@ -692,6 +703,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pasta-e-ceci | Pasta e fagioli | Chickpea | 2 | 4 |
 | pasta-e-fagioli | Pasta e fagioli | Classic | 2 | 4 |
 | pasta-primavera | Pasta primavera | Classic | 3 | 5 |
+| pasteis-de-bacalhau-salt-cod-potato-fritters | Pastel de bacalhau | Classic | 2 | 4 |
 | pasteis-de-nata-portuguese-custard-tarts | Pastéis de nata | Classic | 2 | 4 |
 | pasteli-honey-sesame-bars | Pasteli | Classic | 2 | 4 |
 | pastitsio | Pastitsio | Classic | 3 | 5 |
@@ -728,6 +740,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pesto-alla-trapanese | Pesto alla trapanese | Classic | 2 | 4 |
 | philly-cheesesteak-american-cheese-onions | Philly cheesesteak | American | 1 | 3 |
 | philly-cheesesteaks-shaved-ribeye-caramelised-onions | Philly cheesesteak | Classic | 2 | 4 |
+| phirni-cardamom-saffron-ground-rice-pudding | Phirni | Classic | 1 | 3 |
 | pho-bo-vietnamese-beef-noodle-soup | Pho | Classic | 2 | 4 |
 | pickle-caper-tartar-sauce | Tartar sauce | Classic | 2 | 4 |
 | pimientos-de-padron-blistered-sea-salt | Pimientos de Padrón | Classic | 1 | 3 |
@@ -760,10 +773,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | potato-sauerkraut-dumplings-caramelised-onions | Pierogi | Classic | 2 | 4 |
 | potato-vareniki | Vareniki | Classic | 2 | 4 |
 | potatoes-sarladaises | Potatoes sarladaises | Classic | 2 | 4 |
+| pouding-chomeur-maple-pudding-cake | Pouding chômeur | Classic | 1 | 3 |
 | pound-cake | Pound cake | Classic | 2 | 4 |
 | poutine-fries-curds-gravy | Poutine | Classic | 3 | 5 |
 | prawn-fried-rice-egg-peas-sweetcorn | Fried rice | Shrimp | 3 | 5 |
 | pressed-pesto-mozzarella-tomato-panini | Panini | Classic | 2 | 4 |
+| prinsesstarta-swedish-princess-cake | Prinsesstårta | Classic | 2 | 4 |
 | provencal-vegetable-tian-thyme-garlic | Tian | Classic | 2 | 4 |
 | provolone-philly-cheesesteaks-melted-provolone-onions | Philly cheesesteak | Provolone | 2 | 4 |
 | puffy-new-orleans-style-beignets | Beignets | Classic | 1 | 3 |
@@ -992,6 +1007,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tomato-basil-bruschetta-garlic-oil | Bruschetta | Tomato-basil | 2 | 4 |
 | tomato-basil-bruschetta | Bruschetta | Classic | 2 | 4 |
 | tomato-mozzarella-caprese-basil | Caprese | Classic | 3 | 5 |
+| torrijas-spanish-cinnamon-sugar-fried-bread | Torrijas | Classic | 1 | 3 |
 | tortilla-espanola | Tortilla española | Classic | 2 | 4 |
 | tostones-twice-fried-plantains | Tostones | Classic | 3 | 5 |
 | trenette-al-pesto | Trenette al pesto | Classic | 3 | 5 |

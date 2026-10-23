@@ -1,0 +1,160 @@
+{
+  "slug": "torrijas-spanish-cinnamon-sugar-fried-bread",
+  "title": "Torrijas: Spanish Custard-Soaked Bread with Cinnamon Sugar",
+  "category": "desserts",
+  "cuisine": "Spanish",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "torrijas",
+  "dish_title": "Torrijas",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thick bread soaked in vanilla and citrus custard, fried golden in butter and finished with a heavy dusting of cinnamon and clove sugar.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large baking dish",
+    "medium bowl",
+    "whisk",
+    "small bowl",
+    "large heavy frying pan or griddle",
+    "fish slice",
+    "serving plates"
+  ],
+  "ingredients": [
+    {
+      "group": "Torrijas",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices day-old country-style white bread or brioche, 2 cm thick"
+    },
+    {
+      "group": "Soak",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Soak",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla extract"
+    },
+    {
+      "group": "Soak",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "finely grated orange zest"
+    },
+    {
+      "group": "Soak",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Soak",
+      "qty": 400,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Soak",
+      "qty": 150,
+      "unit": "ml",
+      "item": "single cream"
+    },
+    {
+      "group": "Cinnamon sugar",
+      "qty": 100,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Cinnamon sugar",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Cinnamon sugar",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Cooking",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Cooking",
+      "qty": 42,
+      "unit": "g",
+      "item": "runny honey, to serve",
+      "note": "about 2 tbsp; optional; not counted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak the bread",
+      "text": "Arrange the bread in a single layer in the baking dish. Whisk the eggs with the vanilla and both zests, then whisk in the milk and cream and pour it over, turning the slices. After about 10 min they should be soft and heavy but still holding their shape; stale bread drinks up the custard without collapsing."
+    },
+    {
+      "title": "Mix the spiced sugar",
+      "text": "Stir the sugar, cinnamon and cloves together in the small bowl and keep it by the stove."
+    },
+    {
+      "title": "Heat the pan",
+      "text": "Put the frying pan over medium-high heat and add half the butter. When it foams, the pan is ready."
+    },
+    {
+      "title": "Fry the first side",
+      "text": "Lay the slices in with a little space between them, cooking in batches if your pan is small. Leave them for 2-3 min, until the underside is deep golden."
+    },
+    {
+      "title": "Turn and finish",
+      "text": "Add the rest of the butter, flip each slice and cook another 2-3 min. They are ready when browned and the middle springs back and is piping hot, 71 °C, so the egg is fully cooked."
+    },
+    {
+      "title": "Coat and serve",
+      "text": "Move the torrijas to plates and shower them with the cinnamon sugar while hot so it melts slightly. Add a drizzle of honey if you like."
+    }
+  ],
+  "tips": [
+    "Fresh bread turns mushy; a common mistake is skipping the day-old loaf, so dry fresh slices in a low oven for 10 min if needed.",
+    "Do not crowd the pan or the butter cools and the bread steams instead of browning.",
+    "Lower the heat a little if the butter starts to darken before the centres are hot.",
+    "Orange zest alone works if you have no lemon."
+  ],
+  "storage": "Best eaten straight away. Leftovers keep covered in the fridge for 1 day; reheat in a 180 °C (160 °C fan) oven for 8-10 min until piping hot.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 561,
+    "protein_g": 17.3,
+    "carbs_g": 64.1,
+    "sugar_g": 28.1,
+    "free_sugar_g": 22.1,
+    "fat_g": 26.2,
+    "satfat_g": 13.8,
+    "salt_g": 1.31,
+    "fibre_g": 2.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "torrijas-basic.jpg",
+  "image_alt": "Golden caramelised torrijas slices dusted with cinnamon sugar on a plate.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

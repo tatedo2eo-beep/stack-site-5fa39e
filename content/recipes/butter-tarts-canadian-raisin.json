@@ -1,0 +1,172 @@
+{
+  "slug": "butter-tarts-canadian-raisin",
+  "title": "Butter Tarts: Flaky Canadian Tarts with Gooey Brown Sugar and Raisins",
+  "category": "desserts",
+  "cuisine": "Canadian",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "butter-tart",
+  "dish_title": "Butter tart",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Flaky all-butter pastry cases filled with a gooey brown sugar and butter filling and plump raisins, baked until bubbling.",
+  "servings": 18,
+  "prep_min": 30,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "pastry blender or food processor",
+    "cling film",
+    "rolling pin",
+    "10 cm round cutter",
+    "two 12-hole muffin tins (18 holes used)",
+    "jug",
+    "whisk",
+    "small palette knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 250,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 12,
+      "unit": "g",
+      "item": "granulated sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 170,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 80,
+      "unit": "ml",
+      "item": "ice-cold water",
+      "note": "plus 1-2 tsp if needed"
+    },
+    {
+      "group": "Filling",
+      "qty": 170,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Filling",
+      "qty": 330,
+      "unit": "g",
+      "item": "dark soft brown sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla extract"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 90,
+      "unit": "g",
+      "item": "raisins"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the pastry",
+      "text": "Mix the flour, sugar and salt, then rub or pulse in the cold butter until the pieces are the size of peas. Sprinkle in the iced water a little at a time until the dough just holds when squeezed. Press into a disc, wrap and chill for 1 h; those small butter pieces turn into steam in the oven and give the flaky layers."
+    },
+    {
+      "title": "Line the tins",
+      "text": "Roll the pastry 6 mm thick and cut 18 rounds, rerolling the scraps once. Press them into the muffin holes so they rise up the sides in loose pleats, then chill for 30 min to firm the butter again."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "Set the oven to 220 °C (200 °C fan)."
+    },
+    {
+      "title": "Whisk the filling",
+      "text": "Whisk the melted butter, brown sugar, eggs, vanilla, vinegar and salt in the jug until glossy. The vinegar balances the sweetness and keeps the sugar from turning grainy."
+    },
+    {
+      "title": "Fill the cases",
+      "text": "Scatter about 5 g of raisins into each case, then pour in roughly 1.5 tbsp of filling, keeping each no more than two-thirds full so it does not overflow."
+    },
+    {
+      "title": "Bake in two stages",
+      "text": "Bake for 10 min at 220 °C to set the pastry, then turn down to 175 °C (155 °C fan) for about 12 min more. The pastry should be golden and the filling bubbling across its surface, which means it has passed 71 °C."
+    },
+    {
+      "title": "Release and cool",
+      "text": "Leave them in the tins for 15 min, then run the palette knife round each tart to free any caught filling. Lift them out and cool on a rack."
+    }
+  ],
+  "tips": [
+    "A common mistake is overfilling; the filling bubbles up and glues the tarts to the tin.",
+    "Keep everything for the pastry cold for the flakiest result.",
+    "For a runnier centre, take them out as soon as the whole surface bubbles.",
+    "Swap the raisins for chopped pecans if you prefer.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight container at room temperature for 2 days or in the fridge for up to 5 days. Freeze for up to 2 months and thaw at room temperature.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 282,
+    "protein_g": 2.5,
+    "carbs_g": 33.3,
+    "sugar_g": 21.8,
+    "free_sugar_g": 18.5,
+    "fat_g": 16.0,
+    "satfat_g": 9.9,
+    "salt_g": 0.28,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "butter-tart-basic.jpg",
+  "image_alt": "Golden butter tarts with glossy caramel filling and raisins in flaky pastry cases.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}
