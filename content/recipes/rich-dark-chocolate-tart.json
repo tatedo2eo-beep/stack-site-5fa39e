@@ -1,0 +1,171 @@
+{
+  "slug": "rich-dark-chocolate-tart",
+  "title": "Rich Dark Chocolate Tart",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "chocolate-tart",
+  "dish_title": "Chocolate tart",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A crisp blind-baked pastry case filled with a smooth dark chocolate and cream filling set gently in a low oven.",
+  "servings": 12,
+  "prep_min": 35,
+  "cook_min": 55,
+  "difficulty": "medium",
+  "equipment": [
+    "small bowl",
+    "food processor",
+    "cling film",
+    "rolling pin",
+    "23 cm loose-based fluted tart tin",
+    "baking paper",
+    "baking beans",
+    "baking tray",
+    "medium saucepan",
+    "heatproof bowl",
+    "silicone spatula",
+    "wire rack",
+    "thin sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Pastry",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Pastry",
+      "qty": 150,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 90,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    },
+    {
+      "group": "Filling",
+      "qty": 300,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "instant espresso powder"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 255,
+      "unit": "g",
+      "item": "dark chocolate (60-70% cocoa solids), finely chopped",
+      "note": "check the label for soya and milk"
+    },
+    {
+      "group": "Filling",
+      "qty": 55,
+      "unit": "g",
+      "item": "soft unsalted butter, in thin slices"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, beaten, at room temperature"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the pastry",
+      "text": "Beat the yolk with the 2 tbsp cream. Pulse the flour, sugar and salt in the processor, add the cold butter and pulse until it looks like coarse crumbs, then pour in the yolk mixture and process until it gathers into a ball. Press into a disc, wrap and chill for 30 min."
+    },
+    {
+      "title": "Line the tin",
+      "text": "Roll the pastry out to a 30 cm round, ease it into the tin, press it into the flutes and trim the top. Freeze for 30 min so it holds its shape, and heat the oven to 190 °C (170 °C fan)."
+    },
+    {
+      "title": "Bake blind",
+      "text": "Line the case with baking paper, fill with baking beans and bake on the tray for 20 min. Remove the paper and beans and bake for 5-10 min more, until golden and dry. Turn the oven down to 150 °C (130 °C fan)."
+    },
+    {
+      "title": "Make the filling",
+      "text": "Bring the 300 ml cream, espresso powder and salt just to a simmer and pour over the chocolate in the bowl. Cover for 5 min, then stir gently from the centre outwards until smooth. Stir in the soft butter, then the eggs, keeping the spatula low so you do not beat in air bubbles."
+    },
+    {
+      "title": "Bake",
+      "text": "Pour the filling into the warm case and bake for 20-25 min, until the edges are set and the centre has only the barest wobble. The low heat sets the eggs gently and keeps the top satin-smooth."
+    },
+    {
+      "title": "Cool and slice",
+      "text": "Cool on the rack for at least 2 h, until set. Slice with a knife dipped in hot water and wiped dry for neat edges."
+    }
+  ],
+  "tips": [
+    "A common mistake is overbaking, which cracks the top and makes the filling grainy; take it out while the centre still barely wobbles.",
+    "Use chocolate with 60-70% cocoa solids for a deep but not bitter flavour.",
+    "Serve at room temperature for the silkiest texture.",
+    "A spoonful of lightly whipped cream cuts the richness.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered at cool room temperature for up to 1 day or in the fridge for up to 3 days; bring back to room temperature before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 387,
+    "protein_g": 5.2,
+    "carbs_g": 24.7,
+    "sugar_g": 10.1,
+    "free_sugar_g": 9.3,
+    "fat_g": 30.1,
+    "satfat_g": 18.2,
+    "salt_g": 0.25,
+    "fibre_g": 2.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chocolate-tart-basic.jpg",
+  "image_alt": "A glossy dark chocolate tart in a golden pastry case on a dark plate, with one slice pulled out.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

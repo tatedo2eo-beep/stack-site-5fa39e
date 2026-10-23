@@ -1,0 +1,121 @@
+{
+  "slug": "dark-chocolate-fudge-sauce",
+  "title": "Dark Chocolate Fudge Sauce",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "sauce",
+  "dish_title": "Sauce",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thick, glossy dark chocolate fudge sauce built on cocoa and dark chocolate, ready in 15 min and perfect warm over ice cream.",
+  "servings": 8,
+  "prep_min": 5,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "whisk",
+    "fine sieve",
+    "heatproof jug or jar"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sauce",
+      "qty": 160,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 25,
+      "unit": "g",
+      "item": "unsweetened cocoa powder, sifted"
+    },
+    {
+      "group": "Sauce",
+      "qty": 70,
+      "unit": "g",
+      "item": "dark chocolate (about 70% cocoa), finely chopped",
+      "note": "check the label; many contain soya lecithin or traces of milk"
+    },
+    {
+      "group": "Sauce",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter, cold, cubed"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dissolve the sugar",
+      "text": "Put the sugar, milk and salt in the saucepan over medium-low heat and whisk gently for 5-6 min, until the grains have disappeared and tiny bubbles appear around the edge."
+    },
+    {
+      "title": "Whisk in the cocoa",
+      "text": "Turn the heat down low and add the sifted cocoa, whisking until there are no dry pockets. Sifting first stops stubborn lumps forming."
+    },
+    {
+      "title": "Melt the chocolate",
+      "text": "Lift the pan off the heat, drop in the chopped chocolate and let it sit for 3 min, then whisk until completely smooth."
+    },
+    {
+      "title": "Finish with butter",
+      "text": "Add the cold butter a few cubes at a time, whisking until each addition disappears; the sauce turns glossy and thickens slightly. Whisk in the vanilla and serve warm."
+    }
+  ],
+  "tips": [
+    "A common mistake is letting the sauce boil after the chocolate goes in, which can make it grainy; keep it off the heat from that point.",
+    "Cold butter whisked in at the end gives a thicker, shinier sauce than melted butter.",
+    "Reheat gently in short bursts, stirring often; the sauce only needs to be warm, not hot.",
+    "Pour over vanilla ice cream, poached pears or pancakes."
+  ],
+  "storage": "Cool, then keep in a covered jar in the fridge for up to 3 weeks. Warm gently over low heat, stirring, until pourable.",
+  "allergens": [
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 219,
+    "protein_g": 2.0,
+    "carbs_g": 31.9,
+    "sugar_g": 28.2,
+    "free_sugar_g": 27.1,
+    "fat_g": 10.4,
+    "satfat_g": 6.3,
+    "salt_g": 0.21,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sauce-basic.jpg",
+  "image_alt": "Dark chocolate fudge sauce pouring from a small jug onto a dark plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "King Arthur Baking"
+  ]
+}

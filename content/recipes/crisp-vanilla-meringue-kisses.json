@@ -1,0 +1,112 @@
+{
+  "slug": "crisp-vanilla-meringue-kisses",
+  "title": "Crisp Vanilla Meringue Kisses",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "meringues-french-swiss-italian",
+  "dish_title": "Meringues (French/Swiss/Italian)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Light French meringue kisses of egg whites and sugar with a little cornflour, piped into star shapes and dried slowly in a low oven until crisp.",
+  "servings": 12,
+  "prep_min": 20,
+  "cook_min": 60,
+  "difficulty": "easy",
+  "equipment": [
+    "2 baking trays",
+    "baking paper",
+    "small bowl",
+    "stand mixer with whisk or electric whisk and large bowl",
+    "silicone spatula",
+    "piping bag with large open star nozzle",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Meringue",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Meringue",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "Meringue",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg whites, at room temperature"
+    },
+    {
+      "group": "Meringue",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Meringue",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Get ready",
+      "text": "Heat the oven to 110 °C (90 °C fan) and line the trays with baking paper. Mix the sugar and cornflour in the small bowl; the cornflour helps the meringues stay crisp."
+    },
+    {
+      "title": "Whisk the whites",
+      "text": "Whisk the egg whites, vanilla and salt on high for about 1 min, until very soft peaks just form. Turn to medium and add the sugar mixture in a slow, steady stream, then scrape down the bowl. Whisk on high for 1-2 min more until thick, glossy and holding stiff peaks."
+    },
+    {
+      "title": "Pipe",
+      "text": "Spoon the meringue into the piping bag and pipe kisses about 3 cm wide and 3 cm tall, leaving 2 cm between them. You should get about 36."
+    },
+    {
+      "title": "Bake and dry",
+      "text": "Bake for 1 h, swapping the trays halfway, until the meringues feel dry and lift cleanly off the paper. Turn the oven off and leave them inside for 1 h to dry right through, then cool on the rack."
+    }
+  ],
+  "tips": [
+    "A common mistake is a trace of yolk or grease in the bowl, which stops the whites whipping; use a spotless bowl and separate the eggs carefully.",
+    "Add the sugar slowly so it dissolves and the meringue does not weep.",
+    "Avoid making meringues on a very humid day, as they soften quickly.",
+    "Crush leftovers into Eton mess with whipped cream and berries.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight tin at room temperature for up to 1 week. Do not refrigerate, as they turn sticky.",
+  "allergens": [
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 73,
+    "protein_g": 1.3,
+    "carbs_g": 17.2,
+    "sugar_g": 16.8,
+    "free_sugar_g": 16.7,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.08,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "meringues-french-swiss-italian-basic.jpg",
+  "image_alt": "Rows of white piped meringue kisses on a dark tray, one broken open to show its crisp inside.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

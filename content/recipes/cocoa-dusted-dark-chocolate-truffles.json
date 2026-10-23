@@ -1,0 +1,123 @@
+{
+  "slug": "cocoa-dusted-dark-chocolate-truffles",
+  "title": "Cocoa-Dusted Dark Chocolate Truffles",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "truffles",
+  "dish_title": "Truffles",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Rich, melt-in-the-mouth dark chocolate truffles made from a simple two-ingredient ganache and rolled in cocoa.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "heatproof bowl",
+    "silicone spatula",
+    "20 cm square dish lined with baking paper",
+    "teaspoon measure or small scoop",
+    "fine sieve",
+    "shallow plate or pie dish",
+    "disposable gloves (optional)"
+  ],
+  "ingredients": [
+    {
+      "group": "Ganache",
+      "qty": 225,
+      "unit": "g",
+      "item": "dark chocolate (about 60% cocoa), finely chopped",
+      "note": "check the label; many contain soya lecithin or traces of milk"
+    },
+    {
+      "group": "Ganache",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Ganache",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Coating",
+      "qty": 25,
+      "unit": "g",
+      "item": "unsweetened cocoa powder"
+    },
+    {
+      "group": "Coating",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the coating",
+      "text": "Sift the cocoa and icing sugar together onto a shallow plate. A touch of sugar softens the bitterness of the cocoa without making the coating sweet."
+    },
+    {
+      "title": "Make the ganache",
+      "text": "Tip the chopped chocolate and salt into the heatproof bowl. Bring the cream just to a simmer, pour it over, leave for 2 min, then stir from the middle outwards until the mixture is smooth and shiny. Chopping the chocolate finely means it melts evenly without lumps."
+    },
+    {
+      "title": "Let it set",
+      "text": "Scrape the ganache into the lined dish and refrigerate for about 45 min, until it is firm enough to hold a scoop."
+    },
+    {
+      "title": "Portion",
+      "text": "Scoop out 24 heaped teaspoons and set them on a plate. Chill for 30 min more so they are easy to handle."
+    },
+    {
+      "title": "Roll",
+      "text": "Working quickly with cool hands (or gloves), roll each portion into a rough ball. They do not need to be perfect; real truffles are a little irregular."
+    },
+    {
+      "title": "Coat and chill",
+      "text": "Roll the balls in the cocoa mixture, shake off any excess and refrigerate for 30 min. Take them out 10 min before serving so the centres soften."
+    }
+  ],
+  "tips": [
+    "A common mistake is overheating the cream; a hard boil can make the ganache split and look greasy, so stop at a gentle simmer.",
+    "If your hands are warm, run them under cold water and dry well before rolling.",
+    "Use chocolate of about 60% cocoa; much darker chocolate needs a little extra cream to stay soft.",
+    "Roll in chopped toasted nuts instead of cocoa for a different finish."
+  ],
+  "storage": "Keep in an airtight container in the fridge for up to 1 week, with a little extra cocoa to stop them sticking. Serve after 10 min at room temperature.",
+  "allergens": [
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 231,
+    "protein_g": 3.2,
+    "carbs_g": 16.1,
+    "sugar_g": 8.2,
+    "free_sugar_g": 7.7,
+    "fat_g": 17.9,
+    "satfat_g": 10.6,
+    "salt_g": 0.12,
+    "fibre_g": 4.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "truffles-basic.jpg",
+  "image_alt": "Six round cocoa-dusted dark chocolate truffles on a dark slate tray.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "King Arthur Baking"
+  ]
+}

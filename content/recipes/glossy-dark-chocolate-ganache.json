@@ -1,0 +1,102 @@
+{
+  "slug": "glossy-dark-chocolate-ganache",
+  "title": "Glossy Dark Chocolate Ganache",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "ganache",
+  "dish_title": "Ganache",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A versatile, glossy dark chocolate ganache that pours warm as a glaze and cools to a silky spreading or piping consistency.",
+  "servings": 12,
+  "prep_min": 10,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "medium heatproof bowl",
+    "silicone spatula",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Ganache",
+      "qty": 170,
+      "unit": "g",
+      "item": "dark chocolate (55-65% cocoa), finely chopped",
+      "note": "check the label; many contain soya lecithin or traces of milk"
+    },
+    {
+      "group": "Ganache",
+      "qty": 180,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Ganache",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, soft"
+    },
+    {
+      "group": "Ganache",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Chop the chocolate",
+      "text": "Chop the chocolate finely and put it in the heatproof bowl. Small, even pieces melt quickly in the hot cream, so nothing needs to go back on the heat."
+    },
+    {
+      "title": "Heat the cream",
+      "text": "Warm the cream and butter in the saucepan until bubbles break around the edge and the butter has melted, about 85-90 °C. Take it off before it boils hard."
+    },
+    {
+      "title": "Stir to a gloss",
+      "text": "Pour the hot cream over the chocolate and leave it for 3 min. Stir gently from the centre, gradually widening the circles, until the ganache is smooth and glossy, then stir in the vanilla."
+    },
+    {
+      "title": "Cool to use",
+      "text": "Pour it over a cake straight away while warm and fluid. To spread or pipe, leave it at room temperature for about 1 h, stirring occasionally, until it has the body of soft icing."
+    }
+  ],
+  "tips": [
+    "The most common mistake is whisking hard, which beats in air bubbles; stir slowly with a spatula for a mirror-like finish.",
+    "If the ganache looks oily or grainy, whisk in 1-2 tbsp warm milk until it comes back together.",
+    "If it sets too firm, warm it over a pan of barely simmering water, stirring, until it softens.",
+    "Pour over a cake set on a rack so the excess runs off evenly."
+  ],
+  "storage": "Keep covered in the fridge for up to 1 week. Warm gently over a pan of barely simmering water, stirring, until spreadable or pourable again.",
+  "allergens": [
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 155,
+    "protein_g": 1.6,
+    "carbs_g": 6.9,
+    "sugar_g": 3.9,
+    "free_sugar_g": 3.4,
+    "fat_g": 13.5,
+    "satfat_g": 8.2,
+    "salt_g": 0.02,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ganache-basic.jpg",
+  "image_alt": "A dark bowl of glossy, swirled dark chocolate ganache.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "King Arthur Baking"
+  ]
+}

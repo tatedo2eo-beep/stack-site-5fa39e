@@ -156,6 +156,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-strawberry-jam | Strawberry jam | Classic | 2 | 4 |
 | classic-vanilla-creme-brulee | Crème brûlée | Classic | 3 | 5 |
 | clear-white-chicken-stock-slow-simmered | White/brown chicken | Classic | 2 | 4 |
+| cocoa-dusted-dark-chocolate-truffles | Truffles | Classic | 3 | 5 |
 | coconut-rice-and-peas-scotch-bonnet | Rice and peas | Classic | 2 | 4 |
 | cod-baked-in-parchment-vegetables-lemon-dill | En papillote | Classic | 4 | 6 |
 | colcannon-kale-butter-well | Colcannon | Classic | 2 | 4 |
@@ -194,6 +195,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crisp-socca-onions-rosemary-black-olives | Socca | Classic | 2 | 4 |
 | crisp-spiced-aloo-tikki-mint-chutney | Aloo tikki | Classic | 2 | 4 |
 | crisp-thin-crust-tavern-pizza-peppers-onion-fennel-tomato | Bar/tavern-style pizza | Classic | 2 | 4 |
+| crisp-vanilla-meringue-kisses | Meringues (French/Swiss/Italian) | Classic | 2 | 4 |
 | crispy-baked-chicken-wings | Chicken wings | Classic | 3 | 5 |
 | crispy-chicken-sandwich | Chicken burger | Classic | 3 | 6 |
 | crispy-cornmeal-shrimp-po-boys-creole-mayo | Po' boy | Shrimp | 2 | 4 |
@@ -210,6 +212,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | curry-deviled-eggs-parsley | Deviled eggs | Curry | 2 | 4 |
 | curry-laksa-chicken-prawn-coconut-noodle-soup | Laksa | Classic | 2 | 4 |
 | cut-out-sugar-cookies | Sugar/cut-out | Classic | 2 | 4 |
+| dark-chocolate-fudge-sauce | Sauce | Classic | 2 | 4 |
 | dashi-kombu-bonito-japanese-stock | Dashi | Classic | 3 | 5 |
 | deep-caramelised-french-onion-dip-chives-crisps | French onion dip | Classic | 3 | 5 |
 | detroit-style-pan-pizza-crisp-cheese-edges-tomato-stripes | Pan/Detroit | Classic | 3 | 5 |
@@ -271,6 +274,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | ginger-chicken-rice-porridge-crispy-garlic-egg | Arroz caldo | Classic | 2 | 4 |
 | gingerbread-cookies | Gingerbread | Classic | 3 | 5 |
 | glossy-braided-honey-challah | Challah | Classic | 3 | 5 |
+| glossy-dark-chocolate-ganache | Ganache | Classic | 2 | 4 |
 | glossy-five-point-kaiser-rolls | Kaiser roll | Classic | 2 | 4 |
 | glossy-glazed-carrots | Glazed carrots | Classic | 2 | 4 |
 | gnocchi-brown-butter-sage | Gnocchi | Brown butter-sage | 3 | 5 |
@@ -513,6 +517,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | reverse-seared-rib-eye-steak-thyme-garlic | Reverse-sear steak | Classic | 2 | 4 |
 | ribollita-tuscan-bean-kale-bread-soup | Ribollita | Classic | 2 | 4 |
 | rich-dark-chocolate-hot-chocolate-chocolat-chaud | Hot chocolate (French chocolat chaud, Spanish thick) | Classic | 2 | 4 |
+| rich-dark-chocolate-tart | Chocolate tart | Classic | 2 | 4 |
 | ricotta-ravioli | Filled (ravioli, tortellini, agnolotti) | Classic | 4 | 6 |
 | roast-beef-fillet-tarragon-butter-sauce | Châteaubriand | Classic | 6 | 8 |
 | roast-chicken | Whole roast chicken | Classic | 3 | 6 |
