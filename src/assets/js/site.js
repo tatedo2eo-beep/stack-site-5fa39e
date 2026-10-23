@@ -69,5 +69,6 @@
     var f = favs(), i = f.indexOf(b.dataset.slug); if (i > -1) f.splice(i, 1); else f.push(b.dataset.slug);
     ls('fav', JSON.stringify(f)); paint(); d.dispatchEvent(new CustomEvent('fav-change'));
   });
+  d.addEventListener('cards-change', paint);
   paint();
 })();

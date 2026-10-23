@@ -312,7 +312,8 @@ function placeholderSvg(label) {
     for (const ch of chapters) emit({ ...P.chapterPage(ctx, ch, chapters), chapterKey: ch.key });
     for (const ch of chapters) for (const d of ch.dishes) emit({ ...P.dishPage(ctx, d, ch), chapterKey: ch.key });
     emit(P.chaptersPage(ctx, chapters));
-    emit(P.allRecipesPage(ctx, recipes, cats, chapters));
+    P.allRecipesPages(ctx, recipes, cats, chapters).forEach(pg => emit(pg));
+    writeFile(L.prefix + 'recipes/index.json', JSON.stringify(P.recipeIndex(ctx, recipes)));
     for (const c of cats) emit(P.categoryPage(ctx, c.key, c.list, cats));
     for (const r of recipes) {
       const related = dishes.find(d => d.slug === r.dish).flavours.filter(x => x !== r).slice(0, 3);

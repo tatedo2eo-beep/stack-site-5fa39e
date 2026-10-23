@@ -238,8 +238,25 @@ function chaptersPage(ctx, chapters) {
 // opens the page section; the body that follows closes it
 const pageHeadX = (kicker, h1, lead) => `<section class="sec"><div class="wrap"><span class="kicker">${kicker.replace(/^\/\/ ?/, '')}</span><div class="sh2"><h1>${h1}</h1></div>${lead ? `<p class="lead">${lead}</p>` : ''}`;
 // ---------------- list pages ----------------
-function allRecipesPage(ctx, recipes, cats, chapters) {
-  const { t } = ctx;
+const PER_PAGE = 48;
+// Paginated: /recipes/ (page 1) and /recipes/page/N/. Filters/search load recipes/index.json (all recipes) on first use.
+function allRecipesPages(ctx, recipes, cats, chapters) {
+  const n = Math.ceil(recipes.length / PER_PAGE), out = [];
+  for (let i = 1; i <= n; i++) out.push(allRecipesPage(ctx, recipes, cats, chapters, i, n));
+  return out;
+}
+function recipeIndex(ctx, recipes) {
+  const { t, u } = ctx;
+  const b = u(''), cut = x => x.startsWith(b) ? x.slice(b.length) : x;
+  return recipes.map(r => ({ s: r.slug, u: cut(u(r.url)), ti: r.title, df: `${r.dish_title} · ${r.flavour}`, i: cut(r.img ? u(r.img.orig ? r.img.w1200 : r.img.w600) : u(r.photo_pending ? 'img/ph/coming-soon.svg' : `img/ph/${r.category}.svg`)), i2: r.img && !r.img.orig ? cut(u(r.img.w1200)) : '', w: r.img ? r.img.width : 1200, h: r.img ? r.img.height : 900, a: r.img ? (r.image_alt || r.title) : '', m: `${mins(r.total_min)} · ${Math.round(r.nutrition_per_serving.kcal)} kcal · ${Math.round(r.nutrition_per_serving.protein_g)} g protein`, p: r.access === 'premium' ? 1 : 0, c: r.category, ch: r.chapter, d: r.filterTags.join(' '), t: r.total_min, f: r.difficulty, x: [r.title, r.summary, r.cuisine, t.categories[r.category], r.dish_title, r.flavour, t.chapters[r.chapter].name, ...r.ingredients.map(i => i.item), ...r.dietTags.map(d => t.diets[d])].join(' ').toLowerCase().split(/[^\p{L}\p{N}]+/u).filter((w, i, arr) => w.length > 1 && arr.indexOf(w) === i).join(' ') }));
+}
+function allRecipesPage(ctx, allList, cats, chapters, pg = 1, nPg = 1) {
+  const { t, u } = ctx;
+  const recipes = allList;
+  const pPath = k => k === 1 ? 'recipes/' : `recipes/page/${k}/`;
+  const slice = allList.slice((pg - 1) * PER_PAGE, pg * PER_PAGE);
+  const nums = [...Array(nPg).keys()].map(k => k + 1);
+  const pager = nPg > 1 ? `<nav class="pager" id="pager" aria-label="Pages">${pg > 1 ? `<a class="chip" rel="prev" href="${u(pPath(pg - 1))}">← Prev</a>` : ''}${nums.map(k => k === pg ? `<b class="chip on" aria-current="page">${k}</b>` : `<a class="chip" href="${u(pPath(k))}">${k}</a>`).join('')}${pg < nPg ? `<a class="chip" rel="next" href="${u(pPath(pg + 1))}">Next →</a>` : ''}</nav>` : '';
   const diets = ['vegetarian', 'vegan', 'gluten-free', 'dairy-free', 'sugar-free'];
   const body = `${pageHeadX('// ' + recipes.length + ' ' + t.ui.recipesCount, t.ui.allRecipes, 'Search everything, or narrow it down by category, diet, time and difficulty. Every recipe is metric with nutrition per serving.')}
 <div class="pbody">
@@ -255,11 +272,13 @@ function allRecipesPage(ctx, recipes, cats, chapters) {
  <div class="frow f-foot"><span id="count" aria-live="polite">${recipes.length} ${recipes.length === 1 ? 'recipe' : 'recipes'}</span><button type="button" class="chip ghost" id="f-clear">${t.ui.clear}</button></div>
 </form>
 ${ad(ctx, 1)}
-${grid(ctx, recipes, 'results')}
+${grid(ctx, slice, 'results')}
+${pager}
 <p id="empty" class="empty" hidden>${t.ui.noResults}</p>
 ${ad(ctx, 2)}
 </div></div></section>`;
-  return { path: 'recipes/', navKey: 'recipes', title: t.ui.allRecipes, description: `All ${recipes.length} recipes with search and filters by category, diet, time and difficulty.`, body, scripts: [ctx.assets.js.list] };
+  const head = `<style>.pager{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin:24px 0}.pager .chip{min-width:2.4em;text-align:center}</style>${pg > 1 ? `<link rel="prev" href="${ctx.abs(pPath(pg - 1))}">` : ''}${pg < nPg ? `<link rel="next" href="${ctx.abs(pPath(pg + 1))}">` : ''}`;
+  return { path: pPath(pg), navKey: 'recipes', title: pg === 1 ? t.ui.allRecipes : `${t.ui.allRecipes} – page ${pg}`, description: pg === 1 ? `All ${recipes.length} recipes with search and filters by category, diet, time and difficulty.` : `All recipes, page ${pg} of ${nPg}: recipes ${(pg - 1) * PER_PAGE + 1}–${Math.min(pg * PER_PAGE, recipes.length)} of ${recipes.length}.`, body: body.replace('<form id="filters"', `<form id="filters" data-index="${u('recipes/index.json')}" data-base="${u('')}"`), head, scripts: [ctx.assets.js.list] };
 }
 
 function categoryPage(ctx, cat, list, cats) {
@@ -361,4 +380,4 @@ function simplePage(ctx, path, title, html, description) {
   return { path, title, description, body };
 }
 
-module.exports = { chapterPage, dishPage, chapterNav, dishCard, flavourCard, card, LOCK, grid, adw, each, crumbs, sec, chapterGroups, chaptersPage, imgSrc, dishCoverUrl, chCover, num2, badges, recipePage, allRecipesPage, categoryPage, highProteinPage, whoPage, plansPage, simplePage, WHO_LINKS };
+module.exports = { allRecipesPages, recipeIndex, chapterPage, dishPage, chapterNav, dishCard, flavourCard, card, LOCK, grid, adw, each, crumbs, sec, chapterGroups, chaptersPage, imgSrc, dishCoverUrl, chCover, num2, badges, recipePage, allRecipesPage, categoryPage, highProteinPage, whoPage, plansPage, simplePage, WHO_LINKS };
