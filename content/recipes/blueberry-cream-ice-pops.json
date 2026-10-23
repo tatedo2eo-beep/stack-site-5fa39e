@@ -1,0 +1,144 @@
+{
+  "slug": "blueberry-cream-ice-pops",
+  "title": "Blueberry Cream Ice Pops",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "popsicles",
+  "dish_title": "Popsicles",
+  "flavour": "Blueberry",
+  "flavour_order": 8,
+  "access": "premium",
+  "base_recipe": "strawberry-ice-pops",
+  "changes_from_base": "Briefly cooked blueberries blended with condensed milk, cream and soured cream replace the strawberry purée and jam.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Creamy ice pops with bursts of cooked blueberry running through a soured cream and condensed milk base.",
+  "servings": 10,
+  "prep_min": 15,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "medium pan",
+    "food processor or blender",
+    "1 litre jug",
+    "ten 80 ml moulds and sticks"
+  ],
+  "ingredients": [
+    {
+      "group": "Ice pops",
+      "qty": 290,
+      "unit": "g",
+      "item": "fresh or frozen blueberries"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 120,
+      "unit": "ml",
+      "item": "sweetened condensed milk"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 60,
+      "unit": "ml",
+      "item": "soured cream"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook",
+      "text": "Cook 290 g blueberries with 1 tbsp lemon juice, 1 tbsp caster sugar and ¼ tsp salt over medium heat, stirring, for 4-5 min until the berries burst (2-4 min longer if using frozen)."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool for 10 min in the processor bowl."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the mixture for 30-60 s until smooth."
+    },
+    {
+      "title": "Add",
+      "text": "Add 120 ml condensed milk, blend for 20-30 s and scrape down the sides."
+    },
+    {
+      "title": "Thicken",
+      "text": "Add 240 ml double cream and process for 1-2 min until slightly thick."
+    },
+    {
+      "title": "Finish",
+      "text": "Add 60 ml soured cream and 1 tsp vanilla and blend for 30-60 s more."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pour into ten 80 ml moulds just under the rim, add the sticks and freeze for at least 8 h."
+    },
+    {
+      "title": "Release",
+      "text": "Run warm water over the moulds to release the pops."
+    }
+  ],
+  "tips": [
+    "Cook the blueberries until they fully burst so the fruit blends smoothly into the cream base.",
+    "Cool the cooked blueberries before blending in the condensed milk and cream, or the mixture may separate.",
+    "Leave a little space at the rim of each mould, as the mixture expands slightly as it freezes."
+  ],
+  "storage": "Keep the pops in their moulds or wrapped individually in the freezer.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 166,
+    "protein_g": 2.3,
+    "carbs_g": 15.0,
+    "sugar_g": 13.6,
+    "free_sugar_g": 9.8,
+    "fat_g": 11.3,
+    "satfat_g": 7.0,
+    "salt_g": 0.22,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale purple ice pops on sticks with deep blue flecks of blueberry running through them.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "raspberry-yoghurt-ice-pops",
+  "title": "Raspberry Yoghurt Ice Pops",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "popsicles",
+  "dish_title": "Popsicles",
+  "flavour": "Raspberry",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "strawberry-ice-pops",
+  "changes_from_base": "A cooked, sieved raspberry purée whisked into sweetened Greek yoghurt and cream replaces the raw strawberry and jam mix.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Tangy strained yoghurt ice pops rippled through with a cooked raspberry purée.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "2 litre stainless steel saucepan",
+    "heatproof spatula",
+    "blender",
+    "fine sieve",
+    "small and medium bowls",
+    "whisk",
+    "jug",
+    "six 90 ml moulds and sticks"
+  ],
+  "ingredients": [
+    {
+      "group": "Raspberry purée",
+      "qty": 225,
+      "unit": "g",
+      "item": "fresh or frozen raspberries"
+    },
+    {
+      "group": "Raspberry purée",
+      "qty": 85,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Raspberry purée",
+      "qty": 85,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Raspberry purée",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "orange juice"
+    },
+    {
+      "group": "Raspberry purée",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Yoghurt base",
+      "qty": 155,
+      "unit": "g",
+      "item": "strained full-fat Greek yoghurt (5% fat)"
+    },
+    {
+      "group": "Yoghurt base",
+      "qty": 55,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Yoghurt base",
+      "qty": 55,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Yoghurt base",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "orange juice"
+    },
+    {
+      "group": "Yoghurt base",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simmer",
+      "text": "Simmer 225 g raspberries with 85 ml water, 85 g caster sugar, ¼ tsp orange juice and a pinch of salt, stirring now and then, for about 10 min until broken down and slightly thick, then cool for 30 min."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend for 15 s, then strain out the seeds through a fine sieve to give about 240 ml purée."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk 155 g strained yoghurt with 55 g caster sugar, 55 ml double cream, ½ tsp orange juice and a pinch of salt."
+    },
+    {
+      "title": "Combine",
+      "text": "Whisk the raspberry purée through the yoghurt mixture."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pour into six 90 ml moulds, add the sticks and freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Cook the raspberries until well broken down so the purée strains easily.",
+    "Use well-strained Greek yoghurt for a thick, creamy texture rather than a watery one.",
+    "Whisk the purée in gradually so it ripples through the yoghurt rather than separating."
+  ],
+  "storage": "Keep the pops in their moulds or wrapped individually in the freezer.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 166,
+    "protein_g": 3.0,
+    "carbs_g": 29.2,
+    "sugar_g": 26.3,
+    "free_sugar_g": 23.3,
+    "fat_g": 4.8,
+    "satfat_g": 2.7,
+    "salt_g": 0.16,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale pink ice pops on sticks with flecks of raspberry running through a creamy yoghurt base.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

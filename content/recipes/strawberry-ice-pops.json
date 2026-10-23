@@ -1,0 +1,116 @@
+{
+  "slug": "strawberry-ice-pops",
+  "title": "Strawberry Ice Pops",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "popsicles",
+  "dish_title": "Popsicles",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Bright, fruity ice pops made from blended fresh strawberries swirled through with jam for extra depth.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "blender",
+    "medium bowl",
+    "whisk",
+    "jug",
+    "six 90 ml ice-pop moulds and sticks"
+  ],
+  "ingredients": [
+    {
+      "group": "Ice pops",
+      "qty": 425,
+      "unit": "g",
+      "item": "hulled strawberries, halved"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 85,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 5,
+      "unit": "g",
+      "item": "freeze-dried strawberry powder (optional)"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 85,
+      "unit": "g",
+      "item": "strawberry jam"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Blend 425 g hulled strawberries with 85 g caster sugar, the strawberry powder if using, ¾ tsp lemon juice and a pinch of salt until very smooth, about 30 s."
+    },
+    {
+      "title": "Whisk",
+      "text": "Pour the mixture into a bowl and whisk in 85 g strawberry jam thoroughly."
+    },
+    {
+      "title": "Pour",
+      "text": "Pour the mixture into a jug."
+    },
+    {
+      "title": "Freeze",
+      "text": "Divide among six 90 ml moulds, add the sticks and freeze for at least 8 h."
+    },
+    {
+      "title": "Unmould",
+      "text": "Dip the moulds briefly in warm water to release the pops."
+    }
+  ],
+  "tips": [
+    "Press the strawberry mixture through a sieve first if you prefer completely smooth pops without seeds.",
+    "Whisk the jam in thoroughly so there are no streaks left in the mixture.",
+    "Leave the moulds the full 8 h so the pops set firmly enough to unmould cleanly."
+  ],
+  "storage": "Keep the pops in their moulds or wrapped individually in the freezer.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 120,
+    "protein_g": 0.6,
+    "carbs_g": 30.1,
+    "sugar_g": 24.9,
+    "free_sugar_g": 21.0,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.08,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "popsicles-basic.jpg",
+  "image_alt": "Six pink ice pops on sticks, speckled with tiny strawberry seeds.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

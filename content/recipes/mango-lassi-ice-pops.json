@@ -1,0 +1,106 @@
+{
+  "slug": "mango-lassi-ice-pops",
+  "title": "Mango Lassi Ice Pops",
+  "category": "desserts",
+  "cuisine": "Indian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "popsicles",
+  "dish_title": "Popsicles",
+  "flavour": "Mango",
+  "flavour_order": 5,
+  "access": "premium",
+  "base_recipe": "strawberry-ice-pops",
+  "changes_from_base": "Mango, yoghurt, honey and lime blended lassi-style replace the strawberries, sugar and jam.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A frozen take on mango lassi, blending sweet mango with yoghurt and a touch of honey and lime.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "rubber spatula",
+    "jug",
+    "six 90 ml moulds and sticks"
+  ],
+  "ingredients": [
+    {
+      "group": "Ice pops",
+      "qty": 283,
+      "unit": "g",
+      "item": "fresh or frozen chopped mango"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 370,
+      "unit": "g",
+      "item": "plain yoghurt"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 85,
+      "unit": "g",
+      "item": "honey"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lime juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Process 283 g chopped mango, 370 g yoghurt, 85 g honey and 1 tbsp lime juice together for 15 s."
+    },
+    {
+      "title": "Smooth",
+      "text": "Scrape down the sides and process again until completely smooth, 15-30 s more."
+    },
+    {
+      "title": "Pour",
+      "text": "Pour into a jug, fill six 90 ml moulds and add the sticks."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for at least 6 h, up to 5 days."
+    },
+    {
+      "title": "Serve",
+      "text": "Hold the moulds under warm water for 30 s to release the pops."
+    }
+  ],
+  "tips": [
+    "Use ripe, sweet mango for the best flavour and colour.",
+    "Scrape down the sides thoroughly so there are no lumps of mango left in the mixture.",
+    "These aren't suitable for babies under 1 year, as they contain honey."
+  ],
+  "storage": "Keep the pops in their moulds or wrapped individually in the freezer for up to 5 days.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 110,
+    "protein_g": 2.6,
+    "carbs_g": 21.8,
+    "sugar_g": 21.0,
+    "free_sugar_g": 11.7,
+    "fat_g": 2.2,
+    "satfat_g": 1.3,
+    "salt_g": 0.07,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden orange ice pops on sticks with a smooth, creamy texture.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

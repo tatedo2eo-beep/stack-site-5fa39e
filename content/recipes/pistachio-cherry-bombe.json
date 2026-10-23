@@ -1,0 +1,172 @@
+{
+  "slug": "pistachio-cherry-bombe",
+  "title": "Pistachio and Cherry Bombe",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "bombe",
+  "dish_title": "Bombe",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A dome of vanilla ice cream wrapped in a soft pistachio biscuit, with a ripple of cooked cherries running through the centre.",
+  "servings": 10,
+  "prep_min": 60,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor",
+    "medium bowl",
+    "baking tray",
+    "baking paper",
+    "2 litre freezer-proof bowl (about 20 cm across)",
+    "cling film",
+    "rolling pin",
+    "small saucepan",
+    "a smaller bowl that nests inside",
+    "fine grater"
+  ],
+  "ingredients": [
+    {
+      "group": "Pistachio biscuit",
+      "qty": 375,
+      "unit": "g",
+      "item": "shelled raw unsalted pistachios"
+    },
+    {
+      "group": "Pistachio biscuit",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Pistachio biscuit",
+      "qty": 1.5,
+      "unit": "pc",
+      "item": "lemons, zest finely grated"
+    },
+    {
+      "group": "Pistachio biscuit",
+      "qty": 21,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Pistachio biscuit",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large egg whites"
+    },
+    {
+      "group": "Filling",
+      "qty": 225,
+      "unit": "g",
+      "item": "sweet cherries, pitted"
+    },
+    {
+      "group": "Filling",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 850,
+      "unit": "ml",
+      "item": "vanilla ice cream",
+      "note": "570 ml for the lining, 140 ml with the cherries, 140 ml for the top"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "g",
+      "item": "icing sugar, for dusting",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 5,
+      "unit": "g",
+      "item": "raw pistachios, for grating"
+    },
+    {
+      "group": "To serve",
+      "qty": 100,
+      "unit": "g",
+      "item": "fresh cherries"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Grind",
+      "text": "Grind 375 g pistachios with 150 g caster sugar in a food processor to a fine meal."
+    },
+    {
+      "title": "Mix",
+      "text": "Stir in the lemon zest, 1 tbsp honey and 3 egg whites by hand to a sticky dough."
+    },
+    {
+      "title": "Bake",
+      "text": "Press the dough onto a paper-lined tray to about 8 mm thick and bake at 180 °C for 25-30 min, until coloured on top but still soft enough that a finger dent stays."
+    },
+    {
+      "title": "Line",
+      "text": "Line a 2 litre bowl with baking paper and cling film, then press two-thirds of the warm biscuit into the bowl in an even 8 mm layer and leave to cool for 1 h; roll the reserved third between sheets of paper to 8 mm, trim it to the size of the bowl's opening and set aside."
+    },
+    {
+      "title": "Cherries",
+      "text": "Cook 225 g cherries with 1 tbsp sugar over medium heat for 10 min until soft and juicy, then cool completely."
+    },
+    {
+      "title": "Spread",
+      "text": "Soften the ice cream for 10 min and spread 570 ml over the biscuit lining in a 2.5 cm layer, tamping it down with a smaller bowl, then freeze for 2-3 h."
+    },
+    {
+      "title": "Centre",
+      "text": "Fold the cooled cherries and their juice through 140 ml softened ice cream, leaving ripples of colour, spoon into the centre and freeze for 2-3 h."
+    },
+    {
+      "title": "Cap",
+      "text": "Spread the final 140 ml ice cream over the top, press on the biscuit lid and freeze for at least 8 h or overnight."
+    },
+    {
+      "title": "Serve",
+      "text": "Turn the bombe out, dust with icing sugar, grate a few pistachios over, decorate with fresh cherries and slice at once."
+    }
+  ],
+  "tips": [
+    "Press the warm biscuit into the bowl while it's still pliable, as it firms up and cracks once cool.",
+    "Let each ice cream layer firm up in the freezer before adding the next so the layers stay distinct.",
+    "Turn the bombe out just before serving and slice it while still very cold for neat portions."
+  ],
+  "storage": "The assembled bombe keeps well frozen, tightly wrapped, for up to a week before turning out and serving.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 407,
+    "protein_g": 11.0,
+    "carbs_g": 45.0,
+    "sugar_g": 35.0,
+    "free_sugar_g": 27.8,
+    "fat_g": 22.4,
+    "satfat_g": 5.2,
+    "salt_g": 0.14,
+    "fibre_g": 4.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bombe-basic.jpg",
+  "image_alt": "A dome-shaped frozen dessert with a soft pistachio biscuit shell, cut open to reveal pale ice cream rippled with cooked cherries.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

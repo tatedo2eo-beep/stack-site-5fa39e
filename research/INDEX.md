@@ -57,6 +57,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | banana-bread | Banana bread/quick breads | Classic | 2 | 4 |
 | banana-cream-pie | Cream pie (banana, coconut) | Classic | 2 | 4 |
 | banana-infused-cream-pie | Cream pie (banana, coconut) | Banana | 2 | 4 |
+| banana-milk-paletas | Popsicles | Banana | 1 | 3 |
 | banana-walnut-chocolate-chunk-philadelphia-ice-cream | Philadelphia (no egg) | Banana & walnut | 1 | 3 |
 | banana-walnut-muffins-demerara-top | American muffin (blueberry style, muffin method) | Banana & walnut | 1 | 3 |
 | banana-walnut-tarte-tatin-brown-sugar | Tarte Tatin | Banana & walnut | 1 | 3 |
@@ -102,6 +103,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | blood-orange-sherbet-no-cook | Sherbet | Blood orange | 1 | 3 |
 | blood-orange-zest-sorbet | Sorbet | Blood orange | 1 | 3 |
 | blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
+| blueberry-cream-ice-pops | Popsicles | Blueberry | 1 | 3 |
 | blueberry-custard-ice-cream | Custard-base (French) | Blueberry | 1 | 3 |
 | blueberry-ginger-sorbet | Sorbet | Blueberry & ginger | 1 | 3 |
 | blueberry-granita-lemon-zest | Granita | Blueberry | 1 | 3 |
@@ -342,6 +344,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | creamy-cashew-yoghurt-chicken-curry-cardamom | Korma | Chicken | 3 | 5 |
 | creamy-cheddar-cheese-grits | Grits | Cheese | 2 | 4 |
 | creamy-chicken-salad-celery-herbs | Chicken salad | Classic | 3 | 5 |
+| creamy-coconut-ice-pops | Popsicles | Coconut | 1 | 3 |
 | creamy-egg-salad-celery-spring-onion-toast | Egg salad | Classic | 3 | 5 |
 | creamy-grits-butter-chives | Grits | Classic | 2 | 4 |
 | creamy-lemon-chicken-fettuccine-peas | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Chicken | 1 | 3 |
@@ -598,6 +601,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | herb-crusted-rack-of-lamb-persillade | Rack of lamb/persillade | Classic | 3 | 5 |
 | herb-tabbouleh-bulgur-lemon | Tabbouleh | Classic | 3 | 5 |
 | herby-green-goddess-dressing | Green goddess dressing | Classic | 2 | 4 |
+| hibiscus-ice-pops | Popsicles | Hibiscus | 1 | 3 |
 | high-heat-roast-chicken | High-heat roast chicken | Classic | 3 | 5 |
 | home-fries-peppers-onions | Home fries | Peppers and onions | 2 | 4 |
 | homemade-chocolate-milk-cocoa-syrup | Chocolate milk | Classic | 2 | 4 |
@@ -668,6 +672,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | ketchup-glazed-meatloaf | Meatloaf | Ketchup-brown sugar glaze | 2 | 4 |
 | key-lime-bars | Bars (magic bars, millionaire's shortbread) | Key lime | 1 | 3 |
 | key-lime-graham-philadelphia-ice-cream | Philadelphia (no egg) | Key lime | 1 | 3 |
+| key-lime-pie-ice-pops | Popsicles | Key lime | 1 | 3 |
 | key-lime-pie | Key lime | Classic | 2 | 4 |
 | khanom-chan-thai-pandan-coconut-layer-cake | Khanom chan | Classic | 1 | 3 |
 | kibbeh-lamb-bulgur-shells-spiced-filling | Kibbeh | Classic | 2 | 4 |
@@ -708,6 +713,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-meringue-pie | Meringue pie (lemon) | Classic | 2 | 4 |
 | lemon-milk-sherbet-blender | Sherbet | Lemon | 1 | 3 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
+| lemon-pistachio-baked-alaska | Baked Alaska | Pistachio | 1 | 3 |
 | lemon-potato-sage-focaccia | Focaccia | Lemon | 1 | 3 |
 | lemon-pound-cake | Pound cake | Lemon | 3 | 5 |
 | lemon-sorbet-water-ice | Sorbet | Lemon | 2 | 4 |
@@ -738,6 +744,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mango-granita-ice-cube | Granita | Mango | 1 | 3 |
 | mango-lassi-cardamom-pistachio | Lassi | Mango | 2 | 4 |
 | mango-lassi-frozen-yoghurt | Frozen yogurt | Mango | 1 | 3 |
+| mango-lassi-ice-pops | Popsicles | Mango | 1 | 3 |
 | mango-lime-sorbet | Sorbet | Classic | 1 | 3 |
 | mango-sticky-rice-toasted-mung-beans | Mango sticky rice | Classic | 2 | 4 |
 | mansaf-lamb-jameed-yoghurt-rice | Mansaf | Classic | 1 | 3 |
@@ -929,12 +936,14 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pinakbet-prawns-squash-bitter-melon | Pinakbet | Classic | 2 | 4 |
 | pineapple-coconut-gelato | Gelato | Pineapple & coconut | 1 | 3 |
 | pineapple-coconut-tarte-tatin | Tarte Tatin | Pineapple & coconut | 1 | 3 |
+| pineapple-ginger-coriander-ice-pops | Popsicles | Pineapple & ginger | 1 | 3 |
 | pineapple-upside-down-cake | Upside-down | Pineapple | 2 | 4 |
 | pink-grapefruit-marmalade | Marmalade | Grapefruit | 2 | 4 |
 | pink-lemonade-raspberry-syrup | Lemonade | Pink | 2 | 4 |
 | pink-rhubarb-sorbet | Sorbet | Rhubarb | 1 | 3 |
 | piri-piri-chicken | Piri-piri | Classic | 2 | 4 |
 | pistachio-baklava-green-pistachio-squares | Baklava | Pistachio | 3 | 5 |
+| pistachio-cherry-bombe | Bombe | Classic | 1 | 3 |
 | pistachio-chocolate-chip-brownies | Brownie (fudgy or cakey) | Pistachio | 1 | 3 |
 | pistachio-gelato-steeped-pistachio-milk | Gelato | Classic | 1 | 3 |
 | pistachio-raspberry-tart | Fruit tart (crème pâtissière) | Pistachio | 1 | 3 |
@@ -1012,6 +1021,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | raspberry-shrub-cider-vinegar-soda | Shrubs | Classic | 2 | 4 |
 | raspberry-streusel-bars | Bars (magic bars, millionaire's shortbread) | Raspberry | 1 | 3 |
 | raspberry-thumbprint-cookies | Thumbprints | Raspberry | 3 | 5 |
+| raspberry-yoghurt-ice-pops | Popsicles | Raspberry | 1 | 3 |
 | red-chilaquiles-fried-eggs-crema | Chilaquiles | Classic | 2 | 4 |
 | red-chile-chicken-enchiladas-cheddar-crema | Enchilada | Classic | 2 | 4 |
 | red-lentil-soup | Lentil | Classic | 2 | 3 |
@@ -1207,6 +1217,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | strawberry-cheesecake-bars | Bars (magic bars, millionaire's shortbread) | Strawberry | 1 | 3 |
 | strawberry-eton-mess | Eton mess | Classic | 2 | 4 |
 | strawberry-granita-fork-scraped | Granita | Strawberry | 2 | 4 |
+| strawberry-ice-pops | Popsicles | Classic | 1 | 3 |
 | strawberry-jam-buttermilk-philadelphia-ice-cream | Philadelphia (no egg) | Strawberry | 1 | 3 |
 | strawberry-jam-filled-orange-doughnuts | Sufganiyot | Classic | 1 | 3 |
 | strawberry-lemon-tart-walnut-crust | Lemon tart | Strawberry | 1 | 3 |
@@ -1217,6 +1228,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | strawberry-rhubarb-lattice-tart | Fruit tart (crème pâtissière) | Strawberry | 1 | 3 |
 | strawberry-rhubarb-streusel-muffins | American muffin (blueberry style, muffin method) | Strawberry & rhubarb | 1 | 3 |
 | strawberry-sorbet-fresh-berries | Sorbet | Strawberry | 2 | 4 |
+| strawberry-vanilla-baked-alaska | Baked Alaska | Classic | 1 | 3 |
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
 | stuffed-corn-griddle-cakes-melted-cheese-cabbage-relish | Pupusa | Cheese | 4 | 6 |
 | stuffed-corn-griddle-cakes-refried-beans-cheese-cabbage-relish | Pupusa | Bean-cheese | 3 | 5 |
@@ -1331,6 +1343,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | village-greek-salad-feta-slab | Greek | Classic | 3 | 5 |
 | vine-leaves-stuffed-herbed-rice-lemon | Dolma/stuffed vine leaves | Classic | 2 | 4 |
 | warm-ras-el-hanout-blend | Ras el hanout | Classic | 1 | 3 |
+| watermelon-ice-pops-lime-rind | Popsicles | Watermelon | 1 | 3 |
 | watermelon-lime-agua-fresca-mint | Agua fresca | Classic | 2 | 4 |
 | watermelon-yoghurt-sorbet-no-churn | Sorbet | Watermelon | 1 | 3 |
 | west-african-tomato-pepper-rice-thyme-bay | Jollof | Classic | 3 | 5 |
@@ -1339,6 +1352,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | white-bean-bruschetta-sage-lemon | Bruschetta | White bean | 1 | 3 |
 | white-chocolate-chunk-brownies | Brownie (fudgy or cakey) | White chocolate | 1 | 3 |
 | white-chocolate-custard-ice-cream | Custard-base (French) | White chocolate | 1 | 3 |
+| white-chocolate-raspberry-mousse-bombes | Bombe | White chocolate | 1 | 3 |
 | white-sesame-pistachio-custard-ice-cream | Custard-base (French) | Sesame & pistachio | 1 | 3 |
 | whole-cherry-clafoutis | Clafoutis | Cherry (classic) | 2 | 4 |
 | whole-sea-bass-baked-in-salt-crust-lemon-herbs | Salt-crusted fish | Classic | 4 | 6 |

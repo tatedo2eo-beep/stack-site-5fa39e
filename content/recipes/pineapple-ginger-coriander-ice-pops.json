@@ -1,0 +1,104 @@
+{
+  "slug": "pineapple-ginger-coriander-ice-pops",
+  "title": "Pineapple, Ginger and Coriander Ice Pops",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "popsicles",
+  "dish_title": "Popsicles",
+  "flavour": "Pineapple & ginger",
+  "flavour_order": 9,
+  "access": "premium",
+  "base_recipe": "strawberry-ice-pops",
+  "changes_from_base": "Fresh pineapple juice with pressed coriander-stem and ginger juices replaces the strawberry purée; no sugar or jam is added.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A refreshing pineapple ice pop lifted with fresh ginger and a grassy hit of coriander.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "fine sieve",
+    "small bowl",
+    "fine grater",
+    "jug",
+    "six 80 ml moulds and sticks"
+  ],
+  "ingredients": [
+    {
+      "group": "Ice pops",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large bunch fresh coriander with stems and roots, rinsed",
+      "note": "leaves kept for another dish"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 1,
+      "unit": "pc",
+      "item": "7.5 cm piece fresh ginger, peeled"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 480,
+      "unit": "ml",
+      "item": "fresh pineapple juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Chop",
+      "text": "Cut the stems from the coriander leaves, keeping the leaves for another dish, then finely chop the stems and roots in a food processor."
+    },
+    {
+      "title": "Press",
+      "text": "Press the chopped coriander through a fine sieve into a jug to give about 1 tbsp juice."
+    },
+    {
+      "title": "Grate",
+      "text": "Grate the ginger into the sieve, press through, and add about 1 tsp ginger juice to the jug."
+    },
+    {
+      "title": "Stir",
+      "text": "Stir in 480 ml pineapple juice."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pour into six 80 ml moulds, add the sticks and freeze until solid, at least 6 h."
+    }
+  ],
+  "tips": [
+    "Keep the coriander leaves back for another dish, since only the stems and roots go into these pops.",
+    "Press the coriander and ginger firmly through the sieve to squeeze out as much juice as possible.",
+    "Use fresh pineapple juice for the best, brightest flavour."
+  ],
+  "storage": "Keep the pops in their moulds or wrapped individually in the freezer.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 45,
+    "protein_g": 0.4,
+    "carbs_g": 10.9,
+    "sugar_g": 8.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale golden ice pops on sticks with a clear, juice-like appearance.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

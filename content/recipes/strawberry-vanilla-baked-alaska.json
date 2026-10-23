@@ -1,0 +1,145 @@
+{
+  "slug": "strawberry-vanilla-baked-alaska",
+  "title": "Strawberry and Vanilla Baked Alaska",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "baked-alaska",
+  "dish_title": "Baked Alaska",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A dramatic centrepiece of frozen vanilla and strawberry ice cream wrapped in cake and a cloud of toasted meringue.",
+  "servings": 12,
+  "prep_min": 45,
+  "cook_min": 5,
+  "difficulty": "medium",
+  "equipment": [
+    "23 cm (3 litre) mixing bowl",
+    "cling film",
+    "stand mixer with whisk",
+    "baking tray",
+    "baking paper",
+    "a larger bowl",
+    "palette knife or piping bag",
+    "kitchen blowtorch (optional)"
+  ],
+  "ingredients": [
+    {
+      "group": "Ice-cream dome",
+      "qty": 1400,
+      "unit": "ml",
+      "item": "vanilla ice cream"
+    },
+    {
+      "group": "Ice-cream dome",
+      "qty": 1400,
+      "unit": "ml",
+      "item": "strawberry ice cream",
+      "note": "some may be left over"
+    },
+    {
+      "group": "Cake",
+      "qty": 340,
+      "unit": "g",
+      "item": "plain pound cake (Madeira-style loaf), cut into 1 cm slices"
+    },
+    {
+      "group": "Meringue",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg whites, at room temperature"
+    },
+    {
+      "group": "Meringue",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "cream of tartar"
+    },
+    {
+      "group": "Meringue",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Meringue",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Meringue",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Line",
+      "text": "Line a 23 cm bowl with cling film, leaving plenty of overhang to fold over later."
+    },
+    {
+      "title": "Shell",
+      "text": "Soften 1.4 litres vanilla ice cream for 15 min, then press it over the base and up the sides to form an even 2-3 cm shell, and freeze for 1 h until firm."
+    },
+    {
+      "title": "Fill",
+      "text": "Soften 1.4 litres strawberry ice cream for 15 min and spoon it into the centre, leaving 1 cm clear at the top."
+    },
+    {
+      "title": "Cap",
+      "text": "Cover the surface with trimmed slices of the 340 g pound cake, fold the cling film over and freeze for at least 3 h (up to 72 h)."
+    },
+    {
+      "title": "Whisk",
+      "text": "At least 3 h before serving, whisk 6 egg whites with ⅛ tsp cream of tartar until frothy and doubled, about 1 min, then add ¼ tsp vanilla and a pinch of salt and gradually whisk in 200 g caster sugar until the meringue holds stiff, glossy peaks."
+    },
+    {
+      "title": "Unmould",
+      "text": "Dip the bowl in warm water for 15 s, turn the dome out onto a paper-lined tray cake-side down and peel away the film."
+    },
+    {
+      "title": "Cover",
+      "text": "Spread or pipe the meringue all over the dome in spiky peaks with no gaps, then freeze uncovered for at least 2 h until firm."
+    },
+    {
+      "title": "Brown",
+      "text": "Heat the oven to 230 °C and bake for 3-5 min, watching closely until the peaks are browned (or use a blowtorch), then rest for up to 10 min before slicing into wedges with a knife wiped clean between cuts."
+    }
+  ],
+  "tips": [
+    "Work quickly while assembling the ice cream layers so they stay firm enough to shape.",
+    "If serving anyone pregnant, very young, elderly or unwell, use pasteurised egg whites, since the meringue is only lightly browned rather than fully cooked.",
+    "Keep the dome in the freezer right up until it goes in the oven, and bake it straight after it's fully frozen for the cleanest slices."
+  ],
+  "storage": "Freeze the assembled dome, before adding the meringue, for up to 72 h; once browned, serve it straight away as it won't hold once sliced.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 409,
+    "protein_g": 7.2,
+    "carbs_g": 56.2,
+    "sugar_g": 47.4,
+    "free_sugar_g": 47.3,
+    "fat_g": 17.6,
+    "satfat_g": 10.7,
+    "salt_g": 0.54,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "baked-alaska-basic.jpg",
+  "image_alt": "A domed dessert of strawberry and vanilla ice cream coated in golden toasted meringue peaks, sliced to reveal the cake and ice cream layers inside.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "key-lime-pie-ice-pops",
+  "title": "Key Lime Pie Ice Pops",
+  "category": "desserts",
+  "cuisine": "Mexican",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "popsicles",
+  "dish_title": "Popsicles",
+  "flavour": "Key lime",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "strawberry-ice-pops",
+  "changes_from_base": "A no-cook key lime pie mix of milk, condensed milk, cream cheese and lime replaces the strawberry purée, with broken Marie biscuits soaked in each pop.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A key lime pie in ice pop form, with a tangy lime and cream cheese filling studded with crushed biscuit.",
+  "servings": 10,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "blender",
+    "10 ice-pop bags (boli bags) or ten 120 ml moulds and sticks"
+  ],
+  "ingredients": [
+    {
+      "group": "Ice pops",
+      "qty": 395,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 397,
+      "unit": "g",
+      "item": "tin sweetened condensed milk"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 190,
+      "unit": "g",
+      "item": "full-fat cream cheese"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 160,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 120,
+      "unit": "ml",
+      "item": "key lime juice (8-12 key limes)"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated key lime zest"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 34,
+      "unit": "pc",
+      "item": "Marie biscuits (204 g)",
+      "note": "4 for the blender, 30 broken by hand"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Blend 395 ml whole milk, 397 g condensed milk, 190 g cream cheese, 160 g caster sugar, ½ tsp vanilla and a pinch of salt until smooth, about 15 s, then add 120 ml key lime juice and blend for 10 s more."
+    },
+    {
+      "title": "Crumb",
+      "text": "Add the lime zest and 4 of the Marie biscuits and pulse twice to coarse crumbs."
+    },
+    {
+      "title": "Layer",
+      "text": "Break 3 biscuits by hand into each of 10 ice-pop bags or moulds."
+    },
+    {
+      "title": "Pour",
+      "text": "Pour about 115 g of the mixture into each bag, squeeze gently to soak the biscuits, then tie the bags leaving room to expand (or fill the moulds)."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for at least 4 h."
+    },
+    {
+      "title": "Serve",
+      "text": "Snip off a bottom corner of each bag, or unmould, and eat at once."
+    }
+  ],
+  "tips": [
+    "Soften the cream cheese slightly before blending so it mixes in without lumps.",
+    "Squeeze the bags gently so the biscuit pieces soak through evenly.",
+    "Serve these straight from the freezer, as they soften quickly once unwrapped."
+  ],
+  "storage": "Keep the pops in their bags or moulds in the freezer.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 374,
+    "protein_g": 7.2,
+    "carbs_g": 57.0,
+    "sugar_g": 45.0,
+    "free_sugar_g": 42.3,
+    "fat_g": 13.8,
+    "satfat_g": 7.8,
+    "salt_g": 0.57,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale, creamy ice pops studded with crumbled biscuit pieces, shown in their freezer bags.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "slug": "white-chocolate-raspberry-mousse-bombes",
+  "title": "White Chocolate and Raspberry Mousse Bombes",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "bombe",
+  "dish_title": "Bombe",
+  "flavour": "White chocolate",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "pistachio-cherry-bombe",
+  "changes_from_base": "Individual white-chocolate shells replace the pistachio biscuit, filled with white chocolate mousse and frozen raspberries on a cocoa cake base, served on raspberry sauce.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Individual white chocolate domes hide a raspberry-studded mousse and a disc of cocoa cake, served over a tart raspberry sauce.",
+  "servings": 6,
+  "prep_min": 90,
+  "cook_min": 30,
+  "difficulty": "hard",
+  "equipment": [
+    "6-cavity silicone dome mould on a baking tray",
+    "pastry brush",
+    "rimmed baking sheet (about 33 x 46 cm)",
+    "baking paper",
+    "stand mixer with paddle",
+    "sieve",
+    "offset spatula",
+    "round cutter the size of the domes",
+    "heatproof bowl over a pan of simmering water",
+    "piping bag",
+    "small saucepan",
+    "fine sieve"
+  ],
+  "ingredients": [
+    {
+      "group": "Shells",
+      "qty": 115,
+      "unit": "g",
+      "item": "white chocolate, melted and tempered"
+    },
+    {
+      "group": "Cocoa cake",
+      "qty": 225,
+      "unit": "g",
+      "item": "butter, softened"
+    },
+    {
+      "group": "Cocoa cake",
+      "qty": 285,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cocoa cake",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Cocoa cake",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Cocoa cake",
+      "qty": 55,
+      "unit": "g",
+      "item": "cocoa powder"
+    },
+    {
+      "group": "Cocoa cake",
+      "qty": 235,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Cocoa cake",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Cocoa cake",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Cocoa cake",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Cocoa cake",
+      "qty": 240,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Mousse",
+      "qty": 150,
+      "unit": "g",
+      "item": "white chocolate, chopped"
+    },
+    {
+      "group": "Mousse",
+      "qty": 55,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Mousse",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "beef gelatine powder, soaked in 2 tbsp cold water"
+    },
+    {
+      "group": "Mousse",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Mousse",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Mousse",
+      "qty": 170,
+      "unit": "ml",
+      "item": "double cream, whipped to soft peaks and chilled"
+    },
+    {
+      "group": "Mousse",
+      "qty": 12,
+      "unit": "pc",
+      "item": "frozen raspberries, for the centres"
+    },
+    {
+      "group": "Raspberry sauce",
+      "qty": 450,
+      "unit": "g",
+      "item": "frozen raspberries"
+    },
+    {
+      "group": "Raspberry sauce",
+      "qty": 115,
+      "unit": "g",
+      "item": "caster sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Shell",
+      "text": "Brush tempered 115 g white chocolate evenly into each of 6 dome cavities right up to the rim, then chill until set."
+    },
+    {
+      "title": "Bake",
+      "text": "Heat the oven to 180 °C and line a large baking sheet; cream 225 g butter with 285 g caster sugar until light, beat in 2 eggs and 3 egg yolks one at a time, then alternate adding the sifted 55 g cocoa, 235 g flour, ½ tsp bicarbonate of soda, ½ tsp baking powder and ½ tsp salt with 240 ml buttermilk; spread evenly and bake for 15-20 min, turning halfway, until a skewer comes out clean."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool the cake for 15 min, turn out, peel off the paper, rest for 10 min, then cut 6 rounds the size of the dome openings."
+    },
+    {
+      "title": "Melt",
+      "text": "Melt 150 g white chocolate over a pan of simmering water, then gradually stir in 55 ml double cream until smooth and warm; melt the soaked gelatine in short bursts and stir it in."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk 2 egg yolks with a pinch of salt, then whisk them gradually into the warm chocolate and keep whisking over the simmering water for 1 min before taking off the heat and cooling to room temperature."
+    },
+    {
+      "title": "Fold",
+      "text": "Whisk the cooled mousse smooth, stir in a quarter of the 170 ml whipped cream to loosen it, then fold in the rest."
+    },
+    {
+      "title": "Fill",
+      "text": "Pipe the mousse into the chocolate shells almost to the top, push 2 raspberries into each, smooth the surface, press on a cake round and freeze for at least 4 h."
+    },
+    {
+      "title": "Sauce",
+      "text": "Warm 450 g raspberries with 115 g caster sugar over low heat, stirring, until just simmering, then press through a fine sieve to remove the seeds and chill. To serve, swipe 1 tbsp sauce onto each plate, turn the bombes out of the mould and leave them for 20 min so the cake softens, then set them on the sauce."
+    }
+  ],
+  "tips": [
+    "Temper the white chocolate properly so the shells release cleanly and have a good snap.",
+    "Use pasteurised egg yolks if serving anyone pregnant, very young, elderly or unwell, as the mousse yolks are only warmed, not fully cooked.",
+    "Check the pack of beef gelatine for its source if that matters to your guests.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "The extra cake keeps well wrapped in the freezer, and the finished bombes can be frozen for up to a week before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 515,
+    "protein_g": 6.9,
+    "carbs_g": 46.8,
+    "sugar_g": 39.5,
+    "free_sugar_g": 37.0,
+    "fat_g": 34.8,
+    "satfat_g": 21.0,
+    "salt_g": 0.77,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "An individual domed white chocolate shell filled with pale mousse and raspberries, set on a disc of dark cake over a pool of raspberry sauce.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "hibiscus-ice-pops",
+  "title": "Hibiscus Ice Pops",
+  "category": "desserts",
+  "cuisine": "Mexican",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "popsicles",
+  "dish_title": "Popsicles",
+  "flavour": "Hibiscus",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "strawberry-ice-pops",
+  "changes_from_base": "A sweetened hibiscus infusion with lime replaces the strawberry purée.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Deep red, tart hibiscus ice pops lifted with a touch of lime.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "medium pan",
+    "colander",
+    "fine sieve",
+    "jug with spout",
+    "whisk",
+    "ice-pop bags or eight 120 ml moulds and sticks"
+  ],
+  "ingredients": [
+    {
+      "group": "Ice pops",
+      "qty": 40,
+      "unit": "g",
+      "item": "dried hibiscus flowers, rinsed"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 945,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 230,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "key lime juice (or 1 tbsp ordinary lime juice)"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil",
+      "text": "Bring 40 g dried hibiscus flowers and 945 ml cold water to the boil, then simmer for 10 min and cool for 30-60 min."
+    },
+    {
+      "title": "Strain",
+      "text": "Strain the liquid into a jug."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk in 230 g caster sugar, 2 tbsp key lime juice and a pinch of salt until the sugar dissolves."
+    },
+    {
+      "title": "Fill",
+      "text": "Fill ice-pop bags about a third full, around 115 g each, and tie leaving room to expand, or fill the moulds."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Simmer the hibiscus flowers for the full 10 min to draw out as much colour and flavour as possible.",
+    "Leave room in the bags before tying, since the liquid expands as it freezes.",
+    "The strained hibiscus flowers can be kept and used again in another drink or dish."
+  ],
+  "storage": "Keep the pops in their bags or moulds in the freezer.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 112,
+    "protein_g": 0.0,
+    "carbs_g": 29.1,
+    "sugar_g": 28.8,
+    "free_sugar_g": 28.8,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.1,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Deep red ice pops on sticks, shown in slim freezer bags.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "creamy-coconut-ice-pops",
+  "title": "Creamy Coconut Ice Pops",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "popsicles",
+  "dish_title": "Popsicles",
+  "flavour": "Coconut",
+  "flavour_order": 7,
+  "access": "premium",
+  "base_recipe": "strawberry-ice-pops",
+  "changes_from_base": "A no-cook mix of cream, coconut milk, cream of coconut and shredded coconut replaces the strawberry purée.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Rich, creamy coconut ice pops with shredded coconut suspended throughout.",
+  "servings": 10,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "large jug",
+    "whisk",
+    "ten 80 ml moulds and sticks"
+  ],
+  "ingredients": [
+    {
+      "group": "Ice pops",
+      "qty": 415,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 180,
+      "unit": "ml",
+      "item": "coconut milk"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 180,
+      "unit": "ml",
+      "item": "cream of coconut"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 25,
+      "unit": "g",
+      "item": "finely shredded unsweetened coconut"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk",
+      "text": "Whisk 415 ml double cream, 180 ml coconut milk, 180 ml cream of coconut, 25 g shredded coconut and a pinch of salt together in a jug."
+    },
+    {
+      "title": "Fill",
+      "text": "Fill ten 80 ml moulds, whisking the mixture between each one so the coconut stays suspended rather than sinking."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and freeze for 1 h."
+    },
+    {
+      "title": "Stick",
+      "text": "Add the sticks."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for at least 8 h."
+    },
+    {
+      "title": "Serve",
+      "text": "Dip the moulds briefly in hot water to release the pops, taking care not to let them melt."
+    }
+  ],
+  "tips": [
+    "Whisk the mixture between filling each mould so the shredded coconut doesn't all settle in the first few.",
+    "Add the sticks only after the initial 1 h chill, once the mixture has thickened enough to hold them upright.",
+    "Dip the moulds briefly rather than holding them under water, as this mixture softens quickly."
+  ],
+  "storage": "Keep the pops in their moulds or wrapped individually in the freezer.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 272,
+    "protein_g": 2.0,
+    "carbs_g": 13.9,
+    "sugar_g": 12.4,
+    "free_sugar_g": 11.0,
+    "fat_g": 23.9,
+    "satfat_g": 17.5,
+    "salt_g": 0.09,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale, creamy ice pops on sticks flecked throughout with shredded coconut.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

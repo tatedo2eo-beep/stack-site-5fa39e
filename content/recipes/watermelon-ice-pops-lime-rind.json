@@ -1,0 +1,119 @@
+{
+  "slug": "watermelon-ice-pops-lime-rind",
+  "title": "Watermelon Ice Pops with a Lime Sherbet Rind",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "popsicles",
+  "dish_title": "Popsicles",
+  "flavour": "Watermelon",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "strawberry-ice-pops",
+  "changes_from_base": "Sieved watermelon frozen to a slush with chocolate-chip \"seeds\" replaces the strawberry purée, topped with a lime sherbet \"rind\" in paper cups.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Watermelon ice pops studded with tiny chocolate chips and finished with a pale sherbet rind to mimic the look of a watermelon slice.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "blender",
+    "mesh sieve",
+    "medium bowl",
+    "twelve 90 ml paper or plastic cups",
+    "shallow baking tin",
+    "cling film",
+    "12 ice-pop sticks"
+  ],
+  "ingredients": [
+    {
+      "group": "Ice pops",
+      "qty": 1200,
+      "unit": "ml",
+      "item": "watermelon flesh (from ½ small seedless watermelon)"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Ice pops",
+      "qty": 45,
+      "unit": "g",
+      "item": "mini chocolate chips",
+      "note": "the \"seeds\""
+    },
+    {
+      "group": "Rind",
+      "qty": 475,
+      "unit": "ml",
+      "item": "lime sherbet, softened"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Blend about 1.2 litres watermelon flesh with 100 g caster sugar in batches until smooth, then push through a sieve."
+    },
+    {
+      "title": "Freeze",
+      "text": "Cover and freeze for 2-3 h until slushy but not solid, then stir well, scraping the sides, and stir in 45 g mini chocolate chips."
+    },
+    {
+      "title": "Fill",
+      "text": "Stand twelve 90 ml cups in a tin and spoon in the slush to 1 cm below the rims, then freeze for 1-2 h until solid but not rock hard."
+    },
+    {
+      "title": "Top",
+      "text": "Spread the softened lime sherbet over the top as a rind layer, right to the rim."
+    },
+    {
+      "title": "Seal",
+      "text": "Cover each cup with cling film, cut a small slit and push a stick in almost to the bottom."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for at least 5 h, up to 2 days."
+    },
+    {
+      "title": "Serve",
+      "text": "Stand for 1 min, then pull the pops out or peel away the paper cups."
+    }
+  ],
+  "tips": [
+    "Stir the slush well before filling the cups so the chocolate chips stay evenly spread rather than sinking.",
+    "Let the watermelon layer firm up before adding the sherbet rind, or the two layers will blend together.",
+    "Push the stick in carefully through the slit so it sits centred and upright."
+  ],
+  "storage": "Keep the pops in their cups or wrapped individually in the freezer.",
+  "allergens": [
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 123,
+    "protein_g": 1.1,
+    "carbs_g": 27.3,
+    "sugar_g": 23.7,
+    "free_sugar_g": 18.1,
+    "fat_g": 1.9,
+    "satfat_g": 1.0,
+    "salt_g": 0.04,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Watermelon-shaped ice pops with a pink chocolate-chip centre and a pale rind layer around the edge.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
