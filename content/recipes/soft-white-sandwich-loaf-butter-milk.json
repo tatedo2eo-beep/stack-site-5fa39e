@@ -1,0 +1,137 @@
+{
+  "slug": "soft-white-sandwich-loaf-butter-milk",
+  "title": "Soft White Sandwich Loaf",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "white-sandwich-loaf",
+  "dish_title": "White sandwich loaf",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A bread-flour dough enriched with milk, butter and a little honey is kneaded until springy, risen, rolled tightly into a tin and baked until golden, giving a soft, even crumb that keeps well.",
+  "servings": 14,
+  "prep_min": 25,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "stand mixer with dough hook (or large bowl)",
+    "900 g (23 x 13 cm) loaf tin",
+    "cling film",
+    "spray bottle of water",
+    "instant-read thermometer",
+    "wire rack",
+    "bread knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 480,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 20,
+      "unit": "g",
+      "item": "runny honey"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 180,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "lukewarm"
+    },
+    {
+      "group": "Dough",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Tin",
+      "qty": 5,
+      "unit": "g",
+      "item": "unsalted butter, for the tin"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Combine the dry ingredients, add the warm milk mixture and mix until no dry flour remains."
+    },
+    {
+      "title": "Knead",
+      "text": "Knead until smooth, springy and able to stretch thin."
+    },
+    {
+      "title": "First rise",
+      "text": "Leave covered until doubled."
+    },
+    {
+      "title": "Shape",
+      "text": "Roll the dough tightly into a log and prove in the buttered tin until domed above the rim."
+    },
+    {
+      "title": "Bake",
+      "text": "Mist and bake until deep golden and 88-93 °C in the centre."
+    },
+    {
+      "title": "Cool",
+      "text": "Turn out and cool fully before slicing."
+    }
+  ],
+  "tips": [
+    "Rolling the dough up tightly gives an even crumb without big holes.",
+    "Check the centre with a thermometer; a golden crust alone can hide a damp middle.",
+    "Slice with a serrated bread knife once completely cool."
+  ],
+  "storage": "Keep the cooled loaf in a bread bag at room temperature for up to 3 days. Slice and freeze for up to 1 month, then toast straight from frozen. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 156,
+    "protein_g": 4.7,
+    "carbs_g": 26.9,
+    "sugar_g": 1.9,
+    "free_sugar_g": 1.2,
+    "fat_g": 3.1,
+    "satfat_g": 1.6,
+    "salt_g": 0.64,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "white-sandwich-loaf-basic.jpg",
+  "image_alt": "A golden-crusted white sandwich loaf on a dark board with thick slices cut from the end showing a soft, even crumb.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

@@ -152,6 +152,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crisp-breaded-beef-cutlets-lemon-salad | Milanesa | Classic | 2 | 4 |
 | crisp-cod-potato-fish-cakes-lemon-herb-mayonnaise | Fish cakes | Classic | 3 | 5 |
 | crisp-corn-tostadas-chicken-refried-beans-avocado | Tostada | Chicken | 3 | 5 |
+| crisp-crusted-french-baguettes | Baguette | Classic | 3 | 5 |
 | crisp-fried-chicken-bean-rice-burritos-soured-cream-guacamole | Chimichanga | Chicken | 3 | 5 |
 | crisp-fried-mixed-seafood-courgette | Fritto misto | Classic | 2 | 4 |
 | crisp-fried-squid-rings-tomato-dip | Calamari | Classic | 2 | 4 |
@@ -248,6 +249,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | green-pesto-pasta-salad-cherry-tomatoes | Pasta salad | Pesto | 2 | 4 |
 | green-tomatillo-chicken-enchiladas-charred-chilli-sauce | Enchilada | Green (verdes) | 3 | 5 |
 | griddled-english-muffins-nooks-crannies | English muffins | Classic | 2 | 4 |
+| griddled-holey-english-crumpets-butter | Crumpet | Classic | 2 | 4 |
 | grilled-beef-kebabs-peppers | Kebabs/skewers | Classic | 3 | 5 |
 | grilled-porterhouse-steak-rosemary-lemon | Bistecca alla fiorentina | Classic | 2 | 4 |
 | grilled-provolone-provoleta-oregano-chilli-toasted-bread | Provoleta | Classic | 2 | 4 |
@@ -266,6 +268,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | home-fries-peppers-onions | Home fries | Peppers and onions | 2 | 4 |
 | homemade-chocolate-milk-cocoa-syrup | Chocolate milk | Classic | 2 | 4 |
 | honey-maple-nut-granola-raisins | Granola | Classic | 2 | 4 |
+| honey-whole-wheat-sandwich-loaf | Whole wheat | Classic | 2 | 4 |
 | horseradish-mashed-potatoes | Mashed | Horseradish | 3 | 5 |
 | hot-dry-noodles | Hot dry noodles | Classic | 1 | 3 |
 | hot-spinach-artichoke-dip-parmesan-mozzarella | Spinach-artichoke | Classic | 3 | 5 |
@@ -360,6 +363,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | one-pot-chicken-rice-peppers-peas-olives | Arroz con pollo | Classic | 3 | 5 |
 | onion-marinated-lamb-shashlik | Shashlik | Classic | 2 | 4 |
 | onion-rosti | Rösti | Onion | 3 | 5 |
+| open-crumb-rustic-italian-ciabatta | Ciabatta | Classic | 2 | 4 |
 | open-faced-cheddar-tuna-melts-dill-pickles | Tuna melt | Classic | 2 | 4 |
 | orecchiette-broccoli | Hand-rolled shapes (orecchiette, pici, trofie, cavatelli) | Classic | 3 | 5 |
 | oven-baked-eggs-ramekins-cream-toast | Baked eggs (en cocotte) | Classic | 2 | 4 |
@@ -490,12 +494,15 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | smoky-chipotle-tomato-shredded-chicken-tacos | Taco | Chicken tinga | 4 | 6 |
 | smooth-cold-brew-coffee-concentrate | Cold brew | Classic | 2 | 4 |
 | snickerdoodles | Snickerdoodle | Classic | 3 | 5 |
+| soft-baked-pretzels-coarse-salt-mustard | Pretzels | Classic | 2 | 4 |
+| soft-cinnamon-rolls-cream-cheese-icing | Cinnamon rolls | Classic | 3 | 5 |
 | soft-layered-wholemeal-chapati | Chapati | Classic | 3 | 5 |
 | soft-puffed-pita-bread-olive-oil | Pita | Classic | 3 | 5 |
 | soft-pull-apart-milk-dinner-rolls | Dinner rolls | Classic | 3 | 5 |
 | soft-rice-and-yellow-lentil-porridge-cumin-ghee | Khichdi | Classic | 2 | 4 |
 | soft-scrambled-eggs-butter-chives-toast | Scrambled | Classic | 3 | 5 |
 | soft-steamed-rice-lentil-idli-coconut-chutney | Idli | Classic | 2 | 4 |
+| soft-white-sandwich-loaf-butter-milk | White sandwich loaf | Classic | 2 | 4 |
 | som-tam-green-papaya-salad | Som tam | Classic | 3 | 5 |
 | soto-ayam-indonesian-chicken-turmeric-soup | Soto | Classic | 2 | 4 |
 | sour-cream-coffee-cake | Coffee cake | Classic | 3 | 5 |
@@ -511,6 +518,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | speculoos | Speculoos | Classic | 3 | 5 |
 | spiced-beef-shawarma-tahini-flatbread | Shawarma/döner | Classic | 2 | 4 |
 | spiced-chicken-cheddar-jack-quesadillas-pickled-jalapenos | Quesadilla | Chicken | 2 | 4 |
+| spiced-hot-cross-buns-orange-peel | Hot cross buns | Classic | 3 | 5 |
 | spiced-lamb-seekh-kebabs-mint-chutney | Seekh kebab | Classic | 2 | 4 |
 | spiced-masala-chai-ginger-cardamom | Masala chai | Classic | 2 | 4 |
 | spiced-minced-beef-keema-peas | Keema | Keema matar (with peas) | 3 | 5 |
@@ -539,6 +547,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | swiss-rosti | Rösti | Classic | 2 | 4 |
 | tafelspitz-apple-horseradish | Tafelspitz | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
+| tangzhong-japanese-milk-bread-loaf | Japanese milk bread (tangzhong) | Classic | 2 | 4 |
 | tender-cream-scones-jam-clotted-cream | Scone | Classic | 2 | 4 |
 | texas-chocolate-sheet-cake-pecan-icing | Sheet cake | Chocolate (Texas-style) | 3 | 5 |
 | thai-coconut-beef-curry-potatoes-peanuts-tamarind | Massaman | Beef | 2 | 4 |

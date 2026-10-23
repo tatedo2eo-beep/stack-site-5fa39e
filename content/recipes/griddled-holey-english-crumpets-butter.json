@@ -1,0 +1,151 @@
+{
+  "slug": "griddled-holey-english-crumpets-butter",
+  "title": "Griddled Holey English Crumpets with Butter",
+  "category": "breakfast",
+  "cuisine": "British",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "crumpet",
+  "dish_title": "Crumpet",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A loose yeast batter of flour, milk and water is left to bubble, lifted with baking powder, then cooked slowly in buttered rings on a covered pan until the tops are riddled with holes, flipped briefly and served hot with butter.",
+  "servings": 10,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "whisk",
+    "cling film",
+    "large heavy non-stick frying pan with a lid",
+    "4 crumpet rings or 9 cm metal pastry rings, buttered",
+    "palette knife",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 150,
+      "unit": "g",
+      "item": "plain (all-purpose) flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 100,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 5,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Batter",
+      "qty": 4,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 150,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "lukewarm"
+    },
+    {
+      "group": "Batter",
+      "qty": 200,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "baking powder",
+      "note": "mixed with 1 tbsp warm water"
+    },
+    {
+      "group": "Cooking",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter, for the rings and pan"
+    },
+    {
+      "group": "To serve",
+      "qty": 50,
+      "unit": "g",
+      "item": "unsalted butter, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Batter",
+      "text": "Whisk the batter for 2 minutes and leave it to bubble for an hour."
+    },
+    {
+      "title": "Activate",
+      "text": "Stir in the baking powder mixture and rest 10 minutes."
+    },
+    {
+      "title": "Heat",
+      "text": "Warm the buttered rings in the pan over medium-low heat."
+    },
+    {
+      "title": "Cook",
+      "text": "Fill the rings and cook slowly until the surface is full of holes and set."
+    },
+    {
+      "title": "Finish",
+      "text": "Remove the rings, flip and colour the tops lightly."
+    },
+    {
+      "title": "Serve",
+      "text": "Toast and butter while hot."
+    }
+  ],
+  "tips": [
+    "Keep the heat gentle so the base browns while the top sets.",
+    "If no holes appear, the batter is too thick; whisk in a little warm water.",
+    "Butter the rings well every time so the crumpets release cleanly."
+  ],
+  "storage": "Cool on a rack and keep airtight for up to 2 days, or freeze for up to 1 month. Toast before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 146,
+    "protein_g": 3.5,
+    "carbs_g": 20.1,
+    "sugar_g": 1.2,
+    "free_sugar_g": 0.4,
+    "fat_g": 5.7,
+    "satfat_g": 3.4,
+    "salt_g": 0.54,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "crumpet-basic.jpg",
+  "image_alt": "A stack of golden crumpets with holey tops on a dark plate, the top one with a pat of melting butter.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "slug": "soft-cinnamon-rolls-cream-cheese-icing",
+  "title": "Soft Cinnamon Rolls with Cream Cheese Icing",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "cinnamon-rolls",
+  "dish_title": "Cinnamon rolls",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A rich milk, egg and butter dough is rolled out, spread with a brown sugar, cinnamon and butter paste, rolled up and sliced into 12 rolls. They prove in one tin, bake until golden and are spread with a tangy cream cheese icing while warm.",
+  "servings": 12,
+  "prep_min": 35,
+  "cook_min": 26,
+  "difficulty": "medium",
+  "equipment": [
+    "stand mixer with dough hook",
+    "cling film",
+    "rolling pin",
+    "23 x 33 cm baking tin lined with baking paper",
+    "small bowl",
+    "hand whisk",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 450,
+      "unit": "g",
+      "item": "plain (all-purpose) flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 180,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "lukewarm"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Filling",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter, very soft"
+    },
+    {
+      "group": "Filling",
+      "qty": 150,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Icing",
+      "qty": 100,
+      "unit": "g",
+      "item": "full-fat cream cheese, softened"
+    },
+    {
+      "group": "Icing",
+      "qty": 25,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Icing",
+      "qty": 120,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Icing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Knead the dough until soft and smooth and leave it to double."
+    },
+    {
+      "title": "Filling",
+      "text": "Beat the butter, brown sugar and cinnamon to a paste."
+    },
+    {
+      "title": "Roll",
+      "text": "Roll the dough out, spread with filling and roll up tightly."
+    },
+    {
+      "title": "Cut",
+      "text": "Slice into 12 rolls and prove in the tin until puffy."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake until golden and 88 °C in the centre."
+    },
+    {
+      "title": "Ice",
+      "text": "Spread the cream cheese icing over the warm rolls."
+    }
+  ],
+  "tips": [
+    "Use a serrated knife or unflavoured dental floss for neat slices.",
+    "Very soft butter spreads without tearing the dough.",
+    "Shape the rolls the night before, chill them covered, and bake in the morning."
+  ],
+  "storage": "Keep covered at room temperature for up to 2 days, or freeze un-iced for up to 1 month and warm before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 376,
+    "protein_g": 5.8,
+    "carbs_g": 57.3,
+    "sugar_g": 27.3,
+    "free_sugar_g": 26.1,
+    "fat_g": 14.0,
+    "satfat_g": 8.4,
+    "salt_g": 0.6,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "cinnamon-rolls-basic.jpg",
+  "image_alt": "Swirled cinnamon rolls with white cream cheese icing on a dark plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

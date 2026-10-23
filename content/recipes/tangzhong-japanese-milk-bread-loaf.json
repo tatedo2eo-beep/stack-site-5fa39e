@@ -1,0 +1,150 @@
+{
+  "slug": "tangzhong-japanese-milk-bread-loaf",
+  "title": "Fluffy Tangzhong Japanese Milk Bread",
+  "category": "breakfast",
+  "cuisine": "Japanese",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "japanese-milk-bread-tangzhong",
+  "dish_title": "Japanese milk bread (tangzhong)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A small portion of flour is cooked with milk into a paste, then kneaded into an egg and butter enriched dough until silky. The dough is shaped into three rolls, proved together in a tin, brushed with milk and baked into a tall, feathery loaf.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "small saucepan",
+    "whisk",
+    "stand mixer with dough hook",
+    "cling film",
+    "900 g (23 x 13 cm) loaf tin, buttered",
+    "pastry brush",
+    "instant-read thermometer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Tangzhong",
+      "qty": 25,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Tangzhong",
+      "qty": 125,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Dough",
+      "qty": 325,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 90,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "lukewarm"
+    },
+    {
+      "group": "Dough",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "whole milk, to brush"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Tangzhong",
+      "text": "Cook the flour and milk to a thick paste at 65 °C and cool."
+    },
+    {
+      "title": "Knead",
+      "text": "Knead with the dough ingredients, then work in the butter until silky."
+    },
+    {
+      "title": "First rise",
+      "text": "Cover and leave until doubled."
+    },
+    {
+      "title": "Shape",
+      "text": "Roll and fold 3 portions and prove them in the tin."
+    },
+    {
+      "title": "Bake",
+      "text": "Brush with milk and bake until 88-90 °C in the centre."
+    },
+    {
+      "title": "Cool",
+      "text": "Turn out and cool before tearing or slicing."
+    }
+  ],
+  "tips": [
+    "The tangzhong traps water, which keeps the loaf soft for longer.",
+    "Knead until the dough stretches thin enough to see light through.",
+    "Pull the loaf apart in feathery strips or slice it thick for toast."
+  ],
+  "storage": "Keep wrapped at room temperature for up to 3 days, or slice and freeze for up to 1 month and toast from frozen. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 162,
+    "protein_g": 4.9,
+    "carbs_g": 25.6,
+    "sugar_g": 4.4,
+    "free_sugar_g": 3.3,
+    "fat_g": 4.3,
+    "satfat_g": 2.3,
+    "salt_g": 0.52,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "japanese-milk-bread-tangzhong-advanced.jpg",
+  "image_alt": "A tall glossy Japanese milk bread loaf on a dark board with thick, soft white slices cut beside it.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

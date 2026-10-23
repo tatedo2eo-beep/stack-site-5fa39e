@@ -1,0 +1,145 @@
+{
+  "slug": "open-crumb-rustic-italian-ciabatta",
+  "title": "Open-Crumb Rustic Italian Ciabatta",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "ciabatta",
+  "dish_title": "Ciabatta",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A very wet dough built on an overnight starter, with a splash of milk for a softer crumb, is strengthened by folding, shaped gently into two flat slipper loaves and baked on a hot stone.",
+  "servings": 10,
+  "prep_min": 30,
+  "cook_min": 30,
+  "difficulty": "hard",
+  "equipment": [
+    "stand mixer with paddle and dough hook",
+    "large square container or bowl, oiled",
+    "cling film",
+    "baking stone or heavy upturned baking tray",
+    "baking paper",
+    "spray bottle of water",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Starter",
+      "qty": 150,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Starter",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water",
+      "note": "room temperature"
+    },
+    {
+      "group": "Starter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 230,
+      "unit": "ml",
+      "item": "water",
+      "note": "room temperature"
+    },
+    {
+      "group": "Dough",
+      "qty": 30,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "softens the crumb"
+    },
+    {
+      "group": "Dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Shaping",
+      "qty": 15,
+      "unit": "g",
+      "item": "plain flour, for dusting"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Starter",
+      "text": "Mix the starter and leave it 8-24 hours."
+    },
+    {
+      "title": "Mix",
+      "text": "Beat the dough until the wet mixture pulls away in ribbons."
+    },
+    {
+      "title": "Fold",
+      "text": "Fold in the container every 30 minutes during the first hour of a 2-hour rise."
+    },
+    {
+      "title": "Shape",
+      "text": "Turn out, halve and press gently into slipper shapes, then rest."
+    },
+    {
+      "title": "Bake",
+      "text": "Dimple and bake on the stone until golden and 96 °C."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool for an hour so the crumb sets."
+    }
+  ],
+  "tips": [
+    "The dough should be too wet to knead by hand; that is what makes the holes.",
+    "Handle it as little as possible when shaping so the bubbles survive.",
+    "Use plenty of flour on the worktop and your hands."
+  ],
+  "storage": "Keep in a paper bag for up to 2 days and crisp in a hot oven, or freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 167,
+    "protein_g": 5.7,
+    "carbs_g": 33.3,
+    "sugar_g": 0.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.9,
+    "satfat_g": 0.2,
+    "salt_g": 0.88,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ciabatta-basic.jpg",
+  "image_alt": "Two flour-dusted ciabatta loaves on a dark board, one cut to show the large, open holes.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

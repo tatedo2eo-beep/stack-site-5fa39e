@@ -1,0 +1,157 @@
+{
+  "slug": "soft-baked-pretzels-coarse-salt-mustard",
+  "title": "Soft Baked Pretzels with Coarse Salt and Mustard",
+  "category": "snacks-sides",
+  "cuisine": "German",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "pretzels",
+  "dish_title": "Pretzels",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A bread-flour dough sweetened with brown sugar is rolled into ropes and twisted, dipped in a hot bicarbonate of soda bath for the classic crust, brushed with egg, salted and baked, then served warm with yellow mustard.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 16,
+  "difficulty": "medium",
+  "equipment": [
+    "stand mixer with dough hook (or large bowl)",
+    "2 baking trays lined with baking paper, lightly oiled",
+    "cling film",
+    "large wide pan",
+    "slotted spoon",
+    "pastry brush",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 25,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Bath",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "water, for the bath"
+    },
+    {
+      "group": "Bath",
+      "qty": 70,
+      "unit": "g",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, beaten"
+    },
+    {
+      "group": "Topping",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "coarse pretzel salt or coarse sea salt"
+    },
+    {
+      "group": "To serve",
+      "qty": 80,
+      "unit": "g",
+      "item": "yellow mustard, to serve",
+      "note": "made with distilled vinegar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Knead the dough until smooth and leave it to double."
+    },
+    {
+      "title": "Shape",
+      "text": "Roll ropes, twist into pretzels and chill to firm up."
+    },
+    {
+      "title": "Heat",
+      "text": "Heat the oven and bring the soda bath to the boil."
+    },
+    {
+      "title": "Dip",
+      "text": "Dip each pretzel 30 seconds, flipping once."
+    },
+    {
+      "title": "Glaze and salt",
+      "text": "Brush with egg and scatter with coarse salt."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake until deep brown and serve warm with mustard."
+    }
+  ],
+  "tips": [
+    "Chilling the shaped pretzels makes them much easier to lift into the bath.",
+    "Add the bicarbonate of soda slowly; it foams up fast.",
+    "Salt the pretzels just before baking or the salt will dissolve."
+  ],
+  "storage": "Pretzels are best warm on the day. Keep leftovers loosely covered at room temperature for 1 day, or freeze unsalted for up to 1 month and reheat in a hot oven. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 278,
+    "protein_g": 8.6,
+    "carbs_g": 49.4,
+    "sugar_g": 3.3,
+    "free_sugar_g": 3.0,
+    "fat_g": 4.8,
+    "satfat_g": 2.2,
+    "salt_g": 2.13,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pretzels-basic.jpg",
+  "image_alt": "Three glossy mahogany pretzels studded with coarse salt on a dark plate with a small bowl of yellow mustard.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

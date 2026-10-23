@@ -1,0 +1,141 @@
+{
+  "slug": "crisp-crusted-french-baguettes",
+  "title": "Crisp-Crusted French Baguettes",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "baguette",
+  "dish_title": "Baguette",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "An overnight starter builds flavour; the lean dough of flour, water, yeast and salt is folded rather than kneaded, shaped into three long loaves, proved in a floured cloth, slashed and baked very hot with steam.",
+  "servings": 12,
+  "prep_min": 40,
+  "cook_min": 25,
+  "difficulty": "hard",
+  "equipment": [
+    "2 large bowls",
+    "cling film",
+    "baking stone or heavy upturned baking tray",
+    "linen tea towel (couche), floured",
+    "razor blade or very sharp knife",
+    "metal roasting tin for steam",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Starter",
+      "qty": 75,
+      "unit": "g",
+      "item": "plain (all-purpose) flour"
+    },
+    {
+      "group": "Starter",
+      "qty": 75,
+      "unit": "ml",
+      "item": "water",
+      "note": "room temperature"
+    },
+    {
+      "group": "Starter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 425,
+      "unit": "g",
+      "item": "plain (all-purpose) flour",
+      "note": "a strong-ish one, 11-12% protein"
+    },
+    {
+      "group": "Dough",
+      "qty": 270,
+      "unit": "ml",
+      "item": "water",
+      "note": "about 24 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Shaping",
+      "qty": 15,
+      "unit": "g",
+      "item": "fine semolina, for dusting"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Starter",
+      "text": "Mix the starter and leave it overnight until bubbly."
+    },
+    {
+      "title": "Mix",
+      "text": "Combine with the dough ingredients, rest, then work in the salt."
+    },
+    {
+      "title": "Fold",
+      "text": "Give 4 sets of stretch-and-folds during a 2-hour rise."
+    },
+    {
+      "title": "Shape",
+      "text": "Pre-shape, rest, then roll into 3 tapered baguettes and prove in the cloth."
+    },
+    {
+      "title": "Score and bake",
+      "text": "Slash and bake on the hot stone with steam until crackling and 96 °C."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool on a rack before cutting."
+    }
+  ],
+  "tips": [
+    "Steam in the first minutes lets the loaves expand fully before the crust sets.",
+    "Hold the blade at a shallow angle and make quick, confident cuts.",
+    "A floured linen cloth pleated between the loaves keeps their shape as they prove."
+  ],
+  "storage": "Baguettes are best on the day. Keep leftovers in a paper bag for up to 2 days and refresh in a hot oven, or freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 154,
+    "protein_g": 4.5,
+    "carbs_g": 32.2,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.4,
+    "satfat_g": 0.1,
+    "salt_g": 0.73,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "baguette-basic.jpg",
+  "image_alt": "Two golden baguettes with open scored ears on a dark board, one broken open to show an airy crumb.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

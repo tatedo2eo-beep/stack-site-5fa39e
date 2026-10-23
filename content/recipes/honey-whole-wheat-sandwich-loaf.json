@@ -1,0 +1,142 @@
+{
+  "slug": "honey-whole-wheat-sandwich-loaf",
+  "title": "Honey Whole-Wheat Sandwich Loaf",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "whole-wheat",
+  "dish_title": "Whole wheat",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Wholemeal and white bread flours are soaked with warm milk, water and honey to soften the bran, then kneaded with butter, risen and baked in a tin into a tender, nutty brown loaf.",
+  "servings": 14,
+  "prep_min": 25,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "stand mixer with dough hook (or large bowl)",
+    "900 g (23 x 13 cm) loaf tin",
+    "cling film",
+    "instant-read thermometer",
+    "wire rack",
+    "bread knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "wholemeal (whole-wheat) bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 150,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 30,
+      "unit": "g",
+      "item": "runny honey"
+    },
+    {
+      "group": "Dough",
+      "qty": 200,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "lukewarm"
+    },
+    {
+      "group": "Dough",
+      "qty": 110,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Tin",
+      "qty": 5,
+      "unit": "g",
+      "item": "unsalted butter, for the tin"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak",
+      "text": "Mix the flours with the milk, water and honey, then rest 20 minutes."
+    },
+    {
+      "title": "Knead",
+      "text": "Add the yeast, salt and butter and knead until smooth and elastic."
+    },
+    {
+      "title": "First rise",
+      "text": "Cover and leave until doubled."
+    },
+    {
+      "title": "Shape",
+      "text": "Roll up firmly and prove in the buttered tin until risen above the rim."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake until well browned and 88-93 °C inside."
+    },
+    {
+      "title": "Cool",
+      "text": "Turn out and cool completely before slicing."
+    }
+  ],
+  "tips": [
+    "The short soak softens the bran so the loaf rises higher and tastes less bitter.",
+    "Wholemeal dough stays slightly tacky; resist adding much extra flour.",
+    "Tent with foil if the crust browns too quickly; honey makes it colour fast."
+  ],
+  "storage": "Store wrapped at room temperature for up to 3 days, or slice and freeze for up to 1 month and toast from frozen. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 146,
+    "protein_g": 4.8,
+    "carbs_g": 25.9,
+    "sugar_g": 2.6,
+    "free_sugar_g": 1.8,
+    "fat_g": 3.2,
+    "satfat_g": 1.7,
+    "salt_g": 0.64,
+    "fibre_g": 2.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "whole-wheat-basic.jpg",
+  "image_alt": "A brown whole-wheat sandwich loaf on a dark board with two slices cut to show the tight, nutty crumb.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

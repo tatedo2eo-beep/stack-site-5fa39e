@@ -1,0 +1,188 @@
+{
+  "slug": "spiced-hot-cross-buns-orange-peel",
+  "title": "Spiced Hot Cross Buns with Raisins and Orange Peel",
+  "category": "breakfast",
+  "cuisine": "British",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "hot-cross-buns",
+  "dish_title": "Hot cross buns",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A milk and butter dough spiced with cinnamon, ginger and cardamom is studded with raisins and candied orange peel, shaped into 12 buns, piped with flour-paste crosses and baked, then brushed with sugar glaze while hot.",
+  "servings": 12,
+  "prep_min": 35,
+  "cook_min": 22,
+  "difficulty": "medium",
+  "equipment": [
+    "stand mixer with dough hook",
+    "cling film",
+    "23 x 33 cm baking tin, buttered",
+    "small bowl",
+    "piping bag or freezer bag",
+    "small saucepan",
+    "pastry brush",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "Dough",
+      "qty": 280,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "lukewarm"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Dough",
+      "qty": 120,
+      "unit": "g",
+      "item": "raisins"
+    },
+    {
+      "group": "Dough",
+      "qty": 75,
+      "unit": "g",
+      "item": "candied orange peel, diced"
+    },
+    {
+      "group": "Crosses",
+      "qty": 50,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Crosses",
+      "qty": 55,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Glaze",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Glaze",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "water"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Knead the spiced dough, then knead in the fruit."
+    },
+    {
+      "title": "First rise",
+      "text": "Cover and leave until doubled."
+    },
+    {
+      "title": "Shape",
+      "text": "Shape 12 tight buns and prove in the tin until touching."
+    },
+    {
+      "title": "Crosses",
+      "text": "Pipe thick flour-paste lines across each row in both directions."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake until browned and 88-93 °C in the centre."
+    },
+    {
+      "title": "Glaze",
+      "text": "Brush with hot sugar syrup and serve warm."
+    }
+  ],
+  "tips": [
+    "Tuck the fruit under as you shape so it does not burn on the surface.",
+    "Make the paste thick enough to hold a line when piped.",
+    "Glaze the buns while hot for a sticky shine."
+  ],
+  "storage": "Keep airtight at room temperature for up to 2 days, or freeze for up to 1 month. Toast split buns and serve with butter. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 297,
+    "protein_g": 7.4,
+    "carbs_g": 54.5,
+    "sugar_g": 19.1,
+    "free_sugar_g": 11.3,
+    "fat_g": 5.7,
+    "satfat_g": 3.1,
+    "salt_g": 0.55,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "hot-cross-buns-basic.jpg",
+  "image_alt": "A tray of glossy brown hot cross buns with white crosses, one broken open to show raisins inside.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}
