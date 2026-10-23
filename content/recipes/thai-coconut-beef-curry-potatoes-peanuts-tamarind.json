@@ -71,7 +71,8 @@
       "group": "Curry",
       "qty": 80,
       "unit": "g",
-      "item": "store-bought massaman curry paste"
+      "item": "store-bought massaman curry paste",
+      "note": "check the label: most Thai curry pastes contain shrimp paste (crustaceans); choose a shrimp-free paste if you avoid it"
     },
     {
       "group": "Curry",
@@ -140,7 +141,8 @@
   "storage": "Cool quickly and refrigerate within 1 hour; use within 3 days and reheat only once until piping hot (74°C). It also freezes well for up to 3 months, though the potatoes may soften slightly on reheating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "peanuts",
-    "fish"
+    "fish",
+    "crustaceans"
   ],
   "diet": [
     "gluten-free",

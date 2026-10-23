@@ -1,0 +1,151 @@
+{
+  "slug": "birthday-cake-blondies",
+  "title": "Birthday Cake Blondies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "blondies",
+  "dish_title": "Blondies",
+  "flavour": "Birthday cake",
+  "flavour_order": 107,
+  "access": "premium",
+  "base_recipe": "chewy-blondies",
+  "changes_from_base": "Vanilla and almond blondie batter studded with rainbow sprinkles.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Vanilla and almond blondies speckled with rainbow sprinkles.",
+  "servings": 16,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin, lined with a baking-paper sling",
+    "saucepan",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Blondie",
+      "qty": 215,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Blondie",
+      "qty": 75,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Blondie",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Blondie",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Blondie",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "alcohol-free almond flavouring"
+    },
+    {
+      "group": "Blondie",
+      "qty": 140,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Blondie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Blondie",
+      "qty": 195,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Blondie",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Blondie",
+      "qty": 25,
+      "unit": "g",
+      "item": "rainbow sprinkles",
+      "note": "gelatine-free; check the label"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the 20 cm tin."
+    },
+    {
+      "title": "Sugars",
+      "text": "Stir both sugars, the vanilla, salt and almond flavouring together in a bowl."
+    },
+    {
+      "title": "Butter",
+      "text": "Melt the butter, pour it over the sugars and stir well, then beat in the eggs until glossy."
+    },
+    {
+      "title": "Flour",
+      "text": "Fold in the flour and baking powder, then two-thirds of the sprinkles. Spread in the tin and scatter the rest of the sprinkles on top."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 25-30 min, until golden at the edges and set in the middle."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool fully in the tin and cut into 16."
+    }
+  ],
+  "tips": [
+    "Long rainbow sprinkles hold their colour better than tiny balls.",
+    "Check the sprinkles are gelatine-free.",
+    "Use an alcohol-free almond flavouring.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 193,
+    "protein_g": 2.1,
+    "carbs_g": 28.9,
+    "sugar_g": 19.4,
+    "free_sugar_g": 19.3,
+    "fat_g": 7.8,
+    "satfat_g": 4.7,
+    "salt_g": 0.23,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden blondie squares speckled with colourful rainbow sprinkles.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

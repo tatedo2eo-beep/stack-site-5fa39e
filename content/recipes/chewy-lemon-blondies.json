@@ -1,0 +1,159 @@
+{
+  "slug": "chewy-lemon-blondies",
+  "title": "Chewy Lemon Blondies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "blondies",
+  "dish_title": "Blondies",
+  "flavour": "Lemon",
+  "flavour_order": 108,
+  "access": "premium",
+  "base_recipe": "chewy-blondies",
+  "changes_from_base": "Lots of lemon zest in the dough and a crunchy lemon-sugar top; no chocolate.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Chewy blondies flavoured with plenty of lemon zest and finished with lemon sugar.",
+  "servings": 16,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "23 cm square metal baking tin, lined with a baking-paper sling",
+    "mixing bowls",
+    "electric hand whisk or wooden spoon",
+    "silicone spatula",
+    "cocktail stick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Lemon sugar",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Lemon sugar",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated lemon zest (about 1 lemon)"
+    },
+    {
+      "group": "Blondie",
+      "qty": 170,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Blondie",
+      "qty": 140,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Blondie",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Blondie",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Blondie",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, at room temperature"
+    },
+    {
+      "group": "Blondie",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Blondie",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "finely grated lemon zest (about 2 lemons)"
+    },
+    {
+      "group": "Blondie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free lemon flavouring",
+      "note": "optional"
+    },
+    {
+      "group": "Blondie",
+      "qty": 300,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Blondie",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Lemon sugar",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the 23 cm tin. Rub the 25 g sugar with the zest of one lemon between your fingertips until fragrant."
+    },
+    {
+      "title": "Batter",
+      "text": "Whisk the melted butter with both sugars and the salt, then the egg, yolk, remaining zest and lemon flavouring."
+    },
+    {
+      "title": "Flour",
+      "text": "Stir in the flour and bicarbonate of soda to a thick dough and press it evenly into the tin."
+    },
+    {
+      "title": "Bake",
+      "text": "Sprinkle the lemon sugar over and bake 25-30 min, until the edges are golden and the centre is just set."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool completely in the tin, then cut into 16."
+    }
+  ],
+  "tips": [
+    "Zest the lemons before juicing or cutting them.",
+    "Rubbing the zest into the sugar releases more lemon oil.",
+    "Pull them while the centre still looks soft.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 217,
+    "protein_g": 2.6,
+    "carbs_g": 31.0,
+    "sugar_g": 16.4,
+    "free_sugar_g": 16.3,
+    "fat_g": 9.4,
+    "satfat_g": 5.7,
+    "salt_g": 0.25,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale yellow lemon blondie squares with a sparkly lemon-sugar top.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

@@ -31,7 +31,8 @@
       "group": "Curry",
       "qty": 60,
       "unit": "g",
-      "item": "store-bought Thai yellow curry paste"
+      "item": "store-bought Thai yellow curry paste",
+      "note": "check the label: most Thai curry pastes contain shrimp paste (crustaceans); choose a shrimp-free paste if you avoid it"
     },
     {
       "group": "Curry",
@@ -95,7 +96,8 @@
   ],
   "storage": "Cool quickly and refrigerate within 1 hour; use within 3 days. Reheat until piping hot (74°C) throughout; the potatoes may turn a little softer if the curry has been frozen and thawed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
-    "fish"
+    "fish",
+    "crustaceans"
   ],
   "diet": [
     "gluten-free",

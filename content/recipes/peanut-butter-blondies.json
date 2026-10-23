@@ -1,0 +1,148 @@
+{
+  "slug": "peanut-butter-blondies",
+  "title": "Peanut Butter Blondies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "blondies",
+  "dish_title": "Blondies",
+  "flavour": "Peanut butter",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "chewy-blondies",
+  "changes_from_base": "Crunchy peanut butter in the batter, milk chocolate chips and chopped peanuts on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A large tray of crunchy peanut butter blondies with milk chocolate chips and chopped peanuts.",
+  "servings": 24,
+  "prep_min": 15,
+  "cook_min": 26,
+  "difficulty": "easy",
+  "equipment": [
+    "23 x 33 cm metal baking tin, lined with a baking-paper sling",
+    "saucepan",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Blondie",
+      "qty": 210,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Blondie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Blondie",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Blondie",
+      "qty": 300,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Blondie",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled"
+    },
+    {
+      "group": "Blondie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Blondie",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Blondie",
+      "qty": 125,
+      "unit": "g",
+      "item": "crunchy peanut butter"
+    },
+    {
+      "group": "Blondie",
+      "qty": 85,
+      "unit": "g",
+      "item": "milk chocolate chips"
+    },
+    {
+      "group": "Topping",
+      "qty": 35,
+      "unit": "g",
+      "item": "roasted peanuts, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the large tin. Whisk the flour, baking powder and salt in a bowl."
+    },
+    {
+      "title": "Batter",
+      "text": "Whisk the brown sugar with the melted butter, eggs and vanilla until smooth, then whisk in the peanut butter."
+    },
+    {
+      "title": "Fold",
+      "text": "Stir in the flour mixture, then the chocolate chips. Spread evenly in the tin and sprinkle the chopped peanuts over."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 22-26 min, until deep golden and a skewer in the middle shows a few moist crumbs."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool completely in the tin, then cut into 24 bars."
+    }
+  ],
+  "tips": [
+    "Use a standard peanut butter rather than a natural one that separates.",
+    "Unsalted peanuts keep the salt in check.",
+    "Let them cool fully before cutting.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 179,
+    "protein_g": 3.3,
+    "carbs_g": 22.6,
+    "sugar_g": 14.7,
+    "free_sugar_g": 14.0,
+    "fat_g": 8.8,
+    "satfat_g": 3.9,
+    "salt_g": 0.25,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Peanut butter blondie bars with milk chocolate chips and chopped peanuts on top.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

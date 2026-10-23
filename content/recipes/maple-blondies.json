@@ -1,0 +1,134 @@
+{
+  "slug": "maple-blondies",
+  "title": "Maple Blondies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "blondies",
+  "dish_title": "Blondies",
+  "flavour": "Maple",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "chewy-blondies",
+  "changes_from_base": "Maple syrup sweetens a creamed brown sugar batter; no chocolate or nuts.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Soft brown sugar blondies sweetened with pure maple syrup.",
+  "servings": 16,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "23 cm square metal baking tin, lined with a baking-paper sling",
+    "mixing bowls",
+    "electric hand whisk or wooden spoon",
+    "silicone spatula",
+    "cocktail stick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Blondie",
+      "qty": 210,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Blondie",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Blondie",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Blondie",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Blondie",
+      "qty": 160,
+      "unit": "g",
+      "item": "dark brown soft sugar"
+    },
+    {
+      "group": "Blondie",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, at room temperature"
+    },
+    {
+      "group": "Blondie",
+      "qty": 120,
+      "unit": "ml",
+      "item": "pure maple syrup"
+    },
+    {
+      "group": "Blondie",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the 23 cm tin. Whisk the flour, salt and baking powder together."
+    },
+    {
+      "title": "Cream",
+      "text": "Beat the butter and brown sugar into a thick paste, then beat in the egg, maple syrup and vanilla until smooth."
+    },
+    {
+      "title": "Combine",
+      "text": "Stir in the dry ingredients until just combined; the batter is soft."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread in the tin and bake 25-30 min, until the top is golden and a skewer comes out with only a few crumbs."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool fully in the tin and cut into 16."
+    }
+  ],
+  "tips": [
+    "Use pure maple syrup, not pancake syrup.",
+    "Dark, robust maple syrup gives the strongest flavour.",
+    "Do not overbake; they firm up as they cool.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 168,
+    "protein_g": 1.8,
+    "carbs_g": 26.6,
+    "sugar_g": 15.8,
+    "free_sugar_g": 15.8,
+    "fat_g": 6.3,
+    "satfat_g": 3.8,
+    "salt_g": 0.24,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale golden maple blondie squares with a glossy crackled top.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

@@ -50,7 +50,8 @@
       "group": "Curry",
       "qty": 60,
       "unit": "g",
-      "item": "store-bought Thai green curry paste"
+      "item": "store-bought Thai green curry paste",
+      "note": "check the label: most Thai curry pastes contain shrimp paste (crustaceans); choose a shrimp-free paste if you avoid it"
     },
     {
       "group": "Curry",
@@ -115,7 +116,8 @@
   ],
   "storage": "Cool quickly and refrigerate within 1 hour; use within 3 days and reheat only once until piping hot (74°C). This curry also freezes well for up to 3 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
-    "fish"
+    "fish",
+    "crustaceans"
   ],
   "diet": [
     "gluten-free",

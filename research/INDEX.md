@@ -70,6 +70,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | bibingka-coconut-rice-cake-salted-egg | Bibingka | Classic | 2 | 4 |
 | bienenstich-bee-sting-cake-honey-almond | Bienenstich | Classic | 1 | 3 |
 | bircher-muesli-apple-pecans-raspberries | Muesli | Classic | 2 | 4 |
+| birthday-cake-blondies | Blondies | Birthday cake | 1 | 3 |
 | black-and-white-cookies | Black-and-white | Classic | 2 | 4 |
 | black-bean-burger | Veggie/bean burger | Classic | 2 | 6 |
 | black-bean-fried-rice-peppers-coriander-fried-eggs | Gallo pinto | Classic | 2 | 4 |
@@ -91,6 +92,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | breaded-veal-schnitzel-potato-salad | Wiener schnitzel | Classic | 2 | 4 |
 | brookies | Brookies | Classic | 2 | 4 |
 | brown-butter-almond-financiers | Financiers | Classic | 2 | 4 |
+| brown-butter-blondies | Blondies | Brown butter | 1 | 3 |
 | brown-butter-chocolate-chip-cookies | Brown-butter chocolate chip cookie | Classic | 2 | 4 |
 | brown-butter-mashed-potatoes | Mashed | Brown butter | 2 | 4 |
 | brown-sugar-bubble-tea-tapioca-pearls | Milk tea/bubble tea | Classic | 1 | 3 |
@@ -160,6 +162,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chewy-blondies | Blondies | Classic | 2 | 4 |
 | chewy-boiled-new-york-bagels-cream-cheese | Bagels | Classic | 3 | 5 |
 | chewy-chocolate-chip-cookies | Drop (chocolate chip, oatmeal) | Classic | 3 | 5 |
+| chewy-lemon-blondies | Blondies | Lemon | 1 | 3 |
 | chewy-tapioca-cheese-rolls | Pão de queijo | Classic | 4 | 6 |
 | chicago-style-deep-dish-pizza-buttery-crust-chunky-tomato | Chicago deep-dish | Classic | 3 | 5 |
 | chicken-65 | Chicken 65 | Classic | 2 | 5 |
@@ -597,6 +600,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lime-cumin-steak-fajitas-charred-peppers-onions | Fajita | Beef | 3 | 5 |
 | lime-posset-zest | Posset | Lime | 2 | 4 |
 | lo-mein | Lo mein | Classic | 2 | 4 |
+| loaded-chocolate-chip-blondies | Blondies | Chocolate | 1 | 3 |
 | louisiana-style-crayfish-tail-stew-rice | Crawfish étouffée | Classic | 3 | 5 |
 | lyonnaise-potatoes | Lyonnaise potatoes | Classic | 2 | 4 |
 | maamoul-date-filled-semolina-cookies | Maamoul | Classic | 2 | 4 |
@@ -611,6 +615,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mango-lime-sorbet | Sorbet | Classic | 1 | 3 |
 | mango-sticky-rice-toasted-mung-beans | Mango sticky rice | Classic | 2 | 4 |
 | mansaf-lamb-jameed-yoghurt-rice | Mansaf | Classic | 1 | 3 |
+| maple-blondies | Blondies | Maple | 1 | 3 |
 | maple-glazed-carrots-ginger-lemon | Glazed carrots | Maple | 1 | 4 |
 | maple-pecan-granola-clusters | Granola | Maple-pecan | 2 | 4 |
 | maqluba-chicken-aubergine-cauliflower-upside-down-rice | Maqluba | Classic | 1 | 3 |
@@ -744,6 +749,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | peach-nectarine-galette | Galette/crostata | Classic | 2 | 4 |
 | peach-tarte-tatin-amber-glaze | Tarte Tatin | Peach | 1 | 3 |
 | peanut-butter-banana-smoothie-thick | Smoothies | Banana-peanut butter | 2 | 4 |
+| peanut-butter-blondies | Blondies | Peanut butter | 1 | 3 |
 | peanut-butter-cookies | Peanut butter | Classic | 3 | 5 |
 | peanut-butter-fudge-chopped-peanuts | Fudge | Peanut butter | 2 | 4 |
 | peanut-butter-honey-custard-ice-cream | Custard-base (French) | Peanut butter & honey | 1 | 3 |
@@ -814,6 +820,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | provolone-oregano-semolina-focaccia | Focaccia | Provolone | 1 | 3 |
 | provolone-philly-cheesesteaks-melted-provolone-onions | Philly cheesesteak | Provolone | 2 | 4 |
 | puffy-new-orleans-style-beignets | Beignets | Classic | 1 | 3 |
+| pumpkin-cream-cheese-blondies | Blondies | Pumpkin & cream cheese | 1 | 3 |
 | pumpkin-soup-caramelised-onion-sage | Pumpkin soup | Classic | 2 | 4 |
 | pumpkin-swirl-brownies | Brownie (fudgy or cakey) | Pumpkin | 1 | 3 |
 | pumpkin-whoopie-pies | Whoopie pie | Pumpkin | 2 | 4 |
@@ -849,6 +856,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | roast-beef-po-boy-debris-gravy | Po' boy | Roast beef | 1 | 3 |
 | roast-chicken | Whole roast chicken | Classic | 3 | 6 |
 | roasted-apricot-almond-custard-ice-cream | Custard-base (French) | Apricot & almond | 1 | 3 |
+| roasted-banana-blondies | Blondies | Banana | 1 | 3 |
 | roasted-brown-beef-stock-marrow-bones | Beef stock | Classic | 2 | 4 |
 | roasted-brussels-sprouts-charred | Brussels sprouts | Classic | 2 | 4 |
 | roasted-butternut-squash-soup-curry-coconut | Butternut squash | Curried | 3 | 5 |

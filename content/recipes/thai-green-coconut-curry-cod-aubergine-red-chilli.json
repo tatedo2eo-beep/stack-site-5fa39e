@@ -32,7 +32,8 @@
       "group": "Curry",
       "qty": 60,
       "unit": "g",
-      "item": "store-bought Thai green curry paste"
+      "item": "store-bought Thai green curry paste",
+      "note": "check the label: most Thai curry pastes contain shrimp paste (crustaceans); choose a shrimp-free paste if you avoid it"
     },
     {
       "group": "Curry",
@@ -122,7 +123,8 @@
   ],
   "storage": "Best eaten the day it is made. Refrigerate leftovers within 1 hour and eat within 1 day, reheated gently until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
-    "fish"
+    "fish",
+    "crustaceans"
   ],
   "diet": [
     "gluten-free",

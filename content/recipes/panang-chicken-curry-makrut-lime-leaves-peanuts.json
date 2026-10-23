@@ -47,7 +47,8 @@
       "group": "Curry paste",
       "qty": 40,
       "unit": "g",
-      "item": "store-bought panang or red curry paste"
+      "item": "store-bought panang or red curry paste",
+      "note": "check the label: most Thai curry pastes contain shrimp paste (crustaceans); choose a shrimp-free paste if you avoid it"
     },
     {
       "group": "Chicken",
@@ -139,7 +140,8 @@
   "storage": "Cool quickly, refrigerate within 1 hour and use within 3 days. Reheat once until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "peanuts",
-    "fish"
+    "fish",
+    "crustaceans"
   ],
   "diet": [
     "gluten-free",

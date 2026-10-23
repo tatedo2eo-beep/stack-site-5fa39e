@@ -32,7 +32,8 @@
       "group": "Rice",
       "qty": 300,
       "unit": "g",
-      "item": "ripe cabbage kimchi, chopped, plus 60 ml of its juice (check the label: no added alcohol)"
+      "item": "ripe cabbage kimchi, chopped, plus 60 ml of its juice (check the label: no added alcohol)",
+      "note": "check the label: most shop kimchi contains fish sauce and salted shrimp; use vegan kimchi for a fish- and shellfish-free version"
     },
     {
       "group": "Rice",
@@ -136,10 +137,11 @@
     "milk",
     "eggs",
     "sesame",
-    "soya"
+    "soya",
+    "fish",
+    "crustaceans"
   ],
   "diet": [
-    "vegetarian",
     "no-added-sugar"
   ],
   "nutrition_per_serving": {

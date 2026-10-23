@@ -1,0 +1,143 @@
+{
+  "slug": "loaded-chocolate-chip-blondies",
+  "title": "Loaded Chocolate Chip Blondies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "blondies",
+  "dish_title": "Blondies",
+  "flavour": "Chocolate",
+  "flavour_order": 106,
+  "access": "premium",
+  "base_recipe": "chewy-blondies",
+  "changes_from_base": "Packed with semisweet chocolate chips (and optional nuts) in a melted-butter brown sugar batter.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A big tray of brown sugar blondies packed with semisweet chocolate chips and optional nuts.",
+  "servings": 24,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "23 x 33 cm metal baking tin, lined with a baking-paper sling",
+    "saucepan",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Blondie",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Blondie",
+      "qty": 400,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Blondie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Blondie",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Blondie",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Blondie",
+      "qty": 200,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Blondie",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Blondie",
+      "qty": 300,
+      "unit": "g",
+      "item": "semisweet chocolate chips"
+    },
+    {
+      "group": "Blondie",
+      "qty": 100,
+      "unit": "g",
+      "item": "pecans or walnuts, chopped",
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the large tin."
+    },
+    {
+      "title": "Melt",
+      "text": "Melt the butter in a saucepan, add the brown sugar and stir until smooth. Tip into a bowl and leave until lukewarm."
+    },
+    {
+      "title": "Batter",
+      "text": "Beat in the eggs, vanilla and salt, then stir in the flour and baking powder. Fold in the chocolate chips and nuts."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread in the tin and bake 25-30 min, until golden brown and the centre no longer looks wet."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool fully in the tin; cut into 24."
+    }
+  ],
+  "tips": [
+    "Let the butter and sugar cool to lukewarm before adding the eggs.",
+    "Leave out the nuts for a nut-free bar, but check chocolate labels.",
+    "They are done when the middle no longer looks wet.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 224,
+    "protein_g": 2.4,
+    "carbs_g": 31.4,
+    "sugar_g": 23.2,
+    "free_sugar_g": 23.0,
+    "fat_g": 11.1,
+    "satfat_g": 5.1,
+    "salt_g": 0.24,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Thick golden blondie bars packed with chocolate chips and pecans.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

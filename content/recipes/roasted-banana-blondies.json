@@ -1,0 +1,161 @@
+{
+  "slug": "roasted-banana-blondies",
+  "title": "Roasted Banana Blondies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "blondies",
+  "dish_title": "Blondies",
+  "flavour": "Banana",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "chewy-blondies",
+  "changes_from_base": "Roasted mashed banana and warm spices in a creamed batter, with dark chocolate.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Creamed blondies with roasted mashed banana, warm spices and dark chocolate.",
+  "servings": 16,
+  "prep_min": 25,
+  "cook_min": 60,
+  "difficulty": "easy",
+  "equipment": [
+    "23 cm square metal baking tin, lined with a baking-paper sling",
+    "mixing bowls",
+    "electric hand whisk or wooden spoon",
+    "silicone spatula",
+    "cocktail stick or skewer",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Blondie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "just-ripe bananas, unpeeled (about 310 g)"
+    },
+    {
+      "group": "Blondie",
+      "qty": 170,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Blondie",
+      "qty": 210,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Blondie",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Blondie",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, at room temperature"
+    },
+    {
+      "group": "Blondie",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Blondie",
+      "qty": 255,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Blondie",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Blondie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Blondie",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Blondie",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Blondie",
+      "qty": 140,
+      "unit": "g",
+      "item": "dark chocolate (about 60% cocoa), chopped",
+      "note": "100 g for the batter, 40 g for the top"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast",
+      "text": "Heat the oven to 175 °C (155 °C fan). Put the whole unpeeled bananas on a lined tray and roast 15-20 min, until the skins are black and the flesh is soft. Cool, then peel and mash."
+    },
+    {
+      "title": "Cream",
+      "text": "Beat the butter with both sugars until light, then beat in the egg, vanilla and mashed banana."
+    },
+    {
+      "title": "Dry",
+      "text": "Whisk the flour, salt, cinnamon, cloves and nutmeg, then stir them in until no flour shows. Fold in 100 g of the chocolate."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread in the lined tin, scatter the remaining chocolate on top and bake 35-40 min, until golden and a skewer comes out with moist crumbs."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool completely in the tin before cutting into 16."
+    }
+  ],
+  "tips": [
+    "Roasting the bananas concentrates their flavour, so even firm ones work.",
+    "Let the bananas cool before adding them to the butter.",
+    "Cut with a hot knife for neat squares.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 279,
+    "protein_g": 3.0,
+    "carbs_g": 38.6,
+    "sugar_g": 22.8,
+    "free_sugar_g": 21.1,
+    "fat_g": 12.9,
+    "satfat_g": 7.8,
+    "salt_g": 0.21,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden banana blondie squares with melted dark chocolate pieces on top.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}
