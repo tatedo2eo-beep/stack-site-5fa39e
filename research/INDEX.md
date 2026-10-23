@@ -801,6 +801,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | masala-chai-custard-ice-cream | Custard-base (French) | Chai spice | 1 | 3 |
 | mascarpone-philadelphia-ice-cream | Philadelphia (no egg) | Mascarpone | 1 | 3 |
 | mascarpone-yoghurt-sherbet | Sherbet | Mascarpone | 1 | 3 |
+| massaman-chicken-curry-potatoes-toasted-whole-spices | Massaman | Classic | 1 | 3 |
 | matcha-chiffon-cake | Chiffon | Matcha | 2 | 4 |
 | matcha-pancakes-macerated-berries-creme-fraiche | Pancakes (American) | Matcha | 1 | 3 |
 | matzah-ball-soup-chicken-dill | Matzah ball soup | Classic | 2 | 4 |
@@ -1341,6 +1342,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | thai-style-peanut-chicken-salad-ginger-lime | Chicken salad | Peanut | 1 | 3 |
 | thai-thick-coconut-red-curry-beef-lime-leaf-peanuts | Panang curry | Beef | 2 | 4 |
 | thai-yellow-coconut-curry-chicken-potatoes-onion | Thai yellow curry (kaeng kari) | Chicken | 2 | 4 |
+| thai-yellow-coconut-curry-prawns-potatoes-crispy-shallots | Thai yellow curry (kaeng kari) | Classic | 1 | 3 |
 | thick-acai-bowl-banana-berries-granola | Açaí bowl | Classic | 2 | 4 |
 | thick-chocolate-milkshake-whipped-cream | Milkshakes | Classic | 2 | 4 |
 | thin-french-crepes-sugar-lemon | Crêpes | Classic | 2 | 4 |

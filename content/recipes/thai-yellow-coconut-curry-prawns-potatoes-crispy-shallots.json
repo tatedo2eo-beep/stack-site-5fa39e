@@ -1,0 +1,150 @@
+{
+  "slug": "thai-yellow-coconut-curry-prawns-potatoes-crispy-shallots",
+  "title": "Thai Yellow Coconut Curry with Prawns, Potatoes and Crispy Shallots",
+  "category": "fish-seafood",
+  "cuisine": "Thai",
+  "chapter": "curries",
+  "book_chapter": "curries",
+  "dish": "thai-yellow-curry-kaeng-kari",
+  "dish_title": "Thai yellow curry (kaeng kari)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "photo_pending": true,
+  "summary": "Potatoes are parboiled, yellow curry paste is fried in thick coconut milk until the oil separates, then thinned coconut milk, palm sugar, fish sauce, potatoes, cherry tomatoes and prawns are simmered briefly and topped with crispy shallots.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan (about 3 l)",
+    "colander",
+    "small saucepan",
+    "slotted spoon",
+    "plate lined with kitchen paper",
+    "silicone spatula",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Curry",
+      "qty": 450,
+      "unit": "g",
+      "item": "waxy potatoes, cut into 4 cm chunks"
+    },
+    {
+      "group": "Curry",
+      "qty": 400,
+      "unit": "ml",
+      "item": "full-fat coconut milk (1 can, unshaken)"
+    },
+    {
+      "group": "Curry",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Curry",
+      "qty": 60,
+      "unit": "g",
+      "item": "store-bought Thai yellow curry paste",
+      "note": "check the label: most Thai curry pastes contain shrimp paste (crustaceans); choose a shrimp-free paste if you avoid it"
+    },
+    {
+      "group": "Curry",
+      "qty": 10,
+      "unit": "g",
+      "item": "palm sugar or light brown sugar"
+    },
+    {
+      "group": "Curry",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "fish sauce"
+    },
+    {
+      "group": "Curry",
+      "qty": 600,
+      "unit": "g",
+      "item": "large raw prawns, peeled and deveined"
+    },
+    {
+      "group": "Curry",
+      "qty": 100,
+      "unit": "g",
+      "item": "cherry tomatoes, halved"
+    },
+    {
+      "group": "Crispy shallots",
+      "qty": 3,
+      "unit": "pc",
+      "item": "shallots, very thinly sliced",
+      "note": "about 120 g"
+    },
+    {
+      "group": "Crispy shallots",
+      "qty": 100,
+      "unit": "ml",
+      "item": "neutral oil, for frying"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Fry the shallots",
+      "text": "Heat 100 ml oil in a small pan over medium heat and fry the 3 sliced shallots, stirring, until light golden, 6 to 8 min. Lift onto kitchen paper to crisp; keep 1 tbsp of the oil."
+    },
+    {
+      "title": "Parboil the potatoes",
+      "text": "Simmer 450 g potato chunks in unsalted water until just tender, 10 to 12 min, and drain."
+    },
+    {
+      "title": "Fry the paste",
+      "text": "Heat the 1 tbsp shallot oil in a wide pan, add 60 g yellow curry paste and the thick cream from the top of the coconut milk in two or three additions, and fry, stirring, until it darkens and the oil separates, about 5 min."
+    },
+    {
+      "title": "Make the sauce",
+      "text": "Stir in 10 g palm sugar, 2 tsp fish sauce, the rest of the coconut milk and 120 ml water. Add the potatoes and 100 g cherry tomatoes and simmer 5 min."
+    },
+    {
+      "title": "Cook the prawns",
+      "text": "Add 600 g prawns and simmer until pink, opaque and 63 °C, 3 to 4 min."
+    },
+    {
+      "title": "Serve",
+      "text": "Top with the crispy shallots and serve with jasmine rice."
+    }
+  ],
+  "tips": [
+    "Lift the shallots out when light gold; they darken off the heat.",
+    "Do not overcook the prawns or they turn tough.",
+    "Taste before adding more fish sauce; pastes vary.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best eaten fresh. Refrigerate leftovers within 1 hour and eat within 1 day, reheated gently until piping hot. Keep the shallots separate and airtight. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish",
+    "crustaceans"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 503,
+    "protein_g": 36.1,
+    "carbs_g": 33.3,
+    "sugar_g": 7.4,
+    "free_sugar_g": 2.5,
+    "fat_g": 27.2,
+    "satfat_g": 19.5,
+    "salt_g": 2.22,
+    "fibre_g": 4.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Yellow coconut curry with prawns, potatoes and crispy shallots beside jasmine rice.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}
