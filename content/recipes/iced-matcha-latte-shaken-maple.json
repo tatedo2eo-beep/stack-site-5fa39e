@@ -13,7 +13,6 @@
   "base_recipe": "caffe-latte-rosetta-art",
   "changes_from_base": "Matcha shaken with warm water and poured over iced milk instead of espresso and steamed milk.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A cool, grassy iced latte in five minutes: matcha shaken hard with warm water until foamy, then poured over cold milk and ice, with an optional touch of maple.",
   "servings": 1,
   "prep_min": 5,
@@ -97,7 +96,7 @@
     "fibre_g": 0.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "iced-matcha-latte-shaken-maple.jpg",
   "image_alt": "A tall glass of iced milk with a swirl of bright green matcha poured over the top.",
   "inspired_by": [
     "NYT Cooking"

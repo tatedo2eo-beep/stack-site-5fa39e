@@ -13,7 +13,6 @@
   "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
   "changes_from_base": "Four small bases are baked with just olive oil and red onion, then spread with dill soured cream and topped with smoked salmon instead of tomato sauce and mozzarella; the optional caviar in the original is left out.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Thin, crisp bases baked with olive oil and red onion, then spread with cool dill soured cream and topped with smoked salmon.",
   "servings": 4,
   "prep_min": 15,
@@ -140,8 +139,8 @@
     "fibre_g": 2.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Individual thin-crust pizzas topped with creamy dill sauce, squares of smoked salmon and a fresh dill sprig garnish.",
+  "image": "smoked-salmon-pizza-dill-soured-cream-red-onion.jpg",
+  "image_alt": "Two thin-crust pizzas topped with creamy dill sauce, red onion, folds of smoked salmon and fresh dill sprigs.",
   "inspired_by": [
     "NYT Cooking"
   ]

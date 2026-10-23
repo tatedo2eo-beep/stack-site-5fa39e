@@ -10,7 +10,6 @@
   "flavour": "Classic",
   "flavour_order": 0,
   "access": "free",
-  "photo_pending": true,
   "summary": "A cold, creamy yoghurt drink made savoury with salt and warmed by toasted, crushed cumin seeds.",
   "servings": 4,
   "prep_min": 5,
@@ -102,8 +101,8 @@
     "fibre_g": 0.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A tall glass of pale pink, frothy lassi with whole and crushed cumin seeds sprinkled on top.",
+  "image": "salted-lassi-toasted-cumin.jpg",
+  "image_alt": "A tall glass of white, frothy salted lassi with toasted cumin seeds sprinkled on top.",
   "inspired_by": [
     "NYT Cooking"
   ]

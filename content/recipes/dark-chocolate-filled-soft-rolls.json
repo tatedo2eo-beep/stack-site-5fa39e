@@ -13,7 +13,6 @@
   "base_recipe": "soft-pull-apart-milk-dinner-rolls",
   "changes_from_base": "Part wholemeal dough with milk powder and potato flakes, each roll folded around two sticks of dark chocolate.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Pillowy sweet rolls folded around two sticks of dark chocolate and dusted with icing sugar.",
   "servings": 12,
   "prep_min": 40,
@@ -166,8 +165,8 @@
     "fibre_g": 3.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Soft golden rolls dusted with icing sugar, one torn open to show two lines of melted dark chocolate.",
+  "image": "dark-chocolate-filled-soft-rolls.jpg",
+  "image_alt": "Four soft golden rolls dusted with icing sugar, one cut open to show two lines of melted dark chocolate.",
   "inspired_by": [
     "King Arthur Baking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
   "changes_from_base": "The flavours of a warm spinach and artichoke dip, cream cheese, soured cream, garlic, herbs and parmesan, are spread over two par-baked bases and covered with mozzarella in place of the tomato sauce.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Two pizzas that taste just like the famous spinach and artichoke dip, with a creamy herbed filling and melted mozzarella bubbling on top.",
   "servings": 6,
   "prep_min": 25,
@@ -165,7 +164,7 @@
     "fibre_g": 4.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "spinach-artichoke-dip-pizza.jpg",
   "image_alt": "A round pizza with a golden crust, topped with a creamy pale filling dotted with green spinach and artichoke pieces, and melted mozzarella cheese.",
   "inspired_by": [
     "King Arthur Baking"

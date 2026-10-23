@@ -13,7 +13,6 @@
   "base_recipe": "soft-pull-apart-milk-dinner-rolls",
   "changes_from_base": "Mashed sweet potato and buttermilk enrich a 15-roll dough baked in a rectangular tin.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Soft, orange-tinged pull-apart rolls made with mashed sweet potato and tangy buttermilk.",
   "servings": 15,
   "prep_min": 35,
@@ -140,8 +139,8 @@
     "fibre_g": 1.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A tin of fifteen golden-orange pull-apart rolls with buttery tops.",
+  "image": "sweet-potato-buttermilk-pull-apart-rolls.jpg",
+  "image_alt": "A square tin of golden-orange pull-apart rolls with buttery tops.",
   "inspired_by": [
     "NYT Cooking"
   ]

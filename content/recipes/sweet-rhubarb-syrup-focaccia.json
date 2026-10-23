@@ -13,7 +13,6 @@
   "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
   "changes_from_base": "Sweet version: sugared rhubarb slices on top, brushed with their own reduced syrup and demerara instead of salt.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A sweet focaccia topped with sugared rhubarb slices, glazed with their own pink syrup and crunchy demerara.",
   "servings": 12,
   "prep_min": 30,
@@ -143,8 +142,8 @@
     "fibre_g": 1.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Golden focaccia topped with glossy pink rhubarb slices and sparkling demerara sugar.",
+  "image": "sweet-rhubarb-syrup-focaccia.jpg",
+  "image_alt": "Golden focaccia topped with rows of pink rhubarb pieces and sparkling demerara sugar.",
   "inspired_by": [
     "NYT Cooking"
   ]

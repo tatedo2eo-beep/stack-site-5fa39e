@@ -10,7 +10,6 @@
   "flavour": "Blue cheese & chive",
   "flavour_order": 1,
   "access": "premium",
-  "photo_pending": true,
   "summary": "Tall, crisp-shelled popovers studded with blue cheese and chives, hollow and airy inside, served warm with a blue cheese butter.",
   "servings": 6,
   "prep_min": 15,
@@ -162,8 +161,8 @@
     "fibre_g": 1.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Tall, golden, crisp popovers flecked with blue cheese and chives, served alongside a pat of blue cheese butter.",
+  "image": "blue-cheese-chive-popovers-blue-cheese-butter.jpg",
+  "image_alt": "Three tall, golden, crisp popovers topped with blue cheese and chives, with a round of blue cheese butter beside them.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

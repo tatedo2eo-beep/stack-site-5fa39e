@@ -13,7 +13,6 @@
   "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
   "changes_from_base": "A thin layer of basil pesto replaces the tomato sauce, and a mix of mozzarella, parmesan and fontina is scattered over in place of plain mozzarella.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Three distinct cheeses with subtly different melting points create a complex, deeply satisfying topping over vibrant basil pesto.",
   "servings": 2,
   "prep_min": 10,
@@ -129,7 +128,7 @@
     "fibre_g": 3.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "three-cheese-pesto-pizza-fontina-parmesan.jpg",
   "image_alt": "Round pizza with thick raised crust edge, topped with a bubbling layer of three melted cheeses over bright green pesto.",
   "inspired_by": [
     "NYT Cooking"

@@ -13,7 +13,6 @@
   "base_recipe": "iced-black-tea-lemon-mint",
   "changes_from_base": "Black tea mixed with cherry juice and a lime-zest syrup, garnished with cherries and lime instead of lemon and mint.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A sweet-tart iced tea that tastes like a cherry lime soda without the fizz: black tea, cherry juice and a zesty lime syrup, with fresh cherries in the glass.",
   "servings": 8,
   "prep_min": 15,
@@ -124,7 +123,7 @@
     "fibre_g": 0.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "cherry-lime-iced-tea.jpg",
   "image_alt": "Glasses of dark red iced tea with ice, halved cherries and lime slices.",
   "inspired_by": [
     "America's Test Kitchen"

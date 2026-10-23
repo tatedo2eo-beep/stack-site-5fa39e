@@ -13,7 +13,6 @@
   "base_recipe": "soft-pull-apart-milk-dinner-rolls",
   "changes_from_base": "Home-made basil pesto in the dough and coating each ball, finished with mozzarella and hard cheese.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Green-flecked pull-apart rolls rolled in home-made pesto and baked under bubbling mozzarella.",
   "servings": 12,
   "prep_min": 35,
@@ -167,8 +166,8 @@
     "fibre_g": 1.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pull-apart rolls streaked with green pesto under a layer of browned bubbling mozzarella.",
+  "image": "cheesy-basil-pesto-pull-apart-rolls.jpg",
+  "image_alt": "A round dish of pull-apart rolls streaked with green pesto under a layer of browned, bubbling mozzarella and Parmesan.",
   "inspired_by": [
     "King Arthur Baking"
   ]

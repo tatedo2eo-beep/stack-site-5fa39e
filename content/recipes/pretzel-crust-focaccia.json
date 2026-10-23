@@ -13,7 +13,6 @@
   "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
   "changes_from_base": "Overnight starter, a kneaded and smaller dough, then a bicarbonate wash, egg glaze, pretzel salt and melted butter.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A soft, chewy focaccia with the dark, glossy crust and salty bite of a pretzel, thanks to a quick bicarbonate wash.",
   "servings": 12,
   "prep_min": 30,
@@ -172,8 +171,8 @@
     "fibre_g": 0.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Deep brown, glossy pretzel-style focaccia sprinkled with coarse salt, cut into squares.",
+  "image": "pretzel-crust-focaccia.jpg",
+  "image_alt": "Deep brown pretzel-style focaccia sprinkled with coarse white salt, cut into squares in a baking tray.",
   "inspired_by": [
     "King Arthur Baking"
   ]

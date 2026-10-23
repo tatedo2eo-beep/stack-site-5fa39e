@@ -13,7 +13,6 @@
   "base_recipe": "soft-pull-apart-milk-dinner-rolls",
   "changes_from_base": "Butter-rich dough folded into Parker House rolls around a cooked cranberry butter that is also served alongside.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Classic folded Parker House rolls with a sweet-tart cranberry butter tucked inside and served alongside.",
   "servings": 12,
   "prep_min": 45,
@@ -156,8 +155,8 @@
     "fibre_g": 1.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Folded Parker House rolls with golden tops beside a bowl of pink cranberry butter.",
+  "image": "cranberry-butter-parker-house-rolls.jpg",
+  "image_alt": "Four folded Parker House rolls with golden tops on a slate board beside a bowl of pink cranberry butter.",
   "inspired_by": [
     "NYT Cooking"
   ]

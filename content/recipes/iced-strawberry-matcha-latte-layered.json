@@ -13,7 +13,6 @@
   "base_recipe": "caffe-latte-rosetta-art",
   "changes_from_base": "Iced and layered: mashed sweet strawberries, cold milk and a float of whisked matcha in place of espresso and steamed milk.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A summery take on the latte: mashed sweet strawberries at the bottom, cold milk in the middle and a vivid float of whisked matcha on top, which you stir together as you drink.",
   "servings": 2,
   "prep_min": 10,
@@ -108,8 +107,8 @@
     "fibre_g": 2.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Two tall glasses with layers of red mashed strawberries, white milk and bright green matcha over ice, with wide straws.",
+  "image": "iced-strawberry-matcha-latte-layered.jpg",
+  "image_alt": "Two tall glasses with layers of red mashed strawberries, white milk and bright green matcha over ice, with clear straws.",
   "inspired_by": [
     "NYT Cooking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "iced-black-tea-lemon-mint",
   "changes_from_base": "Black tea replaced by a caffeine-free hibiscus infusion steeped with citrus zest, ginger and whole spices and sweetened with honey.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A deep ruby, caffeine-free iced tea: dried hibiscus steeped with citrus peel, ginger and whole spices, sweetened with honey and served very cold.",
   "servings": 6,
   "prep_min": 10,
@@ -133,7 +132,7 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "spiced-hibiscus-iced-tea-orange-ginger.jpg",
   "image_alt": "A glass jug and glasses of deep red hibiscus iced tea over ice, with orange peel and a cinnamon stick.",
   "inspired_by": [
     "America's Test Kitchen"

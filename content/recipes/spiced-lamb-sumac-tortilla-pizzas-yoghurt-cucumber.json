@@ -13,7 +13,6 @@
   "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
   "changes_from_base": "Warm wholemeal tortillas replace the yeast dough, and they are spread with minted cucumber yoghurt, then topped with sumac and cumin spiced lamb, chopped tomato and coriander instead of tomato sauce and mozzarella.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Spiced lamb on warm tortillas offset by creamy yoghurt, cool cucumber and fresh herbs, finished with ripe tomato.",
   "servings": 2,
   "prep_min": 20,
@@ -170,8 +169,8 @@
     "fibre_g": 6.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Warm wholemeal tortillas filled with brown spiced lamb, cool white yoghurt, tomato wedges and fresh green herbs.",
+  "image": "spiced-lamb-sumac-tortilla-pizzas-yoghurt-cucumber.jpg",
+  "image_alt": "Three wholemeal tortilla pizzas topped with spiced lamb mince, deep red sumac, dollops of white yoghurt, cucumber cubes and fresh mint leaves.",
   "inspired_by": [
     "NYT Cooking"
   ]

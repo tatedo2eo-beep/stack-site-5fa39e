@@ -13,7 +13,6 @@
   "base_recipe": "rich-dark-chocolate-hot-chocolate-chocolat-chaud",
   "changes_from_base": "White chocolate and sweet pistachio cream melted into hot milk, topped with a cold milk and cream foam, in place of dark chocolate.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A pale green, nutty hot chocolate: white chocolate and sweet pistachio cream melted into steaming milk and topped with a cool, airy milk foam.",
   "servings": 2,
   "prep_min": 5,
@@ -115,8 +114,8 @@
     "fibre_g": 1.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Two mugs of pale green pistachio hot chocolate topped with white foam and chopped pistachios.",
+  "image": "pistachio-white-hot-chocolate-cold-foam.jpg",
+  "image_alt": "Two small cups of pistachio white hot chocolate topped with white cold foam and chopped pistachios.",
   "inspired_by": [
     "Serious Eats"
   ]

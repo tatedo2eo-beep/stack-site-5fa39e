@@ -13,7 +13,6 @@
   "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
   "changes_from_base": "Overlapping paper-thin lemon slices with black pepper and olive oil bake on a very thin crust in place of tomato sauce and mozzarella, and cool crème fraîche and chives go on after baking; the salmon roe in the original is left out.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Tissue-thin crust topped with translucent lemon slices that caramelise slightly in the oven, finished with cooling crème fraîche and herbaceous chives.",
   "servings": 8,
   "prep_min": 15,
@@ -129,8 +128,8 @@
     "fibre_g": 1.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Thin crispy crust completely covered with overlapping pale lemon slices, topped with creamy dollops of crème fraîche and scattered chives.",
+  "image": "thin-crust-lemon-pizza-black-pepper-creme-fraiche.jpg",
+  "image_alt": "Thin crispy rectangular crust covered with pale lemon slices and black pepper, topped with dollops of crème fraîche and scattered chives.",
   "inspired_by": [
     "NYT Cooking"
   ]

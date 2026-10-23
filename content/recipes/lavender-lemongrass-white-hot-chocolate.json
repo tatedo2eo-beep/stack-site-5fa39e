@@ -13,7 +13,6 @@
   "base_recipe": "rich-dark-chocolate-hot-chocolate-chocolat-chaud",
   "changes_from_base": "Milk infused with lavender, lemongrass and lime, then thickened with white chocolate instead of dark chocolate.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A delicate, floral white hot chocolate: milk steeped with lavender, lemongrass and lime, then strained and melted with white chocolate.",
   "servings": 2,
   "prep_min": 5,
@@ -103,8 +102,8 @@
     "fibre_g": 0.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Two small mugs of creamy white hot chocolate with a sprig of lavender and a lime wedge beside them.",
+  "image": "lavender-lemongrass-white-hot-chocolate.jpg",
+  "image_alt": "Two small cups of creamy white hot chocolate with a sprig of lavender and a lime wedge beside them.",
   "inspired_by": [
     "Serious Eats"
   ]

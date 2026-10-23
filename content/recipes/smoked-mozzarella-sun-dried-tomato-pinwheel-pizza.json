@@ -13,7 +13,6 @@
   "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
   "changes_from_base": "The base is brushed with sun-dried tomato oil and part-baked, then sun-dried tomatoes in a pinwheel and slices of smoked mozzarella replace the tomato sauce and fresh mozzarella.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Par-baked base crowned with a striking spiral of sun-dried tomatoes and soft smoked mozzarella, finished with optional fresh basil.",
   "servings": 4,
   "prep_min": 10,
@@ -116,8 +115,8 @@
     "fibre_g": 5.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Thin-crust pizza with sun-dried tomatoes arranged in a decorative spiral and melted smoked mozzarella layered between them.",
+  "image": "smoked-mozzarella-sun-dried-tomato-pinwheel-pizza.jpg",
+  "image_alt": "Thin-crust pizza with sun-dried tomatoes arranged in a spiral, slices of melted smoked mozzarella between them and a few basil leaves.",
   "inspired_by": [
     "NYT Cooking"
   ]

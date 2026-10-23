@@ -13,7 +13,6 @@
   "base_recipe": "brown-sugar-bubble-tea-tapioca-pearls",
   "changes_from_base": "Blended into a slush with lychees, coconut milk and jasmine tea instead of black tea and milk; the pearls are soaked in a light brown sugar syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A tropical twist on bubble tea: jasmine tea, lychees and coconut milk blended into a frosty slush and poured over chewy pearls soaked in brown sugar syrup.",
   "servings": 2,
   "prep_min": 10,
@@ -137,8 +136,8 @@
     "fibre_g": 0.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Two tall glasses of pale lychee coconut slush over black tapioca pearls, with wide straws.",
+  "image": "lychee-coconut-bubble-tea.jpg",
+  "image_alt": "Two glasses of pale lychee coconut slush over black tapioca pearls, with clear straws.",
   "inspired_by": [
     "NYT Cooking"
   ]

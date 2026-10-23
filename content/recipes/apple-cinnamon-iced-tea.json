@@ -13,7 +13,6 @@
   "base_recipe": "iced-black-tea-lemon-mint",
   "changes_from_base": "Strong black tea cut with apple juice and sweetened with a cinnamon syrup; apple slices instead of lemon and mint.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Strong black iced tea mixed half and half with cloudy apple juice and sweetened with a homemade cinnamon syrup, like apple pie in a glass.",
   "servings": 8,
   "prep_min": 10,
@@ -123,8 +122,8 @@
     "fibre_g": 0.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Tall glasses of amber apple iced tea with ice, thin red apple slices and a cinnamon stick.",
+  "image": "apple-cinnamon-iced-tea.jpg",
+  "image_alt": "Two glasses of amber apple iced tea with ice, red apple slices and a cinnamon stick.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

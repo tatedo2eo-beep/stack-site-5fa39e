@@ -13,7 +13,6 @@
   "base_recipe": "soft-pull-apart-milk-dinner-rolls",
   "changes_from_base": "Muffin-tin rolls made of cinnamon-sugar coated dough pieces layered with diced apple, with a thin icing glaze.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Little pull-apart rolls built from cinnamon-sugar coated dough pieces and juicy diced apple, baked in muffin cases and drizzled with icing.",
   "servings": 16,
   "prep_min": 40,
@@ -195,8 +194,8 @@
     "fibre_g": 1.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Muffin-shaped pull-apart rolls of cinnamon-sugar dough pieces and apple, drizzled with white icing.",
+  "image": "cinnamon-apple-pull-apart-muffin-rolls.jpg",
+  "image_alt": "Four muffin-shaped pull-apart rolls of cinnamon-sugar dough and diced apple, drizzled with white icing.",
   "inspired_by": [
     "King Arthur Baking"
   ]

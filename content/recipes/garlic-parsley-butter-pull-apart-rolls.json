@@ -13,7 +13,6 @@
   "base_recipe": "soft-pull-apart-milk-dinner-rolls",
   "changes_from_base": "Plain-flour dough baked in a rectangular dish, egg-washed, then soaked in garlic and parsley butter.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Soft, golden pull-apart rolls drenched straight from the oven in melted garlic and parsley butter.",
   "servings": 12,
   "prep_min": 30,
@@ -165,8 +164,8 @@
     "fibre_g": 0.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A dish of glossy golden pull-apart rolls brushed with garlic butter and flecked with green parsley.",
+  "image": "garlic-parsley-butter-pull-apart-rolls.jpg",
+  "image_alt": "A square dish of golden pull-apart rolls brushed with garlic butter and flecked with green parsley and flaky salt.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "soft-pull-apart-milk-dinner-rolls",
   "changes_from_base": "Egg-free olive oil dough with potato flakes, milk powder and rosemary, cut into flour-dusted triangles.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Light, egg-free olive oil rolls with rosemary and a soft crumb from potato flakes, cut into flour-dusted triangles.",
   "servings": 16,
   "prep_min": 25,
@@ -145,8 +144,8 @@
     "fibre_g": 0.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Flour-dusted triangular rosemary rolls, pale golden, on a baking tray.",
+  "image": "rosemary-potato-flake-rolls.jpg",
+  "image_alt": "Eight flour-dusted triangular rosemary rolls, pale golden, on a baking tray.",
   "inspired_by": [
     "King Arthur Baking"
   ]

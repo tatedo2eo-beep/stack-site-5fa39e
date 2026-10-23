@@ -13,7 +13,6 @@
   "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
   "changes_from_base": "Topped with squeezed-dry grated potato, thyme and pepper that crisps like a hash brown; no flaky salt.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Focaccia under a crunchy, golden layer of grated potato and thyme, like a hash brown and a bread in one.",
   "servings": 12,
   "prep_min": 30,
@@ -153,8 +152,8 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Focaccia topped with crisp, golden shreds of potato and thyme leaves, cut into squares.",
+  "image": "crispy-grated-potato-focaccia.jpg",
+  "image_alt": "Focaccia topped with crisp, golden shreds of potato and thyme leaves, cut into strips in a baking tray.",
   "inspired_by": [
     "King Arthur Baking"
   ]

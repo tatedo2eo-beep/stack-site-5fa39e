@@ -13,7 +13,6 @@
   "base_recipe": "iced-black-tea-lemon-mint",
   "changes_from_base": "Black tea sweetened with a strained raspberry syrup and sharpened with lime juice, in place of lemon and mint.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Black iced tea turned pink and fruity with a seedless raspberry syrup and a good squeeze of lime.",
   "servings": 4,
   "prep_min": 10,
@@ -128,7 +127,7 @@
     "fibre_g": 3.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "raspberry-lime-iced-tea.jpg",
   "image_alt": "Glasses of pink raspberry iced tea with ice and thin lime slices.",
   "inspired_by": [
     "NYT Cooking"

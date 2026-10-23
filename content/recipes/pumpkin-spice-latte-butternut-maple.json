@@ -13,7 +13,6 @@
   "base_recipe": "caffe-latte-rosetta-art",
   "changes_from_base": "Milk simmered with butternut squash, maple syrup and warm spices, then blended smooth and poured over espresso instead of steamed plain milk; no latte art.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A café latte made the cosy autumn way: instead of plain steamed milk, real butternut squash is simmered in milk with maple and warm spices, blended to a velvety foam and poured over espresso.",
   "servings": 4,
   "prep_min": 10,
@@ -149,8 +148,8 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Two mugs of frothy orange-tinted pumpkin spice latte dusted with cinnamon, with a cinnamon stick and star anise beside them.",
+  "image": "pumpkin-spice-latte-butternut-maple.jpg",
+  "image_alt": "Two mugs of frothy pumpkin spice latte dusted with cinnamon, with a cinnamon stick and star anise beside them.",
   "inspired_by": [
     "Serious Eats"
   ]

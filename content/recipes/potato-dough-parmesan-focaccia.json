@@ -13,7 +13,6 @@
   "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
   "changes_from_base": "Cooked mashed potato in a slightly smaller dough and a grated Parmesan crust instead of flaky salt.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "An extra-soft focaccia made with mashed potato in the dough and baked under a lacy crust of grated cheese.",
   "servings": 12,
   "prep_min": 30,
@@ -139,7 +138,7 @@
     "fibre_g": 1.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "potato-dough-parmesan-focaccia.jpg",
   "image_alt": "A rectangular focaccia with a golden, crisp grated-cheese crust, cut into squares.",
   "inspired_by": [
     "America's Test Kitchen"

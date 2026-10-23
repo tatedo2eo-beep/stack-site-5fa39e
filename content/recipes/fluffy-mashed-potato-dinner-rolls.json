@@ -13,7 +13,6 @@
   "base_recipe": "soft-pull-apart-milk-dinner-rolls",
   "changes_from_base": "Riced potato and its cooking water replace the milk paste; rolls baked separately on a tray.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Featherlight dinner rolls made with mashed potato and its cooking water, baked individually for a golden crust all round.",
   "servings": 12,
   "prep_min": 35,
@@ -141,8 +140,8 @@
     "fibre_g": 1.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Round golden potato dinner rolls with shiny egg-washed tops on a baking tray.",
+  "image": "fluffy-mashed-potato-dinner-rolls.jpg",
+  "image_alt": "Round golden potato dinner rolls with egg-washed tops, baked close together on a baking tray.",
   "inspired_by": [
     "America's Test Kitchen"
   ]
