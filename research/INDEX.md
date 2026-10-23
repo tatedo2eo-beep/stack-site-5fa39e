@@ -87,6 +87,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | buttery-rice-pilaf-toasted-vermicelli-herbs | Steamed/pilaf | Classic | 3 | 5 |
 | buttery-succotash-corn-lima | Succotash | Classic | 2 | 4 |
 | cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
+| caffe-latte-rosetta-art | Latte | Classic | 4 | 6 |
 | caponata-aubergine-celery-capers-olives | Caponata | Classic | 1 | 3 |
 | caramelised-kouign-amann-pastries | Kouign-amann | Classic | 2 | 4 |
 | caramelised-onion-flatbread-anchovies-black-olives-thyme | Pissaladière | Classic | 3 | 5 |
@@ -179,6 +180,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-bechamel-white-sauce | Béchamel | Classic | 2 | 4 |
 | classic-beef-meatloaf | Meatloaf | Classic | 2 | 4 |
 | classic-butter-shortbread | Shortbread | Classic | 2 | 6 |
+| classic-cappuccino-thick-foam | Cappuccino | Classic | 3 | 5 |
 | classic-cheese-quiche | Quiche (cheese) | Classic | 2 | 4 |
 | classic-cheeseburger | Cheeseburger | Classic | 4 | 7 |
 | classic-creamed-spinach | Creamed spinach | Classic | 2 | 4 |
@@ -289,6 +291,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | domed-almond-cream-pithivier | Pithivier | Classic | 0 | 4 |
 | double-chocolate-glazed-cake-doughnuts | Cake doughnut | Chocolate | 1 | 3 |
 | double-crust-apple-pie | Double-crust fruit pie (apple, cherry) | Classic | 3 | 5 |
+| double-espresso-thick-crema | Espresso | Classic | 1 | 3 |
 | double-fried-french-fries | French fries (double-fried) | Classic | 3 | 5 |
 | dried-chilli-harissa-paste | Harissa | Classic | 2 | 4 |
 | dry-spiced-aloo-gobi-cumin-tomato | Aloo gobi | Classic | 3 | 5 |
@@ -301,6 +304,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | egusi-soup-beef-spinach-palm-oil | Egusi soup | Classic | 2 | 4 |
 | ensaladilla-rusa-tuna-peppers | Ensaladilla rusa | Classic | 2 | 4 |
 | escalivada-roasted-peppers-aubergine-onion | Escalivada | Classic | 2 | 4 |
+| espresso-macchiato-foam-dot | Macchiato | Classic | 2 | 4 |
 | ethiopian-berbere-beef-tibs | Tibs | Classic | 2 | 4 |
 | everyday-chicken-curry | Chicken curry | Classic | 3 | 6 |
 | extra-crunchy-buttermilk-onion-rings-horseradish-dip | Onion ring | Classic | 2 | 4 |
@@ -317,6 +321,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | flaky-butter-croissants-laminated | Croissant | Classic | 2 | 4 |
 | flaky-cong-you-bing-chinese-scallion-pancakes | Cong you bing | Classic | 3 | 5 |
 | flaky-layered-buttermilk-biscuits | Biscuit | Classic | 3 | 5 |
+| flat-white-velvet-microfoam | Flat white | Classic | 2 | 4 |
 | florentines | Florentines | Classic | 2 | 4 |
 | flourless-fudgy-brownies | Flourless | Classic | 3 | 5 |
 | fluffy-buttermilk-pancakes-maple-syrup | Pancakes (American) | Classic | 2 | 4 |
@@ -781,6 +786,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spaghetti-puttanesca | Puttanesca | Classic | 2 | 4 |
 | spaghetti-roasted-cherry-tomatoes | Long dried (spaghetti, linguine, bucatini) | Cherry tomato | 2 | 4 |
 | spanakopita-spinach-feta-phyllo-squares | Spanakopita | Classic | 2 | 4 |
+| spanish-cortado-equal-milk | Cortado | Classic | 2 | 4 |
 | speculoos | Speculoos | Classic | 3 | 5 |
 | spiced-beef-shawarma-tahini-flatbread | Shawarma/döner | Classic | 2 | 4 |
 | spiced-chicken-cheddar-jack-quesadillas-pickled-jalapenos | Quesadilla | Chicken | 2 | 4 |

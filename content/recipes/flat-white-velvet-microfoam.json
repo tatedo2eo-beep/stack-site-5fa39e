@@ -1,0 +1,96 @@
+{
+  "slug": "flat-white-velvet-microfoam",
+  "title": "Flat White with Velvety Microfoam",
+  "category": "drinks",
+  "cuisine": "Australian",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "flat-white",
+  "dish_title": "Flat white",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A double espresso in a 160 ml cup with silky, barely aerated steamed milk and a thin microfoam heart on top.",
+  "servings": 1,
+  "prep_min": 3,
+  "cook_min": 3,
+  "difficulty": "medium",
+  "equipment": [
+    "espresso machine with steam wand",
+    "burr grinder",
+    "digital scale",
+    "tamper",
+    "timer",
+    "milk jug (350 ml) with a pointed spout",
+    "thermometer (optional)",
+    "preheated cup (about 160 ml)"
+  ],
+  "ingredients": [
+    {
+      "group": "Espresso",
+      "qty": 18,
+      "unit": "g",
+      "item": "freshly ground espresso coffee (fine)",
+      "note": "makes about 40 ml"
+    },
+    {
+      "group": "Espresso",
+      "qty": 40,
+      "unit": "ml",
+      "item": "double espresso (from the 18 g)"
+    },
+    {
+      "group": "Milk",
+      "qty": 150,
+      "unit": "ml",
+      "item": "cold whole milk",
+      "note": "about 120 ml ends up in the cup"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pull the shot",
+      "text": "Pull a double espresso, 18 g in and about 40 ml out, into the warm cup. The smaller cup keeps the coffee flavour strong."
+    },
+    {
+      "title": "Texture the milk",
+      "text": "Let in air for just 2-3 s, then spin the milk to 60-65 °C. The foam should be thin and silky, about 5 mm deep, with no visible bubbles."
+    },
+    {
+      "title": "Blend",
+      "text": "Pour from high in a thin stream so the milk blends under the crema, until the cup is about two-thirds full."
+    },
+    {
+      "title": "Pour the heart",
+      "text": "Bring the spout close to the surface and let a round white disc spread, then lift slightly and draw the stream through the middle to make a heart."
+    }
+  ],
+  "tips": [
+    "The key mistake is too much foam; a flat white should look flat and glossy, not domed.",
+    "Grind a touch finer than usual for a more concentrated shot.",
+    "Swirl the jug just before pouring to keep the microfoam blended."
+  ],
+  "storage": "Serve immediately. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 79,
+    "protein_g": 4.0,
+    "carbs_g": 6.6,
+    "sugar_g": 6.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 4.1,
+    "satfat_g": 2.3,
+    "salt_g": 0.15,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "flat-white-basic.jpg",
+  "image_alt": "A black cup of flat white with a heart poured in glossy microfoam, on a saucer."
+}

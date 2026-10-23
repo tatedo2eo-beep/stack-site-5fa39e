@@ -1,0 +1,92 @@
+{
+  "slug": "espresso-macchiato-foam-dot",
+  "title": "Espresso Macchiato with a Spoon of Foam",
+  "category": "drinks",
+  "cuisine": "Italian",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "macchiato",
+  "dish_title": "Macchiato",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A double espresso in a demitasse, marked with a spoonful of stiff, sweet milk foam in the centre of the crema.",
+  "servings": 1,
+  "prep_min": 3,
+  "cook_min": 2,
+  "difficulty": "easy",
+  "equipment": [
+    "espresso machine with steam wand",
+    "burr grinder",
+    "digital scale",
+    "tamper",
+    "timer",
+    "small milk jug (350 ml)",
+    "teaspoon",
+    "preheated demitasse cup (about 90 ml)"
+  ],
+  "ingredients": [
+    {
+      "group": "Espresso",
+      "qty": 18,
+      "unit": "g",
+      "item": "freshly ground espresso coffee (fine)",
+      "note": "makes about 40 ml"
+    },
+    {
+      "group": "Espresso",
+      "qty": 40,
+      "unit": "ml",
+      "item": "double espresso (from the 18 g)"
+    },
+    {
+      "group": "Milk",
+      "qty": 100,
+      "unit": "ml",
+      "item": "cold whole milk",
+      "note": "only the foam is used, about 2 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the foam",
+      "text": "Aerate the milk generously, keeping the wand tip high until it roughly doubles, then heat it to 60-65 °C. Tap the jug and leave it for 30 s so the foam rises and firms up."
+    },
+    {
+      "title": "Pull the shot",
+      "text": "Meanwhile, pull a double espresso, 18 g in and about 40 ml out, into the warm demitasse."
+    },
+    {
+      "title": "Mark the crema",
+      "text": "Spoon 1-2 tbsp of the stiff foam onto the centre of the espresso, leaving a ring of brown crema around it. Just a spot of milk is the whole idea."
+    }
+  ],
+  "tips": [
+    "Make the foam stiff, so it sits on the crema rather than sinking.",
+    "A single shot works too, for a smaller, milder drink.",
+    "Use the leftover steamed milk for a second coffee."
+  ],
+  "storage": "Serve immediately. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 13,
+    "protein_g": 0.5,
+    "carbs_g": 1.4,
+    "sugar_g": 0.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.6,
+    "satfat_g": 0.3,
+    "salt_g": 0.03,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "macchiato-basic.jpg",
+  "image_alt": "A black demitasse of espresso with a small dot of white milk foam in the centre, on a saucer."
+}

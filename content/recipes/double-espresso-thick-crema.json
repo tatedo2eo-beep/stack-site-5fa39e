@@ -1,0 +1,91 @@
+{
+  "slug": "double-espresso-thick-crema",
+  "title": "Double Espresso with Thick Crema",
+  "category": "drinks",
+  "cuisine": "Italian",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "espresso",
+  "dish_title": "Espresso",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A double shot pulled at a 1:2 ratio, 18 g of coffee in and about 36 g out in 25-30 seconds, for a balanced, syrupy espresso with thick crema.",
+  "servings": 1,
+  "prep_min": 3,
+  "cook_min": 1,
+  "difficulty": "easy",
+  "equipment": [
+    "espresso machine with steam wand",
+    "burr grinder",
+    "digital scale",
+    "tamper",
+    "timer",
+    "small preheated cup (about 90 ml)"
+  ],
+  "ingredients": [
+    {
+      "group": "Espresso",
+      "qty": 18,
+      "unit": "g",
+      "item": "freshly ground espresso coffee (fine)",
+      "note": "makes about 40 ml"
+    },
+    {
+      "group": "Espresso",
+      "qty": 40,
+      "unit": "ml",
+      "item": "double espresso (from the 18 g)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Warm up",
+      "text": "Run the machine with the portafilter locked in for a few minutes and fill the cup with hot water. A cold portafilter or cup steals heat and makes the shot taste sour."
+    },
+    {
+      "title": "Dose and tamp",
+      "text": "Wipe the basket dry, add the 18 g of fine coffee and tap it level. Tamp firmly and evenly so the water cannot find a weak channel through the coffee."
+    },
+    {
+      "title": "Pull the shot",
+      "text": "Tip the water out of the cup, lock the portafilter in and set the cup on the scale. Start the shot, start the timer at the first drip, and stop at about 36 g (40 ml), after 25-30 s."
+    },
+    {
+      "title": "Adjust the grind",
+      "text": "If it ran in under 20 s and tastes sharp, grind finer next time; if it took over 35 s and tastes bitter, grind coarser. Change one thing at a time."
+    },
+    {
+      "title": "Serve",
+      "text": "Drink it straight away, while the crema is thick and the aroma is at its peak."
+    }
+  ],
+  "tips": [
+    "Use beans roasted within the last month and grind just before brewing.",
+    "A common mistake is uneven tamping, which makes the shot gush; keep the tamper level.",
+    "Weighing the shot is more reliable than judging by volume, because crema bulks it up."
+  ],
+  "storage": "Espresso does not keep; brew it fresh each time. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 4,
+    "protein_g": 0.0,
+    "carbs_g": 0.7,
+    "sugar_g": 0.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "espresso-basic.jpg",
+  "image_alt": "A double espresso with thick hazel crema in a black cup on a saucer with a spoon."
+}

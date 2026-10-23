@@ -1,0 +1,100 @@
+{
+  "slug": "caffe-latte-rosetta-art",
+  "title": "Caffè Latte with Rosetta Latte Art",
+  "category": "drinks",
+  "cuisine": "Italian",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "latte",
+  "dish_title": "Latte",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A double espresso topped with glossy, lightly aerated steamed milk, poured into a wide cup and finished with a free-poured rosetta.",
+  "servings": 1,
+  "prep_min": 3,
+  "cook_min": 3,
+  "difficulty": "medium",
+  "equipment": [
+    "espresso machine with steam wand",
+    "burr grinder",
+    "digital scale",
+    "tamper",
+    "timer",
+    "milk jug (600 ml) with a pointed spout",
+    "thermometer (optional)",
+    "wide preheated cup (about 300 ml)"
+  ],
+  "ingredients": [
+    {
+      "group": "Espresso",
+      "qty": 18,
+      "unit": "g",
+      "item": "freshly ground espresso coffee (fine)",
+      "note": "makes about 40 ml"
+    },
+    {
+      "group": "Espresso",
+      "qty": 40,
+      "unit": "ml",
+      "item": "double espresso (from the 18 g)"
+    },
+    {
+      "group": "Milk",
+      "qty": 240,
+      "unit": "ml",
+      "item": "cold whole milk",
+      "note": "about 200 ml ends up in the cup"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pull the shot",
+      "text": "Pull a double espresso, 18 g in and about 40 ml out, into the wide, warm cup."
+    },
+    {
+      "title": "Stretch the milk",
+      "text": "With the wand tip just below the surface, let air in for only 3-5 s, enough for the milk to grow by about a fifth. A latte needs much less air than a cappuccino."
+    },
+    {
+      "title": "Spin",
+      "text": "Lower the tip and let the milk whirl until it reaches 60-65 °C. It should look like glossy wet paint, with no visible bubbles; tap the jug and swirl to keep it that way."
+    },
+    {
+      "title": "Mix",
+      "text": "Tilt the cup towards you and pour from about 10 cm up in a thin, steady stream into the centre. From this height the milk dives under the crema and blends with the coffee."
+    },
+    {
+      "title": "Pour the rosetta",
+      "text": "When the cup is half full, bring the spout right down to the surface and wiggle it gently side to side while drawing slowly back, so white ripples fan out. Lift a little and pull a thin stream forward through the middle to finish."
+    }
+  ],
+  "tips": [
+    "A common mistake is too much air: the milk turns stiff and will not flow into a pattern. Keep the stretching short.",
+    "Swirl the milk right up to the moment you pour so the foam and milk stay blended.",
+    "Practise the pour with milk and a drop of washing-up liquid in water to save coffee."
+  ],
+  "storage": "Serve immediately. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 129,
+    "protein_g": 6.5,
+    "carbs_g": 10.6,
+    "sugar_g": 10.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 6.8,
+    "satfat_g": 3.9,
+    "salt_g": 0.24,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "latte-basic.jpg",
+  "image_alt": "A wide black cup of caffè latte with a rosetta pattern poured in the foam, on a saucer."
+}

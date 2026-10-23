@@ -1,0 +1,96 @@
+{
+  "slug": "spanish-cortado-equal-milk",
+  "title": "Cortado: Espresso Cut with Warm Milk",
+  "category": "drinks",
+  "cuisine": "Spanish",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "cortado",
+  "dish_title": "Cortado",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A double espresso cut with roughly the same amount of gently steamed milk in a small glass, topped with just a thin line of foam.",
+  "servings": 1,
+  "prep_min": 3,
+  "cook_min": 2,
+  "difficulty": "easy",
+  "equipment": [
+    "espresso machine with steam wand",
+    "burr grinder",
+    "digital scale",
+    "tamper",
+    "timer",
+    "small milk jug (350 ml)",
+    "thermometer (optional)",
+    "small glass tumbler (about 135 ml)"
+  ],
+  "ingredients": [
+    {
+      "group": "Espresso",
+      "qty": 18,
+      "unit": "g",
+      "item": "freshly ground espresso coffee (fine)",
+      "note": "makes about 40 ml"
+    },
+    {
+      "group": "Espresso",
+      "qty": 40,
+      "unit": "ml",
+      "item": "double espresso (from the 18 g)"
+    },
+    {
+      "group": "Milk",
+      "qty": 120,
+      "unit": "ml",
+      "item": "cold whole milk",
+      "note": "steam at least this much; about 45 ml goes in the glass"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pull the shot",
+      "text": "Pull a double espresso, 18 g in and about 40 ml out, directly into the glass tumbler."
+    },
+    {
+      "title": "Steam gently",
+      "text": "Let in air for only 1-2 s, then heat the milk with the tip deep in the jug to 55-60 °C. Slightly cooler milk tastes sweeter, so the small drink can be sipped straight away."
+    },
+    {
+      "title": "Settle",
+      "text": "Tap the jug and swirl until the milk is smooth, with only a thin layer of foam."
+    },
+    {
+      "title": "Cut",
+      "text": "Pour about 45 ml of the milk into the espresso, close to equal parts, letting a thin pale line of foam settle on top."
+    }
+  ],
+  "tips": [
+    "Steam more milk than you need; tiny amounts are hard to texture.",
+    "Use the leftover milk for a second drink or for porridge.",
+    "Serve in a glass so you can see the layers of coffee and milk."
+  ],
+  "storage": "Serve immediately. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 32,
+    "protein_g": 1.5,
+    "carbs_g": 2.9,
+    "sugar_g": 2.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 1.6,
+    "satfat_g": 0.9,
+    "salt_g": 0.06,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "cortado-basic.jpg",
+  "image_alt": "A small clear glass of tan cortado with a thin pale line of foam on top."
+}

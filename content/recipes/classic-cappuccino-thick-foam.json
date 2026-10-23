@@ -1,0 +1,101 @@
+{
+  "slug": "classic-cappuccino-thick-foam",
+  "title": "Classic Cappuccino with a Deep Foam Cap",
+  "category": "drinks",
+  "cuisine": "Italian",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "cappuccino",
+  "dish_title": "Cappuccino",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A double espresso under well-aerated steamed milk, finished with a domed cap of thick white foam, roughly a third each of espresso, milk and foam.",
+  "servings": 1,
+  "prep_min": 3,
+  "cook_min": 3,
+  "difficulty": "medium",
+  "equipment": [
+    "espresso machine with steam wand",
+    "burr grinder",
+    "digital scale",
+    "tamper",
+    "timer",
+    "milk jug (350 ml)",
+    "thermometer (optional)",
+    "preheated cup (about 180 ml)",
+    "spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Espresso",
+      "qty": 18,
+      "unit": "g",
+      "item": "freshly ground espresso coffee (fine)",
+      "note": "makes about 40 ml"
+    },
+    {
+      "group": "Espresso",
+      "qty": 40,
+      "unit": "ml",
+      "item": "double espresso (from the 18 g)"
+    },
+    {
+      "group": "Milk",
+      "qty": 150,
+      "unit": "ml",
+      "item": "cold whole milk",
+      "note": "about 120 ml ends up in the cup"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pull the shot",
+      "text": "Pull a double espresso, 18 g in and about 40 ml out in 25-30 s, straight into the warm cup."
+    },
+    {
+      "title": "Aerate",
+      "text": "Purge the wand, then hold its tip just under the surface of the cold milk and open the steam fully. Keep it high so the milk hisses and swells by about half, stopping once the jug no longer feels cold. Air goes in while the milk is cool, because cold proteins hold foam best."
+    },
+    {
+      "title": "Heat",
+      "text": "Lower the tip slightly and let the milk spin until the jug is too hot to hold for more than a second, 60-65 °C. Hotter milk tastes flat and the foam collapses."
+    },
+    {
+      "title": "Polish",
+      "text": "Tap the jug firmly on the counter and swirl to pop any large bubbles."
+    },
+    {
+      "title": "Pour and top",
+      "text": "Pour the milk into the espresso, then spoon the thick foam over the top in a generous dome. Aim for roughly a third each of espresso, milk and foam."
+    }
+  ],
+  "tips": [
+    "Start with very cold milk straight from the fridge; it gives you more time to build foam.",
+    "Whole milk makes the richest, most stable foam.",
+    "For an oat or soya version, choose a barista-style drink and check the label for allergens."
+  ],
+  "storage": "Serve immediately; foam starts to separate within minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 79,
+    "protein_g": 4.0,
+    "carbs_g": 6.6,
+    "sugar_g": 6.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 4.1,
+    "satfat_g": 2.3,
+    "salt_g": 0.15,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "cappuccino-basic.jpg",
+  "image_alt": "A black cup of cappuccino with a domed cap of plain white foam, on a saucer with a spoon."
+}
