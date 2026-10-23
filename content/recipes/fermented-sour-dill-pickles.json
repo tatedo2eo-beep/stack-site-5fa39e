@@ -1,0 +1,131 @@
+{
+  "slug": "fermented-sour-dill-pickles",
+  "title": "Fermented Sour Dill Pickles",
+  "category": "snacks-sides",
+  "cuisine": "Eastern European",
+  "chapter": "preserves-pickles-ferments",
+  "book_chapter": "preserves-pickles-ferments",
+  "dish": "sour-dill-pickles",
+  "dish_title": "Sour dill pickles",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Small cucumbers fermented in a garlicky dill brine until olive-green, crunchy and pleasantly sour.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "2 litre wide-mouth glass jar, washed in hot soapy water",
+    "baking paper",
+    "1 litre zip-lock bag",
+    "clean tea towel",
+    "rubber band",
+    "shallow tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Pickles",
+      "qty": 12,
+      "unit": "pc",
+      "item": "small pickling cucumbers, 8-10 cm long, firm and fresh",
+      "note": "about 1 kg"
+    },
+    {
+      "group": "Brine",
+      "qty": 1500,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Brine",
+      "qty": 55,
+      "unit": "g",
+      "item": "fine sea salt without iodine"
+    },
+    {
+      "group": "Pickles",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh dill, sprigs and flower heads if you can find them"
+    },
+    {
+      "group": "Pickles",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves, lightly crushed"
+    },
+    {
+      "group": "Pickles",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "dill seeds"
+    },
+    {
+      "group": "Pickles",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "black peppercorns"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the brine",
+      "text": "Bring 500 ml of the water to the boil with the salt and stir until it dissolves. Add the remaining 1 litre cold water and leave the brine to cool completely to room temperature. Hot brine would cook the cucumbers and soften them, so patience here keeps them crisp."
+    },
+    {
+      "title": "Prepare the cucumbers",
+      "text": "Scrub the cucumbers and trim a thin slice from both ends. Soak them in iced water for 30 minutes to firm them up. The blossom end holds enzymes that soften pickles, so removing it is worth the extra minute."
+    },
+    {
+      "title": "Pack the jar",
+      "text": "Put half the dill, garlic, dill seeds and peppercorns in the jar. Pack in the cucumbers upright and as tightly as you can, then tuck the rest of the flavourings on top. A snug pack stops the cucumbers floating up out of the brine."
+    },
+    {
+      "title": "Cover and weigh",
+      "text": "Pour in brine to cover the cucumbers by 2-3 cm, leaving 5 cm of headspace. Press a round of baking paper onto the surface, then half-fill the bag with leftover brine, seal it and set it on top as a weight. Cover with the tea towel, secure with the rubber band and stand the jar on the tray."
+    },
+    {
+      "title": "Ferment slowly",
+      "text": "Leave at 16-21 °C, out of the sun, for 7-14 days, checking daily to skim any film and keep the cucumbers submerged. As fermentation takes hold, the brine turns cloudy and the pickles change from bright to olive-green. Start tasting on day 7."
+    },
+    {
+      "title": "Chill when ready",
+      "text": "Once they are as sour as you like, remove the weight and paper, close the jar and refrigerate. Cold almost stops the fermentation, locking in the flavour."
+    }
+  ],
+  "tips": [
+    "Use the freshest, firmest cucumbers you can find; soft or bendy ones make soft pickles.",
+    "A common mistake is fermenting somewhere too warm, which gives mushy pickles. Keep the jar in the coolest spot in the range.",
+    "Cloudy brine and a little white sediment are normal; pickles that are slimy, very soft or smell rotten should be discarded.",
+    "Use salt without iodine for the clearest flavour and a steady ferment."
+  ],
+  "storage": "Keep the pickles in their brine in a closed jar in the fridge for up to 1 month. They continue to sour slowly as they sit. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 18,
+    "protein_g": 0.8,
+    "carbs_g": 4.3,
+    "sugar_g": 1.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 1.78,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sour-dill-pickles-basic.jpg",
+  "image_alt": "A tall glass jar of small cucumbers with dill and garlic in cloudy brine, two pickles on a plate beside it.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

@@ -12,7 +12,7 @@ Dish: Pain de campagne (levain) / flavour: Classic. Private file, not published.
 ## Own cooking judgment
 - Overnight levain with a touch of wholemeal.
 - Four sets of folds, then a 12-16 h cold retard.
-- Baked in a preheated lidded cast-iron pot to a dark crust and 96-99 °C centre.
+- Baked in a preheated lidded cast-iron pot to a dark crust and a centre of about 96 °C.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

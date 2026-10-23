@@ -129,6 +129,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-almond-biscotti | Biscotti | Classic | 3 | 5 |
 | classic-beef-meatloaf | Meatloaf | Classic | 2 | 4 |
 | classic-butter-shortbread | Shortbread | Classic | 2 | 6 |
+| classic-cheese-quiche | Quiche (cheese) | Classic | 2 | 4 |
 | classic-cheeseburger | Cheeseburger | Classic | 4 | 7 |
 | classic-deviled-eggs-paprika-chives | Deviled eggs | Classic | 3 | 5 |
 | classic-french-toast-cinnamon-sugar-maple | French toast | Classic | 2 | 4 |
@@ -137,12 +138,14 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-mashed-potatoes | Mashed | Classic | 2 | 4 |
 | classic-patty-melt | Patty melt | Classic | 2 | 6 |
 | classic-smash-burger | Smash burger | Cheese | 3 | 7 |
+| classic-strawberry-jam | Strawberry jam | Classic | 2 | 4 |
 | clear-white-chicken-stock-slow-simmered | White/brown chicken | Classic | 2 | 4 |
 | cod-baked-in-parchment-vegetables-lemon-dill | En papillote | Classic | 4 | 6 |
 | cold-somen | Somen | Classic | 3 | 5 |
 | colombian-arepas-de-queso-cheese-filled-corn-cakes | Arepa | Cheese | 2 | 4 |
 | cool-yoghurt-rice-mustard-seeds-curry-leaves-pomegranate | Curd rice | Classic | 2 | 4 |
 | corn-egg-drop-soup-chicken | Egg drop soup | Corn egg drop | 3 | 5 |
+| cornish-beef-pasty | Cornish pasty | Classic | 2 | 4 |
 | coronation-chicken | Coronation chicken | Classic | 2 | 5 |
 | cracker-thin-pizza-three-cheese-blend-sweet-oregano-sauce | St. Louis-style pizza | Classic | 2 | 4 |
 | creamy-cashew-yoghurt-chicken-curry-cardamom | Korma | Chicken | 3 | 5 |
@@ -204,6 +207,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | everyday-chicken-curry | Chicken curry | Classic | 3 | 6 |
 | extra-crunchy-buttermilk-onion-rings-horseradish-dip | Onion ring | Classic | 2 | 4 |
 | falafel-wrap | Falafel pita | Classic | 2 | 4 |
+| fermented-sour-dill-pickles | Sour dill pickles | Classic | 2 | 4 |
 | fesenjan | Fesenjan | Classic | 2 | 4 |
 | fettuccine-alfredo | Alfredo (Roman original) | Classic | 3 | 5 |
 | filipino-oxtail-peanut-stew | Kare-kare | Classic | 2 | 4 |
@@ -274,6 +278,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | high-heat-roast-chicken | High-heat roast chicken | Classic | 3 | 5 |
 | home-fries-peppers-onions | Home fries | Peppers and onions | 2 | 4 |
 | homemade-chocolate-milk-cocoa-syrup | Chocolate milk | Classic | 2 | 4 |
+| homemade-sauerkraut | Sauerkraut | Classic | 2 | 4 |
 | honey-maple-nut-granola-raisins | Granola | Classic | 2 | 4 |
 | honey-whole-wheat-sandwich-loaf | Whole wheat | Classic | 2 | 4 |
 | horseradish-mashed-potatoes | Mashed | Horseradish | 3 | 5 |
@@ -347,6 +352,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | miso-soup-tofu-wakame | Miso | Classic | 2 | 4 |
 | mixed-berry-banana-yoghurt-smoothie-orange | Smoothies | Classic | 2 | 4 |
 | molten-chocolate-cakes | Molten chocolate | Classic | 3 | 5 |
+| moroccan-chicken-pastilla-almonds-cinnamon | Pastilla | Classic | 2 | 4 |
 | moroccan-gunpowder-green-mint-tea | Moroccan mint | Classic | 2 | 4 |
 | muhammara-roasted-red-pepper-walnut-pomegranate | Muhammara | Classic | 3 | 5 |
 | mulligatawny-chicken-red-lentil-coconut | Mulligatawny | Classic | 3 | 5 |
@@ -356,6 +362,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | naengmyeon | Naengmyeon | Classic | 2 | 4 |
 | nan-e-barbari-sesame-ridged-flatbread | Barbari bread | Classic | 2 | 4 |
 | nanaimo-bars | Nanaimo bar | Classic | 3 | 5 |
+| napa-cabbage-kimchi | Kimchi | Classic | 2 | 4 |
 | nashville-hot-chicken | Nashville hot chicken | Classic | 2 | 5 |
 | neapolitan-style-margherita-pizza-tomato-mozzarella-basil | Neapolitan | Classic | 5 | 7 |
 | new-england-lobster-rolls-buttered-toasted-buns | Lobster roll | Classic | 2 | 4 |
@@ -476,6 +483,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | saffron-layered-chicken-biryani-golden-onions-eggs | Biryani | Classic | 2 | 4 |
 | saffron-layered-lamb-biryani-golden-onions-mint | Biryani | Lamb | 2 | 4 |
 | salade-nicoise-tuna-eggs-potatoes | Niçoise | Classic | 2 | 4 |
+| salt-preserved-lemons | Preserved lemon | Classic | 2 | 4 |
 | samgyetang | Samgyetang | Classic | 2 | 4 |
 | savoury-cabbage-pancakes-spring-onion-tangy-sauce-mayo | Okonomiyaki (Japanese "pizza" – debatable) | Classic | 3 | 5 |
 | scotch-broth-lamb-barley-kale | Scotch broth | Classic | 2 | 4 |
@@ -531,6 +539,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spaghetti-and-meatballs | Spaghetti with meatballs | Classic | 2 | 4 |
 | spaghetti-puttanesca | Puttanesca | Classic | 2 | 4 |
 | spaghetti-roasted-cherry-tomatoes | Long dried (spaghetti, linguine, bucatini) | Cherry tomato | 2 | 4 |
+| spanakopita-spinach-feta-phyllo-squares | Spanakopita | Classic | 2 | 4 |
 | speculoos | Speculoos | Classic | 3 | 5 |
 | spiced-beef-shawarma-tahini-flatbread | Shawarma/döner | Classic | 2 | 4 |
 | spiced-chicken-cheddar-jack-quesadillas-pickled-jalapenos | Quesadilla | Chicken | 2 | 4 |

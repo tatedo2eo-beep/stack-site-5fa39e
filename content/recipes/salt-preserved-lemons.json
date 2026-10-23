@@ -1,0 +1,100 @@
+{
+  "slug": "salt-preserved-lemons",
+  "title": "Salt-Preserved Lemons",
+  "category": "snacks-sides",
+  "cuisine": "Moroccan",
+  "chapter": "preserves-pickles-ferments",
+  "book_chapter": "preserves-pickles-ferments",
+  "dish": "preserved-lemon",
+  "dish_title": "Preserved lemon",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Lemons cut into joined quarters, packed with salt and covered in lemon juice, then cured in the fridge until the rind is soft, glossy and fragrant.",
+  "servings": 24,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "sharp knife",
+    "medium bowl",
+    "1 litre glass jar with tight lid, washed in hot soapy water and dried",
+    "small spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Lemons",
+      "qty": 6,
+      "unit": "pc",
+      "item": "unwaxed lemons, scrubbed and dried, to preserve",
+      "note": "about 700 g"
+    },
+    {
+      "group": "Lemons",
+      "qty": 120,
+      "unit": "g",
+      "item": "coarse sea salt"
+    },
+    {
+      "group": "Lemons",
+      "qty": 300,
+      "unit": "ml",
+      "item": "fresh lemon juice (from 6-8 lemons), plus more if needed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cut the lemons",
+      "text": "Trim the tips from the lemons, then cut each one lengthwise into quarters, stopping 2 cm from the base so the pieces stay joined. Keeping them whole at the base makes them easy to fill and pack."
+    },
+    {
+      "title": "Pack with salt",
+      "text": "Working over the bowl, open each lemon and pack about 1 1/2 tbsp salt inside. Rub the cut faces together, then press the lemon into the jar. Add any salt and juice left in the bowl, as that juice is already the start of your brine."
+    },
+    {
+      "title": "Cover with juice",
+      "text": "Pour in lemon juice until the lemons are completely submerged, pressing them down as you go and topping up with more juice if needed. Close the jar tightly and give it a good shake. Anything left above the liquid can discolour, so full cover matters."
+    },
+    {
+      "title": "Cure in the fridge",
+      "text": "Refrigerate the jar, shaking or turning it once a day for the first week and then every few days, for 3-6 weeks. The lemons are ready when the rind is soft and glossy. Slowly, the salt and acid soften the peel and mellow its bitterness."
+    },
+    {
+      "title": "Rinse and use",
+      "text": "Lift out a piece with a clean fork and rinse it under cold water. Scrape away the pulp and pith if you like, then slice or chop the rind. A little goes a long way, so start with a small amount."
+    }
+  ],
+  "tips": [
+    "Scrub the lemons very well, since you will eat the rind.",
+    "A common mistake is letting the lemons sit above the juice. Press them down and top up with more juice to keep them covered.",
+    "Always rinse preserved lemon before using and season the dish afterwards, as the rind carries plenty of salt.",
+    "Thin-skinned lemons cure faster and become more tender."
+  ],
+  "storage": "Keep the jar in the fridge, with the lemons covered in juice, for up to 6 months. Always use a clean fork to take pieces out. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 9,
+    "protein_g": 0.3,
+    "carbs_g": 2.9,
+    "sugar_g": 0.8,
+    "free_sugar_g": 0.1,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.73,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "preserved-lemon-basic.jpg",
+  "image_alt": "A glass jar packed with quartered preserved lemons in brine, two quarters on a small plate in front.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Food Network Kitchen"
+  ]
+}

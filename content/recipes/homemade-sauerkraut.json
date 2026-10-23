@@ -1,0 +1,120 @@
+{
+  "slug": "homemade-sauerkraut",
+  "title": "Homemade Sauerkraut",
+  "category": "snacks-sides",
+  "cuisine": "German",
+  "chapter": "preserves-pickles-ferments",
+  "book_chapter": "preserves-pickles-ferments",
+  "dish": "sauerkraut",
+  "dish_title": "Sauerkraut",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Finely shredded cabbage kneaded with 2% salt and left to ferment in its own brine until pale, translucent and pleasantly sour.",
+  "servings": 24,
+  "prep_min": 30,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "kitchen scale",
+    "sharp knife or mandoline",
+    "very large bowl",
+    "2 litre wide-mouth glass jar",
+    "baking paper",
+    "1 litre zip-lock bag",
+    "clean tea towel",
+    "rubber band",
+    "shallow tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Cabbage",
+      "qty": 1,
+      "unit": "pc",
+      "item": "firm green cabbage, about 1.4 kg, 2 outer leaves kept"
+    },
+    {
+      "group": "Cabbage",
+      "qty": 28,
+      "unit": "g",
+      "item": "fine sea salt without iodine (2% of the cabbage weight)"
+    },
+    {
+      "group": "Cabbage",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "caraway seeds (optional)"
+    },
+    {
+      "group": "Weight",
+      "qty": 250,
+      "unit": "ml",
+      "item": "water, for a brine bag"
+    },
+    {
+      "group": "Weight",
+      "qty": 5,
+      "unit": "g",
+      "item": "fine salt, for the brine bag"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Shred and weigh",
+      "text": "Quarter and core the cabbage, setting 2 outer leaves aside, and shred it finely, about 3 mm thick. Weigh the shredded cabbage and use 2% of that weight in salt; 28 g suits 1.4 kg. Measuring salt by weight keeps the ferment safe and consistent, because too little invites spoilage and too much stalls the bacteria."
+    },
+    {
+      "title": "Knead out the brine",
+      "text": "Toss the cabbage with the salt and caraway, then squeeze and knead firmly for 5-10 minutes until it is wet and a pool of brine forms in the bowl. If it still looks dry, rest it for 20 minutes and knead again. The salt pulls water from the cabbage, creating the brine it will ferment in."
+    },
+    {
+      "title": "Pack it tightly",
+      "text": "Press the cabbage and every drop of its juice into the clean jar a handful at a time, pushing down hard until the brine rises above it. Lay the outer leaves and then a round of baking paper on top. Packing out the air keeps oxygen away, which is what spoilage organisms need."
+    },
+    {
+      "title": "Add the weight",
+      "text": "Dissolve 5 g salt in the 250 ml water, seal it in the bag and set it on top of the paper to hold the cabbage under the brine. Cover the jar with the tea towel, secure it with the rubber band and stand it on the tray. Using brine in the bag means nothing is diluted if it leaks."
+    },
+    {
+      "title": "Ferment and check",
+      "text": "Leave at 18-21 °C, out of the sun, for 1-3 weeks. Every day or two, press down so everything stays submerged and skim off any film from the surface. Begin tasting on day 7; it is ready when pale, translucent and pleasantly sour."
+    },
+    {
+      "title": "Chill to store",
+      "text": "Remove the bag, leaves and paper, close the jar and refrigerate. The cold slows fermentation so the sauerkraut holds its flavour and crunch."
+    }
+  ],
+  "tips": [
+    "Choose a dense, heavy cabbage; fresh cabbage releases more juice.",
+    "The most common mistake is letting cabbage poke above the brine, where it can spoil. Check often and press it back under.",
+    "A thin white film on the surface is usually harmless and can be skimmed; anything fuzzy, coloured or foul-smelling means the batch should be discarded.",
+    "Warmer rooms ferment faster but can soften the cabbage, so aim for the cool end of the range."
+  ],
+  "storage": "Keep in a closed jar in the fridge for up to 2 months, with the cabbage under its juices. The flavour keeps maturing slowly. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 15,
+    "protein_g": 0.8,
+    "carbs_g": 3.4,
+    "sugar_g": 1.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 1.16,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sauerkraut-basic.jpg",
+  "image_alt": "Pale golden shredded sauerkraut in a dark bowl, with a small glass jar of more behind it.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

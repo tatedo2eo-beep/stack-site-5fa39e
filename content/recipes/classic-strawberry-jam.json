@@ -1,0 +1,104 @@
+{
+  "slug": "classic-strawberry-jam",
+  "title": "Strawberry Jam",
+  "category": "snacks-sides",
+  "cuisine": "British",
+  "chapter": "preserves-pickles-ferments",
+  "book_chapter": "preserves-pickles-ferments",
+  "dish": "strawberry-jam",
+  "dish_title": "Strawberry jam",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Ripe strawberries boiled with sugar, grated apple and lemon juice until glossy and set, a bright fridge jam with plenty of fruit.",
+  "servings": 48,
+  "prep_min": 20,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "2 small plates",
+    "large heavy pot (at least 6 litres)",
+    "potato masher",
+    "wooden spoon or heatproof spatula",
+    "instant-read thermometer",
+    "metal spoon",
+    "clean jars with lids"
+  ],
+  "ingredients": [
+    {
+      "group": "Jam",
+      "qty": 1400,
+      "unit": "g",
+      "item": "ripe strawberries, hulled and cut into 1 cm pieces"
+    },
+    {
+      "group": "Jam",
+      "qty": 600,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Jam",
+      "qty": 1,
+      "unit": "pc",
+      "item": "tart green apple, peeled and coarsely grated",
+      "note": "about 180 g; adds natural pectin"
+    },
+    {
+      "group": "Jam",
+      "qty": 30,
+      "unit": "ml",
+      "item": "fresh lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Get ready",
+      "text": "Put the 2 small plates in the freezer for testing later. Mash the strawberries in the pot until mostly broken down, then stir in the sugar, grated apple and lemon juice. The apple adds natural pectin and the lemon juice adds acid, and both help the jam set."
+    },
+    {
+      "title": "Boil hard",
+      "text": "Bring to the boil over medium-high heat, stirring until the sugar has dissolved. Keep it at a hard boil for 20-25 minutes, stirring often and lowering the heat if it froths up, until thick and the jam reads 104-105 °C. At this temperature enough water has boiled off for the pectin and sugar to form a gel."
+    },
+    {
+      "title": "Test the set",
+      "text": "Take the pot off the heat, put 1 tsp jam on a cold plate and freeze it for 2 minutes. Drag a finger through it: if it leaves a clear trail, the jam is set. If not, boil for 1-3 minutes more and test again, then skim off any foam."
+    },
+    {
+      "title": "Cool and jar",
+      "text": "Leave the jam to cool in the pot for about 2 hours, then spoon it into clean jars, cover and refrigerate. It firms up within 24 hours as the pectin finishes setting."
+    }
+  ],
+  "tips": [
+    "Use a large pot; the jam foams up to several times its volume at the start.",
+    "A common mistake is overcooking, which gives a stiff, dull jam. Start testing as soon as it reaches 104 °C.",
+    "Slightly underripe berries mixed with ripe ones give a better set and a brighter flavour.",
+    "Stir right to the bottom of the pot, as the thickening jam can catch and scorch."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 months. This is a fridge jam, so it is not suitable for storing at room temperature. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 60,
+    "protein_g": 0.2,
+    "carbs_g": 15.3,
+    "sugar_g": 14.3,
+    "free_sugar_g": 12.5,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.0,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "strawberry-jam-basic.jpg",
+  "image_alt": "A glass jar of glossy red strawberry jam on a dark plate with a spoonful and two fresh strawberries.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}
