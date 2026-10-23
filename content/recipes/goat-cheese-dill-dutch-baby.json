@@ -1,0 +1,172 @@
+{
+  "slug": "goat-cheese-dill-dutch-baby",
+  "title": "Goat Cheese and Dill Dutch Baby with Watercress",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "dutch-baby",
+  "dish_title": "Dutch baby",
+  "flavour": "Goat cheese & dill",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "dutch-baby-pancake-berries-lemon",
+  "changes_from_base": "Savoury: dill goes into the batter, lemon-zested goat cheese marinated with olive oil and dill is spooned into the centre before baking, and the top is piled with watercress, more cheese, honey and olive oil.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A herb-infused Dutch pancake topped with pockets of creamy marinated goat cheese, fresh greens and a honey drizzle.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 22,
+  "difficulty": "medium",
+  "equipment": [
+    "30 cm cast-iron or ovenproof frying pan",
+    "oven gloves",
+    "large bowl",
+    "whisk",
+    "wire rack",
+    "small bowl",
+    "medium bowl",
+    "zester"
+  ],
+  "ingredients": [
+    {
+      "group": "Marinated goat cheese",
+      "qty": 148,
+      "unit": "g",
+      "item": "soft goats' cheese, crumbled"
+    },
+    {
+      "group": "Marinated goat cheese",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh dill, chopped, plus a few fronds to serve"
+    },
+    {
+      "group": "Marinated goat cheese",
+      "qty": 30,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Marinated goat cheese",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon"
+    },
+    {
+      "group": "Marinated goat cheese",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 135,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Batter",
+      "qty": 8,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 190,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 57,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "To finish",
+      "qty": 60,
+      "unit": "g",
+      "item": "watercress (or baby spinach or rocket)"
+    },
+    {
+      "group": "To finish",
+      "qty": 21,
+      "unit": "g",
+      "item": "runny honey",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Marinate Cheese",
+      "text": "Mix 148 g crumbled soft goat cheese, 7.5 g chopped fresh dill (half the total) and 1 tbsp oil in a small bowl; zest 1 lemon over, add ⅛ tsp fine salt and a grind of pepper and set aside."
+    },
+    {
+      "title": "Heat Pan",
+      "text": "Preheat a 30 cm cast-iron or ovenproof frying pan on the lower-third shelf of a 220 °C (200 °C fan) oven."
+    },
+    {
+      "title": "Prepare Batter",
+      "text": "Whisk 135 g plain flour, ¼ tsp fine salt, ¼ tsp ground black pepper and the remaining 7.5 g chopped dill together in a large bowl."
+    },
+    {
+      "title": "Add Eggs",
+      "text": "Whisk 8 large eggs and 190 ml whole milk together in a separate medium bowl, then stir this into the flour mixture just until combined."
+    },
+    {
+      "title": "Brown Butter",
+      "text": "Melt 57 g unsalted butter in the hot pan over medium-high heat for about 5 minutes until nutty and brown, swirling to coat the base and sides; pour in the batter, spoon half the marinated goat cheese into the centre and bake 20-22 minutes until puffed and golden."
+    },
+    {
+      "title": "Finish",
+      "text": "Cool in the pan 5-6 minutes, then top with 60 g watercress (or baby spinach or rocket), the remaining cheese, dill fronds, a drizzle of 1 tbsp oil and 1 tbsp runny honey; serve with lemon wedges squeezed over the greens."
+    }
+  ],
+  "tips": [
+    "Marinate the goat cheese ahead of time to allow flavours to develop fully",
+    "Ensure the butter is nutty and brown for a richer, more complex flavour",
+    "Add the fresh greens just before serving so they stay crisp and bright"
+  ],
+  "storage": "Serve warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 385,
+    "protein_g": 16.7,
+    "carbs_g": 22.9,
+    "sugar_g": 5.2,
+    "free_sugar_g": 2.9,
+    "fat_g": 25.2,
+    "satfat_g": 11.8,
+    "salt_g": 0.94,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A golden puffed pancake topped with creamy goat cheese, bright watercress leaves and a honey drizzle.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

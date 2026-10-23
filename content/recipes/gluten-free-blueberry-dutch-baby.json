@@ -1,0 +1,147 @@
+{
+  "slug": "gluten-free-blueberry-dutch-baby",
+  "title": "Gluten-Free Blueberry Dutch Baby",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "dutch-baby",
+  "dish_title": "Dutch baby",
+  "flavour": "Blueberry",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "dutch-baby-pancake-berries-lemon",
+  "changes_from_base": "Gluten-free: sweet rice flour replaces wheat flour in a blender batter with lemon zest and vanilla; blueberries are scattered over before baking so they burst in the puff.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A gluten-free pancake that puffs dramatically in the oven, studded with juicy blueberries and dusted with icing sugar.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "30 cm cast-iron or ovenproof frying pan",
+    "oven gloves",
+    "large bowl",
+    "whisk",
+    "wire rack",
+    "blender"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 80,
+      "unit": "g",
+      "item": "sweet (glutinous) rice flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "For the pan",
+      "qty": 42,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "For the pan",
+      "qty": 140,
+      "unit": "g",
+      "item": "blueberries"
+    },
+    {
+      "group": "For the pan",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar, for dusting",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat Pan",
+      "text": "Preheat a 30 cm cast-iron or ovenproof frying pan on the lower-middle shelf as the oven preheats to 220 °C (200 °C fan)."
+    },
+    {
+      "title": "Blend Batter",
+      "text": "Blend 4 large eggs, 240 ml whole milk, 80 g sweet rice flour, 25 g caster sugar, 1 tsp vanilla, 1 tsp finely grated lemon zest and ½ tsp fine salt for about 30 seconds until very smooth."
+    },
+    {
+      "title": "Butter Pan",
+      "text": "Using oven gloves, move the hot pan to a wire rack, add 42 g unsalted butter in 3 pieces and swirl until melted and the base is coated; quickly pour in the batter and scatter 140 g blueberries over."
+    },
+    {
+      "title": "Bake",
+      "text": "Return to the oven and bake 17-20 minutes until puffed, deep golden and the berries burst."
+    },
+    {
+      "title": "Dust",
+      "text": "Dust lightly with 1 tbsp icing sugar and serve straight away, as it sinks quickly once cooled."
+    }
+  ],
+  "tips": [
+    "Blend the batter thoroughly until completely smooth for even, impressive rising",
+    "Have all equipment ready before blending as the batter must go into the hot pan immediately",
+    "Keep oven gloves on the hot pan handle throughout cooking for safety"
+  ],
+  "storage": "Serve immediately whilst puffed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 314,
+    "protein_g": 9.9,
+    "carbs_g": 33.2,
+    "sugar_g": 15.2,
+    "free_sugar_g": 8.4,
+    "fat_g": 15.5,
+    "satfat_g": 8.1,
+    "salt_g": 0.98,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A puffed golden pancake studded with burst blueberries and dusted with icing sugar.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

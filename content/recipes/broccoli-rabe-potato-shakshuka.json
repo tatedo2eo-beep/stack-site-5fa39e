@@ -1,0 +1,174 @@
+{
+  "slug": "broccoli-rabe-potato-shakshuka",
+  "title": "Broccoli Rabe and Potato Shakshuka",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "shakshuka",
+  "dish_title": "Shakshuka",
+  "flavour": "Broccoli",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "shakshuka",
+  "changes_from_base": "Tomato-free: a base of green peppers, jalapeños, potatoes simmered in stock and wilted broccoli rabe; the eggs are finished under a hot grill and dusted with Parmesan.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A grilled vegetable base of potatoes, broccoli and peppers crowned with baked eggs finished under a hot grill.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "30-35 cm cast-iron frying pan",
+    "wooden spoon",
+    "soup spoon",
+    "oven gloves"
+  ],
+  "ingredients": [
+    {
+      "group": "Vegetables",
+      "qty": 30,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 140,
+      "unit": "g",
+      "item": "onion, cut in 1 cm dice"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium green peppers, seeded and cut in 1 cm dice"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "pc",
+      "item": "jalapeños, seeded and finely chopped"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 340,
+      "unit": "g",
+      "item": "Yukon Gold or other all-rounder potatoes, peeled and cut in 1 cm dice"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fresh thyme leaves"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 360,
+      "unit": "ml",
+      "item": "vegetable stock (check stock label for celery)"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 450,
+      "unit": "g",
+      "item": "broccoli rabe (cime di rapa), thick stems removed, finely chopped"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "chilli flakes"
+    },
+    {
+      "group": "Eggs",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Eggs",
+      "qty": 20,
+      "unit": "g",
+      "item": "Parmesan, finely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sauté Vegetables",
+      "text": "Heat 1 tbsp of 30 ml extra-virgin olive oil in a 30-35 cm cast-iron frying pan over medium heat; cook 140 g diced onion, 2 diced medium green peppers and 2 seeded, finely chopped jalapeños about 10 minutes until tender and starting to colour."
+    },
+    {
+      "title": "Add Garlic",
+      "text": "Add 3 thinly sliced garlic cloves and cook 1-2 minutes, then add 340 g peeled and diced Yukon Gold potatoes; lower the heat slightly and cook 5 minutes, stirring now and then."
+    },
+    {
+      "title": "Season Stock",
+      "text": "Season the vegetables with ¾ tsp fine salt, ¼ tsp ground black pepper and 1 tbsp fresh thyme leaves; pour in 360 ml vegetable stock and cook over medium-low about 15 minutes until most of the liquid has evaporated and the potatoes are tender."
+    },
+    {
+      "title": "Add Greens",
+      "text": "Add 450 g finely chopped broccoli rabe (thick stems removed) and cook, stirring, until wilted and reduced; fold in ½ tsp chilli flakes and check the seasoning, then turn off the heat and smooth the vegetables."
+    },
+    {
+      "title": "Grill",
+      "text": "Heat the grill to high with a shelf near the top; make 4 shallow hollows and crack a large egg into each."
+    },
+    {
+      "title": "Finish",
+      "text": "Grill 1½-2 minutes until the egg whites are set and the yolks still runny; dust each egg with finely grated Parmesan and drizzle with the remaining oil before serving."
+    }
+  ],
+  "tips": [
+    "Cut all the vegetables to a similar size so they cook evenly throughout",
+    "The broccoli rabe will reduce significantly, so don't be alarmed at the initial volume",
+    "For pregnant, very young, elderly or immunocompromised eaters, grill about 1 minute longer so the yolks are firm (71 °C)"
+  ],
+  "storage": "Serve straight away. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "celery"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 285,
+    "protein_g": 13.5,
+    "carbs_g": 29.9,
+    "sugar_g": 6.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 13.6,
+    "satfat_g": 3.5,
+    "salt_g": 2.22,
+    "fibre_g": 6.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Four eggs with soft yolks nested in a pan of cooked potatoes, broccoli rabe and green peppers.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

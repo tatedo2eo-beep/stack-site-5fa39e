@@ -20,6 +20,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | almond-maple-granola-clusters-gluten-free | Granola | Almond | 1 | 3 |
 | almond-marzipan-fruits | Pâte d'amande/marzipan | Classic | 1 | 3 |
 | almond-milk-granita-toasted-almonds | Granita | Almond | 1 | 3 |
+| almond-pepita-goji-muesli | Muesli | Almond | 1 | 3 |
 | almond-tuiles | Tuiles | Classic | 2 | 4 |
 | almond-turron-de-alicante | Turrón | Classic | 1 | 3 |
 | aloo-paratha-spiced-potato-flatbreads | Aloo paratha | Classic | 3 | 5 |
@@ -142,6 +143,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | brazilian-style-fish-prawn-coconut-stew | Moqueca | Classic | 3 | 5 |
 | breaded-veal-schnitzel-potato-salad | Wiener schnitzel | Classic | 2 | 4 |
 | broccoli-basil-pesto-linguine | Long dried (spaghetti, linguine, bucatini) | Pesto | 1 | 3 |
+| broccoli-rabe-potato-shakshuka | Shakshuka | Broccoli | 1 | 3 |
 | broccoli-white-bean-pasta-salad-basil-pesto | Pasta salad | Broccoli | 1 | 3 |
 | brookies | Brookies | Classic | 2 | 4 |
 | brown-butter-almond-financiers | Financiers | Classic | 2 | 4 |
@@ -189,6 +191,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cape-cod-cranberry-blueberry-muffins | American muffin (blueberry style, muffin method) | Cranberry (Cape Cod) | 1 | 3 |
 | caponata-aubergine-celery-capers-olives | Caponata | Classic | 1 | 3 |
 | caprese-panini-mozzarella-tomato-basil | Panini | Caprese | 1 | 3 |
+| caramel-apple-dutch-baby | Dutch baby | Caramel & apple | 1 | 3 |
 | caramel-choux-croquembouche | Croquembouche | Classic | 2 | 4 |
 | caramel-choux-saint-honore-cream | Saint-Honoré | Classic | 0 | 4 |
 | caramel-peanut-vanilla-sundae | Sundaes | Caramel | 1 | 3 |
@@ -220,6 +223,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | champurrado-thick-mexican-chocolate-masa-drink | Champurrado | Classic | 2 | 4 |
 | chana-masala-chickpeas-tomato-gravy | Chickpeas (chana masala, falafel) | Classic | 2 | 4 |
 | charred-cabbage-caesar-rye-crumbs-capers | Caesar | Cabbage | 1 | 3 |
+| charred-pepper-tomato-shakshuka | Shakshuka | Tomato | 1 | 3 |
 | charred-tawa-naan-yoghurt-ghee | ? | ? | MISSING | |
 | charred-tomatillo-salsa-verde | Salsa | Verde | 3 | 5 |
 | charred-tomato-red-chilli-salsa-roja | Salsa | Classic | 2 | 4 |
@@ -258,6 +262,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chicken-caesar-salad-griddled-breast | Caesar | Chicken | 3 | 5 |
 | chicken-caesar-wraps-lemon-chicken-crunchy-panko | Wraps | Chicken Caesar | 2 | 4 |
 | chicken-caprese-tomato-mozzarella-basil-oil | Caprese | Chicken | 2 | 4 |
+| chicken-chilaquiles-guajillo | Chilaquiles | Chicken | 1 | 3 |
 | chicken-chow-mein | Chow mein/lo mein | Chicken | 3 | 5 |
 | chicken-croquetas-creamy-bechamel-crisp-panko | Croquetas | Chicken (de pollo) | 2 | 4 |
 | chicken-empanadas-peppers-olives-baked | Empanadas | Chicken | 2 | 4 |
@@ -280,6 +285,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chicken-tenders | Nuggets/tenders | Classic | 3 | 5 |
 | chicken-white-bean-panzanella-rocket | Panzanella | Chicken | 2 | 4 |
 | chicken-yassa | Yassa | Classic | 3 | 5 |
+| chickpea-shakshuka-goat-cheese | Shakshuka | Chickpea | 1 | 3 |
 | chiffon-cake | Chiffon | Classic | 2 | 4 |
 | chilled-gazpacho-tomato-cucumber-pepper | Gazpacho | Classic | 2 | 4 |
 | chilli-braised-beef-tacos-melted-cheese-dipping-broth | Birria | Classic | 3 | 5 |
@@ -630,6 +636,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | glossy-dark-chocolate-ganache | Ganache | Classic | 2 | 4 |
 | glossy-five-point-kaiser-rolls | Kaiser roll | Classic | 2 | 4 |
 | glossy-glazed-carrots | Glazed carrots | Classic | 2 | 4 |
+| gluten-free-blueberry-dutch-baby | Dutch baby | Blueberry | 1 | 3 |
 | gluten-free-cream-cheese-pancakes | Pancakes (American) | Cream cheese | 1 | 3 |
 | gluten-free-lemon-cornmeal-waffles | Waffles (Belgian) | Lemon | 1 | 3 |
 | gluten-free-sweet-potato-corn-waffles | Waffles (Belgian) | Sweet potato & corn | 1 | 3 |
@@ -637,6 +644,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gnocchi-cherry-tomato | Gnocchi | Tomato | 3 | 5 |
 | gnocchi-pesto | Gnocchi | Pesto | 3 | 5 |
 | goan-style-coconut-fish-curry-rice | Fish curry | Classic | 4 | 6 |
+| goat-cheese-dill-dutch-baby | Dutch baby | Goat cheese & dill | 1 | 3 |
 | gochujang-tomato-bucatini | Long dried (spaghetti, linguine, bucatini) | Gochujang & tomato | 1 | 3 |
 | golden-braised-endive-lemon-thyme | Braised endive | Classic | 3 | 5 |
 | golden-brown-butter-skillet-cornbread | ? | ? | MISSING | |
@@ -694,6 +702,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | herb-crusted-rack-of-lamb-mustard | Rack of lamb/persillade | Mustard-herb crust | 4 | 6 |
 | herb-crusted-rack-of-lamb-persillade | Rack of lamb/persillade | Classic | 3 | 5 |
 | herb-tabbouleh-bulgur-lemon | Tabbouleh | Classic | 3 | 5 |
+| herbed-parmesan-dutch-baby | Dutch baby | Parmesan | 1 | 3 |
 | herby-green-goddess-dressing | Green goddess dressing | Classic | 2 | 4 |
 | hibiscus-ice-pops | Popsicles | Hibiscus | 1 | 3 |
 | high-heat-roast-chicken | High-heat roast chicken | Classic | 3 | 5 |
@@ -1197,6 +1206,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | roasted-pepper-almond-romesco | Romesco | Classic | 2 | 4 |
 | roasted-red-pepper-hummus-almonds | Hummus | Roasted red pepper | 3 | 5 |
 | roasted-red-pepper-prawn-pasta-salad-asparagus-feta | Pasta salad | Roasted red pepper | 2 | 4 |
+| roasted-red-pepper-shakshuka-pita | Shakshuka | Roasted red pepper | 1 | 3 |
 | roasted-strawberry-gelato | Gelato | Strawberry | 1 | 3 |
 | rocky-road-brownies | Brownie (fudgy or cakey) | Rocky road | 1 | 3 |
 | rocky-road-custard-ice-cream | Custard-base (French) | Rocky road | 1 | 3 |
@@ -1392,6 +1402,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | strawberry-jam-filled-orange-doughnuts | Sufganiyot | Classic | 1 | 3 |
 | strawberry-lemon-tart-walnut-crust | Lemon tart | Strawberry | 1 | 3 |
 | strawberry-lemonade-fresh-berries | Lemonade | Strawberry | 2 | 4 |
+| strawberry-mango-smoothie-bowl | Açaí bowl | Strawberry & mango | 1 | 3 |
 | strawberry-milkshake-whipped-cream | Milkshakes | Strawberry | 1 | 3 |
 | strawberry-philadelphia-ice-cream-no-egg | Philadelphia (no egg) | Classic | 1 | 3 |
 | strawberry-rhubarb-iced-tea | Iced tea | Strawberry & rhubarb | 1 | 3 |
@@ -1547,6 +1558,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | whole-sea-bass-baked-in-salt-crust-lemon-herbs | Salt-crusted fish | Classic | 4 | 6 |
 | wholemeal-irish-brown-soda-bread-oats | ? | ? | MISSING | |
 | wild-rice-red-pepper-shallot-pancakes-smoked-salmon | Pancakes (American) | Roasted red pepper & shallot | 1 | 3 |
+| winter-squash-sage-blini | Blini | Squash | 1 | 3 |
 | yakisoba | Yakisoba | Classic | 2 | 4 |
 | yakitori | Yakitori | Classic | 2 | 4 |
 | yangnyeom-chicken | Yangnyeom chicken | Classic | 3 | 6 |

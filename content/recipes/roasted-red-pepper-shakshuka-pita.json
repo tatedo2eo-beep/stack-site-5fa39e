@@ -1,0 +1,189 @@
+{
+  "slug": "roasted-red-pepper-shakshuka-pita",
+  "title": "Roasted Red Pepper Shakshuka with Pita",
+  "category": "breakfast",
+  "cuisine": "North African",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "shakshuka",
+  "dish_title": "Shakshuka",
+  "flavour": "Roasted red pepper",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "shakshuka",
+  "changes_from_base": "A small piece of pita is blended with drained tomatoes and half the roasted peppers to give a thick, smooth sauce, with diced peppers, coriander, smoked paprika and cayenne; eight eggs, then feta and olives, with pita wedges to serve.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A fragrant Middle Eastern egg dish in a thick, smooth sauce of roasted peppers and tomatoes, topped with creamy feta and tangy olives.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "blender",
+    "30 cm frying pan with a lid",
+    "rubber spatula",
+    "small bowl",
+    "large spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce and serving",
+      "qty": 4,
+      "unit": "pc",
+      "item": "pita breads (about 20 cm)"
+    },
+    {
+      "group": "Sauce and serving",
+      "qty": 800,
+      "unit": "g",
+      "item": "tinned whole peeled tomatoes, drained"
+    },
+    {
+      "group": "Sauce and serving",
+      "qty": 450,
+      "unit": "g",
+      "item": "jarred roasted red peppers, drained"
+    },
+    {
+      "group": "Sauce and serving",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce and serving",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Spices",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "tomato purée"
+    },
+    {
+      "group": "Spices",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground coriander"
+    },
+    {
+      "group": "Spices",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "smoked paprika"
+    },
+    {
+      "group": "Spices",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Spices",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Spices",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Spices",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Eggs",
+      "qty": 8,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "To finish",
+      "qty": 8,
+      "unit": "g",
+      "item": "fresh coriander, leaves and tender stems roughly chopped"
+    },
+    {
+      "group": "To finish",
+      "qty": 28,
+      "unit": "g",
+      "item": "feta, crumbled"
+    },
+    {
+      "group": "To finish",
+      "qty": 35,
+      "unit": "g",
+      "item": "pitted Kalamata olives, sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare Pita",
+      "text": "Cut 4 pita breads into wedges for serving, then cut about one-third of one pita into 1 cm pieces."
+    },
+    {
+      "title": "Blend Sauce",
+      "text": "Blend the pita pieces, 800 g drained tinned whole peeled tomatoes and half of 450 g jarred roasted red peppers (drained) for 1-2 minutes until smooth; dice the remaining peppers into 5 mm pieces."
+    },
+    {
+      "title": "Soften Garlic",
+      "text": "Heat 60 ml extra-virgin olive oil in a 30 cm frying pan over medium heat and cook 4 thinly sliced garlic cloves 1-2 minutes until golden."
+    },
+    {
+      "title": "Spice",
+      "text": "Add 1 tbsp tomato purée, 2 tsp ground coriander, 2 tsp smoked paprika, 1 tsp ground cumin, ½ tsp fine salt and ¼ tsp each of ground black pepper and cayenne, cooking and stirring 1-2 minutes until rust-coloured."
+    },
+    {
+      "title": "Simmer",
+      "text": "Add the smooth pepper and tomato purée along with the diced peppers and simmer 10-12 minutes, stirring often, until slightly thick (a spatula leaves a slow-closing trail); off the heat, make 8 shallow hollows (7 around the edge, 1 in the middle)."
+    },
+    {
+      "title": "Add Eggs",
+      "text": "Crack 8 large eggs into small bowls and carefully tip each into a hollow; spoon sauce over the edge of each egg white, bring back to a simmer over medium, cover and cook 4-5 minutes until the yolks film over, then 1-2 minutes more until the whites are softly set and each egg wobbles as one."
+    },
+    {
+      "title": "Finish",
+      "text": "Off the heat, scatter 8 g chopped fresh coriander, 28 g crumbled feta and 35 g sliced Kalamata olives over the top; serve with the pita wedges."
+    }
+  ],
+  "tips": [
+    "Blend the pita with the sauce to give it a rich body and silky consistency",
+    "Use the spatula test to gauge when the sauce has thickened sufficiently",
+    "If you are serving pregnant, very young, elderly or immunocompromised eaters, keep cooking 1-2 minutes after the yolks film over until they are firm (71 °C)"
+  ],
+  "storage": "Serve straight away. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 522,
+    "protein_g": 22.0,
+    "carbs_g": 47.3,
+    "sugar_g": 5.5,
+    "free_sugar_g": 0.8,
+    "fat_g": 28.1,
+    "satfat_g": 6.5,
+    "salt_g": 6.66,
+    "fibre_g": 6.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Eight eggs with soft yolks nestled in a thick red pepper and tomato sauce, topped with feta and black olives.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

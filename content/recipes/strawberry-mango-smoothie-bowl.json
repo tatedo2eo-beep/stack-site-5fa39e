@@ -1,0 +1,137 @@
+{
+  "slug": "strawberry-mango-smoothie-bowl",
+  "title": "Strawberry Mango Smoothie Bowl",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "acai-bowl",
+  "dish_title": "Açaí bowl",
+  "flavour": "Strawberry & mango",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "thick-acai-bowl-banana-berries-granola",
+  "changes_from_base": "No açaí: frozen strawberries and mango are pulsed fine, then blended with yoghurt, banana and honey into a thick, spoonable bowl, topped with fresh strawberries, pumpkin seeds and coconut instead of granola.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A thick, fruity smoothie of strawberries and mango topped with crunchy seeds and shredded coconut.",
+  "servings": 2,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "rubber spatula",
+    "2 serving bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Smoothie",
+      "qty": 140,
+      "unit": "g",
+      "item": "frozen strawberries"
+    },
+    {
+      "group": "Smoothie",
+      "qty": 140,
+      "unit": "g",
+      "item": "frozen mango chunks"
+    },
+    {
+      "group": "Smoothie",
+      "qty": 80,
+      "unit": "g",
+      "item": "plain yoghurt"
+    },
+    {
+      "group": "Smoothie",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "ripe banana, broken into pieces"
+    },
+    {
+      "group": "Smoothie",
+      "qty": 14,
+      "unit": "g",
+      "item": "runny honey",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Smoothie",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Toppings",
+      "qty": 50,
+      "unit": "g",
+      "item": "fresh strawberries, sliced"
+    },
+    {
+      "group": "Toppings",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "pumpkin seeds"
+    },
+    {
+      "group": "Toppings",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "desiccated coconut"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pulse Fruit",
+      "text": "Place 140 g frozen strawberries and 140 g frozen mango chunks in a food processor and pulse in 1-second bursts about 20 times until finely chopped."
+    },
+    {
+      "title": "Blend",
+      "text": "Scrape down the sides, add 80 g plain yoghurt, ½ ripe banana (broken into pieces), 2 tsp runny honey and ⅛ tsp fine salt and process for about 1 minute until smooth, scraping down halfway."
+    },
+    {
+      "title": "Spoon",
+      "text": "Carefully remove the blade and spoon the smoothie into 2 serving bowls."
+    },
+    {
+      "title": "Top",
+      "text": "Top each bowl with 25 g sliced fresh strawberries, ½ tbsp pumpkin seeds and ½ tbsp desiccated coconut."
+    },
+    {
+      "title": "Serve",
+      "text": "Eat straight away whilst the texture is at its best."
+    }
+  ],
+  "tips": [
+    "Use truly frozen fruit to achieve a thick, creamy texture without using ice",
+    "Keep the processor blade covered with a clean cloth after removing it for safety",
+    "Prepare the toppings beforehand so you can serve the smoothie immediately after blending"
+  ],
+  "storage": "Serve straight away. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 186,
+    "protein_g": 4.5,
+    "carbs_g": 33.3,
+    "sugar_g": 25.7,
+    "free_sugar_g": 5.7,
+    "fat_g": 5.8,
+    "satfat_g": 2.8,
+    "salt_g": 0.42,
+    "fibre_g": 4.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A thick smoothie of blended red strawberries and orange mango, topped with sliced fresh strawberries, pumpkin seeds and coconut.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

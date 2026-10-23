@@ -1,0 +1,170 @@
+{
+  "slug": "winter-squash-sage-blini",
+  "title": "Butternut Squash and Sage Blini",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "blini",
+  "dish_title": "Blini",
+  "flavour": "Squash",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "yeasted-buckwheat-blini-soured-cream-jam",
+  "changes_from_base": "Yeast-free: roasted butternut purée, buttermilk and sage-infused olive oil go into a quick batter of wholemeal, buckwheat and plain flour raised with baking powder and bicarbonate; cooked as small 5-7 cm blini.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Nutty buckwheat pancakes infused with roasted squash purée and finished with crispy sage leaves, best served with soured cream.",
+  "servings": 10,
+  "prep_min": 15,
+  "cook_min": 75,
+  "difficulty": "medium",
+  "equipment": [
+    "baking tray",
+    "foil",
+    "food processor",
+    "sieve",
+    "medium bowl",
+    "whisk",
+    "small frying pan",
+    "griddle or large non-stick frying pan",
+    "palette knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Squash purée",
+      "qty": 450,
+      "unit": "g",
+      "item": "butternut squash, seeded"
+    },
+    {
+      "group": "Batter",
+      "qty": 70,
+      "unit": "g",
+      "item": "wholemeal flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 70,
+      "unit": "g",
+      "item": "buckwheat flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 70,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 4,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 360,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 45,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "sage leaves, finely sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast Squash",
+      "text": "Preheat the oven to 200 °C (180 °C fan), line a baking tray with foil and oil lightly; lay 450 g butternut squash (seeded, cut side down, skin up) on the tray and roast 45-60 minutes until completely soft."
+    },
+    {
+      "title": "Purée",
+      "text": "Cool, scoop the flesh from the skin and purée in a food processor until you have about 180 g."
+    },
+    {
+      "title": "Dry Mix",
+      "text": "Sift 70 g wholemeal flour, 70 g buckwheat flour, 70 g plain flour, 2 tsp baking powder, 1 tsp bicarbonate of soda, 1 tsp caster sugar and ½ tsp fine salt together into a bowl."
+    },
+    {
+      "title": "Wet Mix",
+      "text": "Beat 2 large eggs in a medium bowl, whisk in 360 ml buttermilk and the 180 g squash purée, then mix in 2 tbsp oil."
+    },
+    {
+      "title": "Sage Oil",
+      "text": "Heat 1 tbsp oil in a small frying pan over medium-high heat, fry 1 tbsp sage leaves about 10 seconds until starting to crisp, remove from the heat and cool, then add both oil and sage to the wet mixture."
+    },
+    {
+      "title": "Combine",
+      "text": "Whisk the flour mixture quickly into the wet ingredients."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat a griddle over medium-high, oil lightly and drop 1-2 tbsp batter per blini (5-7 cm across); cook each batch until bubbles break through, flip and cook until lightly browned, keeping finished blini warm under a clean cloth."
+    }
+  ],
+  "tips": [
+    "Roast the squash fully until completely tender so it purées into a smooth paste",
+    "Fry the sage briefly until just crisp to avoid bitterness from overcooking",
+    "Keep cooked blini warm under a cloth so all are ready to serve at the same time"
+  ],
+  "storage": "Serve whilst warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 158,
+    "protein_g": 5.4,
+    "carbs_g": 22.4,
+    "sugar_g": 3.3,
+    "free_sugar_g": 0.4,
+    "fat_g": 5.9,
+    "satfat_g": 1.2,
+    "salt_g": 0.96,
+    "fibre_g": 2.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Stack of golden buckwheat and squash blini topped with a dollop of soured cream.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

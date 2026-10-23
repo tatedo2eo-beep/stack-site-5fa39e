@@ -1,0 +1,126 @@
+{
+  "slug": "almond-pepita-goji-muesli",
+  "title": "Almond, Pumpkin Seed and Goji Berry Muesli",
+  "category": "breakfast",
+  "cuisine": "Swiss",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "muesli",
+  "dish_title": "Muesli",
+  "flavour": "Almond",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "bircher-muesli-apple-pecans-raspberries",
+  "changes_from_base": "No grated apple, yoghurt or juice: a dry mix of oats, raisins, goji berries, toasted almonds and pumpkin seeds is soaked overnight in milk alone and topped with fresh berries.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A breakfast of wholegrain oats combined with dried fruit, toasted nuts and seeds, then soaked overnight and crowned with fresh berries.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "small dry frying pan",
+    "medium bowl with a lid (or cling film)",
+    "wooden spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Muesli",
+      "qty": 135,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Muesli",
+      "qty": 35,
+      "unit": "g",
+      "item": "raisins"
+    },
+    {
+      "group": "Muesli",
+      "qty": 30,
+      "unit": "g",
+      "item": "goji berries"
+    },
+    {
+      "group": "Muesli",
+      "qty": 25,
+      "unit": "g",
+      "item": "flaked almonds, toasted and chopped"
+    },
+    {
+      "group": "Muesli",
+      "qty": 35,
+      "unit": "g",
+      "item": "pumpkin seeds, toasted"
+    },
+    {
+      "group": "To soak",
+      "qty": 400,
+      "unit": "ml",
+      "item": "semi-skimmed milk"
+    },
+    {
+      "group": "To serve",
+      "qty": 140,
+      "unit": "g",
+      "item": "blueberries, raspberries and/or blackberries"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast Almonds",
+      "text": "In a dry frying pan over medium heat, toast 25 g flaked almonds for 3-4 minutes, stirring, until golden; tip out, cool and chop roughly."
+    },
+    {
+      "title": "Toast Seeds",
+      "text": "Toast 35 g pumpkin seeds in the same pan for 2-3 minutes until they puff and pop, then set aside."
+    },
+    {
+      "title": "Combine Mix",
+      "text": "Mix 135 g rolled oats, 35 g raisins, 30 g goji berries, the chopped almonds and toasted seeds in a medium bowl; this dry mixture keeps 2 weeks airtight."
+    },
+    {
+      "title": "Soak",
+      "text": "Stir 400 ml semi-skimmed milk into the mixture, cover and chill overnight."
+    },
+    {
+      "title": "Serve",
+      "text": "Next morning stir the muesli, divide between 4 bowls and top with 140 g mixed blueberries, raspberries and blackberries."
+    }
+  ],
+  "tips": [
+    "Toast the almonds and seeds whilst the pan heats to develop deeper flavour",
+    "Prepare and combine the dry ingredients up to 2 weeks ahead for grab-and-go breakfasts",
+    "Top with fresh berries just before serving to keep them crisp"
+  ],
+  "storage": "The dry mixture keeps 2 weeks in an airtight container. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 333,
+    "protein_g": 12.6,
+    "carbs_g": 48.0,
+    "sugar_g": 19.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 11.8,
+    "satfat_g": 2.7,
+    "salt_g": 0.14,
+    "fibre_g": 6.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A white bowl of oat muesli studded with blueberries, raspberries, blackberries, almonds and pumpkin seeds.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

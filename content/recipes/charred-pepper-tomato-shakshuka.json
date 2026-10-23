@@ -1,0 +1,165 @@
+{
+  "slug": "charred-pepper-tomato-shakshuka",
+  "title": "Charred Pepper and Tomato Shakshuka",
+  "category": "breakfast",
+  "cuisine": "North African",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "shakshuka",
+  "dish_title": "Shakshuka",
+  "flavour": "Tomato",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "shakshuka",
+  "changes_from_base": "Onion, red pepper and fresh chilli are left undisturbed over high heat until they char in spots before the garlic, paprika, cumin and hand-crushed tinned tomatoes go in; six eggs are set into wells around the pan.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Eggs nestled in a deeply charred and tender sauce of peppers, onions and tomatoes, fragrant with cumin and paprika.",
+  "servings": 3,
+  "prep_min": 10,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large deep frying pan or sauté pan with a lid",
+    "wooden spoon",
+    "large spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 45,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, thinly sliced"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large red pepper, seeded and thinly sliced"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small fresh hot chilli (jalapeño or Fresno), seeded and thinly sliced"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Sauce",
+      "qty": 15,
+      "unit": "g",
+      "item": "sweet or smoked paprika"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cumin seeds or ground cumin"
+    },
+    {
+      "group": "Sauce",
+      "qty": 800,
+      "unit": "g",
+      "item": "tinned whole peeled tomatoes, crushed by hand"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Sauce",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh coriander or parsley (or a mix), chopped"
+    },
+    {
+      "group": "Eggs",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "To serve",
+      "qty": 150,
+      "unit": "g",
+      "item": "crusty bread, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat Oil",
+      "text": "Heat 45 ml extra-virgin olive oil in a large deep frying pan or sauté pan over high heat until shimmering."
+    },
+    {
+      "title": "Char Vegetables",
+      "text": "Add 1 thinly sliced medium onion, 1 large red pepper (thinly sliced) and 1 small fresh hot chilli (thinly sliced) in an even layer and leave untouched about 6 minutes until deeply browned and charred in spots; stir and repeat until soft and charred all over, about 4 minutes more."
+    },
+    {
+      "title": "Spices",
+      "text": "Add 3 thinly sliced garlic cloves and cook 30 seconds, then add 15 g paprika and 2 tsp cumin seeds (or ground cumin) and stir for 30 seconds, followed immediately by 800 g hand-crushed tinned whole peeled tomatoes."
+    },
+    {
+      "title": "Simmer",
+      "text": "Simmer very gently for 10 minutes; season with ½ tsp fine salt and ¼ tsp ground black pepper, then stir in half of 15 g fresh coriander or parsley."
+    },
+    {
+      "title": "Eggs",
+      "text": "Using a large spoon, make 6 wells near the edge, crack 6 large eggs into them and spoon a little sauce over the egg whites, leaving yolks exposed; salt the eggs lightly, cover, turn the heat to the lowest setting and cook 5-8 minutes until the whites are just set and yolks remain runny."
+    },
+    {
+      "title": "Serve",
+      "text": "Scatter the remaining herbs over the top and serve straight away with 150 g crusty bread for scooping."
+    }
+  ],
+  "tips": [
+    "Char the vegetables well before adding the tomatoes for a deeper, smokier flavour base",
+    "Make the wells for the eggs just before cracking them in so the sauce stays hot",
+    "Runny yolks are not advised for pregnant, very young, elderly or immunocompromised eaters; for them, cover and cook 2-3 minutes longer until the yolks are firm (71 °C)"
+  ],
+  "storage": "Serve straight away. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 517,
+    "protein_g": 22.9,
+    "carbs_g": 50.3,
+    "sugar_g": 14.8,
+    "free_sugar_g": 2.3,
+    "fat_g": 26.7,
+    "satfat_g": 5.6,
+    "salt_g": 2.88,
+    "fibre_g": 10.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A deep pan of red tomato sauce with six runny-yolked eggs nestled within.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

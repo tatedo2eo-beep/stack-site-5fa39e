@@ -1,0 +1,160 @@
+{
+  "slug": "chickpea-shakshuka-goat-cheese",
+  "title": "Chickpea Shakshuka with Goat Cheese",
+  "category": "breakfast",
+  "cuisine": "North African",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "shakshuka",
+  "dish_title": "Shakshuka",
+  "flavour": "Chickpea",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "shakshuka",
+  "changes_from_base": "Chickpeas and roasted red peppers bulk out a quick smoked-paprika and crushed-tomato sauce; eight eggs are cooked until the whites are fully set, then finished with goat cheese and olive oil.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A filling shakshuka of tender chickpeas in a spiced tomato sauce, crowned with creamy goat cheese.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "30 cm non-stick frying pan with a lid",
+    "wooden spoon",
+    "large spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 30,
+      "unit": "ml",
+      "item": "extra-virgin olive oil, plus extra to drizzle"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Sauce",
+      "qty": 140,
+      "unit": "g",
+      "item": "jarred roasted red peppers, rinsed, patted dry and roughly chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "400 g tin chickpeas, rinsed (240 g drained)"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "smoked paprika"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Sauce",
+      "qty": 800,
+      "unit": "g",
+      "item": "tinned crushed tomatoes"
+    },
+    {
+      "group": "Eggs",
+      "qty": 8,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "To finish",
+      "qty": 57,
+      "unit": "g",
+      "item": "soft goats' cheese, crumbled"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat Oil",
+      "text": "Heat 30 ml extra-virgin olive oil in a 30 cm non-stick frying pan over medium-high heat until shimmering."
+    },
+    {
+      "title": "Sauté Base",
+      "text": "Add 1 finely chopped medium onion (about 150 g), 140 g rinsed and patted-dry jarred roasted red peppers (roughly chopped), 1 tsp fine salt and ½ tsp ground black pepper, cooking about 4 minutes until the onion softens."
+    },
+    {
+      "title": "Add Spices",
+      "text": "Add 1 rinsed 400 g tin of chickpeas (240 g drained), 1½ tsp smoked paprika and 1 tsp ground cumin and cook 1 minute until fragrant."
+    },
+    {
+      "title": "Tomatoes",
+      "text": "Stir in 800 g tinned crushed tomatoes, bring to a simmer, cover, lower the heat to medium-low and cook 5 minutes."
+    },
+    {
+      "title": "Eggs",
+      "text": "Off the heat, make 8 shallow 4 cm hollows (7 around the edge, 1 in the middle), crack a large egg into each and spoon sauce over the edges of the whites."
+    },
+    {
+      "title": "Cook Eggs",
+      "text": "Return to medium-high heat, bring to a simmer, lower to medium-low, cover and cook about 8 minutes, turning the pan occasionally, until the egg whites are fully set."
+    },
+    {
+      "title": "Top",
+      "text": "Scatter 57 g crumbled soft goat cheese over the eggs, drizzle with a little extra oil and serve straight away."
+    }
+  ],
+  "tips": [
+    "Pat the roasted peppers dry before chopping so the sauce doesn't become too watery",
+    "Turn the pan occasionally as it cooks to ensure even cooking of the eggs",
+    "The yolks stay soft once the whites set; for pregnant, very young, elderly or immunocompromised eaters, cook on until the yolks are firm (71 °C)"
+  ],
+  "storage": "Serve straight away. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 415,
+    "protein_g": 23.6,
+    "carbs_g": 34.9,
+    "sugar_g": 13.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 21.8,
+    "satfat_g": 6.4,
+    "salt_g": 4.43,
+    "fibre_g": 9.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Eight eggs nestled in a russet chickpea and tomato sauce, topped with creamy goat cheese.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

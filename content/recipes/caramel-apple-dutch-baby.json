@@ -1,0 +1,184 @@
+{
+  "slug": "caramel-apple-dutch-baby",
+  "title": "Caramel Apple Dutch Baby",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "dutch-baby",
+  "dish_title": "Dutch baby",
+  "flavour": "Caramel & apple",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "dutch-baby-pancake-berries-lemon",
+  "changes_from_base": "Butter melted in the pan in the oven, a spiced brown-sugar batter, and a skillet topping of apples simmered in a butter, cream and brown sugar caramel piled on instead of fresh berries.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A cinnamon-spiced Dutch pancake crowned with apples cooked down into a rich, glossy caramel sauce.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "25 cm cast-iron or ovenproof frying pan",
+    "large frying pan",
+    "oven gloves",
+    "large bowl",
+    "whisk",
+    "wooden spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Dutch baby",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Dutch baby",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Dutch baby",
+      "qty": 95,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dutch baby",
+      "qty": 160,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Dutch baby",
+      "qty": 36,
+      "unit": "g",
+      "item": "dark brown sugar",
+      "note": "about 3 tbsp"
+    },
+    {
+      "group": "Dutch baby",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Dutch baby",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Dutch baby",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Dutch baby",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Caramel apples",
+      "qty": 28,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Caramel apples",
+      "qty": 60,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Caramel apples",
+      "qty": 110,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Caramel apples",
+      "qty": 450,
+      "unit": "g",
+      "item": "firm baking apples (about 3, such as Granny Smith, Gala or Jonagold), peeled, cored and cut into 2.5 cm slices"
+    },
+    {
+      "group": "Caramel apples",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Caramel apples",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Caramel apples",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat Pan",
+      "text": "Preheat a 25 cm cast-iron or ovenproof frying pan in a 220 °C (200 °C fan) oven, add 55 g unsalted butter and leave 2-3 minutes to melt."
+    },
+    {
+      "title": "Mix Batter",
+      "text": "Whisk together 3 large eggs, 95 g plain flour, 160 ml whole milk, 3 tbsp dark brown sugar, 1 tsp vanilla, ¾ tsp ground cinnamon, ½ tsp fine salt and ¼ tsp ground nutmeg in a large bowl until smooth."
+    },
+    {
+      "title": "Bake",
+      "text": "Pour the batter into the hot buttered pan and bake 20-25 minutes until puffed at the edges and deep golden."
+    },
+    {
+      "title": "Caramel Apples",
+      "text": "While the pancake bakes, melt 28 g unsalted butter in a separate frying pan over medium heat, stir in 60 ml double cream and 110 g dark brown sugar, add 450 g firm baking apples (peeled, cored and sliced into 2.5 cm pieces) and cook, stirring often, 8-10 minutes until the caramel thickens and apples soften; finish by stirring in ¾ tsp vanilla, ⅛ tsp cinnamon and ⅛ tsp salt."
+    },
+    {
+      "title": "Plate",
+      "text": "Slide the warm pancake onto a plate, pile the caramel apples on top, slice into wedges and serve with whipped cream or ice cream if you like."
+    }
+  ],
+  "tips": [
+    "Slice the apples to uniform thickness so they cook evenly in the caramel",
+    "Make the apple topping whilst the pancake bakes so everything finishes together",
+    "Serve straight away whilst the contrast between warm caramel and fluffy pancake is at its peak"
+  ],
+  "storage": "Serve warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 564,
+    "protein_g": 9.4,
+    "carbs_g": 71.4,
+    "sugar_g": 48.9,
+    "free_sugar_g": 35.6,
+    "fat_g": 27.6,
+    "satfat_g": 16.2,
+    "salt_g": 1.13,
+    "fibre_g": 3.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Warm cinnamon pancake topped with glossy caramel-coated apple slices.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

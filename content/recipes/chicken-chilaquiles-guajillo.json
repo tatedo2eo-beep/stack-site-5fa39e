@@ -1,0 +1,199 @@
+{
+  "slug": "chicken-chilaquiles-guajillo",
+  "title": "Chicken Chilaquiles with Guajillo Tomato Sauce",
+  "category": "breakfast",
+  "cuisine": "Mexican",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "chilaquiles",
+  "dish_title": "Chilaquiles",
+  "flavour": "Chicken",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "red-chilaquiles-fried-eggs-crema",
+  "changes_from_base": "Oven-baked tortilla chips instead of fried, a blended red sauce of toasted guajillo chillies, tinned tomatoes, poblano and jalapeño, and chicken breasts poached in the sauce, shredded and stirred back in; served without fried eggs.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Crispy baked tortilla chips tossed with shredded chicken in a deep guajillo chilli sauce, topped with cheese, avocado and fresh coriander.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 55,
+  "difficulty": "medium",
+  "equipment": [
+    "2 large rimmed baking trays",
+    "large casserole (Dutch oven) with a lid",
+    "blender",
+    "tongs",
+    "2 forks",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Baked chips",
+      "qty": 16,
+      "unit": "pc",
+      "item": "gluten-free corn tortillas (15 cm), each cut into 8 wedges"
+    },
+    {
+      "group": "Baked chips",
+      "qty": 60,
+      "unit": "ml",
+      "item": "olive oil"
+    },
+    {
+      "group": "Baked chips",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 5,
+      "unit": "pc",
+      "item": "dried guajillo chillies, stemmed and seeded"
+    },
+    {
+      "group": "Sauce",
+      "qty": 800,
+      "unit": "g",
+      "item": "tinned whole peeled tomatoes with their juice"
+    },
+    {
+      "group": "Sauce",
+      "qty": 140,
+      "unit": "g",
+      "item": "onion, finely chopped (divided)"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "poblano chilli, stemmed, seeded and chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "jalapeño, stemmed, seeded and chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 8,
+      "unit": "pc",
+      "item": "sprigs fresh coriander, plus 2 tbsp chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 360,
+      "unit": "ml",
+      "item": "chicken stock (check stock label for celery)"
+    },
+    {
+      "group": "Chicken",
+      "qty": 680,
+      "unit": "g",
+      "item": "boneless, skinless chicken breasts, trimmed"
+    },
+    {
+      "group": "To serve",
+      "qty": 115,
+      "unit": "g",
+      "item": "queso fresco (or feta), crumbled"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "ripe avocado, cut in 1 cm chunks"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "radishes, thinly sliced"
+    },
+    {
+      "group": "To serve",
+      "qty": 120,
+      "unit": "ml",
+      "item": "soured cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lime, cut into wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast Chillies",
+      "text": "Preheat the oven to 220 °C (200 °C fan) with shelves in the upper and lower middle positions; toast 5 dried guajillo chillies (stemmed and seeded) in a large dry casserole over medium heat about 5 minutes until fragrant and slightly darker, then grind them fine in a blender for 60-90 seconds."
+    },
+    {
+      "title": "Blend Sauce",
+      "text": "Add 800 g tinned whole peeled tomatoes with juice, 105 g of the chopped onion (reserved from the total 140 g), 1 chopped poblano chilli, 1 chopped jalapeño, 8 coriander sprigs, 3 chopped garlic cloves and ¾ tsp fine salt to the blender and blend until very smooth."
+    },
+    {
+      "title": "Chips",
+      "text": "Divide 16 corn tortillas (cut into 8 wedges each) between 2 large rimmed baking trays, drizzle each with 2 tbsp olive oil and ¼ tsp fine salt, toss and bake 15-20 minutes until golden and crisp, stirring and swapping the trays halfway through."
+    },
+    {
+      "title": "Chicken",
+      "text": "Pour the sauce into the casserole, stir in 360 ml chicken stock and bring to the boil over medium-high; add 680 g boneless, skinless chicken breasts, lower the heat and simmer uncovered 15-20 minutes, turning once, until the thickest part reaches 74 °C."
+    },
+    {
+      "title": "Finish Sauce",
+      "text": "Remove the chicken to a plate and simmer the sauce 5 minutes more over medium until thick (about 1000 ml); shred the chicken with 2 forks, return it to the sauce and warm 2 minutes."
+    },
+    {
+      "title": "Assemble",
+      "text": "Add the crisp tortilla chips, toss until coated, take off the heat, season to taste, cover and rest 2-5 minutes (longer for softer chips); top with 115 g crumbled queso fresco, chunks of 1 ripe avocado, 2 thinly sliced radishes, the remaining chopped onion and 2 tbsp chopped coriander, then serve with 120 ml soured cream and lime wedges."
+    }
+  ],
+  "tips": [
+    "Grind the toasted chillies finely to ensure a smooth sauce with no bitter pieces",
+    "Check the chicken reaches 74 °C in the thickest part for food safety",
+    "Toss the chips with the sauce just before serving and rest for a few minutes so they absorb flavour without becoming too soggy"
+  ],
+  "storage": "Serve hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "celery"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 558,
+    "protein_g": 36.5,
+    "carbs_g": 45.3,
+    "sugar_g": 7.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 27.0,
+    "satfat_g": 7.4,
+    "salt_g": 2.76,
+    "fibre_g": 10.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A casserole of tortilla chips and shredded chicken in reddish guajillo sauce, topped with cheese, avocado and radish slices.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

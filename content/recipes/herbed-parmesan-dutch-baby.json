@@ -1,0 +1,154 @@
+{
+  "slug": "herbed-parmesan-dutch-baby",
+  "title": "Herbed Parmesan Dutch Baby",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "dutch-baby",
+  "dish_title": "Dutch baby",
+  "flavour": "Parmesan",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "dutch-baby-pancake-berries-lemon",
+  "changes_from_base": "Savoury: an 8-egg batter with black pepper, thyme and chives is poured into nutty browned butter and baked under a layer of grated Parmesan and flaky salt; served with lemon (and chilli sauce if you like) instead of berries.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A savoury herb-fragrant puffed pancake topped with nutty brown butter and a generous shower of Parmesan cheese.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "30 cm cast-iron or ovenproof frying pan",
+    "oven gloves",
+    "large bowl",
+    "whisk",
+    "wire rack",
+    "medium bowl",
+    "stick blender (optional)"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 134,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "coarsely ground black pepper"
+    },
+    {
+      "group": "Batter",
+      "qty": 8,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 170,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "finely chopped fresh thyme"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "finely chopped chives (or tarragon)"
+    },
+    {
+      "group": "For the pan",
+      "qty": 57,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Topping",
+      "qty": 85,
+      "unit": "g",
+      "item": "Parmesan, finely grated"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Preheat",
+      "text": "Set a 30 cm cast-iron or ovenproof frying pan in a 220 °C (200 °C fan) oven whilst it heats."
+    },
+    {
+      "title": "Mix Flour",
+      "text": "Mix 134 g plain flour, ½ tsp fine salt and ½ tsp coarsely ground black pepper in a large bowl."
+    },
+    {
+      "title": "Combine Batter",
+      "text": "Whisk 8 large eggs and 170 ml whole milk together in a separate bowl, then whisk this into the flour just until combined; stir in 2 tbsp finely chopped fresh thyme and 2 tbsp finely chopped chives."
+    },
+    {
+      "title": "Brown Butter",
+      "text": "Melt 57 g unsalted butter in the hot pan over medium-high heat and continue cooking 5-7 minutes until it smells nutty and turns brown, swirling to coat; pour in the batter, scatter 85 g finely grated Parmesan and ½ tsp flaky sea salt over and bake 20-25 minutes until puffed and golden."
+    },
+    {
+      "title": "Serve",
+      "text": "Slice the warm pancake and serve straight away with lemon wedges and chilli sauce if you like."
+    }
+  ],
+  "tips": [
+    "Brown the butter thoroughly for a nuttier, deeper flavour before adding the batter",
+    "Whisk the egg mixture into the flour gently to prevent overdeveloping gluten",
+    "Serve at once with lemon wedges for brightness and acidity"
+  ],
+  "storage": "Serve hot straight from the oven. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 241,
+    "protein_g": 12.7,
+    "carbs_g": 15.1,
+    "sugar_g": 1.5,
+    "free_sugar_g": 0.0,
+    "fat_g": 14.2,
+    "satfat_g": 7.4,
+    "salt_g": 1.11,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A puffed golden savoury pancake with melted Parmesan cheese across the top.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}
