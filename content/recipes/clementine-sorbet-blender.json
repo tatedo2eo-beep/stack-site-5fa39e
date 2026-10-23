@@ -1,0 +1,108 @@
+{
+  "slug": "clementine-sorbet-blender",
+  "title": "Clementine Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Clementine",
+  "flavour_order": 7,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Fresh clementine juice, blended raw with sugar and a little corn syrup, replaces the mango purée and lime; no cooked syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Pure winter sunshine: freshly blended clementine juice, sugar and a pinch of salt churned into a bright, sweet-sharp sorbet.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "blender",
+    "fine sieve",
+    "large jug",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Sorbet",
+      "qty": 20,
+      "unit": "pc",
+      "item": "clementines, well chilled (about 1.7 kg)"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 180,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 30,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Peel",
+      "text": "Peel the cold clementines and pull them into segments, picking off any loose white threads. Purée: blend the segments in two or three batches for about 30 seconds each, until liquid."
+    },
+    {
+      "title": "Strain",
+      "text": "Press the pulp through the sieve into the jug until you have 900 ml of juice; drink any extra."
+    },
+    {
+      "title": "Sweeten",
+      "text": "Rinse the blender, then blend the juice with the sugar, corn syrup and salt for 30 seconds, until no grains of sugar remain."
+    },
+    {
+      "title": "Chill",
+      "text": "If the fruit was not cold to start with, refrigerate the juice for 2-3 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn for 20-25 min; eat it soft straight away or freeze for 4 h for neat scoops."
+    }
+  ],
+  "tips": [
+    "Chill the clementines before peeling so the juice is cold and ready to churn.",
+    "Seedless clementines save time; pick out any pips before blending.",
+    "Serve in hollowed clementine shells for a party."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 148,
+    "protein_g": 0.6,
+    "carbs_g": 37.2,
+    "sugar_g": 36.9,
+    "free_sugar_g": 36.9,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.1,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Bright orange clementine sorbet scoops in a glass with a few clementine segments.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

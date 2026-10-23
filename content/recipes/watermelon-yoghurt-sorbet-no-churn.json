@@ -1,0 +1,97 @@
+{
+  "slug": "watermelon-yoghurt-sorbet-no-churn",
+  "title": "No-Churn Watermelon Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Watermelon",
+  "flavour_order": 11,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Frozen watermelon chunks processed with yoghurt, a little sugar and lemon replace the mango purée and syrup; no ice-cream maker.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "No machine needed: frozen watermelon chunks whizzed with a little yoghurt, sugar and lemon make an instant soft pink sorbet.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "baking tray lined with baking paper",
+    "shallow glass or ceramic dish"
+  ],
+  "ingredients": [
+    {
+      "group": "Sorbet",
+      "qty": 1200,
+      "unit": "g",
+      "item": "watermelon flesh, seeds removed, cut in 3 cm chunks (from a small 2 kg melon)"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 120,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Freeze the melon",
+      "text": "Spread the chunks in one layer on the lined tray, so they do not stick together, and freeze for at least 4 h, until hard."
+    },
+    {
+      "title": "Process",
+      "text": "Tip the frozen chunks into the food processor with the yoghurt, sugar and lemon juice and pulse, then run, scraping down the sides, just until smooth. Stop before it turns slushy."
+    },
+    {
+      "title": "Set",
+      "text": "Spread it in the dish and freeze for about 1 h, until it holds a scoop. Eat the same day."
+    }
+  ],
+  "tips": [
+    "Freeze the chunks spread apart so they do not freeze into one block.",
+    "Stop processing as soon as it is smooth; overworking makes it watery.",
+    "Add a few mint leaves to the processor for a fresh twist."
+  ],
+  "storage": "Best eaten the day it is made; it freezes very hard. If frozen overnight, soften for 20 min and process again briefly.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 99,
+    "protein_g": 1.9,
+    "carbs_g": 22.9,
+    "sugar_g": 20.0,
+    "free_sugar_g": 6.7,
+    "fat_g": 1.0,
+    "satfat_g": 0.5,
+    "salt_g": 0.03,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pink watermelon sorbet scooped from a shallow dish, with a wedge of watermelon.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

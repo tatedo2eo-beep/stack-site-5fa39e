@@ -1,0 +1,129 @@
+{
+  "slug": "pear-vanilla-pod-sorbet",
+  "title": "Pear and Vanilla Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Pear & vanilla",
+  "flavour_order": 15,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Pears poached in a vanilla-pod syrup with honey replace the mango and lime.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Ripe pears poached in vanilla syrup and blended with honey make a smooth, creamy-tasting sorbet speckled with vanilla seeds.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "blender",
+    "fine sieve",
+    "large jug",
+    "freezer container with lid",
+    "medium saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Poaching syrup",
+      "qty": 150,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Poaching syrup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "vanilla pod, split"
+    },
+    {
+      "group": "Poaching syrup",
+      "qty": 140,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large ripe pears, peeled, cored and quartered (about 1.1 kg)"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 30,
+      "unit": "g",
+      "item": "honey"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 30,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Vanilla syrup",
+      "text": "Scrape the vanilla seeds into the water in the pan, add the pod and sugar and heat until the sugar dissolves."
+    },
+    {
+      "title": "Poach",
+      "text": "Add the pears and simmer gently for about 10 min, turning them, until a knife slides in and the outsides look translucent."
+    },
+    {
+      "title": "Flavour",
+      "text": "Off the heat stir in the honey, corn syrup and lemon juice and leave to cool, then lift out the pod."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the pears with all the syrup until silky. Chill for at least 2 h, or overnight."
+    },
+    {
+      "title": "Churn",
+      "text": "Blend again briefly, then churn for 20-25 min."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pack into a chilled container and freeze for at least 2 h."
+    }
+  ],
+  "tips": [
+    "Choose pears that are ripe and fragrant but not mushy.",
+    "A stick blender gives a final smooth whizz before churning.",
+    "Serve with a drizzle of dark chocolate sauce."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 162,
+    "protein_g": 0.5,
+    "carbs_g": 42.8,
+    "sugar_g": 35.7,
+    "free_sugar_g": 23.5,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 4.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Creamy off-white pear sorbet flecked with vanilla seeds, beside a pear half.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

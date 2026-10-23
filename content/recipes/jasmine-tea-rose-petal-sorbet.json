@@ -1,0 +1,142 @@
+{
+  "slug": "jasmine-tea-rose-petal-sorbet",
+  "title": "Jasmine Tea and Rose Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Jasmine & rose",
+  "flavour_order": 10,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Jasmine tea pearls, rose petals and a little star anise steeped below boiling replace the fruit; coconut milk is an optional serving broth.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A delicate, floral sorbet of jasmine tea and rose petals steeped below boiling, with a hint of lime and star anise.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "kettle or small saucepan",
+    "probe thermometer",
+    "medium saucepan",
+    "fine sieve",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Tea",
+      "qty": 850,
+      "unit": "ml",
+      "item": "filtered water"
+    },
+    {
+      "group": "Tea",
+      "qty": 180,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Tea",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "jasmine tea pearls"
+    },
+    {
+      "group": "Tea",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "dried edible rose petals"
+    },
+    {
+      "group": "Tea",
+      "qty": 1,
+      "unit": "pc",
+      "item": "whole star anise, broken in half"
+    },
+    {
+      "group": "Tea",
+      "qty": 40,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lime, finely grated zest"
+    },
+    {
+      "group": "To serve",
+      "qty": 120,
+      "unit": "ml",
+      "item": "coconut milk, to serve (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the water",
+      "text": "Warm it to about 80 °C, just steaming with small bubbles on the base. Never let it boil, now or later, or the tea turns bitter."
+    },
+    {
+      "title": "Steep",
+      "text": "Put the sugar, jasmine pearls, rose petals and star anise in the saucepan, pour on the hot water and stir until the sugar dissolves. Keep on the lowest heat for 10 min."
+    },
+    {
+      "title": "Strain",
+      "text": "Pour through the sieve into a jug, stir in the corn syrup, lime juice and zest, then cool."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and refrigerate overnight, or until very cold."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn for 20-25 min, then freeze for 2-3 h until set."
+    },
+    {
+      "title": "Serve",
+      "text": "For a simple coconut broth, spoon 2 tbsp coconut milk into each small bowl and add two small scoops of sorbet."
+    }
+  ],
+  "tips": [
+    "Keep the water below boiling at every stage or the tea will taste bitter.",
+    "If you cannot find rose petals, stir 1 tsp rose water into the cooled tea instead.",
+    "Small cooked tapioca pearls in the coconut milk make it a fuller dessert."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 132,
+    "protein_g": 0.6,
+    "carbs_g": 26.9,
+    "sugar_g": 26.3,
+    "free_sugar_g": 26.3,
+    "fat_g": 3.2,
+    "satfat_g": 2.8,
+    "salt_g": 0.02,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale golden jasmine tea sorbet in a bowl of coconut milk, scattered with rose petals.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

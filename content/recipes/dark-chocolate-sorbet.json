@@ -1,0 +1,128 @@
+{
+  "slug": "dark-chocolate-sorbet",
+  "title": "Dark Chocolate Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Chocolate",
+  "flavour_order": 12,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Dark chocolate and cocoa simmered with water and sugar replace the fruit; corn syrup keeps it scoopable.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Intensely chocolatey with no cream or milk: cocoa and dark chocolate simmered with water make a silky, deep sorbet.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "medium saucepan",
+    "whisk",
+    "fine sieve",
+    "bowl set in iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Sorbet",
+      "qty": 500,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 25,
+      "unit": "g",
+      "item": "cocoa powder"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 120,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 40,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 115,
+      "unit": "g",
+      "item": "dark chocolate (about 70%), finely chopped; check the label for milk"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "vanilla"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil",
+      "text": "Whisk the water, cocoa, sugar, corn syrup and salt in the pan and bring to the boil, whisking."
+    },
+    {
+      "title": "Simmer",
+      "text": "Turn the heat right down and let it barely bubble for 5 min, stirring all the time so it does not catch."
+    },
+    {
+      "title": "Melt",
+      "text": "Take it off the heat, add the chocolate and vanilla and whisk until smooth and glossy."
+    },
+    {
+      "title": "Cool",
+      "text": "Pass it through the sieve into the bowl set in iced water and stir now and then until it is cold. Cover and refrigerate for 4 h or more."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Stir well, churn for 20-25 min until it looks like a thick milkshake, then freeze for at least 2 h. It is best within 5 days."
+    }
+  ],
+  "tips": [
+    "Use a good dark chocolate you like eating; its flavour is the whole dessert.",
+    "Keep the heat low while simmering, as cocoa catches easily.",
+    "A pinch of flaky salt or a few raspberries on top is all it needs."
+  ],
+  "storage": "Keep covered in the freezer for up to 5 days. Soften for 10 min before scooping.",
+  "allergens": [
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 221,
+    "protein_g": 2.3,
+    "carbs_g": 36.4,
+    "sugar_g": 29.8,
+    "free_sugar_g": 29.7,
+    "fat_g": 8.7,
+    "satfat_g": 5.0,
+    "salt_g": 0.15,
+    "fibre_g": 3.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Glossy almost-black chocolate sorbet scoops in a white bowl.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

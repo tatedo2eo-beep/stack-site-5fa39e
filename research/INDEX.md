@@ -299,6 +299,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-vanilla-creme-brulee | Crème brûlée | Classic | 3 | 5 |
 | clear-raspberry-jelly-domes | Jelly (gelatin) | Classic | 0 | 3 |
 | clear-white-chicken-stock-slow-simmered | White/brown chicken | Classic | 2 | 4 |
+| clementine-sorbet-blender | Sorbet | Clementine | 1 | 3 |
 | cocoa-dusted-dark-chocolate-truffles | Truffles | Classic | 3 | 5 |
 | coconut-hot-chocolate-meringue-top | Hot chocolate (French chocolat chaud, Spanish thick) | Coconut | 1 | 3 |
 | coconut-key-lime-yogurt-muffins | American muffin (blueberry style, muffin method) | Coconut & Key lime | 1 | 3 |
@@ -334,6 +335,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | creamy-grits-butter-chives | Grits | Classic | 2 | 4 |
 | creamy-lemon-chicken-fettuccine-peas | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Chicken | 1 | 3 |
 | creamy-oat-porridge-banana-blueberries | Porridge/oatmeal | Classic | 2 | 4 |
+| creamy-persimmon-black-tea-sorbet | Sorbet | Persimmon | 1 | 3 |
 | creamy-potato-salad | Potato salad | Classic | 2 | 4 |
 | creamy-rice-pudding-red-berry-compote | Rice pudding | Classic | 2 | 4 |
 | creamy-two-cabbage-coleslaw | Coleslaw | Classic | 3 | 5 |
@@ -394,6 +396,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | dark-chocolate-orange-mousse | Chocolate mousse | Orange | 3 | 5 |
 | dark-chocolate-orange-tart-candied-slices | Chocolate tart | Orange | 2 | 4 |
 | dark-chocolate-philadelphia-ice-cream | Philadelphia (no egg) | Dark chocolate | 1 | 3 |
+| dark-chocolate-sorbet | Sorbet | Chocolate | 1 | 3 |
 | dark-molasses-bran-muffins | Bran muffins | Classic | 2 | 4 |
 | dark-salted-caramel-custard-ice-cream | Custard-base (French) | Salted caramel | 1 | 3 |
 | dashi-kombu-bonito-japanese-stock | Dashi | Classic | 3 | 5 |
@@ -473,6 +476,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fresh-limeade-mashed-zest-mint | Limeade | Classic | 2 | 4 |
 | fresh-mint-chocolate-cookie-philadelphia-ice-cream | Philadelphia (no egg) | Mint | 1 | 3 |
 | fresh-mint-dark-chocolate-custard-ice-cream | Custard-base (French) | Chocolate & mint | 2 | 4 |
+| fresh-mint-lemon-sorbet | Sorbet | Mint | 1 | 3 |
 | fresh-mint-parsley-sauce | Mint sauce | Classic | 1 | 3 |
 | fresh-orange-sherbet-creamy | Sherbet | Classic | 1 | 3 |
 | fresh-peach-custard-ice-cream | Custard-base (French) | Peach | 1 | 3 |
@@ -542,6 +546,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gravlax-brown-sugar-pressed-dill-salmon-lemon | Gravlax | Dill (classic) | 1 | 3 |
 | gravlax-salt-sugar-dill-cured-salmon-mustard-sauce | Gravlax | Classic | 1 | 3 |
 | greek-mint-oregano-meatballs | Meatballs | Greek (mint-oregano) | 2 | 4 |
+| green-apple-sorbet-no-cook | Sorbet | Apple | 1 | 3 |
 | green-bean-casserole-crispy-onions | Green bean casserole | Classic | 2 | 4 |
 | green-beans-amandine-brown-butter | Green beans almondine | Classic | 2 | 4 |
 | green-cardamom-custard-ice-cream | Custard-base (French) | Cardamom | 1 | 3 |
@@ -627,6 +632,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | japanese-style-beef-curry-carrots-potatoes-spiced-roux | Japanese curry | Classic | 4 | 6 |
 | japchae | Japchae | Classic | 3 | 5 |
 | jasmine-tea-cherry-custard-ice-cream | Custard-base (French) | Jasmine | 1 | 3 |
+| jasmine-tea-rose-petal-sorbet | Sorbet | Jasmine & rose | 1 | 3 |
 | jerk-chicken | Jerk | Classic | 2 | 4 |
 | jian-dui-sesame-balls-red-bean | Sesame ball | Classic | 1 | 3 |
 | juicy-lucy | Juicy Lucy (stuffed) | Classic | 2 | 5 |
@@ -773,6 +779,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | nigerian-goat-pepper-soup-scent-leaf | Pepper soup | Classic | 1 | 3 |
 | nigerian-puff-puff-nutmeg | Puff-puff | Classic | 2 | 4 |
 | nigerian-spiced-beef-suya | Suya | Classic | 2 | 4 |
+| no-cook-peach-sorbet | Sorbet | Peach | 1 | 3 |
 | noodle-kugel | Kugel | Classic | 3 | 5 |
 | nordic-seeded-whole-grain-rye-loaf | Rye/pumpernickel | Seeded | 1 | 3 |
 | northern-thai-coconut-curry-noodle-soup-chicken | Khao soi | Chicken | 3 | 5 |
@@ -869,6 +876,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | peanut-horchata-sorbet | Sorbet | Peanut | 1 | 3 |
 | pear-tarte-tatin-dry-caramel | Tarte Tatin | Pear | 1 | 3 |
 | pear-upside-down-cake | Upside-down | Pear | 2 | 4 |
+| pear-vanilla-pod-sorbet | Sorbet | Pear & vanilla | 1 | 3 |
 | pearl-barley-with-mushrooms | Barley | Classic | 1 | 3 |
 | pearl-sugar-chouquettes | Chouquettes | Classic | 2 | 4 |
 | pearl-sugar-tarte-tropezienne | Tropézienne | Classic | 0 | 3 |
@@ -899,6 +907,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pineapple-upside-down-cake | Upside-down | Pineapple | 2 | 4 |
 | pink-grapefruit-marmalade | Marmalade | Grapefruit | 2 | 4 |
 | pink-lemonade-raspberry-syrup | Lemonade | Pink | 2 | 4 |
+| pink-rhubarb-sorbet | Sorbet | Rhubarb | 1 | 3 |
 | piri-piri-chicken | Piri-piri | Classic | 2 | 4 |
 | pistachio-baklava-green-pistachio-squares | Baklava | Pistachio | 3 | 5 |
 | pistachio-chocolate-chip-brownies | Brownie (fudgy or cakey) | Pistachio | 1 | 3 |
@@ -947,6 +956,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pumpkin-almond-tart-orange | Frangipane | Pumpkin | 1 | 3 |
 | pumpkin-chocolate-chip-cookie-bars | Bars (magic bars, millionaire's shortbread) | Pumpkin & chocolate | 1 | 3 |
 | pumpkin-cream-cheese-blondies | Blondies | Pumpkin & cream cheese | 1 | 3 |
+| pumpkin-ginger-spiced-sorbet | Sorbet | Pumpkin | 1 | 3 |
 | pumpkin-soup-caramelised-onion-sage | Pumpkin soup | Classic | 2 | 4 |
 | pumpkin-spice-custard-ice-cream | Custard-base (French) | Pumpkin | 1 | 3 |
 | pumpkin-spice-latte-butternut-maple | Latte | Pumpkin spice | 1 | 3 |
@@ -1043,6 +1053,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | seared-scallops-garlic-thyme-butter-lemon | Seared scallops | Classic | 4 | 6 |
 | seasoned-short-grain-rice-for-sushi | Sushi rice | Classic | 3 | 5 |
 | seeded-molasses-wholemeal-rolls | Dinner rolls | Molasses | 1 | 3 |
+| seedless-raspberry-sorbet | Sorbet | Raspberry | 1 | 3 |
 | semolina-sesame-grissini | Grissini | Sesame | 2 | 4 |
 | sesame-ssamjang-dipping-paste | Ssamjang | Classic | 1 | 3 |
 | seven-layer-bean-dip-guacamole-cheddar-pico-de-gallo | Seven-layer dip | Classic | 2 | 4 |
@@ -1287,6 +1298,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | vine-leaves-stuffed-herbed-rice-lemon | Dolma/stuffed vine leaves | Classic | 2 | 4 |
 | warm-ras-el-hanout-blend | Ras el hanout | Classic | 1 | 3 |
 | watermelon-lime-agua-fresca-mint | Agua fresca | Classic | 2 | 4 |
+| watermelon-yoghurt-sorbet-no-churn | Sorbet | Watermelon | 1 | 3 |
 | west-african-tomato-pepper-rice-thyme-bay | Jollof | Classic | 3 | 5 |
 | whipped-dalgona-coffee-cold-milk | Dalgona coffee | Classic | 2 | 4 |
 | whipped-garlic-toum | Toum | Classic | 2 | 4 |

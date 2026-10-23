@@ -1,0 +1,125 @@
+{
+  "slug": "seedless-raspberry-sorbet",
+  "title": "Seedless Raspberry Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Raspberry",
+  "flavour_order": 13,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Sieved raspberries in a light syrup with corn syrup replace the mango and lime; part of the base is frozen first so it churns quickly.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A vivid, smooth raspberry sorbet: the purée is sieved free of seeds and part of the base is frozen ahead so it churns extra smooth.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 5,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "blender",
+    "fine sieve",
+    "large jug",
+    "freezer container with lid",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Sorbet",
+      "qty": 180,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 140,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 50,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 600,
+      "unit": "g",
+      "item": "raspberries (fresh or thawed frozen)"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Syrup",
+      "text": "Warm the water, sugar and salt in the small pan just until the sugar dissolves, then cool for 10 min."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the raspberries, the warm syrup, corn syrup and lemon juice for 30 seconds."
+    },
+    {
+      "title": "Sieve",
+      "text": "Press it through the sieve with the back of a ladle, scraping the underside, until only dry seeds are left."
+    },
+    {
+      "title": "Split and chill",
+      "text": "Pour 250 ml into a small bowl and freeze it; refrigerate the rest. Leave both for at least 4 h."
+    },
+    {
+      "title": "Combine",
+      "text": "Scrape the frozen portion into the cold base and stir until it melts; this makes the mix extra cold so it churns faster and smoother."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn for 15-25 min, until thick and paler, pack firmly into the container and freeze for at least 2 h."
+    }
+  ],
+  "tips": [
+    "Frozen raspberries are just as good as fresh here; thaw them first.",
+    "Scrape the underside of the sieve; a lot of the thick purée clings there.",
+    "Serve with a little whipped cream or a crisp biscuit."
+  ],
+  "storage": "Keep covered in the freezer for up to 5 days. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 125,
+    "protein_g": 0.9,
+    "carbs_g": 31.4,
+    "sugar_g": 25.6,
+    "free_sugar_g": 22.3,
+    "fat_g": 0.5,
+    "satfat_g": 0.0,
+    "salt_g": 0.11,
+    "fibre_g": 4.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Vivid red raspberry sorbet scoops topped with fresh raspberries.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

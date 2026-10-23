@@ -1,0 +1,143 @@
+{
+  "slug": "pumpkin-ginger-spiced-sorbet",
+  "title": "Pumpkin and Ginger Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Pumpkin",
+  "flavour_order": 18,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Pumpkin purée cooked with cloudy apple juice, fresh ginger and warm spices replaces the mango and lime.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "An autumn sorbet of pumpkin purée cooked with cloudy apple juice, fresh ginger and warm spices.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "small saucepan",
+    "whisk",
+    "bowl",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Sorbet",
+      "qty": 300,
+      "unit": "g",
+      "item": "smooth pumpkin or butternut purée (tinned or homemade)"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 650,
+      "unit": "ml",
+      "item": "cloudy apple juice"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh ginger, peeled and very finely chopped"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 50,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 21,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Spice",
+      "text": "Whisk the pumpkin with 250 ml of the apple juice in the pan until smooth, then add the ginger, spices, brown sugar and honey."
+    },
+    {
+      "title": "Cook",
+      "text": "Bring to a gentle simmer and cook on low for 15 min, stirring now and then, so the spices lose their raw taste."
+    },
+    {
+      "title": "Loosen",
+      "text": "Tip into the bowl and whisk in the rest of the juice and the vanilla. Chill for at least 4 h, or overnight."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn until thick, like soft mashed potato, 30-45 min."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for at least 2 h. It sets hard, so move it to the fridge 30-60 min before scooping."
+    }
+  ],
+  "tips": [
+    "Use plain pumpkin purée, not spiced pie filling.",
+    "Cloudy pressed apple juice tastes fuller than clear juice.",
+    "Top with toasted pumpkin seeds for crunch."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 88,
+    "protein_g": 0.6,
+    "carbs_g": 21.7,
+    "sugar_g": 17.6,
+    "free_sugar_g": 16.3,
+    "fat_g": 0.3,
+    "satfat_g": 0.1,
+    "salt_g": 0.02,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Burnt-orange pumpkin sorbet scoops dusted with cinnamon.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

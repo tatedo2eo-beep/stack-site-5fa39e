@@ -1,0 +1,106 @@
+{
+  "slug": "fresh-mint-lemon-sorbet",
+  "title": "Fresh Mint Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Mint",
+  "flavour_order": 17,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "A fresh mint syrup made on the hob and sharpened with lemon replaces the fruit; no corn syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Clean and cooling: a syrup steeped with whole bunches of fresh mint, sharpened with lemon juice and churned.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "medium saucepan with lid",
+    "fine sieve",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Mint syrup",
+      "qty": 250,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Mint syrup",
+      "qty": 600,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Mint syrup",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large bunches fresh mint, stems on (about 60 g)"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 100,
+      "unit": "ml",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dissolve",
+      "text": "Stir the sugar into the water in the pan over medium heat until the base is free of grains, then bring to the boil."
+    },
+    {
+      "title": "Steep",
+      "text": "Push the mint into the syrup, take it off the heat, cover and leave until cool, about 1 h."
+    },
+    {
+      "title": "Strain",
+      "text": "Pour through the sieve, pressing the leaves to get every drop, then chill for several hours or overnight."
+    },
+    {
+      "title": "Churn",
+      "text": "Whisk in the lemon juice and churn for 20-25 min."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for 2 h. Serve in small glasses with a mint sprig."
+    }
+  ],
+  "tips": [
+    "Spearmint gives a sweet, classic flavour.",
+    "Do not boil the mint in the syrup; steeping off the heat keeps it fresh.",
+    "Serve as a palate cleanser in small glasses."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 166,
+    "protein_g": 0.1,
+    "carbs_g": 42.9,
+    "sugar_g": 42.0,
+    "free_sugar_g": 42.0,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale green mint sorbet in small glasses, each with a mint sprig.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

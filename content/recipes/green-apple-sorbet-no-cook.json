@@ -1,0 +1,102 @@
+{
+  "slug": "green-apple-sorbet-no-cook",
+  "title": "Green Apple Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Apple",
+  "flavour_order": 14,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Raw Granny Smith apples puréed with lemon and icing sugar replace the mango; no cooked syrup and no corn syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Crisp, tart and pale green-white: raw Granny Smith apples puréed with lemon and icing sugar and churned straight away.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "food processor",
+    "vegetable peeler",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Sorbet",
+      "qty": 6,
+      "unit": "pc",
+      "item": "Granny Smith apples (about 1.2 kg)"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 200,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 100,
+      "unit": "ml",
+      "item": "cold water"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Lemon first",
+      "text": "Put the lemon juice in the food processor bowl before you cut anything."
+    },
+    {
+      "title": "Cut",
+      "text": "Peel and core one apple at a time, slice it thinly straight into the bowl and toss with the juice so it does not brown. Purée: add the icing sugar and cold water and process, scraping down twice, until completely smooth, 2-3 min."
+    },
+    {
+      "title": "Churn at once",
+      "text": "Churn straight away for 20-25 min while the purée is still pale."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pack into the container and freeze for 2 h. Serve with thin slices of fresh apple."
+    }
+  ],
+  "tips": [
+    "Work quickly once the apples are cut; the lemon juice stops them browning.",
+    "Granny Smith apples give the best sharp flavour.",
+    "Serve between courses as a palate cleanser."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 164,
+    "protein_g": 0.4,
+    "carbs_g": 42.7,
+    "sugar_g": 37.6,
+    "free_sugar_g": 24.6,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 3.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale green-white apple sorbet scoops with thin slices of green apple.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

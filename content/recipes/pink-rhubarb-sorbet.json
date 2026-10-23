@@ -1,0 +1,109 @@
+{
+  "slug": "pink-rhubarb-sorbet",
+  "title": "Rhubarb Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Rhubarb",
+  "flavour_order": 16,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Rhubarb simmered with sugar, a little salt and lemon replaces the mango and lime; no corn syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Tangy, pale pink and refreshing: rhubarb simmered with sugar and lemon and blended to a smooth purée before churning.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "wide stainless-steel or enamelled pan",
+    "blender",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Sorbet",
+      "qty": 600,
+      "unit": "g",
+      "item": "pink rhubarb, trimmed and cut in 2 cm pieces"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 220,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 300,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simmer",
+      "text": "Put the rhubarb, sugar, water, salt and lemon juice in the wide pan and cook over medium heat for 8-10 min, until the rhubarb falls apart. Purée: blend until completely smooth, about 2 min."
+    },
+    {
+      "title": "Cool",
+      "text": "Pour into a jug, cool, then cover and chill well; the purée keeps for 2 days in the fridge."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn for 20-25 min."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pack into the container and freeze for about 1 h, until firm. Soften for 10 min before scooping."
+    }
+  ],
+  "tips": [
+    "Pink forced rhubarb gives the prettiest colour.",
+    "Use a stainless-steel or enamelled pan; rhubarb reacts with aluminium.",
+    "Serve with a spoon of thick yoghurt or a shortbread finger."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 164,
+    "protein_g": 0.9,
+    "carbs_g": 41.5,
+    "sugar_g": 37.8,
+    "free_sugar_g": 36.7,
+    "fat_g": 0.2,
+    "satfat_g": 0.1,
+    "salt_g": 0.26,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Soft pink rhubarb sorbet scoops with a few pieces of rhubarb stalk.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

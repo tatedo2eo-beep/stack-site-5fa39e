@@ -1,0 +1,115 @@
+{
+  "slug": "creamy-persimmon-black-tea-sorbet",
+  "title": "Creamy Persimmon Sorbet with Black Tea",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Persimmon",
+  "flavour_order": 8,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Ripe persimmon blended with sugar and loosened with cold black tea replaces the mango and lime; no corn syrup, no cooked syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Very ripe persimmons blend into a naturally creamy purée; a splash of strong black tea adds depth and a gentle tannic edge.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "blender",
+    "fine sieve",
+    "large jug",
+    "freezer container with lid",
+    "kettle"
+  ],
+  "ingredients": [
+    {
+      "group": "Sorbet",
+      "qty": 5,
+      "unit": "pc",
+      "item": "very ripe, soft persimmons (about 700 g)"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 110,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 120,
+      "unit": "ml",
+      "item": "strong black tea, cooled"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice, or to taste"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Tea",
+      "text": "Pour 150 ml boiling water over 2 black teabags, leave for 5 min, squeeze them out, then measure 120 ml and let it cool."
+    },
+    {
+      "title": "Prepare the fruit",
+      "text": "Pull off the persimmon leaves, peel the fruit with a small knife and chop the flesh, discarding any seeds. Purée: blend the flesh with the sugar on high for about 30 seconds, until completely smooth and glossy."
+    },
+    {
+      "title": "Strain and season",
+      "text": "Sieve the purée, measure 500 ml into the jug and whisk in the tea, lemon juice and salt. Taste and adjust the lemon."
+    },
+    {
+      "title": "Chill",
+      "text": "Put the jug in the freezer for 2-3 h, stirring once, until icy cold."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn for 20-25 min, then freeze for 4 h for a firmer scoop."
+    }
+  ],
+  "tips": [
+    "Use persimmons so soft they feel like water balloons; firm ones taste chalky.",
+    "Any leftover purée is lovely stirred into yoghurt.",
+    "Swap the tea for water if you prefer a pure fruit flavour."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 137,
+    "protein_g": 0.5,
+    "carbs_g": 35.8,
+    "sugar_g": 30.0,
+    "free_sugar_g": 18.3,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.25,
+    "fibre_g": 3.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Smooth deep-orange persimmon sorbet scooped into a small ceramic bowl.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

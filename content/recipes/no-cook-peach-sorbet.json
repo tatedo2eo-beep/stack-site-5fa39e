@@ -1,0 +1,110 @@
+{
+  "slug": "no-cook-peach-sorbet",
+  "title": "No-Cook Peach Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Peach",
+  "flavour_order": 9,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Raw ripe peaches with their skins, blended straight with sugar, replace the mango; less lime and no cooked syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Ripe peaches blended raw with their skins on give a blush-coloured sorbet that tastes exactly like summer fruit.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "blender",
+    "fine sieve",
+    "large jug",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Sorbet",
+      "qty": 1200,
+      "unit": "g",
+      "item": "ripe peaches (fresh or frozen), stoned and diced, skins left on"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 190,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 30,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Strain",
+      "text": "Push the purée through the sieve into the jug; you should have about 1 litre. Discard the skins."
+    },
+    {
+      "title": "Season",
+      "text": "Add the salt, stir and taste; a pinch more brings out the peach."
+    },
+    {
+      "title": "Chill",
+      "text": "Press baking paper onto the surface and refrigerate for 2-3 h, until very cold."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn for 20-25 min, pack into the container and freeze for 2-3 h, until firm."
+    }
+  ],
+  "tips": [
+    "Leave the skins on; they add colour and flavour and are sieved out later.",
+    "Frozen peach slices work very well out of season.",
+    "Taste the purée cold; flavours are muted when frozen, so it should taste slightly too sweet."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 161,
+    "protein_g": 1.4,
+    "carbs_g": 41.0,
+    "sugar_g": 39.2,
+    "free_sugar_g": 26.6,
+    "fat_g": 0.4,
+    "satfat_g": 0.0,
+    "salt_g": 0.1,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Soft peach-coloured sorbet scoops beside slices of ripe peach.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}
