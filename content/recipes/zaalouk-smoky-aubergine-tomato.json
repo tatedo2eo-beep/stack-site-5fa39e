@@ -1,0 +1,144 @@
+{
+  "slug": "zaalouk-smoky-aubergine-tomato",
+  "title": "Zaalouk (Moroccan Smoky Aubergine and Tomato Salad)",
+  "category": "snacks-sides",
+  "cuisine": "Moroccan",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "zaalouk",
+  "dish_title": "Zaalouk",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Grill-charred aubergine cooked down with tomatoes, garlic, cumin, paprika and cayenne in olive oil, then finished with fresh coriander and lemon juice.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 50,
+  "difficulty": "easy",
+  "equipment": [
+    "rimmed baking tray lined with foil",
+    "paring knife",
+    "chopping board",
+    "30 cm non-stick frying pan",
+    "wooden spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Aubergine",
+      "qty": 700,
+      "unit": "g",
+      "item": "aubergines (about 2 medium)"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil, plus extra to serve"
+    },
+    {
+      "group": "Sauce",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Sauce",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2.1,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 0.5 tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 450,
+      "unit": "g",
+      "item": "ripe tomatoes, peeled and chopped"
+    },
+    {
+      "group": "To finish",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "chopped fresh coriander, divided"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice, plus extra to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Char the aubergines",
+      "text": "Heat the grill (broiler) to high with a shelf about 25 cm below. Prick each aubergine about 6 times, put them on the tray and grill for about 25 min, turning halfway, until the skins are shrivelled and darkened and the flesh is very soft. Cool for 10 min, then peel and chop the flesh. Charring the skins gives the dish its smoky flavour."
+    },
+    {
+      "title": "Bloom the spices",
+      "text": "Heat 2 tbsp oil in the pan over medium heat. Add the garlic, cumin, paprika, cayenne, salt and sugar and stir for about 1 min until fragrant."
+    },
+    {
+      "title": "Simmer",
+      "text": "Add the tomatoes and cook for about 10 min, stirring, until thickened. Stir in the aubergine and the remaining 2 tbsp oil and cook for 10-15 min more, mashing with the spoon, until thick and jammy with no watery liquid left."
+    },
+    {
+      "title": "Finish",
+      "text": "Take the pan off the heat and stir in 2 tbsp coriander and the lemon juice. Serve warm or at room temperature, drizzled with oil and scattered with the remaining coriander, with bread."
+    }
+  ],
+  "tips": [
+    "You can char the aubergines directly over a gas flame for even more smoke.",
+    "Taste and add more lemon or cayenne to your liking.",
+    "Serve as a dip, a side for grilled meats, or as part of a spread of salads."
+  ],
+  "storage": "Refrigerate covered up to 4 days. Serve at room temperature or warm gently. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 197,
+    "protein_g": 3.2,
+    "carbs_g": 17.6,
+    "sugar_g": 9.9,
+    "free_sugar_g": 0.6,
+    "fat_g": 14.3,
+    "satfat_g": 2.0,
+    "salt_g": 1.48,
+    "fibre_g": 7.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "zaalouk-basic.jpg",
+  "image_alt": "A bowl of red aubergine and tomato mash topped with fresh coriander.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

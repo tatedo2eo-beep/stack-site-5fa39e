@@ -50,6 +50,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | black-olive-tapenade-capers-anchovy-thyme | Tapenade | Classic | 3 | 5 |
 | blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
 | boiled-eggs-spiced-onion-tomato-coconut-curry | Egg curry | Classic | 3 | 5 |
+| borani-esfenaj-spinach-yoghurt-dip | Borani | Classic | 2 | 4 |
 | boston-cream-pie | Boston cream pie | Classic | 2 | 4 |
 | braided-greek-tsoureki-orange-mahleb | Tsoureki | Classic | 2 | 4 |
 | braised-beef-pot-roast | Pot roast | Classic | 2 | 4 |
@@ -61,6 +62,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | brown-butter-chocolate-chip-cookies | Brown-butter chocolate chip cookie | Classic | 2 | 4 |
 | brown-butter-mashed-potatoes | Mashed | Brown butter | 2 | 4 |
 | brown-sugar-shortbread | Shortbread | Brown sugar | 1 | 5 |
+| bubble-and-squeak-savoy-cabbage | Bubble and squeak | Classic | 2 | 4 |
 | buffalo-chicken-burger | Chicken burger | Buffalo | 3 | 8 |
 | buffalo-chicken-wings | Chicken wings | Buffalo | 4 | 6 |
 | butter-chicken | Butter chicken | Classic | 2 | 4 |
@@ -233,6 +235,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | dashi-kombu-bonito-japanese-stock | Dashi | Classic | 3 | 5 |
 | deep-caramelised-french-onion-dip-chives-crisps | French onion dip | Classic | 3 | 5 |
 | detroit-style-pan-pizza-crisp-cheese-edges-tomato-stripes | Pan/Detroit | Classic | 3 | 5 |
+| di-san-xian-potato-aubergine-green-pepper | Di san xian | Classic | 2 | 4 |
 | dill-cucumber-tzatziki | Tzatziki | Classic | 2 | 4 |
 | dill-pickle-deviled-eggs-sour-cream | Deviled eggs | Dill | 2 | 4 |
 | dill-potato-salad | Potato salad | Dill | 2 | 4 |
@@ -248,6 +251,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | eggs-royale-smoked-salmon-poached-eggs-lemon-hollandaise | Eggs Royale (smoked-salmon Benedict) | Classic | 3 | 5 |
 | egusi-soup-beef-spinach-palm-oil | Egusi soup | Classic | 2 | 4 |
 | ensaladilla-rusa-tuna-peppers | Ensaladilla rusa | Classic | 2 | 4 |
+| escalivada-roasted-peppers-aubergine-onion | Escalivada | Classic | 2 | 4 |
 | ethiopian-berbere-beef-tibs | Tibs | Classic | 2 | 4 |
 | everyday-chicken-curry | Chicken curry | Classic | 3 | 6 |
 | extra-crunchy-buttermilk-onion-rings-horseradish-dip | Onion ring | Classic | 2 | 4 |
@@ -300,6 +304,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gnocchi-cherry-tomato | Gnocchi | Tomato | 3 | 5 |
 | gnocchi-pesto | Gnocchi | Pesto | 3 | 5 |
 | goan-style-coconut-fish-curry-rice | Fish curry | Classic | 4 | 6 |
+| golden-braised-endive-lemon-thyme | Braised endive | Classic | 3 | 5 |
 | golden-brown-butter-skillet-cornbread | Cornbread | Classic | 2 | 4 |
 | golden-butter-brioche-loaf | Brioche | Classic | 3 | 5 |
 | golden-cauliflower-cheese | Cauliflower cheese | Classic | 2 | 4 |
@@ -530,6 +535,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | poutine-fries-curds-gravy | Poutine | Classic | 3 | 5 |
 | prawn-fried-rice-egg-peas-sweetcorn | Fried rice | Shrimp | 3 | 5 |
 | pressed-pesto-mozzarella-tomato-panini | Panini | Classic | 2 | 4 |
+| provencal-vegetable-tian-thyme-garlic | Tian | Classic | 2 | 4 |
 | provolone-philly-cheesesteaks-melted-provolone-onions | Philly cheesesteak | Provolone | 2 | 4 |
 | pumpkin-soup-caramelised-onion-sage | Pumpkin soup | Classic | 2 | 4 |
 | pumpkin-whoopie-pies | Whoopie pie | Pumpkin | 2 | 4 |
@@ -732,6 +738,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | yeasted-buckwheat-blini-soured-cream-jam | Blini | Classic | 2 | 4 |
 | yellow-butter-cake-chocolate-frosting | Butter/layer cake (yellow/vanilla) | Classic | 3 | 5 |
 | yellow-sheet-cake | Sheet cake | Classic | 2 | 4 |
+| zaalouk-smoky-aubergine-tomato | Zaalouk | Classic | 2 | 4 |
 | zaatar-flatbreads-olive-oil-cucumber-tomato-mint | Manakish | Classic | 2 | 4 |
 
 Flavour maps: [smash-burger-flavours.md](smash-burger-flavours.md) (extra flavours ON HOLD per Joe's final rule: book flavours only).

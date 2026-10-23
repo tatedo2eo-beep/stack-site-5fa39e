@@ -1,0 +1,132 @@
+{
+  "slug": "golden-braised-endive-lemon-thyme",
+  "title": "Golden Braised Endive with Lemon and Thyme",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "braised-endive",
+  "dish_title": "Braised endive",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Halved Belgian endives browned in butter with a little sugar, braised with water and thyme until tender, then glazed with the reduced juices, butter and lemon and finished with parsley.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "30 cm heavy frying pan with lid",
+    "tongs",
+    "paring knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Endive",
+      "qty": 45,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "30 g to brown, 15 g to finish"
+    },
+    {
+      "group": "Endive",
+      "qty": 2.1,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 0.5 tsp"
+    },
+    {
+      "group": "Endive",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Endive",
+      "qty": 4,
+      "unit": "pc",
+      "item": "heads Belgian endive, halved lengthwise",
+      "note": "about 120 g each"
+    },
+    {
+      "group": "Braise",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Braise",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "fresh thyme leaves"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "chopped fresh parsley"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown the endive",
+      "text": "Melt 30 g butter in the pan over medium-high heat. When the foam subsides, sprinkle the sugar and salt over the base and lay in the endive halves cut side down. Cook for about 5 min, shaking the pan now and then, until deep golden. Turn and brown the curved sides for about 3 min, then turn them cut side down again. The sugar helps the browning and balances the bitterness."
+    },
+    {
+      "title": "Braise",
+      "text": "Add the water and thyme, turn the heat to low, cover tightly and simmer for 12-15 min, adding 2 tbsp more water if the pan dries out, until a knife slides into the root end with little resistance."
+    },
+    {
+      "title": "Make the glaze",
+      "text": "Lift the endive onto a plate. Turn the heat to high and boil the juices for about 1 min until syrupy, then take the pan off the heat and whisk in the remaining 15 g butter and the lemon juice."
+    },
+    {
+      "title": "Serve",
+      "text": "Return the endive to the pan and turn to coat in the glaze. Scatter with parsley and pepper and serve."
+    }
+  ],
+  "tips": [
+    "Choose firm, tightly closed heads with pale yellow tips; green tips mean more bitterness.",
+    "Serve with roast chicken, grilled fish or steak.",
+    "A few drops of extra lemon at the table brightens the dish."
+  ],
+  "storage": "Best eaten fresh. Refrigerate covered up to 2 days and reheat gently in a covered pan until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 105,
+    "protein_g": 1.7,
+    "carbs_g": 4.9,
+    "sugar_g": 0.9,
+    "free_sugar_g": 0.6,
+    "fat_g": 9.4,
+    "satfat_g": 5.8,
+    "salt_g": 0.8,
+    "fibre_g": 3.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "braised-endive-advanced.jpg",
+  "image_alt": "Halved Belgian endives braised golden and glazed, scattered with chopped parsley.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

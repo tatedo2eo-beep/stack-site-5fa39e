@@ -1,0 +1,157 @@
+{
+  "slug": "borani-esfenaj-spinach-yoghurt-dip",
+  "title": "Borani Esfenaj (Persian Spinach and Yoghurt Dip)",
+  "category": "snacks-sides",
+  "cuisine": "Persian",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "borani",
+  "dish_title": "Borani",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Spinach wilted with golden fried onion, garlic and turmeric, cooked dry, then folded into Greek yoghurt with lemon and chilled; served with olive oil and mint.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "30 cm frying pan",
+    "tongs",
+    "mixing bowl",
+    "serving bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Spinach",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil, plus extra to serve"
+    },
+    {
+      "group": "Spinach",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Spinach",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Spinach",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Spinach",
+      "qty": 350,
+      "unit": "g",
+      "item": "baby spinach"
+    },
+    {
+      "group": "Spinach",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Spinach",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Yoghurt",
+      "qty": 250,
+      "unit": "g",
+      "item": "Greek-style yoghurt"
+    },
+    {
+      "group": "Yoghurt",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "plain yoghurt, plus extra to thin"
+    },
+    {
+      "group": "Yoghurt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Yoghurt",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Yoghurt",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 6,
+      "unit": "pc",
+      "item": "fresh mint leaves, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown the onion",
+      "text": "Heat the oil in the pan over medium-high heat and cook the onion for 6-8 min, stirring, until golden brown. Turn the heat to medium-low, add the garlic for 2 min, then the turmeric for 30 seconds."
+    },
+    {
+      "title": "Wilt the spinach",
+      "text": "Add half the spinach and toss with tongs over medium heat until wilted, then add the rest with 1/2 tsp salt and the pepper. Cook for 3-5 min until wilted and all the liquid has evaporated, so the dip will not turn watery. Tip into the bowl and cool to room temperature."
+    },
+    {
+      "title": "Combine",
+      "text": "Stir in the Greek yoghurt, plain yoghurt, lemon zest, lemon juice and remaining salt, thinning with a little more plain yoghurt if it is very thick."
+    },
+    {
+      "title": "Chill and serve",
+      "text": "Cover and refrigerate for at least 2 hours, or up to 24. Stir, spoon into the serving bowl, drizzle with oil and top with mint leaves. Serve with flatbread."
+    }
+  ],
+  "tips": [
+    "Squeeze any remaining liquid from the cooled spinach before mixing it in.",
+    "Chop the cooled spinach if you prefer a smoother dip.",
+    "A few chopped walnuts on top add crunch."
+  ],
+  "storage": "Refrigerate covered up to 3 days. Stir before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 129,
+    "protein_g": 6.0,
+    "carbs_g": 7.1,
+    "sugar_g": 3.3,
+    "free_sugar_g": 0.1,
+    "fat_g": 9.2,
+    "satfat_g": 2.1,
+    "salt_g": 1.13,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "borani-basic.jpg",
+  "image_alt": "A bowl of pale green spinach and yoghurt dip drizzled with oil and topped with mint leaves.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "escalivada-roasted-peppers-aubergine-onion",
+  "title": "Escalivada (Catalan Roasted Peppers, Aubergine and Onion)",
+  "category": "snacks-sides",
+  "cuisine": "Spanish",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "escalivada",
+  "dish_title": "Escalivada",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Red peppers, aubergines and onions roasted until meltingly soft, steamed, peeled and torn into strips, then dressed with olive oil, garlic, cider vinegar and smoked paprika.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 60,
+  "difficulty": "easy",
+  "equipment": [
+    "large rimmed baking tray",
+    "clean tea towel",
+    "chopping board",
+    "large shallow serving dish",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "pc",
+      "item": "red peppers",
+      "note": "about 200 g each"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium aubergines",
+      "note": "about 300 g each"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium onions, unpeeled",
+      "note": "about 150 g each"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "smoked paprika (pimentón)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped fresh parsley"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast the vegetables",
+      "text": "Heat the oven to 190 °C (170 °C fan). Halve the peppers, aubergines and unpeeled onions from top to bottom and lay them skin side up on the tray. Rub all over with 3 tbsp oil and roast for about 1 hour, until very soft and the skins are blistered and browned in places."
+    },
+    {
+      "title": "Steam",
+      "text": "Cover the tray with the tea towel and leave for 15 min. The trapped steam loosens the skins so they slip off easily."
+    },
+    {
+      "title": "Peel and tear",
+      "text": "Pull the skins, seeds and stems from the peppers, scoop the aubergine flesh from its skin, and peel the onions and separate their layers. Tear or cut everything into 1-2 cm strips and arrange them in the serving dish."
+    },
+    {
+      "title": "Dress and rest",
+      "text": "Whisk the remaining 3 tbsp oil with the garlic, vinegar, paprika, salt and pepper, pour over the vegetables and turn gently. Leave for at least 1 hour, or refrigerate overnight, so the vegetables soak up the dressing. Serve at room temperature, scattered with parsley."
+    }
+  ],
+  "tips": [
+    "Save any juices from the tray and add them to the dressing; they are full of flavour.",
+    "If you have a barbecue going, char the vegetables over the coals for the authentic smoky taste.",
+    "Serve on toasted bread, alongside grilled fish or chicken, or as part of a tapas spread."
+  ],
+  "storage": "Refrigerate covered up to 4 days; it improves after a day. Bring back to room temperature before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 281,
+    "protein_g": 3.5,
+    "carbs_g": 22.8,
+    "sugar_g": 12.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 20.7,
+    "satfat_g": 2.9,
+    "salt_g": 1.48,
+    "fibre_g": 8.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "escalivada-basic.jpg",
+  "image_alt": "Strips of roasted red pepper, aubergine and onion glistening with olive oil on a platter.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "provencal-vegetable-tian-thyme-garlic",
+  "title": "Provençal Vegetable Tian with Thyme and Garlic",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "tian",
+  "dish_title": "Tian",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Aubergine, green and yellow courgette and tomato rounds stood on edge in rings over sliced onion, seasoned with garlic, thyme and chilli flakes and baked in olive oil.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 50,
+  "difficulty": "medium",
+  "equipment": [
+    "28 cm round baking dish (about 5 cm deep)",
+    "sharp knife or mandoline",
+    "spoon for basting"
+  ],
+  "ingredients": [
+    {
+      "group": "Dish",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves",
+      "note": "1 halved, 5 thinly sliced"
+    },
+    {
+      "group": "Dish",
+      "qty": 5,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, thinly sliced",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium aubergine, cut into 1 cm rounds"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium courgettes, cut into 1 cm rounds"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "yellow courgette, cut into 1 cm rounds"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 3,
+      "unit": "pc",
+      "item": "medium tomatoes, cut into 1 cm rounds"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "chilli flakes"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fresh thyme leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the dish",
+      "text": "Heat the oven to 200 °C (180 °C fan). Rub the inside of the dish with the cut sides of the halved garlic clove, then coat the base with 2 tbsp oil and scatter the onion over it."
+    },
+    {
+      "title": "Arrange the vegetables",
+      "text": "Stand the aubergine, courgette, yellow courgette and tomato rounds on edge in alternating, tightly overlapping rings, working from the outside in, and season with the salt, pepper and chilli flakes as you go. Choosing vegetables of a similar width makes the rings neat and helps everything cook evenly."
+    },
+    {
+      "title": "Season",
+      "text": "Scatter the thyme and sliced garlic over the top and drizzle with the remaining 3 tbsp oil."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 25 min, then spoon the oil from the dish over the vegetables and bake for about 25 min more, until they are tender to the tip of a knife and browned at the edges. Basting halfway keeps the top from drying out. Rest for 10 min and serve warm or at room temperature."
+    }
+  ],
+  "tips": [
+    "Slice everything 1 cm thick so it all cooks at the same rate.",
+    "A mandoline makes quick, even work of the slicing.",
+    "Leftovers are excellent cold the next day, or stirred through pasta."
+  ],
+  "storage": "Refrigerate covered up to 3 days. Serve at room temperature or reheat in the oven until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 157,
+    "protein_g": 2.8,
+    "carbs_g": 12.2,
+    "sugar_g": 6.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 12.0,
+    "satfat_g": 1.7,
+    "salt_g": 1.01,
+    "fibre_g": 4.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tian-advanced.jpg",
+  "image_alt": "A round baking dish of courgette, aubergine and tomato rounds arranged in a tight spiral.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}
