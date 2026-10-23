@@ -1,0 +1,137 @@
+{
+  "slug": "bhatura-puffed-fried-bread",
+  "title": "Bhatura (Puffed Fried Bread)",
+  "category": "snacks-sides",
+  "cuisine": "Indian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "bhatura",
+  "dish_title": "Bhatura",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A yoghurt-raised dough rolled into rounds and deep-fried until it balloons.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "rolling pin",
+    "deep heavy pan or wok",
+    "slotted spoon",
+    "kitchen thermometer",
+    "tray lined with kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 120,
+      "unit": "g",
+      "item": "plain whole yoghurt"
+    },
+    {
+      "group": "Dough",
+      "qty": 4,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dough",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 80,
+      "unit": "ml",
+      "item": "warm water, as needed"
+    },
+    {
+      "group": "To fry",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "vegetable oil, for deep-frying",
+      "note": "about 60 ml is absorbed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Knead",
+      "text": "Mix the flour, sugar, baking powder, bicarbonate and salt, add the yoghurt and oil and enough water to make a soft dough; knead 5 min until smooth."
+    },
+    {
+      "title": "Rest",
+      "text": "Cover and leave 1-2 h."
+    },
+    {
+      "title": "Roll",
+      "text": "Divide into 8 balls and roll each into a 15 cm round about 3 mm thick, keeping them covered."
+    },
+    {
+      "title": "Fry",
+      "text": "Heat the oil to 195 °C and fry one at a time, pressing gently with the slotted spoon so it balloons, 30-40 s each side until puffed and pale golden."
+    },
+    {
+      "title": "Serve",
+      "text": "Drain on paper and serve hot, with chickpea curry (chole), sliced onion and lemon."
+    }
+  ],
+  "tips": [
+    "Keep the oil at 195 °C so the breads puff quickly.",
+    "Roll evenly; thin patches stop the bread puffing.",
+    "Serve straight away while puffed."
+  ],
+  "storage": "Best eaten immediately. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 229,
+    "protein_g": 4.4,
+    "carbs_g": 29.9,
+    "sugar_g": 1.3,
+    "free_sugar_g": 0.5,
+    "fat_g": 10.1,
+    "satfat_g": 1.1,
+    "salt_g": 0.72,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bhatura-basic.jpg",
+  "image_alt": "Two large puffed fried breads with a bowl of chickpea curry, onion rings and lemon.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

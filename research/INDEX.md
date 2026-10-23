@@ -51,6 +51,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | beef-rice-stuffed-peppers-tomato-melted-cheese | Stuffed peppers | Classic | 2 | 4 |
 | beef-stroganoff-mushrooms-noodles | Beef stroganoff | Classic | 2 | 4 |
 | bengali-spiced-tomato-chutney | Chutney | Tomato | 2 | 4 |
+| bhatura-puffed-fried-bread | Bhatura | Classic | 1 | 3 |
 | biang-biang-noodles | Biang biang/hand-pulled lamian | Classic | 2 | 4 |
 | bircher-muesli-apple-pecans-raspberries | Muesli | Classic | 2 | 4 |
 | black-and-white-cookies | Black-and-white | Classic | 2 | 4 |
@@ -112,8 +113,9 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | champ-spring-onion-mash | Champ | Classic | 1 | 3 |
 | champurrado-thick-mexican-chocolate-masa-drink | Champurrado | Classic | 2 | 4 |
 | chana-masala-chickpeas-tomato-gravy | Chickpeas (chana masala, falafel) | Classic | 2 | 4 |
-| charred-tawa-naan-yoghurt-ghee | Naan | Classic | 2 | 4 |
+| charred-tawa-naan-yoghurt-ghee | ? | ? | MISSING | |
 | charred-tomatillo-salsa-verde | Salsa | Verde | 3 | 5 |
+| chausson-aux-pommes-apple-turnovers | Chausson aux pommes | Classic | 2 | 4 |
 | cheddar-cheese-sauce | Cheese sauce | Classic | 2 | 4 |
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |
 | cheese-bread-boats-melted-mozzarella-feta-baked-egg | Khachapuri | Classic | 2 | 4 |
@@ -330,7 +332,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fish-fragrant-aubergine-yuxiang-qiezi | Dunlop fish-fragrant aubergine (yuxiang qiezi) | Classic | 1 | 3 |
 | flaky-butter-croissants-laminated | Croissant | Classic | 2 | 4 |
 | flaky-cong-you-bing-chinese-scallion-pancakes | Cong you bing | Classic | 3 | 5 |
-| flaky-layered-buttermilk-biscuits | Biscuit | Classic | 3 | 5 |
+| flaky-layered-buttermilk-biscuits | ? | ? | MISSING | |
 | flat-white-velvet-microfoam | Flat white | Classic | 2 | 4 |
 | florentines | Florentines | Classic | 2 | 4 |
 | flourless-fudgy-brownies | Flourless | Classic | 3 | 5 |
@@ -365,7 +367,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | galette-des-rois-almond-cream | Galette des rois | Classic | 2 | 4 |
 | galician-style-octopus-potatoes-smoked-paprika | Pulpo a la gallega | Classic | 4 | 6 |
 | garlic-aioli-spring-vegetables | Aioli | Classic | 1 | 3 |
-| garlic-coriander-butter-naan | Naan | Garlic | 3 | 5 |
+| garlic-coriander-butter-naan | ? | ? | MISSING | |
 | garlic-herb-olive-oil-crostini | Crostini | Classic | 2 | 4 |
 | garlic-parmesan-chicken-wings | Chicken wings | Garlic-parmesan | 3 | 5 |
 | garlic-potato-almond-skordalia-crisp-fried-cod | Skordalia | Classic | 3 | 5 |
@@ -378,7 +380,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | ginger-rhubarb-crumble | Crumble | Rhubarb | 1 | 3 |
 | gingerbread-cookies | Gingerbread | Classic | 3 | 5 |
 | glassy-salted-peanut-brittle | Brittle | Peanut | 1 | 4 |
-| glossy-braided-honey-challah | Challah | Classic | 3 | 5 |
+| glossy-braided-honey-challah | ? | ? | MISSING | |
 | glossy-candied-orange-lemon-peel | Candied citrus peel | Classic | 3 | 5 |
 | glossy-dark-chocolate-ganache | Ganache | Classic | 2 | 4 |
 | glossy-five-point-kaiser-rolls | Kaiser roll | Classic | 2 | 4 |
@@ -388,14 +390,14 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gnocchi-pesto | Gnocchi | Pesto | 3 | 5 |
 | goan-style-coconut-fish-curry-rice | Fish curry | Classic | 4 | 6 |
 | golden-braised-endive-lemon-thyme | Braised endive | Classic | 3 | 5 |
-| golden-brown-butter-skillet-cornbread | Cornbread | Classic | 2 | 4 |
+| golden-brown-butter-skillet-cornbread | ? | ? | MISSING | |
 | golden-butter-brioche-loaf | Brioche | Classic | 3 | 5 |
 | golden-cauliflower-cheese | Cauliflower cheese | Classic | 2 | 4 |
 | golden-crab-cakes-paprika-lemon-mayonnaise | Crab cakes | Classic | 4 | 6 |
 | golden-crisp-cheddar-grilled-cheese-sandwich | Grilled cheese | Classic | 2 | 4 |
 | golden-hawaiian-style-malasadas | Malasadas | Classic | 1 | 3 |
 | golden-honeycomb-toffee | Honeycomb | Classic | 2 | 4 |
-| golden-olive-oil-focaccia-flaky-sea-salt | Focaccia | Classic | 2 | 4 |
+| golden-olive-oil-focaccia-flaky-sea-salt | ? | ? | MISSING | |
 | golden-sour-cream-corn-muffins | Corn muffin | Classic | 2 | 4 |
 | gooey-butter-oat-pie | Gooey butter oat pie | Classic | 1 | 3 |
 | graham-crackers | Graham crackers | Classic | 3 | 5 |
@@ -408,7 +410,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | green-freekeh-herbs-toasted-almonds | Freekeh | Classic | 2 | 4 |
 | green-pesto-pasta-salad-cherry-tomatoes | Pasta salad | Pesto | 2 | 4 |
 | green-tomatillo-chicken-enchiladas-charred-chilli-sauce | Enchilada | Green (verdes) | 3 | 5 |
-| griddled-english-muffins-nooks-crannies | English muffins | Classic | 2 | 4 |
+| griddled-english-muffins-nooks-crannies | ? | ? | MISSING | |
 | griddled-holey-english-crumpets-butter | Crumpet | Classic | 2 | 4 |
 | grilled-beef-kebabs-peppers | Kebabs/skewers | Classic | 3 | 5 |
 | grilled-porterhouse-steak-rosemary-lemon | Bistecca alla fiorentina | Classic | 2 | 4 |
@@ -420,6 +422,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | hainanese-chicken-rice | Hainanese chicken rice | Classic | 3 | 5 |
 | haluski | Haluski | Classic | 2 | 4 |
 | hanoi-style-turmeric-fish-dill-spring-onions-rice-noodles | Chả cá Lã Vọng | Classic | 3 | 5 |
+| harcha-moroccan-semolina-flatbread | Harcha | Classic | 1 | 3 |
 | hard-boiled-eggs-ice-bath-easy-peel | Boiled (soft/hard) | Classic | 2 | 4 |
 | harira-moroccan-lentil-chickpea-soup | Harira | Classic | 2 | 4 |
 | harissa-yoghurt-beef-skewers | Kebabs/skewers | Harissa | 3 | 5 |
@@ -465,10 +468,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | japchae | Japchae | Classic | 3 | 5 |
 | jerk-chicken | Jerk | Classic | 2 | 4 |
 | juicy-lucy | Juicy Lucy (stuffed) | Classic | 2 | 5 |
+| kaak-al-quds-sesame-bread | Ka'ak | Classic | 1 | 3 |
 | kabsa-spiced-chicken-rice-raisins-almonds | Kabsa | Classic | 1 | 3 |
 | kale-caesar-salad-massaged-leaves | Caesar | Kale | 3 | 5 |
 | kalguksu | Kalguksu | Classic | 1 | 3 |
 | kanda-poha-peanuts-peas-potato | Poha (rice) | Classic | 0 | 3 |
+| kanelbullar-swedish-cardamom-cinnamon-knots | Swedish kanelbullar | Classic | 1 | 3 |
 | kasespatzle | Käsespätzle | Classic | 3 | 5 |
 | kasha-with-mushrooms-and-onions | Kasha | Classic | 1 | 3 |
 | kashk-e-bademjan-fried-mint-garlic | Kashk-e bademjan | Classic | 1 | 3 |
@@ -548,6 +553,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | moroccan-chicken-pastilla-almonds-cinnamon | Pastilla | Classic | 2 | 4 |
 | moroccan-gunpowder-green-mint-tea | Moroccan mint | Classic | 2 | 4 |
 | moros-y-cristianos-black-beans-rice | Moros y cristianos | Classic | 2 | 4 |
+| msemen-moroccan-square-flatbread | Msemen | Classic | 1 | 3 |
 | muhammara-roasted-red-pepper-walnut-pomegranate | Muhammara | Classic | 3 | 5 |
 | mujaddara-rice-lentils-crispy-onions | Mujaddara | Classic | 2 | 4 |
 | mulligatawny-chicken-red-lentil-coconut | Mulligatawny | Classic | 3 | 5 |
@@ -613,6 +619,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pancit-canton | Pancit | Classic | 2 | 4 |
 | pandan-chiffon-cake | Chiffon | Pandan | 2 | 4 |
 | pandan-coconut-kaya-toast-butter-soft-boiled-eggs | Kaya toast | Classic | 2 | 4 |
+| pandesal-filipino-bread-rolls | Pandesal | Classic | 1 | 3 |
 | pappa-al-pomodoro-tuscan-tomato-bread-soup | Pappa al pomodoro | Classic | 2 | 4 |
 | pappardelle-beef-ragu | Pappardelle | Classic | 2 | 4 |
 | parmesan-garlic-hasselback-potatoes | Hasselback | Parmesan | 2 | 4 |
@@ -759,6 +766,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | silky-hummus-tahini-lemon-cumin | Hummus | Classic | 3 | 5 |
 | silky-potato-leek-soup-chives-crispy-leeks | Potato-leek | Classic | 3 | 5 |
 | silky-rice-congee-ginger-crispy-shallots-spring-onion | Congee/porridge | Classic | 3 | 5 |
+| simit-turkish-sesame-rings | Simit | Classic | 1 | 3 |
 | simple-silky-cream-posset | Posset | Classic | 2 | 4 |
 | simple-tahini-sauce | Tahini sauce | Classic | 2 | 4 |
 | singapore-style-chilli-crab-tomato-egg-sauce | Chili crab | Classic | 2 | 4 |
@@ -787,9 +795,9 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | soft-cinnamon-rolls-cream-cheese-icing | Cinnamon rolls | Classic | 3 | 5 |
 | soft-coconut-milk-coco-bread | Coco bread | Classic | 2 | 4 |
 | soft-creamy-polenta-butter | Polenta | Classic | 2 | 4 |
-| soft-layered-wholemeal-chapati | Chapati | Classic | 3 | 5 |
+| soft-layered-wholemeal-chapati | ? | ? | MISSING | |
 | soft-norwegian-potato-lefse-butter-sugar | Lefse | Classic | 2 | 4 |
-| soft-puffed-pita-bread-olive-oil | Pita | Classic | 3 | 5 |
+| soft-puffed-pita-bread-olive-oil | ? | ? | MISSING | |
 | soft-pull-apart-milk-dinner-rolls | Dinner rolls | Classic | 3 | 5 |
 | soft-rice-and-yellow-lentil-porridge-cumin-ghee | Khichdi | Classic | 2 | 4 |
 | soft-scrambled-eggs-butter-chives-toast | Scrambled | Classic | 3 | 5 |
@@ -837,6 +845,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | steamed-masa-parcels-chicken-tomatillo-salsa-verde | Tamal | Chicken in salsa verde | 2 | 4 |
 | steamed-masa-parcels-red-chilli-chicken | Tamal | Classic | 2 | 4 |
 | steamed-whole-sea-bass-ginger-spring-onions-sizzling-oil | Cantonese steamed whole fish | Classic | 3 | 5 |
+| sticky-pecan-buns | Sticky/pecan buns | Classic | 2 | 4 |
 | sticky-toffee-pudding-date-sponge | Sticky toffee pudding | Classic | 2 | 4 |
 | stir-fried-tomato-scrambled-eggs | Stir-fried tomato and scrambled eggs | Classic | 2 | 4 |
 | stovetop-buttered-popcorn | Popcorn | Classic | 3 | 5 |
@@ -869,7 +878,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tangy-ginger-hoisin-dipping-sauce | Hoisin sauce | Classic | 1 | 3 |
 | tangzhong-japanese-milk-bread-loaf | Japanese milk bread (tangzhong) | Classic | 2 | 4 |
 | teh-tarik-pulled-malaysian-milk-tea | Teh tarik | Classic | 1 | 3 |
-| tender-cream-scones-jam-clotted-cream | Scone | Classic | 2 | 4 |
+| tender-cream-scones-jam-clotted-cream | ? | ? | MISSING | |
 | tex-mex-chile-con-queso-dip | Queso | Classic | 2 | 4 |
 | texas-chocolate-sheet-cake-pecan-icing | Sheet cake | Chocolate (Texas-style) | 3 | 5 |
 | thai-coconut-beef-curry-potatoes-peanuts-tamarind | Massaman | Beef | 2 | 4 |
@@ -940,7 +949,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | whipped-garlic-toum | Toum | Classic | 2 | 4 |
 | whole-cherry-clafoutis | Clafoutis | Cherry (classic) | 2 | 4 |
 | whole-sea-bass-baked-in-salt-crust-lemon-herbs | Salt-crusted fish | Classic | 4 | 6 |
-| wholemeal-irish-brown-soda-bread-oats | Soda bread | Classic | 3 | 5 |
+| wholemeal-irish-brown-soda-bread-oats | ? | ? | MISSING | |
 | yakisoba | Yakisoba | Classic | 2 | 4 |
 | yakitori | Yakitori | Classic | 2 | 4 |
 | yangnyeom-chicken | Yangnyeom chicken | Classic | 3 | 6 |

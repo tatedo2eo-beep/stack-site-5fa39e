@@ -1,0 +1,173 @@
+{
+  "slug": "sticky-pecan-buns",
+  "title": "Sticky Pecan Buns",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "sticky-pecan-buns",
+  "dish_title": "Sticky/pecan buns",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Rolled cinnamon buns baked on brown-sugar caramel and pecans, then inverted.",
+  "servings": 12,
+  "prep_min": 40,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl or stand mixer",
+    "small saucepan",
+    "23 x 33 cm baking tin",
+    "rolling pin",
+    "sharp knife",
+    "large tray for turning out",
+    "food thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "instant yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 240,
+      "unit": "ml",
+      "item": "warm milk"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "pc",
+      "item": "eggs"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "g",
+      "item": "butter, softened"
+    },
+    {
+      "group": "Topping",
+      "qty": 115,
+      "unit": "g",
+      "item": "butter"
+    },
+    {
+      "group": "Topping",
+      "qty": 150,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Topping",
+      "qty": 60,
+      "unit": "ml",
+      "item": "golden syrup"
+    },
+    {
+      "group": "Topping",
+      "qty": 100,
+      "unit": "g",
+      "item": "pecan halves"
+    },
+    {
+      "group": "Filling",
+      "qty": 30,
+      "unit": "g",
+      "item": "butter, melted"
+    },
+    {
+      "group": "Filling",
+      "qty": 75,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Mix the flour, sugar, yeast and salt, add the milk and eggs and knead 5 min, then work in the soft butter and knead 8 min more until smooth; cover and leave about 1 h until doubled."
+    },
+    {
+      "title": "Topping",
+      "text": "Melt the butter with the dark brown sugar and syrup, stirring, pour into the tin and scatter with the pecans."
+    },
+    {
+      "title": "Roll",
+      "text": "Roll the dough to a 45 x 30 cm rectangle, brush with melted butter, sprinkle with the brown sugar and cinnamon and roll up tightly from a long side."
+    },
+    {
+      "title": "Cut",
+      "text": "Cut into 12 slices and set them cut side down on the pecans; cover and leave 45 min until puffy. Heat the oven to 180 °C (160 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 25-30 min until deep golden; a bun in the middle should read 88 °C."
+    },
+    {
+      "title": "Turn out",
+      "text": "Rest 5 min, then invert onto the tray, scraping any topping back over the buns. Cool 10 min; the caramel is very hot."
+    }
+  ],
+  "tips": [
+    "Turn out after 5 min, before the caramel sets.",
+    "Toast the pecans first for more flavour.",
+    "Rewarm leftovers briefly to soften the caramel."
+  ],
+  "storage": "Keep covered at room temperature for 1 day; rewarm before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 470,
+    "protein_g": 7.9,
+    "carbs_g": 61.8,
+    "sugar_g": 30.1,
+    "free_sugar_g": 28.6,
+    "fat_g": 22.0,
+    "satfat_g": 10.0,
+    "salt_g": 0.58,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sticky-pecan-buns-basic.jpg",
+  "image_alt": "Six glossy sticky buns spiralled with caramel and topped with pecan halves.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

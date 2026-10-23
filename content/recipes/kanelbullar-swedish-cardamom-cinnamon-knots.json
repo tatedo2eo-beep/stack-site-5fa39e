@@ -1,0 +1,160 @@
+{
+  "slug": "kanelbullar-swedish-cardamom-cinnamon-knots",
+  "title": "Kanelbullar (Swedish Cinnamon Knots)",
+  "category": "breakfast",
+  "cuisine": "Swedish",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "swedish-kanelbullar",
+  "dish_title": "Swedish kanelbullar",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Cardamom dough folded around cinnamon butter, twisted into knots and topped with pearl sugar.",
+  "servings": 16,
+  "prep_min": 45,
+  "cook_min": 12,
+  "difficulty": "medium",
+  "equipment": [
+    "small saucepan",
+    "large bowl",
+    "rolling pin",
+    "sharp knife or pizza cutter",
+    "2 baking trays",
+    "baking paper",
+    "pastry brush"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 250,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Dough",
+      "qty": 75,
+      "unit": "g",
+      "item": "butter"
+    },
+    {
+      "group": "Dough",
+      "qty": 450,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "instant yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "Dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 100,
+      "unit": "g",
+      "item": "butter, very soft"
+    },
+    {
+      "group": "Filling",
+      "qty": 75,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "pc",
+      "item": "egg, beaten"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "pearl sugar or roughly crushed sugar cubes",
+      "note": "about 2 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Warm the milk and butter until the butter melts and the mix is just warm (about 37 °C); mix the flour, yeast, sugar, cardamom and salt, add the milk mix and knead 8 min until smooth."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave about 1 h until doubled."
+    },
+    {
+      "title": "Fill",
+      "text": "Beat the soft butter, brown sugar and cinnamon. Roll the dough to a 40 x 30 cm rectangle, spread with the filling and fold it in three like a letter to 40 x 10 cm."
+    },
+    {
+      "title": "Knot",
+      "text": "Cut across into 16 strips, stretch and twist each, then wind it twice around two fingers and tuck the end through to make a knot."
+    },
+    {
+      "title": "Prove",
+      "text": "Set on the lined trays, cover and leave 45 min until puffy. Heat the oven to 200 °C (180 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Brush with egg, sprinkle with pearl sugar and bake 10-12 min until golden brown."
+    }
+  ],
+  "tips": [
+    "Grind cardamom fresh for the best scent.",
+    "Keep the filling soft so it spreads easily.",
+    "Do not overbake; they should stay soft."
+  ],
+  "storage": "Keep in an airtight container at room temperature for up to 2 days, or freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 236,
+    "protein_g": 4.1,
+    "carbs_g": 32.9,
+    "sugar_g": 10.7,
+    "free_sugar_g": 9.8,
+    "fat_g": 10.0,
+    "satfat_g": 6.1,
+    "salt_g": 0.22,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "swedish-kanelbullar-basic.jpg",
+  "image_alt": "Glossy knotted Swedish cinnamon buns on a dark plate.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

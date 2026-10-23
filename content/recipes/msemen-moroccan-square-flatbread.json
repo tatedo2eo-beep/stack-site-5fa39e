@@ -1,0 +1,145 @@
+{
+  "slug": "msemen-moroccan-square-flatbread",
+  "title": "Msemen (Moroccan Layered Flatbread)",
+  "category": "breakfast",
+  "cuisine": "Moroccan",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "msemen",
+  "dish_title": "Msemen",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A flour and semolina dough stretched paper-thin, folded with butter and semolina into squares and cooked on a griddle.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "small bowl",
+    "large flat griddle or frying pan",
+    "fish slice"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 250,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 125,
+      "unit": "g",
+      "item": "fine semolina"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 4,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "instant yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 240,
+      "unit": "ml",
+      "item": "warm water"
+    },
+    {
+      "group": "Folding",
+      "qty": 60,
+      "unit": "g",
+      "item": "butter, melted"
+    },
+    {
+      "group": "Folding",
+      "qty": 60,
+      "unit": "ml",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Folding",
+      "qty": 40,
+      "unit": "g",
+      "item": "fine semolina"
+    },
+    {
+      "group": "To serve",
+      "qty": 84,
+      "unit": "g",
+      "item": "honey, warmed, to serve",
+      "note": "about 4 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Knead",
+      "text": "Mix the flour, semolina, salt, sugar and yeast with the water and knead 6-8 min until very smooth and soft."
+    },
+    {
+      "title": "Portion",
+      "text": "Mix the butter and oil, oil your hands and the worktop, divide the dough into 8 balls and rest them, oiled and covered, 15 min."
+    },
+    {
+      "title": "Fold",
+      "text": "Spread one ball with oily hands into a very thin sheet; dot with fat and sprinkle with semolina, fold in the two sides to the middle, then fold the top and bottom to make a 10 cm square. Repeat with the rest."
+    },
+    {
+      "title": "Flatten",
+      "text": "Rest the squares 10 min, then pat each out to about 15 cm."
+    },
+    {
+      "title": "Cook",
+      "text": "Cook on the griddle over medium heat 3-4 min each side until golden and crisp in spots."
+    },
+    {
+      "title": "Serve",
+      "text": "Hot, with warm honey for dipping."
+    }
+  ],
+  "tips": [
+    "Keep your hands and worktop well oiled.",
+    "Stretch as thin as you can; small holes are fine.",
+    "Cook over medium heat so the inside layers cook through."
+  ],
+  "storage": "Keep wrapped at room temperature for 1 day or freeze; reheat in a dry pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 337,
+    "protein_g": 6.0,
+    "carbs_g": 48.1,
+    "sugar_g": 9.2,
+    "free_sugar_g": 9.1,
+    "fat_g": 13.5,
+    "satfat_g": 4.4,
+    "salt_g": 0.74,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "msemen-basic.jpg",
+  "image_alt": "A stack of flaky square golden flatbreads with a small bowl of warm honey.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

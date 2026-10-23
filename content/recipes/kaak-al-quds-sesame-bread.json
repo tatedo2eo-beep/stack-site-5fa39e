@@ -1,0 +1,157 @@
+{
+  "slug": "kaak-al-quds-sesame-bread",
+  "title": "Ka'ak al-Quds (Jerusalem Sesame Bread)",
+  "category": "breakfast",
+  "cuisine": "Palestinian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "kaak",
+  "dish_title": "Ka'ak",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A soft milk dough shaped into long oval rings, dipped in molasses water and sesame, baked hot and served with za'atar and olive oil.",
+  "servings": 6,
+  "prep_min": 30,
+  "cook_min": 18,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "2 shallow dishes",
+    "2 baking trays",
+    "baking paper",
+    "2 small dipping bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 25,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 10,
+      "unit": "g",
+      "item": "instant yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Dough",
+      "qty": 355,
+      "unit": "ml",
+      "item": "warm milk"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Coating",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "grape molasses (pekmez) or molasses"
+    },
+    {
+      "group": "Coating",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Coating",
+      "qty": 120,
+      "unit": "g",
+      "item": "sesame seeds"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "za'atar (thyme, sumac and sesame blend)"
+    },
+    {
+      "group": "To serve",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Knead",
+      "text": "Mix the flour, sugar, salt, yeast and baking powder, add the milk and oil and knead 8-10 min to a soft, smooth dough."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave about 1 h until doubled. Heat the oven to 230 °C (210 °C fan)."
+    },
+    {
+      "title": "Shape",
+      "text": "Divide into 6, roll each into a 45 cm rope, join the ends and stretch into a long oval ring about 25 cm long."
+    },
+    {
+      "title": "Coat",
+      "text": "Dip each ring in the molasses and water mixed together, then press both sides into the sesame."
+    },
+    {
+      "title": "Bake",
+      "text": "Set on the lined trays and bake 15-18 min until deep golden."
+    },
+    {
+      "title": "Serve",
+      "text": "Warm, with small bowls of za'atar and olive oil for dipping."
+    }
+  ],
+  "tips": [
+    "Keep the rings long and thin; they puff in the oven.",
+    "Press the sesame on firmly so it sticks.",
+    "Also good with boiled eggs and falafel."
+  ],
+  "storage": "Keep in an airtight container at room temperature for up to 2 days, or freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 599,
+    "protein_g": 16.3,
+    "carbs_g": 79.0,
+    "sugar_g": 12.5,
+    "free_sugar_g": 9.1,
+    "fat_g": 25.0,
+    "satfat_g": 4.3,
+    "salt_g": 1.72,
+    "fibre_g": 5.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ka-ak-basic.jpg",
+  "image_alt": "Long oval sesame bread rings with small bowls of za'atar and olive oil.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

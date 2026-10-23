@@ -1,0 +1,146 @@
+{
+  "slug": "simit-turkish-sesame-rings",
+  "title": "Simit (Turkish Sesame Bread Rings)",
+  "category": "breakfast",
+  "cuisine": "Turkish",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "simit",
+  "dish_title": "Simit",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Twisted yeasted rings dipped in molasses water, rolled thickly in sesame and baked until crisp.",
+  "servings": 6,
+  "prep_min": 40,
+  "cook_min": 18,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "2 shallow dishes",
+    "2 baking trays",
+    "baking paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 400,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 100,
+      "unit": "g",
+      "item": "wholemeal flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "instant yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 8,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1¼ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "ml",
+      "item": "warm water"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Coating",
+      "qty": 80,
+      "unit": "ml",
+      "item": "grape molasses (pekmez) or molasses"
+    },
+    {
+      "group": "Coating",
+      "qty": 80,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Coating",
+      "qty": 150,
+      "unit": "g",
+      "item": "sesame seeds, lightly toasted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Knead",
+      "text": "Mix the flours, yeast, sugar and salt, add the water and oil and knead 10 min until smooth and springy."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave in a warm place about 1 h until doubled."
+    },
+    {
+      "title": "Shape",
+      "text": "Divide into 6, roll each into a 50 cm rope, fold in half and twist, then join the ends into a ring and pinch well."
+    },
+    {
+      "title": "Coat",
+      "text": "Stir the molasses and water in one dish and put the sesame in the other; dip each ring in the molasses mix, let it drip, then press all over in sesame."
+    },
+    {
+      "title": "Prove",
+      "text": "Set on the lined trays, stretch each ring to about 15 cm across and rest 15 min. Heat the oven to 220 °C (200 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 15-18 min until deep brown and crisp; cool on a rack."
+    }
+  ],
+  "tips": [
+    "Toast the sesame lightly for a nuttier flavour.",
+    "Twist the ropes tightly so the rings hold their pattern.",
+    "Enjoy with tea, cheese and olives."
+  ],
+  "storage": "Keep in an airtight container at room temperature for up to 2 days, or freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 542,
+    "protein_g": 15.1,
+    "carbs_g": 81.7,
+    "sugar_g": 15.4,
+    "free_sugar_g": 15.0,
+    "fat_g": 18.5,
+    "satfat_g": 2.6,
+    "salt_g": 1.25,
+    "fibre_g": 6.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "simit-basic.jpg",
+  "image_alt": "Dark brown twisted sesame-crusted bread rings, one torn open to show the soft crumb.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "pandesal-filipino-bread-rolls",
+  "title": "Pandesal (Filipino Bread Rolls)",
+  "category": "breakfast",
+  "cuisine": "Filipino",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "pandesal",
+  "dish_title": "Pandesal",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Soft milk-and-egg rolls rolled in breadcrumbs and baked until pale golden.",
+  "servings": 16,
+  "prep_min": 30,
+  "cook_min": 18,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl or stand mixer",
+    "large baking tray",
+    "baking paper",
+    "bench scraper",
+    "food thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 50,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "instant yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1¼ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 240,
+      "unit": "ml",
+      "item": "warm milk"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "ml",
+      "item": "warm water"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 45,
+      "unit": "g",
+      "item": "butter, softened"
+    },
+    {
+      "group": "Coating",
+      "qty": 40,
+      "unit": "g",
+      "item": "fine dry breadcrumbs"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Knead",
+      "text": "Mix the flour, sugar, yeast and salt, add the milk, water and egg and knead 5 min, then work in the butter and knead 8 min more until smooth and elastic."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave about 1 h until doubled."
+    },
+    {
+      "title": "Shape",
+      "text": "Divide into 16 pieces, roll each into a smooth ball, then roll it in the breadcrumbs."
+    },
+    {
+      "title": "Prove",
+      "text": "Set on the lined tray about 2 cm apart, cover loosely and leave 45 min until puffy. Heat the oven to 190 °C (170 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 15-18 min until pale golden; the centre of a roll should read 88 °C."
+    },
+    {
+      "title": "Serve",
+      "text": "Warm, split and buttered."
+    }
+  ],
+  "tips": [
+    "Use fine, dry breadcrumbs for an even coat.",
+    "Do not overbake; they should stay soft and pale.",
+    "Great with butter, cheese or jam."
+  ],
+  "storage": "Keep in an airtight container at room temperature for up to 2 days, or freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 170,
+    "protein_g": 5.1,
+    "carbs_g": 28.5,
+    "sugar_g": 4.1,
+    "free_sugar_g": 3.3,
+    "fat_g": 3.8,
+    "satfat_g": 1.9,
+    "salt_g": 0.53,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pandesal-basic.jpg",
+  "image_alt": "Soft round bread rolls dusted with fine breadcrumbs, one torn open.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

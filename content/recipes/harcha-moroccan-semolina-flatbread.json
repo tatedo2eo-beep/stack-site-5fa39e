@@ -1,0 +1,135 @@
+{
+  "slug": "harcha-moroccan-semolina-flatbread",
+  "title": "Harcha (Moroccan Semolina Griddle Bread)",
+  "category": "breakfast",
+  "cuisine": "Moroccan",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "harcha",
+  "dish_title": "Harcha",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Buttery semolina dough leavened with baking powder, shaped into discs and slowly griddled.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "plate",
+    "large heavy frying pan or griddle",
+    "fish slice"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "fine semolina"
+    },
+    {
+      "group": "Dough",
+      "qty": 12,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 80,
+      "unit": "g",
+      "item": "butter, melted"
+    },
+    {
+      "group": "Dough",
+      "qty": 180,
+      "unit": "ml",
+      "item": "warm milk"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "coarse semolina, for coating"
+    },
+    {
+      "group": "To serve",
+      "qty": 63,
+      "unit": "g",
+      "item": "honey, to serve",
+      "note": "about 3 tbsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 20,
+      "unit": "g",
+      "item": "butter, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Stir the semolina, sugar, baking powder and salt together, then rub in the melted butter until every grain is coated."
+    },
+    {
+      "title": "Bind",
+      "text": "Add the milk and mix to a soft, wet dough; rest 10 min until it firms enough to shape."
+    },
+    {
+      "title": "Shape",
+      "text": "Roll into 8 balls, flatten each to a 1 cm disc and press both sides into the coarse semolina."
+    },
+    {
+      "title": "Cook",
+      "text": "Cook in the dry pan over medium-low heat 5-6 min each side until golden and cooked through."
+    },
+    {
+      "title": "Serve",
+      "text": "Warm, split and filled with butter and honey."
+    }
+  ],
+  "tips": [
+    "Let the dough rest so the semolina absorbs the milk.",
+    "Cook low so the centre is done before the outside darkens.",
+    "Also good with soft cheese."
+  ],
+  "storage": "Keep wrapped at room temperature for 1 day; warm in a dry pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 277,
+    "protein_g": 5.9,
+    "carbs_g": 38.4,
+    "sugar_g": 9.1,
+    "free_sugar_g": 8.0,
+    "fat_g": 11.3,
+    "satfat_g": 6.9,
+    "salt_g": 0.59,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "harcha-basic.jpg",
+  "image_alt": "Round golden semolina griddle breads, one split and filled with butter and honey.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

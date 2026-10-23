@@ -1,0 +1,143 @@
+{
+  "slug": "chausson-aux-pommes-apple-turnovers",
+  "title": "Chaussons aux Pommes (French Apple Turnovers)",
+  "category": "breakfast",
+  "cuisine": "French",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "chausson-aux-pommes",
+  "dish_title": "Chausson aux pommes",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Lightly spiced cooked apple sealed in puff-pastry half-moons, scored and baked until puffed and golden.",
+  "servings": 6,
+  "prep_min": 35,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "saucepan",
+    "wooden spoon",
+    "plate",
+    "12 cm round cutter or a small bowl",
+    "pastry brush",
+    "small sharp knife",
+    "baking tray",
+    "baking paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 450,
+      "unit": "g",
+      "item": "Golden Delicious apples (about 3), peeled, cored and cut into 1 cm dice"
+    },
+    {
+      "group": "Filling",
+      "qty": 50,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 15,
+      "unit": "g",
+      "item": "butter"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Pastry",
+      "qty": 640,
+      "unit": "g",
+      "item": "ready-rolled all-butter puff pastry (2 sheets), chilled"
+    },
+    {
+      "group": "Pastry",
+      "qty": 8,
+      "unit": "g",
+      "item": "plain flour, for dusting",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "egg, beaten with 1 tbsp water"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Filling",
+      "text": "Cook the apples, sugar, butter, lemon juice and cinnamon in the saucepan over medium heat 8-10 min, stirring, until the apples are just tender; stir in the cornflour for 1 min until glossy, then spread on a plate and cool completely."
+    },
+    {
+      "title": "Cut",
+      "text": "On a lightly floured surface cut six 12 cm rounds from the pastry and roll each a little longer into an oval."
+    },
+    {
+      "title": "Fill",
+      "text": "Spoon the cold filling onto one half of each oval, brush the edge with egg, fold over and press firmly to seal."
+    },
+    {
+      "title": "Decorate",
+      "text": "Set on the lined tray seam-side down, brush with egg, score a curved leaf pattern with the knife tip without cutting through, and chill 15 min. Heat the oven to 200 °C (180 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Brush again with egg and bake 20-25 min until puffed and deep golden."
+    },
+    {
+      "title": "Serve",
+      "text": "Cool 10 min on the tray; the filling is very hot."
+    }
+  ],
+  "tips": [
+    "Cool the filling fully or the pastry will go soft.",
+    "Seal the edges firmly so the filling stays inside.",
+    "Chilling before baking helps them keep their shape."
+  ],
+  "storage": "Best on the day; keep 1 day in an airtight box and re-crisp at 180 °C for 5 min. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 697,
+    "protein_g": 9.2,
+    "carbs_g": 68.6,
+    "sugar_g": 17.0,
+    "free_sugar_g": 9.2,
+    "fat_g": 43.6,
+    "satfat_g": 11.9,
+    "salt_g": 0.7,
+    "fibre_g": 3.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chausson-aux-pommes-basic.jpg",
+  "image_alt": "Three glossy puff-pastry apple turnovers with scored leaf patterns, one cut to show the apple filling.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}
