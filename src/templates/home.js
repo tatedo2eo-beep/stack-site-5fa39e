@@ -68,7 +68,7 @@ function homePage(ctx, P, recipes, chapters, counts) {
   return {
     path: '', navKey: 'home', description: `${ctx.cfg.brand}: metric recipes with nutrition per serving${ctx.cfg.healthyLabels === false ? '' : ', High Protein and WHO Healthy picks'}, cook mode and a servings scaler.`,
     views, bodyClass: 'page-home',
-    head: `<style>${HOME_CSS.replace(/\n\s*/g, '')}</style>`,
+    head: `<link rel="preload" as="image" href="${ctx.u('kitchen/m/000.webp')}" media="(max-aspect-ratio: 1/1)" fetchpriority="high"><link rel="preload" as="image" href="${ctx.u('kitchen/d/000.webp')}" media="(min-aspect-ratio: 1/1)" fetchpriority="high"><style>${HOME_CSS.replace(/\n\s*/g, '')}</style>`, // first kitchen frame = first thing seen
     scripts: [ctx.assets.js.kitchen]
   };
 }
