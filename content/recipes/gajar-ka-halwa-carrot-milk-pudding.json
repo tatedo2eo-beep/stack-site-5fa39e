@@ -1,0 +1,117 @@
+{
+  "slug": "gajar-ka-halwa-carrot-milk-pudding",
+  "title": "Gajar ka Halwa: Slow-Cooked Carrot Pudding with Ghee and Cardamom",
+  "category": "desserts",
+  "cuisine": "Indian",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "gajar-ka-halwa",
+  "dish_title": "Gajar ka halwa",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Grated carrots cooked down in ghee, then simmered in milk with cardamom until thick, sweet and glossy, topped with pistachios and almonds.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 55,
+  "difficulty": "easy",
+  "equipment": [
+    "box grater or food processor with grating disc",
+    "large heavy-based frying pan or kadai",
+    "heatproof spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Halwa",
+      "qty": 45,
+      "unit": "g",
+      "item": "ghee"
+    },
+    {
+      "group": "Halwa",
+      "qty": 500,
+      "unit": "g",
+      "item": "carrots, peeled and finely grated"
+    },
+    {
+      "group": "Halwa",
+      "qty": 750,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Halwa",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "green cardamom seeds, crushed"
+    },
+    {
+      "group": "Halwa",
+      "qty": 60,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "To finish",
+      "qty": 15,
+      "unit": "g",
+      "item": "pistachios, slivered"
+    },
+    {
+      "group": "To finish",
+      "qty": 15,
+      "unit": "g",
+      "item": "almonds, slivered"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the carrots",
+      "text": "Melt the ghee in the heavy pan over medium heat and add the grated carrots. Cook for 20-25 min, stirring often, until the liquid they release has evaporated and they look a shade darker and smell sweet. Cooking them dry first deepens the flavour."
+    },
+    {
+      "title": "Simmer with milk",
+      "text": "Pour in the milk with the crushed cardamom, bring to a lively simmer and cook for 20-25 min, stirring and scraping the base regularly so the milk solids do not catch, until nearly all the milk has been absorbed."
+    },
+    {
+      "title": "Add the sugar",
+      "text": "Stir in the sugar and keep cooking for 5-8 min. The sugar loosens the mixture at first, then it turns glossy and pulls away from the pan, with a little ghee shining at the edges."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon into bowls while warm and scatter over the pistachio and almond slivers."
+    }
+  ],
+  "tips": [
+    "Grate the carrots finely for the softest texture; a food processor saves a lot of time.",
+    "A common mistake is adding the sugar too early, which keeps the carrots firm.",
+    "Use a wide pan so the milk reduces faster.",
+    "Juicy, sweet carrots give the best colour and flavour."
+  ],
+  "storage": "Cool, then keep covered in the fridge for up to 4 days or freeze for up to 2 months. Reheat in a pan with a splash of milk.",
+  "allergens": [
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 368,
+    "protein_g": 8.8,
+    "carbs_g": 38.2,
+    "sugar_g": 31.0,
+    "free_sugar_g": 15.0,
+    "fat_g": 21.3,
+    "satfat_g": 10.9,
+    "salt_g": 0.42,
+    "fibre_g": 4.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gajar-ka-halwa-basic.jpg",
+  "image_alt": "A bowl of bright orange carrot halwa topped with slivered pistachios and almonds.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

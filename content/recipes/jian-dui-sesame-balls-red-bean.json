@@ -1,0 +1,146 @@
+{
+  "slug": "jian-dui-sesame-balls-red-bean",
+  "title": "Jian Dui: Crisp Fried Sesame Balls with Red Bean Paste",
+  "category": "desserts",
+  "cuisine": "Chinese",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "sesame-ball",
+  "dish_title": "Sesame ball",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Glutinous rice dough wrapped around red bean paste, rolled in sesame seeds and fried until puffed and golden.",
+  "servings": 8,
+  "prep_min": 45,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "mixing bowl",
+    "spatula",
+    "cling film",
+    "small bowl of water",
+    "shallow dish",
+    "large heavy pot or wok",
+    "deep-fry thermometer",
+    "spider or slotted spoon",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "glutinous (sweet) rice flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 210,
+      "unit": "ml",
+      "item": "just-boiled water"
+    },
+    {
+      "group": "Filling",
+      "qty": 250,
+      "unit": "g",
+      "item": "sweet red bean paste"
+    },
+    {
+      "group": "Coating",
+      "qty": 70,
+      "unit": "g",
+      "item": "white sesame seeds"
+    },
+    {
+      "group": "Coating",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water, for wetting"
+    },
+    {
+      "group": "Frying",
+      "qty": 1500,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for about 7 cm depth"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dough",
+      "text": "Mix the rice flour and salt in the bowl. Dissolve the sugar in the boiled water and pour it in, stirring with the spatula until crumbly. When it is cool enough to handle, knead into a smooth, soft dough, then cover and rest for 30 min."
+    },
+    {
+      "title": "Prepare the filling",
+      "text": "Roll the red bean paste into 16 balls of about 15 g each."
+    },
+    {
+      "title": "Wrap",
+      "text": "Divide the dough into 16 pieces. Press each into a 7 cm hollowed round in your palm, set a bean ball inside, close the dough over it and roll into a smooth ball with no cracks. Cracks let oil in and can make the balls burst."
+    },
+    {
+      "title": "Coat in sesame",
+      "text": "Dip each ball briefly in the water, then roll it in the sesame seeds, pressing gently so they stick all over. Roll once more between your palms to fix the seeds in place."
+    },
+    {
+      "title": "Heat the oil",
+      "text": "Pour oil into the pot to about 7 cm deep and heat to 175 °C. Reshape any balls that have flattened while you wait."
+    },
+    {
+      "title": "Fry",
+      "text": "Lower in half the balls and fry for about 6 min, moving them constantly at first so they do not stick to the bottom, until they float, puff up and turn an even light golden. Keep the oil close to 175 °C."
+    },
+    {
+      "title": "Drain and serve",
+      "text": "Lift onto the rack and fry the second batch. Serve warm or at room temperature on the same day."
+    }
+  ],
+  "tips": [
+    "A common mistake is oil that is too hot: the seeds brown before the shell puffs. Watch the thermometer.",
+    "Press the seeds firmly so they stay on in the oil.",
+    "Rest the dough fully; it becomes smoother and less likely to crack.",
+    "Lotus seed paste or black sesame paste can replace the red bean.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day they are fried. Keep leftovers at room temperature for up to 1 day and re-crisp in a 180 °C (160 °C fan) oven for 6-8 min.",
+  "allergens": [
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 357,
+    "protein_g": 5.0,
+    "carbs_g": 56.8,
+    "sugar_g": 7.6,
+    "free_sugar_g": 7.5,
+    "fat_g": 12.4,
+    "satfat_g": 1.3,
+    "salt_g": 0.36,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sesame-ball-basic.jpg",
+  "image_alt": "Golden sesame-coated balls, one cut open to reveal dark red bean paste.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

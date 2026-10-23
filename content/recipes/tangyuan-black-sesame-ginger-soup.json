@@ -1,0 +1,147 @@
+{
+  "slug": "tangyuan-black-sesame-ginger-soup",
+  "title": "Tangyuan: Black Sesame Rice Dumplings in Ginger Syrup",
+  "category": "desserts",
+  "cuisine": "Chinese",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "tangyuan",
+  "dish_title": "Tangyuan",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chewy rice flour dumplings with a molten black sesame centre, simmered in a warming ginger syrup.",
+  "servings": 6,
+  "prep_min": 45,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "large saucepan",
+    "dry frying pan",
+    "spice grinder or mortar and pestle",
+    "small bowl",
+    "small tray lined with baking paper",
+    "mixing bowl",
+    "spatula",
+    "slotted spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Ginger soup",
+      "qty": 60,
+      "unit": "g",
+      "item": "fresh ginger, sliced into thin coins"
+    },
+    {
+      "group": "Ginger soup",
+      "qty": 100,
+      "unit": "g",
+      "item": "light brown or rock sugar"
+    },
+    {
+      "group": "Ginger soup",
+      "qty": 1400,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Filling",
+      "qty": 70,
+      "unit": "g",
+      "item": "black sesame seeds"
+    },
+    {
+      "group": "Filling",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 45,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Dough",
+      "qty": 175,
+      "unit": "g",
+      "item": "glutinous (sweet) rice flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 160,
+      "unit": "ml",
+      "item": "just-boiled water"
+    },
+    {
+      "group": "Dough",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "neutral oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the ginger soup",
+      "text": "Simmer the ginger, sugar and water in the large saucepan for 25-30 min, until the liquid tastes warm and peppery. Cover and set aside off the heat."
+    },
+    {
+      "title": "Toast and grind the sesame",
+      "text": "Toast the black sesame in the dry pan over low heat for 3-4 min until fragrant and beginning to pop. Cool, then grind to a fine, slightly oily powder."
+    },
+    {
+      "title": "Make the filling",
+      "text": "Mash the ground sesame with the sugar and soft butter into a thick paste. Roll into 24 balls of about 1 tsp each, set on the lined tray and freeze for 20 min until firm. Frozen filling is far easier to wrap."
+    },
+    {
+      "title": "Make the dough",
+      "text": "Put the rice flour in the bowl, pour in the boiled water and the oil and stir with the spatula until shaggy. When cool enough to touch, knead for 3-5 min until smooth and as soft as an earlobe, adding a few drops of water if it cracks."
+    },
+    {
+      "title": "Wrap the dumplings",
+      "text": "Divide the dough into 24 pieces. Flatten one into a 6 cm round, leaving the middle slightly thicker, place a frozen filling ball in the centre, bring the edges up and pinch them shut, then roll it smooth. Keep the dough and finished dumplings covered so they do not dry out."
+    },
+    {
+      "title": "Simmer",
+      "text": "Bring the soup back to a gentle simmer and slip in the dumplings one at a time. Simmer for 8-10 min until they float, look slightly translucent and the filling is piping hot."
+    },
+    {
+      "title": "Serve",
+      "text": "Ladle 4 dumplings into each bowl with plenty of the ginger syrup, leaving the ginger slices in the pan."
+    }
+  ],
+  "tips": [
+    "A common mistake is boiling hard, which can split the dumplings; keep the soup at a gentle simmer.",
+    "If the dough cracks while wrapping, knead in a little more hot water.",
+    "Make a big batch: uncooked dumplings freeze well on a tray and cook straight from frozen in 12-14 min.",
+    "Wet your hands lightly if the dough sticks.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Uncooked dumplings can be frozen on a tray, then bagged, for up to 2 months. Cooked tangyuan are best eaten at once; the soup keeps in the fridge for up to 5 days.",
+  "allergens": [
+    "milk",
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 344,
+    "protein_g": 3.9,
+    "carbs_g": 49.3,
+    "sugar_g": 22.9,
+    "free_sugar_g": 22.8,
+    "fat_g": 15.3,
+    "satfat_g": 5.0,
+    "salt_g": 0.02,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tangyuan-basic.jpg",
+  "image_alt": "White tangyuan dumplings in ginger syrup, one bitten to show a black sesame centre.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

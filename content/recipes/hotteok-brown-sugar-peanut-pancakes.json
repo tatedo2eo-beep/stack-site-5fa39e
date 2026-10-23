@@ -1,0 +1,165 @@
+{
+  "slug": "hotteok-brown-sugar-peanut-pancakes",
+  "title": "Hotteok: Chewy Korean Pancakes with Brown Sugar, Cinnamon and Peanuts",
+  "category": "desserts",
+  "cuisine": "Korean",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "hotteok",
+  "dish_title": "Hotteok",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Soft, chewy yeasted pancakes filled with brown sugar, cinnamon and peanuts, pressed flat and fried until crisp and golden.",
+  "servings": 10,
+  "prep_min": 30,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "large mixing bowl",
+    "wooden spoon",
+    "cling film",
+    "small bowl",
+    "large non-stick frying pan",
+    "flat metal spatula or hotteok press",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk, lukewarm"
+    },
+    {
+      "group": "Dough",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "fast-action dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 225,
+      "unit": "g",
+      "item": "strong white bread flour",
+      "note": "plus extra for shaping"
+    },
+    {
+      "group": "Dough",
+      "qty": 150,
+      "unit": "g",
+      "item": "glutinous (sweet) rice flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Dough",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 125,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 75,
+      "unit": "g",
+      "item": "roasted unsalted peanuts, chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Frying",
+      "qty": 90,
+      "unit": "ml",
+      "item": "neutral oil, for frying"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix the dough",
+      "text": "Stir the sugar and yeast into the warm milk in the large bowl. Add both flours, the cornflour and salt and beat with the wooden spoon for 2-3 min into a very sticky, stretchy dough. The rice flour gives the chewy texture."
+    },
+    {
+      "title": "Let it rise twice",
+      "text": "Cover and leave somewhere warm for 1.5-2 h until doubled. Beat it down with the spoon, cover again and leave for about 1 h more until puffy."
+    },
+    {
+      "title": "Mix the filling",
+      "text": "Combine the dark brown sugar, chopped peanuts, cinnamon and salt in the small bowl."
+    },
+    {
+      "title": "Fill and seal",
+      "text": "With oiled or floured hands, divide the dough into 10 pieces. Flatten one in your palm into a cupped 10 cm round, spoon in 2 packed tablespoons of filling, then pull the edges up and pinch them tightly together. Set seam side down on a floured surface and repeat. A firm seal keeps the melting sugar inside."
+    },
+    {
+      "title": "Press and fry",
+      "text": "Heat about 2 tbsp oil in the frying pan over medium-high heat. Add 2 or 3 balls seam side down and flatten each straight away with the spatula to about 10 cm across. Turn the heat to medium and cook for 3-4 min until crisp and golden, then flip and cook 3-4 min more until springy to the touch."
+    },
+    {
+      "title": "Fry the rest",
+      "text": "Wipe the pan clean and add fresh oil for each batch. Let the pancakes rest for a few minutes before eating, as the filling is very hot."
+    }
+  ],
+  "tips": [
+    "A common mistake is adding extra flour because the dough is sticky; it should be very soft, so oil your hands instead.",
+    "Press the pancakes flat as soon as they hit the pan, before the bottom sets.",
+    "Keep the heat at medium after pressing so the inside cooks before the outside darkens.",
+    "Walnuts or mixed seeds can replace the peanuts.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best eaten warm. Cool leftovers fully and freeze in an airtight container for up to 1 month; reheat at 180 °C (160 °C fan) for 8-10 min.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 304,
+    "protein_g": 6.9,
+    "carbs_g": 48.5,
+    "sugar_g": 17.0,
+    "free_sugar_g": 14.6,
+    "fat_g": 9.6,
+    "satfat_g": 1.7,
+    "salt_g": 0.23,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "hotteok-basic.jpg",
+  "image_alt": "Golden hotteok pancakes, one cut open with dark brown sugar and peanut filling oozing out.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

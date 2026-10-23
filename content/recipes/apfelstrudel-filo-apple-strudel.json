@@ -1,0 +1,164 @@
+{
+  "slug": "apfelstrudel-filo-apple-strudel",
+  "title": "Apfelstrudel: Crisp Filo Apple Strudel with Raisins and Cinnamon",
+  "category": "desserts",
+  "cuisine": "Austrian",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "apfelstrudel",
+  "dish_title": "Apfelstrudel",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Lightly cooked cinnamon apples and sultanas rolled in buttered, sugared filo, baked until crisp and served with warm vanilla custard.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 50,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "large frying pan",
+    "sieve set over a bowl",
+    "small saucepan",
+    "pastry brush",
+    "baking tray lined with baking paper",
+    "clean damp tea towel",
+    "serrated knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 800,
+      "unit": "g",
+      "item": "tart-sweet apples (such as Braeburn or Jonagold), peeled, cored and cut into 1 cm pieces"
+    },
+    {
+      "group": "Filling",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, zest and 1 tbsp juice"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 50,
+      "unit": "g",
+      "item": "golden raisins (sultanas)"
+    },
+    {
+      "group": "Filling",
+      "qty": 30,
+      "unit": "g",
+      "item": "panko breadcrumbs"
+    },
+    {
+      "group": "Pastry",
+      "qty": 270,
+      "unit": "g",
+      "item": "filo pastry (about 12 large sheets), thawed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 100,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Pastry",
+      "qty": 25,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 2 tbsp; plus extra for dusting"
+    },
+    {
+      "group": "To serve",
+      "qty": 300,
+      "unit": "ml",
+      "item": "ready-made vanilla custard, warmed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Macerate the apples",
+      "text": "Toss the apple pieces with the sugar, lemon zest and juice, cinnamon and salt in the large bowl and leave for 15 min to draw out their juice."
+    },
+    {
+      "title": "Soften",
+      "text": "Tip everything into the frying pan and cook over medium heat for 6-8 min, stirring, until the edges just turn translucent but the pieces still hold their shape. Drain in the sieve and keep the juices. Precooking stops the apples releasing water and making the pastry soggy."
+    },
+    {
+      "title": "Reduce the juices",
+      "text": "Boil the juices in the small saucepan for 3-4 min until syrupy, then stir them back into the apples with the sultanas and leave to cool. Add the panko just before rolling; it soaks up any remaining liquid."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "Set the oven to 190 °C (170 °C fan) and line the tray with baking paper."
+    },
+    {
+      "title": "Layer the filo",
+      "text": "Lay a filo sheet on a piece of baking paper with a long side facing you. Brush it lightly with butter and sift over a little icing sugar. Repeat with 5 more sheets, keeping the rest covered with the damp tea towel so it does not dry and crack."
+    },
+    {
+      "title": "Roll the strudel",
+      "text": "Spoon half the apples in a 7 cm-wide log along the edge nearest you, leaving 5 cm free at each end. Fold in the ends, then roll up firmly, using the paper to help, and set seam side down on the tray. Make the second strudel the same way."
+    },
+    {
+      "title": "Bake",
+      "text": "Brush the strudels with the remaining butter, cut 4 shallow slashes through the top layers so steam can escape, and bake for 30-35 min until deep golden and crisp."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Let them cool for 20 min so the filling firms up, then dust with icing sugar, slice with the serrated knife and serve with the warm vanilla custard."
+    }
+  ],
+  "tips": [
+    "A common mistake is skipping the precooking; raw apples shrink and leave a gap under a soggy crust.",
+    "Brush the filo lightly; too much butter makes it heavy rather than flaky.",
+    "Torn sheets are fine in the middle layers, as nobody will see them.",
+    "Slashing the top before baking makes neat slices easier to cut."
+  ],
+  "storage": "Best on the day of baking. Keep leftovers loosely covered in the fridge for up to 2 days and reheat at 180 °C (160 °C fan) for 10 min to crisp the pastry.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 358,
+    "protein_g": 4.0,
+    "carbs_g": 56.4,
+    "sugar_g": 29.4,
+    "free_sugar_g": 14.8,
+    "fat_g": 14.0,
+    "satfat_g": 7.4,
+    "salt_g": 0.74,
+    "fibre_g": 3.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "apfelstrudel-basic.jpg",
+  "image_alt": "A sliced filo apple strudel showing apple and raisin filling, with a pool of vanilla sauce.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

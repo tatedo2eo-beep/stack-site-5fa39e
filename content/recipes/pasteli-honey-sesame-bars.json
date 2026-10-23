@@ -1,0 +1,114 @@
+{
+  "slug": "pasteli-honey-sesame-bars",
+  "title": "Pasteli: Chewy-Crisp Honey and Sesame Bars",
+  "category": "desserts",
+  "cuisine": "Greek",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "pasteli",
+  "dish_title": "Pasteli",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Toasted sesame seeds bound in honey cooked to the hard-crack stage, pressed into a tin and cut into thick, crunchy bars.",
+  "servings": 16,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large dry frying pan",
+    "small heavy saucepan",
+    "sugar thermometer",
+    "20 cm square tin lined with baking paper",
+    "silicone spatula",
+    "second sheet of baking paper",
+    "sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Bars",
+      "qty": 240,
+      "unit": "g",
+      "item": "white sesame seeds"
+    },
+    {
+      "group": "Bars",
+      "qty": 240,
+      "unit": "g",
+      "item": "runny honey"
+    },
+    {
+      "group": "Bars",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Bars",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "finely grated lemon zest",
+      "note": "optional; not counted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the sesame",
+      "text": "Spread the sesame in the dry frying pan and toast over medium-low heat for 6-8 min, stirring all the time, until light golden and nutty. Tip it into a bowl straight away so it does not keep browning in the hot pan."
+    },
+    {
+      "title": "Boil the honey",
+      "text": "Warm the honey and salt in the heavy saucepan over medium heat and let it bubble, without stirring, until the thermometer reads 150-155 °C, about 8-10 min. It will foam up and darken slightly. Taking it to this temperature is what makes the bars set crisp instead of staying sticky."
+    },
+    {
+      "title": "Stir in the seeds",
+      "text": "Take the pan off the heat, add the lemon zest if using, then pour in the warm sesame and stir quickly until every seed is coated in honey."
+    },
+    {
+      "title": "Press into the tin",
+      "text": "Scrape the mixture into the lined tin, cover with the second sheet of baking paper and press it into an even layer about 1 cm thick with the base of a glass. Take care, as the honey is extremely hot."
+    },
+    {
+      "title": "Cut while warm",
+      "text": "Leave for 5-10 min until firm but still warm, then lift out on the paper and cut into 16 bars with the sharp knife. If it hardens before you finish, warm it in a 150 °C oven for 2 min."
+    },
+    {
+      "title": "Cool and crisp",
+      "text": "Let the bars cool completely on the paper. They get crunchier over the next few hours."
+    }
+  ],
+  "tips": [
+    "A common mistake is stopping below 150 °C; the bars then stay soft and bend.",
+    "Use a thick-based pan and moderate heat so the honey does not scorch before it reaches temperature.",
+    "Oil the knife lightly for cleaner cuts.",
+    "A flower honey such as thyme gives the most traditional flavour."
+  ],
+  "storage": "Store between sheets of baking paper in an airtight tin at room temperature for up to 2 weeks. Keep away from humidity, which makes them sticky.",
+  "allergens": [
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 132,
+    "protein_g": 2.7,
+    "carbs_g": 15.9,
+    "sugar_g": 12.4,
+    "free_sugar_g": 12.3,
+    "fat_g": 7.5,
+    "satfat_g": 1.0,
+    "salt_g": 0.1,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pasteli-basic.jpg",
+  "image_alt": "Thick golden sesame and honey bars stacked on a dark tray.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}
