@@ -209,6 +209,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cracker-thin-pizza-three-cheese-blend-sweet-oregano-sauce | St. Louis-style pizza | Classic | 2 | 4 |
 | cream-filled-profiteroles-chocolate-sauce | Profiteroles | Classic | 2 | 4 |
 | creamy-cashew-yoghurt-chicken-curry-cardamom | Korma | Chicken | 3 | 5 |
+| creamy-cheddar-cheese-grits | Grits | Cheese | 2 | 4 |
 | creamy-chicken-salad-celery-herbs | Chicken salad | Classic | 3 | 5 |
 | creamy-egg-salad-celery-spring-onion-toast | Egg salad | Classic | 3 | 5 |
 | creamy-grits-butter-chives | Grits | Classic | 2 | 4 |
@@ -323,6 +324,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | frothy-whisked-matcha-green-tea | Matcha (whisked) | Classic | 2 | 4 |
 | fruit-almond-stollen-marzipan-core | Stollen | Classic | 2 | 4 |
 | ful-medames-cumin-lemon-tomato | Ful medames | Classic | 1 | 4 |
+| ful-medames-tahini-drizzle | Ful medames | Tahini | 2 | 4 |
 | gado-gado-peanut-sauce | Gado-gado | Classic | 2 | 4 |
 | gai-lan-oyster-sauce-sizzled-garlic | Stir-fried gai lan | Classic | 2 | 4 |
 | gai-yang | Gai yang | Classic | 2 | 4 |
@@ -455,6 +457,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-chiffon-cake | Chiffon | Lemon | 3 | 5 |
 | lemon-cut-out-sugar-cookies | Sugar/cut-out | Lemon | 2 | 4 |
 | lemon-garlic-tahini-sauce | Tahini sauce | Lemon-garlic | 2 | 4 |
+| lemon-herb-quinoa-pilaf | Quinoa | Lemon-herb | 1 | 3 |
 | lemon-herb-vinaigrette | Vinaigrette | Lemon-herb | 2 | 4 |
 | lemon-meringue-pie | Meringue pie (lemon) | Classic | 2 | 4 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
@@ -573,6 +576,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | peanut-butter-cookies | Peanut butter | Classic | 3 | 5 |
 | peanut-butter-fudge-chopped-peanuts | Fudge | Peanut butter | 2 | 4 |
 | pear-upside-down-cake | Upside-down | Pear | 2 | 4 |
+| pearl-barley-with-mushrooms | Barley | Classic | 1 | 3 |
 | peking-duck | Peking duck | Classic | 2 | 4 |
 | penne-arrabbiata | Short (penne, rigatoni, fusilli) | Classic | 3 | 5 |
 | peperonata-sweet-peppers-basil | Peperonata | Classic | 2 | 4 |
@@ -655,6 +659,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | sage-beurre-noisette | Beurre noisette | Classic | 2 | 4 |
 | salade-nicoise-tuna-eggs-potatoes | Niçoise | Classic | 2 | 4 |
 | salt-preserved-lemons | Preserved lemon | Classic | 2 | 4 |
+| salted-edamame-in-pods | Edamame | Classic | 1 | 3 |
 | samgyetang | Samgyetang | Classic | 2 | 4 |
 | sarma-rice-stuffed-vine-leaves-lemon | Sarma | Classic | 1 | 3 |
 | sarson-ka-saag-makki-roti | Saag | Classic | 1 | 3 |
@@ -740,11 +745,13 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spiced-pumpkin-cheesecake | New York (baked, dense) | Pumpkin | 2 | 4 |
 | spiced-saudi-chicken-rice-tomato-almonds-raisins | Kabsa | Chicken | 2 | 4 |
 | spicy-chicken-burger | Chicken burger | Spicy (cayenne/hot sauce) | 2 | 8 |
+| spicy-ful-medames-chilli-oil | Ful medames | Chili oil | 1 | 3 |
 | spinach-ricotta-calzones-tomato-dipping-sauce | Calzone | Classic | 2 | 4 |
 | spinach-ricotta-cannelloni | Cannelloni | Classic | 2 | 4 |
 | spinach-ricotta-lasagne | Sheets/baked (lasagne) | Spinach and ricotta | 3 | 5 |
 | spinach-ricotta-mozzarella-stromboli-garlic-crust | Stromboli | Classic | 2 | 4 |
 | square-sheet-pan-pizza-garlic-tomato-dollops-mozzarella | Grandma pizza | Classic | 2 | 4 |
+| sri-lankan-red-lentil-dal-curry-leaves | Lentil dishes (dal, lentil salad, lentils du Puy) | Classic | 1 | 3 |
 | steamed-broccoli-with-lemon | Steamed/blanched | Classic | 2 | 4 |
 | steamed-masa-parcels-chicken-tomatillo-salsa-verde | Tamal | Chicken in salsa verde | 2 | 4 |
 | steamed-masa-parcels-red-chilli-chicken | Tamal | Classic | 2 | 4 |
@@ -809,6 +816,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tuna-puttanesca | Puttanesca | Tuna | 2 | 4 |
 | tuscan-panzanella-tomato-bread-salad | Panzanella | Classic | 3 | 5 |
 | twisted-parmesan-puff-pastry-cheese-straws | Cheese straws | Classic | 3 | 5 |
+| ugali-with-sukuma-wiki | Ugali / pap | Classic | 2 | 4 |
 | ukrainian-borscht-beef-beetroot-cabbage | Borscht | Classic | 2 | 4 |
 | umm-ali-phyllo-milk-pudding-nuts-raisins | Umm Ali | Classic | 1 | 3 |
 | upside-down-cake | Upside-down | Classic | 2 | 4 |

@@ -1,0 +1,141 @@
+{
+  "slug": "creamy-cheddar-cheese-grits",
+  "title": "Creamy Cheddar Cheese Grits",
+  "category": "rice-grains",
+  "cuisine": "American",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "grits",
+  "dish_title": "Grits",
+  "flavour": "Cheese",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Yellow grits cooked slowly in milk, cream and water, then enriched with cheddar and butter.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "heavy saucepan",
+    "whisk",
+    "wooden spoon",
+    "grater"
+  ],
+  "ingredients": [
+    {
+      "group": "Grits",
+      "qty": 500,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Grits",
+      "qty": 350,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Grits",
+      "qty": 120,
+      "unit": "ml",
+      "item": "single cream"
+    },
+    {
+      "group": "Grits",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Grits",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Grits",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Grits",
+      "qty": 160,
+      "unit": "g",
+      "item": "stone-ground yellow grits or coarse polenta"
+    },
+    {
+      "group": "To finish",
+      "qty": 115,
+      "unit": "g",
+      "item": "mature cheddar, grated"
+    },
+    {
+      "group": "To finish",
+      "qty": 40,
+      "unit": "g",
+      "item": "butter"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chives, snipped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Bring the water, milk, cream, salt, pepper and garlic powder to a simmer in the saucepan."
+    },
+    {
+      "title": "Whisk",
+      "text": "Pour in the grits in a slow stream, whisking so no lumps form."
+    },
+    {
+      "title": "Cook",
+      "text": "Turn the heat to medium-low and cook 20-25 min, stirring every few minutes and scraping the base, until thick, creamy and no longer gritty."
+    },
+    {
+      "title": "Enrich",
+      "text": "Off the heat, stir in the cheddar and butter until melted and smooth."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon into bowls and scatter with chives."
+    }
+  ],
+  "tips": [
+    "Whisk while pouring in the grits to stop lumps.",
+    "Stone-ground grits may need 10 min longer.",
+    "Loosen with a little hot milk if they thicken too much."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days; reheat with milk, stirring. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 495,
+    "protein_g": 13.6,
+    "carbs_g": 37.8,
+    "sugar_g": 6.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 32.2,
+    "satfat_g": 19.3,
+    "salt_g": 1.33,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "grits-basic--cheese.jpg",
+  "image_alt": "Creamy yellow grits with melted cheddar, topped with snipped chives.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

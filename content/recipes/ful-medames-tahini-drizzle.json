@@ -1,0 +1,162 @@
+{
+  "slug": "ful-medames-tahini-drizzle",
+  "title": "Ful Medames with Tahini Drizzle",
+  "category": "vegetarian",
+  "cuisine": "Egyptian",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "ful-medames",
+  "dish_title": "Ful medames",
+  "flavour": "Tahini",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Fava beans simmered with garlic, cumin and tahini, finished with a lemony tahini drizzle and parsley.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "mortar and pestle",
+    "medium saucepan",
+    "wooden spoon",
+    "small bowl",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Beans",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, roughly chopped"
+    },
+    {
+      "group": "Beans",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "cumin seeds, toasted"
+    },
+    {
+      "group": "Beans",
+      "qty": 1,
+      "unit": "pc",
+      "item": "400 g can fava beans, with its liquid"
+    },
+    {
+      "group": "Beans",
+      "qty": 1,
+      "unit": "pc",
+      "item": "400 g can fava beans, drained"
+    },
+    {
+      "group": "Beans",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Beans",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "tahini"
+    },
+    {
+      "group": "Beans",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Tahini drizzle",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "tahini"
+    },
+    {
+      "group": "Tahini drizzle",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Tahini drizzle",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "cold water"
+    },
+    {
+      "group": "Tahini drizzle",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Paste",
+      "text": "Pound the garlic and cumin together to a rough paste."
+    },
+    {
+      "title": "Simmer",
+      "text": "Cook the beans (with the liquid from one can), water, 3 tbsp tahini and the paste over medium heat 8-10 min, stirring, until saucy."
+    },
+    {
+      "title": "Season",
+      "text": "Add the 2 tbsp lemon juice and crush a few beans against the pan."
+    },
+    {
+      "title": "Drizzle",
+      "text": "Whisk the tahini, lemon juice, water and salt for the drizzle until smooth and pourable."
+    },
+    {
+      "title": "Serve",
+      "text": "Zig-zag the drizzle over the beans, then add the olive oil and parsley."
+    }
+  ],
+  "tips": [
+    "Add the drizzle water a spoon at a time until it flows.",
+    "Crush only a few beans so most stay whole.",
+    "Serve with flatbread and sliced tomato."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 265,
+    "protein_g": 12.3,
+    "carbs_g": 25.8,
+    "sugar_g": 0.5,
+    "free_sugar_g": 0.3,
+    "fat_g": 14.1,
+    "satfat_g": 2.0,
+    "salt_g": 1.95,
+    "fibre_g": 7.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ful-medames-basic--tahini.jpg",
+  "image_alt": "Fava beans in a bowl with a zig-zag of white tahini sauce and parsley.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "lemon-herb-quinoa-pilaf",
+  "title": "Lemon and Herb Quinoa Pilaf",
+  "category": "rice-grains",
+  "cuisine": "International",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "quinoa",
+  "dish_title": "Quinoa",
+  "flavour": "Lemon-herb",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Toasted quinoa simmered with soft onion, then fluffed with parsley, chives, mint and lemon.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan with lid",
+    "wooden spoon",
+    "fork",
+    "bowl",
+    "grater"
+  ],
+  "ingredients": [
+    {
+      "group": "Quinoa",
+      "qty": 250,
+      "unit": "g",
+      "item": "quinoa, rinsed and well drained"
+    },
+    {
+      "group": "Quinoa",
+      "qty": 25,
+      "unit": "g",
+      "item": "butter"
+    },
+    {
+      "group": "Quinoa",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small onion, finely chopped",
+      "note": "about 100 g"
+    },
+    {
+      "group": "Quinoa",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Quinoa",
+      "qty": 420,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "To finish",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, chopped"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "chives, finely snipped"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "mint leaves, chopped"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast",
+      "text": "Stir the quinoa in the dry saucepan over medium heat 5-6 min until it crackles and smells nutty, then tip into a bowl."
+    },
+    {
+      "title": "Soften",
+      "text": "Melt the butter in the pan and cook the onion with the salt 5 min until soft and pale gold."
+    },
+    {
+      "title": "Simmer",
+      "text": "Add the water and quinoa, bring to the boil, then cover and cook on the lowest heat 18 min, stirring once halfway."
+    },
+    {
+      "title": "Rest",
+      "text": "Take off the heat and leave covered 10 min."
+    },
+    {
+      "title": "Finish",
+      "text": "Fluff with a fork and fold in the herbs, lemon zest and juice; serve with lemon wedges."
+    }
+  ],
+  "tips": [
+    "Rinse the quinoa well to remove any bitter coating.",
+    "Do not lift the lid while it simmers.",
+    "Good warm or at room temperature."
+  ],
+  "storage": "Cool quickly and keep covered in the fridge for up to 3 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 292,
+    "protein_g": 9.5,
+    "carbs_g": 44.5,
+    "sugar_g": 1.6,
+    "free_sugar_g": 0.1,
+    "fat_g": 9.0,
+    "satfat_g": 3.7,
+    "salt_g": 1.12,
+    "fibre_g": 5.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "quinoa-basic--lemon-herb.jpg",
+  "image_alt": "Fluffy quinoa flecked with chopped green herbs and lemon zest, with a lemon wedge.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

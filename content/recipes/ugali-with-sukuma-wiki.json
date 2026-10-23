@@ -1,0 +1,136 @@
+{
+  "slug": "ugali-with-sukuma-wiki",
+  "title": "Ugali with Sukuma Wiki Greens",
+  "category": "rice-grains",
+  "cuisine": "Kenyan",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "ugali-pap",
+  "dish_title": "Ugali / pap",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "White maize meal cooked and pressed into a firm dome, served with greens cooked with onion, tomato and ginger.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "heavy saucepan with lid",
+    "sturdy wooden spoon",
+    "large frying pan",
+    "bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Ugali",
+      "qty": 225,
+      "unit": "g",
+      "item": "fine white maize meal"
+    },
+    {
+      "group": "Ugali",
+      "qty": 700,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Ugali",
+      "qty": 300,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Sukuma wiki",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Sukuma wiki",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, thinly sliced",
+      "note": "about 115 g"
+    },
+    {
+      "group": "Sukuma wiki",
+      "qty": 225,
+      "unit": "g",
+      "item": "ripe plum tomatoes, diced"
+    },
+    {
+      "group": "Sukuma wiki",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger, cut into thin matchsticks"
+    },
+    {
+      "group": "Sukuma wiki",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Sukuma wiki",
+      "qty": 450,
+      "unit": "g",
+      "item": "collard greens or kale, stems removed, cut into thin ribbons"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Stir the maize meal into the 700 ml cold water in the saucepan until smooth."
+    },
+    {
+      "title": "Cook",
+      "text": "Set over medium heat, pour 240 ml of the extra water around the edge, part-cover and cook 6-8 min until bubbling; stir hard 2 min to smooth out."
+    },
+    {
+      "title": "Firm",
+      "text": "Keep folding and pressing the mixture against the pan over medium-low heat 15-20 min, adding a splash of the remaining water only if it is too stiff, until it pulls cleanly from the sides and smells toasty; cover off the heat 5 min."
+    },
+    {
+      "title": "Greens",
+      "text": "Meanwhile, fry the onion in the oil 5 min, add the tomatoes, ginger and salt for 5 min, then the greens for 8-10 min until tender."
+    },
+    {
+      "title": "Shape",
+      "text": "Turn the ugali into a wet bowl, invert onto a plate to make a dome and serve with the greens."
+    }
+  ],
+  "tips": [
+    "Use a sturdy wooden spoon; the ugali gets very stiff.",
+    "Wet the bowl so the dome turns out cleanly.",
+    "Eat by pinching off pieces of ugali to scoop the greens."
+  ],
+  "storage": "Best fresh; keep the greens covered in the fridge for up to 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 361,
+    "protein_g": 8.2,
+    "carbs_g": 55.2,
+    "sugar_g": 4.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 12.8,
+    "satfat_g": 1.1,
+    "salt_g": 0.92,
+    "fibre_g": 8.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ugali-pap-basic.jpg",
+  "image_alt": "A smooth white dome of ugali beside sautéed shredded greens with tomato.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "slug": "sri-lankan-red-lentil-dal-curry-leaves",
+  "title": "Red Lentil Dal with Curry Leaves",
+  "category": "vegetarian",
+  "cuisine": "Sri Lankan",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "lentil-dishes-dal-lentil-salad-lentils-du-puy",
+  "dish_title": "Lentil dishes (dal, lentil salad, lentils du Puy)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Red lentils cooked soft with turmeric, then stirred into coconut oil fried with curry leaves, chilli, onion, garlic and ginger.",
+  "servings": 5,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "sieve",
+    "medium saucepan",
+    "wide frying pan",
+    "wooden spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Dal",
+      "qty": 280,
+      "unit": "g",
+      "item": "red lentils"
+    },
+    {
+      "group": "Dal",
+      "qty": 750,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Dal",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Dal",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Tempering",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "coconut oil"
+    },
+    {
+      "group": "Tempering",
+      "qty": 20,
+      "unit": "pc",
+      "item": "fresh curry leaves"
+    },
+    {
+      "group": "Tempering",
+      "qty": 2,
+      "unit": "pc",
+      "item": "whole dried red chillies"
+    },
+    {
+      "group": "Tempering",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small red onion, thinly sliced"
+    },
+    {
+      "group": "Tempering",
+      "qty": 5,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Tempering",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Tempering",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Tempering",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "coriander leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Rinse",
+      "text": "Rinse the lentils in the sieve until the water runs almost clear."
+    },
+    {
+      "title": "Cook",
+      "text": "Boil them in the 750 ml water, uncovered, stirring often, 15 min until soft and the water is absorbed; stir in the turmeric and cayenne off the heat."
+    },
+    {
+      "title": "Temper",
+      "text": "Heat the coconut oil in the frying pan and fry the curry leaves, chillies and onion over medium heat 5 min until the onion softens; add the garlic and ginger for 1-2 min."
+    },
+    {
+      "title": "Combine",
+      "text": "Tip in the lentils with the 60 ml water and salt and simmer 3-4 min, stirring."
+    },
+    {
+      "title": "Serve",
+      "text": "Scatter with coriander and serve with rice or flatbread."
+    }
+  ],
+  "tips": [
+    "Stir the lentils often so they do not catch.",
+    "Stand back when the curry leaves hit the oil; they spit.",
+    "Leave the dried chillies whole for gentle heat."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days; add water when reheating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 289,
+    "protein_g": 14.0,
+    "carbs_g": 39.1,
+    "sugar_g": 2.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 9.2,
+    "satfat_g": 6.8,
+    "salt_g": 1.19,
+    "fibre_g": 6.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "lentil-dishes-dal-lentil-salad-lentils-du-puy-basic.jpg",
+  "image_alt": "Golden red-lentil dal topped with curry leaves, a whole dried red chilli and coriander.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

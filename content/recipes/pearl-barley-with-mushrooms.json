@@ -1,0 +1,124 @@
+{
+  "slug": "pearl-barley-with-mushrooms",
+  "title": "Pearl Barley with Two Mushrooms",
+  "category": "rice-grains",
+  "cuisine": "International",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "barley",
+  "dish_title": "Barley",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Browned shiitake and chestnut mushrooms simmered with pearl barley and finished with parsley.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 50,
+  "difficulty": "easy",
+  "equipment": [
+    "large deep frying pan or casserole with lid",
+    "wooden spoon",
+    "sieve"
+  ],
+  "ingredients": [
+    {
+      "group": "Barley",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Barley",
+      "qty": 200,
+      "unit": "g",
+      "item": "shiitake mushrooms, stems removed, sliced"
+    },
+    {
+      "group": "Barley",
+      "qty": 400,
+      "unit": "g",
+      "item": "chestnut mushrooms, quartered"
+    },
+    {
+      "group": "Barley",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Barley",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Barley",
+      "qty": 200,
+      "unit": "g",
+      "item": "pearl barley, rinsed"
+    },
+    {
+      "group": "Barley",
+      "qty": 550,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "To finish",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown",
+      "text": "Fry the shiitake in the oil over medium heat 8-10 min, stirring now and then, until browned at the edges."
+    },
+    {
+      "title": "Wilt",
+      "text": "Add the chestnut mushrooms, salt and pepper, cover and cook on low 5 min until they release their juice."
+    },
+    {
+      "title": "Simmer",
+      "text": "Stir in the barley and water, cover and simmer on medium-low 35-40 min until the barley is plump and tender and the liquid is absorbed; add a splash of water if it dries out first."
+    },
+    {
+      "title": "Finish",
+      "text": "Stir through most of the parsley and scatter the rest on top."
+    }
+  ],
+  "tips": [
+    "Do not crowd the shiitake or they will steam instead of brown.",
+    "Add more water if the barley is still firm when the pan is dry.",
+    "A squeeze of lemon lifts the flavour."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days; reheat with a splash of water. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 247,
+    "protein_g": 9.2,
+    "carbs_g": 45.7,
+    "sugar_g": 3.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 4.7,
+    "satfat_g": 0.7,
+    "salt_g": 0.78,
+    "fibre_g": 10.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "barley-basic.jpg",
+  "image_alt": "A bowl of plump pearl barley with browned sliced mushrooms and parsley leaves.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

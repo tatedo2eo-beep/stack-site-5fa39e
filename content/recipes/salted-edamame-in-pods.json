@@ -1,0 +1,106 @@
+{
+  "slug": "salted-edamame-in-pods",
+  "title": "Salted Edamame in the Pod",
+  "category": "snacks-sides",
+  "cuisine": "Japanese",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "edamame",
+  "dish_title": "Edamame",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Frozen edamame pods boiled briefly and tossed with flaky salt.",
+  "servings": 4,
+  "prep_min": 2,
+  "cook_min": 8,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan",
+    "colander",
+    "serving bowl",
+    "small bowl for empty pods"
+  ],
+  "ingredients": [
+    {
+      "group": "Edamame",
+      "qty": 450,
+      "unit": "g",
+      "item": "frozen edamame in their pods",
+      "note": "about 250 g beans inside"
+    },
+    {
+      "group": "Edamame",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "water, for boiling"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil",
+      "text": "Bring the water to a rolling boil and add the frozen pods."
+    },
+    {
+      "title": "Cook",
+      "text": "Boil 3-5 min until bright green and the beans are hot all the way through."
+    },
+    {
+      "title": "Drain",
+      "text": "Drain well and shake off the water."
+    },
+    {
+      "title": "Season",
+      "text": "Toss with the flaky salt and pepper while hot."
+    },
+    {
+      "title": "Serve",
+      "text": "Pile into a bowl with an empty bowl alongside for the pods; squeeze the beans out with your teeth."
+    }
+  ],
+  "tips": [
+    "Do not overcook or the beans turn soft.",
+    "Only the beans are eaten, not the pods.",
+    "Add a pinch of chilli flakes for heat."
+  ],
+  "storage": "Best hot; keep cooled leftovers covered in the fridge for up to 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 76,
+    "protein_g": 7.5,
+    "carbs_g": 5.6,
+    "sugar_g": 1.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 3.3,
+    "satfat_g": 0.4,
+    "salt_g": 1.1,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "edamame-basic.jpg",
+  "image_alt": "A bowl of bright green salted edamame pods with a small dish for empty shells.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}
