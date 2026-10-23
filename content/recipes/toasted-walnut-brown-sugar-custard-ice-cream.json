@@ -1,0 +1,146 @@
+{
+  "slug": "toasted-walnut-brown-sugar-custard-ice-cream",
+  "title": "Toasted Walnut and Brown Sugar Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Walnut",
+  "flavour_order": 107,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Walnut-steeped cream sweetened with brown sugar; toasted walnuts folded in.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Following the classic custard method, this version steeps the cream with toasted walnuts and sweetens it with brown sugar, then folds in more toasted walnuts for crunch.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Walnuts",
+      "qty": 180,
+      "unit": "g",
+      "item": "walnut halves",
+      "note": "100 g for steeping, 80 g for folding in"
+    },
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 260,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 130,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the walnuts",
+      "text": "Heat the oven to 170 °C (150 °C fan) and roast the walnuts on the tray for 8-10 min until fragrant and a shade darker. Cool and chop; toasting deepens their flavour and softens any bitterness in the skins."
+    },
+    {
+      "title": "Steep",
+      "text": "Bring the cream and milk to steaming, add 100 g of the walnuts, cover and leave for 1 h. Sieve, pressing hard, and discard the soaked nuts, which have given up their flavour."
+    },
+    {
+      "title": "Whisk the yolks",
+      "text": "Whisk the yolks with the brown sugar and salt in the heatproof bowl until smooth."
+    },
+    {
+      "title": "Temper",
+      "text": "Rewarm the walnut cream until steaming and whisk it gradually into the yolks, then return to the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat until it coats the spatula and reaches 77-80 °C. Brown sugar makes the custard look darker, so use the thermometer rather than colour."
+    },
+    {
+      "title": "Chill",
+      "text": "Add the vanilla, sieve, cool over the iced water and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn and fold",
+      "text": "Churn until thick, then fold in the remaining 80 g of chopped walnuts by hand."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for at least 4 h before serving."
+    }
+  ],
+  "tips": [
+    "Watch the walnuts in the oven: they go from toasted to burnt in a minute.",
+    "A common mistake is skipping the pressing step, which leaves flavour behind in the nuts; press firmly with a ladle.",
+    "Pecans work just as well."
+  ],
+  "storage": "Freeze, covered, for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 478,
+    "protein_g": 8.3,
+    "carbs_g": 22.9,
+    "sugar_g": 19.9,
+    "free_sugar_g": 15.8,
+    "fat_g": 41.0,
+    "satfat_g": 17.1,
+    "salt_g": 0.29,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

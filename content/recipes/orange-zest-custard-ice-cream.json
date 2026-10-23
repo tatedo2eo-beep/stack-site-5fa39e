@@ -1,0 +1,140 @@
+{
+  "slug": "orange-zest-custard-ice-cream",
+  "title": "Orange Zest Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Orange",
+  "flavour_order": 106,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Orange zest rubbed into the sugar and steeped in the dairy, plus a little juice; no vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic French custard ice cream with orange zest rubbed into the sugar and steeped in the cream, plus a splash of juice. Bright, fragrant and smooth, without vanilla.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large oranges, finely grated zest only (about 10 g)",
+      "note": "unwaxed if possible"
+    },
+    {
+      "group": "Custard",
+      "qty": 140,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 450,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 270,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "fresh orange juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Rub in the zest",
+      "text": "Rub the orange zest into the sugar with your fingertips until it smells strongly of orange and feels damp. The sugar crystals break the zest's oil sacs, releasing far more aroma."
+    },
+    {
+      "title": "Infuse",
+      "text": "Heat the cream, milk, half the orange sugar and the salt until steaming, then cover off the heat for 30 min."
+    },
+    {
+      "title": "Whisk the yolks",
+      "text": "Whisk the yolks with the remaining orange sugar in the heatproof bowl until slightly paler."
+    },
+    {
+      "title": "Temper",
+      "text": "Rewarm the dairy, whisk in a ladle, then a second, and tip back into the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat until it reads 77-80 °C and coats the spatula, about 6 min. Keep it under a simmer so it stays smooth."
+    },
+    {
+      "title": "Strain and chill",
+      "text": "Sieve out the zest, stir in the orange juice and cool over the iced water. Adding juice to cool custard keeps it tasting fresh; chill for at least 4 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn until thick, then freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Grate only the coloured part of the peel; the white pith is bitter.",
+    "A common mistake is adding lots of juice for more flavour, which makes the ice cream icy. The zest carries the flavour.",
+    "Blood oranges give a pretty blush colour."
+  ],
+  "storage": "Keep frozen, covered, for up to 2 weeks with baking paper on the surface.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 327,
+    "protein_g": 4.9,
+    "carbs_g": 21.9,
+    "sugar_g": 21.3,
+    "free_sugar_g": 17.8,
+    "fat_g": 25.0,
+    "satfat_g": 14.9,
+    "salt_g": 0.18,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

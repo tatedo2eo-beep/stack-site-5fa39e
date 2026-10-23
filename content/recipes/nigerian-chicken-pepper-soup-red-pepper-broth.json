@@ -1,0 +1,165 @@
+{
+  "slug": "nigerian-chicken-pepper-soup-red-pepper-broth",
+  "title": "Nigerian Chicken Pepper Soup with Red Pepper Broth",
+  "category": "soups-stews",
+  "cuisine": "Nigerian",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "pepper-soup",
+  "dish_title": "Pepper soup",
+  "flavour": "Chicken",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A lighter, faster pepper soup: chicken legs cooked in a blended red pepper, onion, ginger and Scotch bonnet base with warm pepper-soup spices, finished with basil.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 55,
+  "difficulty": "easy",
+  "equipment": [
+    "blender",
+    "large pot with lid",
+    "ladle"
+  ],
+  "ingredients": [
+    {
+      "group": "Pepper base",
+      "qty": 1,
+      "unit": "pc",
+      "item": "red pepper, deseeded and roughly chopped"
+    },
+    {
+      "group": "Pepper base",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small onion, roughly chopped"
+    },
+    {
+      "group": "Pepper base",
+      "qty": 1,
+      "unit": "pc",
+      "item": "Scotch bonnet chilli, deseeded for less heat"
+    },
+    {
+      "group": "Pepper base",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh ginger, sliced"
+    },
+    {
+      "group": "Pepper base",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Soup",
+      "qty": 1100,
+      "unit": "g",
+      "item": "chicken drumsticks and bone-in thighs, skin removed"
+    },
+    {
+      "group": "Spice mix",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground coriander"
+    },
+    {
+      "group": "Spice mix",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Spice mix",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Spice mix",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Spice mix",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "grated nutmeg"
+    },
+    {
+      "group": "Soup",
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1¼ tsp"
+    },
+    {
+      "group": "Soup",
+      "qty": 1300,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "To finish",
+      "qty": 20,
+      "unit": "g",
+      "item": "scent leaf or basil leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend the pepper base",
+      "text": "Blend the red pepper, onion, Scotch bonnet, ginger and garlic with 100 ml of the water to a smooth orange purée."
+    },
+    {
+      "title": "Coat the chicken",
+      "text": "Put the chicken in the pot with the purée, all the spice mix (or 1.5 tbsp ready-made Nigerian pepper-soup spice) and half the salt. Stir to coat and leave 10 min."
+    },
+    {
+      "title": "Cook down",
+      "text": "Cover and cook over medium heat for 10 min, stirring now and then, until the purée darkens a little and the chicken has firmed up."
+    },
+    {
+      "title": "Simmer",
+      "text": "Add the rest of the water, bring to the boil, then simmer partly covered for 30-35 min until the chicken is tender and reaches 75 °C next to the bone."
+    },
+    {
+      "title": "Season",
+      "text": "Add the rest of the salt and taste. The broth should be peppery and warming; simmer a few minutes more to concentrate it if you like."
+    },
+    {
+      "title": "Serve",
+      "text": "Turn off the heat, stir in the basil and serve in deep bowls, with boiled plantain or rice on the side."
+    }
+  ],
+  "tips": [
+    "Deseed the Scotch bonnet for a gentler soup, or leave the seeds in for the classic heat.",
+    "Skinless chicken keeps the broth clear and less greasy.",
+    "A squeeze of lime at the table brightens it."
+  ],
+  "storage": "Keep in the fridge for up to 3 days or freeze for up to 3 months. Reheat until boiling. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 339,
+    "protein_g": 35.2,
+    "carbs_g": 7.7,
+    "sugar_g": 2.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 17.8,
+    "satfat_g": 4.7,
+    "salt_g": 2.33,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pepper-soup-basic--chicken.jpg",
+  "image_alt": "A bowl of orange-red pepper soup with chicken drumsticks and fresh basil leaves.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

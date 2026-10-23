@@ -1,0 +1,194 @@
+{
+  "slug": "vegetarian-borscht-white-beans-dill",
+  "title": "Vegetarian Borscht with White Beans and Dill",
+  "category": "soups-stews",
+  "cuisine": "Ukrainian",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "borscht",
+  "dish_title": "Borscht",
+  "flavour": "Vegetarian",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A hearty meat-free borscht of beetroot and carrot matchsticks, potato, cabbage and white beans in a sweet-sour tomato broth, served with sour cream and dill.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy pot (about 5 litres) with lid",
+    "box grater or knife",
+    "ladle"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "sunflower or olive oil"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large onion, finely chopped"
+    },
+    {
+      "group": "Base",
+      "qty": 2,
+      "unit": "pc",
+      "item": "carrots, cut into thin matchsticks"
+    },
+    {
+      "group": "Base",
+      "qty": 500,
+      "unit": "g",
+      "item": "raw beetroot (about 3), peeled and cut into thin matchsticks"
+    },
+    {
+      "group": "Base",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Base",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "tomato paste"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Soup",
+      "qty": 1600,
+      "unit": "ml",
+      "item": "hot water"
+    },
+    {
+      "group": "Soup",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "Soup",
+      "qty": 350,
+      "unit": "g",
+      "item": "waxy potatoes, in 1.5 cm cubes"
+    },
+    {
+      "group": "Soup",
+      "qty": 200,
+      "unit": "g",
+      "item": "white cabbage, finely shredded"
+    },
+    {
+      "group": "Soup",
+      "qty": 400,
+      "unit": "g",
+      "item": "can cannellini or white beans, drained and rinsed",
+      "note": "240 g drained"
+    },
+    {
+      "group": "Soup",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Soup",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Soup",
+      "qty": 4,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 120,
+      "unit": "g",
+      "item": "sour cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 10,
+      "unit": "g",
+      "item": "dill, chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften the base",
+      "text": "Heat the oil in the pot over medium heat. Cook the onion 5 min, then add the carrot and beetroot and stir for 10 min until the beetroot softens and the oil turns deep red."
+    },
+    {
+      "title": "Add the flavourings",
+      "text": "Stir in the garlic, tomato paste and paprika and cook 2 min. Add 1 tbsp of the vinegar now, which keeps the colour bright."
+    },
+    {
+      "title": "Simmer",
+      "text": "Pour in the water, add the bay and potatoes and bring to the boil. Cover and simmer 15 min."
+    },
+    {
+      "title": "Add cabbage and beans",
+      "text": "Add the cabbage, beans and salt and simmer, uncovered, for 10 min more, until the potatoes and cabbage are tender."
+    },
+    {
+      "title": "Balance",
+      "text": "Stir in the remaining vinegar and the sugar. Taste: it should be gently sweet-sour. Rest the soup, covered and off the heat, for 10 min."
+    },
+    {
+      "title": "Serve",
+      "text": "Ladle into bowls, add a spoon of sour cream and scatter with dill and pepper."
+    }
+  ],
+  "tips": [
+    "A splash of vinegar early on keeps the beetroot a vivid red.",
+    "Like most borscht, it tastes even better the next day.",
+    "Wear gloves when cutting beetroot to avoid stained hands."
+  ],
+  "storage": "Keep in the fridge for up to 4 days or freeze (without the sour cream) for up to 3 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 253,
+    "protein_g": 7.5,
+    "carbs_g": 38.5,
+    "sugar_g": 13.2,
+    "free_sugar_g": 0.7,
+    "fat_g": 8.9,
+    "satfat_g": 2.8,
+    "salt_g": 2.07,
+    "fibre_g": 7.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "borscht-advanced--vegetarian.jpg",
+  "image_alt": "A bowl of deep red borscht with beetroot and carrot strips, potato cubes and white beans, topped with sour cream and dill.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "roasted-brown-beef-stock-marrow-bones",
+  "title": "Roasted Brown Beef Stock",
+  "category": "soups-stews",
+  "cuisine": "French",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "beef-stock",
+  "dish_title": "Beef stock",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A deep brown, unsalted beef stock made from well-roasted bones, onion, carrot and a little tomato paste, simmered slowly so it stays clear.",
+  "servings": 12,
+  "prep_min": 15,
+  "cook_min": 420,
+  "difficulty": "easy",
+  "equipment": [
+    "large roasting tin",
+    "stockpot (at least 8 litres)",
+    "tongs",
+    "ladle or skimmer",
+    "fine sieve",
+    "muslin (optional)",
+    "large heatproof bowl",
+    "sink or larger bowl of iced water",
+    "lidded containers"
+  ],
+  "ingredients": [
+    {
+      "group": "Roast",
+      "qty": 2500,
+      "unit": "g",
+      "item": "beef bones, mixed marrow and knuckle, plus a meaty shank or oxtail"
+    },
+    {
+      "group": "Roast",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "tomato paste"
+    },
+    {
+      "group": "Roast",
+      "qty": 2,
+      "unit": "pc",
+      "item": "onions, unpeeled, halved"
+    },
+    {
+      "group": "Roast",
+      "qty": 2,
+      "unit": "pc",
+      "item": "carrots, in large chunks"
+    },
+    {
+      "group": "Stock",
+      "qty": 5000,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Stock",
+      "qty": 1,
+      "unit": "pc",
+      "item": "head garlic, halved across"
+    },
+    {
+      "group": "Stock",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "Stock",
+      "qty": 4,
+      "unit": "pc",
+      "item": "thyme sprigs"
+    },
+    {
+      "group": "Stock",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "black peppercorns"
+    },
+    {
+      "group": "Stock",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cider vinegar",
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast the bones",
+      "text": "Heat the oven to 220 °C (200 °C fan). Spread the bones in the roasting tin and roast 30 min. Turn them, brush the meaty sides with the tomato paste, add the onions (cut side down) and carrots and roast 20-30 min more, until deep brown but not burnt."
+    },
+    {
+      "title": "Fill the pot",
+      "text": "Move everything into the stockpot. Pour 500 ml of the water into the hot tin, scrape up the brown bits and add them to the pot with the rest of the water, the garlic, bay, thyme, peppercorns and vinegar."
+    },
+    {
+      "title": "Bring up slowly",
+      "text": "Heat over medium-low heat to just below a simmer, about 45 min, skimming off the grey foam as it rises."
+    },
+    {
+      "title": "Simmer",
+      "text": "Keep it at the barest simmer, uncovered, for 5-6 h. Do not boil or stir, which makes it cloudy. Top up with hot water if the bones poke out."
+    },
+    {
+      "title": "Strain",
+      "text": "Ladle the stock through the sieve, lined with damp muslin if you have it, into the heatproof bowl. Discard the solids. You should have about 3 litres."
+    },
+    {
+      "title": "Cool fast",
+      "text": "Stand the bowl in iced water and stir now and then until it is below 21 °C within 2 h, then refrigerate overnight. Lift off the set fat the next day."
+    },
+    {
+      "title": "Use",
+      "text": "The stock is unsalted: season whatever soup or sauce you make with it. Reduce it by half for a richer base."
+    }
+  ],
+  "tips": [
+    "Roast the bones until deep brown; colour equals flavour in a brown stock.",
+    "Never let it boil: a bare simmer gives a clear stock.",
+    "Freeze some in ice-cube trays for small amounts in sauces.",
+    "For a quick reduction, simmer strained stock until halved."
+  ],
+  "storage": "Refrigerate up to 4 days or freeze up to 3 months. Bring to the boil before using. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sulphites"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 32,
+    "protein_g": 4.9,
+    "carbs_g": 3.0,
+    "sugar_g": 1.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.2,
+    "satfat_g": 0.1,
+    "salt_g": 1.24,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "beef-stock-basic.jpg",
+  "image_alt": "A bowl of clear brown beef stock beside roasted beef bones, a halved onion and a carrot.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

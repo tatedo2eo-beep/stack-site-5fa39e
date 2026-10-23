@@ -1,0 +1,150 @@
+{
+  "slug": "fresh-peach-custard-ice-cream",
+  "title": "Fresh Peach Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Peach",
+  "flavour_order": 110,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Lightly cooked peach purée stirred into a lighter custard; less vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic French custard, made a little lighter and finished with a lightly cooked fresh peach purée. Summery, soft and full of fruit.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "small saucepan",
+    "blender or stick blender"
+  ],
+  "ingredients": [
+    {
+      "group": "Peaches",
+      "qty": 4,
+      "unit": "pc",
+      "item": "ripe peaches (about 600 g)",
+      "note": "peeled and stoned"
+    },
+    {
+      "group": "Peaches",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Peaches",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 90,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the peaches",
+      "text": "Chop the peaches and cook them with 50 g sugar and the lemon juice in the small pan for 6-8 min until soft and juicy. Blend to a slightly chunky purée and chill; brief cooking drives off some water and keeps the ice cream from turning icy."
+    },
+    {
+      "title": "Make the custard",
+      "text": "Warm the cream, milk and salt until steaming. Whisk the yolks with 90 g sugar, temper with two ladles of the hot dairy and pour back into the pan."
+    },
+    {
+      "title": "Cook to temperature",
+      "text": "Stir over low heat until it coats the spatula and reads 77-80 °C. Keep it below a simmer so it stays smooth."
+    },
+    {
+      "title": "Chill",
+      "text": "Sieve, add the vanilla, cool over the iced water and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Combine and churn",
+      "text": "Stir in the cold peach purée and churn until thick. Both parts must be cold so the machine freezes them quickly."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for at least 4 h, and eat within a week for the best fruit flavour."
+    }
+  ],
+  "tips": [
+    "Peel peaches easily by scoring a cross in the base and dipping them in boiling water for 30 seconds.",
+    "A common mistake is using hard, underripe peaches, which have little flavour. Use fragrant ones that give slightly when pressed.",
+    "Nectarines work without peeling."
+  ],
+  "storage": "Freeze, covered, for up to 1 week. Soften for 10 min before scooping, as fruit ice creams set harder.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 303,
+    "protein_g": 4.7,
+    "carbs_g": 27.3,
+    "sugar_g": 26.1,
+    "free_sugar_g": 17.5,
+    "fat_g": 20.4,
+    "satfat_g": 12.0,
+    "salt_g": 0.17,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

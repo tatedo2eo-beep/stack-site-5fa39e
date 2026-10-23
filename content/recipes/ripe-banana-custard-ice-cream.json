@@ -1,0 +1,143 @@
+{
+  "slug": "ripe-banana-custard-ice-cream",
+  "title": "Ripe Banana Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Banana",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Puréed ripe banana with brown sugar and lemon stirred into a lighter custard.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A lighter version of our classic custard with puréed very ripe banana, brown sugar and lemon stirred in once cool. Sweet, mellow and fragrant.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 110,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Banana",
+      "qty": 3,
+      "unit": "pc",
+      "item": "very ripe bananas (about 330 g peeled)"
+    },
+    {
+      "group": "Banana",
+      "qty": 25,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Banana",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the custard",
+      "text": "Warm the cream, milk, half the sugar and the salt until steaming. Whisk the yolks with the rest of the sugar, pour in two ladles of the hot dairy while whisking, then return everything to the pan; it follows the classic method with less cream."
+    },
+    {
+      "title": "Cook and cool",
+      "text": "Stir over low heat until it coats the spatula and reads 77-80 °C, without letting it bubble. Sieve into a bowl and cool over the iced water so the banana is not added to a hot base."
+    },
+    {
+      "title": "Purée the banana",
+      "text": "Mash or blend the bananas with the brown sugar and lemon juice until completely smooth, then whisk into the cooled custard with the vanilla. Lemon slows browning, and the extra sugar keeps the fruit's water from freezing icy."
+    },
+    {
+      "title": "Chill",
+      "text": "Press baking paper onto the surface, cover and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn until thick, then freeze for at least 3 h. Banana ice cream is at its best within a week, as the fruit slowly darkens."
+    }
+  ],
+  "tips": [
+    "Use bananas with plenty of brown speckles; underripe ones taste starchy.",
+    "A common mistake is adding the banana to hot custard, which cooks it and dulls the flavour. Cool the custard first.",
+    "A pinch of ground cinnamon in the purée is a nice addition."
+  ],
+  "storage": "Freeze covered for up to 1 week. Soften for 5 min before scooping.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 312,
+    "protein_g": 4.5,
+    "carbs_g": 29.6,
+    "sugar_g": 24.8,
+    "free_sugar_g": 16.9,
+    "fat_g": 20.4,
+    "satfat_g": 12.1,
+    "salt_g": 0.17,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "slug": "canh-chua-snapper-fillet-tomato-pineapple",
+  "title": "Canh Chua Cá: Sour Fish Soup with Snapper, Tomato and Pineapple",
+  "category": "soups-stews",
+  "cuisine": "Vietnamese",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "canh-chua",
+  "dish_title": "Canh chua",
+  "flavour": "Fish",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A quick, bright canh chua with chunks of white fish, a cooked-down tomato base, tamarind and lime, pineapple and okra, topped with bean sprouts, spring onion and coriander.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan (about 4 litres)",
+    "sharp knife and board",
+    "small bowl",
+    "ladle"
+  ],
+  "ingredients": [
+    {
+      "group": "Fish",
+      "qty": 500,
+      "unit": "g",
+      "item": "skinless snapper or other firm white fish fillet, in 4 cm chunks"
+    },
+    {
+      "group": "Fish",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fish sauce, for the fish"
+    },
+    {
+      "group": "Base",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Base",
+      "qty": 2,
+      "unit": "pc",
+      "item": "shallots, thinly sliced"
+    },
+    {
+      "group": "Base",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "pc",
+      "item": "ripe tomato, finely chopped, plus 2 more cut into wedges"
+    },
+    {
+      "group": "Broth",
+      "qty": 1100,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Broth",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "tamarind paste (concentrate-free pulp, sieved)"
+    },
+    {
+      "group": "Broth",
+      "qty": 12,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Broth",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "fish sauce"
+    },
+    {
+      "group": "Broth",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 180,
+      "unit": "g",
+      "item": "fresh pineapple, in small wedges"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 6,
+      "unit": "pc",
+      "item": "okra pods, cut in thick pieces"
+    },
+    {
+      "group": "To finish",
+      "qty": 100,
+      "unit": "g",
+      "item": "bean sprouts"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "pc",
+      "item": "spring onions, sliced"
+    },
+    {
+      "group": "To finish",
+      "qty": 10,
+      "unit": "g",
+      "item": "coriander leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the fish",
+      "text": "Toss the fish chunks with the 1 tsp fish sauce and set aside while you start the base."
+    },
+    {
+      "title": "Cook the base",
+      "text": "Heat the oil in the saucepan over medium heat. Fry the shallots and garlic for 2 min until soft, add the chopped tomato and cook 4-5 min, pressing with the spoon, until it collapses into a thick red sauce."
+    },
+    {
+      "title": "Build the broth",
+      "text": "Pour in the water, bring to the boil, then stir in the tamarind, sugar and the 1.5 tbsp fish sauce. Simmer 5 min."
+    },
+    {
+      "title": "Cook the vegetables",
+      "text": "Add the pineapple and okra and simmer 3 min."
+    },
+    {
+      "title": "Poach the fish",
+      "text": "Lower the heat so the broth barely bubbles. Add the fish and the tomato wedges and cook 4-5 min without stirring hard, until the fish is opaque and flakes (63 °C in the centre)."
+    },
+    {
+      "title": "Finish",
+      "text": "Take the pan off the heat and stir in the lime juice. Taste and adjust with a pinch of sugar or a little more lime."
+    },
+    {
+      "title": "Serve",
+      "text": "Put bean sprouts in each bowl, ladle in the soup and scatter with spring onion and coriander. Eat with steamed rice."
+    }
+  ],
+  "tips": [
+    "Cook the chopped tomato right down first; it gives the broth body and colour.",
+    "Keep the broth just trembling once the fish is in so the chunks stay whole.",
+    "Add the lime off the heat so it stays fresh-tasting."
+  ],
+  "storage": "Eat on the day. Leftovers keep 1 day in the fridge; reheat gently until steaming hot. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 293,
+    "protein_g": 29.1,
+    "carbs_g": 26.1,
+    "sugar_g": 17.9,
+    "free_sugar_g": 3.4,
+    "fat_g": 8.8,
+    "satfat_g": 0.9,
+    "salt_g": 1.86,
+    "fibre_g": 3.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "canh-chua-basic--fish.jpg",
+  "image_alt": "A bowl of tomato-tinted sour soup with chunks of white fish, pineapple, tomato, okra, bean sprouts, coriander and spring onion.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

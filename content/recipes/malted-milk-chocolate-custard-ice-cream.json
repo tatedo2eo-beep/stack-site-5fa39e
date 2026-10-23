@@ -1,0 +1,149 @@
+{
+  "slug": "malted-milk-chocolate-custard-ice-cream",
+  "title": "Malted Milk Chocolate Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Malted milk & milk chocolate",
+  "flavour_order": 109,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Malted milk powder cooked into the custard, milk chocolate melted in and chopped malted milk balls folded through; less sugar.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A take on our classic custard with malted milk powder cooked into the base, milk chocolate melted in and chopped malted milk balls folded through. Creamy, nostalgic and less sweet than you might expect.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 80,
+      "unit": "g",
+      "item": "malted milk powder (plain, unflavoured)"
+    },
+    {
+      "group": "Custard",
+      "qty": 60,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Chocolate",
+      "qty": 150,
+      "unit": "g",
+      "item": "milk chocolate, finely chopped"
+    },
+    {
+      "group": "Chocolate",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Mix-ins",
+      "qty": 70,
+      "unit": "g",
+      "item": "chocolate-coated malted milk balls, roughly chopped and frozen"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix the base",
+      "text": "In the saucepan, whisk the malted milk powder, sugar and yolks into a thick paste, then gradually whisk in the cream and milk until smooth. Starting with a paste stops the powder forming lumps."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat for 8-10 min until it coats the spatula and reads 77-80 °C. The malt powder can catch, so scrape the base constantly."
+    },
+    {
+      "title": "Melt the chocolate",
+      "text": "Put the milk chocolate in the heatproof bowl, sieve the hot custard over it, wait 1 min, then stir until smooth. Add the vanilla and salt."
+    },
+    {
+      "title": "Chill",
+      "text": "Cool over the iced water and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn until thick and add the frozen malted milk balls in the last minute so they stay crunchy."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pack into the container and freeze for at least 3 h."
+    }
+  ],
+  "tips": [
+    "Freeze the chopped malted milk balls first, or they soften in the ice cream.",
+    "Use plain malted milk powder rather than a chocolate drink mix, which changes the sweetness.",
+    "A common mistake is cooking over medium heat to save time; malt scorches easily, so keep it low."
+  ],
+  "storage": "Freeze, covered, for up to 2 weeks; the malt balls slowly soften after the first week.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 428,
+    "protein_g": 7.7,
+    "carbs_g": 36.2,
+    "sugar_g": 32.2,
+    "free_sugar_g": 28.4,
+    "fat_g": 29.0,
+    "satfat_g": 17.3,
+    "salt_g": 0.34,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

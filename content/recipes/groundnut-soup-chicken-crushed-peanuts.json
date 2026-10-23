@@ -1,0 +1,168 @@
+{
+  "slug": "groundnut-soup-chicken-crushed-peanuts",
+  "title": "Groundnut Soup with Chicken and Crushed Peanuts",
+  "category": "soups-stews",
+  "cuisine": "Ghanaian",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "groundnut-soup",
+  "dish_title": "Groundnut soup",
+  "flavour": "Chicken",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A rich West African peanut soup: bone-in chicken simmered in a tomato and peanut butter broth with ginger, garlic and a whole Scotch bonnet, topped with crushed peanuts.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 70,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy pot with lid",
+    "mixing bowl",
+    "whisk",
+    "blender or stick blender",
+    "ladle"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 1200,
+      "unit": "g",
+      "item": "bone-in chicken drumsticks and thighs, skin removed"
+    },
+    {
+      "group": "Chicken",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger, grated"
+    },
+    {
+      "group": "Chicken",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Chicken",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large onion, finely chopped"
+    },
+    {
+      "group": "Soup",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "tomato paste"
+    },
+    {
+      "group": "Soup",
+      "qty": 400,
+      "unit": "g",
+      "item": "can chopped tomatoes, blended smooth"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "Scotch bonnet chilli, left whole"
+    },
+    {
+      "group": "Soup",
+      "qty": 180,
+      "unit": "g",
+      "item": "smooth unsweetened peanut butter"
+    },
+    {
+      "group": "Soup",
+      "qty": 1200,
+      "unit": "ml",
+      "item": "hot water"
+    },
+    {
+      "group": "Soup",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 40,
+      "unit": "g",
+      "item": "roasted unsalted peanuts, roughly crushed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Season the chicken",
+      "text": "Rub the chicken with the ginger, garlic and 0.5 tsp salt and leave 20 min (or overnight in the fridge)."
+    },
+    {
+      "title": "Sear",
+      "text": "Heat the oil in the pot over medium-high heat and brown the chicken on both sides, about 6 min, in batches if needed. Lift out."
+    },
+    {
+      "title": "Make the base",
+      "text": "Lower the heat, add the onion and cook 5 min until soft. Stir in the tomato paste for 2 min until it darkens, then add the blended tomatoes and cook 10 min until thick."
+    },
+    {
+      "title": "Loosen the peanut butter",
+      "text": "Whisk the peanut butter in the bowl with 300 ml of the hot water until smooth, then stir it into the pot with the rest of the water."
+    },
+    {
+      "title": "Simmer",
+      "text": "Return the chicken, add the Scotch bonnet, bring to a simmer and cook partly covered for 40 min, stirring often so it does not catch, until the chicken is tender (75 °C at the bone) and red oil pools on top."
+    },
+    {
+      "title": "Season",
+      "text": "Remove the Scotch bonnet, add the remaining salt and taste. Thin with a little hot water if it is thicker than heavy cream."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve in bowls with crushed peanuts scattered over, with rice balls (omo tuo), fufu or plain rice."
+    }
+  ],
+  "tips": [
+    "Stir often once the peanut butter is in; it catches easily on the bottom.",
+    "Red oil rising to the top is the sign that the soup is ready.",
+    "Leave the Scotch bonnet whole for warmth without too much heat."
+  ],
+  "storage": "Keep in the fridge for up to 3 days or freeze for up to 3 months. It thickens as it stands; loosen with hot water when reheating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "peanuts"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 499,
+    "protein_g": 35.2,
+    "carbs_g": 15.7,
+    "sugar_g": 7.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 34.3,
+    "satfat_g": 7.3,
+    "salt_g": 2.11,
+    "fibre_g": 4.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "groundnut-soup-basic--chicken.jpg",
+  "image_alt": "A bowl of thick orange peanut soup with chicken drumsticks, sprinkled with crushed peanuts.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

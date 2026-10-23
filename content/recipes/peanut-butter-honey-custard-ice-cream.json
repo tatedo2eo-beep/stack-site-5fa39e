@@ -1,0 +1,152 @@
+{
+  "slug": "peanut-butter-honey-custard-ice-cream",
+  "title": "Peanut Butter and Honey Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Peanut butter & honey",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Smooth peanut butter whisked into the hot custard; honey replaces most of the sugar; no vanilla; optional honey ripple.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic French custard method with smooth peanut butter whisked into the hot custard and honey standing in for most of the sugar. Rich, nutty and lightly floral, with an optional honey ripple.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 80,
+      "unit": "g",
+      "item": "runny honey"
+    },
+    {
+      "group": "Custard",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Peanut butter",
+      "qty": 150,
+      "unit": "g",
+      "item": "smooth peanut butter, at room temperature"
+    },
+    {
+      "group": "Ripple",
+      "qty": 42,
+      "unit": "g",
+      "item": "runny honey, for rippling",
+      "note": "about 2 tbsp; optional"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Warm the dairy",
+      "text": "Put the cream, milk, honey and salt in the saucepan over medium heat and stir until steaming, about 5 min. Honey dissolves easily in warm dairy, so there is no grainy residue later."
+    },
+    {
+      "title": "Whisk the yolks",
+      "text": "In the heatproof bowl, whisk the yolks with the caster sugar until smooth and a shade paler. The sugar coats the yolk proteins, which makes them less likely to curdle when the heat arrives."
+    },
+    {
+      "title": "Temper gently",
+      "text": "Whisking all the time, pour in two ladles of the hot dairy, then pour the warmed yolks back into the pan. Bringing the yolks up to temperature slowly keeps them silky."
+    },
+    {
+      "title": "Cook to coating",
+      "text": "Stir over low heat, scraping the base and corners with the spatula, for about 6 min until the custard coats the spatula and reads 77-80 °C. Keep it below a simmer; boiling would split it."
+    },
+    {
+      "title": "Add peanut butter",
+      "text": "Off the heat, place the peanut butter in a clean bowl and whisk in the hot custard one ladle at a time. Adding the liquid gradually loosens the thick peanut butter into a smooth emulsion instead of lumps."
+    },
+    {
+      "title": "Chill well",
+      "text": "Pass through the sieve, set the bowl in the iced water and stir until cool, then cover and refrigerate for at least 4 h. A thoroughly cold base freezes faster in the machine, giving smaller ice crystals."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn for 20-30 min until thick and holding its shape like soft serve. Peanut butter bases thicken quickly, so check from 20 min."
+    },
+    {
+      "title": "Ripple and freeze",
+      "text": "Spoon into the container in layers, drizzling the extra honey between them if using, then freeze for at least 4 h. Let it sit out for 10 min before scooping, as the peanut fat sets firm."
+    }
+  ],
+  "tips": [
+    "Use ordinary smooth peanut butter rather than natural style that separates; it keeps the texture creamier.",
+    "A common mistake is dumping cold peanut butter into the custard, which leaves lumps; warm it to room temperature and add the custard slowly.",
+    "Swirl the honey only lightly so it stays in ribbons rather than vanishing.",
+    "Taste the base before chilling and add a pinch more salt if your peanut butter is unsalted."
+  ],
+  "storage": "Freeze in the covered container for up to 2 weeks, with baking paper pressed onto the surface to stop ice forming. Do not refreeze once melted.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 400,
+    "protein_g": 8.7,
+    "carbs_g": 26.9,
+    "sugar_g": 24.4,
+    "free_sugar_g": 18.8,
+    "fat_g": 30.4,
+    "satfat_g": 14.2,
+    "salt_g": 0.39,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

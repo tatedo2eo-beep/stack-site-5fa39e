@@ -1,0 +1,142 @@
+{
+  "slug": "ginger-matcha-custard-ice-cream",
+  "title": "Ginger and Matcha Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Ginger & matcha",
+  "flavour_order": 104,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Matcha whisked into the milk and fresh ginger steeped in the dairy instead of vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "The classic French custard, flavoured with matcha whisked into the milk and fresh ginger steeped in the warm dairy instead of vanilla. Grassy, gently spicy and a lovely pale green.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 10,
+      "unit": "g",
+      "item": "matcha powder",
+      "note": "about 4 tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 420,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 25,
+      "unit": "g",
+      "item": "fresh ginger, finely grated with its juice",
+      "note": "a 5 cm piece"
+    },
+    {
+      "group": "Custard",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk the matcha",
+      "text": "Sift the matcha into the saucepan and add the milk a splash at a time, whisking until completely smooth, then whisk in the cream. Matcha lumps will not dissolve later, so patience here pays off."
+    },
+    {
+      "title": "Steep the ginger",
+      "text": "Heat until steaming, stir in the grated ginger with its juice, cover and leave off the heat for 45 min. Warm fat pulls the ginger's aromatic oils into the base."
+    },
+    {
+      "title": "Beat the yolks",
+      "text": "In the heatproof bowl, whisk the yolks with the sugar until thick and pale. The mixture is stiff at first but loosens as you work it."
+    },
+    {
+      "title": "Temper",
+      "text": "Rewarm the green dairy until steaming, whisk two ladles into the yolks and pour back into the pan."
+    },
+    {
+      "title": "Cook gently",
+      "text": "Stir over low heat, scraping the base, until it coats the spatula and reads 77-80 °C. Overheating dulls matcha's colour, so stop as soon as it is there."
+    },
+    {
+      "title": "Strain and chill",
+      "text": "Stir in the salt, then sieve, pressing on the ginger to extract its juice. Cool over the iced water and chill for at least 4 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn until thick and creamy, then pack into the container and freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Use culinary-grade or better matcha; very cheap powder can taste bitter.",
+    "Grate the ginger on a fine grater so it gives up the most juice.",
+    "A common mistake is adding matcha to hot milk all at once, which leaves stubborn lumps; whisk it into cold milk first.",
+    "For more heat, steep the ginger for the full hour."
+  ],
+  "storage": "Keep frozen in a covered container for up to 2 weeks. The green fades slightly with time and light, so an opaque container is best.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 325,
+    "protein_g": 5.3,
+    "carbs_g": 23.6,
+    "sugar_g": 22.3,
+    "free_sugar_g": 18.7,
+    "fat_g": 23.9,
+    "satfat_g": 14.1,
+    "salt_g": 0.19,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

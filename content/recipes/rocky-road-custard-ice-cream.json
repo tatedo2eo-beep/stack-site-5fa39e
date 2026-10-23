@@ -1,0 +1,171 @@
+{
+  "slug": "rocky-road-custard-ice-cream",
+  "title": "Rocky Road Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Rocky road",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Cocoa and dark chocolate chocolate base; almonds, gelatine-free marshmallows and chocolate folded in after churning.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic custard method turned into a dark chocolate base with cocoa and melted chocolate, then loaded with roasted almonds, gelatine-free marshmallows and chocolate chunks after churning.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 450,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 250,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 25,
+      "unit": "g",
+      "item": "cocoa powder"
+    },
+    {
+      "group": "Custard",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Custard",
+      "qty": 60,
+      "unit": "g",
+      "item": "dark chocolate (60-70% cocoa), chopped"
+    },
+    {
+      "group": "Mix-ins",
+      "qty": 70,
+      "unit": "g",
+      "item": "roasted almonds, roughly chopped"
+    },
+    {
+      "group": "Mix-ins",
+      "qty": 40,
+      "unit": "g",
+      "item": "gelatine-free (vegetarian) mini marshmallows",
+      "note": "check the label"
+    },
+    {
+      "group": "Mix-ins",
+      "qty": 50,
+      "unit": "g",
+      "item": "dark chocolate (60-70% cocoa), chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the paste",
+      "text": "In the heatproof bowl, whisk the yolks, cocoa and half the sugar into a thick paste with no lumps. If it is too stiff to whisk, loosen it with a spoonful of the cream."
+    },
+    {
+      "title": "Heat the dairy",
+      "text": "Warm the cream, milk and remaining sugar in the saucepan over medium heat until steaming, stirring so the sugar dissolves."
+    },
+    {
+      "title": "Temper",
+      "text": "Whisk the hot dairy into the cocoa paste a ladle at a time, then pour the lot back into the pan. Diluting the paste gradually keeps the cocoa smooth and the yolks tender."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat for 5-8 min, until the custard coats the spatula and the thermometer reads 77-80 °C. The cocoa makes it look thicker than it is, so trust the temperature."
+    },
+    {
+      "title": "Melt and flavour",
+      "text": "Off the heat, stir in the 60 g chocolate, the vanilla and the salt until glossy. Melted chocolate adds body as well as flavour."
+    },
+    {
+      "title": "Chill",
+      "text": "Sieve into a bowl set in the iced water, stir until cool and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn and fold",
+      "text": "Churn until thick like soft serve, then scrape into a cold bowl and fold in the almonds, marshmallows and chopped chocolate with the spatula. Folding by hand stops the machine breaking up the mix-ins."
+    },
+    {
+      "title": "Freeze",
+      "text": "Transfer to the container and freeze for at least 4 h, until firm enough to scoop."
+    }
+  ],
+  "tips": [
+    "Check the marshmallow label: many contain gelatine, so choose a gelatine-free (vegetarian) brand.",
+    "Chill the mix-ins in the freezer first so they do not melt the soft ice cream.",
+    "A common mistake is adding the mix-ins to the churning machine; they jam the paddle and sink. Fold them in afterwards.",
+    "Hazelnuts or walnuts work in place of almonds."
+  ],
+  "storage": "Freeze, covered, for up to 2 weeks; the marshmallows stay soft for the first week and slowly firm after that.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "soya",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 484,
+    "protein_g": 8.3,
+    "carbs_g": 36.5,
+    "sugar_g": 28.9,
+    "free_sugar_g": 25.1,
+    "fat_g": 35.6,
+    "satfat_g": 18.8,
+    "salt_g": 0.2,
+    "fibre_g": 3.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

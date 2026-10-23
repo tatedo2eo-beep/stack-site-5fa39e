@@ -1,0 +1,161 @@
+{
+  "slug": "curried-roast-pumpkin-soup-coconut-thyme",
+  "title": "Curried Roast Pumpkin Soup with Coconut and Thyme",
+  "category": "soups-stews",
+  "cuisine": "International",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "pumpkin-soup",
+  "dish_title": "Pumpkin soup",
+  "flavour": "Curried",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A smooth, gently spiced soup of roasted pumpkin blended with curry powder, ginger and coconut milk, finished with thyme, black pepper and a roasted pumpkin wedge.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 50,
+  "difficulty": "easy",
+  "equipment": [
+    "2 baking trays lined with baking paper",
+    "large saucepan",
+    "stick blender or blender",
+    "ladle"
+  ],
+  "ingredients": [
+    {
+      "group": "Roast",
+      "qty": 1500,
+      "unit": "g",
+      "item": "pumpkin or butternut squash, peeled, deseeded, in 4 cm chunks, plus 6 thin wedges to garnish"
+    },
+    {
+      "group": "Roast",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large onion, chopped"
+    },
+    {
+      "group": "Soup",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Soup",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh ginger, grated"
+    },
+    {
+      "group": "Soup",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "mild curry powder"
+    },
+    {
+      "group": "Soup",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Soup",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "hot water or low-salt vegetable stock"
+    },
+    {
+      "group": "Soup",
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1¼ tsp"
+    },
+    {
+      "group": "Soup",
+      "qty": 200,
+      "unit": "ml",
+      "item": "coconut milk"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fresh thyme leaves"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast the pumpkin",
+      "text": "Heat the oven to 210 °C (190 °C fan). Toss the chunks and garnish wedges with 1 tbsp oil and a pinch of the salt, spread on the trays and roast 30-35 min until soft and browned at the edges. Keep the wedges aside."
+    },
+    {
+      "title": "Cook the aromatics",
+      "text": "Meanwhile heat the rest of the oil in the saucepan over medium heat and cook the onion for 8 min until soft and golden. Add the garlic and ginger for 1 min, then the curry powder and cumin for 30 sec until fragrant."
+    },
+    {
+      "title": "Simmer",
+      "text": "Add the roasted chunks, the water and the rest of the salt. Bring to the boil and simmer 10 min."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend until completely smooth, then stir in the coconut milk and warm through without boiling. Add the lime juice, then taste and adjust."
+    },
+    {
+      "title": "Serve",
+      "text": "Ladle into bowls, scatter with thyme leaves and black pepper and lay a roasted wedge alongside."
+    }
+  ],
+  "tips": [
+    "Roasting the pumpkin first gives a sweeter, deeper flavour than boiling.",
+    "Fry the curry powder briefly in the oil so it loses its raw taste.",
+    "Do not boil the soup after adding the coconut milk."
+  ],
+  "storage": "Keep in the fridge for up to 4 days or freeze for up to 3 months. Reheat gently. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "celery"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 203,
+    "protein_g": 3.8,
+    "carbs_g": 23.6,
+    "sugar_g": 8.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 12.5,
+    "satfat_g": 7.3,
+    "salt_g": 1.26,
+    "fibre_g": 7.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pumpkin-soup-basic--curried.jpg",
+  "image_alt": "A bowl of smooth orange pumpkin soup topped with thyme leaves and black pepper, with a roasted pumpkin wedge beside it.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

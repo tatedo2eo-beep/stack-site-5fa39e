@@ -1,0 +1,157 @@
+{
+  "slug": "bulalo-beef-shank-marrow-bone-corn-soup",
+  "title": "Bulalo: Filipino Beef Shank and Marrow Bone Soup with Corn and Cabbage",
+  "category": "soups-stews",
+  "cuisine": "Filipino",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "bulalo",
+  "dish_title": "Bulalo",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A slow-simmered Filipino beef soup: marrow-bone shanks cooked until falling apart in a clear, peppery broth, with corn on the cob, cabbage and bok choy.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 225,
+  "difficulty": "easy",
+  "equipment": [
+    "large stockpot (at least 8 litres)",
+    "colander",
+    "ladle or skimmer",
+    "tongs"
+  ],
+  "ingredients": [
+    {
+      "group": "Beef",
+      "qty": 1600,
+      "unit": "g",
+      "item": "cross-cut beef shank with marrow bone (osso buco cut), 4-6 pieces"
+    },
+    {
+      "group": "Broth",
+      "qty": 3500,
+      "unit": "ml",
+      "item": "water, plus more for blanching"
+    },
+    {
+      "group": "Broth",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large onion, quartered"
+    },
+    {
+      "group": "Broth",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "black peppercorns"
+    },
+    {
+      "group": "Broth",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "fish sauce"
+    },
+    {
+      "group": "Broth",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 3,
+      "unit": "pc",
+      "item": "corn cobs, each cut into 3 pieces"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "small green cabbage, cut into 4 wedges through the core"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "pc",
+      "item": "heads bok choy or pechay, halved"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "calamansi or lime, in wedges, to serve",
+      "note": "optional"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "fish sauce with chopped chilli, to dip",
+      "note": "optional; not counted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blanch the shanks",
+      "text": "Put the shanks in the stockpot, cover with cold water and bring to the boil. Boil hard for 10 min, then tip into the colander and rinse each piece under the tap to remove the grey scum. Wash the pot."
+    },
+    {
+      "title": "Start the broth",
+      "text": "Return the shanks to the clean pot with the 3.5 litres water, the onion and peppercorns. Bring slowly to a gentle simmer."
+    },
+    {
+      "title": "Simmer slowly",
+      "text": "Keep the pot at a lazy simmer, partly covered, for 3-3½ h, skimming fat and foam often, until the meat is falling off the bone and the marrow is soft. Top up with hot water to keep the shanks covered."
+    },
+    {
+      "title": "Season",
+      "text": "Stir in the fish sauce and salt, then taste. The broth should be clean and beefy; add a little more salt only if needed."
+    },
+    {
+      "title": "Cook the corn",
+      "text": "Add the corn and simmer 10 min."
+    },
+    {
+      "title": "Add the greens",
+      "text": "Add the cabbage wedges and simmer 5 min, then the bok choy for 2 min, just until it wilts but is still bright."
+    },
+    {
+      "title": "Serve",
+      "text": "Share the shanks, corn, cabbage and bok choy between deep bowls and ladle the broth over. Scoop the marrow out with a teaspoon, and serve with rice, calamansi and the chilli fish sauce on the side."
+    }
+  ],
+  "tips": [
+    "Blanching and rinsing the shanks first is the secret to a clear broth.",
+    "Keep the pot at a lazy simmer; a rolling boil makes the broth cloudy and greasy.",
+    "Chill leftovers overnight and lift off the set fat for a cleaner broth.",
+    "A pressure cooker cuts the simmer to about 50 min at high pressure."
+  ],
+  "storage": "Keep in the fridge for up to 3 days, or freeze the broth and meat (without the vegetables) for up to 3 months. Reheat until steaming hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 290,
+    "protein_g": 38.5,
+    "carbs_g": 18.9,
+    "sugar_g": 7.8,
+    "free_sugar_g": 0.2,
+    "fat_g": 7.1,
+    "satfat_g": 2.3,
+    "salt_g": 2.03,
+    "fibre_g": 3.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bulalo-basic.jpg",
+  "image_alt": "A bowl of clear beef broth with a marrow-bone beef shank, a piece of corn on the cob, a cabbage wedge and bok choy.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

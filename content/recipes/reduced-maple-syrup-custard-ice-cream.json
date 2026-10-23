@@ -1,0 +1,125 @@
+{
+  "slug": "reduced-maple-syrup-custard-ice-cream",
+  "title": "Maple Syrup Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Maple",
+  "flavour_order": 108,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Reduced maple syrup sweetens it on its own; no sugar or vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic custard ice cream sweetened only with maple syrup, reduced first for a deeper, almost toffee-like flavour. No sugar or vanilla needed.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "pure maple syrup",
+      "note": "dark, robust grade"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Reduce the syrup",
+      "text": "Simmer the maple syrup in the saucepan for 4-5 min until reduced to about 180 ml. Concentrating it intensifies the flavour without the thin, watery result of using more syrup."
+    },
+    {
+      "title": "Add the dairy",
+      "text": "Off the heat, whisk in the milk carefully, as it will sputter, then the cream. Warm over medium heat until steaming."
+    },
+    {
+      "title": "Temper",
+      "text": "Whisk the yolks in the heatproof bowl, add two ladles of the maple dairy while whisking and pour back into the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat until the custard coats the spatula and reads 77-80 °C. Hold it below a simmer to keep it silky."
+    },
+    {
+      "title": "Chill thoroughly",
+      "text": "Stir in the salt, sieve, cool over the iced water and refrigerate for at least 6 h. Syrup-sweetened bases benefit from a longer rest."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn until thick, then freeze for at least 4 h. It stays a little softer than sugar-based ice cream, so it scoops easily."
+    }
+  ],
+  "tips": [
+    "Choose a dark, robust maple syrup for the strongest flavour; never use maple-flavoured pancake syrup.",
+    "A common mistake is walking away from the reducing syrup; it can foam over in seconds. Use a deep pan and stay close.",
+    "A sprinkle of toasted pecans is excellent on top."
+  ],
+  "storage": "Keep frozen in a covered container for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 329,
+    "protein_g": 4.9,
+    "carbs_g": 30.8,
+    "sugar_g": 27.9,
+    "free_sugar_g": 24.2,
+    "fat_g": 21.3,
+    "satfat_g": 12.5,
+    "salt_g": 0.2,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}
