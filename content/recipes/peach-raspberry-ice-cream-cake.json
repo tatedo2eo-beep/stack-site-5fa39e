@@ -1,0 +1,223 @@
+{
+  "slug": "peach-raspberry-ice-cream-cake",
+  "title": "Peach and Raspberry Ice Cream Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Raspberry",
+  "flavour_order": 15,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "A thin vanilla sponge cut into strips and layered in a loaf tin with a no-churn peach ice cream and mashed raspberries, instead of chocolate sponge and two ice creams.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Thin layers of sponge are stacked with peach and raspberry ripple cream, then frozen into a loaf and finished with a pile of fresh peach and raspberry on top.",
+  "servings": 11,
+  "prep_min": 60,
+  "cook_min": 12,
+  "difficulty": "medium",
+  "equipment": [
+    "23 x 33 cm baking tin",
+    "baking paper",
+    "23 x 13 cm loaf tin",
+    "cling film",
+    "bowls",
+    "whisk",
+    "electric mixer",
+    "offset spatula",
+    "serrated knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Fruit",
+      "qty": 170,
+      "unit": "g",
+      "item": "ripe peach, finely chopped (unpeeled)"
+    },
+    {
+      "group": "Fruit",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tbsp; 1 + 1"
+    },
+    {
+      "group": "Fruit",
+      "qty": 240,
+      "unit": "g",
+      "item": "raspberries, lightly mashed"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 154,
+      "unit": "g",
+      "item": "peach jam, large pieces chopped"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 120,
+      "unit": "ml",
+      "item": "evaporated milk"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Cake",
+      "qty": 95,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Cake",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Cake",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Cake",
+      "qty": 70,
+      "unit": "g",
+      "item": "unsalted butter, soft, plus extra for the tin"
+    },
+    {
+      "group": "Cake",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cake",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Cake",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, at room temperature"
+    },
+    {
+      "group": "Cake",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk, at room temperature"
+    },
+    {
+      "group": "Cake",
+      "qty": 30,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "pc",
+      "item": "ripe peach, thinly sliced"
+    },
+    {
+      "group": "Topping",
+      "qty": 60,
+      "unit": "g",
+      "item": "raspberries"
+    },
+    {
+      "group": "Topping",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Macerate",
+      "text": "Toss the 170 g chopped peach with 1 tbsp caster sugar in one bowl and the 240 g raspberries with the other 1 tbsp caster sugar in another, then leave both to stand for at least 1 h."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk the 95 g plain flour with ¾ tsp baking powder and ¼ tsp fine salt in one bowl, then beat the 70 g soft butter with 100 g caster sugar until fluffy, about 3 min."
+    },
+    {
+      "title": "Batter",
+      "text": "Beat in ½ tsp vanilla and the egg and egg yolk, then fold in the flour mixture alternately with the 2 tbsp whole milk."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread the batter thinly in the lined, buttered large tin and bake at 180 °C for 10-12 min until golden and springy, then cool for 10 min before turning out and peeling off the paper."
+    },
+    {
+      "title": "Cream",
+      "text": "Mix the 154 g chopped peach jam, 120 ml evaporated milk, a pinch of salt and the macerated peaches with their juice, then whip the 360 ml double cream to stiff peaks and fold through."
+    },
+    {
+      "title": "Cut",
+      "text": "Trim the sponge into 3 strips about 23 x 11 cm, leaving a 6 mm gap all round once placed in the film-lined loaf tin."
+    },
+    {
+      "title": "Layer",
+      "text": "Build the cake with a third of the cream, a sponge strip pressed down so the cream rises around it, and half the drained raspberries, then repeat and finish with the last of the cream and the final sponge strip."
+    },
+    {
+      "title": "Freeze",
+      "text": "Wrap well and freeze for at least 8 h."
+    },
+    {
+      "title": "Serve",
+      "text": "Toss the sliced peach and 60 g raspberries with 1 tbsp caster sugar for 10 min, then invert the cake, let it stand for 5-10 min and pile the fruit on top."
+    }
+  ],
+  "tips": [
+    "Let the peaches and raspberries macerate for at least 1 h so their juices flavour the cream.",
+    "Trim the sponge strips carefully so a small gap remains for the cream to rise around them.",
+    "Let the frozen cake stand for 5-10 min once turned out so it is easy to slice.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep the cake well wrapped in the freezer and add the sugared fruit only when serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 333,
+    "protein_g": 4.2,
+    "carbs_g": 37.1,
+    "sugar_g": 24.0,
+    "free_sugar_g": 19.2,
+    "fat_g": 19.5,
+    "satfat_g": 11.9,
+    "salt_g": 0.33,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A sliced loaf-shaped frozen cake with layers of pink fruit cream and thin sponge, topped with sliced peach and fresh raspberries.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

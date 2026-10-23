@@ -1,0 +1,177 @@
+{
+  "slug": "chocolate-banana-icebox-cake",
+  "title": "Chocolate Banana Icebox Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Banana",
+  "flavour_order": 18,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "A cooked vanilla custard lightened with whipped cream, layered with chocolate wafers and sliced bananas and set in the fridge, instead of sponge and ice cream.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A classic custard-based icebox cake layers rich vanilla custard with chocolate wafer biscuits and sliced banana, finished with whipped cream and a dusting of cocoa.",
+  "servings": 9,
+  "prep_min": 45,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "sieve",
+    "bowls",
+    "medium saucepan",
+    "whisk",
+    "baking tray (optional, for fast cooling)",
+    "electric mixer",
+    "spatula",
+    "2 litre serving dish",
+    "cling film"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 30,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "Custard",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 710,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Custard",
+      "qty": 175,
+      "unit": "ml",
+      "item": "cold double cream"
+    },
+    {
+      "group": "Layers",
+      "qty": 45,
+      "unit": "pc",
+      "item": "thin round chocolate wafers"
+    },
+    {
+      "group": "Layers",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large ripe bananas"
+    },
+    {
+      "group": "Topping",
+      "qty": 355,
+      "unit": "ml",
+      "item": "cold double cream"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cocoa powder, to dust"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk",
+      "text": "Whisk the 150 g caster sugar, 30 g cornflour and ¼ tsp fine salt in a pan, then gradually whisk in the 710 ml whole milk followed by the 6 egg yolks."
+    },
+    {
+      "title": "Cook",
+      "text": "Cook on medium heat, stirring constantly, until thick and at a low boil, 4-5 min, then whisk for 1 min more so the custard is well above 77 °C."
+    },
+    {
+      "title": "Strain",
+      "text": "Push the custard through a sieve into a bowl, stir in 2 tsp vanilla, and cool to room temperature, about 1½ h."
+    },
+    {
+      "title": "Fold",
+      "text": "Whip 175 ml of the double cream to stiff peaks and fold into the cooled custard."
+    },
+    {
+      "title": "Layer",
+      "text": "Spoon 120 ml custard into the serving dish, cover with about 15 chocolate wafers broken to fit, top with sliced banana from the 4 bananas, then spread over a third of the remaining custard."
+    },
+    {
+      "title": "Repeat",
+      "text": "Repeat the layers twice more, finishing with a layer of custard on top."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and chill for 4-24 h."
+    },
+    {
+      "title": "Top",
+      "text": "Whip the 355 ml double cream with 2 tbsp icing sugar to medium-stiff peaks, spread over the cake and sift cocoa powder over to finish."
+    }
+  ],
+  "tips": [
+    "Cook the custard until it is well above a gentle boil so it sets properly once chilled.",
+    "Cool the custard fully before folding in the whipped cream to keep it light.",
+    "Chill for at least 4 h so the biscuits soften into a cake-like texture.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered in the fridge and eat within the 24 h chilling window, as the bananas soften the longer it sits.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 557,
+    "protein_g": 8.7,
+    "carbs_g": 63.1,
+    "sugar_g": 40.7,
+    "free_sugar_g": 27.5,
+    "fat_g": 31.3,
+    "satfat_g": 17.6,
+    "salt_g": 0.76,
+    "fibre_g": 2.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A layered dessert in a glass dish showing custard, chocolate wafer biscuits and banana slices, topped with whipped cream and a dusting of cocoa.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "slug": "coffee-praline-crunch-ice-cream-cake",
+  "title": "Coffee Praline Crunch Ice Cream Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Praline",
+  "flavour_order": 19,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "Coffee ice cream layered in a loaf tin with biscuits, a cocoa fudge sauce and nut praline, topped with whipped cream, instead of chocolate sponge and two ice creams.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Soft coffee ice cream is layered with crunchy biscuits, chocolate fudge sauce and chopped nut praline, then frozen into a loaf and served with extra warm fudge and praline on top.",
+  "servings": 9,
+  "prep_min": 30,
+  "cook_min": 5,
+  "difficulty": "medium",
+  "equipment": [
+    "small saucepan",
+    "whisk",
+    "sieve",
+    "23 x 13 cm loaf tin",
+    "cling film",
+    "spatula",
+    "warm damp cloth"
+  ],
+  "ingredients": [
+    {
+      "group": "Fudge sauce",
+      "qty": 355,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Fudge sauce",
+      "qty": 145,
+      "unit": "g",
+      "item": "light or dark brown sugar"
+    },
+    {
+      "group": "Fudge sauce",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Fudge sauce",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Fudge sauce",
+      "qty": 70,
+      "unit": "g",
+      "item": "cocoa powder, sifted"
+    },
+    {
+      "group": "Fudge sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Cake",
+      "qty": 1,
+      "unit": "pc",
+      "item": "oil spray"
+    },
+    {
+      "group": "Cake",
+      "qty": 1400,
+      "unit": "ml",
+      "item": "coffee ice cream"
+    },
+    {
+      "group": "Cake",
+      "qty": 10,
+      "unit": "pc",
+      "item": "graham crackers or digestive biscuits (160 g)"
+    },
+    {
+      "group": "Cake",
+      "qty": 340,
+      "unit": "g",
+      "item": "chopped nut praline, plus extra"
+    },
+    {
+      "group": "Cake",
+      "qty": 180,
+      "unit": "ml",
+      "item": "cold double cream, whipped stiff just before serving"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Fudge",
+      "text": "Stir the 355 ml double cream, 145 g brown sugar, 30 g butter and ½ tsp fine salt on medium heat until melted, about 2 min, then whisk in the 70 g cocoa powder and cook 1-2 min until thick and glossy."
+    },
+    {
+      "title": "Sieve",
+      "text": "Sieve the fudge, pressing out any lumps, stir in 1 tsp vanilla and cool for 1 h, about 480 ml."
+    },
+    {
+      "title": "Soften",
+      "text": "Soften the 1400 ml coffee ice cream in the fridge for 30 min, then line the lightly oiled loaf tin with film leaving an 8 cm overhang on the long sides."
+    },
+    {
+      "title": "Layer",
+      "text": "Spread 475 ml ice cream in the tin, cover with 3 of the 10 crackers or biscuits broken to fit, spread over 160 ml fudge and scatter half the 340 g praline, then repeat."
+    },
+    {
+      "title": "Finish",
+      "text": "Top with the last of the ice cream and 4 more biscuits, then wrap and freeze for at least 4 h, ideally overnight."
+    },
+    {
+      "title": "Turn",
+      "text": "Rub the tin with a warm, damp cloth, turn the cake out and peel off the film."
+    },
+    {
+      "title": "Serve",
+      "text": "Top with the whipped 180 ml double cream and extra praline, and serve with the remaining fudge, warmed."
+    }
+  ],
+  "tips": [
+    "Soften the ice cream just enough to spread easily without melting, so the layers stay neat.",
+    "Sieve the fudge sauce well to remove any lumps for a smooth, glossy finish.",
+    "Warm the reserved fudge gently before serving so it pours easily over each slice."
+  ],
+  "storage": "Keep well wrapped in the freezer and add the cream and praline just before serving. Contains nuts and caffeine.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 769,
+    "protein_g": 9.8,
+    "carbs_g": 80.9,
+    "sugar_g": 63.3,
+    "free_sugar_g": 61.5,
+    "fat_g": 47.8,
+    "satfat_g": 23.1,
+    "salt_g": 0.79,
+    "fibre_g": 5.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A sliced loaf-shaped ice-cream cake with layers of coffee ice cream, biscuit, chocolate fudge and nut praline, topped with whipped cream.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

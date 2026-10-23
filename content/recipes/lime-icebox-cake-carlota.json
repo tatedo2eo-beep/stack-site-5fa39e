@@ -1,0 +1,105 @@
+{
+  "slug": "lime-icebox-cake-carlota",
+  "title": "Lime Icebox Cake (Carlota de Limón)",
+  "category": "desserts",
+  "cuisine": "Mexican",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Lime",
+  "flavour_order": 21,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "Maria biscuits layered with a no-cook lime and condensed milk cream and set in the fridge, instead of sponge and ice cream.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Layers of soft biscuits soak in a tangy lime and condensed milk cream to create this simple, no-bake Mexican-style dessert, finished with lime zest and crumbs.",
+  "servings": 7,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "blender or bowl and whisk",
+    "1.6 litre glass dish or 20 cm square dish",
+    "cling film"
+  ],
+  "ingredients": [
+    {
+      "qty": 354,
+      "unit": "ml",
+      "item": "evaporated milk"
+    },
+    {
+      "qty": 397,
+      "unit": "g",
+      "item": "sweetened condensed milk"
+    },
+    {
+      "qty": 120,
+      "unit": "ml",
+      "item": "fresh lime juice, plus zest of 1 lime to serve"
+    },
+    {
+      "qty": 200,
+      "unit": "g",
+      "item": "Maria biscuits (about 33)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk",
+      "text": "Whisk the 354 ml evaporated milk, 397 g condensed milk and 120 ml fresh lime juice together until combined and slightly thickened."
+    },
+    {
+      "title": "Layer",
+      "text": "Lay some of the 200 g Maria biscuits in one even layer in the dish, breaking pieces to fill any gaps and keeping a few crumbs back for the top."
+    },
+    {
+      "title": "Soak",
+      "text": "Pour over just enough lime cream to barely cover the biscuits, pressing them under the surface."
+    },
+    {
+      "title": "Repeat",
+      "text": "Repeat the layers of biscuits and cream 3 or 4 times in total, finishing with enough cream to cover completely."
+    },
+    {
+      "title": "Chill",
+      "text": "Chill for at least 4 h or overnight."
+    },
+    {
+      "title": "Top",
+      "text": "Scatter the reserved crumbs over the top along with the zest of 1 lime before serving."
+    }
+  ],
+  "tips": [
+    "Whisk the milks and lime juice well so the mixture thickens evenly before layering.",
+    "Press the biscuits down into the cream so every layer soaks through completely.",
+    "Chill overnight if you have time, so the biscuits soften right through."
+  ],
+  "storage": "Keeps covered in the fridge for up to 2 days.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 383,
+    "protein_g": 10.3,
+    "carbs_g": 59.1,
+    "sugar_g": 37.4,
+    "free_sugar_g": 37.4,
+    "fat_g": 12.4,
+    "satfat_g": 7.0,
+    "salt_g": 0.57,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A dish of layered soft biscuits and pale lime cream, topped with biscuit crumbs and lime zest.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

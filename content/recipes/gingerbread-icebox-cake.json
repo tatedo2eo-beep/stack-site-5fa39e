@@ -1,0 +1,147 @@
+{
+  "slug": "gingerbread-icebox-cake",
+  "title": "Gingerbread Icebox Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Gingerbread",
+  "flavour_order": 20,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "Gingersnaps layered in a loaf tin with a treacle and spice whipped cream, frozen and coated in crushed gingersnaps, instead of sponge and ice cream.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Spiced whipped cream is layered with crunchy gingersnaps and frozen into a loaf, then coated all over with crushed gingersnap crumbs for a warming, spiced dessert.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "stand mixer or hand mixer with whisk",
+    "20 x 13 cm loaf tin",
+    "pastry brush",
+    "cling film",
+    "spatula",
+    "piping bag",
+    "serving plate"
+  ],
+  "ingredients": [
+    {
+      "qty": 680,
+      "unit": "g",
+      "item": "double cream"
+    },
+    {
+      "qty": 140,
+      "unit": "g",
+      "item": "black treacle (unsulphured molasses)"
+    },
+    {
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "ground ginger"
+    },
+    {
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Main",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla paste"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "freshly ground black pepper"
+    },
+    {
+      "qty": 450,
+      "unit": "g",
+      "item": "gingersnaps"
+    },
+    {
+      "qty": 90,
+      "unit": "g",
+      "item": "white chocolate chips, to decorate (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whip",
+      "text": "Whip the 680 g double cream on medium until it reaches the thickness of yoghurt, 2-3 min, then add the 140 g black treacle, 1 tbsp ground ginger, 2 tsp ground cinnamon, ½ tsp fine salt, 1 tsp vanilla paste, ½ tsp nutmeg and ½ tsp black pepper and whip to thick, medium peaks, 1-2 min."
+    },
+    {
+      "title": "Line",
+      "text": "Brush the loaf tin with water and line with cling film, leaving an 8 cm overhang."
+    },
+    {
+      "title": "Base",
+      "text": "Spread 240 ml of the spiced cream up the sides of the tin and 180 ml over the base."
+    },
+    {
+      "title": "Layer",
+      "text": "Add a layer of the 450 g gingersnaps broken to fit, then 180 ml more cream, and repeat the layers up to the rim, finishing with a little extra cream on top."
+    },
+    {
+      "title": "Freeze",
+      "text": "Fold the film over the top and freeze for at least 2 h, keeping back any leftover cream and biscuits."
+    },
+    {
+      "title": "Turn",
+      "text": "Invert the cake onto a plate and peel off the film."
+    },
+    {
+      "title": "Decorate",
+      "text": "Pipe the reserved cream into any cracks and smooth, then crush the remaining gingersnaps and press them over the cake to coat, brushing the plate clean."
+    }
+  ],
+  "tips": [
+    "Whip the cream to thick, medium peaks so it holds the biscuit layers together once frozen.",
+    "Keep back some cream and biscuits to patch and coat the cake once it is turned out.",
+    "Add white chocolate chips as an optional decoration if you like a little extra sweetness."
+  ],
+  "storage": "Keeps in the fridge for up to 5 days or in the freezer for up to 1 month.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 641,
+    "protein_g": 6.3,
+    "carbs_g": 66.7,
+    "sugar_g": 39.2,
+    "free_sugar_g": 36.7,
+    "fat_g": 39.9,
+    "satfat_g": 23.2,
+    "salt_g": 1.2,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A loaf-shaped cake coated in crushed gingersnap crumbs, with piped cream patching the surface.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "salty-peanut-pretzel-ice-cream-cake",
+  "title": "Salty Peanut Pretzel Ice Cream Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Peanut & pretzel",
+  "flavour_order": 16,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "A baked pretzel and peanut crust with vanilla ice cream rippled with peanut butter and honey, layered with crunchy crumbs and topped with whipped cream, instead of sponge and two ice creams.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A crunchy pretzel and peanut crumb crust meets ribbons of peanut butter and honey swirled through vanilla ice cream, finished with whipped cream and a scattering of crumbs.",
+  "servings": 10,
+  "prep_min": 35,
+  "cook_min": 8,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor",
+    "23 cm springform tin",
+    "baking tray",
+    "spatula",
+    "skewer",
+    "cling film",
+    "whisk",
+    "knife"
+  ],
+  "ingredients": [
+    {
+      "qty": 88,
+      "unit": "g",
+      "item": "mini pretzels"
+    },
+    {
+      "qty": 42,
+      "unit": "g",
+      "item": "salted peanuts",
+      "note": "28 g + 14 g"
+    },
+    {
+      "qty": 25,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "qty": 57,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled"
+    },
+    {
+      "qty": 1900,
+      "unit": "ml",
+      "item": "vanilla ice cream (950 ml + 950 ml)"
+    },
+    {
+      "qty": 205,
+      "unit": "g",
+      "item": "natural unsweetened peanut butter, stirred"
+    },
+    {
+      "qty": 42,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 2 tbsp"
+    },
+    {
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crumble",
+      "text": "Pulse the 88 g mini pretzels, 28 g salted peanuts and 25 g light brown sugar to a very coarse sand, then pulse in the 57 g melted butter."
+    },
+    {
+      "title": "Press",
+      "text": "Press about 180 ml of the mixture firmly into the base of the 23 cm springform tin and spread the rest on a tray."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake at 180 °C until golden, about 4-5 min for the tray crumbs and 2-3 min longer for the crust, then cool."
+    },
+    {
+      "title": "Swirl",
+      "text": "Soften 950 ml of the vanilla ice cream for 10 min, drizzle with half the 205 g peanut butter and fold lightly to leave ribbons, then spread over the crust."
+    },
+    {
+      "title": "Drizzle",
+      "text": "Drizzle with 1 tbsp honey, swirl with a skewer and press in about 120 ml of the baked crumbs, then cover and freeze for 1 h."
+    },
+    {
+      "title": "Repeat",
+      "text": "Repeat with the remaining 950 ml ice cream, peanut butter and honey, then freeze for at least 4 h, or up to overnight."
+    },
+    {
+      "title": "Finish",
+      "text": "Whip the 240 ml double cream to soft peaks, run a hot knife round the tin, unclip, spread the cream on top and scatter the remaining crumbs mixed with 14 g peanuts round the edge."
+    }
+  ],
+  "tips": [
+    "Fold the peanut butter through the softened ice cream lightly so it stays in distinct ribbons.",
+    "Bake a little extra crumb mixture separately so there is plenty for layering and topping.",
+    "Let the cake firm up in the freezer for the full time before slicing for neat wedges."
+  ],
+  "storage": "Keep the cake covered in the freezer and add the whipped cream and crumbs just before serving. Contains peanuts and gluten.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 542,
+    "protein_g": 10.9,
+    "carbs_g": 43.8,
+    "sugar_g": 31.3,
+    "free_sugar_g": 28.0,
+    "fat_g": 37.6,
+    "satfat_g": 18.0,
+    "salt_g": 0.72,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A sliced round ice-cream cake with a pretzel crumb crust, swirled peanut butter and honey ribbons, topped with whipped cream and crumbs.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

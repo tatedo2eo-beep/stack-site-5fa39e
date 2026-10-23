@@ -1,0 +1,130 @@
+{
+  "slug": "iced-coffee-icebox-cake",
+  "title": "Iced Coffee Icebox Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Coffee",
+  "flavour_order": 14,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "Thin chocolate wafers layered in a loaf tin with an espresso whipped cream and left to soften in the fridge, instead of sponge and ice cream.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Layers of chocolate wafer biscuits soften between espresso-spiked whipped cream to create a rich, coffee-flavoured sliceable dessert, finished with dark chocolate curls.",
+  "servings": 16,
+  "prep_min": 25,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "stand mixer or hand mixer with whisk",
+    "23 x 13 cm loaf tin",
+    "cling film",
+    "palette knife",
+    "vegetable peeler",
+    "serving plate"
+  ],
+  "ingredients": [
+    {
+      "qty": 340,
+      "unit": "g",
+      "item": "thin chocolate wafer biscuits"
+    },
+    {
+      "qty": 454,
+      "unit": "g",
+      "item": "double cream"
+    },
+    {
+      "qty": 25,
+      "unit": "g",
+      "item": "icing sugar (21-28 g)"
+    },
+    {
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "instant espresso powder"
+    },
+    {
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "qty": 1,
+      "unit": "pc",
+      "item": "bar of dark chocolate, for shaving"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whip",
+      "text": "Whip the 454 g double cream with 21-28 g icing sugar, the 1½ tsp instant espresso powder, 1 tsp vanilla and a pinch of salt on medium speed just until stiff peaks form, about 3-4 min, taking care not to overbeat."
+    },
+    {
+      "title": "Line",
+      "text": "Line the loaf tin with cling film, leaving a generous overhang on all sides."
+    },
+    {
+      "title": "Base",
+      "text": "Spread about 120 ml of the whipped cream in a 1 cm layer over the base, then cover with a snug single layer of the chocolate wafer biscuits, about 8 per layer."
+    },
+    {
+      "title": "Layer",
+      "text": "Spread a thin layer of cream over the biscuits, add another layer of biscuits, and repeat until the 340 g of biscuits and all the cream are used, finishing with a layer of cream on top."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and chill for at least 24 h so the biscuits soften fully."
+    },
+    {
+      "title": "Turn",
+      "text": "Invert the cake onto a plate, peel off the film and smooth any gaps with a hot, dry palette knife."
+    },
+    {
+      "title": "Finish",
+      "text": "Shave curls from a bar of dark chocolate over the top using a peeler before slicing."
+    }
+  ],
+  "tips": [
+    "Chill for the full 24 h so the biscuits soften right through to a cake-like texture.",
+    "Whip the cream just to stiff peaks to avoid a grainy texture when sliced.",
+    "Use a hot, dry palette knife to smooth any gaps once the cake is turned out."
+  ],
+  "storage": "Keeps covered in the fridge for up to 3 days. Contains caffeine.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 202,
+    "protein_g": 2.3,
+    "carbs_g": 18.3,
+    "sugar_g": 9.0,
+    "free_sugar_g": 8.2,
+    "fat_g": 13.6,
+    "satfat_g": 7.7,
+    "salt_g": 0.36,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A sliced loaf-shaped icebox cake showing distinct layers of pale coffee cream and dark biscuit, topped with chocolate curls.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

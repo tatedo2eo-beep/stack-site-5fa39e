@@ -1,0 +1,118 @@
+{
+  "slug": "mint-chip-ice-cream-cake",
+  "title": "Mint Chip Ice Cream Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Mint",
+  "flavour_order": 12,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "A no-bake crushed chocolate biscuit base and middle layer with bought chocolate and mint chocolate chip ice cream, instead of sponge layers.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A cool make-ahead ice-cream cake with a crisp chocolate biscuit crust, bands of chocolate and minty chocolate-chip ice cream, and a shower of sprinkles on top.",
+  "servings": 16,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "freezer bag",
+    "rolling pin",
+    "23 cm springform tin",
+    "cling film",
+    "knife"
+  ],
+  "ingredients": [
+    {
+      "qty": 36,
+      "unit": "pc",
+      "item": "chocolate sandwich biscuits (about 400 g), broken up"
+    },
+    {
+      "qty": 57,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "qty": 950,
+      "unit": "ml",
+      "item": "chocolate ice cream"
+    },
+    {
+      "qty": 950,
+      "unit": "ml",
+      "item": "mint chocolate chip ice cream"
+    },
+    {
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "sprinkles"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crush",
+      "text": "Seal the 36 chocolate sandwich biscuits in a freezer bag, press out the air and crush to fine crumbs with a rolling pin, then stir in the 57 g melted butter."
+    },
+    {
+      "title": "Press",
+      "text": "Press half the buttery crumbs firmly over the base of the 23 cm springform tin and freeze for 15 min while the 950 ml chocolate ice cream and 950 ml mint chocolate chip ice cream soften on the worktop."
+    },
+    {
+      "title": "Layer",
+      "text": "Scoop the softened chocolate ice cream over the frozen base, cover with cling film and push level with your hands."
+    },
+    {
+      "title": "Scatter",
+      "text": "Scatter the remaining crumbs over the chocolate ice cream and press in gently."
+    },
+    {
+      "title": "Top",
+      "text": "Scoop the mint chocolate chip ice cream on top, cover with film and push level, then peel off the film and finish with 4 tbsp sprinkles."
+    },
+    {
+      "title": "Freeze",
+      "text": "Cover the cake and freeze for at least 2 h, or up to 1 week."
+    },
+    {
+      "title": "Serve",
+      "text": "Loosen the edge with a knife, unclip the tin and cut into wedges."
+    }
+  ],
+  "tips": [
+    "Let the ice creams soften just enough to scoop smoothly, not melt, so the layers stay distinct.",
+    "Freeze the crust briefly before adding ice cream so it holds its shape when sliced.",
+    "Dip the knife in hot water and wipe dry between cuts for clean wedges."
+  ],
+  "storage": "Keeps well wrapped in the freezer for up to 1 week.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 294,
+    "protein_g": 3.6,
+    "carbs_g": 36.5,
+    "sugar_g": 26.9,
+    "free_sugar_g": 26.9,
+    "fat_g": 15.2,
+    "satfat_g": 7.7,
+    "salt_g": 0.38,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A sliced round ice-cream cake showing a chocolate biscuit crust, a layer of chocolate ice cream, a crumb divider, mint chocolate-chip ice cream, and colourful sprinkles on top.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

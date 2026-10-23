@@ -1,0 +1,130 @@
+{
+  "slug": "dulce-de-leche-icebox-cake",
+  "title": "Dulce de Leche Icebox Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Dulce de leche",
+  "flavour_order": 17,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "Chocolate sandwich biscuits stood upright in a loaf tin between plain and dulce de leche whipped creams, then frozen, instead of sponge and ice cream.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Rows of chocolate biscuits stand upright between swirls of plain and dulce-de-leche whipped cream, creating a striking striped slice when cut.",
+  "servings": 9,
+  "prep_min": 30,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "23 x 13 cm loaf tin",
+    "cling film",
+    "stand mixer or hand mixer with whisk",
+    "2 bowls",
+    "spatula",
+    "serrated knife"
+  ],
+  "ingredients": [
+    {
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "qty": 240,
+      "unit": "ml",
+      "item": "crème fraîche or soured cream"
+    },
+    {
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "qty": 80,
+      "unit": "ml",
+      "item": "dulce de leche"
+    },
+    {
+      "qty": 40,
+      "unit": "pc",
+      "item": "thin chocolate sandwich biscuits (283 g)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Line",
+      "text": "Line the loaf tin with a double layer of cling film, leaving plenty of overhang."
+    },
+    {
+      "title": "Whip",
+      "text": "Whip the 360 ml double cream, 240 ml crème fraîche and ½ tsp fine sea salt on medium-high to stiff peaks, 3-5 min."
+    },
+    {
+      "title": "Split",
+      "text": "Move 480 ml of the cream to another bowl and stir in 2 tbsp caster sugar, then beat the 80 ml dulce de leche into the rest for 1-2 min until it reaches stiff peaks, and taste for salt."
+    },
+    {
+      "title": "Base",
+      "text": "Flick small dollops of both creams over the base and sides of the tin and smooth to 6 mm, then lay 8 of the 40 biscuits on the base and press in, followed by more dollops smoothed level."
+    },
+    {
+      "title": "Stand",
+      "text": "Stand a row of biscuits upright along one long side, spoon cream onto biscuits alternating flavours and press them upright against the row to fill the tin."
+    },
+    {
+      "title": "Settle",
+      "text": "Tap the tin to settle the layers, cover with the last of the cream and smooth the top."
+    },
+    {
+      "title": "Freeze",
+      "text": "Wrap and freeze for at least 6 h; the cake keeps for up to 1 month."
+    },
+    {
+      "title": "Slice",
+      "text": "Invert the cake, peel off the film and slice with a serrated knife."
+    }
+  ],
+  "tips": [
+    "Whip the cream mixtures to firm, stiff peaks so the upright biscuit rows hold their shape.",
+    "Work quickly once the creams are split so they do not soften before assembly.",
+    "Freeze for the full time so the cake slices cleanly with a serrated knife."
+  ],
+  "storage": "Keeps well wrapped in the freezer for up to 1 month.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 437,
+    "protein_g": 4.0,
+    "carbs_g": 32.5,
+    "sugar_g": 22.2,
+    "free_sugar_g": 20.2,
+    "fat_g": 32.2,
+    "satfat_g": 18.6,
+    "salt_g": 0.72,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A sliced loaf-shaped icebox cake revealing vertical stripes of dark biscuit and pale and caramel-coloured cream.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}
