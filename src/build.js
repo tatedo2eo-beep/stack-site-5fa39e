@@ -109,6 +109,7 @@ const ALIAS_OUT = {};
   const ci = path.join(ROOT, 'content/images');
   if (fs.existsSync(ci)) for (const f of fs.readdirSync(ci)) {
     if (TAMI_BY_NAME[f]) continue;
+    if (!fs.statSync(path.join(ci, f)).isFile()) continue; // skip sub-folders such as cats/
     const rel = BY_HASH[sha(path.join(ci, f))];
     if (rel) { TAMI_BY_NAME[f] = rel; ALIAS_OUT[rel] = f; }
   }
