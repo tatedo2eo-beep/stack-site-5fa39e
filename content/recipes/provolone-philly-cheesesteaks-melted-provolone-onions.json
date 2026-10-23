@@ -1,0 +1,121 @@
+{
+  "slug": "provolone-philly-cheesesteaks-melted-provolone-onions",
+  "title": "Provolone Philly Cheesesteaks with Golden Onions",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "philly-cheesesteak",
+  "dish_title": "Philly cheesesteak",
+  "flavour": "Provolone",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Half-frozen rib eye is shaved, seared hard until cooked through, tossed with golden onions and torn provolone, topped with more slices to melt and flipped into soft sub rolls.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "freezer",
+    "large cast-iron or heavy frying pan, 30 cm",
+    "very sharp knife",
+    "colander",
+    "wide metal spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Steak",
+      "qty": 700,
+      "unit": "g",
+      "item": "boneless ribeye steak (halal), fat trimmed"
+    },
+    {
+      "group": "Steak",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Steak",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium onions, halved and thinly sliced",
+      "note": "about 300 g"
+    },
+    {
+      "group": "Steak",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 160,
+      "unit": "g",
+      "item": "sharp provolone, thinly sliced (about 8 slices)",
+      "note": "microbial rennet; 4 slices torn, 4 whole"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 4,
+      "unit": "pc",
+      "item": "soft sub rolls, about 20 cm (about 320 g)",
+      "note": "split with a hinge"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Freeze",
+      "text": "Firm the steak in the freezer for 45-60 minutes."
+    },
+    {
+      "title": "Shave",
+      "text": "Slice paper-thin and chop."
+    },
+    {
+      "title": "Cook the onions",
+      "text": "Cook slowly until soft and golden."
+    },
+    {
+      "title": "Sear",
+      "text": "Sear the beef in a very hot pan until browned and cooked through."
+    },
+    {
+      "title": "Melt",
+      "text": "Stir in onions and torn provolone, then melt slices on top."
+    },
+    {
+      "title": "Fill",
+      "text": "Flip each pile into a roll and serve hot."
+    }
+  ],
+  "tips": [
+    "Partly freezing the steak lets you slice it thin.",
+    "Get the pan very hot for browning rather than stewing.",
+    "Sharp provolone gives more flavour than mild."
+  ],
+  "storage": "Best eaten hot. Refrigerate the filling within 1 hour for up to 3 days and reheat until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 928,
+    "protein_g": 50.4,
+    "carbs_g": 49.5,
+    "sugar_g": 7.1,
+    "free_sugar_g": 3.7,
+    "fat_g": 58.0,
+    "satfat_g": 23.5,
+    "salt_g": 2.18,
+    "fibre_g": 3.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "philly-cheesesteak-advanced--provolone.jpg",
+  "image_alt": "A Philly cheesesteak in a soft roll with melted white provolone over shaved beef and golden onions.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

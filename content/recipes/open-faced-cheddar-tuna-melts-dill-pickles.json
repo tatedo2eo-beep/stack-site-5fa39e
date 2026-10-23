@@ -1,0 +1,169 @@
+{
+  "slug": "open-faced-cheddar-tuna-melts-dill-pickles",
+  "title": "Open-Faced Cheddar Tuna Melts with Dill Pickles",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "tuna-melt",
+  "dish_title": "Tuna melt",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Tuna is mixed with mayonnaise, pickles, red onion, celery, lemon and dill, spread on butter-toasted sourdough, heaped with Cheddar and grilled 3-4 minutes until bubbling and browned.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 8,
+  "difficulty": "easy",
+  "equipment": [
+    "grill (broiler)",
+    "baking tray lined with foil",
+    "medium bowl and fork",
+    "box grater",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Tuna salad",
+      "qty": 2,
+      "unit": "pc",
+      "item": "145 g cans tuna in olive oil, well drained",
+      "note": "about 220 g drained"
+    },
+    {
+      "group": "Tuna salad",
+      "qty": 60,
+      "unit": "g",
+      "item": "mayonnaise (halal-certified)"
+    },
+    {
+      "group": "Tuna salad",
+      "qty": 25,
+      "unit": "g",
+      "item": "dill pickles, finely chopped",
+      "note": "plus spears to serve"
+    },
+    {
+      "group": "Tuna salad",
+      "qty": 30,
+      "unit": "g",
+      "item": "red onion, finely chopped"
+    },
+    {
+      "group": "Tuna salad",
+      "qty": 20,
+      "unit": "g",
+      "item": "celery, finely chopped"
+    },
+    {
+      "group": "Tuna salad",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Tuna salad",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "English mustard powder"
+    },
+    {
+      "group": "Tuna salad",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "dill, chopped"
+    },
+    {
+      "group": "Tuna salad",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Melts",
+      "qty": 4,
+      "unit": "pc",
+      "item": "thick slices sourdough or white bloomer (about 180 g)",
+      "note": "about 45 g each"
+    },
+    {
+      "group": "Melts",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter, soft"
+    },
+    {
+      "group": "Melts",
+      "qty": 100,
+      "unit": "g",
+      "item": "mature Cheddar, coarsely grated",
+      "note": "microbial rennet"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "dill pickle spears, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the tuna salad",
+      "text": "Flake the tuna and mix in the mayonnaise, pickles, onion, celery, lemon, mustard powder, dill and pepper."
+    },
+    {
+      "title": "Heat the grill",
+      "text": "Heat the grill to high with a rack 10 cm below."
+    },
+    {
+      "title": "Toast the bread",
+      "text": "Butter one side of each slice and toast both sides under the grill until golden."
+    },
+    {
+      "title": "Top",
+      "text": "Spread the tuna salad to the edges and pile on the cheese."
+    },
+    {
+      "title": "Melt",
+      "text": "Grill 3-4 minutes until the cheese bubbles and browns in spots."
+    },
+    {
+      "title": "Serve",
+      "text": "Rest 1 minute and serve with pickle spears."
+    }
+  ],
+  "tips": [
+    "Drain the tuna well or the toast turns soggy.",
+    "Spread the tuna right to the edges so the corners do not burn.",
+    "Watch closely at the end; grills vary a lot."
+  ],
+  "storage": "Best eaten hot. Keep leftover tuna salad chilled for up to 2 days and make fresh melts. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "celery",
+    "fish",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 472,
+    "protein_g": 27.5,
+    "carbs_g": 25.8,
+    "sugar_g": 3.0,
+    "free_sugar_g": 2.2,
+    "fat_g": 28.6,
+    "satfat_g": 9.7,
+    "salt_g": 2.33,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tuna-melt-basic.jpg",
+  "image_alt": "Two open-faced tuna melts with browned bubbling Cheddar on toasted bread, pickle spears on the side.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

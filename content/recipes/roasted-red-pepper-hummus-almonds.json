@@ -1,0 +1,174 @@
+{
+  "slug": "roasted-red-pepper-hummus-almonds",
+  "title": "Roasted Red Pepper Hummus with Toasted Almonds",
+  "category": "snacks-sides",
+  "cuisine": "Levantine",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "hummus",
+  "dish_title": "Hummus",
+  "flavour": "Roasted red pepper",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Chickpeas are processed with rinsed roasted peppers, garlic, salt, cayenne and paprika, loosened with lemon juice and water, and blended creamy with tahini and oil; finished with toasted almonds and parsley.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 3,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "small bowl and whisk",
+    "dry frying pan",
+    "spatula",
+    "serving bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Hummus",
+      "qty": 1,
+      "unit": "pc",
+      "item": "400 g can chickpeas, drained and rinsed",
+      "note": "about 240 g drained"
+    },
+    {
+      "group": "Hummus",
+      "qty": 60,
+      "unit": "g",
+      "item": "jarred roasted red peppers, rinsed and patted very dry"
+    },
+    {
+      "group": "Hummus",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Hummus",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Hummus",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Hummus",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "smoked or sweet paprika"
+    },
+    {
+      "group": "Hummus",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Hummus",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Hummus",
+      "qty": 90,
+      "unit": "g",
+      "item": "tahini, well stirred"
+    },
+    {
+      "group": "Hummus",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 15,
+      "unit": "g",
+      "item": "flaked almonds"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil, to drizzle"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "pita breads, warmed and cut into wedges",
+      "note": "about 60 g each"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix the tahini",
+      "text": "Whisk the tahini with the oil."
+    },
+    {
+      "title": "Toast the almonds",
+      "text": "Toast in a dry pan until golden."
+    },
+    {
+      "title": "Grind",
+      "text": "Process the chickpeas, peppers, garlic and spices 15 seconds."
+    },
+    {
+      "title": "Loosen",
+      "text": "Stream in the lemon juice and water and process 1 minute."
+    },
+    {
+      "title": "Cream",
+      "text": "Add the tahini mixture and process until smooth."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Rest 30 minutes, then top with almonds, parsley and oil."
+    }
+  ],
+  "tips": [
+    "Dry the peppers well or the hummus turns runny.",
+    "Rinsing the peppers removes some of the brine and salt.",
+    "Add cumin for an earthier version."
+  ],
+  "storage": "Refrigerate covered for up to 4 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sesame",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 250,
+    "protein_g": 7.3,
+    "carbs_g": 27.3,
+    "sugar_g": 1.9,
+    "free_sugar_g": 0.5,
+    "fat_g": 13.2,
+    "satfat_g": 1.7,
+    "salt_g": 1.03,
+    "fibre_g": 4.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "hummus-basic--roasted-red-pepper.jpg",
+  "image_alt": "A bowl of orange-red roasted pepper hummus with pepper strips and almonds, served with pita wedges.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

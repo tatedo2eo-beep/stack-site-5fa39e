@@ -178,11 +178,13 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crispy-steak-fries | Steak fries | Classic | 3 | 5 |
 | crispy-vegetable-spring-rolls-sweet-chilli-dip | Spring rolls | Classic | 2 | 4 |
 | curried-chicken-salad-mango-chutney-almonds | Chicken salad | Curry | 3 | 5 |
+| curry-deviled-eggs-parsley | Deviled eggs | Curry | 2 | 4 |
 | curry-laksa-chicken-prawn-coconut-noodle-soup | Laksa | Classic | 2 | 4 |
 | cut-out-sugar-cookies | Sugar/cut-out | Classic | 2 | 4 |
 | dashi-kombu-bonito-japanese-stock | Dashi | Classic | 3 | 5 |
 | deep-caramelised-french-onion-dip-chives-crisps | French onion dip | Classic | 3 | 5 |
 | detroit-style-pan-pizza-crisp-cheese-edges-tomato-stripes | Pan/Detroit | Classic | 3 | 5 |
+| dill-pickle-deviled-eggs-sour-cream | Deviled eggs | Dill | 2 | 4 |
 | dill-potato-salad | Potato salad | Dill | 2 | 4 |
 | diner-style-home-fries | Home fries | Classic | 2 | 4 |
 | double-fried-french-fries | French fries (double-fried) | Classic | 3 | 5 |
@@ -210,6 +212,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | folded-butter-omelette-fresh-herbs | Omelette | Herb (fines herbes) | 3 | 5 |
 | folded-butter-omelette-melted-cheese | Omelette | Cheese | 2 | 4 |
 | fondant-potatoes | Fondant potatoes | Classic | 2 | 4 |
+| french-dip-roast-beef-sandwiches-thyme-jus | French dip | Classic | 3 | 5 |
 | fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
 | fresh-ginger-ale-lime-honey-syrup | Ginger ale | Classic | 2 | 4 |
 | fresh-limeade-mashed-zest-mint | Limeade | Classic | 2 | 4 |
@@ -323,6 +326,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | marble-pound-cake | Pound cake | Marble | 3 | 5 |
 | matcha-chiffon-cake | Chiffon | Matcha | 2 | 4 |
 | matzah-ball-soup-chicken-dill | Matzah ball soup | Classic | 2 | 4 |
+| mediterranean-chicken-wraps-feta-peppers-olives | Wraps | Classic | 2 | 4 |
 | mee-goreng | Mee goreng | Classic | 2 | 4 |
 | mexican-atole-cinnamon-brown-sugar | Atole | Classic | 2 | 4 |
 | mexican-red-rice-tomato-peas-carrots | Mexican rice (arroz rojo) | Classic | 3 | 5 |
@@ -353,6 +357,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | one-pot-chicken-rice-peppers-peas-olives | Arroz con pollo | Classic | 3 | 5 |
 | onion-marinated-lamb-shashlik | Shashlik | Classic | 2 | 4 |
 | onion-rosti | Rösti | Onion | 3 | 5 |
+| open-faced-cheddar-tuna-melts-dill-pickles | Tuna melt | Classic | 2 | 4 |
 | orecchiette-broccoli | Hand-rolled shapes (orecchiette, pici, trofie, cavatelli) | Classic | 3 | 5 |
 | oven-baked-eggs-ramekins-cream-toast | Baked eggs (en cocotte) | Classic | 2 | 4 |
 | oven-baked-eggs-ramekins-creamed-spinach | Baked eggs (en cocotte) | Spinach | 2 | 4 |
@@ -364,6 +369,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pad-thai-tofu | Pad thai | Tofu | 3 | 5 |
 | pad-thai | Pad thai | Classic | 2 | 4 |
 | pain-de-genes | Pain de Gênes | Classic | 2 | 4 |
+| pan-bagnat-tuna-egg-olive-baguette | Pan bagnat | Classic | 2 | 4 |
 | pan-con-tomate-garlic-olive-oil-toast | Pan con tomate | Classic | 2 | 4 |
 | pan-fried-beef-cabbage-dumplings-ginger-dipping-sauce | Potstickers (guotie/jiaozi) | Classic | 4 | 6 |
 | pan-fried-eggs-lacy-edges-set-yolks | Fried | Classic | 2 | 4 |
@@ -419,6 +425,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pound-cake | Pound cake | Classic | 2 | 4 |
 | poutine-fries-curds-gravy | Poutine | Classic | 3 | 5 |
 | prawn-fried-rice-egg-peas-sweetcorn | Fried rice | Shrimp | 3 | 5 |
+| pressed-pesto-mozzarella-tomato-panini | Panini | Classic | 2 | 4 |
+| provolone-philly-cheesesteaks-melted-provolone-onions | Philly cheesesteak | Provolone | 2 | 4 |
 | pumpkin-soup-caramelised-onion-sage | Pumpkin soup | Classic | 2 | 4 |
 | pumpkin-whoopie-pies | Whoopie pie | Pumpkin | 2 | 4 |
 | rainbow-fruit-salad-lime-mint | Fruit salad | Classic | 3 | 5 |
@@ -436,6 +444,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | roasted-butternut-squash-soup-curry-coconut | Butternut squash | Curried | 3 | 5 |
 | roasted-butternut-squash-soup-sage-pumpkin-seeds | Butternut squash | Classic | 3 | 5 |
 | roasted-garlic-mashed-potatoes | Mashed | Garlic | 3 | 5 |
+| roasted-red-pepper-hummus-almonds | Hummus | Roasted red pepper | 3 | 5 |
 | romaine-caesar-salad-garlic-croutons | Caesar | Classic | 3 | 5 |
 | roman-style-sheet-pan-pizza-tomato-mozzarella-rosemary-potato | Pizza al taglio (Roman teglia) | Classic | 2 | 4 |
 | rosemary-garlic-roast-potatoes | Roast potatoes | Rosemary-garlic | 3 | 5 |

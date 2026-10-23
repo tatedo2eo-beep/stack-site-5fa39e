@@ -1,0 +1,162 @@
+{
+  "slug": "french-dip-roast-beef-sandwiches-thyme-jus",
+  "title": "French Dip Roast Beef Sandwiches with Thyme Jus",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "french-dip",
+  "dish_title": "French dip",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A salted beef joint is browned, roasted at 120 °C on a bed of onions to 63 °C and rested; the pan juices are simmered with stock into a jus, and the thinly sliced beef is dipped and piled into warm rolls.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 120,
+  "difficulty": "medium",
+  "equipment": [
+    "ovenproof frying pan or roasting tin, about 30 cm",
+    "wire rack set in a tray",
+    "instant-read thermometer",
+    "carving board and long sharp knife",
+    "whisk",
+    "tongs",
+    "6 small bowls for the jus"
+  ],
+  "ingredients": [
+    {
+      "group": "Beef",
+      "qty": 1200,
+      "unit": "g",
+      "item": "beef eye of round or topside roasting joint (halal), tied"
+    },
+    {
+      "group": "Beef",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Jus",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, halved and thinly sliced",
+      "note": "about 200 g"
+    },
+    {
+      "group": "Jus",
+      "qty": 25,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Jus",
+      "qty": 8,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Jus",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "tomato paste"
+    },
+    {
+      "group": "Jus",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "thyme leaves"
+    },
+    {
+      "group": "Jus",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Jus",
+      "qty": 750,
+      "unit": "ml",
+      "item": "low-salt beef stock (halal)"
+    },
+    {
+      "group": "To serve",
+      "qty": 6,
+      "unit": "pc",
+      "item": "crusty sub rolls, about 18 cm (about 420 g)",
+      "note": "about 70 g each"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Salt",
+      "text": "Salt the beef and rest it at least 1 hour."
+    },
+    {
+      "title": "Brown",
+      "text": "Brown the joint on all sides in a hot pan."
+    },
+    {
+      "title": "Build the base",
+      "text": "Soften the onion in butter, then stir in flour, tomato paste, thyme and garlic."
+    },
+    {
+      "title": "Roast",
+      "text": "Roast at 120 °C on the onions until the centre reads 63 °C, then rest 20 minutes."
+    },
+    {
+      "title": "Make the jus",
+      "text": "Simmer the pan contents with stock 10-15 minutes."
+    },
+    {
+      "title": "Slice and dip",
+      "text": "Slice the beef very thinly, dip in the jus and fill the warm rolls; serve with jus on the side."
+    }
+  ],
+  "tips": [
+    "Low-temperature roasting keeps the joint evenly pink.",
+    "Slice as thinly as you can; a cold joint slices thinnest.",
+    "A low-salt stock keeps the jus from getting too salty as it reduces."
+  ],
+  "storage": "Refrigerate the beef and jus separately within 1 hour for up to 3 days; reheat the jus to a boil and dip the beef until hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "celery"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 612,
+    "protein_g": 53.8,
+    "carbs_g": 43.2,
+    "sugar_g": 5.7,
+    "free_sugar_g": 3.2,
+    "fat_g": 24.0,
+    "satfat_g": 9.2,
+    "salt_g": 2.46,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "french-dip-advanced.jpg",
+  "image_alt": "A crusty roll filled with thinly sliced pink roast beef, with a small bowl of dark jus for dipping.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

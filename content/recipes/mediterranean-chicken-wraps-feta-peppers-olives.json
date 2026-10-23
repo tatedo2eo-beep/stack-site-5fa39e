@@ -1,0 +1,166 @@
+{
+  "slug": "mediterranean-chicken-wraps-feta-peppers-olives",
+  "title": "Mediterranean Chicken Wraps with Feta, Red Pepper and Olives",
+  "category": "burgers-sandwiches",
+  "cuisine": "Mediterranean",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "wraps",
+  "dish_title": "Wraps",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chicken breast is poached off the heat to 74 °C, shredded and tossed with feta, Greek yoghurt, red pepper, olives, shallot and lemon, then rolled in warmed tortillas with rocket.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan with a lid",
+    "instant-read thermometer",
+    "2 forks",
+    "large bowl",
+    "dry frying pan",
+    "baking paper or foil"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 500,
+      "unit": "g",
+      "item": "boneless, skinless chicken breasts (halal)",
+      "note": "2 large breasts"
+    },
+    {
+      "group": "Chicken",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "Filling",
+      "qty": 60,
+      "unit": "g",
+      "item": "feta, crumbled",
+      "note": "microbial rennet"
+    },
+    {
+      "group": "Filling",
+      "qty": 100,
+      "unit": "g",
+      "item": "Greek yoghurt"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large red pepper, cut into thin strips",
+      "note": "about 180 g"
+    },
+    {
+      "group": "Filling",
+      "qty": 40,
+      "unit": "g",
+      "item": "pitted black olives, chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small shallot, finely chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon zest, finely grated"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Wraps",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large flour tortillas, about 25 cm (about 240 g)",
+      "note": "about 60 g each"
+    },
+    {
+      "group": "Wraps",
+      "qty": 60,
+      "unit": "g",
+      "item": "rocket or crisp lettuce leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Poach",
+      "text": "Bring the chicken to a bare simmer in cold water, cover and leave off the heat until it reads 74 °C."
+    },
+    {
+      "title": "Shred",
+      "text": "Cool 10 minutes and shred with two forks."
+    },
+    {
+      "title": "Mix",
+      "text": "Toss with the feta, yoghurt, pepper, olives, shallot, lemon, salt and pepper."
+    },
+    {
+      "title": "Warm",
+      "text": "Heat the tortillas briefly in a dry pan."
+    },
+    {
+      "title": "Roll",
+      "text": "Add leaves and filling, fold in the sides and roll tightly."
+    },
+    {
+      "title": "Serve",
+      "text": "Wrap in paper, halve and serve."
+    }
+  ],
+  "tips": [
+    "Off-heat poaching keeps the chicken juicy.",
+    "Warm tortillas roll without cracking.",
+    "Leftover roast chicken works well in place of poached."
+  ],
+  "storage": "Refrigerate the filling for up to 2 days; assemble wraps on the day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 427,
+    "protein_g": 38.4,
+    "carbs_g": 36.5,
+    "sugar_g": 6.0,
+    "free_sugar_g": 1.7,
+    "fat_g": 13.6,
+    "satfat_g": 4.5,
+    "salt_g": 2.18,
+    "fibre_g": 3.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "wraps-basic.jpg",
+  "image_alt": "Chicken wraps cut in half, filled with shredded chicken, red pepper, greens and black olives.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "slug": "dill-pickle-deviled-eggs-sour-cream",
+  "title": "Dill Pickle Deviled Eggs",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "deviled-eggs",
+  "dish_title": "Deviled eggs",
+  "flavour": "Dill",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "Eggs are hard-cooked off the heat, yolks sieved and mixed with mayonnaise, soured cream, pickle brine, mustard powder, a little sugar, chopped pickles and dill, then spooned back and topped with dill sprigs.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan with a lid",
+    "large bowl of iced water",
+    "sharp knife",
+    "fine sieve and medium bowl",
+    "spatula",
+    "teaspoon or piping bag",
+    "serving plate"
+  ],
+  "ingredients": [
+    {
+      "group": "Eggs",
+      "qty": 7,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "1 extra in case one tears"
+    },
+    {
+      "group": "Filling",
+      "qty": 35,
+      "unit": "g",
+      "item": "mayonnaise (halal-certified)"
+    },
+    {
+      "group": "Filling",
+      "qty": 15,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dill pickle brine"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "English mustard powder"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.0,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 0.25 tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Filling",
+      "qty": 15,
+      "unit": "g",
+      "item": "dill pickles, very finely chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "dill, finely chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 12,
+      "unit": "pc",
+      "item": "small dill sprigs, to garnish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook",
+      "text": "Bring the eggs to a boil, cover and leave off the heat 12 minutes."
+    },
+    {
+      "title": "Chill",
+      "text": "Ice 5 minutes and peel."
+    },
+    {
+      "title": "Halve",
+      "text": "Halve and remove the yolks."
+    },
+    {
+      "title": "Sieve",
+      "text": "Press the yolks through a sieve for a silky filling."
+    },
+    {
+      "title": "Mix",
+      "text": "Stir in the mayonnaise, soured cream, brine, mustard powder, sugar, pepper, pickles and dill."
+    },
+    {
+      "title": "Fill",
+      "text": "Fill the whites and top with dill sprigs."
+    }
+  ],
+  "tips": [
+    "Chop the pickles very finely so they pipe.",
+    "Taste before adding salt; the brine usually seasons it enough.",
+    "Older eggs peel more easily than very fresh ones."
+  ],
+  "storage": "Refrigerate covered and eat within 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 131,
+    "protein_g": 7.6,
+    "carbs_g": 1.0,
+    "sugar_g": 0.6,
+    "free_sugar_g": 0.2,
+    "fat_g": 10.5,
+    "satfat_g": 2.8,
+    "salt_g": 0.37,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "deviled-eggs-basic--dill.jpg",
+  "image_alt": "Deviled eggs with creamy filling flecked with pickle, each topped with a dill sprig.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

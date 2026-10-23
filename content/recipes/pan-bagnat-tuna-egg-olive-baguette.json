@@ -1,0 +1,195 @@
+{
+  "slug": "pan-bagnat-tuna-egg-olive-baguette",
+  "title": "Pan Bagnat with Tuna, Egg and Olives",
+  "category": "burgers-sandwiches",
+  "cuisine": "French",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "pan-bagnat",
+  "dish_title": "Pan bagnat",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A crusty loaf is spread with an olive, caper and anchovy relish, filled with tuna, tomato, hard-cooked egg, rocket and basil, wrapped tightly and pressed for an hour.",
+  "servings": 6,
+  "prep_min": 30,
+  "cook_min": 16,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "bowl of iced water",
+    "oven",
+    "food processor or sharp knife",
+    "2 bowls",
+    "bread knife",
+    "cling film",
+    "baking tray and a heavy pan or tins to weigh"
+  ],
+  "ingredients": [
+    {
+      "group": "Eggs",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small red onion, thinly sliced"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Olive relish",
+      "qty": 60,
+      "unit": "g",
+      "item": "pitted black olives"
+    },
+    {
+      "group": "Olive relish",
+      "qty": 15,
+      "unit": "g",
+      "item": "flat-leaf parsley leaves"
+    },
+    {
+      "group": "Olive relish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "capers, rinsed"
+    },
+    {
+      "group": "Olive relish",
+      "qty": 3,
+      "unit": "pc",
+      "item": "anchovy fillets in oil, patted dry"
+    },
+    {
+      "group": "Olive relish",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "English mustard powder"
+    },
+    {
+      "group": "Olive relish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Olive relish",
+      "qty": 6,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil, divided"
+    },
+    {
+      "group": "Sandwich",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large baguette or long crusty loaf (about 320 g)",
+      "note": "about 60 cm"
+    },
+    {
+      "group": "Sandwich",
+      "qty": 2,
+      "unit": "pc",
+      "item": "145 g cans tuna in olive oil, drained",
+      "note": "about 220 g drained"
+    },
+    {
+      "group": "Sandwich",
+      "qty": 2,
+      "unit": "pc",
+      "item": "ripe tomatoes, thinly sliced"
+    },
+    {
+      "group": "Sandwich",
+      "qty": 30,
+      "unit": "g",
+      "item": "rocket or crisp lettuce"
+    },
+    {
+      "group": "Sandwich",
+      "qty": 10,
+      "unit": "g",
+      "item": "basil leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the eggs",
+      "text": "Simmer 11 minutes, chill, peel and slice."
+    },
+    {
+      "title": "Soften the onion",
+      "text": "Toss the red onion with vinegar, garlic and a pinch of salt."
+    },
+    {
+      "title": "Make the relish",
+      "text": "Pulse the olives, parsley, capers, anchovies and mustard powder and stir in with oil."
+    },
+    {
+      "title": "Prepare the bread",
+      "text": "Split, hollow slightly and toast briefly."
+    },
+    {
+      "title": "Fill",
+      "text": "Layer relish, tuna, tomato, egg, rocket and basil."
+    },
+    {
+      "title": "Press",
+      "text": "Wrap tightly and weigh down for 1 hour before slicing."
+    }
+  ],
+  "tips": [
+    "Pressing is what makes it; do not skip it.",
+    "Toasting the bread first stops it going soggy.",
+    "It travels well, which makes it ideal for picnics."
+  ],
+  "storage": "Keep wrapped in the fridge and eat within 24 hours. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "mustard",
+    "fish",
+    "sulphites"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 407,
+    "protein_g": 21.1,
+    "carbs_g": 32.1,
+    "sugar_g": 4.4,
+    "free_sugar_g": 2.5,
+    "fat_g": 21.7,
+    "satfat_g": 3.8,
+    "salt_g": 1.82,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pan-bagnat-advanced.jpg",
+  "image_alt": "A pressed crusty sandwich cut open to show tuna, sliced egg, tomato and basil.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

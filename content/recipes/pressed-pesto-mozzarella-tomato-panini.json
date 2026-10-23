@@ -1,0 +1,131 @@
+{
+  "slug": "pressed-pesto-mozzarella-tomato-panini",
+  "title": "Pressed Pesto, Mozzarella and Tomato Panini",
+  "category": "burgers-sandwiches",
+  "cuisine": "Italian",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "panini",
+  "dish_title": "Panini",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Oiled crusty bread is spread with pesto, layered with mozzarella, blotted tomato and basil, and pressed in a pan under a weight for about 4 minutes, then 2-3 minutes on the second side.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 14,
+  "difficulty": "easy",
+  "equipment": [
+    "large non-stick frying pan, or a panini press",
+    "a heavy saucepan or second pan to weigh the sandwiches",
+    "pastry brush",
+    "paper towels",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Panini",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices crusty country bread, 1 cm thick (about 340 g)",
+      "note": "about 42 g each"
+    },
+    {
+      "group": "Panini",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Panini",
+      "qty": 40,
+      "unit": "g",
+      "item": "basil pesto",
+      "note": "made with microbial-rennet cheese"
+    },
+    {
+      "group": "Panini",
+      "qty": 200,
+      "unit": "g",
+      "item": "low-moisture mozzarella, coarsely grated",
+      "note": "microbial rennet"
+    },
+    {
+      "group": "Panini",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium ripe tomatoes, thinly sliced",
+      "note": "about 240 g"
+    },
+    {
+      "group": "Panini",
+      "qty": 10,
+      "unit": "g",
+      "item": "basil leaves"
+    },
+    {
+      "group": "Panini",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blot the tomatoes",
+      "text": "Lay the tomato slices on paper towels for 5 minutes."
+    },
+    {
+      "title": "Oil the bread",
+      "text": "Brush one side of each slice with oil."
+    },
+    {
+      "title": "Build",
+      "text": "Spread pesto on the unoiled side, then layer mozzarella, tomato, basil and more mozzarella."
+    },
+    {
+      "title": "Press",
+      "text": "Cook under a heavy pan over medium heat about 4 minutes until deep golden."
+    },
+    {
+      "title": "Flip",
+      "text": "Turn and press 2-3 minutes more until the cheese melts."
+    },
+    {
+      "title": "Serve",
+      "text": "Rest 2 minutes and cut on the diagonal."
+    }
+  ],
+  "tips": [
+    "Blotting the tomato stops the bread steaming.",
+    "Cheese on both sides of the tomato glues the sandwich together.",
+    "Start in a cold pan so the bread toasts evenly."
+  ],
+  "storage": "Best eaten warm. Refrigerate leftovers within 2 hours and re-crisp in a dry pan.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 503,
+    "protein_g": 21.6,
+    "carbs_g": 48.9,
+    "sugar_g": 6.7,
+    "free_sugar_g": 3.9,
+    "fat_g": 25.0,
+    "satfat_g": 9.9,
+    "salt_g": 2.33,
+    "fibre_g": 2.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "panini-basic.jpg",
+  "image_alt": "A golden pressed panini cut in half, showing melted mozzarella, tomato and basil, with salad leaves.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

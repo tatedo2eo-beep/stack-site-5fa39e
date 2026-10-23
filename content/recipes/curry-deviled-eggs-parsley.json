@@ -1,0 +1,143 @@
+{
+  "slug": "curry-deviled-eggs-parsley",
+  "title": "Curry Deviled Eggs with Parsley",
+  "category": "snacks-sides",
+  "cuisine": "British",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "deviled-eggs",
+  "dish_title": "Deviled eggs",
+  "flavour": "Curry",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Steamed hard-cooked eggs are halved and the yolks mashed with mayonnaise, parsley, lemon, mustard powder, curry powder and cayenne, then piped back and topped with parsley leaves.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan with a lid and steamer basket",
+    "large bowl of iced water",
+    "sharp knife",
+    "small bowl, fork and spatula",
+    "sandwich bag or piping bag",
+    "serving plate"
+  ],
+  "ingredients": [
+    {
+      "group": "Eggs",
+      "qty": 7,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "1 extra in case one tears"
+    },
+    {
+      "group": "Filling",
+      "qty": 45,
+      "unit": "g",
+      "item": "mayonnaise (halal-certified)"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, finely chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "English mustard powder"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "mild curry powder"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 12,
+      "unit": "pc",
+      "item": "small parsley leaves, to garnish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Steam",
+      "text": "Steam the eggs 13 minutes."
+    },
+    {
+      "title": "Chill",
+      "text": "Ice them 15 minutes and peel."
+    },
+    {
+      "title": "Halve",
+      "text": "Halve and remove the yolks."
+    },
+    {
+      "title": "Mash",
+      "text": "Mash the yolks smooth with the mayonnaise."
+    },
+    {
+      "title": "Season",
+      "text": "Mix in the parsley, lemon, mustard powder, curry and cayenne."
+    },
+    {
+      "title": "Pipe",
+      "text": "Pipe into the whites and top with parsley leaves."
+    }
+  ],
+  "tips": [
+    "Steaming makes the eggs easier to peel.",
+    "Bloom extra curry powder in a little warm oil for deeper flavour.",
+    "Fill no more than a few hours before serving."
+  ],
+  "storage": "Refrigerate covered and eat within 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 138,
+    "protein_g": 7.5,
+    "carbs_g": 0.9,
+    "sugar_g": 0.3,
+    "free_sugar_g": 0.1,
+    "fat_g": 11.3,
+    "satfat_g": 2.7,
+    "salt_g": 0.39,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "deviled-eggs-basic--curry.jpg",
+  "image_alt": "Deviled eggs with deep yellow curry filling, each topped with a parsley leaf.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}
