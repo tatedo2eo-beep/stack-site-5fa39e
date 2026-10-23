@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Fresh mint steeped in the dairy instead of vanilla; cocoa and melted dark chocolate make a chocolate base; chocolate pieces folded in.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A deep chocolate custard ice cream made the classic French way, but with fresh mint steeped into the dairy and chopped dark chocolate folded through at the end. Cool, herbal and properly chocolatey.",
   "servings": 8,
   "prep_min": 25,
@@ -152,8 +151,8 @@
     "fibre_g": 3.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "fresh-mint-dark-chocolate-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale ivory fresh mint custard ice cream flecked with dark chocolate shards in a black bowl.",
   "inspired_by": [
     "Serious Eats",
     "America's Test Kitchen"

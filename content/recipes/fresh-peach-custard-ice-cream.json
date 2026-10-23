@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Lightly cooked peach purée stirred into a lighter custard; less vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic French custard, made a little lighter and finished with a lightly cooked fresh peach purée. Summery, soft and full of fruit.",
   "servings": 8,
   "prep_min": 20,
@@ -142,8 +141,8 @@
     "fibre_g": 1.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "fresh-peach-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale peach custard ice cream with pieces of peach in a black bowl, beside a halved fresh peach.",
   "inspired_by": [
     "NYT Cooking"
   ]

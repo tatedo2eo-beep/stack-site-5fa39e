@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Jasmine green tea steeped in the dairy instead of vanilla, with syrup-plumped dried cherries layered through.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic custard infused with jasmine green tea instead of vanilla and layered with dried cherries plumped in sugar syrup. Fragrant, delicate and fruity.",
   "servings": 8,
   "prep_min": 20,
@@ -146,8 +145,8 @@
     "fibre_g": 0.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "jasmine-tea-cherry-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale jasmine tea custard ice cream topped with sugared sour cherries in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

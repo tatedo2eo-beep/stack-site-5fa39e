@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Whole spices, ginger and black tea steeped in the dairy instead of vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A spiced take on our classic custard: toasted whole spices, fresh ginger and black tea are steeped in the dairy instead of vanilla, for all the warmth of masala chai.",
   "servings": 8,
   "prep_min": 20,
@@ -166,8 +165,8 @@
     "fibre_g": 0.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "masala-chai-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of light tan masala chai custard ice cream in a black bowl, with star anise and cardamom pods beside it.",
   "inspired_by": [
     "Serious Eats"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "A baked chocolate crumb crust brushed with chocolate sauce, filled with a home-churned no-cook mocha ice cream and topped with whipped cream, instead of sponge layers.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A coffee-and-cocoa ice cream pie in a chocolate biscuit crust, piled with cream and finished with a drizzle of chocolate sauce.",
   "servings": 12,
   "prep_min": 40,
@@ -186,8 +185,8 @@
     "fibre_g": 1.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A pie with a chocolate biscuit crust filled with coffee ice cream and piled high with whipped cream, drizzled with chocolate sauce.",
+  "image": "mocha-ice-cream-pie.jpg",
+  "image_alt": "A mocha ice cream pie in a chocolate biscuit crust, piled with whipped cream, drizzled with chocolate sauce and topped with broken chocolate biscuits.",
   "inspired_by": [
     "King Arthur Baking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-vanilla-baked-alaska",
   "changes_from_base": "A brown-butter pistachio and almond cake replaces the pound cake, a lemon semifreddo replaces the bought ice cream, and the meringue is a cooked Swiss meringue browned with a blowtorch.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A nutty pistachio cake holds a silky lemon semifreddo, all finished with a blowtorched coat of marshmallowy meringue.",
   "servings": 16,
   "prep_min": 75,
@@ -200,8 +199,8 @@
     "fibre_g": 0.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A round dessert of pale lemon semifreddo on a pistachio cake base, covered in glossy blowtorched meringue peaks.",
+  "image": "lemon-pistachio-baked-alaska.jpg",
+  "image_alt": "A baked Alaska covered in toasted meringue peaks on a green pistachio cake base, cut open to show pale lemon semifreddo.",
   "inspired_by": [
     "NYT Cooking"
   ]

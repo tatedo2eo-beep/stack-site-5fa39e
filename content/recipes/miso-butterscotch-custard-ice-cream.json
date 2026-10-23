@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Butter and dark brown sugar cooked to a butterscotch, white miso whisked in for a salty-savoury edge, a little cinnamon; no added salt.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A version of our classic custard where butter and dark brown sugar are cooked into a butterscotch and white miso brings a salty, savoury edge instead of added salt. Rich and moreish.",
   "servings": 8,
   "prep_min": 20,
@@ -133,8 +132,8 @@
     "fibre_g": 0.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "miso-butterscotch-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale caramel-beige miso butterscotch ice cream in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

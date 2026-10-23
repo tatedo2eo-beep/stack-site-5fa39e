@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
   "changes_from_base": "Melted milk chocolate replaces the strawberries, with less added sugar to balance its sweetness.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Smooth, gentle and nostalgic: a pale-brown milk chocolate ice cream with less added sugar, so the chocolate leads.",
   "servings": 8,
   "prep_min": 15,
@@ -121,8 +120,8 @@
     "fibre_g": 0.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Light brown milk chocolate ice cream scoops in a small dish.",
+  "image": "milk-chocolate-philadelphia-ice-cream.jpg",
+  "image_alt": "Two scoops of light brown milk chocolate ice cream in a small black dish.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

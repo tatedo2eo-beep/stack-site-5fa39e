@@ -13,7 +13,6 @@
   "base_recipe": "frozen-yogurt-strained-tangy",
   "changes_from_base": "Ground turmeric and fresh and ground ginger are steeped in the warm gelatine whey, turning the frozen yoghurt golden.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A warming golden frozen yoghurt infused with ginger and turmeric. The exotic spices create a sophisticated, earthy flavour.",
   "servings": 8,
   "prep_min": 20,
@@ -135,8 +134,8 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Rich golden frozen yoghurt with a creamy texture.",
+  "image": "ginger-turmeric-frozen-yoghurt.jpg",
+  "image_alt": "Two scoops of rich golden ginger and turmeric frozen yoghurt in a black bowl.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

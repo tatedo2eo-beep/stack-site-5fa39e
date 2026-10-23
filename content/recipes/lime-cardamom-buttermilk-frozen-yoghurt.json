@@ -13,7 +13,6 @@
   "base_recipe": "frozen-yogurt-strained-tangy",
   "changes_from_base": "A cooked milk, cream and cream-cheese base thickened with cornflour carries buttermilk, Greek yoghurt, lime syrup and cardamom, instead of plain strained yoghurt.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A sophisticated frozen yoghurt with bright lime juice and aromatic cardamom. Smooth, tangy and beautifully perfumed.",
   "servings": 8,
   "prep_min": 30,
@@ -175,8 +174,8 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale cream frozen yoghurt with flecks of lime zest.",
+  "image": "lime-cardamom-buttermilk-frozen-yoghurt.jpg",
+  "image_alt": "Two scoops of creamy white frozen yoghurt flecked with green lime zest in a black bowl.",
   "inspired_by": [
     "King Arthur Baking"
   ]

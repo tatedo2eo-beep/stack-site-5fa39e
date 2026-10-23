@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-semifreddo-raspberry-swirl",
   "changes_from_base": "Honey and fresh ginger sweeten and flavour the egg base instead of sugar and vanilla; crystallised ginger replaces the jam swirl.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A chilled dessert featuring the floral notes of mild honey and the sharp warmth of fresh and crystallised ginger.",
   "servings": 6,
   "prep_min": 25,
@@ -122,8 +121,8 @@
     "fibre_g": 0.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Golden honey and ginger semifreddo slices scattered with diced crystallised ginger.",
+  "image": "honey-ginger-semifreddo.jpg",
+  "image_alt": "Two slices of pale golden honey and ginger semifreddo scattered with diced crystallised ginger on a black plate.",
   "inspired_by": [
     "NYT Cooking"
   ]

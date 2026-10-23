@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Cocoa and instant espresso cooked into the custard; toasted cashews folded in; no vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic custard reworked with cocoa and instant espresso cooked into the base and toasted cashews folded in at the end. Dark, roasty and crunchy.",
   "servings": 8,
   "prep_min": 20,
@@ -135,8 +134,8 @@
     "fibre_g": 1.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "mocha-toasted-cashew-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of mocha custard ice cream studded with toasted cashews in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

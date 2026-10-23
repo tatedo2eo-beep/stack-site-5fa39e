@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Malted milk powder cooked into the custard, milk chocolate melted in and chopped malted milk balls folded through; less sugar.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A take on our classic custard with malted milk powder cooked into the base, milk chocolate melted in and chopped malted milk balls folded through. Creamy, nostalgic and less sweet than you might expect.",
   "servings": 8,
   "prep_min": 20,
@@ -141,8 +140,8 @@
     "fibre_g": 0.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "malted-milk-chocolate-custard-ice-cream.jpg",
+  "image_alt": "Scoops of milk chocolate malted ice cream with halved chocolate malt balls in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

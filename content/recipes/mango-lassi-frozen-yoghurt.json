@@ -13,7 +13,6 @@
   "base_recipe": "frozen-yogurt-strained-tangy",
   "changes_from_base": "Mango purée and lime are whisked into unstrained yoghurt, lassi-style; no straining and no golden syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Mango, yoghurt and lime churned like a frozen lassi, sweet and gently tart.",
   "servings": 8,
   "prep_min": 20,
@@ -119,8 +118,8 @@
     "fibre_g": 0.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Scoops of golden mango frozen yoghurt in a bowl with lime zest.",
+  "image": "mango-lassi-frozen-yoghurt.jpg",
+  "image_alt": "Two scoops of golden mango frozen yoghurt with lime zest in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Honey replaces the sugar and fresh thyme is infused instead of vanilla; four yolks.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic French custard with honey in place of sugar and fresh thyme infused in the dairy instead of vanilla. Floral, gently herby and lovely with fruit.",
   "servings": 8,
   "prep_min": 20,
@@ -122,8 +121,8 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "honey-thyme-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale honey-gold custard ice cream in a black bowl, with a sprig of fresh thyme beside it.",
   "inspired_by": [
     "NYT Cooking"
   ]

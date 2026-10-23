@@ -13,7 +13,6 @@
   "base_recipe": "pistachio-gelato-steeped-pistachio-milk",
   "changes_from_base": "Lemon peel infused in the milk and cold mascarpone whisked into a 4-yolk custard replace the pistachio milk; no cornflour.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A silky, sunny gelato: milk infused with lemon peel, cooked into a light yolk custard and enriched with cold mascarpone, then sharpened with fresh lemon juice at the churn.",
   "servings": 8,
   "prep_min": 15,
@@ -131,8 +130,8 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale yellow lemon gelato scoops with a dense, creamy texture in a small glass dish.",
+  "image": "lemon-mascarpone-gelato.jpg",
+  "image_alt": "Two scoops of creamy pale yellow lemon and mascarpone gelato in a small glass dish.",
   "inspired_by": [
     "NYT Cooking"
   ]

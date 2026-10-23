@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-granita-fork-scraped",
   "changes_from_base": "Green tea steeped with crystallised ginger, matcha and honey replaces the strawberry purée; no sugar.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A refreshing frozen treat combining the warmth of crystallised ginger with the earthy notes of matcha and a bright hint of lemon.",
   "servings": 6,
   "prep_min": 15,
@@ -120,8 +119,8 @@
     "fibre_g": 0.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Light green matcha and ginger granita crystals in a chilled glass.",
+  "image": "ginger-matcha-honey-granita.jpg",
+  "image_alt": "Light green matcha and ginger granita crystals piled in a frosted glass.",
   "inspired_by": [
     "NYT Cooking"
   ]

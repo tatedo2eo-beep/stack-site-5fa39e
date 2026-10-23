@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "Gingersnaps layered in a loaf tin with a treacle and spice whipped cream, frozen and coated in crushed gingersnaps, instead of sponge and ice cream.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Spiced whipped cream is layered with crunchy gingersnaps and frozen into a loaf, then coated all over with crushed gingersnap crumbs for a warming, spiced dessert.",
   "servings": 8,
   "prep_min": 30,
@@ -139,8 +138,8 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A loaf-shaped cake coated in crushed gingersnap crumbs, with piped cream patching the surface.",
+  "image": "gingerbread-icebox-cake.jpg",
+  "image_alt": "A loaf-shaped icebox cake coated in crushed gingersnap crumbs, with small patches of piped cream on top.",
   "inspired_by": [
     "NYT Cooking"
   ]

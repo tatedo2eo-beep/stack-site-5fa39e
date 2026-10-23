@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Honey replaces the sugar and dried lavender is steeped instead of vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic custard, sweetened with honey instead of sugar and steeped with dried lavender instead of vanilla. Floral, soft and summery.",
   "servings": 8,
   "prep_min": 20,
@@ -122,8 +121,8 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "honey-lavender-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale honey custard ice cream in a black bowl, with dried lavender buds beside it.",
   "inspired_by": [
     "Serious Eats"
   ]

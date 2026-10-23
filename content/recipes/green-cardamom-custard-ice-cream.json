@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Toasted, crushed green cardamom pods steeped in the dairy instead of vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Classic French custard ice cream with toasted green cardamom pods steeped in the cream instead of vanilla. Floral, warm and quietly aromatic.",
   "servings": 8,
   "prep_min": 20,
@@ -127,8 +126,8 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "green-cardamom-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale ivory cardamom custard ice cream in a black bowl, with green cardamom pods beside it.",
   "inspired_by": [
     "NYT Cooking"
   ]

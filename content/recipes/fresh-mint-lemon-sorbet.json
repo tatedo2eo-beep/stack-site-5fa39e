@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "A fresh mint syrup made on the hob and sharpened with lemon replaces the fruit; no corn syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Clean and cooling: a syrup steeped with whole bunches of fresh mint, sharpened with lemon juice and churned.",
   "servings": 6,
   "prep_min": 15,
@@ -98,8 +97,8 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale green mint sorbet in small glasses, each with a mint sprig.",
+  "image": "fresh-mint-lemon-sorbet.jpg",
+  "image_alt": "Pale green mint sorbet in two small glasses, each topped with a mint sprig.",
   "inspired_by": [
     "NYT Cooking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-granita-fork-scraped",
   "changes_from_base": "Sweet mint tea made with gunpowder green tea and orange blossom water replaces the strawberry purée.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A refreshing frozen treat infused with gunpowder green tea, fresh mint and a hint of floral orange blossom water.",
   "servings": 6,
   "prep_min": 15,
@@ -110,7 +109,7 @@
     "fibre_g": 0.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "moroccan-mint-tea-granita.jpg",
   "image_alt": "Pale golden-green mint tea granita in a small glass with fresh mint leaves.",
   "inspired_by": [
     "Serious Eats"

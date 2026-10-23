@@ -13,7 +13,6 @@
   "base_recipe": "frozen-yogurt-strained-tangy",
   "changes_from_base": "Fresh orange juice and zest go into unstrained yoghurt with a squeeze of lemon; no straining and no golden syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Bright orange juice and zest whisked into yoghurt for a frozen yoghurt that tastes like an orange ice lolly with cream.",
   "servings": 8,
   "prep_min": 20,
@@ -114,7 +113,7 @@
     "fibre_g": 0.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "orange-creamsicle-frozen-yoghurt.jpg",
   "image_alt": "Pale orange frozen yoghurt scoops in a cone beside orange segments.",
   "inspired_by": [
     "Serious Eats"

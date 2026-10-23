@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "Coconut water steeped with lime zest, lime leaves and star anise, with fresh ginger, replaces the mango purée; no corn syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A light, refreshing Thai-inspired sorbet of coconut water scented with lime, a little star anise and fresh ginger.",
   "servings": 6,
   "prep_min": 15,
@@ -124,8 +123,8 @@
     "fibre_g": 1.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale, almost white lime sorbet with a whole star anise and lime zest on top.",
+  "image": "lime-ginger-star-anise-coconut-water-sorbet.jpg",
+  "image_alt": "Two scoops of pale lime sorbet with lime zest and a single star anise in a glass dish.",
   "inspired_by": [
     "Serious Eats"
   ]

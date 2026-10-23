@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "A no-bake crushed chocolate biscuit base and middle layer with bought chocolate and mint chocolate chip ice cream, instead of sponge layers.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A cool make-ahead ice-cream cake with a crisp chocolate biscuit crust, bands of chocolate and minty chocolate-chip ice cream, and a shower of sprinkles on top.",
   "servings": 16,
   "prep_min": 20,
@@ -110,8 +109,8 @@
     "fibre_g": 1.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A sliced round ice-cream cake showing a chocolate biscuit crust, a layer of chocolate ice cream, a crumb divider, mint chocolate-chip ice cream, and colourful sprinkles on top.",
+  "image": "mint-chip-ice-cream-cake.jpg",
+  "image_alt": "A round ice cream cake cut open to show a chocolate biscuit crust, chocolate ice cream, a crumb layer and mint chocolate chip ice cream, topped with colourful sprinkles.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

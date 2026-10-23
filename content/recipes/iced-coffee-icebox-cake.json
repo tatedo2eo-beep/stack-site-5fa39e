@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "Thin chocolate wafers layered in a loaf tin with an espresso whipped cream and left to soften in the fridge, instead of sponge and ice cream.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Layers of chocolate wafer biscuits soften between espresso-spiked whipped cream to create a rich, coffee-flavoured sliceable dessert, finished with dark chocolate curls.",
   "servings": 16,
   "prep_min": 25,
@@ -122,8 +121,8 @@
     "fibre_g": 0.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A sliced loaf-shaped icebox cake showing distinct layers of pale coffee cream and dark biscuit, topped with chocolate curls.",
+  "image": "iced-coffee-icebox-cake.jpg",
+  "image_alt": "A slice of icebox cake with layers of dark chocolate wafers and pale coffee cream, topped with dark chocolate curls.",
   "inspired_by": [
     "King Arthur Baking"
   ]

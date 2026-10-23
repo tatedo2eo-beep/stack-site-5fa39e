@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Matcha whisked into the milk and fresh ginger steeped in the dairy instead of vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "The classic French custard, flavoured with matcha whisked into the milk and fresh ginger steeped in the warm dairy instead of vanilla. Grassy, gently spicy and a lovely pale green.",
   "servings": 8,
   "prep_min": 20,
@@ -134,8 +133,8 @@
     "fibre_g": 0.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "ginger-matcha-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of soft pale green matcha and ginger custard ice cream in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

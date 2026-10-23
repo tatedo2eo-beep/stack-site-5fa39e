@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Brown sugar, crushed gingerbread biscuits cooked into the base and strained, a pinch of black pepper and biscuit pieces layered in.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic custard, made with brown sugar and crushed gingerbread biscuits cooked into the base and strained out, then a pinch of black pepper and biscuit pieces folded through. Like a frozen gingerbread biscuit.",
   "servings": 8,
   "prep_min": 20,
@@ -140,8 +139,8 @@
     "fibre_g": 0.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "gingerbread-cookie-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of caramel-beige brown sugar custard ice cream with gingernut biscuit pieces in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

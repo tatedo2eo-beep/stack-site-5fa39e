@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-ice-pops",
   "changes_from_base": "A no-cook key lime pie mix of milk, condensed milk, cream cheese and lime replaces the strawberry purée, with broken Marie biscuits soaked in each pop.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A key lime pie in ice pop form, with a tangy lime and cream cheese filling studded with crushed biscuit.",
   "servings": 10,
   "prep_min": 15,
@@ -132,8 +131,8 @@
     "fibre_g": 0.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale, creamy ice pops studded with crumbled biscuit pieces, shown in their freezer bags.",
+  "image": "key-lime-pie-ice-pops.jpg",
+  "image_alt": "Three pale creamy key lime ice pops studded with biscuit pieces on a black tray.",
   "inspired_by": [
     "Serious Eats"
   ]

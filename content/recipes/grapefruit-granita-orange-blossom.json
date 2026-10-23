@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-granita-fork-scraped",
   "changes_from_base": "Fresh ruby grapefruit juice replaces the strawberry purée; it is frozen solid without stirring, then smashed into flakes with a fork.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A refreshing ruby grapefruit ice with a coarse texture and optional floral notes for a bright palate cleanser or light dessert.",
   "servings": 6,
   "prep_min": 15,
@@ -99,8 +98,8 @@
     "fibre_g": 2.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Coral-pink ruby grapefruit granita flakes piled in a chilled glass.",
+  "image": "grapefruit-granita-orange-blossom.jpg",
+  "image_alt": "Coral-pink ruby grapefruit granita flakes piled in a frosted glass.",
   "inspired_by": [
     "NYT Cooking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-ice-pops",
   "changes_from_base": "Mango, yoghurt, honey and lime blended lassi-style replace the strawberries, sugar and jam.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A frozen take on mango lassi, blending sweet mango with yoghurt and a touch of honey and lime.",
   "servings": 6,
   "prep_min": 10,
@@ -98,8 +97,8 @@
     "fibre_g": 0.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Golden orange ice pops on sticks with a smooth, creamy texture.",
+  "image": "mango-lassi-ice-pops.jpg",
+  "image_alt": "Three smooth golden orange mango lassi ice pops on a black tray.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Half-yolk vanilla custard with a homemade egg-white marshmallow (Italian meringue) swirl folded through.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic vanilla custard made lighter with four yolks, then swirled with homemade, gelatine-free marshmallow whipped from egg whites and hot syrup. Soft, sweet ribbons run through every scoop.",
   "servings": 8,
   "prep_min": 35,
@@ -164,8 +163,8 @@
     "fibre_g": 0.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "marshmallow-swirl-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of ivory vanilla custard ice cream with white marshmallow streaks in a black bowl.",
   "inspired_by": [
     "King Arthur Baking"
   ]

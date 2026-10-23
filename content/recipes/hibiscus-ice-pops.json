@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-ice-pops",
   "changes_from_base": "A sweetened hibiscus infusion with lime replaces the strawberry purée.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Deep red, tart hibiscus ice pops lifted with a touch of lime.",
   "servings": 8,
   "prep_min": 10,
@@ -107,8 +106,8 @@
     "fibre_g": 0.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Deep red ice pops on sticks, shown in slim freezer bags.",
+  "image": "hibiscus-ice-pops.jpg",
+  "image_alt": "Three deep ruby-red hibiscus ice pops on wooden sticks on a black tray.",
   "inspired_by": [
     "Serious Eats"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-granita-fork-scraped",
   "changes_from_base": "Mango purée replaces the strawberries, and it is frozen in ice-cube trays and pulsed instead of scraped.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A refreshing frozen treat made from fresh mango purée and lemon juice, perfect for a light summer dessert.",
   "servings": 4,
   "prep_min": 15,
@@ -104,8 +103,8 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Golden orange mango granita in a chilled glass.",
+  "image": "mango-granita-ice-cube.jpg",
+  "image_alt": "Golden orange mango granita piled in a small glass.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

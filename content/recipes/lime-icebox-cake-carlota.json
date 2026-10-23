@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "Maria biscuits layered with a no-cook lime and condensed milk cream and set in the fridge, instead of sponge and ice cream.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Layers of soft biscuits soak in a tangy lime and condensed milk cream to create this simple, no-bake Mexican-style dessert, finished with lime zest and crumbs.",
   "servings": 7,
   "prep_min": 15,
@@ -97,8 +96,8 @@
     "fibre_g": 0.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A dish of layered soft biscuits and pale lime cream, topped with biscuit crumbs and lime zest.",
+  "image": "lime-icebox-cake-carlota.jpg",
+  "image_alt": "A black dish of layered biscuits and pale lime cream, topped with biscuit crumbs and lime zest.",
   "inspired_by": [
     "NYT Cooking"
   ]

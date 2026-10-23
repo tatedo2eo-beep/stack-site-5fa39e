@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Orange zest rubbed into the sugar and steeped in the dairy, plus a little juice; no vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic French custard ice cream with orange zest rubbed into the sugar and steeped in the cream, plus a splash of juice. Bright, fragrant and smooth, without vanilla.",
   "servings": 8,
   "prep_min": 20,
@@ -132,8 +131,8 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "orange-zest-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale orange custard ice cream flecked with orange zest in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

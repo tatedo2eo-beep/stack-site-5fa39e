@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-semifreddo-raspberry-swirl",
   "changes_from_base": "A hot-syrup meringue with orange zest replaces the whisked whole-egg base, and grated dark chocolate replaces the jam swirl.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Orange-scented semifreddo on a light Italian meringue, flecked with grated dark chocolate.",
   "servings": 8,
   "prep_min": 30,
@@ -130,8 +129,8 @@
     "fibre_g": 0.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A pale orange semifreddo loaf topped with grated dark chocolate.",
+  "image": "orange-semifreddo-grated-chocolate.jpg",
+  "image_alt": "A pale orange semifreddo loaf topped with grated dark chocolate, with one slice cut.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

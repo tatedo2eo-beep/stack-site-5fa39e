@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "Jasmine tea pearls, rose petals and a little star anise steeped below boiling replace the fruit; coconut milk is an optional serving broth.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A delicate, floral sorbet of jasmine tea and rose petals steeped below boiling, with a hint of lime and star anise.",
   "servings": 8,
   "prep_min": 15,
@@ -134,8 +133,8 @@
     "fibre_g": 0.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale golden jasmine tea sorbet in a bowl of coconut milk, scattered with rose petals.",
+  "image": "jasmine-tea-rose-petal-sorbet.jpg",
+  "image_alt": "Two scoops of pale golden jasmine tea sorbet in coconut milk, scattered with dried rose petals, in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

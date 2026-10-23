@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "A wafer base under swirled spoonfuls of bought orange sherbet and vanilla ice cream, instead of sponge and layered ice cream.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A playful orange and vanilla ice cream cake with a crunchy wafer base, swirled into peaks reminiscent of a classic creamsicle.",
   "servings": 10,
   "prep_min": 20,
@@ -95,8 +94,8 @@
     "fibre_g": 1.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A round ice cream cake on a wafer biscuit base with swirled peaks of orange sherbet and vanilla ice cream.",
+  "image": "orange-creamsicle-ice-cream-cake.jpg",
+  "image_alt": "A round ice cream cake on a wafer biscuit base with swirls of orange sherbet and vanilla ice cream.",
   "inspired_by": [
     "NYT Cooking"
   ]

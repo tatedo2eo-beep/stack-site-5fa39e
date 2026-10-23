@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "A no-bake loaf of butter crackers, whipped cream and lemon curd that softens in the fridge, covered in blowtorched Italian meringue, instead of sponge and ice cream.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A tangy icebox cake of lemon curd and cream between softened butter crackers, finished with swirls of torched Italian meringue.",
   "servings": 8,
   "prep_min": 40,
@@ -137,8 +136,8 @@
     "fibre_g": 0.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A loaf-shaped icebox cake with pale yellow lemon layers, topped with swirls of toasted meringue.",
+  "image": "lemon-meringue-icebox-cake.jpg",
+  "image_alt": "A slice of lemon icebox cake showing layers of biscuits and pale lemon cream, topped with swirls of toasted meringue, on a black plate.",
   "inspired_by": [
     "Serious Eats"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Lemongrass steeped in the dairy instead of vanilla; sugared chopped kumquats folded in.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "This follows our classic French custard method, but lemongrass is steeped in the cream instead of vanilla and sugared kumquat pieces are folded through at the end. Citrusy, fragrant and a little bitter-sweet.",
   "servings": 8,
   "prep_min": 25,
@@ -143,8 +142,8 @@
     "fibre_g": 1.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "kumquat-lemongrass-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale orange kumquat custard ice cream in a black bowl, with two whole kumquats beside it.",
   "inspired_by": [
     "Serious Eats"
   ]

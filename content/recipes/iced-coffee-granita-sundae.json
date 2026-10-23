@@ -13,7 +13,6 @@
   "base_recipe": "hot-fudge-sundae-whipped-cream-cherry",
   "changes_from_base": "A no-churn condensed-milk ice cream, coffee granita and cocoa-coffee syrup replace the bought ice cream and hot fudge.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A sophisticated iced coffee dessert combining granita, ice cream and a silky chocolate-coffee syrup. Layers of texture and layers of flavour.",
   "servings": 6,
   "prep_min": 25,
@@ -142,8 +141,8 @@
     "fibre_g": 1.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Tall glass of layered iced coffee sundae with granita, ice cream and chocolate shards.",
+  "image": "iced-coffee-granita-sundae.jpg",
+  "image_alt": "A tall glass of coffee granita topped with ivory ice cream, chocolate-coffee syrup and dark chocolate shards.",
   "inspired_by": [
     "NYT Cooking"
   ]

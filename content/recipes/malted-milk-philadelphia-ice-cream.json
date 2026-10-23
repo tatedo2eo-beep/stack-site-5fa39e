@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
   "changes_from_base": "Malted milk powder flavours the base and crushed chocolate malt balls are folded in, instead of strawberries.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A toasty, biscuit-like ice cream flavoured with malted milk powder and packed with crushed chocolate malt balls, like an old-fashioned malted shake.",
   "servings": 8,
   "prep_min": 15,
@@ -128,8 +127,8 @@
     "fibre_g": 0.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Beige malted milk ice cream studded with crushed chocolate malt balls.",
+  "image": "malted-milk-philadelphia-ice-cream.jpg",
+  "image_alt": "Two scoops of beige malted milk ice cream studded with crushed chocolate malt balls in a glass dish.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

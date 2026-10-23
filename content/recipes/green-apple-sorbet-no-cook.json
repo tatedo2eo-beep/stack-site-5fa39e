@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "Raw Granny Smith apples puréed with lemon and icing sugar replace the mango; no cooked syrup and no corn syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Crisp, tart and pale green-white: raw Granny Smith apples puréed with lemon and icing sugar and churned straight away.",
   "servings": 8,
   "prep_min": 20,
@@ -98,8 +97,8 @@
     "fibre_g": 3.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale green-white apple sorbet scoops with thin slices of green apple.",
+  "image": "green-apple-sorbet-no-cook.jpg",
+  "image_alt": "Two scoops of pale green-white apple sorbet with thin slices of green apple in a glass dish.",
   "inspired_by": [
     "NYT Cooking"
   ]

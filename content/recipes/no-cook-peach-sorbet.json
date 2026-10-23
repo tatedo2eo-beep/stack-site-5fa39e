@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "Raw ripe peaches with their skins, blended straight with sugar, replace the mango; less lime and no cooked syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Ripe peaches blended raw with their skins on give a blush-coloured sorbet that tastes exactly like summer fruit.",
   "servings": 8,
   "prep_min": 20,
@@ -106,8 +105,8 @@
     "fibre_g": 2.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Soft peach-coloured sorbet scoops beside slices of ripe peach.",
+  "image": "no-cook-peach-sorbet.jpg",
+  "image_alt": "Two scoops of soft peach-coloured sorbet in a black bowl beside slices of ripe peach.",
   "inspired_by": [
     "Serious Eats"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
   "changes_from_base": "Lime zest, key lime juice and buttermilk replace the strawberries and milk, with broken graham crackers for a pie crust crunch.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "All the flavours of key lime pie in a scoop: a tangy lime and buttermilk ice cream with crunchy graham cracker pieces folded through.",
   "servings": 8,
   "prep_min": 15,
@@ -121,8 +120,8 @@
     "fibre_g": 0.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale lime ice cream scoops with crumbly golden biscuit pieces and lime zest.",
+  "image": "key-lime-graham-philadelphia-ice-cream.jpg",
+  "image_alt": "Two scoops of pale lime ice cream with golden biscuit pieces and lime zest in a black bowl.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

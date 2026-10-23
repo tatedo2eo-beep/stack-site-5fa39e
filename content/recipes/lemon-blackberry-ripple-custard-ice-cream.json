@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Lemon peel steeped in the dairy instead of vanilla; a reduced blackberry syrup rippled through after churning.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic custard infused with lemon peel instead of vanilla, then rippled with a reduced blackberry syrup after churning. Fresh, tart and striking to look at.",
   "servings": 8,
   "prep_min": 30,
@@ -143,8 +142,8 @@
     "fibre_g": 2.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "lemon-blackberry-ripple-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale lemon custard ice cream rippled with purple blackberry sauce in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

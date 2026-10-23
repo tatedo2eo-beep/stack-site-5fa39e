@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "Ripe honeydew with a light sugar and corn syrup and lime replaces the mango.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A pale green, gently sweet sorbet of ripe honeydew melon brightened with lime.",
   "servings": 6,
   "prep_min": 20,
@@ -117,8 +116,8 @@
     "fibre_g": 1.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale green honeydew melon sorbet scoops with a lime wedge.",
+  "image": "honeydew-lime-melon-sorbet.jpg",
+  "image_alt": "Two scoops of pale green honeydew melon sorbet with a lime wedge in a glass dish.",
   "inspired_by": [
     "NYT Cooking"
   ]

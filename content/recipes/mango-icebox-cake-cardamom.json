@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "A chilled cake of savoiardi sponge fingers and a mango, mascarpone and Italian meringue filling with cardamom, topped with mango roses, instead of sponge and ice cream.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A striking charlotte-style mango cake with cardamom-scented mascarpone filling, ringed with sponge fingers and crowned with mango flowers.",
   "servings": 12,
   "prep_min": 75,
@@ -193,8 +192,8 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A round charlotte cake ringed with sponge fingers, filled with pale mango mousse and topped with rose-like mango flowers.",
+  "image": "mango-icebox-cake-cardamom.jpg",
+  "image_alt": "A round charlotte cake ringed with sponge fingers and topped with mango slices shaped like roses.",
   "inspired_by": [
     "Serious Eats"
   ]

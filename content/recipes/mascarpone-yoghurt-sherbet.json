@@ -13,7 +13,6 @@
   "base_recipe": "fresh-orange-sherbet-creamy",
   "changes_from_base": "Mascarpone and yoghurt with a sugar syrup and lemon replace the orange juice and cream.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Mascarpone and yoghurt beaten with a sugar syrup and lemon make a light, tangy, creamy sherbet to serve with berries.",
   "servings": 6,
   "prep_min": 10,
@@ -107,8 +106,8 @@
     "fibre_g": 1.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Ivory mascarpone sherbet scoops served with mixed fresh berries.",
+  "image": "mascarpone-yoghurt-sherbet.jpg",
+  "image_alt": "Two scoops of ivory mascarpone sherbet with fresh raspberries, blueberries and blackberries in a black bowl.",
   "inspired_by": [
     "NYT Cooking"
   ]

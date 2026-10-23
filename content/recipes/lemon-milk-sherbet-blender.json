@@ -13,7 +13,6 @@
   "base_recipe": "fresh-orange-sherbet-creamy",
   "changes_from_base": "Lemon zest, lemon juice and cold whole milk replace the orange juice and cream; no whipping.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A tangy, refreshing lemon sherbet made in the blender with zest-rubbed sugar, lemon juice and cold whole milk.",
   "servings": 8,
   "prep_min": 10,
@@ -106,8 +105,8 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale yellow lemon sherbet scoops with grated lemon zest on top.",
+  "image": "lemon-milk-sherbet-blender.jpg",
+  "image_alt": "Two scoops of pale yellow lemon sherbet sprinkled with lemon zest in a black bowl.",
   "inspired_by": [
     "King Arthur Baking"
   ]
