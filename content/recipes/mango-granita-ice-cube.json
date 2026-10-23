@@ -1,0 +1,112 @@
+{
+  "slug": "mango-granita-ice-cube",
+  "title": "Mango Granita",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "granita",
+  "dish_title": "Granita",
+  "flavour": "Mango",
+  "flavour_order": 9,
+  "access": "premium",
+  "base_recipe": "strawberry-granita-fork-scraped",
+  "changes_from_base": "Mango purée replaces the strawberries, and it is frozen in ice-cube trays and pulsed instead of scraped.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A refreshing frozen treat made from fresh mango purée and lemon juice, perfect for a light summer dessert.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "blender or food processor",
+    "fine sieve",
+    "bowl",
+    "2 ice-cube trays",
+    "freezer bag",
+    "chilled glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Granita",
+      "qty": 450,
+      "unit": "g",
+      "item": "ripe mango flesh (from about 2 mangoes), sliced"
+    },
+    {
+      "group": "Granita",
+      "qty": 180,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Granita",
+      "qty": 70,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Granita",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Place 450 g mango flesh and 180 ml water in a blender or food processor. Pulse the mixture until it is completely smooth."
+    },
+    {
+      "title": "Strain",
+      "text": "Pass the purée through a fine sieve into a bowl. Discard any fibres that remain in the mesh."
+    },
+    {
+      "title": "Sweeten",
+      "text": "Stir in 70 g caster sugar and 1 tbsp lemon juice. Mix well until the sugar has fully dissolved into the mango liquid."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pour the mixture into 2 ice-cube trays. Place them in the freezer for at least 2 h until the cubes are solid."
+    },
+    {
+      "title": "Process",
+      "text": "Place one layer of frozen cubes into the food processor and pulse 10-12 times. Stop when there are no large chunks left and the texture is icy."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon the granita into chilled glasses and serve at once. Repeat the pulsing process for the remaining cubes as needed."
+    }
+  ],
+  "tips": [
+    "Choose very ripe fruit for the best natural flavour and sweetness.",
+    "Ensure the sugar is completely dissolved before freezing to prevent a gritty texture.",
+    "Chill your serving glasses in the freezer beforehand to keep the granita from melting too quickly."
+  ],
+  "storage": "Keep the cubes in a freezer bag for up to 1 week and pulse them in the processor just before serving.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 136,
+    "protein_g": 0.9,
+    "carbs_g": 34.6,
+    "sugar_g": 32.9,
+    "free_sugar_g": 17.6,
+    "fat_g": 0.4,
+    "satfat_g": 0.1,
+    "salt_g": 0.01,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden orange mango granita in a chilled glass.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

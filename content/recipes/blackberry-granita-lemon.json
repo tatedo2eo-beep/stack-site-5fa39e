@@ -1,0 +1,118 @@
+{
+  "slug": "blackberry-granita-lemon",
+  "title": "Blackberry Granita",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "granita",
+  "dish_title": "Granita",
+  "flavour": "Blackberry",
+  "flavour_order": 5,
+  "access": "premium",
+  "base_recipe": "strawberry-granita-fork-scraped",
+  "changes_from_base": "Blackberries replace the strawberries, with a little less water.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A refreshing frozen dessert made with fresh blackberries and lemon juice, processed into light and airy ice crystals.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "blender",
+    "fine sieve",
+    "33 x 23 cm glass dish",
+    "fork",
+    "chilled glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Granita",
+      "qty": 450,
+      "unit": "g",
+      "item": "fresh or thawed frozen blackberries"
+    },
+    {
+      "group": "Granita",
+      "qty": 160,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Granita",
+      "qty": 110,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Granita",
+      "qty": 45,
+      "unit": "ml",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Granita",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Place 450 g blackberries, 160 ml water, 110 g caster sugar, 45 ml lemon juice and a pinch of salt in the blender. Process on high for 1-2 min until the mixture is very smooth."
+    },
+    {
+      "title": "Strain",
+      "text": "Pour the liquid through a fine sieve into a 33 x 23 cm glass dish. Press with a spoon to remove all seeds and discard them."
+    },
+    {
+      "title": "First freeze",
+      "text": "Place the dish uncovered in the freezer for about 1 h. Do not disturb the mixture during this initial cooling phase."
+    },
+    {
+      "title": "Scrape",
+      "text": "Use a fork to scrape the frozen edges into the middle. Repeat this process every 30-60 min for 2-3 h to break up any large ice crystals."
+    },
+    {
+      "title": "Mash",
+      "text": "Continue mashing any lumps with the fork until the texture is light and fluffy. Ensure the crystals are evenly distributed throughout the dish."
+    },
+    {
+      "title": "Serve",
+      "text": "Fork the mixture one last time just before serving. Spoon the blackberry ice into chilled glasses for a refreshing finish."
+    }
+  ],
+  "tips": [
+    "Use frozen blackberries if fresh berries are out of season.",
+    "Ensure the glasses are properly chilled to prevent the ice from melting too quickly.",
+    "Press the pulp firmly against the sieve to get the most flavour and colour."
+  ],
+  "storage": "Keep the granita covered in the freezer for up to 1 week and use a fork to fluff the crystals before serving.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 79,
+    "protein_g": 0.8,
+    "carbs_g": 19.5,
+    "sugar_g": 16.6,
+    "free_sugar_g": 13.9,
+    "fat_g": 0.3,
+    "satfat_g": 0.0,
+    "salt_g": 0.04,
+    "fibre_g": 3.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Deep purple blackberry granita in a chilled glass with a few blackberries.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

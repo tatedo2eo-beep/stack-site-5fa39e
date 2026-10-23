@@ -93,6 +93,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | black-pepper-slow-onion-spaghetti | Long dried (spaghetti, linguine, bucatini) | Black pepper & onion | 1 | 3 |
 | black-sesame-custard-ice-cream | Custard-base (French) | Black sesame | 1 | 3 |
 | blackberry-cobbler | Cobbler | Blackberry | 1 | 3 |
+| blackberry-granita-lemon | Granita | Blackberry | 1 | 3 |
 | blackberry-lemon-sorbet-sieved | Sorbet | Blackberry | 1 | 3 |
 | blood-orange-chocolate-tart-jelly-top | Chocolate tart | Blood orange | 1 | 3 |
 | blood-orange-marmalade | Marmalade | Classic | 2 | 4 |
@@ -101,6 +102,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
 | blueberry-custard-ice-cream | Custard-base (French) | Blueberry | 1 | 3 |
 | blueberry-ginger-sorbet | Sorbet | Blueberry & ginger | 1 | 3 |
+| blueberry-granita-lemon-zest | Granita | Blueberry | 1 | 3 |
 | blueberry-key-lime-tart-biscuit-base | Lemon tart | Blueberry | 1 | 3 |
 | blueberry-pie-bars | Bars (magic bars, millionaire's shortbread) | Blueberry | 1 | 3 |
 | boiled-eggs-spiced-onion-tomato-coconut-curry | Egg curry | Classic | 3 | 5 |
@@ -267,6 +269,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cinnamon-apple-oat-crumble | Crumble | Apple | 1 | 4 |
 | cinnamon-apple-pull-apart-muffin-rolls | Dinner rolls | Cinnamon & apple | 1 | 3 |
 | cinnamon-glazed-apple-fritters | Fritters/apple fritters | Classic | 1 | 3 |
+| cinnamon-poached-plum-granita | Granita | Plum | 1 | 3 |
 | cinnamon-raisin-bagels-cream-cheese | Bagels | Cinnamon-raisin | 2 | 4 |
 | cinnamon-streusel-coffee-cake | Coffee cake | Cinnamon streusel | 2 | 4 |
 | cinnamon-sugar-buttermilk-cake-doughnuts | Cake doughnut | Classic | 2 | 4 |
@@ -416,6 +419,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | double-chocolate-focaccia | Focaccia | Chocolate | 1 | 3 |
 | double-chocolate-glazed-cake-doughnuts | Cake doughnut | Chocolate | 1 | 3 |
 | double-crust-apple-pie | Double-crust fruit pie (apple, cherry) | Classic | 3 | 5 |
+| double-dark-chocolate-granita | Granita | Dark chocolate | 1 | 3 |
 | double-espresso-thick-crema | Espresso | Classic | 1 | 3 |
 | double-fried-french-fries | French fries (double-fried) | Classic | 3 | 5 |
 | dried-chilli-harissa-paste | Harissa | Classic | 2 | 4 |
@@ -516,6 +520,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gildas-anchovy-olive-guindilla-skewers | Gildas/pintxos | Classic | 1 | 3 |
 | ginger-chicken-rice-porridge-crispy-garlic-egg | Arroz caldo | Classic | 2 | 4 |
 | ginger-matcha-custard-ice-cream | Custard-base (French) | Ginger & matcha | 1 | 3 |
+| ginger-matcha-honey-granita | Granita | Ginger & matcha | 1 | 3 |
 | ginger-rhubarb-crumble | Crumble | Rhubarb | 1 | 3 |
 | ginger-spice-brownies | Brownie (fudgy or cakey) | Ginger | 1 | 3 |
 | gingerbread-cookie-custard-ice-cream | Custard-base (French) | Gingerbread | 1 | 3 |
@@ -723,6 +728,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | malted-milk-brownies | Brownie (fudgy or cakey) | Malted milk | 1 | 3 |
 | malted-milk-chocolate-custard-ice-cream | Custard-base (French) | Malted milk & milk chocolate | 1 | 3 |
 | malted-milk-philadelphia-ice-cream | Philadelphia (no egg) | Malted milk | 1 | 3 |
+| mango-granita-ice-cube | Granita | Mango | 1 | 3 |
 | mango-lassi-cardamom-pistachio | Lassi | Mango | 2 | 4 |
 | mango-lime-sorbet | Sorbet | Classic | 1 | 3 |
 | mango-sticky-rice-toasted-mung-beans | Mango sticky rice | Classic | 2 | 4 |
@@ -762,6 +768,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | molten-chocolate-cakes | Molten chocolate | Classic | 3 | 5 |
 | moroccan-chicken-pastilla-almonds-cinnamon | Pastilla | Classic | 2 | 4 |
 | moroccan-gunpowder-green-mint-tea | Moroccan mint | Classic | 2 | 4 |
+| moroccan-mint-tea-granita | Granita | Mint | 1 | 3 |
 | moros-y-cristianos-black-beans-rice | Moros y cristianos | Classic | 2 | 4 |
 | msemen-moroccan-square-flatbread | Msemen | Classic | 1 | 3 |
 | muhammara-roasted-red-pepper-walnut-pomegranate | Muhammara | Classic | 3 | 5 |
@@ -939,6 +946,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | poached-white-fish-dumplings-carrot-beetroot-horseradish | Gefilte fish | Classic | 4 | 6 |
 | pollo-al-mattone | Pollo al mattone (chicken under a brick) | Classic | 2 | 4 |
 | pomegranate-honey-vinaigrette | Vinaigrette | Pomegranate | 1 | 3 |
+| pomegranate-rose-mint-granita | Granita | Pomegranate | 1 | 3 |
 | pommes-anna-layered-potato-cake | Pommes Anna | Classic | 3 | 5 |
 | pommes-dauphine-potato-puffs | Pommes dauphine | Classic | 2 | 4 |
 | poppy-seed-coleslaw-lemon-honey | Coleslaw | Poppy seed | 1 | 3 |
@@ -976,6 +984,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | qatayef-asafiri-cream-pistachio | Qatayef | Classic | 2 | 4 |
 | qatayef-fried-cheese-half-moons | Qatayef | Cheese | 1 | 3 |
 | qatayef-fried-walnut-cinnamon-half-moons | Qatayef | Walnut | 1 | 3 |
+| quick-frozen-watermelon-granita | Granita | Watermelon | 1 | 3 |
 | quick-tomato-paste-ketchup | Ketchup | Classic | 1 | 3 |
 | rainbow-fruit-salad-lime-mint | Fruit salad | Classic | 3 | 5 |
 | rasgulla-chenna-dumplings-cardamom-syrup | Rasgulla | Classic | 1 | 3 |
@@ -983,10 +992,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | raspberry-cream-cheese-danish-pastries | Danish | Classic | 4 | 6 |
 | raspberry-custard-ice-cream | Custard-base (French) | Raspberry | 1 | 3 |
 | raspberry-glazed-laminated-cronut-style-doughnuts | Cronut-style laminated | Classic | 1 | 3 |
+| raspberry-granita-seedless | Granita | Raspberry | 1 | 3 |
 | raspberry-jam-filled-berliner-doughnuts | Filled (Berliner/bomboloni/jam) | Classic | 2 | 4 |
 | raspberry-lemon-mini-muffins-drizzle | American muffin (blueberry style, muffin method) | Raspberry & lemon | 1 | 3 |
 | raspberry-lime-iced-tea | Iced tea | Raspberry | 1 | 3 |
 | raspberry-macarons-raspberry-buttercream | Macarons | Raspberry | 2 | 4 |
+| raspberry-rose-water-granita | Granita | Rose | 1 | 3 |
 | raspberry-shrub-cider-vinegar-soda | Shrubs | Classic | 2 | 4 |
 | raspberry-streusel-bars | Bars (magic bars, millionaire's shortbread) | Raspberry | 1 | 3 |
 | raspberry-thumbprint-cookies | Thumbprints | Raspberry | 3 | 5 |
@@ -1249,6 +1260,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tiropita-feta-filo-cheese-pie | Tiropita | Classic | 1 | 3 |
 | toasted-coconut-cream-pie | Cream pie (banana, coconut) | Coconut | 2 | 4 |
 | toasted-coconut-custard-ice-cream | Custard-base (French) | Coconut | 1 | 3 |
+| toasted-coconut-lychee-lime-granita | Granita | Coconut, lychee & lime | 1 | 3 |
 | toasted-farro-olive-oil-parsley | Farro | Classic | 2 | 4 |
 | toasted-marshmallow-brownies | Brownie (fudgy or cakey) | Marshmallow | 1 | 3 |
 | toasted-walnut-brown-sugar-custard-ice-cream | Custard-base (French) | Walnut | 1 | 3 |

@@ -1,0 +1,138 @@
+{
+  "slug": "toasted-coconut-lychee-lime-granita",
+  "title": "Toasted Coconut, Lychee and Lime Granita",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "granita",
+  "dish_title": "Granita",
+  "flavour": "Coconut, lychee & lime",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "strawberry-granita-fork-scraped",
+  "changes_from_base": "Toasted coconut, canned lychees, coconut milk and lime replace the strawberry purée.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A refreshing tropical ice treat combining fragrant toasted coconut with sweet lychee and zesty lime for a light, fluffy texture.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "frying pan",
+    "blender",
+    "fine sieve",
+    "spatula",
+    "33 x 23 cm dish",
+    "fork",
+    "chilled glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Granita",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsweetened desiccated coconut"
+    },
+    {
+      "group": "Granita",
+      "qty": 1,
+      "unit": "pc",
+      "item": "can lychees in syrup (about 565 g), not drained"
+    },
+    {
+      "group": "Granita",
+      "qty": 120,
+      "unit": "ml",
+      "item": "canned coconut milk, well shaken"
+    },
+    {
+      "group": "Granita",
+      "qty": 120,
+      "unit": "ml",
+      "item": "coconut water"
+    },
+    {
+      "group": "Granita",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Granita",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "finely grated lime zest, plus extra to serve"
+    },
+    {
+      "group": "Granita",
+      "qty": 60,
+      "unit": "ml",
+      "item": "lime juice (about 3 limes)"
+    },
+    {
+      "group": "Granita",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast",
+      "text": "Toast 40 g desiccated coconut in a dry frying pan over medium-low heat for 4-5 min until golden. Keep it moving so it browns evenly and smells fragrant."
+    },
+    {
+      "title": "Blend",
+      "text": "Put the toasted coconut, 565 g lychees with their syrup, 120 ml coconut milk, 120 ml coconut water, 100 g sugar, 60 ml lime juice and ¼ tsp salt into a blender. Process for 1 min until the mixture is completely smooth."
+    },
+    {
+      "title": "Strain",
+      "text": "Pour the liquid through a fine sieve into a 33 x 23 cm dish, using a spatula to press hard on the solids. Discard the pulp and stir 2 tsp lime zest into the strained liquid."
+    },
+    {
+      "title": "First freeze",
+      "text": "Place the dish uncovered in the freezer for about 1 h. Wait until the edges are frozen but the centre is still slushy."
+    },
+    {
+      "title": "Scrape",
+      "text": "Scrape the frozen edges with a fork and stir the ice crystals into the middle. Repeat this every hour for 3-4 h until the mixture is light and fluffy."
+    },
+    {
+      "title": "Serve",
+      "text": "Give the granita a final scrape with the fork to break up any large chunks. Spoon into chilled glasses and garnish with extra lime zest to serve."
+    }
+  ],
+  "tips": [
+    "Use fresh lime zest for the brightest citrus aroma.",
+    "Ensure the coconut milk is well shaken before measuring.",
+    "Chill your serving glasses in the freezer beforehand to prevent the ice from melting too quickly."
+  ],
+  "storage": "Keep the granita covered in the freezer for up to 1 week and use a fork to fluff the crystals before serving.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 197,
+    "protein_g": 1.2,
+    "carbs_g": 35.7,
+    "sugar_g": 32.7,
+    "free_sugar_g": 31.9,
+    "fat_g": 6.8,
+    "satfat_g": 5.8,
+    "salt_g": 0.31,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale creamy coconut and lychee granita in a glass with lime zest on top.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

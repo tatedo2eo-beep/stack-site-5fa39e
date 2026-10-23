@@ -1,0 +1,131 @@
+{
+  "slug": "pomegranate-rose-mint-granita",
+  "title": "Pomegranate, Rose and Mint Granita",
+  "category": "desserts",
+  "cuisine": "Middle Eastern",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "granita",
+  "dish_title": "Granita",
+  "flavour": "Pomegranate",
+  "flavour_order": 11,
+  "access": "premium",
+  "base_recipe": "strawberry-granita-fork-scraped",
+  "changes_from_base": "Pomegranate juice with a mint syrup and rose water replaces the strawberry purée.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A refreshing frozen dessert combining tart pomegranate juice with delicate floral notes and a hint of fresh mint.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "sieve",
+    "large bowl",
+    "whisk",
+    "shallow freezer container",
+    "fork",
+    "chilled glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Granita",
+      "qty": 90,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Granita",
+      "qty": 100,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Granita",
+      "qty": 3,
+      "unit": "pc",
+      "item": "mint sprigs (about 5 g)"
+    },
+    {
+      "group": "Granita",
+      "qty": 400,
+      "unit": "ml",
+      "item": "100% pomegranate juice"
+    },
+    {
+      "group": "Granita",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "rose water"
+    },
+    {
+      "group": "To serve",
+      "qty": 40,
+      "unit": "g",
+      "item": "pomegranate seeds, to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "dried edible rose petals, food-grade and unsprayed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Syrup",
+      "text": "Combine 90 g caster sugar and 100 ml water in a small saucepan. Heat while stirring until the sugar is dissolved and the liquid reaches a boil."
+    },
+    {
+      "title": "Infuse",
+      "text": "Add 3 sprigs of mint and simmer for 1 min on medium-low heat. Let the mixture cool for about 20 min, then strain through a sieve into a large bowl, pressing on the mint."
+    },
+    {
+      "title": "Combine",
+      "text": "Whisk 400 ml pomegranate juice and ½ tsp rose water into the mint syrup. Pour the liquid into a shallow freezer container."
+    },
+    {
+      "title": "First freeze",
+      "text": "Place the container in the freezer for 2-3 h until the edges are solid. Break up the ice with a fork and return to the freezer."
+    },
+    {
+      "title": "Scrape",
+      "text": "Freeze for another 2 h and fork again to create crystals. Repeat this for 8-10 h in total until the mixture is completely frozen into fine shards."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon the granita into small glasses. Scatter the 40 g pomegranate seeds and 2 tsp dried edible rose petals over the portions."
+    }
+  ],
+  "tips": [
+    "Use a shallower container to help the mixture freeze into crystals more quickly.",
+    "Ensure you use only food-grade unsprayed rose petals for decoration.",
+    "Try using different varieties of mint for a subtle change in the aromatic profile."
+  ],
+  "storage": "Keep the container covered in the freezer for up to 1 week and use a fork to break up the crystals before serving.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 101,
+    "protein_g": 0.2,
+    "carbs_g": 25.3,
+    "sugar_g": 24.5,
+    "free_sugar_g": 23.6,
+    "fat_g": 0.3,
+    "satfat_g": 0.1,
+    "salt_g": 0.02,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Ruby pomegranate granita topped with pomegranate seeds and dried rose petals.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

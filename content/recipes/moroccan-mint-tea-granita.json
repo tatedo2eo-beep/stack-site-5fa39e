@@ -1,0 +1,118 @@
+{
+  "slug": "moroccan-mint-tea-granita",
+  "title": "Moroccan Mint Tea Granita",
+  "category": "desserts",
+  "cuisine": "Moroccan",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "granita",
+  "dish_title": "Granita",
+  "flavour": "Mint",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "strawberry-granita-fork-scraped",
+  "changes_from_base": "Sweet mint tea made with gunpowder green tea and orange blossom water replaces the strawberry purée.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A refreshing frozen treat infused with gunpowder green tea, fresh mint and a hint of floral orange blossom water.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "fine sieve",
+    "jug",
+    "20 cm square metal or glass dish",
+    "fork",
+    "chilled glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Granita",
+      "qty": 720,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Granita",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "loose gunpowder green tea (about 6 g)"
+    },
+    {
+      "group": "Granita",
+      "qty": 75,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Granita",
+      "qty": 30,
+      "unit": "g",
+      "item": "fresh mint leaves, roughly chopped, plus a few to serve"
+    },
+    {
+      "group": "Granita",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "orange blossom water (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse",
+      "text": "Bring 720 ml water to the boil in a saucepan. Add 6 g green tea, 30 g chopped mint and 75 g sugar, then simmer for 1 min."
+    },
+    {
+      "title": "Steep",
+      "text": "Remove the pan from the heat and leave the mixture to steep for 12 min. Strain through a fine sieve into a jug and discard the leaves."
+    },
+    {
+      "title": "Cool",
+      "text": "Leave to cool at room temperature for about 1 h, or speed it up by setting the jug in iced water for 25 min. Stir in 1 tsp orange blossom water if using."
+    },
+    {
+      "title": "Initial freeze",
+      "text": "Pour the liquid into a 20 cm square dish and place in the freezer for about 1 h until the edges start to firm up."
+    },
+    {
+      "title": "Scrape",
+      "text": "Use a fork to scrape the ice every 30 min for 2-3 h. Continue until you have a tray of fluffy crystals."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon the crystals into glasses and serve straight away with fresh mint leaves."
+    }
+  ],
+  "tips": [
+    "Use a metal dish to help the mixture freeze more quickly and evenly.",
+    "Ensure the tea is strained thoroughly to keep the texture of the crystals smooth.",
+    "Garnish with extra mint leaves for a bright and aromatic finish."
+  ],
+  "storage": "Keep the granita covered in the freezer for up to 1 week and use a fork to break up the crystals before serving.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 52,
+    "protein_g": 0.2,
+    "carbs_g": 13.2,
+    "sugar_g": 12.5,
+    "free_sugar_g": 12.5,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.02,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale golden-green mint tea granita in a small glass with fresh mint leaves.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

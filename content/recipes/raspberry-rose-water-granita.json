@@ -1,0 +1,118 @@
+{
+  "slug": "raspberry-rose-water-granita",
+  "title": "Raspberry and Rose Water Granita",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "granita",
+  "dish_title": "Granita",
+  "flavour": "Rose",
+  "flavour_order": 12,
+  "access": "premium",
+  "base_recipe": "strawberry-granita-fork-scraped",
+  "changes_from_base": "Raspberries with a small syrup and rose water replace the strawberries; the purée is sieved and chilled before freezing.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Refreshing raspberries and delicate rose water are frozen and scraped into a light, icy dessert perfect for warm afternoons.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "blender",
+    "fine sieve",
+    "bowl",
+    "stick blender",
+    "23 x 28 cm dish",
+    "fork",
+    "chilled glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Granita",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Granita",
+      "qty": 65,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Granita",
+      "qty": 680,
+      "unit": "g",
+      "item": "raspberries"
+    },
+    {
+      "group": "Granita",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "rose water"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Syrup",
+      "text": "Combine 60 ml water and 65 g caster sugar in a small saucepan. Bring to the boil and simmer until dissolved, then leave to cool."
+    },
+    {
+      "title": "Blend",
+      "text": "Place 680 g raspberries in a blender with the cooled syrup and ½ tsp rose water. Process until the mixture is smooth."
+    },
+    {
+      "title": "Strain",
+      "text": "Pass the raspberry puree through a fine sieve into a bowl to remove the seeds. Chill the mixture for 2 h or overnight."
+    },
+    {
+      "title": "Prepare",
+      "text": "Chill a 23 x 28 cm dish in the freezer. Use a stick blender to process the chilled raspberry liquid for 30 seconds before pouring it into the cold dish."
+    },
+    {
+      "title": "First freeze",
+      "text": "Place the dish in the freezer. Every 30 min, use a fork to scrape the ice crystals from the edges to the centre."
+    },
+    {
+      "title": "Scrape",
+      "text": "Continue scraping every 30 min until the mixture is evenly frozen but not solid. If it sets too hard, cut into chunks and pulse in a food processor."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon the light raspberry crystals into chilled glasses. Soften the granita in the fridge for 15 min before serving if it has become too firm."
+    }
+  ],
+  "tips": [
+    "Use the freshest raspberries possible for the most vibrant colour and flavour.",
+    "Ensure the dish is thoroughly chilled before adding the liquid to speed up the freezing process.",
+    "Adjust the rose water carefully as the floral notes can become very strong."
+  ],
+  "storage": "Keep the granita covered in the freezer for up to 1 week and use a fork to fluff the crystals before serving.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 101,
+    "protein_g": 1.4,
+    "carbs_g": 24.4,
+    "sugar_g": 15.8,
+    "free_sugar_g": 10.8,
+    "fat_g": 0.7,
+    "satfat_g": 0.0,
+    "salt_g": 0.0,
+    "fibre_g": 7.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Soft pink raspberry and rose granita in a chilled glass.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

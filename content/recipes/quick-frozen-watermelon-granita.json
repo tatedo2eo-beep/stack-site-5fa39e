@@ -1,0 +1,105 @@
+{
+  "slug": "quick-frozen-watermelon-granita",
+  "title": "Quick Watermelon Granita",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "granita",
+  "dish_title": "Granita",
+  "flavour": "Watermelon",
+  "flavour_order": 10,
+  "access": "premium",
+  "base_recipe": "strawberry-granita-fork-scraped",
+  "changes_from_base": "Frozen watermelon chunks blended with a little sugar replace the strawberry purée; no syrup or water.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A refreshing frozen treat made by blending watermelon with sugar and lemon before freezing into icy crystals.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "tray lined with baking paper",
+    "blender",
+    "shallow glass or ceramic dish",
+    "fork",
+    "chilled glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Granita",
+      "qty": 450,
+      "unit": "g",
+      "item": "watermelon flesh (rind removed), cut in small chunks"
+    },
+    {
+      "group": "Granita",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Granita",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prep fruit",
+      "text": "Remove the rind and cut 450 g watermelon flesh into small chunks. Spread the chunks on a tray lined with baking paper."
+    },
+    {
+      "title": "Initial freeze",
+      "text": "Place the tray in the freezer for about 2 h until the fruit is solid."
+    },
+    {
+      "title": "Blend",
+      "text": "Put the frozen chunks into a blender with 25 g caster sugar and 2 tbsp lemon juice. Process the mixture until it becomes liquid."
+    },
+    {
+      "title": "Second freeze",
+      "text": "Pour the liquid into a shallow glass or ceramic dish and return it to the freezer for about 2 h."
+    },
+    {
+      "title": "Scrape",
+      "text": "Use a fork to break up the ice crystals every 30 min during the freezing process."
+    },
+    {
+      "title": "Serve",
+      "text": "Continue until the texture is slushy and crunchy. Spoon the granita into chilled glasses to enjoy immediately."
+    }
+  ],
+  "tips": [
+    "Use a very ripe melon for the best natural flavour.",
+    "Chill the serving glasses beforehand to keep the ice from melting too quickly.",
+    "Adjust the lemon juice to balance the sweetness of the fruit."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week and use a fork or soften before serving.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 60,
+    "protein_g": 0.7,
+    "carbs_g": 15.3,
+    "sugar_g": 13.4,
+    "free_sugar_g": 6.4,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.0,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pink watermelon granita in a glass with a small watermelon wedge.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

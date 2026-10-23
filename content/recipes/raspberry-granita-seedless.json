@@ -1,0 +1,119 @@
+{
+  "slug": "raspberry-granita-seedless",
+  "title": "Seedless Raspberry Granita",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "granita",
+  "dish_title": "Granita",
+  "flavour": "Raspberry",
+  "flavour_order": 8,
+  "access": "premium",
+  "base_recipe": "strawberry-granita-fork-scraped",
+  "changes_from_base": "Raspberries replace the strawberries, with a little more sugar and less lemon.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A refreshing frozen dessert made with fresh raspberries and lemon juice for a bright, tangy finish.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "blender",
+    "fine sieve",
+    "bowl",
+    "33 x 23 cm glass dish",
+    "fork",
+    "chilled glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Granita",
+      "qty": 450,
+      "unit": "g",
+      "item": "fresh or thawed frozen raspberries"
+    },
+    {
+      "group": "Granita",
+      "qty": 180,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Granita",
+      "qty": 110,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Granita",
+      "qty": 45,
+      "unit": "ml",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Granita",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Place 450 g raspberries, 180 ml water, 110 g caster sugar, 45 ml lemon juice and a pinch of salt into the blender. Process for 1-2 min until the mixture is completely smooth."
+    },
+    {
+      "title": "Strain",
+      "text": "Pour the mixture through a fine sieve into a bowl to remove the seeds. Press firmly on the pulp so that all the liquid and flavour comes through."
+    },
+    {
+      "title": "First freeze",
+      "text": "Transfer the liquid into a 33 x 23 cm glass dish. Place the dish uncovered in the freezer for about 1 h."
+    },
+    {
+      "title": "Rake",
+      "text": "Use a fork to rake the frozen edges into the liquid middle. This helps create the signature icy texture of the dessert."
+    },
+    {
+      "title": "Final freeze",
+      "text": "Return to the freezer and repeat the raking every 30-60 min for a further 2-3 h. Mash any large chunks with the fork until the crystals are light and fluffy."
+    },
+    {
+      "title": "Serve",
+      "text": "Give the ice a final rake to loosen it. Pile the red crystals into chilled glasses and eat straight away."
+    }
+  ],
+  "tips": [
+    "Use thawed frozen berries if fresh ones are unavailable.",
+    "Ensure you press the pulp thoroughly to get the best flavour.",
+    "Serve in pre-chilled glasses to prevent the ice from melting too quickly."
+  ],
+  "storage": "Keep the granita covered in the freezer for up to 1 week and use a fork to rake the crystals before serving.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 84,
+    "protein_g": 0.7,
+    "carbs_g": 20.9,
+    "sugar_g": 16.4,
+    "free_sugar_g": 13.9,
+    "fat_g": 0.4,
+    "satfat_g": 0.0,
+    "salt_g": 0.04,
+    "fibre_g": 3.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Bright red raspberry granita crystals in a chilled glass.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

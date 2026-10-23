@@ -1,0 +1,128 @@
+{
+  "slug": "ginger-matcha-honey-granita",
+  "title": "Ginger and Matcha Granita",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "granita",
+  "dish_title": "Granita",
+  "flavour": "Ginger & matcha",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "strawberry-granita-fork-scraped",
+  "changes_from_base": "Green tea steeped with crystallised ginger, matcha and honey replaces the strawberry purée; no sugar.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A refreshing frozen treat combining the warmth of crystallised ginger with the earthy notes of matcha and a bright hint of lemon.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "saucepan with lid",
+    "fine sieve",
+    "small bowl",
+    "whisk",
+    "shallow glass or ceramic dish",
+    "fork",
+    "chilled glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Granita",
+      "qty": 720,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Granita",
+      "qty": 30,
+      "unit": "g",
+      "item": "crystallised ginger, finely chopped"
+    },
+    {
+      "group": "Granita",
+      "qty": 3,
+      "unit": "pc",
+      "item": "green tea bags"
+    },
+    {
+      "group": "Granita",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "matcha powder"
+    },
+    {
+      "group": "Granita",
+      "qty": 80,
+      "unit": "g",
+      "item": "honey"
+    },
+    {
+      "group": "Granita",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse",
+      "text": "Place 720 ml water and 30 g finely chopped crystallised ginger in a saucepan and bring almost to the boil. Add 3 green tea bags, cover with a lid, and remove from the heat to steep for 5 min."
+    },
+    {
+      "title": "Strain",
+      "text": "Pass the liquid through a fine sieve into a bowl, discarding the tea bags and ginger pieces. Ensure the liquid remains warm enough to dissolve the remaining ingredients."
+    },
+    {
+      "title": "Mix matcha",
+      "text": "In a small bowl, whisk 1 tsp matcha powder with 2 tbsp of the warm tea to form a smooth paste. Whisk this paste back into the main batch of tea until fully combined."
+    },
+    {
+      "title": "Sweeten",
+      "text": "Stir in 80 g honey and 2 tbsp lemon juice until dissolved. Taste the mixture to ensure it is fairly sweet, as the flavour dulls slightly once frozen."
+    },
+    {
+      "title": "First freeze",
+      "text": "Cool the liquid completely before pouring it into a shallow glass or ceramic dish. Place the dish in the freezer."
+    },
+    {
+      "title": "Scrape",
+      "text": "Every 30 min, stir the mixture with a fork to create slushy crystals. Continue this process for about 3 h until the texture is consistent throughout."
+    },
+    {
+      "title": "Serve",
+      "text": "If the granita sets too hard, leave it in the fridge for 10-15 min. Fork the ice again to restore the light texture before serving."
+    }
+  ],
+  "tips": [
+    "Use high quality matcha powder for the most vibrant green colour and best flavour.",
+    "Ensure you do not over-steep the tea bags to avoid any unwanted bitterness.",
+    "Serve in chilled glasses to prevent the delicate ice crystals from melting too quickly."
+  ],
+  "storage": "Keep the granita covered in the freezer for up to 1 week and fork the crystals or soften in the fridge before serving.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 48,
+    "protein_g": 0.2,
+    "carbs_g": 12.9,
+    "sugar_g": 12.3,
+    "free_sugar_g": 12.3,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Light green matcha and ginger granita crystals in a chilled glass.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

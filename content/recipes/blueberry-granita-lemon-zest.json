@@ -1,0 +1,124 @@
+{
+  "slug": "blueberry-granita-lemon-zest",
+  "title": "Blueberry Granita with Lemon Zest",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "granita",
+  "dish_title": "Granita",
+  "flavour": "Blueberry",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "strawberry-granita-fork-scraped",
+  "changes_from_base": "Blueberries and lemon zest replace the strawberries.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A refreshing violet ice treat made with fresh blueberries and bright citrus notes for a crisp finish.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "blender",
+    "fine sieve",
+    "33 x 23 cm glass dish",
+    "fork",
+    "chilled glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Granita",
+      "qty": 450,
+      "unit": "g",
+      "item": "fresh or thawed frozen blueberries"
+    },
+    {
+      "group": "Granita",
+      "qty": 180,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Granita",
+      "qty": 90,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Granita",
+      "qty": 60,
+      "unit": "ml",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Granita",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Granita",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Place 450 g blueberries, 180 ml water, 90 g caster sugar, 60 ml lemon juice and a pinch of fine salt in the blender. Process on high speed until the mixture is very smooth."
+    },
+    {
+      "title": "Strain",
+      "text": "Sieve the purée straight into a 33 x 23 cm glass dish. Press down on the skins to get all the juice through, then stir in 1 tsp lemon zest."
+    },
+    {
+      "title": "First freeze",
+      "text": "Place the dish uncovered in the freezer for about 1 h until the edges begin to set."
+    },
+    {
+      "title": "Scrape",
+      "text": "Use a fork to scrape the frozen edges and stir them into the centre of the dish."
+    },
+    {
+      "title": "Repeat",
+      "text": "Continue to scrape and stir the mixture every 30-60 min for 2-3 h to create icy crystals."
+    },
+    {
+      "title": "Serve",
+      "text": "Fork the deep violet ice once more to fluff it up. Spoon the granita into chilled glasses and serve immediately."
+    }
+  ],
+  "tips": [
+    "Use fresh or thawed frozen blueberries depending on what is available.",
+    "Ensure the glass dish is the correct size to help the mixture freeze evenly.",
+    "Chill your serving glasses in advance to prevent the ice from melting too quickly."
+  ],
+  "storage": "Keep the granita covered in the freezer for up to 1 week and use a fork to break up the crystals before serving.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 77,
+    "protein_g": 0.4,
+    "carbs_g": 20.0,
+    "sugar_g": 17.0,
+    "free_sugar_g": 11.4,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.04,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Deep violet blueberry granita in a glass with a little lemon zest.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

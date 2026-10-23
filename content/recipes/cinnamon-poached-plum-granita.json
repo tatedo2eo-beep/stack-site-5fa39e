@@ -1,0 +1,118 @@
+{
+  "slug": "cinnamon-poached-plum-granita",
+  "title": "Cinnamon Poached Plum Granita",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "granita",
+  "dish_title": "Granita",
+  "flavour": "Plum",
+  "flavour_order": 7,
+  "access": "premium",
+  "base_recipe": "strawberry-granita-fork-scraped",
+  "changes_from_base": "Plums poached with cinnamon replace the raw strawberries, and the purée is frozen in ice-cube trays and pulsed instead of scraped.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A refreshing frozen dessert featuring tender plums poached with cinnamon and lemon for a bright, fruity flavour profile.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "food processor",
+    "fine sieve",
+    "2 ice-cube trays",
+    "freezer bag",
+    "chilled glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Granita",
+      "qty": 450,
+      "unit": "g",
+      "item": "ripe plums, stoned and thinly sliced"
+    },
+    {
+      "group": "Granita",
+      "qty": 300,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Granita",
+      "qty": 70,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Granita",
+      "qty": 1,
+      "unit": "pc",
+      "item": "cinnamon stick"
+    },
+    {
+      "group": "Granita",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simmer",
+      "text": "Place 450 g sliced plums, 300 ml water, 70 g caster sugar and 1 cinnamon stick in a saucepan and bring to the boil. Simmer for about 5 min until the fruit is tender."
+    },
+    {
+      "title": "Flavour",
+      "text": "Remove the pan from the heat and take out the cinnamon stick. Stir in 1 tbsp lemon juice and allow the mixture to cool slightly."
+    },
+    {
+      "title": "Blend",
+      "text": "Transfer the mixture to a food processor and blend until it is completely smooth. Pass the liquid through a fine sieve and discard the skins."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pour the liquid into ice-cube trays and place in the freezer for at least 2 h. Once solid, you can transfer the cubes into a freezer bag."
+    },
+    {
+      "title": "Process",
+      "text": "Place a single layer of frozen cubes into the food processor. Pulse 10-12 times until there are no large chunks remaining."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon the icy mixture into chilled glasses and serve at once. Repeat the pulsing process for the remaining cubes in batches."
+    }
+  ],
+  "tips": [
+    "Use the ripest plums available for the best natural sweetness and deep colour.",
+    "Pulse the cubes in small batches to ensure a consistent icy texture throughout.",
+    "Serve in pre-chilled bowls to prevent the granita from melting too quickly."
+  ],
+  "storage": "Keep the frozen cubes covered in the freezer for up to 1 week and pulse them in the processor just before serving.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 120,
+    "protein_g": 0.8,
+    "carbs_g": 30.6,
+    "sugar_g": 28.7,
+    "free_sugar_g": 17.6,
+    "fat_g": 0.3,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Rosy plum granita in a chilled glass beside a cinnamon stick.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
