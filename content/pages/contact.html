@@ -1,27 +1,17 @@
 <h1>Contact</h1>
 <p class="draft-note"><strong>Placeholder.</strong> The address below is a placeholder and does not reach anyone yet. The real address will be added before launch.</p>
 <p class="lead">Questions, corrections, or a recipe that didn't turn out right: email us.</p>
-<p class="contact-email"><a href="mailto:hello@example.com">hello@example.com</a> <span class="badge">Placeholder</span></p>
+<p class="contact-email"><a href="mailto:[CONTACT EMAIL]">[CONTACT EMAIL]</a> <span class="badge">Placeholder</span></p>
 <h2>Before you write</h2>
 <ul>
 <li>For allergies or medical diets, check product labels and ask a professional; we can't give individual advice.</li>
 <li>Found a mistake in an amount, time or nutrition value? Tell us the recipe name and we'll check it.</li>
 <li>Business and advertising enquiries: same address.</li>
 </ul>
-<h2>Write to us</h2>
-<p class="js-only">This form opens your own email app with the message filled in; nothing is sent or stored by this website. You can also just email the address above.</p>
-<form id="contact-form" class="cform js-only" novalidate>
-  <div><label for="c-name">Your name</label><input id="c-name" name="name" type="text" autocomplete="name" required maxlength="80" aria-describedby="c-name-err"><p class="err" id="c-name-err" aria-live="polite"></p></div>
-  <div><label for="c-email">Your email</label><input id="c-email" name="email" type="email" autocomplete="email" required maxlength="120" aria-describedby="c-email-err"><p class="err" id="c-email-err" aria-live="polite"></p></div>
-  <div><label for="c-msg">Message</label><textarea id="c-msg" name="message" required minlength="10" maxlength="2000" aria-describedby="c-msg-err"></textarea><p class="err" id="c-msg-err" aria-live="polite"></p></div>
-  <div class="hp" aria-hidden="true"><label for="c-web">Leave this field empty</label><input id="c-web" name="website" type="text" tabindex="-1" autocomplete="off"></div>
-  <p><button type="submit" class="btn">Open in my email app</button></p>
-  <p class="status" id="c-status" role="status"></p>
-</form>
 <script>
 (function(){
   var f = document.getElementById('contact-form'); if (!f) return;
-  var to = 'hello@example.com', t0 = Date.now();
+  var to = '[CONTACT EMAIL]', t0 = Date.now();
   var rules = {
     'c-name': function(v){ return v.trim().length < 2 ? 'Please enter your name.' : ''; },
     'c-email': function(v){ return !/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v.trim()) ? 'Please enter a valid email address, like name@example.com.' : ''; },

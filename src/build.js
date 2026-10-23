@@ -328,8 +328,10 @@ function placeholderSvg(label) {
     emit(P.simplePage(ctx, 'macro-meals/', 'Macro Meals (coming soon)', frag('macro-meals.html'), 'Macro Meals: high-protein recipes with at least 10 g protein per 100 kcal. Coming soon.'));
     emit(P.simplePage(ctx, 'about/', 'About', frag('about.html'), `About ${cfg.brand}: an independent recipe site with metric recipes, nutrition per serving and EU allergens, written for this site.`));
     emit(P.simplePage(ctx, 'contact/', 'Contact', frag('contact.html'), `Contact ${cfg.brand}: questions, corrections or a recipe that didn't work. Email us or use the contact form.`));
-    emit(P.simplePage(ctx, 'privacy/', 'Privacy policy (draft)', frag('privacy.html'), `How ${cfg.brand} handles your data: no cookies today, preferences kept on your device, and our plans for ads and analytics.`));
-    emit(P.simplePage(ctx, 'terms/', 'Terms of use (draft)', frag('terms.html'), `The terms for using ${cfg.brand}: personal use of recipes, copyright, nutrition and allergen estimates, food safety and planned features.`));
+    emit(P.simplePage(ctx, 'privacy/', 'Privacy Policy', frag('privacy.html'), 'How we handle your data: cookies, Google AdSense and third-party ads, analytics, your GDPR rights and children\'s privacy.'));
+    emit(P.simplePage(ctx, 'terms/', 'Terms of Use', frag('terms.html'), `The terms for using ${cfg.brand}: personal use of recipes, copyright, nutrition and allergen estimates, food safety and planned features.`));
+    emit(P.simplePage(ctx, 'cookie-policy/', 'Cookie Policy', frag('cookie-policy.html'), 'Which cookies and local storage this site uses, what they do, and how to accept, reject or customise them.'));
+    emit(P.simplePage(ctx, 'refund-policy/', 'Refund Policy', frag('refund-policy.html'), 'Cancellation and refund terms for the $4.99/month and $39.99/year subscriptions, including the EU 14-day withdrawal right.'));
     emit(P.simplePage(ctx, 'login/', 'Sign in', frag('login.html'), `Sign in to ${cfg.brand}. Accounts and Premium are coming soon.`));
     emit(P.simplePage(ctx, '404.html', 'Page not found', frag('404.html'), 'Page not found.'), '404.html');
     pages[pages.length - 1].loc = null;

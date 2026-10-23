@@ -1,4 +1,5 @@
 "use strict";
+const SEEN_T = new Set(); // keeps <title> unique across dish pages
 const { esc, formatQty, iso, mins } = require('../lib/format');
 const { ad } = require('./layout');
 const { ICON } = require('./designs');
@@ -218,7 +219,8 @@ function dishPage(ctx, d, ch) {
   const h = { cr: crumbs(ctx, [['chapters/', t.ui.chapters], [`chapter/${ch.key}/`, t.chapters[ch.key].name], [null, d.title]]), num: num2(nF), name: esc(d.title), dek: esc(d.intro), cov: d.cover ? dishCoverUrl(ctx, d, 1200) : '', chips: `<span class="fl">${nF} ${nF === 1 ? t.ui.flavour : t.ui.flavours}</span>${d.flavours.map(r => `<a class="chip" href="${u(r.url)}">${r.access === 'premium' ? LOCK + ' ' : ''}${esc(r.flavour)}</a>`).join('')}`, runner: esc(t.chapters[ch.key].name), gridTitle: t.ui.chooseFlavour, side: `${nF} ${nF === 1 ? t.ui.flavour : t.ui.flavours}`, count: nF, countLabel: 'Flavours', altFb: d.title };
   const g = `<div class="rgrid flavours">${d.flavours.map(r => flavourCard(ctx, r)).join('')}</div>${d.flavours.some(r => r.access === 'premium') ? `<p class="prem-note">${LOCK} <span>Flavours marked with a lock are part of <a href="${u('plans/')}">Premium</a> (coming soon). The first flavour of every dish is free.</span></p>` : ''}`;
   const below = others.length ? `<section class="sec"><div class="wrap"><div class="sh2"><h2>${t.ui.otherDishes} ${esc(t.chapters[ch.key].name)}</h2></div><div class="rgrid dishes">${others.map(x => dishCard(ctx, x)).join('')}</div></div></section>` : '';
-  return { path: `dish/${d.slug}/`, title: `${d.title}: ${nF} ${nF === 1 ? t.ui.flavour : t.ui.flavours}`, description: d.intro, views: listPageViews(ctx, h, g, below, adw(ctx, 1), adw(ctx, 2)), image: d.cover && d.cover.img && d.cover.img.w1200, preload: d.cover ? dishCoverUrl(ctx, d, 1200) : null, navKey: 'chapters' };
+  let dt = `${d.title}: ${nF} ${nF === 1 ? t.ui.flavour : t.ui.flavours}`; if (SEEN_T.has(dt)) { const ck = d.chapter || d.book_chapter; dt += ` (${(ck && t.chapters[ck] && t.chapters[ck].name) || d.slug})`; } SEEN_T.add(dt);
+  return { path: `dish/${d.slug}/`, title: dt, description: d.intro, views: listPageViews(ctx, h, g, below, adw(ctx, 1), adw(ctx, 2)), image: d.cover && d.cover.img && d.cover.img.w1200, preload: d.cover ? dishCoverUrl(ctx, d, 1200) : null, navKey: 'chapters' };
 }
 // chapter index (chapterGroups): book contents for B, picture tiles for the rest
 function chapterGroups(ctx, d, chapters) {
