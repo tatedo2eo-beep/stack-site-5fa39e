@@ -324,7 +324,6 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | malloreddus-saffron-tomato | Malloreddus | Classic | 2 | 4 |
 | mango-lassi-cardamom-pistachio | Lassi | Mango | 2 | 4 |
 | marble-pound-cake | Pound cake | Marble | 3 | 5 |
-| massaman-chicken-curry-potatoes-toasted-whole-spices | Massaman | Classic | 2 | 4 |
 | matcha-chiffon-cake | Chiffon | Matcha | 2 | 4 |
 | matzah-ball-soup-chicken-dill | Matzah ball soup | Classic | 2 | 4 |
 | mediterranean-chicken-wraps-feta-peppers-olives | Wraps | Classic | 2 | 4 |
@@ -543,7 +542,6 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | thai-iced-tea-condensed-milk-star-anise | Thai tea | Classic | 2 | 4 |
 | thai-thick-coconut-red-curry-beef-lime-leaf-peanuts | Panang curry | Beef | 2 | 4 |
 | thai-yellow-coconut-curry-chicken-potatoes-onion | Thai yellow curry (kaeng kari) | Chicken | 2 | 4 |
-| thai-yellow-coconut-curry-prawns-potatoes-crispy-shallots | Thai yellow curry (kaeng kari) | Classic | 2 | 4 |
 | thick-acai-bowl-banana-berries-granola | Açaí bowl | Classic | 2 | 4 |
 | thick-chocolate-milkshake-whipped-cream | Milkshakes | Classic | 2 | 4 |
 | thin-french-crepes-sugar-lemon | Crêpes | Classic | 2 | 4 |
