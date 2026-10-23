@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Reduced maple syrup sweetens it on its own; no sugar or vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic custard ice cream sweetened only with maple syrup, reduced first for a deeper, almost toffee-like flavour. No sugar or vanilla needed.",
   "servings": 8,
   "prep_min": 20,
@@ -117,8 +116,8 @@
     "fibre_g": 0.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "reduced-maple-syrup-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of light caramel-beige maple syrup custard ice cream in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

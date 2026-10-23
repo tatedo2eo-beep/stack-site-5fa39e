@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-ice-pops",
   "changes_from_base": "A cooked, sieved raspberry purée whisked into sweetened Greek yoghurt and cream replaces the raw strawberry and jam mix.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Tangy strained yoghurt ice pops rippled through with a cooked raspberry purée.",
   "servings": 6,
   "prep_min": 15,
@@ -140,7 +139,7 @@
     "fibre_g": 2.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "raspberry-yoghurt-ice-pops.jpg",
   "image_alt": "Pale pink ice pops on sticks with flecks of raspberry running through a creamy yoghurt base.",
   "inspired_by": [
     "Serious Eats"

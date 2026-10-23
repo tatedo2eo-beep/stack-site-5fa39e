@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-ice-pops",
   "changes_from_base": "Sieved watermelon frozen to a slush with chocolate-chip \"seeds\" replaces the strawberry purée, topped with a lime sherbet \"rind\" in paper tubs.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Watermelon ice pops studded with tiny chocolate chips and finished with a pale sherbet rind to mimic the look of a watermelon slice.",
   "servings": 12,
   "prep_min": 25,
@@ -111,8 +110,8 @@
     "fibre_g": 1.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Watermelon-shaped ice pops with a pink chocolate-chip centre and a pale rind layer around the edge.",
+  "image": "watermelon-ice-pops-lime-rind.jpg",
+  "image_alt": "Watermelon-shaped ice pops with a pink chocolate-chip centre and a pale green lime sherbet rind around the edge.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

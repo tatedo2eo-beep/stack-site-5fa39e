@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "All-cream custard with sieved raspberry purée stirred in; no milk or vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Based on our classic custard but made with cream alone, then mixed with a sweet-sharp raspberry purée that is sieved to remove the seeds. Vivid pink and full of fruit.",
   "servings": 8,
   "prep_min": 20,
@@ -135,8 +134,8 @@
     "fibre_g": 3.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "raspberry-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pink raspberry custard ice cream in a black bowl beside three fresh raspberries.",
   "inspired_by": [
     "NYT Cooking"
   ]

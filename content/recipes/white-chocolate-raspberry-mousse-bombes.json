@@ -13,7 +13,6 @@
   "base_recipe": "pistachio-cherry-bombe",
   "changes_from_base": "Individual white-chocolate shells replace the pistachio biscuit, filled with white chocolate mousse and frozen raspberries on a cocoa cake base, served on raspberry sauce.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Individual white chocolate domes hide a raspberry-studded mousse and a disc of cocoa cake, served over a tart raspberry sauce.",
   "servings": 6,
   "prep_min": 90,
@@ -217,8 +216,8 @@
     "fibre_g": 2.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "An individual domed white chocolate shell filled with pale mousse and raspberries, set on a disc of dark cake over a pool of raspberry sauce.",
+  "image": "white-chocolate-raspberry-mousse-bombes.jpg",
+  "image_alt": "A white chocolate dome cut open to show pale mousse and raspberries, set on a disc of dark cake beside a swipe of raspberry sauce.",
   "inspired_by": [
     "Serious Eats"
   ]

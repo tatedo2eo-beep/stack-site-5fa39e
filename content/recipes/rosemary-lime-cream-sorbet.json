@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "A rosemary-infused milk and cream base sharpened with lime replaces the fruit purée, so this sorbet is creamy rather than fruity.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "An unusual creamy sorbet: milk and cream infused with rosemary, then sharpened with plenty of lime.",
   "servings": 8,
   "prep_min": 15,
@@ -115,7 +114,7 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "rosemary-lime-cream-sorbet.jpg",
   "image_alt": "Creamy white rosemary and lime sorbet with a small rosemary sprig and lime zest.",
   "inspired_by": [
     "NYT Cooking"

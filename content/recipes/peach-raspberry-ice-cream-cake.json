@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "A thin vanilla sponge cut into strips and layered in a loaf tin with a no-churn peach ice cream and mashed raspberries, instead of chocolate sponge and two ice creams.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Thin layers of sponge are stacked with peach and raspberry ripple cream, then frozen into a loaf and finished with a pile of fresh peach and raspberry on top.",
   "servings": 11,
   "prep_min": 60,
@@ -215,8 +214,8 @@
     "fibre_g": 2.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A sliced loaf-shaped frozen cake with layers of pink fruit cream and thin sponge, topped with sliced peach and fresh raspberries.",
+  "image": "peach-raspberry-ice-cream-cake.jpg",
+  "image_alt": "A slice of frozen cake with layers of pink fruit cream and thin sponge, topped with sliced peach and fresh raspberries.",
   "inspired_by": [
     "NYT Cooking"
   ]

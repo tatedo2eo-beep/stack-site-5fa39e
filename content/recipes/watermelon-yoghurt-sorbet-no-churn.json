@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "Frozen watermelon chunks processed with yoghurt, a little sugar and lemon replace the mango purée and syrup; no ice-cream maker.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "No machine needed: frozen watermelon chunks whizzed with a little yoghurt, sugar and lemon make an instant soft pink sorbet.",
   "servings": 6,
   "prep_min": 15,
@@ -89,8 +88,8 @@
     "fibre_g": 0.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pink watermelon sorbet scooped from a shallow dish, with a wedge of watermelon.",
+  "image": "watermelon-yoghurt-sorbet-no-churn.jpg",
+  "image_alt": "Pink watermelon sorbet scooped in a shallow dish, with a wedge of watermelon.",
   "inspired_by": [
     "NYT Cooking"
   ]

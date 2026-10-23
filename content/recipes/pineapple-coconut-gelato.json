@@ -13,7 +13,6 @@
   "base_recipe": "pistachio-gelato-steeped-pistachio-milk",
   "changes_from_base": "Reduced crushed pineapple and coconut milk replace the pistachio milk, with milk powder for body and a lighter 3-yolk custard; no cornflour.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A tropical gelato of reduced pineapple and coconut milk, set with a light yolk custard and finished with toasted coconut.",
   "servings": 8,
   "prep_min": 20,
@@ -137,8 +136,8 @@
     "fibre_g": 1.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Creamy pale-yellow pineapple gelato scattered with golden toasted coconut.",
+  "image": "pineapple-coconut-gelato.jpg",
+  "image_alt": "Two scoops of pale yellow pineapple coconut gelato scattered with toasted coconut in a black bowl.",
   "inspired_by": [
     "King Arthur Baking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "A no-bake loaf of graham crackers brushed with coffee, layered with chocolate mousse and whipped cream, then covered in blowtorched Italian meringue, instead of sponge and ice cream.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A towering frozen take on the campfire classic, with silky chocolate mousse, cream and coffee-soaked crackers finished under a cloud of toasted meringue.",
   "servings": 8,
   "prep_min": 60,
@@ -186,7 +185,7 @@
     "fibre_g": 3.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "smores-icebox-cake-toasted-meringue.jpg",
   "image_alt": "A loaf-shaped frozen cake with layers of chocolate mousse and crackers, topped with swirls of golden toasted meringue.",
   "inspired_by": [
     "Serious Eats"

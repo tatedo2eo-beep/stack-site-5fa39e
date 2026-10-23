@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Sieved, sweetened cranberry purée whisked into a four-yolk custard.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A sieved, sweetened cranberry purée whisked into a lighter version of our classic custard. Sharp, fruity and a cheerful pink.",
   "servings": 8,
   "prep_min": 20,
@@ -140,8 +139,8 @@
     "fibre_g": 1.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "tart-cranberry-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of rosy pink cranberry custard ice cream in a black bowl beside fresh cranberries.",
   "inspired_by": [
     "NYT Cooking"
   ]

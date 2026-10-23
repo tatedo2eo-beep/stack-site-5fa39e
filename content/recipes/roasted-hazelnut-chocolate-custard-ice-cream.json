@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Chocolate custard set with a little cornflour, made with demerara sugar and finished with dark-roasted crushed hazelnuts instead of vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A chocolate version of our classic custard, set with a little cornflour and made with demerara sugar, then studded with dark-roasted crushed hazelnuts. Deep, nutty and rich.",
   "servings": 8,
   "prep_min": 25,
@@ -149,8 +148,8 @@
     "fibre_g": 2.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "roasted-hazelnut-chocolate-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of dark chocolate custard ice cream topped with chopped roasted hazelnuts in a black bowl.",
   "inspired_by": [
     "NYT Cooking"
   ]

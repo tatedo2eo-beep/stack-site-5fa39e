@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Roasted sweet potato and warm spices whisked into a brown sugar milk custard, with the cream added cold.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A take on our classic custard built on milk, with roasted sweet potato and warm spices whisked in and the cream added cold. Earthy, spiced and smooth.",
   "servings": 8,
   "prep_min": 20,
@@ -149,8 +148,8 @@
     "fibre_g": 1.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "spiced-sweet-potato-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of soft orange spiced sweet potato custard ice cream in a black bowl.",
   "inspired_by": [
     "NYT Cooking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Cooked beetroot simmered in the dairy and blended in, with cocoa, orange zest and shaved dark chocolate instead of vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic custard with a twist: cooked beetroot is simmered in the dairy and blended smooth, then cocoa, orange zest and shaved dark chocolate take the place of vanilla. Earthy, chocolatey and a stunning colour.",
   "servings": 8,
   "prep_min": 20,
@@ -149,8 +148,8 @@
     "fibre_g": 2.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "roasted-beet-dark-chocolate-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of deep burgundy-brown beetroot and dark chocolate ice cream topped with chocolate shavings in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

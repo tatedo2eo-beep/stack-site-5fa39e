@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Smooth peanut butter whisked into the hot custard; honey replaces most of the sugar; no vanilla; optional honey ripple.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic French custard method with smooth peanut butter whisked into the hot custard and honey standing in for most of the sugar. Rich, nutty and lightly floral, with an optional honey ripple.",
   "servings": 8,
   "prep_min": 20,
@@ -144,8 +143,8 @@
     "fibre_g": 1.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "peanut-butter-honey-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale tan peanut butter custard ice cream with ribbons of golden honey in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

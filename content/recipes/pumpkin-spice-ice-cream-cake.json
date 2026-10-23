@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "Two pumpkin blondie layers with vanilla ice cream, a white chocolate pumpkin ganache and a white chocolate gingersnap crumble, instead of chocolate sponge and two ice creams.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A towering autumnal ice cream cake with spiced pumpkin blondies, white chocolate pumpkin ganache, crunchy gingersnap crumble and vanilla ice cream.",
   "servings": 12,
   "prep_min": 75,
@@ -212,8 +211,8 @@
     "fibre_g": 2.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A tall layered cake with spiced pumpkin blondie, white chocolate ganache, gingersnap crumble and vanilla ice cream, sliced to show the layers.",
+  "image": "pumpkin-spice-ice-cream-cake.jpg",
+  "image_alt": "A tall layered ice cream cake cut open to show a spiced pumpkin blondie base, gingersnap crumble and vanilla ice cream layers, topped with crumble.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

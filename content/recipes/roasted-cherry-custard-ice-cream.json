@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Oven-roasted cherries folded through a lighter custard.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic custard, made a little lighter and streaked with sweet cherries roasted until soft and syrupy. Deep red, jammy and summery.",
   "servings": 8,
   "prep_min": 20,
@@ -141,8 +140,8 @@
     "fibre_g": 1.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "roasted-cherry-custard-ice-cream.jpg",
+  "image_alt": "Pale pink custard ice cream streaked with roasted cherries in a black bowl, beside three dark roasted cherries.",
   "inspired_by": [
     "Serious Eats"
   ]

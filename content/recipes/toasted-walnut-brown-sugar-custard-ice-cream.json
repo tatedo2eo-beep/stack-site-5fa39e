@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Walnut-steeped cream sweetened with brown sugar; toasted walnuts folded in.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Following the classic custard method, this version steeps the cream with toasted walnuts and sweetens it with brown sugar, then folds in more toasted walnuts for crunch.",
   "servings": 8,
   "prep_min": 25,
@@ -138,8 +137,8 @@
     "fibre_g": 1.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "toasted-walnut-brown-sugar-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of light brown sugar custard ice cream studded with toasted walnuts in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

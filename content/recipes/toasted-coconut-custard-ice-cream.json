@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Toasted coconut and coconut milk replace a third of the cream and the vanilla; the custard steeps on the coconut before straining.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Following the classic custard method, coconut milk replaces part of the cream and the base steeps on toasted coconut, which is then strained out. Nutty, tropical and creamy.",
   "servings": 8,
   "prep_min": 20,
@@ -132,8 +131,8 @@
     "fibre_g": 1.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "toasted-coconut-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of off-white coconut custard ice cream flecked with toasted coconut in a black bowl.",
   "inspired_by": [
     "NYT Cooking"
   ]

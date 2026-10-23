@@ -13,7 +13,6 @@
   "base_recipe": "pistachio-gelato-steeped-pistachio-milk",
   "changes_from_base": "Blended fresh ricotta, milk and a sugar syrup with lemon zest replace the cooked pistachio custard; no eggs and no cornflour.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Barely cooked and very quick: fresh ricotta blended with milk and a sugar syrup gives a light, cheesecake-like gelato with a hint of lemon.",
   "servings": 8,
   "prep_min": 10,
@@ -115,7 +114,7 @@
     "fibre_g": 0.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "ricotta-lemon-zest-gelato.jpg",
   "image_alt": "Snow-white ricotta gelato flecked with lemon zest, served in a shallow bowl.",
   "inspired_by": [
     "Serious Eats"

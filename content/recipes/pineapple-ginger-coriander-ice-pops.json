@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-ice-pops",
   "changes_from_base": "Fresh pineapple juice with pressed coriander-stem and ginger juices replaces the strawberry purée; no sugar or jam is added.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A refreshing pineapple ice pop lifted with fresh ginger and a grassy hit of coriander.",
   "servings": 6,
   "prep_min": 20,
@@ -96,8 +95,8 @@
     "fibre_g": 0.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale golden ice pops on sticks with a clear, juice-like appearance.",
+  "image": "pineapple-ginger-coriander-ice-pops.jpg",
+  "image_alt": "Three pale golden pineapple ginger ice pops on wooden sticks on a black slate tray.",
   "inspired_by": [
     "NYT Cooking"
   ]

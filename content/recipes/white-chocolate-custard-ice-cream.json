@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "White chocolate melted into the custard with much less sugar; shaved white chocolate folded in.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic custard with white chocolate melted in and much less sugar, finished with shaved white chocolate. Creamy, mellow and gently sweet.",
   "servings": 8,
   "prep_min": 20,
@@ -138,8 +137,8 @@
     "fibre_g": 0.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "white-chocolate-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of ivory white chocolate custard ice cream with white chocolate shavings in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

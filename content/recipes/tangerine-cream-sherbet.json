@@ -13,7 +13,6 @@
   "base_recipe": "fresh-orange-sherbet-creamy",
   "changes_from_base": "Tangerine juice and zest replace the orange and lemon; the cream goes straight into the machine unwhipped and corn syrup replaces the setting agent of the source.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Sweet tangerine juice and zest churned with a little cold cream into a soft, creamy, pastel sherbet.",
   "servings": 4,
   "prep_min": 20,
@@ -111,7 +110,7 @@
     "fibre_g": 0.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "tangerine-cream-sherbet.jpg",
   "image_alt": "Creamy pastel orange tangerine sherbet in small glasses with tiny spoons.",
   "inspired_by": [
     "NYT Cooking"

@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Maple syrup replaces the sugar and fresh rosemary is infused in place of vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A take on our classic custard in which maple syrup does all the sweetening and fresh rosemary is infused into the dairy instead of vanilla. Woodsy, gently herbal and caramel-like.",
   "servings": 8,
   "prep_min": 20,
@@ -123,8 +122,8 @@
     "fibre_g": 0.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "rosemary-maple-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale golden maple custard ice cream in a black bowl beside a rosemary sprig.",
   "inspired_by": [
     "Serious Eats"
   ]

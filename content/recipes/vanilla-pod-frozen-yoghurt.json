@@ -13,7 +13,6 @@
   "base_recipe": "frozen-yogurt-strained-tangy",
   "changes_from_base": "Low-fat yoghurt is drained only briefly and set with a little gelatine in milk infused with a whole vanilla pod.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A creamy frozen yoghurt delicately flavoured with real vanilla pod seeds. The tiny black specks signal the real vanilla throughout.",
   "servings": 8,
   "prep_min": 20,
@@ -114,7 +113,7 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "vanilla-pod-frozen-yoghurt.jpg",
   "image_alt": "Vanilla bean frozen yoghurt with visible specks of vanilla seed.",
   "inspired_by": [
     "America's Test Kitchen"

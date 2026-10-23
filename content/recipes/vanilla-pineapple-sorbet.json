@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "Fresh pineapple and a vanilla-pod syrup replace the mango; less lime juice.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Ripe fresh pineapple blended with a vanilla-seed syrup and a little lime makes a sweet, fragrant sorbet.",
   "servings": 6,
   "prep_min": 25,
@@ -113,7 +112,7 @@
     "fibre_g": 2.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "vanilla-pineapple-sorbet.jpg",
   "image_alt": "Bright yellow pineapple sorbet flecked with vanilla seeds, with pineapple wedges.",
   "inspired_by": [
     "NYT Cooking"

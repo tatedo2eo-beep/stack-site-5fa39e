@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Puréed ripe banana with brown sugar and lemon stirred into a lighter custard.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A lighter version of our classic custard with puréed very ripe banana, brown sugar and lemon stirred in once cool. Sweet, mellow and fragrant.",
   "servings": 8,
   "prep_min": 20,
@@ -135,8 +134,8 @@
     "fibre_g": 1.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "ripe-banana-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale yellow banana custard ice cream in a black bowl.",
   "inspired_by": [
     "NYT Cooking"
   ]

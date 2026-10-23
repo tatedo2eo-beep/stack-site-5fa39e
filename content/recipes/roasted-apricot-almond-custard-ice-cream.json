@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Roasted apricot purée stirred into a lighter custard; toasted flaked almonds folded in.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A lighter version of our classic custard, with a purée of oven-roasted apricots stirred in before churning and toasted flaked almonds folded through. Tangy, jammy and nutty.",
   "servings": 8,
   "prep_min": 20,
@@ -142,8 +141,8 @@
     "fibre_g": 2.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "roasted-apricot-almond-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale apricot custard ice cream rippled with roasted apricot and topped with toasted flaked almonds in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

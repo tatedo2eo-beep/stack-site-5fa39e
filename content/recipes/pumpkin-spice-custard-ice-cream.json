@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Pumpkin purée and warm spices cooked into the custard with part brown sugar; less dairy to keep it scoopable.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic French custard turned autumnal: pumpkin purée and warm spices are cooked straight into the base, with part brown sugar for a pie-like flavour. Smooth, spiced and scoopable.",
   "servings": 8,
   "prep_min": 20,
@@ -157,8 +156,8 @@
     "fibre_g": 1.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "pumpkin-spice-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of soft orange pumpkin spice custard ice cream dusted with cinnamon in a black bowl.",
   "inspired_by": [
     "King Arthur Baking"
   ]

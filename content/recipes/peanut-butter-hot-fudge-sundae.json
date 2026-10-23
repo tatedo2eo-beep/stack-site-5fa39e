@@ -13,7 +13,6 @@
   "base_recipe": "hot-fudge-sundae-whipped-cream-cherry",
   "changes_from_base": "A cocoa and brown-sugar fudge sauce enriched with smooth peanut butter replaces the plain hot fudge, with chopped salted peanuts on top.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A classic American sundae with a rich, luscious warm chocolate and peanut butter sauce. Topped with whipped cream, peanuts and a cherry.",
   "servings": 8,
   "prep_min": 15,
@@ -146,8 +145,8 @@
     "fibre_g": 3.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Sundae glass with scoops of ice cream, warm chocolate and peanut sauce, whipped cream and toppings.",
+  "image": "peanut-butter-hot-fudge-sundae.jpg",
+  "image_alt": "A glass sundae dish of vanilla ice cream with chocolate peanut fudge sauce, whipped cream, chopped peanuts and a red cherry.",
   "inspired_by": [
     "NYT Cooking"
   ]

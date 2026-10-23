@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "Plums cooked briefly in their skins for colour replace the mango and lime; less corn syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Ripe plums cooked briefly in their skins give this sorbet a deep pink colour and a rich, sweet-sharp flavour.",
   "servings": 8,
   "prep_min": 15,
@@ -113,8 +112,8 @@
     "fibre_g": 1.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Deep magenta plum sorbet scoops beside halved ripe plums.",
+  "image": "poached-plum-sorbet.jpg",
+  "image_alt": "Two scoops of deep magenta plum sorbet in a black bowl beside two halved red plums.",
   "inspired_by": [
     "Serious Eats"
   ]

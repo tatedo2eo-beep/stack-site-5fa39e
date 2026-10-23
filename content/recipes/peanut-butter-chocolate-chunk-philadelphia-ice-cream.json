@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
   "changes_from_base": "Peanut butter replaces the strawberries in the base, with homemade peanut-chocolate chunks folded through.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Creamy peanut butter ice cream with thin, snappy chunks of homemade peanut-chocolate, made in a churn without eggs.",
   "servings": 8,
   "prep_min": 20,
@@ -129,8 +128,8 @@
     "fibre_g": 1.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Tan peanut butter ice cream scoops with chunks of milk chocolate.",
+  "image": "peanut-butter-chocolate-chunk-philadelphia-ice-cream.jpg",
+  "image_alt": "Tan peanut butter ice cream scoops with chunks of milk chocolate in a black bowl.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

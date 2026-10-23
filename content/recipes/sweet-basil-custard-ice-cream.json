@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Basil blitzed with half the sugar and steeped in the dairy instead of vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Classic French custard with fresh basil blitzed into the sugar and steeped in the dairy instead of vanilla. Herbal, sweet and surprisingly refreshing.",
   "servings": 8,
   "prep_min": 20,
@@ -126,8 +125,8 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "sweet-basil-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale green sweet basil custard ice cream in a black bowl beside two basil leaves.",
   "inspired_by": [
     "NYT Cooking"
   ]

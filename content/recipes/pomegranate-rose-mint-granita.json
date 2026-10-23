@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-granita-fork-scraped",
   "changes_from_base": "Pomegranate juice with a mint syrup and rose water replaces the strawberry purée.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A refreshing frozen dessert combining tart pomegranate juice with delicate floral notes and a hint of fresh mint.",
   "servings": 6,
   "prep_min": 15,
@@ -123,8 +122,8 @@
     "fibre_g": 0.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Ruby pomegranate granita topped with pomegranate seeds and dried rose petals.",
+  "image": "pomegranate-rose-mint-granita.jpg",
+  "image_alt": "A small glass of ruby-red pomegranate granita topped with pomegranate seeds and dried rose petals.",
   "inspired_by": [
     "NYT Cooking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "Pears poached in a vanilla-pod syrup with honey replace the mango and lime.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Ripe pears poached in vanilla syrup and blended with honey make a smooth, creamy-tasting sorbet speckled with vanilla seeds.",
   "servings": 8,
   "prep_min": 20,
@@ -121,8 +120,8 @@
     "fibre_g": 4.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Creamy off-white pear sorbet flecked with vanilla seeds, beside a pear half.",
+  "image": "pear-vanilla-pod-sorbet.jpg",
+  "image_alt": "Creamy off-white pear sorbet flecked with vanilla seeds in a black bowl, beside a pear half.",
   "inspired_by": [
     "NYT Cooking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "A soaked rice, almond and cinnamon milk blended with peanut butter and brown sugar replaces the mango, lime and syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A dairy-free sorbet made from homemade rice and almond milk flavoured with cinnamon, blended with peanut butter and dark brown sugar.",
   "servings": 8,
   "prep_min": 20,
@@ -121,8 +120,8 @@
     "fibre_g": 1.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Light tan peanut sorbet scoops sprinkled with ground cinnamon and chopped peanuts.",
+  "image": "peanut-horchata-sorbet.jpg",
+  "image_alt": "Light tan peanut sorbet scoops sprinkled with ground cinnamon and chopped peanuts in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

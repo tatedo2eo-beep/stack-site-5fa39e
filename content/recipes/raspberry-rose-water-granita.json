@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-granita-fork-scraped",
   "changes_from_base": "Raspberries with a small syrup and rose water replace the strawberries; the purée is sieved and chilled before freezing.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Refreshing raspberries and delicate rose water are frozen and scraped into a light, icy dessert perfect for warm afternoons.",
   "servings": 6,
   "prep_min": 15,
@@ -110,7 +109,7 @@
     "fibre_g": 7.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "raspberry-rose-water-granita.jpg",
   "image_alt": "Soft pink raspberry and rose granita in a chilled glass.",
   "inspired_by": [
     "NYT Cooking"

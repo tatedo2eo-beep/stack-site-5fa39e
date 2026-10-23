@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Cocoa and dark chocolate chocolate base; almonds, gelatine-free marshmallows and chocolate folded in after churning.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic custard method turned into a dark chocolate base with cocoa and melted chocolate, then loaded with roasted almonds, gelatine-free marshmallows and chocolate chunks after churning.",
   "servings": 8,
   "prep_min": 20,
@@ -163,8 +162,8 @@
     "fibre_g": 3.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "rocky-road-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of chocolate ice cream studded with mini marshmallows, roasted almonds and dark chocolate chunks in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

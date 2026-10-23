@@ -13,7 +13,6 @@
   "base_recipe": "pistachio-gelato-steeped-pistachio-milk",
   "changes_from_base": "Oven-roasted strawberries blended into a cornflour-set milk base replace the pistachio milk; no egg yolks.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Roasting the strawberries concentrates their flavour, so even frozen or out-of-season berries make a deep, jammy pink gelato.",
   "servings": 8,
   "prep_min": 15,
@@ -133,7 +132,7 @@
     "fibre_g": 1.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "roasted-strawberry-gelato.jpg",
   "image_alt": "Rosy pink strawberry gelato scoops beside a few roasted strawberries.",
   "inspired_by": [
     "NYT Cooking"

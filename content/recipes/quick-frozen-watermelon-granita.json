@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-granita-fork-scraped",
   "changes_from_base": "Frozen watermelon chunks blended with a little sugar replace the strawberry purée; no syrup or water.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A refreshing frozen treat made by blending watermelon with sugar and lemon before freezing into icy crystals.",
   "servings": 4,
   "prep_min": 15,
@@ -97,7 +96,7 @@
     "fibre_g": 0.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "quick-frozen-watermelon-granita.jpg",
   "image_alt": "Pink watermelon granita in a glass with a small watermelon wedge.",
   "inspired_by": [
     "NYT Cooking"

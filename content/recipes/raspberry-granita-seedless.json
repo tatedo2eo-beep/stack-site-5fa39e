@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-granita-fork-scraped",
   "changes_from_base": "Raspberries replace the strawberries, with a little more sugar and less lemon.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A refreshing frozen dessert made with fresh raspberries and lemon juice for a bright, tangy finish.",
   "servings": 8,
   "prep_min": 15,
@@ -111,7 +110,7 @@
     "fibre_g": 3.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "raspberry-granita-seedless.jpg",
   "image_alt": "Bright red raspberry granita crystals in a chilled glass.",
   "inspired_by": [
     "America's Test Kitchen"

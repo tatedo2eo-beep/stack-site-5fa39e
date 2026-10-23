@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "A chilled loaf of vanilla wafers layered with vanilla whipped cream and a quick strawberry compote, with strawberry halves round the sides, set in the fridge then firmed briefly in the freezer, instead of sponge and ice cream.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A striking layered icebox cake built from softened vanilla wafers, strawberry compote and vanilla cream, chilled until sliceable.",
   "servings": 8,
   "prep_min": 40,
@@ -150,8 +149,8 @@
     "fibre_g": 2.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A sliced loaf-shaped icebox cake showing neat layers of vanilla cream, softened wafers and strawberry compote.",
+  "image": "strawberry-icebox-cake-vanilla-wafers.jpg",
+  "image_alt": "A loaf-shaped icebox cake showing neat layers of vanilla cream, softened wafers and strawberry compote, topped with halved strawberries.",
   "inspired_by": [
     "Serious Eats"
   ]
