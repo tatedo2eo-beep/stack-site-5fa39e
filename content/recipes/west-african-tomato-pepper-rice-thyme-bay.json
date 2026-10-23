@@ -78,7 +78,8 @@
       "group": "Rice",
       "qty": 2,
       "unit": "tsp",
-      "item": "curry powder"
+      "item": "curry powder",
+      "note": "check the label: many blends contain mustard"
     },
     {
       "group": "Rice",
@@ -184,6 +185,7 @@
   "storage": "Cool quickly and refrigerate within 1 hour, keeping for up to 24 hours. Reheat only once, until piping hot and 74°C at the centre, adding a splash of water if it's dried out slightly in the fridge. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
     "milk",
+    "mustard",
     "celery"
   ],
   "diet": [
