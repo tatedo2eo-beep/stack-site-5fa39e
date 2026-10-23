@@ -10,6 +10,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | akara-black-eyed-pea-fritters-pepper-sauce | Akara | Classic | 2 | 4 |
 | alfajores | Alfajores | Classic | 2 | 4 |
 | aligot-cheesy-mashed-potatoes | Aligot | Classic | 2 | 4 |
+| almond-marzipan-fruits | Pâte d'amande/marzipan | Classic | 1 | 3 |
 | almond-tuiles | Tuiles | Classic | 2 | 4 |
 | almond-turron-de-alicante | Turrón | Classic | 1 | 3 |
 | aloo-paratha-spiced-potato-flatbreads | Aloo paratha | Classic | 3 | 5 |

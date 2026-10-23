@@ -1,0 +1,148 @@
+{
+  "slug": "almond-marzipan-fruits",
+  "title": "Almond Marzipan Fruits",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "pate-damande-marzipan",
+  "dish_title": "Pâte d'amande/marzipan",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Cooked almond marzipan coloured and hand-shaped into small peaches, pears, lemons and strawberries.",
+  "servings": 13,
+  "prep_min": 60,
+  "cook_min": 15,
+  "difficulty": "hard",
+  "equipment": [
+    "heatproof work surface or silicone mat",
+    "large bowl of cold water",
+    "medium heavy saucepan",
+    "digital thermometer",
+    "sturdy heatproof spatula",
+    "cocktail sticks",
+    "small paring knife",
+    "fine grater",
+    "small paintbrush"
+  ],
+  "ingredients": [
+    {
+      "group": "Marzipan",
+      "qty": 200,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Marzipan",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "cream of tartar"
+    },
+    {
+      "group": "Marzipan",
+      "qty": 75,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Marzipan",
+      "qty": 260,
+      "unit": "g",
+      "item": "fine almond flour (ground blanched almonds)"
+    },
+    {
+      "group": "Marzipan",
+      "qty": 33,
+      "unit": "g",
+      "item": "egg white (from 1 large egg)"
+    },
+    {
+      "group": "Marzipan",
+      "qty": 60,
+      "unit": "g",
+      "item": "icing sugar, plus extra for dusting"
+    },
+    {
+      "group": "Decorating",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "gel food colouring in red, orange, yellow and green, a little of each",
+      "note": "check the label for allergens"
+    },
+    {
+      "group": "Decorating",
+      "qty": 8,
+      "unit": "g",
+      "item": "whole cloves, for stems"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Get ready",
+      "text": "Dust a heatproof work surface with icing sugar and half-fill a large bowl with cold water, big enough to stand the saucepan in."
+    },
+    {
+      "title": "Boil the syrup",
+      "text": "Put the sugar, cream of tartar and water in the saucepan over medium-high heat and stir until the sugar dissolves. Then boil without stirring until it reads 116 °C."
+    },
+    {
+      "title": "Cool the syrup",
+      "text": "Stand the pan in the cold water and stir for 2-3 min, until the syrup turns cloudy and creamy."
+    },
+    {
+      "title": "Cook the paste",
+      "text": "Stir in the almond flour and egg white. Put the pan back over low heat and stir constantly until the paste is thick, smooth and reads at least 72 °C."
+    },
+    {
+      "title": "Knead",
+      "text": "Tip it onto the sugared surface. When cool enough to handle, knead in the icing sugar until smooth and pliable like modelling clay."
+    },
+    {
+      "title": "Colour",
+      "text": "Divide the marzipan into four and wrap three portions. Knead a little colouring into each portion in turn: pale orange for peaches, yellow-green for pears, yellow for lemons and red for strawberries."
+    },
+    {
+      "title": "Shape the fruits",
+      "text": "Roll 20 g balls. Mark a seam down each peach and brush on a red blush, taper the pears at one end, pinch the lemons at both ends and roll them over the fine grater for texture, and shape the strawberries into cones dotted all over with a cocktail stick."
+    },
+    {
+      "title": "Finish",
+      "text": "Push a clove into the peaches and pears as a stem, add small green marzipan leaves to the strawberries and leave uncovered for 2 h to firm up."
+    }
+  ],
+  "tips": [
+    "The most common mistake is adding too much colour at once; start with a dot of gel on a cocktail stick and build up.",
+    "Keep the portions you are not shaping wrapped, as marzipan dries and cracks quickly.",
+    "Remove the clove stems before eating.",
+    "Egg safety: the egg white is cooked to at least 72 °C; for extra safety use pasteurised egg white.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep the fruits covered at room temperature for up to 1 week; plain wrapped marzipan keeps in the fridge for up to 2 months.",
+  "allergens": [
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 197,
+    "protein_g": 4.6,
+    "carbs_g": 23.8,
+    "sugar_g": 20.8,
+    "free_sugar_g": 19.9,
+    "fat_g": 10.5,
+    "satfat_g": 0.8,
+    "salt_g": 0.02,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pate-d-amande-marzipan-advanced.jpg",
+  "image_alt": "Marzipan shaped and coloured like peaches, pears, lemons and strawberries.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}
