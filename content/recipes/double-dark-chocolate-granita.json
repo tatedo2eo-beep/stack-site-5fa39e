@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-granita-fork-scraped",
   "changes_from_base": "Coffee, cocoa and dark chocolate replace the strawberry purée.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A rich and icy frozen dessert combining deep coffee notes with a double hit of intense dark chocolate.",
   "servings": 8,
   "prep_min": 15,
@@ -118,8 +117,8 @@
     "fibre_g": 3.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Dark brown chocolate granita flakes piled in a chilled glass.",
+  "image": "double-dark-chocolate-granita.jpg",
+  "image_alt": "Dark brown chocolate granita flakes piled high in a small chilled glass.",
   "inspired_by": [
     "Serious Eats"
   ]

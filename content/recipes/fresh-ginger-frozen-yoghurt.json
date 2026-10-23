@@ -13,7 +13,6 @@
   "base_recipe": "frozen-yogurt-strained-tangy",
   "changes_from_base": "Fresh and ground ginger are steeped in the warm gelatine whey before it is whisked back into the strained yoghurt.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A zingy frozen yoghurt with the warmth of fresh and ground ginger. Smooth, creamy and full of spiced ginger character.",
   "servings": 8,
   "prep_min": 20,
@@ -129,8 +128,8 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Scoops of pale ivory ginger frozen yoghurt in a bowl.",
+  "image": "fresh-ginger-frozen-yoghurt.jpg",
+  "image_alt": "Two scoops of pale ivory ginger frozen yoghurt in a black bowl.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "frozen-yogurt-strained-tangy",
   "changes_from_base": "Low-fat yoghurt is drained only briefly and set with a little gelatine in hot milk flavoured with instant espresso, instead of a long-strained yoghurt with golden syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A smooth, creamy frozen yoghurt infused with the rich flavour of instant espresso. Serve straight from the ice-cream maker for soft-serve indulgence, or freeze for a firmer treat.",
   "servings": 8,
   "prep_min": 20,
@@ -121,8 +120,8 @@
     "fibre_g": 0.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Scoops of rich coffee-coloured frozen yoghurt in a bowl.",
+  "image": "coffee-frozen-yoghurt.jpg",
+  "image_alt": "Two scoops of light coffee-coloured frozen yoghurt in a black bowl.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

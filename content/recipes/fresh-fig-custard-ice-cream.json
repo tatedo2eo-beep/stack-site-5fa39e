@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Fresh figs cooked to a jam with lemon zest and blended into a slightly lighter yolk custard instead of vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A twist on our classic custard: ripe fresh figs are cooked down into a lemony jam and blended into a slightly lighter yolk custard. Sweet, honeyed and a pretty dusky pink.",
   "servings": 8,
   "prep_min": 25,
@@ -151,8 +150,8 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "fresh-fig-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of mauve-pink fig custard ice cream rippled with fig purée in a black bowl, beside a halved fresh fig.",
   "inspired_by": [
     "Serious Eats"
   ]

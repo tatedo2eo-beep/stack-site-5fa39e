@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "Chocolate sandwich biscuits stood upright in a loaf tin between plain and dulce de leche whipped creams, then frozen, instead of sponge and ice cream.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Rows of chocolate biscuits stand upright between swirls of plain and dulce-de-leche whipped cream, creating a striking striped slice when cut.",
   "servings": 9,
   "prep_min": 30,
@@ -122,8 +121,8 @@
     "fibre_g": 0.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A sliced loaf-shaped icebox cake revealing vertical stripes of dark biscuit and pale and caramel-coloured cream.",
+  "image": "dulce-de-leche-icebox-cake.jpg",
+  "image_alt": "A slice of icebox cake showing stripes of dark chocolate biscuit, pale cream and caramel-coloured dulce de leche cream on a black plate.",
   "inspired_by": [
     "NYT Cooking"
   ]

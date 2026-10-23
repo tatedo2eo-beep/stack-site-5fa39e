@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Most of the sugar is cooked to a deep caramel and loosened with the cream; four times the salt; half the vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic custard method, but most of the sugar is first cooked to a deep amber caramel and loosened with hot cream, then seasoned with a generous pinch of salt. Bittersweet, buttery and very smooth.",
   "servings": 8,
   "prep_min": 20,
@@ -137,8 +136,8 @@
     "fibre_g": 0.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "dark-salted-caramel-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of amber salted caramel custard ice cream in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

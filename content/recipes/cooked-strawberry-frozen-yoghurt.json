@@ -13,7 +13,6 @@
   "base_recipe": "frozen-yogurt-strained-tangy",
   "changes_from_base": "A cooked, sieved strawberry and lemon-zest purée is whisked into thick Greek yoghurt instead of straining plain yoghurt; no golden syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Strawberries cooked down with lemon zest for a deep, jammy flavour, then churned with thick Greek yoghurt.",
   "servings": 6,
   "prep_min": 20,
@@ -122,8 +121,8 @@
     "fibre_g": 1.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Rosy strawberry frozen yoghurt scoops topped with sliced strawberries.",
+  "image": "cooked-strawberry-frozen-yoghurt.jpg",
+  "image_alt": "Two scoops of rosy pink strawberry frozen yoghurt topped with sliced strawberries in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

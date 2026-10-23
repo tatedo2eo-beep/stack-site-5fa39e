@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "A baked crust of crushed sugar cones filled with vanilla ice cream mashed with chopped chocolate sandwich biscuits, instead of sponge layers.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A crisp ice-cream-cone crust filled with chunky cookies-and-cream ice cream, topped with a cloud of whipped cream.",
   "servings": 8,
   "prep_min": 20,
@@ -119,8 +118,8 @@
     "fibre_g": 1.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A pie with a crisp ice-cream-cone crust filled with cookies-and-cream ice cream and topped with whipped cream.",
+  "image": "cookies-and-cream-ice-cream-pie.jpg",
+  "image_alt": "A wedge of cookies and cream ice cream pie in a crisp cone crust topped with whipped cream.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

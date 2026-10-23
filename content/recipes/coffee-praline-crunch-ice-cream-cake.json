@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "Coffee ice cream layered in a loaf tin with biscuits, a cocoa fudge sauce and nut praline, topped with whipped cream, instead of chocolate sponge and two ice creams.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Soft coffee ice cream is layered with crunchy biscuits, chocolate fudge sauce and chopped nut praline, then frozen into a loaf and served with extra warm fudge and praline on top.",
   "servings": 9,
   "prep_min": 30,
@@ -153,8 +152,8 @@
     "fibre_g": 5.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A sliced loaf-shaped ice-cream cake with layers of coffee ice cream, biscuit, chocolate fudge and nut praline, topped with whipped cream.",
+  "image": "coffee-praline-crunch-ice-cream-cake.jpg",
+  "image_alt": "A slice of ice cream cake with a biscuit base, coffee ice cream, chocolate fudge and nut praline under whipped cream.",
   "inspired_by": [
     "NYT Cooking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "Fresh clementine juice, blended raw with sugar and a little corn syrup, replaces the mango purée and lime; no cooked syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Pure winter sunshine: freshly blended clementine juice, sugar and a pinch of salt churned into a bright, sweet-sharp sorbet.",
   "servings": 8,
   "prep_min": 30,
@@ -104,8 +103,8 @@
     "fibre_g": 0.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Bright orange clementine sorbet scoops in a glass with a few clementine segments.",
+  "image": "clementine-sorbet-blender.jpg",
+  "image_alt": "Two scoops of bright orange clementine sorbet with clementine segments in a glass dish.",
   "inspired_by": [
     "Serious Eats"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "frozen-yogurt-strained-tangy",
   "changes_from_base": "Low-fat yoghurt is drained only briefly and set with a little gelatine in hot milk whisked with Dutch-process cocoa.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A rich, velvety chocolate frozen yoghurt made with Dutch-process cocoa powder. Deep in flavour and satisfyingly smooth.",
   "servings": 8,
   "prep_min": 20,
@@ -120,8 +119,8 @@
     "fibre_g": 1.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Scoops of rich brown chocolate frozen yoghurt.",
+  "image": "cocoa-frozen-yoghurt.jpg",
+  "image_alt": "Two scoops of rich brown cocoa frozen yoghurt in a black bowl.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

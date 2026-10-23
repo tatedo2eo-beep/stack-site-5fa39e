@@ -13,7 +13,6 @@
   "base_recipe": "pistachio-gelato-steeped-pistachio-milk",
   "changes_from_base": "Home-ground roasted hazelnut paste and Dutch cocoa replace the pistachio milk; no egg yolks, the base is set with cornflour.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "The flavour of the famous chocolate spread in a scoop: roasted hazelnuts ground to a runny paste and blended into a dark cocoa milk base.",
   "servings": 8,
   "prep_min": 20,
@@ -137,8 +136,8 @@
     "fibre_g": 3.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Glossy dark-brown chocolate hazelnut gelato scooped into a bowl, topped with chopped hazelnuts.",
+  "image": "chocolate-hazelnut-gelato-gianduja.jpg",
+  "image_alt": "Two scoops of dark brown chocolate hazelnut gelato topped with chopped hazelnuts in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

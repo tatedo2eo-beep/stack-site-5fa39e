@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
   "changes_from_base": "Fresh mint steeped in the warm dairy and chopped chocolate sandwich cookies replace the strawberries; no extract or colouring, so the ice cream stays ivory.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Real mint leaves steeped in warm cream give this ivory ice cream a fresh, garden flavour that extract cannot match, with crunchy chocolate cookie pieces folded through.",
   "servings": 8,
   "prep_min": 15,
@@ -123,8 +122,8 @@
     "fibre_g": 0.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale cream mint ice cream scoops speckled with dark chocolate cookie pieces.",
+  "image": "fresh-mint-chocolate-cookie-philadelphia-ice-cream.jpg",
+  "image_alt": "Two scoops of pale cream mint ice cream speckled with chocolate sandwich cookie pieces in a black bowl.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

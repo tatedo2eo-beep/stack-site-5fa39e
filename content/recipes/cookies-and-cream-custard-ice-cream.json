@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Extra vanilla and slightly less yolk for a very white base, with broken chocolate sandwich cookies folded in at the end.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic French custard with extra vanilla and slightly fewer yolks for a whiter base, then packed with broken chocolate sandwich cookies after churning. The real-custard version of a favourite.",
   "servings": 8,
   "prep_min": 20,
@@ -132,8 +131,8 @@
     "fibre_g": 0.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "cookies-and-cream-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of creamy vanilla custard ice cream full of chocolate sandwich cookie chunks in a black bowl.",
   "inspired_by": [
     "King Arthur Baking"
   ]

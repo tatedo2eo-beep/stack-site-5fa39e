@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "A cocoa chiffon cake split and filled with a frozen ginger-peach semifreddo with gingersnap pieces, then glazed in chocolate, instead of ice cream layers.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A striped chocolate and ginger sponge cake layered with a peach semifreddo and wrapped in a shiny dark chocolate glaze and crushed gingersnaps.",
   "servings": 10,
   "prep_min": 90,
@@ -266,8 +265,8 @@
     "fibre_g": 5.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A tall round cake with chocolate ginger sponge layers, a peach semifreddo centre, a glossy dark chocolate glaze and crushed gingersnaps around the edge.",
+  "image": "chocolate-ginger-peach-icebox-cake.jpg",
+  "image_alt": "A slice of icebox cake with chocolate ginger sponge layers, pale peach semifreddo, a dark chocolate glaze and gingersnap crumbs.",
   "inspired_by": [
     "Serious Eats"
   ]

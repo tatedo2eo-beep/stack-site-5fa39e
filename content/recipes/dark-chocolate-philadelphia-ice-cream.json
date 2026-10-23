@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
   "changes_from_base": "Melted dark chocolate, cocoa and a little coffee replace the strawberries, with more milk and less cream.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A deep, intense chocolate ice cream from 70% chocolate and cocoa, with a little coffee to make the chocolate taste darker rather than of coffee.",
   "servings": 8,
   "prep_min": 15,
@@ -133,8 +132,8 @@
     "fibre_g": 2.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Deep brown dark chocolate ice cream scoops with a glossy surface.",
+  "image": "dark-chocolate-philadelphia-ice-cream.jpg",
+  "image_alt": "Two scoops of deep brown dark chocolate ice cream in a black bowl.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

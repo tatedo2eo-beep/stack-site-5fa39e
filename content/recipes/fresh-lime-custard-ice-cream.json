@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Lime zest rubbed into the sugar and steeped in the custard, finished with fresh lime juice, instead of vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic French custard, made sharp and fragrant with lime: the zest is rubbed into the sugar and steeped in the hot custard, and fresh juice goes in just before chilling. Creamy but properly zingy.",
   "servings": 8,
   "prep_min": 20,
@@ -132,8 +131,8 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "fresh-lime-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale yellow lime custard ice cream flecked with green lime zest in a black bowl.",
   "inspired_by": [
     "NYT Cooking"
   ]

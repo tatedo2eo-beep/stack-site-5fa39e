@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "Raw dark grapes crushed and strained, with a little corn syrup and lemon, replace the mango, lime and cooked syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A deep purple sorbet that tastes like biting into a ripe dark grape, made from just grapes, sugar and a drop of lemon.",
   "servings": 6,
   "prep_min": 15,
@@ -106,8 +105,8 @@
     "fibre_g": 1.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Deep purple grape sorbet scoops in a chilled glass with a small bunch of grapes.",
+  "image": "concord-grape-sorbet.jpg",
+  "image_alt": "Two scoops of deep purple grape sorbet in a glass dish beside a small bunch of dark grapes.",
   "inspired_by": [
     "Serious Eats"
   ]

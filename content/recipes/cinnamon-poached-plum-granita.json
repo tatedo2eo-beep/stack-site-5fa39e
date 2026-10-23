@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-granita-fork-scraped",
   "changes_from_base": "Plums poached with cinnamon replace the raw strawberries, and the purée is frozen in ice-cube trays and pulsed instead of scraped.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A refreshing frozen dessert featuring tender plums poached with cinnamon and lemon for a bright, fruity flavour profile.",
   "servings": 4,
   "prep_min": 15,
@@ -110,8 +109,8 @@
     "fibre_g": 1.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Rosy plum granita in a chilled glass beside a cinnamon stick.",
+  "image": "cinnamon-poached-plum-granita.jpg",
+  "image_alt": "Rosy plum granita in a small glass beside a cinnamon stick.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

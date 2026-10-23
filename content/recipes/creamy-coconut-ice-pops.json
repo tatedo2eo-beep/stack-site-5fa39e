@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-ice-pops",
   "changes_from_base": "A no-cook mix of cream, coconut milk, cream of coconut and shredded coconut replaces the strawberry purée.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Rich, creamy coconut ice pops with shredded coconut suspended throughout.",
   "servings": 10,
   "prep_min": 10,
@@ -108,8 +107,8 @@
     "fibre_g": 0.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale, creamy ice pops on sticks flecked throughout with shredded coconut.",
+  "image": "creamy-coconut-ice-pops.jpg",
+  "image_alt": "Three pale creamy coconut ice pops flecked with shredded coconut on a black tray.",
   "inspired_by": [
     "NYT Cooking"
   ]

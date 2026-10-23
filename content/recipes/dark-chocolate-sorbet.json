@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "Dark chocolate and cocoa simmered with water and sugar replace the fruit; corn syrup keeps it scoopable.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Intensely chocolatey with no cream or milk: cocoa and dark chocolate simmered with water make a silky, deep sorbet.",
   "servings": 6,
   "prep_min": 15,
@@ -120,8 +119,8 @@
     "fibre_g": 3.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Glossy almost-black chocolate sorbet scoops in a white bowl.",
+  "image": "dark-chocolate-sorbet.jpg",
+  "image_alt": "Two scoops of almost-black chocolate sorbet in a white bowl.",
   "inspired_by": [
     "NYT Cooking"
   ]

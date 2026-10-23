@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-semifreddo-raspberry-swirl",
   "changes_from_base": "A cooked chocolate and espresso custard replaces the whisked vanilla egg base, and there is no jam swirl.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A deep, dark chocolate semifreddo lifted with espresso, set in a loaf tin and sliced straight from the freezer.",
   "servings": 12,
   "prep_min": 30,
@@ -146,8 +145,8 @@
     "fibre_g": 2.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Slices of dark chocolate semifreddo on a plate.",
+  "image": "dark-chocolate-espresso-semifreddo.jpg",
+  "image_alt": "Two thick slices of airy dark chocolate semifreddo on a black plate.",
   "inspired_by": [
     "America's Test Kitchen"
   ]
