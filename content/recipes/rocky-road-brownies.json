@@ -13,7 +13,6 @@
   "base_recipe": "signature-fudgy-brownies",
   "changes_from_base": "Scratch brownie topped with gelatine-free marshmallows, pecans and chocolate chips.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Fudgy brownies topped with toasted gelatine-free marshmallows, pecans and chocolate chips.",
   "servings": 16,
   "prep_min": 15,
@@ -147,7 +146,7 @@
     "fibre_g": 1.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "rocky-road-brownies.jpg",
   "image_alt": "Brownie squares piled with toasted marshmallows, pecans and chocolate chips.",
   "inspired_by": [
     "King Arthur Baking"

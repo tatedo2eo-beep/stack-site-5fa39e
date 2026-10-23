@@ -13,7 +13,6 @@
   "base_recipe": "millionaires-shortbread",
   "changes_from_base": "A baked cheesecake on a biscuit base with a strawberry soured-cream top, in place of caramel and chocolate on shortbread; kept chilled.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Creamy baked cheesecake bars on a biscuit base with a strawberry soured-cream topping.",
   "servings": 24,
   "prep_min": 30,
@@ -153,7 +152,7 @@
     "fibre_g": 0.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "strawberry-cheesecake-bars.jpg",
   "image_alt": "Cheesecake squares on a biscuit base with a pink strawberry top and a strawberry slice.",
   "inspired_by": [
     "America's Test Kitchen"

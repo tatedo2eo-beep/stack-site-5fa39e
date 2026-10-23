@@ -13,7 +13,6 @@
   "base_recipe": "signature-fudgy-brownies",
   "changes_from_base": "Large-tray cocoa brownie topped with toasted gelatine-free mini marshmallows.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A large tray of cocoa brownies finished with toasted gelatine-free mini marshmallows.",
   "servings": 24,
   "prep_min": 20,
@@ -155,7 +154,7 @@
     "fibre_g": 1.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "toasted-marshmallow-brownies.jpg",
   "image_alt": "Brownie bars covered in puffed, golden toasted mini marshmallows.",
   "inspired_by": [
     "America's Test Kitchen"

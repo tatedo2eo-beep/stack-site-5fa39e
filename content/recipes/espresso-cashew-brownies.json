@@ -13,7 +13,6 @@
   "base_recipe": "signature-fudgy-brownies",
   "changes_from_base": "Instant espresso melted into the chocolate, with toasted cashews folded through and scattered on top.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Fudgy dark chocolate brownies with espresso melted into the batter and toasted cashews through and on top.",
   "servings": 16,
   "prep_min": 20,
@@ -146,7 +145,7 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "espresso-cashew-brownies.jpg",
   "image_alt": "Dark espresso brownie squares studded with golden toasted cashew halves on top.",
   "inspired_by": [
     "Serious Eats"

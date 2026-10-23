@@ -13,7 +13,6 @@
   "base_recipe": "chewy-blondies",
   "changes_from_base": "Maple syrup sweetens a creamed brown sugar batter; no chocolate or nuts.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Soft brown sugar blondies sweetened with pure maple syrup.",
   "servings": 16,
   "prep_min": 15,
@@ -126,7 +125,7 @@
     "fibre_g": 0.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "maple-blondies.jpg",
   "image_alt": "Pale golden maple blondie squares with a glossy crackled top.",
   "inspired_by": [
     "Serious Eats"

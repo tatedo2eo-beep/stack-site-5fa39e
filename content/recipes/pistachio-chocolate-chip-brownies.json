@@ -13,7 +13,6 @@
   "base_recipe": "signature-fudgy-brownies",
   "changes_from_base": "Cocoa batter with chocolate chips and green pistachios through it and on top.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Cocoa brownies with chocolate chips and chopped pistachios through the batter and on top.",
   "servings": 16,
   "prep_min": 15,
@@ -145,7 +144,7 @@
     "fibre_g": 2.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "pistachio-chocolate-chip-brownies.jpg",
   "image_alt": "Cocoa brownie squares with chocolate chips and bright green chopped pistachios on top.",
   "inspired_by": [
     "King Arthur Baking"

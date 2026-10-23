@@ -13,7 +13,6 @@
   "base_recipe": "millionaires-shortbread",
   "changes_from_base": "A buttery shortbread base with raspberry jam and fresh berries under an oat and pecan streusel, instead of caramel and chocolate.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Shortbread bars with raspberry jam and fresh raspberries under an oat-pecan streusel.",
   "servings": 24,
   "prep_min": 25,
@@ -144,7 +143,7 @@
     "fibre_g": 1.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "raspberry-streusel-bars.jpg",
   "image_alt": "Shortbread bars with a red raspberry layer and a golden oat streusel top.",
   "inspired_by": [
     "America's Test Kitchen"

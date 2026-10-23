@@ -13,7 +13,6 @@
   "base_recipe": "signature-fudgy-brownies",
   "changes_from_base": "Grated-courgette batter made in a food processor, finished with a chocolate fudge icing.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Moist cocoa brownies made with puréed courgette and topped with a chocolate fudge icing.",
   "servings": 16,
   "prep_min": 15,
@@ -162,7 +161,7 @@
     "fibre_g": 2.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "courgette-fudge-brownies.jpg",
   "image_alt": "Brownie squares with a thick, glossy chocolate fudge icing.",
   "inspired_by": [
     "King Arthur Baking"

@@ -13,7 +13,6 @@
   "base_recipe": "honey-maple-nut-granola-raisins",
   "changes_from_base": "Grain-free: no oats at all. Sunflower, pumpkin and sesame seeds, pistachios and coconut flakes are coated in maple syrup whisked with tahini and white miso, and stirred every 10 min as they bake.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A savoury-sweet grain-free granola built entirely from seeds and nuts, bound with tahini and white miso, delivering toasted and slightly salty flavours.",
   "servings": 10,
   "prep_min": 10,
@@ -145,8 +144,8 @@
     "fibre_g": 6.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Golden seed and nut granola with visible pistachios and coconut.",
+  "image": "tahini-miso-seed-granola-grain-free.jpg",
+  "image_alt": "Golden grain-free granola clusters of sesame, sunflower and pumpkin seeds with toasted coconut flakes.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

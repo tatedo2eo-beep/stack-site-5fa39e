@@ -13,7 +13,6 @@
   "base_recipe": "signature-fudgy-brownies",
   "changes_from_base": "Unsweetened-chocolate batter topped with buttery caramel pecans, no eggs in the topping.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A chewy chocolate brownie topped with pecans in a brown sugar and butter caramel.",
   "servings": 16,
   "prep_min": 25,
@@ -159,7 +158,7 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "pecan-pie-topped-brownies.jpg",
   "image_alt": "Brownie squares covered with a glossy layer of caramel-coated pecan halves.",
   "inspired_by": [
     "America's Test Kitchen"

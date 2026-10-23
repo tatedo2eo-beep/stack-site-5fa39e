@@ -13,7 +13,6 @@
   "base_recipe": "signature-fudgy-brownies",
   "changes_from_base": "Cocoa brownie under a baked cream cheese layer, marbled on top; chilled.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A cocoa brownie layer topped with smooth baked cheesecake and marbled with chocolate batter.",
   "servings": 16,
   "prep_min": 25,
@@ -175,7 +174,7 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "cheesecake-layer-brownies.jpg",
   "image_alt": "Brownie squares with a thick creamy cheesecake layer marbled with chocolate.",
   "inspired_by": [
     "King Arthur Baking"

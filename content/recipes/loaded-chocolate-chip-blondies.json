@@ -13,7 +13,6 @@
   "base_recipe": "chewy-blondies",
   "changes_from_base": "Packed with semisweet chocolate chips (and optional nuts) in a melted-butter brown sugar batter.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A big tray of brown sugar blondies packed with semisweet chocolate chips and optional nuts.",
   "servings": 24,
   "prep_min": 15,
@@ -135,7 +134,7 @@
     "fibre_g": 1.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "loaded-chocolate-chip-blondies.jpg",
   "image_alt": "Thick golden blondie bars packed with chocolate chips and pecans.",
   "inspired_by": [
     "King Arthur Baking"

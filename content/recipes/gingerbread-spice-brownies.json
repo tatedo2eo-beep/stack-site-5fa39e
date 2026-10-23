@@ -13,7 +13,6 @@
   "base_recipe": "signature-fudgy-brownies",
   "changes_from_base": "Molasses and warm ginger in a cakier cocoa batter baked in a larger tin.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Cakey chocolate bars spiced with ginger and cinnamon and sweetened with treacle.",
   "servings": 24,
   "prep_min": 20,
@@ -151,7 +150,7 @@
     "fibre_g": 0.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "gingerbread-spice-brownies.jpg",
   "image_alt": "Dark, spiced gingerbread brownie bars cut from a large tray.",
   "inspired_by": [
     "America's Test Kitchen"

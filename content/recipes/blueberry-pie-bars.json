@@ -13,7 +13,6 @@
   "base_recipe": "millionaires-shortbread",
   "changes_from_base": "Brown sugar shortbread base and crumble with a lemony spiced blueberry filling instead of caramel and chocolate.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Shortbread crust and crumble with a thick, lemony blueberry filling.",
   "servings": 24,
   "prep_min": 30,
@@ -154,7 +153,7 @@
     "fibre_g": 1.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "blueberry-pie-bars.jpg",
   "image_alt": "Shortbread bars with a thick purple blueberry layer under a golden crumble.",
   "inspired_by": [
     "Serious Eats"

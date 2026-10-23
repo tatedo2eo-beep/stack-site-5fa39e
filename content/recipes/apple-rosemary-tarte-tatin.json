@@ -13,7 +13,6 @@
   "base_recipe": "classic-apple-tarte-tatin",
   "changes_from_base": "Fresh rosemary tossed through the apples; the apples sit in 2 layers on a dry caramel and are steamed under a lid before baking.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Classic apple Tatin with fresh rosemary, the apples packed in 2 layers and steamed under a lid before baking.",
   "servings": 8,
   "prep_min": 35,
@@ -149,6 +148,6 @@
     "fibre_g": 4.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "apple-rosemary-tarte-tatin.jpg",
   "image_alt": "An apple tarte Tatin with deep amber apple quarters and flecks of chopped rosemary."
 }

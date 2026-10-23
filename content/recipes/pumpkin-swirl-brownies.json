@@ -13,7 +13,6 @@
   "base_recipe": "signature-fudgy-brownies",
   "changes_from_base": "Oil-based chocolate batter marbled with spiced pumpkin and cream cheese; kept chilled.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Chocolate brownies with a spiced pumpkin and cream cheese swirl.",
   "servings": 16,
   "prep_min": 20,
@@ -179,7 +178,7 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "pumpkin-swirl-brownies.jpg",
   "image_alt": "Chocolate brownie squares with orange pumpkin swirls marbled through the top.",
   "inspired_by": [
     "America's Test Kitchen"

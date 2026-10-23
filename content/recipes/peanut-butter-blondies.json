@@ -13,7 +13,6 @@
   "base_recipe": "chewy-blondies",
   "changes_from_base": "Crunchy peanut butter in the batter, milk chocolate chips and chopped peanuts on top.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A large tray of crunchy peanut butter blondies with milk chocolate chips and chopped peanuts.",
   "servings": 24,
   "prep_min": 15,
@@ -140,7 +139,7 @@
     "fibre_g": 0.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "peanut-butter-blondies.jpg",
   "image_alt": "Peanut butter blondie bars with milk chocolate chips and chopped peanuts on top.",
   "inspired_by": [
     "America's Test Kitchen"

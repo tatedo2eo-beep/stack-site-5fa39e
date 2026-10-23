@@ -13,7 +13,6 @@
   "base_recipe": "millionaires-shortbread",
   "changes_from_base": "An egg-free browned-butter pumpkin cookie bar with dark chocolate chips, in place of shortbread, caramel and chocolate layers.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Egg-free brown butter pumpkin cookie bars with dark chocolate chips.",
   "servings": 12,
   "prep_min": 25,
@@ -161,7 +160,7 @@
     "fibre_g": 2.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "pumpkin-chocolate-chip-cookie-bars.jpg",
   "image_alt": "Orange-tinged pumpkin cookie bars studded with dark chocolate chips.",
   "inspired_by": [
     "Serious Eats"

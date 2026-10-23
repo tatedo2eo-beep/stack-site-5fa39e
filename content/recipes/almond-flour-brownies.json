@@ -13,7 +13,6 @@
   "base_recipe": "signature-fudgy-brownies",
   "changes_from_base": "Ground almonds replace the wheat flour (gluten-free), with flaked almonds on top.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Rich cocoa brownies made with ground almonds and topped with flaked almonds.",
   "servings": 16,
   "prep_min": 10,
@@ -132,8 +131,8 @@
     "fibre_g": 2.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Glossy dark brownie squares topped with toasted flaked almonds.",
+  "image": "almond-flour-brownies.jpg",
+  "image_alt": "Three fudgy dark brownie squares topped with toasted flaked almonds.",
   "inspired_by": [
     "King Arthur Baking"
   ]

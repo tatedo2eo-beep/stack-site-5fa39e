@@ -13,7 +13,6 @@
   "base_recipe": "signature-fudgy-brownies",
   "changes_from_base": "Large-tray cocoa brownie studded with plumped dried cherries and a little almond flavour.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A large tray of dark cocoa brownies studded with plumped dried cherries and a hint of almond.",
   "servings": 24,
   "prep_min": 20,
@@ -162,7 +161,7 @@
     "fibre_g": 1.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "dark-chocolate-cherry-brownies.jpg",
   "image_alt": "Dark chocolate brownie bars studded with chewy red dried cherries.",
   "inspired_by": [
     "America's Test Kitchen"

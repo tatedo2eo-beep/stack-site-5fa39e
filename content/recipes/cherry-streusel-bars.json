@@ -13,7 +13,6 @@
   "base_recipe": "millionaires-shortbread",
   "changes_from_base": "Shortbread base, cherry and cherry-jam filling and an oat-almond streusel in place of caramel and chocolate.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Shortbread bars with a cherry and cherry-jam filling and an oat-almond streusel.",
   "servings": 24,
   "prep_min": 25,
@@ -160,7 +159,7 @@
     "fibre_g": 1.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "cherry-streusel-bars.jpg",
   "image_alt": "Shortbread bars with a deep red cherry filling under an almond oat streusel.",
   "inspired_by": [
     "America's Test Kitchen"

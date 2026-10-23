@@ -13,7 +13,6 @@
   "base_recipe": "signature-fudgy-brownies",
   "changes_from_base": "Chewy brown sugar bar (no dark chocolate) with white chocolate, cranberries and toasted coconut.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Chewy brown sugar bars with white chocolate, dried cranberries and toasted coconut.",
   "servings": 24,
   "prep_min": 15,
@@ -140,7 +139,7 @@
     "fibre_g": 0.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "coconut-white-chocolate-brownies.jpg",
   "image_alt": "Golden brown sugar bars with white chocolate, red cranberries and toasted coconut on top.",
   "inspired_by": [
     "King Arthur Baking"

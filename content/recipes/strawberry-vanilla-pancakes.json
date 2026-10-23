@@ -13,7 +13,6 @@
   "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
   "changes_from_base": "The same buttermilk and soured cream batter, but each pancake is scattered with chopped strawberries tossed in vanilla and sugar before it is flipped.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Fluffy buttermilk pancakes studded with sweetened fresh strawberries and a hint of vanilla, perfect for a lazy weekend breakfast.",
   "servings": 4,
   "prep_min": 15,
@@ -161,7 +160,7 @@
     "fibre_g": 3.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "strawberry-vanilla-pancakes.jpg",
   "image_alt": "A stack of golden pancakes topped with chopped strawberries glistening in their own juice.",
   "inspired_by": [
     "America's Test Kitchen"

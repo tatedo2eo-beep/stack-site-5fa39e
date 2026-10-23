@@ -13,7 +13,6 @@
   "base_recipe": "signature-fudgy-brownies",
   "changes_from_base": "White chocolate and natural cocoa batter coloured red, with a cream cheese frosting; no dark chocolate.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "White chocolate and cocoa brownies coloured red, topped with tangy cream cheese frosting.",
   "servings": 16,
   "prep_min": 25,
@@ -176,7 +175,7 @@
     "fibre_g": 0.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "red-velvet-cream-cheese-brownies.jpg",
   "image_alt": "Deep red brownie squares topped with a thick layer of white cream cheese frosting.",
   "inspired_by": [
     "Serious Eats"

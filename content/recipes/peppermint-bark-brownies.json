@@ -13,7 +13,6 @@
   "base_recipe": "signature-fudgy-brownies",
   "changes_from_base": "Unsweetened-chocolate batter with a white chocolate peppermint bark top.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Fudgy chocolate brownies topped with peppermint white chocolate and crushed candy canes.",
   "servings": 16,
   "prep_min": 20,
@@ -134,7 +133,7 @@
     "fibre_g": 1.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "peppermint-bark-brownies.jpg",
   "image_alt": "Brownie squares topped with white chocolate and crushed red and white candy cane.",
   "inspired_by": [
     "Serious Eats"

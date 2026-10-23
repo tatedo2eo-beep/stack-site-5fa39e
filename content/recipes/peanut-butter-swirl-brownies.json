@@ -13,7 +13,6 @@
   "base_recipe": "signature-fudgy-brownies",
   "changes_from_base": "Peanut butter swirled through a slightly cakier batter; no cocoa or chocolate chunks.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A rich chocolate brownie batter with spoonfuls of peanut butter swirled through before baking.",
   "servings": 16,
   "prep_min": 20,
@@ -138,7 +137,7 @@
     "fibre_g": 1.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "peanut-butter-swirl-brownies.jpg",
   "image_alt": "Chocolate brownie squares marbled with pale peanut butter swirls.",
   "inspired_by": [
     "America's Test Kitchen"

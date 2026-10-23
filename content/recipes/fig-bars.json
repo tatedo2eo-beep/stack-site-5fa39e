@@ -13,7 +13,6 @@
   "base_recipe": "millionaires-shortbread",
   "changes_from_base": "A soft cookie base and lid around a fig and apple-juice filling, replacing caramel and chocolate.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Soft brown sugar dough sandwiching a fig and apple-juice filling.",
   "servings": 16,
   "prep_min": 35,
@@ -150,7 +149,7 @@
     "fibre_g": 1.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "fig-bars.jpg",
   "image_alt": "Golden cookie bars cut to show a dark fig filling between two layers.",
   "inspired_by": [
     "America's Test Kitchen"

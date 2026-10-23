@@ -13,7 +13,6 @@
   "base_recipe": "chewy-blondies",
   "changes_from_base": "Spiced pumpkin and cream cheese swirled through a melted-butter blondie; kept chilled.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Brown sugar blondies marbled with a spiced pumpkin and cream cheese swirl.",
   "servings": 16,
   "prep_min": 20,
@@ -172,7 +171,7 @@
     "fibre_g": 0.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "pumpkin-cream-cheese-blondies.jpg",
   "image_alt": "Golden blondie squares marbled with orange spiced pumpkin cream cheese.",
   "inspired_by": [
     "America's Test Kitchen"

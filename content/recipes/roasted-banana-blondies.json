@@ -13,7 +13,6 @@
   "base_recipe": "chewy-blondies",
   "changes_from_base": "Roasted mashed banana and warm spices in a creamed batter, with dark chocolate.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Creamed blondies with roasted mashed banana, warm spices and dark chocolate.",
   "servings": 16,
   "prep_min": 25,
@@ -153,7 +152,7 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "roasted-banana-blondies.jpg",
   "image_alt": "Golden banana blondie squares with melted dark chocolate pieces on top.",
   "inspired_by": [
     "Serious Eats"

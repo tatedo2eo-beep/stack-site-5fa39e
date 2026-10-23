@@ -13,7 +13,6 @@
   "base_recipe": "millionaires-shortbread",
   "changes_from_base": "A tangy lime and condensed-milk filling baked on a biscuit base, optionally topped with toasted coconut; replaces caramel and chocolate. Kept chilled.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A lime and condensed-milk filling baked on a biscuit base and topped with toasted coconut.",
   "servings": 16,
   "prep_min": 20,
@@ -146,7 +145,7 @@
     "fibre_g": 1.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "key-lime-bars.jpg",
   "image_alt": "Pale green lime squares on a biscuit base sprinkled with toasted coconut.",
   "inspired_by": [
     "America's Test Kitchen"

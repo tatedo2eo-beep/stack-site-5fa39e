@@ -13,7 +13,6 @@
   "base_recipe": "millionaires-shortbread",
   "changes_from_base": "A one-bowl chewy oatmeal cookie bar with raisins and a thin icing drizzle, instead of shortbread, caramel and chocolate.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Chewy molasses oatmeal bars with raisins and a simple icing drizzle.",
   "servings": 16,
   "prep_min": 15,
@@ -155,7 +154,7 @@
     "fibre_g": 1.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "oatmeal-raisin-cookie-bars.jpg",
   "image_alt": "Brown oatmeal raisin bars drizzled with thin white icing.",
   "inspired_by": [
     "King Arthur Baking"

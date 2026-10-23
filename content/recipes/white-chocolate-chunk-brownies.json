@@ -13,7 +13,6 @@
   "base_recipe": "signature-fudgy-brownies",
   "changes_from_base": "Dark chocolate batter with chunks of white chocolate through it and on top.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Dark chocolate brownies with chunks of white chocolate folded through and pressed on top.",
   "servings": 16,
   "prep_min": 15,
@@ -144,7 +143,7 @@
     "fibre_g": 1.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "white-chocolate-chunk-brownies.jpg",
   "image_alt": "Dark brownie squares studded with large chunks of white chocolate.",
   "inspired_by": [
     "America's Test Kitchen"

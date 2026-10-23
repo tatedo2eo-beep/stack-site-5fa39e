@@ -13,7 +13,6 @@
   "base_recipe": "chewy-blondies",
   "changes_from_base": "All the butter is browned first for a toffee-like, nutty flavour; no add-ins.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Small-batch blondies made with browned butter, brown sugar and vanilla.",
   "servings": 16,
   "prep_min": 15,
@@ -120,7 +119,7 @@
     "fibre_g": 0.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "brown-butter-blondies.jpg",
   "image_alt": "Small deep-golden blondie squares with a chewy crackled top.",
   "inspired_by": [
     "Serious Eats"
