@@ -1,0 +1,166 @@
+{
+  "slug": "cranberry-apricot-almond-granola",
+  "title": "Cranberry Apricot Almond Granola",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "granola",
+  "dish_title": "Granola",
+  "flavour": "Cranberry & apricot",
+  "flavour_order": 10,
+  "access": "premium",
+  "base_recipe": "honey-maple-nut-granola-raisins",
+  "changes_from_base": "Slow-baked at a low heat for 90 min and stirred often: oats, flaked almonds, chia and milk powder are coated in maple syrup, oil, almond butter and almond flavouring, with cranberries and apricots stirred in once cold.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "An almond-based granola enriched with almond butter and studded with tart cranberries and sweet dried apricots, baked low and slow until perfectly dry.",
+  "servings": 18,
+  "prep_min": 10,
+  "cook_min": 90,
+  "difficulty": "easy",
+  "equipment": [
+    "large rimmed baking tray (about 33 x 46 cm)",
+    "baking paper",
+    "large bowl",
+    "whisk",
+    "rubber spatula",
+    "wire rack",
+    "airtight container"
+  ],
+  "ingredients": [
+    {
+      "group": "Granola",
+      "qty": 356,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Granola",
+      "qty": 128,
+      "unit": "g",
+      "item": "flaked almonds"
+    },
+    {
+      "group": "Granola",
+      "qty": 82,
+      "unit": "g",
+      "item": "chia seeds (or flaxseed)"
+    },
+    {
+      "group": "Granola",
+      "qty": 21,
+      "unit": "g",
+      "item": "skimmed milk powder"
+    },
+    {
+      "group": "Syrup",
+      "qty": 35,
+      "unit": "g",
+      "item": "smooth almond butter"
+    },
+    {
+      "group": "Syrup",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "almond flavouring"
+    },
+    {
+      "group": "Syrup",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Syrup",
+      "qty": 235,
+      "unit": "ml",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Syrup",
+      "qty": 110,
+      "unit": "ml",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Stir in after baking",
+      "qty": 113,
+      "unit": "g",
+      "item": "dried cranberries"
+    },
+    {
+      "group": "Stir in after baking",
+      "qty": 128,
+      "unit": "g",
+      "item": "dried apricots, diced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Preheat the oven to 150 °C (130 °C fan) and line a large rimmed baking tray with baking paper."
+    },
+    {
+      "title": "Dry",
+      "text": "In a large bowl, mix together 356 g rolled oats, 128 g flaked almonds, 82 g chia seeds (or flaxseed) and 21 g skimmed milk powder."
+    },
+    {
+      "title": "Warm",
+      "text": "In a small saucepan or microwave-safe jug, warm 35 g smooth almond butter, ½ tsp almond flavouring, ½ tsp fine salt, 235 ml maple syrup and 110 ml vegetable oil until just warm enough to whisk smooth."
+    },
+    {
+      "title": "Pour",
+      "text": "Tip the warm mixture over the dry ingredients and stir thoroughly until everything is evenly moist."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread onto the lined tray and bake for 90 min, stirring thoroughly every 15 min, until golden and completely dry."
+    },
+    {
+      "title": "Cool",
+      "text": "Let cool on the tray."
+    },
+    {
+      "title": "Add",
+      "text": "Once cooled, stir through 113 g dried cranberries and 128 g dried apricots diced."
+    },
+    {
+      "title": "Store",
+      "text": "Keep in an airtight container for up to 2 weeks, or freeze for up to 3 months."
+    }
+  ],
+  "tips": [
+    "Stir the granola thoroughly every 15 minutes to ensure even browning and drying",
+    "Make sure the almond butter is well combined with the syrup before pouring, as it can be sticky",
+    "Add the dried fruits only after cooling so their moisture doesn't soften the granola"
+  ],
+  "storage": "Keep in an airtight container for up to 2 weeks, or freeze for up to 3 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 287,
+    "protein_g": 5.8,
+    "carbs_g": 39.0,
+    "sugar_g": 19.9,
+    "free_sugar_g": 15.0,
+    "fat_g": 13.3,
+    "satfat_g": 1.3,
+    "salt_g": 0.19,
+    "fibre_g": 5.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden granola with visible almond flakes, cranberries and apricot pieces.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

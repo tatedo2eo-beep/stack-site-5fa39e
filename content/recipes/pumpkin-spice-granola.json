@@ -1,0 +1,196 @@
+{
+  "slug": "pumpkin-spice-granola",
+  "title": "Pumpkin Spice Granola",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "granola",
+  "dish_title": "Granola",
+  "flavour": "Pumpkin spice",
+  "flavour_order": 11,
+  "access": "premium",
+  "base_recipe": "honey-maple-nut-granola-raisins",
+  "changes_from_base": "Pumpkin purée, brown sugar, oil and five warm spices coat oats, pumpkin seeds, pecans, flaxseed and milk powder, which bake slowly for 90 min; raisins and crystallised ginger go in once it has cooled.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A warm-spiced granola built on pumpkin purée and seeds, enriched with toasted pecans and finished with sticky pieces of crystallised ginger and plump raisins.",
+  "servings": 16,
+  "prep_min": 10,
+  "cook_min": 90,
+  "difficulty": "easy",
+  "equipment": [
+    "large rimmed baking tray (about 33 x 46 cm)",
+    "baking paper",
+    "large bowl",
+    "whisk",
+    "rubber spatula",
+    "wire rack",
+    "airtight container"
+  ],
+  "ingredients": [
+    {
+      "group": "Granola",
+      "qty": 267,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Granola",
+      "qty": 113,
+      "unit": "g",
+      "item": "pumpkin seeds"
+    },
+    {
+      "group": "Granola",
+      "qty": 110,
+      "unit": "g",
+      "item": "pecans, diced"
+    },
+    {
+      "group": "Granola",
+      "qty": 35,
+      "unit": "g",
+      "item": "flaxseed"
+    },
+    {
+      "group": "Granola",
+      "qty": 28,
+      "unit": "g",
+      "item": "skimmed milk powder"
+    },
+    {
+      "group": "Syrup",
+      "qty": 227,
+      "unit": "g",
+      "item": "tinned pumpkin purée"
+    },
+    {
+      "group": "Syrup",
+      "qty": 159,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 110,
+      "unit": "ml",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Syrup",
+      "qty": 2,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.33 tsp"
+    },
+    {
+      "group": "Syrup",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Syrup",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Syrup",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Syrup",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground allspice"
+    },
+    {
+      "group": "Syrup",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Stir in after baking",
+      "qty": 149,
+      "unit": "g",
+      "item": "raisins"
+    },
+    {
+      "group": "Stir in after baking",
+      "qty": 92,
+      "unit": "g",
+      "item": "crystallised ginger, diced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the oven to 150 °C (130 °C fan) and cover a large rimmed baking tray with baking paper."
+    },
+    {
+      "title": "Dry",
+      "text": "In a large bowl, mix 267 g rolled oats, 113 g pumpkin seeds, 110 g pecans diced, 35 g flaxseed and 28 g skimmed milk powder."
+    },
+    {
+      "title": "Wet",
+      "text": "In a medium bowl, whisk together 227 g tinned pumpkin purée, 159 g light brown sugar, 110 ml vegetable oil, ⅓ tsp fine salt, ½ tsp ground cinnamon, ½ tsp ground ginger, ¼ tsp ground nutmeg, ¼ tsp ground allspice and ⅛ tsp ground cloves until smooth."
+    },
+    {
+      "title": "Mix",
+      "text": "Tip the wet ingredients over the dry and stir thoroughly until everything is evenly coated."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread on the tray and bake for about 90 min, stirring thoroughly every 15 min, until golden brown and nearly dry (it will crisp further as it cools)."
+    },
+    {
+      "title": "Cool",
+      "text": "Let cool on the tray."
+    },
+    {
+      "title": "Add",
+      "text": "Once cooled, stir through 149 g raisins and 92 g crystallised ginger diced."
+    },
+    {
+      "title": "Store",
+      "text": "Pack into an airtight jar for up to 2 weeks at room temperature, or freeze for 3 months."
+    }
+  ],
+  "tips": [
+    "Stir the granola every 15 minutes to guarantee even browning and prevent burning at the edges",
+    "The pumpkin purée keeps this granola naturally moist, so stir often and bake long for thorough drying",
+    "Add the crystallised ginger and raisins after cooling to maintain their texture and prevent softening"
+  ],
+  "storage": "Store airtight at room temperature for 2 weeks, or freeze for up to 3 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 320,
+    "protein_g": 6.3,
+    "carbs_g": 38.5,
+    "sugar_g": 23.2,
+    "free_sugar_g": 15.4,
+    "fat_g": 17.3,
+    "satfat_g": 2.1,
+    "salt_g": 0.16,
+    "fibre_g": 4.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden-brown granola with pumpkin seeds, pecans, raisins and pieces of crystallised ginger.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

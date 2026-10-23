@@ -1,0 +1,153 @@
+{
+  "slug": "tahini-miso-seed-granola-grain-free",
+  "title": "Grain-Free Tahini Miso Seed Granola",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "granola",
+  "dish_title": "Granola",
+  "flavour": "Tahini & miso",
+  "flavour_order": 5,
+  "access": "premium",
+  "base_recipe": "honey-maple-nut-granola-raisins",
+  "changes_from_base": "Grain-free: no oats at all. Sunflower, pumpkin and sesame seeds, pistachios and coconut flakes are coated in maple syrup whisked with tahini and white miso, and stirred every 10 min as they bake.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A savoury-sweet grain-free granola built entirely from seeds and nuts, bound with tahini and white miso, delivering toasted and slightly salty flavours.",
+  "servings": 10,
+  "prep_min": 10,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "large rimmed baking tray (about 33 x 46 cm)",
+    "baking paper",
+    "large bowl",
+    "whisk",
+    "rubber spatula",
+    "wire rack",
+    "airtight container"
+  ],
+  "ingredients": [
+    {
+      "group": "Syrup",
+      "qty": 80,
+      "unit": "ml",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Syrup",
+      "qty": 60,
+      "unit": "g",
+      "item": "tahini, well stirred"
+    },
+    {
+      "group": "Syrup",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "white miso (check the label if avoiding barley)"
+    },
+    {
+      "group": "Syrup",
+      "qty": 3,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Syrup",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Granola",
+      "qty": 140,
+      "unit": "g",
+      "item": "raw unsalted sunflower seeds"
+    },
+    {
+      "group": "Granola",
+      "qty": 140,
+      "unit": "g",
+      "item": "raw unsalted pumpkin seeds"
+    },
+    {
+      "group": "Granola",
+      "qty": 125,
+      "unit": "g",
+      "item": "shelled pistachios"
+    },
+    {
+      "group": "Granola",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsweetened coconut flakes"
+    },
+    {
+      "group": "Granola",
+      "qty": 70,
+      "unit": "g",
+      "item": "sesame seeds"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Preheat",
+      "text": "Set the oven to 150 °C (130 °C fan) with the shelf in the middle and line a large rimmed baking tray with baking paper."
+    },
+    {
+      "title": "Syrup",
+      "text": "In a large bowl, whisk 80 ml maple syrup, 60 g tahini (well stirred before use), 3 tbsp white miso, 3 tsp vanilla and ½ tsp ground cinnamon until completely smooth."
+    },
+    {
+      "title": "Fold",
+      "text": "Add 140 g raw unsalted sunflower seeds, 140 g raw unsalted pumpkin seeds, 125 g shelled pistachios, 60 g unsweetened coconut flakes and 70 g sesame seeds, folding gently until everything is evenly coated."
+    },
+    {
+      "title": "Spread",
+      "text": "Turn the mixture onto the lined tray in a thin layer, then bake for 35-40 min, stirring every 10 min, until deep golden brown."
+    },
+    {
+      "title": "Cool",
+      "text": "Take out and let cool completely on the tray on a rack, which helps it crisp, then break into bite-sized pieces."
+    },
+    {
+      "title": "Store",
+      "text": "Keep in an airtight container."
+    }
+  ],
+  "tips": [
+    "White miso is the key to the savoury depth; check the label if you're avoiding barley",
+    "Stir frequently during baking to prevent scorching and encourage even browning",
+    "Serve with natural yoghurt or crumbled over salad for a crunchy contrast"
+  ],
+  "storage": "Store in an airtight container for up to 3 weeks. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sesame",
+    "soya",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 388,
+    "protein_g": 13.1,
+    "carbs_g": 20.8,
+    "sugar_g": 8.9,
+    "free_sugar_g": 6.6,
+    "fat_g": 30.7,
+    "satfat_g": 7.0,
+    "salt_g": 0.5,
+    "fibre_g": 6.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden seed and nut granola with visible pistachios and coconut.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

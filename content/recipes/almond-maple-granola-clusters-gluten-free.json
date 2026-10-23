@@ -1,0 +1,152 @@
+{
+  "slug": "almond-maple-granola-clusters-gluten-free",
+  "title": "Gluten-Free Almond Maple Granola Clusters",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "granola",
+  "dish_title": "Granola",
+  "flavour": "Almond",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "honey-maple-nut-granola-raisins",
+  "changes_from_base": "Gluten-free: certified gluten-free oats are bound with ground almonds, rice flour and a melted maple and dark brown sugar syrup, pressed into the tray, baked and scored so it snaps into clusters; no nuts, seeds or raisins.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "These gluten-free clusters are studded with ground almonds and bound with maple syrup, resulting in shards that are deeply golden, wonderfully nutty and satisfyingly crunchy.",
+  "servings": 16,
+  "prep_min": 10,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "large rimmed baking tray (about 33 x 46 cm)",
+    "baking paper",
+    "large bowl",
+    "whisk",
+    "rubber spatula",
+    "wire rack",
+    "airtight container",
+    "stiff metal spatula",
+    "medium saucepan",
+    "wooden spoon",
+    "sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Granola",
+      "qty": 510,
+      "unit": "g",
+      "item": "gluten-free rolled oats"
+    },
+    {
+      "group": "Granola",
+      "qty": 140,
+      "unit": "g",
+      "item": "almond flour (ground almonds)"
+    },
+    {
+      "group": "Granola",
+      "qty": 70,
+      "unit": "g",
+      "item": "gluten-free brown rice flour"
+    },
+    {
+      "group": "Granola",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Granola",
+      "qty": 120,
+      "unit": "ml",
+      "item": "rapeseed or olive oil"
+    },
+    {
+      "group": "Syrup",
+      "qty": 200,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 150 °C (130 °C fan) with the shelf in the middle and line a large rimmed baking tray with baking paper."
+    },
+    {
+      "title": "Mix",
+      "text": "In a large bowl, combine 510 g gluten-free rolled oats, 140 g almond flour, 70 g gluten-free brown rice flour and ½ tsp fine salt."
+    },
+    {
+      "title": "Warm",
+      "text": "In a medium saucepan over low heat, gently warm 120 ml rapeseed oil, 200 g dark brown sugar and 120 ml maple syrup, stirring often, until the sugar dissolves; turn off the heat and stir in 1 tsp vanilla."
+    },
+    {
+      "title": "Combine",
+      "text": "Pour the warm syrup over the oat mixture and stir thoroughly until every grain is coated."
+    },
+    {
+      "title": "Spread",
+      "text": "Tip onto the lined tray and press very firmly with a rigid metal spatula into one even, compact layer."
+    },
+    {
+      "title": "Bake",
+      "text": "Place in the oven for 45 min, rotating halfway through, until golden and wonderfully fragrant."
+    },
+    {
+      "title": "Chill",
+      "text": "Let cool right through on the tray, which helps it crisp up."
+    },
+    {
+      "title": "Score",
+      "text": "Whilst still slightly warm, use a sharp knife to score the slab into bars or squares; once cooled through, snap along the score lines."
+    }
+  ],
+  "tips": [
+    "Use oats labelled gluten-free if you are cooking for anyone who avoids gluten, as ordinary oats are often cross-contaminated with wheat",
+    "Press the mixture very firmly before baking to keep clusters from crumbling",
+    "Cool completely on the tray before breaking apart so they set properly"
+  ],
+  "storage": "Store in an airtight container for up to 2 weeks. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 324,
+    "protein_g": 6.3,
+    "carbs_g": 45.7,
+    "sugar_g": 18.9,
+    "free_sugar_g": 18.2,
+    "fat_g": 13.6,
+    "satfat_g": 1.2,
+    "salt_g": 0.2,
+    "fibre_g": 4.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden-brown gluten-free granola clusters broken into irregular pieces.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

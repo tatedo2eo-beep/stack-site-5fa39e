@@ -17,6 +17,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | almond-croissant-french-toast-bake | French toast | Almond | 1 | 3 |
 | almond-flour-brownies | Brownie (fudgy or cakey) | Almond | 1 | 3 |
 | almond-hazelnut-dacquoise-coffee-buttercream | Dacquoise | Classic | 2 | 4 |
+| almond-maple-granola-clusters-gluten-free | Granola | Almond | 1 | 3 |
 | almond-marzipan-fruits | Pâte d'amande/marzipan | Classic | 1 | 3 |
 | almond-milk-granita-toasted-almonds | Granita | Almond | 1 | 3 |
 | almond-tuiles | Tuiles | Classic | 2 | 4 |
@@ -69,6 +70,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | banana-bread-pancakes-brown-butter | Pancakes (American) | Banana | 1 | 3 |
 | banana-bread | Banana bread/quick breads | Classic | 2 | 4 |
 | banana-cream-pie | Cream pie (banana, coconut) | Classic | 2 | 4 |
+| banana-granola-dried-fruit-nuts | Granola | Banana | 1 | 3 |
 | banana-infused-cream-pie | Cream pie (banana, coconut) | Banana | 2 | 4 |
 | banana-milk-paletas | Popsicles | Banana | 1 | 3 |
 | banana-walnut-chocolate-chunk-philadelphia-ice-cream | Philadelphia (no egg) | Banana & walnut | 1 | 3 |
@@ -237,6 +239,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cheesy-potato-gratin | Gratin | Classic | 2 | 4 |
 | cherry-almond-frangipane-tart | Frangipane | Cherry | 1 | 3 |
 | cherry-bakewell-tart-glace-cherries | Bakewell | Cherry | 2 | 4 |
+| cherry-chocolate-chip-granola | Granola | Cherry | 1 | 3 |
 | cherry-clafoutis | Clafoutis | Classic | 2 | 4 |
 | cherry-lime-iced-tea | Iced tea | Cherry & lime | 1 | 3 |
 | cherry-rosemary-pomegranate-focaccia | Focaccia | Cherry | 1 | 3 |
@@ -310,6 +313,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chocolate-sprinkle-brigadeiros | Brigadeiros | Classic | 2 | 4 |
 | chocolate-topped-butter-toffee | Toffee | Classic | 2 | 4 |
 | chocolate-tres-leches-cake | Tres leches | Chocolate | 3 | 5 |
+| chocolate-walnut-granola | Granola | Chocolate | 1 | 3 |
 | chocolate-whoopie-pies | Whoopie pie | Classic | 2 | 4 |
 | chorba-algerian-lamb-chickpea-tomato-soup | Chorba | Classic | 3 | 5 |
 | chow-mein | Chow mein/lo mein | Classic | 3 | 5 |
@@ -364,6 +368,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | clementine-sorbet-blender | Sorbet | Clementine | 1 | 3 |
 | cocoa-dusted-dark-chocolate-truffles | Truffles | Classic | 3 | 5 |
 | cocoa-frozen-yoghurt | Frozen yogurt | Chocolate | 1 | 3 |
+| coconut-almond-cluster-granola | Granola | Coconut | 1 | 3 |
 | coconut-hot-chocolate-meringue-top | Hot chocolate (French chocolat chaud, Spanish thick) | Coconut | 1 | 3 |
 | coconut-key-lime-yogurt-muffins | American muffin (blueberry style, muffin method) | Coconut & Key lime | 1 | 3 |
 | coconut-peanut-satay-sauce | Peanut/satay | Classic | 2 | 4 |
@@ -392,6 +397,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | coronation-chicken | Coronation chicken | Classic | 2 | 5 |
 | courgette-fudge-brownies | Brownie (fudgy or cakey) | Zucchini | 1 | 3 |
 | cracker-thin-pizza-three-cheese-blend-sweet-oregano-sauce | St. Louis-style pizza | Classic | 2 | 4 |
+| cranberry-apricot-almond-granola | Granola | Cranberry & apricot | 1 | 3 |
 | cranberry-butter-parker-house-rolls | Dinner rolls | Cranberry | 1 | 3 |
 | cranberry-ginger-apple-slab-tart | Fruit tart (crème pâtissière) | Cranberry & ginger | 1 | 3 |
 | cranberry-oat-bars | Bars (magic bars, millionaire's shortbread) | Cranberry | 1 | 3 |
@@ -608,6 +614,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | ginger-matcha-custard-ice-cream | Custard-base (French) | Ginger & matcha | 1 | 3 |
 | ginger-matcha-honey-granita | Granita | Ginger & matcha | 1 | 3 |
 | ginger-rhubarb-crumble | Crumble | Rhubarb | 1 | 3 |
+| ginger-sesame-granola | Granola | Ginger & sesame | 1 | 3 |
 | ginger-spice-brownies | Brownie (fudgy or cakey) | Ginger | 1 | 3 |
 | ginger-turmeric-frozen-yoghurt | Frozen yogurt | Turmeric | 1 | 3 |
 | gingerbread-cookie-custard-ice-cream | Custard-base (French) | Gingerbread | 1 | 3 |
@@ -701,6 +708,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | honey-lavender-custard-ice-cream | Custard-base (French) | Lavender | 1 | 3 |
 | honey-maple-nut-granola-raisins | Granola | Classic | 2 | 4 |
 | honey-mustard-coleslaw-chives | Coleslaw | Honey mustard | 1 | 3 |
+| honey-pecan-granola | Granola | Honey | 1 | 3 |
 | honey-pistachio-almond-nougat | Nougat | Classic | 1 | 4 |
 | honey-thyme-custard-ice-cream | Custard-base (French) | Thyme | 1 | 3 |
 | honey-whole-wheat-sandwich-loaf | ? | ? | MISSING | |
@@ -729,6 +737,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | imam-bayildi-braised-stuffed-aubergines | Imam bayildi | Classic | 2 | 4 |
 | individual-almond-plum-tarts | Fruit tart (crème pâtissière) | Almond | 1 | 3 |
 | indonesian-sweet-soy-fried-rice-chicken-prawns-fried-egg | Nasi goreng | Classic | 3 | 5 |
+| instant-coffee-granola-almonds | Granola | Coffee | 1 | 3 |
 | ipo-coconut-bread-pain-perdu | French toast | Coconut | 1 | 3 |
 | irish-lamb-stew-potatoes-carrots | Irish stew | Classic | 3 | 5 |
 | italian-bean-vegetable-soup-small-pasta-basil | Minestrone | Classic | 3 | 5 |
@@ -1119,6 +1128,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pumpkin-pecan-pancakes | Pancakes (American) | Pumpkin | 1 | 3 |
 | pumpkin-soup-caramelised-onion-sage | Pumpkin soup | Classic | 2 | 4 |
 | pumpkin-spice-custard-ice-cream | Custard-base (French) | Pumpkin | 1 | 3 |
+| pumpkin-spice-granola | Granola | Pumpkin spice | 1 | 3 |
 | pumpkin-spice-ice-cream-cake | Ice-cream cake | Pumpkin spice | 1 | 3 |
 | pumpkin-spice-latte-butternut-maple | Latte | Pumpkin spice | 1 | 3 |
 | pumpkin-spice-muffins-crumb-top | American muffin (blueberry style, muffin method) | Pumpkin spice | 1 | 3 |
@@ -1197,6 +1207,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | rosemary-honey-almond-tart | Frangipane | Rosemary & honey | 1 | 3 |
 | rosemary-lime-cream-sorbet | Sorbet | Rosemary | 1 | 3 |
 | rosemary-maple-custard-ice-cream | Custard-base (French) | Rosemary | 1 | 3 |
+| rosemary-pistachio-granola | Granola | Rosemary & pistachio | 1 | 3 |
 | rosemary-potato-flake-rolls | Dinner rolls | Rosemary | 1 | 3 |
 | rugelach | Rugelach | Classic | 2 | 4 |
 | russian-pirozhki-beef-cheddar-buns | Pirozhki | Classic | 1 | 3 |
@@ -1216,6 +1227,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | salted-caramel-brownies | Brownie (fudgy or cakey) | Salted caramel | 1 | 3 |
 | salted-caramel-chocolate-tart-pecans | Chocolate tart | Salted caramel | 1 | 3 |
 | salted-caramel-coconut-philadelphia-ice-cream | Philadelphia (no egg) | Salted caramel & coconut | 1 | 3 |
+| salted-caramel-peanut-granola | Granola | Salted caramel & peanut | 1 | 3 |
 | salted-chocolate-hot-fudge-sundae | Sundaes | Chocolate | 1 | 3 |
 | salted-edamame-in-pods | Edamame | Classic | 1 | 3 |
 | salted-lassi-toasted-cumin | Lassi | Classic | 1 | 3 |
@@ -1271,6 +1283,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | slow-cooked-dry-coconut-beef-curry-lemongrass-lime-leaf | Rendang | Beef (classic) | 3 | 5 |
 | slow-cooked-duck-legs-crisp-potatoes-frisee | Duck confit | Classic | 3 | 5 |
 | slow-cooked-lamb-wheat-harees | Harees | Classic | 2 | 4 |
+| slow-cooker-almond-raisin-granola | Granola | Raisin | 1 | 3 |
 | slow-roast-beef-yorkshire-puddings | Roast beef | Classic | 5 | 7 |
 | slow-roasted-spiced-lamb-shoulder-cumin-salt | Mechoui | Classic | 2 | 4 |
 | slow-simmered-dulce-de-leche | Dulce de leche | Classic | 1 | 4 |
@@ -1372,6 +1385,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | strawberry-cheesecake-bars | Bars (magic bars, millionaire's shortbread) | Strawberry | 1 | 3 |
 | strawberry-eton-mess | Eton mess | Classic | 2 | 4 |
 | strawberry-granita-fork-scraped | Granita | Strawberry | 2 | 4 |
+| strawberry-granola-pepitas | Granola | Strawberry | 1 | 3 |
 | strawberry-ice-pops | Popsicles | Classic | 1 | 3 |
 | strawberry-icebox-cake-vanilla-wafers | Ice-cream cake | Strawberry | 1 | 3 |
 | strawberry-jam-buttermilk-philadelphia-ice-cream | Philadelphia (no egg) | Strawberry | 1 | 3 |
@@ -1410,6 +1424,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tafelspitz-apple-horseradish | Tafelspitz | Classic | 2 | 4 |
 | tahini-apple-galette-cardamom | Fruit tart (crème pâtissière) | Tahini | 1 | 3 |
 | tahini-banana-porridge-maple-sesame | Porridge/oatmeal | Tahini & banana | 1 | 3 |
+| tahini-miso-seed-granola-grain-free | Granola | Tahini & miso | 1 | 3 |
 | tall-crisp-popovers | Popovers | Classic | 2 | 4 |
 | tall-crisp-yorkshire-puddings | Yorkshire pudding | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |

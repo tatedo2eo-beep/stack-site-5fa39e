@@ -1,0 +1,157 @@
+{
+  "slug": "chocolate-walnut-granola",
+  "title": "Chocolate Walnut Granola",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "granola",
+  "dish_title": "Granola",
+  "flavour": "Chocolate",
+  "flavour_order": 7,
+  "access": "premium",
+  "base_recipe": "honey-maple-nut-granola-raisins",
+  "changes_from_base": "Pressed into a firm, even sheet with a metal spatula and baked unstirred so it sets into big chunks, using oil, maple syrup and cocoa powder and brown sugar, with walnuts; chopped chocolate is tossed through once it has cooled.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A dark chocolate granola with walnuts and chunks of melted chocolate stirred through after baking, creating rich pockets of flavour throughout.",
+  "servings": 18,
+  "prep_min": 10,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "large rimmed baking tray (about 33 x 46 cm)",
+    "baking paper",
+    "large bowl",
+    "whisk",
+    "rubber spatula",
+    "wire rack",
+    "airtight container",
+    "stiff metal spatula",
+    "chopping board",
+    "serrated knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Syrup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Syrup",
+      "qty": 80,
+      "unit": "ml",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Syrup",
+      "qty": 28,
+      "unit": "g",
+      "item": "unsweetened cocoa powder"
+    },
+    {
+      "group": "Syrup",
+      "qty": 66,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Syrup",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Granola",
+      "qty": 425,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Granola",
+      "qty": 225,
+      "unit": "g",
+      "item": "walnuts, chopped"
+    },
+    {
+      "group": "Stir in after baking",
+      "qty": 170,
+      "unit": "g",
+      "item": "dark or semi-sweet chocolate, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Preheat the oven to 165 °C (145 °C fan) with the shelf in the upper-middle, then line a large rimmed baking tray with baking paper."
+    },
+    {
+      "title": "Whisk",
+      "text": "In a large bowl, whisk together 120 ml vegetable oil, 80 ml maple syrup, 28 g unsweetened cocoa powder, 66 g light brown sugar, 4 tsp vanilla and ½ tsp fine salt."
+    },
+    {
+      "title": "Fold",
+      "text": "Fold 425 g rolled oats and 225 g walnuts chopped through the chocolate mixture until every grain is well coated."
+    },
+    {
+      "title": "Shape",
+      "text": "Tip onto the lined tray, spread into a thin layer and push down very firmly with a stiff metal spatula to form a solid, even sheet."
+    },
+    {
+      "title": "Bake",
+      "text": "Place in the oven for 40-45 min, rotating the tray at the midpoint, until the mixture feels dry and smells richly fragrant (the dark colour means you should judge by smell and touch, not appearance)."
+    },
+    {
+      "title": "Cool",
+      "text": "Let cool on a wire rack for 1 h, then break into pieces of any size."
+    },
+    {
+      "title": "Finish",
+      "text": "Stir through 170 g dark or semi-sweet chocolate roughly chopped only once the granola is completely cold (this prevents it from melting in)."
+    },
+    {
+      "title": "Store",
+      "text": "Keep in an airtight container."
+    }
+  ],
+  "tips": [
+    "Judge doneness by smell and feel rather than colour, since cocoa powder makes it naturally dark",
+    "Let the granola cool completely before stirring in chocolate so it doesn't melt and coat unevenly",
+    "Add the chocolate in chunks rather than chips so it creates satisfying pieces rather than a coating"
+  ],
+  "storage": "Store in an airtight container for up to 2 weeks. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 306,
+    "protein_g": 5.7,
+    "carbs_g": 32.3,
+    "sugar_g": 13.0,
+    "free_sugar_g": 12.4,
+    "fat_g": 18.9,
+    "satfat_g": 3.3,
+    "salt_g": 0.17,
+    "fibre_g": 4.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Dark brown granola with visible walnut pieces and chocolate chunks.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

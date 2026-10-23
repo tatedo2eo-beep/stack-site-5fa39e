@@ -1,0 +1,161 @@
+{
+  "slug": "slow-cooker-almond-raisin-granola",
+  "title": "Slow-Cooker Almond Raisin Granola",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "granola",
+  "dish_title": "Granola",
+  "flavour": "Raisin",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "honey-maple-nut-granola-raisins",
+  "changes_from_base": "Cooked in a slow cooker on high, stirred every hour, instead of in the oven: oats and almonds are coated in an oil, maple, honey and brown sugar syrup with cinnamon, cooled on a tray and mixed with chopped raisins.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A honey-sweetened slow-cooker granola full of almonds and studded with plump raisins, made entirely in one pot without oven baking.",
+  "servings": 18,
+  "prep_min": 10,
+  "cook_min": 270,
+  "difficulty": "easy",
+  "equipment": [
+    "slow cooker (at least 5000 ml)",
+    "large bowl",
+    "whisk",
+    "wooden spoon",
+    "rimmed baking tray",
+    "airtight container"
+  ],
+  "ingredients": [
+    {
+      "group": "Granola",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vegetable oil, for the slow cooker"
+    },
+    {
+      "group": "Granola",
+      "qty": 425,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Granola",
+      "qty": 285,
+      "unit": "g",
+      "item": "whole almonds, chopped"
+    },
+    {
+      "group": "Syrup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Syrup",
+      "qty": 80,
+      "unit": "ml",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Syrup",
+      "qty": 113,
+      "unit": "g",
+      "item": "runny honey"
+    },
+    {
+      "group": "Syrup",
+      "qty": 66,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Syrup",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Stir in after baking",
+      "qty": 285,
+      "unit": "g",
+      "item": "raisins, roughly chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Lightly oil the insert of a slow cooker with at least 5000 ml capacity and put in 425 g rolled oats and 285 g almonds roughly chopped."
+    },
+    {
+      "title": "Mix",
+      "text": "In a large bowl, whisk together 120 ml vegetable oil, 80 ml maple syrup, 113 g runny honey, 66 g light brown sugar, 4 tsp vanilla, 1 tsp ground cinnamon and ½ tsp fine salt."
+    },
+    {
+      "title": "Pour",
+      "text": "Tip the whisked mixture over the oats and almonds and stir thoroughly until everything is evenly coated."
+    },
+    {
+      "title": "Cook",
+      "text": "Place on the high setting with the lid on and cook for 4-5 h, stirring thoroughly and scraping the sides every hour, until golden and smelling toasty (check from 3 h onwards to prevent scorching)."
+    },
+    {
+      "title": "Cool",
+      "text": "Tip onto a rimmed baking tray and leave to cool through, which will help it crisp further."
+    },
+    {
+      "title": "Break",
+      "text": "Once fully cooled, break into pieces and stir through 285 g raisins roughly chopped."
+    },
+    {
+      "title": "Store",
+      "text": "Transfer to an airtight container."
+    }
+  ],
+  "tips": [
+    "Use a slow cooker with at least 5000 ml capacity to allow proper circulation and browning",
+    "Check after 3 hours to catch the granola before the edges scorch, as slow cookers vary",
+    "Stir thoroughly every hour and scrape the sides to encourage even browning throughout"
+  ],
+  "storage": "Store in an airtight container for up to 2 weeks. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 336,
+    "protein_g": 7.0,
+    "carbs_g": 44.9,
+    "sugar_g": 23.7,
+    "free_sugar_g": 12.4,
+    "fat_g": 15.8,
+    "satfat_g": 1.3,
+    "salt_g": 0.18,
+    "fibre_g": 5.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden-brown granola studded with dark raisins and visible almond pieces.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

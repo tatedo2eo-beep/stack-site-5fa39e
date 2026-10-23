@@ -1,0 +1,160 @@
+{
+  "slug": "strawberry-granola-pepitas",
+  "title": "Strawberry Granola with Pumpkin Seeds and Coconut",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "granola",
+  "dish_title": "Granola",
+  "flavour": "Strawberry",
+  "flavour_order": 14,
+  "access": "premium",
+  "base_recipe": "honey-maple-nut-granola-raisins",
+  "changes_from_base": "Smaller batch with honey and sugar heated together with oil and a touch of chilli; freeze-dried strawberries are stirred in at the end so they stay crisp and colour the granola pink.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A strawberry granola with pumpkin seeds and toasted almonds, finished with freeze-dried strawberry pieces that add tartness and natural sweetness, lovely with yoghurt.",
+  "servings": 10,
+  "prep_min": 10,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "large rimmed baking tray (about 33 x 46 cm)",
+    "baking paper",
+    "large bowl",
+    "whisk",
+    "rubber spatula",
+    "wire rack",
+    "airtight container",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Granola",
+      "qty": 200,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Granola",
+      "qty": 100,
+      "unit": "g",
+      "item": "almonds (or hazelnuts or cashews), roughly chopped"
+    },
+    {
+      "group": "Granola",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsweetened coconut chips (optional)"
+    },
+    {
+      "group": "Granola",
+      "qty": 70,
+      "unit": "g",
+      "item": "pumpkin seeds"
+    },
+    {
+      "group": "Syrup",
+      "qty": 70,
+      "unit": "g",
+      "item": "runny honey"
+    },
+    {
+      "group": "Syrup",
+      "qty": 40,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 60,
+      "unit": "ml",
+      "item": "coconut or olive oil"
+    },
+    {
+      "group": "Syrup",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "chilli flakes (optional)"
+    },
+    {
+      "group": "Syrup",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Stir in after baking",
+      "qty": 20,
+      "unit": "g",
+      "item": "freeze-dried strawberries"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Get the oven going at 150 °C (130 °C fan); put a sheet of baking paper on a large rimmed baking tray."
+    },
+    {
+      "title": "Mix",
+      "text": "In a large bowl, combine 200 g rolled oats, 100 g almonds (or hazelnuts or cashews) roughly chopped, 40 g unsweetened coconut chips (optional) and 70 g pumpkin seeds."
+    },
+    {
+      "title": "Warm",
+      "text": "Warm 70 g runny honey, 40 g light brown sugar, 60 ml coconut (or olive) oil, ⅛ tsp chilli flakes (optional) and ½ tsp fine salt in a small saucepan over medium heat, stirring, until the sugar dissolves."
+    },
+    {
+      "title": "Pour",
+      "text": "Tip the warm dressing over the oat mixture and stir thoroughly until everything is evenly coated."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread on the tray and bake for 15 min, stir, then bake for 20-25 min more until golden."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool completely on the tray."
+    },
+    {
+      "title": "Add",
+      "text": "Once completely cold, stir through 20 g freeze-dried strawberries, crushing some into a fine pink powder."
+    },
+    {
+      "title": "Store",
+      "text": "Keep in an airtight container for up to 2 weeks."
+    }
+  ],
+  "tips": [
+    "Toast the granola twice—once for 15 minutes, then again for 20-25 minutes—to achieve even browning",
+    "Crush some freeze-dried strawberries into powder so they distribute throughout the granola",
+    "The optional chilli flakes add subtle warmth that complements the strawberry flavour beautifully"
+  ],
+  "storage": "Keep in an airtight container for up to 2 weeks. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 292,
+    "protein_g": 7.3,
+    "carbs_g": 28.5,
+    "sugar_g": 11.5,
+    "free_sugar_g": 9.6,
+    "fat_g": 17.8,
+    "satfat_g": 8.0,
+    "salt_g": 0.3,
+    "fibre_g": 4.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Granola with visible strawberry pieces, almonds and pumpkin seeds.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

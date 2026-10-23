@@ -1,0 +1,174 @@
+{
+  "slug": "ginger-sesame-granola",
+  "title": "Ginger Sesame Granola",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "granola",
+  "dish_title": "Granola",
+  "flavour": "Ginger & sesame",
+  "flavour_order": 15,
+  "access": "premium",
+  "base_recipe": "honey-maple-nut-granola-raisins",
+  "changes_from_base": "Tahini and olive oil replace the neutral oil and honey, with ground ginger, cardamom, almonds and sesame; optional egg white helps it clump, and crystallised ginger is stirred in before it cools in the switched-off oven.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A ginger-infused granola with toasted sesame and almond, spiked with flaky sea salt and sticky pieces of crystallised ginger for added depth and chew.",
+  "servings": 18,
+  "prep_min": 10,
+  "cook_min": 50,
+  "difficulty": "easy",
+  "equipment": [
+    "large rimmed baking tray (about 33 x 46 cm)",
+    "baking paper",
+    "large bowl",
+    "whisk",
+    "rubber spatula",
+    "wire rack",
+    "airtight container"
+  ],
+  "ingredients": [
+    {
+      "group": "Syrup",
+      "qty": 80,
+      "unit": "ml",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Syrup",
+      "qty": 55,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 65,
+      "unit": "g",
+      "item": "tahini, well stirred"
+    },
+    {
+      "group": "Syrup",
+      "qty": 60,
+      "unit": "ml",
+      "item": "olive oil"
+    },
+    {
+      "group": "Syrup",
+      "qty": 2,
+      "unit": "pc",
+      "item": "egg whites (optional, for clusters)"
+    },
+    {
+      "group": "Syrup",
+      "qty": 3,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Granola",
+      "qty": 480,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Granola",
+      "qty": 150,
+      "unit": "g",
+      "item": "flaked almonds"
+    },
+    {
+      "group": "Granola",
+      "qty": 50,
+      "unit": "g",
+      "item": "sesame seeds"
+    },
+    {
+      "group": "Granola",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    },
+    {
+      "group": "Granola",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Granola",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "Stir in after baking",
+      "qty": 85,
+      "unit": "g",
+      "item": "crystallised ginger, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Preheat the oven to 165 °C (145 °C fan) and line a large rimmed baking tray with baking paper."
+    },
+    {
+      "title": "Syrup",
+      "text": "In a large bowl, whisk 80 ml maple syrup, 55 g dark brown sugar, 65 g tahini (well stirred), 60 ml olive oil, 2 egg whites if using and 3 tsp vanilla until completely smooth."
+    },
+    {
+      "title": "Mix",
+      "text": "Add 480 g rolled oats, 150 g flaked almonds, 50 g sesame seeds, 2 tsp flaky sea salt, 2 tsp ground ginger and ¼ tsp ground cardamom and mix until thoroughly coated."
+    },
+    {
+      "title": "Spread",
+      "text": "Tip onto the lined tray and spread out."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 20 min, then stir and continue baking for about 30 min more, stirring every 10 min, until golden."
+    },
+    {
+      "title": "Finish",
+      "text": "Scatter 85 g crystallised ginger chopped over the granola, then switch off the oven and leave the tray inside for 2 h to crisp."
+    },
+    {
+      "title": "Store",
+      "text": "Keep in an airtight container for up to 3 weeks."
+    }
+  ],
+  "tips": [
+    "Add the egg whites if you prefer chunkier clusters; omit them for a crunchier texture",
+    "Toast the granola in two phases (20 minutes, then 30 minutes) to develop full flavour",
+    "Leave it in the turned-off oven with crystallised ginger to finish drying and crisping"
+  ],
+  "storage": "Keep in an airtight container for up to 3 weeks. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "sesame",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 266,
+    "protein_g": 6.8,
+    "carbs_g": 33.1,
+    "sugar_g": 12.0,
+    "free_sugar_g": 11.3,
+    "fat_g": 12.6,
+    "satfat_g": 1.6,
+    "salt_g": 0.25,
+    "fibre_g": 4.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden granola with sesame seeds, almond flakes and chunks of crystallised ginger.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

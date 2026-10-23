@@ -1,0 +1,232 @@
+{
+  "slug": "banana-granola-dried-fruit-nuts",
+  "title": "Banana Granola with Tropical Dried Fruit and Nuts",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "granola",
+  "dish_title": "Granola",
+  "flavour": "Banana",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "honey-maple-nut-granola-raisins",
+  "changes_from_base": "Oats, wheat germ, flaxseed and chia soak up a spiced banana purée and sugar before a long, slow bake, then are tossed with toasted mixed nuts and dried mango, cherries and blueberries; no honey syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "This fruit-and-nut granola is built on a foundation of banana purée, creating naturally sweet clusters loaded with dried mango, cherries and blueberries alongside toasted nuts.",
+  "servings": 20,
+  "prep_min": 25,
+  "cook_min": 120,
+  "difficulty": "medium",
+  "equipment": [
+    "large rimmed baking tray (about 33 x 46 cm)",
+    "baking paper",
+    "large bowl",
+    "whisk",
+    "rubber spatula",
+    "wire rack",
+    "airtight container",
+    "medium bowl",
+    "fork",
+    "cling film",
+    "2 forks for stirring"
+  ],
+  "ingredients": [
+    {
+      "group": "Granola",
+      "qty": 400,
+      "unit": "g",
+      "item": "very ripe banana purée (about 4 black-skinned bananas)"
+    },
+    {
+      "group": "Granola",
+      "qty": 3,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Granola",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Granola",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Granola",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Granola",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "grated nutmeg"
+    },
+    {
+      "group": "Granola",
+      "qty": 340,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Granola",
+      "qty": 40,
+      "unit": "g",
+      "item": "toasted wheat germ"
+    },
+    {
+      "group": "Granola",
+      "qty": 30,
+      "unit": "g",
+      "item": "ground flaxseed"
+    },
+    {
+      "group": "Granola",
+      "qty": 15,
+      "unit": "g",
+      "item": "chia seeds"
+    },
+    {
+      "group": "Granola",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Granola",
+      "qty": 85,
+      "unit": "g",
+      "item": "coconut oil, melted"
+    },
+    {
+      "group": "Nuts and seeds",
+      "qty": 60,
+      "unit": "g",
+      "item": "pumpkin seeds"
+    },
+    {
+      "group": "Nuts and seeds",
+      "qty": 60,
+      "unit": "g",
+      "item": "walnuts"
+    },
+    {
+      "group": "Nuts and seeds",
+      "qty": 70,
+      "unit": "g",
+      "item": "macadamia nuts, roughly chopped"
+    },
+    {
+      "group": "Nuts and seeds",
+      "qty": 65,
+      "unit": "g",
+      "item": "pecan pieces"
+    },
+    {
+      "group": "Nuts and seeds",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Nuts and seeds",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Stir in after baking",
+      "qty": 115,
+      "unit": "g",
+      "item": "dried mango, cut into bite-size pieces"
+    },
+    {
+      "group": "Stir in after baking",
+      "qty": 85,
+      "unit": "g",
+      "item": "dried sour cherries"
+    },
+    {
+      "group": "Stir in after baking",
+      "qty": 55,
+      "unit": "g",
+      "item": "dried blueberries"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Purée",
+      "text": "Mash 400 g very ripe banana to a smooth paste with a fork, then stir through 3 tsp vanilla, ½ tsp fine salt, ½ tsp ground cinnamon, ½ tsp ground cloves and ¼ tsp grated nutmeg."
+    },
+    {
+      "title": "Assembly",
+      "text": "In a large bowl, combine 340 g rolled oats, 40 g toasted wheat germ, 30 g ground flaxseed, 15 g chia seeds and 200 g caster sugar; add the banana mixture and 85 g melted coconut oil, stirring well until it resembles wet sand."
+    },
+    {
+      "title": "Rest",
+      "text": "Cover the bowl and leave for 30 min so the oats can absorb the liquid."
+    },
+    {
+      "title": "Toast",
+      "text": "Meanwhile, toss 60 g pumpkin seeds, 60 g walnuts, 70 g roughly chopped macadamia nuts and 65 g pecan pieces with 1 tsp neutral oil and ⅛ tsp fine salt on a tray, then toast for about 15 min, stirring once, until golden; set aside to cool."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread the oat mixture evenly on a lined large tray and bake at 150 °C (130 °C fan) for about 1 h 50 min, using two forks to stir and break up the mixture every 20-30 min, until deep brown and dry to the touch."
+    },
+    {
+      "title": "Cool",
+      "text": "Let cool fully on the tray as it will crisp further."
+    },
+    {
+      "title": "Combine",
+      "text": "Mix in the cooled toasted nuts, 115 g dried mango cut into bite-size pieces, 85 g dried sour cherries and 55 g dried blueberries."
+    },
+    {
+      "title": "Store",
+      "text": "Keep in an airtight container in a cool place."
+    }
+  ],
+  "tips": [
+    "Toast the nuts separately before adding for maximum crunch and flavour",
+    "Stir the granola frequently during baking to guarantee even browning and drying",
+    "Let the banana mixture sit in the oats before baking so they absorb all the moisture"
+  ],
+  "storage": "Store in an airtight container in a cool place for up to 6 weeks, or freeze for up to 3 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 301,
+    "protein_g": 5.5,
+    "carbs_g": 39.2,
+    "sugar_g": 20.8,
+    "free_sugar_g": 10.1,
+    "fat_g": 15.1,
+    "satfat_g": 4.9,
+    "salt_g": 0.19,
+    "fibre_g": 4.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Clumpy granola mixture with visible pieces of banana, nuts and dried fruit.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

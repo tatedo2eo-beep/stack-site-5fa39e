@@ -1,0 +1,156 @@
+{
+  "slug": "cherry-chocolate-chip-granola",
+  "title": "Cherry Chocolate Chip Granola",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "granola",
+  "dish_title": "Granola",
+  "flavour": "Cherry",
+  "flavour_order": 8,
+  "access": "premium",
+  "base_recipe": "honey-maple-nut-granola-raisins",
+  "changes_from_base": "Pressed into a firm, even sheet with a metal spatula and baked unstirred so it sets into big chunks, using oil, maple syrup and brown sugar, with almonds; chopped dried cherries and mini chocolate chips replace the raisins after cooling.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "An almond-based granola studded with tart dried cherries and sweet chocolate chips, creating a perfect balance of flavours and textures.",
+  "servings": 18,
+  "prep_min": 10,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "large rimmed baking tray (about 33 x 46 cm)",
+    "baking paper",
+    "large bowl",
+    "whisk",
+    "rubber spatula",
+    "wire rack",
+    "airtight container",
+    "stiff metal spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Syrup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Syrup",
+      "qty": 80,
+      "unit": "ml",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Syrup",
+      "qty": 66,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Syrup",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Granola",
+      "qty": 425,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Granola",
+      "qty": 285,
+      "unit": "g",
+      "item": "raw almonds, roughly chopped"
+    },
+    {
+      "group": "Stir in after baking",
+      "qty": 285,
+      "unit": "g",
+      "item": "dried cherries, chopped"
+    },
+    {
+      "group": "Stir in after baking",
+      "qty": 170,
+      "unit": "g",
+      "item": "mini semi-sweet chocolate chips"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Preheat",
+      "text": "Set the oven to 165 °C (145 °C fan) with the shelf in the upper-middle and line a large rimmed baking tray with baking paper."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk together 120 ml vegetable oil, 80 ml maple syrup, 66 g light brown sugar, 4 tsp vanilla and ½ tsp fine salt in a large bowl."
+    },
+    {
+      "title": "Fold",
+      "text": "Fold through 425 g rolled oats and 285 g raw almonds roughly chopped until everything is evenly coated."
+    },
+    {
+      "title": "Spread",
+      "text": "Tip the mixture onto the lined tray, spread thinly and press down very firmly with a stiff metal spatula to create a compact, even sheet."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 40-45 min, rotating the tray halfway, until light golden."
+    },
+    {
+      "title": "Cool",
+      "text": "Remove and cool on a wire rack for 1 h, then break into pieces of whatever size you prefer."
+    },
+    {
+      "title": "Finish",
+      "text": "Once completely cold, stir in 285 g dried cherries chopped and 170 g mini semi-sweet chocolate chips."
+    },
+    {
+      "title": "Store",
+      "text": "Transfer to an airtight container."
+    }
+  ],
+  "tips": [
+    "Toast and cool the granola fully before adding chocolate chips to prevent them from melting",
+    "Chop the dried cherries into bite-sized pieces so they distribute evenly throughout",
+    "Break the cooled granola gently so you get a mix of clusters and individual pieces"
+  ],
+  "storage": "Store in an airtight container for up to 2 weeks. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 360,
+    "protein_g": 7.4,
+    "carbs_g": 45.7,
+    "sugar_g": 23.6,
+    "free_sugar_g": 12.4,
+    "fat_g": 18.5,
+    "satfat_g": 3.0,
+    "salt_g": 0.18,
+    "fibre_g": 5.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Granola with visible almond pieces, dark cherries and chocolate chips.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

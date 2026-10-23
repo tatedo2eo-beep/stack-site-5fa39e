@@ -1,0 +1,162 @@
+{
+  "slug": "salted-caramel-peanut-granola",
+  "title": "Salted Caramel Peanut Granola",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "granola",
+  "dish_title": "Granola",
+  "flavour": "Salted caramel & peanut",
+  "flavour_order": 9,
+  "access": "premium",
+  "base_recipe": "honey-maple-nut-granola-raisins",
+  "changes_from_base": "A quick home-made caramel sauce (sugar, cream and butter) is whisked into the oil and maple syrup with plenty of salt, coating oats and peanuts that are pressed flat and baked into chunks.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A salted caramel granola with peanuts, delivering deep butterscotch notes with a hint of sea salt and the richness of slow-roasted nuts.",
+  "servings": 18,
+  "prep_min": 20,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "large rimmed baking tray (about 33 x 46 cm)",
+    "baking paper",
+    "large bowl",
+    "whisk",
+    "rubber spatula",
+    "wire rack",
+    "airtight container",
+    "stiff metal spatula",
+    "medium heavy-based saucepan",
+    "heatproof jug"
+  ],
+  "ingredients": [
+    {
+      "group": "Caramel",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Caramel",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Caramel",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Caramel",
+      "qty": 28,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Syrup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Syrup",
+      "qty": 80,
+      "unit": "ml",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Syrup",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Syrup",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Granola",
+      "qty": 425,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Granola",
+      "qty": 285,
+      "unit": "g",
+      "item": "unsalted dry-roasted peanuts, roughly chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Caramel",
+      "text": "In a medium heavy-based saucepan, heat 150 g caster sugar and 60 ml water over medium heat, swirling (not stirring) until deep amber, about 8-10 min; remove from the heat and slowly whisk in 120 ml double cream (it will foam up), then 28 g unsalted butter; pour into a heatproof jug and let cool for 10 min."
+    },
+    {
+      "title": "Preheat",
+      "text": "Heat the oven to 165 °C (145 °C fan), shelf just above the middle, and line a large rimmed baking tray with baking paper."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk the cooled caramel, 120 ml vegetable oil, 80 ml maple syrup, 4 tsp vanilla and 1½ tsp fine salt together in a large bowl."
+    },
+    {
+      "title": "Fold",
+      "text": "Fold in 425 g rolled oats and 285 g unsalted dry-roasted peanuts roughly chopped until thoroughly coated."
+    },
+    {
+      "title": "Spread",
+      "text": "Tip onto the lined tray, spread thinly and press down very firmly with a stiff metal spatula into an even sheet."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 40-45 min, turning the tray round after 20 min, until it is a light golden colour."
+    },
+    {
+      "title": "Cool",
+      "text": "Remove and cool on a wire rack for 1 h, then break into pieces."
+    },
+    {
+      "title": "Store",
+      "text": "Transfer to an airtight container."
+    }
+  ],
+  "tips": [
+    "Make the caramel before you preheat the oven so it has time to cool",
+    "Whisk the cream slowly and carefully into the hot caramel to prevent splashing",
+    "Use dry-roasted peanuts rather than raw ones for maximum flavour and crunch"
+  ],
+  "storage": "Store in an airtight container for up to 2 weeks. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 321,
+    "protein_g": 7.2,
+    "carbs_g": 32.0,
+    "sugar_g": 13.2,
+    "free_sugar_g": 12.0,
+    "fat_g": 19.2,
+    "satfat_g": 4.3,
+    "salt_g": 0.5,
+    "fibre_g": 3.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Clusters of granola with peanuts visible, golden-brown from caramel.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "honey-pecan-granola",
+  "title": "Honey Pecan Granola",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "granola",
+  "dish_title": "Granola",
+  "flavour": "Honey",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "honey-maple-nut-granola-raisins",
+  "changes_from_base": "Pressed into a firm, even sheet with a metal spatula and baked unstirred so it sets into big chunks, using oil, maple syrup and a generous amount of honey and cinnamon, with pecans in the bake and chopped raisins added once cool.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A honey-touched granola studded with toasted pecans and sticky raisins, baked until crisp and shattering.",
+  "servings": 18,
+  "prep_min": 10,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "large rimmed baking tray (about 33 x 46 cm)",
+    "baking paper",
+    "large bowl",
+    "whisk",
+    "rubber spatula",
+    "wire rack",
+    "airtight container",
+    "stiff metal spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Syrup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Syrup",
+      "qty": 80,
+      "unit": "ml",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Syrup",
+      "qty": 113,
+      "unit": "g",
+      "item": "runny honey"
+    },
+    {
+      "group": "Syrup",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Syrup",
+      "qty": 3,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Syrup",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Granola",
+      "qty": 425,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Granola",
+      "qty": 225,
+      "unit": "g",
+      "item": "pecans, roughly chopped"
+    },
+    {
+      "group": "Stir in after baking",
+      "qty": 285,
+      "unit": "g",
+      "item": "raisins, roughly chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Line",
+      "text": "Preheat the oven to 165 °C (145 °C fan) and position the shelf in the upper-middle; line a large rimmed baking tray with baking paper."
+    },
+    {
+      "title": "Syrup",
+      "text": "In a large bowl, whisk 120 ml vegetable oil, 80 ml maple syrup, 113 g runny honey, 4 tsp vanilla, 3 tsp ground cinnamon and ½ tsp fine salt."
+    },
+    {
+      "title": "Combine",
+      "text": "Fold 425 g rolled oats and 225 g pecans roughly chopped into the whisked syrup until everything is evenly coated."
+    },
+    {
+      "title": "Spread",
+      "text": "Tip onto the lined tray, spread thinly and press down very hard with a stiff metal spatula to create a compact, even sheet."
+    },
+    {
+      "title": "Bake",
+      "text": "Place in the oven for 40-45 min, rotating the tray halfway, until pale golden."
+    },
+    {
+      "title": "Cool",
+      "text": "Remove and leave to cool on a wire rack for 1 h, which helps it stay crisp."
+    },
+    {
+      "title": "Add",
+      "text": "Once cooled, break into pieces of whatever size you prefer and stir through 285 g raisins roughly chopped."
+    },
+    {
+      "title": "Store",
+      "text": "Transfer to an airtight container."
+    }
+  ],
+  "tips": [
+    "Press the mixture down very firmly before baking to achieve satisfying crispy clusters",
+    "Cool on a wire rack rather than the tray so air circulates underneath",
+    "Add raisins only after cooling completely so they don't soften further"
+  ],
+  "storage": "Store in an airtight container for up to 2 weeks. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 316,
+    "protein_g": 4.8,
+    "carbs_g": 39.9,
+    "sugar_g": 19.9,
+    "free_sugar_g": 8.8,
+    "fat_g": 16.7,
+    "satfat_g": 1.5,
+    "salt_g": 0.18,
+    "fibre_g": 4.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Clusters of granola with visible pecan pieces and raisins.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

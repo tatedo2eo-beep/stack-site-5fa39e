@@ -1,0 +1,172 @@
+{
+  "slug": "instant-coffee-granola-almonds",
+  "title": "Instant Coffee Granola with Almonds and Apricots",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "granola",
+  "dish_title": "Granola",
+  "flavour": "Coffee",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "honey-maple-nut-granola-raisins",
+  "changes_from_base": "An agave syrup flavoured with dissolved instant coffee, vanilla and cinnamon coats the oats, almonds, pumpkin seeds and chia; the tray cools in the switched-off oven and dried apricots go in at the end.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A coffee-infused granola studded with almonds and pumpkin seeds, subtly scented with cinnamon and offering the gentle warmth of dried apricots.",
+  "servings": 10,
+  "prep_min": 10,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "rimmed baking tray (about 23 x 33 cm)",
+    "baking paper",
+    "large bowl",
+    "whisk",
+    "rubber spatula",
+    "small jug",
+    "airtight container"
+  ],
+  "ingredients": [
+    {
+      "group": "Syrup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "agave syrup"
+    },
+    {
+      "group": "Syrup",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "instant coffee granules"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "hot water"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Syrup",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Syrup",
+      "qty": 80,
+      "unit": "ml",
+      "item": "refined coconut oil, melted"
+    },
+    {
+      "group": "Granola",
+      "qty": 260,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Granola",
+      "qty": 110,
+      "unit": "g",
+      "item": "whole skin-on almonds, roughly chopped"
+    },
+    {
+      "group": "Granola",
+      "qty": 80,
+      "unit": "g",
+      "item": "pumpkin seeds"
+    },
+    {
+      "group": "Granola",
+      "qty": 13,
+      "unit": "g",
+      "item": "chia seeds"
+    },
+    {
+      "group": "Stir in after baking",
+      "qty": 80,
+      "unit": "g",
+      "item": "dried apricots (or prunes or cherries), cut in 1 cm pieces"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prep",
+      "text": "Set the oven to 150 °C (130 °C fan) with the shelf in the middle and line a rimmed baking tray with baking paper."
+    },
+    {
+      "title": "Brew",
+      "text": "Dissolve 3 tbsp instant coffee granules in 1½ tbsp hot water in a small jug."
+    },
+    {
+      "title": "Whisk",
+      "text": "In a large bowl, whisk together 120 ml agave syrup, the brewed coffee, 1 tsp vanilla, ½ tsp ground cinnamon and ¼ tsp fine salt; then whisk in 80 ml refined coconut oil."
+    },
+    {
+      "title": "Fold",
+      "text": "Add 260 g rolled oats, 110 g whole skin-on almonds roughly chopped, 80 g pumpkin seeds and 13 g chia seeds, folding gently until every piece is evenly coated."
+    },
+    {
+      "title": "Spread",
+      "text": "Tip the mixture onto the lined tray and press down lightly."
+    },
+    {
+      "title": "Bake",
+      "text": "Place in the oven for about 40 min, rotating at the halfway point, until golden and wonderfully fragrant (the mixture will feel soft at this stage)."
+    },
+    {
+      "title": "Dry",
+      "text": "Switch off the oven, close the door and leave the tray inside for 2 h to finish drying and crisping."
+    },
+    {
+      "title": "Add",
+      "text": "Once cool, break into pieces and stir through 80 g dried apricots (or prunes or cherries) cut into 1 cm pieces."
+    }
+  ],
+  "tips": [
+    "The mixture will feel soft when you remove it from the oven but will crisp completely as it cools",
+    "Leave it in the turned-off oven to dry fully, which prevents the edges from over-browning",
+    "Instant coffee contains caffeine, roughly 25-35 mg per 55 g serving, so this is not one for young children; stir the dried fruit in only once the granola is cold"
+  ],
+  "storage": "Store in an airtight container for up to 2 weeks. Contains about 25-35 mg caffeine per 55 g serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 349,
+    "protein_g": 8.8,
+    "carbs_g": 40.1,
+    "sugar_g": 18.3,
+    "free_sugar_g": 13.2,
+    "fat_g": 18.7,
+    "satfat_g": 7.4,
+    "salt_g": 0.16,
+    "fibre_g": 5.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Brown granola with visible almond pieces and seeds.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

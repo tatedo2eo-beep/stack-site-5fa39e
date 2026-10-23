@@ -1,0 +1,138 @@
+{
+  "slug": "rosemary-pistachio-granola",
+  "title": "Rosemary Pistachio Granola with Chilli and Juniper",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "granola",
+  "dish_title": "Granola",
+  "flavour": "Rosemary & pistachio",
+  "flavour_order": 12,
+  "access": "premium",
+  "base_recipe": "honey-maple-nut-granola-raisins",
+  "changes_from_base": "Savoury-leaning and quick: oats and pistachios are coated in honey melted with butter, fresh rosemary, chilli flakes and ground juniper and baked only 15-20 min, stirred once.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A sophisticated granola with pistachios and fresh rosemary, warmed with chilli flakes and the earthiness of juniper, perfect with yoghurt or scattered on salads.",
+  "servings": 10,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large rimmed baking tray (about 33 x 46 cm)",
+    "baking paper",
+    "large bowl",
+    "whisk",
+    "rubber spatula",
+    "wire rack",
+    "airtight container",
+    "small saucepan",
+    "spice grinder or pestle and mortar"
+  ],
+  "ingredients": [
+    {
+      "group": "Granola",
+      "qty": 270,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Granola",
+      "qty": 250,
+      "unit": "g",
+      "item": "shelled pistachios"
+    },
+    {
+      "group": "Syrup",
+      "qty": 170,
+      "unit": "g",
+      "item": "runny honey"
+    },
+    {
+      "group": "Syrup",
+      "qty": 42,
+      "unit": "g",
+      "item": "butter"
+    },
+    {
+      "group": "Syrup",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "finely chopped fresh rosemary"
+    },
+    {
+      "group": "Syrup",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "chilli flakes"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely ground juniper berries"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the oven to 165 °C (145 °C fan); line a large rimmed baking tray with baking paper."
+    },
+    {
+      "title": "Combine",
+      "text": "In a large bowl, combine 270 g rolled oats and 250 g shelled pistachios."
+    },
+    {
+      "title": "Infuse",
+      "text": "In a small saucepan, gently melt 170 g runny honey and 42 g butter together; stir in 2 tbsp finely chopped fresh rosemary, 2 tsp chilli flakes and 1 tbsp finely ground juniper berries."
+    },
+    {
+      "title": "Pour",
+      "text": "Pour the warm infused butter over the oats and pistachios and mix thoroughly."
+    },
+    {
+      "title": "Spread",
+      "text": "Spread on the lined tray and bake for 15-20 min, stirring once at the halfway point, until golden."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool completely on the tray (it will crisp as it cools), then break into pieces."
+    },
+    {
+      "title": "Store",
+      "text": "Keep in an airtight container for up to 1 week."
+    }
+  ],
+  "tips": [
+    "Grind the juniper berries finely just before use so their fragrance is at its peak",
+    "Chop the fresh rosemary finely so it distributes evenly throughout the granola",
+    "This granola keeps for only 1 week due to the fresh herbs, so store carefully"
+  ],
+  "storage": "Keep in an airtight container for up to 1 week. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 330,
+    "protein_g": 9.0,
+    "carbs_g": 40.0,
+    "sugar_g": 16.2,
+    "free_sugar_g": 14.0,
+    "fat_g": 16.7,
+    "satfat_g": 3.9,
+    "salt_g": 0.01,
+    "fibre_g": 5.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Granola with visible whole pistachios, scattered with herb pieces and spice flecks.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}
