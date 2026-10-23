@@ -1,0 +1,155 @@
+{
+  "slug": "whole-cherry-clafoutis",
+  "title": "Whole Cherry Clafoutis",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "clafoutis",
+  "dish_title": "Clafoutis",
+  "flavour": "Cherry (classic)",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Whole dark cherries baked in a light, puffy vanilla and lemon batter in a sugared dish, finished with a snow of icing sugar.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "24 cm round ovenproof dish or cast-iron pan",
+    "mixing bowl",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Dish",
+      "qty": 10,
+      "unit": "g",
+      "item": "soft unsalted butter, for the dish"
+    },
+    {
+      "group": "Dish",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar, for the dish",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Fruit",
+      "qty": 600,
+      "unit": "g",
+      "item": "sweet cherries, stems removed, pitted and left whole"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 75,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 70,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 250,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "vanilla extract (alcohol-free)"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "To finish",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar, for dusting",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the dish",
+      "text": "Heat the oven to 190 °C (170 °C fan). Butter the dish generously and sprinkle with the tablespoon of sugar, which gives the edges a light caramelised crust. Spread the cherries over the base in a single layer."
+    },
+    {
+      "title": "Whisk the batter",
+      "text": "Whisk the eggs and sugar until pale and foamy, then whisk in the flour and salt until smooth. Gradually add the milk, then the melted butter, vanilla and lemon zest; the batter should be thin, like a crêpe batter."
+    },
+    {
+      "title": "Pour",
+      "text": "Pour the batter gently over the cherries so they stay in place."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 35-40 minutes, until puffed and golden at the edges and a knife in the centre comes out clean (the custard reaches at least 71 °C). It will sink as it cools; that is normal."
+    },
+    {
+      "title": "Serve",
+      "text": "Cool for 15-20 minutes, dust with icing sugar and serve warm."
+    }
+  ],
+  "tips": [
+    "A cherry pitter keeps the fruit whole and looking its best.",
+    "A common mistake is a thick batter; it should pour like single cream.",
+    "Bake in a dish that just fits the cherries in one layer.",
+    "Serve warm, as it is at its fluffiest soon after baking.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Cover and refrigerate for up to 2 days. Eat cold or warm gently in a low oven.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 276,
+    "protein_g": 6.8,
+    "carbs_g": 42.1,
+    "sugar_g": 30.2,
+    "free_sugar_g": 15.9,
+    "fat_g": 9.5,
+    "satfat_g": 5.1,
+    "salt_g": 0.26,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "clafoutis-basic--cherry-classic.jpg",
+  "image_alt": "A round dish of clafoutis with whole dark cherries set in puffed golden batter, dusted with icing sugar, one slice cut out.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

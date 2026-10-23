@@ -1,0 +1,164 @@
+{
+  "slug": "peach-crisp-almond-crumbs",
+  "title": "Peach Crisp with Buttery Almond Crumbs",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "crisp",
+  "dish_title": "Crisp",
+  "flavour": "Peach",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "Juicy peaches in a buttery reduced syrup, topped with pre-toasted bread, almond and spice crumbs that stay crunchy.",
+  "servings": 6,
+  "prep_min": 40,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor",
+    "large frying pan",
+    "sieve set over a bowl",
+    "23 cm pie dish or 1.5-litre baking dish",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Peaches",
+      "qty": 1000,
+      "unit": "g",
+      "item": "ripe peaches, peeled, stoned and cut in 1.5 cm wedges",
+      "note": "about 7 medium"
+    },
+    {
+      "group": "Peaches",
+      "qty": 60,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Peaches",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Peaches",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Peaches",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Peaches",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Crumbs",
+      "qty": 2,
+      "unit": "pc",
+      "item": "slices white sandwich bread, crusts on",
+      "note": "about 60 g, torn"
+    },
+    {
+      "group": "Crumbs",
+      "qty": 50,
+      "unit": "g",
+      "item": "flaked almonds"
+    },
+    {
+      "group": "Crumbs",
+      "qty": 50,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Crumbs",
+      "qty": 60,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    },
+    {
+      "group": "Crumbs",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Crumbs",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Crumbs",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Macerate the peaches",
+      "text": "Toss the peaches with the sugar and salt and leave 30 minutes, then drain in the sieve, keeping the juice. Drawing out the juice first stops the crisp turning watery."
+    },
+    {
+      "title": "Make the crumbs",
+      "text": "Heat the oven to 200 °C (180 °C fan). Pulse the bread, almonds, brown sugar, cold butter, cinnamon, nutmeg and salt in the food processor into coarse, buttery crumbs."
+    },
+    {
+      "title": "Toast the crumbs",
+      "text": "Spread the crumbs on the baking tray and bake 10-15 minutes, stirring once, until golden and crisp. Pre-toasting means the topping stays crunchy on top of the soft fruit."
+    },
+    {
+      "title": "Reduce the juice",
+      "text": "Boil the reserved peach juice with the 30 g butter in the frying pan until syrupy, about 3 minutes, then whisk in the lemon juice and cornflour and cook 30 seconds until thick."
+    },
+    {
+      "title": "Bake",
+      "text": "Turn the drained peaches in the syrup, tip into the pie dish and bake 15-20 minutes until bubbling. Scatter the toasted crumbs over and bake 5 minutes more. Cool 15 minutes before serving."
+    }
+  ],
+  "tips": [
+    "To peel peaches easily, score a cross, dip in boiling water for 30 seconds and slip off the skins.",
+    "A common mistake is skipping the draining step; the crisp becomes watery.",
+    "Toast the crumbs until properly golden; they will not brown further on the fruit.",
+    "Ripe but firm peaches give the best texture.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day. Store leftovers covered in the fridge for up to 2 days, and keep extra crumbs in an airtight jar.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 323,
+    "protein_g": 4.3,
+    "carbs_g": 42.0,
+    "sugar_g": 33.1,
+    "free_sugar_g": 18.7,
+    "fat_g": 17.1,
+    "satfat_g": 8.1,
+    "salt_g": 0.3,
+    "fibre_g": 3.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "crisp-basic--peach.jpg",
+  "image_alt": "Juicy peach slices under a golden crumb topping loaded with sliced almonds.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

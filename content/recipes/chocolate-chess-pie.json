@@ -1,0 +1,171 @@
+{
+  "slug": "chocolate-chess-pie",
+  "title": "Chocolate Chess Pie",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "chess",
+  "dish_title": "Chess",
+  "flavour": "Chocolate",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "A fudgy, brownie-like chocolate filling with a shiny crackled top, baked in a part-baked butter crust.",
+  "servings": 8,
+  "prep_min": 35,
+  "cook_min": 55,
+  "difficulty": "easy",
+  "equipment": [
+    "23 cm pie dish (about 4 cm deep)",
+    "rolling pin",
+    "baking paper and baking beans",
+    "mixing bowls",
+    "small saucepan",
+    "whisk",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 180,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Pastry",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 120,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "ice-cold water",
+      "note": "plus 1 tbsp more if needed"
+    },
+    {
+      "group": "Filling",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Filling",
+      "qty": 115,
+      "unit": "g",
+      "item": "semi-sweet chocolate, chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 25,
+      "unit": "g",
+      "item": "cocoa powder"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "vanilla extract (alcohol-free)"
+    },
+    {
+      "group": "To serve",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream, whipped softly, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Rub the cold butter into the flour, sugar and salt, bind with iced water and rest the wrapped disc in the fridge for 1 hour."
+    },
+    {
+      "title": "Part-bake the case",
+      "text": "Line the dish with the rolled dough, crimp and chill 30 minutes. Bake with paper and beans at 190 °C (170 °C fan) for 18 minutes, then remove them and bake 5 minutes to dry the base. Lower the oven to 175 °C (155 °C fan)."
+    },
+    {
+      "title": "Melt",
+      "text": "Melt the butter and chocolate together in the small saucepan over a very low heat, stirring, then let it cool for 5 minutes so it does not scramble the eggs."
+    },
+    {
+      "title": "Whisk the filling",
+      "text": "Whisk the sugar, cocoa and salt into the chocolate, then add the eggs and vanilla and whisk just until smooth and shiny."
+    },
+    {
+      "title": "Bake",
+      "text": "Pour into the warm case on a baking tray and bake 30-35 minutes, until the top is crackly and puffed and the centre jiggles a little. It firms up as it cools, so take it out before it looks fully set."
+    },
+    {
+      "title": "Serve",
+      "text": "Cool completely on a rack, at least 2 hours, then slice and serve with softly whipped cream."
+    }
+  ],
+  "tips": [
+    "Whisk the eggs in just until smooth; beating in air makes the top puff and sink.",
+    "A common mistake is waiting for the centre to firm up in the oven, which turns the filling dry and cakey.",
+    "Use a chocolate you like eating; its flavour carries the whole pie.",
+    "A pinch more salt sharpens the chocolate if your bar is very sweet.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered at cool room temperature for 1 day or in the fridge for up to 4 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 551,
+    "protein_g": 6.6,
+    "carbs_g": 55.3,
+    "sugar_g": 35.0,
+    "free_sugar_g": 34.4,
+    "fat_g": 36.0,
+    "satfat_g": 22.0,
+    "salt_g": 0.64,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chess-basic--chocolate.jpg",
+  "image_alt": "A chocolate chess pie with a crimped crust and a dark fudgy filling with a crackled top.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

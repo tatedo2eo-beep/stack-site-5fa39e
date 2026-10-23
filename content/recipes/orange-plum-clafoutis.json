@@ -1,0 +1,162 @@
+{
+  "slug": "orange-plum-clafoutis",
+  "title": "Plum Clafoutis with Orange",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "clafoutis",
+  "dish_title": "Clafoutis",
+  "flavour": "Plum",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "Plum halves soaked in orange and baked in a creamy almond batter until caramelised at the edges and barely set in the middle.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 60,
+  "difficulty": "easy",
+  "equipment": [
+    "23 cm round or oval baking dish (about 2 litres)",
+    "bowl",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Dish",
+      "qty": 15,
+      "unit": "g",
+      "item": "soft unsalted butter, for the dish"
+    },
+    {
+      "group": "Fruit",
+      "qty": 450,
+      "unit": "g",
+      "item": "ripe plums, halved and stoned",
+      "note": "about 8"
+    },
+    {
+      "group": "Fruit",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Fruit",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "finely grated orange zest"
+    },
+    {
+      "group": "Fruit",
+      "qty": 60,
+      "unit": "ml",
+      "item": "orange juice"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 45,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 25,
+      "unit": "g",
+      "item": "ground almonds"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 400,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla extract (alcohol-free)"
+    },
+    {
+      "group": "To finish",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar, to finish",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Macerate the plums",
+      "text": "Toss the plums with 40 g sugar, the orange zest and juice and leave 20 minutes while the oven heats to 165 °C (145 °C fan). The sugar and citrus soften the plum skins and draw out some juice for the batter."
+    },
+    {
+      "title": "Prepare the dish",
+      "text": "Butter the dish and arrange the plums in it cut side up, pouring any juice over them."
+    },
+    {
+      "title": "Make the batter",
+      "text": "Whisk the eggs with the 100 g sugar until smooth, then add the flour, ground almonds and salt. Whisk in the cream and vanilla to a smooth, pourable batter."
+    },
+    {
+      "title": "Bake",
+      "text": "Pour the batter around the plums and bake 55-65 minutes, until golden, set at the edges and only barely trembling in the middle (71 °C). The low oven keeps this rich, creamy batter custardy rather than rubbery."
+    },
+    {
+      "title": "Finish",
+      "text": "Sprinkle with the remaining sugar while hot and let stand 15 minutes. Serve warm or at room temperature."
+    }
+  ],
+  "tips": [
+    "Choose ripe but firm plums so the halves hold their shape.",
+    "A common mistake is baking it in a hot oven, which makes this creamy batter rubbery.",
+    "Swap in apricots or nectarines when plums are out of season.",
+    "Sprinkling sugar over while hot gives a light sparkly crust.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days. Serve at room temperature.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 345,
+    "protein_g": 4.7,
+    "carbs_g": 32.8,
+    "sugar_g": 26.9,
+    "free_sugar_g": 19.7,
+    "fat_g": 22.6,
+    "satfat_g": 13.0,
+    "salt_g": 0.26,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "clafoutis-basic--plum.jpg",
+  "image_alt": "A round dish of halved purple plums cut side up in a caramelised custard batter.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

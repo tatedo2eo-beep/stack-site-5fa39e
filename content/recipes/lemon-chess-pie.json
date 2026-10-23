@@ -1,0 +1,175 @@
+{
+  "slug": "lemon-chess-pie",
+  "title": "Lemon Chess Pie",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "chess",
+  "dish_title": "Chess",
+  "flavour": "Lemon",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Bright, zesty lemon custard with a lightly crusted golden top, baked in a blind-baked pastry case and finished with strands of zest.",
+  "servings": 8,
+  "prep_min": 35,
+  "cook_min": 55,
+  "difficulty": "easy",
+  "equipment": [
+    "23 cm pie dish (about 4 cm deep)",
+    "rolling pin",
+    "baking paper and baking beans",
+    "mixing bowls",
+    "mixing bowl",
+    "whisk",
+    "baking tray",
+    "zester"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 180,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Pastry",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 120,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "ice-cold water",
+      "note": "plus 1 tbsp more if needed"
+    },
+    {
+      "group": "Filling",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Filling",
+      "qty": 350,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "finely grated lemon zest",
+      "note": "from about 3 lemons"
+    },
+    {
+      "group": "Filling",
+      "qty": 75,
+      "unit": "ml",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Filling",
+      "qty": 16,
+      "unit": "g",
+      "item": "fine yellow cornmeal"
+    },
+    {
+      "group": "Filling",
+      "qty": 8,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, for thin zest strips to garnish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry",
+      "text": "Mix the flour, sugar and salt, rub in the butter until crumbly, add iced water to bind and chill the wrapped dough for an hour."
+    },
+    {
+      "title": "Blind bake",
+      "text": "Line the dish, crimp and chill for 30 minutes. Heat the oven to 220 °C (200 °C fan), fill the case with paper and beans and bake 10 minutes, then remove them and bake 3-5 minutes until the base looks dry. Turn the oven down to 165 °C (145 °C fan)."
+    },
+    {
+      "title": "Filling",
+      "text": "Whisk the eggs and sugar until well combined, then whisk in the zest, juice, cornmeal, cornflour and salt. Finally stir in the melted butter. Cornmeal gives chess pie its slightly grainy top crust, so do not sieve the mix."
+    },
+    {
+      "title": "Bake",
+      "text": "Pour the filling into the warm case set on a tray and bake 35-45 minutes, until golden on top and just set with a slight wobble in the middle (71 °C). Shield the edge with foil if it darkens."
+    },
+    {
+      "title": "Cool and garnish",
+      "text": "Cool on a rack for 2 hours, then scatter over thin strips of lemon zest and slice."
+    }
+  ],
+  "tips": [
+    "Zest the lemons before juicing them; it is much easier.",
+    "The mistake most people make is skipping the blind bake, which leaves a pale, soggy base under this wet filling.",
+    "Bake on the lower shelf so the base cooks through before the top over-browns.",
+    "For thin zest strands, use a channel zester or cut pared peel into fine strips.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store covered in the fridge for up to 3 days. Serve chilled or at room temperature.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 526,
+    "protein_g": 6.7,
+    "carbs_g": 66.1,
+    "sugar_g": 45.7,
+    "free_sugar_g": 45.4,
+    "fat_g": 27.1,
+    "satfat_g": 16.1,
+    "salt_g": 0.67,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chess-basic--lemon.jpg",
+  "image_alt": "A lemon chess pie with a crimped crust, bright yellow filling, golden top and fine lemon zest strands.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "King Arthur Baking"
+  ]
+}

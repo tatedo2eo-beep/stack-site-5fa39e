@@ -1,0 +1,190 @@
+{
+  "slug": "triple-berry-galette",
+  "title": "Triple Berry Galette",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "galette-crostata",
+  "dish_title": "Galette/crostata",
+  "flavour": "Berry",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A rich, tender egg-and-cream pastry pleated around blackberries, blueberries and raspberries, with a crunchy sugared rim.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor or large bowl",
+    "rolling pin",
+    "baking tray lined with baking paper",
+    "pastry brush"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 165,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Pastry",
+      "qty": 15,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Pastry",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 115,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Pastry",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "cold double cream"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Filling",
+      "qty": 150,
+      "unit": "g",
+      "item": "blackberries"
+    },
+    {
+      "group": "Filling",
+      "qty": 150,
+      "unit": "g",
+      "item": "blueberries"
+    },
+    {
+      "group": "Filling",
+      "qty": 150,
+      "unit": "g",
+      "item": "raspberries"
+    },
+    {
+      "group": "Filling",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 20,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Glaze",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "double cream, for brushing"
+    },
+    {
+      "group": "Glaze",
+      "qty": 12,
+      "unit": "g",
+      "item": "demerara sugar",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dough",
+      "text": "Pulse or rub the flour, sugar, salt and butter together until the butter is in small pieces. Whisk the yolk, cream and lemon juice, add to the bowl and mix just until the dough clumps. The yolk and cream make a tender, rich pastry that is easy to pleat. Wrap and chill 1 hour."
+    },
+    {
+      "title": "Mix the berries",
+      "text": "Heat the oven to 200 °C (180 °C fan). Gently combine the berries with the sugar, cornflour, lemon zest, lemon juice and salt."
+    },
+    {
+      "title": "Shape",
+      "text": "Roll the dough to about 30 cm on baking paper and slide it onto the tray. Mound the berries in the centre, leaving a 4-5 cm edge, and fold the edge up and over in loose pleats."
+    },
+    {
+      "title": "Glaze",
+      "text": "Brush the pastry with cream and sprinkle the demerara over it for a crunchy, sparkling rim."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 35-45 minutes, until the pastry is golden brown and the berry juices bubble in the centre; that bubbling shows the cornflour has thickened."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool at least 30 minutes on the tray before cutting, so the filling does not run."
+    }
+  ],
+  "tips": [
+    "Toss the berries with the sugar just before filling, or they will turn soupy.",
+    "A common mistake is taking it out before the juices bubble in the middle; the filling stays runny.",
+    "Roll the dough on baking paper so you can lift it easily onto the tray.",
+    "Frozen berries work if used straight from the freezer.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store loosely covered at room temperature for up to 1 day or in the fridge for 2 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 311,
+    "protein_g": 3.4,
+    "carbs_g": 41.2,
+    "sugar_g": 19.8,
+    "free_sugar_g": 15.9,
+    "fat_g": 15.4,
+    "satfat_g": 9.4,
+    "salt_g": 0.41,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "galette-crostata-advanced--berry.jpg",
+  "image_alt": "A rustic pleated galette filled with mixed blackberries, blueberries and raspberries.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

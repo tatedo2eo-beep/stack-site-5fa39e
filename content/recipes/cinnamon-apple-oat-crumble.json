@@ -1,0 +1,150 @@
+{
+  "slug": "cinnamon-apple-oat-crumble",
+  "title": "Cinnamon Apple Crumble with Oats",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "crumble",
+  "dish_title": "Crumble",
+  "flavour": "Apple",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Buttery soft apples, part cooked with brown sugar and cinnamon, under a rubbed-in oat crumble that bakes into crunchy clusters.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "large wide saucepan with lid",
+    "2-litre baking dish (about 25 cm)",
+    "mixing bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Apples",
+      "qty": 1200,
+      "unit": "g",
+      "item": "mixed apples (half Bramley, half eating apples), peeled, cored and cut in 2 cm dice"
+    },
+    {
+      "group": "Apples",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Apples",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Apples",
+      "qty": 75,
+      "unit": "g",
+      "item": "light brown (muscovado) sugar"
+    },
+    {
+      "group": "Apples",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Crumble",
+      "qty": 100,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Crumble",
+      "qty": 60,
+      "unit": "g",
+      "item": "rolled oats"
+    },
+    {
+      "group": "Crumble",
+      "qty": 80,
+      "unit": "g",
+      "item": "demerara sugar"
+    },
+    {
+      "group": "Crumble",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Crumble",
+      "qty": 100,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    },
+    {
+      "group": "Crumble",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon, for dusting"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 200 °C (180 °C fan)."
+    },
+    {
+      "title": "Soften the apples",
+      "text": "Melt the 30 g butter in the wide pan, add the diced apples and water, cover and cook over a medium heat for about 6 minutes, stirring once or twice, until the Bramley pieces start to collapse but the eating apples still hold their shape. Stir in the brown sugar and cinnamon, then spoon into the dish. Part-cooking the fruit means it is fully tender by the time the topping is crisp."
+    },
+    {
+      "title": "Rub in the topping",
+      "text": "Mix the flour, oats, demerara and salt in a bowl, then rub in the cold butter until you have clumpy crumbs with some larger pieces. Leave it lumpy; those clusters are what turn crunchy."
+    },
+    {
+      "title": "Assemble",
+      "text": "Scatter the crumble loosely over the apples without pressing it down, then dust the top with the cinnamon."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 20 minutes, then lower the oven to 180 °C (160 °C fan) and bake another 15-20 minutes, until golden and bubbling at the edges."
+    },
+    {
+      "title": "Rest",
+      "text": "Leave to stand for 10 minutes so the juices thicken a little, then serve warm."
+    }
+  ],
+  "tips": [
+    "Mixing Bramleys with eating apples gives both a soft sauce and pieces that hold their shape.",
+    "A common mistake is pressing the crumble down, which makes it dense rather than crisp.",
+    "Chill the topping for 10 minutes if your kitchen is warm, so the butter stays in pieces.",
+    "Serve with custard, cream or vanilla ice cream.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Cool, cover and refrigerate for up to 3 days. Reheat in a 180 °C (160 °C fan) oven for 15-20 minutes until piping hot. The unbaked crumble mix freezes well for up to 3 months.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 445,
+    "protein_g": 3.7,
+    "carbs_g": 69.5,
+    "sugar_g": 43.4,
+    "free_sugar_g": 25.1,
+    "fat_g": 18.7,
+    "satfat_g": 11.3,
+    "salt_g": 0.27,
+    "fibre_g": 6.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "crumble-basic--apple.jpg",
+  "image_alt": "A deep dish of apple chunks under a thick, clumpy oat and brown sugar crumble dusted with cinnamon.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "slug": "buttermilk-chess-pie",
+  "title": "Buttermilk Chess Pie",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "chess",
+  "dish_title": "Chess",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A tangy buttermilk custard with a whisper of lemon and vanilla, baked in flaky pastry until the top turns into a thin caramel crust.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 60,
+  "difficulty": "easy",
+  "equipment": [
+    "23 cm pie dish (about 4 cm deep)",
+    "rolling pin",
+    "baking paper and baking beans",
+    "mixing bowls",
+    "large mixing bowl",
+    "whisk",
+    "baking tray",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 180,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Pastry",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 120,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "ice-cold water",
+      "note": "plus 1 tbsp more if needed"
+    },
+    {
+      "group": "Filling",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled"
+    },
+    {
+      "group": "Filling",
+      "qty": 350,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 20,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Filling",
+      "qty": 20,
+      "unit": "g",
+      "item": "fine yellow cornmeal"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Filling",
+      "qty": 300,
+      "unit": "ml",
+      "item": "buttermilk, at room temperature"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "vanilla extract (alcohol-free)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the crust",
+      "text": "Rub the butter into the flour, sugar and salt, add iced water until the dough just holds, then chill it for an hour. Roll it out, line the pie dish, crimp the edge and freeze the case for 15 minutes; a cold case keeps its shape in the hot oven."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "Put a baking tray on the lowest shelf and heat the oven to 220 °C (200 °C fan). The hot tray gives the base a burst of heat from below."
+    },
+    {
+      "title": "Mix the filling",
+      "text": "Whisk the sugar, flour, cornmeal and salt together, then whisk in the eggs one at a time. Stir in the melted butter, buttermilk, lemon juice, zest and vanilla until smooth; do not beat hard or the top will be foamy."
+    },
+    {
+      "title": "Bake",
+      "text": "Set the frozen case on the tray, pour in the filling and bake 10 minutes. Lower the oven to 165 °C (145 °C fan) and bake 40-50 minutes more, until the top is golden and the centre wobbles only slightly and reads 71 °C. Cover the rim with foil if it browns too fast."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool on a rack for at least 2 hours; the custard finishes setting as it cools. Grate a little nutmeg over before serving at room temperature."
+    }
+  ],
+  "tips": [
+    "Have the eggs and buttermilk at room temperature so the melted butter does not set into lumps.",
+    "A common mistake is baking until the middle is firm; pull it with a gentle wobble and it will set as it cools.",
+    "Freezing the lined case briefly helps the crimped edge hold its shape.",
+    "Serve with sharp berries to balance the sweetness.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Cover and keep in the fridge for up to 3 days. Bring to room temperature for 30 minutes before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 550,
+    "protein_g": 8.2,
+    "carbs_g": 68.7,
+    "sugar_g": 47.4,
+    "free_sugar_g": 45.3,
+    "fat_g": 27.4,
+    "satfat_g": 16.3,
+    "salt_g": 0.95,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chess-basic.jpg",
+  "image_alt": "A buttermilk chess pie in a crimped pastry crust with a pale yellow custard and a caramelised brown top.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

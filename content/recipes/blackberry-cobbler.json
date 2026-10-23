@@ -1,0 +1,166 @@
+{
+  "slug": "blackberry-cobbler",
+  "title": "Blackberry Cobbler with Buttermilk Biscuits",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "cobbler",
+  "dish_title": "Cobbler",
+  "flavour": "Blackberry",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "A deep dish of jammy blackberries topped with tender, golden buttermilk biscuits and a crunchy demerara finish.",
+  "servings": 10,
+  "prep_min": 20,
+  "cook_min": 50,
+  "difficulty": "easy",
+  "equipment": [
+    "23 × 33 cm baking dish",
+    "mixing bowls",
+    "pastry cutter or fork",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Fruit",
+      "qty": 1100,
+      "unit": "g",
+      "item": "blackberries",
+      "note": "fresh, or frozen and not thawed"
+    },
+    {
+      "group": "Fruit",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Fruit",
+      "qty": 30,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "Fruit",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Fruit",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Fruit",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Biscuit topping",
+      "qty": 190,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Biscuit topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Biscuit topping",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Biscuit topping",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Biscuit topping",
+      "qty": 115,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    },
+    {
+      "group": "Biscuit topping",
+      "qty": 160,
+      "unit": "ml",
+      "item": "cold buttermilk"
+    },
+    {
+      "group": "Biscuit topping",
+      "qty": 12,
+      "unit": "g",
+      "item": "demerara sugar, for sprinkling",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 190 °C (170 °C fan) and line a tray for the shelf below."
+    },
+    {
+      "title": "Fill the dish",
+      "text": "Stir the sugar, cornflour, cinnamon and salt together, then fold through the blackberries and lemon juice and spread in the dish. Bake the fruit alone for 15 minutes so it heats through and starts releasing juice before the dough goes on."
+    },
+    {
+      "title": "Make the biscuit dough",
+      "text": "Mix the flour, sugar, baking powder and salt, then cut in the cold butter until the pieces are pea-sized. Add the buttermilk and stir just until a shaggy dough forms; overmixing makes the biscuits tough."
+    },
+    {
+      "title": "Top",
+      "text": "Drop 10-12 rough spoonfuls of dough over the hot fruit, leaving gaps for steam to escape, and sprinkle with demerara."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 30-35 minutes more, until the biscuits are deep golden and cooked through underneath and the fruit bubbles thickly around them."
+    },
+    {
+      "title": "Rest",
+      "text": "Let it settle for 20 minutes before serving so the berry juices can thicken."
+    }
+  ],
+  "tips": [
+    "Keep the butter and buttermilk very cold for the lightest biscuits.",
+    "A common mistake is covering the fruit completely, which stops steam escaping and leaves the biscuits doughy underneath.",
+    "Taste the berries; very tart wild blackberries may need 25 g more sugar.",
+    "Serve warm with cream or ice cream.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Cover and refrigerate for up to 3 days. Reheat at 180 °C (160 °C fan) for 15 minutes.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 310,
+    "protein_g": 4.2,
+    "carbs_g": 52.7,
+    "sugar_g": 29.9,
+    "free_sugar_g": 23.7,
+    "fat_g": 10.2,
+    "satfat_g": 6.0,
+    "salt_g": 0.63,
+    "fibre_g": 6.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "cobbler-basic--blackberry.jpg",
+  "image_alt": "A rectangular baking dish of dark blackberries with spaced golden biscuit domes.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

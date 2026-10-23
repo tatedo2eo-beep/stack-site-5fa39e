@@ -1,0 +1,170 @@
+{
+  "slug": "skillet-apple-almond-crisp",
+  "title": "Skillet Apple Crisp with Almonds",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "crisp",
+  "dish_title": "Crisp",
+  "flavour": "Apple",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Apples browned in butter in a frying pan, glossed with reduced apple juice and baked under an almond and oat topping.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "30 cm ovenproof frying pan (cast iron or stainless)",
+    "small saucepan",
+    "mixing bowl",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Topping",
+      "qty": 100,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Topping",
+      "qty": 75,
+      "unit": "g",
+      "item": "flaked almonds"
+    },
+    {
+      "group": "Topping",
+      "qty": 70,
+      "unit": "g",
+      "item": "rolled oats"
+    },
+    {
+      "group": "Topping",
+      "qty": 100,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Topping",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Topping",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 110,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Apples",
+      "qty": 1300,
+      "unit": "g",
+      "item": "firm, sweet apples (such as Braeburn or Golden Delicious), peeled, cored and cut in 1.5 cm wedges"
+    },
+    {
+      "group": "Apples",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Apples",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Apples",
+      "qty": 240,
+      "unit": "ml",
+      "item": "apple juice (cloudy)"
+    },
+    {
+      "group": "Apples",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Apples",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 230 °C (210 °C fan)."
+    },
+    {
+      "title": "Mix the topping",
+      "text": "Stir the flour, almonds, oats, both sugars, cinnamon and salt together, then drizzle in the melted butter and toss until evenly moist and clumpy. Set aside."
+    },
+    {
+      "title": "Reduce the juice",
+      "text": "Simmer the apple juice in the small saucepan until reduced to about 120 ml, 6-8 minutes. Concentrated juice adds deep apple flavour without making the filling wet."
+    },
+    {
+      "title": "Brown the apples",
+      "text": "Toss the apples with the 50 g sugar and the cinnamon. Melt the 30 g butter in the frying pan over a medium-high heat and cook the apples, stirring now and then, for 12-14 minutes until browned on the outside and just tender inside."
+    },
+    {
+      "title": "Combine",
+      "text": "Take the pan off the heat and stir in the reduced juice and the lemon juice so the apples are glossy."
+    },
+    {
+      "title": "Bake",
+      "text": "Scatter the topping evenly over the apples, set the pan on a baking tray and bake 12-15 minutes, until the topping is a deep golden brown and the juices bubble. Rest 15 minutes before serving."
+    }
+  ],
+  "tips": [
+    "Choose apples that hold their shape, such as Braeburn, Jazz or Golden Delicious.",
+    "A common mistake is crowding a small pan, which steams the apples instead of browning them.",
+    "Use cloudy apple juice for the fullest flavour.",
+    "Watch the topping in the hot oven; almonds go from golden to burnt quickly.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Cover and refrigerate for up to 3 days. Reheat in the oven to keep the topping crisp.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 444,
+    "protein_g": 5.0,
+    "carbs_g": 65.9,
+    "sugar_g": 43.1,
+    "free_sugar_g": 27.6,
+    "fat_g": 19.9,
+    "satfat_g": 9.5,
+    "salt_g": 0.2,
+    "fibre_g": 6.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "crisp-basic--apple.jpg",
+  "image_alt": "Apple slices under a golden oat and brown sugar crisp studded with sliced almonds.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

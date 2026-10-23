@@ -1,0 +1,160 @@
+{
+  "slug": "mixed-berry-oat-crisp",
+  "title": "Mixed Berry Oat Crisp",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "crisp",
+  "dish_title": "Crisp",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Blueberries, blackberries and raspberries baked jammy under a crunchy oat and brown sugar crisp.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "2-litre baking dish (about 23 × 23 cm)",
+    "mixing bowls",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Fruit",
+      "qty": 350,
+      "unit": "g",
+      "item": "blueberries"
+    },
+    {
+      "group": "Fruit",
+      "qty": 300,
+      "unit": "g",
+      "item": "blackberries"
+    },
+    {
+      "group": "Fruit",
+      "qty": 250,
+      "unit": "g",
+      "item": "raspberries",
+      "note": "fresh or frozen (not thawed)"
+    },
+    {
+      "group": "Fruit",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Fruit",
+      "qty": 20,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "Fruit",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Fruit",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Oat topping",
+      "qty": 120,
+      "unit": "g",
+      "item": "rolled oats"
+    },
+    {
+      "group": "Oat topping",
+      "qty": 60,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Oat topping",
+      "qty": 100,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Oat topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Oat topping",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Oat topping",
+      "qty": 100,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 190 °C (170 °C fan) with a tray on the rack below to catch any overflow."
+    },
+    {
+      "title": "Toss the berries",
+      "text": "Mix the sugar and cornflour, then gently toss with all the berries, the lemon juice and zest in the baking dish. Coating the fruit in the starch before baking lets the juices thicken evenly instead of turning soupy."
+    },
+    {
+      "title": "Make the oat topping",
+      "text": "Combine the oats, flour, brown sugar, cinnamon and salt, then pinch in the cold butter until the mixture clumps into oaty crumbs of mixed sizes."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread the topping over the fruit and bake 40-45 minutes, until it is browned and crunchy and the berry juices bubble thickly around the sides."
+    },
+    {
+      "title": "Rest",
+      "text": "Cool for at least 15 minutes so the filling can thicken, then serve warm."
+    }
+  ],
+  "tips": [
+    "Frozen berries work well; add them straight from the freezer and bake 10 minutes longer.",
+    "A common mistake is serving it straight from the oven, before the juices have thickened.",
+    "Rub the butter in until clumpy rather than sandy for a crunchier top.",
+    "Serve with plain yoghurt or vanilla ice cream.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Cover and refrigerate for up to 3 days. Reheat at 180 °C (160 °C fan) for about 15 minutes to re-crisp the top.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 337,
+    "protein_g": 4.1,
+    "carbs_g": 56.9,
+    "sugar_g": 32.4,
+    "free_sugar_g": 24.6,
+    "fat_g": 11.7,
+    "satfat_g": 6.6,
+    "salt_g": 0.2,
+    "fibre_g": 6.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "crisp-basic.jpg",
+  "image_alt": "Dark mixed berries bubbling under a golden oat crumb crisp in a baking dish.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

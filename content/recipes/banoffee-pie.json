@@ -1,0 +1,149 @@
+{
+  "slug": "banoffee-pie",
+  "title": "Banoffee Pie",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "banoffee",
+  "dish_title": "Banoffee",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A crisp digestive base, a quick stovetop toffee, sliced bananas and whipped cream finished with grated dark chocolate. No oven needed.",
+  "servings": 10,
+  "prep_min": 30,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "23 cm loose-based tart tin (about 3.5 cm deep)",
+    "food processor or zip bag and rolling pin",
+    "heavy non-stick saucepan",
+    "electric hand mixer",
+    "fine grater"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 200,
+      "unit": "g",
+      "item": "digestive biscuits"
+    },
+    {
+      "group": "Base",
+      "qty": 90,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Toffee",
+      "qty": 75,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Toffee",
+      "qty": 75,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Toffee",
+      "qty": 397,
+      "unit": "g",
+      "item": "tin sweetened condensed milk"
+    },
+    {
+      "group": "Toffee",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Toffee",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla extract (alcohol-free)"
+    },
+    {
+      "group": "Topping",
+      "qty": 3,
+      "unit": "pc",
+      "item": "ripe but firm bananas, sliced",
+      "note": "about 330 g peeled"
+    },
+    {
+      "group": "Topping",
+      "qty": 300,
+      "unit": "ml",
+      "item": "cold double cream"
+    },
+    {
+      "group": "Topping",
+      "qty": 10,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "dark chocolate, grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the base",
+      "text": "Crush the digestives to fine crumbs and stir in the melted butter until it looks like wet sand. Press firmly over the base and up the sides of the tin using the back of a spoon, then chill 30 minutes until firm."
+    },
+    {
+      "title": "Cook the toffee",
+      "text": "Melt the 75 g butter and the brown sugar in the saucepan over a low heat, stirring until the sugar dissolves. Add the condensed milk and salt and bring to a gentle boil, stirring constantly, for 2-3 minutes until it thickens and turns a light caramel colour. Keep scraping the base, as condensed milk scorches easily."
+    },
+    {
+      "title": "Set the toffee",
+      "text": "Stir in the vanilla, pour the toffee over the biscuit base and chill at least 1 hour, until set."
+    },
+    {
+      "title": "Add the bananas",
+      "text": "Slice the bananas and lay them over the toffee just before serving, so they stay pale and firm."
+    },
+    {
+      "title": "Cream and chocolate",
+      "text": "Whip the cream with the icing sugar to soft peaks, spoon it over the bananas and finish with the grated chocolate. Unmould and serve chilled."
+    }
+  ],
+  "tips": [
+    "Press the base firmly, especially into the corner of the tin, so it slices cleanly.",
+    "A common mistake is boiling the toffee over too high a heat; it catches on the bottom and tastes burnt.",
+    "Slice the bananas only when you are ready to serve, or they brown and weep.",
+    "Check the digestive pack for soya and milk, which some brands contain."
+  ],
+  "storage": "The toffee base keeps, covered, in the fridge for 2 days. Once the bananas and cream are on, eat within 24 hours.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 522,
+    "protein_g": 6.1,
+    "carbs_g": 52.1,
+    "sugar_g": 38.7,
+    "free_sugar_g": 33.8,
+    "fat_g": 33.1,
+    "satfat_g": 20.2,
+    "salt_g": 0.43,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "banoffee-advanced.jpg",
+  "image_alt": "A banoffee pie with a biscuit-crumb base, a thick toffee layer, banana slices, deep whipped cream and chocolate curls.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

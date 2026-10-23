@@ -1,0 +1,162 @@
+{
+  "slug": "peach-cobbler-yogurt-biscuits",
+  "title": "Peach Cobbler with Yoghurt Biscuits",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "cobbler",
+  "dish_title": "Cobbler",
+  "flavour": "Peach",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Fresh peaches baked with lemon and topped with quick, tender yoghurt biscuits sprinkled with cinnamon sugar.",
+  "servings": 6,
+  "prep_min": 45,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "20 × 20 cm baking dish",
+    "large bowl",
+    "colander set over a bowl",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Peaches",
+      "qty": 1100,
+      "unit": "g",
+      "item": "ripe peaches, peeled, stoned and cut in 1.5 cm wedges",
+      "note": "about 8 medium"
+    },
+    {
+      "group": "Peaches",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Peaches",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Peaches",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Peaches",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Biscuits",
+      "qty": 140,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Biscuits",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Biscuits",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Biscuits",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Biscuits",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Biscuits",
+      "qty": 70,
+      "unit": "g",
+      "item": "unsalted butter, melted and slightly cooled"
+    },
+    {
+      "group": "Biscuits",
+      "qty": 120,
+      "unit": "g",
+      "item": "whole-milk natural yoghurt"
+    },
+    {
+      "group": "Biscuits",
+      "qty": 8,
+      "unit": "g",
+      "item": "caster sugar mixed with 0.25 tsp cinnamon, for sprinkling",
+      "note": "about 2 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Draw out the juice",
+      "text": "Toss the peaches with the 50 g sugar and leave 30 minutes, then drain in the colander, keeping 60 ml of the juice. Removing the excess liquid keeps the biscuits from sinking into a soggy filling."
+    },
+    {
+      "title": "Bake the fruit",
+      "text": "Heat the oven to 220 °C (200 °C fan). Whisk the reserved juice with the cornflour, lemon juice and salt, toss with the peaches in the dish and bake 10 minutes so the fruit is hot when the biscuits go on."
+    },
+    {
+      "title": "Make the biscuits",
+      "text": "Whisk the flour, sugar, baking powder, bicarbonate and salt. Stir the melted butter into the yoghurt (it will clump slightly, which is fine), then fold into the dry ingredients until just combined."
+    },
+    {
+      "title": "Top",
+      "text": "Divide the dough into 6 rough mounds over the hot peaches and sprinkle with the cinnamon sugar."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 16-18 minutes, until the biscuits are golden and a skewer in the centre of one comes out clean. Cool 15 minutes before serving."
+    }
+  ],
+  "tips": [
+    "Use whole-milk yoghurt; low-fat versions make drier biscuits.",
+    "A common mistake is putting the dough on cold fruit, which leaves the biscuit bottoms raw.",
+    "Stir the dough only until no dry flour remains.",
+    "Nectarines can be used without peeling.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best eaten warm on the day. Leftovers keep covered in the fridge for 2 days; reheat in the oven.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 318,
+    "protein_g": 4.9,
+    "carbs_g": 53.4,
+    "sugar_g": 32.7,
+    "free_sugar_g": 16.4,
+    "fat_g": 10.8,
+    "satfat_g": 6.5,
+    "salt_g": 0.59,
+    "fibre_g": 3.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "cobbler-basic--peach.jpg",
+  "image_alt": "A baking dish of peach wedges topped with golden biscuit domes.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

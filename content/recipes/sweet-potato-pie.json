@@ -1,0 +1,190 @@
+{
+  "slug": "sweet-potato-pie",
+  "title": "Sweet Potato Pie",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "sweet-potato-pie",
+  "dish_title": "Sweet potato pie",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Roasted sweet potato whipped with butter, brown sugar, soured cream and warm spices, baked into a silky custard in a golden crust.",
+  "servings": 10,
+  "prep_min": 50,
+  "cook_min": 110,
+  "difficulty": "medium",
+  "equipment": [
+    "23 cm pie dish (about 4 cm deep)",
+    "rolling pin",
+    "baking paper and baking beans",
+    "mixing bowls",
+    "baking tray lined with foil",
+    "food processor or potato masher",
+    "fine sieve",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 180,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Pastry",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 120,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "ice-cold water",
+      "note": "plus 1 tbsp more if needed"
+    },
+    {
+      "group": "Filling",
+      "qty": 900,
+      "unit": "g",
+      "item": "sweet potatoes (orange-fleshed), scrubbed"
+    },
+    {
+      "group": "Filling",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Filling",
+      "qty": 220,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Filling",
+      "qty": 240,
+      "unit": "ml",
+      "item": "soured cream"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla extract (alcohol-free)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast the sweet potatoes",
+      "text": "Heat the oven to 200 °C (180 °C fan). Prick the sweet potatoes, set on the lined tray and roast 50-60 minutes until completely soft. Roasting rather than boiling keeps the flesh dry and concentrates its sweetness."
+    },
+    {
+      "title": "Prepare the crust",
+      "text": "While they roast, rub the butter into the flour, sugar and salt, bind with iced water and chill the dough 1 hour. Roll it out, line the dish, crimp and chill 30 minutes, then blind bake at 190 °C (170 °C fan) under paper and beans for 20 minutes and uncovered for 8-10 minutes until lightly golden. Reduce the oven to 175 °C (155 °C fan)."
+    },
+    {
+      "title": "Purée",
+      "text": "Scoop out the warm flesh, discarding the skins, and blend or mash with the butter until completely smooth. For the silkiest texture, push it through the sieve to remove the stringy fibres."
+    },
+    {
+      "title": "Season and enrich",
+      "text": "Beat in the brown sugar, salt, cinnamon, nutmeg and ginger, then the eggs and yolks one at a time, followed by the soured cream and vanilla."
+    },
+    {
+      "title": "Bake",
+      "text": "Pour into the warm crust and bake 40-50 minutes, until the edges are set, the centre wobbles slightly and a thermometer in the middle reads about 74 °C. Overbaking makes the top crack."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool on a rack for at least 2 hours so the filling firms, then serve at room temperature or chilled."
+    }
+  ],
+  "tips": [
+    "Roast the potatoes a day ahead to save time; keep the flesh covered in the fridge.",
+    "The most common mistake is overbaking, which cracks the surface; take it out when the centre still wobbles.",
+    "Sieving the purée removes fibres and gives a much smoother slice.",
+    "Serve with lightly whipped cream.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Cool fully, then cover and refrigerate for up to 4 days. The baked pie freezes, well wrapped, for up to 1 month; thaw overnight in the fridge.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 420,
+    "protein_g": 6.1,
+    "carbs_g": 51.9,
+    "sugar_g": 26.4,
+    "free_sugar_g": 22.6,
+    "fat_g": 21.4,
+    "satfat_g": 12.3,
+    "salt_g": 0.77,
+    "fibre_g": 2.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sweet-potato-pie-basic.jpg",
+  "image_alt": "A sweet potato pie with a fluted pastry rim and a smooth glossy orange filling, one slice pulled out.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "slug": "peach-nectarine-galette",
+  "title": "Peach and Nectarine Galette",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "galette-crostata",
+  "dish_title": "Galette/crostata",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Unpeeled peach and nectarine slices fanned on flaky all-butter pastry, pleated at the edge and baked until bubbling.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "large mixing bowl",
+    "rolling pin",
+    "baking tray lined with baking paper",
+    "pastry brush"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 190,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Pastry",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 140,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "ice-cold water"
+    },
+    {
+      "group": "Filling",
+      "qty": 400,
+      "unit": "g",
+      "item": "ripe peaches, unpeeled, stoned and sliced 1 cm thick"
+    },
+    {
+      "group": "Filling",
+      "qty": 400,
+      "unit": "g",
+      "item": "ripe nectarines, unpeeled, stoned and sliced 1 cm thick"
+    },
+    {
+      "group": "Filling",
+      "qty": 90,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 25,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Glaze",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, beaten with 1 tsp milk"
+    },
+    {
+      "group": "Glaze",
+      "qty": 12,
+      "unit": "g",
+      "item": "demerara sugar",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the pastry",
+      "text": "Toss the flour, sugar and salt, then press the cold butter cubes into flat flakes between your fingers. Sprinkle over the water and fold with a fork until the dough just holds, then wrap and chill 1 hour. Flaky butter pieces turn to steam in the oven and give a crisp, layered crust."
+    },
+    {
+      "title": "Prepare the fruit",
+      "text": "Heat the oven to 210 °C (190 °C fan). Toss the fruit with the sugar, cornflour, lemon juice, nutmeg and salt just before assembling, so the slices do not sit in their juice."
+    },
+    {
+      "title": "Roll and fill",
+      "text": "Roll the dough to a rough 33 cm round and lift it onto the lined tray. Fan the slices, skin side out, in overlapping circles in the middle, leaving a 5 cm border, and leave any liquid behind in the bowl."
+    },
+    {
+      "title": "Fold and glaze",
+      "text": "Fold the border up over the fruit in overlapping pleats, brush the pastry with egg wash and sprinkle the demerara over the edge. Chill 10 minutes if the dough has gone soft."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 40-45 minutes, until the crust is deep golden underneath and the juices bubble thickly in the centre."
+    },
+    {
+      "title": "Cool",
+      "text": "Leave on the tray for 20 minutes so the filling sets before slicing."
+    }
+  ],
+  "tips": [
+    "Leave the skins on; they add colour and help the slices hold their shape.",
+    "A common mistake is adding the fruit juice to the galette, which soaks through the base.",
+    "Bake on the lowest shelf so the bottom crisps.",
+    "If the pastry cracks while folding, just pinch it back together.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day it is baked. Keep loosely covered at room temperature overnight, or in the fridge for up to 2 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 326,
+    "protein_g": 4.0,
+    "carbs_g": 45.5,
+    "sugar_g": 22.5,
+    "free_sugar_g": 14.3,
+    "fat_g": 15.0,
+    "satfat_g": 9.2,
+    "salt_g": 0.42,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "galette-crostata-advanced.jpg",
+  "image_alt": "A free-form galette with a pleated golden crust and fanned peach and nectarine slices in the open centre.",
+  "inspired_by": [
+    "King Arthur Baking",
+    "NYT Cooking"
+  ]
+}

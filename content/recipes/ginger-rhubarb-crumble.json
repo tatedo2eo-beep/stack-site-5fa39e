@@ -1,0 +1,152 @@
+{
+  "slug": "ginger-rhubarb-crumble",
+  "title": "Rhubarb Crumble with Ginger",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "crumble",
+  "dish_title": "Crumble",
+  "flavour": "Rhubarb",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "Sharp pink rhubarb baked soft and jammy with a little orange, under a crunchy, gently spiced melted-butter crumble.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 55,
+  "difficulty": "easy",
+  "equipment": [
+    "23 × 23 cm or 2-litre baking dish",
+    "mixing bowls",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Fruit",
+      "qty": 900,
+      "unit": "g",
+      "item": "rhubarb, trimmed and cut in 2.5 cm lengths"
+    },
+    {
+      "group": "Fruit",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Fruit",
+      "qty": 25,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Fruit",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated orange zest"
+    },
+    {
+      "group": "Topping",
+      "qty": 130,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Topping",
+      "qty": 60,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Topping",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Topping",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 190 °C (170 °C fan) and put a tray on the shelf below to catch drips."
+    },
+    {
+      "title": "Prepare the rhubarb",
+      "text": "Toss the rhubarb with the sugar, flour and orange zest in the baking dish and spread it level. Rhubarb is very sharp and watery, so it needs this much sugar and a little flour to make a soft, jammy filling."
+    },
+    {
+      "title": "Make the topping",
+      "text": "Whisk the flour, both sugars, baking powder, ginger, cinnamon and salt. Pour in the melted butter and stir with a fork until it forms damp clumps, then squeeze some together so there are a few bigger nuggets."
+    },
+    {
+      "title": "Bake",
+      "text": "Scatter the topping evenly over the rhubarb and bake 45-55 minutes, until deep golden and the pink juices are bubbling thickly at the edges."
+    },
+    {
+      "title": "Cool slightly",
+      "text": "Rest for 15-20 minutes before serving; straight from the oven the juices are runny and very hot."
+    }
+  ],
+  "tips": [
+    "Forced early rhubarb gives the brightest pink colour and the most tender stalks.",
+    "A common mistake is cutting the rhubarb too small; larger pieces keep some shape.",
+    "Frozen rhubarb works too; add it still frozen and bake 10 minutes longer.",
+    "Taste the rhubarb raw: if it is very sour, add an extra 25 g sugar.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days and reheat until piping hot, or freeze the baked crumble for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 343,
+    "protein_g": 3.2,
+    "carbs_g": 57.5,
+    "sugar_g": 38.5,
+    "free_sugar_g": 37.2,
+    "fat_g": 12.1,
+    "satfat_g": 7.5,
+    "salt_g": 0.24,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "crumble-basic--rhubarb.jpg",
+  "image_alt": "A baking dish of pink rhubarb pieces peeking through a golden buttery crumble topping.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}
