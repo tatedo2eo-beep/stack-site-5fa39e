@@ -1,115 +1,281 @@
-/* ===== Mobile layer for the 5 designs. Desktop (>=1100px) is untouched; B already has its own
-   responsive rules in designs.css. Same look, re-flowed for phones and tablets. ===== */
+/* ===== Phone/tablet layer for the 5 designs (< 1100px). Desktop (>=1100px) is untouched.
+   Joe's rule: the phone shows the SAME layout, design and order as the PC site, scaled down to the
+   screen width - not a re-organised mobile version. So: desktop grids keep their structure with
+   fluid (vw-based) column widths, sizes and gaps; a grid only loses columns where its text would
+   otherwise get unreadable; body text stays >= ~14px, tap targets >= 40px, no sideways scrolling.
+   vw maths: a desktop px value P at 1280px wide becomes P/12.8 vw (e.g. 390px -> 30.5vw). ===== */
 @media (max-width:1099px){
  body{min-width:0!important;overflow-x:hidden}
- .main{min-width:0}
- .wrap{width:calc(100% - 32px)}
+ .main,.view{min-width:0}
+ .wrap{width:calc(100% - clamp(20px,4vw,48px))}
  img{max-width:100%}
- .rgrid,[data-design=e] .rgrid,[data-design=d] .rgrid,[data-design=g] .rgrid{grid-template-columns:repeat(2,minmax(0,1fr))}
- [data-design=g] .rgrid>.rc:nth-child(7n+1){grid-column:auto;grid-row:auto}
- .tgrid,[data-design=e] .tgrid,[data-design=c] .tgrid,[data-design=d] .tgrid,[data-design=g] .tgrid{grid-template-columns:repeat(3,minmax(0,1fr))}
- .sh2 h1,.sh2 h2{font-size:34px}
- .rnut{grid-template-columns:1fr;gap:24px}
+ /* card + tile grids: same grids, fewer columns only where the cards would get too narrow to read */
+ .rgrid,[data-design=e] .rgrid,[data-design=d] .rgrid,[data-design=g] .rgrid{grid-template-columns:repeat(3,minmax(0,1fr));gap:clamp(18px,3.4vw,40px) clamp(10px,2.2vw,28px)}
+ [data-design=b] .rgrid{grid-template-columns:1fr}
+ [data-design=b] .sec .rgrid{grid-template-columns:1fr 1fr;column-gap:clamp(14px,3.7vw,48px)}
+ .tgrid,[data-design=e] .tgrid,[data-design=b] .tgrid,[data-design=c] .tgrid,[data-design=d] .tgrid,[data-design=g] .tgrid{grid-template-columns:repeat(4,minmax(0,1fr));gap:clamp(14px,2.6vw,30px) clamp(8px,1.8vw,22px)}
+ [data-design=c] .rgrid{columns:3;column-gap:clamp(12px,2.5vw,32px)}
+ [data-design=c] .tgrid{padding-left:8px;padding-right:8px}
+ .sh2 h1,.sh2 h2{font-size:clamp(26px,4.4vw,44px)}
+ .rnut{gap:clamp(16px,3.7vw,48px)}
+ .rnut>*{min-width:0}
  .palgrid{grid-template-columns:1fr}
  .palbox{width:100%;max-width:520px}
- /* E · magazine */
- .mastin{grid-template-columns:1fr auto;row-gap:6px}
- .mastin .dateline{display:none}
+ .qs{min-width:0}
+ .qs input{min-width:0;width:100%}
+ .sbox{max-width:100%}.sbox input{min-width:0;flex:1}
+ .footin{flex-wrap:wrap;gap:10px 18px;height:auto;padding-top:14px;padding-bottom:14px}
+ .soonwrap{flex-wrap:wrap;display:flex;gap:6px 12px}
+ .rcb .bdgs{flex-wrap:wrap}
+
+ /* E - magazine: masthead row, nav row, hero, ingredients sidebar + method, 3-up extras */
+ .mastin{height:auto;min-height:clamp(64px,8.1vw,104px);column-gap:10px}
+ .mastin .dateline{font-size:12px}
  [data-design=e] .navin{overflow-x:auto;justify-content:flex-start;scrollbar-width:none;-webkit-overflow-scrolling:touch}
  [data-design=e] .navin::-webkit-scrollbar{display:none}
+ [data-design=e] .navin>a{min-height:44px;display:inline-flex;align-items:center;flex:none}
  [data-design=e] .navq{display:none}
- .ehero h1{font-size:52px}.ehero.rh h1{font-size:40px}
- .eissue ol{grid-template-columns:repeat(3,minmax(0,1fr))}
- .ecols{grid-template-columns:1fr 1fr}
- .estrip{grid-template-columns:1fr}
- .ebody{grid-template-columns:1fr}
- [data-design=e] .emeth .steps>li{grid-template-columns:64px 1fr}
- [data-design=e] .emeth .steps .n{font-size:56px}
- .eside{grid-template-columns:1fr}
- .echap h1{font-size:48px}.echap .bignum{font-size:96px}
- /* C · pinboard */
+ .ehero{height:auto;min-height:clamp(380px,50vw,640px);padding:clamp(40px,6vw,72px) 0 clamp(24px,4vw,56px)}
+ .ehero.rh{min-height:clamp(340px,45vw,580px)}
+ .ehero h1{font-size:clamp(38px,7.2vw,92px)}
+ .ehero.rh h1{font-size:clamp(32px,5.9vw,76px)}
+ .ehero.rh h1 i{font-size:clamp(16px,1.9vw,24px)}
+ .ehero p{font-size:clamp(15px,1.6vw,20px)}
+ .ehero .ecover{position:static;width:auto;max-width:320px;margin-top:22px}
+ .ecover b{font-size:clamp(20px,2.2vw,28px)}
+ .eissue ol{grid-template-columns:repeat(5,minmax(0,1fr));gap:clamp(10px,2.2vw,28px)}
+ .ecols{gap:clamp(16px,4.4vw,56px)}
+ .ecols>*{min-width:0}
+ .ecols h3{font-size:clamp(22px,2.5vw,32px)}
+ .ecols a{min-height:40px}
+ .estrip{gap:clamp(12px,2.3vw,30px)}
+ .ebody{grid-template-columns:minmax(0,31fr) minmax(0,60fr);gap:clamp(16px,5.5vw,70px);padding:clamp(24px,3.4vw,44px) 0}
+ .ebody .eing{position:static;max-height:none;overflow:visible}
+ [data-design=e] .emeth .steps>li{grid-template-columns:clamp(34px,9.2vw,118px) minmax(0,1fr);padding:clamp(14px,2vw,26px) 0;gap:6px}
+ [data-design=e] .emeth .steps .n{font-size:clamp(30px,4.4vw,56px)}
+ .eside{gap:clamp(14px,2.7vw,34px)}
+ .eside>*{min-width:0}
+ .echap{height:auto;min-height:clamp(300px,36.7vw,470px);padding:40px 0 28px}
+ .echap h1{font-size:clamp(36px,6.6vw,84px)}
+ .echap .bignum{font-size:clamp(70px,11.7vw,150px)}
+
+ /* B - cookbook: the 290px contents sidebar can't shrink to 1/4 of a phone and stay readable, so it
+    sits on top (Tami's own rule); the open-book spreads stay two pages side by side */
+ .spread{grid-template-columns:1fr 1fr}
+ .spread::after{display:block;width:clamp(24px,5.5vw,70px)}
+ .spread.single{grid-template-columns:1fr}.spread.single::after{display:none}
+ .page{padding:clamp(22px,3.6vw,46px) clamp(12px,4.4vw,56px) clamp(28px,5vw,64px)}
+ .page.title h1,[data-design=b] .spread.home .page.title h1{font-size:clamp(34px,5.9vw,76px)}
+ .spread.rec h1{font-size:clamp(28px,3.8vw,48px)}
+ .page.opener .bignum{font-size:clamp(72px,11.7vw,150px)}
+ .page.opener h1{font-size:clamp(30px,4.4vw,56px)}
+ .margin{grid-template-columns:1fr 1fr;gap:clamp(10px,1.4vw,18px)}
+ .margin>*{min-width:0}
+
+ /* C - pinboard */
  .cbarin{flex-wrap:wrap;gap:10px}
- .cnotes{justify-content:flex-start;margin-left:0}
+ .cnotes{justify-content:flex-start;margin-left:0;flex-wrap:wrap}
  .cbar2{flex-wrap:wrap;gap:10px}
- .chero,.chead,.cs2{grid-template-columns:1fr}
- .crow{grid-template-columns:repeat(3,minmax(0,1fr))}
- .crh{grid-template-columns:1fr}
- .cboard{grid-template-columns:1fr}
- .ccards .steps{grid-template-columns:1fr}
- .cboard2{grid-template-columns:1fr}
- .cnote.big h1{font-size:54px}.chead h1{font-size:58px}
- /* D · storybook */
+ .chero{grid-template-columns:minmax(0,62fr) minmax(0,30fr);gap:clamp(14px,4.4vw,56px);padding:clamp(24px,3.4vw,44px) 0 clamp(18px,2.3vw,30px)}
+ .chero>*{min-width:0}
+ .cnote.big h1{font-size:clamp(34px,5vw,64px)}
+ .crow{grid-template-columns:repeat(5,minmax(0,1fr));gap:clamp(8px,2vw,26px)}
+ .crh{grid-template-columns:minmax(0,46fr) minmax(0,50fr);gap:clamp(14px,3.4vw,44px);padding:clamp(24px,3.1vw,40px) 0}
+ .crh>*{min-width:0}
+ .crh .cnote h1{font-size:clamp(28px,3.4vw,44px)}
+ .cboard{grid-template-columns:minmax(0,41fr) minmax(0,60fr);gap:clamp(14px,3.7vw,48px)}
+ .cboard>*{min-width:0}
+ .ccards .steps{gap:clamp(12px,2.2vw,28px)}
+ .cboard2{gap:clamp(14px,2.8vw,36px)}
+ .cboard2>*{min-width:0}
+ .chead{grid-template-columns:minmax(0,1fr) minmax(0,.42fr);gap:clamp(14px,4.7vw,60px);padding:clamp(24px,3.6vw,46px) 0}
+ .chead h1{font-size:clamp(40px,6.6vw,84px)}
+ .cs2{grid-template-columns:minmax(0,1fr) minmax(0,.37fr);gap:clamp(12px,3.7vw,48px)}
+
+ /* D - storybook */
  .dtop{flex-wrap:wrap;gap:12px}
- .dhero{grid-template-columns:1fr}
- .dhero .dcat{height:300px}
- .dgrps{grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
- .dmore{grid-template-columns:1fr}
- .dsearch{grid-template-columns:1fr}
- [data-design=d] .foot{padding-bottom:96px}
- [data-design=d] .view{padding-bottom:40px}
- /* G · bento */
- [data-design=g] .shell{grid-template-columns:1fr}
- [data-design=g] .toc{position:fixed;top:auto;bottom:0;left:0;right:0;height:auto;flex-direction:row;justify-content:center;padding:6px 8px calc(6px + env(safe-area-inset-bottom));z-index:40;gap:0;box-shadow:0 -6px 20px rgba(var(--shadow),.18)}
- [data-design=g] .glogo,[data-design=g] .railsoon{display:none}
- [data-design=g] .rail{flex-direction:row;gap:2px;overflow-x:auto;scrollbar-width:none;max-width:100%}
- [data-design=g] .rail .nl{display:none}
- [data-design=g] .foot{padding-bottom:90px}
+ .dhero{grid-template-columns:minmax(0,34fr) minmax(0,60fr);gap:clamp(14px,3.1vw,40px);padding:clamp(14px,2.3vw,30px);border-radius:clamp(22px,2.8vw,36px)}
+ .dhero>*{min-width:0}
+ .dhero .dcat{height:clamp(200px,31vw,400px)}
+ .dcat.sm{height:clamp(150px,19.5vw,250px)}
+ .dgrps{grid-template-columns:repeat(3,minmax(0,1fr));gap:clamp(10px,3.4vw,44px)}
+ .dgrps b{font-size:clamp(18px,2.5vw,32px)}
+ .dmore{gap:clamp(12px,2.2vw,28px)}
+ .dmore>*{min-width:0}
+ .dsearch{grid-template-columns:minmax(0,21fr) minmax(0,60fr);gap:clamp(12px,3.1vw,40px)}
+ [data-design=d] .dsteps .steps>li{grid-template-columns:clamp(40px,5vw,64px) minmax(0,1fr);padding:clamp(12px,1.4vw,18px) clamp(12px,1.7vw,22px)}
+
+ /* G - bento: icon rail stays on the left like on the PC */
+ [data-design=g] .shell{grid-template-columns:clamp(56px,7.5vw,96px) minmax(0,1fr)}
+ [data-design=g] .toc{padding:14px 4px;gap:12px}
+ [data-design=g] .rail .nl{font-size:10px}
  .gtop{flex-wrap:wrap;gap:12px}
- .gbento{grid-template-columns:1fr 1fr}
- .gbento .gbig{grid-column:1/-1;grid-row:auto;min-height:340px}
- .grec{grid-template-columns:1fr 1fr}
- .grec .gimg{grid-column:1/-1;grid-row:auto;min-height:260px}
- .grec .gtitle,.grec .gstats,.grec .ging,.grec .gmeth,.galg,.gmisc,.gnut,.gnutx,.ginfo{grid-column:1/-1;grid-row:auto}
- .gmeth .steps{grid-template-columns:1fr}
- .gchap,.gsearch{grid-template-columns:1fr 1fr}
- .gchap .gimg,.gchap .gtitle,.gchap .gfil{grid-column:1/-1}
- .gnum b,.gcount b{font-size:46px}
- /* all designs: search + tools wrap nicely */
- .qs{flex:1 1 200px;min-width:0}
+ .gbento{grid-template-columns:minmax(0,2fr) minmax(0,1fr) minmax(0,1fr);grid-template-rows:clamp(120px,14.8vw,190px) clamp(120px,14.8vw,190px) auto;gap:clamp(8px,1.4vw,18px)}
+ .gbento>*{min-width:0}
+ .grec{grid-template-columns:repeat(4,minmax(0,1fr));gap:clamp(8px,1.4vw,18px)}
+ .grec>*{min-width:0}
+ .grec .gimg{min-height:clamp(200px,33vw,420px)}
+ .gchap{grid-template-columns:minmax(0,2fr) minmax(0,1fr) minmax(0,1fr);gap:clamp(8px,1.4vw,18px)}
+ .gchap>*{min-width:0}
+ .gchap .gimg{min-height:clamp(180px,23vw,300px)}
+ .gchap .gtitle h1{font-size:clamp(30px,4vw,52px)}
+ .gsearch{gap:clamp(8px,1.4vw,18px)}
+ .gnum b,.gcount b{font-size:clamp(34px,4.4vw,56px)}
+ .gmeth .steps{gap:clamp(8px,1vw,12px)}
+
  .tools{gap:6px}
  .palbtn span{display:none}
 }
+
+/* Phones (<= 640px): same structure; only grids whose columns would drop under ~150px of text lose a column */
 @media (max-width:640px){
- .wrap{width:calc(100% - 24px)}
- .rgrid,[data-design=e] .rgrid,[data-design=d] .rgrid,[data-design=g] .rgrid,[data-design=b] .sec .rgrid{grid-template-columns:1fr}
- .tgrid,[data-design=e] .tgrid,[data-design=c] .tgrid,[data-design=d] .tgrid,[data-design=g] .tgrid{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .rgrid,[data-design=e] .rgrid,[data-design=d] .rgrid,[data-design=g] .rgrid{grid-template-columns:repeat(2,minmax(0,1fr))}
+ [data-design=c] .rgrid{columns:2;column-gap:12px;padding:24px 2px 40px}
+ [data-design=b] .sec .rgrid{grid-template-columns:1fr}
+ .tgrid,[data-design=e] .tgrid,[data-design=b] .tgrid,[data-design=c] .tgrid,[data-design=d] .tgrid,[data-design=g] .tgrid{grid-template-columns:repeat(3,minmax(0,1fr))}
+ .rc h3{font-size:max(15px,1em)}
  .sh2{flex-wrap:wrap;gap:6px}
- .sh2 h1,.sh2 h2{font-size:30px}
  .sec{padding:30px 0}
- .ehero h1{font-size:40px}.ehero.rh h1{font-size:32px}
- .eissue ol{grid-template-columns:1fr 1fr}
- .enum{font-size:40px}
- .ecols{grid-template-columns:1fr}
- .crow{grid-template-columns:1fr 1fr}
+ .mastin .brand{font-size:clamp(26px,7.5vw,34px)}
+ .mastin .dateline{display:none}
+ .mastin{grid-template-columns:auto 1fr auto}
+ .ecols{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .crow{grid-template-columns:repeat(3,minmax(0,1fr))}
  .ccount{grid-column:1/-1}
- .cnote.big h1{font-size:44px}.chead h1{font-size:46px}
- .polaroid.big{max-width:88%;margin:0 auto}
- .dgrps{grid-template-columns:1fr}
+ .polaroid.big{max-width:100%}
  .dock{max-width:calc(100% - 16px);overflow-x:auto;scrollbar-width:none;bottom:10px}
  .dock .nl{display:none}
- .gbento{grid-template-columns:1fr}
- .grec{grid-template-columns:1fr}
- .stats{flex-wrap:wrap}
- .steps>li{grid-template-columns:36px 1fr}
- .nut{font-size:13px}
+ .steps>li{grid-template-columns:30px minmax(0,1fr)}
  .ctrls{flex-wrap:wrap;gap:8px}
  .scaler{flex-wrap:wrap}
- .mastin .brand{font-size:28px}
+ .nut{font-size:13px}
+ .drh .arch.big{width:min(500px,100%);height:auto;aspect-ratio:1}
+ .dchap .arch.big{width:min(460px,100%);height:auto;aspect-ratio:46/36}
+ [data-design=g] .glogo{transform:scale(.8)}
+ [data-design=g] .railsoon{display:none}
+
+ /* stat rows stay one row, like the PC */
+ .stats div{padding:8px 0 8px 8px;min-width:0}
+ .stats small{font-size:10.5px;letter-spacing:.05em}
+ .stats b{font-size:16px}
+ .drh .stats{border-radius:24px;padding:6px 10px}
+ .estrip{grid-template-columns:1fr}
+ .estrip .badges{justify-content:flex-end}
+ .ing>li{font-size:14.5px}
+ /* E: ingredients sidebar + method stay side by side */
+ .ebody{grid-template-columns:minmax(0,40fr) minmax(0,60fr);gap:14px}
+ .eing{padding:16px 10px;border-top-width:4px}
+ .eing h2,.emeth h2{font-size:clamp(24px,7vw,30px)}
+ [data-design=e] .emeth .steps>li{grid-template-columns:28px minmax(0,1fr);gap:4px}
+ [data-design=e] .emeth .steps .n{font-size:34px}
+ [data-design=e] .emeth .steps p{font-size:15px;line-height:1.6}
+ .eside{grid-template-columns:repeat(2,minmax(0,1fr))}
+ /* B: the two book pages stay side by side */
+ .page{padding:20px 10px 26px}
+ [data-design=b] .page .steps>li{grid-template-columns:24px minmax(0,1fr);gap:4px}
+ [data-design=b] .page .steps .n{font-size:22px}
+ [data-design=b] .page .steps p{font-size:15px}
+ .margin{grid-template-columns:1fr}
+ [data-design=b] .page.title .catcard{flex-direction:column}[data-design=b] .page.title .catcard img{width:100%}
+ /* C */
+ .ccards .steps{grid-template-columns:1fr}
+ .ccards .steps p{font-size:15px}
+ .cboard{grid-template-columns:minmax(0,44fr) minmax(0,56fr);gap:12px}
+ .cboard2{grid-template-columns:repeat(2,minmax(0,1fr))}
+ /* D */
+ .dneed{padding:20px 14px;border-radius:26px}
+ .dneed .ing{column-gap:16px}
+ .dneed h2,.dsh h2{font-size:clamp(30px,8.5vw,44px)}
+ .dmore{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .dgrps span{font-size:14px}
+ /* G: slim icon rail on the left, bento tiles two across */
+ [data-design=g] .shell{grid-template-columns:52px minmax(0,1fr)}
+ [data-design=g] .rail .nl{display:none}
+ [data-design=g] .rail a{min-height:40px;min-width:40px}
+ .gtop{gap:8px}
+ .grec{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .grec .gimg{grid-column:1;grid-row:span 2;min-height:240px}
+ .grec .gtitle{grid-column:2}
+ .grec .gstats{grid-column:1/-1}
+ .grec .ging{grid-column:1;grid-row:span 3}
+ .grec .gmeth{grid-column:2;grid-row:span 3}
+ .gmeth .steps{grid-template-columns:1fr}
+ .gmeth .steps>li{grid-template-columns:32px minmax(0,1fr);padding:10px}
+ .gtitle h1{font-size:clamp(22px,6.4vw,30px)}
+ .gchap{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .gchap .gimg{grid-column:1;grid-row:span 2;min-height:220px}
+ .gchap .gtitle{grid-column:2}
+ .gchap .gtitle h1{font-size:clamp(26px,7vw,34px)}
+ .gbento{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .gbento .gbig{grid-column:1/-1;grid-row:auto;min-height:260px}
+
+ .stats small{letter-spacing:0}
+ .page .stats,.cnote .stats,.gstats .stats{flex-wrap:wrap}
+ .page .stats div,.cnote .stats div{flex:1 1 40%;padding-left:0;border-left:0}
+ .gstats .stats div{flex:1 1 30%}
+ .alstrip{flex-wrap:wrap;gap:8px 12px}
+ .alstrip .algrid{flex:1 1 100%;order:1}
+ .alstrip>:last-child:not(.algrid){order:2}
+ .notepad{padding:16px 10px 20px 30px}
+ .notepad::before{left:20px}
+ .notepad h2,.ccards h2{font-size:clamp(32px,9vw,40px)}
+ .notepad .ing>li{font-size:14.5px;line-height:28px}
+ .grec .ging,.grec .gmeth{grid-column:1/-1;grid-row:auto}
+ .grec .ging .ing{columns:2;column-gap:14px}
+ .grec .ging .ing>li{break-inside:avoid}
 }
-@media(max-width:1099px){.footin{flex-wrap:wrap;gap:10px 18px;height:auto;padding-top:14px;padding-bottom:14px}.soonwrap{flex-wrap:wrap;display:flex;gap:6px 12px}}
-@media(max-width:900px){
- .chero,.dhero,.gbento,.crow,.dgrps{grid-template-columns:minmax(0,1fr)!important;grid-auto-flow:row}
- .chero>*,.dhero>*,.gbento>*,.gbig,.gstat,.glass,.dbubble,.cnote{min-width:0;grid-column:auto!important;grid-row:auto!important;max-width:100%}
- .chero img,.dhero img,.dpic{max-width:100%}
- .rcb .bdgs{flex-wrap:wrap}
- .sbox{max-width:100%}.sbox input{min-width:0;flex:1}
+/* Home (kitchen walk-through): featured photo + facts stay side by side, the 4 numbers stay in one row */
+@media (max-width:820px){
+ .kf .kf-stage{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:clamp(12px,3vw,24px);width:calc(100% - 24px)}
+ .kf .kf-info h2{font-size:clamp(19px,5.2vw,28px)}
+ .kf .kf-sum{font-size:14px;-webkit-line-clamp:5}
+ .kf .kf-info ul{gap:8px 10px}
+ .kf .kf-info li b{font-size:16px}
+ .kf .kf-info li span{font-size:12.5px}
+ .kf .kf-photo{aspect-ratio:4/5}
+ section.kn{grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;padding:40px 0}
+ section.kn b{font-size:clamp(26px,7.5vw,44px)}
+ section.kn span{font-size:13px;display:block;line-height:1.3}
 }
-@media(max-width:1099px){[data-design=c] .rgrid{columns:3;column-gap:24px}}
-@media(max-width:760px){[data-design=c] .rgrid{columns:2;column-gap:18px;padding:24px 4px 40px}[data-design=c] .rc .bdg{font-size:10px}}
-@media(max-width:420px){[data-design=c] .rgrid{columns:1}}
-@media(max-width:900px){.gbento{grid-template-rows:none}.gbig{min-height:300px}}
-@media(max-width:640px){.drh .arch.big{width:min(500px,100%);height:auto;aspect-ratio:1}.dchap .arch.big{width:min(460px,100%);height:auto;aspect-ratio:46/36}}
-/* E home: the Featured cover sat on top of the search box on phones; put it under the search instead */
-@media(max-width:1099px){.ehero:not(.rh){height:auto;min-height:640px;padding-top:48px}.ehero .ecover{position:static;width:auto;max-width:320px;margin-top:22px}}
-/* C: the round chapter-number badge (right:-8px) poked ~1 px past the screen edge (horizontal scroll) */
-@media(max-width:1099px){[data-design=c] .tgrid{padding-left:8px;padding-right:8px}}
+@media (max-width:640px){
+ .eissue ol{grid-template-columns:repeat(5,minmax(0,1fr));gap:8px}
+ .eissue img{height:auto}
+ .eissue .enum{font-size:30px}
+ .eissue b{font-size:14px}
+ .ehero h1{line-height:1.05}
+}
+@media (max-width:640px){
+ .sbox{flex-wrap:wrap;gap:8px;padding:8px 8px 8px 14px}
+ .sbox input{flex:1 1 110px;font-size:16px;min-height:40px}
+ .sbox .go{min-height:40px}
+ .dhero{grid-template-columns:minmax(0,30fr) minmax(0,70fr);gap:12px}
+ .dbubble{padding:16px 14px;border-radius:22px}
+ .dbubble h1{font-size:clamp(26px,7.2vw,50px)}
+ .cnote.big h1{font-size:clamp(32px,9vw,76px)}
+ .gbento{grid-template-rows:none;grid-auto-rows:auto}
+ .gbento .gbig{min-height:300px}
+}
+@media (max-width:640px){
+ .gbento .gtile{min-height:200px}
+ .gbento .gstat b{font-size:clamp(34px,10vw,60px)}
+}
+@media (max-width:640px){
+ [data-design=b] .page .rgrid .rc{flex-direction:column;align-items:stretch;gap:8px}
+ [data-design=b] .page .rgrid .rimg{width:100%;height:auto;aspect-ratio:4/3}
+ [data-design=b] .page .rgrid .rc h3{font-size:17px}
+ [data-design=b] .rc .bdgs{display:flex;flex-wrap:wrap;gap:4px}
+ [data-design=b] .rc .meta{white-space:normal}
+ .sb{min-width:40px;min-height:40px}
+}
+@media (max-width:640px){
+ [data-design=b] .page .rgrid .rcb{grid-template-columns:minmax(0,1fr)}
+ [data-design=b] .page .rgrid .rc .no,[data-design=b] .page .rgrid .rc .bdgs{grid-column:auto}
+}
+@media (max-width:640px){
+ .grec .gimg{grid-column:1/-1;grid-row:auto;min-height:0;aspect-ratio:16/10}
+ .grec .gtitle{grid-column:1/-1}
+}
+@media (max-width:640px){
+ .gchap .gimg{grid-column:1/-1;grid-row:auto;min-height:0;aspect-ratio:16/9}
+ .gchap .gtitle{grid-column:1/-1}
+}
