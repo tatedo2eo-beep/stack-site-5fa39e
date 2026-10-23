@@ -1,0 +1,128 @@
+{
+  "slug": "pistachio-sesame-dukkah",
+  "title": "Pistachio and Sesame Dukkah",
+  "category": "snacks-sides",
+  "cuisine": "Egyptian",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "dukkah",
+  "dish_title": "Dukkah",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Toasted pistachios and sesame with coriander, cumin and fennel seeds, black pepper and salt, crushed to a crunchy, fragrant sprinkle.",
+  "servings": 12,
+  "prep_min": 10,
+  "cook_min": 8,
+  "difficulty": "easy",
+  "equipment": [
+    "small heavy frying pan",
+    "plates",
+    "spice grinder or mortar and pestle",
+    "food processor or sharp knife",
+    "airtight jar"
+  ],
+  "ingredients": [
+    {
+      "group": "Dukkah",
+      "qty": 60,
+      "unit": "g",
+      "item": "shelled unsalted pistachios"
+    },
+    {
+      "group": "Dukkah",
+      "qty": 40,
+      "unit": "g",
+      "item": "sesame seeds"
+    },
+    {
+      "group": "Dukkah",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "coriander seeds"
+    },
+    {
+      "group": "Dukkah",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cumin seeds"
+    },
+    {
+      "group": "Dukkah",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fennel seeds"
+    },
+    {
+      "group": "Dukkah",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dukkah",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the pistachios",
+      "text": "Warm the dry pan over medium heat, add the pistachios and stir for 3-4 min until they smell toasty and pick up a few golden spots. Spread them on a plate to cool completely so they chop cleanly."
+    },
+    {
+      "title": "Toast the sesame",
+      "text": "Add the sesame seeds to the same pan and stir for 2-3 min until evenly golden. Move them to a separate plate straight away, as they scorch quickly."
+    },
+    {
+      "title": "Grind the spices",
+      "text": "Toast the coriander, cumin and fennel seeds for 1-2 min until fragrant, let them cool for a minute, then grind finely with the pepper and salt."
+    },
+    {
+      "title": "Crush and combine",
+      "text": "Pulse the cooled pistachios a few times, or chop them by hand, until they look like coarse gravel with no whole nuts left. Mix with the sesame seeds and ground spices."
+    },
+    {
+      "title": "Serve",
+      "text": "Set the dukkah out with crusty bread and a small bowl of olive oil for dipping, or scatter it over salads, fried eggs, hummus and roast vegetables."
+    }
+  ],
+  "tips": [
+    "Let the nuts cool fully before processing; warm nuts release oil and turn pasty.",
+    "Pulse in short bursts and stop early; the texture should stay crunchy.",
+    "Swap half the pistachios for blanched hazelnuts for a richer, earthier blend.",
+    "Toast each ingredient separately, as they brown at different speeds."
+  ],
+  "storage": "Keep in an airtight jar at room temperature, away from heat and light, for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sesame",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 53,
+    "protein_g": 1.9,
+    "carbs_g": 3.0,
+    "sugar_g": 0.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 4.2,
+    "satfat_g": 0.5,
+    "salt_g": 0.37,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "dukkah-basic.jpg",
+  "image_alt": "A dark bowl of coarse golden-brown dukkah beside torn pieces of crusty bread.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

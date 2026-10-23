@@ -1,0 +1,129 @@
+{
+  "slug": "cucumber-coriander-raita",
+  "title": "Cucumber and Coriander Raita",
+  "category": "snacks-sides",
+  "cuisine": "Indian",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "raita",
+  "dish_title": "Raita",
+  "flavour": "Cucumber",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Whole-milk yoghurt with salted, squeezed cucumber, fresh coriander, a little green chilli and a pinch of cayenne, served well chilled.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "box grater",
+    "sieve",
+    "clean tea towel",
+    "mixing bowl",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Cucumber",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium cucumber",
+      "note": "about 250 g"
+    },
+    {
+      "group": "Cucumber",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Raita",
+      "qty": 400,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt"
+    },
+    {
+      "group": "Raita",
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh coriander, finely chopped, plus a few leaves to serve"
+    },
+    {
+      "group": "Raita",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "small green chilli, finely chopped",
+      "note": "optional"
+    },
+    {
+      "group": "Raita",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Raita",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Salt the cucumber",
+      "text": "Coarsely grate the cucumber into the sieve, sprinkle with 0.25 tsp salt, toss and leave for 15 min. The salt pulls out excess water so the raita stays creamy."
+    },
+    {
+      "title": "Squeeze it out",
+      "text": "Bundle the cucumber in the tea towel and twist firmly over the sink until little more liquid drips out. If you want a garnish like the photo, slice a few thin rounds from the cucumber before grating."
+    },
+    {
+      "title": "Season the yoghurt",
+      "text": "Whisk the yoghurt in the bowl until smooth and slightly loosened, then stir in the cayenne and the remaining salt. Fold in the cucumber, chopped coriander and green chilli."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and refrigerate for at least 20 min so it is properly cold and the flavours come together."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Spoon into a serving bowl and top with a few coriander leaves and the cucumber slices. Serve alongside curry, rice dishes or kebabs."
+    }
+  ],
+  "tips": [
+    "Whole-milk yoghurt gives the best body; low-fat versions turn thin once the cucumber goes in.",
+    "Leave the chilli out for children or anyone sensitive to heat; the cayenne still adds a gentle warmth.",
+    "A pinch of toasted ground cumin stirred in at the end adds a nutty, smoky edge.",
+    "Make it no more than a few hours ahead for the crispest cucumber."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days and stir before serving. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 48,
+    "protein_g": 2.6,
+    "carbs_g": 4.8,
+    "sugar_g": 3.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 2.2,
+    "satfat_g": 1.4,
+    "salt_g": 0.57,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "raita-basic--cucumber.jpg",
+  "image_alt": "A dark bowl of creamy white raita flecked with green herbs, topped with coriander leaves and thin cucumber slices.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

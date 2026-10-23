@@ -205,6 +205,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crispy-smashed-potatoes | Crispy smashed potatoes | Classic | 2 | 4 |
 | crispy-steak-fries | Steak fries | Classic | 3 | 5 |
 | crispy-vegetable-spring-rolls-sweet-chilli-dip | Spring rolls | Classic | 2 | 4 |
+| cucumber-coriander-raita | Raita | Cucumber | 3 | 5 |
 | curried-chicken-salad-mango-chutney-almonds | Chicken salad | Curry | 3 | 5 |
 | curry-deviled-eggs-parsley | Deviled eggs | Curry | 2 | 4 |
 | curry-laksa-chicken-prawn-coconut-noodle-soup | Laksa | Classic | 2 | 4 |
@@ -476,6 +477,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pho-bo-vietnamese-beef-noodle-soup | Pho | Classic | 2 | 4 |
 | pineapple-upside-down-cake | Upside-down | Pineapple | 2 | 4 |
 | piri-piri-chicken | Piri-piri | Classic | 2 | 4 |
+| pistachio-sesame-dukkah | Dukkah | Classic | 2 | 4 |
 | pizzelle | Pizzelle | Classic | 2 | 4 |
 | pizzoccheri | Pizzoccheri | Classic | 2 | 4 |
 | poached-chicken | Poached | Classic | 2 | 4 |
