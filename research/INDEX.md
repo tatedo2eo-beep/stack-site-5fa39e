@@ -158,6 +158,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-pumpkin-pie | Pumpkin pie | Classic | 2 | 4 |
 | classic-smash-burger | Smash burger | Cheese | 3 | 7 |
 | classic-strawberry-jam | Strawberry jam | Classic | 2 | 4 |
+| classic-vanilla-brioche-bread-pudding | Bread pudding | Classic | 2 | 4 |
 | classic-vanilla-creme-brulee | Crème brûlée | Classic | 3 | 5 |
 | clear-white-chicken-stock-slow-simmered | White/brown chicken | Classic | 2 | 4 |
 | cocoa-dusted-dark-chocolate-truffles | Truffles | Classic | 3 | 5 |

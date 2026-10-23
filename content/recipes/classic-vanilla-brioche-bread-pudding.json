@@ -1,0 +1,146 @@
+{
+  "slug": "classic-vanilla-brioche-bread-pudding",
+  "title": "Classic Vanilla Brioche Bread Pudding",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "bread-pudding",
+  "dish_title": "Bread pudding",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Toasted brioche cubes soaked in a vanilla yolk custard, topped with butter and brown sugar, and baked until puffed, set and golden.",
+  "servings": 10,
+  "prep_min": 20,
+  "cook_min": 70,
+  "difficulty": "easy",
+  "equipment": [
+    "2 baking trays",
+    "23 x 33 cm baking dish",
+    "large mixing bowl",
+    "whisk",
+    "measuring jug",
+    "pastry brush",
+    "instant-read thermometer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Pudding",
+      "qty": 400,
+      "unit": "g",
+      "item": "day-old brioche loaf, cut into 2 cm cubes",
+      "note": "check the label: brioche contains egg and milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 120,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 3,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Custard",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 600,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 300,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Topping",
+      "qty": 24,
+      "unit": "g",
+      "item": "light brown sugar",
+      "note": "about 2 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dry the bread",
+      "text": "Heat the oven to 160 °C (140 °C fan). Spread the brioche cubes over the trays and bake for 15 min, tossing once, until dry but still pale. Cool for 15 min and set aside two handfuls for the top. Dry bread soaks up custard without turning to mush."
+    },
+    {
+      "title": "Mix the custard",
+      "text": "Whisk the yolks, sugar, vanilla and salt in the large bowl, then whisk in the milk and cream until smooth."
+    },
+    {
+      "title": "Soak",
+      "text": "Add the rest of the bread cubes, toss to coat and tip everything into the baking dish. Leave for 30 min, pressing the cubes down now and then, until they are soaked right through."
+    },
+    {
+      "title": "Top",
+      "text": "Scatter the reserved cubes over the top and press them in lightly. Dab with the melted butter and sprinkle with the brown sugar."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake on the middle shelf for 45-55 min, until puffed and golden and the centre no longer leaks liquid custard when pressed. The thermometer should read 80 °C in the middle, so the eggs are safely set."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Cool on the rack for 30 min to firm up, then cut into squares and serve warm."
+    }
+  ],
+  "tips": [
+    "A common mistake is skipping the soak, which leaves dry patches of bread; give it the full 30 min.",
+    "Day-old bread works best; very fresh brioche can go soggy.",
+    "Check the centre with a thermometer rather than guessing, as the top browns before the middle sets.",
+    "Serve with a spoonful of cream or custard."
+  ],
+  "storage": "Cover and keep in the fridge for up to 3 days. Reheat portions at 160 °C (140 °C fan) for 10-15 min until hot right through.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 356,
+    "protein_g": 8.0,
+    "carbs_g": 38.6,
+    "sugar_g": 20.9,
+    "free_sugar_g": 16.8,
+    "fat_g": 18.9,
+    "satfat_g": 10.6,
+    "salt_g": 0.88,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bread-pudding-basic.jpg",
+  "image_alt": "A tall square of golden bread pudding with crisp, caramelised bread cubes on top, on a dark square plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}
