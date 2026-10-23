@@ -1,0 +1,137 @@
+{
+  "slug": "fluffy-tricolour-quinoa-parsley-lemon",
+  "title": "Fluffy Tricolour Quinoa with Parsley and Lemon",
+  "category": "rice-grains",
+  "cuisine": "South American",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "quinoa",
+  "dish_title": "Quinoa",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Rinsed tricolour quinoa toasted in a little oil, simmered with a bay leaf and rested under a towel so the grains stay separate and fluffy.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "fine-mesh sieve",
+    "medium saucepan with lid",
+    "wooden spoon",
+    "clean tea towel",
+    "fork"
+  ],
+  "ingredients": [
+    {
+      "group": "Quinoa",
+      "qty": 270,
+      "unit": "g",
+      "item": "tricolour quinoa (white, red and black)"
+    },
+    {
+      "group": "Quinoa",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Quinoa",
+      "qty": 480,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Quinoa",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Quinoa",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil, to finish"
+    },
+    {
+      "group": "To finish",
+      "qty": 10,
+      "unit": "g",
+      "item": "flat-leaf parsley leaves, roughly chopped"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges, to serve"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Rinse well",
+      "text": "Put the quinoa in the sieve and run cold water through it for 30 seconds, rubbing the seeds between your fingers. Rinsing removes the bitter natural coating, called saponin. Shake the sieve hard to get it as dry as possible."
+    },
+    {
+      "title": "Toast in oil",
+      "text": "Heat 1 tbsp oil in the saucepan over medium heat and stir the quinoa for 4-5 min. It is ready when it is dry, smells toasty and starts to crackle; this step deepens the flavour."
+    },
+    {
+      "title": "Simmer covered",
+      "text": "Add the 480 ml water, bay leaf and salt and bring to the boil. Cover, lower the heat and simmer 15 min, until the water has gone and the little curly tails have come away from the seeds."
+    },
+    {
+      "title": "Rest under a towel",
+      "text": "Take the pan off the heat, lay a folded clean tea towel over it and put the lid back on. After 10 min the towel will have absorbed the excess steam, so the quinoa finishes fluffy rather than wet."
+    },
+    {
+      "title": "Fluff and finish",
+      "text": "Remove the bay leaf and fluff the quinoa with a fork. Fold in the remaining oil, the parsley and pepper, and serve with lemon wedges."
+    }
+  ],
+  "tips": [
+    "Skipping the rinse is the most common mistake and leaves a soapy, bitter taste.",
+    "Keep the towel's corners folded up over the lid, well away from the flame.",
+    "Using a little less water than the usual 2:1 keeps the seeds distinct.",
+    "Cooled quinoa makes a fine base for grain salads."
+  ],
+  "storage": "Refrigerate in a covered container up to 4 days, or freeze flat in a bag up to 2 months. Reheat with a splash of water, covered, until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 310,
+    "protein_g": 9.6,
+    "carbs_g": 43.8,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.1,
+    "fat_g": 10.9,
+    "satfat_g": 1.4,
+    "salt_g": 1.11,
+    "fibre_g": 4.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "quinoa-basic.jpg",
+  "image_alt": "A bowl of fluffy white, red and black quinoa with chopped parsley and lemon wedges on the side.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Food Network Kitchen"
+  ]
+}

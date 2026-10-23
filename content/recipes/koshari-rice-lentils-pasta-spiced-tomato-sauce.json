@@ -1,0 +1,278 @@
+{
+  "slug": "koshari-rice-lentils-pasta-spiced-tomato-sauce",
+  "title": "Koshari (Rice, Lentils and Pasta with Spiced Tomato Sauce)",
+  "category": "rice-grains",
+  "cuisine": "Egyptian",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "koshari",
+  "dish_title": "Koshari",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Spiced rice and lentils, macaroni and chickpeas under a tangy tomato sauce, with a garlic vinegar sauce and floured crispy onions on top.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 60,
+  "difficulty": "medium",
+  "equipment": [
+    "large deep saucepan or wok",
+    "instant-read thermometer",
+    "wire rack over a tray",
+    "large saucepan",
+    "2 medium saucepans",
+    "small saucepan",
+    "colander",
+    "fine-mesh sieve",
+    "mixing bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Crispy onions",
+      "qty": 600,
+      "unit": "g",
+      "item": "onions, halved and thinly sliced"
+    },
+    {
+      "group": "Crispy onions",
+      "qty": 16,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Crispy onions",
+      "qty": 500,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    },
+    {
+      "group": "Crispy onions",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Pasta",
+      "qty": 150,
+      "unit": "g",
+      "item": "elbow macaroni or ditalini"
+    },
+    {
+      "group": "Pasta",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "water, for boiling"
+    },
+    {
+      "group": "Pasta",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the cooking water",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Lentils",
+      "qty": 200,
+      "unit": "g",
+      "item": "brown or green lentils, rinsed"
+    },
+    {
+      "group": "Lentils",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Lentils",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the lentil water",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Rice",
+      "qty": 200,
+      "unit": "g",
+      "item": "basmati rice"
+    },
+    {
+      "group": "Rice",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Rice",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Rice",
+      "qty": 480,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Rice",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground coriander"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "tomato purée (paste)"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 400,
+      "unit": "g",
+      "item": "canned tomato sauce (passata-style)"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 250,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "distilled white vinegar"
+    },
+    {
+      "group": "Garlic vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Garlic vinegar",
+      "qty": 5,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Garlic vinegar",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Garlic vinegar",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "distilled white vinegar"
+    },
+    {
+      "group": "Garlic vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "To serve",
+      "qty": 240,
+      "unit": "g",
+      "item": "drained canned chickpeas, rinsed",
+      "note": "1 can of 400 g"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Fry the onions",
+      "text": "Toss the onions with the flour. Heat the 500 ml oil in the deep pan to 175 °C and fry the onions in batches for 5-7 min, until golden and crisp; the flour absorbs surface moisture so they crisp faster. Drain on the rack, sprinkle with the pinch of salt and keep 2 tbsp of the oil."
+    },
+    {
+      "title": "Cook the pasta",
+      "text": "Boil the pasta in the 2000 ml water with 1 tsp salt until al dente. Drain, rinse to stop the cooking and toss with a few drops of the onion oil so it does not stick."
+    },
+    {
+      "title": "Parboil the lentils",
+      "text": "Simmer the lentils in 1000 ml water with 0.5 tsp salt for 15-17 min, until just tender, then drain."
+    },
+    {
+      "title": "Make the spiced rice",
+      "text": "Soak, swish and rinse the rice until the water runs almost clear. Heat 1 tbsp of the onion oil with the cumin and cinnamon for 1 min, stir in the rice for 2 min, then add 480 ml water and 0.5 tsp salt. Bring to the boil, cover and cook on low for 12 min; rest 10 min and fork in the lentils."
+    },
+    {
+      "title": "Simmer the tomato sauce",
+      "text": "Warm the rest of the onion oil with the garlic, coriander, cumin and cayenne for 1 min, then stir in the tomato purée for another minute to deepen its flavour. Add the tomato sauce, 250 ml water and vinegar and simmer 10-15 min, until slightly thickened."
+    },
+    {
+      "title": "Make the garlic vinegar",
+      "text": "In the small saucepan, cook the garlic in the olive oil over medium heat for about 3 min until golden. Add the 120 ml water, vinegar and cumin and simmer for 5 min; this sharp sauce cuts through all the starch."
+    },
+    {
+      "title": "Assemble",
+      "text": "Warm the chickpeas briefly in the tomato sauce or the microwave. Spoon rice and lentils into bowls, add pasta and chickpeas, ladle over the tomato sauce, add garlic vinegar to taste and pile the crispy onions on top."
+    }
+  ],
+  "tips": [
+    "Overcrowding the oil is a common mistake; fry the onions in small batches so the oil stays at 175 °C and they crisp rather than steam.",
+    "Never leave hot oil unattended, and keep a lid nearby.",
+    "Everything except the onions can be made a day ahead and reheated.",
+    "Serve the garlic vinegar at the table so everyone can add their own.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Refrigerate each component separately and covered up to 3 days; keep the onions airtight at room temperature. Reheat rice, lentils, pasta and sauce until piping hot (74 °C); reheat rice only once. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 546,
+    "protein_g": 19.4,
+    "carbs_g": 92.9,
+    "sugar_g": 10.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 11.5,
+    "satfat_g": 1.2,
+    "salt_g": 2.12,
+    "fibre_g": 10.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "koshari-advanced.jpg",
+  "image_alt": "A bowl of rice, lentils, macaroni and chickpeas under red tomato sauce, piled with crispy brown onions.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Food Network Kitchen"
+  ]
+}

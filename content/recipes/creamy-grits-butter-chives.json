@@ -1,0 +1,119 @@
+{
+  "slug": "creamy-grits-butter-chives",
+  "title": "Creamy Grits with Butter and Chives",
+  "category": "rice-grains",
+  "cuisine": "American",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "grits",
+  "dish_title": "Grits",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Old-fashioned grits simmered gently in half milk, half water, then finished with butter and snipped chives.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "medium heavy saucepan with lid",
+    "balloon whisk",
+    "wooden spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Grits",
+      "qty": 500,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Grits",
+      "qty": 500,
+      "unit": "ml",
+      "item": "water, plus extra for thinning"
+    },
+    {
+      "group": "Grits",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Grits",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Grits",
+      "qty": 160,
+      "unit": "g",
+      "item": "old-fashioned grits (not instant or quick)"
+    },
+    {
+      "group": "To finish",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, plus a pat to serve"
+    },
+    {
+      "group": "To finish",
+      "qty": 6,
+      "unit": "g",
+      "item": "chives, snipped, plus a few whole stalks to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the liquid",
+      "text": "Combine the milk, 500 ml water, salt and pepper in the heavy saucepan and bring to a simmer over medium-high heat. Stay close, as milk can foam up and over the edge in seconds."
+    },
+    {
+      "title": "Whisk in the grits",
+      "text": "Pour the grits in slowly while whisking constantly. Adding them gradually lets each particle get wet separately, so you avoid lumps."
+    },
+    {
+      "title": "Cook low and covered",
+      "text": "Turn the heat to low, cover and cook for 20-25 min, whisking every few minutes and scraping the bottom where milk can catch. They are done when thick, creamy and tender with no gritty centre; add 2 tbsp water at a time if they get too stiff."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Take the pan off the heat and stir in the 30 g butter and the snipped chives. Ladle into bowls and top each with a pat of butter and a few long chive stalks."
+    }
+  ],
+  "tips": [
+    "Instant or quick grits will not give the same texture; use old-fashioned grits and allow the full time.",
+    "Not scraping the bottom is the usual mistake and leads to scorched milk; whisk regularly and keep the heat low.",
+    "Grits thicken as they stand, so loosen with hot water just before serving.",
+    "Stir in grated cheese at the end if you like."
+  ],
+  "storage": "Refrigerate covered up to 4 days; they set firm. Reheat in a pan with a splash of milk or water, whisking, until smooth and piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 287,
+    "protein_g": 7.7,
+    "carbs_g": 38.0,
+    "sugar_g": 6.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 11.9,
+    "satfat_g": 7.0,
+    "salt_g": 1.61,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "grits-basic.jpg",
+  "image_alt": "A bowl of creamy white grits with a melting pat of butter, snipped chives and long chive stalks.",
+  "inspired_by": [
+    "Food Network Kitchen",
+    "America's Test Kitchen"
+  ]
+}

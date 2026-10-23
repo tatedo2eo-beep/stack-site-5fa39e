@@ -1,0 +1,125 @@
+{
+  "slug": "toasted-farro-olive-oil-parsley",
+  "title": "Toasted Farro with Olive Oil and Parsley",
+  "category": "rice-grains",
+  "cuisine": "Italian",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "farro",
+  "dish_title": "Farro",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Dry-toasted farro boiled in plenty of salted water with bay leaves, drained and dressed with olive oil and parsley.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan",
+    "medium frying pan",
+    "wooden spoon",
+    "colander"
+  ],
+  "ingredients": [
+    {
+      "group": "Farro",
+      "qty": 270,
+      "unit": "g",
+      "item": "whole or semi-pearled farro"
+    },
+    {
+      "group": "Farro",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "water, for boiling"
+    },
+    {
+      "group": "Farro",
+      "qty": 18,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the cooking water",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Farro",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "To finish",
+      "qty": 15,
+      "unit": "g",
+      "item": "flat-leaf parsley leaves"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the water",
+      "text": "Bring the 2000 ml water to the boil in the large saucepan with the salt and bay leaves. Lots of water means the grains cook evenly and you can drain off any surplus starch."
+    },
+    {
+      "title": "Toast the farro",
+      "text": "While the water heats, stir the dry farro in the frying pan over medium heat for about 6 min. When it has turned a shade darker and smells like toasted nuts, it is ready."
+    },
+    {
+      "title": "Boil until chewy",
+      "text": "Tip the farro into the boiling water and simmer uncovered, stirring now and then. Semi-pearled farro needs 15-20 min and whole farro 30-40 min, so start tasting at 15 min; it should be tender with a definite chew."
+    },
+    {
+      "title": "Drain",
+      "text": "Drain the farro well in the colander and fish out the bay leaves. Most of the cooking salt goes down the sink with the water."
+    },
+    {
+      "title": "Dress and serve",
+      "text": "Toss the hot farro with the oil and pepper so it soaks up the flavour as it steams. Fold in most of the parsley and scatter the rest on top."
+    }
+  ],
+  "tips": [
+    "Check the packet: whole and semi-pearled farro take very different times, and guessing wrong leaves it hard or mushy.",
+    "Do not skip toasting; it brings out the grain's nutty side.",
+    "Dress farro while hot, as it absorbs oil better warm.",
+    "It keeps its chew for days, so make a double batch for salads."
+  ],
+  "storage": "Refrigerate covered up to 5 days, or freeze up to 3 months. Serve cold in salads, or reheat with a splash of water until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 290,
+    "protein_g": 10.0,
+    "carbs_g": 47.8,
+    "sugar_g": 4.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 8.4,
+    "satfat_g": 1.2,
+    "salt_g": 1.11,
+    "fibre_g": 7.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "farro-basic.jpg",
+  "image_alt": "A bowl of plump brown farro grains glossy with olive oil and scattered with parsley leaves.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Food Network Kitchen"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "ful-medames-cumin-lemon-tomato",
+  "title": "Ful Medames with Cumin, Lemon and Tomato",
+  "category": "vegetarian",
+  "cuisine": "Egyptian",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "ful-medames",
+  "dish_title": "Ful medames",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Canned fava beans simmered in garlic and cumin oil, half-mashed into a thick stew, brightened with lemon and topped with tomato, onion and parsley.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "wooden spoon",
+    "potato masher",
+    "sieve"
+  ],
+  "ingredients": [
+    {
+      "group": "Beans",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil, plus extra to serve"
+    },
+    {
+      "group": "Beans",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Beans",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Beans",
+      "qty": 500,
+      "unit": "g",
+      "item": "drained canned fava beans (ful), rinsed",
+      "note": "2 cans of 400 g"
+    },
+    {
+      "group": "Beans",
+      "qty": 300,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Beans",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Beans",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Beans",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice, plus lemon wedges to serve"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "pc",
+      "item": "ripe tomato, diced",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "small onion, finely chopped"
+    },
+    {
+      "group": "Topping",
+      "qty": 10,
+      "unit": "g",
+      "item": "flat-leaf parsley leaves, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Bloom garlic and cumin",
+      "text": "Put the 3 tbsp oil, garlic and cumin in the saucepan over medium heat and warm for about 2 min. Pull it from the heat if the garlic starts to colour; you want it fragrant, not brown, which would turn it bitter."
+    },
+    {
+      "title": "Simmer the beans",
+      "text": "Add the beans, 300 ml water, salt and pepper and simmer for 8-10 min, stirring now and then. The liquid will thicken slightly as the beans soften and release starch."
+    },
+    {
+      "title": "Mash half",
+      "text": "Off the heat, roughly mash about half the beans with the masher and leave the rest whole for texture. The result should look like a thick, spoonable stew. Stir in the lemon juice and taste."
+    },
+    {
+      "title": "Top and serve",
+      "text": "Spoon into a shallow bowl and scatter over the tomato, onion and parsley. Finish with a generous swirl of olive oil and serve with lemon wedges."
+    }
+  ],
+  "tips": [
+    "Over-mashing into a smooth purée is a common mistake; keep plenty of whole beans.",
+    "Canned beans vary in saltiness, so taste before adding more salt.",
+    "Add lemon off the heat to keep its flavour fresh.",
+    "Warm pita and sliced cucumber are traditional on the side."
+  ],
+  "storage": "Refrigerate the beans (without toppings) covered up to 3 days. Reheat with a splash of water until piping hot (74 °C), then add fresh toppings. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 222,
+    "protein_g": 7.8,
+    "carbs_g": 20.2,
+    "sugar_g": 1.7,
+    "free_sugar_g": 0.2,
+    "fat_g": 13.1,
+    "satfat_g": 1.8,
+    "salt_g": 1.8,
+    "fibre_g": 5.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ful-medames-basic.jpg",
+  "image_alt": "A shallow bowl of mashed fava beans topped with diced tomato, onion and parsley under a pool of olive oil.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

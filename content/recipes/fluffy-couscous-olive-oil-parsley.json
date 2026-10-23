@@ -1,0 +1,115 @@
+{
+  "slug": "fluffy-couscous-olive-oil-parsley",
+  "title": "Fluffy Couscous with Olive Oil and Parsley",
+  "category": "rice-grains",
+  "cuisine": "North African",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "couscous",
+  "dish_title": "Couscous",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Instant couscous toasted golden in olive oil, steamed off the heat for 7 min and forked loose with parsley.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan with tight lid",
+    "fork",
+    "kettle"
+  ],
+  "ingredients": [
+    {
+      "group": "Couscous",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Couscous",
+      "qty": 300,
+      "unit": "g",
+      "item": "quick-cooking (instant) couscous"
+    },
+    {
+      "group": "Couscous",
+      "qty": 400,
+      "unit": "ml",
+      "item": "water or vegetable stock",
+      "note": "use water for a lower-salt result"
+    },
+    {
+      "group": "Couscous",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 15,
+      "unit": "g",
+      "item": "flat-leaf parsley, chopped, plus a sprig to serve"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the grains",
+      "text": "Warm 1 tbsp of the oil in the saucepan over medium-high heat, tip in the couscous and stir for 3-5 min. Once the grains look lightly golden and smell nutty, they are ready; toasting adds flavour and helps keep each grain separate."
+    },
+    {
+      "title": "Add boiling liquid",
+      "text": "Pour in the 400 ml boiling water or stock with the salt, give it a single stir, then clamp on the lid and lift the pan off the heat. Leave it alone for 7 min so the couscous can soak up every drop of steam."
+    },
+    {
+      "title": "Fluff thoroughly",
+      "text": "Lift the lid and spend a full minute raking through the couscous with a fork. Breaking every clump now gives the light, sandy texture you want."
+    },
+    {
+      "title": "Season and serve",
+      "text": "Fork through the rest of the oil, the parsley and the pepper. Heap it in a bowl, crown it with a parsley sprig and serve warm."
+    }
+  ],
+  "tips": [
+    "Stirring the couscous while it steams makes it gummy; leave the lid on and let it be.",
+    "Use water rather than stock if you are watching salt.",
+    "Too much liquid is the usual cause of soggy couscous; measure the 400 ml exactly.",
+    "Add lemon zest or toasted nuts for variety."
+  ],
+  "storage": "Cool quickly and refrigerate covered up to 3 days. Eat cold as a salad or reheat with a splash of water, covered, until piping hot (74 °C), fluffing again with a fork. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 343,
+    "protein_g": 9.7,
+    "carbs_g": 58.4,
+    "sugar_g": 0.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 7.3,
+    "satfat_g": 1.0,
+    "salt_g": 1.12,
+    "fibre_g": 3.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "couscous-basic.jpg",
+  "image_alt": "A bowl of fluffy golden couscous flecked with chopped parsley and topped with a parsley sprig.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Food Network Kitchen"
+  ]
+}

@@ -70,6 +70,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | carrot-cake | Carrot | Classic | 2 | 4 |
 | celeriac-remoulade-mustard-parsley | Celeriac rémoulade | Classic | 3 | 5 |
 | champurrado-thick-mexican-chocolate-masa-drink | Champurrado | Classic | 2 | 4 |
+| chana-masala-chickpeas-tomato-gravy | Chickpeas (chana masala, falafel) | Classic | 2 | 4 |
 | charred-tawa-naan-yoghurt-ghee | Naan | Classic | 2 | 4 |
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |
 | cheese-bread-boats-melted-mozzarella-feta-baked-egg | Khachapuri | Classic | 2 | 4 |
@@ -156,6 +157,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | creamy-cashew-yoghurt-chicken-curry-cardamom | Korma | Chicken | 3 | 5 |
 | creamy-chicken-salad-celery-herbs | Chicken salad | Classic | 3 | 5 |
 | creamy-egg-salad-celery-spring-onion-toast | Egg salad | Classic | 3 | 5 |
+| creamy-grits-butter-chives | Grits | Classic | 2 | 4 |
 | creamy-potato-salad | Potato salad | Classic | 2 | 4 |
 | creamy-two-cabbage-coleslaw | Coleslaw | Classic | 3 | 5 |
 | crisp-battered-white-fish-tacos-red-cabbage-lime-crema | Taco | Fish | 3 | 5 |
@@ -223,6 +225,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | florentines | Florentines | Classic | 2 | 4 |
 | flourless-fudgy-brownies | Flourless | Classic | 3 | 5 |
 | fluffy-buttermilk-pancakes-maple-syrup | Pancakes (American) | Classic | 2 | 4 |
+| fluffy-couscous-olive-oil-parsley | Couscous | Classic | 2 | 4 |
+| fluffy-tricolour-quinoa-parsley-lemon | Quinoa | Classic | 2 | 4 |
 | folded-butter-omelette-chives | Omelette | Classic | 3 | 5 |
 | folded-butter-omelette-fresh-herbs | Omelette | Herb (fines herbes) | 3 | 5 |
 | folded-butter-omelette-melted-cheese | Omelette | Cheese | 2 | 4 |
@@ -234,6 +238,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fried-mini-pizzas-tomato-mozzarella-basil | Pizza fritta/montanara | Classic | 2 | 4 |
 | frothy-whisked-matcha-green-tea | Matcha (whisked) | Classic | 2 | 4 |
 | fruit-almond-stollen-marzipan-core | Stollen | Classic | 2 | 4 |
+| ful-medames-cumin-lemon-tomato | Ful medames | Classic | 1 | 4 |
 | gai-yang | Gai yang | Classic | 2 | 4 |
 | galbitang-korean-beef-short-rib-radish-soup | Galbitang | Classic | 2 | 4 |
 | galician-style-octopus-potatoes-smoked-paprika | Pulpo a la gallega | Classic | 4 | 6 |
@@ -263,6 +268,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gratin-dauphinois | Gratin dauphinois | Classic | 2 | 4 |
 | greek-mint-oregano-meatballs | Meatballs | Greek (mint-oregano) | 2 | 4 |
 | green-chilli-tomatillo-chicken-hominy-soup | Pozole verde | Classic | 2 | 4 |
+| green-freekeh-herbs-toasted-almonds | Freekeh | Classic | 2 | 4 |
 | green-pesto-pasta-salad-cherry-tomatoes | Pasta salad | Pesto | 2 | 4 |
 | green-tomatillo-chicken-enchiladas-charred-chilli-sauce | Enchilada | Green (verdes) | 3 | 5 |
 | griddled-english-muffins-nooks-crannies | English muffins | Classic | 2 | 4 |
@@ -321,6 +327,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | korean-rice-bowl-beef-vegetables-crisp-rice-chilli-sauce | Bibimbap (dolsot) | Classic | 2 | 4 |
 | korean-seaweed-rice-rolls-beef-egg-vegetables | Kimbap | Classic | 2 | 4 |
 | korean-style-marinated-beef-bulgogi | Bulgogi/galbi | Classic | 3 | 5 |
+| koshari-rice-lentils-pasta-spiced-tomato-sauce | Koshari | Classic | 2 | 4 |
 | kung-pao-chicken | Kung Pao chicken | Classic | 3 | 5 |
 | lamb-tagine-preserved-lemon-olives | Tagine | Preserved lemon and olive | 4 | 6 |
 | lamb-tagine-prunes-apricots-almonds | Tagine | Classic | 3 | 5 |
@@ -363,6 +370,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | moroccan-chicken-pastilla-almonds-cinnamon | Pastilla | Classic | 2 | 4 |
 | moroccan-gunpowder-green-mint-tea | Moroccan mint | Classic | 2 | 4 |
 | muhammara-roasted-red-pepper-walnut-pomegranate | Muhammara | Classic | 3 | 5 |
+| mujaddara-rice-lentils-crispy-onions | Mujaddara | Classic | 2 | 4 |
 | mulligatawny-chicken-red-lentil-coconut | Mulligatawny | Classic | 3 | 5 |
 | musakhan | Musakhan | Classic | 3 | 6 |
 | mushroom-lasagne | Sheets/baked (lasagne) | Mushroom | 3 | 5 |
@@ -529,6 +537,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | soft-baked-pretzels-coarse-salt-mustard | Pretzels | Classic | 2 | 4 |
 | soft-cinnamon-rolls-cream-cheese-icing | Cinnamon rolls | Classic | 3 | 5 |
 | soft-coconut-milk-coco-bread | Coco bread | Classic | 2 | 4 |
+| soft-creamy-polenta-butter | Polenta | Classic | 2 | 4 |
 | soft-layered-wholemeal-chapati | Chapati | Classic | 3 | 5 |
 | soft-norwegian-potato-lefse-butter-sugar | Lefse | Classic | 2 | 4 |
 | soft-puffed-pita-bread-olive-oil | Pita | Classic | 3 | 5 |
@@ -602,6 +611,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | thin-spiced-lamb-flatbreads-sumac-onion-parsley-lemon | Lahmacun | Classic | 3 | 5 |
 | thumbprint-cookies | Thumbprints | Classic | 3 | 5 |
 | tiny-lamb-dumplings-garlic-yoghurt-paprika-butter | Manti | Classic | 2 | 4 |
+| toasted-farro-olive-oil-parsley | Farro | Classic | 2 | 4 |
 | tom-yum-goong-thai-hot-sour-prawn-soup | Tom yum | Classic | 3 | 5 |
 | tomato-basil-bruschetta-garlic-oil | Bruschetta | Tomato-basil | 2 | 4 |
 | tomato-basil-bruschetta | Bruschetta | Classic | 2 | 4 |

@@ -1,0 +1,117 @@
+{
+  "slug": "soft-creamy-polenta-butter",
+  "title": "Soft Creamy Polenta with Butter",
+  "category": "rice-grains",
+  "cuisine": "Italian",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "polenta",
+  "dish_title": "Polenta",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Coarse polenta cooked low and covered with a pinch of bicarbonate, so it turns silky with only occasional whisking, then finished with butter.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "medium heavy saucepan with lid",
+    "balloon whisk",
+    "heatproof spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Polenta",
+      "qty": 1100,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Polenta",
+      "qty": 150,
+      "unit": "g",
+      "item": "coarse polenta (coarse-ground cornmeal, not instant)"
+    },
+    {
+      "group": "Polenta",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Polenta",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "To finish",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, plus a pat to serve"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Bring water to the boil",
+      "text": "Pour the 1100 ml water into the heavy saucepan and bring it to a rolling boil over high heat. Starting with fully boiling water helps the cornmeal swell evenly from the first minute."
+    },
+    {
+      "title": "Whisk in the polenta",
+      "text": "Rain the polenta into the pan in a thin stream, whisking constantly, then add the salt and the pinch of bicarbonate. Keep stirring until it returns to the boil; the alkali softens the tough outer skin of each grain so it cooks faster and creamier."
+    },
+    {
+      "title": "Cover and steam",
+      "text": "Turn the heat down to the lowest setting, cover and leave it for 5 min. Then whisk hard, scraping the corners where thick polenta likes to hide, and put the lid back on."
+    },
+    {
+      "title": "Cook low and slow",
+      "text": "Let it cook another 25 min, whisking every 8-10 min. It is ready when the grains are tender with just a slight bite and the polenta falls from the whisk in a loose ribbon. A splash of hot water brings it back if it stiffens, because cornmeal keeps absorbing liquid as it sits."
+    },
+    {
+      "title": "Finish with butter",
+      "text": "Off the heat, whisk in the 30 g butter and the pepper, then taste for salt. Spoon into warm bowls straight away and top each with a pat of butter, since polenta firms quickly as it cools."
+    }
+  ],
+  "tips": [
+    "Pouring the polenta in all at once is the classic mistake; a thin stream while whisking is what prevents lumps.",
+    "Use coarse polenta, not instant; instant cooks in minutes but lacks the sweet corn flavour and texture.",
+    "Keep a kettle of hot water nearby to loosen the polenta just before serving.",
+    "Leftover polenta sets firm; slice it and fry in a little oil for crisp polenta squares."
+  ],
+  "storage": "Refrigerate in a covered container up to 4 days. Reheat in a pan with a splash of water or milk, whisking, until piping hot, or slice the firm polenta and fry or grill it. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 202,
+    "protein_g": 2.8,
+    "carbs_g": 29.9,
+    "sugar_g": 0.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 7.8,
+    "satfat_g": 4.6,
+    "salt_g": 1.54,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "polenta-basic.jpg",
+  "image_alt": "A shallow bowl of soft golden polenta with a pat of butter melting on top and a scattering of black pepper.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "green-freekeh-herbs-toasted-almonds",
+  "title": "Green Freekeh with Herbs and Toasted Almonds",
+  "category": "rice-grains",
+  "cuisine": "Middle Eastern",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "freekeh",
+  "dish_title": "Freekeh",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Boiled whole freekeh tossed warm with a lemon and olive oil dressing, softened red onion, parsley and mint, topped with toasted almonds.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan",
+    "colander",
+    "small frying pan",
+    "small bowl of iced water",
+    "sieve",
+    "large mixing bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Freekeh",
+      "qty": 250,
+      "unit": "g",
+      "item": "whole freekeh, rinsed"
+    },
+    {
+      "group": "Freekeh",
+      "qty": 2500,
+      "unit": "ml",
+      "item": "water, for boiling"
+    },
+    {
+      "group": "Freekeh",
+      "qty": 18,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the cooking water",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Almonds",
+      "qty": 60,
+      "unit": "g",
+      "item": "whole blanched or skin-on almonds"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "small red onion, finely diced",
+      "note": "about 40 g"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Herbs",
+      "qty": 15,
+      "unit": "g",
+      "item": "flat-leaf parsley leaves, chopped"
+    },
+    {
+      "group": "Herbs",
+      "qty": 10,
+      "unit": "g",
+      "item": "mint leaves, chopped, plus a few whole leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil the freekeh",
+      "text": "Bring the 2500 ml water and the cooking salt to the boil, add the freekeh and simmer uncovered for 30-45 min, until tender but still chewy. Cracked freekeh only takes about 20 min, so taste early if that is what you have. Drain well."
+    },
+    {
+      "title": "Toast the almonds",
+      "text": "Meanwhile, stir the almonds in the dry frying pan over medium-low heat for 5-7 min. Break one in half: it should be lightly golden inside and smell fragrant. Spread them on a plate so they stop cooking."
+    },
+    {
+      "title": "Soften the onion",
+      "text": "Drop the diced onion into the bowl of iced water for 10 min, then drain well. The cold water draws out the harsh sulphur compounds, leaving the onion crisp and mild."
+    },
+    {
+      "title": "Dress while warm",
+      "text": "Whisk the oil, lemon juice, 0.5 tsp salt and pepper together in the large mixing bowl. Add the warm freekeh, onion, parsley and chopped mint and toss; warm grains soak up the dressing more readily."
+    },
+    {
+      "title": "Serve",
+      "text": "Taste and adjust, then pile into a serving bowl. Finish with the whole almonds and mint leaves, and serve warm or at room temperature."
+    }
+  ],
+  "tips": [
+    "Pick over the freekeh before rinsing; it can contain small stones or husks.",
+    "Undercooking is a common mistake; give whole freekeh the full time until no hard core remains.",
+    "Add the almonds just before serving so they stay crunchy.",
+    "It holds up well, making it a good packed lunch."
+  ],
+  "storage": "Refrigerate the dressed freekeh covered up to 3 days; keep the almonds separate to stay crisp. Serve cold or at room temperature. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 404,
+    "protein_g": 11.7,
+    "carbs_g": 48.5,
+    "sugar_g": 1.5,
+    "free_sugar_g": 0.2,
+    "fat_g": 19.1,
+    "satfat_g": 2.2,
+    "salt_g": 1.84,
+    "fibre_g": 9.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "freekeh-basic.jpg",
+  "image_alt": "A bowl of green-brown freekeh tossed with herbs and red onion, topped with whole toasted almonds and mint.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Food Network Kitchen"
+  ]
+}
