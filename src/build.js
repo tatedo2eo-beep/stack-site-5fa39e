@@ -349,10 +349,18 @@ function placeholderSvg(label) {
   const sharp = require('sharp');
   writeFile('favicon-32.png', await sharp(Buffer.from(favSvg(14)), { density: 300 }).resize(32, 32).png({ compressionLevel: 9 }).toBuffer());
   writeFile('apple-touch-icon.png', await sharp(Buffer.from(favSvg(0)), { density: 300 }).resize(180, 180).png({ compressionLevel: 9 }).toBuffer());
-  // sitemap + robots (noindex flag flips both, plus the meta tag in every page)
+  // sitemap + robots, gated on cfg.noindex (the inverse of PUBLIC_INDEXING; it also flips the meta tag in every page).
+  // Public  (PUBLIC_INDEXING=true): sitemap.xml of every page (absolute URLs) + robots.txt that allows crawling.
+  // Private (default): no sitemap (remove any stale copy) + robots.txt that blocks everything.
   const today = new Date().toISOString().slice(0, 10);
-  writeFile('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${pages.filter(p => p.loc && !/\/(login)\/$/.test(p.loc)).map(p => `<url><loc>${p.loc}</loc><lastmod>${today}</lastmod></url>`).join('\n')}\n</urlset>\n`);
-  writeFile('robots.txt', cfg.noindex ? `# TEST deployment: keep crawlers out. Flip noindex in site.config.js at launch.\nUser-agent: *\nDisallow: /\n` : `User-agent: *\nAllow: /\nSitemap: ${cfg.siteUrl}${cfg.basePath}sitemap.xml\n`);
+  if (cfg.noindex) {
+    const stale = path.join(OUT, 'sitemap.xml');
+    if (fs.existsSync(stale)) fs.unlinkSync(stale);
+    writeFile('robots.txt', `# TEST deployment: keep crawlers out. Set PUBLIC_INDEXING=true at launch.\nUser-agent: *\nDisallow: /\n`);
+  } else {
+    writeFile('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${pages.filter(p => p.loc && !/\/(login)\/$/.test(p.loc)).map(p => `<url><loc>${p.loc}</loc><lastmod>${today}</lastmod></url>`).join('\n')}\n</urlset>\n`);
+    writeFile('robots.txt', `User-agent: *\nAllow: /\nSitemap: ${cfg.siteUrl}${cfg.basePath}sitemap.xml\n`);
+  }
   writeFile('.nojekyll', '');
   const rp = pages.filter(p => /^recipes\/[^/]+\/index\.html$/.test(p.rel));
   console.log(C.grn(`Built ${pages.length} pages into ${cfg.outDir}/ (${recipes.length} recipes, ${dishes.length} dishes in ${chapters.length} chapters, ${recipes.filter(r => r.access === 'premium').length} premium, ${cats.length} categories, ${hp.length} high-protein, ${who.length} WHO healthy).`));
