@@ -6,11 +6,12 @@ const DRINKS_CSS = require('fs').readFileSync(require('path').join(__dirname, '.
 
 const img = (ctx, r, sizes, cls, eager) => {
   const a = esc(r.image_alt || r.title);
+  if (!r.img && r.photo_pending) return `<img class="${cls} ph-soon" src="${ctx.u('img/ph/coming-soon.svg')}" alt="Photo coming soon" width="1200" height="900"${eager ? '' : ' loading="lazy"'} decoding="async">`;
   if (!r.img) return `<img class="${cls}" src="${ctx.u(`img/ph/${r.category}.svg`)}" alt="" width="1200" height="900"${eager ? '' : ' loading="lazy"'} decoding="async">`;
   if (r.img.orig) return `<img class="${cls}" src="${ctx.u(r.img.w1200)}" alt="${a}" width="${r.img.width}" height="${r.img.height}"${eager ? ' fetchpriority="high"' : ' loading="lazy"'} decoding="async">`;
   return `<img class="${cls}" src="${ctx.u(r.img.w600)}" srcset="${ctx.u(r.img.w600)} 600w, ${ctx.u(r.img.w1200)} 1200w" sizes="${sizes}" alt="${a}" width="${r.img.width}" height="${r.img.height}"${eager ? ' fetchpriority="high"' : ' loading="lazy"'} decoding="async">`;
 };
-const imgSrc = (ctx, r, w) => r && r.img ? ctx.u(w === 600 ? r.img.w600 : r.img.w1200) : r ? ctx.u(`img/ph/${r.category}.svg`) : '';
+const imgSrc = (ctx, r, w) => r && r.img ? ctx.u(w === 600 ? r.img.w600 : r.img.w1200) : r ? ctx.u(r.photo_pending ? 'img/ph/coming-soon.svg' : `img/ph/${r.category}.svg`) : '';
 const CARD_SIZES = '(min-width:1100px) 300px, (min-width:640px) 45vw, 92vw';
 
 const LOCK = '<svg class="lock" viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path d="M4.5 7V5a3.5 3.5 0 0 1 7 0v2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect x="3" y="7" width="10" height="7.5" rx="1.6" fill="currentColor"/></svg>';

@@ -134,6 +134,8 @@ async function tamiImg(rel) {
 }
 async function buildImages(recipes) {
   for (const r of recipes) {
+    // photo_pending: an extra flavour waiting for its own photo. Never fall back to the dish photo (it would not match); show 'Photo coming soon'.
+    if (r.photo_pending && !r.image) { r.img = null; continue; }
     r.img = await tamiImg(TAMI.recipes[r.slug] || tamiRel(r.image) || TAMI.dishes[r.dish] || tamiRel(r._dishImage));
     if (!r.img) console.log(C.yel(`warning: ${r.slug}: no photo mapped in tools/tami-images.json (placeholder used)`));
   }
@@ -274,6 +276,7 @@ function placeholderSvg(label) {
     console.log(C.grn(`Photo rule OK: featured photos per design ${JSON.stringify(pc.counts)}, none shared or repeated.`));
   }
   writeFile('img/og.png', fs.readFileSync(path.join(ROOT, 'src/assets/og.png')));
+  writeFile('img/ph/coming-soon.svg', placeholderSvg('Photo coming soon'));
   for (const k of R.CATEGORIES) writeFile(`img/ph/${k}.svg`, placeholderSvg(require(path.join(ROOT, 'i18n', cfg.locales[0] + '.js')).categories[k]));
   const favSvg = rx => `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="${rx}" fill="#0b0a08"/><g fill="#d4a24c"><rect x="14" y="16" width="36" height="8" rx="4"/><rect x="12" y="28" width="40" height="6" rx="3" opacity=".75"/><rect x="14" y="38" width="36" height="10" rx="5"/></g></svg>`;
   writeFile('favicon.svg', favSvg(14));

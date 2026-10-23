@@ -178,6 +178,7 @@ function validate(r, file) {
   req('nutrition_source', isStr(r.nutrition_source), 'required');
   req('image', r.image === null || isStr(r.image), 'string or null');
   req('image_alt', isStr(r.image_alt) || r.image === null, 'required when image is set');
+  if (r.photo_pending !== undefined && typeof r.photo_pending !== 'boolean') E.push('photo_pending: true or false');
   return { errors: E, warnings: W };
 }
 
