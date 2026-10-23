@@ -1,0 +1,255 @@
+{
+  "slug": "saag-paneer-lasagne-spiced-bechamel",
+  "title": "Saag Paneer Lasagne",
+  "category": "pasta-noodles",
+  "cuisine": "Indian",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "sheets-baked-lasagne",
+  "dish_title": "Sheets/baked (lasagne)",
+  "flavour": "Paneer",
+  "flavour_order": 10,
+  "access": "premium",
+  "base_recipe": "lasagne-bolognese",
+  "changes_from_base": "A spiced spinach saag with chilli, coriander and fenugreek and coarsely grated paneer replace the meat ragù, layered with a nutmeg and parmesan béchamel.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A spiced twist on lasagne layering a fragrant blended spinach saag with grated paneer and a nutmeg-scented béchamel.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 90,
+  "difficulty": "medium",
+  "equipment": [
+    "large pot",
+    "colander",
+    "blender",
+    "large saucepan",
+    "whisk",
+    "23 x 33 cm baking dish at least 5 cm deep",
+    "foil"
+  ],
+  "ingredients": [
+    {
+      "group": "Saag",
+      "qty": 455,
+      "unit": "g",
+      "item": "baby spinach"
+    },
+    {
+      "group": "Saag",
+      "qty": 2,
+      "unit": "pc",
+      "item": "small plum tomatoes, quartered"
+    },
+    {
+      "group": "Saag",
+      "qty": 2,
+      "unit": "pc",
+      "item": "green chillies (such as serrano), stalks removed, halved lengthwise"
+    },
+    {
+      "group": "Saag",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bunch fresh coriander, leaves and tender stems"
+    },
+    {
+      "group": "Saag",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "dried fenugreek leaves (kasoori methi), optional"
+    },
+    {
+      "group": "Saag",
+      "qty": 180,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Saag",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Saag",
+      "qty": 40,
+      "unit": "g",
+      "item": "ghee (or 45 ml vegetable oil)"
+    },
+    {
+      "group": "Saag",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium white onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Saag",
+      "qty": 5,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Saag",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "finely grated fresh ginger"
+    },
+    {
+      "group": "Saag",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "Kashmiri chilli powder"
+    },
+    {
+      "group": "Saag",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "ground coriander"
+    },
+    {
+      "group": "Saag",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Saag",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 65,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 950,
+      "unit": "ml",
+      "item": "whole milk, at room temperature"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "grated nutmeg"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 60,
+      "unit": "g",
+      "item": "parmesan, grated, divided"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Assembly",
+      "qty": 15,
+      "unit": "ml",
+      "item": "olive oil, for greasing"
+    },
+    {
+      "group": "Assembly",
+      "qty": 455,
+      "unit": "g",
+      "item": "no-boil lasagne sheets (about 24)"
+    },
+    {
+      "group": "Assembly",
+      "qty": 370,
+      "unit": "g",
+      "item": "paneer, coarsely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Wilt",
+      "text": "Boil a large pot of water, add the 455 g spinach and once fully wilted after about 2 min drain in the colander and cool under cold water, keeping the pot."
+    },
+    {
+      "title": "Blend",
+      "text": "Put the drained spinach in the blender with the 2 tomatoes, 2 chillies, coriander, 3 tbsp fenugreek if using and 180 ml water, blend 30-60 seconds until smooth and season with salt."
+    },
+    {
+      "title": "Fry",
+      "text": "In the same pot melt the 40 g ghee over medium, cook the 150 g onion 6-8 min until golden, then add the garlic and 1½ tbsp ginger and stir 2 min."
+    },
+    {
+      "title": "Simmer",
+      "text": "Stir in the Kashmiri chilli, 1½ tbsp ground coriander, 2 tsp cumin and 1 tsp turmeric with a little salt, add the saag and simmer gently 10-12 min until slightly thicker."
+    },
+    {
+      "title": "Sauce",
+      "text": "Melt the 115 g butter over low heat, whisk in the 65 g flour for 2-3 min until golden, add the 950 ml milk and stir 5-8 min until it coats a spoon, then off the heat whisk in pepper, nutmeg and 40 g parmesan and season."
+    },
+    {
+      "title": "Assemble",
+      "text": "Heat the oven to 200 °C and grease the dish, spread a thin layer of sauce over the base, then layer sheets, a third of the saag, a third of the 370 g paneer and a quarter of the remaining sauce, repeating twice."
+    },
+    {
+      "title": "Finish",
+      "text": "Top with a last layer of sheets, the rest of the sauce and the remaining parmesan."
+    },
+    {
+      "title": "Bake",
+      "text": "Cover with lightly greased foil and bake 40 min, then uncover and bake about 20 min until the sheets are tender and the top is light golden."
+    },
+    {
+      "title": "Rest",
+      "text": "Leave 15-20 min before slicing."
+    }
+  ],
+  "tips": [
+    "Blend the spinach only briefly to keep the saag a vivid green.",
+    "Turn the heat down if the onions or garlic start to catch so they stay sweet.",
+    "Loosen the béchamel with a little milk if it thickens too much before layering."
+  ],
+  "storage": "The saag and sauce can each be made 2 days ahead and chilled, and leftovers freeze for up to 3 months, thawed overnight in the fridge before reheating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 695,
+    "protein_g": 29.2,
+    "carbs_g": 64.0,
+    "sugar_g": 10.7,
+    "free_sugar_g": 0.0,
+    "fat_g": 37.5,
+    "satfat_g": 21.9,
+    "salt_g": 1.72,
+    "fibre_g": 5.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A slice of green spinach lasagne flecked with spices and grated paneer under a pale golden béchamel top.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

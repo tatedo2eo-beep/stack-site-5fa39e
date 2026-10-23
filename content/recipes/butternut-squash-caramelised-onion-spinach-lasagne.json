@@ -1,0 +1,203 @@
+{
+  "slug": "butternut-squash-caramelised-onion-spinach-lasagne",
+  "title": "Butternut Squash, Caramelised Onion and Spinach Lasagne",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "sheets-baked-lasagne",
+  "dish_title": "Sheets/baked (lasagne)",
+  "flavour": "Caramelised onion",
+  "flavour_order": 8,
+  "access": "premium",
+  "base_recipe": "lasagne-bolognese",
+  "changes_from_base": "Puréed roast butternut squash, a rosemary ricotta layer topped with slowly browned red onions and a spinach and parmesan white sauce replace the meat ragù.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Sweet roasted squash, sticky caramelised red onions and a creamy spinach sauce come together in a comforting layered bake.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 160,
+  "difficulty": "medium",
+  "equipment": [
+    "roasting tin",
+    "food processor",
+    "large frying pan",
+    "medium bowl",
+    "medium saucepan",
+    "whisk",
+    "23 x 33 cm baking dish",
+    "foil"
+  ],
+  "ingredients": [
+    {
+      "group": "Squash",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large butternut squash (about 1400 g)"
+    },
+    {
+      "group": "Squash",
+      "qty": 45,
+      "unit": "ml",
+      "item": "olive oil"
+    },
+    {
+      "group": "Onions",
+      "qty": 45,
+      "unit": "ml",
+      "item": "olive oil"
+    },
+    {
+      "group": "Onions",
+      "qty": 3,
+      "unit": "pc",
+      "item": "medium red onions, cut into thin strips"
+    },
+    {
+      "group": "Ricotta layer",
+      "qty": 455,
+      "unit": "g",
+      "item": "part-skim ricotta"
+    },
+    {
+      "group": "Ricotta layer",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped fresh rosemary"
+    },
+    {
+      "group": "Ricotta layer",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Ricotta layer",
+      "qty": 150,
+      "unit": "g",
+      "item": "parmesan, finely grated, divided"
+    },
+    {
+      "group": "Spinach sauce",
+      "qty": 45,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Spinach sauce",
+      "qty": 55,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Spinach sauce",
+      "qty": 830,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Spinach sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Spinach sauce",
+      "qty": 450,
+      "unit": "g",
+      "item": "frozen chopped spinach, defrosted and squeezed dry"
+    },
+    {
+      "group": "Pasta",
+      "qty": 250,
+      "unit": "g",
+      "item": "fresh lasagne sheets (6), or no-boil dried sheets"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Pasta",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "oil, for greasing the dish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast",
+      "text": "Heat the oven to 190 °C, halve the 1400 g squash lengthwise, scoop out the seeds, set it in the tin and drizzle with 45 ml oil, then roast about 1 hour until soft, cool, peel, purée and season."
+    },
+    {
+      "title": "Caramelise",
+      "text": "Heat the other 45 ml oil until hot, add the 3 sliced red onions and toss, then cook over medium about 25 min until soft and browned and season."
+    },
+    {
+      "title": "Blend",
+      "text": "Stir together the 455 g ricotta, 2 tbsp rosemary, 2 eggs, half the 150 g parmesan and a little salt and pepper."
+    },
+    {
+      "title": "Sauce",
+      "text": "Melt the 45 g butter, stir in the 55 g flour and cook 2 min, add the 830 ml milk and stir until it boils and thickens, then fold through the rest of the parmesan, ¼ tsp nutmeg and the 450 g spinach and season."
+    },
+    {
+      "title": "Prepare",
+      "text": "Turn the oven down to 175 °C and grease the dish, then spread about 240 ml spinach sauce over the base."
+    },
+    {
+      "title": "Layer",
+      "text": "Add pasta, half the squash, pasta, all the ricotta topped with the onions, pasta, the rest of the squash, pasta and finally the remaining spinach sauce."
+    },
+    {
+      "title": "Bake",
+      "text": "Cover with foil and bake 1 hour, then uncover and bake 15 min more."
+    },
+    {
+      "title": "Rest",
+      "text": "Leave to settle 15 min before cutting into portions."
+    }
+  ],
+  "tips": [
+    "Roast the squash until it collapses easily so the purée is smooth and silky.",
+    "Cook the onions slowly and patiently for the deepest, sweetest colour.",
+    "Squeeze the defrosted spinach thoroughly dry to keep the sauce thick."
+  ],
+  "storage": "Chill leftovers and keep for up to 3 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 586,
+    "protein_g": 23.7,
+    "carbs_g": 54.4,
+    "sugar_g": 11.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 31.9,
+    "satfat_g": 13.7,
+    "salt_g": 1.95,
+    "fibre_g": 5.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A cut portion of lasagne revealing orange squash, dark spinach sauce and caramelised onion between pale pasta layers.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

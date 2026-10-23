@@ -1,0 +1,163 @@
+{
+  "slug": "chicken-artichoke-spinach-feta-calzones",
+  "title": "Chicken, Artichoke and Spinach Calzones with Feta and Basil",
+  "category": "chicken",
+  "cuisine": "Italian-American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "calzone",
+  "dish_title": "Calzone",
+  "flavour": "Artichoke & spinach",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "spinach-ricotta-calzones-tomato-dipping-sauce",
+  "changes_from_base": "Shredded cooked chicken, artichoke hearts, baby spinach, mozzarella, feta and basil go into two calzones in place of the ricotta filling.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Substantial pastry envelopes hiding a filling of tender chicken, bright spinach, soft artichokes and two cheeses.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "rolling pin",
+    "rimmed baking tray",
+    "pastry brush",
+    "sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 420,
+      "unit": "g",
+      "item": "cooked chicken, skin removed, shredded into bite-size pieces"
+    },
+    {
+      "group": "Filling",
+      "qty": 255,
+      "unit": "g",
+      "item": "frozen artichoke hearts, thawed, patted dry and chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 55,
+      "unit": "g",
+      "item": "baby spinach"
+    },
+    {
+      "group": "Filling",
+      "qty": 170,
+      "unit": "g",
+      "item": "low-moisture mozzarella, grated"
+    },
+    {
+      "group": "Filling",
+      "qty": 115,
+      "unit": "g",
+      "item": "feta, crumbled"
+    },
+    {
+      "group": "Filling",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "chopped fresh basil"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dough",
+      "qty": 16,
+      "unit": "g",
+      "item": "plain flour, for dusting",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 450,
+      "unit": "g",
+      "item": "pizza dough, shop-bought or homemade, at room temperature"
+    },
+    {
+      "group": "To finish",
+      "qty": 30,
+      "unit": "ml",
+      "item": "olive oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Preheat",
+      "text": "Heat the oven to 230 °C with the shelf positioned in the upper middle section."
+    },
+    {
+      "title": "Mix filling",
+      "text": "Put the shredded chicken, thawed and patted-dry chopped artichoke hearts, baby spinach, grated mozzarella, crumbled feta, chopped fresh basil, salt and ground black pepper into a large bowl and mix until evenly combined."
+    },
+    {
+      "title": "Prepare dough",
+      "text": "Cut the pizza dough in half and roll each half on a lightly floured surface to a 23 cm round."
+    },
+    {
+      "title": "Fill",
+      "text": "Pile half the filling over one half of each round, leaving a 2–3 cm border, brush the edge with water, fold the dough over and crimp tightly to seal."
+    },
+    {
+      "title": "Place",
+      "text": "Brush the baking tray with 1 tbsp of olive oil and carefully lift the calzones onto it."
+    },
+    {
+      "title": "Slash",
+      "text": "Cut two 2–3 cm slits in the top of each pastry parcel."
+    },
+    {
+      "title": "Oil",
+      "text": "Brush the calzones all over with the remaining olive oil."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for about 20 min until golden brown."
+    }
+  ],
+  "tips": [
+    "Pat the thawed artichoke hearts dry with kitchen paper so they don't release too much moisture into the filling.",
+    "Shred the cooked chicken into bite-sized pieces rather than very small shreds—it will hold together better and taste less processed.",
+    "Line the tray with baking paper before oiling if you want easy cleanup; the paper prevents sticking just as well."
+  ],
+  "storage": "Cool and chill within 2 hours; keeps for up to 2 days.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 736,
+    "protein_g": 53.5,
+    "carbs_g": 60.5,
+    "sugar_g": 1.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 30.4,
+    "satfat_g": 13.1,
+    "salt_g": 3.49,
+    "fibre_g": 4.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Two golden-brown half-moon pastries with steam visible rising from the small slits in the tops.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

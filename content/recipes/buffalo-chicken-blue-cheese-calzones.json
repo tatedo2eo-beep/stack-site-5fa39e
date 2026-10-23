@@ -1,0 +1,147 @@
+{
+  "slug": "buffalo-chicken-blue-cheese-calzones",
+  "title": "Buffalo Chicken and Blue Cheese Calzones",
+  "category": "chicken",
+  "cuisine": "American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "calzone",
+  "dish_title": "Calzone",
+  "flavour": "Buffalo chicken",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "spinach-ricotta-calzones-tomato-dipping-sauce",
+  "changes_from_base": "Shredded cooked chicken tossed with cayenne hot sauce, mozzarella and blue cheese replaces the spinach and ricotta, and the dough is made into four smaller calzones.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Hand-held pastry parcels filled with shredded roast chicken, tangy blue cheese and spicy sauce.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "baking tray",
+    "foil",
+    "pastry brush",
+    "bowl",
+    "rolling pin",
+    "sharp knife",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 30,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Filling",
+      "qty": 280,
+      "unit": "g",
+      "item": "cooked chicken, shredded (roast chicken works well)"
+    },
+    {
+      "group": "Filling",
+      "qty": 225,
+      "unit": "g",
+      "item": "mozzarella, grated"
+    },
+    {
+      "group": "Filling",
+      "qty": 85,
+      "unit": "g",
+      "item": "blue cheese, crumbled"
+    },
+    {
+      "group": "Filling",
+      "qty": 80,
+      "unit": "ml",
+      "item": "cayenne pepper hot sauce"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dough",
+      "qty": 16,
+      "unit": "g",
+      "item": "plain flour, for dusting",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 450,
+      "unit": "g",
+      "item": "pizza dough, shop-bought or homemade, at room temperature"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Ready oven",
+      "text": "Heat the oven to 245 °C with the shelf in the middle position, line the baking tray with foil and brush it with 1 tbsp of the olive oil."
+    },
+    {
+      "title": "Mix filling",
+      "text": "Combine the shredded cooked chicken, grated mozzarella, crumbled blue cheese, cayenne pepper hot sauce and ground black pepper in a bowl."
+    },
+    {
+      "title": "Roll dough",
+      "text": "Divide the pizza dough into 4 equal pieces and roll and stretch each on a lightly floured work surface to a 20 cm circle."
+    },
+    {
+      "title": "Fill and fold",
+      "text": "Spread a quarter of the filling over the lower half of each dough round, leaving a 2–3 cm border all around, fold the top half of the dough over to cover the filling and crimp the edges firmly to seal."
+    },
+    {
+      "title": "Slash",
+      "text": "Cut two slits about 2–3 cm long in the top of each folded pastry to allow steam to escape during baking."
+    },
+    {
+      "title": "Transfer",
+      "text": "Lift the sealed calzones onto the oiled foil-lined tray."
+    },
+    {
+      "title": "Glaze",
+      "text": "Brush all over with the remaining olive oil."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for about 15 min until deep golden in colour, then leave on a wire rack for 5 min before serving."
+    }
+  ],
+  "tips": [
+    "Use shop-bought roasted chicken to save time—shred it by hand so the pieces stay substantial and moist rather than becoming stringy.",
+    "The hot sauce is the bold seasoning here; taste the filling mixture before sealing and add a touch more if you prefer it spicier.",
+    "Leave the calzones on the rack briefly so the pastry underneath finishes crisping and doesn't stay soft from the foil."
+  ],
+  "storage": "Best eaten hot on the day of making. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "sulphites"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 700,
+    "protein_g": 44.8,
+    "carbs_g": 55.1,
+    "sugar_g": 1.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 32.3,
+    "satfat_g": 14.6,
+    "salt_g": 4.13,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Four golden-brown folded pastries with two small slits visible on the tops, resting on a cooling rack.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

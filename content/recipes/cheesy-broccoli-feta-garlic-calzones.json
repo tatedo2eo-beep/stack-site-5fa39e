@@ -1,0 +1,167 @@
+{
+  "slug": "cheesy-broccoli-feta-garlic-calzones",
+  "title": "Cheesy Broccoli, Feta and Garlic Calzones",
+  "category": "vegetarian",
+  "cuisine": "Italian-American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "calzone",
+  "dish_title": "Calzone",
+  "flavour": "Broccoli",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "spinach-ricotta-calzones-tomato-dipping-sauce",
+  "changes_from_base": "Garlicky chopped broccoli with a mix of mozzarella and crumbled feta replaces the spinach and ricotta filling, and two large calzones are baked on oiled trays rather than served with a tomato dip.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Two stuffed pizza pastries packed with tender broccoli, creamy feta and melted mozzarella.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "2 baking trays",
+    "pastry brush",
+    "large frying pan with a lid",
+    "colander",
+    "small bowl",
+    "rolling pin",
+    "sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 37,
+      "unit": "ml",
+      "item": "olive oil (2½ tbsp)"
+    },
+    {
+      "group": "Filling",
+      "qty": 340,
+      "unit": "g",
+      "item": "mozzarella, grated"
+    },
+    {
+      "group": "Filling",
+      "qty": 150,
+      "unit": "g",
+      "item": "feta, crumbled"
+    },
+    {
+      "group": "Filling",
+      "qty": 240,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 450,
+      "unit": "g",
+      "item": "frozen broccoli florets"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dough",
+      "qty": 16,
+      "unit": "g",
+      "item": "plain flour, for dusting",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 900,
+      "unit": "g",
+      "item": "pizza dough (2 balls of 450 g), shop-bought or homemade"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare oven",
+      "text": "Set the oven to 245 °C with shelves positioned in both the upper and lower middle, and brush each baking tray with 1½ tsp of olive oil."
+    },
+    {
+      "title": "Mix cheese",
+      "text": "Stir the grated mozzarella and crumbled feta together in a small bowl and set aside."
+    },
+    {
+      "title": "Cook broccoli",
+      "text": "Bring 240 ml water and ½ tsp salt to the boil in the frying pan, add the frozen broccoli florets, cover with a lid and simmer for 3–5 min until just tender, then drain very thoroughly and chop into rough pieces."
+    },
+    {
+      "title": "Finish vegetables",
+      "text": "Dry out the pan, add the remaining olive oil and the finely chopped garlic, cook over medium heat for about 1 min until the aroma fills the kitchen, then add the chopped broccoli back in along with the remaining salt and the ground black pepper."
+    },
+    {
+      "title": "Roll dough",
+      "text": "On a floured work surface, roll each 450 g ball of pizza dough into a 30 cm circle and place one on each oiled tray."
+    },
+    {
+      "title": "Fill",
+      "text": "Pile half the mixed cheeses over one half of each dough round, leaving a 2–3 cm clear border, then pile half the garlic broccoli on top."
+    },
+    {
+      "title": "Seal and slash",
+      "text": "Wet the edges of the dough with water, fold the dough over to enclose the filling, press firmly along the sealed edge, then cut 5 diagonal slits across the top."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 15–20 min until deep golden, swapping the positions of the trays halfway through if one is browning much faster than the other."
+    }
+  ],
+  "tips": [
+    "Drain the broccoli in a colander and squeeze it gently in a clean tea towel to remove as much moisture as possible—this keeps the pastry base crisp.",
+    "Use fresh garlic that you've finely chopped rather than minced from a jar, which has a sharper, harsher flavour.",
+    "Stagger the trays so one sits higher than the other; halfway through, swap them so both brown evenly."
+  ],
+  "storage": "Serve warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 1014,
+    "protein_g": 40.8,
+    "carbs_g": 114.1,
+    "sugar_g": 4.7,
+    "free_sugar_g": 0.0,
+    "fat_g": 43.7,
+    "satfat_g": 21.0,
+    "salt_g": 5.74,
+    "fibre_g": 6.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Two golden half-moon shaped pastries with slashed tops revealing a green and white filling inside.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
