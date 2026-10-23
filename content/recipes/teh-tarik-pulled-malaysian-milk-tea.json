@@ -1,0 +1,100 @@
+{
+  "slug": "teh-tarik-pulled-malaysian-milk-tea",
+  "title": "Teh Tarik: Pulled, Frothy Malaysian Milk Tea",
+  "category": "drinks",
+  "cuisine": "Malaysian",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "teh-tarik",
+  "dish_title": "Teh tarik",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Strong boiled black tea enriched with evaporated and condensed milk, then poured back and forth between jugs until thick, frothy and just cool enough to drink.",
+  "servings": 2,
+  "prep_min": 5,
+  "cook_min": 6,
+  "difficulty": "medium",
+  "equipment": [
+    "medium saucepan with a pouring lip",
+    "tea ball or tea filter bag",
+    "2 heatproof jugs or a second pan",
+    "2 heatproof glass mugs"
+  ],
+  "ingredients": [
+    {
+      "group": "Tea",
+      "qty": 475,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Tea",
+      "qty": 6,
+      "unit": "g",
+      "item": "loose black tea, ideally Ceylon (or 3 tea bags)"
+    },
+    {
+      "group": "Milk",
+      "qty": 200,
+      "unit": "ml",
+      "item": "evaporated milk"
+    },
+    {
+      "group": "Milk",
+      "qty": 45,
+      "unit": "ml",
+      "item": "sweetened condensed milk",
+      "note": "3 tbsp, plus more to taste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brew",
+      "text": "Bring the water to the boil, add the tea in its filter and boil for 2-3 minutes, until deep amber. Boiling, rather than steeping, gives the strong brew the milk needs."
+    },
+    {
+      "title": "Enrich",
+      "text": "Stir in the evaporated milk and 1 tbsp of the condensed milk and let it bubble gently for 2 minutes. Lift out the tea leaves."
+    },
+    {
+      "title": "Sweeten",
+      "text": "Put 1 tbsp of condensed milk into each jug and divide the hot tea between them."
+    },
+    {
+      "title": "Pull",
+      "text": "Working over the sink, pour one jug's tea into the other from about 15 cm, then pour it back. Repeat 4-6 times, raising the top jug a little each time once you feel confident. The long pour cools the tea slightly and whips it into a thick froth. Do the same with the second portion."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour into the mugs with a head of foam on top. Taste and stir in a little more condensed milk if you like it sweeter."
+    }
+  ],
+  "tips": [
+    "Practise the pull with cold water first.",
+    "Jugs with a pouring lip give a clean, thin stream.",
+    "Use Ceylon or a strong breakfast blend; delicate teas get lost under the milk."
+  ],
+  "storage": "Best served immediately, while the froth is high. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 234,
+    "protein_g": 9.4,
+    "carbs_g": 26.6,
+    "sugar_g": 15.5,
+    "free_sugar_g": 15.5,
+    "fat_g": 10.4,
+    "satfat_g": 6.4,
+    "salt_g": 0.38,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "teh-tarik-basic.jpg",
+  "image_alt": "Frothy teh tarik in a glass mug beside a metal pouring jug."
+}

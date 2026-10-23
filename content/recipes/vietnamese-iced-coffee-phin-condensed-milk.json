@@ -1,0 +1,103 @@
+{
+  "slug": "vietnamese-iced-coffee-phin-condensed-milk",
+  "title": "Vietnamese Iced Coffee (Cà Phê Sữa Đá) with a Phin",
+  "category": "drinks",
+  "cuisine": "Vietnamese",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "vietnamese-ca-phe",
+  "dish_title": "Vietnamese cà phê",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Strong dark-roast coffee dripped slowly through a phin onto sweetened condensed milk, stirred and poured over ice for a rich, sweet, bittersweet iced coffee.",
+  "servings": 1,
+  "prep_min": 3,
+  "cook_min": 6,
+  "difficulty": "easy",
+  "equipment": [
+    "Vietnamese phin filter (single cup)",
+    "heatproof glass (about 250 ml)",
+    "second glass for ice",
+    "kettle",
+    "spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Coffee",
+      "qty": 18,
+      "unit": "g",
+      "item": "dark-roast ground coffee, medium-fine (Vietnamese-style blend if you can)",
+      "note": "about 3 tbsp"
+    },
+    {
+      "group": "Coffee",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water, just off the boil"
+    },
+    {
+      "group": "Glass",
+      "qty": 30,
+      "unit": "ml",
+      "item": "sweetened condensed milk",
+      "note": "2 tbsp"
+    },
+    {
+      "group": "Glass",
+      "qty": 120,
+      "unit": "g",
+      "item": "ice",
+      "note": "a separate glass, about 8 cubes"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Ready the glass",
+      "text": "Spoon the condensed milk into the heatproof glass and set the phin plate and chamber on top."
+    },
+    {
+      "title": "Load",
+      "text": "Add the coffee to the chamber, shake it level and rest the press screen on top with only light pressure. Pressing hard packs the coffee and stops the drip."
+    },
+    {
+      "title": "Bloom",
+      "text": "Pour in about 20 ml of the hot water, just enough to wet the grounds, and wait 1 minute while they swell and darken. This lets the coffee brew evenly."
+    },
+    {
+      "title": "Drip",
+      "text": "Fill the chamber with the remaining water, cover and let it drip slowly, 4-6 minutes. If it stops, loosen the screen a quarter turn; if it runs through in under 3 minutes, use a finer grind next time."
+    },
+    {
+      "title": "Stir and pour",
+      "text": "Lift off the phin and stir the dark coffee into the condensed milk until it is caramel-coloured. Pour it over the glass of ice and stir again."
+    }
+  ],
+  "tips": [
+    "A medium-fine grind, a little coarser than for espresso, gives the right slow drip.",
+    "Pour the coffee over ice only after it is mixed with the milk, so the condensed milk dissolves.",
+    "Add an extra tablespoon of condensed milk for a sweeter café-style glass."
+  ],
+  "storage": "Best made fresh. Brewed coffee can be chilled for up to 1 day and poured over ice. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 123,
+    "protein_g": 3.1,
+    "carbs_g": 20.7,
+    "sugar_g": 20.7,
+    "free_sugar_g": 20.7,
+    "fat_g": 3.3,
+    "satfat_g": 2.1,
+    "salt_g": 0.13,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "vietnamese-ca-phe-basic.jpg",
+  "image_alt": "A metal phin filter dripping coffee onto condensed milk in a glass, beside a glass of ice."
+}

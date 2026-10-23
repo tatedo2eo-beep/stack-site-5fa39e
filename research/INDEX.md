@@ -74,6 +74,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | brown-butter-almond-financiers | Financiers | Classic | 2 | 4 |
 | brown-butter-chocolate-chip-cookies | Brown-butter chocolate chip cookie | Classic | 2 | 4 |
 | brown-butter-mashed-potatoes | Mashed | Brown butter | 2 | 4 |
+| brown-sugar-bubble-tea-tapioca-pearls | Milk tea/bubble tea | Classic | 1 | 3 |
 | brown-sugar-shortbread | Shortbread | Brown sugar | 1 | 5 |
 | bubble-and-squeak-savoy-cabbage | Bubble and squeak | Classic | 2 | 4 |
 | buffalo-chicken-burger | Chicken burger | Buffalo | 3 | 8 |
@@ -89,6 +90,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | buttery-rice-pilaf-toasted-vermicelli-herbs | Steamed/pilaf | Classic | 3 | 5 |
 | buttery-succotash-corn-lima | Succotash | Classic | 2 | 4 |
 | cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
+| cafe-de-olla-piloncillo-cinnamon | Café de olla | Classic | 1 | 3 |
 | caffe-latte-rosetta-art | Latte | Classic | 4 | 6 |
 | caponata-aubergine-celery-capers-olives | Caponata | Classic | 1 | 3 |
 | caprese-panini-mozzarella-tomato-basil | Panini | Caprese | 1 | 3 |
@@ -436,6 +438,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | honey-maple-nut-granola-raisins | Granola | Classic | 2 | 4 |
 | honey-pistachio-almond-nougat | Nougat | Classic | 1 | 4 |
 | honey-whole-wheat-sandwich-loaf | Whole wheat | Classic | 2 | 4 |
+| hong-kong-milk-tea-evaporated-milk | Hong Kong-style milk tea | Classic | 1 | 3 |
 | horseradish-mashed-potatoes | Mashed | Horseradish | 3 | 5 |
 | hot-dry-noodles | Hot dry noodles | Classic | 1 | 3 |
 | hot-fudge-sundae-whipped-cream-cherry | Sundaes | Classic | 2 | 4 |
@@ -865,6 +868,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
 | tangy-ginger-hoisin-dipping-sauce | Hoisin sauce | Classic | 1 | 3 |
 | tangzhong-japanese-milk-bread-loaf | Japanese milk bread (tangzhong) | Classic | 2 | 4 |
+| teh-tarik-pulled-malaysian-milk-tea | Teh tarik | Classic | 1 | 3 |
 | tender-cream-scones-jam-clotted-cream | Scone | Classic | 2 | 4 |
 | tex-mex-chile-con-queso-dip | Queso | Classic | 2 | 4 |
 | texas-chocolate-sheet-cake-pecan-icing | Sheet cake | Chocolate (Texas-style) | 3 | 5 |
@@ -925,6 +929,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | vegetable-upma-cashews-curry-leaves | Upma | Classic | 2 | 4 |
 | venezuelan-arepas-butter-grated-white-cheese | Arepa | Classic | 2 | 4 |
 | vichyssoise-chilled-leek-potato-soup | Vichyssoise | Classic | 2 | 4 |
+| vietnamese-iced-coffee-phin-condensed-milk | Vietnamese cà phê | Classic | 1 | 3 |
 | vietnamese-shaking-beef | Bò lúc lắc | Classic | 2 | 4 |
 | village-greek-salad-feta-slab | Greek | Classic | 3 | 5 |
 | vine-leaves-stuffed-herbed-rice-lemon | Dolma/stuffed vine leaves | Classic | 2 | 4 |

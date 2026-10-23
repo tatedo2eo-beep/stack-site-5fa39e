@@ -1,0 +1,120 @@
+{
+  "slug": "brown-sugar-bubble-tea-tapioca-pearls",
+  "title": "Brown Sugar Bubble Tea with Tapioca Pearls",
+  "category": "drinks",
+  "cuisine": "Taiwanese",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "milk-tea-bubble-tea",
+  "dish_title": "Milk tea/bubble tea",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Strong chilled black tea and cold milk over chewy tapioca pearls soaked in brown sugar syrup, served iced with wide straws.",
+  "servings": 2,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "jug or teapot",
+    "small saucepan",
+    "medium saucepan",
+    "slotted spoon",
+    "2 tall glasses (about 450 ml)",
+    "2 wide bubble-tea straws"
+  ],
+  "ingredients": [
+    {
+      "group": "Tea",
+      "qty": 500,
+      "unit": "ml",
+      "item": "water, freshly boiled"
+    },
+    {
+      "group": "Tea",
+      "qty": 4,
+      "unit": "pc",
+      "item": "strong black tea bags (Assam or breakfast tea)"
+    },
+    {
+      "group": "Brown sugar syrup",
+      "qty": 80,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Brown sugar syrup",
+      "qty": 80,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Pearls",
+      "qty": 70,
+      "unit": "g",
+      "item": "quick-cook black tapioca pearls (dry)",
+      "note": "5-minute type"
+    },
+    {
+      "group": "To serve",
+      "qty": 180,
+      "unit": "ml",
+      "item": "cold whole milk"
+    },
+    {
+      "group": "To serve",
+      "qty": 250,
+      "unit": "g",
+      "item": "ice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brew the tea",
+      "text": "Steep the tea bags in the freshly boiled water for 10 minutes for a strong brew. Squeeze them out, cool the tea, then chill it. You need about 360 ml."
+    },
+    {
+      "title": "Make the syrup",
+      "text": "Boil the brown sugar and water in a small pan, stirring, then simmer for 3 minutes until slightly thickened. Take off the heat."
+    },
+    {
+      "title": "Cook the pearls",
+      "text": "Drop the pearls into plenty of boiling water and stir so they don't stick. Cook as the packet says, usually 5 minutes, then cover and rest for 2-3 minutes until chewy right through. Lift them out with a slotted spoon straight into the warm syrup and stir."
+    },
+    {
+      "title": "Soak",
+      "text": "Leave the pearls in the syrup at room temperature for 20-30 minutes so they turn glossy and sweet. Use them within 4 hours; chilling makes them hard."
+    },
+    {
+      "title": "Assemble",
+      "text": "Divide the pearls and syrup between the glasses, add ice, then pour in the cold tea and milk. Stir well and serve with wide straws."
+    }
+  ],
+  "tips": [
+    "Taste a pearl before draining: it should be soft with only a slight bounce in the centre.",
+    "For tiger stripes, tilt the glass and drizzle a little syrup down the inside before adding the pearls.",
+    "Oat or soya milk works; check the label for allergens."
+  ],
+  "storage": "The tea keeps in the fridge for up to 4 days. Make the pearls fresh and use within 4 hours. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 317,
+    "protein_g": 3.0,
+    "carbs_g": 70.4,
+    "sugar_g": 39.8,
+    "free_sugar_g": 34.0,
+    "fat_g": 3.0,
+    "satfat_g": 1.7,
+    "salt_g": 0.14,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "milk-tea-bubble-tea-basic.jpg",
+  "image_alt": "An iced milk tea in a tall glass with black tapioca pearls at the bottom and a straw."
+}

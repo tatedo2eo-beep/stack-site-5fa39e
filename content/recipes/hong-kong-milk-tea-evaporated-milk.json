@@ -1,0 +1,98 @@
+{
+  "slug": "hong-kong-milk-tea-evaporated-milk",
+  "title": "Hong Kong Milk Tea with Evaporated Milk",
+  "category": "drinks",
+  "cuisine": "Hong Kong",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "hong-kong-style-milk-tea",
+  "dish_title": "Hong Kong-style milk tea",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Black tea simmered strong and dark, strained a few times for a silky body, then finished with evaporated milk and a little sugar, served hot.",
+  "servings": 2,
+  "prep_min": 3,
+  "cook_min": 8,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "fine-mesh sieve or cotton tea sock",
+    "heatproof jug",
+    "spoon",
+    "2 cups"
+  ],
+  "ingredients": [
+    {
+      "group": "Tea",
+      "qty": 720,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Tea",
+      "qty": 5,
+      "unit": "pc",
+      "item": "strong black tea bags (English or Irish breakfast)"
+    },
+    {
+      "group": "To finish",
+      "qty": 90,
+      "unit": "ml",
+      "item": "evaporated milk",
+      "note": "plus more to taste"
+    },
+    {
+      "group": "To finish",
+      "qty": 17,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 4 tsp; to taste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simmer",
+      "text": "Bring the water to the boil, drop in the tea bags and turn the heat to medium-low. Simmer for 6 minutes, until very dark and fragrant. The long simmer gives the strong, slightly bitter base the milk needs."
+    },
+    {
+      "title": "Squeeze",
+      "text": "Lift the bags out, pressing them against the side of the pan to get every drop back in."
+    },
+    {
+      "title": "Smooth",
+      "text": "Pour the tea through a fine sieve into a jug and back into the pan 2-3 times. This aerates it and gives the silky body that cafés get from a cotton tea sock."
+    },
+    {
+      "title": "Finish",
+      "text": "Off the heat, stir in the evaporated milk and sugar. Taste and add more of either; it should be the colour of milky caramel. Serve hot."
+    }
+  ],
+  "tips": [
+    "Evaporated milk, not fresh milk, gives the rich, slightly cooked flavour.",
+    "Blend two black teas, such as Ceylon and Assam, for a café-style depth.",
+    "Swap the sugar for condensed milk for a sweeter, creamier cup."
+  ],
+  "storage": "Keep unsweetened tea in the fridge for up to 2 days; reheat it or serve it over ice. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 97,
+    "protein_g": 3.2,
+    "carbs_g": 13.5,
+    "sugar_g": 8.0,
+    "free_sugar_g": 8.0,
+    "fat_g": 3.6,
+    "satfat_g": 2.2,
+    "salt_g": 0.14,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "hong-kong-style-milk-tea-basic.jpg",
+  "image_alt": "A white cup of Hong Kong milk tea on a saucer beside a dark teapot."
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "cafe-de-olla-piloncillo-cinnamon",
+  "title": "Café de Olla with Piloncillo and Cinnamon",
+  "category": "drinks",
+  "cuisine": "Mexican",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "cafe-de-olla",
+  "dish_title": "Café de olla",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Mexican spiced coffee: water gently warmed with piloncillo, cinnamon, clove and star anise, then steeped with dark-roast coffee and orange peel and strained.",
+  "servings": 6,
+  "prep_min": 5,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "clay pot (olla) or medium saucepan",
+    "wooden spoon",
+    "fine-mesh sieve lined with a coffee filter or paper towel",
+    "heatproof jug",
+    "mugs"
+  ],
+  "ingredients": [
+    {
+      "group": "Spiced syrup",
+      "qty": 1400,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Spiced syrup",
+      "qty": 100,
+      "unit": "g",
+      "item": "piloncillo, chopped, or dark brown sugar"
+    },
+    {
+      "group": "Spiced syrup",
+      "qty": 4,
+      "unit": "g",
+      "item": "molasses (only if using brown sugar)",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Spiced syrup",
+      "qty": 2,
+      "unit": "pc",
+      "item": "cinnamon sticks (Mexican canela if possible)"
+    },
+    {
+      "group": "Spiced syrup",
+      "qty": 2,
+      "unit": "pc",
+      "item": "whole cloves"
+    },
+    {
+      "group": "Spiced syrup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "star anise (optional)"
+    },
+    {
+      "group": "Coffee",
+      "qty": 45,
+      "unit": "g",
+      "item": "dark-roast coffee, medium-ground",
+      "note": "about 6 tbsp"
+    },
+    {
+      "group": "Coffee",
+      "qty": 2,
+      "unit": "pc",
+      "item": "strips of orange peel (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dissolve",
+      "text": "Put the water, piloncillo (or brown sugar and molasses), cinnamon, cloves and star anise in the pot and warm over medium heat, stirring often, until the sugar has melted. Keep it below a boil, at a bare tremble, for 5 minutes."
+    },
+    {
+      "title": "Steep",
+      "text": "Take the pot off the heat, stir in the coffee and orange peel, cover and leave for 7 minutes. Steeping off the heat keeps the coffee from turning bitter."
+    },
+    {
+      "title": "Strain",
+      "text": "Pour slowly through the lined sieve into a heatproof jug, so the grounds stay behind."
+    },
+    {
+      "title": "Serve",
+      "text": "Ladle into mugs while hot. A cinnamon stick in each mug is a nice touch."
+    }
+  ],
+  "tips": [
+    "Mexican canela (Ceylon cinnamon) is softer and sweeter than cassia.",
+    "Grate or chop the piloncillo so it dissolves quickly.",
+    "Never let the pot boil once the coffee is in."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days and reheat gently without boiling. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 69,
+    "protein_g": 0.3,
+    "carbs_g": 17.4,
+    "sugar_g": 17.0,
+    "free_sugar_g": 17.0,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.02,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "cafe-de-olla-basic.jpg",
+  "image_alt": "Café de olla steaming in a clay pot with a cinnamon stick, beside a piloncillo cone and star anise."
+}
