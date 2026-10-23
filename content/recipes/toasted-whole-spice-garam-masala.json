@@ -1,0 +1,125 @@
+{
+  "slug": "toasted-whole-spice-garam-masala",
+  "title": "Toasted Whole-Spice Garam Masala",
+  "category": "snacks-sides",
+  "cuisine": "Indian",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "garam-masala",
+  "dish_title": "Garam masala",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Whole coriander, cumin, pepper, cardamom, cloves, fennel and cinnamon briefly dry-toasted, cooled and ground with nutmeg into a fragrant, warming blend.",
+  "servings": 20,
+  "prep_min": 5,
+  "cook_min": 3,
+  "difficulty": "easy",
+  "equipment": [
+    "small heavy frying pan",
+    "plate",
+    "spice grinder or mortar and pestle",
+    "small airtight jar"
+  ],
+  "ingredients": [
+    {
+      "group": "Whole spices",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "coriander seeds"
+    },
+    {
+      "group": "Whole spices",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cumin seeds"
+    },
+    {
+      "group": "Whole spices",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "black peppercorns"
+    },
+    {
+      "group": "Whole spices",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "green cardamom pods"
+    },
+    {
+      "group": "Whole spices",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "whole cloves"
+    },
+    {
+      "group": "Whole spices",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fennel seeds"
+    },
+    {
+      "group": "Whole spices",
+      "qty": 1,
+      "unit": "pc",
+      "item": "cinnamon stick, about 7 cm, broken up"
+    },
+    {
+      "group": "To grind in",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the whole spices",
+      "text": "Put the coriander, cumin, peppercorns, cardamom, cloves, fennel and broken cinnamon in the dry pan over medium heat. Toss them for 2-3 min until they smell strongly and the cumin turns a shade darker; gentle heat wakes up the aromatic oils without scorching them."
+    },
+    {
+      "title": "Cool completely",
+      "text": "Tip the spices onto the plate straight away, since the hot pan would keep cooking them, and leave for about 5 min. Grinding them warm makes a damp, clumpy powder."
+    },
+    {
+      "title": "Grind fine",
+      "text": "Grind the cooled spices with the nutmeg to a fine powder, working in batches if your grinder is small. Shake the powder through a sieve if you want to remove the papery cardamom husks."
+    },
+    {
+      "title": "Jar it up",
+      "text": "Spoon the blend into the airtight jar and keep it somewhere dark and cool. Use within 3 months, because ground spices lose their perfume quickly."
+    }
+  ],
+  "tips": [
+    "Burning the spices is the usual mistake; once they smell toasty and the first seeds pop, take them off the heat at once.",
+    "Make small batches rather than large ones so the blend always tastes fresh.",
+    "Add garam masala near the end of cooking to keep its aroma bright.",
+    "Wipe out a coffee grinder with a little dry rice or bread afterwards to clear the spice oils."
+  ],
+  "storage": "Store in an airtight jar away from light and heat for up to 3 months. It is safe for longer but gradually loses aroma. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 6,
+    "protein_g": 0.2,
+    "carbs_g": 1.2,
+    "sugar_g": 0.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.0,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "garam-masala-basic.jpg",
+  "image_alt": "A small dark bowl of fine brown garam masala surrounded by cinnamon sticks, star anise, cloves and cardamom pods.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

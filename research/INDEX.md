@@ -16,6 +16,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | anzac-biscuits | Anzac biscuit | Classic | 2 | 4 |
 | apple-grape-walnut-waldorf-salad | Waldorf | Classic | 3 | 5 |
 | apple-oat-crumble | Crumble | Classic | 2 | 4 |
+| argentinian-parsley-oregano-chimichurri | Chimichurri | Classic | 2 | 4 |
 | arnold-palmer-layered-iced-tea-lemonade | Iced tea lemonade | Classic | 3 | 5 |
 | avgolemono-greek-chicken-rice-soup-egg-lemon | Avgolemono | Classic | 2 | 4 |
 | bagna-cauda-warm-anchovy-garlic-dip | Bagna cauda | Classic | 2 | 4 |
@@ -202,11 +203,13 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | dashi-kombu-bonito-japanese-stock | Dashi | Classic | 3 | 5 |
 | deep-caramelised-french-onion-dip-chives-crisps | French onion dip | Classic | 3 | 5 |
 | detroit-style-pan-pizza-crisp-cheese-edges-tomato-stripes | Pan/Detroit | Classic | 3 | 5 |
+| dill-cucumber-tzatziki | Tzatziki | Classic | 2 | 4 |
 | dill-pickle-deviled-eggs-sour-cream | Deviled eggs | Dill | 2 | 4 |
 | dill-potato-salad | Potato salad | Dill | 2 | 4 |
 | diner-style-home-fries | Home fries | Classic | 2 | 4 |
 | double-crust-apple-pie | Double-crust fruit pie (apple, cherry) | Classic | 3 | 5 |
 | double-fried-french-fries | French fries (double-fried) | Classic | 3 | 5 |
+| dried-chilli-harissa-paste | Harissa | Classic | 2 | 4 |
 | dry-spiced-aloo-gobi-cumin-tomato | Aloo gobi | Classic | 3 | 5 |
 | duchess-potatoes | Duchesse | Classic | 2 | 4 |
 | dutch-baby-pancake-berries-lemon | Dutch baby | Classic | 2 | 4 |
@@ -349,6 +352,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-bundt-cake-lemon-glaze | Bundt | Lemon | 2 | 4 |
 | lemon-chiffon-cake | Chiffon | Lemon | 3 | 5 |
 | lemon-cut-out-sugar-cookies | Sugar/cut-out | Lemon | 2 | 4 |
+| lemon-garlic-tahini-sauce | Tahini sauce | Lemon-garlic | 2 | 4 |
 | lemon-meringue-pie | Meringue pie (lemon) | Classic | 2 | 4 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
 | lemon-pound-cake | Pound cake | Lemon | 3 | 5 |
@@ -419,6 +423,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pain-au-chocolat-dark-chocolate-batons | Pain au chocolat | Classic | 2 | 4 |
 | pain-de-campagne-rustic-sourdough-boule | Pain de campagne (levain) | Classic | 2 | 4 |
 | pain-de-genes | Pain de Gênes | Classic | 2 | 4 |
+| palak-paneer-golden-paneer-spinach | Palak paneer | Classic | 2 | 4 |
 | pan-bagnat-tuna-egg-olive-baguette | Pan bagnat | Classic | 2 | 4 |
 | pan-con-tomate-garlic-olive-oil-toast | Pan con tomate | Classic | 2 | 4 |
 | pan-fried-beef-cabbage-dumplings-ginger-dipping-sauce | Potstickers (guotie/jiaozi) | Classic | 4 | 6 |
@@ -592,6 +597,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | steamed-masa-parcels-chicken-tomatillo-salsa-verde | Tamal | Chicken in salsa verde | 2 | 4 |
 | steamed-masa-parcels-red-chilli-chicken | Tamal | Classic | 2 | 4 |
 | steamed-whole-sea-bass-ginger-spring-onions-sizzling-oil | Cantonese steamed whole fish | Classic | 3 | 5 |
+| stir-fried-tomato-scrambled-eggs | Stir-fried tomato and scrambled eggs | Classic | 2 | 4 |
 | stovetop-buttered-popcorn | Popcorn | Classic | 3 | 5 |
 | stovetop-mac-and-cheese | Mac and cheese | Stovetop | 3 | 5 |
 | strained-yoghurt-labneh-olive-oil-fresh-mint | Labneh | Classic | 2 | 4 |
@@ -606,6 +612,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | swiss-rosti | Rösti | Classic | 2 | 4 |
 | tafelspitz-apple-horseradish | Tafelspitz | Classic | 2 | 4 |
 | tall-crisp-popovers | Popovers | Classic | 2 | 4 |
+| tall-crisp-yorkshire-puddings | Yorkshire pudding | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
 | tangzhong-japanese-milk-bread-loaf | Japanese milk bread (tangzhong) | Classic | 2 | 4 |
 | tender-cream-scones-jam-clotted-cream | Scone | Classic | 2 | 4 |
@@ -625,6 +632,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | thumbprint-cookies | Thumbprints | Classic | 3 | 5 |
 | tiny-lamb-dumplings-garlic-yoghurt-paprika-butter | Manti | Classic | 2 | 4 |
 | toasted-farro-olive-oil-parsley | Farro | Classic | 2 | 4 |
+| toasted-whole-spice-garam-masala | Garam masala | Classic | 2 | 4 |
 | tom-yum-goong-thai-hot-sour-prawn-soup | Tom yum | Classic | 3 | 5 |
 | tomato-basil-bruschetta-garlic-oil | Bruschetta | Tomato-basil | 2 | 4 |
 | tomato-basil-bruschetta | Bruschetta | Classic | 2 | 4 |
@@ -656,6 +664,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | watermelon-lime-agua-fresca-mint | Agua fresca | Classic | 2 | 4 |
 | west-african-tomato-pepper-rice-thyme-bay | Jollof | Classic | 3 | 5 |
 | whipped-dalgona-coffee-cold-milk | Dalgona coffee | Classic | 2 | 4 |
+| whipped-garlic-toum | Toum | Classic | 2 | 4 |
 | whole-sea-bass-baked-in-salt-crust-lemon-herbs | Salt-crusted fish | Classic | 4 | 6 |
 | wholemeal-irish-brown-soda-bread-oats | Soda bread | Classic | 3 | 5 |
 | yakisoba | Yakisoba | Classic | 2 | 4 |

@@ -1,0 +1,138 @@
+{
+  "slug": "argentinian-parsley-oregano-chimichurri",
+  "title": "Argentinian Parsley and Oregano Chimichurri",
+  "category": "snacks-sides",
+  "cuisine": "Argentinian",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "chimichurri",
+  "dish_title": "Chimichurri",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Hand-chopped parsley and garlic with softened dried oregano and chilli, sharpened with vinegar and loosened with whisked-in olive oil.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "small bowl",
+    "chef's knife",
+    "medium bowl",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Herbs",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "hot water"
+    },
+    {
+      "group": "Herbs",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "dried oregano"
+    },
+    {
+      "group": "Herbs",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Herbs",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "chilli flakes"
+    },
+    {
+      "group": "Sauce",
+      "qty": 50,
+      "unit": "g",
+      "item": "flat-leaf parsley leaves and tender stems"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, very finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "distilled white vinegar"
+    },
+    {
+      "group": "Sauce",
+      "qty": 120,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften the oregano",
+      "text": "Stir the dried oregano, salt and chilli flakes into the hot water in the small bowl and leave for 5 min. The water rehydrates the herb so it tastes green and fragrant rather than dusty."
+    },
+    {
+      "title": "Chop by hand",
+      "text": "Chop the parsley very finely with a sharp knife and put it in the medium bowl with the garlic, vinegar and the softened oregano mixture. Hand chopping keeps the herbs in tiny distinct pieces instead of a purée."
+    },
+    {
+      "title": "Whisk in the oil",
+      "text": "Pour in the olive oil in a slow stream while whisking, then add the pepper. Doing this by hand matters, because high-speed blending can release bitter compounds from extra-virgin oil."
+    },
+    {
+      "title": "Let it meld",
+      "text": "Leave the sauce at room temperature for at least 30 min. The garlic loses its raw edge and the herbs flavour the oil."
+    },
+    {
+      "title": "Spoon it over",
+      "text": "Stir well, as the oil rises to the top, and spoon over sliced grilled steak, chicken or charred vegetables."
+    }
+  ],
+  "tips": [
+    "Making it in a blender is a common mistake; it gives a bitter, muddy paste instead of a bright, loose sauce.",
+    "Pat the parsley dry before chopping so the knife cuts cleanly instead of bruising it.",
+    "Add a little more chilli if you like it hot, but keep the parsley in charge.",
+    "Made a day ahead, the flavour gets deeper but the colour dulls slightly."
+  ],
+  "storage": "Keep covered in the fridge for up to 1 week; let it stand at room temperature 20 min and stir before serving. Freeze in ice-cube trays for up to 3 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 129,
+    "protein_g": 0.3,
+    "carbs_g": 1.2,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 13.8,
+    "satfat_g": 1.9,
+    "salt_g": 0.56,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chimichurri-basic.jpg",
+  "image_alt": "A dark bowl of bright green chimichurri beside slices of grilled steak with a browned crust.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

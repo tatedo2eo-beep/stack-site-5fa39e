@@ -1,0 +1,139 @@
+{
+  "slug": "palak-paneer-golden-paneer-spinach",
+  "title": "Palak Paneer (Golden Paneer in Spinach Sauce)",
+  "category": "snacks-sides",
+  "cuisine": "Indian",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "palak-paneer",
+  "dish_title": "Palak paneer",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Spinach wilted and blended smooth, golden fried paneer and a sizzling cumin, mustard seed and garlic tempering, finished with a little cream.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan with lid",
+    "blender",
+    "25 cm non-stick frying pan",
+    "slotted spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Spinach purée",
+      "qty": 250,
+      "unit": "g",
+      "item": "spinach leaves"
+    },
+    {
+      "group": "Spinach purée",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Paneer",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "ghee or sunflower oil"
+    },
+    {
+      "group": "Paneer",
+      "qty": 250,
+      "unit": "g",
+      "item": "paneer (acid-set), cut into 2 cm cubes"
+    },
+    {
+      "group": "Tempering",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cumin seeds"
+    },
+    {
+      "group": "Tempering",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "black mustard seeds"
+    },
+    {
+      "group": "Tempering",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "Kashmiri chilli powder"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "double cream, plus a swirl to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Wilt and blend",
+      "text": "Put the spinach and water in the saucepan over high heat and bring to the boil. Cover, lower the heat to medium-low and cook for about 5 min until the leaves collapse completely. Blend with all the liquid for about 1 min until completely smooth; short cooking keeps the colour bright green."
+    },
+    {
+      "title": "Fry the paneer",
+      "text": "Heat 2 tbsp of the ghee in the frying pan over medium-high heat until shimmering. Fry the paneer in two batches for about 2 min, turning once, until golden on both sides, then lift onto a plate. Frying in batches keeps the pan hot, so the cubes brown instead of sweating."
+    },
+    {
+      "title": "Temper the spices",
+      "text": "Add the last 1 tbsp ghee to the pan with the cumin and mustard seeds and cook for about 30 seconds, until they start to pop. Stir in the garlic and cook another 30 seconds until fragrant and just colouring. Hot fat draws the flavour out of whole spices and carries it through the whole sauce."
+    },
+    {
+      "title": "Bring it together",
+      "text": "Pour the spinach purée into the pan, add the chilli powder and salt and stir until simmering. Fold in the paneer and cream and heat for 1-2 min, just until hot through. Serve with a swirl of cream on top."
+    }
+  ],
+  "tips": [
+    "The usual mistake is burning the garlic: as soon as it colours, add the spinach.",
+    "Do not simmer the sauce for long once it is in the pan, or it will fade to khaki.",
+    "Soak shop-bought paneer in hot water for 10 min before frying if it is very firm.",
+    "Serve with rice or warm flatbread."
+  ],
+  "storage": "Refrigerate covered up to 3 days. Reheat gently in a pan with a splash of water, stirring, until piping hot (74 °C). Freezing makes the paneer crumbly, so it is best avoided. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 340,
+    "protein_g": 18.1,
+    "carbs_g": 6.0,
+    "sugar_g": 2.2,
+    "free_sugar_g": 0.0,
+    "fat_g": 29.3,
+    "satfat_g": 18.3,
+    "salt_g": 0.91,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "palak-paneer-basic.jpg",
+  "image_alt": "Golden cubes of paneer in a smooth green spinach sauce with a swirl of cream.",
+  "inspired_by": [
+    "Serious Eats",
+    "Food Network Kitchen"
+  ]
+}

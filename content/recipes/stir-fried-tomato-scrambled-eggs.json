@@ -1,0 +1,158 @@
+{
+  "slug": "stir-fried-tomato-scrambled-eggs",
+  "title": "Stir-Fried Tomato and Scrambled Eggs",
+  "category": "snacks-sides",
+  "cuisine": "Chinese",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "stir-fried-tomato-and-scrambled-eggs",
+  "dish_title": "Stir-fried tomato and scrambled eggs",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Soft egg curds set in a hot wok, then folded into tomatoes stir-fried with garlic, ginger and spring onion and cooked until the eggs are fully set.",
+  "servings": 3,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "wok or large non-stick frying pan",
+    "spatula",
+    "medium bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Eggs",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Eggs",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Eggs",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Eggs",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Tomatoes",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Tomatoes",
+      "qty": 4,
+      "unit": "pc",
+      "item": "spring onions, whites chopped, greens sliced"
+    },
+    {
+      "group": "Tomatoes",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Tomatoes",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "grated fresh ginger"
+    },
+    {
+      "group": "Tomatoes",
+      "qty": 550,
+      "unit": "g",
+      "item": "ripe plum tomatoes, cut into 2.5 cm wedges"
+    },
+    {
+      "group": "Tomatoes",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Tomatoes",
+      "qty": 4,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Tomatoes",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground white pepper"
+    },
+    {
+      "group": "Tomatoes",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Scramble the eggs",
+      "text": "Whisk the eggs with 1/4 tsp salt and the water. Heat the wok over high heat, add 2 tbsp oil, pour in the eggs and turn the heat down to medium-low. Let a layer set underneath before pushing the egg into large soft curds, 2-3 min; tip onto a plate and wipe the wok. The water turns to steam as they cook, making the curds lighter."
+    },
+    {
+      "title": "Fry the aromatics",
+      "text": "Heat the remaining 2 tbsp oil over medium-high heat. Stir-fry the spring onion whites and garlic for about 20 seconds, then add the ginger for 10 seconds more, keeping everything moving so nothing scorches."
+    },
+    {
+      "title": "Cook the tomatoes",
+      "text": "Add the tomatoes with 1/2 tsp salt and the sugar and stir-fry for 3-4 min, until they soften and their juices bubble into a light sauce. The salt draws out the juices, and the sugar rounds off their acidity."
+    },
+    {
+      "title": "Fold and finish",
+      "text": "Return the eggs with the white pepper and cook for 2-3 min, breaking up any very large curds, until the eggs are fully set (71 °C) and everything is hot. Off the heat, stir in the sesame oil and spring onion greens, then serve with rice."
+    }
+  ],
+  "tips": [
+    "Use the ripest tomatoes you can find; underripe ones give a thin, sharp sauce.",
+    "A common mistake is crowding a cool pan, which makes the eggs rubbery; get the wok properly hot first.",
+    "Taste the sauce before adding the eggs back and add a pinch more sugar if the tomatoes are very tart.",
+    "Canned whole tomatoes, drained and chunked, work out of season."
+  ],
+  "storage": "Best eaten fresh. Refrigerate covered up to 2 days and reheat in a pan or microwave until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 355,
+    "protein_g": 14.7,
+    "carbs_g": 11.7,
+    "sugar_g": 7.0,
+    "free_sugar_g": 1.3,
+    "fat_g": 28.3,
+    "satfat_g": 4.6,
+    "salt_g": 1.84,
+    "fibre_g": 2.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "stir-fried-tomato-and-scrambled-eggs-basic.jpg",
+  "image_alt": "Soft scrambled egg folded through stir-fried tomato wedges, scattered with spring onion.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

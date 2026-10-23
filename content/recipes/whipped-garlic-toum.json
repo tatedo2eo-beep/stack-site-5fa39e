@@ -1,0 +1,113 @@
+{
+  "slug": "whipped-garlic-toum",
+  "title": "Whipped Garlic Toum",
+  "category": "snacks-sides",
+  "cuisine": "Lebanese",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "toum",
+  "dish_title": "Toum",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Garlic, salt and lemon blended to a paste, then whipped with oil added very slowly, alternating with lemon and ice water, into a thick, snowy garlic cream.",
+  "servings": 24,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "medium",
+  "equipment": [
+    "paring knife",
+    "food processor",
+    "flexible spatula",
+    "airtight container"
+  ],
+  "ingredients": [
+    {
+      "group": "Toum",
+      "qty": 65,
+      "unit": "g",
+      "item": "garlic cloves, peeled",
+      "note": "about 2 heads"
+    },
+    {
+      "group": "Toum",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Toum",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Toum",
+      "qty": 360,
+      "unit": "ml",
+      "item": "neutral oil (sunflower or rapeseed)"
+    },
+    {
+      "group": "Toum",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "ice-cold water"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Remove the sprouts",
+      "text": "Halve each garlic clove lengthwise and lift out any green shoot with the tip of the knife. The shoot carries a bitter, burning edge that only gets louder once the sauce is whipped."
+    },
+    {
+      "title": "Make the garlic paste",
+      "text": "Pulse the garlic with the salt until finely minced, scraping the bowl down a couple of times. Add 2 tbsp lemon juice and blend until the paste looks smooth and slightly fluffy; this base is what holds the oil later."
+    },
+    {
+      "title": "Emulsify slowly",
+      "text": "With the motor running, dribble in 60 ml oil in the thinnest possible stream, then 1 tbsp of the remaining lemon juice. Carry on in the same rhythm, alternating 60 ml oil with 1 tbsp lemon juice or ice water, for about 8-10 min in all. Garlic acts as the emulsifier, so it can only take on oil a little at a time."
+    },
+    {
+      "title": "Check the texture",
+      "text": "Once all the oil and liquid are in, the toum should be pale, thick and fluffy, much like mayonnaise. Taste for salt and lemon, scrape it into the container and chill."
+    },
+    {
+      "title": "Serve it cold",
+      "text": "Bring the toum to the table straight from the fridge with grilled chicken skewers, shawarma or roasted vegetables. A little goes a long way."
+    }
+  ],
+  "tips": [
+    "Pouring the oil too fast is how toum breaks; if it turns greasy and loose, blend in 1 tbsp ice water before adding more oil.",
+    "Use a neutral oil; strong extra-virgin olive oil turns bitter when blended hard and overwhelms the garlic.",
+    "A smaller food processor bowl works best, as the blade needs to stay in contact with the paste.",
+    "The flavour mellows after a day in the fridge."
+  ],
+  "storage": "Keep in an airtight container in the fridge for up to 1 week. Do not freeze, as the emulsion splits when thawed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 126,
+    "protein_g": 0.2,
+    "carbs_g": 1.1,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.1,
+    "fat_g": 13.8,
+    "satfat_g": 1.0,
+    "salt_g": 0.12,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "toum-basic.jpg",
+  "image_alt": "A dark bowl of thick, fluffy white garlic toum beside grilled chicken skewers and a lemon wedge.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

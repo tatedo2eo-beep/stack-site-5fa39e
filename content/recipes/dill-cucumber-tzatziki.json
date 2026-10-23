@@ -1,0 +1,139 @@
+{
+  "slug": "dill-cucumber-tzatziki",
+  "title": "Dill and Cucumber Tzatziki",
+  "category": "snacks-sides",
+  "cuisine": "Greek",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "tzatziki",
+  "dish_title": "Tzatziki",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thick Greek yoghurt with salted, squeezed cucumber, plenty of dill, lemon and a thread of olive oil, chilled until the garlic softens.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "box grater",
+    "sieve",
+    "clean tea towel",
+    "mixing bowl",
+    "spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Cucumber",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium cucumber",
+      "note": "about 250 g"
+    },
+    {
+      "group": "Cucumber",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 450,
+      "unit": "g",
+      "item": "plain whole-milk Greek yoghurt"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated to a paste"
+    },
+    {
+      "group": "Sauce",
+      "qty": 10,
+      "unit": "g",
+      "item": "dill, finely chopped, plus a sprig to serve"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil, plus a drizzle to serve"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Grate and salt",
+      "text": "Coarsely grate the unpeeled cucumber, toss it with 0.25 tsp salt in the sieve and let it sit for 10 min. Salt draws water out of the cucumber cells, so the dip stays thick instead of turning runny in the fridge."
+    },
+    {
+      "title": "Wring it dry",
+      "text": "Pile the cucumber into the clean tea towel, twist the ends and squeeze hard over the sink. You should end up with a compact, barely damp handful."
+    },
+    {
+      "title": "Build the sauce",
+      "text": "In the mixing bowl, stir together the yoghurt, garlic paste, chopped dill, lemon juice, 2 tbsp olive oil, the remaining salt and the pepper. Fold the cucumber through last so it keeps a little crunch."
+    },
+    {
+      "title": "Let it chill",
+      "text": "Cover the bowl and refrigerate for at least 30 min. Resting lets the sharp garlic spread out and soften, and the yoghurt firms up again once cold."
+    },
+    {
+      "title": "Swirl and serve",
+      "text": "Spoon the tzatziki into a serving bowl and drag the back of the spoon round to make a shallow swirl. Pool a little olive oil in the hollow and finish with a sprig of dill."
+    }
+  ],
+  "tips": [
+    "Skipping the squeeze is the most common mistake; unsqueezed cucumber leaks water and thins the dip within an hour.",
+    "Use strained Greek-style yoghurt; ordinary plain yoghurt is too loose for a scoopable dip.",
+    "Grate the garlic finely so it disperses evenly rather than leaving hot little pieces.",
+    "Swap half the dill for chopped mint for a fresher, cooler note."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days; stir before serving, as a little liquid may collect on top. Do not freeze, as the yoghurt separates. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 94,
+    "protein_g": 5.3,
+    "carbs_g": 3.8,
+    "sugar_g": 2.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 6.6,
+    "satfat_g": 1.9,
+    "salt_g": 0.42,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tzatziki-basic.jpg",
+  "image_alt": "A dark bowl of thick white tzatziki swirled with a pool of olive oil and a dill sprig, with cucumber slices on the side.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "dried-chilli-harissa-paste",
+  "title": "Dried Chilli Harissa Paste",
+  "category": "snacks-sides",
+  "cuisine": "Tunisian",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "harissa",
+  "dish_title": "Harissa",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Seeded dried chillies ground and toasted with coriander and caraway, simmered with garlic into a thick brick-red paste and finished with olive oil and vinegar.",
+  "servings": 16,
+  "prep_min": 15,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "disposable gloves",
+    "kitchen scissors",
+    "spice grinder or blender",
+    "medium frying pan",
+    "heatproof spatula",
+    "small clean jar"
+  ],
+  "ingredients": [
+    {
+      "group": "Chillies",
+      "qty": 60,
+      "unit": "g",
+      "item": "mixed dried red chillies (such as guajillo, ancho and a few hot small ones)"
+    },
+    {
+      "group": "Spices",
+      "qty": 2.5,
+      "unit": "tsp",
+      "item": "ground coriander"
+    },
+    {
+      "group": "Spices",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground caraway"
+    },
+    {
+      "group": "Spices",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, grated to a paste"
+    },
+    {
+      "group": "Paste",
+      "qty": 240,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Paste",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil, plus extra to cover"
+    },
+    {
+      "group": "Paste",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "distilled white vinegar"
+    },
+    {
+      "group": "Paste",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Seed the chillies",
+      "text": "Pull on gloves, snip the stems off the dried chillies and cut them into strips with the scissors. Shake out and discard the seeds, which stay tough and leathery and make the paste gritty."
+    },
+    {
+      "title": "Grind to powder",
+      "text": "Whizz the chilli strips in the grinder or blender, a batch at a time, until you have a fine red powder. The finer the powder, the smoother the finished paste."
+    },
+    {
+      "title": "Toast with spices",
+      "text": "Stir the chilli powder with the coriander and caraway in the dry pan over medium heat for 1-2 min. As soon as it smells toasty, move on; ground chilli scorches fast and turns bitter."
+    },
+    {
+      "title": "Simmer to a paste",
+      "text": "Add the garlic and the 240 ml water and let it bubble gently for about 10 min, stirring often. It is ready when the spatula leaves a clear trail across the base of the pan, a sign the chillies have fully rehydrated."
+    },
+    {
+      "title": "Season and seal",
+      "text": "Take the pan off the heat and stir in the olive oil, vinegar and salt. Let it cool, pack it into the jar and pour a thin film of oil over the top to keep the air out."
+    }
+  ],
+  "tips": [
+    "Letting the chilli powder smoke is the classic mistake; keep the heat at medium and keep stirring.",
+    "Mix mild, fruity chillies with a few small hot ones so the paste has flavour as well as heat.",
+    "Top up the oil layer each time you use some to keep the paste fresh.",
+    "The paste tastes rounder the next day."
+  ],
+  "storage": "Keep in a clean jar in the fridge, covered with a layer of oil, for up to 3 weeks. It freezes well in small portions for 3 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 43,
+    "protein_g": 0.5,
+    "carbs_g": 2.2,
+    "sugar_g": 0.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 3.7,
+    "satfat_g": 0.5,
+    "salt_g": 0.19,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "harissa-basic.jpg",
+  "image_alt": "A dark bowl of glossy brick-red harissa paste with whole dried red chillies alongside.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

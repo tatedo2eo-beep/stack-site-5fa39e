@@ -1,0 +1,116 @@
+{
+  "slug": "tall-crisp-yorkshire-puddings",
+  "title": "Tall, Crisp Yorkshire Puddings",
+  "category": "snacks-sides",
+  "cuisine": "British",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "yorkshire-pudding",
+  "dish_title": "Yorkshire pudding",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A rested batter of eggs, flour, milk and water poured into smoking-hot oil and baked at 230 °C until towering, deep brown and crisp.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "medium mixing bowl",
+    "balloon whisk",
+    "jug",
+    "4-hole Yorkshire pudding tin (10 cm holes) or deep 12-hole muffin tin",
+    "skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Batter",
+      "qty": 150,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 175,
+      "unit": "ml",
+      "item": "whole milk, at room temperature"
+    },
+    {
+      "group": "Batter",
+      "qty": 25,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "For the tin",
+      "qty": 60,
+      "unit": "ml",
+      "item": "vegetable oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make and rest the batter",
+      "text": "Whisk the eggs, flour, milk, water and salt in the bowl until completely smooth. Cover and leave at room temperature for at least 30 min, or refrigerate overnight (up to 3 days) and bring out while the oven heats. Resting lets the flour absorb the liquid fully, which gives a taller rise. Pour the batter into the jug."
+    },
+    {
+      "title": "Heat the fat",
+      "text": "Heat the oven to 230 °C (210 °C fan). Divide the oil between the holes of the tin and heat in the oven for about 10 min, until it is smoking hot. Very hot fat sets the outside of the batter at once, so steam builds up inside and pushes it upwards."
+    },
+    {
+      "title": "Fill the tin",
+      "text": "Work quickly: set the tin on a heatproof surface and pour the batter into the holes, filling each between half and three-quarters full. It should sizzle as it goes in. Get the tin straight back into the oven before the fat cools."
+    },
+    {
+      "title": "Bake and serve",
+      "text": "Bake for 20-25 min without opening the door (about 15 min in a muffin tin), until the puddings have quadrupled in height, are deep brown all over and sound hollow when tapped. Pierce each with a skewer to let the steam out so they hold their shape, then serve immediately."
+    }
+  ],
+  "tips": [
+    "The commonest mistake is fat that is not hot enough, which gives flat, greasy puddings; wait until it smokes.",
+    "Opening the oven door early lets the steam escape and the puddings sink.",
+    "Bake them until deep brown, not pale gold, for a crisp shell that holds up.",
+    "Beef dripping from a roast can be used instead of the oil for a meatier flavour."
+  ],
+  "storage": "Best straight from the oven. Cool leftovers completely and freeze in a bag for up to 3 months; reheat from frozen in a 200 °C (180 °C fan) oven for 5-8 min until crisp and piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 280,
+    "protein_g": 11.6,
+    "carbs_g": 31.1,
+    "sugar_g": 2.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 11.6,
+    "satfat_g": 2.8,
+    "salt_g": 0.96,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "yorkshire-pudding-basic.jpg",
+  "image_alt": "Four tall, puffed, golden-brown Yorkshire puddings.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

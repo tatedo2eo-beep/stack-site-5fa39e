@@ -1,0 +1,122 @@
+{
+  "slug": "lemon-garlic-tahini-sauce",
+  "title": "Lemon-Garlic Tahini Sauce",
+  "category": "snacks-sides",
+  "cuisine": "Levantine",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "tahini-sauce",
+  "dish_title": "Tahini sauce",
+  "flavour": "Lemon-garlic",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A punchy tahini sauce with three cloves of garlic mellowed in plenty of lemon juice, whisked smooth with ice water and a pinch of cumin.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "fine grater",
+    "mixing bowl",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Lemon garlic",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Lemon garlic",
+      "qty": 100,
+      "unit": "ml",
+      "item": "lemon juice",
+      "note": "from 2-3 lemons"
+    },
+    {
+      "group": "Sauce",
+      "qty": 240,
+      "unit": "g",
+      "item": "tahini, well stirred"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 120,
+      "unit": "ml",
+      "item": "ice-cold water, plus more as needed"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mellow the garlic",
+      "text": "Grate the garlic straight into the lemon juice in the bowl, stir and let it sit for 10 min. The acid calms the harsh bite of raw garlic while keeping its flavour."
+    },
+    {
+      "title": "Add the tahini",
+      "text": "Whisk in the tahini, cumin and salt. Do not panic when it seizes into a thick, grainy paste; that is the sesame proteins reacting to the acid and it will smooth out."
+    },
+    {
+      "title": "Loosen with ice water",
+      "text": "Whisk in the ice water 2 tbsp at a time until the sauce turns pale, silky and pourable, about the thickness of double cream. Cold water helps it emulsify into a light, creamy sauce."
+    },
+    {
+      "title": "Season and serve",
+      "text": "Taste and add a squeeze more lemon or a pinch of salt if needed. Spoon into a bowl, scatter over the lemon zest and serve with roast cauliflower, falafel or grilled vegetables."
+    }
+  ],
+  "tips": [
+    "Adding all the water at once is a common mistake; go a little at a time, as tahini brands absorb very different amounts.",
+    "Stir the tahini jar thoroughly first, since the oil separates and the solids at the bottom are dry.",
+    "The sauce thickens in the fridge; whisk in a splash of water to loosen it again.",
+    "Grate the garlic finely so no harsh pieces remain."
+  ],
+  "storage": "Keep covered in the fridge for up to 5 days and whisk in a little water before serving. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 184,
+    "protein_g": 5.2,
+    "carbs_g": 7.7,
+    "sugar_g": 0.5,
+    "free_sugar_g": 0.3,
+    "fat_g": 16.2,
+    "satfat_g": 2.3,
+    "salt_g": 0.63,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tahini-sauce-basic--lemon-garlic.jpg",
+  "image_alt": "A dark bowl of creamy tahini sauce topped with grated lemon zest next to roasted cauliflower florets and a lemon wedge.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}
