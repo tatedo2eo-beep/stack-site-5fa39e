@@ -1,0 +1,140 @@
+{
+  "slug": "tall-crisp-popovers",
+  "title": "Tall Crisp Popovers",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "muffins",
+  "book_chapter": "muffins",
+  "dish": "popovers",
+  "dish_title": "Popovers",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Dramatically tall popovers with crisp, deep golden walls and a tender, hollow inside, baked hot then low.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 70,
+  "difficulty": "medium",
+  "equipment": [
+    "6-hole popover tin or deep 12-hole muffin tin",
+    "large bowl",
+    "balloon whisk",
+    "jug",
+    "pastry brush",
+    "skewer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Batter",
+      "qty": 480,
+      "unit": "ml",
+      "item": "semi-skimmed milk, warmed to about 40 °C"
+    },
+    {
+      "group": "Batter",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled slightly"
+    },
+    {
+      "group": "Batter",
+      "qty": 300,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 4,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Tin",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil, for the tin"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Oil the tin",
+      "text": "Brush every popover mould generously with oil, rims included. A well-oiled tin lets the batter climb freely and release cleanly."
+    },
+    {
+      "title": "Make and rest the batter",
+      "text": "Whisk the eggs until frothy, then slowly whisk in the warm milk and melted butter. Whisk the flour, salt and sugar together, add them to the eggs and whisk until mostly smooth; a few tiny lumps are fine. Pour into the jug and leave for 1 h at room temperature so the flour hydrates fully and the batter rises evenly."
+    },
+    {
+      "title": "Heat thoroughly",
+      "text": "Heat the oven to 230 °C (210 °C fan) for at least 20 min, with a shelf in the lower-middle position. Strong, steady heat turns the liquid in the batter to steam fast, and that steam is what inflates the popovers."
+    },
+    {
+      "title": "Fill the moulds",
+      "text": "Give the batter a stir and pour it into the 6 moulds, filling each about three-quarters full. If you are using a muffin tin, spread it over 12 holes instead."
+    },
+    {
+      "title": "Bake hot",
+      "text": "Bake for 20 min and keep the door closed the whole time. By then they will have risen tall and started to colour; opening the door early lets the steam escape and they sink."
+    },
+    {
+      "title": "Bake low",
+      "text": "Turn the oven down to 150 °C (130 °C fan) and bake for 35-40 min more, or 15-20 min for muffin-tin popovers. They are ready when deep golden brown, crisp and firm when tapped, which means the egg walls have fully set."
+    },
+    {
+      "title": "Let the steam out",
+      "text": "Working quickly, poke a skewer into the top of each popover to release the steam. Return them to the oven for 10 min more so the inside dries and the walls stay crisp rather than collapsing."
+    },
+    {
+      "title": "Serve straight away",
+      "text": "Turn the popovers out onto the rack and serve right away while they are hollow, crisp and steaming."
+    }
+  ],
+  "tips": [
+    "The classic mistake is peeking: keep the oven door shut for the first 20 min or the popovers will deflate.",
+    "Warm milk and room-temperature eggs help the batter puff faster and higher.",
+    "Bread flour gives taller, sturdier walls than plain flour.",
+    "Serve with butter and jam, or alongside a roast like a Yorkshire pudding."
+  ],
+  "storage": "Popovers are best eaten within an hour. Leftovers keep airtight at room temperature for 1 day; re-crisp in a 180 °C oven for 5 min. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 319,
+    "protein_g": 11.9,
+    "carbs_g": 41.0,
+    "sugar_g": 4.8,
+    "free_sugar_g": 0.7,
+    "fat_g": 11.6,
+    "satfat_g": 5.5,
+    "salt_g": 0.92,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "popovers-basic.jpg",
+  "image_alt": "Tall, deep golden popovers on a dark plate, one torn open to show the hollow, eggy inside.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "King Arthur Baking"
+  ]
+}

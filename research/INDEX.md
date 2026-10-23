@@ -270,6 +270,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | golden-crab-cakes-paprika-lemon-mayonnaise | Crab cakes | Classic | 4 | 6 |
 | golden-crisp-cheddar-grilled-cheese-sandwich | Grilled cheese | Classic | 2 | 4 |
 | golden-olive-oil-focaccia-flaky-sea-salt | Focaccia | Classic | 2 | 4 |
+| golden-sour-cream-corn-muffins | Corn muffin | Classic | 2 | 4 |
 | graham-crackers | Graham crackers | Classic | 3 | 5 |
 | gratin-dauphinois | Gratin dauphinois | Classic | 2 | 4 |
 | greek-mint-oregano-meatballs | Meatballs | Greek (mint-oregano) | 2 | 4 |
@@ -351,6 +352,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-meringue-pie | Meringue pie (lemon) | Classic | 2 | 4 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
 | lemon-pound-cake | Pound cake | Lemon | 3 | 5 |
+| lemon-sugar-blueberry-muffins | American muffin (blueberry style, muffin method) | Classic | 2 | 4 |
 | lemony-tuna-salad-celery-capers | Tuna salad | Classic | 3 | 5 |
 | libyan-style-fish-spicy-tomato-pepper-sauce | Chraime | Classic | 2 | 4 |
 | liege-waffles-caramelised-pearl-sugar | Liège waffles | Classic | 2 | 4 |
@@ -603,6 +605,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | swirled-chocolate-babka-syrup-glaze | Babka | Classic | 3 | 5 |
 | swiss-rosti | Rösti | Classic | 2 | 4 |
 | tafelspitz-apple-horseradish | Tafelspitz | Classic | 2 | 4 |
+| tall-crisp-popovers | Popovers | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
 | tangzhong-japanese-milk-bread-loaf | Japanese milk bread (tangzhong) | Classic | 2 | 4 |
 | tender-cream-scones-jam-clotted-cream | Scone | Classic | 2 | 4 |
