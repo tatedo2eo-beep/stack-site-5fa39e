@@ -1,0 +1,166 @@
+{
+  "slug": "buckwheat-blueberry-waffles",
+  "title": "Buckwheat Blueberry Waffles",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "waffles-belgian",
+  "dish_title": "Waffles (Belgian)",
+  "flavour": "Blueberry",
+  "flavour_order": 8,
+  "access": "premium",
+  "base_recipe": "crisp-belgian-waffles-strawberries-cream",
+  "changes_from_base": "All buckwheat flour (no wheat), dark brown sugar, nutmeg and buttermilk, with whites whisked to medium peaks and blueberries and lemon zest folded in.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Nutty buckwheat waffles studded with blueberries and bright lemon zest, finished with warm maple syrup.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "2 medium bowls",
+    "whisk or hand mixer",
+    "rubber spatula",
+    "waffle iron",
+    "pastry brush",
+    "160 ml measure"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 174,
+      "unit": "g",
+      "item": "buckwheat flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 42,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "grated nutmeg"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature, separated"
+    },
+    {
+      "group": "Batter",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, melted, plus more for the iron"
+    },
+    {
+      "group": "Batter",
+      "qty": 140,
+      "unit": "g",
+      "item": "fresh or frozen blueberries (not thawed)"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "finely grated lemon zest (1-2 lemons)"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Whisk 174 g buckwheat flour, 42 g dark brown sugar, 1 tsp baking powder, ½ tsp nutmeg, ¼ tsp bicarbonate of soda and ⅛ tsp salt together and make a well in the centre."
+    },
+    {
+      "title": "Separate",
+      "text": "Put 2 egg whites in one bowl, then drop the 2 egg yolks into the well along with 240 ml buttermilk and stir gently into a batter without overmixing."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk the egg whites to medium peaks, add to the batter and fold in gently until just combined."
+    },
+    {
+      "title": "Fold",
+      "text": "Fold in 30 g melted butter, then 140 g blueberries and 1½ tbsp grated lemon zest."
+    },
+    {
+      "title": "Heat",
+      "text": "Heat the waffle iron and brush lightly with butter."
+    },
+    {
+      "title": "Cook",
+      "text": "Pour about 160 ml batter per waffle and cook until golden and crisp, buttering the iron between batches."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve as they're ready, or keep warm in a 93 °C oven, with warm maple syrup."
+    }
+  ],
+  "tips": [
+    "Fold the whisked egg whites in gently, scooping from the bottom of the bowl, to keep the batter light.",
+    "Use frozen blueberries straight from the freezer rather than thawing them, so they don't bleed colour through the batter.",
+    "Brush the iron lightly with butter between batches as needed so each waffle releases cleanly."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the iron. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 384,
+    "protein_g": 11.1,
+    "carbs_g": 63.4,
+    "sugar_g": 30.0,
+    "free_sugar_g": 22.3,
+    "fat_g": 11.6,
+    "satfat_g": 6.0,
+    "salt_g": 0.97,
+    "fibre_g": 5.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A golden buckwheat waffle studded with blueberries and flecked with lemon zest.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

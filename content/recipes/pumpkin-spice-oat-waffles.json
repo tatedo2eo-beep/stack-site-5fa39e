@@ -1,0 +1,182 @@
+{
+  "slug": "pumpkin-spice-oat-waffles",
+  "title": "Pumpkin Spice Oat Waffles",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "waffles-belgian",
+  "dish_title": "Waffles (Belgian)",
+  "flavour": "Pumpkin spice",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "crisp-belgian-waffles-strawberries-cream",
+  "changes_from_base": "Mostly oat flour with a little plain flour, blotted pumpkin purée, low-fat yoghurt and oil instead of milk and butter, spiced with cinnamon, nutmeg, cardamom and fresh ginger; no whisked whites.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Warmly spiced oat waffles made with well-drained pumpkin purée, giving a crisp, firm crust around a tender centre.",
+  "servings": 5,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "medium bowl",
+    "whisk",
+    "rimmed baking tray",
+    "kitchen paper",
+    "wire rack",
+    "Belgian waffle iron",
+    "pastry brush",
+    "240 ml measure"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 213,
+      "unit": "g",
+      "item": "oat flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 71,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "Batter",
+      "qty": 425,
+      "unit": "g",
+      "item": "unsweetened pumpkin purée (1 tin)"
+    },
+    {
+      "group": "Batter",
+      "qty": 300,
+      "unit": "ml",
+      "item": "plain low-fat yoghurt"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "ml",
+      "item": "rapeseed oil, plus more for brushing"
+    },
+    {
+      "group": "Batter",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "grated fresh ginger"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Set an oven rack in the middle and heat the oven to 93 °C."
+    },
+    {
+      "title": "Mix",
+      "text": "Whisk 213 g oat flour, 71 g plain flour, 1 tsp cinnamon, 1 tsp baking powder, ½ tsp bicarbonate of soda, ¾ tsp salt, ¼ tsp nutmeg and ¼ tsp cardamom together in a large bowl."
+    },
+    {
+      "title": "Drain",
+      "text": "Press the 425 g tin of pumpkin purée between layers of kitchen paper on a tray until the paper is soaked, then tip the dried purée into a medium bowl."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk in 300 ml yoghurt, 2 eggs, 60 ml rapeseed oil, 50 g sugar and 1 tsp grated ginger, then whisk this into the flour mixture until smooth."
+    },
+    {
+      "title": "Heat",
+      "text": "Set a wire rack in the tray in the oven, then heat the waffle iron and brush well with oil."
+    },
+    {
+      "title": "Cook",
+      "text": "Add a scant 240 ml batter to the iron and cook until deep golden with a crisp, firm outside."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve at once, or keep warm on the rack in the oven, brushing the iron with oil before each waffle."
+    }
+  ],
+  "tips": [
+    "Press the pumpkin firmly between the kitchen paper layers, as removing the extra moisture is what keeps these waffles crisp rather than soft.",
+    "Brush the iron well with oil before every waffle so each one releases cleanly.",
+    "Keeping finished waffles on a rack in a 93 °C oven stops them going soggy while the rest cook."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the iron. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 477,
+    "protein_g": 14.5,
+    "carbs_g": 61.1,
+    "sugar_g": 17.6,
+    "free_sugar_g": 10.0,
+    "fat_g": 20.2,
+    "satfat_g": 3.1,
+    "salt_g": 1.64,
+    "fibre_g": 6.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A deep golden, firm-crusted waffle speckled with warm spices, fresh from the iron.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

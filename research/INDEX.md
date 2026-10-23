@@ -136,6 +136,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | brown-sugar-bubble-tea-tapioca-pearls | Milk tea/bubble tea | Classic | 1 | 3 |
 | brown-sugar-shortbread | Shortbread | Brown sugar | 1 | 5 |
 | bubble-and-squeak-savoy-cabbage | Bubble and squeak | Classic | 2 | 4 |
+| buckwheat-blueberry-waffles | Waffles (Belgian) | Blueberry | 1 | 3 |
 | buffalo-chicken-burger | Chicken burger | Buffalo | 3 | 8 |
 | buffalo-chicken-salad-blue-cheese-celery | Chicken salad | Buffalo | 2 | 4 |
 | buffalo-chicken-wings | Chicken wings | Buffalo | 4 | 6 |
@@ -148,6 +149,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | buttermilk-fried-chicken | Fried chicken (Southern) | Buttermilk-brined | 4 | 6 |
 | buttermilk-herb-ranch-dressing | Ranch dressing | Classic | 2 | 4 |
 | buttermilk-panna-cotta-raspberry-coulis | Panna cotta | Buttermilk | 2 | 4 |
+| buttermilk-vanilla-waffles | Waffles (Belgian) | Vanilla | 1 | 3 |
 | butternut-chard-lasagne-one-pan | Sheets/baked (lasagne) | Squash & Swiss chard | 1 | 3 |
 | butternut-squash-apple-fattoush-sumac | Fattoush | Squash | 1 | 3 |
 | butternut-squash-ravioli | Filled (ravioli, tortellini, agnolotti) | Butternut squash | 4 | 6 |
@@ -289,6 +291,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cinnamon-glazed-apple-fritters | Fritters/apple fritters | Classic | 1 | 3 |
 | cinnamon-poached-plum-granita | Granita | Plum | 1 | 3 |
 | cinnamon-raisin-bagels-cream-cheese | Bagels | Cinnamon-raisin | 2 | 4 |
+| cinnamon-raisin-puff-pastry-waffle | Waffles (Belgian) | Cinnamon & raisin | 1 | 3 |
 | cinnamon-streusel-coffee-cake | Coffee cake | Cinnamon streusel | 2 | 4 |
 | cinnamon-sugar-buttermilk-cake-doughnuts | Cake doughnut | Classic | 2 | 4 |
 | cinnamon-sugar-doughnut-muffins | American muffin (blueberry style, muffin method) | Cinnamon | 1 | 3 |
@@ -560,6 +563,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gingerbread-muffins-crystallised-ginger | American muffin (blueberry style, muffin method) | Gingerbread | 1 | 3 |
 | gingerbread-pancakes | Pancakes (American) | Gingerbread | 1 | 3 |
 | gingerbread-spice-brownies | Brownie (fudgy or cakey) | Gingerbread | 1 | 3 |
+| gingerbread-waffles | Waffles (Belgian) | Gingerbread | 1 | 3 |
 | glassy-salted-peanut-brittle | Brittle | Peanut | 1 | 4 |
 | glossy-braided-honey-challah | ? | ? | MISSING | |
 | glossy-candied-orange-lemon-peel | Candied citrus peel | Classic | 3 | 5 |
@@ -610,6 +614,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | groundnut-soup-chicken-crushed-peanuts | Groundnut soup | Chicken | 2 | 4 |
 | groundnut-soup-sweet-potato-kale-peanut | Groundnut soup | Classic | 2 | 4 |
 | guacamole | Guacamole | Classic | 2 | 3 |
+| guava-cream-cheese-puff-pastry-waffle | Waffles (Belgian) | Guava & cream cheese | 1 | 3 |
 | gulab-jamun-cardamom-saffron-syrup | Gulab jamun | Classic | 2 | 4 |
 | hainanese-chicken-rice | Hainanese chicken rice | Classic | 3 | 5 |
 | halo-halo-shaved-ice-ube-leche-flan | Halo-halo | Classic | 2 | 4 |
@@ -884,6 +889,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | oven-finished-frittata-courgette-herbs | Frittata | Zucchini | 2 | 4 |
 | oven-finished-frittata-red-pepper-spinach | Frittata | Classic | 3 | 5 |
 | oven-finished-frittata-spinach-feta | Frittata | Spinach-feta | 2 | 4 |
+| overnight-brown-butter-yeast-waffles | Waffles (Belgian) | Brown butter | 1 | 3 |
 | overnight-starter-rosemary-focaccia | Focaccia | Rosemary | 1 | 3 |
 | oyster-po-boy-cornmeal-fried-oysters | Po' boy | Oyster | 2 | 4 |
 | paczki-polish-jam-doughnuts | Paczki | Classic | 1 | 3 |
@@ -960,6 +966,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pearl-sugar-chouquettes | Chouquettes | Classic | 2 | 4 |
 | pearl-sugar-tarte-tropezienne | Tropézienne | Classic | 0 | 3 |
 | pecan-pie-topped-brownies | Brownie (fudgy or cakey) | Pecan | 1 | 3 |
+| pecan-waffles | Waffles (Belgian) | Pecan | 1 | 3 |
 | peking-duck | Peking duck | Classic | 2 | 4 |
 | penne-arrabbiata | Short (penne, rigatoni, fusilli) | Classic | 3 | 5 |
 | peperonata-sweet-peppers-basil | Peperonata | Classic | 2 | 4 |
@@ -1024,6 +1031,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | potato-pea-samosas-mint-coriander-chutney | Samosas | Potato-pea | 3 | 5 |
 | potato-sauerkraut-dumplings-caramelised-onions | Pierogi | Classic | 2 | 4 |
 | potato-vareniki | Vareniki | Classic | 2 | 4 |
+| potato-waffles-chives | Waffles (Belgian) | Potato | 1 | 3 |
 | potatoes-sarladaises | Potatoes sarladaises | Classic | 2 | 4 |
 | pouding-chomeur-maple-pudding-cake | Pouding chômeur | Classic | 1 | 3 |
 | pound-cake | Pound cake | Classic | 2 | 4 |
@@ -1046,6 +1054,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pumpkin-spice-ice-cream-cake | Ice-cream cake | Pumpkin spice | 1 | 3 |
 | pumpkin-spice-latte-butternut-maple | Latte | Pumpkin spice | 1 | 3 |
 | pumpkin-spice-muffins-crumb-top | American muffin (blueberry style, muffin method) | Pumpkin spice | 1 | 3 |
+| pumpkin-spice-oat-waffles | Waffles (Belgian) | Pumpkin spice | 1 | 3 |
 | pumpkin-swirl-brownies | Brownie (fudgy or cakey) | Pumpkin | 1 | 3 |
 | pumpkin-whoopie-pies | Whoopie pie | Pumpkin | 2 | 4 |
 | puto-cheese-topped-steamed-rice-cakes | Puto | Cheese-topped | 1 | 3 |
@@ -1141,6 +1150,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | sarson-ka-saag-makki-roti | Saag | Classic | 1 | 3 |
 | sashimi-and-sushi-platter-salmon-tuna-nigiri | Sashimi/sushi | Classic | 1 | 3 |
 | savoury-cabbage-pancakes-spring-onion-tangy-sauce-mayo | Okonomiyaki (Japanese "pizza" – debatable) | Classic | 3 | 5 |
+| savoury-cheddar-parmesan-waffles | Waffles (Belgian) | Cheddar & parmesan | 1 | 3 |
 | scotch-broth-lamb-barley-kale | Scotch broth | Classic | 2 | 4 |
 | sea-bass-crudo-lemon-chilli-olive-oil | Crudo | Classic | 1 | 3 |
 | seared-mushroom-tacos-chipotle-onion-coriander | Taco | Mushroom | 3 | 5 |
@@ -1254,6 +1264,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spinach-ricotta-cannelloni | Cannelloni | Classic | 2 | 4 |
 | spinach-ricotta-lasagne | Sheets/baked (lasagne) | Spinach and ricotta | 3 | 5 |
 | spinach-ricotta-mozzarella-stromboli-garlic-crust | Stromboli | Classic | 2 | 4 |
+| spring-onion-cornmeal-waffles | Waffles (Belgian) | Scallion | 1 | 3 |
 | square-sheet-pan-pizza-garlic-tomato-dollops-mozzarella | Grandma pizza | Classic | 2 | 4 |
 | sri-lankan-red-lentil-dal-curry-leaves | Lentil dishes (dal, lentil salad, lentils du Puy) | Classic | 1 | 3 |
 | st-josephs-zeppole-with-vanilla-cream-and-cherries | Zeppole | Classic | 2 | 4 |
@@ -1347,6 +1358,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | toasted-farro-olive-oil-parsley | Farro | Classic | 2 | 4 |
 | toasted-marshmallow-brownies | Brownie (fudgy or cakey) | Marshmallow | 1 | 3 |
 | toasted-pecan-buttermilk-pancakes | Pancakes (American) | Pecan | 1 | 3 |
+| toasted-sesame-spring-onion-waffles | Waffles (Belgian) | Sesame | 1 | 3 |
 | toasted-walnut-brown-sugar-custard-ice-cream | Custard-base (French) | Walnut | 1 | 3 |
 | toasted-whole-spice-garam-masala | Garam masala | Classic | 2 | 4 |
 | toffee-crunch-custard-ice-cream | Custard-base (French) | Toffee | 1 | 3 |

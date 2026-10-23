@@ -1,0 +1,161 @@
+{
+  "slug": "overnight-brown-butter-yeast-waffles",
+  "title": "Overnight Brown Butter Yeast Waffles",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "waffles-belgian",
+  "dish_title": "Waffles (Belgian)",
+  "flavour": "Brown butter",
+  "flavour_order": 5,
+  "access": "premium",
+  "base_recipe": "crisp-belgian-waffles-strawberries-cream",
+  "changes_from_base": "Browned butter replaces melted butter, and instant yeast with a little bicarbonate replaces baking powder; the batter is chilled overnight (12-18 h), with no whisked whites.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Yeasted waffles made with browned butter and left to ferment overnight, giving a deep flavour and a light, spongy batter.",
+  "servings": 3,
+  "prep_min": 15,
+  "cook_min": 21,
+  "difficulty": "medium",
+  "equipment": [
+    "medium stainless steel saucepan",
+    "heatproof spatula",
+    "sieve",
+    "cling film",
+    "Belgian or square waffle iron",
+    "pastry brush",
+    "wire rack set in a baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Batter",
+      "qty": 20,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 280,
+      "unit": "ml",
+      "item": "cold milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, cold"
+    },
+    {
+      "group": "Batter",
+      "qty": 210,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 4,
+      "unit": "g",
+      "item": "instant dried yeast (1¼ tsp)"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "For cooking",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil, for the iron (if needed)"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 280,
+      "unit": "g",
+      "item": "strawberries, sliced (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown",
+      "text": "Melt 85 g butter in a saucepan, stirring and scraping as it bubbles, and cook until golden brown."
+    },
+    {
+      "title": "Stir",
+      "text": "Off the heat, stir in 20 g sugar, ½ tsp salt and 280 ml cold milk at once, then stir in 1 cold egg."
+    },
+    {
+      "title": "Sift",
+      "text": "Sift in 210 g plain flour and stir until smooth, then stir in 4 g instant dried yeast and ¼ tsp bicarbonate of soda last."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and chill the batter overnight, 12-18 h, until gooey and spongy."
+    },
+    {
+      "title": "Heat",
+      "text": "Heat the waffle iron on medium until ready, brushing lightly with oil if using a cast-iron iron."
+    },
+    {
+      "title": "Cook",
+      "text": "Pour in about a third of the batter for an 18 cm Belgian iron, or half for a 20 cm square iron, close and cook until golden brown but still steaming, 5-7 min."
+    },
+    {
+      "title": "Serve",
+      "text": "Keep cooked waffles on a wire rack in a 90 °C oven while you cook the rest, then serve with maple syrup and sliced strawberries if you like."
+    }
+  ],
+  "tips": [
+    "Stir the sugar, salt and milk into the browned butter straight away so it doesn't sit and catch in the hot pan.",
+    "Let the batter chill for the full 12-18 h, as the yeast needs that time to turn it gooey and spongy.",
+    "If your iron isn't non-stick, a light brush of oil before each waffle helps it release cleanly."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the iron. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 683,
+    "protein_g": 13.8,
+    "carbs_g": 90.4,
+    "sugar_g": 32.5,
+    "free_sugar_g": 22.8,
+    "fat_g": 30.3,
+    "satfat_g": 17.1,
+    "salt_g": 1.43,
+    "fibre_g": 4.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A deep golden, airy waffle made with browned butter, served with maple syrup and sliced strawberries.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

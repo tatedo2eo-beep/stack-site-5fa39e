@@ -1,0 +1,121 @@
+{
+  "slug": "guava-cream-cheese-puff-pastry-waffle",
+  "title": "Guava and Cream Cheese Puff Pastry Waffle",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "waffles-belgian",
+  "dish_title": "Waffles (Belgian)",
+  "flavour": "Guava & cream cheese",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "crisp-belgian-waffles-strawberries-cream",
+  "changes_from_base": "No batter at all: a sheet of puff pastry spread with cream cheese and sliced guava paste, rolled up, coiled into a spiral and cooked in the waffle iron until it reaches 93 °C, then cut into wedges.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A spiral of flaky puff pastry filled with cream cheese and sweet guava paste, cooked in the waffle iron until deeply golden and dusted with icing sugar.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "Belgian waffle iron",
+    "rolling pin",
+    "palette knife",
+    "instant-read thermometer",
+    "chopping board",
+    "sharp knife",
+    "small sieve"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 8,
+      "unit": "g",
+      "item": "plain flour, for dusting",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 225,
+      "unit": "g",
+      "item": "frozen puff pastry (1 sheet), thawed"
+    },
+    {
+      "group": "Filling",
+      "qty": 230,
+      "unit": "g",
+      "item": "soft spreadable cream cheese"
+    },
+    {
+      "group": "Filling",
+      "qty": 115,
+      "unit": "g",
+      "item": "guava paste, thinly sliced"
+    },
+    {
+      "group": "To serve",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar, for dusting",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the Belgian waffle iron."
+    },
+    {
+      "title": "Roll",
+      "text": "Dust the work surface and the 225 g sheet of thawed puff pastry with flour, then roll it into a square about 40 x 40 cm."
+    },
+    {
+      "title": "Spread",
+      "text": "Spread 230 g cream cheese over the pastry, leaving a 2.5 cm border, and lay the 115 g sliced guava paste evenly on top."
+    },
+    {
+      "title": "Coil",
+      "text": "Roll the pastry away from you like a Swiss roll, pinch the seam and ends to seal, then coil it into a flat spiral."
+    },
+    {
+      "title": "Cook",
+      "text": "Place the spiral in the centre of the hot iron and cook until deep golden brown all over and an instant-read thermometer reads 93 °C in the centre, about 12 min."
+    },
+    {
+      "title": "Serve",
+      "text": "Lift onto a board, slice into wedges, dust with icing sugar and serve at once."
+    }
+  ],
+  "tips": [
+    "Slice the guava paste thinly and lay it evenly so every wedge gets some filling.",
+    "Check the centre with an instant-read thermometer rather than relying on colour alone, since the spiral is thicker than a usual waffle.",
+    "Cut and serve the wedges at once, while the pastry is still crisp."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the iron. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 406,
+    "protein_g": 5.3,
+    "carbs_g": 35.6,
+    "sugar_g": 15.7,
+    "free_sugar_g": 14.2,
+    "fat_g": 27.5,
+    "satfat_g": 11.4,
+    "salt_g": 0.54,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A golden, spiral-shaped puff pastry waffle dusted with icing sugar and sliced into wedges, with guava paste visible in the swirled layers.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

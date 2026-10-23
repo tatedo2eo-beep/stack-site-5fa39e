@@ -1,0 +1,178 @@
+{
+  "slug": "gingerbread-waffles",
+  "title": "Gingerbread Waffles",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "waffles-belgian",
+  "dish_title": "Waffles (Belgian)",
+  "flavour": "Gingerbread",
+  "flavour_order": 9,
+  "access": "premium",
+  "base_recipe": "crisp-belgian-waffles-strawberries-cream",
+  "changes_from_base": "Half white wholemeal flour, 4 whole eggs, milk with soured cream and molasses, spiced with ginger, nutmeg and cloves; whole eggs instead of whisked whites, and no sugar or vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Spiced gingerbread waffles rich with molasses and soured cream, best served warm with butter and maple syrup.",
+  "servings": 5,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "2 bowls",
+    "whisk",
+    "Belgian waffle iron",
+    "180 ml measure"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 120,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 113,
+      "unit": "g",
+      "item": "white wholemeal flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Batter",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter, melted and slightly cooled"
+    },
+    {
+      "group": "Batter",
+      "qty": 225,
+      "unit": "ml",
+      "item": "milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 113,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Batter",
+      "qty": 64,
+      "unit": "g",
+      "item": "molasses (3 tbsp)"
+    },
+    {
+      "group": "To serve",
+      "qty": 20,
+      "unit": "g",
+      "item": "butter, to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the waffle iron while you make the batter."
+    },
+    {
+      "title": "Mix",
+      "text": "Whisk 120 g plain flour, 113 g white wholemeal flour, 2 tsp baking powder, ½ tsp bicarbonate of soda, ½ tsp salt, 2 tsp ginger, ¼ tsp nutmeg and ¼ tsp cloves together."
+    },
+    {
+      "title": "Whisk",
+      "text": "In another bowl whisk 4 eggs, 85 g melted butter, 225 ml milk, 113 g soured cream and 64 g molasses."
+    },
+    {
+      "title": "Combine",
+      "text": "Mix the wet and dry ingredients together until just combined; a slightly lumpy batter is fine."
+    },
+    {
+      "title": "Cook",
+      "text": "Pour about 160-180 ml batter into the greased, hot iron and cook as its instructions say."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve warm with butter and maple syrup."
+    }
+  ],
+  "tips": [
+    "Don't overmix the batter once the wet and dry ingredients are combined; a few lumps won't affect the finished waffle.",
+    "The soured cream and molasses make this batter quite dark, so judge doneness by the iron's timing rather than colour alone.",
+    "Reheat leftovers gently so the spiced flavour comes through as warm as when first made."
+  ],
+  "storage": "Keep leftovers airtight in the fridge for several days and reheat before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 527,
+    "protein_g": 12.7,
+    "carbs_g": 59.5,
+    "sugar_g": 22.6,
+    "free_sugar_g": 19.2,
+    "fat_g": 27.6,
+    "satfat_g": 15.4,
+    "salt_g": 1.63,
+    "fibre_g": 3.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A deep brown, spiced waffle with a crisp grid pattern, served with a pat of butter and maple syrup.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

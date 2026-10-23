@@ -1,0 +1,176 @@
+{
+  "slug": "toasted-sesame-spring-onion-waffles",
+  "title": "Toasted Sesame and Spring Onion Waffles",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "waffles-belgian",
+  "dish_title": "Waffles (Belgian)",
+  "flavour": "Sesame",
+  "flavour_order": 15,
+  "access": "premium",
+  "base_recipe": "crisp-belgian-waffles-strawberries-cream",
+  "changes_from_base": "A savoury buttermilk batter with sesame seeds, toasted sesame oil, black pepper, grated cheese and spring onions, with whites whisked to medium peaks; served with an egg if you like.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Savoury sesame waffles studded with spring onion and cheese, crisp enough to top with a poached or fried egg.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "2 medium bowls",
+    "whisk or hand mixer",
+    "rubber spatula",
+    "waffle iron",
+    "pastry brush",
+    "180 ml measure"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 231,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "black or white sesame seeds"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.25,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.375 tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "black pepper"
+    },
+    {
+      "group": "Batter",
+      "qty": 100,
+      "unit": "g",
+      "item": "Parmesan, pecorino or white Cheddar, grated"
+    },
+    {
+      "group": "Batter",
+      "qty": 4,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced (or 8 g chopped chives)"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature, separated"
+    },
+    {
+      "group": "Batter",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter, melted, plus more for the iron"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "poached or fried eggs, to serve (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Whisk 231 g plain flour, 1 tbsp sugar, 1 tbsp sesame seeds, 1¼ tsp baking powder, ¼ tsp bicarbonate of soda, ⅜ tsp salt and ½ tsp black pepper together, stir in 100 g grated cheese and 4 sliced spring onions, and make a well in the centre."
+    },
+    {
+      "title": "Separate",
+      "text": "Put 2 egg whites in one bowl, then drop the 2 egg yolks into the well with 300 ml buttermilk and 1 tsp sesame oil and stir gently into a batter without overmixing."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk the egg whites to medium peaks and fold them in gently until just combined, then fold in 60 g melted butter."
+    },
+    {
+      "title": "Heat",
+      "text": "Heat the waffle iron and brush lightly with butter."
+    },
+    {
+      "title": "Cook",
+      "text": "Pour a heaped 160 ml batter per waffle and cook until golden and crisp, buttering the iron between batches."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve as they're ready, or keep warm in a 93 °C oven, topped with a poached or fried egg if you like."
+    }
+  ],
+  "tips": [
+    "Stir the cheese and spring onion into the dry ingredients before adding any liquid, so they're evenly spread through the batter.",
+    "Fold the whisked egg whites in gently so the finished waffle stays light rather than dense.",
+    "Brush the iron lightly with butter between batches as needed so each waffle releases cleanly."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the iron. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 532,
+    "protein_g": 21.4,
+    "carbs_g": 54.1,
+    "sugar_g": 7.6,
+    "free_sugar_g": 3.1,
+    "fat_g": 25.5,
+    "satfat_g": 14.1,
+    "salt_g": 2.44,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A golden savoury waffle flecked with sesame seeds and spring onion, topped with a fried egg.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

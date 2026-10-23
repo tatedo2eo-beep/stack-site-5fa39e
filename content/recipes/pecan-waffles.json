@@ -1,0 +1,139 @@
+{
+  "slug": "pecan-waffles",
+  "title": "Pecan Waffles",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "waffles-belgian",
+  "dish_title": "Waffles (Belgian)",
+  "flavour": "Pecan",
+  "flavour_order": 7,
+  "access": "premium",
+  "base_recipe": "crisp-belgian-waffles-strawberries-cream",
+  "changes_from_base": "Finely ground pecans beaten into the batter, with 2 whole eggs plus 2 extra whisked whites; no sugar or vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Nutty waffles made with finely ground pecans folded through a light, airy batter.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "sieve",
+    "2 bowls",
+    "whisk",
+    "rubber spatula",
+    "waffle iron"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 190,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp; to taste"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "egg whites, whisked to stiff peaks"
+    },
+    {
+      "group": "Batter",
+      "qty": 330,
+      "unit": "ml",
+      "item": "milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 56,
+      "unit": "g",
+      "item": "butter, melted"
+    },
+    {
+      "group": "Batter",
+      "qty": 55,
+      "unit": "g",
+      "item": "pecans, finely ground"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sift",
+      "text": "Sift 190 g plain flour with salt to taste and 2 tsp baking powder."
+    },
+    {
+      "title": "Beat",
+      "text": "Beat 2 whole eggs, then gradually beat in 330 ml milk and 56 g melted butter."
+    },
+    {
+      "title": "Whisk",
+      "text": "Add the flour mixture and whisk until smooth, then beat in 55 g finely ground pecans."
+    },
+    {
+      "title": "Fold",
+      "text": "Whisk 2 egg whites to stiff peaks and fold them in gently to make about 1 litre of batter."
+    },
+    {
+      "title": "Heat",
+      "text": "Heat the waffle iron."
+    },
+    {
+      "title": "Cook",
+      "text": "Add the right amount of batter for your iron, close the lid and cook as the iron's instructions say."
+    }
+  ],
+  "tips": [
+    "Whisk the egg whites to stiff peaks before folding them in, as this is what keeps the finished batter light despite the ground pecans.",
+    "Grind the pecans finely so they blend smoothly into the batter rather than leaving large pieces.",
+    "Fold the whisked whites in gently to keep as much air in the batter as possible."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the iron. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 466,
+    "protein_g": 13.9,
+    "carbs_g": 43.2,
+    "sugar_g": 5.2,
+    "free_sugar_g": 0.0,
+    "fat_g": 26.9,
+    "satfat_g": 10.5,
+    "salt_g": 1.23,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A golden waffle flecked throughout with finely ground pecans.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

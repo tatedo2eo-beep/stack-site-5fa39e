@@ -1,0 +1,150 @@
+{
+  "slug": "buttermilk-vanilla-waffles",
+  "title": "Buttermilk Vanilla Waffles",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "waffles-belgian",
+  "dish_title": "Waffles (Belgian)",
+  "flavour": "Vanilla",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "crisp-belgian-waffles-strawberries-cream",
+  "changes_from_base": "Egg whites only and buttermilk instead of milk, sweetened with icing sugar and flavoured with vanilla pod seeds and vanilla; the whites go straight into the batter, not whisked, and there is no fruit or cream.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Light buttermilk waffles flecked with real vanilla seeds, cooked until golden and best served dripping with maple syrup.",
+  "servings": 3,
+  "prep_min": 5,
+  "cook_min": 18,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "whisk",
+    "Belgian or square waffle iron",
+    "rubber spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 185,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 45,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "vanilla pod, split and seeds scraped"
+    },
+    {
+      "group": "Batter",
+      "qty": 395,
+      "unit": "ml",
+      "item": "low-fat buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Batter",
+      "qty": 70,
+      "unit": "g",
+      "item": "large egg whites (2)"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Mix 185 g plain flour, 45 g icing sugar, ¼ tsp salt, ½ tsp bicarbonate of soda, ½ tsp baking powder and the scraped seeds of 1 vanilla pod in a bowl until the seeds are evenly spread."
+    },
+    {
+      "title": "Whisk",
+      "text": "Add 395 ml buttermilk, 40 g melted butter, 2 egg whites and 1 tsp vanilla and whisk until smooth."
+    },
+    {
+      "title": "Heat",
+      "text": "Heat the waffle iron on medium until ready."
+    },
+    {
+      "title": "Cook",
+      "text": "Pour in about a third of the batter for an 18 cm Belgian iron, or half for a 20 cm square iron, close the lid and cook until golden brown but still steaming, 4½-6 min depending on the iron."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve at once with plenty of maple syrup, then cook the remaining batter the same way."
+    }
+  ],
+  "tips": [
+    "Scrape the vanilla pod seeds into the dry ingredients first so they spread evenly rather than clumping in the wet batter.",
+    "Cooking times vary between irons, so judge doneness by a waffle that's golden yet still steaming rather than by time alone.",
+    "Serve each waffle as soon as it's cooked, since they're best enjoyed hot with the maple syrup rather than kept waiting."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the iron. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 519,
+    "protein_g": 13.5,
+    "carbs_g": 87.1,
+    "sugar_g": 37.8,
+    "free_sugar_g": 31.0,
+    "fat_g": 12.7,
+    "satfat_g": 7.7,
+    "salt_g": 1.7,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A golden buttermilk waffle with visible flecks of vanilla, served with maple syrup pooling in its grid.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

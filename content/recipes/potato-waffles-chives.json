@@ -1,0 +1,142 @@
+{
+  "slug": "potato-waffles-chives",
+  "title": "Potato Waffles with Chives",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "waffles-belgian",
+  "dish_title": "Waffles (Belgian)",
+  "flavour": "Potato",
+  "flavour_order": 12,
+  "access": "premium",
+  "base_recipe": "crisp-belgian-waffles-strawberries-cream",
+  "changes_from_base": "A savoury batter built on mashed potato and buttermilk with chives, raised with baking powder and bicarbonate and lightened with whisked whites; no sugar or vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Crisp savoury waffles made from mashed potato and chives, best cooked straight away while the batter is at its lightest.",
+  "servings": 5,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "medium bowl",
+    "potato masher or fork",
+    "2 more bowls",
+    "whisk or hand mixer",
+    "rubber spatula",
+    "waffle iron",
+    "wire rack set in a baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 319,
+      "unit": "g",
+      "item": "riced cooked potatoes or leftover mashed potato"
+    },
+    {
+      "group": "Batter",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, separated"
+    },
+    {
+      "group": "Batter",
+      "qty": 57,
+      "unit": "g",
+      "item": "butter (or 37 g vegetable oil)"
+    },
+    {
+      "group": "Batter",
+      "qty": 450,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 180,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "minced chives or spring onions (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the waffle iron and the oven to 93 °C with a wire rack set in a tray inside."
+    },
+    {
+      "title": "Mash",
+      "text": "Mash and mix 319 g riced potatoes, 1 tsp salt, 2 egg yolks and 57 g butter (or 37 g oil) in a bowl until free of lumps, then beat in 450 ml buttermilk."
+    },
+    {
+      "title": "Mix",
+      "text": "Whisk 180 g plain flour, 1 tsp baking powder, 1 tsp bicarbonate of soda and 3 tbsp chives in another bowl, add to the potato mixture and mix until just combined."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk 2 egg whites in a clean, grease-free bowl until stiff but not dry, then fold them in."
+    },
+    {
+      "title": "Cook",
+      "text": "Cook the waffles straight away as the iron's instructions say, since this batter doesn't hold well, keeping finished waffles warm on the rack in the oven."
+    }
+  ],
+  "tips": [
+    "Use a clean, grease-free bowl for whisking the egg whites, or they won't whip up to the stiff peaks this batter needs.",
+    "Cook this batter as soon as it's mixed, since it loses its lightness if left to stand.",
+    "Keep cooked waffles on a rack rather than stacked, so steam doesn't make them soggy while the rest cook."
+  ],
+  "storage": "Leftover waffles can be frozen and reheated in a toaster. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 328,
+    "protein_g": 10.7,
+    "carbs_g": 43.5,
+    "sugar_g": 5.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 12.4,
+    "satfat_g": 7.1,
+    "salt_g": 2.39,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A crisp, golden potato waffle flecked with chives, cooling on a wire rack.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

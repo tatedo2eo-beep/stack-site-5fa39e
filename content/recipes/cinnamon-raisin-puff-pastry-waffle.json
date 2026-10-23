@@ -1,0 +1,130 @@
+{
+  "slug": "cinnamon-raisin-puff-pastry-waffle",
+  "title": "Cinnamon and Raisin Puff Pastry Waffle",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "waffles-belgian",
+  "dish_title": "Waffles (Belgian)",
+  "flavour": "Cinnamon & raisin",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "crisp-belgian-waffles-strawberries-cream",
+  "changes_from_base": "No batter at all: puff pastry spread with a strip of cream cheese, scattered with raisins, cinnamon and sugar, rolled into a spiral and cooked in the waffle iron to 93 °C.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Puff pastry rolled with cream cheese, raisins and cinnamon, coiled into a spiral and cooked in the waffle iron until golden.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "Belgian waffle iron",
+    "rolling pin",
+    "palette knife",
+    "instant-read thermometer",
+    "chopping board",
+    "sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 8,
+      "unit": "g",
+      "item": "plain flour, for dusting",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 225,
+      "unit": "g",
+      "item": "frozen puff pastry (1 sheet), thawed"
+    },
+    {
+      "group": "Filling",
+      "qty": 115,
+      "unit": "g",
+      "item": "softened cream cheese"
+    },
+    {
+      "group": "Filling",
+      "qty": 35,
+      "unit": "g",
+      "item": "raisins"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon, for dusting"
+    },
+    {
+      "group": "Filling",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar, for sprinkling",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the Belgian waffle iron."
+    },
+    {
+      "title": "Roll",
+      "text": "Dust the work surface and the 225 g sheet of thawed puff pastry with flour, then roll it into a square about 40 x 40 cm."
+    },
+    {
+      "title": "Spread",
+      "text": "Spread 115 g cream cheese in an even strip across the centre, leaving 2.5 cm clear at both ends."
+    },
+    {
+      "title": "Fill",
+      "text": "Scatter 35 g raisins over the pastry, leaving a 2.5 cm border, then dust lightly with cinnamon and sprinkle with caster sugar."
+    },
+    {
+      "title": "Coil",
+      "text": "Roll the pastry away from you like a Swiss roll, pinch the seam and ends to seal, then coil it into a flat spiral."
+    },
+    {
+      "title": "Cook",
+      "text": "Place in the centre of the hot iron and cook until deep golden brown all over and a thermometer reads 93 °C in the centre, about 10 min."
+    },
+    {
+      "title": "Serve",
+      "text": "Cut into wedges on a board and serve at once."
+    }
+  ],
+  "tips": [
+    "Leave the clear borders as given so the filling stays sealed inside as it cooks.",
+    "A light dusting of cinnamon and sugar before rolling spreads the flavour evenly through every layer of the spiral.",
+    "Use the thermometer to confirm the centre has reached 93 °C, since the coiled layers take longer to heat through than a flat waffle."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the iron. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 305,
+    "protein_g": 4.3,
+    "carbs_g": 26.0,
+    "sugar_g": 6.9,
+    "free_sugar_g": 2.4,
+    "fat_g": 20.9,
+    "satfat_g": 7.5,
+    "salt_g": 0.39,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A golden spiral puff pastry waffle cut into wedges, showing swirls of cream cheese and raisins flecked with cinnamon.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}
