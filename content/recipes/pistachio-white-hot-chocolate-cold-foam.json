@@ -1,0 +1,123 @@
+{
+  "slug": "pistachio-white-hot-chocolate-cold-foam",
+  "title": "Pistachio White Hot Chocolate with Cold Foam",
+  "category": "drinks",
+  "cuisine": "International",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "hot-chocolate-french-chocolat-chaud-spanish-thick",
+  "dish_title": "Hot chocolate (French chocolat chaud, Spanish thick)",
+  "flavour": "Pistachio",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "rich-dark-chocolate-hot-chocolate-chocolat-chaud",
+  "changes_from_base": "White chocolate and sweet pistachio cream melted into hot milk, topped with a cold milk and cream foam, in place of dark chocolate.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A pale green, nutty hot chocolate: white chocolate and sweet pistachio cream melted into steaming milk and topped with a cool, airy milk foam.",
+  "servings": 2,
+  "prep_min": 5,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "whisk",
+    "handheld milk frother or stick blender and a tall jug",
+    "2 mugs"
+  ],
+  "ingredients": [
+    {
+      "group": "Hot chocolate",
+      "qty": 480,
+      "unit": "ml",
+      "item": "whole milk (or unsweetened pistachio milk)"
+    },
+    {
+      "group": "Hot chocolate",
+      "qty": 60,
+      "unit": "g",
+      "item": "white chocolate, finely chopped"
+    },
+    {
+      "group": "Hot chocolate",
+      "qty": 60,
+      "unit": "g",
+      "item": "sweet pistachio cream (spread)"
+    },
+    {
+      "group": "Hot chocolate",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, (optional)",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Cold foam",
+      "qty": 80,
+      "unit": "ml",
+      "item": "cold whole milk"
+    },
+    {
+      "group": "Cold foam",
+      "qty": 40,
+      "unit": "ml",
+      "item": "cold double cream"
+    },
+    {
+      "group": "Cold foam",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "chopped pistachios, to finish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cold foam first",
+      "text": "Froth the cold milk and cream in a tall jug with a milk frother or stick blender for 30-60 seconds, until light and just pourable. Keep it in the fridge while you make the drink; cold foam holds its shape best when it stays cold."
+    },
+    {
+      "title": "Heat",
+      "text": "Warm the milk over medium heat until it steams and tiny bubbles form at the edge, but do not let it boil."
+    },
+    {
+      "title": "Melt",
+      "text": "Take the pan off the heat and whisk in the white chocolate until melted, then the pistachio cream until smooth. Taste, and add the pinch of salt if it needs lifting; salt sharpens the nut flavour."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour into two mugs, spoon the cold foam over and scatter with chopped pistachios."
+    }
+  ],
+  "tips": [
+    "White chocolate seizes if overheated, so always melt it off the heat in the hot milk.",
+    "Over-whipped foam turns stiff like cream; stop while it still flows slowly.",
+    "Unsweetened pistachio milk makes the drink even nuttier; whole milk makes it richer."
+  ],
+  "storage": "Best made fresh. Leftovers keep 1 day in the fridge; reheat gently, whisking, until steaming. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "soya",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 585,
+    "protein_g": 14.2,
+    "carbs_g": 48.4,
+    "sugar_g": 47.4,
+    "free_sugar_g": 32.1,
+    "fat_g": 37.9,
+    "satfat_g": 18.0,
+    "salt_g": 0.58,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Two mugs of pale green pistachio hot chocolate topped with white foam and chopped pistachios.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

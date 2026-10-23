@@ -1,0 +1,157 @@
+{
+  "slug": "pumpkin-spice-latte-butternut-maple",
+  "title": "Pumpkin Spice Latte with Real Squash",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "latte",
+  "dish_title": "Latte",
+  "flavour": "Pumpkin spice",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "caffe-latte-rosetta-art",
+  "changes_from_base": "Milk simmered with butternut squash, maple syrup and warm spices, then blended smooth and poured over espresso instead of steamed plain milk; no latte art.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A café latte made the cosy autumn way: instead of plain steamed milk, real butternut squash is simmered in milk with maple and warm spices, blended to a velvety foam and poured over espresso.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "medium heavy saucepan",
+    "tea infuser ball or a small square of muslin and string",
+    "stick blender or jug blender",
+    "espresso machine, moka pot or cafetière",
+    "4 mugs"
+  ],
+  "ingredients": [
+    {
+      "group": "Spiced squash milk",
+      "qty": 300,
+      "unit": "g",
+      "item": "butternut squash, peeled and cut into 2 cm cubes"
+    },
+    {
+      "group": "Spiced squash milk",
+      "qty": 600,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Spiced squash milk",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Spiced squash milk",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Spiced squash milk",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Spiced squash milk",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Whole spices",
+      "qty": 1,
+      "unit": "pc",
+      "item": "cinnamon stick"
+    },
+    {
+      "group": "Whole spices",
+      "qty": 1,
+      "unit": "pc",
+      "item": "star anise"
+    },
+    {
+      "group": "Whole spices",
+      "qty": 4,
+      "unit": "pc",
+      "item": "whole cloves"
+    },
+    {
+      "group": "Whole spices",
+      "qty": 2,
+      "unit": "pc",
+      "item": "green cardamom pods, lightly crushed"
+    },
+    {
+      "group": "To serve",
+      "qty": 120,
+      "unit": "ml",
+      "item": "freshly made espresso (4 single shots) or very strong coffee"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon, to dust"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Spice bundle",
+      "text": "Pack the cinnamon stick, star anise, cloves and cardamom into an infuser ball, or knot them in a square of muslin. Whole spices give a clean flavour, and the bundle saves you sieving later."
+    },
+    {
+      "title": "Cook the squash",
+      "text": "Put the squash, milk, maple syrup, ginger, nutmeg and salt in a heavy pan with the spice bundle and bring it just to a simmer over medium heat. Lower the heat until the surface barely trembles and cook for 25-30 minutes, scraping the base every few minutes, until a cube collapses when pressed. Low heat matters: boiling milk scorches and can split."
+    },
+    {
+      "title": "Blend",
+      "text": "Lift out the spice bundle. Blitz with a stick blender for about a minute, or in a jug blender with the lid vented and a tea towel on top, until silky and foamy; the squash starch is what gives the drink its body."
+    },
+    {
+      "title": "Coffee",
+      "text": "Pull four single shots of espresso, or brew very strong coffee, and pour 30 ml into each mug."
+    },
+    {
+      "title": "Pour",
+      "text": "Top each mug with 150-180 ml of the hot squash milk, give one stir and finish with a dusting of cinnamon."
+    }
+  ],
+  "tips": [
+    "Don't let the milk boil hard while the squash cooks; it catches on the base and tastes burnt. Keep it at a bare simmer and scrape often.",
+    "Pumpkin works in place of butternut, but choose a sweet, dense variety.",
+    "Want it sweeter? Stir an extra teaspoon of maple into each mug rather than into the pan."
+  ],
+  "storage": "Make the spiced squash milk up to 3 days ahead and keep it covered in the fridge. Reheat gently, stirring, until steaming, and blend again for foam. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 173,
+    "protein_g": 5.7,
+    "carbs_g": 27.3,
+    "sugar_g": 18.6,
+    "free_sugar_g": 9.1,
+    "fat_g": 5.2,
+    "satfat_g": 3.0,
+    "salt_g": 0.37,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Two mugs of frothy orange-tinted pumpkin spice latte dusted with cinnamon, with a cinnamon stick and star anise beside them.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

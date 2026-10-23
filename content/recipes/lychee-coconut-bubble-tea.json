@@ -1,0 +1,145 @@
+{
+  "slug": "lychee-coconut-bubble-tea",
+  "title": "Lychee Coconut Bubble Tea",
+  "category": "drinks",
+  "cuisine": "Taiwanese",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "milk-tea-bubble-tea",
+  "dish_title": "Milk tea/bubble tea",
+  "flavour": "Coconut",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "brown-sugar-bubble-tea-tapioca-pearls",
+  "changes_from_base": "Blended into a slush with lychees, coconut milk and jasmine tea instead of black tea and milk; the pearls are soaked in a light brown sugar syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A tropical twist on bubble tea: jasmine tea, lychees and coconut milk blended into a frosty slush and poured over chewy pearls soaked in brown sugar syrup.",
+  "servings": 2,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "medium saucepan",
+    "slotted spoon",
+    "blender",
+    "2 tall glasses (about 450 ml)",
+    "2 wide bubble-tea straws"
+  ],
+  "ingredients": [
+    {
+      "group": "Pearls",
+      "qty": 70,
+      "unit": "g",
+      "item": "quick-cook black tapioca pearls (dry)",
+      "note": "5-minute type"
+    },
+    {
+      "group": "Pearls",
+      "qty": 60,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Pearls",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Slush",
+      "qty": 2,
+      "unit": "pc",
+      "item": "jasmine green tea bags"
+    },
+    {
+      "group": "Slush",
+      "qty": 250,
+      "unit": "ml",
+      "item": "freshly boiled water"
+    },
+    {
+      "group": "Slush",
+      "qty": 120,
+      "unit": "g",
+      "item": "drained canned lychees, plus 2 tbsp of their syrup"
+    },
+    {
+      "group": "Slush",
+      "qty": 180,
+      "unit": "ml",
+      "item": "coconut milk (from a can)"
+    },
+    {
+      "group": "Slush",
+      "qty": 60,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Slush",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Slush",
+      "qty": 200,
+      "unit": "g",
+      "item": "ice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Tea",
+      "text": "Steep the jasmine tea bags in the boiling water for 4 minutes, then remove them and chill the tea until cold."
+    },
+    {
+      "title": "Syrup",
+      "text": "Boil the sugar and water together in a small pan for 2 minutes, stirring until dissolved, then take it off the heat."
+    },
+    {
+      "title": "Pearls",
+      "text": "Cook the pearls in plenty of boiling water as the packet directs, usually 5 minutes and then 2-3 minutes covered off the heat, until chewy all the way through. Transfer them straight into the warm syrup and leave for 20 minutes to absorb its sweetness."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the cold tea with the lychees and their syrup, coconut milk, milk, lime juice and ice until thick, smooth and slushy."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon the pearls and their syrup into the glasses, pour the slush on top and serve with wide straws."
+    }
+  ],
+  "tips": [
+    "Undercooked pearls stay hard in the middle; bite one before draining.",
+    "Chilling the pearls makes them tough, so cook them no more than 4 hours ahead.",
+    "Shake the coconut milk can well first; the cream separates on standing."
+  ],
+  "storage": "Drink the slush right away. Cooked pearls keep at room temperature in syrup for up to 4 hours. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 474,
+    "protein_g": 3.5,
+    "carbs_g": 72.6,
+    "sugar_g": 39.0,
+    "free_sugar_g": 36.3,
+    "fat_g": 21.0,
+    "satfat_g": 18.2,
+    "salt_g": 0.09,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Two tall glasses of pale lychee coconut slush over black tapioca pearls, with wide straws.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

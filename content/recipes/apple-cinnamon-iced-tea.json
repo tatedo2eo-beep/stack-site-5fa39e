@@ -1,0 +1,131 @@
+{
+  "slug": "apple-cinnamon-iced-tea",
+  "title": "Apple and Cinnamon Iced Tea",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "iced-tea",
+  "dish_title": "Iced tea",
+  "flavour": "Apple",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "iced-black-tea-lemon-mint",
+  "changes_from_base": "Strong black tea cut with apple juice and sweetened with a cinnamon syrup; apple slices instead of lemon and mint.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Strong black iced tea mixed half and half with cloudy apple juice and sweetened with a homemade cinnamon syrup, like apple pie in a glass.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "large heatproof jug (at least 2 litres)",
+    "8 glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Cinnamon syrup",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cinnamon syrup",
+      "qty": 100,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Cinnamon syrup",
+      "qty": 2,
+      "unit": "pc",
+      "item": "cinnamon sticks"
+    },
+    {
+      "group": "Tea",
+      "qty": 6,
+      "unit": "pc",
+      "item": "black tea bags"
+    },
+    {
+      "group": "Tea",
+      "qty": 500,
+      "unit": "ml",
+      "item": "freshly boiled water"
+    },
+    {
+      "group": "Tea",
+      "qty": 500,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Tea",
+      "qty": 500,
+      "unit": "ml",
+      "item": "cloudy apple juice (no added sugar)"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small red apple, thinly sliced, to garnish"
+    },
+    {
+      "group": "To serve",
+      "qty": 500,
+      "unit": "g",
+      "item": "ice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cinnamon syrup",
+      "text": "Simmer the sugar, water and cinnamon sticks in a small pan for 5 minutes, stirring until the sugar dissolves, then leave the sticks in as it cools so the flavour keeps building."
+    },
+    {
+      "title": "Tea",
+      "text": "Steep the tea bags in the boiling water for 5 minutes, remove them, then add the cold water and leave to cool."
+    },
+    {
+      "title": "Mix",
+      "text": "Pour in the apple juice and add 5-6 tablespoons of strained syrup, then taste and add more if you want it sweeter. Chill for at least an hour."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour over ice and float a few thin apple slices in each glass."
+    }
+  ],
+  "tips": [
+    "Add the syrup a tablespoon at a time; apple juices vary a lot in sweetness.",
+    "Cloudy apple juice gives a fuller flavour than clear.",
+    "Slice the apple at the last moment, or toss the slices in a little lemon juice, to stop them browning."
+  ],
+  "storage": "Keeps 3 days in the fridge. Spare cinnamon syrup keeps 2 weeks in a sealed jar in the fridge. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 73,
+    "protein_g": 0.1,
+    "carbs_g": 18.6,
+    "sugar_g": 16.5,
+    "free_sugar_g": 15.0,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.02,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Tall glasses of amber apple iced tea with ice, thin red apple slices and a cinnamon stick.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

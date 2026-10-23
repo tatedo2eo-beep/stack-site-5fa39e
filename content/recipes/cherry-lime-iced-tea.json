@@ -1,0 +1,132 @@
+{
+  "slug": "cherry-lime-iced-tea",
+  "title": "Cherry and Lime Iced Tea",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "iced-tea",
+  "dish_title": "Iced tea",
+  "flavour": "Cherry & lime",
+  "flavour_order": 104,
+  "access": "premium",
+  "base_recipe": "iced-black-tea-lemon-mint",
+  "changes_from_base": "Black tea mixed with cherry juice and a lime-zest syrup, garnished with cherries and lime instead of lemon and mint.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A sweet-tart iced tea that tastes like a cherry lime soda without the fizz: black tea, cherry juice and a zesty lime syrup, with fresh cherries in the glass.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "fine grater",
+    "large heatproof jug (at least 2 litres)",
+    "8 glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Lime syrup",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Lime syrup",
+      "qty": 100,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Lime syrup",
+      "qty": 2,
+      "unit": "pc",
+      "item": "limes: finely grated zest and juice"
+    },
+    {
+      "group": "Tea",
+      "qty": 6,
+      "unit": "pc",
+      "item": "black tea bags"
+    },
+    {
+      "group": "Tea",
+      "qty": 500,
+      "unit": "ml",
+      "item": "freshly boiled water"
+    },
+    {
+      "group": "Tea",
+      "qty": 500,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Tea",
+      "qty": 500,
+      "unit": "ml",
+      "item": "unsweetened cherry juice"
+    },
+    {
+      "group": "To serve",
+      "qty": 100,
+      "unit": "g",
+      "item": "fresh cherries, pitted and halved, plus lime slices to garnish"
+    },
+    {
+      "group": "To serve",
+      "qty": 500,
+      "unit": "g",
+      "item": "ice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Lime syrup",
+      "text": "Warm the sugar and water until the sugar dissolves, then take the pan off the heat, add the lime zest and leave it for 15 minutes to infuse. Strain, then stir in the lime juice; adding the juice off the heat keeps it fresh-tasting."
+    },
+    {
+      "title": "Tea",
+      "text": "Steep the tea bags in the boiling water for 5 minutes, lift them out and top up with the cold water."
+    },
+    {
+      "title": "Mix",
+      "text": "When the tea is cool, stir in the cherry juice and 5-6 tablespoons of the lime syrup. Taste, adjust and chill for at least an hour."
+    },
+    {
+      "title": "Serve",
+      "text": "Drop a few cherry halves and a lime slice into each glass, add ice and pour in the tea."
+    }
+  ],
+  "tips": [
+    "Sour (tart) cherry juice makes a sharper drink, so you may need the extra syrup.",
+    "Grate only the green part of the lime peel; the white pith adds bitterness.",
+    "Pitting the cherries over a bowl catches the juice for the jug."
+  ],
+  "storage": "Keeps 3 days in the fridge. The lime syrup keeps 1 week in a sealed jar. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 77,
+    "protein_g": 0.4,
+    "carbs_g": 19.5,
+    "sugar_g": 17.3,
+    "free_sugar_g": 15.7,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Glasses of dark red iced tea with ice, halved cherries and lime slices.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

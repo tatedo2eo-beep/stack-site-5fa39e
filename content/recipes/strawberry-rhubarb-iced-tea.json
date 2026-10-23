@@ -1,0 +1,130 @@
+{
+  "slug": "strawberry-rhubarb-iced-tea",
+  "title": "Strawberry and Rhubarb Iced Tea",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "iced-tea",
+  "dish_title": "Iced tea",
+  "flavour": "Strawberry & rhubarb",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "iced-black-tea-lemon-mint",
+  "changes_from_base": "Black tea sweetened with a strained rhubarb syrup and poured over sliced strawberries; no lemon or mint.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Black iced tea sweetened with a quick pink rhubarb syrup and poured over sliced strawberries, sharp and fruity rather than lemony.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "small heavy saucepan",
+    "fine sieve",
+    "large heatproof jug (at least 2.5 litres)",
+    "6 tall glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Rhubarb syrup",
+      "qty": 300,
+      "unit": "g",
+      "item": "rhubarb, cut into 1 cm pieces"
+    },
+    {
+      "group": "Rhubarb syrup",
+      "qty": 350,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Rhubarb syrup",
+      "qty": 45,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Tea",
+      "qty": 5,
+      "unit": "pc",
+      "item": "English breakfast tea bags"
+    },
+    {
+      "group": "Tea",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "freshly boiled water"
+    },
+    {
+      "group": "Tea",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "To serve",
+      "qty": 250,
+      "unit": "g",
+      "item": "strawberries, hulled and sliced"
+    },
+    {
+      "group": "To serve",
+      "qty": 400,
+      "unit": "g",
+      "item": "ice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Tea",
+      "text": "Pour the boiling water over the tea bags in a large heatproof jug and steep for 4 minutes, then lift the bags out without pressing; squeezing them releases bitter tannins. Add the cold water, let it cool and chill for at least an hour."
+    },
+    {
+      "title": "Rhubarb syrup",
+      "text": "While the tea cools, simmer the rhubarb with the water and sugar over medium-low heat for 12-15 minutes, stirring now and then, until it breaks into shreds and the liquid turns pink."
+    },
+    {
+      "title": "Strain",
+      "text": "Set a sieve over a bowl, tip in the rhubarb and let the syrup drip through for 10 minutes, pressing gently. Discard the pulp, then cool and chill the syrup."
+    },
+    {
+      "title": "Combine",
+      "text": "Stir the syrup into the cold tea and taste. Very tart rhubarb may want a spoonful more sugar."
+    },
+    {
+      "title": "Serve",
+      "text": "Layer the strawberry slices with ice in tall glasses and pour the tea over."
+    }
+  ],
+  "tips": [
+    "Pressing the rhubarb pulp hard through the sieve makes the syrup cloudy; press lightly.",
+    "Green rhubarb tastes fine but gives a paler colour; red stalks give the prettiest pink.",
+    "Add the strawberries to the glasses, not the jug, so they stay firm."
+  ],
+  "storage": "Keep the tea and the syrup in the fridge for up to 3 days, apart or mixed. Slice the strawberries just before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 51,
+    "protein_g": 0.5,
+    "carbs_g": 12.8,
+    "sugar_g": 9.8,
+    "free_sugar_g": 7.5,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.03,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Glasses of rosy iced tea poured over ice and sliced strawberries, with a jug behind.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "iced-matcha-latte-shaken-maple",
+  "title": "Shaken Iced Matcha Latte",
+  "category": "drinks",
+  "cuisine": "Japanese",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "latte",
+  "dish_title": "Latte",
+  "flavour": "Matcha",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "caffe-latte-rosetta-art",
+  "changes_from_base": "Matcha shaken with warm water and poured over iced milk instead of espresso and steamed milk.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A cool, grassy iced latte in five minutes: matcha shaken hard with warm water until foamy, then poured over cold milk and ice, with an optional touch of maple.",
+  "servings": 1,
+  "prep_min": 5,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "small sieve",
+    "small jar with a tight lid (or a bowl and matcha whisk)",
+    "tall glass (about 350 ml)"
+  ],
+  "ingredients": [
+    {
+      "group": "Matcha",
+      "qty": 2,
+      "unit": "g",
+      "item": "good-quality matcha powder (1 heaped tsp)"
+    },
+    {
+      "group": "Matcha",
+      "qty": 45,
+      "unit": "ml",
+      "item": "water at about 75 °C"
+    },
+    {
+      "group": "Matcha",
+      "qty": 14,
+      "unit": "g",
+      "item": "maple syrup or runny honey (optional)",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 170,
+      "unit": "ml",
+      "item": "cold whole milk"
+    },
+    {
+      "group": "To serve",
+      "qty": 150,
+      "unit": "g",
+      "item": "ice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sift",
+      "text": "Sift the matcha straight into the jar. Matcha is so fine that it clumps in storage, and the sieve stops those clumps ending up as gritty specks in the glass."
+    },
+    {
+      "title": "Shake",
+      "text": "Add the warm water, close the lid firmly and shake hard for 20-30 seconds until the mixture is smooth and covered in fine foam. Without a jar, whisk it in a bowl with quick zigzag strokes. Stir in the maple syrup now if you want it sweet."
+    },
+    {
+      "title": "Pour",
+      "text": "Fill the glass with ice and add the cold milk, then pour the green matcha over the top, stir and drink at once."
+    }
+  ],
+  "tips": [
+    "The most common mistake is using water straight off the boil, which scorches the flavour; let the kettle rest 3-4 minutes first.",
+    "Shake longer than you think. Undissolved matcha settles as sludge at the bottom.",
+    "Plant milks work well; oat and soy give the creamiest result, but check the allergen label."
+  ],
+  "storage": "Make it fresh; matcha dulls and separates within an hour. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 147,
+    "protein_g": 6.1,
+    "carbs_g": 17.9,
+    "sugar_g": 16.7,
+    "free_sugar_g": 7.9,
+    "fat_g": 5.8,
+    "satfat_g": 3.3,
+    "salt_g": 0.19,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A tall glass of iced milk with a swirl of bright green matcha poured over the top.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

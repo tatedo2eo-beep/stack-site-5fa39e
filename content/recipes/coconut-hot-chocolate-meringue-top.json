@@ -1,0 +1,140 @@
+{
+  "slug": "coconut-hot-chocolate-meringue-top",
+  "title": "Coconut Hot Chocolate with Soft Meringue",
+  "category": "drinks",
+  "cuisine": "International",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "hot-chocolate-french-chocolat-chaud-spanish-thick",
+  "dish_title": "Hot chocolate (French chocolat chaud, Spanish thick)",
+  "flavour": "Coconut",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "rich-dark-chocolate-hot-chocolate-chocolat-chaud",
+  "changes_from_base": "Made with a can of coconut milk and cocoa instead of milk and cream, and topped with a soft meringue of pasteurised egg white.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A rich, silky hot chocolate made with a whole can of coconut milk, cocoa and dark chocolate, crowned with a soft, glossy meringue.",
+  "servings": 3,
+  "prep_min": 10,
+  "cook_min": 8,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "whisk",
+    "electric hand whisk and a clean bowl",
+    "3 small mugs"
+  ],
+  "ingredients": [
+    {
+      "group": "Hot chocolate",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "unsweetened cocoa powder"
+    },
+    {
+      "group": "Hot chocolate",
+      "qty": 120,
+      "unit": "ml",
+      "item": "boiling water"
+    },
+    {
+      "group": "Hot chocolate",
+      "qty": 400,
+      "unit": "ml",
+      "item": "full-fat coconut milk (1 can), well shaken"
+    },
+    {
+      "group": "Hot chocolate",
+      "qty": 50,
+      "unit": "g",
+      "item": "dark brown soft sugar"
+    },
+    {
+      "group": "Hot chocolate",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Hot chocolate",
+      "qty": 30,
+      "unit": "g",
+      "item": "dark chocolate (70% cocoa), chopped"
+    },
+    {
+      "group": "Hot chocolate",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Meringue",
+      "qty": 30,
+      "unit": "g",
+      "item": "pasteurised egg white (from a carton, about 1 egg white)"
+    },
+    {
+      "group": "Meringue",
+      "qty": 30,
+      "unit": "g",
+      "item": "caster sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cocoa paste",
+      "text": "Put the cocoa in the saucepan and whisk in the boiling water a little at a time to a smooth paste. Hot water blooms the cocoa and stops lumps forming."
+    },
+    {
+      "title": "Simmer",
+      "text": "Add the coconut milk, brown sugar and salt and heat gently for about 3 minutes, stirring, until the sugar dissolves and the mixture is steaming."
+    },
+    {
+      "title": "Chocolate",
+      "text": "Take the pan off the heat, whisk in the chopped chocolate until glossy, then add the vanilla. Keep it warm on the lowest heat."
+    },
+    {
+      "title": "Meringue",
+      "text": "In a clean bowl, whisk the egg white until foamy, then add the sugar a spoonful at a time and whisk for 4-5 minutes more, until it forms soft, shiny peaks."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour the hot chocolate into three small mugs and spoon a cloud of meringue on top of each."
+    }
+  ],
+  "tips": [
+    "Any trace of grease or yolk in the bowl stops egg white whipping, so make sure it is spotless.",
+    "Add the sugar slowly; tipping it in all at once gives a runny meringue.",
+    "Light coconut milk makes a thinner drink; use full-fat for body."
+  ],
+  "storage": "Best served at once. The hot chocolate (without meringue) keeps 2 days in the fridge; reheat gently, whisking, until steaming. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 443,
+    "protein_g": 5.4,
+    "carbs_g": 37.2,
+    "sugar_g": 28.9,
+    "free_sugar_g": 28.7,
+    "fat_g": 33.3,
+    "satfat_g": 28.0,
+    "salt_g": 0.2,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Three small mugs of dark coconut hot chocolate topped with swirls of white meringue.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

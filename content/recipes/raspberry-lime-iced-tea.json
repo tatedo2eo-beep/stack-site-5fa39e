@@ -1,0 +1,136 @@
+{
+  "slug": "raspberry-lime-iced-tea",
+  "title": "Raspberry and Lime Iced Tea",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "iced-tea",
+  "dish_title": "Iced tea",
+  "flavour": "Raspberry",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "iced-black-tea-lemon-mint",
+  "changes_from_base": "Black tea sweetened with a strained raspberry syrup and sharpened with lime juice, in place of lemon and mint.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Black iced tea turned pink and fruity with a seedless raspberry syrup and a good squeeze of lime.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "fine sieve",
+    "large jug",
+    "4 glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Tea",
+      "qty": 4,
+      "unit": "pc",
+      "item": "black tea bags"
+    },
+    {
+      "group": "Tea",
+      "qty": 500,
+      "unit": "ml",
+      "item": "freshly boiled water"
+    },
+    {
+      "group": "Tea",
+      "qty": 500,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Raspberry syrup",
+      "qty": 200,
+      "unit": "g",
+      "item": "raspberries (frozen and thawed are fine)"
+    },
+    {
+      "group": "Raspberry syrup",
+      "qty": 75,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Raspberry syrup",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Raspberry syrup",
+      "qty": 60,
+      "unit": "ml",
+      "item": "fresh lime juice"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lime, thinly sliced, to garnish"
+    },
+    {
+      "group": "To serve",
+      "qty": 400,
+      "unit": "g",
+      "item": "ice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Tea",
+      "text": "Steep the tea bags in the boiling water for 4 minutes, take them out, add the cold water and set aside to cool."
+    },
+    {
+      "title": "Raspberry syrup",
+      "text": "Bring the raspberries, sugar and water to a simmer, crushing the berries with a spoon, and let it bubble for 3 minutes until saucy. A short cook releases the juice and colour without a jammy taste."
+    },
+    {
+      "title": "Strain",
+      "text": "Press the mixture through a fine sieve to catch the seeds, then stir in the lime juice and leave to cool."
+    },
+    {
+      "title": "Mix",
+      "text": "Stir the syrup into the cooled tea, taste for sweetness and add a little more sugar if needed, then chill."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour over ice and add slices of lime."
+    }
+  ],
+  "tips": [
+    "Skipping the sieve leaves seeds floating in every glass, so take the extra minute.",
+    "Frozen raspberries are ideal here and usually cheaper than fresh.",
+    "Mixing syrup into hot tea dulls the fruit; wait until the tea is cool."
+  ],
+  "storage": "Keeps 2 days in the fridge; stir before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 105,
+    "protein_g": 0.7,
+    "carbs_g": 26.7,
+    "sugar_g": 21.2,
+    "free_sugar_g": 19.0,
+    "fat_g": 0.3,
+    "satfat_g": 0.0,
+    "salt_g": 0.02,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Glasses of pink raspberry iced tea with ice and thin lime slices.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

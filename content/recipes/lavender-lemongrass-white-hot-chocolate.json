@@ -1,0 +1,111 @@
+{
+  "slug": "lavender-lemongrass-white-hot-chocolate",
+  "title": "Lavender and Lemongrass White Hot Chocolate",
+  "category": "drinks",
+  "cuisine": "International",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "hot-chocolate-french-chocolat-chaud-spanish-thick",
+  "dish_title": "Hot chocolate (French chocolat chaud, Spanish thick)",
+  "flavour": "Lavender",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "rich-dark-chocolate-hot-chocolate-chocolat-chaud",
+  "changes_from_base": "Milk infused with lavender, lemongrass and lime, then thickened with white chocolate instead of dark chocolate.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A delicate, floral white hot chocolate: milk steeped with lavender, lemongrass and lime, then strained and melted with white chocolate.",
+  "servings": 2,
+  "prep_min": 5,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan with a lid",
+    "fine sieve",
+    "whisk",
+    "2 small mugs"
+  ],
+  "ingredients": [
+    {
+      "group": "Infused milk",
+      "qty": 400,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Infused milk",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemongrass stalk, bruised and sliced"
+    },
+    {
+      "group": "Infused milk",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried culinary lavender"
+    },
+    {
+      "group": "Infused milk",
+      "qty": 1,
+      "unit": "pc",
+      "item": "makrut lime leaf, torn (optional)"
+    },
+    {
+      "group": "Infused milk",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "finely grated lime zest"
+    },
+    {
+      "group": "To finish",
+      "qty": 85,
+      "unit": "g",
+      "item": "white chocolate, finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse",
+      "text": "Warm the milk with the lemongrass, lavender, lime leaf and zest until small bubbles appear at the edge. Take it off the heat, cover and leave for 10-15 minutes. Any longer and lavender starts to taste soapy."
+    },
+    {
+      "title": "Strain",
+      "text": "Pour the milk through a fine sieve into a jug, pressing on the aromatics to get all the flavour out, then rinse the pan and pour the milk back in."
+    },
+    {
+      "title": "Melt",
+      "text": "Add the white chocolate and warm over low heat, whisking, until it melts and the milk is hot again but not boiling. Serve at once."
+    }
+  ],
+  "tips": [
+    "Use only culinary lavender; a little goes a long way, so measure rather than guess.",
+    "Bash the lemongrass with a rolling pin before slicing to release its oils.",
+    "If the chocolate looks grainy, the milk was too hot; whisk in a splash of cold milk."
+  ],
+  "storage": "Best drunk straight away. The strained infused milk keeps 1 day in the fridge before the chocolate goes in. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 362,
+    "protein_g": 9.1,
+    "carbs_g": 37.0,
+    "sugar_g": 35.4,
+    "free_sugar_g": 25.1,
+    "fat_g": 20.4,
+    "satfat_g": 12.1,
+    "salt_g": 0.32,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Two small mugs of creamy white hot chocolate with a sprig of lavender and a lime wedge beside them.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "iced-strawberry-matcha-latte-layered",
+  "title": "Iced Strawberry Matcha Latte",
+  "category": "drinks",
+  "cuisine": "Japanese",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "latte",
+  "dish_title": "Latte",
+  "flavour": "Strawberry",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "caffe-latte-rosetta-art",
+  "changes_from_base": "Iced and layered: mashed sweet strawberries, cold milk and a float of whisked matcha in place of espresso and steamed milk.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A summery take on the latte: mashed sweet strawberries at the bottom, cold milk in the middle and a vivid float of whisked matcha on top, which you stir together as you drink.",
+  "servings": 2,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "bowl and fork or potato masher",
+    "small sieve",
+    "small bowl and matcha whisk or mini milk frother",
+    "2 tall glasses (about 400 ml)",
+    "wide straws"
+  ],
+  "ingredients": [
+    {
+      "group": "Strawberry base",
+      "qty": 200,
+      "unit": "g",
+      "item": "ripe strawberries, hulled and finely chopped"
+    },
+    {
+      "group": "Strawberry base",
+      "qty": 8,
+      "unit": "g",
+      "item": "caster sugar, or to taste",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Matcha",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "matcha powder"
+    },
+    {
+      "group": "Matcha",
+      "qty": 80,
+      "unit": "ml",
+      "item": "water at about 75 °C"
+    },
+    {
+      "group": "To serve",
+      "qty": 400,
+      "unit": "ml",
+      "item": "cold whole milk (or oat milk)"
+    },
+    {
+      "group": "To serve",
+      "qty": 200,
+      "unit": "g",
+      "item": "ice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Strawberries",
+      "text": "Crush the chopped strawberries with the sugar using a fork or masher until pulpy and juicy, then leave them for 5 minutes so the sugar melts into the juice. Prefer it smooth? Pulse them in a blender instead."
+    },
+    {
+      "title": "Matcha",
+      "text": "Sift the matcha into a small bowl, since it clumps easily. Add a splash of the warm water and rub it into a smooth paste, then add the rest and whisk briskly in a zigzag for about 30 seconds, until frothy with no lumps."
+    },
+    {
+      "title": "Build",
+      "text": "Divide the strawberries between two tall glasses and fill them halfway with ice. Pour the milk in slowly over the ice so it sits above the red fruit."
+    },
+    {
+      "title": "Float",
+      "text": "Pour the matcha gently over the back of a spoon so it spreads over the milk in a green layer. Serve with a wide straw and stir before sipping."
+    }
+  ],
+  "tips": [
+    "Very hot water makes matcha taste bitter; aim for about 75 °C, roughly 4 minutes after the kettle boils.",
+    "Pouring the milk and matcha fast blurs the layers. Go slowly over ice for the three distinct colours.",
+    "Taste your strawberries first: very ripe berries may need no sugar at all."
+  ],
+  "storage": "Best drunk straight away. The mashed strawberries keep for 1 day in the fridge, covered. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 179,
+    "protein_g": 7.7,
+    "carbs_g": 22.3,
+    "sugar_g": 19.2,
+    "free_sugar_g": 4.0,
+    "fat_g": 7.1,
+    "satfat_g": 3.9,
+    "salt_g": 0.22,
+    "fibre_g": 2.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Two tall glasses with layers of red mashed strawberries, white milk and bright green matcha over ice, with wide straws.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "slug": "spiced-hibiscus-iced-tea-orange-ginger",
+  "title": "Spiced Hibiscus Iced Tea with Orange and Ginger",
+  "category": "drinks",
+  "cuisine": "International",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "iced-tea",
+  "dish_title": "Iced tea",
+  "flavour": "Hibiscus",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "iced-black-tea-lemon-mint",
+  "changes_from_base": "Black tea replaced by a caffeine-free hibiscus infusion steeped with citrus zest, ginger and whole spices and sweetened with honey.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A deep ruby, caffeine-free iced tea: dried hibiscus steeped with citrus peel, ginger and whole spices, sweetened with honey and served very cold.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan with a lid",
+    "vegetable peeler",
+    "fine sieve",
+    "large jug"
+  ],
+  "ingredients": [
+    {
+      "group": "Infusion",
+      "qty": 40,
+      "unit": "g",
+      "item": "dried hibiscus flowers"
+    },
+    {
+      "group": "Infusion",
+      "qty": 1500,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Infusion",
+      "qty": 1,
+      "unit": "pc",
+      "item": "orange: 4 wide strips of zest and 30 ml juice"
+    },
+    {
+      "group": "Infusion",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon: 4 wide strips of zest and 30 ml juice"
+    },
+    {
+      "group": "Infusion",
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh ginger, thinly sliced"
+    },
+    {
+      "group": "Infusion",
+      "qty": 1,
+      "unit": "pc",
+      "item": "cinnamon stick"
+    },
+    {
+      "group": "Infusion",
+      "qty": 1,
+      "unit": "pc",
+      "item": "star anise"
+    },
+    {
+      "group": "Infusion",
+      "qty": 2,
+      "unit": "pc",
+      "item": "whole cloves"
+    },
+    {
+      "group": "To finish",
+      "qty": 70,
+      "unit": "g",
+      "item": "runny honey, or to taste"
+    },
+    {
+      "group": "To serve",
+      "qty": 500,
+      "unit": "g",
+      "item": "ice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil",
+      "text": "Bring the water to the boil in a large saucepan, then take the pan off the heat."
+    },
+    {
+      "title": "Steep",
+      "text": "Add the hibiscus, the orange and lemon zest strips and juices, the ginger, cinnamon, star anise and cloves. Cover and leave for 20 minutes; the liquid turns ruby and smells warmly spiced. Steeping off the heat keeps the flavour bright rather than stewed."
+    },
+    {
+      "title": "Strain and sweeten",
+      "text": "Pour through a fine sieve into a large jug, pressing the flowers lightly, and stir in the honey while the liquid is still warm so it dissolves completely."
+    },
+    {
+      "title": "Chill",
+      "text": "Let it cool, then refrigerate for at least an hour. Taste again once cold, since chilling dulls sweetness, and add more honey if needed."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour over lots of ice."
+    }
+  ],
+  "tips": [
+    "Leaving the flowers in for much longer than 20 minutes makes the tea astringent; strain on time.",
+    "Use a vegetable peeler for the zest and avoid the white pith, which is bitter.",
+    "Hibiscus stains wooden spoons and pale worktops; wipe spills quickly."
+  ],
+  "storage": "Keeps up to 7 days in a covered jug in the fridge. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 40,
+    "protein_g": 0.1,
+    "carbs_g": 10.9,
+    "sugar_g": 10.2,
+    "free_sugar_g": 10.1,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.03,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A glass jug and glasses of deep red hibiscus iced tea over ice, with orange peel and a cinnamon stick.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
