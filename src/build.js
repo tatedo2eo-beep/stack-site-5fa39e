@@ -128,9 +128,15 @@ async function genImg(name) {
   if (genCopied[name]) return genCopied[name];
   const src = path.join(ROOT, 'content/images', name), out = 'img/g/' + name;
   fs.mkdirSync(path.dirname(path.join(OUT, out)), { recursive: true });
-  fs.copyFileSync(src, path.join(OUT, out));
+  await copyImg(src, path.join(OUT, out));
   const m = await require('sharp')(src).metadata();
   return (genCopied[name] = { w600: out, w1200: out, width: m.width, height: m.height, orig: true, gen: true });
+}
+// Recompress oversized photos into docs/ only (sources untouched): >300 KB -> mozjpeg q82 progressive, metadata stripped, same dimensions.
+async function copyImg(src, dst) {
+  if (!/\.jpe?g$/i.test(src) || fs.statSync(src).size <= 300 * 1024) return fs.copyFileSync(src, dst);
+  const buf = await require('sharp')(src).jpeg({ quality: 82, progressive: true, mozjpeg: true }).toBuffer();
+  if (buf.length < fs.statSync(src).size) fs.writeFileSync(dst, buf); else fs.copyFileSync(src, dst);
 }
 const tamiRel = name => !name ? null : name.startsWith('img/dishes/') ? name : TAMI_BY_NAME[path.basename(name)] || null;
 async function tamiImg(rel) {
@@ -143,7 +149,7 @@ async function tamiImg(rel) {
   const rel2 = ALIAS_OUT[rel] ? path.posix.join(path.posix.dirname(rel), ALIAS_OUT[rel]) : rel;
   const out = po ? 'img/t/' + path.posix.join(path.posix.dirname(rel.replace(/^img\/dishes\//, '')), PUBLIC_ONLY[rel]) : 'img/t/' + rel2.replace(/^img\/dishes\//, '');
   fs.mkdirSync(path.dirname(path.join(OUT, out)), { recursive: true });
-  fs.copyFileSync(src, path.join(OUT, out));
+  await copyImg(src, path.join(OUT, out));
   const m = await require('sharp')(src).metadata();
   return (copied[rel] = { w600: out, w1200: out, width: m.width, height: m.height, orig: !po });
 }
