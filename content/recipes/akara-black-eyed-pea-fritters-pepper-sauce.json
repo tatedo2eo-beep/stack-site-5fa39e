@@ -1,0 +1,164 @@
+{
+  "slug": "akara-black-eyed-pea-fritters-pepper-sauce",
+  "title": "Akara Black-Eyed Pea Fritters with Pepper Sauce",
+  "category": "snacks-sides",
+  "cuisine": "Nigerian",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "akara",
+  "dish_title": "Akara",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Black-eyed peas are briefly soaked and skinned, blended with onion, chilli and salt, whisked until fluffy and fried at 175 °C, then served with a quick tomato and pepper sauce.",
+  "servings": 4,
+  "prep_min": 60,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "colander",
+    "blender or food processor",
+    "small saucepan",
+    "deep heavy pan or wok",
+    "cooking thermometer",
+    "slotted spoon",
+    "tray lined with kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 190,
+      "unit": "g",
+      "item": "dried black-eyed peas, picked over and rinsed"
+    },
+    {
+      "group": "Batter",
+      "qty": 75,
+      "unit": "g",
+      "item": "red onion, roughly chopped"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "Scotch bonnet or habanero chilli, stemmed",
+      "note": "use less for milder fritters"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water, for blending"
+    },
+    {
+      "group": "Pepper sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium tomatoes, chopped"
+    },
+    {
+      "group": "Pepper sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "red pepper, chopped"
+    },
+    {
+      "group": "Pepper sauce",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "Scotch bonnet chilli, stemmed"
+    },
+    {
+      "group": "Pepper sauce",
+      "qty": 40,
+      "unit": "g",
+      "item": "onion, chopped"
+    },
+    {
+      "group": "Pepper sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Pepper sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "To fry",
+      "qty": 750,
+      "unit": "ml",
+      "item": "neutral oil, for deep frying"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak",
+      "text": "Soak the peas 15-60 minutes to loosen the skins."
+    },
+    {
+      "title": "Skin",
+      "text": "Pulse in water, pour off the floating skins and repeat until the peas are nearly clean."
+    },
+    {
+      "title": "Pepper sauce",
+      "text": "Blend the tomatoes, pepper, chilli and onion and simmer with oil and salt until thick."
+    },
+    {
+      "title": "Batter",
+      "text": "Blend the peas with water, onion, chilli and salt to a smooth paste, then whisk until airy."
+    },
+    {
+      "title": "Fry",
+      "text": "Fry tablespoons of batter at 175 °C for about 6 minutes, turning, until golden."
+    },
+    {
+      "title": "Serve",
+      "text": "Drain and serve warm with the pepper sauce."
+    }
+  ],
+  "tips": [
+    "Removing the skins gives akara their pale, fluffy centre.",
+    "Whisking air into the paste is what makes them light.",
+    "They are also good tucked into soft white bread.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best eaten warm on the day. Refrigerate leftovers within 2 hours for up to 2 days and re-crisp in a 200 °C oven until piping hot.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 342,
+    "protein_g": 12.4,
+    "carbs_g": 36.0,
+    "sugar_g": 7.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 17.6,
+    "satfat_g": 1.4,
+    "salt_g": 1.12,
+    "fibre_g": 7.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "akara-basic.jpg",
+  "image_alt": "Crisp brown akara fritters on a dark plate, one broken open, with a bowl of red pepper sauce.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

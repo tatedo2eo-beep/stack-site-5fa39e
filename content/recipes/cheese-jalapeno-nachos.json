@@ -1,0 +1,109 @@
+{
+  "slug": "cheese-jalapeno-nachos",
+  "title": "Cheese and Jalapeño Nachos",
+  "category": "snacks-sides",
+  "cuisine": "Mexican",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "nachos",
+  "dish_title": "Nachos",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Salted tortilla chips are spread on two trays, each topped with grated cheese and a jalapeño slice, sprinkled with brine and baked hot for 5-7 minutes until bubbling.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 7,
+  "difficulty": "easy",
+  "equipment": [
+    "oven",
+    "2 large baking trays",
+    "box grater",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Nachos",
+      "qty": 340,
+      "unit": "g",
+      "item": "salted corn chips (totopos), sturdy"
+    },
+    {
+      "group": "Nachos",
+      "qty": 300,
+      "unit": "g",
+      "item": "mild Cheddar or Colby, coarsely grated",
+      "note": "microbial rennet"
+    },
+    {
+      "group": "Nachos",
+      "qty": 120,
+      "unit": "g",
+      "item": "pickled jalapeño slices, drained"
+    },
+    {
+      "group": "Nachos",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "brine from the jalapeño jar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 200 °C with racks in the upper and lower thirds."
+    },
+    {
+      "title": "Spread the chips",
+      "text": "Lay the chips in a single layer on two trays."
+    },
+    {
+      "title": "Top each chip",
+      "text": "Press a scant tablespoon of cheese onto each chip and add 1-2 jalapeño slices."
+    },
+    {
+      "title": "Add brine",
+      "text": "Sprinkle the jalapeño brine over the top."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 5-7 minutes, swapping the trays halfway, until melted and lightly browned."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve straight away while the cheese is molten."
+    }
+  ],
+  "tips": [
+    "Thick, sturdy chips hold the topping without going soggy.",
+    "Grate your own cheese; pre-grated melts less smoothly.",
+    "Add refried beans under the cheese for a heartier plate."
+  ],
+  "storage": "Best eaten hot from the oven. Nachos do not reheat well. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 492,
+    "protein_g": 16.0,
+    "carbs_g": 40.2,
+    "sugar_g": 1.2,
+    "free_sugar_g": 0.0,
+    "fat_g": 29.7,
+    "satfat_g": 11.3,
+    "salt_g": 2.08,
+    "fibre_g": 3.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "nachos-basic.jpg",
+  "image_alt": "A dark plate of tortilla chips covered in melted golden cheese and pickled jalapeño slices.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

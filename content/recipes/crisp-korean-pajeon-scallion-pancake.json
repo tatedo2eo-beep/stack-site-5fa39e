@@ -1,0 +1,194 @@
+{
+  "slug": "crisp-korean-pajeon-scallion-pancake",
+  "title": "Crisp Korean Pajeon Scallion Pancake",
+  "category": "snacks-sides",
+  "cuisine": "Korean",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "pajeon",
+  "dish_title": "Pajeon",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "An ice-cold flour and starch batter is folded with lots of spring onion and fried as two thin pancakes, pressed flat until crisp, cut into wedges and served with a chilli-soy dip.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "2 small bowls",
+    "medium bowl",
+    "whisk",
+    "25 cm non-stick frying pan",
+    "spatula",
+    "plate lined with kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Dipping sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Dipping sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Dipping sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "plain rice vinegar"
+    },
+    {
+      "group": "Dipping sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Dipping sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "gochugaru (Korean chilli flakes) or other chilli flakes"
+    },
+    {
+      "group": "Dipping sauce",
+      "qty": 2.1,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 0.5 tsp"
+    },
+    {
+      "group": "Pancakes",
+      "qty": 10,
+      "unit": "pc",
+      "item": "spring onions"
+    },
+    {
+      "group": "Pancakes",
+      "qty": 142,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Pancakes",
+      "qty": 28,
+      "unit": "g",
+      "item": "potato starch or cornflour"
+    },
+    {
+      "group": "Pancakes",
+      "qty": 4,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Pancakes",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Pancakes",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Pancakes",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Pancakes",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pancakes",
+      "qty": 240,
+      "unit": "ml",
+      "item": "ice water"
+    },
+    {
+      "group": "Pancakes",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "To fry",
+      "qty": 6,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dip",
+      "text": "Whisk the soy, water, vinegar, sesame oil, chilli flakes and sugar."
+    },
+    {
+      "title": "Prepare the onions",
+      "text": "Cut the spring onions into 5 cm lengths, halving the white parts."
+    },
+    {
+      "title": "Mix the batter",
+      "text": "Whisk the dry ingredients with ice water and garlic, then fold in the onions."
+    },
+    {
+      "title": "Fry the first side",
+      "text": "Spread half the batter in a hot oiled pan and cook 3-5 minutes until golden underneath."
+    },
+    {
+      "title": "Flip and press",
+      "text": "Flip, add oil round the edge and press flat for 2-4 minutes until crisp."
+    },
+    {
+      "title": "Serve",
+      "text": "Cut into wedges and serve with the dip."
+    }
+  ],
+  "tips": [
+    "Ice water keeps the batter light and crisp.",
+    "Use enough oil: pajeon should shallow-fry, not dry-fry.",
+    "Press the pancake flat after flipping for an even crust."
+  ],
+  "storage": "Best eaten straight from the pan. Refrigerate leftovers within 2 hours for up to 2 days and re-crisp in a dry frying pan.",
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soya",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 372,
+    "protein_g": 5.2,
+    "carbs_g": 39.2,
+    "sugar_g": 2.5,
+    "free_sugar_g": 1.5,
+    "fat_g": 21.9,
+    "satfat_g": 1.7,
+    "salt_g": 1.95,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pajeon-basic.jpg",
+  "image_alt": "A large golden pajeon pancake streaked with spring onion on a dark plate, with a small bowl of soy dipping sauce.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

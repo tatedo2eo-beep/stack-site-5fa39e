@@ -1,0 +1,176 @@
+{
+  "slug": "flaky-cong-you-bing-chinese-scallion-pancakes",
+  "title": "Flaky Cong You Bing Chinese Scallion Pancakes",
+  "category": "snacks-sides",
+  "cuisine": "Chinese",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "cong-you-bing",
+  "dish_title": "Cong you bing",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A hot-water dough is brushed with sesame-oil paste and spring onions, rolled up and coiled into spirals, flattened and pan-fried covered then uncovered until crisp and deep golden.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "bowl",
+    "wooden spoon",
+    "rolling pin",
+    "pastry brush",
+    "25 cm cast-iron or heavy frying pan with lid",
+    "cling film",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dipping sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Dipping sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "spring onion, thinly sliced"
+    },
+    {
+      "group": "Dipping sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Dipping sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "plain rice vinegar"
+    },
+    {
+      "group": "Dipping sauce",
+      "qty": 7,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dipping sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Dipping sauce",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "chilli flakes"
+    },
+    {
+      "group": "Dough",
+      "qty": 213,
+      "unit": "g",
+      "item": "plain flour, plus 1 tbsp and extra for rolling"
+    },
+    {
+      "group": "Dough",
+      "qty": 180,
+      "unit": "ml",
+      "item": "boiling water"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 4,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced"
+    },
+    {
+      "group": "To fry",
+      "qty": 6,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dip",
+      "text": "Whisk the soy, spring onion, water, vinegar, honey, sesame oil and chilli."
+    },
+    {
+      "title": "Make the dough",
+      "text": "Mix flour with boiling water, knead 4 minutes and rest 30 minutes."
+    },
+    {
+      "title": "Laminate",
+      "text": "Roll each half thin, brush with the oil paste, add salt and spring onion, roll up and coil."
+    },
+    {
+      "title": "Roll out",
+      "text": "Flatten each coil to 23 cm and cut a small slit in the centre."
+    },
+    {
+      "title": "Fry",
+      "text": "Cook covered on each side, then uncovered until deep golden and crisp."
+    },
+    {
+      "title": "Serve",
+      "text": "Cut into wedges and serve with the dip."
+    }
+  ],
+  "tips": [
+    "Boiling water makes a soft dough that rolls thin without springing back.",
+    "The coil is what creates the flaky layers; do not skip it.",
+    "Shake the pan while frying so the pancake puffs evenly."
+  ],
+  "storage": "Freeze shaped, uncooked pancakes between baking paper for up to 1 month and fry from thawed. Cooked pancakes are best eaten at once. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soya",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 466,
+    "protein_g": 6.7,
+    "carbs_g": 45.4,
+    "sugar_g": 2.1,
+    "free_sugar_g": 1.4,
+    "fat_g": 28.8,
+    "satfat_g": 2.5,
+    "salt_g": 1.84,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "cong-you-bing-basic.jpg",
+  "image_alt": "A flaky golden scallion pancake cut into wedges on a dark plate, with a bowl of dark dipping sauce.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "nigerian-puff-puff-nutmeg",
+  "title": "Nigerian Puff-Puff with Nutmeg",
+  "category": "snacks-sides",
+  "cuisine": "Nigerian",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "puff-puff",
+  "dish_title": "Puff-puff",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A sticky batter of flour, sugar, instant yeast, nutmeg and warm vanilla water rises for 45 minutes, then tablespoons are fried at 165 °C for about 6 minutes until puffed and golden.",
+  "servings": 12,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "whisk",
+    "wooden spoon",
+    "clean tea towel",
+    "wok or deep heavy pan",
+    "cooking thermometer",
+    "1 tbsp cookie scoop or 2 spoons",
+    "slotted spoon",
+    "tray lined with kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 360,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 150,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "instant (fast-action) yeast"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla flavouring"
+    },
+    {
+      "group": "Batter",
+      "qty": 475,
+      "unit": "ml",
+      "item": "lukewarm water (about 38 °C)"
+    },
+    {
+      "group": "To fry",
+      "qty": 1500,
+      "unit": "ml",
+      "item": "neutral oil, for deep frying"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix the dry ingredients",
+      "text": "Whisk the flour, sugar, yeast, nutmeg and salt."
+    },
+    {
+      "title": "Make the batter",
+      "text": "Stir in the warm vanilla water for about 5 minutes until thick, smooth and sticky."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave in a warm place for about 45 minutes until doubled."
+    },
+    {
+      "title": "Heat the oil",
+      "text": "Heat the oil to 165 °C."
+    },
+    {
+      "title": "Fry",
+      "text": "Drop in tablespoons of batter and fry about 6 minutes, turning, until golden all over."
+    },
+    {
+      "title": "Serve",
+      "text": "Drain and serve warm or at room temperature."
+    }
+  ],
+  "tips": [
+    "Moderate oil lets the centres cook through before the outside darkens.",
+    "Dip the scoop in hot oil so the batter slides off cleanly.",
+    "Toss in cinnamon sugar for a sweeter treat.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best on the day. Keep airtight at room temperature for 1 day and warm in a 180 °C oven for 5 minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 205,
+    "protein_g": 3.4,
+    "carbs_g": 35.7,
+    "sugar_g": 12.6,
+    "free_sugar_g": 12.5,
+    "fat_g": 5.4,
+    "satfat_g": 0.4,
+    "salt_g": 0.24,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "puff-puff-basic.jpg",
+  "image_alt": "A pile of round golden puff-puff on a dark plate, one torn open to show the soft inside.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

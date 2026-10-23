@@ -1,0 +1,105 @@
+{
+  "slug": "stovetop-buttered-popcorn",
+  "title": "Stovetop Buttered Popcorn",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "popcorn",
+  "dish_title": "Popcorn",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Kernels are heated in oil with a test-kernel trick, popped with the lid ajar until the popping slows, then tossed with melted butter and salt.",
+  "servings": 6,
+  "prep_min": 2,
+  "cook_min": 8,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy saucepan with lid",
+    "large bowl",
+    "small pan for the butter"
+  ],
+  "ingredients": [
+    {
+      "group": "Popcorn",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Popcorn",
+      "qty": 100,
+      "unit": "g",
+      "item": "popcorn kernels"
+    },
+    {
+      "group": "To finish",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "To finish",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Test the heat",
+      "text": "Heat the oil with 3 kernels, covered, until they pop."
+    },
+    {
+      "title": "Rest",
+      "text": "Add the rest of the kernels off the heat, cover and wait 30 seconds."
+    },
+    {
+      "title": "Pop",
+      "text": "Cook with the lid slightly open, shaking, until pops come 2 seconds apart."
+    },
+    {
+      "title": "Butter",
+      "text": "Toss with melted butter, then with salt."
+    },
+    {
+      "title": "Settle",
+      "text": "Leave 2-3 minutes so the popcorn crisps before serving."
+    }
+  ],
+  "tips": [
+    "Keep the lid ajar so steam escapes and the popcorn stays crisp.",
+    "Take it off the heat as soon as popping slows to avoid burning.",
+    "Fine salt sticks better than flaky salt."
+  ],
+  "storage": "Keep cooled popcorn in an airtight container for up to 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 160,
+    "protein_g": 2.2,
+    "carbs_g": 13.0,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 11.6,
+    "satfat_g": 3.2,
+    "salt_g": 0.49,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "popcorn-basic.jpg",
+  "image_alt": "A dark bowl heaped with fluffy white buttered popcorn.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

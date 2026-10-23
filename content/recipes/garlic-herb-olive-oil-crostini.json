@@ -1,0 +1,136 @@
+{
+  "slug": "garlic-herb-olive-oil-crostini",
+  "title": "Garlic and Herb Olive Oil Crostini",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "crostini",
+  "dish_title": "Crostini",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thin baguette slices are brushed with olive oil, garlic, parsley and thyme, baked at 200 °C until golden and rubbed with a cut garlic clove while hot.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "oven",
+    "large baking tray",
+    "small bowl",
+    "pastry brush",
+    "bread knife",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Crostini",
+      "qty": 1,
+      "unit": "pc",
+      "item": "baguette (about 250 g)",
+      "note": "cut on an angle into 1 cm slices, about 24"
+    },
+    {
+      "group": "Herb oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Herb oil",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Herb oil",
+      "qty": 10,
+      "unit": "g",
+      "item": "flat-leaf parsley, very finely chopped"
+    },
+    {
+      "group": "Herb oil",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fresh thyme leaves, chopped"
+    },
+    {
+      "group": "Herb oil",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Herb oil",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, peeled and halved"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 200 °C."
+    },
+    {
+      "title": "Make the herb oil",
+      "text": "Mix the oil, grated garlic, parsley, thyme, salt and pepper."
+    },
+    {
+      "title": "Brush",
+      "text": "Lay the slices on the tray and brush the tops with the herb oil."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 8-12 minutes until crisp and golden at the edges."
+    },
+    {
+      "title": "Rub with garlic",
+      "text": "Rub the hot edges with the cut garlic clove."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool on a rack and serve plain or topped."
+    }
+  ],
+  "tips": [
+    "Slice on an angle for larger, more elegant toasts.",
+    "Chop the herbs very finely so they cling to the bread.",
+    "Day-old baguette slices most neatly."
+  ],
+  "storage": "Keep cooled crostini airtight at room temperature for up to 5 days, or freeze for 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 147,
+    "protein_g": 3.5,
+    "carbs_g": 16.7,
+    "sugar_g": 1.5,
+    "free_sugar_g": 1.4,
+    "fat_g": 7.5,
+    "satfat_g": 1.1,
+    "salt_g": 0.65,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "crostini-basic.jpg",
+  "image_alt": "Rows of golden baguette crostini flecked with green herbs on a dark plate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}
