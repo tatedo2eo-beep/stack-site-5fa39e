@@ -1,0 +1,112 @@
+{
+  "slug": "crisp-caramelised-sugar-palmiers",
+  "title": "Crisp Caramelised Sugar Palmiers",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "palmiers",
+  "dish_title": "Palmiers",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Shop-bought all-butter puff pastry rolled in sugar, folded into scrolls and baked until crisp, flaky and caramelised.",
+  "servings": 10,
+  "prep_min": 20,
+  "cook_min": 22,
+  "difficulty": "easy",
+  "equipment": [
+    "2 baking trays",
+    "baking paper",
+    "rolling pin",
+    "sharp knife",
+    "cling film",
+    "fish slice",
+    "wire rack",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Palmiers",
+      "qty": 320,
+      "unit": "g",
+      "item": "all-butter puff pastry sheet, chilled"
+    },
+    {
+      "group": "Palmiers",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Palmiers",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sugar the pastry",
+      "text": "Mix the sugar with the salt. Sprinkle 3 tbsp over the worktop, lay the pastry on top and sprinkle another 3 tbsp over it."
+    },
+    {
+      "title": "Roll",
+      "text": "Roll the pastry to a rectangle about 28 x 35 cm and 2 mm thick, pressing the sugar into both sides and scattering more underneath if it starts to stick. Trim the ragged edges with the knife."
+    },
+    {
+      "title": "Fold",
+      "text": "Fold each short end 2 cm toward the centre, scatter over a little sugar and keep folding until the two folds meet in the middle. Fold one half on top of the other to make a log, wrap it in cling film and chill for 30 min so it slices cleanly."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 190 °C (170 °C fan) with shelves in the upper and lower thirds, and line the trays with baking paper."
+    },
+    {
+      "title": "Slice",
+      "text": "Cut the log into 20 slices 1 cm thick. Press each cut side into the sugar left in the bowl and space the slices 7 cm apart, as they spread."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 12-14 min, until the edges are light golden. Flip each palmier with the fish slice, swap the trays between shelves and turn them, then bake for 5-8 min more until deep golden and glazed. Watch closely, as the sugar can burn in under a minute."
+    },
+    {
+      "title": "Cool",
+      "text": "Leave on the trays for 30 min; they crisp as they cool."
+    }
+  ],
+  "tips": [
+    "A common mistake is slicing warm dough, which squashes the layers; chill the log until firm.",
+    "Check the label so the puff pastry is made with butter for the best flavour.",
+    "If the pastry softens while you fold, chill it for 10 min before carrying on.",
+    "Pull the trays out as soon as the palmiers are deep amber; the caramel turns bitter fast."
+  ],
+  "storage": "Keep in an airtight tin at room temperature for up to 3 days, or freeze the unsliced log for up to 1 month and bake from frozen, adding 2-3 min.",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 227,
+    "protein_g": 2.3,
+    "carbs_g": 27.4,
+    "sugar_g": 13.2,
+    "free_sugar_g": 13.2,
+    "fat_g": 12.2,
+    "satfat_g": 3.1,
+    "salt_g": 0.24,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "palmiers-basic.jpg",
+  "image_alt": "Eleven golden, glossy heart-shaped sugar palmiers in two rows on a dark rectangular plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "King Arthur Baking"
+  ]
+}

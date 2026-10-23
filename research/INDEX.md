@@ -10,6 +10,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | alfajores | Alfajores | Classic | 2 | 4 |
 | aligot-cheesy-mashed-potatoes | Aligot | Classic | 2 | 4 |
 | almond-tuiles | Tuiles | Classic | 2 | 4 |
+| aloo-paratha-spiced-potato-flatbreads | Aloo paratha | Classic | 3 | 5 |
 | american-cheeseburger | Cheeseburger | American | 3 | 5 |
 | angel-food-cake | Angel food | Classic | 2 | 4 |
 | anise-biscotti | Biscotti | Anise | 3 | 5 |
@@ -176,11 +177,13 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | creamy-chicken-salad-celery-herbs | Chicken salad | Classic | 3 | 5 |
 | creamy-egg-salad-celery-spring-onion-toast | Egg salad | Classic | 3 | 5 |
 | creamy-grits-butter-chives | Grits | Classic | 2 | 4 |
+| creamy-oat-porridge-banana-blueberries | Porridge/oatmeal | Classic | 2 | 4 |
 | creamy-potato-salad | Potato salad | Classic | 2 | 4 |
 | creamy-two-cabbage-coleslaw | Coleslaw | Classic | 3 | 5 |
 | crisp-battered-white-fish-tacos-red-cabbage-lime-crema | Taco | Fish | 3 | 5 |
 | crisp-belgian-waffles-strawberries-cream | Waffles (Belgian) | Classic | 2 | 4 |
 | crisp-breaded-beef-cutlets-lemon-salad | Milanesa | Classic | 2 | 4 |
+| crisp-caramelised-sugar-palmiers | Palmiers | Classic | 2 | 4 |
 | crisp-churros-dark-chocolate-sauce | Churros | Classic | 2 | 4 |
 | crisp-cod-potato-fish-cakes-lemon-herb-mayonnaise | Fish cakes | Classic | 3 | 5 |
 | crisp-corn-tostadas-chicken-refried-beans-avocado | Tostada | Chicken | 3 | 5 |
@@ -190,6 +193,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crisp-fried-squid-rings-tomato-dip | Calamari | Classic | 2 | 4 |
 | crisp-garden-salad-honey-mustard-vinaigrette | Green/garden | Classic | 2 | 4 |
 | crisp-korean-pajeon-scallion-pancake | Pajeon | Classic | 2 | 4 |
+| crisp-masala-dosa-potato-tomato-chutney | Dosa | Classic | 2 | 4 |
 | crisp-melted-monterey-jack-cheese-quesadillas-fresh-salsa | Quesadilla | Classic | 2 | 4 |
 | crisp-olive-oil-grissini-sea-salt | Grissini | Classic | 3 | 5 |
 | crisp-onion-potato-spinach-pakora-coriander-chutney | Pakora | Classic | 2 | 4 |
@@ -211,6 +215,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crispy-smashed-potatoes | Crispy smashed potatoes | Classic | 2 | 4 |
 | crispy-steak-fries | Steak fries | Classic | 3 | 5 |
 | crispy-vegetable-spring-rolls-sweet-chilli-dip | Spring rolls | Classic | 2 | 4 |
+| cuban-citrus-garlic-mojo | Mojo | Classic | 2 | 4 |
 | cucumber-coriander-raita | Raita | Cucumber | 3 | 5 |
 | curried-chicken-salad-mango-chutney-almonds | Chicken salad | Curry | 3 | 5 |
 | curry-deviled-eggs-parsley | Deviled eggs | Curry | 2 | 4 |
@@ -517,6 +522,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | raspberry-cream-cheese-danish-pastries | Danish | Classic | 4 | 6 |
 | raspberry-jam-filled-berliner-doughnuts | Filled (Berliner/bomboloni/jam) | Classic | 2 | 4 |
 | raspberry-thumbprint-cookies | Thumbprints | Raspberry | 3 | 5 |
+| red-chilaquiles-fried-eggs-crema | Chilaquiles | Classic | 2 | 4 |
 | red-chile-chicken-enchiladas-cheddar-crema | Enchilada | Classic | 2 | 4 |
 | red-lentil-soup | Lentil | Classic | 2 | 3 |
 | red-velvet-cake | Red velvet | Classic | 2 | 4 |
@@ -690,6 +696,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | vegetable-fried-rice-red-pepper-peas-sweetcorn | Fried rice | Vegetable | 3 | 5 |
 | vegetable-lo-mein | Lo mein | Vegetable | 2 | 4 |
 | vegetable-paneer-korma-cashew-cream-toasted-almonds | Korma | Classic | 2 | 4 |
+| vegetable-upma-cashews-curry-leaves | Upma | Classic | 2 | 4 |
 | venezuelan-arepas-butter-grated-white-cheese | Arepa | Classic | 2 | 4 |
 | vichyssoise-chilled-leek-potato-soup | Vichyssoise | Classic | 2 | 4 |
 | vietnamese-shaking-beef | Bò lúc lắc | Classic | 2 | 4 |

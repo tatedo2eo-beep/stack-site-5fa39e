@@ -1,0 +1,145 @@
+{
+  "slug": "cuban-citrus-garlic-mojo",
+  "title": "Cuban Citrus and Garlic Mojo",
+  "category": "snacks-sides",
+  "cuisine": "Cuban",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "mojo",
+  "dish_title": "Mojo",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Gently cooked garlic in olive oil, brightened with orange and lime juice, cumin and oregano, cooled and finished with fresh herbs.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "zester",
+    "small saucepan",
+    "heatproof jug"
+  ],
+  "ingredients": [
+    {
+      "group": "Mojo",
+      "qty": 80,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Mojo",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Mojo",
+      "qty": 120,
+      "unit": "ml",
+      "item": "fresh orange juice",
+      "note": "from 2 oranges"
+    },
+    {
+      "group": "Mojo",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "finely grated orange zest"
+    },
+    {
+      "group": "Mojo",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "lime juice",
+      "note": "from 2 limes"
+    },
+    {
+      "group": "Mojo",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Mojo",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried oregano"
+    },
+    {
+      "group": "Mojo",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Mojo",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "fresh coriander or parsley, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften the garlic",
+      "text": "Put the oil in the saucepan over medium-low heat, add the garlic slices and cook for 2-3 min, stirring, until fragrant and only just turning pale gold. Darker garlic tastes bitter, so watch it closely."
+    },
+    {
+      "title": "Add the citrus",
+      "text": "Lift the pan off the heat and pour in the orange juice, zest and lime juice with the cumin, oregano, salt and pepper. Stand back, as the hot oil will spit."
+    },
+    {
+      "title": "Bring to a simmer",
+      "text": "Return the pan to the heat and bring it just to a simmer, then take it off straight away. A brief simmer softens the raw garlic and blends the flavours without dulling the citrus."
+    },
+    {
+      "title": "Cool and finish",
+      "text": "Pour into the jug and leave to cool completely, about 20 min. Stir in the chopped coriander or parsley."
+    },
+    {
+      "title": "Serve",
+      "text": "Stir well, as the oil separates, then spoon over fried or boiled yuca, roast chicken, grilled fish or chips."
+    }
+  ],
+  "tips": [
+    "If you can find Seville oranges, use 180 ml of their juice in place of the orange and lime juice.",
+    "Slice the garlic evenly so it all cooks at the same rate.",
+    "Use some as a marinade for chicken, keeping a separate portion for the table.",
+    "Add a pinch of chilli flakes for gentle heat."
+  ],
+  "storage": "Keep in a sealed jar in the fridge for up to 4 days. The oil firms when cold, so let it stand at room temperature for 15 min and shake before using. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 97,
+    "protein_g": 0.4,
+    "carbs_g": 3.3,
+    "sugar_g": 1.5,
+    "free_sugar_g": 1.4,
+    "fat_g": 9.5,
+    "satfat_g": 1.3,
+    "salt_g": 0.55,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "mojo-basic.jpg",
+  "image_alt": "A small glass jug of golden-green garlic and herb mojo beside a pile of fried yuca sticks and half an orange.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

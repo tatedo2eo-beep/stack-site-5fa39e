@@ -1,0 +1,287 @@
+{
+  "slug": "crisp-masala-dosa-potato-tomato-chutney",
+  "title": "Crisp Masala Dosa with Spiced Potato and Tomato Chutney",
+  "category": "breakfast",
+  "cuisine": "Indian",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "dosa",
+  "dish_title": "Dosa",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A fermented rice and urad dal batter spread thin and crisped on one side, rolled around spiced potato masala, served with a tangy tomato chutney and yoghurt.",
+  "servings": 6,
+  "prep_min": 40,
+  "cook_min": 50,
+  "difficulty": "hard",
+  "equipment": [
+    "2 bowls for soaking",
+    "sieve",
+    "blender",
+    "large mixing bowl",
+    "tea towel",
+    "wide frying pan",
+    "medium saucepan",
+    "25-28 cm cast-iron or non-stick frying pan or flat griddle",
+    "ladle",
+    "thin metal spatula",
+    "kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 300,
+      "unit": "g",
+      "item": "short-grain or idli rice"
+    },
+    {
+      "group": "Batter",
+      "qty": 75,
+      "unit": "g",
+      "item": "urad dal (split husked black lentils)"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fenugreek seeds"
+    },
+    {
+      "group": "Batter",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "neutral oil, for cooking"
+    },
+    {
+      "group": "Potato filling",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "ghee or neutral oil"
+    },
+    {
+      "group": "Potato filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "mustard seeds"
+    },
+    {
+      "group": "Potato filling",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "cumin seeds"
+    },
+    {
+      "group": "Potato filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "small dried red chillies"
+    },
+    {
+      "group": "Potato filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, diced",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Potato filling",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Potato filling",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "asafoetida (gluten-free)"
+    },
+    {
+      "group": "Potato filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated fresh ginger"
+    },
+    {
+      "group": "Potato filling",
+      "qty": 8,
+      "unit": "pc",
+      "item": "fresh curry leaves"
+    },
+    {
+      "group": "Potato filling",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Potato filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "green chillies, finely chopped"
+    },
+    {
+      "group": "Potato filling",
+      "qty": 700,
+      "unit": "g",
+      "item": "waxy potatoes, boiled, peeled and cut into 2 cm cubes"
+    },
+    {
+      "group": "Potato filling",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Potato filling",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Potato filling",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh coriander, roughly chopped"
+    },
+    {
+      "group": "Tomato chutney",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Tomato chutney",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "mustard seeds"
+    },
+    {
+      "group": "Tomato chutney",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "urad dal"
+    },
+    {
+      "group": "Tomato chutney",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "chilli flakes"
+    },
+    {
+      "group": "Tomato chutney",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Tomato chutney",
+      "qty": 400,
+      "unit": "g",
+      "item": "tinned whole tomatoes, crushed by hand"
+    },
+    {
+      "group": "Tomato chutney",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Tomato chutney",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Tomato chutney",
+      "qty": 8,
+      "unit": "g",
+      "item": "jaggery or soft brown sugar",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Tomato chutney",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "tamarind paste"
+    },
+    {
+      "group": "To serve",
+      "qty": 200,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak",
+      "text": "Rinse the rice and cover with 1 litre cold water. Rinse the dal and fenugreek together and cover with cold water. Leave both to soak for 4-6 h."
+    },
+    {
+      "title": "Grind",
+      "text": "Drain separately. Blend the rice with 240 ml cold water to a smooth paste, about 10 min in batches. Blend the dal and fenugreek with a little water until fluffy and smooth. Grinding the dal separately whips air into it, which helps the batter rise."
+    },
+    {
+      "title": "Ferment",
+      "text": "Whisk both pastes together in the large bowl with enough water to make a thick pancake batter, about 1.4 litres in all. Cover with the towel and leave somewhere warm for 8-12 h until bubbly and risen. Stir in the batter salt. Fermentation gives the dosa its light texture and gentle sourness."
+    },
+    {
+      "title": "Make the chutney",
+      "text": "Heat the oil in the saucepan over medium-high heat and add the mustard seeds; when they pop, add the urad dal and chilli flakes for about 1 min until the dal is golden. Add the garlic until it just sizzles, then the tomatoes, turmeric and salt, and simmer for about 15 min until thick. Stir in the jaggery and tamarind and cook for 4-5 min more. Leave to cool."
+    },
+    {
+      "title": "Make the potato filling",
+      "text": "Heat the ghee in the wide pan over medium heat and add the mustard and cumin seeds. When they pop, add the dried chillies and onion and cook for about 5 min until soft. Add the turmeric, asafoetida, ginger, curry leaves, garlic and green chillies for 1 min. Add the potatoes and water and cook, stirring, for about 5 min until the liquid has gone. Mash lightly, then stir in the salt and coriander."
+    },
+    {
+      "title": "Cook the dosas",
+      "text": "Heat the griddle over medium heat and wipe it with a little oil on kitchen paper. Pour 60 ml batter into the middle and at once spread it outwards in a spiral with the back of the ladle to about 20 cm. Drizzle 1/2 tsp oil around the edge and cook on one side only for 2-3 min, until the edges dry and lift and the underside is crisp and brown."
+    },
+    {
+      "title": "Fill and serve",
+      "text": "Spoon about 80 g filling in a line down the middle, fold the sides over to make a roll and serve at once with the chutney and yoghurt. Wipe the pan with the oiled paper and repeat with the rest of the batter."
+    }
+  ],
+  "tips": [
+    "The commonest mistake is a pan that is too hot: the batter sets before it spreads. Sprinkle a few drops of water on the pan and wait until they sizzle away gently.",
+    "In a cool kitchen, ferment the batter in the oven with only the light on.",
+    "The first dosa is often a test; adjust the heat and batter thickness after it.",
+    "Leftover batter makes thicker uttapam pancakes topped with onion and chilli."
+  ],
+  "storage": "Batter keeps refrigerated up to a week and filling up to 2 days. Dosas are best cooked to order; reheat filling until piping hot (74 °C). Chutney keeps refrigerated up to 2 weeks. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 542,
+    "protein_g": 12.3,
+    "carbs_g": 79.1,
+    "sugar_g": 7.0,
+    "free_sugar_g": 1.3,
+    "fat_g": 20.3,
+    "satfat_g": 5.9,
+    "salt_g": 2.22,
+    "fibre_g": 8.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "dosa-advanced.jpg",
+  "image_alt": "A long crisp rolled dosa with small bowls of yoghurt and tomato chutney.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Food Network Kitchen"
+  ]
+}

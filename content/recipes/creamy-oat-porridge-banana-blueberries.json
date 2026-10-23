@@ -1,0 +1,126 @@
+{
+  "slug": "creamy-oat-porridge-banana-blueberries",
+  "title": "Creamy Oat Porridge with Banana, Blueberries and Maple",
+  "category": "breakfast",
+  "cuisine": "British",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "porridge-oatmeal",
+  "dish_title": "Porridge/oatmeal",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Rolled oats simmered in equal parts milk and water with a little maple syrup and salt, then topped with banana, blueberries and more syrup.",
+  "servings": 2,
+  "prep_min": 5,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan or large frying pan",
+    "wooden spoon",
+    "2 bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Porridge",
+      "qty": 90,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Porridge",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk, plus a splash to serve"
+    },
+    {
+      "group": "Porridge",
+      "qty": 240,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Porridge",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Porridge",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "ripe banana, sliced",
+      "note": "about 120 g peeled"
+    },
+    {
+      "group": "To serve",
+      "qty": 75,
+      "unit": "g",
+      "item": "blueberries"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "maple syrup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Combine",
+      "text": "Put the oats, milk, water, 2 tsp maple syrup and salt in the pan. Starting everything cold lets the oats soften evenly as the liquid heats."
+    },
+    {
+      "title": "Simmer and stir",
+      "text": "Bring to a simmer over medium-high heat, then turn to medium and cook for 4-7 min, stirring often, until the oats are tender and a spoon dragged through leaves a trail for a second or two. Stirring releases starch from the oats, which is what makes the porridge creamy."
+    },
+    {
+      "title": "Rest",
+      "text": "Take the pan off the heat for 1 min; the porridge keeps thickening as it stands. Loosen with a splash of milk if it is thicker than you like."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon into bowls and top with the banana, blueberries, a splash of milk and the remaining maple syrup."
+    }
+  ],
+  "tips": [
+    "Take it off the heat while it still looks slightly loose; it sets as it cools.",
+    "The pinch of salt matters: it brings out the sweetness of the oats.",
+    "Use certified gluten-free oats if you need to avoid gluten.",
+    "Swap the fruit for toasted nuts, cinnamon or a spoonful of nut butter."
+  ],
+  "storage": "Refrigerate leftovers covered up to 3 days. Reheat in a pan with a splash of milk or water, stirring, until steaming hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 358,
+    "protein_g": 10.9,
+    "carbs_g": 64.6,
+    "sugar_g": 25.9,
+    "free_sugar_g": 7.9,
+    "fat_g": 7.5,
+    "satfat_g": 3.0,
+    "salt_g": 0.53,
+    "fibre_g": 7.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "porridge-oatmeal-basic.jpg",
+  "image_alt": "A dark bowl of creamy oat porridge topped with banana slices and blueberries.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}
