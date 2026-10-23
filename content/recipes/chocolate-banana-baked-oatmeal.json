@@ -1,0 +1,175 @@
+{
+  "slug": "chocolate-banana-baked-oatmeal",
+  "title": "Chocolate Banana Baked Oatmeal",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "porridge-oatmeal",
+  "dish_title": "Porridge/oatmeal",
+  "flavour": "Chocolate",
+  "flavour_order": 12,
+  "access": "premium",
+  "base_recipe": "creamy-oat-porridge-banana-blueberries",
+  "changes_from_base": "Dairy-free and egg-free: oats, cocoa and ground flaxseed are mixed with plant milk, mashed banana, maple syrup and oil, studded with chocolate chips and baked in a square tin.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "This dairy-free chocolate and banana baked oatmeal is fudgy and moist, studded with chocolate chips and made wholesome by flaxseed and rolled oats.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square baking tin",
+    "2 medium bowls",
+    "whisk",
+    "rubber spatula",
+    "fork",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Bake",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vegetable oil, for the tin"
+    },
+    {
+      "group": "Bake",
+      "qty": 178,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Bake",
+      "qty": 21,
+      "unit": "g",
+      "item": "unsweetened cocoa powder"
+    },
+    {
+      "group": "Bake",
+      "qty": 13,
+      "unit": "g",
+      "item": "ground flaxseed"
+    },
+    {
+      "group": "Bake",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Bake",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Bake",
+      "qty": 390,
+      "unit": "ml",
+      "item": "soya milk or other dairy-free milk"
+    },
+    {
+      "group": "Bake",
+      "qty": 113,
+      "unit": "g",
+      "item": "ripe banana, mashed (about 1 medium)"
+    },
+    {
+      "group": "Bake",
+      "qty": 80,
+      "unit": "ml",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Bake",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "vegetable or melted coconut oil"
+    },
+    {
+      "group": "Bake",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Bake",
+      "qty": 57,
+      "unit": "g",
+      "item": "chocolate chips"
+    },
+    {
+      "group": "Topping",
+      "qty": 33,
+      "unit": "g",
+      "item": "chocolate chips"
+    },
+    {
+      "group": "To serve",
+      "qty": 20,
+      "unit": "g",
+      "item": "flaked almonds, toasted (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Preheat oven to 165 °C (145 °C fan) with the shelf in the middle; oil a 20 cm square baking tin."
+    },
+    {
+      "title": "Dry",
+      "text": "In one medium bowl mix 178 g rolled oats, 21 g unsweetened cocoa powder, 13 g ground flaxseed, 1 tsp baking powder and ¾ tsp salt."
+    },
+    {
+      "title": "Wet",
+      "text": "In another medium bowl whisk 390 ml soya milk or other dairy-free milk, 113 g mashed ripe banana (about 1 medium), 80 ml maple syrup, 2 tbsp vegetable or melted coconut oil and 2 tsp vanilla."
+    },
+    {
+      "title": "Combine",
+      "text": "Stir wet into dry, then fold in 57 g chocolate chips."
+    },
+    {
+      "title": "Spread and top",
+      "text": "Pour into the tin and scatter 33 g chocolate chips (and 20 g toasted flaked almonds if using) over the top."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 35-40 min until set but still moist, cutting into 16 squares and serving warm with almonds and a splash of extra milk or maple syrup if liked."
+    }
+  ],
+  "tips": [
+    "Mash banana until smooth to distribute flavour evenly throughout the batter.",
+    "Use dairy-free milk of your choice; oat, soya or coconut all work well here.",
+    "These squares stay moist for several days, making them excellent for grab-and-go breakfasts."
+  ],
+  "storage": "Keep covered at room temperature for up to 2 days, or refrigerate for up to 4 days; reheat in the microwave 15-20 s before eating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 269,
+    "protein_g": 6.3,
+    "carbs_g": 37.9,
+    "sugar_g": 16.5,
+    "free_sugar_g": 14.1,
+    "fat_g": 12.0,
+    "satfat_g": 3.0,
+    "salt_g": 0.74,
+    "fibre_g": 5.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Sixteen chocolate banana oatmeal squares on a cooling rack, showing a moist dark crumb studded with chocolate chips.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

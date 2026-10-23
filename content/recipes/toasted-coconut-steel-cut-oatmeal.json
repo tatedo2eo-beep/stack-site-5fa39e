@@ -1,0 +1,127 @@
+{
+  "slug": "toasted-coconut-steel-cut-oatmeal",
+  "title": "Toasted Coconut Steel-Cut Oatmeal",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "porridge-oatmeal",
+  "dish_title": "Porridge/oatmeal",
+  "flavour": "Coconut",
+  "flavour_order": 9,
+  "access": "premium",
+  "base_recipe": "creamy-oat-porridge-banana-blueberries",
+  "changes_from_base": "Butter-toasted steel-cut oats simmer in water and coconut milk instead of cow's milk, then get toasted coconut flakes and light brown sugar stirred through.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Creaminess from tinged coconut milk and toasted coconut flakes enriches these steel-cut oats, creating a breakfast that tastes indulgent yet remains straightforward to make.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan with lid",
+    "wooden spoon",
+    "measuring jug",
+    "chopping board",
+    "knife",
+    "small frying pan (for toasting)"
+  ],
+  "ingredients": [
+    {
+      "group": "Porridge",
+      "qty": 14,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Porridge",
+      "qty": 175,
+      "unit": "g",
+      "item": "steel-cut oats"
+    },
+    {
+      "group": "Porridge",
+      "qty": 720,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Porridge",
+      "qty": 240,
+      "unit": "ml",
+      "item": "tinned coconut milk"
+    },
+    {
+      "group": "Porridge",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsweetened coconut flakes, toasted"
+    },
+    {
+      "group": "To serve",
+      "qty": 38,
+      "unit": "g",
+      "item": "light brown sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast coconut",
+      "text": "Toast 30 g unsweetened coconut flakes in a small dry pan over medium-low 2-3 min, stirring, until golden; tip onto a plate."
+    },
+    {
+      "title": "Toast oats",
+      "text": "Melt 14 g butter in a large saucepan over medium heat, add 175 g steel-cut oats and toast about 2 min, stirring, until golden."
+    },
+    {
+      "title": "Liquid",
+      "text": "Pour in 720 ml water and 240 ml tinned coconut milk, bring to the boil."
+    },
+    {
+      "title": "Simmer",
+      "text": "Simmer gently over medium-low about 20 min, stirring now and then, until creamy but chewy."
+    },
+    {
+      "title": "Rest and finish",
+      "text": "Off the heat, stir in ¼ tsp salt, cover, rest 5 min, then stir in toasted coconut and 38 g light brown sugar; season to taste with more salt if needed."
+    }
+  ],
+  "tips": [
+    "Toast coconut flakes first so they stay crisp; add them after cooking to prevent burning.",
+    "Tinned coconut milk adds richness; give it a good shake before opening.",
+    "Watch the oats while simmering and stir occasionally to prevent sticking on the bottom."
+  ],
+  "storage": "Serve hot; leftover porridge keeps in the fridge for 2 days and reheats gently over low heat with a splash of water or milk. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 395,
+    "protein_g": 7.5,
+    "carbs_g": 42.4,
+    "sugar_g": 10.2,
+    "free_sugar_g": 9.2,
+    "fat_g": 23.3,
+    "satfat_g": 17.9,
+    "salt_g": 0.4,
+    "fibre_g": 5.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A bowl of creamy, pale oatmeal scattered with golden toasted coconut flakes and light brown sugar.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

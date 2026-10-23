@@ -1,0 +1,169 @@
+{
+  "slug": "maple-banana-baked-oatmeal",
+  "title": "Maple Banana Baked Oatmeal with Walnuts",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "porridge-oatmeal",
+  "dish_title": "Porridge/oatmeal",
+  "flavour": "Maple",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "creamy-oat-porridge-banana-blueberries",
+  "changes_from_base": "Baked rather than simmered: oats, walnuts and baking powder go into a dish over sliced banana, a maple, egg and milk mix is poured over and the whole thing bakes until just set.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Soft and moist baked oatmeal with banana throughout and the welcome nuttiness of walnuts, sweetened with maple and fragrant with cinnamon.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "shallow baking dish (about 20 x 28 cm)",
+    "large bowl",
+    "medium bowl",
+    "whisk",
+    "fork",
+    "chopping board",
+    "knife",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Bake",
+      "qty": 28,
+      "unit": "g",
+      "item": "unsalted butter, melted, plus a little for the dish"
+    },
+    {
+      "group": "Bake",
+      "qty": 135,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Bake",
+      "qty": 60,
+      "unit": "g",
+      "item": "walnuts, chopped"
+    },
+    {
+      "group": "Bake",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Bake",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Bake",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Bake",
+      "qty": 3,
+      "unit": "pc",
+      "item": "ripe bananas (2 sliced into rounds, 1 mashed)"
+    },
+    {
+      "group": "Bake",
+      "qty": 80,
+      "unit": "ml",
+      "item": "maple syrup, plus more to serve"
+    },
+    {
+      "group": "Bake",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Bake",
+      "qty": 420,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Bake",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Topping",
+      "qty": 12,
+      "unit": "g",
+      "item": "dark brown sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Preheat oven to 175 °C (155 °C fan) and butter a 20 x 28 cm baking dish."
+    },
+    {
+      "title": "Mix",
+      "text": "Combine 135 g rolled oats, 60 g chopped walnuts, 1 tsp baking powder, ½ tsp cinnamon and ¼ tsp salt in a large bowl."
+    },
+    {
+      "title": "Arrange",
+      "text": "Lay 2 sliced bananas in the dish and scatter the oat mix over."
+    },
+    {
+      "title": "Pour",
+      "text": "Mash the third banana, then whisk in 80 ml maple syrup, 1 large egg, 420 ml milk, 28 g melted butter and 1 tsp vanilla; pour evenly over the oats and tap so it soaks in."
+    },
+    {
+      "title": "Top",
+      "text": "Scatter remaining walnuts and 12 g dark brown sugar over the top."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 30-35 min until golden and centre reaches 71 °C."
+    },
+    {
+      "title": "Rest",
+      "text": "Let rest 5 min before serving with extra maple syrup."
+    }
+  ],
+  "tips": [
+    "Use an instant-read thermometer to check that the centre has reached 71 °C for food safety.",
+    "Slice one banana into rounds first so it holds its shape in the oatmeal.",
+    "Slice the dish into portions while still warm for cleaner cuts."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days; reheat individual portions in the microwave 1-2 min until warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 523,
+    "protein_g": 12.8,
+    "carbs_g": 71.8,
+    "sugar_g": 36.1,
+    "free_sugar_g": 19.1,
+    "fat_g": 22.7,
+    "satfat_g": 7.4,
+    "salt_g": 0.81,
+    "fibre_g": 6.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A portion of golden baked oatmeal studded with banana slices and walnuts on a plate.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

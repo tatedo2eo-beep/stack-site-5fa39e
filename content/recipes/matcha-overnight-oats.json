@@ -1,0 +1,138 @@
+{
+  "slug": "matcha-overnight-oats",
+  "title": "Matcha Overnight Oats",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "porridge-oatmeal",
+  "dish_title": "Porridge/oatmeal",
+  "flavour": "Matcha",
+  "flavour_order": 15,
+  "access": "premium",
+  "base_recipe": "creamy-oat-porridge-banana-blueberries",
+  "changes_from_base": "Uncooked: the oats and chia seeds soak in the fridge in milk whisked with matcha, maple syrup and vanilla, then are served with yoghurt and fresh fruit instead of being simmered.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Earthy matcha and creamy yoghurt make these overnight oats a sustaining breakfast with pretty green colour and subtle caffeine lift.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "lidded tub (about 1000 ml)",
+    "whisk",
+    "tea strainer or small sieve",
+    "spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Overnight soak",
+      "qty": 480,
+      "unit": "ml",
+      "item": "oat milk or whole milk, plus more to serve"
+    },
+    {
+      "group": "Overnight soak",
+      "qty": 35,
+      "unit": "ml",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Overnight soak",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "unsweetened matcha powder, sifted"
+    },
+    {
+      "group": "Overnight soak",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Overnight soak",
+      "qty": 95,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Overnight soak",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chia seeds"
+    },
+    {
+      "group": "To serve",
+      "qty": 120,
+      "unit": "g",
+      "item": "Greek-style yoghurt"
+    },
+    {
+      "group": "To serve",
+      "qty": 150,
+      "unit": "g",
+      "item": "raspberries or other fresh fruit"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare matcha",
+      "text": "Sift 1 tsp unsweetened matcha powder into a lidded tub (about 1000 ml)."
+    },
+    {
+      "title": "Add liquid",
+      "text": "Pour in 480 ml oat milk or whole milk, 35 ml maple syrup and ¼ tsp vanilla."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk thoroughly until smooth with no matcha lumps."
+    },
+    {
+      "title": "Add oats",
+      "text": "Stir in 95 g rolled oats and 2 tbsp chia seeds."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and refrigerate at least 3 h or overnight."
+    },
+    {
+      "title": "Finish",
+      "text": "Before eating, stir well and loosen with a little more milk if you like, then divide between 4 bowls or glasses."
+    },
+    {
+      "title": "Top",
+      "text": "Crown each with 30 g Greek-style yoghurt and 37.5 g raspberries or other fresh fruit."
+    }
+  ],
+  "tips": [
+    "Sift matcha before mixing to break up clumps and ensure a smooth blend.",
+    "Make these at least 3 hours ahead or the night before; they thicken as they sit, so loosen with extra milk if needed.",
+    "Matcha contains caffeine, roughly 15-20 mg per serving here, so bear that in mind for children or anyone avoiding it."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days; stir before eating and add more milk if the mixture is too thick. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 260,
+    "protein_g": 9.5,
+    "carbs_g": 37.9,
+    "sugar_g": 16.5,
+    "free_sugar_g": 7.0,
+    "fat_g": 8.4,
+    "satfat_g": 3.4,
+    "salt_g": 0.18,
+    "fibre_g": 6.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Four glasses of pale green overnight oats topped with Greek yoghurt and fresh raspberries.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

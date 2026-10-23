@@ -1,0 +1,143 @@
+{
+  "slug": "sticky-date-brown-butter-porridge",
+  "title": "Sticky Date and Brown Butter Porridge",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "porridge-oatmeal",
+  "dish_title": "Porridge/oatmeal",
+  "flavour": "Date",
+  "flavour_order": 14,
+  "access": "premium",
+  "base_recipe": "creamy-oat-porridge-banana-blueberries",
+  "changes_from_base": "Dates are softened in browned butter and mashed to a sticky paste before the oats and milk go in, so the porridge is sweetened by the dates rather than maple syrup; fresh pear, flaky salt and cream go on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Soft dates and nutty brown butter create instant sweetness in this two-bowl porridge, crowned with fresh fruit and optional cream.",
+  "servings": 2,
+  "prep_min": 5,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "wooden spoon",
+    "measuring jug",
+    "chopping board",
+    "knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Porridge",
+      "qty": 14,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Porridge",
+      "qty": 4,
+      "unit": "pc",
+      "item": "Medjool dates, stoned and torn into pieces"
+    },
+    {
+      "group": "Porridge",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Porridge",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk (or plant milk)"
+    },
+    {
+      "group": "Porridge",
+      "qty": 70,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Porridge",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Porridge",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "ripe pear, chopped (or other fresh fruit)"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "double cream (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown butter and dates",
+      "text": "Melt 14 g butter in a small saucepan over medium heat and cook, stirring, about 2 min until it foams and browns, then add 4 Medjool dates (torn into pieces) and 120 ml water; cook undisturbed 1-2 min until soft, then mash into a paste."
+    },
+    {
+      "title": "Grains and milk",
+      "text": "Stir in 300 ml milk, 70 g rolled oats, ¼ tsp vanilla and ⅛ tsp cinnamon."
+    },
+    {
+      "title": "Simmer",
+      "text": "Bring to a simmer and cook 4-6 min, stirring now and then, until tender and as thick as you like."
+    },
+    {
+      "title": "Divide",
+      "text": "Portion between 2 bowls."
+    },
+    {
+      "title": "Finish",
+      "text": "Sprinkle with ⅛ tsp flaky salt, add chopped fresh pear (or other fruit) and a drizzle of cream if using."
+    }
+  ],
+  "tips": [
+    "Mash the dates thoroughly so they dissolve into the cooking liquid and create a natural sauce.",
+    "Brown butter adds deep flavour; listen for the bubbling to quiet slightly, signalling it's ready.",
+    "Serve with pear, fresh apple or berries—whatever fruit is in season."
+  ],
+  "storage": "Best served immediately; if you have leftovers, keep them covered in the fridge for 1 day and reheat gently with a splash of milk. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 506,
+    "protein_g": 11.1,
+    "carbs_g": 79.1,
+    "sugar_g": 47.9,
+    "free_sugar_g": 0.1,
+    "fat_g": 18.6,
+    "satfat_g": 10.3,
+    "salt_g": 0.33,
+    "fibre_g": 9.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Two bowls of creamy oatmeal topped with chopped pear and a drizzle of cream, with flaky salt scattered on top.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

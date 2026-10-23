@@ -1,0 +1,140 @@
+{
+  "slug": "cranberry-orange-steel-cut-oatmeal",
+  "title": "Cranberry Orange Steel-Cut Oatmeal",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "porridge-oatmeal",
+  "dish_title": "Porridge/oatmeal",
+  "flavour": "Cranberry & orange",
+  "flavour_order": 10,
+  "access": "premium",
+  "base_recipe": "creamy-oat-porridge-banana-blueberries",
+  "changes_from_base": "Steel-cut oats are soaked overnight in just-boiled water, so in the morning they need only a few minutes on the hob instead of the long simmer; they finish in orange juice and milk with dried cranberries, dark brown sugar and a touch of cardamom, topped with toasted flaked almonds.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Tart-sweet cranberries and bright orange juice cut through creamy oats warmed with cardamom, topped with crunchy almonds for textural contrast.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan with lid",
+    "wooden spoon",
+    "measuring jug",
+    "chopping board",
+    "knife",
+    "small frying pan (for toasting)"
+  ],
+  "ingredients": [
+    {
+      "group": "Overnight soak",
+      "qty": 720,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Overnight soak",
+      "qty": 175,
+      "unit": "g",
+      "item": "steel-cut oats"
+    },
+    {
+      "group": "Overnight soak",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Porridge",
+      "qty": 120,
+      "unit": "ml",
+      "item": "orange juice"
+    },
+    {
+      "group": "Porridge",
+      "qty": 120,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Porridge",
+      "qty": 60,
+      "unit": "g",
+      "item": "dried cranberries"
+    },
+    {
+      "group": "Porridge",
+      "qty": 38,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Porridge",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "To serve",
+      "qty": 45,
+      "unit": "g",
+      "item": "flaked almonds, toasted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak overnight",
+      "text": "Boil 720 ml water in the large saucepan, remove from the heat, add 175 g steel-cut oats and ½ tsp salt, cover and leave out overnight."
+    },
+    {
+      "title": "Toast nuts",
+      "text": "Toast 45 g flaked almonds in a small dry pan 2-3 min and set aside."
+    },
+    {
+      "title": "Cook",
+      "text": "The morning after, stir in 120 ml orange juice, 120 ml milk, 60 g dried cranberries, 38 g dark brown sugar and ⅛ tsp cardamom."
+    },
+    {
+      "title": "Simmer",
+      "text": "Bring up to the boil on medium-high, then lower to medium and cook 4-6 min, stirring from time to time, until the oats are tender with a little bite and thickened like warm pudding."
+    },
+    {
+      "title": "Rest",
+      "text": "Off the heat, rest 5 min, then scatter about 2 tbsp toasted almonds over each bowl."
+    }
+  ],
+  "tips": [
+    "Use freshly squeezed or recently opened orange juice for the best flavour.",
+    "Dried cranberries can be tart; taste and add a touch more sweetness if you prefer.",
+    "Toast almonds in advance and store in an airtight container for up to a week."
+  ],
+  "storage": "Serve warm; keep any leftovers in the fridge for 2 days and reheat gently on the stove with a splash of milk or juice. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 346,
+    "protein_g": 9.4,
+    "carbs_g": 58.4,
+    "sugar_g": 25.1,
+    "free_sugar_g": 22.6,
+    "fat_g": 9.7,
+    "satfat_g": 1.5,
+    "salt_g": 0.78,
+    "fibre_g": 6.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A bowl of steel-cut oatmeal studded with tart cranberries and topped with toasted flaked almonds.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

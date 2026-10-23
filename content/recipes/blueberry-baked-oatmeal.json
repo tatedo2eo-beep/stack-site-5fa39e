@@ -1,0 +1,161 @@
+{
+  "slug": "blueberry-baked-oatmeal",
+  "title": "Blueberry Baked Oatmeal",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "porridge-oatmeal",
+  "dish_title": "Porridge/oatmeal",
+  "flavour": "Blueberry",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "creamy-oat-porridge-banana-blueberries",
+  "changes_from_base": "A sweet, cake-like oatmeal: quick oats, brown sugar and baking powder are mixed with milk, eggs and melted butter, folded with blueberries and baked in a square dish, then cut into portions.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "This straightforward baked oatmeal studded with bursts of blueberry delivers comfort in every forkful, sweet enough to feel like a treat yet wholesome enough for daily eating.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square baking dish",
+    "large bowl",
+    "medium bowl",
+    "whisk",
+    "rubber spatula",
+    "wire rack",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Bake",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vegetable oil, for the dish"
+    },
+    {
+      "group": "Bake",
+      "qty": 255,
+      "unit": "g",
+      "item": "quick-cooking oats"
+    },
+    {
+      "group": "Bake",
+      "qty": 200,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Bake",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Bake",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Bake",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Bake",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk, plus extra to serve"
+    },
+    {
+      "group": "Bake",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Bake",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled"
+    },
+    {
+      "group": "Bake",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Bake",
+      "qty": 150,
+      "unit": "g",
+      "item": "blueberries, fresh or frozen (not thawed)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Preheat oven to 175 °C (155 °C fan) and oil a 20 cm square baking dish."
+    },
+    {
+      "title": "Dry",
+      "text": "In a large bowl whisk 255 g quick-cooking oats, 200 g light brown sugar, 2 tsp baking powder, 1 tsp cinnamon and 1 tsp salt."
+    },
+    {
+      "title": "Wet",
+      "text": "In a medium bowl whisk 360 ml milk, 2 large eggs, 85 g melted butter (cooled) and 1 tsp vanilla."
+    },
+    {
+      "title": "Combine",
+      "text": "Stir the wet into the dry until just combined, then fold in 150 g blueberries (fresh or frozen, not thawed)."
+    },
+    {
+      "title": "Spread",
+      "text": "Pour into the dish."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 40-45 min until golden and centre reaches 71 °C."
+    },
+    {
+      "title": "Cool and serve",
+      "text": "Cool 10 min on a wire rack, cut into 8 pieces and serve with a splash of milk, reheating portions about 30 s in the microwave as needed."
+    }
+  ],
+  "tips": [
+    "Freeze your own blueberries or buy them frozen to use year-round in this recipe.",
+    "Quick-cooking oats make a more tender, cake-like crumb than rolled or steel-cut varieties.",
+    "Check the centre with an instant-read thermometer; it must reach 71 °C for safety."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days; reheat individual portions about 30 s in the microwave until warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 356,
+    "protein_g": 7.5,
+    "carbs_g": 51.7,
+    "sugar_g": 28.9,
+    "free_sugar_g": 24.3,
+    "fat_g": 14.0,
+    "satfat_g": 7.1,
+    "salt_g": 1.11,
+    "fibre_g": 3.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Eight portions of blueberry baked oatmeal on a cooling rack, showing a golden top with visible berries.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

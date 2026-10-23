@@ -33,8 +33,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | apple-brown-butter-custard-ice-cream | Custard-base (French) | Apple | 1 | 3 |
 | apple-cinnamon-iced-tea | Iced tea | Apple | 1 | 3 |
 | apple-cinnamon-pancakes | Pancakes (American) | Cinnamon | 1 | 3 |
+| apple-cinnamon-steel-cut-oatmeal | Porridge/oatmeal | Cinnamon | 1 | 3 |
 | apple-grape-walnut-waldorf-salad | Waldorf | Classic | 3 | 5 |
 | apple-oat-crumble | Crumble | Classic | 2 | 4 |
+| apple-pie-overnight-oats | Porridge/oatmeal | Apple | 1 | 3 |
 | apple-pie-pancakes-maple-cream | Pancakes (American) | Apple | 1 | 3 |
 | apple-pie-stuffed-french-toast | French toast | Cinnamon & apple | 1 | 3 |
 | apple-raspberry-waffles | Waffles (Belgian) | Apple & raspberry | 1 | 3 |
@@ -117,6 +119,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | blood-orange-sherbet-no-cook | Sherbet | Blood orange | 1 | 3 |
 | blood-orange-zest-sorbet | Sorbet | Blood orange | 1 | 3 |
 | blue-cheese-chive-popovers-blue-cheese-butter | Popovers | Blue cheese & chive | 1 | 3 |
+| blueberry-baked-oatmeal | Porridge/oatmeal | Blueberry | 1 | 3 |
 | blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
 | blueberry-cream-cheese-stuffed-french-toast | French toast | Blueberry | 1 | 3 |
 | blueberry-cream-ice-pops | Popsicles | Blueberry | 1 | 3 |
@@ -143,6 +146,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | brown-butter-blondies | Blondies | Brown butter | 1 | 3 |
 | brown-butter-chocolate-chip-cookies | Brown-butter chocolate chip cookie | Classic | 2 | 4 |
 | brown-butter-chocolate-chunk-muffins | American muffin (blueberry style, muffin method) | Brown butter | 1 | 3 |
+| brown-butter-chocolate-steel-cut-oatmeal | Porridge/oatmeal | Brown butter | 1 | 3 |
 | brown-butter-mashed-potatoes | Mashed | Brown butter | 2 | 4 |
 | brown-butter-pecan-custard-ice-cream | Custard-base (French) | Pecan & brown butter | 1 | 3 |
 | brown-sugar-bubble-tea-tapioca-pearls | Milk tea/bubble tea | Classic | 1 | 3 |
@@ -204,6 +208,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | carrot-halva-custard-ice-cream | Custard-base (French) | Carrot halva | 1 | 3 |
 | carrot-nuoc-cham-dipping-sauce | Nuoc cham | Classic | 2 | 4 |
 | carrot-radish-asian-pear-slaw-sesame | Coleslaw | Carrot | 1 | 3 |
+| carrot-spice-steel-cut-oatmeal | Porridge/oatmeal | Carrot | 1 | 3 |
 | catfish-po-boy-fried-catfish-dressed | Po' boy | Classic | 1 | 3 |
 | celeriac-parsnip-puree-crisp-parsnip-ribbons | Purées (celeriac, parsnip) | Classic | 1 | 3 |
 | celeriac-remoulade-mustard-parsley | Celeriac rémoulade | Classic | 3 | 5 |
@@ -278,6 +283,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chipotle-chicken-caesar-avocado-lime | Caesar | Chipotle | 1 | 3 |
 | chipotle-lime-chicken-black-bean-rice-burritos | Burrito | Classic | 2 | 4 |
 | chocolate-angel-food-cake | Angel food | Chocolate | 3 | 5 |
+| chocolate-banana-baked-oatmeal | Porridge/oatmeal | Chocolate | 1 | 3 |
 | chocolate-banana-icebox-cake | Ice-cream cake | Banana | 1 | 3 |
 | chocolate-biscotti | Biscotti | Chocolate | 3 | 5 |
 | chocolate-buche-de-noel | Swiss roll/bûche de Noël | Classic | 3 | 5 |
@@ -389,6 +395,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cranberry-butter-parker-house-rolls | Dinner rolls | Cranberry | 1 | 3 |
 | cranberry-ginger-apple-slab-tart | Fruit tart (crème pâtissière) | Cranberry & ginger | 1 | 3 |
 | cranberry-oat-bars | Bars (magic bars, millionaire's shortbread) | Cranberry | 1 | 3 |
+| cranberry-orange-steel-cut-oatmeal | Porridge/oatmeal | Cranberry & orange | 1 | 3 |
 | cream-cheese-semifreddo-maple-balsamic | Semifreddo | Cream cheese | 1 | 3 |
 | cream-cheese-swirl-brownies | Brownie (fudgy or cakey) | Cream cheese | 1 | 3 |
 | cream-filled-profiteroles-chocolate-sauce | Profiteroles | Classic | 2 | 4 |
@@ -843,6 +850,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mango-lime-sorbet | Sorbet | Classic | 1 | 3 |
 | mango-sticky-rice-toasted-mung-beans | Mango sticky rice | Classic | 2 | 4 |
 | mansaf-lamb-jameed-yoghurt-rice | Mansaf | Classic | 1 | 3 |
+| maple-banana-baked-oatmeal | Porridge/oatmeal | Maple | 1 | 3 |
 | maple-blondies | Blondies | Maple | 1 | 3 |
 | maple-glazed-carrots-ginger-lemon | Glazed carrots | Maple | 1 | 4 |
 | maple-pecan-cranberry-pancakes | Pancakes (American) | Maple | 1 | 3 |
@@ -856,6 +864,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mascarpone-yoghurt-sherbet | Sherbet | Mascarpone | 1 | 3 |
 | massaman-chicken-curry-potatoes-toasted-whole-spices | Massaman | Classic | 1 | 3 |
 | matcha-chiffon-cake | Chiffon | Matcha | 2 | 4 |
+| matcha-overnight-oats | Porridge/oatmeal | Matcha | 1 | 3 |
 | matcha-pancakes-macerated-berries-creme-fraiche | Pancakes (American) | Matcha | 1 | 3 |
 | matzah-ball-soup-chicken-dill | Matzah ball soup | Classic | 2 | 4 |
 | mediterranean-chicken-wraps-feta-peppers-olives | Wraps | Classic | 2 | 4 |
@@ -1014,6 +1023,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | peanut-butter-honey-custard-ice-cream | Custard-base (French) | Peanut butter & honey | 1 | 3 |
 | peanut-butter-hot-fudge-sundae | Sundaes | Peanut butter | 1 | 3 |
 | peanut-butter-swirl-brownies | Brownie (fudgy or cakey) | Peanut butter | 1 | 3 |
+| peanut-honey-banana-steel-cut-oatmeal | Porridge/oatmeal | Peanut & honey | 1 | 3 |
 | peanut-horchata-sorbet | Sorbet | Peanut | 1 | 3 |
 | pear-tarte-tatin-dry-caramel | Tarte Tatin | Pear | 1 | 3 |
 | pear-upside-down-cake | Upside-down | Pear | 2 | 4 |
@@ -1125,6 +1135,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | quick-frozen-watermelon-granita | Granita | Watermelon | 1 | 3 |
 | quick-tomato-paste-ketchup | Ketchup | Classic | 1 | 3 |
 | rainbow-fruit-salad-lime-mint | Fruit salad | Classic | 3 | 5 |
+| raisin-brown-sugar-steel-cut-oatmeal | Porridge/oatmeal | Raisin & brown sugar | 1 | 3 |
 | rasgulla-chenna-dumplings-cardamom-syrup | Rasgulla | Classic | 1 | 3 |
 | raspberry-bakewell-tart-fresh-berries-frangipane | Bakewell | Raspberry | 1 | 3 |
 | raspberry-cream-cheese-brownies | Brownie (fudgy or cakey) | Raspberry | 1 | 3 |
@@ -1323,6 +1334,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spiced-pumpkin-cheesecake | New York (baked, dense) | Pumpkin | 2 | 4 |
 | spiced-pumpkin-gelato | Gelato | Pumpkin | 1 | 3 |
 | spiced-pumpkin-pull-apart-rolls | Dinner rolls | Pumpkin | 1 | 3 |
+| spiced-pumpkin-steel-cut-oatmeal | Porridge/oatmeal | Pumpkin | 1 | 3 |
 | spiced-saudi-chicken-rice-tomato-almonds-raisins | Kabsa | Chicken | 2 | 4 |
 | spiced-sweet-potato-custard-ice-cream | Custard-base (French) | Sweet potato | 1 | 3 |
 | spicy-barbecue-coleslaw-horseradish | Coleslaw | BBQ | 1 | 3 |
@@ -1345,6 +1357,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | steamed-masa-parcels-chicken-tomatillo-salsa-verde | Tamal | Chicken in salsa verde | 2 | 4 |
 | steamed-masa-parcels-red-chilli-chicken | Tamal | Classic | 2 | 4 |
 | steamed-whole-sea-bass-ginger-spring-onions-sizzling-oil | Cantonese steamed whole fish | Classic | 3 | 5 |
+| sticky-date-brown-butter-porridge | Porridge/oatmeal | Date | 1 | 3 |
 | sticky-pecan-buns | Sticky/pecan buns | Classic | 2 | 4 |
 | sticky-toffee-pudding-date-sponge-toffee-sauce | Sticky toffee pudding | Classic | 1 | 3 |
 | sticky-toffee-pudding-date-sponge | Sticky toffee pudding | Classic | 2 | 4 |
@@ -1354,6 +1367,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | stovetop-mac-and-cheese | Mac and cheese | Stovetop | 3 | 5 |
 | strained-yoghurt-labneh-olive-oil-fresh-mint | Labneh | Classic | 2 | 4 |
 | strawberries-and-cream-sheet-pan-pancake | Pancakes (American) | Strawberry | 1 | 3 |
+| strawberry-almond-baked-oatmeal | Porridge/oatmeal | Strawberry & almond | 1 | 3 |
 | strawberry-almond-cream-tart | Frangipane | Strawberry | 1 | 3 |
 | strawberry-cheesecake-bars | Bars (magic bars, millionaire's shortbread) | Strawberry | 1 | 3 |
 | strawberry-eton-mess | Eton mess | Classic | 2 | 4 |
@@ -1395,6 +1409,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | switchel-ginger-maple-cider-vinegar | Switchel | Classic | 1 | 3 |
 | tafelspitz-apple-horseradish | Tafelspitz | Classic | 2 | 4 |
 | tahini-apple-galette-cardamom | Fruit tart (crème pâtissière) | Tahini | 1 | 3 |
+| tahini-banana-porridge-maple-sesame | Porridge/oatmeal | Tahini & banana | 1 | 3 |
 | tall-crisp-popovers | Popovers | Classic | 2 | 4 |
 | tall-crisp-yorkshire-puddings | Yorkshire pudding | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
@@ -1432,6 +1447,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | toasted-coconut-cream-pie | Cream pie (banana, coconut) | Coconut | 2 | 4 |
 | toasted-coconut-custard-ice-cream | Custard-base (French) | Coconut | 1 | 3 |
 | toasted-coconut-lychee-lime-granita | Granita | Coconut, lychee & lime | 1 | 3 |
+| toasted-coconut-steel-cut-oatmeal | Porridge/oatmeal | Coconut | 1 | 3 |
 | toasted-cornflake-milk-soft-serve-crunch | Cornflake milk ice cream | Classic | 1 | 3 |
 | toasted-farro-olive-oil-parsley | Farro | Classic | 2 | 4 |
 | toasted-marshmallow-brownies | Brownie (fudgy or cakey) | Marshmallow | 1 | 3 |

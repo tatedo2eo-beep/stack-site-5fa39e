@@ -1,0 +1,187 @@
+{
+  "slug": "strawberry-almond-baked-oatmeal",
+  "title": "Strawberry and Almond Baked Oatmeal",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "porridge-oatmeal",
+  "dish_title": "Porridge/oatmeal",
+  "flavour": "Strawberry & almond",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "creamy-oat-porridge-banana-blueberries",
+  "changes_from_base": "Sugared strawberries line a baking dish under an oat and flaked-almond layer soaked in an egg and milk custard; it bakes until set with a crunchy almond and brown sugar top, instead of being simmered in a pan.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Juicy strawberries and subtle almond flavour make this baked oatmeal a summer-bright breakfast, tender yet with enough structure to slice neatly.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "shallow baking dish (about 20 x 28 cm)",
+    "large bowl",
+    "medium bowl",
+    "whisk",
+    "fork",
+    "chopping board",
+    "knife",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Bake",
+      "qty": 28,
+      "unit": "g",
+      "item": "unsalted butter, melted, plus a little for the dish"
+    },
+    {
+      "group": "Bake",
+      "qty": 565,
+      "unit": "g",
+      "item": "strawberries, hulled and halved (quartered if large)"
+    },
+    {
+      "group": "Bake",
+      "qty": 25,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Bake",
+      "qty": 135,
+      "unit": "g",
+      "item": "rolled oats (not instant)"
+    },
+    {
+      "group": "Bake",
+      "qty": 35,
+      "unit": "g",
+      "item": "flaked almonds"
+    },
+    {
+      "group": "Bake",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Bake",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Bake",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Bake",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Bake",
+      "qty": 420,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Bake",
+      "qty": 70,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Bake",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Bake",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "almond flavouring"
+    },
+    {
+      "group": "Topping",
+      "qty": 10,
+      "unit": "g",
+      "item": "flaked almonds"
+    },
+    {
+      "group": "Topping",
+      "qty": 13,
+      "unit": "g",
+      "item": "light brown sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Preheat oven to 190 °C (170 °C fan) and butter a 20 x 28 cm baking dish."
+    },
+    {
+      "title": "Fruit",
+      "text": "Toss 565 g halved strawberries (quartered if large) with 25 g light brown sugar and spread in the dish."
+    },
+    {
+      "title": "Oats",
+      "text": "Mix 135 g rolled oats, 35 g flaked almonds, 1 tsp baking powder, ¼ tsp cinnamon and ¼ tsp salt, then scatter over the fruit."
+    },
+    {
+      "title": "Wet",
+      "text": "Whisk 1 large egg, 420 ml milk, 28 g melted butter, 70 g light brown sugar, 1 tsp vanilla and ¼ tsp almond flavouring; pour over the oats."
+    },
+    {
+      "title": "Top",
+      "text": "Scatter 10 g remaining almonds and 13 g light brown sugar on top."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 35-40 min until the top is golden, fruit bubbles at the edges and centre reaches 71 °C."
+    },
+    {
+      "title": "Rest",
+      "text": "Let sit for 10 min before serving."
+    }
+  ],
+  "tips": [
+    "Quarter very large strawberries so they cook evenly with smaller ones.",
+    "Check the almond flavouring label to see if it's nut-free, in case of allergies.",
+    "The bubbling fruit at the edges signals the oatmeal is cooked through."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days; warm portions individually in the microwave for about 1-2 min. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 480,
+    "protein_g": 12.8,
+    "carbs_g": 68.5,
+    "sugar_g": 39.6,
+    "free_sugar_g": 26.4,
+    "fat_g": 18.6,
+    "satfat_g": 6.8,
+    "salt_g": 0.82,
+    "fibre_g": 7.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A slice of strawberry and almond baked oatmeal with visible pink fruit pieces and golden top.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

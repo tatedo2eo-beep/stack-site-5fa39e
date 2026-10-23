@@ -1,0 +1,126 @@
+{
+  "slug": "raisin-brown-sugar-steel-cut-oatmeal",
+  "title": "Raisin and Brown Sugar Steel-Cut Oatmeal",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "porridge-oatmeal",
+  "dish_title": "Porridge/oatmeal",
+  "flavour": "Raisin & brown sugar",
+  "flavour_order": 7,
+  "access": "premium",
+  "base_recipe": "creamy-oat-porridge-banana-blueberries",
+  "changes_from_base": "Steel-cut oats are toasted in butter, simmered in water for a chewier, nuttier porridge, and finished with raisins, light brown sugar and cinnamon instead of milk, banana and blueberries.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Plump raisins and warm brown sugar give this toasted steel-cut oatmeal the comfort-food appeal of a favourite warm pudding.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan with lid",
+    "wooden spoon",
+    "measuring jug",
+    "chopping board",
+    "knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Porridge",
+      "qty": 14,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Porridge",
+      "qty": 175,
+      "unit": "g",
+      "item": "steel-cut oats"
+    },
+    {
+      "group": "Porridge",
+      "qty": 960,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Porridge",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Porridge",
+      "qty": 75,
+      "unit": "g",
+      "item": "raisins"
+    },
+    {
+      "group": "Porridge",
+      "qty": 38,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Porridge",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast",
+      "text": "Melt 14 g butter in a large saucepan over medium heat, add 175 g steel-cut oats and toast, stirring, about 2 min until fragrant and golden."
+    },
+    {
+      "title": "Water",
+      "text": "Pour in 960 ml water and bring to the boil."
+    },
+    {
+      "title": "Simmer",
+      "text": "Reduce to a gentle simmer over medium-low and cook about 20 min, stirring now and then so it does not catch, until creamy but chewy."
+    },
+    {
+      "title": "Rest",
+      "text": "Off the heat, stir in ¼ tsp salt, cover and rest 5 min."
+    },
+    {
+      "title": "Finish",
+      "text": "Stir in 75 g raisins, 38 g light brown sugar and ¼ tsp cinnamon, seasoning with a little more salt to taste."
+    }
+  ],
+  "tips": [
+    "Toasting the oats before cooking brings out their nuttiness and improves the final texture.",
+    "The oatmeal will thicken further as it cools, so stop cooking when it still looks slightly loose.",
+    "Stir in raisins after cooking so they stay plump rather than breaking down."
+  ],
+  "storage": "Serve warm; leftovers keep in the fridge for 2 days and reheat gently on the stovetop with a splash of water or milk. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 283,
+    "protein_g": 6.4,
+    "carbs_g": 53.9,
+    "sugar_g": 21.9,
+    "free_sugar_g": 9.2,
+    "fat_g": 5.7,
+    "satfat_g": 2.3,
+    "salt_g": 0.39,
+    "fibre_g": 5.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A bowl of dark steel-cut oatmeal scattered with plump raisins and a hint of brown sugar on top.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
