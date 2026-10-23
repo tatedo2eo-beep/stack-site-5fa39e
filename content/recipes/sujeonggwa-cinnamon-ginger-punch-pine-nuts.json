@@ -1,0 +1,119 @@
+{
+  "slug": "sujeonggwa-cinnamon-ginger-punch-pine-nuts",
+  "title": "Sujeonggwa: Korean Cinnamon-Ginger Punch with Pine Nuts",
+  "category": "drinks",
+  "cuisine": "Korean",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "sujeonggwa",
+  "dish_title": "Sujeonggwa",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A fragrant, spiced punch made from charred cinnamon, fresh ginger, and dark brown sugar, served warm or chilled.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "gas burner or dry frying pan",
+    "large saucepan",
+    "fine sieve",
+    "jug",
+    "small bowls or glasses"
+  ],
+  "ingredients": [
+    {
+      "qty": 5,
+      "unit": "pc",
+      "item": "cinnamon sticks"
+    },
+    {
+      "qty": 170,
+      "unit": "g",
+      "item": "fresh ginger, thinly sliced"
+    },
+    {
+      "qty": 1400,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "qty": 200,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "qty": 8,
+      "unit": "pc",
+      "item": "whole cloves"
+    },
+    {
+      "qty": 2,
+      "unit": "pc",
+      "item": "star anise"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "pine nuts, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Char",
+      "text": "Using tongs, char 5 cinnamon sticks over a gas flame or in a dry pan for about 30 s until lightly blackened and fragrant."
+    },
+    {
+      "title": "Simmer",
+      "text": "Put the charred cinnamon, 170 g thinly sliced fresh ginger and 1400 ml water in a large pan, bring to the boil, then lower and simmer 20 min."
+    },
+    {
+      "title": "Spice",
+      "text": "Stir in 200 g dark brown sugar, 8 whole cloves and 2 star anise and simmer 5 min more until the sugar dissolves."
+    },
+    {
+      "title": "Steep",
+      "text": "Turn off the heat and steep 10 min."
+    },
+    {
+      "title": "Strain",
+      "text": "Strain through a fine sieve into a jug, discarding the spices and ginger."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve warm, or cool and chill at least 2 h, then float a few of the 1 tbsp pine nuts on each serving."
+    }
+  ],
+  "tips": [
+    "Charring the cinnamon sticks briefly over a flame releases their essential oils and deepens the flavour.",
+    "The drink can be made ahead and chilled; it tastes even better the next day.",
+    "This drink is caffeine-free."
+  ],
+  "storage": "Serve warm immediately, or cool and chill for at least 2 hours before serving cold. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 140,
+    "protein_g": 0.3,
+    "carbs_g": 33.7,
+    "sugar_g": 32.4,
+    "free_sugar_g": 32.3,
+    "fat_g": 1.1,
+    "satfat_g": 0.1,
+    "salt_g": 0.02,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sujeonggwa-basic.jpg",
+  "image_alt": "A glass of amber-coloured spiced punch with a few toasted pine nuts floating on the surface.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

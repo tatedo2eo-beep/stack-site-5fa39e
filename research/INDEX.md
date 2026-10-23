@@ -165,6 +165,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | buttery-succotash-corn-lima | Succotash | Classic | 2 | 4 |
 | cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
 | cafe-de-olla-piloncillo-cinnamon | Café de olla | Classic | 1 | 3 |
+| caffe-americano-espresso-hot-water | Americano | Classic | 0 | 3 |
 | caffe-latte-rosetta-art | Latte | Classic | 4 | 6 |
 | canh-chua-catfish-tamarind-pineapple-soup | Canh chua | Classic | 2 | 4 |
 | canh-chua-snapper-fillet-tomato-pineapple | Canh chua | Fish | 2 | 4 |
@@ -199,6 +200,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | celeriac-parsnip-puree-crisp-parsnip-ribbons | Purées (celeriac, parsnip) | Classic | 1 | 3 |
 | celeriac-remoulade-mustard-parsley | Celeriac rémoulade | Classic | 3 | 5 |
 | century-eggs-chilli-soy-dressing | Century/salted egg | Classic | 1 | 3 |
+| chamomile-lavender-herbal-infusion-lemon | Herbal infusions | Classic | 1 | 3 |
 | champ-spring-onion-mash | Champ | Classic | 1 | 3 |
 | champurrado-thick-mexican-chocolate-masa-drink | Champurrado | Classic | 2 | 4 |
 | chana-masala-chickpeas-tomato-gravy | Chickpeas (chana masala, falafel) | Classic | 2 | 4 |
@@ -316,6 +318,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-bechamel-white-sauce | Béchamel | Classic | 2 | 4 |
 | classic-beef-meatloaf | Meatloaf | Classic | 2 | 4 |
 | classic-british-bread-sauce-clove-onion | Bread sauce | Classic | 1 | 3 |
+| classic-brooklyn-egg-cream-foamed-milk | Egg cream | Classic | 1 | 3 |
 | classic-butter-shortbread | Shortbread | Classic | 2 | 6 |
 | classic-cappuccino-thick-foam | Cappuccino | Classic | 3 | 5 |
 | classic-cheese-quiche | Quiche (cheese) | Classic | 2 | 4 |
@@ -533,6 +536,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fougasse-provencal-leaf-bread | Fougasse | Classic | 1 | 3 |
 | free-form-apple-tart-brown-sugar | Fruit tart (crème pâtissière) | Apple | 1 | 3 |
 | french-dip-roast-beef-sandwiches-thyme-jus | French dip | Classic | 3 | 5 |
+| french-press-coffee-four-minute-steep | French press | Classic | 1 | 3 |
 | fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
 | fresh-fettuccine-raw-tomato-herb-sauce | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Tomato | 1 | 3 |
 | fresh-fig-custard-ice-cream | Custard-base (French) | Fig | 1 | 3 |
@@ -686,9 +690,11 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | hong-kong-milk-tea-evaporated-milk | Hong Kong-style milk tea | Classic | 1 | 3 |
 | horseradish-mashed-potatoes | Mashed | Horseradish | 3 | 5 |
 | hosomaki-thin-sushi-rolls-tuna-salmon-cucumber | Maki sushi | Classic | 1 | 3 |
+| hot-brewed-loose-leaf-black-green-oolong-tea | Hot brewed (black/green/oolong) | Classic | 1 | 3 |
 | hot-dry-noodles | Hot dry noodles | Classic | 1 | 3 |
 | hot-fudge-sundae-whipped-cream-cherry | Sundaes | Classic | 2 | 4 |
 | hot-spinach-artichoke-dip-parmesan-mozzarella | Spinach-artichoke | Classic | 3 | 5 |
+| hot-vanilla-malted-milk-cinnamon | Malted milk | Classic | 0 | 3 |
 | hotteok-brown-sugar-peanut-pancakes | Hotteok | Classic | 1 | 3 |
 | huevos-rancheros-black-beans-fresh-salsa | Huevos rancheros | Classic | 2 | 4 |
 | hummingbird-cake | Hummingbird cake | Classic | 3 | 5 |
@@ -1070,6 +1076,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | potatoes-sarladaises | Potatoes sarladaises | Classic | 2 | 4 |
 | pouding-chomeur-maple-pudding-cake | Pouding chômeur | Classic | 1 | 3 |
 | pound-cake | Pound cake | Classic | 2 | 4 |
+| pour-over-coffee-paper-filter-cone | Pour-over | Classic | 1 | 3 |
 | poutine-fries-curds-gravy | Poutine | Classic | 3 | 5 |
 | prawn-fried-rice-egg-peas-sweetcorn | Fried rice | Shrimp | 3 | 5 |
 | pressed-pesto-mozzarella-tomato-panini | Panini | Classic | 2 | 4 |
@@ -1175,6 +1182,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | sage-beurre-noisette | Beurre noisette | Classic | 2 | 4 |
 | sage-butter-crescent-rolls | Dinner rolls | Sage | 1 | 3 |
 | salade-nicoise-tuna-eggs-potatoes | Niçoise | Classic | 2 | 4 |
+| salep-hot-milk-orange-blossom-cinnamon | Salep | Classic | 1 | 3 |
 | salmon-olive-oregano-linguine | Long dried (spaghetti, linguine, bucatini) | Salmon & olive | 1 | 3 |
 | salt-preserved-lemons | Preserved lemon | Classic | 2 | 4 |
 | salted-caramel-brownies | Brownie (fudgy or cakey) | Salted caramel | 1 | 3 |
@@ -1182,6 +1190,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | salted-caramel-coconut-philadelphia-ice-cream | Philadelphia (no egg) | Salted caramel & coconut | 1 | 3 |
 | salted-chocolate-hot-fudge-sundae | Sundaes | Chocolate | 1 | 3 |
 | salted-edamame-in-pods | Edamame | Classic | 1 | 3 |
+| salted-lassi-toasted-cumin | Lassi | Classic | 1 | 3 |
 | saltenas-bolivian-chicken-hand-pies | Salteña | Chicken | 1 | 3 |
 | salty-peanut-pretzel-ice-cream-cake | Ice-cream cake | Peanut & pretzel | 1 | 3 |
 | samgyetang | Samgyetang | Classic | 2 | 4 |
@@ -1351,6 +1360,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | stuffed-corn-griddle-cakes-refried-beans-cheese-cabbage-relish | Pupusa | Bean-cheese | 3 | 5 |
 | stuffed-paneer-kulcha-ghee-coriander | Kulcha | Classic | 1 | 3 |
 | sugar-snap-pea-pancakes | Pancakes (American) | Pea | 1 | 3 |
+| sujeonggwa-cinnamon-ginger-punch-pine-nuts | Sujeonggwa | Classic | 1 | 3 |
 | sukuma-wiki-collards-tomato-ginger | Sukuma wiki | Classic | 1 | 3 |
 | sun-dried-tomato-basil-pesto-pasta-salad | Pasta salad | Basil & sun-dried tomato | 1 | 3 |
 | swedish-meatballs-cream-gravy | Meatballs | Swedish (allspice-nutmeg) | 3 | 5 |
@@ -1444,6 +1454,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | upside-down-cake | Upside-down | Classic | 2 | 4 |
 | upside-down-spiced-rice-chicken-roasted-aubergine | Maqluba | Eggplant | 3 | 5 |
 | upside-down-spiced-rice-chicken-roasted-cauliflower | Maqluba | Cauliflower | 3 | 5 |
+| vanilla-bean-cream-soda | Cream soda | Classic | 1 | 3 |
 | vanilla-bean-panna-cotta | Panna cotta | Vanilla bean | 2 | 4 |
 | vanilla-bean-rice-pudding | Rice pudding | Vanilla | 2 | 4 |
 | vanilla-bundt-cake | Bundt | Classic | 2 | 4 |

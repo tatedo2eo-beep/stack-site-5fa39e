@@ -1,0 +1,97 @@
+{
+  "slug": "caffe-americano-espresso-hot-water",
+  "title": "Caffè Americano: Espresso Lengthened with Hot Water",
+  "category": "drinks",
+  "cuisine": "Italian",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "americano",
+  "dish_title": "Americano",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A strong, hot coffee made by pouring hot water over a single shot of espresso, optionally topped with steamed milk and sugar.",
+  "servings": 1,
+  "prep_min": 2,
+  "cook_min": 3,
+  "difficulty": "easy",
+  "equipment": [
+    "espresso machine",
+    "kettle",
+    "warmed 180 ml mug",
+    "small jug for the milk"
+  ],
+  "ingredients": [
+    {
+      "qty": 30,
+      "unit": "ml",
+      "item": "freshly pulled espresso (1 single shot)"
+    },
+    {
+      "qty": 150,
+      "unit": "ml",
+      "item": "freshly boiled water"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "steamed whole milk, to serve (optional)"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "demerara sugar cube, to serve (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Warm",
+      "text": "Warm the 180 ml mug with hot water and tip it out."
+    },
+    {
+      "title": "Pull",
+      "text": "Pull a single shot of 30 ml espresso straight into the mug."
+    },
+    {
+      "title": "Pour",
+      "text": "Slowly pour about 150 ml of just-boiled water over the espresso to fill the mug."
+    },
+    {
+      "title": "Crema",
+      "text": "Pouring water onto espresso keeps some crema; for more crema, put the water in first and pull the shot onto it."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve at once, with a little steamed milk and a demerara sugar cube on the side for those who want them."
+    }
+  ],
+  "tips": [
+    "Pouring the water over the espresso keeps some crema; for a thicker crema, put the water in the mug first and pull the shot on top.",
+    "Use a warmed mug to keep the drink hot for longer.",
+    "A single shot contains roughly 60–75 mg of caffeine."
+  ],
+  "storage": "Drink immediately whilst hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 36,
+    "protein_g": 1.0,
+    "carbs_g": 5.9,
+    "sugar_g": 5.4,
+    "free_sugar_g": 3.9,
+    "fat_g": 1.0,
+    "satfat_g": 0.6,
+    "salt_g": 0.05,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "americano-basic.jpg",
+  "image_alt": "A mug of dark coffee with a thin layer of crema foam."
+}

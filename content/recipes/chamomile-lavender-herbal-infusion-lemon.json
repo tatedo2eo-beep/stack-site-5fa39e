@@ -1,0 +1,108 @@
+{
+  "slug": "chamomile-lavender-herbal-infusion-lemon",
+  "title": "Chamomile and Lavender Herbal Infusion with Lemon",
+  "category": "drinks",
+  "cuisine": "International",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "herbal-infusions",
+  "dish_title": "Herbal infusions",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A caffeine-free, delicate infusion of dried chamomile and lavender flowers with bright lemon notes.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 6,
+  "difficulty": "easy",
+  "equipment": [
+    "kettle",
+    "glass teapot with strainer",
+    "airtight jar for leftover blend",
+    "mugs or glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Blend",
+      "qty": 6,
+      "unit": "tbsp",
+      "item": "dried chamomile flowers"
+    },
+    {
+      "group": "Blend",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "dried culinary lavender"
+    },
+    {
+      "group": "To brew",
+      "qty": 960,
+      "unit": "ml",
+      "item": "freshly boiled water"
+    },
+    {
+      "group": "To brew",
+      "qty": 4,
+      "unit": "pc",
+      "item": "thin lemon slices"
+    },
+    {
+      "group": "To serve",
+      "qty": 28,
+      "unit": "g",
+      "item": "honey, to serve (optional)",
+      "note": "about 4 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Mix 6 tbsp dried chamomile flowers and 2 tbsp dried culinary lavender in a jar to make about 8 tbsp blend."
+    },
+    {
+      "title": "Brew",
+      "text": "Put 4 tbsp blend and 4 thin lemon slices in a glass teapot or its strainer."
+    },
+    {
+      "title": "Steep",
+      "text": "Pour over 960 ml just-boiled water, cover so the aroma stays in, and steep 5 min (up to 7 for stronger brew; be careful as lavender turns soapy if overdone)."
+    },
+    {
+      "title": "Strain",
+      "text": "Strain into mugs and add a lemon slice to each."
+    },
+    {
+      "title": "Serve",
+      "text": "Sweeten with honey if liked and serve hot."
+    }
+  ],
+  "tips": [
+    "Keep the teapot covered while steeping to trap the fragrant oils and prevent over-steeping.",
+    "Lavender can turn soapy if steeped too long; 5 minutes is usually ideal.",
+    "Those with ragweed allergies may react to chamomile, which is in the daisy family."
+  ],
+  "storage": "The dried blend keeps airtight and away from light for up to one month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 24,
+    "protein_g": 0.0,
+    "carbs_g": 6.4,
+    "sugar_g": 5.8,
+    "free_sugar_g": 5.8,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "herbal-infusions-basic.jpg",
+  "image_alt": "A clear glass of pale golden herbal tea with a lemon slice floating in it.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

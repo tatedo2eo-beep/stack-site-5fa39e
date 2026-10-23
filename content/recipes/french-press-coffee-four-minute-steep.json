@@ -1,0 +1,99 @@
+{
+  "slug": "french-press-coffee-four-minute-steep",
+  "title": "French Press Coffee with a Short Bloom and Long Steep",
+  "category": "drinks",
+  "cuisine": "French",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "french-press",
+  "dish_title": "French press",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Coarsely ground coffee steeped in hot water for 4–6 minutes, then pressed to separate the grounds, creating a rich and full-bodied brew.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 6,
+  "difficulty": "easy",
+  "equipment": [
+    "1000 ml French press (cafetière)",
+    "kettle",
+    "burr grinder",
+    "digital scale",
+    "long spoon",
+    "timer"
+  ],
+  "ingredients": [
+    {
+      "qty": 56,
+      "unit": "g",
+      "item": "whole coffee beans"
+    },
+    {
+      "qty": 900,
+      "unit": "ml",
+      "item": "water, just off the boil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil",
+      "text": "Boil the water and let it sit 30 s, reaching about 95 °C."
+    },
+    {
+      "title": "Warm",
+      "text": "Warm the 1000 ml press with hot water and empty it."
+    },
+    {
+      "title": "Grind",
+      "text": "Grind the 56 g beans to a coarse consistency, between filter and very coarse."
+    },
+    {
+      "title": "Bloom",
+      "text": "Tip the grounds into the press, pour in just enough water to wet them all and let bloom 30 s."
+    },
+    {
+      "title": "Steep",
+      "text": "Add the rest of the 900 ml water, stir briefly, and set the lid on with the plunger raised so it does not touch the coffee; steep for 4–6 min, depending on how light or full-bodied you like it."
+    },
+    {
+      "title": "Press",
+      "text": "Press the plunger down slowly and steadily, holding the jug; if it resists, lift slightly and press again, but do not force it."
+    },
+    {
+      "title": "Pour",
+      "text": "Pour all the coffee out at once into mugs or a carafe so it does not keep brewing; for a cleaner brew, pour through a paper filter."
+    }
+  ],
+  "tips": [
+    "Press the plunger down slowly; forcing it can cause grounds to clog and break the seal.",
+    "Pour the entire pot at once into mugs or a separate container to stop the brewing process.",
+    "Each 240 ml serving contains roughly 95 mg of caffeine."
+  ],
+  "storage": "Brew and serve fresh. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 2,
+    "protein_g": 0.3,
+    "carbs_g": 0.0,
+    "sugar_g": 0.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "french-press-basic.jpg",
+  "image_alt": "A mug of dark, full-bodied coffee.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

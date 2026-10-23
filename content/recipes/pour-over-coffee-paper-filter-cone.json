@@ -1,0 +1,98 @@
+{
+  "slug": "pour-over-coffee-paper-filter-cone",
+  "title": "Pour-Over Coffee Brewed Through a Paper Filter Cone",
+  "category": "drinks",
+  "cuisine": "International",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "pour-over",
+  "dish_title": "Pour-over",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A precisely controlled brewing method where hot water is poured slowly and evenly over ground coffee, yielding a clean, bright brew.",
+  "servings": 2,
+  "prep_min": 5,
+  "cook_min": 4,
+  "difficulty": "easy",
+  "equipment": [
+    "pour-over cone (such as a V60) with paper filter",
+    "gooseneck kettle",
+    "digital scale with timer",
+    "burr grinder",
+    "carafe or mug"
+  ],
+  "ingredients": [
+    {
+      "qty": 22,
+      "unit": "g",
+      "item": "whole coffee beans, medium roast"
+    },
+    {
+      "qty": 500,
+      "unit": "ml",
+      "item": "filtered water (about 150 ml is for rinsing the filter)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the water to 96–99 °C, just off the boil."
+    },
+    {
+      "title": "Prepare",
+      "text": "Set the paper filter in the cone, rinse it with about 150 ml hot water to remove the papery taste and warm everything, then discard that water."
+    },
+    {
+      "title": "Grind",
+      "text": "Grind the 22 g beans to a medium-fine consistency, like coarse sand."
+    },
+    {
+      "title": "Bloom",
+      "text": "Put the cone and carafe on the scale, add the coffee, shake level and zero the scale, then start the timer and pour about 50 g water in slow circles to wet all the grounds; let it bloom 30–45 s as it swells."
+    },
+    {
+      "title": "Pour",
+      "text": "Pour in pulses of about 100 g in a pencil-thin stream, circling from the centre outwards and back, letting it drain 10–15 s between pulses but never letting the bed run dry, until the scale reads 350 g."
+    },
+    {
+      "title": "Adjust",
+      "text": "If too fast and sour, grind finer; if too slow and bitter, grind coarser; total time should be 3–4 min."
+    },
+    {
+      "title": "Serve",
+      "text": "Swirl and serve."
+    }
+  ],
+  "tips": [
+    "Use a digital scale and timer to dial in the right grind and pouring speed.",
+    "A pencil-thin stream of water helps you control the brew and avoid a bitter, overbrewed result.",
+    "Each 240 ml serving contains roughly 95 mg of caffeine."
+  ],
+  "storage": "Brew and serve fresh. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 2,
+    "protein_g": 0.2,
+    "carbs_g": 0.0,
+    "sugar_g": 0.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pour-over-basic.jpg",
+  "image_alt": "A mug of clear, dark coffee with a thin layer of foam.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

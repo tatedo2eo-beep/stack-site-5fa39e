@@ -1,0 +1,99 @@
+{
+  "slug": "hot-brewed-loose-leaf-black-green-oolong-tea",
+  "title": "Hot-Brewed Loose-Leaf Tea: Black, Green and Oolong",
+  "category": "drinks",
+  "cuisine": "International",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "hot-brewed-black-green-oolong",
+  "dish_title": "Hot brewed (black/green/oolong)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Fresh leaves brewed with precise water temperature and timing to release the full flavour of black, green, or oolong tea.",
+  "servings": 1,
+  "prep_min": 2,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "kettle (ideally with temperature control)",
+    "teapot or mug with infuser",
+    "timer",
+    "mug"
+  ],
+  "ingredients": [
+    {
+      "qty": 2.5,
+      "unit": "g",
+      "item": "loose-leaf black, green or oolong tea (about 1 tsp)"
+    },
+    {
+      "qty": 240,
+      "unit": "ml",
+      "item": "fresh water"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "whole milk, for black tea only (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat fresh water to the right temperature for your tea: black tea to 95–100 °C (just boiled), oolong to 85–90 °C, green tea to 70–80 °C (let boiled water stand 3–5 min or add a splash of cold water)."
+    },
+    {
+      "title": "Warm",
+      "text": "Warm the teapot or mug and tip the water out."
+    },
+    {
+      "title": "Add",
+      "text": "Add about 2.5 g (1 tsp) leaves per 240 ml."
+    },
+    {
+      "title": "Steep",
+      "text": "Pour over the water and steep for the correct time: black 4–5 min, oolong 5–6 min, green 2–3 min; taste a minute early as overlong steeping or too-hot water makes green tea bitter."
+    },
+    {
+      "title": "Strain",
+      "text": "Strain or lift out the infuser."
+    },
+    {
+      "title": "Serve",
+      "text": "Add whole milk to black tea if liked; oolong and good green leaves can be steeped a second time, a little longer."
+    }
+  ],
+  "tips": [
+    "Green tea is especially sensitive to temperature; cooler water and shorter steeping time prevent bitterness.",
+    "Whole milk works best with black tea; oolong and green tea are traditionally drunk without milk.",
+    "Caffeine per 240 ml: black roughly 40–50 mg, oolong roughly 35–40 mg, green roughly 25–30 mg."
+  ],
+  "storage": "Brew and serve fresh. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 21,
+    "protein_g": 0.9,
+    "carbs_g": 2.2,
+    "sugar_g": 1.5,
+    "free_sugar_g": 0.0,
+    "fat_g": 1.0,
+    "satfat_g": 0.6,
+    "salt_g": 0.05,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "hot-brewed-black-green-oolong-basic.jpg",
+  "image_alt": "A mug of brewed tea, clear amber or brown depending on type.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

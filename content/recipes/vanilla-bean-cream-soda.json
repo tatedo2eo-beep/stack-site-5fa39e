@@ -1,0 +1,109 @@
+{
+  "slug": "vanilla-bean-cream-soda",
+  "title": "Homemade Vanilla Pod Cream Soda",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "cream-soda",
+  "dish_title": "Cream soda",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A bubbly, vanilla-scented drink made from a chilled homemade vanilla syrup topped with sparkling water and ice.",
+  "servings": 8,
+  "prep_min": 5,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "fine sieve",
+    "lidded jar",
+    "8 tall glasses",
+    "long spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Vanilla syrup",
+      "qty": 240,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Vanilla syrup",
+      "qty": 200,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Vanilla syrup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "vanilla pod, split"
+    },
+    {
+      "group": "To serve",
+      "qty": 1900,
+      "unit": "ml",
+      "item": "chilled sparkling water"
+    },
+    {
+      "group": "To serve",
+      "qty": 16,
+      "unit": "pc",
+      "item": "ice cubes"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Put 240 ml water and 200 g sugar in a small pan, scrape in the seeds from 1 vanilla pod and add the pod. Bring to a simmer, stirring until the sugar dissolves."
+    },
+    {
+      "title": "Cool",
+      "text": "Take off the heat and leave to infuse until cool, about 1 h."
+    },
+    {
+      "title": "Strain",
+      "text": "Strain the syrup into a jar (or leave the pod in for stronger flavour) and chill."
+    },
+    {
+      "title": "Build",
+      "text": "Fill each of 8 tall glasses with 2 ice cubes."
+    },
+    {
+      "title": "Serve",
+      "text": "Add 3–4 tbsp chilled syrup to each glass and top with about 240 ml chilled sparkling water, pouring slowly down the side to keep the fizz; stir once gently and serve."
+    }
+  ],
+  "tips": [
+    "Make the vanilla syrup ahead and keep it chilled for up to two weeks.",
+    "Pour the sparkling water down the side of the glass, not down the middle, to preserve the fizz.",
+    "This drink is caffeine-free."
+  ],
+  "storage": "The vanilla syrup keeps chilled for two weeks; assemble drinks fresh to order to keep the fizz. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 98,
+    "protein_g": 0.0,
+    "carbs_g": 25.2,
+    "sugar_g": 25.0,
+    "free_sugar_g": 24.9,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "cream-soda-basic.jpg",
+  "image_alt": "A tall glass of pale, fizzy liquid topped with ice cubes and a layer of fine bubbles.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

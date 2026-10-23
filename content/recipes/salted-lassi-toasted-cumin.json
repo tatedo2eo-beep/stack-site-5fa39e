@@ -1,0 +1,110 @@
+{
+  "slug": "salted-lassi-toasted-cumin",
+  "title": "Salted Lassi with Toasted Cumin",
+  "category": "drinks",
+  "cuisine": "Indian",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "lassi",
+  "dish_title": "Lassi",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "photo_pending": true,
+  "summary": "A cold, creamy yoghurt drink made savoury with salt and warmed by toasted, crushed cumin seeds.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 2,
+  "difficulty": "easy",
+  "equipment": [
+    "small dry frying pan",
+    "mortar and pestle",
+    "blender",
+    "4 glasses"
+  ],
+  "ingredients": [
+    {
+      "qty": 480,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt (dahi if you can find it)"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "cumin seeds"
+    },
+    {
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, or to taste",
+      "note": "about 1¼ tsp"
+    },
+    {
+      "qty": 10,
+      "unit": "pc",
+      "item": "ice cubes (about 170 g)"
+    },
+    {
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "cold water, to thin (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast",
+      "text": "Toast ½ tsp cumin seeds in a dry frying pan over medium heat for about 1 min until fragrant and a shade darker."
+    },
+    {
+      "title": "Crush",
+      "text": "Crush half in a mortar and keep the rest whole."
+    },
+    {
+      "title": "Blend",
+      "text": "Put 480 g plain whole-milk yoghurt, the whole toasted cumin, 1¼ tsp fine salt and 10 ice cubes in the blender."
+    },
+    {
+      "title": "Process",
+      "text": "Start slow and increase speed until smooth and frothy, about 30 s."
+    },
+    {
+      "title": "Adjust",
+      "text": "Thin with a tablespoon of cold water at a time if you want it looser, and taste for salt."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour into glasses, sprinkle with the crushed cumin and serve straight away."
+    }
+  ],
+  "tips": [
+    "Toast the cumin seeds in a dry pan to release their oils and deepen their flavour.",
+    "Add cold water gradually to reach your preferred thickness; the ice will melt slightly as you blend.",
+    "Serve immediately after blending whilst still frothy and cold."
+  ],
+  "storage": "Drink immediately. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 74,
+    "protein_g": 4.2,
+    "carbs_g": 5.7,
+    "sugar_g": 5.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 4.0,
+    "satfat_g": 2.5,
+    "salt_g": 1.83,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A tall glass of pale pink, frothy lassi with whole and crushed cumin seeds sprinkled on top.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

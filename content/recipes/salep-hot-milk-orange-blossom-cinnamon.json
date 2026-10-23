@@ -1,0 +1,127 @@
+{
+  "slug": "salep-hot-milk-orange-blossom-cinnamon",
+  "title": "Salep (Sahlab): Thick Hot Milk with Orange Blossom and Cinnamon",
+  "category": "drinks",
+  "cuisine": "Levantine",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "salep",
+  "dish_title": "Salep",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A thick, creamy hot drink infused with orange blossom and vanilla, topped with cinnamon and pistachios.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "whisk",
+    "small bowl",
+    "4 mugs"
+  ],
+  "ingredients": [
+    {
+      "qty": 24,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "cold water"
+    },
+    {
+      "qty": 960,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "qty": 40,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "qty": 2,
+      "unit": "tsp",
+      "item": "orange blossom water"
+    },
+    {
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "pistachios, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Slurry",
+      "text": "Whisk 24 g cornflour with 3 tbsp cold water in a small bowl to a smooth slurry."
+    },
+    {
+      "title": "Heat",
+      "text": "In a saucepan, warm 960 ml whole milk, 40 g sugar and ⅛ tsp fine salt over medium heat, stirring, until it steams and small bubbles form at the edge."
+    },
+    {
+      "title": "Thicken",
+      "text": "Whisk the slurry again and pour it into the milk in a thin stream, whisking all the time; keep whisking on medium-low until it thickens to the consistency of thin custard and coats a spoon, 3–5 min, being careful not to let it catch."
+    },
+    {
+      "title": "Flavour",
+      "text": "Off the heat, stir in 2 tsp orange blossom water and 1 tsp vanilla; taste and add sugar if needed."
+    },
+    {
+      "title": "Serve",
+      "text": "Ladle into mugs, dust with 1 tsp ground cinnamon and scatter 2 tbsp chopped pistachios; drink hot."
+    }
+  ],
+  "tips": [
+    "Whisk the slurry into the hot milk in a thin stream to avoid lumps forming.",
+    "Keep the heat low during thickening to prevent the drink from catching on the bottom.",
+    "Adjust the sugar to your taste after adding the orange blossom water."
+  ],
+  "storage": "Serve immediately whilst hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 238,
+    "protein_g": 8.6,
+    "carbs_g": 29.1,
+    "sugar_g": 22.9,
+    "free_sugar_g": 10.1,
+    "fat_g": 9.8,
+    "satfat_g": 4.8,
+    "salt_g": 0.44,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "salep-basic.jpg",
+  "image_alt": "A mug of pale pink, thick hot drink topped with ground cinnamon and scattered green pistachios.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

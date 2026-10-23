@@ -1,0 +1,101 @@
+{
+  "slug": "classic-brooklyn-egg-cream-foamed-milk",
+  "title": "Classic Brooklyn Egg Cream with Shaken Milk Foam",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "egg-cream",
+  "dish_title": "Egg cream",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A classic cold drink made from cold milk and soda water shaken until foamy, topped with chocolate syrup and a thick foam head.",
+  "servings": 1,
+  "prep_min": 5,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "cocktail shaker or jar with lid",
+    "tall 350 ml glass, chilled",
+    "long spoon"
+  ],
+  "ingredients": [
+    {
+      "qty": 60,
+      "unit": "ml",
+      "item": "very cold whole milk"
+    },
+    {
+      "qty": 240,
+      "unit": "ml",
+      "item": "very cold soda water (seltzer)"
+    },
+    {
+      "qty": 2.5,
+      "unit": "tbsp",
+      "item": "chocolate syrup"
+    },
+    {
+      "qty": 1,
+      "unit": "pc",
+      "item": "ice cube"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Chill",
+      "text": "Chill a tall 350 ml glass."
+    },
+    {
+      "title": "Shake",
+      "text": "Put 60 ml very cold whole milk and about 2 tbsp of the soda water in a cocktail shaker or jar with 1 ice cube, close and shake hard 15–20 s until frothy."
+    },
+    {
+      "title": "Pour",
+      "text": "Pour into the chilled glass."
+    },
+    {
+      "title": "Top",
+      "text": "Top up with the remaining soda water, pouring into the centre so a thick white foam rises to the rim."
+    },
+    {
+      "title": "Drizzle",
+      "text": "Drizzle 2½ tbsp chocolate syrup through the foam so it sinks to the bottom, leaving a white head over a dark base."
+    },
+    {
+      "title": "Drink",
+      "text": "Stir gently only in the lower part if you want it mixed, keeping the foam intact, and drink immediately."
+    }
+  ],
+  "tips": [
+    "Shake the milk and soda water hard and fast to create the characteristic thick foam.",
+    "Pour the soda water slowly down the centre of the glass to build a substantial foam head.",
+    "Drink immediately whilst the foam is thick and the drink is cold."
+  ],
+  "storage": "Consume immediately. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 173,
+    "protein_g": 3.0,
+    "carbs_g": 35.5,
+    "sugar_g": 30.6,
+    "free_sugar_g": 27.5,
+    "fat_g": 2.5,
+    "satfat_g": 1.4,
+    "salt_g": 0.17,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "egg-cream-basic.jpg",
+  "image_alt": "A tall glass with a thick white foam head above dark chocolate liquid at the bottom.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

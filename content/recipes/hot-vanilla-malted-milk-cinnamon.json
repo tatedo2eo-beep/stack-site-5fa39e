@@ -1,0 +1,98 @@
+{
+  "slug": "hot-vanilla-malted-milk-cinnamon",
+  "title": "Hot Vanilla Malted Milk with Cinnamon",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "malted-milk",
+  "dish_title": "Malted milk",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A warm, creamy drink of malted milk and brown sugar sweetened with vanilla, topped with a cloud of frothy foam and dusted with cinnamon.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "whisk",
+    "blender",
+    "4 mugs"
+  ],
+  "ingredients": [
+    {
+      "qty": 960,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "qty": 1,
+      "unit": "pc",
+      "item": "vanilla pod, split and seeds scraped"
+    },
+    {
+      "qty": 85,
+      "unit": "g",
+      "item": "malted milk powder"
+    },
+    {
+      "qty": 50,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse",
+      "text": "Put 960 ml whole milk in a medium saucepan with 1 vanilla pod (split and seeds scraped). Warm over medium heat until it steams, without boiling."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk in 85 g malted milk powder and 50 g light brown sugar until dissolved, then remove the pod."
+    },
+    {
+      "title": "Blend",
+      "text": "Carefully blend about 240 ml of the hot milk in the blender (lid vented, covered with a cloth) until very frothy."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour the plain malted milk into 4 mugs, spoon the foam on top and dust with ½ tsp ground cinnamon."
+    }
+  ],
+  "tips": [
+    "When blending hot liquid, fill the blender no more than a third full and vent the lid to avoid splashing.",
+    "Malted milk powder contains gluten (barley and wheat); avoid if coeliac or gluten-sensitive.",
+    "This drink is caffeine-free."
+  ],
+  "storage": "Serve immediately whilst hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 280,
+    "protein_g": 10.1,
+    "carbs_g": 41.4,
+    "sugar_g": 37.9,
+    "free_sugar_g": 25.3,
+    "fat_g": 9.4,
+    "satfat_g": 5.3,
+    "salt_g": 0.43,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "malted-milk-basic.jpg",
+  "image_alt": "A white mug of pale tan hot milk topped with a thick layer of light foam and dusted with cinnamon."
+}
