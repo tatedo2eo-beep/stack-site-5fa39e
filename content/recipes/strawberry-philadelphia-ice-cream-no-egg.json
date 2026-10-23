@@ -1,0 +1,131 @@
+{
+  "slug": "strawberry-philadelphia-ice-cream-no-egg",
+  "title": "Philadelphia-Style Strawberry Ice Cream (No Egg)",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "philadelphia-no-egg",
+  "dish_title": "Philadelphia (no egg)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "An egg-free cream base churned with sweet macerated strawberry purée and finished with small pieces of fresh berry.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "medium saucepan",
+    "blender",
+    "bowl",
+    "sharp knife",
+    "large jug",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Strawberries",
+      "qty": 450,
+      "unit": "g",
+      "item": "strawberries, hulled"
+    },
+    {
+      "group": "Strawberries",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Strawberries",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Base",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Base",
+      "qty": 120,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 80,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the base",
+      "text": "Warm the cream, milk, sugar, corn syrup and salt in the saucepan, stirring, just until it reaches a simmer and the sugar has dissolved. Pour into the jug, cool, then chill for at least 4 h. The corn syrup keeps the ice cream soft enough to scoop."
+    },
+    {
+      "title": "Macerate the berries",
+      "text": "Slice the strawberries into the bowl, toss with the 50 g sugar and the lemon juice and leave for 30 min until they release plenty of juice."
+    },
+    {
+      "title": "Purée",
+      "text": "Lift out about a quarter of the berries and chop them into small pieces. Blend the rest with all the juice until smooth, then chill both."
+    },
+    {
+      "title": "Combine",
+      "text": "Stir the purée into the cold cream base until evenly pink."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn for 20-30 min until thick like soft serve. Add the chopped strawberries in the last minute so they stay in pieces."
+    },
+    {
+      "title": "Freeze and serve",
+      "text": "Pack into the container, cover the surface with baking paper and freeze for at least 4 h. Leave for 10 min before scooping, and serve with a halved strawberry."
+    }
+  ],
+  "tips": [
+    "Use the ripest, most fragrant strawberries you can find; flavour matters more than size.",
+    "Keep the fruit pieces small, or they freeze icy.",
+    "Swap in raspberries or peaches using the same weight of fruit."
+  ],
+  "storage": "Keep frozen in a covered container for up to 1 week; the fruit pieces turn icy after that.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 333,
+    "protein_g": 2.6,
+    "carbs_g": 33.3,
+    "sugar_g": 31.7,
+    "free_sugar_g": 26.4,
+    "fat_g": 22.3,
+    "satfat_g": 14.1,
+    "salt_g": 0.26,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "philadelphia-no-egg-basic.jpg",
+  "image_alt": "Scoops of pink strawberry ice cream flecked with red fruit, with a halved strawberry, in a dark bowl."
+}

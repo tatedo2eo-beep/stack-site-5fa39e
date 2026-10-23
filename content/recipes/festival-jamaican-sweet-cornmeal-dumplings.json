@@ -1,0 +1,129 @@
+{
+  "slug": "festival-jamaican-sweet-cornmeal-dumplings",
+  "title": "Festival (Jamaican Sweet Fried Cornmeal Dumplings)",
+  "category": "snacks-sides",
+  "cuisine": "Jamaican",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "festival",
+  "dish_title": "Festival",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A soft dough of flour, cornmeal, sugar, nutmeg and milk, rolled into short cigars and deep-fried for about 2 minutes until golden. Kept warm in a low oven and served hot.",
+  "servings": 5,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large mixing bowl",
+    "whisk",
+    "deep heavy pot or Dutch oven",
+    "cooking thermometer",
+    "slotted spoon or spider",
+    "tray lined with kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 130,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 170,
+      "unit": "g",
+      "item": "fine yellow cornmeal"
+    },
+    {
+      "group": "Dough",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Dough",
+      "qty": 150,
+      "unit": "ml",
+      "item": "whole milk, plus up to 30 ml more"
+    },
+    {
+      "group": "Frying",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dough",
+      "text": "Whisk the flour, cornmeal, sugar, salt, bicarbonate and nutmeg together. Stir in the milk a little at a time until the dough is soft and pliable, like modelling clay; use the extra milk only if it stays dry and crumbly."
+    },
+    {
+      "title": "Shape",
+      "text": "Heat the oven to 90 °C to keep the festival warm. Cut the dough into 10 equal pieces and roll each lightly between your palms into a fat cigar about 9 cm long and 2.5 cm thick, handling it as little as possible."
+    },
+    {
+      "title": "Fry",
+      "text": "Heat oil 5 cm deep to 185 °C. Fry 4-5 at a time, turning after 1 minute, for about 2 min in total, keeping the oil at about 170 °C, until deep golden. Break one open to check the centre is fluffy, not wet."
+    },
+    {
+      "title": "Serve",
+      "text": "Drain on the tray and keep warm in the oven while you fry the rest. Serve hot."
+    }
+  ],
+  "tips": [
+    "Overworked dough makes tough festival; mix only until it comes together.",
+    "Coconut milk instead of dairy milk gives a lovely island flavour.",
+    "If they brown before the centre cooks, lower the heat a little.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best eaten fresh. Keep leftovers airtight for 1 day and reheat in a 180 °C oven for 5 min. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 321,
+    "protein_g": 6.1,
+    "carbs_g": 51.0,
+    "sugar_g": 4.8,
+    "free_sugar_g": 2.6,
+    "fat_g": 9.9,
+    "satfat_g": 1.3,
+    "salt_g": 0.66,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "festival-basic.jpg",
+  "image_alt": "Golden, smooth oval fried cornmeal dumplings piled on a dark plate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

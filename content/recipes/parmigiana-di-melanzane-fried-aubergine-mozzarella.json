@@ -1,0 +1,141 @@
+{
+  "slug": "parmigiana-di-melanzane-fried-aubergine-mozzarella",
+  "title": "Parmigiana di Melanzane (Layered Fried Aubergine with Tomato and Mozzarella)",
+  "category": "snacks-sides",
+  "cuisine": "Italian (Southern)",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "parmigiana-di-melanzane",
+  "dish_title": "Parmigiana di melanzane",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Aubergine slices salted, blotted and fried until browned, then layered with garlic and basil tomato sauce, mozzarella and oregano and baked at 200 °C until bubbling. Rested 10 min before cutting.",
+  "servings": 6,
+  "prep_min": 30,
+  "cook_min": 75,
+  "difficulty": "medium",
+  "equipment": [
+    "2 wire racks set over trays",
+    "kitchen paper",
+    "heavy cast-iron or deep frying pan",
+    "saucepan",
+    "20 x 25 cm baking dish (about 1500 ml)"
+  ],
+  "ingredients": [
+    {
+      "group": "Aubergine",
+      "qty": 900,
+      "unit": "g",
+      "item": "aubergines, sliced 6 mm thick lengthways"
+    },
+    {
+      "group": "Aubergine",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for drawing out",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Aubergine",
+      "qty": 500,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, sliced"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 800,
+      "unit": "g",
+      "item": "canned crushed tomatoes"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh basil leaves, plus extra to serve"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Layers",
+      "qty": 340,
+      "unit": "g",
+      "item": "low-moisture mozzarella, coarsely grated",
+      "note": "check the label for microbial (non-animal) rennet"
+    },
+    {
+      "group": "Layers",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried oregano"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Salt the aubergine",
+      "text": "Lay the slices on the racks, sprinkle both sides lightly with salt and leave for 20 min, then blot very dry."
+    },
+    {
+      "title": "Make the sauce",
+      "text": "Meanwhile, warm the oil and garlic in the saucepan over medium heat until the garlic sizzles. Add the tomatoes and half the basil and simmer for 20-25 min until thick, then season with the salt."
+    },
+    {
+      "title": "Fry",
+      "text": "Heat 1 cm oil in the frying pan to about 180 °C. Fry the slices in batches for 2-3 min per side until browned, and drain on kitchen paper. Heat the oven to 200 °C."
+    },
+    {
+      "title": "Layer and bake",
+      "text": "Spread a thin layer of sauce in the dish, then layer aubergine, sauce, mozzarella, oregano and the rest of the basil, repeating and finishing with sauce and cheese. Bake for 25-30 min until bubbling and browned. Rest for 10 min before cutting and serve topped with basil."
+    }
+  ],
+  "tips": [
+    "Drain the fried slices well, or the dish will be greasy.",
+    "Make it a day ahead; it slices more neatly once set.",
+    "Check the mozzarella label for microbial (non-animal) rennet.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Refrigerate up to 3 days. Reheat covered at 180 °C until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 435,
+    "protein_g": 16.0,
+    "carbs_g": 20.4,
+    "sugar_g": 11.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 34.1,
+    "satfat_g": 10.7,
+    "salt_g": 2.36,
+    "fibre_g": 7.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "parmigiana-di-melanzane-advanced.jpg",
+  "image_alt": "A square of layered aubergine, tomato and melted mozzarella with a basil leaf.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

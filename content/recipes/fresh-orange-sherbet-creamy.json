@@ -1,0 +1,124 @@
+{
+  "slug": "fresh-orange-sherbet-creamy",
+  "title": "Fresh Orange Sherbet",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sherbet",
+  "dish_title": "Sherbet",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Fresh orange and lemon juice sweetened with zest-scented sugar, whisked into softly whipped cream and churned into a light, creamy sherbet.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "large bowl",
+    "whisk",
+    "fine sieve",
+    "medium bowl",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Juice base",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated orange zest"
+    },
+    {
+      "group": "Juice base",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Juice base",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Juice base",
+      "qty": 480,
+      "unit": "ml",
+      "item": "fresh orange juice"
+    },
+    {
+      "group": "Juice base",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Juice base",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Cream",
+      "qty": 160,
+      "unit": "ml",
+      "item": "double cream"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make zest sugar",
+      "text": "Rub the zest into the sugar and salt with your fingertips until the sugar is damp, orange-tinted and fragrant."
+    },
+    {
+      "title": "Dissolve",
+      "text": "Whisk in the orange juice, lemon juice and corn syrup, and keep whisking for about 3 min until no grains of sugar remain."
+    },
+    {
+      "title": "Chill",
+      "text": "Strain into the medium bowl and chill until very cold, about 4 °C: 30-60 min in the freezer, stirring now and then. Do not let it freeze."
+    },
+    {
+      "title": "Add the cream",
+      "text": "Whip the cream to soft peaks in the large bowl. Pour in the cold juice in a thin stream, whisking constantly, so the mixture stays smooth."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn straight away for 25-30 min until it has the texture of soft serve."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pack into the container, press baking paper on the surface and freeze for at least 3 h. Leave for 5-10 min before scooping."
+    }
+  ],
+  "tips": [
+    "Freshly squeezed juice gives the brightest flavour; you need about 6 oranges.",
+    "The juice must be very cold before it meets the cream, or the cream can split.",
+    "Blood oranges give a pretty pink sherbet."
+  ],
+  "storage": "Keep frozen and covered for up to 1 week.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 268,
+    "protein_g": 1.4,
+    "carbs_g": 45.7,
+    "sugar_g": 43.5,
+    "free_sugar_g": 42.7,
+    "fat_g": 9.8,
+    "satfat_g": 6.2,
+    "salt_g": 0.15,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sherbet-basic.jpg",
+  "image_alt": "Two scoops of pale peach-orange creamy sherbet in a dark bowl."
+}

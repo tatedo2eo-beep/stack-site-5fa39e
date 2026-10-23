@@ -1,0 +1,109 @@
+{
+  "slug": "lemon-sorbet-water-ice",
+  "title": "Lemon Sorbet (Lemon Water Ice)",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Lemon",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Whole lemon flesh blended and sieved instead of mango and lime, with more water and sugar and a little zest; no corn syrup, so it is icier, like a water ice.",
+  "summary": "Whole lemon flesh blended with sugar and water, sieved and churned into a sharp, refreshing lemon sorbet in the style of a water ice.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "zester",
+    "sharp knife",
+    "food processor or blender",
+    "fine sieve",
+    "large jug",
+    "900 g loaf tin"
+  ],
+  "ingredients": [
+    {
+      "group": "Sorbet",
+      "qty": 8,
+      "unit": "pc",
+      "item": "lemons"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 480,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 210,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Chill the tin",
+      "text": "Put the loaf tin in the freezer so the sorbet does not melt when it goes in."
+    },
+    {
+      "title": "Zest",
+      "text": "Finely grate 1 tsp of zest from one lemon and set it aside."
+    },
+    {
+      "title": "Prepare the lemons",
+      "text": "With the sharp knife cut away the peel and all the white pith. Chop the flesh and remove the seeds; you need about 700 ml of chopped fruit."
+    },
+    {
+      "title": "Blend and sieve",
+      "text": "Process the lemon flesh with 120 ml of the water, the sugar and salt for about 1 min until very smooth. Pour through the sieve into the jug, pressing hard on the solids, then stir in the remaining 360 ml water. Chill until cold."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn for 15-25 min until it looks like grainy soft serve. Add the zest during the last minute."
+    },
+    {
+      "title": "Freeze",
+      "text": "Spread in the cold tin, cover and freeze for at least 1 h. If it is too hard to scoop, leave it for 5-10 min first."
+    }
+  ],
+  "tips": [
+    "Remove every bit of white pith; it makes the sorbet bitter.",
+    "Unwaxed lemons are best when you use the zest.",
+    "Serve between courses or with fresh berries."
+  ],
+  "storage": "Keep frozen and covered for up to 1 month.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 152,
+    "protein_g": 0.3,
+    "carbs_g": 40.2,
+    "sugar_g": 36.8,
+    "free_sugar_g": 36.8,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.13,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sorbet-basic--lemon.jpg",
+  "image_alt": "Two scoops of pale yellow lemon sorbet in a dark bowl on a slate."
+}

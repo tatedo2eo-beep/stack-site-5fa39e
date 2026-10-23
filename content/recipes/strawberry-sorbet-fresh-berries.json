@@ -1,0 +1,115 @@
+{
+  "slug": "strawberry-sorbet-fresh-berries",
+  "title": "Fresh Strawberry Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Strawberry",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Raw strawberries blended with sugar, corn syrup, lemon and a pinch of salt instead of mango, lime and a cooked syrup; chilled 6 h and frozen in a loaf tin.",
+  "summary": "Raw ripe strawberries blended with sugar, corn syrup and a squeeze of lemon, chilled and churned into a deep red, fresh-tasting sorbet.",
+  "servings": 10,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "blender",
+    "large bowl",
+    "900 g loaf tin",
+    "baking paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Sorbet",
+      "qty": 1100,
+      "unit": "g",
+      "item": "strawberries, hulled and quartered"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 120,
+      "unit": "ml",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 5,
+      "unit": "pc",
+      "item": "small strawberries, halved, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Blend the quartered strawberries, sugar, corn syrup, lemon juice and salt for about 1 min until completely smooth. Taste: add a little more lemon if the flavour seems flat."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and refrigerate for at least 6 h, until 4 °C or colder. Put the loaf tin in the freezer."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn for 15-25 min until thick like soft serve."
+    },
+    {
+      "title": "Freeze",
+      "text": "Scrape into the cold tin, pressing out any air pockets, lay baking paper on the surface and freeze for at least 6 h."
+    },
+    {
+      "title": "Serve",
+      "text": "Leave for 5-10 min to soften, then scoop into bowls and add a halved strawberry to each."
+    }
+  ],
+  "tips": [
+    "Use the reddest, ripest strawberries for the deepest colour.",
+    "Sieve out the seeds after blending if you want a silkier sorbet.",
+    "The salt is tiny but sharpens the fruit flavour."
+  ],
+  "storage": "Keep frozen and covered for up to 1 week.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 162,
+    "protein_g": 0.8,
+    "carbs_g": 41.7,
+    "sugar_g": 38.3,
+    "free_sugar_g": 32.7,
+    "fat_g": 0.4,
+    "satfat_g": 0.0,
+    "salt_g": 0.17,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sorbet-basic--strawberry.jpg",
+  "image_alt": "Two scoops of deep red strawberry sorbet with a halved fresh strawberry in a dark bowl."
+}

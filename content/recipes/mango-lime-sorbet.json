@@ -1,0 +1,108 @@
+{
+  "slug": "mango-lime-sorbet",
+  "title": "Mango Lime Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Ripe mango blended with lime and a light sugar syrup, chilled overnight and churned into a smooth, vivid orange sorbet.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "small saucepan",
+    "blender",
+    "covered container for chilling",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Syrup",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 750,
+      "unit": "g",
+      "item": "diced ripe mango flesh",
+      "note": "from 3-4 large mangoes"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 120,
+      "unit": "ml",
+      "item": "lime juice",
+      "note": "5-6 limes"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 50,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend the fruit",
+      "text": "Purée the mango, lime juice and corn syrup in the blender until completely smooth."
+    },
+    {
+      "title": "Add the syrup",
+      "text": "Warm the sugar and water in the small pan just until the sugar dissolves, then pour it into the blender and blend briefly."
+    },
+    {
+      "title": "Chill overnight",
+      "text": "Transfer to a covered container and refrigerate overnight. Put the freezer container in the freezer at the same time."
+    },
+    {
+      "title": "Churn",
+      "text": "Blend the purée again for 1 min to lighten it, then churn for about 25 min until thick."
+    },
+    {
+      "title": "Firm up",
+      "text": "Pack into the cold container and freeze for at least 2 h. If it has frozen hard, soften it in the fridge for 20-30 min before scooping."
+    }
+  ],
+  "tips": [
+    "Choose very ripe, fragrant mangoes with no stringy fibres; Alphonso or Ataulfo are ideal.",
+    "Frozen mango works too; thaw it before blending.",
+    "Taste before chilling: if the mango is very sweet, add a little more lime."
+  ],
+  "storage": "Keep frozen and covered for up to 2 weeks.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 168,
+    "protein_g": 1.1,
+    "carbs_g": 43.5,
+    "sugar_g": 40.4,
+    "free_sugar_g": 23.4,
+    "fat_g": 0.5,
+    "satfat_g": 0.1,
+    "salt_g": 0.02,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sorbet-basic.jpg",
+  "image_alt": "Two round scoops of deep orange mango sorbet in a dark bowl."
+}

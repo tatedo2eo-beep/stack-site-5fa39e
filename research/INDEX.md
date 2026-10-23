@@ -82,6 +82,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | buttery-rice-pilaf-toasted-vermicelli-herbs | Steamed/pilaf | Classic | 3 | 5 |
 | buttery-succotash-corn-lima | Succotash | Classic | 2 | 4 |
 | cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
+| caponata-aubergine-celery-capers-olives | Caponata | Classic | 1 | 3 |
 | caramelised-onion-flatbread-anchovies-black-olives-thyme | Pissaladière | Classic | 3 | 5 |
 | caramelised-onion-soup-gruyere-toasts | French onion | Classic | 3 | 5 |
 | carciofi-alla-giudia-twice-fried-artichokes | Carciofi alla giudia | Classic | 2 | 4 |
@@ -91,6 +92,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | carne-asada-street-tacos-onion-coriander-lime | Taco | Classic | 2 | 4 |
 | carrot-cake | Carrot | Classic | 2 | 4 |
 | carrot-nuoc-cham-dipping-sauce | Nuoc cham | Classic | 2 | 4 |
+| celeriac-parsnip-puree-crisp-parsnip-ribbons | Purées (celeriac, parsnip) | Classic | 1 | 3 |
 | celeriac-remoulade-mustard-parsley | Celeriac rémoulade | Classic | 3 | 5 |
 | champ-spring-onion-mash | Champ | Classic | 1 | 3 |
 | champurrado-thick-mexican-chocolate-masa-drink | Champurrado | Classic | 2 | 4 |
@@ -291,8 +293,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | feathered-iced-bakewell-tart-raspberry | Bakewell | Classic | 2 | 4 |
 | fermented-sour-dill-pickles | Sour dill pickles | Classic | 2 | 4 |
 | fesenjan | Fesenjan | Classic | 2 | 4 |
+| festival-jamaican-sweet-cornmeal-dumplings | Festival | Classic | 2 | 4 |
 | fettuccine-alfredo | Alfredo (Roman original) | Classic | 3 | 5 |
 | filipino-oxtail-peanut-stew | Kare-kare | Classic | 2 | 4 |
+| fior-di-latte-gelato-pure-milk | Gelato | Fior di latte | 1 | 3 |
 | fish-fragrant-aubergine-yuxiang-qiezi | Dunlop fish-fragrant aubergine (yuxiang qiezi) | Classic | 1 | 3 |
 | flaky-butter-croissants-laminated | Croissant | Classic | 2 | 4 |
 | flaky-cong-you-bing-chinese-scallion-pancakes | Cong you bing | Classic | 3 | 5 |
@@ -313,6 +317,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fresh-herb-gravy | Gravy | Herb | 2 | 4 |
 | fresh-limeade-mashed-zest-mint | Limeade | Classic | 2 | 4 |
 | fresh-mint-parsley-sauce | Mint sauce | Classic | 1 | 3 |
+| fresh-orange-sherbet-creamy | Sherbet | Classic | 1 | 3 |
 | fresh-red-chilli-sambal | Sambal | Classic | 2 | 4 |
 | fried-mini-pizzas-tomato-mozzarella-basil | Pizza fritta/montanara | Classic | 2 | 4 |
 | frothy-whisked-matcha-green-tea | Matcha (whisked) | Classic | 2 | 4 |
@@ -454,6 +459,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-meringue-pie | Meringue pie (lemon) | Classic | 2 | 4 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
 | lemon-pound-cake | Pound cake | Lemon | 3 | 5 |
+| lemon-sorbet-water-ice | Sorbet | Lemon | 2 | 4 |
 | lemon-sugar-blueberry-muffins | American muffin (blueberry style, muffin method) | Classic | 2 | 4 |
 | lemon-zest-posset | Posset | Lemon | 2 | 4 |
 | lemony-tuna-salad-celery-capers | Tuna salad | Classic | 3 | 5 |
@@ -470,6 +476,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | malaysian-style-fish-head-curry-okra-aubergine | Fish head curry | Classic | 2 | 4 |
 | malloreddus-saffron-tomato | Malloreddus | Classic | 2 | 4 |
 | mango-lassi-cardamom-pistachio | Lassi | Mango | 2 | 4 |
+| mango-lime-sorbet | Sorbet | Classic | 1 | 3 |
 | mango-sticky-rice-toasted-mung-beans | Mango sticky rice | Classic | 2 | 4 |
 | maple-glazed-carrots-ginger-lemon | Glazed carrots | Maple | 1 | 4 |
 | marble-pound-cake | Pound cake | Marble | 3 | 5 |
@@ -550,6 +557,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pappardelle-beef-ragu | Pappardelle | Classic | 2 | 4 |
 | parmesan-garlic-hasselback-potatoes | Hasselback | Parmesan | 2 | 4 |
 | parmesan-thyme-stuffed-mushrooms | Stuffed mushrooms | Classic | 2 | 4 |
+| parmigiana-di-melanzane-fried-aubergine-mozzarella | Parmigiana di melanzane | Classic | 1 | 3 |
 | parsley-lemon-garlic-gremolata | Gremolata | Classic | 2 | 4 |
 | pasta-al-limone | Pasta al limone | Classic | 2 | 4 |
 | pasta-alla-norma | Alla Norma | Classic | 2 | 4 |
@@ -581,6 +589,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pineapple-upside-down-cake | Upside-down | Pineapple | 2 | 4 |
 | piri-piri-chicken | Piri-piri | Classic | 2 | 4 |
 | pistachio-baklava-green-pistachio-squares | Baklava | Pistachio | 3 | 5 |
+| pistachio-gelato-steeped-pistachio-milk | Gelato | Classic | 1 | 3 |
 | pistachio-sesame-dukkah | Dukkah | Classic | 2 | 4 |
 | pistachio-tahini-halva-squares | Halva | Classic | 2 | 4 |
 | pizzelle | Pizzelle | Classic | 2 | 4 |
@@ -647,6 +656,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | salade-nicoise-tuna-eggs-potatoes | Niçoise | Classic | 2 | 4 |
 | salt-preserved-lemons | Preserved lemon | Classic | 2 | 4 |
 | samgyetang | Samgyetang | Classic | 2 | 4 |
+| sarma-rice-stuffed-vine-leaves-lemon | Sarma | Classic | 1 | 3 |
 | sarson-ka-saag-makki-roti | Saag | Classic | 1 | 3 |
 | savoury-cabbage-pancakes-spring-onion-tangy-sauce-mayo | Okonomiyaki (Japanese "pizza" – debatable) | Classic | 3 | 5 |
 | scotch-broth-lamb-barley-kale | Scotch broth | Classic | 2 | 4 |
@@ -746,6 +756,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | strained-yoghurt-labneh-olive-oil-fresh-mint | Labneh | Classic | 2 | 4 |
 | strawberry-eton-mess | Eton mess | Classic | 2 | 4 |
 | strawberry-jam-filled-orange-doughnuts | Sufganiyot | Classic | 1 | 3 |
+| strawberry-philadelphia-ice-cream-no-egg | Philadelphia (no egg) | Classic | 1 | 3 |
+| strawberry-sorbet-fresh-berries | Sorbet | Strawberry | 2 | 4 |
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
 | stuffed-corn-griddle-cakes-melted-cheese-cabbage-relish | Pupusa | Cheese | 4 | 6 |
 | stuffed-corn-griddle-cakes-refried-beans-cheese-cabbage-relish | Pupusa | Bean-cheese | 3 | 5 |
@@ -808,6 +820,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | vanilla-cream-chocolate-glazed-eclairs | Éclair | Classic | 2 | 4 |
 | vanilla-creme-patissiere | Crème pâtissière | Classic | 2 | 4 |
 | vanilla-cupcakes | Cupcakes | Classic | 2 | 4 |
+| vanilla-custard-ice-cream-french-style | Custard-base (French) | Classic | 1 | 3 |
 | vanilla-glazed-yeast-raised-doughnuts | Yeast-raised ring | Classic | 2 | 4 |
 | vanilla-panna-cotta-raspberry-sauce | Panna cotta | Classic | 3 | 5 |
 | vanilla-pod-creme-anglaise | Crème anglaise | Classic | 2 | 4 |

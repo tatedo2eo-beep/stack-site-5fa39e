@@ -1,0 +1,156 @@
+{
+  "slug": "pistachio-gelato-steeped-pistachio-milk",
+  "title": "Pistachio Gelato with Steeped Pistachio Milk",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "gelato",
+  "dish_title": "Gelato",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Ground pistachios steeped in hot milk, strained and cooked into a light custard with a little cornflour, then churned into dense, nutty gelato.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "food processor",
+    "large saucepan with lid",
+    "sieve lined with a triple layer of muslin",
+    "2 large bowls",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Pistachio milk",
+      "qty": 300,
+      "unit": "g",
+      "item": "shelled unsalted pistachios"
+    },
+    {
+      "group": "Pistachio milk",
+      "qty": 840,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Pistachio milk",
+      "qty": 80,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Pistachio milk",
+      "qty": 110,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Pistachio milk",
+      "qty": 80,
+      "unit": "ml",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Pistachio milk",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "tsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Custard",
+      "qty": 60,
+      "unit": "ml",
+      "item": "whole milk"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Grind the nuts",
+      "text": "Process the pistachios in the food processor for about 20 seconds until finely ground."
+    },
+    {
+      "title": "Steep",
+      "text": "Heat the 840 ml milk, cream, 110 g sugar, corn syrup and salt in the large saucepan until tiny bubbles form at the edge. Take off the heat, stir in the pistachios, cover and leave for 1 h to infuse."
+    },
+    {
+      "title": "Strain",
+      "text": "Pour the mixture through the muslin-lined sieve into a bowl. Gather up the cloth and squeeze firmly to extract as much pistachio milk as possible. Discard the pulp."
+    },
+    {
+      "title": "Mix the yolks",
+      "text": "In the second bowl whisk the yolks, 40 g sugar, cornflour and 60 ml milk until smooth."
+    },
+    {
+      "title": "Cook the custard",
+      "text": "Rewarm the pistachio milk in the rinsed pan until steaming. Whisk a ladleful into the yolk mixture, then pour it all into the pan. Cook over medium-low heat, stirring and scraping the base, for 4-6 min until thickened and at 85 °C."
+    },
+    {
+      "title": "Chill",
+      "text": "Pour into a clean bowl and let it stop steaming, about 20 min. Cover and refrigerate for at least 6 h, until thoroughly cold."
+    },
+    {
+      "title": "Churn",
+      "text": "Whisk the custard, then churn for 15-30 min until it is thick like soft serve."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pack into the container, pressing out air pockets, cover the surface and freeze for about 6 h. Gelato is best served softer than ice cream: move it to the fridge 30-60 min before scooping."
+    }
+  ],
+  "tips": [
+    "Peeled Sicilian or Iranian pistachios give the greenest colour and deepest flavour.",
+    "Squeeze the muslin hard: most of the flavour is in the last of the milk.",
+    "The cornflour keeps the gelato smooth without extra cream.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep frozen and covered for up to 5 days; soften in the fridge before serving.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 323,
+    "protein_g": 8.1,
+    "carbs_g": 40.2,
+    "sugar_g": 36.3,
+    "free_sugar_g": 29.3,
+    "fat_g": 15.5,
+    "satfat_g": 6.2,
+    "salt_g": 0.35,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gelato-basic.jpg",
+  "image_alt": "Swirls of soft green pistachio gelato in a dark bowl."
+}

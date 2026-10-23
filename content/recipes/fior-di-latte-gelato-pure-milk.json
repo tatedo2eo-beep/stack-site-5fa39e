@@ -1,0 +1,117 @@
+{
+  "slug": "fior-di-latte-gelato-pure-milk",
+  "title": "Fior di Latte Gelato: Pure Milk and Cream",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "gelato",
+  "dish_title": "Gelato",
+  "flavour": "Fior di latte",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "pistachio-gelato-steeped-pistachio-milk",
+  "changes_from_base": "No pistachios and no egg yolks: a pure milk and cream base thickened only with cornflour, more cream for body, and set in a loaf tin.",
+  "summary": "The purest gelato: whole milk, cream and sugar, lightly thickened with cornflour, with no eggs and no added flavouring.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "medium saucepan",
+    "small jug",
+    "whisk",
+    "fine sieve",
+    "bowl",
+    "900 g loaf tin",
+    "baking paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 600,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 20,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "Base",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Base",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make a slurry",
+      "text": "Whisk 60 ml of the milk with the cornflour in the jug until there are no lumps."
+    },
+    {
+      "title": "Heat the dairy",
+      "text": "Put the rest of the milk, the cream, sugar and salt in the saucepan and bring to a simmer, stirring until the sugar has dissolved."
+    },
+    {
+      "title": "Thicken",
+      "text": "Whisk the slurry again, then whisk it into the pan. Bring back to a lively simmer and cook for 3-4 min, stirring, until the mixture lightly coats a spoon. Cooking the cornflour fully removes any raw taste."
+    },
+    {
+      "title": "Chill",
+      "text": "Pour through the sieve into the bowl and cool to room temperature. Cover and refrigerate for at least 3 h until very cold."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn for 20-25 min until it looks like soft serve."
+    },
+    {
+      "title": "Set",
+      "text": "Spread in the loaf tin, press baking paper onto the surface, wrap and freeze for at least 2 h. Leave out for 5-10 min before scooping."
+    }
+  ],
+  "tips": [
+    "With so few ingredients, the best whole milk and cream make all the difference.",
+    "Serve with fresh berries, a drizzle of honey or hot espresso poured over.",
+    "A strip of lemon zest steeped in the hot milk adds a gentle Italian note; remove it before chilling.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep frozen and covered for up to 3 days; it is at its best on the day it is churned.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 231,
+    "protein_g": 3.3,
+    "carbs_g": 25.6,
+    "sugar_g": 23.5,
+    "free_sugar_g": 18.7,
+    "fat_g": 13.3,
+    "satfat_g": 8.4,
+    "salt_g": 0.29,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gelato-basic--fior-di-latte.jpg",
+  "image_alt": "A smooth round scoop of pure white fior di latte gelato in a dark bowl."
+}

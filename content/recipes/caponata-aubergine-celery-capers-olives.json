@@ -1,0 +1,169 @@
+{
+  "slug": "caponata-aubergine-celery-capers-olives",
+  "title": "Caponata (Sicilian Sweet-and-Sour Aubergine)",
+  "category": "snacks-sides",
+  "cuisine": "Italian (Sicilian)",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "caponata",
+  "dish_title": "Caponata",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Roasted aubergine cubes combined with onion, celery, garlic and peppers, cooked down with tomatoes, then simmered with capers, olives, sugar and cider vinegar until thick and glossy. Best rested overnight.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 60,
+  "difficulty": "medium",
+  "equipment": [
+    "rimmed baking tray",
+    "baking paper",
+    "large heavy frying pan or sauté pan"
+  ],
+  "ingredients": [
+    {
+      "group": "Aubergine",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large aubergine (about 700 g), cut into 2 cm cubes"
+    },
+    {
+      "group": "Aubergine",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "pc",
+      "item": "tender inner celery sticks, diced"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, minced"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "pc",
+      "item": "red peppers, cut into 1.5 cm dice"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Sweet and sour",
+      "qty": 400,
+      "unit": "g",
+      "item": "canned crushed tomatoes"
+    },
+    {
+      "group": "Sweet and sour",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "capers, rinsed"
+    },
+    {
+      "group": "Sweet and sour",
+      "qty": 40,
+      "unit": "g",
+      "item": "pitted green olives, chopped"
+    },
+    {
+      "group": "Sweet and sour",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Sweet and sour",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Sweet and sour",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh basil leaves, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast the aubergine",
+      "text": "Heat the oven to 220 °C. Toss the aubergine with 3 tbsp oil on the lined tray and roast for 25-30 min, turning once, until golden and soft."
+    },
+    {
+      "title": "Cook the vegetables",
+      "text": "Meanwhile, heat 2 tbsp oil in the pan over medium heat and cook the onion and celery for 5 min. Add the garlic for 1 min, then the peppers and half the salt, and cook for 8 min until nearly tender."
+    },
+    {
+      "title": "Add the sweet and sour",
+      "text": "Add the roasted aubergine, tomatoes and remaining salt and cook for 5-10 min, stirring and scraping, until thickened. Stir in the capers, olives, sugar and vinegar, lower the heat and cook for 20-25 min, stirring often, until thick and glossy. Season with pepper."
+    },
+    {
+      "title": "Rest",
+      "text": "Cool to room temperature, and if possible chill overnight. Serve at room temperature scattered with basil."
+    }
+  ],
+  "tips": [
+    "A handful of raisins and toasted pine nuts is a common Palermo addition.",
+    "Taste before serving and balance with a little more sugar or vinegar.",
+    "Serve on toasted bread as bruschetta."
+  ],
+  "storage": "Refrigerate up to 5 days; the flavour improves after a day. Bring back to room temperature before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "celery",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 207,
+    "protein_g": 3.4,
+    "carbs_g": 22.7,
+    "sugar_g": 14.6,
+    "free_sugar_g": 4.2,
+    "fat_g": 12.8,
+    "satfat_g": 1.8,
+    "salt_g": 1.51,
+    "fibre_g": 6.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "caponata-advanced.jpg",
+  "image_alt": "A bowl of glossy aubergine, celery, olive and caper stew topped with basil leaves.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

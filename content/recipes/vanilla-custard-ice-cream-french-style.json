@@ -1,0 +1,126 @@
+{
+  "slug": "vanilla-custard-ice-cream-french-style",
+  "title": "French-Style Vanilla Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A rich custard of cream, milk and egg yolks, gently cooked, chilled overnight and churned into smooth, scoopable vanilla ice cream.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 135,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla paste or extract"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Warm the dairy",
+      "text": "Put the cream, milk, half the sugar, the salt and the vanilla in the saucepan. Heat over medium heat, stirring, until steaming and the sugar has dissolved, about 5 min."
+    },
+    {
+      "title": "Whisk the yolks",
+      "text": "In the heatproof bowl whisk the yolks with the remaining sugar until pale and slightly thickened."
+    },
+    {
+      "title": "Temper",
+      "text": "Whisking all the time, pour a ladle of the hot cream into the yolks, then a second ladle. Pour the warmed yolks back into the pan. Adding heat gradually stops the yolks from scrambling."
+    },
+    {
+      "title": "Cook the custard",
+      "text": "Stir constantly over low heat, scraping the base and corners with the spatula, for 5-8 min until the custard coats the spatula and a line drawn through it holds. It should read 77-80 °C. Never let it boil."
+    },
+    {
+      "title": "Chill",
+      "text": "Strain the custard into a clean bowl and set it in the iced water, stirring until cool. Cover and refrigerate for at least 4 h, ideally overnight; a really cold base churns smoother."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn in the ice-cream maker for 20-30 min until it is thick and holds its shape like soft serve."
+    },
+    {
+      "title": "Freeze",
+      "text": "Scrape into the container, press baking paper onto the surface and freeze for at least 4 h until firm enough to scoop. Let it soften for 5-10 min before serving."
+    }
+  ],
+  "tips": [
+    "A vanilla pod, split and scraped into the warm cream, gives the best flavour and visible seeds.",
+    "If the custard starts to look grainy, pour it straight into a cold bowl and whisk hard.",
+    "Use the leftover whites for meringues or an omelette."
+  ],
+  "storage": "Keep frozen in a covered container for up to 2 weeks; after that it slowly picks up ice crystals.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 334,
+    "protein_g": 4.8,
+    "carbs_g": 20.7,
+    "sugar_g": 20.4,
+    "free_sugar_g": 17.0,
+    "fat_g": 26.2,
+    "satfat_g": 15.7,
+    "salt_g": 0.18,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "custard-base-french-basic.jpg",
+  "image_alt": "Three scoops of pale yellow vanilla custard ice cream in a dark bowl."
+}
