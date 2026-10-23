@@ -1,0 +1,170 @@
+{
+  "slug": "zaatar-feta-caesar-salad-crunchy-crumbs",
+  "title": "Za'atar and Feta Caesar Salad with Crunchy Crumbs",
+  "category": "salads-bowls",
+  "cuisine": "Middle Eastern",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "caesar",
+  "dish_title": "Caesar",
+  "flavour": "Feta & Za'atar",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "romaine-caesar-salad-garlic-croutons",
+  "changes_from_base": "Labneh-style yoghurt and feta replace the mayonnaise and Parmesan in the dressing, and za'atar breadcrumbs replace the croutons.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A Caesar with an eastern Mediterranean accent: crisp romaine in a tangy yoghurt, feta and anchovy dressing, showered with lemony za'atar breadcrumbs and grated feta.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 6,
+  "difficulty": "easy",
+  "equipment": [
+    "small frying pan",
+    "blender or stick blender with beaker",
+    "large salad bowl",
+    "salad spinner"
+  ],
+  "ingredients": [
+    {
+      "group": "Crumbs",
+      "qty": 25,
+      "unit": "g",
+      "item": "butter"
+    },
+    {
+      "group": "Crumbs",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Crumbs",
+      "qty": 60,
+      "unit": "g",
+      "item": "dried breadcrumbs"
+    },
+    {
+      "group": "Crumbs",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "za'atar",
+      "note": "a mix of dried thyme, sesame and sumac"
+    },
+    {
+      "group": "Crumbs",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Dressing",
+      "qty": 100,
+      "unit": "g",
+      "item": "thick Greek yoghurt or labneh"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "g",
+      "item": "feta (animal-rennet-free), crumbled"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "pc",
+      "item": "anchovy fillets in oil, drained"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "yellow mustard"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Salad",
+      "qty": 500,
+      "unit": "g",
+      "item": "romaine hearts (about 3), leaves separated, large ones torn"
+    },
+    {
+      "group": "Salad",
+      "qty": 30,
+      "unit": "g",
+      "item": "feta (animal-rennet-free), finely grated, to finish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the crumbs",
+      "text": "Melt the butter in the pan over medium-low heat, add the garlic for 30 sec, then the breadcrumbs. Stir for 3-5 min until golden. Off the heat, mix in the za'atar and lemon zest and leave to cool."
+    },
+    {
+      "title": "Blend the dressing",
+      "text": "Blend the yoghurt, crumbled feta, lemon juice, anchovies, mustard, garlic and pepper until smooth, then blend in the oil in a thin stream until thick and creamy."
+    },
+    {
+      "title": "Dress the leaves",
+      "text": "Make sure the lettuce is completely dry, then toss it in the bowl with the dressing until every leaf is coated."
+    },
+    {
+      "title": "Finish",
+      "text": "Toss in half the grated feta and half the crumbs, then scatter the rest over the top. Serve straight away."
+    }
+  ],
+  "tips": [
+    "Dry the leaves thoroughly or the thick dressing will slide off.",
+    "The crumbs keep in a jar for 3 days; make a double batch for soups and roast veg.",
+    "Grate the feta while it is cold and blotted dry so it falls in fine flakes."
+  ],
+  "storage": "Dress just before serving. Keep the dressing (3 days) and crumbs (3 days, airtight) separately. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "mustard",
+    "sesame",
+    "fish"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 321,
+    "protein_g": 10.2,
+    "carbs_g": 19.9,
+    "sugar_g": 4.6,
+    "free_sugar_g": 1.1,
+    "fat_g": 23.5,
+    "satfat_g": 9.0,
+    "salt_g": 1.06,
+    "fibre_g": 4.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Romaine leaves tossed in a creamy white dressing, topped with golden za'atar breadcrumbs and finely grated feta in a wide bowl.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

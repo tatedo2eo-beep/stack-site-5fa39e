@@ -1,0 +1,127 @@
+{
+  "slug": "honey-mustard-coleslaw-chives",
+  "title": "Honey-Mustard Coleslaw with Chives",
+  "category": "salads-bowls",
+  "cuisine": "American",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "coleslaw",
+  "dish_title": "Coleslaw",
+  "flavour": "Honey mustard",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "creamy-two-cabbage-coleslaw",
+  "changes_from_base": "A bold honey-and-mustard dressing with chives replaces most of the mayonnaise, and the cabbage is drained, not rinsed.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Bold and tangy: finely shredded cabbage in a sweet honey and mustard dressing with plenty of chives.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "colander",
+    "large bowl",
+    "whisk",
+    "rubber spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Slaw",
+      "qty": 900,
+      "unit": "g",
+      "item": "green cabbage, finely shredded"
+    },
+    {
+      "group": "Slaw",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for wilting (most is drained off)",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Slaw",
+      "qty": 6,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1.5 tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 90,
+      "unit": "g",
+      "item": "yellow mustard"
+    },
+    {
+      "group": "Dressing",
+      "qty": 63,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 3 tbsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 10,
+      "unit": "g",
+      "item": "chives, finely chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Wilt",
+      "text": "Toss the cabbage with the salt and sugar, put it in the colander over the bowl and leave about 1 hour, pressing now and then, until it releases its water."
+    },
+    {
+      "title": "Dress",
+      "text": "Discard the liquid, wipe the bowl and whisk the mustard, honey, mayonnaise, chives and pepper in it."
+    },
+    {
+      "title": "Chill",
+      "text": "Stir in the cabbage (not rinsed) and chill 1 hour."
+    }
+  ],
+  "tips": [
+    "Squeeze the cabbage as it drains so it gives up as much water as possible.",
+    "A coarse mustard gives a great look and texture.",
+    "Serve with grilled chicken or sausages (beef or chicken)."
+  ],
+  "storage": "Keeps covered in the fridge for up to 2 days; stir before serving. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 86,
+    "protein_g": 2.0,
+    "carbs_g": 14.6,
+    "sugar_g": 11.0,
+    "free_sugar_g": 7.2,
+    "fat_g": 3.1,
+    "satfat_g": 0.5,
+    "salt_g": 0.78,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A bowl of shredded green cabbage in a yellow honey-mustard dressing, topped with chopped chives.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "spicy-peanut-red-cabbage-slaw",
+  "title": "Spicy Peanut Red Cabbage Slaw",
+  "category": "salads-bowls",
+  "cuisine": "Asian fusion",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "coleslaw",
+  "dish_title": "Coleslaw",
+  "flavour": "Peanut",
+  "flavour_order": 106,
+  "access": "premium",
+  "base_recipe": "creamy-two-cabbage-coleslaw",
+  "changes_from_base": "A peanut, ginger and chilli dressing coats red cabbage alone; no mayonnaise, soured cream or salting.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A vibrant red cabbage slaw in a creamy peanut butter dressing with ginger, garlic and chilli, topped with spring onions.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Dressing",
+      "qty": 80,
+      "unit": "g",
+      "item": "crunchy peanut butter (unsweetened)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "grated fresh ginger"
+    },
+    {
+      "group": "Dressing",
+      "qty": 12,
+      "unit": "g",
+      "item": "light brown sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "rice vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "hot water"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Slaw",
+      "qty": 600,
+      "unit": "g",
+      "item": "red cabbage, finely shredded"
+    },
+    {
+      "group": "Slaw",
+      "qty": 3,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced on the diagonal"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dressing",
+      "text": "Whisk the peanut butter, garlic, ginger, brown sugar, vinegar, chilli flakes and hot water in the bowl until creamy."
+    },
+    {
+      "title": "Toss",
+      "text": "Add the cabbage and salt and toss well until coated."
+    },
+    {
+      "title": "Serve",
+      "text": "Scatter with spring onions and serve within a few hours."
+    }
+  ],
+  "tips": [
+    "Use hot water to loosen the peanut butter quickly.",
+    "Best within a few hours of mixing, while the cabbage is crunchy.",
+    "Add crushed peanuts on top for extra crunch."
+  ],
+  "storage": "Best on the day; keeps up to 1 day in the fridge but softens. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "peanuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 124,
+    "protein_g": 4.6,
+    "carbs_g": 13.4,
+    "sugar_g": 7.4,
+    "free_sugar_g": 1.9,
+    "fat_g": 7.0,
+    "satfat_g": 1.4,
+    "salt_g": 0.7,
+    "fibre_g": 3.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Shredded purple-red cabbage coated in a light-brown peanut dressing, topped with sliced spring onions.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

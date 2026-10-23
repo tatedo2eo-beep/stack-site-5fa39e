@@ -1,0 +1,155 @@
+{
+  "slug": "grilled-salmon-caesar-charred-romaine",
+  "title": "Grilled Salmon Caesar with Charred Romaine",
+  "category": "salads-bowls",
+  "cuisine": "American",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "caesar",
+  "dish_title": "Caesar",
+  "flavour": "Salmon",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "romaine-caesar-salad-garlic-croutons",
+  "changes_from_base": "Grilled salmon fillets turn it into a main course, and the romaine halves and bread are charred on the grill instead of tossed with croutons.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A grill-pan Caesar: romaine halves charred until smoky, served with crisp-skinned salmon fillets, grilled baguette and a lemony Parmesan dressing.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "barbecue or ridged griddle pan",
+    "bowl",
+    "whisk",
+    "pastry brush",
+    "fish slice",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Dressing",
+      "qty": 100,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 25,
+      "unit": "g",
+      "item": "Parmesan-style hard cheese, finely grated (animal-rennet-free)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "Worcestershire sauce"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Salmon",
+      "qty": 4,
+      "unit": "pc",
+      "item": "skin-on salmon fillets (about 150 g each)"
+    },
+    {
+      "group": "Salmon",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Salad",
+      "qty": 3,
+      "unit": "pc",
+      "item": "romaine hearts, halved lengthways through the core"
+    },
+    {
+      "group": "Salad",
+      "qty": 4,
+      "unit": "pc",
+      "item": "thick slices of baguette"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk the dressing",
+      "text": "Whisk the mayonnaise, Parmesan, lemon juice, Worcestershire, garlic, oil and pepper. Set 4 tbsp aside for brushing."
+    },
+    {
+      "title": "Prepare",
+      "text": "Brush the bread with the olive oil and the cut sides of the romaine with 2 tbsp of the reserved dressing. Season the salmon with the salt and brush with the rest of the reserved dressing."
+    },
+    {
+      "title": "Grill",
+      "text": "Heat the grill or griddle until very hot. Toast the bread 1-2 min per side and char the romaine cut side down for 1-2 min. Grill the salmon flesh side down first, 3-4 min per side, until it flakes and reaches 63 °C."
+    },
+    {
+      "title": "Serve",
+      "text": "Arrange the romaine, salmon and toasts on plates and spoon over the remaining dressing."
+    }
+  ],
+  "tips": [
+    "Oil the grill well and do not move the salmon until it releases by itself.",
+    "Char the romaine only briefly; the centre should stay crisp.",
+    "Salmon is safe at 63 °C; take it off a little earlier if you prefer it moist and pink."
+  ],
+  "storage": "Best on the day. Leftover salmon keeps 1 day in the fridge; eat it cold. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "fish",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 736,
+    "protein_g": 37.5,
+    "carbs_g": 22.0,
+    "sugar_g": 3.5,
+    "free_sugar_g": 1.7,
+    "fat_g": 55.2,
+    "satfat_g": 10.5,
+    "salt_g": 2.19,
+    "fibre_g": 3.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Grilled salmon fillets next to charred romaine halves and toasted baguette slices, with creamy dressing spooned over.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

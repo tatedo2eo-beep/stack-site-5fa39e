@@ -1,0 +1,162 @@
+{
+  "slug": "spicy-barbecue-coleslaw-horseradish",
+  "title": "Spicy Barbecue Coleslaw with Horseradish",
+  "category": "salads-bowls",
+  "cuisine": "American",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "coleslaw",
+  "dish_title": "Coleslaw",
+  "flavour": "BBQ",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "creamy-two-cabbage-coleslaw",
+  "changes_from_base": "Horseradish, cayenne and Worcestershire make a peppery barbecue-style dressing, and the cabbage is wilted quickly in the microwave instead of salted.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A creamy, peppery coleslaw with a horseradish and cayenne kick, made for barbecues and grilled meat.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 3,
+  "difficulty": "easy",
+  "equipment": [
+    "large microwave-safe bowl with plate or lid",
+    "clean tea towel",
+    "large bowl",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Slaw",
+      "qty": 1000,
+      "unit": "g",
+      "item": "green cabbage, finely shredded"
+    },
+    {
+      "group": "Slaw",
+      "qty": 12,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Slaw",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Slaw",
+      "qty": 2,
+      "unit": "pc",
+      "item": "carrots, coarsely grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 150,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "creamed horseradish"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "Worcestershire sauce"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "mustard powder"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften the cabbage",
+      "text": "Toss the cabbage with the sugar and 0.5 tsp salt, cover and microwave 3 min until just starting to wilt. Cool 5 min."
+    },
+    {
+      "title": "Squeeze",
+      "text": "Wrap half the cabbage in the tea towel and twist hard to wring out the water. Repeat with the rest."
+    },
+    {
+      "title": "Dress",
+      "text": "Whisk the mayonnaise, vinegar, horseradish, Worcestershire, garlic, mustard, cayenne, pepper and remaining salt in the large bowl."
+    },
+    {
+      "title": "Chill",
+      "text": "Stir in the cabbage and carrots and chill at least 1 hour before serving with barbecued food."
+    }
+  ],
+  "tips": [
+    "Squeeze the cabbage hard in the towel; it is the key to a slaw that stays creamy.",
+    "Adjust the cayenne to suit your crowd.",
+    "Make it a few hours ahead so the flavours meld."
+  ],
+  "storage": "Keeps covered in the fridge for up to 2 days; stir before serving. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard",
+    "fish",
+    "sulphites"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 179,
+    "protein_g": 2.1,
+    "carbs_g": 12.0,
+    "sugar_g": 7.0,
+    "free_sugar_g": 1.6,
+    "fat_g": 14.3,
+    "satfat_g": 2.3,
+    "salt_g": 1.16,
+    "fibre_g": 4.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A bowl of creamy shredded cabbage and carrot coleslaw dusted with cayenne, next to grilled meat.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

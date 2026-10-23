@@ -135,6 +135,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | carrot-cake | Carrot | Classic | 2 | 4 |
 | carrot-gochujang-scallion-focaccia | Focaccia | Carrot | 1 | 3 |
 | carrot-nuoc-cham-dipping-sauce | Nuoc cham | Classic | 2 | 4 |
+| carrot-radish-asian-pear-slaw-sesame | Coleslaw | Carrot | 1 | 3 |
 | catfish-po-boy-fried-catfish-dressed | Po' boy | Classic | 1 | 3 |
 | celeriac-parsnip-puree-crisp-parsnip-ribbons | Purées (celeriac, parsnip) | Classic | 1 | 3 |
 | celeriac-remoulade-mustard-parsley | Celeriac rémoulade | Classic | 3 | 5 |
@@ -142,6 +143,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | champ-spring-onion-mash | Champ | Classic | 1 | 3 |
 | champurrado-thick-mexican-chocolate-masa-drink | Champurrado | Classic | 2 | 4 |
 | chana-masala-chickpeas-tomato-gravy | Chickpeas (chana masala, falafel) | Classic | 2 | 4 |
+| charred-cabbage-caesar-rye-crumbs-capers | Caesar | Cabbage | 1 | 3 |
 | charred-tawa-naan-yoghurt-ghee | ? | ? | MISSING | |
 | charred-tomatillo-salsa-verde | Salsa | Verde | 3 | 5 |
 | charred-tomato-red-chilli-salsa-roja | Salsa | Classic | 2 | 4 |
@@ -158,6 +160,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cherry-bakewell-tart-glace-cherries | Bakewell | Cherry | 2 | 4 |
 | cherry-clafoutis | Clafoutis | Classic | 2 | 4 |
 | cherry-rosemary-balsamic-focaccia | Focaccia | Cherry | 1 | 3 |
+| cherry-tomato-caprese-garlic-tomato-dressing | Caprese | Cherry tomato | 1 | 3 |
 | chewy-amaretti | Amaretti | Classic | 2 | 4 |
 | chewy-blondies | Blondies | Classic | 2 | 4 |
 | chewy-boiled-new-york-bagels-cream-cheese | Bagels | Classic | 3 | 5 |
@@ -170,6 +173,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chicken-and-dumplings | Chicken and dumplings | Classic | 2 | 4 |
 | chicken-caesar-salad-griddled-breast | Caesar | Chicken | 3 | 5 |
 | chicken-caesar-wraps-lemon-chicken-crunchy-panko | Wraps | Chicken Caesar | 2 | 4 |
+| chicken-caprese-tomato-mozzarella-basil-oil | Caprese | Chicken | 2 | 4 |
 | chicken-chow-mein | Chow mein/lo mein | Chicken | 3 | 5 |
 | chicken-croquetas-creamy-bechamel-crisp-panko | Croquetas | Chicken (de pollo) | 2 | 4 |
 | chicken-empanadas-peppers-olives-baked | Empanadas | Chicken | 2 | 4 |
@@ -194,6 +198,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chiffon-cake | Chiffon | Classic | 2 | 4 |
 | chilled-gazpacho-tomato-cucumber-pepper | Gazpacho | Classic | 2 | 4 |
 | chilli-braised-beef-tacos-melted-cheese-dipping-broth | Birria | Classic | 3 | 5 |
+| chipotle-chicken-caesar-avocado-lime | Caesar | Chipotle | 1 | 3 |
 | chipotle-lime-chicken-black-bean-rice-burritos | Burrito | Classic | 2 | 4 |
 | chocolate-angel-food-cake | Angel food | Chocolate | 3 | 5 |
 | chocolate-biscotti | Biscotti | Chocolate | 3 | 5 |
@@ -482,6 +487,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | grilled-beef-kebabs-peppers | Kebabs/skewers | Classic | 3 | 5 |
 | grilled-porterhouse-steak-rosemary-lemon | Bistecca alla fiorentina | Classic | 2 | 4 |
 | grilled-provolone-provoleta-oregano-chilli-toasted-bread | Provoleta | Classic | 2 | 4 |
+| grilled-salmon-caesar-charred-romaine | Caesar | Salmon | 1 | 3 |
 | groundnut-soup-chicken-crushed-peanuts | Groundnut soup | Chicken | 2 | 4 |
 | groundnut-soup-sweet-potato-kale-peanut | Groundnut soup | Classic | 2 | 4 |
 | gruyere-parmesan-mornay-sauce | Mornay sauce | Classic | 2 | 4 |
@@ -510,6 +516,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | honey-glazed-corn-muffins | Corn muffin | Honey | 1 | 3 |
 | honey-glazed-french-crullers | Cruller/French cruller (choux) | Classic | 1 | 3 |
 | honey-maple-nut-granola-raisins | Granola | Classic | 2 | 4 |
+| honey-mustard-coleslaw-chives | Coleslaw | Honey mustard | 1 | 3 |
 | honey-pistachio-almond-nougat | Nougat | Classic | 1 | 4 |
 | honey-whole-wheat-sandwich-loaf | ? | ? | MISSING | |
 | hong-kong-milk-tea-evaporated-milk | Hong Kong-style milk tea | Classic | 1 | 3 |
@@ -531,6 +538,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | italian-bean-vegetable-soup-small-pasta-basil | Minestrone | Classic | 3 | 5 |
 | italian-parsley-caper-salsa-verde | Salsa verde | Classic | 1 | 3 |
 | italian-style-pasta-salad-mozzarella-olives | Pasta salad | Classic | 3 | 5 |
+| jalapeno-lime-coleslaw-coriander | Coleslaw | Jalapeño | 1 | 3 |
 | jalebi-saffron-syrup-spirals | Jalebi | Classic | 1 | 3 |
 | jamaican-braised-oxtail-butter-beans | Oxtail stew | Classic | 3 | 5 |
 | jamaican-curried-beef-patties-flaky-turmeric-pastry | Jamaican patty | Classic | 3 | 5 |
@@ -741,6 +749,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pastitsio | Pastitsio | Classic | 3 | 5 |
 | patatas-bravas | Patatas bravas | Classic | 2 | 4 |
 | pb-j-peanut-butter-strawberry-jam-sandwich | PB&J | Classic | 1 | 3 |
+| peach-caprese-mozzarella-lemon-basil | Caprese | Peach | 1 | 3 |
 | peach-cobbler-buttermilk-biscuits | Cobbler | Classic | 2 | 4 |
 | peach-cobbler-yogurt-biscuits | Cobbler | Peach | 1 | 3 |
 | peach-crisp-almond-crumbs | Crisp | Peach | 1 | 3 |
@@ -801,6 +810,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pollo-al-mattone | Pollo al mattone (chicken under a brick) | Classic | 2 | 4 |
 | pommes-anna-layered-potato-cake | Pommes Anna | Classic | 3 | 5 |
 | pommes-dauphine-potato-puffs | Pommes dauphine | Classic | 2 | 4 |
+| poppy-seed-coleslaw-lemon-honey | Coleslaw | Poppy seed | 1 | 3 |
 | potato-cheese-dumplings-buttery-golden-onions | Pierogi | Potato-cheese (ruskie) | 4 | 6 |
 | potato-dough-parmesan-focaccia | Focaccia | Parmesan | 1 | 3 |
 | potato-gnocchi | Gnocchi | Classic | 4 | 6 |
@@ -977,8 +987,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spiced-minced-beef-keema | Keema | Classic | 2 | 4 |
 | spiced-pumpkin-cheesecake | New York (baked, dense) | Pumpkin | 2 | 4 |
 | spiced-saudi-chicken-rice-tomato-almonds-raisins | Kabsa | Chicken | 2 | 4 |
+| spicy-barbecue-coleslaw-horseradish | Coleslaw | BBQ | 1 | 3 |
 | spicy-chicken-burger | Chicken burger | Spicy (cayenne/hot sauce) | 2 | 8 |
 | spicy-ful-medames-chilli-oil | Ful medames | Chili oil | 1 | 3 |
+| spicy-peanut-red-cabbage-slaw | Coleslaw | Peanut | 1 | 3 |
 | spinach-fatayer-sumac-lemon | Fatayer | Classic | 1 | 3 |
 | spinach-feta-spiral-borek | Börek | Spinach (ıspanaklı) | 1 | 3 |
 | spinach-ricotta-calzones-tomato-dipping-sauce | Calzone | Classic | 2 | 4 |
@@ -1026,6 +1038,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tall-crisp-yorkshire-puddings | Yorkshire pudding | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
 | tangerine-ginger-curd-tart-chocolate-layer | Chocolate tart | Tangerine & ginger | 1 | 3 |
+| tangy-apple-coleslaw-cider-honey | Coleslaw | Apple | 2 | 4 |
 | tangy-ginger-hoisin-dipping-sauce | Hoisin sauce | Classic | 1 | 3 |
 | tangyuan-black-sesame-ginger-soup | Tangyuan | Classic | 1 | 3 |
 | tangzhong-japanese-milk-bread-loaf | ? | ? | MISSING | |
@@ -1060,6 +1073,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tom-yum-goong-thai-hot-sour-prawn-soup | Tom yum | Classic | 3 | 5 |
 | tomato-basil-bruschetta-garlic-oil | Bruschetta | Tomato-basil | 2 | 4 |
 | tomato-basil-bruschetta | Bruschetta | Classic | 2 | 4 |
+| tomato-caesar-salad-anchovy-ciabatta-croutons | Caesar | Tomato | 1 | 3 |
 | tomato-mozzarella-caprese-basil | Caprese | Classic | 3 | 5 |
 | torrijas-spanish-cinnamon-sugar-fried-bread | Torrijas | Classic | 1 | 3 |
 | tortilla-espanola | Tortilla española | Classic | 2 | 4 |
@@ -1122,6 +1136,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | yellow-sheet-cake | Sheet cake | Classic | 2 | 4 |
 | youtiao-twin-dough-sticks-with-warm-soy-milk | Youtiao | Classic | 1 | 3 |
 | zaalouk-smoky-aubergine-tomato | Zaalouk | Classic | 2 | 4 |
+| zaatar-feta-caesar-salad-crunchy-crumbs | Caesar | Feta & Za'atar | 1 | 3 |
 | zaatar-flatbreads-olive-oil-cucumber-tomato-mint | Manakish | Classic | 2 | 4 |
 | zesty-lemon-aioli-vegetables | Aioli | Lemon | 1 | 3 |
 | zopf-swiss-braided-sunday-bread | Zopf | Classic | 1 | 3 |

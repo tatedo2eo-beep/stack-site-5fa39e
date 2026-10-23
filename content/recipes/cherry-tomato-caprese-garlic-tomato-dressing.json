@@ -1,0 +1,135 @@
+{
+  "slug": "cherry-tomato-caprese-garlic-tomato-dressing",
+  "title": "Cherry Tomato Caprese with Garlicky Tomato-Juice Dressing",
+  "category": "salads-bowls",
+  "cuisine": "Italian",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "caprese",
+  "dish_title": "Caprese",
+  "flavour": "Cherry tomato",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "tomato-mozzarella-caprese-basil",
+  "changes_from_base": "Quartered cherry tomatoes and cubed mozzarella are tossed, not sliced and layered, and the dressing is made from their own reduced juice.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A chopped caprese of quartered cherry tomatoes and cubed mozzarella, dressed with the tomatoes' own juice simmered down with garlic and cider vinegar.",
+  "servings": 4,
+  "prep_min": 40,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "sieve",
+    "small saucepan",
+    "salad spinner"
+  ],
+  "ingredients": [
+    {
+      "group": "Tomatoes",
+      "qty": 600,
+      "unit": "g",
+      "item": "cherry tomatoes, quartered"
+    },
+    {
+      "group": "Tomatoes",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Tomatoes",
+      "qty": 2.1,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 0.5 tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Salad",
+      "qty": 225,
+      "unit": "g",
+      "item": "fresh mozzarella or bocconcini (animal-rennet-free), cut into 1.5 cm cubes"
+    },
+    {
+      "group": "Salad",
+      "qty": 20,
+      "unit": "g",
+      "item": "basil, roughly chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Salt the tomatoes",
+      "text": "Toss the tomatoes with the salt and sugar and leave 30 min."
+    },
+    {
+      "title": "Collect the juice",
+      "text": "Spin the tomatoes briefly in the salad spinner, then strain the juice into the saucepan, pressing on the seeds."
+    },
+    {
+      "title": "Reduce",
+      "text": "Add the vinegar and garlic to the juice and simmer 4-5 min until only about 3 tbsp remains. Cool, then whisk in the oil and pepper."
+    },
+    {
+      "title": "Toss",
+      "text": "Return the tomatoes to the bowl with the mozzarella, basil and dressing and toss."
+    }
+  ],
+  "tips": [
+    "Salting draws out the juice that becomes the dressing.",
+    "Pat the mozzarella dry so it does not water down the salad.",
+    "Mixed red and yellow tomatoes make it look even better."
+  ],
+  "storage": "Best eaten on the day. Keep any leftovers covered in the fridge for up to 1 day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 271,
+    "protein_g": 13.7,
+    "carbs_g": 8.2,
+    "sugar_g": 5.1,
+    "free_sugar_g": 0.5,
+    "fat_g": 21.0,
+    "satfat_g": 9.7,
+    "salt_g": 1.75,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A bowl of quartered cherry tomatoes tossed with mozzarella cubes and chopped basil, glistening with dressing.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

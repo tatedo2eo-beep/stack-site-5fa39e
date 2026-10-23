@@ -1,0 +1,145 @@
+{
+  "slug": "carrot-radish-asian-pear-slaw-sesame",
+  "title": "Carrot, Radish and Asian Pear Slaw with Sesame",
+  "category": "salads-bowls",
+  "cuisine": "Asian fusion",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "coleslaw",
+  "dish_title": "Coleslaw",
+  "flavour": "Carrot",
+  "flavour_order": 107,
+  "access": "premium",
+  "base_recipe": "creamy-two-cabbage-coleslaw",
+  "changes_from_base": "Carrot, radish and crisp Asian pear replace the cabbage, with a sesame-rice vinegar dressing instead of mayonnaise.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A crisp, colourful slaw of grated carrot, sliced radishes and Asian pear matchsticks in a sesame and rice vinegar dressing.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "salad spinner",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Slaw",
+      "qty": 650,
+      "unit": "g",
+      "item": "carrots, coarsely grated"
+    },
+    {
+      "group": "Slaw",
+      "qty": 25,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Slaw",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "rice vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "yellow mustard"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Slaw",
+      "qty": 2,
+      "unit": "pc",
+      "item": "Asian (nashi) pears, cored and cut into matchsticks"
+    },
+    {
+      "group": "Slaw",
+      "qty": 250,
+      "unit": "g",
+      "item": "radishes, thinly sliced"
+    },
+    {
+      "group": "Slaw",
+      "qty": 6,
+      "unit": "pc",
+      "item": "spring onion greens, sliced on the diagonal"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Wilt the carrots",
+      "text": "Toss the carrots with the sugar and salt and leave 15 min until slightly softened."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk the olive oil, rice vinegar, yellow mustard, sesame oil and pepper in a large bowl."
+    },
+    {
+      "title": "Combine",
+      "text": "Spin the carrots briefly to remove their liquid, then add them to the dressing with the pear, radishes and spring onion. Toss and serve straight away."
+    }
+  ],
+  "tips": [
+    "Spin the carrots well after salting so the slaw stays crunchy.",
+    "Firm Asian pears stay crisp; a crisp apple can stand in.",
+    "Serve straight away for the best texture."
+  ],
+  "storage": "Best eaten on the day it is made. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "mustard",
+    "sesame",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 145,
+    "protein_g": 1.4,
+    "carbs_g": 17.9,
+    "sugar_g": 11.2,
+    "free_sugar_g": 3.1,
+    "fat_g": 8.3,
+    "satfat_g": 1.1,
+    "salt_g": 0.71,
+    "fibre_g": 4.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A bowl of grated orange carrot, pink-edged radish slices, pale pear matchsticks and spring onion greens.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "chipotle-chicken-caesar-avocado-lime",
+  "title": "Chipotle Chicken Caesar Salad with Avocado and Lime",
+  "category": "salads-bowls",
+  "cuisine": "Mexican",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "caesar",
+  "dish_title": "Caesar",
+  "flavour": "Chipotle",
+  "flavour_order": 104,
+  "access": "premium",
+  "base_recipe": "romaine-caesar-salad-garlic-croutons",
+  "changes_from_base": "Smoky chipotle and lime go into the dressing, and the salad becomes a main course with seared chicken breast and avocado.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A hearty main-course Caesar with seared chicken breast, avocado and garlicky croutons, all tossed in a smoky chipotle and lime dressing.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large non-stick frying pan",
+    "bowl",
+    "whisk",
+    "chopping board",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 4,
+      "unit": "pc",
+      "item": "boneless, skinless chicken breasts (about 650 g)"
+    },
+    {
+      "group": "Chicken",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Croutons",
+      "qty": 100,
+      "unit": "g",
+      "item": "white bread, in 1.5 cm cubes"
+    },
+    {
+      "group": "Croutons",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Croutons",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 120,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 20,
+      "unit": "g",
+      "item": "Parmesan-style hard cheese, finely grated (animal-rennet-free)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "pc",
+      "item": "anchovy fillets, mashed"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "chipotle chilli in adobo, finely chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Salad",
+      "qty": 500,
+      "unit": "g",
+      "item": "romaine hearts, torn"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "pc",
+      "item": "ripe avocado, cubed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the croutons",
+      "text": "Toss the bread with 2 tbsp oil and the garlic and fry in the pan over medium heat for 5 min, stirring, until golden. Set aside."
+    },
+    {
+      "title": "Cook the chicken",
+      "text": "Season the chicken with salt and pepper. Heat 1 tbsp oil in the pan over medium-high heat and cook 5-6 min per side until golden and 74 °C in the centre. Rest 5 min, then slice."
+    },
+    {
+      "title": "Mix the dressing",
+      "text": "Whisk the mayonnaise, Parmesan, anchovies, chipotle, lime juice and garlic until smooth."
+    },
+    {
+      "title": "Assemble",
+      "text": "Toss the romaine and croutons with the dressing, pile onto plates, then top with sliced chicken and avocado."
+    }
+  ],
+  "tips": [
+    "Adjust the chipotle to taste; start with 2 tsp if unsure.",
+    "Rest the chicken before slicing so it stays juicy.",
+    "Add the avocado last so it does not bruise."
+  ],
+  "storage": "Best on the day. Keep leftover chicken and dressing separately in the fridge for up to 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "fish"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 669,
+    "protein_g": 43.5,
+    "carbs_g": 22.1,
+    "sugar_g": 3.6,
+    "free_sugar_g": 1.7,
+    "fat_g": 45.3,
+    "satfat_g": 7.7,
+    "salt_g": 2.24,
+    "fibre_g": 6.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Romaine in an orange-tinted creamy dressing, topped with sliced seared chicken breast, avocado cubes and golden croutons.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

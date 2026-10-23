@@ -1,0 +1,145 @@
+{
+  "slug": "chicken-caprese-tomato-mozzarella-basil-oil",
+  "title": "Chicken Caprese with Tomato, Mozzarella and Basil Oil",
+  "category": "salads-bowls",
+  "cuisine": "Italian",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "caprese",
+  "dish_title": "Caprese",
+  "flavour": "Chicken",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "tomato-mozzarella-caprese-basil",
+  "changes_from_base": "Grilled chicken breast becomes the base, with tomato and mozzarella melted on top and a lemony basil oil in place of plain olive oil.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Juicy grilled chicken breasts topped with charred tomato slices and softly melting mozzarella, finished with a bright lemon and basil oil.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "ridged griddle pan or barbecue",
+    "meat mallet or rolling pin",
+    "small blender or pestle and mortar",
+    "instant-read thermometer",
+    "serving platter"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 4,
+      "unit": "pc",
+      "item": "small boneless, skinless chicken breasts (about 650 g), pounded to 2 cm thick"
+    },
+    {
+      "group": "Chicken",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Basil oil",
+      "qty": 15,
+      "unit": "g",
+      "item": "basil leaves, plus extra small leaves to serve"
+    },
+    {
+      "group": "Basil oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Basil oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Basil oil",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large ripe tomatoes, in 1 cm slices"
+    },
+    {
+      "group": "Topping",
+      "qty": 200,
+      "unit": "g",
+      "item": "fresh mozzarella (animal-rennet-free), sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the basil oil",
+      "text": "Blend or pound the basil with the olive oil, lemon juice and garlic until bright green."
+    },
+    {
+      "title": "Season",
+      "text": "Season the chicken with salt and pepper and rub with 1 tbsp olive oil."
+    },
+    {
+      "title": "Grill",
+      "text": "Heat the griddle until very hot. Cook the chicken 4-5 min per side until well marked and 74 °C in the centre. Briefly char the tomato slices for 1 min per side."
+    },
+    {
+      "title": "Melt",
+      "text": "Top each breast with tomato and mozzarella, cover loosely with foil (or the barbecue lid) and leave 3-5 min until the cheese softens."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon the basil oil over and scatter with small basil leaves."
+    }
+  ],
+  "tips": [
+    "Pound the chicken to an even thickness so it cooks evenly.",
+    "Use a very hot pan for good grill marks.",
+    "The basil oil is also great on the plain Classic."
+  ],
+  "storage": "Keep leftovers in the fridge for up to 2 days. Reheat until piping hot, or eat cold. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 493,
+    "protein_g": 48.3,
+    "carbs_g": 5.4,
+    "sugar_g": 2.9,
+    "free_sugar_g": 0.1,
+    "fat_g": 30.3,
+    "satfat_g": 10.6,
+    "salt_g": 2.17,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Grilled chicken breasts topped with tomato slices and melting mozzarella, drizzled with green basil oil and fresh basil leaves.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

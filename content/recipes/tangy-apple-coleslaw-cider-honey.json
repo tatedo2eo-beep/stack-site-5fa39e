@@ -1,0 +1,141 @@
+{
+  "slug": "tangy-apple-coleslaw-cider-honey",
+  "title": "Tangy Apple Coleslaw with Cider and Honey",
+  "category": "salads-bowls",
+  "cuisine": "American",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "coleslaw",
+  "dish_title": "Coleslaw",
+  "flavour": "Apple",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "creamy-two-cabbage-coleslaw",
+  "changes_from_base": "Crisp apple matchsticks join the cabbage, and the dressing is sweetened with honey and sharpened with extra cider vinegar.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A crunchy, tangy slaw of cabbage, carrot and green apple matchsticks in a light soured cream dressing sharpened with cider vinegar and honey.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "colander",
+    "large bowl",
+    "small bowl",
+    "whisk",
+    "salad spinner or clean tea towel"
+  ],
+  "ingredients": [
+    {
+      "group": "Slaw",
+      "qty": 800,
+      "unit": "g",
+      "item": "green cabbage, finely shredded"
+    },
+    {
+      "group": "Slaw",
+      "qty": 1,
+      "unit": "pc",
+      "item": "carrot, coarsely grated"
+    },
+    {
+      "group": "Slaw",
+      "qty": 2,
+      "unit": "pc",
+      "item": "tart green apples, cored and cut into matchsticks"
+    },
+    {
+      "group": "Slaw",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for wilting (most is rinsed off)",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Dressing",
+      "qty": 50,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 32,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 1.5 tbsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "mustard powder"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Wilt",
+      "text": "Toss the cabbage and carrot with the wilting salt in the colander and leave 20 min. Rinse well under cold water and spin or pat very dry."
+    },
+    {
+      "title": "Dress",
+      "text": "Whisk the soured cream, mayonnaise, vinegar, honey, mustard powder and pepper."
+    },
+    {
+      "title": "Toss",
+      "text": "Toss the cabbage, carrot and apple with the dressing. Taste and adjust with a little more vinegar or honey, then chill 30 min before serving."
+    }
+  ],
+  "tips": [
+    "Cut the apple just before mixing so it stays white.",
+    "Rinse and dry the wilted cabbage well, or the dressing will be watery.",
+    "Lovely with grilled chicken or burgers."
+  ],
+  "storage": "Keeps covered in the fridge for up to 2 days; stir before serving. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 121,
+    "protein_g": 1.8,
+    "carbs_g": 15.8,
+    "sugar_g": 11.1,
+    "free_sugar_g": 3.1,
+    "fat_g": 6.4,
+    "satfat_g": 1.5,
+    "salt_g": 0.54,
+    "fibre_g": 3.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A bowl of shredded green cabbage, grated carrot and green apple matchsticks in a creamy dressing.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

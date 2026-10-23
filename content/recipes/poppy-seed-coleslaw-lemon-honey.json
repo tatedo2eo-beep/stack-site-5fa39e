@@ -1,0 +1,137 @@
+{
+  "slug": "poppy-seed-coleslaw-lemon-honey",
+  "title": "Poppy Seed Coleslaw with Lemon and Honey",
+  "category": "salads-bowls",
+  "cuisine": "American",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "coleslaw",
+  "dish_title": "Coleslaw",
+  "flavour": "Poppy seed",
+  "flavour_order": 104,
+  "access": "premium",
+  "base_recipe": "creamy-two-cabbage-coleslaw",
+  "changes_from_base": "A light, mayonnaise-free lemon and honey vinaigrette with toasted poppy seeds replaces the creamy dressing; only green cabbage is used.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A light, mayonnaise-free slaw of finely shredded cabbage in a sweet-sharp lemon and honey vinaigrette with toasted poppy seeds.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 2,
+  "difficulty": "easy",
+  "equipment": [
+    "colander",
+    "small dry frying pan",
+    "large bowl",
+    "whisk",
+    "clean tea towel"
+  ],
+  "ingredients": [
+    {
+      "group": "Slaw",
+      "qty": 1000,
+      "unit": "g",
+      "item": "green cabbage, finely shredded"
+    },
+    {
+      "group": "Slaw",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for wilting (most is rinsed off)",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "poppy seeds"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small shallot, very finely chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "yellow mustard"
+    },
+    {
+      "group": "Dressing",
+      "qty": 25,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 21,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Wilt",
+      "text": "Toss the cabbage with the wilting salt in the colander and leave 45-60 min. Rinse, drain and dry well in a tea towel."
+    },
+    {
+      "title": "Toast the seeds",
+      "text": "Toast the poppy seeds in the dry pan for 1-2 min until fragrant, then tip into the bowl."
+    },
+    {
+      "title": "Dress",
+      "text": "Whisk in the shallot, lemon juice, oil, mustard, sugar and honey."
+    },
+    {
+      "title": "Toss and chill",
+      "text": "Toss the cabbage in the dressing and chill 30 min."
+    }
+  ],
+  "tips": [
+    "Shred the cabbage as finely as you can.",
+    "Toasting the poppy seeds brings out their nutty flavour.",
+    "Good with fish and fried foods."
+  ],
+  "storage": "Keeps covered in the fridge for up to 2 days; stir before serving. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 86,
+    "protein_g": 1.8,
+    "carbs_g": 13.6,
+    "sugar_g": 9.7,
+    "free_sugar_g": 5.4,
+    "fat_g": 3.6,
+    "satfat_g": 0.5,
+    "salt_g": 0.46,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A bowl of finely shredded pale green cabbage glossy with vinaigrette and speckled with black poppy seeds.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

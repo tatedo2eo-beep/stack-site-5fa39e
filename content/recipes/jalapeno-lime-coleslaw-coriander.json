@@ -1,0 +1,158 @@
+{
+  "slug": "jalapeno-lime-coleslaw-coriander",
+  "title": "Jalapeño and Lime Coleslaw with Coriander",
+  "category": "salads-bowls",
+  "cuisine": "Mexican",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "coleslaw",
+  "dish_title": "Coleslaw",
+  "flavour": "Jalapeño",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "creamy-two-cabbage-coleslaw",
+  "changes_from_base": "Fresh jalapeño, lime, coriander and cumin bring a Tex-Mex edge, and buttermilk thins the creamy dressing.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A zippy creamy coleslaw with jalapeño, lime, coriander and a hint of cumin; great with tacos and barbecue.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "colander",
+    "large bowl",
+    "small bowl",
+    "whisk",
+    "salad spinner or clean tea towel"
+  ],
+  "ingredients": [
+    {
+      "group": "Slaw",
+      "qty": 800,
+      "unit": "g",
+      "item": "green cabbage, finely shredded"
+    },
+    {
+      "group": "Slaw",
+      "qty": 1,
+      "unit": "pc",
+      "item": "carrot, coarsely grated"
+    },
+    {
+      "group": "Slaw",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large jalapeño, deseeded and finely diced"
+    },
+    {
+      "group": "Slaw",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for wilting (most is rinsed off)",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lime juice and 1 tsp grated zest"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 12,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 10,
+      "unit": "g",
+      "item": "coriander, chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cumin"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Wilt",
+      "text": "Toss the cabbage and carrot with the wilting salt and leave 20 min in the colander. Rinse, then spin or blot completely dry."
+    },
+    {
+      "title": "Dress",
+      "text": "Whisk the soured cream, buttermilk, mayonnaise, lime juice and zest, vinegar, sugar, coriander, garlic and cumin."
+    },
+    {
+      "title": "Toss",
+      "text": "Toss the vegetables and jalapeño with the dressing, taste and chill 30 min."
+    }
+  ],
+  "tips": [
+    "Leave a few jalapeño seeds in for more heat.",
+    "Dry the vegetables thoroughly so the dressing clings.",
+    "Add the coriander just before serving if making ahead."
+  ],
+  "storage": "Keeps covered in the fridge for up to 2 days; stir before serving. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 82,
+    "protein_g": 2.0,
+    "carbs_g": 10.2,
+    "sugar_g": 6.2,
+    "free_sugar_g": 1.6,
+    "fat_g": 4.3,
+    "satfat_g": 1.3,
+    "salt_g": 0.51,
+    "fibre_g": 3.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Creamy shredded cabbage and carrot slaw flecked with green jalapeño and chopped coriander, with lime wedges.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

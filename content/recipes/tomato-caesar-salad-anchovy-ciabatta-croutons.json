@@ -1,0 +1,170 @@
+{
+  "slug": "tomato-caesar-salad-anchovy-ciabatta-croutons",
+  "title": "Tomato Caesar Salad with Ciabatta Croutons",
+  "category": "salads-bowls",
+  "cuisine": "Italian",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "caesar",
+  "dish_title": "Caesar",
+  "flavour": "Tomato",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "romaine-caesar-salad-garlic-croutons",
+  "changes_from_base": "Ripe tomatoes take the place of the romaine, and the egg-free dressing is a sharp anchovy vinaigrette rather than a mayonnaise base.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Summer tomatoes take the starring role in this Caesar: chunky wedges and cherry tomatoes tossed in a punchy anchovy-Parmesan vinaigrette with crisp cheesy ciabatta croutons.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 18,
+  "difficulty": "easy",
+  "equipment": [
+    "baking tray",
+    "large bowl",
+    "small bowl",
+    "whisk",
+    "serving platter"
+  ],
+  "ingredients": [
+    {
+      "group": "Croutons",
+      "qty": 120,
+      "unit": "g",
+      "item": "ciabatta, torn into bite-size pieces"
+    },
+    {
+      "group": "Croutons",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Croutons",
+      "qty": 15,
+      "unit": "g",
+      "item": "Parmesan-style hard cheese, finely grated (animal-rennet-free)"
+    },
+    {
+      "group": "Croutons",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 4,
+      "unit": "pc",
+      "item": "anchovy fillets in oil, finely chopped, plus extra to serve (optional)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "yellow mustard"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "Worcestershire sauce"
+    },
+    {
+      "group": "Dressing",
+      "qty": 15,
+      "unit": "g",
+      "item": "Parmesan-style hard cheese, finely grated (animal-rennet-free)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Salad",
+      "qty": 450,
+      "unit": "g",
+      "item": "large ripe tomatoes, cut into chunky wedges"
+    },
+    {
+      "group": "Salad",
+      "qty": 250,
+      "unit": "g",
+      "item": "cherry tomatoes, halved"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "flaky salt, for the tomatoes"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Bake the croutons",
+      "text": "Heat the oven to 180 °C (160 °C fan). Toss the bread with the oil, Parmesan and garlic, spread on the tray and bake 15-18 min, stirring once, until golden. Cool."
+    },
+    {
+      "title": "Make the dressing",
+      "text": "In the large bowl, mash the anchovies and garlic together, then whisk in the lemon juice, mustard, Worcestershire, Parmesan, oil and pepper."
+    },
+    {
+      "title": "Toss",
+      "text": "Add all the tomatoes and the cooled croutons, sprinkle with the flaky salt and toss gently."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Leave 10-15 min so the croutons soak up some juice at the edges, then pile onto a platter and top with extra anchovies if you like."
+    }
+  ],
+  "tips": [
+    "Use the ripest tomatoes you can find and keep them out of the fridge.",
+    "Let the salad sit for 10-15 min so the croutons soften slightly at the edges.",
+    "Leave out the extra anchovies on top if serving cautious eaters."
+  ],
+  "storage": "Best eaten on the day. Keep any leftovers covered in the fridge for up to 1 day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "mustard",
+    "fish",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 306,
+    "protein_g": 8.2,
+    "carbs_g": 24.6,
+    "sugar_g": 6.2,
+    "free_sugar_g": 1.5,
+    "fat_g": 20.4,
+    "satfat_g": 3.8,
+    "salt_g": 1.38,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A platter of red tomato wedges and halved cherry tomatoes mixed with golden ciabatta croutons, a few anchovy fillets on top.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

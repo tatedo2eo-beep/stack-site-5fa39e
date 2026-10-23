@@ -1,0 +1,160 @@
+{
+  "slug": "charred-cabbage-caesar-rye-crumbs-capers",
+  "title": "Charred Cabbage Caesar with Rye Crumbs and Capers",
+  "category": "salads-bowls",
+  "cuisine": "International",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "caesar",
+  "dish_title": "Caesar",
+  "flavour": "Cabbage",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "romaine-caesar-salad-garlic-croutons",
+  "changes_from_base": "Pan-charred cabbage wedges replace the raw romaine, with crisp rye crumbs and capers instead of ciabatta croutons.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Green cabbage wedges charred in a hot pan until smoky and sweet, drizzled with a creamy anchovy Caesar dressing and scattered with crisp rye crumbs, capers and Parmesan.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy (cast-iron) frying pan with lid",
+    "bowl",
+    "whisk",
+    "plate",
+    "serving platter"
+  ],
+  "ingredients": [
+    {
+      "group": "Dressing",
+      "qty": 120,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "yellow mustard"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "Worcestershire sauce"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "pc",
+      "item": "anchovy fillets, mashed"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Cabbage",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Cabbage",
+      "qty": 100,
+      "unit": "g",
+      "item": "rye bread, crumbled"
+    },
+    {
+      "group": "Cabbage",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small green cabbage (about 900 g), cut into 8 wedges through the core"
+    },
+    {
+      "group": "Cabbage",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "capers, drained"
+    },
+    {
+      "group": "To finish",
+      "qty": 20,
+      "unit": "g",
+      "item": "Parmesan-style hard cheese, finely grated (animal-rennet-free)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk the dressing",
+      "text": "Whisk the mayonnaise, lemon juice, mustard, Worcestershire, anchovies, garlic and pepper together."
+    },
+    {
+      "title": "Crisp the rye",
+      "text": "Heat 1 tbsp oil in the pan over medium heat and fry the rye crumbs, stirring, for 6-8 min until crisp. Tip onto a plate."
+    },
+    {
+      "title": "Char the cabbage",
+      "text": "Brush the wedges with 2 tbsp oil. Heat the rest of the oil in the pan over medium-high heat, add half the wedges cut side down, sprinkle with half the salt, cover and cook 3-4 min per side until deeply charred and just tender. Repeat."
+    },
+    {
+      "title": "Assemble",
+      "text": "Lay the wedges on the platter, scatter with capers, drizzle with half the dressing, then add the rye crumbs, Parmesan and more pepper. Serve the rest of the dressing alongside."
+    }
+  ],
+  "tips": [
+    "A heavy cast-iron pan gives the deepest char.",
+    "Cut through the core so each wedge holds together.",
+    "Serve warm or at room temperature."
+  ],
+  "storage": "Best on the day. Leftover wedges keep 1 day in the fridge; the dressing keeps 3 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "fish",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 317,
+    "protein_g": 5.0,
+    "carbs_g": 18.3,
+    "sugar_g": 5.8,
+    "free_sugar_g": 0.9,
+    "fat_g": 25.8,
+    "satfat_g": 4.3,
+    "salt_g": 1.35,
+    "fibre_g": 4.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Charred green cabbage wedges on a platter, drizzled with creamy dressing and topped with dark rye crumbs, capers and grated cheese.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
