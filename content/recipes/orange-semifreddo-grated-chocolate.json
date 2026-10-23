@@ -1,0 +1,138 @@
+{
+  "slug": "orange-semifreddo-grated-chocolate",
+  "title": "Orange Semifreddo with Dark Chocolate",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "semifreddo",
+  "dish_title": "Semifreddo",
+  "flavour": "Orange",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "vanilla-semifreddo-raspberry-swirl",
+  "changes_from_base": "A hot-syrup meringue with orange zest replaces the whisked whole-egg base, and grated dark chocolate replaces the jam swirl.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Orange-scented semifreddo on a light Italian meringue, flecked with grated dark chocolate.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 10,
+  "difficulty": "hard",
+  "equipment": [
+    "1.5 litre loaf tin",
+    "cling film",
+    "stand mixer with whisk",
+    "small saucepan",
+    "sugar thermometer",
+    "silicone spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Semifreddo",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large egg whites, at room temperature"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 125,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "100 g for the syrup, 25 g for the whites"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated orange zest"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 60,
+      "unit": "g",
+      "item": "dark chocolate, finely grated",
+      "note": "45 g folded in, 15 g to finish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Line",
+      "text": "Line the 1.5 litre loaf tin with cling film leaving an 8 cm overhang and place it in the freezer. Put the 3 large egg whites into the stand mixer bowl."
+    },
+    {
+      "title": "Whip",
+      "text": "Whip the 240 ml double cream to soft peaks using the stand mixer with whisk, then cover and chill."
+    },
+    {
+      "title": "Warm",
+      "text": "Warm 60 ml water and 100 g caster sugar on low without stirring until dissolved for about 4 min, then boil on medium-high towards 114 °C in the small saucepan."
+    },
+    {
+      "title": "Whisk",
+      "text": "When the syrup reaches 99 °C, whisk the whites on medium until frothy. Add 1 tsp of the 25 g sugar, whisk on high to soft peaks, then add the rest of the 25 g a little at a time."
+    },
+    {
+      "title": "Pour",
+      "text": "At 114 °C, with the mixer on medium-high, pour the syrup in a thin stream down the side of the bowl, away from the whisk. Keep whisking until glossy, doubled and cooled to room temperature, 4-5 min, then beat in the orange zest and vanilla."
+    },
+    {
+      "title": "Fold",
+      "text": "Stir in a third of the whipped cream, fold in the remaining cream with 45 g dark chocolate, spread the mixture into the tin, cover with film, and freeze at least 8 h."
+    },
+    {
+      "title": "Serve",
+      "text": "Unmould the semifreddo, scatter the remaining 15 g dark chocolate over the top, slice and serve at once."
+    }
+  ],
+  "tips": [
+    "Grate the chocolate straight from the fridge so it stays in fine flakes.",
+    "Clip the thermometer to the pan before the syrup starts to boil so you catch 114 °C exactly.",
+    "Blood orange zest gives a deeper colour and a slightly berry-like note."
+  ],
+  "storage": "Wrap well and keep in the freezer up to 2 weeks; slice straight from the freezer with a hot, dry knife.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 216,
+    "protein_g": 2.8,
+    "carbs_g": 20.3,
+    "sugar_g": 18.4,
+    "free_sugar_g": 17.5,
+    "fat_g": 14.0,
+    "satfat_g": 8.7,
+    "salt_g": 0.08,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A pale orange semifreddo loaf topped with grated dark chocolate.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

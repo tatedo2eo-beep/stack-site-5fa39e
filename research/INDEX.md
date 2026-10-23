@@ -16,6 +16,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | almond-flour-brownies | Brownie (fudgy or cakey) | Almond | 1 | 3 |
 | almond-hazelnut-dacquoise-coffee-buttercream | Dacquoise | Classic | 2 | 4 |
 | almond-marzipan-fruits | Pâte d'amande/marzipan | Classic | 1 | 3 |
+| almond-milk-granita-toasted-almonds | Granita | Almond | 1 | 3 |
 | almond-tuiles | Tuiles | Classic | 2 | 4 |
 | almond-turron-de-alicante | Turrón | Classic | 1 | 3 |
 | aloo-paratha-spiced-potato-flatbreads | Aloo paratha | Classic | 3 | 5 |
@@ -92,6 +93,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | black-pepper-custard-ice-cream | Custard-base (French) | Black pepper | 1 | 3 |
 | black-pepper-slow-onion-spaghetti | Long dried (spaghetti, linguine, bucatini) | Black pepper & onion | 1 | 3 |
 | black-sesame-custard-ice-cream | Custard-base (French) | Black sesame | 1 | 3 |
+| blackberry-brown-sugar-frozen-yoghurt | Frozen yogurt | Blackberry & brown sugar | 1 | 3 |
 | blackberry-cobbler | Cobbler | Blackberry | 1 | 3 |
 | blackberry-granita-lemon | Granita | Blackberry | 1 | 3 |
 | blackberry-lemon-sorbet-sieved | Sorbet | Blackberry | 1 | 3 |
@@ -319,6 +321,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cold-somen | Somen | Classic | 3 | 5 |
 | colombian-arepas-de-queso-cheese-filled-corn-cakes | Arepa | Cheese | 2 | 4 |
 | concord-grape-sorbet | Sorbet | Grape | 1 | 3 |
+| cooked-strawberry-frozen-yoghurt | Frozen yogurt | Strawberry | 1 | 3 |
 | cooked-yolk-hollandaise | Hollandaise (béarnaise, mousseline) | Classic | 2 | 4 |
 | cookies-and-cream-custard-ice-cream | Custard-base (French) | Cookies & cream | 1 | 3 |
 | cool-yoghurt-rice-mustard-seeds-curry-leaves-pomegranate | Curd rice | Classic | 2 | 4 |
@@ -331,6 +334,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cranberry-butter-parker-house-rolls | Dinner rolls | Cranberry | 1 | 3 |
 | cranberry-ginger-apple-slab-tart | Fruit tart (crème pâtissière) | Cranberry & ginger | 1 | 3 |
 | cranberry-oat-bars | Bars (magic bars, millionaire's shortbread) | Cranberry | 1 | 3 |
+| cream-cheese-semifreddo-maple-balsamic | Semifreddo | Cream cheese | 1 | 3 |
 | cream-cheese-swirl-brownies | Brownie (fudgy or cakey) | Cream cheese | 1 | 3 |
 | cream-filled-profiteroles-chocolate-sauce | Profiteroles | Classic | 2 | 4 |
 | creamy-basil-rigatoni-no-cook | Short (penne, rigatoni, fusilli) | Basil | 1 | 3 |
@@ -397,6 +401,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | dal-makhani-creamy-black-lentils | Dal makhani | Classic | 2 | 4 |
 | dark-chocolate-cherry-brownies | Brownie (fudgy or cakey) | Cherry | 1 | 3 |
 | dark-chocolate-cream-pie | Cream pie (banana, coconut) | Chocolate | 2 | 4 |
+| dark-chocolate-espresso-semifreddo | Semifreddo | Chocolate | 1 | 3 |
 | dark-chocolate-filled-soft-rolls | Dinner rolls | Dark chocolate | 1 | 3 |
 | dark-chocolate-fruit-and-nut-mendiants | Mendiants | Classic | 0 | 3 |
 | dark-chocolate-fudge-sauce | Sauce | Classic | 2 | 4 |
@@ -551,6 +556,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gooey-butter-oat-pie | Gooey butter oat pie | Classic | 1 | 3 |
 | graham-crackers | Graham crackers | Classic | 3 | 5 |
 | grape-rosemary-cornmeal-focaccia | Focaccia | Grape | 1 | 3 |
+| grapefruit-granita-orange-blossom | Granita | Grapefruit | 1 | 3 |
 | gratin-dauphinois | Gratin dauphinois | Classic | 2 | 4 |
 | gravlax-brown-sugar-pressed-dill-salmon-lemon | Gravlax | Dill (classic) | 1 | 3 |
 | gravlax-salt-sugar-dill-cured-salmon-mustard-sauce | Gravlax | Classic | 1 | 3 |
@@ -597,6 +603,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | homemade-chocolate-milk-cocoa-syrup | Chocolate milk | Classic | 2 | 4 |
 | homemade-corn-and-flour-tortillas | Tortillas (corn/flour) | Classic | 2 | 4 |
 | homemade-sauerkraut | Sauerkraut | Classic | 2 | 4 |
+| honey-ginger-semifreddo | Semifreddo | Ginger | 1 | 3 |
 | honey-glazed-corn-muffins | Corn muffin | Honey | 1 | 3 |
 | honey-glazed-french-crullers | Cruller/French cruller (choux) | Classic | 1 | 3 |
 | honey-glazed-pear-fig-tart | Fruit tart (crème pâtissière) | Pear | 1 | 3 |
@@ -730,6 +737,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | malted-milk-philadelphia-ice-cream | Philadelphia (no egg) | Malted milk | 1 | 3 |
 | mango-granita-ice-cube | Granita | Mango | 1 | 3 |
 | mango-lassi-cardamom-pistachio | Lassi | Mango | 2 | 4 |
+| mango-lassi-frozen-yoghurt | Frozen yogurt | Mango | 1 | 3 |
 | mango-lime-sorbet | Sorbet | Classic | 1 | 3 |
 | mango-sticky-rice-toasted-mung-beans | Mango sticky rice | Classic | 2 | 4 |
 | mansaf-lamb-jameed-yoghurt-rice | Mansaf | Classic | 1 | 3 |
@@ -811,9 +819,11 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | open-crumb-rustic-italian-ciabatta | ? | ? | MISSING | |
 | open-faced-cheddar-tuna-melts-dill-pickles | Tuna melt | Classic | 2 | 4 |
 | orange-and-cranberry-agar-jelly-cubes | Agar jellies | Classic | 2 | 4 |
+| orange-creamsicle-frozen-yoghurt | Frozen yogurt | Orange | 1 | 3 |
 | orange-meringue-pie | Meringue pie (lemon) | Orange | 1 | 3 |
 | orange-plum-clafoutis | Clafoutis | Plum | 1 | 3 |
 | orange-posset-fresh-orange | Posset | Orange | 2 | 4 |
+| orange-semifreddo-grated-chocolate | Semifreddo | Orange | 1 | 3 |
 | orange-zest-custard-ice-cream | Custard-base (French) | Orange | 1 | 3 |
 | orecchiette-broccoli | Hand-rolled shapes (orecchiette, pici, trofie, cavatelli) | Classic | 3 | 5 |
 | oven-baked-eggs-ramekins-cream-toast | Baked eggs (en cocotte) | Classic | 2 | 4 |
@@ -991,6 +1001,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | raspberry-cream-cheese-brownies | Brownie (fudgy or cakey) | Raspberry | 1 | 3 |
 | raspberry-cream-cheese-danish-pastries | Danish | Classic | 4 | 6 |
 | raspberry-custard-ice-cream | Custard-base (French) | Raspberry | 1 | 3 |
+| raspberry-frozen-yoghurt-vanilla | Frozen yogurt | Raspberry | 1 | 3 |
 | raspberry-glazed-laminated-cronut-style-doughnuts | Cronut-style laminated | Classic | 1 | 3 |
 | raspberry-granita-seedless | Granita | Raspberry | 1 | 3 |
 | raspberry-jam-filled-berliner-doughnuts | Filled (Berliner/bomboloni/jam) | Classic | 2 | 4 |
@@ -1306,6 +1317,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | vanilla-pineapple-sorbet | Sorbet | Pineapple | 1 | 3 |
 | vanilla-pod-creme-anglaise | Crème anglaise | Classic | 2 | 4 |
 | vanilla-raspberry-mousse-cake | Entremets (mousse cake) | Classic | 2 | 4 |
+| vanilla-semifreddo-raspberry-swirl | Semifreddo | Classic | 1 | 3 |
 | vegetable-chow-mein | Chow mein/lo mein | Vegetable | 2 | 4 |
 | vegetable-fried-rice-red-pepper-peas-sweetcorn | Fried rice | Vegetable | 3 | 5 |
 | vegetable-lo-mein | Lo mein | Vegetable | 2 | 4 |

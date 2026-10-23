@@ -1,0 +1,107 @@
+{
+  "slug": "grapefruit-granita-orange-blossom",
+  "title": "Ruby Grapefruit Granita",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "granita",
+  "dish_title": "Granita",
+  "flavour": "Grapefruit",
+  "flavour_order": 13,
+  "access": "premium",
+  "base_recipe": "strawberry-granita-fork-scraped",
+  "changes_from_base": "Fresh ruby grapefruit juice replaces the strawberry purée; it is frozen solid without stirring, then smashed into flakes with a fork.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A refreshing ruby grapefruit ice with a coarse texture and optional floral notes for a bright palate cleanser or light dessert.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "citrus juicer",
+    "large bowl",
+    "whisk",
+    "33 x 23 cm dish",
+    "fork",
+    "6 chilled glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Granita",
+      "qty": 900,
+      "unit": "ml",
+      "item": "ruby grapefruit juice with its pulp (about 6 grapefruits)"
+    },
+    {
+      "group": "Granita",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "To serve",
+      "qty": 3,
+      "unit": "tsp",
+      "item": "orange blossom water (optional)",
+      "note": "½ tsp per glass"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Juice",
+      "text": "Halve and squeeze the 6 grapefruits into a large bowl using a citrus juicer. Retain the pulp but remove any pips and pith with a teaspoon."
+    },
+    {
+      "title": "Sweeten",
+      "text": "Whisk 100 g caster sugar into the 900 ml juice until the crystals are fully dissolved. Taste the mixture and use slightly less sugar if the fruit is naturally very sweet."
+    },
+    {
+      "title": "Pour",
+      "text": "Transfer the liquid into a 33 x 23 cm dish so it sits about 1 cm deep. Ensure the dish is level to allow for even freezing."
+    },
+    {
+      "title": "Freeze",
+      "text": "Place the dish in the freezer for at least 4 h or overnight until it is frozen solid. The texture should resemble packed snow and requires no stirring during this stage."
+    },
+    {
+      "title": "Flake",
+      "text": "Use a fork to smash the frozen block into rough flaky chunks. Work quickly to maintain the icy texture before the crystals begin to melt."
+    },
+    {
+      "title": "Assemble",
+      "text": "Pile the granita into 6 chilled glasses and store them in the freezer until you are ready to serve. Add ½ tsp orange blossom water to each glass if desired."
+    }
+  ],
+  "tips": [
+    "Use very cold glasses to prevent the fine ice crystals from melting too quickly during service.",
+    "Adjust the sugar levels based on the seasonal tartness of your citrus fruit.",
+    "Try the orange blossom water for a fragrant aromatic finish that complements the bitter grapefruit."
+  ],
+  "storage": "Keep covered in the freezer up to 1 week; fork it again before serving.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 128,
+    "protein_g": 1.2,
+    "carbs_g": 32.7,
+    "sugar_g": 27.0,
+    "free_sugar_g": 16.6,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.0,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Coral-pink ruby grapefruit granita flakes piled in a chilled glass.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "honey-ginger-semifreddo",
+  "title": "Honey and Ginger Semifreddo",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "semifreddo",
+  "dish_title": "Semifreddo",
+  "flavour": "Ginger",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "vanilla-semifreddo-raspberry-swirl",
+  "changes_from_base": "Honey and fresh ginger sweeten and flavour the egg base instead of sugar and vanilla; crystallised ginger replaces the jam swirl.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A chilled dessert featuring the floral notes of mild honey and the sharp warmth of fresh and crystallised ginger.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "22 x 11 cm loaf tin",
+    "cling film",
+    "medium saucepan",
+    "heatproof bowl",
+    "whisk or hand mixer",
+    "instant-read thermometer",
+    "silicone spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Semifreddo",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 150,
+      "unit": "g",
+      "item": "mild honey (such as orange blossom or acacia)"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "finely grated fresh ginger"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 320,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 30,
+      "unit": "g",
+      "item": "crystallised ginger, finely diced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Line",
+      "text": "Prepare a 22 x 11 cm loaf tin with cling film. Leave enough overhang at the edges to cover the top later."
+    },
+    {
+      "title": "Simmer",
+      "text": "Fill a medium saucepan with 3-5 cm water and bring it to a simmer. Place the heatproof bowl over the pan without letting it touch the water."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk the 1 large egg, 4 large egg yolks, 150 g honey and 2 tbsp grated ginger until pale and thick. Ensure the mixture reaches 71 °C but do not overheat to avoid curdling."
+    },
+    {
+      "title": "Cool",
+      "text": "Remove the bowl from the heat and set the egg mixture aside to cool. This step ensures the cream does not melt when combined."
+    },
+    {
+      "title": "Whip",
+      "text": "In a separate bowl, whisk 320 ml double cream just until stiff peaks form. Use a whisk or hand mixer for a light texture."
+    },
+    {
+      "title": "Fold",
+      "text": "Use a silicone spatula to fold the egg mixture into the cream. Pour into the tin, cover with the film and freeze for at least 3 h until solid."
+    },
+    {
+      "title": "Serve",
+      "text": "Unmould onto a chilled plate and scatter half the 30 g crystallised ginger. Slice quickly and scatter the remaining ginger over the individual plates."
+    }
+  ],
+  "tips": [
+    "Use orange blossom or acacia honey for a delicate flavour profile.",
+    "Ensure the bowl does not touch the simmering water to prevent the eggs from scrambling.",
+    "Chill your serving plates in advance to help the slices hold their shape longer."
+  ],
+  "storage": "Wrap well and keep in the freezer up to 2 weeks; slice straight from the freezer with a hot, dry knife.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 325,
+    "protein_g": 4.5,
+    "carbs_g": 27.2,
+    "sugar_g": 25.9,
+    "free_sugar_g": 24.2,
+    "fat_g": 23.1,
+    "satfat_g": 13.6,
+    "salt_g": 0.08,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden honey and ginger semifreddo slices scattered with diced crystallised ginger.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

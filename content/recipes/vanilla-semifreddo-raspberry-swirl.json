@@ -1,0 +1,134 @@
+{
+  "slug": "vanilla-semifreddo-raspberry-swirl",
+  "title": "Vanilla Semifreddo with Raspberry Swirl",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "semifreddo",
+  "dish_title": "Semifreddo",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A chilled vanilla dessert featuring vibrant raspberry jam ripples and a light, airy texture achieved through careful whisking and folding.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "23 x 13 cm loaf tin",
+    "cling film",
+    "stand mixer with whisk",
+    "heatproof bowl",
+    "saucepan",
+    "instant-read thermometer",
+    "silicone spatula",
+    "skewer",
+    "sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Semifreddo",
+      "qty": 360,
+      "unit": "ml",
+      "item": "cold double cream"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Swirl",
+      "qty": 120,
+      "unit": "g",
+      "item": "seedless raspberry jam",
+      "note": "about 6 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Line",
+      "text": "Line a 23 x 13 cm loaf tin with cling film. Ensure there is an 8 cm overhang on the sides for easy removal."
+    },
+    {
+      "title": "Whip",
+      "text": "Whip 360 ml cold double cream to soft peaks. Start on medium-low until foamy then increase to high for 1-3 min and chill."
+    },
+    {
+      "title": "Heat",
+      "text": "Whisk 4 large eggs with 150 g caster sugar and ⅛ tsp fine salt in a heatproof bowl set over barely simmering water, with the bowl clear of the water. Keep whisking until the mixture reaches 71 °C, 5-8 min."
+    },
+    {
+      "title": "Beat",
+      "text": "Transfer to a mixer bowl and add 1 tsp vanilla. Beat on medium-high for 3-4 min until the mixture is thick, pale and doubled in volume."
+    },
+    {
+      "title": "Fold",
+      "text": "Gently fold in half of the chilled cream using a silicone spatula. Add the remaining cream and fold until no streaks remain."
+    },
+    {
+      "title": "Swirl",
+      "text": "Spread a third of the mixture in the tin, dot with 2 tbsp jam and swirl it through with a skewer. Add half the remaining mixture and 2 tbsp jam and swirl again, then finish with the rest of the mixture and the last 2 tbsp jam."
+    },
+    {
+      "title": "Freeze",
+      "text": "Smooth the top, cover with the overhanging film and freeze for at least 8 h until firm."
+    },
+    {
+      "title": "Serve",
+      "text": "Turn the semifreddo out onto a board and peel off the film. Cut 2.5 cm slices with a knife dipped in hot water and wiped dry, and serve at once."
+    }
+  ],
+  "tips": [
+    "Use a skewer to create a decorative marble effect through the different layers of jam.",
+    "Ensure the heatproof bowl does not touch the simmering water to prevent the eggs from scrambling.",
+    "Dip your sharp knife in hot water and wipe it dry between each slice for clean edges."
+  ],
+  "storage": "Wrap well and keep in the freezer up to 2 weeks; slice straight from the freezer with a hot, dry knife.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 304,
+    "protein_g": 4.5,
+    "carbs_g": 30.6,
+    "sugar_g": 27.5,
+    "free_sugar_g": 26.1,
+    "fat_g": 18.6,
+    "satfat_g": 11.1,
+    "salt_g": 0.22,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "semifreddo-basic.jpg",
+  "image_alt": "A slice of creamy white vanilla semifreddo loaf with red raspberry swirls on a dark plate.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

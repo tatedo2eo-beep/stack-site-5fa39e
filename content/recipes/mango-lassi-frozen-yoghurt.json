@@ -1,0 +1,127 @@
+{
+  "slug": "mango-lassi-frozen-yoghurt",
+  "title": "Mango Lassi Frozen Yoghurt",
+  "category": "desserts",
+  "cuisine": "Indian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "frozen-yogurt",
+  "dish_title": "Frozen yogurt",
+  "flavour": "Mango",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "frozen-yogurt-strained-tangy",
+  "changes_from_base": "Mango purée and lime are whisked into unstrained yoghurt, lassi-style; no straining and no golden syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Mango, yoghurt and lime churned like a frozen lassi, sweet and gently tart.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "blender",
+    "fine sieve",
+    "measuring jug",
+    "medium bowl",
+    "whisk",
+    "lidded freezer container"
+  ],
+  "ingredients": [
+    {
+      "group": "Frozen yoghurt",
+      "qty": 600,
+      "unit": "g",
+      "item": "ripe mango flesh, diced (about 3 mangoes)",
+      "note": "makes more purée than needed"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 370,
+      "unit": "g",
+      "item": "full-fat plain yoghurt"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "finely grated lime zest"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lime juice, or to taste"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Blend 600 g ripe mango flesh for 30 s until smooth and pass through a fine sieve to measure 360 ml purée."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk the 360 ml purée, 370 g full-fat plain yoghurt, 200 g caster sugar and ½ tsp finely grated lime zest in a medium bowl until the sugar no longer feels gritty."
+    },
+    {
+      "title": "Season",
+      "text": "Add the lime juice ½ tsp at a time and the salt a pinch at a time, tasting as you go; use up to 2 tbsp juice and ¼ tsp salt. It should taste slightly tart with a hint of salt."
+    },
+    {
+      "title": "Chill",
+      "text": "Chill the mixture for 1 h if the mangoes were at room temperature."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn the chilled mixture in your ice-cream maker with the bowl frozen 24 h until it looks like soft serve."
+    },
+    {
+      "title": "Freeze",
+      "text": "Transfer the churned mixture to a lidded freezer container and freeze for at least 3-4 h before scooping."
+    }
+  ],
+  "tips": [
+    "Alphonso or Ataulfo mangoes give the smoothest, least fibrous purée.",
+    "A pinch of ground cardamom whisked into the base makes it taste even more like lassi.",
+    "Keep the spare mango purée for smoothies or to spoon over the scoops."
+  ],
+  "storage": "Keep in a lidded container in the freezer up to 5 days and soften 10-15 min at room temperature before scooping.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 154,
+    "protein_g": 2.0,
+    "carbs_g": 34.4,
+    "sugar_g": 33.5,
+    "free_sugar_g": 25.0,
+    "fat_g": 1.7,
+    "satfat_g": 1.0,
+    "salt_g": 0.24,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Scoops of golden mango frozen yoghurt in a bowl with lime zest.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

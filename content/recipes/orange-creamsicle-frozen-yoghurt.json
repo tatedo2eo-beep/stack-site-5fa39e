@@ -1,0 +1,122 @@
+{
+  "slug": "orange-creamsicle-frozen-yoghurt",
+  "title": "Orange Cream Frozen Yoghurt",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "frozen-yogurt",
+  "dish_title": "Frozen yogurt",
+  "flavour": "Orange",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "frozen-yogurt-strained-tangy",
+  "changes_from_base": "Fresh orange juice and zest go into unstrained yoghurt with a squeeze of lemon; no straining and no golden syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Bright orange juice and zest whisked into yoghurt for a frozen yoghurt that tastes like an orange ice lolly with cream.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "citrus juicer",
+    "fine grater",
+    "mixing bowl",
+    "whisk",
+    "instant-read thermometer",
+    "lidded freezer container"
+  ],
+  "ingredients": [
+    {
+      "group": "Frozen yoghurt",
+      "qty": 370,
+      "unit": "g",
+      "item": "full-fat plain yoghurt"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 360,
+      "unit": "ml",
+      "item": "fresh orange juice (about 4 large oranges)"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated orange zest"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice, or to taste"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk",
+      "text": "Whisk 370 g full-fat plain yoghurt, 360 ml fresh orange juice, 1 tbsp finely grated orange zest and 150 g caster sugar in a mixing bowl until the sugar is completely dissolved."
+    },
+    {
+      "title": "Season",
+      "text": "Add 1 tbsp lemon juice and ¼ tsp fine salt a little at a time until the sweet and tart flavours are balanced to your taste."
+    },
+    {
+      "title": "Chill",
+      "text": "Chill the mixture in an ice bath or fridge until it reaches 4 °C or colder."
+    },
+    {
+      "title": "Churn",
+      "text": "Pour the chilled mixture into your pre-frozen ice-cream maker bowl and churn until thick and creamy."
+    },
+    {
+      "title": "Freeze",
+      "text": "Transfer the mixture to a lidded freezer container and freeze for at least 4-5 h before serving."
+    }
+  ],
+  "tips": [
+    "Squeeze the oranges just before mixing; bottled juice tastes flat once frozen.",
+    "Zest the oranges before you halve them, as it is much easier.",
+    "Serve in cones with a few segments of fresh orange."
+  ],
+  "storage": "Keep in a lidded container in the freezer up to 5 days and soften 10-15 min at room temperature before scooping.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 122,
+    "protein_g": 1.9,
+    "carbs_g": 25.9,
+    "sugar_g": 24.7,
+    "free_sugar_g": 22.5,
+    "fat_g": 1.6,
+    "satfat_g": 1.0,
+    "salt_g": 0.24,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale orange frozen yoghurt scoops in a cone beside orange segments.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

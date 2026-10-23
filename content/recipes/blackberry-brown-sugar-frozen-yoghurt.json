@@ -1,0 +1,132 @@
+{
+  "slug": "blackberry-brown-sugar-frozen-yoghurt",
+  "title": "Blackberry and Brown Sugar Frozen Yoghurt",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "frozen-yogurt",
+  "dish_title": "Frozen yogurt",
+  "flavour": "Blackberry & brown sugar",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "frozen-yogurt-strained-tangy",
+  "changes_from_base": "Blackberries, dark brown sugar and a little clove are blended with unstrained yoghurt and sieved; brown sugar replaces the caster sugar and golden syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Blackberries blended with yoghurt, dark brown sugar and a hint of clove for a deep purple, caramel-edged frozen yoghurt.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "blender",
+    "fine sieve",
+    "ladle",
+    "mixing bowl",
+    "instant-read thermometer",
+    "lidded freezer container"
+  ],
+  "ingredients": [
+    {
+      "group": "Frozen yoghurt",
+      "qty": 340,
+      "unit": "g",
+      "item": "blackberries"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 480,
+      "unit": "g",
+      "item": "full-fat plain yoghurt"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 210,
+      "unit": "g",
+      "item": "dark brown sugar, packed"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice, or to taste"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Blend 340 g blackberries, 480 g full-fat plain yoghurt, 210 g dark brown sugar and ⅛ tsp ground cloves on high about 30 s until smooth."
+    },
+    {
+      "title": "Strain",
+      "text": "Pour the mixture through a fine sieve, pressing with a ladle to remove the seeds."
+    },
+    {
+      "title": "Season",
+      "text": "Stir in ½ tsp finely grated lemon zest, then add 1 tbsp lemon juice and ¼ tsp fine salt a little at a time until balanced."
+    },
+    {
+      "title": "Chill",
+      "text": "Chill the mixture until it reaches 4 °C or colder."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn the chilled mixture in your ice-cream maker with the bowl frozen 24 h."
+    },
+    {
+      "title": "Freeze",
+      "text": "Transfer to a lidded freezer container and freeze 4-5 h before serving."
+    }
+  ],
+  "tips": [
+    "Press hard on the pulp in the sieve; most of the colour sits in the skins.",
+    "Frozen blackberries work well once thawed with their juice.",
+    "Go easy on the clove; a little more turns it medicinal."
+  ],
+  "storage": "Keep in a lidded container in the freezer up to 5 days and soften 10-15 min at room temperature before scooping.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 153,
+    "protein_g": 2.6,
+    "carbs_g": 32.3,
+    "sugar_g": 30.1,
+    "free_sugar_g": 25.5,
+    "fat_g": 2.1,
+    "satfat_g": 1.3,
+    "salt_g": 0.27,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Deep purple blackberry frozen yoghurt scoops in a bowl.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

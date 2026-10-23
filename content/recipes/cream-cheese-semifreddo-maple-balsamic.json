@@ -1,0 +1,150 @@
+{
+  "slug": "cream-cheese-semifreddo-maple-balsamic",
+  "title": "Cream Cheese Semifreddo with Maple and Balsamic",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "semifreddo",
+  "dish_title": "Semifreddo",
+  "flavour": "Cream cheese",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "vanilla-semifreddo-raspberry-swirl",
+  "changes_from_base": "Yolks whisked to 71 °C and beaten with cream cheese replace the whole-egg base; maple syrup, balsamic and flaky salt replace the jam swirl.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A velvety frozen dessert combining tangy cream cheese with a rich egg yolk base, finished with a sophisticated balance of sweet maple and sharp balsamic vinegar.",
+  "servings": 6,
+  "prep_min": 35,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "20 cm (1 litre) loaf tin",
+    "cling film",
+    "stand mixer with whisk",
+    "heatproof bowl",
+    "small saucepan",
+    "instant-read thermometer",
+    "silicone spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Semifreddo",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream, chilled"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 5,
+      "unit": "pc",
+      "item": "egg yolks, at room temperature"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 200,
+      "unit": "g",
+      "item": "full-fat cream cheese, softened"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "maple syrup"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "good balsamic vinegar"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "flaky sea salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Line",
+      "text": "Line a 20 cm loaf tin with cling film. Whip 240 ml chilled double cream to stiff peaks and keep it in the fridge."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk 5 egg yolks, 100 g caster sugar, 1 tsp vanilla and ¼ tsp fine salt in a heatproof bowl. Ensure you mix them immediately so the sugar does not make the yolks grainy."
+    },
+    {
+      "title": "Cook",
+      "text": "Set the bowl over gently simmering water and whisk constantly for 5-7 min until pale and 71 °C. Remove from the heat and whisk for 8-10 min until the mixture cools to room temperature."
+    },
+    {
+      "title": "Combine",
+      "text": "Beat the cooled yolk mixture with 200 g softened cream cheese for 3-4 min using a stand mixer. Scrape the sides down to ensure the base is completely smooth."
+    },
+    {
+      "title": "Fold",
+      "text": "Gently fold the cream cheese mixture into the whipped cream using a silicone spatula. Stop just before the two mixtures are fully incorporated to maintain the light texture."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pour the mixture into the prepared tin and wrap it well. Freeze for at least 12 h until the semifreddo is solid."
+    },
+    {
+      "title": "Serve",
+      "text": "Dip the base of the tin in warm water for a few seconds, turn the semifreddo out and peel off the film. Cut 2.5 cm slices with a hot, dry knife and top each with maple syrup, a few drops of balsamic vinegar and a pinch of flaky sea salt."
+    }
+  ],
+  "tips": [
+    "Use an instant-read thermometer to ensure the yolks reach the correct temperature for safety and thickness.",
+    "Warm, soft cream cheese beats in smoothly; cold cream cheese leaves small lumps.",
+    "A spoonful of sour cherries in syrup works in place of the balsamic vinegar."
+  ],
+  "storage": "Wrap well and keep in the freezer up to 2 weeks; slice straight from the freezer with a hot, dry knife.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 401,
+    "protein_g": 5.4,
+    "carbs_g": 29.5,
+    "sugar_g": 27.5,
+    "free_sugar_g": 24.8,
+    "fat_g": 29.7,
+    "satfat_g": 17.3,
+    "salt_g": 0.6,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A slice of ivory cream cheese semifreddo with maple syrup, dark balsamic drops and flaky salt.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

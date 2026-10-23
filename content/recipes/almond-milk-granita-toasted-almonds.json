@@ -1,0 +1,121 @@
+{
+  "slug": "almond-milk-granita-toasted-almonds",
+  "title": "Almond Milk Granita",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "granita",
+  "dish_title": "Granita",
+  "flavour": "Almond",
+  "flavour_order": 14,
+  "access": "premium",
+  "base_recipe": "strawberry-granita-fork-scraped",
+  "changes_from_base": "Almond paste dissolved in milk and water replaces the strawberry purée, with a pinch of cinnamon and toasted almonds to serve.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "This refreshing frozen dessert combines smooth almond milk with a hint of cinnamon and crunchy toasted almonds for a light texture.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan",
+    "potato masher",
+    "stick blender",
+    "sieve lined with muslin",
+    "large bowl",
+    "33 x 23 cm metal tin",
+    "large spoon",
+    "8 glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Granita",
+      "qty": 400,
+      "unit": "g",
+      "item": "almond paste, broken into pieces"
+    },
+    {
+      "group": "Granita",
+      "qty": 960,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Granita",
+      "qty": 540,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Granita",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "g",
+      "item": "flaked almonds, toasted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Place 960 ml water, 400 g almond paste and 540 ml whole milk into a large saucepan and heat gently. Mash the paste pieces with a potato masher to help them dissolve."
+    },
+    {
+      "title": "Steam",
+      "text": "Take the pan off the heat as soon as the liquid starts to steam, before it boils. Leave it to cool slightly."
+    },
+    {
+      "title": "Blend",
+      "text": "Use a stick blender to process the warm mixture until it is completely smooth. Pour the liquid into a muslin-lined sieve over a large bowl and let it drip through without pressing."
+    },
+    {
+      "title": "Freeze",
+      "text": "Stir a pinch of ground cinnamon into the cooled liquid and pour it into a 33 x 23 cm metal tin. Place the tin in the freezer until the edges start to become icy."
+    },
+    {
+      "title": "Break",
+      "text": "After about 30 min, use the back of a large spoon to break the icy edges into smaller pieces. Repeat this process several times over 2 h until the mixture forms frozen shards."
+    },
+    {
+      "title": "Serve",
+      "text": "Layer some of the 60 g toasted flaked almonds into 8 glasses and fill with the granita. Finish each glass with a final topping of the remaining almonds."
+    }
+  ],
+  "tips": [
+    "Ensure the almond paste is fully dissolved for the smoothest possible texture.",
+    "Use a metal tin to help the liquid freeze more quickly and evenly.",
+    "Toast the flaked almonds until golden to provide a nutty contrast to the icy granita."
+  ],
+  "storage": "Keep covered in the freezer up to 1 week; fork it again before serving.",
+  "allergens": [
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 256,
+    "protein_g": 7.1,
+    "carbs_g": 22.8,
+    "sugar_g": 17.3,
+    "free_sugar_g": 13.6,
+    "fat_g": 16.3,
+    "satfat_g": 2.5,
+    "salt_g": 0.09,
+    "fibre_g": 2.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Snowy white almond milk granita in a glass layered with toasted flaked almonds.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "cooked-strawberry-frozen-yoghurt",
+  "title": "Cooked Strawberry Frozen Yoghurt",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "frozen-yogurt",
+  "dish_title": "Frozen yogurt",
+  "flavour": "Strawberry",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "frozen-yogurt-strained-tangy",
+  "changes_from_base": "A cooked, sieved strawberry and lemon-zest purée is whisked into thick Greek yoghurt instead of straining plain yoghurt; no golden syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Strawberries cooked down with lemon zest for a deep, jammy flavour, then churned with thick Greek yoghurt.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "heavy saucepan",
+    "blender",
+    "fine sieve",
+    "bowl",
+    "whisk",
+    "lidded freezer container"
+  ],
+  "ingredients": [
+    {
+      "group": "Frozen yoghurt",
+      "qty": 500,
+      "unit": "g",
+      "item": "strawberries, hulled and quartered"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, zest peeled off in wide strips"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 450,
+      "unit": "g",
+      "item": "full-fat Greek yoghurt"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "lemon juice, or to taste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook",
+      "text": "Put the 500 g strawberries, lemon zest strips, 150 g caster sugar and ⅛ tsp fine salt in a heavy saucepan over medium heat. Stir now and then until the juices begin to simmer, about 4 min."
+    },
+    {
+      "title": "Simmer",
+      "text": "Lower the heat and cook for about 7 min until juices thicken slightly and berries are very tender."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the mixture until smooth and pass it through a fine sieve to yield about 480 ml purée."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk the 450 g Greek yoghurt into the purée. If it tastes too sweet, add lemon juice ¼ tsp at a time, remembering that cold mutes both sweet and sour."
+    },
+    {
+      "title": "Chill",
+      "text": "Chill the mixture for about 3 h until very cold."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn in the ice-cream maker. Eat it as soft serve, or freeze for 2-3 h for a firmer scoop."
+    },
+    {
+      "title": "Serve",
+      "text": "If it has set hard, leave it at room temperature for 10-15 min before scooping."
+    }
+  ],
+  "tips": [
+    "Slightly overripe strawberries are ideal, as cooking concentrates their flavour.",
+    "Strain the purée well so the frozen yoghurt stays silky.",
+    "Top with fresh sliced strawberries and a little lemon zest."
+  ],
+  "storage": "Keep in a lidded container in the freezer up to 5 days; soften 10-15 min at room temperature before scooping.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 195,
+    "protein_g": 7.3,
+    "carbs_g": 34.2,
+    "sugar_g": 31.9,
+    "free_sugar_g": 25.0,
+    "fat_g": 4.0,
+    "satfat_g": 1.8,
+    "salt_g": 0.19,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Rosy strawberry frozen yoghurt scoops topped with sliced strawberries.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

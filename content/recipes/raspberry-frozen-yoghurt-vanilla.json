@@ -1,0 +1,131 @@
+{
+  "slug": "raspberry-frozen-yoghurt-vanilla",
+  "title": "Raspberry Frozen Yoghurt",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "frozen-yogurt",
+  "dish_title": "Frozen yogurt",
+  "flavour": "Raspberry",
+  "flavour_order": 5,
+  "access": "premium",
+  "base_recipe": "frozen-yogurt-strained-tangy",
+  "changes_from_base": "A short 1-2 h strain, sieved macerated raspberries and warm sweetened milk replace the long strain; golden syrup still keeps it smooth.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A bright pink raspberry frozen yoghurt, sieved seed-free and kept smooth with a little golden syrup.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "fine sieve",
+    "measuring jug",
+    "2 bowls",
+    "potato masher",
+    "small saucepan",
+    "instant-read thermometer",
+    "lidded freezer container"
+  ],
+  "ingredients": [
+    {
+      "group": "Frozen yoghurt",
+      "qty": 500,
+      "unit": "g",
+      "item": "full-fat plain yoghurt"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 500,
+      "unit": "g",
+      "item": "fresh raspberries (or frozen, thawed)"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "50 g for the berries, 100 g for the milk"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "golden syrup"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Drain",
+      "text": "Spoon the 500 g yoghurt into a fine sieve over a measuring jug and chill for 1-2 h until about 120 ml liquid has drained. Discard the liquid."
+    },
+    {
+      "title": "Macerate",
+      "text": "Mash 500 g fresh raspberries lightly with 50 g caster sugar and 1 tsp vanilla, leave 1 h at room temperature, then sieve out seeds."
+    },
+    {
+      "title": "Warm",
+      "text": "Warm the 240 ml milk with 100 g caster sugar in a small saucepan, stirring until the sugar dissolves. Take it off the heat, stir in the 3 tbsp golden syrup and leave to cool."
+    },
+    {
+      "title": "Combine",
+      "text": "Mix the milk mixture and raspberry purée into the drained yoghurt in a bowl."
+    },
+    {
+      "title": "Chill",
+      "text": "Chill the mixture until 4 °C or colder using an instant-read thermometer."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn the cold mixture in the ice-cream maker until frozen and thick."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve it soft straight away, or spoon it into a lidded container and firm up in the freezer for 1-2 h."
+    }
+  ],
+  "tips": [
+    "Thawed frozen raspberries are just as good as fresh here.",
+    "Golden syrup keeps the texture soft without any setting agent.",
+    "Scatter a few whole raspberries over each bowl to serve."
+  ],
+  "storage": "Best within 1 day; keep in a lidded container in the freezer and soften 10 min before scooping, as it turns icy after that.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 175,
+    "protein_g": 3.3,
+    "carbs_g": 35.3,
+    "sugar_g": 31.1,
+    "free_sugar_g": 24.9,
+    "fat_g": 2.9,
+    "satfat_g": 1.6,
+    "salt_g": 0.12,
+    "fibre_g": 3.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Bright pink raspberry frozen yoghurt in a bowl with whole raspberries.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "dark-chocolate-espresso-semifreddo",
+  "title": "Dark Chocolate Semifreddo",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "semifreddo",
+  "dish_title": "Semifreddo",
+  "flavour": "Chocolate",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "vanilla-semifreddo-raspberry-swirl",
+  "changes_from_base": "A cooked chocolate and espresso custard replaces the whisked vanilla egg base, and there is no jam swirl.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A deep, dark chocolate semifreddo lifted with espresso, set in a loaf tin and sliced straight from the freezer.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "23 x 13 cm loaf tin",
+    "oil spray",
+    "cling film",
+    "large heatproof bowl",
+    "fine sieve",
+    "small bowl",
+    "medium bowl",
+    "whisk",
+    "saucepan",
+    "instant-read thermometer",
+    "stand mixer with whisk",
+    "silicone spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Semifreddo",
+      "qty": 225,
+      "unit": "g",
+      "item": "dark chocolate (60-70%), finely chopped"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "instant espresso powder"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 65,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream, chilled",
+      "note": "120 ml heated, 360 ml whipped"
+    },
+    {
+      "group": "Semifreddo",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Lightly spray the 23 x 13 cm loaf tin with oil spray and line with cling film leaving an 8 cm overhang. Put the 225 g dark chocolate in the large heatproof bowl and place the fine sieve over it."
+    },
+    {
+      "title": "Dissolve",
+      "text": "Stir the 1 tbsp vanilla and ½ tsp instant espresso powder together in the small bowl until the powder dissolves."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk the 3 eggs, 65 g caster sugar and ¼ tsp fine salt in the medium bowl. Heat 120 ml of the cream with the 60 ml water until simmering, then pour it slowly into the eggs, whisking all the time."
+    },
+    {
+      "title": "Cook",
+      "text": "Return the mixture to the pan and cook over medium-low heat, stirring and scraping the base constantly, until slightly thickened and 71-74 °C, about 5 min. Do not let it simmer."
+    },
+    {
+      "title": "Melt",
+      "text": "Pour the hot custard straight through the sieve onto the chocolate, let it stand for 5 min, then whisk smooth and stir in the vanilla mixture before cooling for about 15 min."
+    },
+    {
+      "title": "Whip",
+      "text": "Whip the remaining 360 ml chilled double cream in the stand mixer with the whisk attachment on low for 30 s, medium for 30 s, and high for 30-45 s to soft peaks."
+    },
+    {
+      "title": "Freeze",
+      "text": "Whisk a third of the whipped cream into the chocolate mixture, gently fold in the rest until no streaks remain, spread into the tin, fold the film over, and freeze for at least 6 h."
+    },
+    {
+      "title": "Serve",
+      "text": "Invert the semifreddo onto a board, peel off the film, slice 2 cm thick using a hot dry knife, and serve straight away."
+    }
+  ],
+  "tips": [
+    "Keep the 360 ml of cream in the fridge until the moment you whip it.",
+    "Stop whipping at soft peaks; firmer cream turns grainy when folded into the chocolate.",
+    "Serve slices with a few fresh raspberries to cut the richness."
+  ],
+  "storage": "Wrap well and keep in the freezer up to 2 weeks; slice straight from the freezer with a hot, dry knife.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 290,
+    "protein_g": 4.2,
+    "carbs_g": 15.4,
+    "sugar_g": 11.3,
+    "free_sugar_g": 10.0,
+    "fat_g": 23.6,
+    "satfat_g": 14.2,
+    "salt_g": 0.2,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Slices of dark chocolate semifreddo on a plate.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
