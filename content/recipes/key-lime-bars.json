@@ -1,0 +1,151 @@
+{
+  "slug": "key-lime-bars",
+  "title": "Key Lime Bars",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "bars-magic-bars-millionaires-shortbread",
+  "dish_title": "Bars (magic bars, millionaire's shortbread)",
+  "flavour": "Key lime",
+  "flavour_order": 110,
+  "access": "premium",
+  "base_recipe": "millionaires-shortbread",
+  "changes_from_base": "A tangy lime and condensed-milk filling baked on a biscuit base, optionally topped with toasted coconut; replaces caramel and chocolate. Kept chilled.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A lime and condensed-milk filling baked on a biscuit base and topped with toasted coconut.",
+  "servings": 16,
+  "prep_min": 20,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin, lined with a baking-paper sling",
+    "mixing bowls",
+    "silicone spatula",
+    "wire rack",
+    "food processor",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 140,
+      "unit": "g",
+      "item": "digestive biscuits"
+    },
+    {
+      "group": "Base",
+      "qty": 40,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled slightly"
+    },
+    {
+      "group": "Filling",
+      "qty": 55,
+      "unit": "g",
+      "item": "full-fat cream cheese, at room temperature"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated lime zest"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 397,
+      "unit": "g",
+      "item": "can sweetened condensed milk"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Filling",
+      "qty": 120,
+      "unit": "ml",
+      "item": "fresh lime juice (key or regular limes)"
+    },
+    {
+      "group": "Topping",
+      "qty": 60,
+      "unit": "g",
+      "item": "sweetened desiccated coconut, toasted",
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Base",
+      "text": "Heat the oven to 165 °C (145 °C fan) and line the 20 cm tin with a sling. Blitz the biscuits to fine crumbs, pulse in the sugar and salt, then the butter. Press firmly into the tin and bake 18-20 min until deep golden. Leave the oven on."
+    },
+    {
+      "title": "Filling",
+      "text": "Mash the cream cheese, zest and salt until creamy, whisk in the condensed milk until smooth, then the yolk. Gently whisk in the lime juice; it will thicken."
+    },
+    {
+      "title": "Bake",
+      "text": "Pour over the base, smooth and bake 15-20 min, until set and just pulling from the sides (centre at least 71 °C)."
+    },
+    {
+      "title": "Chill",
+      "text": "Cool on a rack 1-1½ h, cover and refrigerate at least 2 h."
+    },
+    {
+      "title": "Serve",
+      "text": "Lift out, cut into 16 and sprinkle with toasted coconut if using."
+    }
+  ],
+  "tips": [
+    "Regular limes work fine if key limes are hard to find.",
+    "Zest the limes before juicing.",
+    "Let them stand 15 min out of the fridge before serving."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 198,
+    "protein_g": 3.3,
+    "carbs_g": 23.3,
+    "sugar_g": 17.9,
+    "free_sugar_g": 17.5,
+    "fat_g": 10.7,
+    "satfat_g": 7.0,
+    "salt_g": 0.25,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale green lime squares on a biscuit base sprinkled with toasted coconut."
+}

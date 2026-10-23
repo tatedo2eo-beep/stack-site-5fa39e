@@ -1,0 +1,160 @@
+{
+  "slug": "oatmeal-raisin-cookie-bars",
+  "title": "Oatmeal Raisin Cookie Bars",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "bars-magic-bars-millionaires-shortbread",
+  "dish_title": "Bars (magic bars, millionaire's shortbread)",
+  "flavour": "Raisin",
+  "flavour_order": 109,
+  "access": "premium",
+  "base_recipe": "millionaires-shortbread",
+  "changes_from_base": "A one-bowl chewy oatmeal cookie bar with raisins and a thin icing drizzle, instead of shortbread, caramel and chocolate.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Chewy molasses oatmeal bars with raisins and a simple icing drizzle.",
+  "servings": 16,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin, lined with a baking-paper sling",
+    "mixing bowls",
+    "silicone spatula",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Bars",
+      "qty": 135,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Bars",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, at room temperature"
+    },
+    {
+      "group": "Bars",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "black treacle or molasses"
+    },
+    {
+      "group": "Bars",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, at room temperature"
+    },
+    {
+      "group": "Bars",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Bars",
+      "qty": 120,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Bars",
+      "qty": 50,
+      "unit": "g",
+      "item": "rolled oats"
+    },
+    {
+      "group": "Bars",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Bars",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Bars",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Bars",
+      "qty": 115,
+      "unit": "g",
+      "item": "raisins"
+    },
+    {
+      "group": "Glaze",
+      "qty": 55,
+      "unit": "g",
+      "item": "icing sugar, sifted"
+    },
+    {
+      "group": "Glaze",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "warm water, plus extra as needed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 175 °C (155 °C fan), shelf in the centre, and grease and line the 20 cm tin."
+    },
+    {
+      "title": "Mix",
+      "text": "Whisk the brown sugar, butter and treacle together, then whisk in the egg and vanilla."
+    },
+    {
+      "title": "Dry",
+      "text": "Add the flour, oats, cinnamon, baking powder and salt and stir with a spatula until no dry streaks remain, then stir in the raisins."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread evenly and bake 25-30 min, until evenly browned and set in the centre (about 96 °C inside). Cool completely on a rack."
+    },
+    {
+      "title": "Glaze",
+      "text": "Whisk the icing sugar with 2 tsp water, adding drops more until it flows like honey. Drizzle over and let it set 5-10 min before cutting into 16."
+    }
+  ],
+  "tips": [
+    "Soak the raisins in hot water for 5 min if they are dry.",
+    "Do not overbake; they firm up as they cool.",
+    "Add the water to the glaze a drop at a time.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 171,
+    "protein_g": 1.9,
+    "carbs_g": 27.6,
+    "sugar_g": 18.3,
+    "free_sugar_g": 13.6,
+    "fat_g": 6.4,
+    "satfat_g": 3.8,
+    "salt_g": 0.24,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Brown oatmeal raisin bars drizzled with thin white icing."
+}

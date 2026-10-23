@@ -1,0 +1,159 @@
+{
+  "slug": "blueberry-pie-bars",
+  "title": "Blueberry Pie Bars",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "bars-magic-bars-millionaires-shortbread",
+  "dish_title": "Bars (magic bars, millionaire's shortbread)",
+  "flavour": "Blueberry",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "millionaires-shortbread",
+  "changes_from_base": "Brown sugar shortbread base and crumble with a lemony spiced blueberry filling instead of caramel and chocolate.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Shortbread crust and crumble with a thick, lemony blueberry filling.",
+  "servings": 24,
+  "prep_min": 30,
+  "cook_min": 80,
+  "difficulty": "medium",
+  "equipment": [
+    "23 x 33 cm metal baking tin, lined with a baking-paper sling",
+    "mixing bowls",
+    "silicone spatula",
+    "wire rack",
+    "large saucepan",
+    "potato masher or fork"
+  ],
+  "ingredients": [
+    {
+      "group": "Crust and crumble",
+      "qty": 445,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Crust and crumble",
+      "qty": 225,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Crust and crumble",
+      "qty": 140,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Crust and crumble",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Crust and crumble",
+      "qty": 285,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Filling",
+      "qty": 900,
+      "unit": "g",
+      "item": "fresh blueberries"
+    },
+    {
+      "group": "Filling",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 45,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground coriander"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crust",
+      "text": "Heat the oven to 175 °C (155 °C fan) and line the large tin. Mix the flour, both sugars and salt, then stir in the melted butter until pea-sized clumps form. Set aside about 40% (roughly 450 g) for the crumble and chill it."
+    },
+    {
+      "title": "Prebake",
+      "text": "Press the rest firmly over the base of the tin and bake 18-20 min, until set and just browning at the edges. Cool 15 min."
+    },
+    {
+      "title": "Filling",
+      "text": "Put the blueberries, sugar, cornflour, zest, coriander and cinnamon in a large pan and bring to a simmer, then cook 4-5 min on medium-low, mashing some berries, until thick and bubbling. Stir in the lemon juice and cool 30 min."
+    },
+    {
+      "title": "Assemble",
+      "text": "Spread the filling over the crust and crumble the reserved mixture over the top."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 45-55 min, turning halfway, until the crumble is golden and the filling bubbles at the edges."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool at least 2 h in the tin before lifting out and cutting into 24."
+    }
+  ],
+  "tips": [
+    "Cook the filling until you can see the bottom of the pan when stirring.",
+    "Frozen blueberries work; cook a few minutes longer.",
+    "Cool fully so the filling sets for clean cuts.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered at room temperature for 2 days or in the fridge for up to 4 days.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 272,
+    "protein_g": 2.3,
+    "carbs_g": 44.9,
+    "sugar_g": 27.1,
+    "free_sugar_g": 23.3,
+    "fat_g": 9.9,
+    "satfat_g": 6.1,
+    "salt_g": 0.19,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Shortbread bars with a thick purple blueberry layer under a golden crumble."
+}

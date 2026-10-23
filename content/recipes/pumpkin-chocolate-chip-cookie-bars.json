@@ -1,0 +1,166 @@
+{
+  "slug": "pumpkin-chocolate-chip-cookie-bars",
+  "title": "Pumpkin Chocolate Chip Cookie Bars",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "bars-magic-bars-millionaires-shortbread",
+  "dish_title": "Bars (magic bars, millionaire's shortbread)",
+  "flavour": "Pumpkin & chocolate",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "millionaires-shortbread",
+  "changes_from_base": "An egg-free browned-butter pumpkin cookie bar with dark chocolate chips, in place of shortbread, caramel and chocolate layers.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Egg-free brown butter pumpkin cookie bars with dark chocolate chips.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin, lined with a baking-paper sling",
+    "mixing bowls",
+    "silicone spatula",
+    "wire rack",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Bars",
+      "qty": 140,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Bars",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Bars",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Bars",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Bars",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground allspice"
+    },
+    {
+      "group": "Bars",
+      "qty": 145,
+      "unit": "g",
+      "item": "canned pumpkin purée (unsweetened)"
+    },
+    {
+      "group": "Bars",
+      "qty": 213,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Bars",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Bars",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Bars",
+      "qty": 160,
+      "unit": "g",
+      "item": "dark brown soft sugar"
+    },
+    {
+      "group": "Bars",
+      "qty": 65,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Bars",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Bars",
+      "qty": 210,
+      "unit": "g",
+      "item": "dark chocolate chips",
+      "note": "170 g for the dough, 40 g for the top"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 175 °C (155 °C fan) and line the 20 cm tin."
+    },
+    {
+      "title": "Brown",
+      "text": "Melt the butter in a small pan and cook, stirring, about 7 min until it smells nutty and the solids turn amber. Scrape into a large bowl and whisk in the spices."
+    },
+    {
+      "title": "Reduce",
+      "text": "Tip the pumpkin into the same pan and cook over medium heat, stirring, 7-9 min until darker and thick (about 95 g). Whisk into the spiced butter and cool 20 min."
+    },
+    {
+      "title": "Dough",
+      "text": "Whisk both sugars and the vanilla into the pumpkin butter. Mix the flour, salt and bicarbonate of soda, fold them in, then fold in 170 g chocolate chips."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread in the tin, press the rest of the chips on top and bake 25-30 min, until the top looks dry and a skewer shows only melted chocolate."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool completely in the tin, then cut into 12."
+    }
+  ],
+  "tips": [
+    "Cooking down the pumpkin removes water and keeps the bars chewy.",
+    "Use plain pumpkin purée, not pie filling.",
+    "Brown the butter until amber, not black.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 332,
+    "protein_g": 3.5,
+    "carbs_g": 41.5,
+    "sugar_g": 23.1,
+    "free_sugar_g": 22.6,
+    "fat_g": 17.2,
+    "satfat_g": 10.3,
+    "salt_g": 0.38,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Orange-tinged pumpkin cookie bars studded with dark chocolate chips."
+}

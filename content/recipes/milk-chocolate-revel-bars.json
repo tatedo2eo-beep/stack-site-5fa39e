@@ -1,0 +1,168 @@
+{
+  "slug": "milk-chocolate-revel-bars",
+  "title": "Milk Chocolate Revel Bars",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "bars-magic-bars-millionaires-shortbread",
+  "dish_title": "Bars (magic bars, millionaire's shortbread)",
+  "flavour": "Milk chocolate",
+  "flavour_order": 106,
+  "access": "premium",
+  "base_recipe": "millionaires-shortbread",
+  "changes_from_base": "An oat and almond cookie dough base and topping around a milk-chocolate condensed-milk fudge layer, replacing shortbread and caramel.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Oat and almond bars with a milk chocolate and condensed-milk fudge layer.",
+  "servings": 24,
+  "prep_min": 20,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "23 x 33 cm metal baking tin, lined with a baking-paper sling",
+    "mixing bowls",
+    "silicone spatula",
+    "wire rack",
+    "microwave-safe bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Oat dough",
+      "qty": 255,
+      "unit": "g",
+      "item": "rolled oats"
+    },
+    {
+      "group": "Oat dough",
+      "qty": 285,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Oat dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Oat dough",
+      "qty": 140,
+      "unit": "g",
+      "item": "whole almonds, chopped"
+    },
+    {
+      "group": "Oat dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Oat dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Oat dough",
+      "qty": 225,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Oat dough",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Oat dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Fudge layer",
+      "qty": 340,
+      "unit": "g",
+      "item": "milk chocolate chips"
+    },
+    {
+      "group": "Fudge layer",
+      "qty": 300,
+      "unit": "g",
+      "item": "sweetened condensed milk"
+    },
+    {
+      "group": "Fudge layer",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Fudge layer",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Set the oven to 175 °C (155 °C fan) and line the large tin with a paper sling."
+    },
+    {
+      "title": "Dough",
+      "text": "Mix the oats, flour, sugar, almonds, bicarbonate of soda and 1 tsp salt. Whisk the melted butter, eggs and vanilla, then stir into the dry mix to a dough. Keep back about a quarter (roughly 330 g) and press the rest into the tin."
+    },
+    {
+      "title": "Fudge",
+      "text": "Microwave the chocolate chips, condensed milk, remaining salt and 30 g butter on half power for 2-3 min, stirring often, until smooth and thick."
+    },
+    {
+      "title": "Layer",
+      "text": "Spread the fudge over the base and crumble the reserved dough over the top."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake about 30 min, until the topping is golden brown."
+    },
+    {
+      "title": "Set",
+      "text": "Leave in the tin about 6 h until fully set, then cut into 24."
+    }
+  ],
+  "tips": [
+    "Melt the fudge layer on half power to avoid scorching.",
+    "Give the bars the full setting time for clean squares.",
+    "Swap the almonds for pecans if you like.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 364,
+    "protein_g": 6.6,
+    "carbs_g": 45.1,
+    "sugar_g": 26.7,
+    "free_sugar_g": 26.3,
+    "fat_g": 18.0,
+    "satfat_g": 9.3,
+    "salt_g": 0.51,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Oat bars with a thick milk chocolate fudge layer and crumbled oat topping."
+}

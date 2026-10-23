@@ -1,0 +1,158 @@
+{
+  "slug": "strawberry-cheesecake-bars",
+  "title": "Strawberry Cheesecake Bars",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "bars-magic-bars-millionaires-shortbread",
+  "dish_title": "Bars (magic bars, millionaire's shortbread)",
+  "flavour": "Strawberry",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "millionaires-shortbread",
+  "changes_from_base": "A baked cheesecake on a biscuit base with a strawberry soured-cream top, in place of caramel and chocolate on shortbread; kept chilled.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Creamy baked cheesecake bars on a biscuit base with a strawberry soured-cream topping.",
+  "servings": 24,
+  "prep_min": 30,
+  "cook_min": 80,
+  "difficulty": "medium",
+  "equipment": [
+    "23 x 33 cm metal baking tin, lined with a baking-paper sling",
+    "mixing bowls",
+    "silicone spatula",
+    "wire rack",
+    "food processor",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 140,
+      "unit": "g",
+      "item": "digestive biscuits"
+    },
+    {
+      "group": "Base",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 105,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Cheesecake",
+      "qty": 680,
+      "unit": "g",
+      "item": "full-fat cream cheese, softened"
+    },
+    {
+      "group": "Cheesecake",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cheesecake",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Cheesecake",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Topping",
+      "qty": 230,
+      "unit": "g",
+      "item": "strawberries, hulled",
+      "note": "170 g puréed, 5 berries sliced to garnish"
+    },
+    {
+      "group": "Topping",
+      "qty": 105,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "100 g for the purée, 1 tsp for the garnish"
+    },
+    {
+      "group": "Topping",
+      "qty": 480,
+      "unit": "g",
+      "item": "soured cream"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Base",
+      "text": "Heat the oven to 150 °C (130 °C fan) and line the large tin. Blitz the biscuits and sugar to fine crumbs, pulse in the flour and salt, then the butter. Press firmly into the tin and bake about 20 min until fragrant. Cool fully."
+    },
+    {
+      "title": "Cheesecake",
+      "text": "In the clean processor, blend the cream cheese and sugar 3 min until smooth, add the eggs one at a time, then the vanilla. Pour over the cooled base and bake about 45 min, until only the very centre wobbles."
+    },
+    {
+      "title": "Topping",
+      "text": "Purée 170 g strawberries with 100 g sugar, then stir into the soured cream. Pour over the hot cheesecake to cover it and bake about 15 min more, until just set; the centre should read at least 71 °C."
+    },
+    {
+      "title": "Chill",
+      "text": "Cool 2 h on a rack, then refrigerate at least 4 h."
+    },
+    {
+      "title": "Serve",
+      "text": "Slice the remaining strawberries, toss with 1 tsp sugar, cut the cheesecake into 24 squares and top each with a slice."
+    }
+  ],
+  "tips": [
+    "Soften the cream cheese fully to avoid lumps.",
+    "A low oven keeps the cheesecake smooth and crack-free.",
+    "Wipe the knife between cuts.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 295,
+    "protein_g": 4.0,
+    "carbs_g": 27.2,
+    "sugar_g": 20.1,
+    "free_sugar_g": 17.9,
+    "fat_g": 19.4,
+    "satfat_g": 11.0,
+    "salt_g": 0.38,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Cheesecake squares on a biscuit base with a pink strawberry top and a strawberry slice."
+}

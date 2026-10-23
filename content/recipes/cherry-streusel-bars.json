@@ -1,0 +1,166 @@
+{
+  "slug": "cherry-streusel-bars",
+  "title": "Cherry Streusel Bars",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "bars-magic-bars-millionaires-shortbread",
+  "dish_title": "Bars (magic bars, millionaire's shortbread)",
+  "flavour": "Cherry",
+  "flavour_order": 107,
+  "access": "premium",
+  "base_recipe": "millionaires-shortbread",
+  "changes_from_base": "Shortbread base, cherry and cherry-jam filling and an oat-almond streusel in place of caramel and chocolate.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Shortbread bars with a cherry and cherry-jam filling and an oat-almond streusel.",
+  "servings": 24,
+  "prep_min": 25,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "23 x 33 cm metal baking tin, lined with a baking-paper sling",
+    "mixing bowls",
+    "silicone spatula",
+    "wire rack",
+    "food processor"
+  ],
+  "ingredients": [
+    {
+      "group": "Base and streusel",
+      "qty": 355,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Base and streusel",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base and streusel",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Base and streusel",
+      "qty": 225,
+      "unit": "g",
+      "item": "cold unsalted butter, diced"
+    },
+    {
+      "group": "Base and streusel",
+      "qty": 45,
+      "unit": "g",
+      "item": "rolled oats"
+    },
+    {
+      "group": "Base and streusel",
+      "qty": 55,
+      "unit": "g",
+      "item": "flaked almonds, chopped"
+    },
+    {
+      "group": "Base and streusel",
+      "qty": 50,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Base and streusel",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Filling",
+      "qty": 255,
+      "unit": "g",
+      "item": "frozen pitted sweet cherries, thawed"
+    },
+    {
+      "group": "Filling",
+      "qty": 320,
+      "unit": "g",
+      "item": "cherry jam"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "alcohol-free almond flavouring"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Base",
+      "text": "Heat the oven to 190 °C (170 °C fan) and line the big tin. Pulse the flour, sugar and salt, then the cold butter, until like wet sand. Take out about 300 g and set aside."
+    },
+    {
+      "title": "Prebake",
+      "text": "Spread the rest over the tin, press firmly and bake 16-18 min, turning halfway, until light golden."
+    },
+    {
+      "title": "Filling",
+      "text": "Wipe the processor and pulse the cherries, jam, lemon juice, almond flavouring and pinch of salt until finely chopped."
+    },
+    {
+      "title": "Streusel",
+      "text": "Toss the oats, almonds and brown sugar into the reserved crumbs and rub in the softened butter into small clumps."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread the filling over the base, scatter the streusel loosely and bake 22-25 min, until bubbling and golden."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool completely in the tin, about 2 h, before cutting into 24."
+    }
+  ],
+  "tips": [
+    "Thaw and drain the cherries well.",
+    "Use an alcohol-free almond flavouring.",
+    "Do not press the streusel into the filling.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 223,
+    "protein_g": 2.5,
+    "carbs_g": 31.4,
+    "sugar_g": 15.4,
+    "free_sugar_g": 13.9,
+    "fat_g": 10.1,
+    "satfat_g": 5.6,
+    "salt_g": 0.15,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Shortbread bars with a deep red cherry filling under an almond oat streusel."
+}

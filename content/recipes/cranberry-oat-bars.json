@@ -1,0 +1,151 @@
+{
+  "slug": "cranberry-oat-bars",
+  "title": "Cranberry Oat Bars",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "bars-magic-bars-millionaires-shortbread",
+  "dish_title": "Bars (magic bars, millionaire's shortbread)",
+  "flavour": "Cranberry",
+  "flavour_order": 108,
+  "access": "premium",
+  "base_recipe": "millionaires-shortbread",
+  "changes_from_base": "A brown sugar oat dough base and topping around a tart cooked cranberry layer, replacing caramel and chocolate.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Brown sugar oat bars with a cooked cranberry layer and pecans.",
+  "servings": 24,
+  "prep_min": 25,
+  "cook_min": 50,
+  "difficulty": "easy",
+  "equipment": [
+    "23 x 33 cm metal baking tin, lined with a baking-paper sling",
+    "mixing bowls",
+    "silicone spatula",
+    "wire rack",
+    "medium saucepan",
+    "electric mixer"
+  ],
+  "ingredients": [
+    {
+      "group": "Cranberry filling",
+      "qty": 225,
+      "unit": "g",
+      "item": "fresh or frozen cranberries"
+    },
+    {
+      "group": "Cranberry filling",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cranberry filling",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Oat dough",
+      "qty": 170,
+      "unit": "g",
+      "item": "rolled oats"
+    },
+    {
+      "group": "Oat dough",
+      "qty": 215,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Oat dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Oat dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Oat dough",
+      "qty": 225,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Oat dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Oat dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, at room temperature"
+    },
+    {
+      "group": "Oat dough",
+      "qty": 85,
+      "unit": "g",
+      "item": "pecans, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Filling",
+      "text": "Boil the cranberries, sugar and water 2-3 min, stirring, until the berries burst and the juice thickens. Cool 30 min."
+    },
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 160 °C (140 °C fan), shelf just below the middle, and line the tin. Whisk the oats, flour, cinnamon and salt."
+    },
+    {
+      "title": "Dough",
+      "text": "Beat the butter and brown sugar 3 min until fluffy, beat in the egg, then mix in the oat mixture on low."
+    },
+    {
+      "title": "Layer",
+      "text": "Press two-thirds of the dough into the tin, spread the cranberries over, mix the pecans into the remaining dough and dot it over in walnut-sized pieces."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 40-45 min, turning halfway, until golden on top. Cool about 2 h, then cut into 24."
+    }
+  ],
+  "tips": [
+    "Frozen cranberries can go straight into the pan.",
+    "Let the cranberry mixture cool so it does not melt the dough.",
+    "Leave the topping in pieces so the red shows through.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 222,
+    "protein_g": 2.6,
+    "carbs_g": 29.8,
+    "sugar_g": 16.9,
+    "free_sugar_g": 16.3,
+    "fat_g": 10.9,
+    "satfat_g": 5.2,
+    "salt_g": 0.14,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden oat bars with a ruby cranberry layer and pecan crumble on top."
+}

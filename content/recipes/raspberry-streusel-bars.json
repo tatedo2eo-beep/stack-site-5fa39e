@@ -1,0 +1,149 @@
+{
+  "slug": "raspberry-streusel-bars",
+  "title": "Raspberry Streusel Bars",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "bars-magic-bars-millionaires-shortbread",
+  "dish_title": "Bars (magic bars, millionaire's shortbread)",
+  "flavour": "Raspberry",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "millionaires-shortbread",
+  "changes_from_base": "A buttery shortbread base with raspberry jam and fresh berries under an oat and pecan streusel, instead of caramel and chocolate.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Shortbread bars with raspberry jam and fresh raspberries under an oat-pecan streusel.",
+  "servings": 24,
+  "prep_min": 25,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "23 x 33 cm metal baking tin, lined with a baking-paper sling",
+    "mixing bowls",
+    "silicone spatula",
+    "wire rack",
+    "electric mixer",
+    "fork"
+  ],
+  "ingredients": [
+    {
+      "group": "Base and streusel",
+      "qty": 355,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Base and streusel",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base and streusel",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Base and streusel",
+      "qty": 255,
+      "unit": "g",
+      "item": "unsalted butter, cut into pieces, cool room temperature",
+      "note": "225 g for the base, 30 g for the streusel"
+    },
+    {
+      "group": "Base and streusel",
+      "qty": 45,
+      "unit": "g",
+      "item": "rolled oats"
+    },
+    {
+      "group": "Base and streusel",
+      "qty": 55,
+      "unit": "g",
+      "item": "pecans, toasted and finely chopped"
+    },
+    {
+      "group": "Base and streusel",
+      "qty": 50,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 240,
+      "unit": "g",
+      "item": "raspberry jam"
+    },
+    {
+      "group": "Filling",
+      "qty": 90,
+      "unit": "g",
+      "item": "fresh raspberries"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Base",
+      "text": "Heat the oven to 190 °C (170 °C fan) and line the large tin. Beat the flour, sugar and salt with 225 g butter, a piece at a time, until like damp sand. Take out about 300 g for the streusel."
+    },
+    {
+      "title": "Prebake",
+      "text": "Press the remaining mixture firmly into the tin and bake 14-18 min, until golden at the edges."
+    },
+    {
+      "title": "Streusel",
+      "text": "Mix the oats, pecans and brown sugar into the reserved crumbs, then rub in the last 30 g butter until small clumps form."
+    },
+    {
+      "title": "Filling",
+      "text": "Mash the jam, raspberries and lemon juice together with a fork, leaving some berry pieces."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread the filling over the hot base, scatter the streusel over and bake 22-25 min, until bubbling and deep golden."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool completely, about 2 h, then cut into 24."
+    }
+  ],
+  "tips": [
+    "Leave some raspberries in pieces for texture.",
+    "Spread the filling while the base is hot.",
+    "Freeze uncut bars for up to a month.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 212,
+    "protein_g": 2.2,
+    "carbs_g": 27.7,
+    "sugar_g": 12.6,
+    "free_sugar_g": 12.3,
+    "fat_g": 10.6,
+    "satfat_g": 5.6,
+    "salt_g": 0.13,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Shortbread bars with a red raspberry layer and a golden oat streusel top."
+}

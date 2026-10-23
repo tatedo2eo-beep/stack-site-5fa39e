@@ -1,0 +1,155 @@
+{
+  "slug": "fig-bars",
+  "title": "Fig Bars",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "bars-magic-bars-millionaires-shortbread",
+  "dish_title": "Bars (magic bars, millionaire's shortbread)",
+  "flavour": "Fig",
+  "flavour_order": 104,
+  "access": "premium",
+  "base_recipe": "millionaires-shortbread",
+  "changes_from_base": "A soft cookie base and lid around a fig and apple-juice filling, replacing caramel and chocolate.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Soft brown sugar dough sandwiching a fig and apple-juice filling.",
+  "servings": 16,
+  "prep_min": 35,
+  "cook_min": 70,
+  "difficulty": "medium",
+  "equipment": [
+    "20 cm square metal baking tin, lined with a baking-paper sling",
+    "mixing bowls",
+    "silicone spatula",
+    "wire rack",
+    "medium saucepan",
+    "food processor",
+    "electric mixer",
+    "baking paper",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Fig filling",
+      "qty": 225,
+      "unit": "g",
+      "item": "dried figs, stems removed, quartered"
+    },
+    {
+      "group": "Fig filling",
+      "qty": 480,
+      "unit": "ml",
+      "item": "apple juice"
+    },
+    {
+      "group": "Fig filling",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Fig filling",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dough",
+      "qty": 185,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Dough",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Dough",
+      "qty": 150,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Filling",
+      "text": "Simmer the figs, apple juice and pinch of salt 15-20 min, stirring now and then, until the figs are very soft and the liquid is syrupy. Cool a little, then blitz with the lemon juice to a thick jam."
+    },
+    {
+      "title": "Dough",
+      "text": "Heat the oven to 175 °C (155 °C fan) and line the 20 cm tin. Whisk the flour, baking powder and salt. Beat the butter and sugar until pale, beat in the egg and vanilla, then mix in the flour. Set aside about a third (roughly 170 g)."
+    },
+    {
+      "title": "Base",
+      "text": "Press the rest evenly into the tin and bake about 20 min, until just turning golden. Meanwhile roll the reserved dough between greased sheets of baking paper into a 20 cm square and freeze it on a tray."
+    },
+    {
+      "title": "Top",
+      "text": "Spread the fig filling over the base, peel off the paper and lay the frozen square on top, pressing lightly."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 25-30 min, turning halfway, until golden. Cool 2 h in the tin, then cut into 16."
+    }
+  ],
+  "tips": [
+    "Freezing the top layer makes it easy to place.",
+    "Choose soft dried figs and snip off the hard stems.",
+    "Cut with a sharp knife once completely cool.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 178,
+    "protein_g": 2.1,
+    "carbs_g": 32.7,
+    "sugar_g": 21.3,
+    "free_sugar_g": 12.1,
+    "fat_g": 4.8,
+    "satfat_g": 2.9,
+    "salt_g": 0.18,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden cookie bars cut to show a dark fig filling between two layers."
+}
