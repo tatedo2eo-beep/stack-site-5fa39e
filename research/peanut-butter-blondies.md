@@ -19,7 +19,7 @@ Dish: Blondies / flavour: Peanut butter. Private file, not published.
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 1. Non-top-tier pages are context only.
 
 ## Knowledge check
-Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C6 (frying temperatures); 06-G6 (frying safety); 03-K6 (baking and doneness cues); 03-K10 (raw dough and batter safety); 03-K1 (drop-cookie ratios); 03-K4 (sugar and texture); 03-K7 (crisp/chewy levers); 03-K3 (melted or browned butter); 03-K9 (bars); CHECKLIST 6 (preheat at least 20 min, stated before the oven step).
+Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C6 (frying temperatures); 06-G6 (frying safety); 03-K6 (baking and doneness cues); 03-K10 (raw dough and batter safety); 03-K1 (drop-cookie ratios); 03-K4 (sugar and texture); 03-K7 (crisp/chewy levers); 03-K3 (melted or browned butter); 03-K9 (bars).
 Changes made:
 - Salt given in grams (06-G1): 0.5 tsp fine salt -> 3 g
 - Added the do-not-eat-raw-dough note (03-K10)
