@@ -1,0 +1,147 @@
+{
+  "slug": "key-lime-pie",
+  "title": "Key Lime Pie",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "key-lime",
+  "dish_title": "Key lime",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A buttery crumb crust filled with a tangy lime and condensed-milk custard, baked just to set and finished with whipped cream and lime slices.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "mixing bowls",
+    "23 cm pie dish",
+    "flat-bottomed glass",
+    "whisk",
+    "instant-read thermometer",
+    "electric whisk",
+    "piping bag with a star nozzle (optional)",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Crust",
+      "qty": 160,
+      "unit": "g",
+      "item": "graham crackers or digestive biscuits, finely crushed"
+    },
+    {
+      "group": "Crust",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Crust",
+      "qty": 70,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Filling",
+      "qty": 397,
+      "unit": "g",
+      "item": "can sweetened condensed milk"
+    },
+    {
+      "group": "Filling",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Filling",
+      "qty": 120,
+      "unit": "ml",
+      "item": "Key lime or regular lime juice (about 4 limes)"
+    },
+    {
+      "group": "Filling",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "finely grated lime zest"
+    },
+    {
+      "group": "Topping",
+      "qty": 180,
+      "unit": "ml",
+      "item": "cold double (heavy) cream"
+    },
+    {
+      "group": "Topping",
+      "qty": 38,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 3 tbsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lime, thinly sliced, to decorate"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse the zest",
+      "text": "Whisk the lime zest with the yolks 2 min until tinted green, then whisk in the condensed milk and the lime juice until smooth. Leave 20 min while the crust bakes. Rubbing the zest into the yolks releases its oils, and the acid begins to thicken the milk."
+    },
+    {
+      "title": "Bake the crust",
+      "text": "Heat the oven to 160 °C (140 °C fan). Mix the crumbs, sugar and melted butter until like wet sand, then press firmly over the base and up the sides of the dish with the glass. Bake 15 min until fragrant and lightly browned; firm pressing helps the crust slice cleanly."
+    },
+    {
+      "title": "Bake the filling",
+      "text": "Pour the filling into the warm crust and bake 15-20 min until the edge is set, the centre wobbles slightly and reads 71 °C. That gentle bake cooks the yolks while keeping the texture creamy."
+    },
+    {
+      "title": "Chill",
+      "text": "Cool on the rack 1 h, then chill at least 3 h until cold and firm. The filling sets further as it chills."
+    },
+    {
+      "title": "Top and decorate",
+      "text": "Whip the cream with the icing sugar to firm peaks and pipe rosettes or spread it over the pie. Decorate with lime slices and cut into 8. Keep chilled up to 2 days."
+    }
+  ],
+  "tips": [
+    "Regular limes work well if you cannot find Key limes; the flavour is slightly less floral.",
+    "Common mistake: pulling the pie too early. Check the centre with a thermometer for 71 °C.",
+    "Zest before you juice; it is much easier on a whole lime.",
+    "Wipe the knife between slices for clean edges."
+  ],
+  "storage": "Keep covered in the fridge up to 2 days; add the whipped cream close to serving if keeping longer than a day. Freeze without the cream up to 1 month and thaw in the fridge.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 441,
+    "protein_g": 7.4,
+    "carbs_g": 51.5,
+    "sugar_g": 39.1,
+    "free_sugar_g": 38.3,
+    "fat_g": 23.9,
+    "satfat_g": 13.5,
+    "salt_g": 0.44,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "key-lime-basic.jpg",
+  "image_alt": "A wedge of pale green-yellow key lime pie on a golden crumb crust, topped with a whipped cream rosette and a lime slice.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Food Network Kitchen"
+  ]
+}

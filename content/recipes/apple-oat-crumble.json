@@ -1,0 +1,150 @@
+{
+  "slug": "apple-oat-crumble",
+  "title": "Apple Oat Crumble",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "crumble",
+  "dish_title": "Crumble",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chunks of mixed apples baked under a clumpy oat, brown sugar and nut topping until the fruit is tender and bubbling.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 55,
+  "difficulty": "easy",
+  "equipment": [
+    "25 cm round baking dish (about 2 litres)",
+    "2 mixing bowls",
+    "baking tray",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Apples",
+      "qty": 1300,
+      "unit": "g",
+      "item": "mixed sweet and tart apples such as Golden Delicious and Granny Smith (about 7)"
+    },
+    {
+      "group": "Apples",
+      "qty": 50,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Apples",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Apples",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "Apples",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Apples",
+      "qty": 10,
+      "unit": "g",
+      "item": "soft butter, for the dish"
+    },
+    {
+      "group": "Crumble",
+      "qty": 120,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Crumble",
+      "qty": 80,
+      "unit": "g",
+      "item": "rolled oats"
+    },
+    {
+      "group": "Crumble",
+      "qty": 100,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Crumble",
+      "qty": 50,
+      "unit": "g",
+      "item": "walnuts or pecans, chopped (optional)"
+    },
+    {
+      "group": "Crumble",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Crumble",
+      "qty": 110,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the apples",
+      "text": "Heat the oven to 190 °C (170 °C fan) and butter the dish. Peel and core the apples, cut into 2-3 cm chunks and toss with the brown sugar, cinnamon, cornflour and lemon juice, then spread in the dish. Mixing sweet and tart varieties gives both soft and firmer pieces."
+    },
+    {
+      "title": "Make the crumble",
+      "text": "Mix the flour, oats, brown sugar, nuts if using and salt, then stir in the melted butter with a fork until evenly moist. Squeeze into clumps of different sizes and scatter over the apples. Clumps give a crisp, craggy top instead of a sandy one."
+    },
+    {
+      "title": "Bake",
+      "text": "Set the dish on the tray and bake 45-55 min until the topping is deep golden, the juices bubble at the edge and a knife slides easily into the apples. The tray catches any drips, and bubbling juices mean the cornflour has thickened."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Cool 15 min so the juices settle, then serve warm with plain yoghurt or whipped cream. Serves 6. Keep covered in the fridge up to 3 days and reheat at 180 °C (160 °C fan) 15 min."
+    }
+  ],
+  "tips": [
+    "Common mistake: cutting the apples too small. Chunks of 2-3 cm keep some shape and bite.",
+    "Leave the nuts out for a nut-free crumble; add 50 g more oats instead.",
+    "Squeeze the topping into clumps for the crunchiest result.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered in the fridge up to 3 days and reheat at 180 °C (160 °C fan) about 15 min until hot. Freeze baked up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 516,
+    "protein_g": 5.8,
+    "carbs_g": 77.0,
+    "sugar_g": 43.8,
+    "free_sugar_g": 24.3,
+    "fat_g": 22.8,
+    "satfat_g": 10.8,
+    "salt_g": 0.27,
+    "fibre_g": 7.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "crumble-basic.jpg",
+  "image_alt": "A round dark baking dish of tender apple chunks under a golden, clumpy oat crumble.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Food Network Kitchen"
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "slug": "cherry-clafoutis",
+  "title": "Cherry Clafoutis",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "pies-crumbles",
+  "book_chapter": "pies-crumbles",
+  "dish": "clafoutis",
+  "dish_title": "Clafoutis",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Roasted sweet cherries baked in a vanilla custard batter in a hot buttered pan until puffed and golden, then finished with a sprinkle of sugar.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "baking tray lined with foil",
+    "25-26 cm ovenproof frying pan (cast iron is ideal)",
+    "large mixing bowl",
+    "whisk",
+    "instant-read thermometer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Cherries",
+      "qty": 680,
+      "unit": "g",
+      "item": "sweet cherries, pitted and halved"
+    },
+    {
+      "group": "Cherries",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Cherries",
+      "qty": 5,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Cherries",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Batter",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 2.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 70,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Batter",
+      "qty": 160,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "To finish",
+      "qty": 8,
+      "unit": "g",
+      "item": "caster sugar or icing sugar, to finish",
+      "note": "about 2 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast the cherries",
+      "text": "Heat the oven to 200 °C (180 °C fan) with one shelf high and one low, and put the empty frying pan on the low shelf to heat. Spread the cherries cut side up on the tray and roast on the high shelf 15 min until just tender and dry on top. Toss with the lemon juice, cool 5 min, then dust with the 2 tsp flour and cinnamon; roasting drives off juice that would otherwise make the batter wet and purple."
+    },
+    {
+      "title": "Whisk the batter",
+      "text": "Whisk the eggs, sugar, vanilla and salt 1 min until pale, whisk in the 70 g flour until smooth, then the cream and milk. Adding the liquid last prevents lumps."
+    },
+    {
+      "title": "Bake",
+      "text": "Lower the oven to 190 °C (170 °C fan). Take out the hot pan (the handle is hot), add the butter and swirl to coat, then pour in the batter and scatter the cherries over; some will sink. Bake on the low shelf 20-25 min until puffed and golden with darker edges and the centre reads about 90 °C. The preheated pan sets the base fast for a browned, lightly crisp edge."
+    },
+    {
+      "title": "Finish",
+      "text": "Cool on the rack 20-25 min (it will sink a little), sprinkle with the sugar and cut into 8 wedges. It is best warm the day it is made; keep leftovers chilled up to 2 days."
+    }
+  ],
+  "tips": [
+    "A cherry pitter or a sturdy straw makes stoning quick.",
+    "Common mistake: skipping the roast. Raw cherries leak juice and make the custard soggy.",
+    "Use alcohol-free vanilla extract.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best warm on the day it is made. Keep leftovers covered in the fridge up to 2 days and serve cold or briefly warmed at 180 °C (160 °C fan).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 322,
+    "protein_g": 6.5,
+    "carbs_g": 40.3,
+    "sugar_g": 30.3,
+    "free_sugar_g": 17.4,
+    "fat_g": 15.7,
+    "satfat_g": 9.1,
+    "salt_g": 0.31,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "clafoutis-basic.jpg",
+  "image_alt": "A round pan of puffed golden cherry clafoutis dotted with dark cherries, with one wedge cut out.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Food Network Kitchen"
+  ]
+}
