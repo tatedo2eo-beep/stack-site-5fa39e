@@ -13,6 +13,7 @@
   "base_recipe": "new-york-cheesecake",
   "changes_from_base": "Blotted pumpkin purée and warm spices in the filling, double cream instead of soured cream, spiced biscuit base.",
   "extra_flavour": true,
+  "photo_pending": true,
   "summary": "This follows the classic New York cheesecake method in a water bath, with blotted pumpkin purée and warm spices in the filling, double cream in place of soured cream and a spiced biscuit base. Dense, creamy and fragrant with cinnamon and ginger.",
   "servings": 12,
   "prep_min": 40,
@@ -202,6 +203,5 @@
   "inspired_by": [
     "America's Test Kitchen",
     "NYT Cooking"
-  ],
-  "photo_pending": true
+  ]
 }

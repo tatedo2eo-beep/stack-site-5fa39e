@@ -1083,7 +1083,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | southern-sweet-tea-lemon-mint | Sweet tea | Classic | 2 | 4 |
 | spaghetti-aglio-e-olio | Aglio e olio | Classic | 2 | 4 |
 | spaghetti-al-pomodoro | Long dried (spaghetti, linguine, bucatini) | Classic | 3 | 5 |
-| spaghetti-anchovy-breadcrumbs | Aglio e olio | Anchovy and breadcrumbs | 2 | 4 |
+| spaghetti-anchovy-breadcrumbs | Aglio e olio | Anchovy and breadcrumbs | 3 | 5 |
 | spaghetti-and-meatballs | Spaghetti with meatballs | Classic | 2 | 4 |
 | spaghetti-puttanesca | Puttanesca | Classic | 2 | 4 |
 | spaghetti-roasted-cherry-tomatoes | Long dried (spaghetti, linguine, bucatini) | Cherry tomato | 2 | 4 |
@@ -1216,7 +1216,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | triple-cooked-chips | Pont-Neuf/triple-cooked chips | Classic | 2 | 4 |
 | trofie-al-pesto | Trofie | Classic | 3 | 5 |
 | tuna-butter-bean-courgette-ribbon-salad | Tuna salad | Zucchini | 1 | 3 |
-| tuna-puttanesca | Puttanesca | Tuna | 2 | 4 |
+| tuna-puttanesca | Puttanesca | Tuna | 4 | 6 |
 | turon-caramel-banana-jackfruit-rolls | Turon | Classic | 1 | 3 |
 | tuscan-panzanella-tomato-bread-salad | Panzanella | Classic | 3 | 5 |
 | twisted-parmesan-puff-pastry-cheese-straws | Cheese straws | Classic | 3 | 5 |

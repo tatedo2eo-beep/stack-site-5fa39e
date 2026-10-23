@@ -13,6 +13,7 @@
   "base_recipe": "pasta-e-fagioli",
   "changes_from_base": "Chickpeas replace cannellini or borlotti beans; chilli and lemon added; escarole or kale wilted in; celery and tomato purée left out.",
   "extra_flavour": true,
+  "photo_pending": true,
   "summary": "This follows the classic pasta e fagioli method, but uses chickpeas in place of cannellini or borlotti beans, adds chilli and lemon, wilts in escarole or kale, and leaves out the celery and tomato purée.",
   "servings": 4,
   "prep_min": 10,
@@ -185,6 +186,5 @@
   "inspired_by": [
     "NYT Cooking",
     "America's Test Kitchen"
-  ],
-  "photo_pending": true
+  ]
 }

@@ -1,0 +1,119 @@
+{
+  "slug": "sea-bass-crudo-lemon-chilli-olive-oil",
+  "title": "Classic Sea Bass Crudo with Lemon, Chilli and Olive Oil",
+  "category": "fish-seafood",
+  "cuisine": "Italian",
+  "chapter": "seafood",
+  "book_chapter": "seafood",
+  "dish": "crudo",
+  "dish_title": "Crudo",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Glossy slices of raw sea bass seasoned with lemon, flaky salt and pepper, then finished with chilli, lemon zest, olive oil and parsley.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "very sharp long knife",
+    "4 chilled plates",
+    "fine grater"
+  ],
+  "ingredients": [
+    {
+      "group": "Fish",
+      "qty": 280,
+      "unit": "g",
+      "item": "sashimi-grade sea bass fillet",
+      "note": "skinless and pin-boned"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "unwaxed lemon",
+      "note": "zest finely grated, plus 1 tbsp juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    },
+    {
+      "group": "Dressing",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "best extra-virgin olive oil"
+    },
+    {
+      "group": "Garnish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "red chilli, sliced into thin rings"
+    },
+    {
+      "group": "Garnish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley leaves"
+    },
+    {
+      "group": "Garnish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "freshly ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Chill the plates",
+      "text": "Put the plates in the fridge for 15 min, and leave the fish there too until you are ready to cut. Cold fish slices more neatly and tastes cleaner."
+    },
+    {
+      "title": "Cut thin slices",
+      "text": "Slice the fillet against the grain into 5 mm pieces, drawing the knife through in one long motion. Fan them loosely over the plates."
+    },
+    {
+      "title": "Season",
+      "text": "Just before serving, spoon the lemon juice over the fish, then add the flaky salt and the pepper. Salt goes on last so the crystals stay crunchy rather than dissolving."
+    },
+    {
+      "title": "Finish and serve",
+      "text": "Scatter on the chilli rings and lemon zest, drizzle each plate with a teaspoon of oil and add the parsley leaves. Serve at once, while the fish still looks glossy."
+    }
+  ],
+  "tips": [
+    "RAW NOTE: the fish is eaten raw. Buy sushi- or sashimi-grade fish from a fishmonger you trust that has been frozen first (-20 °C for 7 days or -35 °C for 15 hours), keep it in the fridge until the last minute and eat it the same day. Pregnant people, young children, older adults and anyone with weakened immunity should skip it.",
+    "A common mistake is dressing the fish ahead of time; the lemon starts to cure it and dulls the texture.",
+    "Use your best, freshest olive oil, since it is a main flavour here.",
+    "Bream or scallops work in the same way."
+  ],
+  "storage": "Crudo cannot be stored; serve it straight away and discard leftovers. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 111,
+    "protein_g": 13.0,
+    "carbs_g": 0.8,
+    "sugar_g": 0.3,
+    "free_sugar_g": 0.1,
+    "fat_g": 5.9,
+    "satfat_g": 1.0,
+    "salt_g": 0.85,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "crudo-advanced.jpg",
+  "image_alt": "Slices of raw sea bass crudo with olive oil, lemon zest, red chilli rings and parsley.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

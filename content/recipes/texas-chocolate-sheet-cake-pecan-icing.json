@@ -13,6 +13,7 @@
   "base_recipe": "yellow-sheet-cake",
   "changes_from_base": "Creamed yellow cake replaced by a hot-mixed cocoa cake; warm cocoa icing poured over the hot cake with toasted pecans.",
   "extra_flavour": true,
+  "photo_pending": true,
   "summary": "This uses the same tin, oven and portions as the classic yellow sheet cake, but the creamed batter is replaced by a hot-mixed cocoa cake, iced while still hot with a warm cocoa icing and toasted pecans. Thin, moist and ideal for feeding a crowd.",
   "servings": 15,
   "prep_min": 20,
@@ -194,6 +195,5 @@
   "inspired_by": [
     "America's Test Kitchen",
     "NYT Cooking"
-  ],
-  "photo_pending": true
+  ]
 }

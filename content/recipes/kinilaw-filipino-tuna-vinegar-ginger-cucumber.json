@@ -1,0 +1,140 @@
+{
+  "slug": "kinilaw-filipino-tuna-vinegar-ginger-cucumber",
+  "title": "Classic Kinilaw: Filipino Tuna Cured in Coconut Vinegar with Ginger and Cucumber",
+  "category": "fish-seafood",
+  "cuisine": "Filipino",
+  "chapter": "seafood",
+  "book_chapter": "seafood",
+  "dish": "kinilaw",
+  "dish_title": "Kinilaw",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Ruby cubes of tuna cured for a few minutes in coconut vinegar with ginger, red onion and chilli, then drained and tossed with crunchy cucumber.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "sharp knife",
+    "large glass or ceramic bowl",
+    "fine sieve",
+    "serving bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Kinilaw",
+      "qty": 340,
+      "unit": "g",
+      "item": "sashimi-grade yellowfin tuna",
+      "note": "trimmed of sinew, cut into 1.5 cm cubes"
+    },
+    {
+      "group": "Kinilaw",
+      "qty": 120,
+      "unit": "ml",
+      "item": "coconut vinegar (or cane vinegar)"
+    },
+    {
+      "group": "Kinilaw",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lime or calamansi juice"
+    },
+    {
+      "group": "Kinilaw",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium red onion, diced",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Kinilaw",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small cucumber, seeds scooped out, diced",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Kinilaw",
+      "qty": 25,
+      "unit": "g",
+      "item": "fresh ginger, peeled and cut into fine matchsticks"
+    },
+    {
+      "group": "Kinilaw",
+      "qty": 2,
+      "unit": "pc",
+      "item": "red bird's-eye chillies, thinly sliced"
+    },
+    {
+      "group": "Kinilaw",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "limes or calamansi, halved, to serve",
+      "note": "optional; not counted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Get everything cold",
+      "text": "Dice the onion and cucumber, cut the ginger into fine matchsticks and slice the chillies, then chill. Cube the tuna last and keep it in the fridge so it never warms up."
+    },
+    {
+      "title": "Make the cure",
+      "text": "Stir the vinegar, lime juice and salt together in the glass bowl until the salt disappears. Dissolving it first means it seasons every piece evenly."
+    },
+    {
+      "title": "Cure the tuna",
+      "text": "Add the tuna, onion, ginger and chillies and turn them gently. After 5-10 min, with one more fold, the outside of each cube goes pale while the centre stays deep red; that contrast is the texture you want."
+    },
+    {
+      "title": "Drain and toss",
+      "text": "Pour everything into the sieve to shed most of the vinegar, saving 2-3 tbsp. Return it to the bowl and fold in the cucumber with the saved liquid, which keeps it lively without making it soupy."
+    },
+    {
+      "title": "Serve with citrus",
+      "text": "Spoon into the serving bowl and eat immediately, with the lime or calamansi halves for squeezing over."
+    }
+  ],
+  "tips": [
+    "RAW NOTE: vinegar does not kill parasites or germs the way heat does. Buy sushi- or sashimi-grade fish from a fishmonger you trust that has been frozen first (-20 °C for 7 days or -35 °C for 15 hours), keep it in the fridge until the last minute and eat it the same day. Pregnant people, young children, older adults and anyone with weakened immunity should skip it.",
+    "A common mistake is curing too long; past 15 minutes the tuna goes grey and grainy.",
+    "Scoop the seeds out of the cucumber so it stays crunchy instead of watering down the dish.",
+    "No coconut vinegar? Cane or plain rice vinegar works well."
+  ],
+  "storage": "Eat kinilaw as soon as it is made and discard any leftovers. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish",
+    "sulphites"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 125,
+    "protein_g": 21.6,
+    "carbs_g": 6.4,
+    "sugar_g": 2.5,
+    "free_sugar_g": 0.1,
+    "fat_g": 0.6,
+    "satfat_g": 0.2,
+    "salt_g": 0.83,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "kinilaw-basic.jpg",
+  "image_alt": "Kinilaw of raw tuna cubes in vinegar with red onion, cucumber, ginger strips, red chilli and a lime half.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

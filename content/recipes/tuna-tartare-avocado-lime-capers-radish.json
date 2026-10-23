@@ -1,0 +1,169 @@
+{
+  "slug": "tuna-tartare-avocado-lime-capers-radish",
+  "title": "Classic Tuna Tartare with Lime, Capers, Avocado and Radish",
+  "category": "fish-seafood",
+  "cuisine": "French",
+  "chapter": "seafood",
+  "book_chapter": "seafood",
+  "dish": "tartare",
+  "dish_title": "Tartare",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Finely diced raw tuna dressed with lime, olive oil, capers, chilli and coriander, moulded into rounds and served with fanned avocado, radish and chives.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 0,
+  "difficulty": "medium",
+  "equipment": [
+    "sharp knife",
+    "small bowl",
+    "bowl set over ice",
+    "8 cm ring mould",
+    "4 chilled plates"
+  ],
+  "ingredients": [
+    {
+      "group": "Tartare",
+      "qty": 400,
+      "unit": "g",
+      "item": "sashimi-grade yellowfin tuna",
+      "note": "trimmed of sinew"
+    },
+    {
+      "group": "Tartare",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "small red onion, very finely diced",
+      "note": "about 40 g"
+    },
+    {
+      "group": "Tartare",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small garlic clove, finely grated"
+    },
+    {
+      "group": "Tartare",
+      "qty": 1,
+      "unit": "pc",
+      "item": "green chilli, deseeded and finely chopped"
+    },
+    {
+      "group": "Tartare",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "capers, rinsed and chopped"
+    },
+    {
+      "group": "Tartare",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "fresh lime juice"
+    },
+    {
+      "group": "Tartare",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tartare",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "coriander, finely chopped"
+    },
+    {
+      "group": "Tartare",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Tartare",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large ripe avocado",
+      "note": "about 150 g flesh"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lime juice, for the avocado"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "radishes, sliced paper-thin"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "chives, finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mellow the onion",
+      "text": "Cover the diced onion with cold water for 5 min, then drain and pat it dry. The soak takes off its sharp edge so it does not overpower the tuna."
+    },
+    {
+      "title": "Dice the tuna",
+      "text": "Cut the fish into 5 mm slices, then strips, then small, even cubes, and keep them in the bowl over ice. Even pieces give a neat look and a pleasant texture."
+    },
+    {
+      "title": "Whisk the dressing",
+      "text": "Combine the lime juice, oil, garlic, chilli, capers, salt and pepper in the small bowl."
+    },
+    {
+      "title": "Mix at the last minute",
+      "text": "No more than 10 min before eating, fold the dressing, onion and coriander through the tuna and leave it in the fridge for 5 min. Much longer and the lime begins to cure the fish, turning it opaque."
+    },
+    {
+      "title": "Mould and serve",
+      "text": "Press a quarter of the tartare into the ring on each cold plate and lift it off. Slice the avocado, brush it with lime to stop browning, fan it beside the tartare and top with radish slices and chives."
+    }
+  ],
+  "tips": [
+    "RAW NOTE: the fish is eaten raw. Buy sushi- or sashimi-grade fish from a fishmonger you trust that has been frozen first (-20 °C for 7 days or -35 °C for 15 hours), keep it in the fridge until the last minute and eat it the same day. Pregnant people, young children, older adults and anyone with weakened immunity should skip it.",
+    "A common mistake is using a food processor, which turns the tuna into a paste; dice it by hand.",
+    "Sashimi-grade salmon works in exactly the same way.",
+    "Wipe the ring between portions for clean edges."
+  ],
+  "storage": "Fish tartare must be eaten straight away; discard any leftovers. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 269,
+    "protein_g": 25.6,
+    "carbs_g": 6.2,
+    "sugar_g": 1.2,
+    "free_sugar_g": 0.2,
+    "fat_g": 16.1,
+    "satfat_g": 2.4,
+    "salt_g": 0.99,
+    "fibre_g": 3.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tartare-advanced.jpg",
+  "image_alt": "A round of raw tuna tartare topped with chives and radish slices beside a fan of sliced avocado.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "slug": "tiradito-sea-bass-lime-aji-choclo",
+  "title": "Classic Tiradito: Sliced Sea Bass in Lime and Ají Amarillo with Corn",
+  "category": "fish-seafood",
+  "cuisine": "Peruvian",
+  "chapter": "seafood",
+  "book_chapter": "seafood",
+  "dish": "tiradito",
+  "dish_title": "Tiradito",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thin slices of sea bass laid in a row and dressed moments before serving with a lime sauce tinted with ají amarillo, finished with corn, red onion and coriander.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "saucepan",
+    "small blender or stick blender",
+    "fine sieve",
+    "very sharp long knife",
+    "long rectangular serving plate"
+  ],
+  "ingredients": [
+    {
+      "group": "Fish",
+      "qty": 400,
+      "unit": "g",
+      "item": "sashimi-grade sea bass fillet",
+      "note": "skinless and pin-boned"
+    },
+    {
+      "group": "Fish",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Lime sauce",
+      "qty": 60,
+      "unit": "ml",
+      "item": "fresh lime juice"
+    },
+    {
+      "group": "Lime sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fresh lemon juice"
+    },
+    {
+      "group": "Lime sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ají amarillo paste"
+    },
+    {
+      "group": "Lime sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small garlic clove"
+    },
+    {
+      "group": "Lime sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "cold fish stock",
+      "note": "or cold water"
+    },
+    {
+      "group": "Lime sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Garnish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "corn cob (large-kernel Peruvian choclo or sweetcorn)",
+      "note": "about 150 g kernels"
+    },
+    {
+      "group": "Garnish",
+      "qty": 0.25,
+      "unit": "pc",
+      "item": "small red onion, cut into fine slivers"
+    },
+    {
+      "group": "Garnish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "coriander leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the corn",
+      "text": "Cook the cob in boiling water for 8-10 min, let it cool, then run a knife down the sides to free the kernels. Chill them until needed."
+    },
+    {
+      "title": "Blend the sauce",
+      "text": "Whizz both citrus juices with the ají paste, garlic, fish stock and salt for about 20 s. Pass it through the fine sieve and chill; it should be thin, smooth and pale gold."
+    },
+    {
+      "title": "Slice the fish",
+      "text": "Angle the knife slightly and draw it through the fillet in long single strokes to give 5 mm slices. Sawing back and forth tears the flesh, so let the length of the blade do the work."
+    },
+    {
+      "title": "Lay out the slices",
+      "text": "Arrange them side by side down the chilled rectangular plate and sprinkle with the fish salt."
+    },
+    {
+      "title": "Dress at the last minute",
+      "text": "Two or three minutes before serving, spoon the sauce evenly over the fish. The citrus only just turns the edges opaque, keeping the centres silky."
+    },
+    {
+      "title": "Garnish",
+      "text": "Scatter the corn, onion slivers and coriander over the top and take it to the table immediately."
+    }
+  ],
+  "tips": [
+    "RAW NOTE: citrus does not kill parasites or germs the way heat does. Buy sushi- or sashimi-grade fish from a fishmonger you trust that has been frozen first (-20 °C for 7 days or -35 °C for 15 hours), keep it in the fridge until the last minute and eat it the same day. Pregnant people, young children, older adults and anyone with weakened immunity should skip it.",
+    "A common mistake is dressing the fish too early; after 10 minutes it is closer to ceviche and loses its tender texture.",
+    "Put the fillet in the freezer for 10 minutes before slicing to make thin, even cuts easier.",
+    "Taste the sauce before you pour it; it should be bracingly sharp, with gentle heat."
+  ],
+  "storage": "Serve tiradito as soon as it is dressed and discard leftovers. The strained sauce keeps 1 day covered in the fridge. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "celery",
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 140,
+    "protein_g": 20.2,
+    "carbs_g": 9.6,
+    "sugar_g": 3.1,
+    "free_sugar_g": 0.3,
+    "fat_g": 2.6,
+    "satfat_g": 0.7,
+    "salt_g": 1.01,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tiradito-advanced.jpg",
+  "image_alt": "Thin slices of raw white fish in a yellow ají and lime sauce with large corn kernels and coriander on a rectangular plate.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

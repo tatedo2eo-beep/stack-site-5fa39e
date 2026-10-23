@@ -10,28 +10,7 @@ Dish: Pasta e fagioli / flavour: Chickpea. Private file, not published.
 > Written as an extra flavour for the pasta chapter. Quantities are my own; the core method matches the locked-list sources listed above; nothing copied.
 
 ## Own cooking judgment
-- Q
-- u
-- a
-- n
-- t
-- i
-- t
-- i
-- e
-- s
--  
-- a
-- r
-- e
--  
-- m
-- y
--  
-- o
-- w
-- n
-- .
+- Quantities are my own.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

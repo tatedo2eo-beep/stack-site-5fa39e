@@ -13,6 +13,7 @@
   "base_recipe": "spaghetti-aglio-e-olio",
   "changes_from_base": "Anchovies melted into the garlic oil; toasted breadcrumbs, lemon zest and parsley added; fresh chilli replaced by flakes; lighter-salted water.",
   "extra_flavour": true,
+  "photo_pending": true,
   "summary": "This follows the classic spaghetti aglio e olio method, but melts anchovies into the garlic oil and finishes with toasted breadcrumbs, lemon zest and parsley, using chilli flakes in place of fresh chilli and a lighter-salted pasta water.",
   "servings": 4,
   "prep_min": 10,
@@ -151,6 +152,5 @@
   "inspired_by": [
     "NYT Cooking",
     "Serious Eats"
-  ],
-  "photo_pending": true
+  ]
 }

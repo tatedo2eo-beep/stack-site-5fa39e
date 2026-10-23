@@ -11,68 +11,7 @@ Dish: Mac and cheese / flavour: Stovetop. Private file, not published.
 > Written as an extra flavour for the pasta chapter. Quantities are my own; the core method matches the locked-list sources listed above; nothing copied.
 
 ## Own cooking judgment
-- M
-- e
-- l
-- t
-- i
-- n
-- g
--  
-- t
-- h
-- e
--  
-- c
-- h
-- e
-- e
-- s
-- e
--  
-- o
-- f
-- f
--  
-- t
-- h
-- e
--  
-- h
-- e
-- a
-- t
--  
-- a
-- n
-- d
--  
-- t
-- h
-- e
--  
-- q
-- u
-- a
-- n
-- t
-- i
-- t
-- i
-- e
-- s
--  
-- a
-- r
-- e
--  
-- m
-- y
--  
-- o
-- w
-- n
-- .
+- Melting the cheese off the heat and the quantities are my own.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

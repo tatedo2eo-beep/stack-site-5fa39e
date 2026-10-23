@@ -13,6 +13,7 @@
   "base_recipe": "spaghetti-al-pomodoro",
   "changes_from_base": "Butter-onion tinned-tomato sauce replaced by roasted cherry tomatoes with garlic, capers and chilli; olives, herbs, pine nuts and pecorino to finish.",
   "extra_flavour": true,
+  "photo_pending": true,
   "summary": "This takes the classic spaghetti al pomodoro method and swaps the simmered tinned-tomato sauce for cherry tomatoes slow-roasted into a jammy base, brightened with garlic, capers and chilli, then finished with olives, herbs, pine nuts and pecorino.",
   "servings": 4,
   "prep_min": 15,
@@ -165,6 +166,5 @@
   "inspired_by": [
     "America's Test Kitchen",
     "NYT Cooking"
-  ],
-  "photo_pending": true
+  ]
 }

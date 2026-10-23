@@ -1,0 +1,142 @@
+{
+  "slug": "peruvian-ceviche-sea-bass-lime-sweet-potato-corn",
+  "title": "Classic Peruvian Ceviche with Lime, Red Onion, Sweet Potato and Corn",
+  "category": "fish-seafood",
+  "cuisine": "Peruvian",
+  "chapter": "seafood",
+  "book_chapter": "seafood",
+  "dish": "ceviche",
+  "dish_title": "Ceviche",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Cubes of sea bass cured for a few minutes in fresh lime with chilli, red onion and coriander, served cold with slices of sweet potato and corn.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "2 saucepans",
+    "sharp knife",
+    "bowl of iced water",
+    "sieve",
+    "large glass or ceramic bowl",
+    "4 chilled plates"
+  ],
+  "ingredients": [
+    {
+      "group": "Ceviche",
+      "qty": 450,
+      "unit": "g",
+      "item": "sashimi-grade sea bass fillet",
+      "note": "skinless, cut into 1.5 cm cubes"
+    },
+    {
+      "group": "Ceviche",
+      "qty": 120,
+      "unit": "ml",
+      "item": "fresh lime juice",
+      "note": "about 6 limes"
+    },
+    {
+      "group": "Ceviche",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small red onion, sliced paper-thin",
+      "note": "about 100 g"
+    },
+    {
+      "group": "Ceviche",
+      "qty": 1,
+      "unit": "pc",
+      "item": "fresh green chilli (ají limo or jalapeño), deseeded and finely chopped"
+    },
+    {
+      "group": "Ceviche",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "coriander leaves, chopped"
+    },
+    {
+      "group": "Ceviche",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Ceviche",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large sweet potato",
+      "note": "about 400 g, unpeeled"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "corn cobs (large-kernel Peruvian choclo or sweetcorn)",
+      "note": "about 300 g kernels"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the sides first",
+      "text": "Boil the whole sweet potato for 30-35 min, until a knife slips in easily, then cool, peel and cut it into 1.5 cm rounds. Give the corn 8-10 min in boiling water, drain, cool and cut into thick wheels. Chill both so everything on the plate is cold."
+    },
+    {
+      "title": "Crisp the onion",
+      "text": "Drop the onion slices into iced water for 10 min, then drain them thoroughly. The cold soak leaches out some of the harsh sulphur compounds while keeping the slices snappy."
+    },
+    {
+      "title": "Season the fish",
+      "text": "With roughly 10 min to go before eating, take the cubed fish from the fridge and toss it with the salt in the glass bowl. Salting first helps the fish absorb flavour and firm slightly."
+    },
+    {
+      "title": "Add the lime",
+      "text": "Pour in the lime juice, add the chilli and fold gently with a spoon. Over 5-10 min, folding once or twice, the outer layer of each cube turns white and opaque while the middle stays translucent, because the acid sets the surface proteins."
+    },
+    {
+      "title": "Finish and plate",
+      "text": "Fold through the onion, coriander and pepper. Spoon onto the chilled plates with some of the tangy juice, tuck the sweet potato and corn alongside and serve without delay."
+    }
+  ],
+  "tips": [
+    "RAW NOTE: lime juice does not kill parasites or germs the way heat does. Buy sushi- or sashimi-grade fish from a fishmonger you trust that has been frozen first (-20 °C for 7 days or -35 °C for 15 hours), keep it in the fridge until the last minute and eat it the same day. Pregnant people, young children, older adults and anyone with weakened immunity should skip it.",
+    "A common mistake is leaving the fish in the lime for an hour; it turns chalky and tough, so mix it just before serving.",
+    "Use a glass or ceramic bowl, as metal can react with the acid and give a tinny taste.",
+    "The milky juice left in the bowl, called leche de tigre, is lovely sipped from a small glass."
+  ],
+  "storage": "Ceviche is made to be eaten straight away; throw away any leftovers. The boiled sweet potato and corn keep for 2 days covered in the fridge. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 280,
+    "protein_g": 25.3,
+    "carbs_g": 39.5,
+    "sugar_g": 10.7,
+    "free_sugar_g": 0.5,
+    "fat_g": 3.4,
+    "satfat_g": 0.9,
+    "salt_g": 1.45,
+    "fibre_g": 5.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ceviche-advanced.jpg",
+  "image_alt": "Peruvian ceviche of white fish cubes with red onion and coriander, served with a slice of sweet potato and large-kernel corn.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

@@ -13,6 +13,7 @@
   "base_recipe": "spaghetti-puttanesca",
   "changes_from_base": "Flaked tinned tuna folded in off the heat; shallot and fried tomato purée added to the base; fewer anchovies.",
   "extra_flavour": true,
+  "photo_pending": true,
   "summary": "This follows the classic spaghetti puttanesca method, but uses fewer anchovies, adds shallot and fried tomato purée to the base, and folds in flaked tinned tuna off the heat at the end.",
   "servings": 4,
   "prep_min": 10,
@@ -168,6 +169,5 @@
     "NYT Cooking",
     "Serious Eats",
     "America's Test Kitchen"
-  ],
-  "photo_pending": true
+  ]
 }

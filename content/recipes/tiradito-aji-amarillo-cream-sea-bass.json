@@ -1,0 +1,155 @@
+{
+  "slug": "tiradito-aji-amarillo-cream-sea-bass",
+  "title": "Tiradito with Ají Amarillo Cream: Sea Bass Fanned over Yellow Pepper Sauce",
+  "category": "fish-seafood",
+  "cuisine": "Peruvian",
+  "chapter": "seafood",
+  "book_chapter": "seafood",
+  "dish": "tiradito",
+  "dish_title": "Tiradito",
+  "flavour": "Aji amarillo",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "tiradito-sea-bass-lime-aji-choclo",
+  "changes_from_base": "The thin lime sauce becomes a thick cream of boiled, peeled yellow pepper with extra ají amarillo; the slices are fanned in a circle over a pool of it, with coriander only and no corn.",
+  "summary": "Built on the classic tiradito method, with sea bass fanned in a circle over a thick, golden cream of cooked yellow pepper and ají amarillo, topped with coriander.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "saucepan",
+    "slotted spoon",
+    "blender",
+    "very sharp long knife",
+    "4 chilled round plates"
+  ],
+  "ingredients": [
+    {
+      "group": "Fish",
+      "qty": 400,
+      "unit": "g",
+      "item": "sashimi-grade sea bass fillet",
+      "note": "skinless and pin-boned"
+    },
+    {
+      "group": "Fish",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Ají amarillo cream",
+      "qty": 1,
+      "unit": "pc",
+      "item": "yellow pepper (capsicum)",
+      "note": "about 180 g, quartered and seeded"
+    },
+    {
+      "group": "Ají amarillo cream",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "ají amarillo paste"
+    },
+    {
+      "group": "Ají amarillo cream",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic clove"
+    },
+    {
+      "group": "Ají amarillo cream",
+      "qty": 60,
+      "unit": "ml",
+      "item": "fresh lime juice"
+    },
+    {
+      "group": "Ají amarillo cream",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fresh lemon juice"
+    },
+    {
+      "group": "Ají amarillo cream",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "cold fish stock",
+      "note": "or cold water"
+    },
+    {
+      "group": "Ají amarillo cream",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Ají amarillo cream",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Garnish",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "coriander leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "How this differs",
+      "text": "The classic thin citrus sauce is swapped for a velvety purée of cooked yellow pepper and extra ají amarillo, and the fish is fanned in a circle with no corn. The result is fruitier, rounder and more vivid in colour."
+    },
+    {
+      "title": "Soften the pepper",
+      "text": "Drop the pepper quarters into boiling water and simmer for 15 min until completely soft. Cool them in cold water, then peel off the skins, which would otherwise make the sauce bitter and stringy."
+    },
+    {
+      "title": "Blend the cream",
+      "text": "Purée the pepper with the ají paste, garlic, lime and lemon juice, stock, oil and salt for a full minute until it looks like silk. Chill for at least 20 min so it is cold when it meets the fish."
+    },
+    {
+      "title": "Cut and arrange",
+      "text": "Slice the fish 5 mm thick on a slight angle. Spoon a pool of the cream onto each chilled plate, fan the slices around it in a ring and season with the fish salt."
+    },
+    {
+      "title": "Rest briefly, then serve",
+      "text": "Give it 2-3 min so the acid in the sauce lightly firms the underside of the fish, then scatter with coriander and serve."
+    }
+  ],
+  "tips": [
+    "RAW NOTE: citrus does not kill parasites or germs the way heat does. Buy sushi- or sashimi-grade fish from a fishmonger you trust that has been frozen first (-20 °C for 7 days or -35 °C for 15 hours), keep it in the fridge until the last minute and eat it the same day. Pregnant people, young children, older adults and anyone with weakened immunity should skip it.",
+    "A common mistake is skipping the peeling; pepper skins leave tough flecks in what should be a smooth sauce.",
+    "If the cream is too thick to pool, blend in another spoonful of cold stock.",
+    "Make the cream up to a day ahead and keep it covered in the fridge."
+  ],
+  "storage": "Serve as soon as it is plated and discard leftover fish. The ají cream keeps 1 day covered in the fridge. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "celery",
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 150,
+    "protein_g": 19.5,
+    "carbs_g": 5.2,
+    "sugar_g": 0.6,
+    "free_sugar_g": 0.3,
+    "fat_g": 5.7,
+    "satfat_g": 1.0,
+    "salt_g": 1.11,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tiradito-advanced--aji-amarillo.jpg",
+  "image_alt": "Slices of raw sea bass fanned in a circle over a pool of yellow ají amarillo sauce, scattered with coriander.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

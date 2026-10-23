@@ -1,0 +1,143 @@
+{
+  "slug": "kinilaw-coconut-milk-white-fish-ginger",
+  "title": "Kinilaw with Coconut Milk: White Fish, Ginger and Cucumber",
+  "category": "fish-seafood",
+  "cuisine": "Filipino",
+  "chapter": "seafood",
+  "book_chapter": "seafood",
+  "dish": "kinilaw",
+  "dish_title": "Kinilaw",
+  "flavour": "Coconut-milk",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "kinilaw-filipino-tuna-vinegar-ginger-cucumber",
+  "changes_from_base": "White fish instead of tuna; a shorter vinegar cure, then the drained fish is dressed in chilled coconut milk with grated ginger.",
+  "summary": "Built on the classic kinilaw method, but with white fish, a shorter vinegar cure and a cool dressing of coconut milk and ginger, plus cucumber and red onion.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "sharp knife",
+    "large glass or ceramic bowl",
+    "fine sieve",
+    "small bowl",
+    "serving bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Kinilaw",
+      "qty": 400,
+      "unit": "g",
+      "item": "sashimi-grade white fish (red snapper or sea bass)",
+      "note": "skinless, cut into 1.5 cm cubes"
+    },
+    {
+      "group": "Kinilaw",
+      "qty": 80,
+      "unit": "ml",
+      "item": "coconut vinegar (or cane vinegar)"
+    },
+    {
+      "group": "Kinilaw",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lime or calamansi juice"
+    },
+    {
+      "group": "Kinilaw",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Coconut dressing",
+      "qty": 120,
+      "unit": "ml",
+      "item": "full-fat coconut milk, chilled"
+    },
+    {
+      "group": "Coconut dressing",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh ginger, peeled and finely grated"
+    },
+    {
+      "group": "Coconut dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small cucumber, seeds scooped out, diced",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Coconut dressing",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "red onion, thinly sliced",
+      "note": "about 75 g"
+    },
+    {
+      "group": "Coconut dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "red bird's-eye chilli, thinly sliced",
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "title": "What changes",
+      "text": "This keeps the classic vinegar cure but swaps tuna for white fish and finishes with coconut milk. The rich milk rounds off the sharp vinegar, giving a creamier, gentler kinilaw."
+    },
+    {
+      "title": "Quick vinegar cure",
+      "text": "Stir the vinegar, lime juice and salt in the glass bowl, add the fish and fold. Leave it 5 min, until the edges of the cubes turn opaque white; delicate white fish needs less time than tuna."
+    },
+    {
+      "title": "Ginger milk",
+      "text": "Whisk the chilled coconut milk and grated ginger together in a small bowl. Grating releases the ginger juice so it flavours the milk straight away."
+    },
+    {
+      "title": "Drain well",
+      "text": "Tip the fish into the sieve and let the vinegar run off completely; leftover acid would split the coconut milk."
+    },
+    {
+      "title": "Dress and serve",
+      "text": "Fold the fish through the ginger milk with the cucumber, onion and chilli. Serve immediately, cold, with the creamy dressing pooled around it."
+    }
+  ],
+  "tips": [
+    "RAW NOTE: vinegar does not kill parasites or germs the way heat does. Buy sushi- or sashimi-grade fish from a fishmonger you trust that has been frozen first (-20 °C for 7 days or -35 °C for 15 hours), keep it in the fridge until the last minute and eat it the same day. Pregnant people, young children, older adults and anyone with weakened immunity should skip it.",
+    "A common mistake is using light coconut milk, which tastes thin; full-fat gives the silky body this version needs.",
+    "Chill the can of coconut milk beforehand so the dressing stays fridge-cold.",
+    "Firm white fish such as snapper or sea bass holds its shape better than soft, flaky kinds."
+  ],
+  "storage": "Serve straight away and discard any leftovers. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish",
+    "sulphites"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 181,
+    "protein_g": 21.7,
+    "carbs_g": 5.2,
+    "sugar_g": 1.6,
+    "free_sugar_g": 0.1,
+    "fat_g": 7.8,
+    "satfat_g": 6.0,
+    "salt_g": 0.9,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "kinilaw-basic--coconut-milk.jpg",
+  "image_alt": "Cubes of raw white fish in coconut milk with cucumber, red onion and ginger.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}
