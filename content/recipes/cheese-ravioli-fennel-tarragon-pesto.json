@@ -1,0 +1,157 @@
+{
+  "slug": "cheese-ravioli-fennel-tarragon-pesto",
+  "title": "Cheese Ravioli with Fennel and Tarragon Pesto",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "filled-ravioli-tortellini-agnolotti",
+  "dish_title": "Filled (ravioli, tortellini, agnolotti)",
+  "flavour": "Fennel, tarragon & pesto",
+  "flavour_order": 5,
+  "access": "premium",
+  "base_recipe": "ricotta-ravioli",
+  "changes_from_base": "Blanched fennel, tarragon, parsley, lemon and parmesan are blended into a nut-free pesto that replaces the butter sauce, with shop-bought cheese ravioli in place of homemade.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Tender cheese ravioli dressed in a fresh green pesto of blanched fennel, tarragon and parsley.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot",
+    "slotted spoon",
+    "colander",
+    "small bowl",
+    "food processor"
+  ],
+  "ingredients": [
+    {
+      "group": "Pesto",
+      "qty": 1,
+      "unit": "pc",
+      "item": "fennel bulb, stalks removed, halved, cored and cut into 5 mm pieces"
+    },
+    {
+      "group": "Pesto",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, unpeeled"
+    },
+    {
+      "group": "Pesto",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh parsley leaves"
+    },
+    {
+      "group": "Pesto",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh tarragon leaves"
+    },
+    {
+      "group": "Pesto",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Pesto",
+      "qty": 40,
+      "unit": "g",
+      "item": "parmesan, grated"
+    },
+    {
+      "group": "Pesto",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Pesto",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pesto",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Pasta",
+      "qty": 680,
+      "unit": "g",
+      "item": "shop-bought cheese ravioli (fresh or frozen)"
+    },
+    {
+      "group": "Pasta",
+      "qty": 18,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the cooking water",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil",
+      "text": "Set around 4000 ml water boiling in a large pot."
+    },
+    {
+      "title": "Blanch",
+      "text": "Simmer 1 fennel bulb, chopped into 5 mm pieces, for 2-3 min until softened, scoop it into a colander and refresh under cold water; next drop in 2 unpeeled garlic cloves for 1 min and cool them the same way."
+    },
+    {
+      "title": "Cook",
+      "text": "Tip 680 g cheese ravioli into the pot with 1 tbsp salt and cook to al dente, stirring frequently; reserve 120 ml of the water, then drain and return them to the pot."
+    },
+    {
+      "title": "Blend",
+      "text": "Peel and chop the blanched garlic, then blitz it with the fennel, 15 g parsley, 15 g tarragon, 2 tbsp lemon juice and 40 g parmesan in 20-30 pulses until finely ground."
+    },
+    {
+      "title": "Stream",
+      "text": "Keep the motor going and trickle in 60 ml olive oil, then finish with ¼ tsp salt and ¼ tsp black pepper."
+    },
+    {
+      "title": "Toss",
+      "text": "Fold the ravioli gently into about 240 ml of the fennel-tarragon pesto, slackening with cooking water a tablespoon at a time, and pass the rest at the table."
+    }
+  ],
+  "tips": [
+    "Cool the fennel and garlic quickly under cold water to keep the pesto vivid.",
+    "Check the ravioli label for egg.",
+    "Thin the pesto with reserved cooking water so it clings to every parcel."
+  ],
+  "storage": "Keep leftover pesto chilled under a film of oil for up to 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 422,
+    "protein_g": 17.9,
+    "carbs_g": 45.2,
+    "sugar_g": 1.9,
+    "free_sugar_g": 0.1,
+    "fat_g": 19.2,
+    "satfat_g": 6.7,
+    "salt_g": 1.64,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Cheese ravioli coated in a pale green herb pesto flecked with soft fennel.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "slug": "cheese-ravioli-sage-walnut-brown-butter-pesto",
+  "title": "Cheese Ravioli with Sage, Walnut and Brown Butter Pesto",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "filled-ravioli-tortellini-agnolotti",
+  "dish_title": "Filled (ravioli, tortellini, agnolotti)",
+  "flavour": "Sage, walnut & brown butter",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "ricotta-ravioli",
+  "changes_from_base": "Browned butter infused with sage is blended with toasted walnuts, parsley and parmesan into a pesto that replaces the plain butter sauce, with shop-bought cheese ravioli in place of homemade.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Cheese ravioli cloaked in a rich pesto of nutty brown butter, sage and toasted walnuts.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "25 cm frying pan",
+    "large pot",
+    "slotted spoon",
+    "small bowl",
+    "colander",
+    "food processor"
+  ],
+  "ingredients": [
+    {
+      "group": "Pesto",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Pesto",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh sage, chopped"
+    },
+    {
+      "group": "Pesto",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, unpeeled"
+    },
+    {
+      "group": "Pesto",
+      "qty": 30,
+      "unit": "g",
+      "item": "fresh parsley"
+    },
+    {
+      "group": "Pesto",
+      "qty": 40,
+      "unit": "g",
+      "item": "parmesan, grated"
+    },
+    {
+      "group": "Pesto",
+      "qty": 60,
+      "unit": "g",
+      "item": "walnuts, toasted"
+    },
+    {
+      "group": "Pesto",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pesto",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Pasta",
+      "qty": 680,
+      "unit": "g",
+      "item": "shop-bought cheese ravioli (fresh or frozen)"
+    },
+    {
+      "group": "Pasta",
+      "qty": 18,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the cooking water",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown",
+      "text": "Melt 85 g butter in the frying pan over medium-high heat, swirling without stopping, for 2-4 min until golden and smelling nutty."
+    },
+    {
+      "title": "Infuse",
+      "text": "Away from the heat, mix in 20 g sage and let it cool for about 10 min."
+    },
+    {
+      "title": "Boil",
+      "text": "Bring about 4000 ml water to the boil, slip in 2 unpeeled garlic cloves for 1 min, cool them under cold water, then peel and finely chop."
+    },
+    {
+      "title": "Cook",
+      "text": "Add 680 g cheese ravioli with 1 tbsp salt, stir often and cook until al dente; reserve 120 ml of the water, then drain and tip them back in."
+    },
+    {
+      "title": "Blend",
+      "text": "Pulse the garlic, sage butter, 30 g parsley, 40 g parmesan and 60 g walnuts for 20-30 pulses until finely ground, scraping down the sides."
+    },
+    {
+      "title": "Season",
+      "text": "Finish with ¼ tsp salt and ¼ tsp black pepper."
+    },
+    {
+      "title": "Toss",
+      "text": "Turn the ravioli through about 240 ml of the sage-walnut pesto, thinning with cooking water a spoonful at a time, and offer the rest at the table."
+    }
+  ],
+  "tips": [
+    "Keep the butter moving constantly so it browns evenly instead of scorching.",
+    "This pesto has walnuts in it, so flag it for anyone with a nut allergy.",
+    "The ravioli may contain egg, so read the label."
+  ],
+  "storage": "Keep leftover pesto chilled under a film of oil for up to 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 498,
+    "protein_g": 18.9,
+    "carbs_g": 44.4,
+    "sugar_g": 0.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 28.2,
+    "satfat_g": 13.5,
+    "salt_g": 1.6,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Cheese ravioli glossed with a golden sage and walnut pesto.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

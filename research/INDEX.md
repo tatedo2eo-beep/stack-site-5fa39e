@@ -248,6 +248,11 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cheese-herb-borek-spiral | Börek | Classic | 1 | 3 |
 | cheese-jalapeno-nachos | Nachos | Classic | 2 | 4 |
 | cheese-pupusas-curtido-tomato-salsa | Pupusa | Classic | 1 | 3 |
+| cheese-ravioli-fennel-tarragon-pesto | Filled (ravioli, tortellini, agnolotti) | Fennel, tarragon & pesto | 1 | 3 |
+| cheese-ravioli-green-olive-almond-orange-pesto | Filled (ravioli, tortellini, agnolotti) | Olive, almond & orange | 1 | 3 |
+| cheese-ravioli-kale-sunflower-seed-pesto | Filled (ravioli, tortellini, agnolotti) | Kale | 1 | 3 |
+| cheese-ravioli-roasted-red-pepper-pistachio-pesto | Filled (ravioli, tortellini, agnolotti) | Roasted red pepper & pistachio | 1 | 3 |
+| cheese-ravioli-sage-walnut-brown-butter-pesto | Filled (ravioli, tortellini, agnolotti) | Sage, walnut & brown butter | 1 | 3 |
 | cheese-tomato-lasagne-anchovy-sauce | Sheets/baked (lasagne) | Tomato | 1 | 3 |
 | cheeseburger-sliders | Sliders | Classic | 2 | 5 |
 | cheesecake-layer-brownies | Brownie (fudgy or cakey) | Cheesecake | 1 | 3 |
@@ -668,6 +673,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | goan-style-coconut-fish-curry-rice | Fish curry | Classic | 4 | 6 |
 | goat-cheese-dill-dutch-baby | Dutch baby | Goat cheese & dill | 1 | 3 |
 | goats-cheese-tomato-basil-party-tray-pizzas | New York | Goat cheese | 1 | 3 |
+| gochujang-chicken-tortellini-fontina-grill | Filled (ravioli, tortellini, agnolotti) | Gochujang & chicken | 1 | 3 |
 | gochujang-tomato-bucatini | Long dried (spaghetti, linguine, bucatini) | Gochujang & tomato | 1 | 3 |
 | golden-braised-endive-lemon-thyme | Braised endive | Classic | 3 | 5 |
 | golden-brown-butter-skillet-cornbread | ? | ? | MISSING | |
@@ -849,6 +855,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-cut-out-sugar-cookies | Sugar/cut-out | Lemon | 2 | 4 |
 | lemon-garlic-butter-linguine | Long dried (spaghetti, linguine, bucatini) | Lemon & garlic | 1 | 3 |
 | lemon-garlic-tahini-sauce | Tahini sauce | Lemon-garlic | 2 | 4 |
+| lemon-goat-cheese-ravioli-pink-peppercorn-tarragon | Filled (ravioli, tortellini, agnolotti) | Lemon & goat cheese | 1 | 3 |
 | lemon-herb-quinoa-pilaf | Quinoa | Lemon-herb | 1 | 3 |
 | lemon-herb-vinaigrette | Vinaigrette | Lemon-herb | 2 | 4 |
 | lemon-mascarpone-french-toast | French toast | Lemon & mascarpone | 1 | 3 |
@@ -1164,6 +1171,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | prawn-fried-rice-egg-peas-sweetcorn | Fried rice | Shrimp | 3 | 5 |
 | prawn-tofu-sliders-sesame-mayo | Sliders | Shrimp & tofu | 1 | 3 |
 | pressed-pesto-mozzarella-tomato-panini | Panini | Classic | 2 | 4 |
+| pressed-ricotta-ravioli-olive-oil-emulsion-lemon | Filled (ravioli, tortellini, agnolotti) | Ricotta | 1 | 3 |
 | pretzel-crust-focaccia | Focaccia | Pretzel | 1 | 3 |
 | prinsesstarta-swedish-princess-cake | Prinsesstårta | Classic | 2 | 4 |
 | provencal-vegetable-tian-thyme-garlic | Tian | Classic | 2 | 4 |
@@ -1296,6 +1304,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | sauce-ravigote-poached-cod | Ravigote | Classic | 1 | 3 |
 | savoury-cabbage-pancakes-spring-onion-tangy-sauce-mayo | Okonomiyaki (Japanese "pizza" – debatable) | Classic | 3 | 5 |
 | savoury-cheddar-parmesan-waffles | Waffles (Belgian) | Cheddar & parmesan | 1 | 3 |
+| savoury-pumpkin-parmesan-ravioli-sage-thyme | Filled (ravioli, tortellini, agnolotti) | Pumpkin | 1 | 3 |
 | scotch-broth-lamb-barley-kale | Scotch broth | Classic | 2 | 4 |
 | sea-bass-crudo-lemon-chilli-olive-oil | Crudo | Classic | 1 | 3 |
 | seared-mushroom-tacos-chipotle-onion-coriander | Taco | Mushroom | 3 | 5 |

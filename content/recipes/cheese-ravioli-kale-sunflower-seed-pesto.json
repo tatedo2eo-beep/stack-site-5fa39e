@@ -1,0 +1,161 @@
+{
+  "slug": "cheese-ravioli-kale-sunflower-seed-pesto",
+  "title": "Cheese Ravioli with Kale and Sunflower Seed Pesto",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "filled-ravioli-tortellini-agnolotti",
+  "dish_title": "Filled (ravioli, tortellini, agnolotti)",
+  "flavour": "Kale",
+  "flavour_order": 7,
+  "access": "premium",
+  "base_recipe": "ricotta-ravioli",
+  "changes_from_base": "Raw kale, basil, toasted sunflower seeds, chilli flakes and parmesan make a nut-free pesto that replaces the butter sauce, with shop-bought cheese ravioli in place of homemade.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Cheese ravioli tossed in a vivid green pesto of kale, basil and toasted sunflower seeds with a gentle chilli warmth.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot",
+    "slotted spoon",
+    "small bowl",
+    "colander",
+    "food processor"
+  ],
+  "ingredients": [
+    {
+      "group": "Pesto",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, unpeeled"
+    },
+    {
+      "group": "Pesto",
+      "qty": 45,
+      "unit": "g",
+      "item": "kale leaves, chopped"
+    },
+    {
+      "group": "Pesto",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh basil leaves"
+    },
+    {
+      "group": "Pesto",
+      "qty": 40,
+      "unit": "g",
+      "item": "parmesan, grated"
+    },
+    {
+      "group": "Pesto",
+      "qty": 70,
+      "unit": "g",
+      "item": "sunflower seeds, toasted"
+    },
+    {
+      "group": "Pesto",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Pesto",
+      "qty": 120,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Pesto",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pesto",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Pasta",
+      "qty": 680,
+      "unit": "g",
+      "item": "shop-bought cheese ravioli (fresh or frozen)"
+    },
+    {
+      "group": "Pasta",
+      "qty": 18,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the cooking water",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil",
+      "text": "Get around 4000 ml water boiling hard in a large pot."
+    },
+    {
+      "title": "Blanch",
+      "text": "Drop in 2 unpeeled garlic cloves for 1 min, refresh under cold water, then peel and chop."
+    },
+    {
+      "title": "Cook",
+      "text": "Add 680 g cheese ravioli and 1 tbsp salt, cooking to al dente with frequent stirring; set aside 120 ml of the water before draining and tipping the ravioli back in."
+    },
+    {
+      "title": "Blend",
+      "text": "Blitz the garlic, 45 g kale, 20 g basil, 40 g parmesan, 70 g sunflower seeds and ½ tsp chilli flakes for 20-30 pulses to a fine grind, scraping down as needed."
+    },
+    {
+      "title": "Stream",
+      "text": "With the motor running, pour 120 ml olive oil in slowly until fully blended."
+    },
+    {
+      "title": "Season",
+      "text": "Season to taste with ¼ tsp salt and ¼ tsp black pepper."
+    },
+    {
+      "title": "Toss",
+      "text": "Coat the ravioli in about 240 ml of the kale and sunflower pesto, loosening with a tablespoon of cooking water at a time, then put the rest on the table to pass round."
+    }
+  ],
+  "tips": [
+    "Toasting the sunflower seeds brings out more savoury depth in the pesto.",
+    "The pesto itself is nut-free, but check the ravioli label for egg and nuts.",
+    "Add the cooking water bit by bit to reach a glossy, coating consistency."
+  ],
+  "storage": "Keep leftover pesto chilled under a film of oil for up to 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 554,
+    "protein_g": 19.5,
+    "carbs_g": 43.5,
+    "sugar_g": 0.7,
+    "free_sugar_g": 0.0,
+    "fat_g": 34.2,
+    "satfat_g": 8.4,
+    "salt_g": 1.6,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Cheese ravioli coated in a deep green kale pesto speckled with chilli flakes.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

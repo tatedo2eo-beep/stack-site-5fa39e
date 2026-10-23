@@ -1,0 +1,147 @@
+{
+  "slug": "gochujang-chicken-tortellini-fontina-grill",
+  "title": "Gochujang Chicken and Cheese Tortellini under Melted Fontina",
+  "category": "chicken",
+  "cuisine": "Korean-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "filled-ravioli-tortellini-agnolotti",
+  "dish_title": "Filled (ravioli, tortellini, agnolotti)",
+  "flavour": "Gochujang & chicken",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "ricotta-ravioli",
+  "changes_from_base": "Shop-bought dried cheese tortellini are stirred into chicken thigh pieces cooked in a honey, gochujang, soy, ginger and sesame glaze, then topped with fontina and browned under the grill instead of a butter sauce.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Sticky, spicy gochujang chicken tumbled with cheese tortellini under a bubbling blanket of melted fontina.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan",
+    "colander",
+    "30 cm ovenproof frying pan with a lid",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta",
+      "qty": 225,
+      "unit": "g",
+      "item": "dried cheese tortellini"
+    },
+    {
+      "group": "Chicken",
+      "qty": 680,
+      "unit": "g",
+      "item": "boneless, skinless chicken thighs, trimmed and cut into 2 cm pieces"
+    },
+    {
+      "group": "Chicken",
+      "qty": 60,
+      "unit": "ml",
+      "item": "honey"
+    },
+    {
+      "group": "Chicken",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "gochujang"
+    },
+    {
+      "group": "Chicken",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Chicken",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Chicken",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "finely grated fresh ginger"
+    },
+    {
+      "group": "Topping",
+      "qty": 225,
+      "unit": "g",
+      "item": "fontina, grated"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced on the diagonal"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Turn the grill to high with a shelf roughly 20 cm beneath it."
+    },
+    {
+      "title": "Glaze",
+      "text": "In an ovenproof pan, stir together 60 ml honey, 3 tbsp gochujang, 3 tbsp soy sauce, 1 tbsp sesame oil, 2 chopped garlic cloves and 2 tsp grated ginger."
+    },
+    {
+      "title": "Cook",
+      "text": "Turn 680 g chicken thigh pieces through the glaze, put a lid on and let them bubble on a medium-high hob for 10-15 min, giving the pan a stir every few minutes, until cooked through."
+    },
+    {
+      "title": "Boil",
+      "text": "Meanwhile, bring 2000 ml water to the boil and cook 225 g tortellini until tender, then drain."
+    },
+    {
+      "title": "Combine",
+      "text": "Take the pan off the heat, fold the tortellini into the sticky chicken and cover the top with 225 g grated fontina."
+    },
+    {
+      "title": "Grill",
+      "text": "Slide under the grill for 2-5 min, until the cheese has melted and is just starting to bubble, then scatter with 2 sliced spring onions and serve."
+    }
+  ],
+  "tips": [
+    "Cook the chicken to 74 °C at the centre of the thickest piece.",
+    "Read the tortellini and gochujang labels for gluten, egg and soya.",
+    "Cut the spring onions on an angle for a crisp, fresh finish."
+  ],
+  "storage": "Best enjoyed fresh from the grill while the cheese is molten. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "sesame",
+    "soya"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 748,
+    "protein_g": 57.9,
+    "carbs_g": 57.3,
+    "sugar_g": 22.8,
+    "free_sugar_g": 20.5,
+    "fat_g": 31.3,
+    "satfat_g": 15.0,
+    "salt_g": 4.33,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A pan of glossy red chicken and tortellini topped with browned melted cheese and sliced spring onions.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

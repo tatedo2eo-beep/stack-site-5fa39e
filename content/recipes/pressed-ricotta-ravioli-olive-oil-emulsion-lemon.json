@@ -1,0 +1,156 @@
+{
+  "slug": "pressed-ricotta-ravioli-olive-oil-emulsion-lemon",
+  "title": "Pressed Ricotta Ravioli with Lemon and an Olive Oil Emulsion",
+  "category": "pasta-noodles",
+  "cuisine": "Italian",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "filled-ravioli-tortellini-agnolotti",
+  "dish_title": "Filled (ravioli, tortellini, agnolotti)",
+  "flavour": "Ricotta",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "ricotta-ravioli",
+  "changes_from_base": "The ricotta is pressed between towels to dry it, seasoned with lemon juice, nutmeg and more parmesan, and the ravioli are tossed in an olive oil and pasta-water emulsion instead of butter.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Pillowy ravioli filled with lemon-brightened ricotta and parmesan, coated in a silky sauce drawn together from oil and starchy pasta water.",
+  "servings": 6,
+  "prep_min": 60,
+  "cook_min": 5,
+  "difficulty": "medium",
+  "equipment": [
+    "rimmed baking tray",
+    "clean tea towels",
+    "medium bowl",
+    "pasta machine (if rolling your own)",
+    "ravioli mould (optional)",
+    "pastry brush",
+    "fluted pasta wheel or sharp knife",
+    "large pot"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 565,
+      "unit": "g",
+      "item": "fresh ricotta"
+    },
+    {
+      "group": "Filling",
+      "qty": 115,
+      "unit": "g",
+      "item": "parmesan, finely grated"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Pasta",
+      "qty": 450,
+      "unit": "g",
+      "item": "fresh egg pasta sheets (shop-bought, or homemade fresh egg pasta)"
+    },
+    {
+      "group": "Pasta",
+      "qty": 18,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the cooking water",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil, plus more at the table"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Press",
+      "text": "Lay 565 g ricotta across a tea towel on a rimmed tray, top with a second towel and press hard, wait 5 min, then scrape it into a bowl."
+    },
+    {
+      "title": "Season",
+      "text": "Mix in 115 g parmesan, ¼ tsp nutmeg, 2 tsp lemon juice, ½ tsp salt and ¼ tsp black pepper."
+    },
+    {
+      "title": "Roll",
+      "text": "For homemade, split 450 g dough into 4 and roll each piece in turn to just under 2 mm, trimming every sheet to roughly 38 x 13 cm."
+    },
+    {
+      "title": "Fill",
+      "text": "For hand-shaped ravioli, crease a sheet lengthways, space 6 heaped tablespoons of filling 1 cm apart, dampen the top with water, fold it over and press the air out, then slice into 6 squares with a fluted wheel."
+    },
+    {
+      "title": "Mould",
+      "text": "Or lay a sheet over a ravioli mould, press hollows into it, drop in about 1 tbsp each, cover with a second sheet and run a pin across until the ridges appear."
+    },
+    {
+      "title": "Cook",
+      "text": "Lower into plenty of boiling water with 1 tbsp salt and cook for about 3 min until they float, saving 120 ml of the water."
+    },
+    {
+      "title": "Emulsify",
+      "text": "Tip the ravioli and saved water back into the pot with 60 ml oil and stir gently over high heat for about 1 min to a creamy sauce."
+    },
+    {
+      "title": "Serve",
+      "text": "Plate up straight away with extra olive oil to pass round."
+    }
+  ],
+  "tips": [
+    "Pressing the ricotta first firms the filling so the parcels seal neatly.",
+    "Freeze shaped parcels on a lined tray, then bag them for up to 2 months and cook from frozen with an extra 30 seconds.",
+    "Keep the heat high and stir quickly so the oil and water bind into a glossy sauce."
+  ],
+  "storage": "Chill leftovers and eat within 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 515,
+    "protein_g": 22.5,
+    "carbs_g": 48.7,
+    "sugar_g": 0.5,
+    "free_sugar_g": 0.0,
+    "fat_g": 25.5,
+    "satfat_g": 10.7,
+    "salt_g": 2.04,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Plump cheese-filled squares glistening in a creamy emulsion, with a jug of olive oil alongside.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "cheese-ravioli-roasted-red-pepper-pistachio-pesto",
+  "title": "Cheese Ravioli with Roasted Red Pepper and Pistachio Pesto",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "filled-ravioli-tortellini-agnolotti",
+  "dish_title": "Filled (ravioli, tortellini, agnolotti)",
+  "flavour": "Roasted red pepper & pistachio",
+  "flavour_order": 8,
+  "access": "premium",
+  "base_recipe": "ricotta-ravioli",
+  "changes_from_base": "Jarred roasted red peppers, toasted pistachios, basil and parmesan are blended into a pesto that replaces the butter sauce, with shop-bought cheese ravioli in place of homemade.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Cheese ravioli in a warmly coloured pesto of sweet roasted peppers, basil and toasted pistachios.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot",
+    "slotted spoon",
+    "small bowl",
+    "colander",
+    "food processor"
+  ],
+  "ingredients": [
+    {
+      "group": "Pesto",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, unpeeled"
+    },
+    {
+      "group": "Pesto",
+      "qty": 250,
+      "unit": "g",
+      "item": "jarred roasted red peppers, rinsed and patted dry"
+    },
+    {
+      "group": "Pesto",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh basil leaves"
+    },
+    {
+      "group": "Pesto",
+      "qty": 40,
+      "unit": "g",
+      "item": "parmesan, grated"
+    },
+    {
+      "group": "Pesto",
+      "qty": 65,
+      "unit": "g",
+      "item": "shelled raw pistachios, toasted"
+    },
+    {
+      "group": "Pesto",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Pesto",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pesto",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Pasta",
+      "qty": 680,
+      "unit": "g",
+      "item": "shop-bought cheese ravioli (fresh or frozen)"
+    },
+    {
+      "group": "Pasta",
+      "qty": 18,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the cooking water",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil",
+      "text": "Heat around 4000 ml water to a rolling boil in a large pot."
+    },
+    {
+      "title": "Blanch",
+      "text": "Add 2 unpeeled garlic cloves and boil 1 min, cool under cold water, then peel and mince."
+    },
+    {
+      "title": "Cook",
+      "text": "Slide 680 g cheese ravioli in with 1 tbsp salt and cook until al dente, stirring regularly; save 120 ml of the water, then drain and return the ravioli to the pot."
+    },
+    {
+      "title": "Blend",
+      "text": "Run 20-30 pulses over the garlic, 250 g rinsed roasted red peppers, 20 g basil, 40 g parmesan and 65 g pistachios until finely ground, scraping down the bowl."
+    },
+    {
+      "title": "Stream",
+      "text": "As the motor runs, add 60 ml olive oil in a slow stream until fully worked in."
+    },
+    {
+      "title": "Season",
+      "text": "Add ¼ tsp salt along with ¼ tsp black pepper."
+    },
+    {
+      "title": "Toss",
+      "text": "Fold about 240 ml of the red pepper and pistachio pesto gently through the ravioli, adding cooking water a tablespoon at a time to loosen, and pass the remainder separately."
+    }
+  ],
+  "tips": [
+    "Dry the peppers well so the pesto doesn't become watery.",
+    "Pistachios go into this pesto, so warn anyone with a nut allergy.",
+    "Scan the ravioli packet for egg."
+  ],
+  "storage": "Keep leftover pesto chilled under a film of oil for up to 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 471,
+    "protein_g": 19.5,
+    "carbs_g": 45.4,
+    "sugar_g": 1.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 24.0,
+    "satfat_g": 7.3,
+    "salt_g": 3.01,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Cheese ravioli coated in a coral-red pepper and pistachio pesto.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
