@@ -1,5 +1,5 @@
 {
- "_note": "Photos come ONLY from the original cookbook site (/workspace/tami-site/img/dishes), copied byte-for-byte. Dish -> Tami dish photo; recipe -> Tami flavour photo when one exists. No generated photos outside the home animation.",
+ "_note": "Photos come ONLY from the original cookbook site (/workspace/tami-site/img/dishes), copied byte-for-byte. Dish -> Tami dish photo; recipe -> Tami flavour photo when one exists. No generated photos outside the home animation, except recipes listed in tools/generated-images.json (Joe approved 2026-10-23).",
  "source": "/workspace/tami-site",
  "dishes": {
   "banana-bread-and-quick-breads": "img/dishes/23-breads-viennoiserie/banana-bread-quick-breads-basic.jpg",

@@ -28,7 +28,7 @@ function loadRecipes() {
     v.warnings.push(...pre);
     if (r.slug && slugs.has(r.slug)) v.errors.push(`duplicate slug "${r.slug}"`);
     slugs.add(r.slug);
-    if (r.image && !tamiRel(r.image)) v.errors.push(`image "${r.image}" is not one of the original cookbook photos (img/dishes); only those may be used`);
+    if (r.image && !tamiRel(r.image) && !genPhoto(r)) v.errors.push(`image "${r.image}" is neither an original cookbook photo (img/dishes) nor this recipe's approved generated photo (tools/generated-images.json)`);
     if ((r.steps || []).some(s => s && s.clip)) v.warnings.push('step clips are switched off for now; clip ignored');
     if (!v.errors.length) {
       const al = R.checkAllergens(r);
@@ -117,6 +117,21 @@ const ALIAS_OUT = {};
 // an edited copy of the named original, kept in content/images/ (name ends -public-only.jpg). Tami's own files are never touched; the recipe
 // and dish JSON still name the original, so validation is unchanged, and only the served file is swapped.
 const PUBLIC_ONLY = { 'img/dishes/13-soups/lentil-basic.jpg': 'red-lentil-soup-public-only.jpg' }; // red lentil soup: whole brown lentils -> smooth red lentil soup
+// Generated photos (Joe approved, 2026-10-23 'Yes, do all 498'): ONLY for recipes that were photo_pending (no Tami photo of their own).
+// tools/generated-images.json lists slug -> file in content/images/ (recipes) and slug -> file in content/images/cats/ (flavour cats).
+// A recipe may use its generated photo only if its "image" field names exactly that file. Tami's photos are unchanged.
+const GEN = fs.existsSync(path.join(ROOT, 'tools/generated-images.json')) ? JSON.parse(fs.readFileSync(path.join(ROOT, 'tools/generated-images.json'), 'utf8')) : { recipes: {}, cats: {} };
+GEN.recipes = GEN.recipes || {}; GEN.cats = GEN.cats || {};
+const genPhoto = r => !!(r && r.image && GEN.recipes[r.slug] === r.image && fs.existsSync(path.join(ROOT, 'content/images', r.image)));
+const genCopied = {};
+async function genImg(name) {
+  if (genCopied[name]) return genCopied[name];
+  const src = path.join(ROOT, 'content/images', name), out = 'img/g/' + name;
+  fs.mkdirSync(path.dirname(path.join(OUT, out)), { recursive: true });
+  fs.copyFileSync(src, path.join(OUT, out));
+  const m = await require('sharp')(src).metadata();
+  return (genCopied[name] = { w600: out, w1200: out, width: m.width, height: m.height, orig: true, gen: true });
+}
 const tamiRel = name => !name ? null : name.startsWith('img/dishes/') ? name : TAMI_BY_NAME[path.basename(name)] || null;
 async function tamiImg(rel) {
   if (!rel) return null;
@@ -137,6 +152,7 @@ async function buildImages(recipes) {
     // photo_pending: an extra flavour waiting for its own photo. Never fall back to the dish photo (it would not match); show 'Photo coming soon'.
     if (r.photo_pending && !r.image) { r.img = null; continue; }
     r._tamiRel = TAMI.recipes[r.slug] || tamiRel(r.image) || TAMI.dishes[r.dish] || tamiRel(r._dishImage);
+    if (!tamiRel(r.image) && genPhoto(r)) { r._gen = true; r.img = await genImg(r.image); continue; } // generated photo; _tamiRel kept only to find the dish cat
     r.img = await tamiImg(r._tamiRel);
     if (!r.img) console.log(C.yel(`warning: ${r.slug}: no photo mapped in tools/tami-images.json (placeholder used)`));
   }
@@ -158,7 +174,7 @@ const CAT_CACHE = path.join(ROOT, 'node_modules/.cache/cat-tip');
 const catDone = {};
 async function catImg(rel) {
   if (catDone[rel]) return catDone[rel];
-  const src = path.join(TAMI.source, rel);
+  const src = rel.startsWith('content/images/cats/') ? path.join(ROOT, rel) : path.join(TAMI.source, rel); // generated flavour cats live in content/images/cats/
   if (!fs.existsSync(src)) return null;
   const id = crypto.createHash('sha1').update(fs.readFileSync(src)).digest('hex').slice(0, 12);
   const m = await require('sharp')(src).metadata();
@@ -177,7 +193,8 @@ async function buildCats(recipes, dishes) {
   for (const d of dishes) dishCat[d.slug] = DISH_CAT_BY_PHOTO[tamiRel(d.image)] || DISH_CAT_BY_PHOTO[TAMI.dishes[d.slug]] || d.flavours.map(r => DISH_CAT_BY_PHOTO[r._tamiRel]).find(Boolean);
   const n = { flavour: 0, dish: 0, master: 0 };
   for (const r of recipes) {
-    const own = !(r.photo_pending && !r.image) && CAT_BY_PHOTO[r._tamiRel];
+    const genCat = GEN.cats[r.slug] && { kind: 'flavour', rel: 'content/images/cats/' + GEN.cats[r.slug] };
+    const own = genCat || (!r._gen && !(r.photo_pending && !r.image) && CAT_BY_PHOTO[r._tamiRel]);
     const pick = own || (dishCat[r.dish] ? { kind: 'dish', rel: dishCat[r.dish] } : { kind: 'master', rel: CAT_MASTER });
     r.catPic = await catImg(pick.rel);
     if (!r.catPic) { console.log(C.yel(`warning: ${r.slug}: cat picture missing (${pick.rel}), master cat used`)); r.catPic = await catImg(CAT_MASTER); pick.kind = 'master'; }
