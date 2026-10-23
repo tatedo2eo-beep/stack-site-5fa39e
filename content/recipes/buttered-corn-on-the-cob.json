@@ -1,0 +1,102 @@
+{
+  "slug": "buttered-corn-on-the-cob",
+  "title": "Buttered Corn on the Cob",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "corn-on-the-cob",
+  "dish_title": "Corn on the cob",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Husked sweetcorn steamed for 7-10 min until bright yellow and tender, served with butter pats, salt and pepper.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot with lid",
+    "steamer basket",
+    "tongs"
+  ],
+  "ingredients": [
+    {
+      "group": "Corn",
+      "qty": 4,
+      "unit": "pc",
+      "item": "ears fresh sweetcorn, husks and silk removed"
+    },
+    {
+      "group": "Corn",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "water, for steaming"
+    },
+    {
+      "group": "To serve",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter, cut into pats"
+    },
+    {
+      "group": "To serve",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Husk the corn",
+      "text": "Pull the husks down from the tip to the stem and rub away the silky threads with your fingers. Snap off any long stems so the ears fit the pot."
+    },
+    {
+      "title": "Steam until tender",
+      "text": "Bring about 2.5 cm of water to the boil under the steamer basket, lay in the ears, cover and steam on high for 7-10 min. The kernels are ready when they turn bright yellow and burst with sweet juice when pressed; steaming keeps the sugars in the kernels rather than in the water."
+    },
+    {
+      "title": "Butter and serve",
+      "text": "Lift the corn out with tongs and set a pat of butter on each hot cob to melt. Bring salt and pepper to the table so everyone can season their own."
+    }
+  ],
+  "tips": [
+    "Buy corn in its husk and cook it the same day; its natural sugars turn to starch quickly after picking.",
+    "Do not salt the cooking water heavily or overcook, as the kernels toughen.",
+    "Boiling for 4-5 min in a big pot of water works too.",
+    "Try flavoured butters with herbs, lime zest or chilli."
+  ],
+  "storage": "Best eaten straight away. Refrigerate leftover cobs wrapped up to 3 days; reheat by steaming 2-3 min until piping hot (74 °C), or cut the kernels off for salads. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 158,
+    "protein_g": 3.4,
+    "carbs_g": 18.8,
+    "sugar_g": 6.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 9.5,
+    "satfat_g": 5.5,
+    "salt_g": 0.77,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "corn-on-the-cob-basic.jpg",
+  "image_alt": "Three steamed corn cobs, each topped with a melting pat of butter.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

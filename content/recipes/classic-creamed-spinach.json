@@ -1,0 +1,140 @@
+{
+  "slug": "classic-creamed-spinach",
+  "title": "Classic Creamed Spinach",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "creamed-spinach",
+  "dish_title": "Creamed spinach",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Baby spinach wilted with shallot and garlic, simmered in cream and thickened with a butter-flour paste, finished with nutmeg.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "large casserole pot (Dutch oven)",
+    "tongs",
+    "small bowl",
+    "fork"
+  ],
+  "ingredients": [
+    {
+      "group": "Paste",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Paste",
+      "qty": 8,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Spinach",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Spinach",
+      "qty": 1,
+      "unit": "pc",
+      "item": "shallot, finely chopped",
+      "note": "about 40 g"
+    },
+    {
+      "group": "Spinach",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Spinach",
+      "qty": 450,
+      "unit": "g",
+      "item": "baby spinach"
+    },
+    {
+      "group": "Spinach",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Cream",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Cream",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Cream",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "ground nutmeg"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the paste",
+      "text": "Mash the softened butter and flour together with a fork until completely smooth. This paste thickens the cream without lumps, because the butter keeps the flour particles apart as they disperse."
+    },
+    {
+      "title": "Wilt the spinach",
+      "text": "Melt the remaining 30 g butter in the pot over medium heat and soften the shallot and garlic for 1-2 min until translucent. Add the spinach a handful at a time with the salt, turning with tongs, and cook about 4 min until just wilted."
+    },
+    {
+      "title": "Thicken the cream",
+      "text": "Pour in the cream and bring it to a simmer. Stir in the butter-flour paste and cook for about 3 min, until the sauce thickens and coats the leaves rather than running off them."
+    },
+    {
+      "title": "Season and serve",
+      "text": "Take the pot off the heat and stir in the pepper and nutmeg, then taste for salt. Spoon into a warm shallow dish and serve while hot."
+    }
+  ],
+  "tips": [
+    "Baby spinach needs no chopping; with mature spinach, remove the tough stems and chop the leaves.",
+    "Add the spinach in handfuls so it wilts evenly instead of steaming in a heap.",
+    "Do not boil the sauce hard after adding the paste, or it can turn gluey.",
+    "A little grated hard cheese made with microbial rennet adds richness if you want it."
+  ],
+  "storage": "Refrigerate covered up to 3 days. Reheat gently in a pan, stirring and adding a splash of milk if thick, until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 252,
+    "protein_g": 4.7,
+    "carbs_g": 8.5,
+    "sugar_g": 2.2,
+    "free_sugar_g": 0.0,
+    "fat_g": 23.5,
+    "satfat_g": 14.7,
+    "salt_g": 0.98,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "creamed-spinach-basic.jpg",
+  "image_alt": "A bowl of smooth, dark green creamed spinach.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

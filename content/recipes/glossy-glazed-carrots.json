@@ -1,0 +1,120 @@
+{
+  "slug": "glossy-glazed-carrots",
+  "title": "Glossy Glazed Carrots",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "glazed-carrots",
+  "dish_title": "Glazed carrots",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Carrot coins and sticks simmered covered, reduced hard and tossed with butter and sugar into a glossy glaze, finished with lemon.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "30 cm frying pan with lid",
+    "heatproof spatula",
+    "paring knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Carrots",
+      "qty": 450,
+      "unit": "g",
+      "item": "medium carrots (about 6), peeled",
+      "note": "cut into 6 mm coins and short sticks"
+    },
+    {
+      "group": "Carrots",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Carrots",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Carrots",
+      "qty": 25,
+      "unit": "g",
+      "item": "granulated sugar",
+      "note": "about 2 tbsp; 1 tsp at the start, the rest with the butter"
+    },
+    {
+      "group": "Glaze",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter, in 4 pieces"
+    },
+    {
+      "group": "Glaze",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Glaze",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simmer covered",
+      "text": "Put the carrots, water, salt and 1 tsp of the sugar in the frying pan, cover and bring to the boil over medium-high heat. Lower to medium and simmer for 5 min, stirring once or twice, until a knife tip meets only slight resistance. The lid traps steam so the carrots cook through quickly."
+    },
+    {
+      "title": "Reduce the liquid",
+      "text": "Take off the lid, turn the heat to high and boil for 1-2 min until only about 2 tbsp of liquid is left. This concentrated, sugary liquid is the start of the glaze."
+    },
+    {
+      "title": "Build the glaze",
+      "text": "Add the butter and the rest of the sugar and keep tossing for about 3 min. The carrots are done when fully tender and coated in a glossy, light-gold syrup; the butter emulsifies with the syrup so it clings rather than pools."
+    },
+    {
+      "title": "Finish with lemon",
+      "text": "Off the heat, toss in the lemon juice and pepper; the acid balances the sweetness. Scrape everything into a warm dish, glaze and all, and serve at once."
+    }
+  ],
+  "tips": [
+    "Cut the carrots to an even thickness so they all finish together.",
+    "Watch the pan closely once the liquid is low; sugar goes from golden to burnt quickly.",
+    "If the glaze tightens before serving, loosen it with a splash of water over low heat.",
+    "A few thyme leaves make a good addition."
+  ],
+  "storage": "Refrigerate covered up to 3 days. Reheat in a pan with a splash of water, tossing, until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 98,
+    "protein_g": 1.1,
+    "carbs_g": 17.3,
+    "sugar_g": 11.6,
+    "free_sugar_g": 6.3,
+    "fat_g": 3.3,
+    "satfat_g": 2.0,
+    "salt_g": 0.93,
+    "fibre_g": 3.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "glazed-carrots-basic.jpg",
+  "image_alt": "Glossy glazed carrot coins and sticks piled on a plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Food Network Kitchen"
+  ]
+}

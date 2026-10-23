@@ -1,0 +1,114 @@
+{
+  "slug": "smashed-buttery-mushy-peas",
+  "title": "Smashed Buttery Mushy Peas",
+  "category": "snacks-sides",
+  "cuisine": "British",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "mushy-peas",
+  "dish_title": "Mushy peas",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Frozen peas cooked soft in butter and water, smashed to a chunky purée and finished with lemon zest and a butter pat.",
+  "servings": 4,
+  "prep_min": 2,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan with lid",
+    "potato masher"
+  ],
+  "ingredients": [
+    {
+      "group": "Peas",
+      "qty": 450,
+      "unit": "g",
+      "item": "frozen peas"
+    },
+    {
+      "group": "Peas",
+      "qty": 45,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Peas",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water, plus 2-3 tbsp to thin"
+    },
+    {
+      "group": "Peas",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the peas",
+      "text": "Put the peas, 45 g butter, 60 ml water and salt in the saucepan, cover and cook over medium heat for 12-15 min, stirring once or twice. They should be very soft and squash easily against the side of the pan; cooking past tender is what lets them break down."
+    },
+    {
+      "title": "Smash",
+      "text": "Remove the lid and mash with the potato masher to a chunky purée, leaving some peas whole for texture."
+    },
+    {
+      "title": "Finish",
+      "text": "Stir in the lemon zest and pepper, adding 2-3 tbsp water if the purée is too thick. Taste for salt and serve with a pat of butter melting on top."
+    }
+  ],
+  "tips": [
+    "Keep the lid on while cooking so the water does not boil away.",
+    "For a smoother result, pulse briefly in a food processor instead of mashing.",
+    "A little chopped mint is a classic addition.",
+    "The chip-shop style is made with dried marrowfat peas soaked overnight."
+  ],
+  "storage": "Refrigerate covered up to 3 days, or freeze up to 2 months. Reheat in a pan with a splash of water until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 187,
+    "protein_g": 5.9,
+    "carbs_g": 16.2,
+    "sugar_g": 5.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 11.5,
+    "satfat_g": 7.1,
+    "salt_g": 0.94,
+    "fibre_g": 5.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "mushy-peas-basic.jpg",
+  "image_alt": "A bowl of bright green smashed peas with a pat of butter on top.",
+  "inspired_by": [
+    "Food Network Kitchen",
+    "America's Test Kitchen"
+  ]
+}

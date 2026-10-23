@@ -58,10 +58,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | buffalo-chicken-burger | Chicken burger | Buffalo | 3 | 8 |
 | buffalo-chicken-wings | Chicken wings | Buffalo | 4 | 6 |
 | butter-chicken | Butter chicken | Classic | 2 | 4 |
+| buttered-corn-on-the-cob | Corn on the cob | Classic | 1 | 4 |
 | buttered-spaetzle | Spätzle | Classic | 3 | 5 |
 | buttermilk-fried-chicken | Fried chicken (Southern) | Buttermilk-brined | 4 | 6 |
 | butternut-squash-ravioli | Filled (ravioli, tortellini, agnolotti) | Butternut squash | 4 | 6 |
 | buttery-rice-pilaf-toasted-vermicelli-herbs | Steamed/pilaf | Classic | 3 | 5 |
+| buttery-succotash-corn-lima | Succotash | Classic | 2 | 4 |
 | cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
 | caramelised-onion-flatbread-anchovies-black-olives-thyme | Pissaladière | Classic | 3 | 5 |
 | caramelised-onion-soup-gruyere-toasts | French onion | Classic | 3 | 5 |
@@ -135,6 +137,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-butter-shortbread | Shortbread | Classic | 2 | 6 |
 | classic-cheese-quiche | Quiche (cheese) | Classic | 2 | 4 |
 | classic-cheeseburger | Cheeseburger | Classic | 4 | 7 |
+| classic-creamed-spinach | Creamed spinach | Classic | 2 | 4 |
 | classic-deviled-eggs-paprika-chives | Deviled eggs | Classic | 3 | 5 |
 | classic-french-toast-cinnamon-sugar-maple | French toast | Classic | 2 | 4 |
 | classic-fresh-squeezed-lemonade | Lemonade | Classic | 2 | 4 |
@@ -147,6 +150,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-strawberry-jam | Strawberry jam | Classic | 2 | 4 |
 | clear-white-chicken-stock-slow-simmered | White/brown chicken | Classic | 2 | 4 |
 | cod-baked-in-parchment-vegetables-lemon-dill | En papillote | Classic | 4 | 6 |
+| colcannon-kale-butter-well | Colcannon | Classic | 2 | 4 |
 | cold-somen | Somen | Classic | 3 | 5 |
 | colombian-arepas-de-queso-cheese-filled-corn-cakes | Arepa | Cheese | 2 | 4 |
 | cool-yoghurt-rice-mustard-seeds-curry-leaves-pomegranate | Curd rice | Classic | 2 | 4 |
@@ -255,18 +259,21 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gingerbread-cookies | Gingerbread | Classic | 3 | 5 |
 | glossy-braided-honey-challah | Challah | Classic | 3 | 5 |
 | glossy-five-point-kaiser-rolls | Kaiser roll | Classic | 2 | 4 |
+| glossy-glazed-carrots | Glazed carrots | Classic | 2 | 4 |
 | gnocchi-brown-butter-sage | Gnocchi | Brown butter-sage | 3 | 5 |
 | gnocchi-cherry-tomato | Gnocchi | Tomato | 3 | 5 |
 | gnocchi-pesto | Gnocchi | Pesto | 3 | 5 |
 | goan-style-coconut-fish-curry-rice | Fish curry | Classic | 4 | 6 |
 | golden-brown-butter-skillet-cornbread | Cornbread | Classic | 2 | 4 |
 | golden-butter-brioche-loaf | Brioche | Classic | 3 | 5 |
+| golden-cauliflower-cheese | Cauliflower cheese | Classic | 2 | 4 |
 | golden-crab-cakes-paprika-lemon-mayonnaise | Crab cakes | Classic | 4 | 6 |
 | golden-crisp-cheddar-grilled-cheese-sandwich | Grilled cheese | Classic | 2 | 4 |
 | golden-olive-oil-focaccia-flaky-sea-salt | Focaccia | Classic | 2 | 4 |
 | graham-crackers | Graham crackers | Classic | 3 | 5 |
 | gratin-dauphinois | Gratin dauphinois | Classic | 2 | 4 |
 | greek-mint-oregano-meatballs | Meatballs | Greek (mint-oregano) | 2 | 4 |
+| green-beans-amandine-brown-butter | Green beans almondine | Classic | 2 | 4 |
 | green-chilli-tomatillo-chicken-hominy-soup | Pozole verde | Classic | 2 | 4 |
 | green-freekeh-herbs-toasted-almonds | Freekeh | Classic | 2 | 4 |
 | green-pesto-pasta-salad-cherry-tomatoes | Pasta salad | Pesto | 2 | 4 |
@@ -439,6 +446,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pear-upside-down-cake | Upside-down | Pear | 2 | 4 |
 | peking-duck | Peking duck | Classic | 2 | 4 |
 | penne-arrabbiata | Short (penne, rigatoni, fusilli) | Classic | 3 | 5 |
+| peperonata-sweet-peppers-basil | Peperonata | Classic | 2 | 4 |
 | persian-cucumber-tomato-salad-shirazi | Shirazi | Classic | 2 | 4 |
 | persian-faloodeh-rose-water-lime | Faloodeh | Classic | 2 | 4 |
 | persian-herb-lamb-kidney-bean-stew | Ghormeh sabzi | Classic | 2 | 4 |
@@ -529,6 +537,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | slow-roast-beef-yorkshire-puddings | Roast beef | Classic | 5 | 7 |
 | slow-roasted-spiced-lamb-shoulder-cumin-salt | Mechoui | Classic | 2 | 4 |
 | slow-smoked-beef-brisket-salt-pepper | Brisket (smoked) | Classic | 3 | 5 |
+| smashed-buttery-mushy-peas | Mushy peas | Classic | 2 | 4 |
 | smoky-baba-ghanoush-charred-aubergine-tahini-lemon | Baba ghanoush | Classic | 2 | 4 |
 | smoky-chipotle-lime-chicken-fajitas-peppers-guacamole | Fajita | Classic | 2 | 4 |
 | smoky-chipotle-tomato-shredded-chicken-tacos | Taco | Chicken tinga | 4 | 6 |
@@ -577,6 +586,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spinach-ricotta-lasagne | Sheets/baked (lasagne) | Spinach and ricotta | 3 | 5 |
 | spinach-ricotta-mozzarella-stromboli-garlic-crust | Stromboli | Classic | 2 | 4 |
 | square-sheet-pan-pizza-garlic-tomato-dollops-mozzarella | Grandma pizza | Classic | 2 | 4 |
+| steamed-broccoli-with-lemon | Steamed/blanched | Classic | 2 | 4 |
 | steamed-masa-parcels-chicken-tomatillo-salsa-verde | Tamal | Chicken in salsa verde | 2 | 4 |
 | steamed-masa-parcels-red-chilli-chicken | Tamal | Classic | 2 | 4 |
 | steamed-whole-sea-bass-ginger-spring-onions-sizzling-oil | Cantonese steamed whole fish | Classic | 3 | 5 |

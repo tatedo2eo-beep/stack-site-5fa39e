@@ -1,0 +1,147 @@
+{
+  "slug": "peperonata-sweet-peppers-basil",
+  "title": "Peperonata (Sweet Peppers with Tomato and Basil)",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "peperonata",
+  "dish_title": "Peperonata",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Red and yellow pepper strips browned in olive oil, braised with tomatoes and basil, sharpened with a splash of vinegar.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "30 cm frying pan with lid",
+    "wooden spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Peppers",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Peppers",
+      "qty": 2,
+      "unit": "pc",
+      "item": "red peppers, cut into 6 mm strips",
+      "note": "about 450 g before trimming"
+    },
+    {
+      "group": "Peppers",
+      "qty": 2,
+      "unit": "pc",
+      "item": "yellow peppers, cut into 6 mm strips",
+      "note": "about 450 g before trimming"
+    },
+    {
+      "group": "Peppers",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, halved and cut into 6 mm slices",
+      "note": "about 170 g"
+    },
+    {
+      "group": "Peppers",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Tomatoes",
+      "qty": 400,
+      "unit": "g",
+      "item": "tin diced tomatoes, drained, 60 ml juice kept"
+    },
+    {
+      "group": "Tomatoes",
+      "qty": 2,
+      "unit": "pc",
+      "item": "basil sprigs, plus a small sprig to serve"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "distilled white vinegar"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften the peppers",
+      "text": "Put the oil, peppers, onion and 1/2 tsp salt in the cold frying pan, then cook over medium-high heat for 6-8 min, stirring now and then, until softened and lightly browned at the edges. Browning builds sweetness and depth."
+    },
+    {
+      "title": "Add the aromatics",
+      "text": "Lower the heat to medium, add the garlic and chilli flakes and cook 5-6 min more, until the peppers have lost their stiffness and the onion is golden."
+    },
+    {
+      "title": "Braise with tomato",
+      "text": "Stir in the drained tomatoes, the 60 ml juice and the basil sprigs. Cover, turn the heat to low and cook for about 15 min, until the peppers are silky and the juices have mostly cooked away."
+    },
+    {
+      "title": "Finish and rest",
+      "text": "Remove the basil sprigs, stir in the vinegar and pepper and taste for salt. Leave to cool for at least 10 min so the flavours settle, then serve warm or at room temperature topped with a fresh basil sprig."
+    }
+  ],
+  "tips": [
+    "Use red, yellow or orange peppers; green ones are bitter here.",
+    "Slice the peppers evenly so they soften at the same rate.",
+    "Peperonata tastes even better the next day.",
+    "Lemon juice can replace the vinegar."
+  ],
+  "storage": "Refrigerate in a covered container up to 5 days. Serve at room temperature, or reheat gently until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 121,
+    "protein_g": 2.2,
+    "carbs_g": 13.4,
+    "sugar_g": 5.2,
+    "free_sugar_g": 0.0,
+    "fat_g": 7.2,
+    "satfat_g": 1.0,
+    "salt_g": 0.64,
+    "fibre_g": 3.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "peperonata-basic.jpg",
+  "image_alt": "Soft red and yellow pepper strips in tomato, topped with a basil sprig.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

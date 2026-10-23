@@ -1,0 +1,120 @@
+{
+  "slug": "green-beans-amandine-brown-butter",
+  "title": "Green Beans Amandine with Brown Butter",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "green-beans-almondine",
+  "dish_title": "Green beans almondine",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Almonds toasted and browned in butter with lemon, then tossed with green beans steam-cooked in the same pan.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "30 cm frying pan with lid",
+    "heatproof spatula",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Almond butter",
+      "qty": 30,
+      "unit": "g",
+      "item": "sliced (flaked) almonds"
+    },
+    {
+      "group": "Almond butter",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter, in pieces"
+    },
+    {
+      "group": "Almond butter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Beans",
+      "qty": 450,
+      "unit": "g",
+      "item": "green beans, stem ends trimmed"
+    },
+    {
+      "group": "Beans",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Beans",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon wedge, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the almonds",
+      "text": "Put the almonds in the dry frying pan over medium-low heat and stir often for about 6 min, until just golden. Toasting first gives them a head start so they finish evenly in the butter."
+    },
+    {
+      "title": "Brown the butter",
+      "text": "Add the butter and stir constantly for about 3 min, until it smells nutty and has turned golden brown with toasty specks. Pour the almonds and butter into the bowl and stir in the lemon juice, which stops the browning and sharpens the flavour."
+    },
+    {
+      "title": "Cook the beans",
+      "text": "Put the beans, water and salt in the same pan, cover and cook 8-10 min, stirring now and then, until nearly tender. Remove the lid, turn the heat to medium-high and cook 3-5 min more until the water has gone, so the beans are dry enough to hold the butter."
+    },
+    {
+      "title": "Toss and serve",
+      "text": "Off the heat, tip the almond butter over the beans and toss well. Serve with a lemon wedge."
+    }
+  ],
+  "tips": [
+    "Brown butter can burn in seconds; take it off the heat as soon as it is golden and nutty.",
+    "Trim the beans but leave them whole for the classic look.",
+    "Thin French beans (haricots verts) need only 5-6 min covered.",
+    "Use the same pan throughout; the brown bits add flavour."
+  ],
+  "storage": "Best served fresh. Refrigerate covered up to 3 days and reheat in a frying pan until piping hot (74 °C); the almonds soften on keeping. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 150,
+    "protein_g": 3.7,
+    "carbs_g": 9.5,
+    "sugar_g": 4.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 12.1,
+    "satfat_g": 5.5,
+    "salt_g": 0.75,
+    "fibre_g": 4.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "green-beans-almondine-basic.jpg",
+  "image_alt": "Green beans tossed with toasted sliced almonds, with a lemon wedge.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

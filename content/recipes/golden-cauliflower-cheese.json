@@ -1,0 +1,160 @@
+{
+  "slug": "golden-cauliflower-cheese",
+  "title": "Golden Cauliflower Cheese",
+  "category": "snacks-sides",
+  "cuisine": "British",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "cauliflower-cheese",
+  "dish_title": "Cauliflower cheese",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Boiled cauliflower florets baked in a mustard-spiked Cheddar sauce with more cheese on top until deep golden.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan",
+    "colander",
+    "medium saucepan",
+    "balloon whisk",
+    "1.5 litre oval baking dish"
+  ],
+  "ingredients": [
+    {
+      "group": "Cauliflower",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large cauliflower",
+      "note": "about 900 g, cut into 4 cm florets"
+    },
+    {
+      "group": "Cauliflower",
+      "qty": 2500,
+      "unit": "ml",
+      "item": "water, for boiling"
+    },
+    {
+      "group": "Cauliflower",
+      "qty": 18,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the cooking water",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter, plus extra for the dish"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 35,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 500,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "mustard powder"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 150,
+      "unit": "g",
+      "item": "mature Cheddar, coarsely grated",
+      "note": "microbial rennet"
+    },
+    {
+      "group": "Topping",
+      "qty": 40,
+      "unit": "g",
+      "item": "mature Cheddar, coarsely grated, for the top",
+      "note": "microbial rennet"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 200 °C (180 °C fan) and butter the baking dish."
+    },
+    {
+      "title": "Boil the cauliflower",
+      "text": "Bring the water and salt to the boil and cook the florets for 4-5 min, until a knife meets just a little resistance. Drain and leave them in the colander for a few minutes so the steam escapes; wet florets would thin the sauce. Arrange them rounded side up in the dish."
+    },
+    {
+      "title": "Make the white sauce",
+      "text": "Melt the 40 g butter in the medium pan over medium heat, stir in the flour and cook 2 min without letting it colour. Off the heat, whisk in the milk a little at a time, then bring to the boil, whisking, and simmer for 5 min. Cooking the flour fully removes its raw taste and gives a smooth, thick sauce."
+    },
+    {
+      "title": "Add the cheese",
+      "text": "Take the sauce off the heat and whisk in the mustard powder, cayenne, nutmeg, 1/4 tsp salt and the 150 g Cheddar until melted and glossy. Keeping it off the heat stops the cheese turning stringy or greasy."
+    },
+    {
+      "title": "Bake until golden",
+      "text": "Pour the sauce over the cauliflower, scatter over the 40 g Cheddar and bake for 20-25 min, until bubbling at the edges and deep golden on top. Rest for 5 min so the sauce settles before serving."
+    }
+  ],
+  "tips": [
+    "Use a well-flavoured mature Cheddar; mild cheese gets lost in the sauce.",
+    "Do not overboil the cauliflower, as it softens further in the oven.",
+    "Mustard powder sharpens the cheese flavour without tasting of mustard.",
+    "Bake in individual dishes for a neat supper."
+  ],
+  "storage": "Refrigerate covered up to 3 days. Reheat in a 180 °C (160 °C fan) oven, covered, for about 20 min until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 291,
+    "protein_g": 13.5,
+    "carbs_g": 15.6,
+    "sugar_g": 6.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 20.2,
+    "satfat_g": 11.8,
+    "salt_g": 1.67,
+    "fibre_g": 2.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "cauliflower-cheese-basic.jpg",
+  "image_alt": "An oval baking dish of cauliflower cheese with a bubbling golden-brown top.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Food Network Kitchen"
+  ]
+}

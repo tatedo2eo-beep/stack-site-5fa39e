@@ -1,0 +1,98 @@
+{
+  "slug": "steamed-broccoli-with-lemon",
+  "title": "Steamed Broccoli with Lemon",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "steamed-blanched",
+  "dish_title": "Steamed/blanched",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Broccoli florets and peeled stalk steamed for 4-5 min until bright green and just tender, salted and served with lemon.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 6,
+  "difficulty": "easy",
+  "equipment": [
+    "deep wide pan with lid",
+    "steamer basket or insert",
+    "sharp knife",
+    "tongs"
+  ],
+  "ingredients": [
+    {
+      "group": "Broccoli",
+      "qty": 680,
+      "unit": "g",
+      "item": "broccoli (1 medium head)"
+    },
+    {
+      "group": "Broccoli",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "water, for steaming"
+    },
+    {
+      "group": "To finish",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the broccoli",
+      "text": "Cut the florets away where their stems meet the main stalk. Trim off the woody base, peel away the tough outer 3 mm of the stalk and slice it into bite-sized pieces; split any large florets so everything cooks at the same rate."
+    },
+    {
+      "title": "Steam until just tender",
+      "text": "Bring about 2.5 cm of water to the boil in the pan, set the broccoli in the steamer basket above it and cover. After 4-5 min the florets should be vivid green and a knife should slip into a stalk piece with slight resistance. Steam cooks gently and evenly, so the florets stay firm rather than waterlogged."
+    },
+    {
+      "title": "Season and serve",
+      "text": "Lift the broccoli out straight away so it stops cooking, then sprinkle with the salt. Serve on a warm plate with lemon wedges for squeezing; the acid brightens the flavour, but add it at the table, as it dulls the green colour if it sits."
+    }
+  ],
+  "tips": [
+    "Overcooking is the main mistake: broccoli turns olive-drab and sulphurous within a couple of minutes, so start checking at 4 min.",
+    "Do not throw away the stalk; peeled, it is sweet and tender.",
+    "Keep the water below the basket so the broccoli steams rather than boils.",
+    "Drizzle with good olive oil or melted butter if you like."
+  ],
+  "storage": "Best eaten straight away. Refrigerate leftovers covered up to 3 days and reheat briefly in a steamer or microwave until piping hot (74 °C), or eat cold in salads. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 52,
+    "protein_g": 4.2,
+    "carbs_g": 10.2,
+    "sugar_g": 2.6,
+    "free_sugar_g": 0.1,
+    "fat_g": 0.6,
+    "satfat_g": 0.2,
+    "salt_g": 0.85,
+    "fibre_g": 3.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "steamed-blanched-basic.jpg",
+  "image_alt": "Bright green steamed broccoli florets on a dark plate with a lemon wedge.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Food Network Kitchen"
+  ]
+}

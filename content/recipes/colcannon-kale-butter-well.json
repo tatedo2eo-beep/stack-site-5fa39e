@@ -1,0 +1,147 @@
+{
+  "slug": "colcannon-kale-butter-well",
+  "title": "Colcannon with Kale and a Butter Well",
+  "category": "snacks-sides",
+  "cuisine": "Irish",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "colcannon",
+  "dish_title": "Colcannon",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Potatoes mashed with milk infused by butter-softened kale and spring onions, served with a pool of butter in a well.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan",
+    "30 cm frying pan with lid",
+    "fine-mesh sieve",
+    "potato masher"
+  ],
+  "ingredients": [
+    {
+      "group": "Potatoes",
+      "qty": 900,
+      "unit": "g",
+      "item": "floury or all-rounder potatoes (such as Yukon Gold), peeled",
+      "note": "sliced 1 cm thick"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "water, for boiling"
+    },
+    {
+      "group": "Potatoes",
+      "qty": 18,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the cooking water",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Greens",
+      "qty": 225,
+      "unit": "g",
+      "item": "curly kale"
+    },
+    {
+      "group": "Greens",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Greens",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Greens",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Greens",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Greens",
+      "qty": 8,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced",
+      "note": "about 90 g"
+    },
+    {
+      "group": "Greens",
+      "qty": 350,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "To serve",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil the potatoes",
+      "text": "Put the potatoes and 1 tbsp salt in the saucepan, cover with water by 2.5 cm and bring to the boil. Simmer for 18-22 min, until a knife slides in and out with no resistance."
+    },
+    {
+      "title": "Cook the greens",
+      "text": "Meanwhile strip the kale leaves from the stems, slice the stems thinly and cut the leaves into 2.5 cm pieces. Melt the 85 g butter in the frying pan over medium heat and cook the stems with 1 tbsp water, 1 tsp salt and the pepper for 6-8 min until soft. Add the leaves and spring onions for 1-2 min until wilted, then pour in the milk, bring to a simmer, take off the heat and cover; the warm milk picks up the flavour of the greens."
+    },
+    {
+      "title": "Mash",
+      "text": "Drain the potatoes, return them to the pan and stir over low heat for 30 seconds to drive off moisture, which makes a fluffier mash. Strain the hot milk over them, keeping the greens back, and mash to the texture you like. Fold the greens through and taste for salt."
+    },
+    {
+      "title": "Make the butter well",
+      "text": "Pile the colcannon into a warm bowl, press a deep well into the centre with the back of a spoon and drop in the 30 g butter. Serve as it melts into a golden pool."
+    }
+  ],
+  "tips": [
+    "Floury or all-rounder potatoes give a light mash; waxy ones turn gluey.",
+    "Never mash in a food processor, which makes potatoes sticky.",
+    "Green cabbage works instead of kale.",
+    "Leftovers fry well into crisp potato cakes."
+  ],
+  "storage": "Refrigerate covered up to 3 days. Reheat in a pan with a splash of milk, stirring, or in a covered dish in the oven, until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 306,
+    "protein_g": 6.4,
+    "carbs_g": 31.8,
+    "sugar_g": 5.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 18.2,
+    "satfat_g": 11.1,
+    "salt_g": 1.84,
+    "fibre_g": 4.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "colcannon-basic.jpg",
+  "image_alt": "A bowl of mashed potato flecked with dark kale, with melted butter pooling in a well.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}
