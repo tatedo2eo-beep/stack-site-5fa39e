@@ -19,7 +19,7 @@ function designHome(ctx, d, P, data) {
   const live = new Map(chapters.map(c => [c.key, c]));
   const chName = k => (t.chapters[k] && t.chapters[k].name) || k;
   const pHref = p => live.has(p.ch) ? u(`chapter/${p.ch}/`) : u('chapters/');
-  const pNote = p => live.has(p.ch) ? `${live.get(p.ch).n} recipe${live.get(p.ch).n === 1 ? '' : 's'} →` : 'Chapter coming soon';
+  const pNote = p => live.has(p.ch) ? `${live.get(p.ch).n} recipe${live.get(p.ch).n === 1 ? '' : 's'} →` : 'Browse chapters →';
   const pUrl = p => (p ? u(p.url) : '');
   const pAlt = p => esc(ctx.photoAlt ? ctx.photoAlt(p.url, chName(p.ch)) : chName(p.ch));
   const pImg = (slot, p, extra = '') => p ? `<img data-slot="${slot}" src="${pUrl(p)}" alt="${pAlt(p)}" loading="lazy" decoding="async"${/width=/.test(extra) || !ctx.photoWH ? '' : ctx.photoWH(p.url)}${extra}>` : '';

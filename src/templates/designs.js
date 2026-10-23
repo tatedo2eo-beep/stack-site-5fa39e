@@ -90,7 +90,7 @@ function chrome(ctx, d, p) {
   } else {
     top = `<div class="mast"><div class="wrap mastin"><span class="dateline">${sub}</span>${brand}${tools}</div></div><nav class="mainnav" aria-label="Main"><div class="wrap navin">${links(false)}<span class="navq">${qs}</span></div></nav>`;
   }
-  const foot = `<div class="wrap footin"><span class="fb">${brandTxt}</span>${moreL}<a class="soon" href="#" data-consent-open>Cookie settings</a><span>${sub}</span></div><div class="wrap fine"><p>${esc(t.ui.originalNote)}</p><p>Nutrition values are estimates per serving and not medical advice. Always check product labels for allergens. ${cfg.noindex ? '<b>Test deployment:</b> not indexed, ads and payments are placeholders.' : ''} © ${new Date().getFullYear()} ${esc(cfg.brand)}</p></div>`;
+  const foot = `<div class="wrap footin"><span class="fb">${brandTxt}</span>${moreL}<a class="soon" href="#" data-consent-open>Cookie settings</a><span>${sub}</span></div><div class="wrap fine"><p>${esc(t.ui.originalNote)}</p><p>Nutrition values are estimates per serving and not medical advice. Always check product labels for allergens. © ${new Date().getFullYear()} ${esc(cfg.brand)}</p></div>`;
   return { top, toc, foot };
 }
 

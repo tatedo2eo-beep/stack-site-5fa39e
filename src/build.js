@@ -321,18 +321,16 @@ function placeholderSvg(label) {
     if (cfg.healthyLabels !== false) { emit(P.highProteinPage(ctx, hp, R.HP_MIN)); emit(P.whoPage(ctx, who, recipes.length)); }
     emit(P.plansPage(ctx));
     const frag = n => fs.readFileSync(path.join(ROOT, 'content/pages', n), 'utf8')
-      .replace(/\{\{BRAND\}\}/g, cfg.brand).replace(/\{\{EMAIL\}\}/g, cfg.contactEmail + (cfg.contactEmailIsPlaceholder ? ' (placeholder address)' : ''))
+      .replace(/\{\{BRAND\}\}/g, cfg.brand).replace(/\{\{EMAIL\}\}/g, cfg.contactEmail)
       .replace(/\{\{UPDATED\}\}/g, new Date().toISOString().slice(0, 10)).replace(/\{\{BASE\}\}/g, cfg.basePath)
       .replace(/<!--HL-->([\s\S]*?)<!--\/HL-->/g, cfg.healthyLabels === false ? '' : '$1');
     emit({ ...P.simplePage(ctx, 'calculator/', 'Daily needs calculator: calories, protein and more', frag('calculator.html'), 'Work out your daily calories, protein, fat, carbs, fibre, free sugar, salt and water, metric, with the source of every number.'), navKey: 'calculator', scripts: [assets.js.calculator], styles: [assets.calcCss] });
-    emit(P.simplePage(ctx, 'macro-meals/', 'Macro Meals (coming soon)', frag('macro-meals.html'), 'Macro Meals: high-protein recipes with at least 10 g protein per 100 kcal. Coming soon.'));
     emit(P.simplePage(ctx, 'about/', 'About', frag('about.html'), `About ${cfg.brand}: an independent recipe site with metric recipes, nutrition per serving and EU allergens, written for this site.`));
     emit(P.simplePage(ctx, 'contact/', 'Contact', frag('contact.html'), `Contact ${cfg.brand}: questions, corrections or a recipe that didn't work. Email us or use the contact form.`));
     emit(P.simplePage(ctx, 'privacy/', 'Privacy Policy', frag('privacy.html'), 'How we handle your data: cookies, Google AdSense and third-party ads, analytics, your GDPR rights and children\'s privacy.'));
     emit(P.simplePage(ctx, 'terms/', 'Terms of Use', frag('terms.html'), `The terms for using ${cfg.brand}: personal use of recipes, copyright, nutrition and allergen estimates, food safety and planned features.`));
     emit(P.simplePage(ctx, 'cookie-policy/', 'Cookie Policy', frag('cookie-policy.html'), 'Which cookies and local storage this site uses, what they do, and how to accept, reject or customise them.'));
     emit(P.simplePage(ctx, 'refund-policy/', 'Refund Policy', frag('refund-policy.html'), 'Cancellation and refund terms for the $4.99/month and $39.99/year subscriptions, including the EU 14-day withdrawal right.'));
-    emit(P.simplePage(ctx, 'login/', 'Sign in', frag('login.html'), `Sign in to ${cfg.brand}. Accounts and Premium are coming soon.`));
     emit(P.simplePage(ctx, '404.html', 'Page not found', frag('404.html'), 'Page not found.'), '404.html');
     pages[pages.length - 1].loc = null;
   }
@@ -343,7 +341,7 @@ function placeholderSvg(label) {
     console.log(C.grn(`Photo rule OK: featured photos per design ${JSON.stringify(pc.counts)}, none shared or repeated.`));
   }
   writeFile('img/og.png', fs.readFileSync(path.join(ROOT, 'src/assets/og.png')));
-  writeFile('img/ph/coming-soon.svg', placeholderSvg('Photo coming soon'));
+  writeFile('img/ph/coming-soon.svg', placeholderSvg(''));
   for (const k of R.CATEGORIES) writeFile(`img/ph/${k}.svg`, placeholderSvg(require(path.join(ROOT, 'i18n', cfg.locales[0] + '.js')).categories[k]));
   const favSvg = rx => `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="${rx}" fill="#0b0a08"/><g fill="#d4a24c"><rect x="14" y="16" width="36" height="8" rx="4"/><rect x="12" y="28" width="40" height="6" rx="3" opacity=".75"/><rect x="14" y="38" width="36" height="10" rx="5"/></g></svg>`;
   writeFile('favicon.svg', favSvg(14));

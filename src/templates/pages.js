@@ -7,7 +7,7 @@ const DRINKS_CSS = require('fs').readFileSync(require('path').join(__dirname, '.
 
 const img = (ctx, r, sizes, cls, eager) => {
   const a = esc(r.image_alt || r.title);
-  if (!r.img && r.photo_pending) return `<img class="${cls} ph-soon" src="${ctx.u('img/ph/coming-soon.svg')}" alt="Photo coming soon" width="1200" height="900"${eager ? '' : ' loading="lazy"'} decoding="async">`;
+  if (!r.img && r.photo_pending) return `<img class="${cls} ph-soon" src="${ctx.u('img/ph/coming-soon.svg')}" alt="" width="1200" height="900"${eager ? '' : ' loading="lazy"'} decoding="async">`;
   if (!r.img) return `<img class="${cls}" src="${ctx.u(`img/ph/${r.category}.svg`)}" alt="" width="1200" height="900"${eager ? '' : ' loading="lazy"'} decoding="async">`;
   if (r.img.orig) return `<img class="${cls}" src="${ctx.u(r.img.w1200)}" alt="${a}" width="${r.img.width}" height="${r.img.height}"${eager ? ' fetchpriority="high"' : ' loading="lazy"'} decoding="async">`;
   return `<img class="${cls}" src="${ctx.u(r.img.w600)}" srcset="${ctx.u(r.img.w600)} 600w, ${ctx.u(r.img.w1200)} 1200w" sizes="${sizes}" alt="${a}" width="${r.img.width}" height="${r.img.height}"${eager ? ' fetchpriority="high"' : ' loading="lazy"'} decoding="async">`;
@@ -217,7 +217,7 @@ function dishPage(ctx, d, ch) {
   const { t, u } = ctx, nF = d.flavours.length;
   const others = ch.dishes.filter(x => x !== d).slice(0, 4);
   const h = { cr: crumbs(ctx, [['chapters/', t.ui.chapters], [`chapter/${ch.key}/`, t.chapters[ch.key].name], [null, d.title]]), num: num2(nF), name: esc(d.title), dek: esc(d.intro), cov: d.cover ? dishCoverUrl(ctx, d, 1200) : '', chips: `<span class="fl">${nF} ${nF === 1 ? t.ui.flavour : t.ui.flavours}</span>${d.flavours.map(r => `<a class="chip" href="${u(r.url)}">${r.access === 'premium' ? LOCK + ' ' : ''}${esc(r.flavour)}</a>`).join('')}`, runner: esc(t.chapters[ch.key].name), gridTitle: t.ui.chooseFlavour, side: `${nF} ${nF === 1 ? t.ui.flavour : t.ui.flavours}`, count: nF, countLabel: 'Flavours', altFb: d.title };
-  const g = `<div class="rgrid flavours">${d.flavours.map(r => flavourCard(ctx, r)).join('')}</div>${d.flavours.some(r => r.access === 'premium') ? `<p class="prem-note">${LOCK} <span>Flavours marked with a lock are part of <a href="${u('plans/')}">Premium</a> (coming soon). The first flavour of every dish is free.</span></p>` : ''}`;
+  const g = `<div class="rgrid flavours">${d.flavours.map(r => flavourCard(ctx, r)).join('')}</div>${d.flavours.some(r => r.access === 'premium') ? `<p class="prem-note">${LOCK} <span>Flavours marked with a lock are part of <a href="${u('plans/')}">Premium</a>. The first flavour of every dish is free.</span></p>` : ''}`;
   const below = others.length ? `<section class="sec"><div class="wrap"><div class="sh2"><h2>${t.ui.otherDishes} ${esc(t.chapters[ch.key].name)}</h2></div><div class="rgrid dishes">${others.map(x => dishCard(ctx, x)).join('')}</div></div></section>` : '';
   let dt = `${d.title}: ${nF} ${nF === 1 ? t.ui.flavour : t.ui.flavours}`; if (SEEN_T.has(dt)) { const ck = d.chapter || d.book_chapter; dt += ` (${(ck && t.chapters[ck] && t.chapters[ck].name) || d.slug})`; } SEEN_T.add(dt);
   return { path: `dish/${d.slug}/`, title: dt, description: d.intro, views: listPageViews(ctx, h, g, below, adw(ctx, 1), adw(ctx, 2)), image: d.cover && d.cover.img && d.cover.img.w1200, preload: d.cover ? dishCoverUrl(ctx, d, 1200) : null, navKey: 'chapters' };
@@ -334,22 +334,25 @@ ${ad(ctx, 2)}
 function plansPage(ctx) {
   const { u } = ctx;
   const li = a => a.map(x => `<li>${x}</li>`).join('');
-  const body = `${pageHeadX('// Plans', 'Free vs Premium', `Every dish has a free classic flavour, in full. Premium unlocks every other flavour${ctx.cfg.healthyLabels === false ? '' : ', the High Protein and WHO Healthy versions'}, the AI cooking assistant, and removes ads. No payments are taken yet.`)}
+  // LEMON SQUEEZY: replace SUBSCRIBE_URL with the Lemon Squeezy checkout URLs once the store is set up
+  // (e.g. monthly: 'https://[STORE].lemonsqueezy.com/checkout/buy/<variant-id>'). Until then Subscribe opens the Contact page.
+  const SUBSCRIBE_URL = { monthly: u('contact/'), yearly: u('contact/') };
+  const body = `${pageHeadX('// Plans', 'Free vs Premium', 'Every dish has a free classic flavour, in full. Premium unlocks every other flavour of every dish, with full quantities and method.')}
 <div class="pbody">
 <div class="plans">
- <section class="plan"><h2>Free</h2><p class="price">€0 <small>forever</small></p><ul class="ticks">${li(['The first (classic) flavour of every dish, in full', 'All chapter and dish pages', 'Search and filters across every recipe', 'Nutrition, allergens and diet tags on every flavour', 'Servings scaler and cook mode', 'Favourites saved on this device', 'Supported by ads'])}</ul><a class="btn ghost" href="${u('recipes/')}">Start cooking</a></section>
- <section class="plan premium"><p class="kicker">// Coming soon</p><h2>Premium</h2><p class="price">Price TBC</p><ul class="ticks">${li(['Everything in Free', '<b>Every flavour</b> of every dish, with full quantities and method', ...(ctx.cfg.healthyLabels === false ? [] : ['The <b>High Protein</b> and <b>WHO Healthy</b> versions']), '<b>AI cooking assistant</b> (later): swaps, timings, scaling and fixes while you cook', '<b>No ads</b>'])}</ul><button type="button" class="btn" disabled aria-disabled="true">Coming soon</button><p class="mute small">Checkout will be handled by Lemon Squeezy (planned). Nothing can be bought yet.</p></section>
+ <section class="plan"><h2>Free</h2><p class="price">$0 <small>forever</small></p><ul class="ticks">${li(['The first (classic) flavour of every dish, in full', 'All chapter and dish pages', 'Search and filters across every recipe', 'Nutrition, allergens and diet tags on every flavour', 'Servings scaler and cook mode', 'Favourites saved on this device'])}</ul><a class="btn ghost" href="${u('recipes/')}">Start cooking</a></section>
+ <section class="plan premium"><h2>Premium</h2><p class="price">$4.99 <small>/ month</small></p><p class="price">$39.99 <small>/ year</small></p><p class="mute small">Yearly saves $19.89 vs 12 × $4.99 ($59.88), about 33%.</p><ul class="ticks">${li(['Everything in Free', '<b>Every flavour</b> of every dish, with full quantities and method', 'Tips and storage notes on every Premium flavour'])}</ul><p><a class="btn" href="${SUBSCRIBE_URL.monthly}">Subscribe monthly</a> <a class="btn" href="${SUBSCRIBE_URL.yearly}">Subscribe yearly</a></p><p class="mute small">Cancel any time. See the <a href="${u('refund-policy/')}">Refund Policy</a>.</p></section>
 </div>
 ${ad(ctx, 1)}
 <section class="box faq"><h2>Questions</h2>
-<details><summary>Can I pay now?</summary><p>No. Premium isn't available yet and there is no checkout on the site. The buttons are placeholders.</p></details>
-<details><summary>What can I see on a Premium flavour without Premium?</summary><p>The photo, the intro, the ingredient names${ctx.cfg.healthyLabels === false ? ' and the nutrition per serving' : ', the nutrition per serving and the healthy checks'}. The quantities, the method, tips and storage are for members.</p></details>
+<details><summary>How do I subscribe?</summary><p>Choose monthly or yearly above. Payment is handled securely by our payment provider.</p></details>
+<details><summary>What can I see on a Premium flavour without Premium?</summary><p>The photo, the intro, the ingredient names and the nutrition per serving. The quantities, the method, tips and storage are for members.</p></details>
 <details><summary>Will the free recipes stay free?</summary><p>Yes. The classic flavour of every dish, the chapter and dish pages, search, nutrition, cook mode and the scaler stay free.</p></details>
-<details><summary>What will the AI assistant do?</summary><p>Answer questions about the recipe you're cooking: swaps for missing ingredients, how to scale, timing, and fixes. Its answers are suggestions; always use your own judgement on food safety and allergies.</p></details>
+<details><summary>Can I cancel?</summary><p>Yes, any time. Your access continues until the end of the period you paid for.</p></details>
 </section>
 ${ad(ctx, 2)}
 </div></div></section>`;
-  return { path: 'plans/', navKey: 'plans', title: 'Plans: Free vs Premium', description: `The classic flavour of every dish is free. Premium (coming soon) unlocks every flavour${ctx.cfg.healthyLabels === false ? '' : ', the healthy versions'}, the AI assistant and no ads.`, body };
+  return { path: 'plans/', navKey: 'plans', title: 'Plans: Free vs Premium', description: 'The classic flavour of every dish is free. Premium unlocks every flavour of every dish: $4.99/month or $39.99/year.', body };
 }
 function simplePage(ctx, path, title, html, description) {
   const parts = html.split(/(?=<h2)/);

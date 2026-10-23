@@ -41,7 +41,7 @@ ${(p.scripts || []).map(s => `<script src="${s}" defer></script>`).join('')}
 
 // Exactly two of these per page. Reserved height prevents layout shift when real ads arrive.
 function ad(ctx, n) {
-  return `<aside class="ad-slot" data-ad-slot="${n}" aria-label="${ctx.t.ui.ad} (${ctx.t.ui.adPlaceholder.toLowerCase()})"><span>${ctx.t.ui.ad} · ${ctx.t.ui.adPlaceholder} ${n}</span></aside>`;
+  return `<aside class="ad-slot" data-ad-slot="${n}" aria-label="${ctx.t.ui.ad}"><span>${ctx.t.ui.ad}</span></aside>`;
 }
 
 module.exports = { layout, ad };

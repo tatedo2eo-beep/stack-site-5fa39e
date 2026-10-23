@@ -250,7 +250,7 @@
     if (pr.capped) protIds.push('S13');
     stat('Protein', pr.g + ' g a day', pr.gPerKg + ' g per kg \u00b7 range ' + pr.range[0] + '\u2013' + pr.range[1] + ' g/kg (' + pr.rangeG[0] + '\u2013' + pr.rangeG[1] + ' g) \u00b7 minimum ' + pr.minG + ' g (' + (pr.older ? '1.0 g/kg over 65' : 'EU 0.83 g/kg; US RDA 0.8 g/kg') + ')',
       protWhy,
-      '<p class="nc-stat-why">Split it over 3\u20134 meals: about ' + pr.perMealG[0] + '\u2013' + pr.perMealG[1] + ' g each. <strong>With our recipes:</strong> <a href="' + BASE + 'macro-meals/">Macro Meals</a> (coming soon) will give at least ' + C.MACRO_MEALS_G_PER_100KCAL + ' g protein per 100 kcal, so ' + pr.g + ' g of protein would fit in about ' + fmt(pr.mmKcal) + ' kcal of them.</p>' + srcs(protIds));
+      '<p class="nc-stat-why">Split it over 3\u20134 meals: about ' + pr.perMealG[0] + '\u2013' + pr.perMealG[1] + ' g each.</p>' + srcs(protIds));
 
     stat('Fat', res.fat.g + ' g a day', res.fat.pct + '% of calories \u00b7 don\u2019t go below about ' + res.fat.minG + ' g (20%) \u00b7 saturated fat under ' + res.fat.satMaxG + ' g',
       'Fat is essential: it carries vitamins A, D, E and K and supplies fats your body can\u2019t make. WHO suggests keeping it to about 30% of calories, mostly from olive oil, nuts, seeds and fish rather than butter and fatty meat.',

@@ -41,7 +41,7 @@ const S = module.exports = {
     seeAll: 'See all recipes →', comingSoon: 'Coming soon', draft: 'Draft', placeholder: 'Placeholder',
     prev: '← Prev', chapters: 'Chapters', flavours: 'flavours', flavour: 'flavour', free: 'Free', premium: 'Premium',
     lockTitle: 'Unlock all flavours with Premium', lockText: 'This flavour is part of Premium. You can see the ingredients and nutrition; the quantities and the full method are for members.',
-    lockCta: 'See Premium', lockSoon: 'Premium is coming soon. No payments are taken yet.', previewOn: 'Premium preview is on (test only).', previewOff: 'Turn off',
+    lockCta: 'See Premium', lockSoon: 'Premium: $4.99/month or $39.99/year.', previewOn: 'Premium preview is on (test only).', previewOff: 'Turn off',
     chooseFlavour: 'Choose your flavour', otherDishes: 'More dishes in', next: 'Next →', exit: 'Exit cook mode', moreIn: 'More in', backTo: 'Back to'
   }
 };
