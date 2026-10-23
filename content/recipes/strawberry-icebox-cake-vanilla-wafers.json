@@ -1,0 +1,158 @@
+{
+  "slug": "strawberry-icebox-cake-vanilla-wafers",
+  "title": "Strawberry Icebox Cake with Vanilla Wafers",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Strawberry",
+  "flavour_order": 22,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "A chilled loaf of vanilla wafers layered with vanilla whipped cream and a quick strawberry compote, with strawberry halves round the sides, set in the fridge then firmed briefly in the freezer, instead of sponge and ice cream.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A striking layered icebox cake built from softened vanilla wafers, strawberry compote and vanilla cream, chilled until sliceable.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "colander or sieve",
+    "medium saucepan",
+    "medium bowl set over a bowl of iced water",
+    "stand mixer or hand mixer",
+    "23 x 10 cm loaf tin",
+    "cling film",
+    "offset spatula",
+    "23 x 33 cm rimmed baking tray",
+    "baking paper",
+    "sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Strawberry compote",
+      "qty": 680,
+      "unit": "g",
+      "item": "fresh or frozen hulled strawberries, quartered"
+    },
+    {
+      "group": "Strawberry compote",
+      "qty": 45,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Strawberry compote",
+      "qty": 15,
+      "unit": "ml",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Whipped cream",
+      "qty": 355,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Whipped cream",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Whipped cream",
+      "qty": 7,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Whipped cream",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "To assemble",
+      "qty": 40,
+      "unit": "pc",
+      "item": "vanilla wafer biscuits (128 g)"
+    },
+    {
+      "group": "To assemble",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large strawberries, hulled and halved lengthways"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Macerate",
+      "text": "Toss 680 g quartered strawberries with 45 g caster sugar and stand until juice pools, about 15 min, then drain."
+    },
+    {
+      "title": "Simmer",
+      "text": "Simmer the drained strawberries with 15 ml lemon juice over medium heat, stirring now and then, until soft but still whole and saucy, about 15 min, then chill over an ice bath until cool, about 30 min."
+    },
+    {
+      "title": "Whip",
+      "text": "Whip 355 ml double cream with 1½ tsp vanilla, 7 g icing sugar and ⅛ tsp salt on medium-high to medium-stiff peaks, about 2-3 min."
+    },
+    {
+      "title": "Layer",
+      "text": "Line a 23 x 10 cm loaf tin with cling film, spread 120 ml cream over the base and press in 8 vanilla wafer biscuits, then stand the halved strawberries round the sides with the cut side against the film."
+    },
+    {
+      "title": "Build",
+      "text": "Spoon 60 ml compote over the wafers and round the strawberries, top with 120 ml cream and 8 more wafers, then spoon over another 60 ml compote, repeating this layering twice more to make 4 layers in total and finishing with a thin layer of cream."
+    },
+    {
+      "title": "Chill",
+      "text": "Press cling film onto the surface and chill until the wafers soften, 6-24 h."
+    },
+    {
+      "title": "Freeze",
+      "text": "Turn the cake out onto a lined tray, peel off the film and freeze until firm enough to slice, about 1 h, or up to 1 week."
+    },
+    {
+      "title": "Slice",
+      "text": "Lift onto a board, remove the paper, stand 5 min, then cut 8 slices with a hot knife wiped dry between cuts."
+    }
+  ],
+  "tips": [
+    "Drain the macerated strawberries well so the compote doesn't turn the layers watery.",
+    "Chill the compote fully before layering so it doesn't melt the cream.",
+    "Freeze the assembled cake briefly before slicing so the layers hold their shape."
+  ],
+  "storage": "Keep any sliced portions frozen on a lined tray and let them soften for 10 min before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 288,
+    "protein_g": 2.7,
+    "carbs_g": 27.3,
+    "sugar_g": 18.6,
+    "free_sugar_g": 12.2,
+    "fat_g": 19.5,
+    "satfat_g": 11.0,
+    "salt_g": 0.26,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A sliced loaf-shaped icebox cake showing neat layers of vanilla cream, softened wafers and strawberry compote.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

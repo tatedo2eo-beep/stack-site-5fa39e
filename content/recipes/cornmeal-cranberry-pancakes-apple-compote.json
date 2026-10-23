@@ -1,0 +1,242 @@
+{
+  "slug": "cornmeal-cranberry-pancakes-apple-compote",
+  "title": "Cornmeal-Cranberry Pancakes with Apple Compote",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Cranberry",
+  "flavour_order": 17,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "A cornmeal batter made with warm melted butter and milk, fresh cranberries scattered on each pancake in the pan, served with a slow-cooked spiced apple compote and a caramel cream sauce instead of maple syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Golden cornmeal pancakes studded with tart cranberries, served with spiced apple compote and a rich caramel sauce.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 90,
+  "difficulty": "medium",
+  "equipment": [
+    "2 saucepans",
+    "small saucepan",
+    "small bowl",
+    "medium bowl",
+    "large bowl",
+    "whisk",
+    "nonstick frying pan (30 cm) or griddle",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Apple compote",
+      "qty": 2,
+      "unit": "pc",
+      "item": "Gala apples"
+    },
+    {
+      "group": "Apple compote",
+      "qty": 2,
+      "unit": "pc",
+      "item": "Granny Smith apples"
+    },
+    {
+      "group": "Apple compote",
+      "qty": 110,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Apple compote",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Apple compote",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "mixed spice"
+    },
+    {
+      "group": "Apple compote",
+      "qty": 480,
+      "unit": "ml",
+      "item": "cloudy apple juice"
+    },
+    {
+      "group": "Apple compote",
+      "qty": 80,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Apple compote",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cornflour, mixed with 2 tsp water"
+    },
+    {
+      "group": "Caramel sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cream cheese"
+    },
+    {
+      "group": "Caramel sauce",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Caramel sauce",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Caramel sauce",
+      "qty": 7,
+      "unit": "g",
+      "item": "butter"
+    },
+    {
+      "group": "Caramel sauce",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Batter",
+      "qty": 140,
+      "unit": "g",
+      "item": "butter, in pieces, plus more for the pan"
+    },
+    {
+      "group": "Batter",
+      "qty": 480,
+      "unit": "ml",
+      "item": "milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 256,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 80,
+      "unit": "g",
+      "item": "yellow cornmeal"
+    },
+    {
+      "group": "Batter",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 8,
+      "unit": "tsp",
+      "item": "baking powder (2 tbsp plus 2 tsp)"
+    },
+    {
+      "group": "Batter",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 140,
+      "unit": "g",
+      "item": "fresh cranberries, chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "maple syrup (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simmer",
+      "text": "Peel, core and cut 2 Gala and 2 Granny Smith apples into 2.5 cm pieces, then bring them to the boil with 110 g light brown sugar, ½ tsp salt, ¾ tsp mixed spice, 480 ml apple juice and 80 ml water, and simmer until soft and saucy, about 75 min, stirring in the cornflour mixture near the end and keeping warm."
+    },
+    {
+      "title": "Caramel",
+      "text": "Cook 2 tbsp caster sugar in a small pan over medium-high heat to a dark caramel without stirring, then carefully whisk in 120 ml double cream and 7 g butter off the heat, return to low heat with a pinch of salt and simmer until smooth, stirring 3 tsp of it into 2 tsp cream cheese until dissolved before whisking back into the sauce and keeping warm."
+    },
+    {
+      "title": "Warm Milk",
+      "text": "Warm 140 g butter with 480 ml milk over medium-low heat until the butter melts, then cool until lukewarm, about 15 min."
+    },
+    {
+      "title": "Mix Eggs",
+      "text": "Beat 4 eggs, slowly stir in 120 ml of the warm milk mixture, then stir in the rest."
+    },
+    {
+      "title": "Combine",
+      "text": "Whisk 256 g plain flour, 80 g cornmeal, 2 tbsp sugar, 2 tbsp plus 2 tsp baking powder and 1½ tsp salt, then stir in the egg mixture a little at a time just until moistened and lumpy."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat a griddle over medium-high heat until water sizzles, butter it lightly, add 3-4 tbsp batter per 10 cm pancake and sprinkle with the chopped cranberries as soon as it sets."
+    },
+    {
+      "title": "Flip",
+      "text": "Cook until bubbles break on the surface, flip and cook about 30 s more until lightly browned, repeating with the rest of the batter."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve the pancakes with the apple compote and a drizzle of the caramel sauce or maple syrup."
+    }
+  ],
+  "tips": [
+    "Let the caramel darken fully before adding the cream - it gives the sauce its depth of flavour.",
+    "Cool the milk and butter mixture until lukewarm before adding to the eggs so they don't scramble.",
+    "Sprinkle the cranberries onto each pancake just after pouring so they stay on top rather than sinking."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 614,
+    "protein_g": 10.2,
+    "carbs_g": 85.9,
+    "sugar_g": 45.6,
+    "free_sugar_g": 31.5,
+    "fat_g": 26.9,
+    "satfat_g": 15.8,
+    "salt_g": 2.93,
+    "fibre_g": 4.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A stack of cornmeal pancakes studded with cranberries, topped with spiced apple compote and a drizzle of caramel sauce.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

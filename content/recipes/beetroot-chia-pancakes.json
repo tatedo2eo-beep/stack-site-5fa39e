@@ -1,0 +1,184 @@
+{
+  "slug": "beetroot-chia-pancakes",
+  "title": "Beetroot and Chia Pancakes",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Beet",
+  "flavour_order": 20,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "Roasted beetroot purée colours a wholemeal (or teff) buttermilk batter with chia seeds folded through.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Earthy beetroot pancakes speckled with chia seeds, their natural sweetness balanced with maple syrup and butter.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 80,
+  "difficulty": "medium",
+  "equipment": [
+    "baking dish with lid or foil",
+    "food processor",
+    "sieve",
+    "medium bowl",
+    "large bowl",
+    "whisk",
+    "nonstick frying pan (30 cm) or griddle",
+    "pastry brush",
+    "60 ml scoop or ladle",
+    "spatula",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large beetroot (or 2 medium), for 120 ml roasted purée"
+    },
+    {
+      "group": "Batter",
+      "qty": 125,
+      "unit": "g",
+      "item": "wholemeal flour or teff flour (or a mix)"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 10,
+      "unit": "g",
+      "item": "baking powder (2 tsp)"
+    },
+    {
+      "group": "Batter",
+      "qty": 5,
+      "unit": "g",
+      "item": "bicarbonate of soda (1 tsp)"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "g",
+      "item": "fine salt (a rounded ¼ tsp)"
+    },
+    {
+      "group": "Batter",
+      "qty": 12,
+      "unit": "g",
+      "item": "sugar or honey (optional)",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Batter",
+      "qty": 360,
+      "unit": "ml",
+      "item": "buttermilk (or 240 ml yoghurt plus 120 ml milk)"
+    },
+    {
+      "group": "Batter",
+      "qty": 35,
+      "unit": "g",
+      "item": "chia seeds"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "sunflower or rapeseed oil"
+    },
+    {
+      "group": "For cooking",
+      "qty": 14,
+      "unit": "g",
+      "item": "butter or oil, for the pan",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast",
+      "text": "Heat the oven to 220°C, trim the beetroot leaves to 6 mm of stalk, scrub, set in a covered dish with 1 cm water and roast until very soft, 50-60 min depending on size."
+    },
+    {
+      "title": "Blend",
+      "text": "Cool the beetroot covered, trim, peel and blend until smooth, measuring out 120 ml purée."
+    },
+    {
+      "title": "Sift",
+      "text": "Sift 125 g wholemeal or teff flour, 60 g plain flour, 2 tsp baking powder, 1 tsp bicarbonate of soda, a rounded ¼ tsp salt and 1 tbsp sugar or honey if using."
+    },
+    {
+      "title": "Whisk",
+      "text": "Beat 2 eggs with 360 ml buttermilk, 3 tbsp oil, 1 tsp vanilla, the beetroot purée and honey if using, then quickly whisk this into the flour mix and fold in 35 g chia seeds."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat a griddle over medium-high heat, brush with butter or oil, drop a scant 60 ml batter per pancake and cook until bubbles break through, waiting until they hold together as they are very moist."
+    },
+    {
+      "title": "Flip",
+      "text": "Flip and cook until lightly browned, 1-2 min, moving cooked pancakes to a wire rack."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve with maple syrup and butter."
+    }
+  ],
+  "tips": [
+    "Roast the beetroot covered with a little water so it steams tender without drying out.",
+    "Let the batter settle before flipping, as these pancakes are softer and moister than usual.",
+    "Measure the purée after blending so the batter has exactly 120 ml."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 464,
+    "protein_g": 13.9,
+    "carbs_g": 62.5,
+    "sugar_g": 22.3,
+    "free_sugar_g": 15.2,
+    "fat_g": 18.9,
+    "satfat_g": 3.8,
+    "salt_g": 2.4,
+    "fibre_g": 7.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Deep pink pancakes speckled with chia seeds, stacked and drizzled with maple syrup.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

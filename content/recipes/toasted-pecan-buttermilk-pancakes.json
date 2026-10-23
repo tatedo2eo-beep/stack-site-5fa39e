@@ -1,0 +1,159 @@
+{
+  "slug": "toasted-pecan-buttermilk-pancakes",
+  "title": "Toasted Pecan Buttermilk Pancakes",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Pecan",
+  "flavour_order": 16,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "A smaller, thinner batter of buttermilk and milk with no soured cream, the egg white whisked into the milk, and finely chopped toasted pecans folded through.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Buttery buttermilk pancakes flecked with toasted pecans, cooked on a hot griddle until golden.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "medium bowl",
+    "500 ml measuring jug",
+    "whisk",
+    "nonstick frying pan (30 cm) or griddle",
+    "pastry brush",
+    "60 ml scoop or ladle",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 142,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 8,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 180,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 120,
+      "unit": "ml",
+      "item": "milk, plus about 1 tbsp more if the batter is too thick"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, separated"
+    },
+    {
+      "group": "Batter",
+      "qty": 28,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Batter",
+      "qty": 30,
+      "unit": "g",
+      "item": "pecans, toasted and finely chopped"
+    },
+    {
+      "group": "For cooking",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil, for brushing"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix Dry",
+      "text": "Mix 142 g plain flour, 2 tsp caster sugar, ½ tsp fine salt, ½ tsp baking powder and ¼ tsp bicarbonate of soda in a bowl."
+    },
+    {
+      "title": "Mix Wet",
+      "text": "Pour 180 ml buttermilk and 120 ml milk into a jug and whisk in the egg white, then stir the yolk mixed with 28 g melted butter into the milk."
+    },
+    {
+      "title": "Combine",
+      "text": "Pour the wet mixture into the dry all at once and whisk until just mixed, then fold in 30 g toasted chopped pecans, loosening with up to 1 tbsp extra milk if the batter seems thick."
+    },
+    {
+      "title": "Heat",
+      "text": "Heat a griddle or large frying pan over a strong medium-high heat and brush generously with vegetable oil until a splash of water sizzles hard."
+    },
+    {
+      "title": "Cook",
+      "text": "Pour about 60 ml batter per pancake without crowding the pan and cook until the bases are brown and the tops start to bubble, 2-3 min."
+    },
+    {
+      "title": "Flip",
+      "text": "Flip and cook until browned, a further 1-2 min, oiling the pan again before each new batch."
+    }
+  ],
+  "tips": [
+    "Toast the pecans first so their flavour comes through in every bite.",
+    "Test the griddle with a splash of water - it should sizzle hard before you add batter.",
+    "Loosen the batter with a little extra milk if it feels too thick to spread."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 312,
+    "protein_g": 8.5,
+    "carbs_g": 34.1,
+    "sugar_g": 6.2,
+    "free_sugar_g": 2.0,
+    "fat_g": 16.0,
+    "satfat_g": 5.5,
+    "salt_g": 1.29,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden pancakes dotted with chopped toasted pecans stacked on a plate.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

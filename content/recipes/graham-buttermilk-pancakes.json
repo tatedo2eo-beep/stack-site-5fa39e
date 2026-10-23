@@ -1,0 +1,165 @@
+{
+  "slug": "graham-buttermilk-pancakes",
+  "title": "Graham Cracker Buttermilk Pancakes",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Graham cracker",
+  "flavour_order": 18,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "Graham cracker crumbs and a little cornmeal replace half the flour, for a nutty, wholemeal flavour.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Buttermilk pancakes given a toasty flavour from crushed graham crackers and a touch of cornmeal.",
+  "servings": 5,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "2 bowls",
+    "small bowl",
+    "whisk",
+    "nonstick frying pan (30 cm) or griddle",
+    "paper towel",
+    "60 ml scoop or ladle",
+    "wide spatula",
+    "wire rack set in a rimmed baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 8,
+      "unit": "pc",
+      "item": "whole graham crackers, crushed to crumbs (about 240 ml)"
+    },
+    {
+      "group": "Batter",
+      "qty": 142,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "cornmeal"
+    },
+    {
+      "group": "Batter",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 480,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "ml",
+      "item": "soured cream"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 42,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled slightly"
+    },
+    {
+      "group": "For cooking",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "neutral oil (1-2 tsp)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the oven to 93°C, spray the wire rack with oil and set it on its tray."
+    },
+    {
+      "title": "Whisk Dry",
+      "text": "Whisk the crushed crumbs from 8 graham crackers with 142 g plain flour, 2 tbsp cornmeal, 2 tbsp caster sugar, 1 tsp baking powder, ½ tsp bicarbonate of soda and ½ tsp fine salt."
+    },
+    {
+      "title": "Combine",
+      "text": "Whisk 480 ml buttermilk, 60 ml soured cream, 2 eggs and 42 g melted butter in another bowl, pour this into a well in the dry mix and stir gently until just combined and lumpy, then rest the batter 10 min."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat 1-2 tsp vegetable oil in a 30 cm non-stick pan over medium heat, wipe out leaving a thin film, then portion 60 ml batter in 4 places and cook until the edges set, the base turns golden and bubbles begin to break, 2-3 min."
+    },
+    {
+      "title": "Flip",
+      "text": "Flip and cook until golden, a further 1-2 min."
+    },
+    {
+      "title": "Finish",
+      "text": "Serve straight away or keep warm on the rack, repeating with the rest of the batter and using the remaining oil as needed."
+    }
+  ],
+  "tips": [
+    "Crush the graham crackers finely so they blend smoothly into the batter.",
+    "Don't overmix once the wet and dry ingredients meet - a lumpy batter makes for fluffier pancakes.",
+    "Keep cooked pancakes on a warm rack in the oven so the whole batch stays warm together."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 404,
+    "protein_g": 10.9,
+    "carbs_g": 53.1,
+    "sugar_g": 16.1,
+    "free_sugar_g": 10.7,
+    "fat_g": 16.5,
+    "satfat_g": 7.3,
+    "salt_g": 1.79,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A stack of golden pancakes with a flecked, toasty crumb from crushed graham crackers.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

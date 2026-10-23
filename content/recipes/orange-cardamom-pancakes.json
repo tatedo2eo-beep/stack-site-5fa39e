@@ -1,0 +1,152 @@
+{
+  "slug": "orange-cardamom-pancakes",
+  "title": "Orange-Cardamom Pancakes",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Orange & cardamom",
+  "flavour_order": 23,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "Ground cardamom and orange zest flavour a milk batter that is beaten smooth; the source uses orange extract, which I replaced with a second tablespoon of zest (my adjustment, as the extract is alcohol-based).",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Fragrant pancakes brightened with orange zest and warmed with cardamom, best served with maple syrup.",
+  "servings": 5,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "medium bowl",
+    "whisk or electric hand mixer",
+    "rubber spatula",
+    "large nonstick frying pan or griddle",
+    "80 ml scoop or ladle",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 256,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 2.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "finely grated orange zest"
+    },
+    {
+      "group": "Batter",
+      "qty": 42,
+      "unit": "g",
+      "item": "butter, melted, plus more for the pan and to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk Dry",
+      "text": "Whisk 256 g plain flour, 2 tbsp caster sugar, 2½ tsp baking powder, 2 tsp cardamom and ¼ tsp salt."
+    },
+    {
+      "title": "Whisk Wet",
+      "text": "Whisk 360 ml milk, 2 eggs, 2 tbsp grated orange zest and 42 g melted butter."
+    },
+    {
+      "title": "Combine",
+      "text": "Stir the wet mix into the dry with a spoon or spatula, then beat with a whisk or hand mixer on high until smooth, about 30 s."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat a large non-stick pan or griddle over medium heat, add butter and tilt to coat, then cook in batches using about 80 ml batter each until bubbly on top and golden underneath, 1-2 min."
+    },
+    {
+      "title": "Flip",
+      "text": "Flip and cook until golden, a further 1-2 min, adjusting the heat and adding more butter as needed between batches."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve with maple syrup and butter."
+    }
+  ],
+  "tips": [
+    "Beat the batter until smooth after mixing - it helps the pancakes rise evenly.",
+    "Grate the zest finely so it distributes through the batter rather than clumping.",
+    "Keep the heat at medium so the pancakes turn golden without the zest catching."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 413,
+    "protein_g": 10.4,
+    "carbs_g": 60.3,
+    "sugar_g": 18.6,
+    "free_sugar_g": 14.7,
+    "fat_g": 14.6,
+    "satfat_g": 8.3,
+    "salt_g": 1.06,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden pancakes flecked with orange zest, stacked and drizzled with maple syrup.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "slug": "gingerbread-pancakes",
+  "title": "Gingerbread Pancakes",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Gingerbread",
+  "flavour_order": 22,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "Molasses, dark brown sugar, ground and fresh ginger, cinnamon and allspice turn a plain milk batter into gingerbread; there is no buttermilk.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Warmly spiced pancakes flavoured with molasses, fresh ginger and a hint of lemon zest, tasting just like gingerbread.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "medium bowl",
+    "whisk",
+    "nonstick frying pan (30 cm) or griddle",
+    "60 ml scoop or ladle",
+    "spatula",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 256,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 24,
+      "unit": "g",
+      "item": "dark brown sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground allspice"
+    },
+    {
+      "group": "Batter",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 80,
+      "unit": "ml",
+      "item": "unsulphured molasses (not blackstrap)"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 42,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated fresh ginger"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "For cooking",
+      "qty": 5,
+      "unit": "g",
+      "item": "butter or oil, for the pan",
+      "note": "about 1 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk Dry",
+      "text": "Whisk 256 g plain flour, 2 tbsp dark brown sugar, 1½ tsp baking powder, ½ tsp bicarbonate of soda, ½ tsp salt, 2 tsp ginger, 2 tsp cinnamon and ½ tsp allspice."
+    },
+    {
+      "title": "Whisk Wet",
+      "text": "Whisk 300 ml milk, 80 ml molasses, 2 eggs, 42 g melted butter, 1 tsp grated fresh ginger and ½ tsp lemon zest."
+    },
+    {
+      "title": "Combine",
+      "text": "Add the wet mix to the dry and stir gently until combined, leaving a few small lumps."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat a lightly greased griddle over medium-low heat, drop 60 ml portions of batter leaving room to spread, and cook until bubbles show and the base browns, 1-2 min."
+    },
+    {
+      "title": "Flip",
+      "text": "Flip carefully and cook until cooked through and slightly dark brown."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve as they are made, or keep warm on a baking tray in a 120°C oven."
+    }
+  ],
+  "tips": [
+    "Measure the molasses in a lightly oiled spoon or jug so it slides out cleanly.",
+    "Cook over medium-low heat so the spiced batter browns evenly without catching.",
+    "Flip gently as the darker batter can make it harder to judge when the base is ready."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 517,
+    "protein_g": 12.5,
+    "carbs_g": 83.1,
+    "sugar_g": 32.0,
+    "free_sugar_g": 27.7,
+    "fat_g": 15.2,
+    "satfat_g": 8.4,
+    "salt_g": 1.81,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Dark, spiced pancakes with a lightly browned surface, stacked on a plate.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

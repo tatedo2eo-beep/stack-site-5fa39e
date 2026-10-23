@@ -63,6 +63,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | banana-milk-paletas | Popsicles | Banana | 1 | 3 |
 | banana-walnut-chocolate-chunk-philadelphia-ice-cream | Philadelphia (no egg) | Banana & walnut | 1 | 3 |
 | banana-walnut-muffins-demerara-top | American muffin (blueberry style, muffin method) | Banana & walnut | 1 | 3 |
+| banana-walnut-pancakes | Pancakes (American) | Walnut | 1 | 3 |
 | banana-walnut-tarte-tatin-brown-sugar | Tarte Tatin | Banana & walnut | 1 | 3 |
 | banoffee-pie | Banoffee | Classic | 1 | 4 |
 | basbousa-semolina-coconut-cake-almonds | Basbousa | Classic | 1 | 3 |
@@ -81,6 +82,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | beef-pepper-briouats-filo-lemon-garlic-dip | Briouat | Classic | 1 | 3 |
 | beef-rice-stuffed-peppers-tomato-melted-cheese | Stuffed peppers | Classic | 2 | 4 |
 | beef-stroganoff-mushrooms-noodles | Beef stroganoff | Classic | 2 | 4 |
+| beetroot-chia-pancakes | Pancakes (American) | Beet | 1 | 3 |
 | bengali-spiced-tomato-chutney | Chutney | Tomato | 2 | 4 |
 | bhatura-puffed-fried-bread | Bhatura | Classic | 1 | 3 |
 | biang-biang-noodles | Biang biang/hand-pulled lamian | Classic | 2 | 4 |
@@ -176,6 +178,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cardamom-kheer-pistachios-almonds | Kheer | Classic | 1 | 3 |
 | carne-asada-burrito-black-beans-lime-rice | Burrito | Carne asada | 3 | 5 |
 | carne-asada-street-tacos-onion-coriander-lime | Taco | Classic | 2 | 4 |
+| carrot-cake-pancakes-maple-yoghurt | Pancakes (American) | Carrot cake | 1 | 3 |
 | carrot-cake | Carrot | Classic | 2 | 4 |
 | carrot-gochujang-scallion-focaccia | Focaccia | Carrot | 1 | 3 |
 | carrot-halva-custard-ice-cream | Custard-base (French) | Carrot halva | 1 | 3 |
@@ -344,6 +347,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | coriander-lemon-chermoula | Chermoula | Classic | 2 | 4 |
 | corn-egg-drop-soup-chicken | Egg drop soup | Corn egg drop | 3 | 5 |
 | cornish-beef-pasty | Cornish pasty | Classic | 2 | 4 |
+| cornmeal-cranberry-pancakes-apple-compote | Pancakes (American) | Cranberry | 1 | 3 |
 | coronation-chicken | Coronation chicken | Classic | 2 | 5 |
 | courgette-fudge-brownies | Brownie (fudgy or cakey) | Zucchini | 1 | 3 |
 | cracker-thin-pizza-three-cheese-blend-sweet-oregano-sauce | St. Louis-style pizza | Classic | 2 | 4 |
@@ -552,6 +556,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gingerbread-cookies | Gingerbread | Classic | 3 | 5 |
 | gingerbread-icebox-cake | Ice-cream cake | Gingerbread | 1 | 3 |
 | gingerbread-muffins-crystallised-ginger | American muffin (blueberry style, muffin method) | Gingerbread | 1 | 3 |
+| gingerbread-pancakes | Pancakes (American) | Gingerbread | 1 | 3 |
 | gingerbread-spice-brownies | Brownie (fudgy or cakey) | Gingerbread | 1 | 3 |
 | glassy-salted-peanut-brittle | Brittle | Peanut | 1 | 4 |
 | glossy-braided-honey-challah | ? | ? | MISSING | |
@@ -576,6 +581,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | golden-olive-oil-focaccia-flaky-sea-salt | ? | ? | MISSING | |
 | golden-sour-cream-corn-muffins | Corn muffin | Classic | 2 | 4 |
 | gooey-butter-oat-pie | Gooey butter oat pie | Classic | 1 | 3 |
+| graham-buttermilk-pancakes | Pancakes (American) | Graham cracker | 1 | 3 |
 | graham-crackers | Graham crackers | Classic | 3 | 5 |
 | grape-rosemary-cornmeal-focaccia | Focaccia | Grape | 1 | 3 |
 | grapefruit-granita-orange-blossom | Granita | Grapefruit | 1 | 3 |
@@ -857,6 +863,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | open-crumb-rustic-italian-ciabatta | ? | ? | MISSING | |
 | open-faced-cheddar-tuna-melts-dill-pickles | Tuna melt | Classic | 2 | 4 |
 | orange-and-cranberry-agar-jelly-cubes | Agar jellies | Classic | 2 | 4 |
+| orange-cardamom-pancakes | Pancakes (American) | Orange & cardamom | 1 | 3 |
 | orange-creamsicle-frozen-yoghurt | Frozen yogurt | Orange | 1 | 3 |
 | orange-creamsicle-ice-cream-cake | Ice-cream cake | Orange | 1 | 3 |
 | orange-meringue-pie | Meringue pie (lemon) | Orange | 1 | 3 |
@@ -1222,6 +1229,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spiced-minced-beef-keema-peas | Keema | Keema matar (with peas) | 3 | 5 |
 | spiced-minced-beef-keema-potatoes | Keema | Aloo keema (potato) | 3 | 5 |
 | spiced-minced-beef-keema | Keema | Classic | 2 | 4 |
+| spiced-pear-buckwheat-almond-pancakes | Pancakes (American) | Pear & almond | 1 | 3 |
 | spiced-pumpkin-cheesecake | New York (baked, dense) | Pumpkin | 2 | 4 |
 | spiced-pumpkin-gelato | Gelato | Pumpkin | 1 | 3 |
 | spiced-pumpkin-pull-apart-rolls | Dinner rolls | Pumpkin | 1 | 3 |
@@ -1259,6 +1267,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | strawberry-eton-mess | Eton mess | Classic | 2 | 4 |
 | strawberry-granita-fork-scraped | Granita | Strawberry | 2 | 4 |
 | strawberry-ice-pops | Popsicles | Classic | 1 | 3 |
+| strawberry-icebox-cake-vanilla-wafers | Ice-cream cake | Strawberry | 1 | 3 |
 | strawberry-jam-buttermilk-philadelphia-ice-cream | Philadelphia (no egg) | Strawberry | 1 | 3 |
 | strawberry-jam-filled-orange-doughnuts | Sufganiyot | Classic | 1 | 3 |
 | strawberry-lemon-tart-walnut-crust | Lemon tart | Strawberry | 1 | 3 |
@@ -1270,6 +1279,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | strawberry-rhubarb-streusel-muffins | American muffin (blueberry style, muffin method) | Strawberry & rhubarb | 1 | 3 |
 | strawberry-sorbet-fresh-berries | Sorbet | Strawberry | 2 | 4 |
 | strawberry-vanilla-baked-alaska | Baked Alaska | Classic | 1 | 3 |
+| strawberry-vanilla-pancakes | Pancakes (American) | Vanilla | 1 | 3 |
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
 | stuffed-corn-griddle-cakes-melted-cheese-cabbage-relish | Pupusa | Cheese | 4 | 6 |
 | stuffed-corn-griddle-cakes-refried-beans-cheese-cabbage-relish | Pupusa | Bean-cheese | 3 | 5 |
@@ -1327,6 +1337,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | toasted-coconut-lychee-lime-granita | Granita | Coconut, lychee & lime | 1 | 3 |
 | toasted-farro-olive-oil-parsley | Farro | Classic | 2 | 4 |
 | toasted-marshmallow-brownies | Brownie (fudgy or cakey) | Marshmallow | 1 | 3 |
+| toasted-pecan-buttermilk-pancakes | Pancakes (American) | Pecan | 1 | 3 |
 | toasted-walnut-brown-sugar-custard-ice-cream | Custard-base (French) | Walnut | 1 | 3 |
 | toasted-whole-spice-garam-masala | Garam masala | Classic | 2 | 4 |
 | toffee-crunch-custard-ice-cream | Custard-base (French) | Toffee | 1 | 3 |

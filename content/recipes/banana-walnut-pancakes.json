@@ -1,0 +1,171 @@
+{
+  "slug": "banana-walnut-pancakes",
+  "title": "Banana-Walnut Pancakes",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Walnut",
+  "flavour_order": 15,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "The same buttermilk and soured cream batter, but each pancake is scattered with sliced banana and toasted walnuts before it is flipped.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Soft buttermilk pancakes scattered with sliced banana and toasted walnuts for a comforting breakfast with crunch.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "2 bowls",
+    "small bowl",
+    "whisk",
+    "nonstick frying pan (30 cm) or griddle",
+    "paper towel",
+    "60 ml scoop or ladle",
+    "wide spatula",
+    "wire rack set in a rimmed baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 283,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 480,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "ml",
+      "item": "soured cream"
+    },
+    {
+      "group": "Batter",
+      "qty": 42,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled slightly"
+    },
+    {
+      "group": "Banana mix",
+      "qty": 2,
+      "unit": "pc",
+      "item": "ripe bananas, quartered lengthways and thinly sliced"
+    },
+    {
+      "group": "Banana mix",
+      "qty": 60,
+      "unit": "g",
+      "item": "walnuts, toasted and coarsely chopped"
+    },
+    {
+      "group": "For cooking",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "neutral oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the oven to 93°C, spray the wire rack with oil and set it on its tray."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk 283 g plain flour with 2 tbsp caster sugar, 1 tsp baking powder, ½ tsp bicarbonate of soda and ½ tsp fine salt."
+    },
+    {
+      "title": "Combine",
+      "text": "Whisk 480 ml buttermilk, 2 eggs, 60 ml soured cream and 42 g melted butter in another bowl, pour this into a well in the flour mix and stir gently until just combined and lumpy, then rest the batter 10 min."
+    },
+    {
+      "title": "Mix Topping",
+      "text": "Mix the sliced bananas with 60 g toasted chopped walnuts."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat 1 tsp vegetable oil in a 30 cm non-stick pan over medium heat, wipe out leaving a thin film, then cook 4 pancakes of 60 ml batter until the edges set, the base turns golden and bubbles begin to break, 2-3 min."
+    },
+    {
+      "title": "Flip",
+      "text": "Sprinkle 1 tbsp of the banana and walnut mixture over each pancake, flip and cook until golden, a further 1-2 min."
+    },
+    {
+      "title": "Finish",
+      "text": "Serve straight away or keep warm on the rack, repeating with the rest of the batter and adding more oil as needed."
+    }
+  ],
+  "tips": [
+    "Use ripe bananas so they soften quickly into the batter as the pancakes cook.",
+    "Toast the walnuts beforehand to bring out their flavour before scattering them on.",
+    "Keep the pan lightly oiled rather than greasy so the pancakes brown evenly.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 644,
+    "protein_g": 17.9,
+    "carbs_g": 83.1,
+    "sugar_g": 20.7,
+    "free_sugar_g": 6.2,
+    "fat_g": 27.8,
+    "satfat_g": 9.6,
+    "salt_g": 1.88,
+    "fibre_g": 4.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A stack of pancakes topped with banana slices and chopped toasted walnuts.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

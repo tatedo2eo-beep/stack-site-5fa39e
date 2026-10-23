@@ -1,0 +1,169 @@
+{
+  "slug": "strawberry-vanilla-pancakes",
+  "title": "Strawberry-Vanilla Pancakes",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Vanilla",
+  "flavour_order": 13,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "The same buttermilk and soured cream batter, but each pancake is scattered with chopped strawberries tossed in vanilla and sugar before it is flipped.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Fluffy buttermilk pancakes studded with sweetened fresh strawberries and a hint of vanilla, perfect for a lazy weekend breakfast.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "2 bowls",
+    "small bowl",
+    "whisk",
+    "nonstick frying pan (30 cm) or griddle",
+    "paper towel",
+    "60 ml scoop or ladle",
+    "wide spatula",
+    "wire rack set in a rimmed baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 283,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 38,
+      "unit": "g",
+      "item": "caster sugar (2 tbsp for the batter, 1 tbsp for the strawberries)",
+      "note": "about 3 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 480,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "ml",
+      "item": "soured cream"
+    },
+    {
+      "group": "Batter",
+      "qty": 42,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled slightly"
+    },
+    {
+      "group": "Strawberry mix",
+      "qty": 283,
+      "unit": "g",
+      "item": "strawberries, hulled and finely chopped"
+    },
+    {
+      "group": "Strawberry mix",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "For cooking",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "neutral oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the oven to 93°C, spray the wire rack with oil and set it on its tray ready to hold the cooked pancakes."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk 283 g plain flour with 2 tbsp caster sugar, 1 tsp baking powder, ½ tsp bicarbonate of soda and ½ tsp fine salt."
+    },
+    {
+      "title": "Combine",
+      "text": "In another bowl whisk 480 ml buttermilk, 2 eggs, 60 ml soured cream and 42 g melted butter, pour this into a well in the flour mix and stir gently until just combined and lumpy, then rest the batter 10 min."
+    },
+    {
+      "title": "Flavour",
+      "text": "Toss the 283 g chopped strawberries with ½ tsp vanilla and 1 tbsp caster sugar."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat 1 tsp vegetable oil in a 30 cm non-stick pan over medium heat, wipe out with kitchen paper to leave a thin film, then cook 4 pancakes of 60 ml batter each until the edges set, the base turns golden and bubbles start to break, 2-3 min."
+    },
+    {
+      "title": "Flip",
+      "text": "Sprinkle 1 tbsp of the strawberry mixture over each pancake, flip and cook until golden, a further 1-2 min."
+    },
+    {
+      "title": "Finish",
+      "text": "Serve straight away or keep warm on the rack in the oven, repeating with the rest of the batter and adding more oil as needed."
+    }
+  ],
+  "tips": [
+    "Don't overmix the batter - a few lumps and streaks of flour keep the pancakes tender.",
+    "Wipe excess oil from the pan before each batch so the pancakes brown rather than fry.",
+    "Keep finished pancakes on a warm rack in a low oven so the whole batch can be served together."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 529,
+    "protein_g": 15.5,
+    "carbs_g": 76.0,
+    "sugar_g": 19.6,
+    "free_sugar_g": 9.4,
+    "fat_g": 18.0,
+    "satfat_g": 8.7,
+    "salt_g": 1.88,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A stack of golden pancakes topped with chopped strawberries glistening in their own juice.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
