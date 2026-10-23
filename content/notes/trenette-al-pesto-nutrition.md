@@ -8,14 +8,14 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | pine nuts | Nuts, pine nuts, dried (FDC 170591) | 30 | 201.9 | 4.1 | 3.9 | 1.08 | 0.00 | 20.5 | 1.47 | 1 | 1.1 |
 | garlic cloves, peeled | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | coarse salt | Salt, table (SR 02047) | 0.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 194 | 0.0 |
-| Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
-| Pecorino Romano (or a vegetarian hard cheese), very finely grated | Cheese, romano (FDC 171249) | 15 | 58.0 | 4.8 | 0.5 | 0.11 | 0.00 | 4.0 | 2.57 | 215 | 0.0 |
+| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
+| pecorino-style hard cheese (microbial rennet), very finely grated | Cheese, romano (FDC 171249) | 15 | 58.0 | 4.8 | 0.5 | 0.11 | 0.00 | 4.0 | 2.57 | 215 | 0.0 |
 | mild extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 90 | 795.6 | 0.0 | 0.0 | 0.00 | 0.00 | 90.0 | 12.43 | 2 | 0.0 |
 | waxy potato, peeled and cut into 1.5 cm cubes | Potatoes, flesh and skin, raw (SR 11352) | 150 | 115.5 | 3.1 | 26.2 | 1.23 | 0.00 | 0.1 | 0.04 | 9 | 3.2 |
 | green beans, trimmed and cut into 3 cm lengths | Beans, snap, green, raw (FDC 169961) | 120 | 37.2 | 2.2 | 8.4 | 3.91 | 0.00 | 0.3 | 0.06 | 7 | 3.2 |
 | dried trenette or linguine | Pasta, dry, enriched (SR 20120) | 400 | 1484.0 | 52.2 | 298.7 | 10.68 | 0.00 | 6.0 | 1.11 | 24 | 12.8 |
 | fine salt for 3 litres of pasta water (0.8%) (about 4.6 g: absorbed by 400 g dried pasta plus 60 ml cooking water added to the sauce) | Salt, table (SR 02047) | 4.6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1783 | 0.0 |
-| Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 15 | 58.8 | 5.4 | 0.5 | 0.12 | 0.00 | 3.9 | 2.46 | 240 | 0.0 |
+| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 15 | 58.8 | 5.4 | 0.5 | 0.12 | 0.00 | 3.9 | 2.46 | 240 | 0.0 |
 | **Total** | | | 2887 | 84.5 | 341.8 | 17.58 | 0.00 | 133.0 | 25.08 | 2958 | 21.3 |
 
 **Per serving (total / 4):** kcal 722, protein_g 21.1, carbs_g 85.4, sugar_g 4.4, free_sugar_g 0.0, fat_g 33.3, satfat_g 6.3, salt_g 1.85, fibre_g 5.3

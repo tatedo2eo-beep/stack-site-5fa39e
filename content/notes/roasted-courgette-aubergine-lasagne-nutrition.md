@@ -17,7 +17,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | no-pre-cook lasagne sheets (about 250 g) | Pasta, dry, enriched (SR 20120) | 250 | 927.5 | 32.6 | 186.7 | 6.67 | 0.00 | 3.8 | 0.69 | 15 | 8.0 |
 | mozzarella, grated | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 450 | 1431.0 | 97.2 | 11.1 | 4.54 | 0.00 | 110.9 | 70.02 | 3195 | 0.0 |
-| Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
+| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
 | **Total** | | | 3458 | 161.6 | 273.7 | 59.27 | 0.00 | 196.9 | 87.43 | 5725 | 41.8 |
 
 **Per serving (total / 8):** kcal 432, protein_g 20.2, carbs_g 34.2, sugar_g 7.4, free_sugar_g 0.0, fat_g 24.6, satfat_g 10.9, salt_g 1.79, fibre_g 5.2

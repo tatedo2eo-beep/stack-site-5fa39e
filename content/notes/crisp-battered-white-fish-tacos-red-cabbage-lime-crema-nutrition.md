@@ -12,7 +12,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | egg, cold | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
 | frying oil absorbed (estimated absorption) | Oil, canola (SR 04582) | 40 | 353.6 | 0.0 | 0.0 | 0.00 | 0.00 | 40.0 | 2.95 | 0 | 0.0 |
-| mayonnaise (check the label: no wine vinegar) | Salad dressing, mayonnaise, regular (SR 04025) | 80 | 544.0 | 0.8 | 0.5 | 0.46 | 0.46 | 59.9 | 9.39 | 508 | 0.0 |
+| mayonnaise (check the label: distilled vinegar only) | Salad dressing, mayonnaise, regular (SR 04025) | 80 | 544.0 | 0.8 | 0.5 | 0.46 | 0.46 | 59.9 | 9.39 | 508 | 0.0 |
 | soured cream | Cream, sour, cultured (FDC 171257) | 80 | 158.4 | 2.0 | 3.7 | 2.73 | 0.00 | 15.5 | 8.11 | 25 | 0.0 |
 | lime juice, plus the finely grated zest of the lime | Lime juice, raw (SR 09160) - juice sugars counted as free | 15 | 3.8 | 0.1 | 1.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.1 |
 | red cabbage, very finely shredded | Cabbage, red, raw (FDC 169977) | 200 | 62.0 | 2.9 | 14.7 | 7.66 | 0.00 | 0.3 | 0.04 | 54 | 4.2 |

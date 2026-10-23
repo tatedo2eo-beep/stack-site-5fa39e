@@ -10,7 +10,7 @@
   "flavour": "Classic",
   "flavour_order": 0,
   "access": "free",
-  "summary": "Japanese fried noodles tossed with chicken and cabbage in a sweet-savoury sauce built on Worcestershire sauce, ketchup and soy.",
+  "summary": "Japanese fried noodles tossed with chicken and cabbage in a sweet-savoury sauce built on tamarind, ketchup and soy.",
   "servings": 4,
   "prep_min": 20,
   "cook_min": 15,
@@ -36,13 +36,13 @@
     },
     {
       "group": "Sauce",
-      "qty": 3,
+      "qty": 1.5,
       "unit": "tbsp",
-      "item": "Worcestershire sauce"
+      "item": "tamarind paste"
     },
     {
       "group": "Sauce",
-      "qty": 2,
+      "qty": 3,
       "unit": "tbsp",
       "item": "tomato ketchup"
     },
@@ -60,10 +60,10 @@
     },
     {
       "group": "Sauce",
-      "qty": 8,
+      "qty": 12,
       "unit": "g",
       "item": "sugar",
-      "note": "about 2 tsp"
+      "note": "about 1 tbsp"
     },
     {
       "group": "Stir-fry",
@@ -125,7 +125,7 @@
   "steps": [
     {
       "title": "Mix the sauce",
-      "text": "Stir together the Worcestershire sauce, ketchup, soy sauce, oyster sauce and sugar in a small bowl. This distinctive blend is what gives yakisoba its familiar tangy-sweet flavour, quite different from a typical soy-based stir-fry sauce."
+      "text": "Stir together the tamarind paste, ketchup, soy sauce, oyster sauce and sugar in a small bowl. This distinctive blend is what gives yakisoba its familiar tangy-sweet flavour, quite different from a typical soy-based stir-fry sauce."
     },
     {
       "title": "Loosen the noodles",
@@ -163,23 +163,21 @@
     "gluten",
     "eggs",
     "soya",
-    "fish",
-    "molluscs",
-    "sulphites"
+    "molluscs"
   ],
   "diet": [
     "dairy-free"
   ],
   "nutrition_per_serving": {
-    "kcal": 561,
-    "protein_g": 30.5,
-    "carbs_g": 81.6,
-    "sugar_g": 11.0,
-    "free_sugar_g": 3.8,
-    "fat_g": 12.8,
+    "kcal": 574,
+    "protein_g": 30.7,
+    "carbs_g": 85.2,
+    "sugar_g": 14.0,
+    "free_sugar_g": 5.7,
+    "fat_g": 12.9,
     "satfat_g": 1.8,
-    "salt_g": 2.13,
-    "fibre_g": 4.2
+    "salt_g": 1.82,
+    "fibre_g": 4.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "yakisoba-basic.jpg",

@@ -8,7 +8,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | neutral oil | Oil, canola (SR 04582) | 40.5 | 358.0 | 0.0 | 0.0 | 0.00 | 0.00 | 40.5 | 2.98 | 0 | 0.0 |
 | medium onion, thinly sliced | Onions, raw (SR 11282) | 150 | 60.0 | 1.7 | 14.0 | 6.36 | 0.00 | 0.2 | 0.06 | 6 | 2.5 |
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
-| chipotle chilli in adobo, finely chopped (check the label: no wine vinegar) | ESTIMATE from typical canned chipotle-in-adobo labels | 15 | 9.0 | 0.2 | 1.5 | 0.60 | 0.00 | 0.2 | 0.03 | 165 | 0.6 |
+| chipotle chilli in adobo, finely chopped (check the label: distilled vinegar only) | ESTIMATE from typical canned chipotle-in-adobo labels | 15 | 9.0 | 0.2 | 1.5 | 0.60 | 0.00 | 0.2 | 0.03 | 165 | 0.6 |
 | ground cumin | Spices, cumin seed (SR 02014) | 0.525 | 2.0 | 0.1 | 0.2 | 0.01 | 0.00 | 0.1 | 0.01 | 1 | 0.1 |
 | fine salt | Salt, table (SR 02047) | 4.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1744 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
@@ -31,4 +31,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Vegan as written.
-- Canned chipotles in adobo contain vinegar; choose a brand made with distilled or cider vinegar, never wine vinegar.
+- Canned chipotles in adobo contain vinegar; choose a brand that lists distilled vinegar only.

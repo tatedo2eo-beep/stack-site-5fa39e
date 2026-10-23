@@ -20,7 +20,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fresh egg pappardelle | Pasta, fresh-refrigerated, plain, as purchased (FDC 169727) | 500 | 1440.0 | 56.6 | 273.6 | 0.00 | 0.00 | 11.5 | 1.64 | 130 | 0.0 |
 | fine salt for 4 litres of pasta water (0.8%) (about 2.2 g: absorbed by 500 g fresh pasta plus 80 ml cooking water added to the sauce) | Salt, table (SR 02047) | 2.2 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 853 | 0.0 |
 | unsalted butter | Butter, without salt (SR 01145) | 30 | 215.1 | 0.3 | 0.0 | 0.02 | 0.00 | 24.3 | 15.41 | 3 | 0.0 |
-| Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
+| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
 | finely grated orange zest | Orange peel, raw (FDC 169103) | 2 | 1.9 | 0.0 | 0.5 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
 | **Total** | | | 3779 | 241.6 | 319.9 | 22.70 | 0.00 | 172.5 | 70.59 | 5230 | 15.0 |
 

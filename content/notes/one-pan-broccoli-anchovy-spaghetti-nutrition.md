@@ -12,7 +12,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | water (absorbed water carries no nutrients) | Water, tap (SR 14411) | 0 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2325 | 0.0 |
 | dried chilli flakes | ESTIMATE: dried red chillies, whole (close to SR chili pepper powder without salt) | 1 | 2.8 | 0.1 | 0.5 | 0.10 | 0.00 | 0.1 | 0.01 | 1 | 0.3 |
-| Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 20 | 78.4 | 7.2 | 0.6 | 0.16 | 0.00 | 5.2 | 3.28 | 320 | 0.0 |
+| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 20 | 78.4 | 7.2 | 0.6 | 0.16 | 0.00 | 5.2 | 3.28 | 320 | 0.0 |
 | **Total** | | | 2001 | 74.8 | 300.8 | 19.75 | 0.00 | 58.8 | 33.54 | 3461 | 27.1 |
 
 **Per serving (total / 4):** kcal 500, protein_g 18.7, carbs_g 75.2, sugar_g 4.9, free_sugar_g 0.0, fat_g 14.7, satfat_g 8.4, salt_g 2.16, fibre_g 6.8

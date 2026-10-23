@@ -11,7 +11,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | savoy cabbage, cored, leaves torn into 4 cm pieces | Cabbage, savoy, raw (FDC 170388) | 300 | 81.0 | 6.0 | 18.3 | 6.81 | 0.00 | 0.3 | 0.04 | 84 | 9.3 |
 | fine salt for 5 litres of pasta water (0.8%) (about 2.1 g: absorbed by 650 g fresh pasta) | Salt, table (SR 02047) | 2.1 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 814 | 0.0 |
 | fontina (or another Alpine cheese), thinly sliced | Cheese, fontina (FDC 170843) | 150 | 583.5 | 38.4 | 2.3 | 2.33 | 0.00 | 46.7 | 28.79 | 1200 | 0.0 |
-| Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 60 | 235.2 | 21.4 | 1.9 | 0.48 | 0.00 | 15.5 | 9.85 | 961 | 0.0 |
+| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 60 | 235.2 | 21.4 | 1.9 | 0.48 | 0.00 | 15.5 | 9.85 | 961 | 0.0 |
 | unsalted butter | Butter, without salt (SR 01145) | 80 | 573.6 | 0.7 | 0.0 | 0.05 | 0.00 | 64.9 | 41.10 | 9 | 0.0 |
 | garlic cloves, thinly sliced | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | fresh sage leaves (fresh leaves (about 0.7 g each) counted as dried sage at a quarter of the weight (ESTIMATE)) | Spices, sage, ground (FDC 170935) | 1.4 | 4.4 | 0.1 | 0.9 | 0.02 | 0.00 | 0.2 | 0.10 | 0 | 0.6 |

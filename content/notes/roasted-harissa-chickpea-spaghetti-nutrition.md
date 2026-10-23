@@ -15,7 +15,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | dried spaghetti | Pasta, dry, enriched (SR 20120) | 340 | 1261.4 | 44.3 | 253.9 | 9.08 | 0.00 | 5.1 | 0.94 | 20 | 10.9 |
 | fine salt for 3 litres of pasta water (0.5%) (about 2.5 g: absorbed by 340 g dried pasta plus 60 ml cooking water added to the sauce) | Salt, table (SR 02047) | 2.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 969 | 0.0 |
 | whole-milk ricotta | Cheese, ricotta, whole milk (FDC 170851) | 150 | 225.0 | 11.3 | 10.9 | 0.41 | 0.00 | 15.3 | 9.63 | 165 | 0.0 |
-| Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
+| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
 | **Total** | | | 2524 | 92.7 | 370.5 | 47.10 | 1.57 | 76.7 | 21.93 | 3671 | 38.7 |
 
 **Per serving (total / 4):** kcal 631, protein_g 23.2, carbs_g 92.6, sugar_g 11.8, free_sugar_g 0.4, fat_g 19.2, satfat_g 5.5, salt_g 2.29, fibre_g 9.7

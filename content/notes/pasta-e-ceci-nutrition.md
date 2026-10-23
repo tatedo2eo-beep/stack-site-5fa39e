@@ -18,7 +18,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ditalini or other small pasta | Pasta, dry, enriched (SR 20120) | 150 | 556.5 | 19.6 | 112.0 | 4.00 | 0.00 | 2.3 | 0.42 | 9 | 4.8 |
 | escarole, kale or spinach, roughly chopped | Spinach, raw (SR 11457) | 100 | 23.0 | 2.9 | 3.6 | 0.42 | 0.00 | 0.4 | 0.06 | 79 | 2.2 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 15 | 3.3 | 0.1 | 1.0 | 0.38 | 0.38 | 0.0 | 0.01 | 0 | 0.0 |
-| pecorino or a vegetarian hard cheese, finely grated | Cheese, romano (FDC 171249) | 25 | 96.8 | 8.0 | 0.9 | 0.18 | 0.00 | 6.7 | 4.28 | 358 | 0.0 |
+| pecorino-style hard cheese (microbial rennet), finely grated | Cheese, romano (FDC 171249) | 25 | 96.8 | 8.0 | 0.9 | 0.18 | 0.00 | 6.7 | 4.28 | 358 | 0.0 |
 | extra-virgin olive oil, to drizzle | Oil, olive, salad or cooking (SR 04053) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 1.86 | 0 | 0.0 |
 | **Total** | | | 1954 | 68.7 | 258.0 | 38.27 | 0.38 | 76.3 | 13.47 | 3525 | 46.0 |
 

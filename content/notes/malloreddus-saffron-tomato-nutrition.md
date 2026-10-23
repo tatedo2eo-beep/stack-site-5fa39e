@@ -14,7 +14,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | tinned whole plum tomatoes (2 tins), crushed by hand | Tomatoes, red, ripe, canned, in tomato juice (SR 11531) | 800 | 128.0 | 6.3 | 27.8 | 18.96 | 0.00 | 2.0 | 0.32 | 920 | 15.2 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | fine salt for 4 litres of pasta water (0.8%) (about 1.9 g: absorbed by 450 g fresh pasta plus 60 ml cooking water added to the sauce) | Salt, table (SR 02047) | 1.9 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 736 | 0.0 |
-| Pecorino (or a vegetarian hard cheese), finely grated | Cheese, romano (FDC 171249) | 40 | 154.8 | 12.7 | 1.5 | 0.29 | 0.00 | 10.8 | 6.85 | 573 | 0.0 |
+| pecorino-style hard cheese (microbial rennet), finely grated | Cheese, romano (FDC 171249) | 40 | 154.8 | 12.7 | 1.5 | 0.29 | 0.00 | 10.8 | 6.85 | 573 | 0.0 |
 | **Total** | | | 1696 | 60.1 | 268.5 | 24.45 | 0.00 | 43.2 | 11.42 | 3408 | 29.6 |
 
 **Per serving (total / 4):** kcal 424, protein_g 15.0, carbs_g 67.1, sugar_g 6.1, free_sugar_g 0.0, fat_g 10.8, satfat_g 2.9, salt_g 2.13, fibre_g 7.4

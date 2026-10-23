@@ -11,7 +11,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | garlic cloves, peeled | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | basil leaves, plus extra to serve | Basil, fresh (FDC 172232) | 40 | 9.2 | 1.3 | 1.1 | 0.12 | 0.00 | 0.3 | 0.02 | 2 | 0.6 |
 | flat-leaf parsley leaves | Parsley, fresh (SR 11297) | 30 | 10.8 | 0.9 | 1.9 | 0.26 | 0.00 | 0.2 | 0.04 | 17 | 1.0 |
-| Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
+| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
 | smoked paprika | Spices, paprika (SR 02028) | 2.3 | 6.5 | 0.3 | 1.2 | 0.24 | 0.00 | 0.3 | 0.05 | 2 | 0.8 |
 | sunflower or rapeseed oil | Oil, canola (SR 04582) | 138 | 1219.9 | 0.0 | 0.0 | 0.00 | 0.00 | 138.0 | 10.17 | 0 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 30 | 6.6 | 0.1 | 2.1 | 0.76 | 0.76 | 0.1 | 0.01 | 0 | 0.1 |

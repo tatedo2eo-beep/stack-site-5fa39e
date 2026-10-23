@@ -189,7 +189,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cherry-bakewell-tart-glace-cherries | Bakewell | Cherry | 2 | 4 |
 | cherry-clafoutis | Clafoutis | Classic | 2 | 4 |
 | cherry-lime-iced-tea | Iced tea | Cherry & lime | 1 | 3 |
-| cherry-rosemary-balsamic-focaccia | Focaccia | Cherry | 1 | 3 |
+| cherry-rosemary-pomegranate-focaccia | Focaccia | Cherry | 1 | 3 |
 | cherry-streusel-bars | Bars (magic bars, millionaire's shortbread) | Cherry | 1 | 3 |
 | cherry-tomato-caprese-garlic-tomato-dressing | Caprese | Cherry tomato | 1 | 3 |
 | chewy-amaretti | Amaretti | Classic | 2 | 4 |

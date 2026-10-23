@@ -50,7 +50,7 @@
       "group": "Dressing",
       "qty": 2,
       "unit": "tsp",
-      "item": "Worcestershire sauce"
+      "item": "tamarind paste"
     },
     {
       "group": "Dressing",
@@ -105,7 +105,7 @@
   "steps": [
     {
       "title": "Whisk the dressing",
-      "text": "Whisk the mayonnaise, Parmesan, lemon juice, Worcestershire, garlic, oil and pepper. Set 4 tbsp aside for brushing."
+      "text": "Whisk the mayonnaise, Parmesan, lemon juice, tamarind, garlic, oil and pepper. Set 4 tbsp aside for brushing."
     },
     {
       "title": "Prepare",
@@ -131,20 +131,19 @@
     "milk",
     "eggs",
     "mustard",
-    "fish",
-    "sulphites"
+    "fish"
   ],
   "diet": [],
   "nutrition_per_serving": {
-    "kcal": 736,
-    "protein_g": 37.5,
-    "carbs_g": 22.0,
-    "sugar_g": 3.5,
+    "kcal": 740,
+    "protein_g": 37.6,
+    "carbs_g": 23.1,
+    "sugar_g": 4.2,
     "free_sugar_g": 1.7,
     "fat_g": 55.2,
-    "satfat_g": 10.5,
-    "salt_g": 2.19,
-    "fibre_g": 3.4
+    "satfat_g": 10.6,
+    "salt_g": 2.11,
+    "fibre_g": 3.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": null,

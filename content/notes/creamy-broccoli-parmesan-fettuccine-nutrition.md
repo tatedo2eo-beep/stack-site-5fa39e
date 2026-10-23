@@ -15,7 +15,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt for 4 litres of pasta water (0.5%) (about 3.2 g: absorbed by 450 g dried pasta plus 60 ml cooking water added to the sauce) | Salt, table (SR 02047) | 3.2 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1240 | 0.0 |
 | lemon (2 tsp zest) | Lemon peel, raw (SR 09156) | 2 | 0.9 | 0.0 | 0.3 | 0.08 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
 | lemon (5 tsp juice) | Lemon juice, raw (SR 09152) - juice sugars counted as free | 25 | 5.5 | 0.1 | 1.7 | 0.63 | 0.63 | 0.1 | 0.01 | 0 | 0.1 |
-| Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 45 | 176.4 | 16.1 | 1.4 | 0.36 | 0.00 | 11.6 | 7.38 | 721 | 0.0 |
+| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 45 | 176.4 | 16.1 | 1.4 | 0.36 | 0.00 | 11.6 | 7.38 | 721 | 0.0 |
 | **Total** | | | 3353 | 98.0 | 384.0 | 30.17 | 0.63 | 162.4 | 93.01 | 2815 | 27.5 |
 
 **Per serving (total / 6):** kcal 559, protein_g 16.3, carbs_g 64.0, sugar_g 5.0, free_sugar_g 0.1, fat_g 27.1, satfat_g 15.5, salt_g 1.17, fibre_g 4.6

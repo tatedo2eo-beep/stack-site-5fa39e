@@ -11,7 +11,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | garlic cloves, thinly sliced | Garlic, raw (SR 11215) | 9 | 13.4 | 0.6 | 3.0 | 0.09 | 0.00 | 0.0 | 0.01 | 2 | 0.2 |
 | dried chilli flakes | ESTIMATE: dried red chillies, whole (close to SR chili pepper powder without salt) | 1 | 2.8 | 0.1 | 0.5 | 0.10 | 0.00 | 0.1 | 0.01 | 1 | 0.3 |
 | fine salt for 4 litres of pasta water (0.8%) (about 2.1 g: absorbed by 450 g fresh pasta plus 80 ml cooking water added to the sauce) | Salt, table (SR 02047) | 2.1 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 814 | 0.0 |
-| Pecorino (or a vegetarian hard cheese), finely grated | Cheese, romano (FDC 171249) | 30 | 116.1 | 9.5 | 1.1 | 0.22 | 0.00 | 8.1 | 5.13 | 430 | 0.0 |
+| pecorino-style hard cheese (microbial rennet), finely grated | Cheese, romano (FDC 171249) | 30 | 116.1 | 9.5 | 1.1 | 0.22 | 0.00 | 8.1 | 5.13 | 430 | 0.0 |
 | **Total** | | | 1944 | 63.8 | 243.2 | 2.12 | 0.00 | 81.1 | 15.31 | 1405 | 24.7 |
 
 **Per serving (total / 4):** kcal 486, protein_g 16.0, carbs_g 60.8, sugar_g 0.5, free_sugar_g 0.0, fat_g 20.3, satfat_g 3.8, salt_g 0.88, fibre_g 6.2

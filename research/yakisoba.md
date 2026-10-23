@@ -26,4 +26,5 @@ Changes made:
 - Sulphites added to allergens (vinegar, hot sauce or mustard may contain them)
 - sugar: 2 tsp → 8 g (CHECKLIST 1, weights in grams)
 - Storage: added "refrigerate within 2 hours" line (06-G9)
+- sugar: 1 tbsp → 12 g (CHECKLIST 1, weights in grams)
 - Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

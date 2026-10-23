@@ -18,14 +18,14 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | dried bucatini or ziti | Pasta, dry, enriched (SR 20120) | 450 | 1669.5 | 58.7 | 336.0 | 12.02 | 0.00 | 6.8 | 1.25 | 27 | 14.4 |
 | fine salt for 4 litres of pasta water (0.8%) (about 4.7 g: absorbed by 450 g dried pasta) | Salt, table (SR 02047) | 4.7 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1822 | 0.0 |
 | large egg, beaten | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
-| Pecorino (or a vegetarian hard cheese), finely grated | Cheese, romano (FDC 171249) | 30 | 116.1 | 9.5 | 1.1 | 0.22 | 0.00 | 8.1 | 5.13 | 430 | 0.0 |
+| pecorino-style hard cheese (microbial rennet), finely grated | Cheese, romano (FDC 171249) | 30 | 116.1 | 9.5 | 1.1 | 0.22 | 0.00 | 8.1 | 5.13 | 430 | 0.0 |
 | unsalted butter | Butter, without salt (SR 01145) | 80 | 573.6 | 0.7 | 0.0 | 0.05 | 0.00 | 64.9 | 41.10 | 9 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 80 | 291.2 | 8.3 | 61.0 | 0.22 | 0.00 | 0.8 | 0.12 | 2 | 2.2 |
 | whole milk, warmed | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 1000 | 610.0 | 31.5 | 48.0 | 50.50 | 0.00 | 32.5 | 18.65 | 430 | 0.0 |
 | freshly grated nutmeg | Spices, nutmeg, ground (FDC 171326) | 0.6 | 3.1 | 0.0 | 0.3 | 0.02 | 0.00 | 0.2 | 0.16 | 0 | 0.1 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 34 | 109.5 | 5.4 | 1.2 | 0.19 | 0.00 | 9.0 | 3.25 | 16 | 0.0 |
-| Pecorino (or a vegetarian hard cheese), finely grated | Cheese, romano (FDC 171249) | 50 | 193.5 | 15.9 | 1.8 | 0.36 | 0.00 | 13.5 | 8.56 | 716 | 0.0 |
+| pecorino-style hard cheese (microbial rennet), finely grated | Cheese, romano (FDC 171249) | 50 | 193.5 | 15.9 | 1.8 | 0.36 | 0.00 | 13.5 | 8.56 | 716 | 0.0 |
 | butter for the dish (about half stays on the dish) | Butter, without salt (SR 01145) | 5 | 35.9 | 0.0 | 0.0 | 0.00 | 0.00 | 4.1 | 2.57 | 1 | 0.0 |
 | **Total** | | | 5657 | 276.9 | 505.6 | 91.81 | 0.00 | 278.2 | 127.61 | 7670 | 30.4 |
 

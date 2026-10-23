@@ -11,11 +11,11 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | pine nuts | Nuts, pine nuts, dried (FDC 170591) | 30 | 201.9 | 4.1 | 3.9 | 1.08 | 0.00 | 20.5 | 1.47 | 1 | 1.1 |
 | garlic cloves, peeled | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | coarse salt | Salt, table (SR 02047) | 0.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 194 | 0.0 |
-| Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
-| Pecorino (or a vegetarian hard cheese), finely grated | Cheese, romano (FDC 171249) | 15 | 58.0 | 4.8 | 0.5 | 0.11 | 0.00 | 4.0 | 2.57 | 215 | 0.0 |
+| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
+| pecorino-style hard cheese (microbial rennet), finely grated | Cheese, romano (FDC 171249) | 15 | 58.0 | 4.8 | 0.5 | 0.11 | 0.00 | 4.0 | 2.57 | 215 | 0.0 |
 | mild extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 90 | 795.6 | 0.0 | 0.0 | 0.00 | 0.00 | 90.0 | 12.43 | 2 | 0.0 |
 | fine salt for 4 litres of pasta water (0.8%) (about 1.9 g: absorbed by 450 g fresh pasta plus 60 ml cooking water added to the sauce) | Salt, table (SR 02047) | 1.9 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 736 | 0.0 |
-| Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 15 | 58.8 | 5.4 | 0.5 | 0.12 | 0.00 | 3.9 | 2.46 | 240 | 0.0 |
+| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 15 | 58.8 | 5.4 | 0.5 | 0.12 | 0.00 | 3.9 | 2.46 | 240 | 0.0 |
 | **Total** | | | 2374 | 61.7 | 241.2 | 2.30 | 0.00 | 129.7 | 24.35 | 1882 | 11.8 |
 
 **Per serving (total / 4):** kcal 594, protein_g 15.4, carbs_g 60.3, sugar_g 0.6, free_sugar_g 0.0, fat_g 32.4, satfat_g 6.1, salt_g 1.18, fibre_g 3.0

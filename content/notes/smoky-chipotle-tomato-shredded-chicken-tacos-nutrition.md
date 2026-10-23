@@ -12,7 +12,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | dried oregano (Mexican if you have it) | Spices, oregano, dried (SR 02027) | 0.5 | 1.3 | 0.0 | 0.3 | 0.02 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | ground cumin | Spices, cumin seed (SR 02014) | 1.05 | 3.9 | 0.2 | 0.5 | 0.02 | 0.00 | 0.2 | 0.02 | 2 | 0.1 |
 | can fire-roasted or plain chopped tomatoes | Tomatoes, red, ripe, canned, in tomato juice (SR 11531) | 400 | 64.0 | 3.2 | 13.9 | 9.48 | 0.00 | 1.0 | 0.16 | 460 | 7.6 |
-| chipotle chillies in adobo, chopped, plus 1 tbsp of the adobo sauce (check the label: no wine vinegar) | ESTIMATE from typical canned chipotle-in-adobo labels | 35 | 21.0 | 0.5 | 3.5 | 1.40 | 0.00 | 0.5 | 0.07 | 385 | 1.4 |
+| chipotle chillies in adobo, chopped, plus 1 tbsp of the adobo sauce (check the label: distilled vinegar only) | ESTIMATE from typical canned chipotle-in-adobo labels | 35 | 21.0 | 0.5 | 3.5 | 1.40 | 0.00 | 0.5 | 0.07 | 385 | 1.4 |
 | low-sodium chicken stock (ESTIMATE: ready-to-serve chicken broth values) | Soup, chicken broth, ready-to-serve (FDC 174536) | 120 | 7.2 | 0.8 | 0.5 | 0.52 | 0.00 | 0.3 | 0.02 | 445 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | small corn tortillas (15 cm) | Tortillas, ready-to-bake or -fry, corn (FDC 175036) | 312 | 680.2 | 17.8 | 139.3 | 2.75 | 0.00 | 8.9 | 1.41 | 140 | 19.7 |
@@ -34,5 +34,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Canned chipotles in adobo contain vinegar; choose a brand made with distilled or cider vinegar, never wine vinegar.
+- Canned chipotles in adobo contain vinegar; choose a brand that lists distilled vinegar only.
 - Choose a cheese made with microbial rennet.

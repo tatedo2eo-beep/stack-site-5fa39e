@@ -9,19 +9,18 @@ Dish: Focaccia / flavour: Cherry. Private file, not published.
 > Written for this batch. Quantities, step structure and wording are my own and differ from the source; quantities sanity-checked independently.
 
 ## Own cooking judgment
-- Source liqueur replaced with water (no alcohol).
+- Pomegranate molasses makes the sticky cherry glaze, loosened with a little water.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
 - Doneness cues in the method: 1 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 25 min + cook 30 min against the step times.
-- Quantities checked against servings (12). Nutrition worked from USDA FDC (see content/notes/cherry-rosemary-balsamic-focaccia-nutrition.md).
+- Quantities checked against servings (12). Nutrition worked from USDA FDC (see content/notes/cherry-rosemary-pomegranate-focaccia-nutrition.md).
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 1. Non-top-tier pages are context only.
 
 ## Knowledge check
 Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); CHECKLIST 6 (preheat at least 20 min, stated before the oven step).
 Changes made:
-- Sulphites added to allergens (vinegar, hot sauce or mustard may contain them)
 - caster sugar: 1 tsp → 4 g (CHECKLIST 1, weights in grams)
 - Storage: added "refrigerate within 2 hours" line (06-G9)
 - Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

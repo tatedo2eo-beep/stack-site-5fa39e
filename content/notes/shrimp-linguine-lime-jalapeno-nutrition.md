@@ -17,7 +17,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | raw peeled prawns (shrimp), deveined | Crustaceans, shrimp, raw (FDC 175179) | 350 | 297.5 | 70.4 | 0.0 | 0.00 | 0.00 | 1.8 | 0.35 | 416 | 0.0 |
 | chopped flat-leaf parsley | Parsley, fresh (SR 11297) | 9 | 3.2 | 0.3 | 0.6 | 0.08 | 0.00 | 0.1 | 0.01 | 5 | 0.3 |
 | chopped coriander | Coriander (cilantro) leaves, raw (SR 11165) | 6 | 1.4 | 0.1 | 0.2 | 0.05 | 0.00 | 0.0 | 0.00 | 3 | 0.2 |
-| Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
+| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
 | **Total** | | | 1731 | 120.9 | 212.2 | 17.76 | 0.25 | 43.6 | 11.47 | 3457 | 13.8 |
 
 **Per serving (total / 4):** kcal 433, protein_g 30.2, carbs_g 53.0, sugar_g 4.4, free_sugar_g 0.1, fat_g 10.9, satfat_g 2.9, salt_g 2.16, fibre_g 3.4

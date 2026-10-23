@@ -16,7 +16,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | pitted black olives, chopped | Olives, ripe, canned (small-extra large) (FDC 169094) | 40 | 46.4 | 0.3 | 2.4 | 0.00 | 0.00 | 4.4 | 0.91 | 294 | 0.6 |
 | chopped fresh oregano or basil | Basil, fresh (FDC 172232) | 4 | 0.9 | 0.1 | 0.1 | 0.01 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
 | pine nuts, toasted | Nuts, pine nuts, dried (FDC 170591) | 30 | 201.9 | 4.1 | 3.9 | 1.08 | 0.00 | 20.5 | 1.47 | 1 | 1.1 |
-| pecorino or a vegetarian hard cheese, finely grated | Cheese, romano (FDC 171249) | 30 | 116.1 | 9.5 | 1.1 | 0.22 | 0.00 | 8.1 | 5.13 | 430 | 0.0 |
+| pecorino-style hard cheese (microbial rennet), finely grated | Cheese, romano (FDC 171249) | 30 | 116.1 | 9.5 | 1.1 | 0.22 | 0.00 | 8.1 | 5.13 | 430 | 0.0 |
 | **Total** | | | 2511 | 75.4 | 346.1 | 35.93 | 0.00 | 95.1 | 16.41 | 3631 | 26.7 |
 
 **Per serving (total / 4):** kcal 628, protein_g 18.9, carbs_g 86.5, sugar_g 9.0, free_sugar_g 0.0, fat_g 23.8, satfat_g 4.1, salt_g 2.27, fibre_g 6.7

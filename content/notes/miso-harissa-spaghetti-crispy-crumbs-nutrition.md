@@ -10,7 +10,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | harissa paste (proxy for harissa (chilli paste)) | ESTIMATE from typical sambal oelek labels (chilli, salt, vinegar; no SR Legacy entry) | 22 | 8.8 | 0.2 | 1.3 | 0.77 | 0.77 | 0.2 | 0.02 | 440 | 0.4 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 3.73 | 1 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
-| Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 45 | 176.4 | 16.1 | 1.4 | 0.36 | 0.00 | 11.6 | 7.38 | 721 | 0.0 |
+| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 45 | 176.4 | 16.1 | 1.4 | 0.36 | 0.00 | 11.6 | 7.38 | 721 | 0.0 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 3.73 | 1 | 0.0 |
 | panko breadcrumbs | Bread crumbs, dry, grated, plain (FDC 174928); proxy for panko | 40 | 158.0 | 5.4 | 28.8 | 2.48 | 2.48 | 2.1 | 0.48 | 293 | 1.8 |
 | finely chopped parsley | Parsley, fresh (SR 11297) | 2 | 0.7 | 0.1 | 0.1 | 0.02 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |

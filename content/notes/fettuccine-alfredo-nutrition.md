@@ -7,7 +7,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fresh egg fettuccine | Pasta, fresh-refrigerated, plain, as purchased (FDC 169727) | 400 | 1152.0 | 45.2 | 218.9 | 0.00 | 0.00 | 9.2 | 1.31 | 104 | 0.0 |
 | fine salt for 3 litres of pasta water (0.8%) (about 2.2 g: absorbed by 400 g fresh pasta plus 120 ml cooking water added to the sauce) | Salt, table (SR 02047) | 2.2 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 853 | 0.0 |
 | unsalted butter, diced, at room temperature | Butter, without salt (SR 01145) | 100 | 717.0 | 0.8 | 0.1 | 0.06 | 0.00 | 81.1 | 51.37 | 11 | 0.0 |
-| Parmesan (Parmigiano Reggiano, ideally 18-24 months) or a vegetarian hard cheese, very finely grated | Cheese, parmesan, hard (SR 01033) | 100 | 392.0 | 35.8 | 3.2 | 0.80 | 0.00 | 25.8 | 16.41 | 1602 | 0.0 |
+| aged Parmesan-style hard cheese (microbial rennet), very finely grated | Cheese, parmesan, hard (SR 01033) | 100 | 392.0 | 35.8 | 3.2 | 0.80 | 0.00 | 25.8 | 16.41 | 1602 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | **Total** | | | 2263 | 81.9 | 222.6 | 0.86 | 0.00 | 116.2 | 69.10 | 2570 | 0.2 |
 

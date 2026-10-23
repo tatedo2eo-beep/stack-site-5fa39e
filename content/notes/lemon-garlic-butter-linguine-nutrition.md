@@ -11,7 +11,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | large unwaxed lemon (zest) | Lemon peel, raw (SR 09156) | 6 | 2.8 | 0.1 | 1.0 | 0.25 | 0.00 | 0.0 | 0.00 | 0 | 0.6 |
 | large unwaxed lemon (juice) | Lemon juice, raw (SR 09152) - juice sugars counted as free | 45 | 9.9 | 0.2 | 3.1 | 1.13 | 1.13 | 0.1 | 0.02 | 0 | 0.1 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
-| Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
+| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
 | chopped flat-leaf parsley | Parsley, fresh (SR 11297) | 6 | 2.2 | 0.2 | 0.4 | 0.05 | 0.00 | 0.0 | 0.01 | 3 | 0.2 |
 | **Total** | | | 2607 | 71.5 | 345.2 | 13.85 | 1.13 | 104.0 | 62.73 | 3161 | 15.9 |
 

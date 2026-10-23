@@ -1,5 +1,5 @@
 {
-  "slug": "cherry-rosemary-balsamic-focaccia",
+  "slug": "cherry-rosemary-pomegranate-focaccia",
   "title": "Cherry and Rosemary Focaccia",
   "category": "snacks-sides",
   "cuisine": "Italian",
@@ -11,10 +11,10 @@
   "flavour_order": 114,
   "access": "premium",
   "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
-  "changes_from_base": "No-knead potato-flake dough on a large tray, topped with cherries cooked in balsamic and rosemary.",
+  "changes_from_base": "No-knead potato-flake dough on a large tray, topped with cherries cooked in pomegranate molasses, with rosemary.",
   "extra_flavour": true,
   "photo_pending": true,
-  "summary": "A no-knead tray focaccia topped with cherries cooked down with balsamic vinegar, plus rosemary and flaky salt.",
+  "summary": "A no-knead tray focaccia topped with cherries cooked down with pomegranate molasses, plus rosemary and flaky salt.",
   "servings": 12,
   "prep_min": 25,
   "cook_min": 30,
@@ -88,13 +88,13 @@
     },
     {
       "group": "Cherries",
-      "qty": 2,
+      "qty": 1.5,
       "unit": "tbsp",
-      "item": "balsamic vinegar"
+      "item": "pomegranate molasses"
     },
     {
       "group": "Cherries",
-      "qty": 1,
+      "qty": 2,
       "unit": "tbsp",
       "item": "water"
     },
@@ -124,7 +124,7 @@
     },
     {
       "title": "Cherries",
-      "text": "Heat 1 tbsp oil in a frying pan over medium-high heat and cook the cherries 3 min, until they start to bleed juice. Add the balsamic and water and bubble 2-3 min, until syrupy and clinging to the fruit. Cool."
+      "text": "Heat 1 tbsp oil in a frying pan over medium-high heat and cook the cherries 3 min, until they start to bleed juice. Add the pomegranate molasses and water and bubble 2-3 min, until syrupy and clinging to the fruit. Cool."
     },
     {
       "title": "Tray",
@@ -146,8 +146,7 @@
   ],
   "storage": "Eat within 1 day at room temperature, or keep in the fridge for up to 3 days and warm at 180 °C for 5 min. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
-    "gluten",
-    "sulphites"
+    "gluten"
   ],
   "diet": [
     "vegetarian",
@@ -155,11 +154,11 @@
     "dairy-free"
   ],
   "nutrition_per_serving": {
-    "kcal": 235,
+    "kcal": 240,
     "protein_g": 5.7,
-    "carbs_g": 38.8,
-    "sugar_g": 5.7,
-    "free_sugar_g": 0.3,
+    "carbs_g": 40.0,
+    "sugar_g": 6.8,
+    "free_sugar_g": 1.7,
     "fat_g": 6.4,
     "satfat_g": 0.9,
     "salt_g": 0.54,

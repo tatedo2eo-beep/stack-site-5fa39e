@@ -15,7 +15,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | dried fettuccine | Pasta, dry, enriched (SR 20120) | 400 | 1484.0 | 52.2 | 298.7 | 10.68 | 0.00 | 6.0 | 1.11 | 24 | 12.8 |
 | fine salt for 4 litres of pasta water (0.5%) (about 2.9 g: absorbed by 400 g dried pasta plus 60 ml cooking water added to the sauce) | Salt, table (SR 02047) | 2.9 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1124 | 0.0 |
 | frozen peas | Peas, green, frozen, cooked, boiled, drained, without salt (FDC 170017) | 250 | 195.0 | 12.9 | 35.6 | 11.00 | 0.00 | 0.7 | 0.12 | 180 | 11.2 |
-| Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 60 | 235.2 | 21.4 | 1.9 | 0.48 | 0.00 | 15.5 | 9.85 | 961 | 0.0 |
+| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 60 | 235.2 | 21.4 | 1.9 | 0.48 | 0.00 | 15.5 | 9.85 | 961 | 0.0 |
 | basil, chopped | Basil, fresh (FDC 172232) | 15 | 3.4 | 0.5 | 0.4 | 0.04 | 0.00 | 0.1 | 0.01 | 1 | 0.2 |
 | **Total** | | | 3215 | 172.2 | 347.1 | 28.96 | 0.76 | 124.0 | 71.98 | 3087 | 24.9 |
 

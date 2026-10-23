@@ -7,8 +7,8 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | waxy or all-purpose potatoes (such as Charlotte or Yukon Gold), peeled (weighed peeled) | Potatoes, flesh and skin, raw (SR 11352) | 1200 | 924.0 | 24.6 | 209.9 | 9.84 | 0.00 | 1.1 | 0.30 | 72 | 25.2 |
 | fine salt, for the cooking water (about 3 g absorbed) | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | cider vinegar, divided | Vinegar, cider (FDC 173469) | 45 | 9.5 | 0.0 | 0.4 | 0.18 | 0.00 | 0.0 | 0.00 | 2 | 0.0 |
-| mayonnaise (check the label: no wine vinegar) | Salad dressing, mayonnaise, regular (SR 04025) | 150 | 1020.0 | 1.4 | 0.9 | 0.85 | 0.85 | 112.3 | 17.61 | 952 | 0.0 |
-| mild yellow mustard (check the label: no wine) | Mustard, prepared, yellow (SR 02046) | 15 | 9.0 | 0.6 | 0.9 | 0.14 | 0.00 | 0.5 | 0.03 | 166 | 0.6 |
+| mayonnaise (check the label: distilled vinegar only) | Salad dressing, mayonnaise, regular (SR 04025) | 150 | 1020.0 | 1.4 | 0.9 | 0.85 | 0.85 | 112.3 | 17.61 | 952 | 0.0 |
+| mild yellow mustard (check the label: distilled vinegar only) | Mustard, prepared, yellow (SR 02046) | 15 | 9.0 | 0.6 | 0.9 | 0.14 | 0.00 | 0.5 | 0.03 | 166 | 0.6 |
 | sugar | Sugars, granulated (SR 19335) | 4 | 15.5 | 0.0 | 4.0 | 3.99 | 3.99 | 0.0 | 0.00 | 0 | 0.0 |
 | celery sticks, finely diced | Celery, raw (FDC 169988) | 100 | 14.0 | 0.7 | 3.0 | 1.34 | 0.00 | 0.2 | 0.04 | 80 | 1.6 |
 | small red onion, finely diced | Onions, raw (SR 11282) | 60 | 24.0 | 0.7 | 5.6 | 2.54 | 0.00 | 0.1 | 0.03 | 2 | 1.0 |
