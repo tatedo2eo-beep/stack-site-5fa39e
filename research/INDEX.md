@@ -34,6 +34,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | avgolemono-greek-chicken-rice-soup-egg-lemon | Avgolemono | Classic | 2 | 4 |
 | bagna-cauda-warm-anchovy-garlic-dip | Bagna cauda | Classic | 2 | 4 |
 | baked-beef-empanadas-olives-raisins | Empanadas | Classic | 3 | 5 |
+| baked-beef-empanadas-potato-peppers | Empanadas | Beef | 2 | 4 |
 | baked-cheese-souffle-gruyere-parmesan | Soufflé (savory) | Classic | 2 | 4 |
 | baked-dark-chocolate-pots-de-creme | Pot de crème | Classic | 2 | 4 |
 | baked-mac-and-cheese | Mac and cheese | Classic | 2 | 4 |
@@ -56,6 +57,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | beef-larb-toasted-rice-herbs | Larb | Classic | 3 | 5 |
 | beef-lo-mein | Lo mein | Beef | 2 | 4 |
 | beef-meatballs-tomato-sauce | Meatballs | Classic | 2 | 4 |
+| beef-pepper-briouats-filo-lemon-garlic-dip | Briouat | Classic | 1 | 3 |
 | beef-rice-stuffed-peppers-tomato-melted-cheese | Stuffed peppers | Classic | 2 | 4 |
 | beef-stroganoff-mushrooms-noodles | Beef stroganoff | Classic | 2 | 4 |
 | bengali-spiced-tomato-chutney | Chutney | Tomato | 2 | 4 |
@@ -132,6 +134,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cheddar-cheese-sauce | Cheese sauce | Classic | 2 | 4 |
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |
 | cheese-bread-boats-melted-mozzarella-feta-baked-egg | Khachapuri | Classic | 2 | 4 |
+| cheese-empanadas-melting-mozzarella-fontina | Empanadas | Cheese | 1 | 3 |
 | cheese-jalapeno-nachos | Nachos | Classic | 2 | 4 |
 | cheeseburger-sliders | Sliders | Classic | 2 | 5 |
 | cheesy-gruyere-gougeres | Gougères | Classic | 2 | 4 |
@@ -150,6 +153,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chicken-caesar-salad-griddled-breast | Caesar | Chicken | 3 | 5 |
 | chicken-caesar-wraps-lemon-chicken-crunchy-panko | Wraps | Chicken Caesar | 2 | 4 |
 | chicken-chow-mein | Chow mein/lo mein | Chicken | 3 | 5 |
+| chicken-empanadas-peppers-olives-baked | Empanadas | Chicken | 2 | 4 |
 | chicken-fried-rice-egg-peas-carrot | Fried rice | Classic | 2 | 4 |
 | chicken-fried-steak | Chicken fried steak | Classic | 3 | 6 |
 | chicken-inasal | Chicken inasal | Classic | 1 | 4 |
@@ -881,6 +885,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spiced-saudi-chicken-rice-tomato-almonds-raisins | Kabsa | Chicken | 2 | 4 |
 | spicy-chicken-burger | Chicken burger | Spicy (cayenne/hot sauce) | 2 | 8 |
 | spicy-ful-medames-chilli-oil | Ful medames | Chili oil | 1 | 3 |
+| spinach-fatayer-sumac-lemon | Fatayer | Classic | 1 | 3 |
 | spinach-feta-spiral-borek | Börek | Spinach (ıspanaklı) | 1 | 3 |
 | spinach-ricotta-calzones-tomato-dipping-sauce | Calzone | Classic | 2 | 4 |
 | spinach-ricotta-cannelloni | Cannelloni | Classic | 2 | 4 |

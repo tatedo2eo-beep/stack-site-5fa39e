@@ -1,0 +1,181 @@
+{
+  "slug": "spinach-fatayer-sumac-lemon",
+  "title": "Spinach Fatayer with Sumac and Lemon",
+  "category": "snacks-sides",
+  "cuisine": "Lebanese",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "fatayer",
+  "dish_title": "Fatayer",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Soft, golden triangular pies of olive-oil bread dough wrapped around a tangy spinach, onion, sumac and lemon filling.",
+  "servings": 6,
+  "prep_min": 40,
+  "cook_min": 18,
+  "difficulty": "medium",
+  "equipment": [
+    "large mixing bowl or stand mixer with dough hook",
+    "clean tea towel",
+    "2 baking trays",
+    "baking paper",
+    "rolling pin",
+    "pastry brush"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 360,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Dough",
+      "qty": 1.25,
+      "unit": "tsp",
+      "item": "instant yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 12,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 225,
+      "unit": "ml",
+      "item": "lukewarm water"
+    },
+    {
+      "group": "Dough",
+      "qty": 50,
+      "unit": "g",
+      "item": "olive oil"
+    },
+    {
+      "group": "Filling",
+      "qty": 300,
+      "unit": "g",
+      "item": "frozen chopped spinach, thawed and squeezed very dry",
+      "note": "about 285 g after squeezing"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "medium onion, very finely chopped",
+      "note": "about 70 g"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "ground sumac"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "fresh lemon juice"
+    },
+    {
+      "group": "Filling",
+      "qty": 50,
+      "unit": "g",
+      "item": "olive oil"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried chilli flakes (optional)"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil, for brushing"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Knead",
+      "text": "Mix the flour, yeast, sugar, salt, water and oil to a rough dough, then knead for 8 minutes by hand (5 in a mixer) until smooth, soft and springy. Kneading builds the gluten that lets the dough stretch thinly without tearing."
+    },
+    {
+      "title": "Rise",
+      "text": "Cut the dough into 12 equal pieces (about 55 g each) and roll them into balls. Set them on a floured tray, cover and leave for 45-60 minutes, until puffy and soft."
+    },
+    {
+      "title": "Filling",
+      "text": "Meanwhile, squeeze the spinach again in a towel, then mix it with the onion, sumac, lemon juice, oil, salt and chilli. The salt and acid draw out more water, so the filling should be moist but not dripping."
+    },
+    {
+      "title": "Heat",
+      "text": "Preheat the oven to 200 °C (180 °C fan), and line two baking trays with paper."
+    },
+    {
+      "title": "Shape",
+      "text": "Roll each ball into an 11-12 cm round. Put about 30 g filling in the centre, lift the edge at three points and pinch the seams together firmly from the centre outwards to make a closed triangle. Firm pinching stops the seams opening in the oven."
+    },
+    {
+      "title": "Bake",
+      "text": "Set the fatayer on the trays, brush them with oil and bake for 15-18 minutes, until golden. Serve warm with lemon wedges for squeezing."
+    }
+  ],
+  "tips": [
+    "Wet spinach is the most common mistake: it makes the seams open. Squeeze it as dry as you possibly can.",
+    "Flour your fingers if the seams will not stick, and pinch hard.",
+    "Mix the filling just before shaping, so it stays dry.",
+    "They are good cold in a lunchbox."
+  ],
+  "storage": "Keep in an airtight box in the fridge for up to 3 days or freeze for up to 2 months. Reheat at 180 °C for 8-10 minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 418,
+    "protein_g": 8.1,
+    "carbs_g": 52.8,
+    "sugar_g": 3.0,
+    "free_sugar_g": 2.1,
+    "fat_g": 20.1,
+    "satfat_g": 2.8,
+    "salt_g": 1.55,
+    "fibre_g": 3.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "fatayer-basic.jpg",
+  "image_alt": "Triangular spinach fatayer on a dark plate, one cut open, with a lemon wedge.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}
