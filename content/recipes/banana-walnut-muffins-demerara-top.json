@@ -1,0 +1,157 @@
+{
+  "slug": "banana-walnut-muffins-demerara-top",
+  "title": "Banana Walnut Muffins with a Demerara Top",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "muffins",
+  "book_chapter": "muffins",
+  "dish": "american-muffin-blueberry-style-muffin-method",
+  "dish_title": "American muffin (blueberry style, muffin method)",
+  "flavour": "Banana & walnut",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "lemon-sugar-blueberry-muffins",
+  "changes_from_base": "Mashed ripe banana replaces the buttermilk and berries, oil replaces the butter, and toasted walnuts with demerara go on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Moist banana muffins full of toasted walnuts, with a crackly demerara top.",
+  "servings": 12,
+  "prep_min": 15,
+  "cook_min": 18,
+  "difficulty": "easy",
+  "equipment": [
+    "12-hole muffin tin",
+    "butter or oil for greasing",
+    "2 mixing bowls",
+    "balloon whisk",
+    "fork",
+    "dry frying pan",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Muffins",
+      "qty": 260,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Muffins",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Muffins",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Muffins",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Muffins",
+      "qty": 4,
+      "unit": "pc",
+      "item": "very ripe large bananas, mashed"
+    },
+    {
+      "group": "Muffins",
+      "qty": 140,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Muffins",
+      "qty": 75,
+      "unit": "ml",
+      "item": "neutral oil (sunflower or rapeseed)"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Muffins",
+      "qty": 80,
+      "unit": "g",
+      "item": "walnuts, toasted and chopped"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "demerara sugar",
+      "note": "about 2 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the oven to 220 °C (200 °C fan) and grease the tin. Whisk the flour, baking powder, bicarbonate of soda and salt in a medium bowl."
+    },
+    {
+      "title": "Banana",
+      "text": "Mash the bananas in a large bowl with a fork until mostly smooth. Whisk in the light brown sugar, eggs, oil and vanilla."
+    },
+    {
+      "title": "Mix",
+      "text": "Add the flour mix and whisk just until no dry patches remain, then stir in about three-quarters of the toasted walnuts."
+    },
+    {
+      "title": "Fill",
+      "text": "Divide between the 12 holes; they will be very full. Scatter the rest of the walnuts and the demerara over the tops."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 14-18 min, until the tops are deep golden and a cocktail stick comes out clean."
+    },
+    {
+      "title": "Cool",
+      "text": "Leave in the tin for 10 min, then move to the rack for at least 5 min before eating."
+    }
+  ],
+  "tips": [
+    "The most common mistake is using bananas that are only just yellow; they need lots of brown spots for flavour and moisture.",
+    "Toast the walnuts in a dry pan for 4-5 min until fragrant.",
+    "For nut-free muffins leave out the walnuts and scatter a few rolled oats with the demerara instead.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight box at room temperature for up to 3 days, or freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 273,
+    "protein_g": 4.7,
+    "carbs_g": 39.9,
+    "sugar_g": 18.3,
+    "free_sugar_g": 13.4,
+    "fat_g": 11.1,
+    "satfat_g": 1.2,
+    "salt_g": 0.71,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Domed banana muffins with a crackly demerara and walnut top, one broken open."
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "pan-baked-lemon-almond-tart",
+  "title": "Pan-Baked Lemon Almond Tart",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "frangipane",
+  "dish_title": "Frangipane",
+  "flavour": "Lemon",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "poached-pear-frangipane-tart",
+  "changes_from_base": "A crustless lemon and almond batter cooked in a frying pan and finished in the oven, with no pastry or pears.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A quick crustless lemon and almond tart cooked in a frying pan and browned under the grill.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "mixing bowl",
+    "whisk",
+    "20 cm ovenproof frying pan",
+    "oven gloves",
+    "small sieve"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 120,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "use up to 150 g if you like it sweeter"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 50,
+      "unit": "g",
+      "item": "ground almonds"
+    },
+    {
+      "group": "Batter",
+      "qty": 120,
+      "unit": "ml",
+      "item": "single (light) cream"
+    },
+    {
+      "group": "Batter",
+      "qty": 45,
+      "unit": "g",
+      "item": "flaked almonds, plus 10 g to finish"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "unwaxed lemon, zest and juice"
+    },
+    {
+      "group": "Pan",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "To finish",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Batter",
+      "text": "heat the oven to 200 °C (180 °C fan). Whisk the eggs, sugar, salt, ground almonds, cream, 45 g flaked almonds and the lemon zest and juice together."
+    },
+    {
+      "title": "Start on the hob",
+      "text": "melt the butter in the pan over low heat. Once the foam settles, pour in the batter and tilt to spread it, then cook until the edges begin to set. Keep the heat low so the base doesn’t scorch."
+    },
+    {
+      "title": "Finish in the oven",
+      "text": "bake 10-15 min, until set in the middle."
+    },
+    {
+      "title": "Brown",
+      "text": "slide under a hot grill for about 1 min, until just golden. Watch it closely; it colours in seconds."
+    },
+    {
+      "title": "Serve",
+      "text": "dust with icing sugar, scatter the last almonds over and serve warm in wedges."
+    }
+  ],
+  "tips": [
+    "Use a pan with a metal handle that can go in the oven and under the grill.",
+    "Wear oven gloves when you take the pan out; the handle stays hot.",
+    "Serve with berries or thick yoghurt."
+  ],
+  "storage": "Best eaten warm. Chill leftovers for up to 1 day.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 507,
+    "protein_g": 12.8,
+    "carbs_g": 39.4,
+    "sugar_g": 34.5,
+    "free_sugar_g": 32.2,
+    "fat_g": 35.1,
+    "satfat_g": 13.3,
+    "salt_g": 0.3,
+    "fibre_g": 3.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A golden lemon and almond tart in a small frying pan, scattered with flaked almonds and icing sugar."
+}

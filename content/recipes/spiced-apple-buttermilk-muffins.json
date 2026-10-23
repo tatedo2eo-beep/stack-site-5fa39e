@@ -1,0 +1,176 @@
+{
+  "slug": "spiced-apple-buttermilk-muffins",
+  "title": "Spiced Apple Buttermilk Muffins",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "muffins",
+  "book_chapter": "muffins",
+  "dish": "american-muffin-blueberry-style-muffin-method",
+  "dish_title": "American muffin (blueberry style, muffin method)",
+  "flavour": "Apple",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "lemon-sugar-blueberry-muffins",
+  "changes_from_base": "A creamed butter batter with buttermilk, cinnamon and nutmeg, studded with diced tart apple and topped with cinnamon sugar.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Soft buttermilk muffins with chunks of tart apple, cinnamon, nutmeg and a cinnamon sugar crust.",
+  "servings": 12,
+  "prep_min": 20,
+  "cook_min": 27,
+  "difficulty": "easy",
+  "equipment": [
+    "12-hole muffin tin",
+    "paper muffin cases",
+    "2 mixing bowls",
+    "electric hand mixer",
+    "rubber spatula",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Muffins",
+      "qty": 300,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Muffins",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Muffins",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Muffins",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Muffins",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Muffins",
+      "qty": 150,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Muffins",
+      "qty": 180,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Muffins",
+      "qty": 240,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2,
+      "unit": "pc",
+      "item": "tart green apples (such as Granny Smith), peeled, cored and diced"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "granulated sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the tin with cases."
+    },
+    {
+      "title": "Dry",
+      "text": "Whisk the flour, salt, cinnamon, nutmeg, bicarbonate of soda and baking powder in a bowl and set aside."
+    },
+    {
+      "title": "Cream",
+      "text": "Beat the soft butter with the caster sugar for about 3 min until pale and fluffy. Beat in the eggs one by one, then the vanilla."
+    },
+    {
+      "title": "Alternate",
+      "text": "Beat in half the flour mix on low, then half the buttermilk, then the rest of each; stop as soon as the batter looks smooth."
+    },
+    {
+      "title": "Apples",
+      "text": "Fold in the diced apple and spoon the batter into the cases until two-thirds full. Stir the topping sugar with its cinnamon and sprinkle a little over each."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 24-27 min, until golden and a skewer in the centre comes out clean."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool 5 min in the tin, then on the rack."
+    }
+  ],
+  "tips": [
+    "The most common mistake is cutting the apple too big; keep the pieces to about 1 cm so the muffins hold together.",
+    "Tart green apples keep their shape and balance the sugar.",
+    "Have the butter and eggs at room temperature so the batter does not split."
+  ],
+  "storage": "Keep in an airtight box for up to 2 days, or freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 282,
+    "protein_g": 4.5,
+    "carbs_g": 40.9,
+    "sugar_g": 20.5,
+    "free_sugar_g": 17.1,
+    "fat_g": 11.4,
+    "satfat_g": 6.9,
+    "salt_g": 0.79,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Cinnamon-sugar topped apple muffins, one split to show chunks of apple in the crumb."
+}

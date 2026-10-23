@@ -1,0 +1,177 @@
+{
+  "slug": "cinnamon-sugar-doughnut-muffins",
+  "title": "Cinnamon Sugar Doughnut Muffins",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "muffins",
+  "book_chapter": "muffins",
+  "dish": "american-muffin-blueberry-style-muffin-method",
+  "dish_title": "American muffin (blueberry style, muffin method)",
+  "flavour": "Cinnamon",
+  "flavour_order": 112,
+  "access": "premium",
+  "base_recipe": "lemon-sugar-blueberry-muffins",
+  "changes_from_base": "A nutmeg-scented creamed batter with no fruit; the warm muffins are brushed with melted butter and rolled in cinnamon sugar like a doughnut.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Nutmeg-scented muffins brushed with butter and rolled in cinnamon sugar, like baked doughnuts.",
+  "servings": 12,
+  "prep_min": 20,
+  "cook_min": 17,
+  "difficulty": "easy",
+  "equipment": [
+    "12-hole muffin tin",
+    "butter or oil for greasing",
+    "2 mixing bowls",
+    "wooden spoon",
+    "pastry brush",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Muffins",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Muffins",
+      "qty": 50,
+      "unit": "ml",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Muffins",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Muffins",
+      "qty": 70,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Muffins",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Muffins",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Muffins",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Muffins",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Muffins",
+      "qty": 310,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Muffins",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Coating",
+      "qty": 70,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Coating",
+      "qty": 100,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Coating",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the oven to 220 °C (200 °C fan) and grease the tin generously so the muffins come out cleanly."
+    },
+    {
+      "title": "Cream",
+      "text": "Beat the soft butter, oil, caster sugar and brown sugar until smooth, then beat in the eggs."
+    },
+    {
+      "title": "Season",
+      "text": "Stir in the baking powder, bicarbonate of soda, nutmeg, salt and vanilla."
+    },
+    {
+      "title": "Alternate",
+      "text": "Stir in a third of the flour, then half the milk, another third of flour, the rest of the milk and the last of the flour. Scrape down the bowl and mix until even."
+    },
+    {
+      "title": "Bake",
+      "text": "Fill the holes nearly to the top and bake 15-17 min, until golden and a cocktail stick comes out clean."
+    },
+    {
+      "title": "Coat",
+      "text": "Mix the granulated sugar and cinnamon in a shallow bowl. Ease the warm muffins out, brush each all over with melted butter and roll in the cinnamon sugar."
+    }
+  ],
+  "tips": [
+    "The most common mistake is coating them cold; the sugar only sticks while they are warm.",
+    "Freshly grated nutmeg gives the true doughnut taste.",
+    "Grease the tin well rather than using cases, so the sides take the coating."
+  ],
+  "storage": "Best on the day. Keep in an airtight box for up to 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 318,
+    "protein_g": 4.5,
+    "carbs_g": 43.8,
+    "sugar_g": 23.5,
+    "free_sugar_g": 22.4,
+    "fat_g": 14.1,
+    "satfat_g": 6.4,
+    "salt_g": 0.53,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Round muffins coated all over in cinnamon sugar, one bitten to show the soft yellow crumb."
+}

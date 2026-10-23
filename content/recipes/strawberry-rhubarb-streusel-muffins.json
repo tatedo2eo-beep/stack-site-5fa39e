@@ -1,0 +1,175 @@
+{
+  "slug": "strawberry-rhubarb-streusel-muffins",
+  "title": "Strawberry & Rhubarb Streusel Muffins",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "muffins",
+  "book_chapter": "muffins",
+  "dish": "american-muffin-blueberry-style-muffin-method",
+  "dish_title": "American muffin (blueberry style, muffin method)",
+  "flavour": "Strawberry & rhubarb",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "lemon-sugar-blueberry-muffins",
+  "changes_from_base": "Diced rhubarb macerated in sugar and fresh strawberries replace the blueberries; a brown sugar streusel goes on top instead of lemon sugar.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Tender muffins packed with sugared rhubarb and fresh strawberries, finished with brown sugar streusel.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "12-hole muffin tin",
+    "paper muffin cases",
+    "3 mixing bowls",
+    "balloon whisk",
+    "rubber spatula",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Fruit",
+      "qty": 150,
+      "unit": "g",
+      "item": "rhubarb, cut into 1 cm dice"
+    },
+    {
+      "group": "Fruit",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Fruit",
+      "qty": 120,
+      "unit": "g",
+      "item": "strawberries, hulled and diced"
+    },
+    {
+      "group": "Streusel",
+      "qty": 60,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Streusel",
+      "qty": 50,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Streusel",
+      "qty": 40,
+      "unit": "g",
+      "item": "cold unsalted butter, diced"
+    },
+    {
+      "group": "Muffins",
+      "qty": 280,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Muffins",
+      "qty": 70,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Muffins",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Muffins",
+      "qty": 200,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Muffins",
+      "qty": 100,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled"
+    },
+    {
+      "group": "Muffins",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Macerate",
+      "text": "Stir the diced rhubarb with the caster sugar in a small bowl and leave it for 20 min so the sugar draws out some pink juice. Meanwhile heat the oven to 190 °C (170 °C fan) and line the tin with cases."
+    },
+    {
+      "title": "Streusel",
+      "text": "Rub the 60 g flour, the streusel brown sugar and the cold butter between your fingertips until you have pea-sized clumps. Keep it in the fridge until needed."
+    },
+    {
+      "title": "Dry",
+      "text": "In a large bowl, whisk the 280 g flour with the muffin brown sugar, baking powder and salt, breaking up any lumps of sugar."
+    },
+    {
+      "title": "Wet",
+      "text": "Whisk the milk, eggs, cooled melted butter and vanilla in a jug, pour into the flour and stir with a spatula until barely mixed; a few lumps are fine."
+    },
+    {
+      "title": "Fruit",
+      "text": "Fold in the rhubarb with all its syrup and the diced strawberries in a few turns, stopping as soon as the fruit is spread through."
+    },
+    {
+      "title": "Bake",
+      "text": "Fill the cases about three-quarters full, pile the cold streusel on top and bake 22-25 min, until the crumb is golden and a cocktail stick comes out clean of raw batter."
+    },
+    {
+      "title": "Cool",
+      "text": "Leave in the tin 10 min so the fruit settles, then lift onto the rack."
+    }
+  ],
+  "tips": [
+    "The most common mistake is stirring the batter smooth; overmixing with all that wet fruit gives tough, tunnelled muffins.",
+    "Frozen rhubarb works; thaw it and drain off the water before macerating.",
+    "Keep the streusel cold so it stays in crunchy lumps in the oven."
+  ],
+  "storage": "Best on the day. Keep in an airtight box at room temperature for up to 2 days, or freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 271,
+    "protein_g": 4.8,
+    "carbs_g": 38.1,
+    "sugar_g": 15.5,
+    "free_sugar_g": 13.9,
+    "fat_g": 11.1,
+    "satfat_g": 6.6,
+    "salt_g": 0.55,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden muffins with a crumbly brown sugar streusel, pink rhubarb and red strawberry pieces showing in the crumb."
+}

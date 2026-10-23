@@ -1,0 +1,155 @@
+{
+  "slug": "coconut-key-lime-yogurt-muffins",
+  "title": "Coconut Key Lime Yogurt Muffins",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "muffins",
+  "book_chapter": "muffins",
+  "dish": "american-muffin-blueberry-style-muffin-method",
+  "dish_title": "American muffin (blueberry style, muffin method)",
+  "flavour": "Coconut & Key lime",
+  "flavour_order": 108,
+  "access": "premium",
+  "base_recipe": "lemon-sugar-blueberry-muffins",
+  "changes_from_base": "A Greek yoghurt batter sharpened with Key lime zest and juice, topped with coconut flakes and a lime icing drizzle.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Tangy yoghurt muffins with Key lime zest and juice, coconut flakes and a lime glaze.",
+  "servings": 12,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "12-hole muffin tin",
+    "paper muffin cases",
+    "2 mixing bowls",
+    "electric hand mixer",
+    "wooden spoon",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Muffins",
+      "qty": 190,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Muffins",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Muffins",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Muffins",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Muffins",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Muffins",
+      "qty": 180,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Muffins",
+      "qty": 160,
+      "unit": "g",
+      "item": "full-fat Greek yoghurt"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Muffins",
+      "qty": 3,
+      "unit": "pc",
+      "item": "Key limes (or 2 ordinary limes), zest of all and 2 tbsp juice"
+    },
+    {
+      "group": "Topping",
+      "qty": 50,
+      "unit": "g",
+      "item": "sweetened coconut flakes or desiccated coconut"
+    },
+    {
+      "group": "Glaze",
+      "qty": 50,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Glaze",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lime juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the tin. Whisk the flour, baking powder, bicarbonate of soda and salt in a bowl."
+    },
+    {
+      "title": "Wet",
+      "text": "Beat the melted butter and sugar with a hand mixer until combined, then beat in the yoghurt, eggs, lime zest and the 2 tbsp lime juice."
+    },
+    {
+      "title": "Mix",
+      "text": "Stir in the dry mix with a wooden spoon just until no flour shows."
+    },
+    {
+      "title": "Bake",
+      "text": "Fill the cases two-thirds full, sprinkle the coconut over and bake about 20 min, until a cocktail stick comes out clean."
+    },
+    {
+      "title": "Glaze",
+      "text": "Cool 5 min in the tin, then on the rack. Stir the icing sugar with the 2 tsp lime juice and drizzle over the cold muffins."
+    }
+  ],
+  "tips": [
+    "The most common mistake is zesting too deep; take only the green skin, as the white pith is bitter.",
+    "Ordinary limes are fine; use 2 for the same zest and juice.",
+    "Full-fat Greek yoghurt gives the most tender crumb."
+  ],
+  "storage": "Keep in an airtight box for up to 2 days, or freeze unglazed for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 254,
+    "protein_g": 4.3,
+    "carbs_g": 33.3,
+    "sugar_g": 20.0,
+    "free_sugar_g": 19.1,
+    "fat_g": 12.1,
+    "satfat_g": 7.9,
+    "salt_g": 0.59,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale muffins with golden coconut flakes, lime icing drizzle and lime wedges beside them."
+}

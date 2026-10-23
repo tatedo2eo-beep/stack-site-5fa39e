@@ -1,0 +1,186 @@
+{
+  "slug": "flaked-almond-bakewell-tart",
+  "title": "Flaked Almond Bakewell Tart",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "bakewell",
+  "dish_title": "Bakewell",
+  "flavour": "Almond",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "feathered-iced-bakewell-tart-raspberry",
+  "changes_from_base": "Topped with toasted flaked almonds instead of a feathered icing.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A classic jam and almond sponge Bakewell tart, finished with a crunchy layer of toasted flaked almonds.",
+  "servings": 12,
+  "prep_min": 35,
+  "cook_min": 65,
+  "difficulty": "medium",
+  "equipment": [
+    "large mixing bowl",
+    "rolling pin",
+    "23 cm loose-based tart tin",
+    "kitchen scissors",
+    "fork",
+    "baking paper",
+    "baking beans",
+    "baking tray",
+    "wire rack",
+    "electric whisk",
+    "palette knife",
+    "cocktail stick"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 170,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 30,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 115,
+      "unit": "g",
+      "item": "cold unsalted butter, in 1 cm cubes"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk (keep the white)"
+    },
+    {
+      "group": "Pastry",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "cold water"
+    },
+    {
+      "group": "Almond sponge",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, soft"
+    },
+    {
+      "group": "Almond sponge",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Almond sponge",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Almond sponge",
+      "qty": 120,
+      "unit": "g",
+      "item": "ground almonds"
+    },
+    {
+      "group": "Almond sponge",
+      "qty": 30,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Almond sponge",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, plus the saved white"
+    },
+    {
+      "group": "Almond sponge",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "alcohol-free almond extract"
+    },
+    {
+      "group": "Almond sponge",
+      "qty": 80,
+      "unit": "g",
+      "item": "raspberry jam"
+    },
+    {
+      "group": "Almond sponge",
+      "qty": 45,
+      "unit": "g",
+      "item": "flaked almonds"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry",
+      "text": "mix the flour, icing sugar and salt, scatter over the butter and rub it in until sandy. Add the yolk and water and work gently into a dough."
+    },
+    {
+      "title": "Line",
+      "text": "roll to a 30 cm circle and fit it into the tin. Trim to leave 1 cm overhang, fold it inwards to thicken the sides and prick the base with the fork. Freeze 30 min while the oven heats to 200 °C (180 °C fan). Folding the overhang in gives strong sides."
+    },
+    {
+      "title": "Blind bake",
+      "text": "line with paper and beans and bake on the tray 20 min, then uncover and bake 5-10 min, until the base is pale golden. Turn the oven down to 180 °C (160 °C fan)."
+    },
+    {
+      "title": "Almond sponge",
+      "text": "beat the butter, sugar and salt until pale and fluffy, then mix in the ground almonds, flour, whole egg, egg white and almond extract."
+    },
+    {
+      "title": "Fill",
+      "text": "spread the jam over the warm base, spoon the almond mix on top, smooth it to the edges and scatter with the flaked almonds. Spoon the sponge mix over in dollops so the jam doesn’t smear."
+    },
+    {
+      "title": "Bake",
+      "text": "35-40 min, until golden and a cocktail stick comes out clean. Cool completely on the rack."
+    }
+  ],
+  "tips": [
+    "Seedless jam gives a smoother layer.",
+    "Cover the top with foil if the almonds brown before the sponge is cooked.",
+    "Warm a slice for 20 seconds and serve with custard for pudding.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep well covered at room temperature for up to 4 days, or freeze for longer.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 351,
+    "protein_g": 5.9,
+    "carbs_g": 30.9,
+    "sugar_g": 14.7,
+    "free_sugar_g": 14.0,
+    "fat_g": 23.6,
+    "satfat_g": 10.7,
+    "salt_g": 0.29,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A Bakewell tart topped with toasted flaked almonds, a slice cut to show the raspberry jam layer."
+}

@@ -1,0 +1,178 @@
+{
+  "slug": "strawberry-rhubarb-lattice-tart",
+  "title": "Strawberry and Rhubarb Lattice Tart",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "fruit-tart-creme-patissiere",
+  "dish_title": "Fruit tart (crème pâtissière)",
+  "flavour": "Strawberry",
+  "flavour_order": 114,
+  "access": "premium",
+  "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
+  "changes_from_base": "Rhubarb and strawberries baked under a pastry lattice instead of fresh strawberries over crème pâtissière.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Rhubarb and strawberries with brown sugar and cinnamon, baked under a sugared pastry lattice.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 70,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor",
+    "small bowl",
+    "fork",
+    "rolling pin",
+    "25 cm loose-based fluted tart tin",
+    "baking paper",
+    "baking beans",
+    "large rimmed baking tray",
+    "large bowl",
+    "sharp knife",
+    "pastry brush",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 315,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 170,
+      "unit": "g",
+      "item": "cold unsalted butter, diced"
+    },
+    {
+      "group": "Pastry",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Pastry",
+      "qty": 80,
+      "unit": "ml",
+      "item": "iced water"
+    },
+    {
+      "group": "Filling",
+      "qty": 500,
+      "unit": "g",
+      "item": "rhubarb, in 2.5 cm pieces"
+    },
+    {
+      "group": "Filling",
+      "qty": 500,
+      "unit": "g",
+      "item": "strawberries, hulled and halved or quartered"
+    },
+    {
+      "group": "Filling",
+      "qty": 250,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "Filling",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Glaze",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg white"
+    },
+    {
+      "group": "Glaze",
+      "qty": 20,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "To serve",
+      "qty": 150,
+      "unit": "g",
+      "item": "crème fraîche, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry",
+      "text": "heat the oven to 180 °C (160 °C fan). Pulse the flour and salt, add the butter and pulse until pebbly. Beat the yolks with the iced water, sprinkle over and pulse 10-12 times, until a dough starts to form."
+    },
+    {
+      "title": "Divide",
+      "text": "gather the dough and set a third aside for the lattice. Roll the rest on a floured surface and line the tin. Keep the lattice dough in the fridge while the case bakes."
+    },
+    {
+      "title": "Blind bake",
+      "text": "line with paper and beans and bake on the tray about 10 min, until dry-looking. Remove the paper and beans and bake about 20 min more, until lightly browned."
+    },
+    {
+      "title": "Filling",
+      "text": "mix the rhubarb, strawberries, brown sugar, cinnamon, cornflour and melted butter in the large bowl and spoon into the case, juices and all."
+    },
+    {
+      "title": "Lattice",
+      "text": "roll the reserved dough and cut 2.5 cm strips. Weave them over the fruit and tuck the ends in at the edge. Beat the egg white with 1 tbsp water, brush the strips and sprinkle with the caster sugar."
+    },
+    {
+      "title": "Bake",
+      "text": "about 40 min on the tray, until the lattice is browned and the filling bubbles thickly in the centre. Cool at least 1 h so the juices set, then serve with crème fraîche. The filling must bubble in the middle so the cornflour thickens."
+    }
+  ],
+  "tips": [
+    "Use thin, pink forced rhubarb for the best colour.",
+    "Set the tin on a tray; some juice will bubble over.",
+    "Leftover pastry strips can be baked with sugar as cook's treats.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered at room temperature for 1 day, or chill for up to 3 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 599,
+    "protein_g": 7.0,
+    "carbs_g": 74.9,
+    "sugar_g": 37.4,
+    "free_sugar_g": 32.8,
+    "fat_g": 31.3,
+    "satfat_g": 18.8,
+    "salt_g": 0.62,
+    "fibre_g": 3.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A lattice-topped tart with pink rhubarb and strawberry filling bubbling through sugared pastry strips."
+}

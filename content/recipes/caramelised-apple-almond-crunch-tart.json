@@ -1,0 +1,190 @@
+{
+  "slug": "caramelised-apple-almond-crunch-tart",
+  "title": "Caramelised Apple Tart with Almond Crunch",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "frangipane",
+  "dish_title": "Frangipane",
+  "flavour": "Apple",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "poached-pear-frangipane-tart",
+  "changes_from_base": "Pan-caramelised spiced apples under a crisp egg-white and almond topping, in a fully baked case, instead of pears in frangipane.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Spiced, pan-caramelised apples in a crisp case under a light, crunchy almond and egg-white topping.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 70,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor",
+    "cling film",
+    "rolling pin",
+    "23 cm loose-based tart tin",
+    "baking paper",
+    "baking beans",
+    "2 baking trays",
+    "large frying pan",
+    "bowl",
+    "whisk",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry case",
+      "qty": 150,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry case",
+      "qty": 35,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Pastry case",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Pastry case",
+      "qty": 95,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    },
+    {
+      "group": "Pastry case",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Pastry case",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cold water"
+    },
+    {
+      "group": "Apples",
+      "qty": 500,
+      "unit": "g",
+      "item": "Braeburn or Fuji apples, peeled, cored and cut into 1 cm dice (prepared weight)"
+    },
+    {
+      "group": "Apples",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Apples",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Apples",
+      "qty": 50,
+      "unit": "g",
+      "item": "demerara sugar"
+    },
+    {
+      "group": "Apples",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Apples",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Apples",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Almond crunch",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg whites (60 g)"
+    },
+    {
+      "group": "Almond crunch",
+      "qty": 30,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Almond crunch",
+      "qty": 50,
+      "unit": "g",
+      "item": "slivered almonds"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry case",
+      "text": "pulse the flour, icing sugar and salt, add the butter and pulse to crumbs, then the yolk and water until it clumps. Wrap and chill 30 min. Roll out, line the tin and chill 20 min."
+    },
+    {
+      "title": "Blind bake",
+      "text": "heat the oven to 190 °C (170 °C fan). Bake with paper and beans for 20 min, then uncover for 8-10 min, until fully golden. Turn the oven down to 180 °C (160 °C fan)."
+    },
+    {
+      "title": "Apples",
+      "text": "toss the diced apples with the lemon juice and line a tray with paper. Heat the butter in the frying pan over high heat until it foams and turns light brown, then add the apples, demerara, vanilla and spices."
+    },
+    {
+      "title": "Caramelise",
+      "text": "spread the apples out and leave them for 2 min, then cook over medium-high heat, stirring, for 5-7 min, until golden. Spread on the tray and cool completely. Leaving the apples still at first gives them good colour."
+    },
+    {
+      "title": "Almond crunch",
+      "text": "whisk the egg whites just until frothy, whisk in the caster sugar and stir in the almonds. Only whisk until foamy; this is not a meringue."
+    },
+    {
+      "title": "Bake",
+      "text": "spread the apples in the case, spoon the almond mix evenly over and bake on a tray for 30 min, until the topping is golden. Cool on the rack."
+    }
+  ],
+  "tips": [
+    "Cool the apples completely or they will soften the case.",
+    "Firm apples keep their shape in the pan.",
+    "Flaked almonds work if you cannot find slivered.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day the topping is crisp. Keep leftovers covered at room temperature overnight.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 305,
+    "protein_g": 4.7,
+    "carbs_g": 39.1,
+    "sugar_g": 21.1,
+    "free_sugar_g": 14.2,
+    "fat_g": 15.2,
+    "satfat_g": 7.6,
+    "salt_g": 0.14,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A tart of golden diced apples under a crisp, glossy slivered almond topping."
+}

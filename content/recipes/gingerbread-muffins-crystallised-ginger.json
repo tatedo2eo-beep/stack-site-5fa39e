@@ -1,0 +1,160 @@
+{
+  "slug": "gingerbread-muffins-crystallised-ginger",
+  "title": "Gingerbread Muffins with Crystallised Ginger",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "muffins",
+  "book_chapter": "muffins",
+  "dish": "american-muffin-blueberry-style-muffin-method",
+  "dish_title": "American muffin (blueberry style, muffin method)",
+  "flavour": "Gingerbread",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "lemon-sugar-blueberry-muffins",
+  "changes_from_base": "A dark brown sugar, treacle and buttermilk batter spiced with ginger, cinnamon and allspice, with crystallised ginger instead of fruit; no topping sugar.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Dark, moist muffins spiced with ginger, cinnamon and allspice, with treacle and chewy crystallised ginger.",
+  "servings": 12,
+  "prep_min": 15,
+  "cook_min": 22,
+  "difficulty": "easy",
+  "equipment": [
+    "12-hole muffin tin",
+    "butter or oil for greasing",
+    "2 mixing bowls",
+    "balloon whisk",
+    "rubber spatula",
+    "ice-cream scoop",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Muffins",
+      "qty": 270,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Muffins",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Muffins",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Muffins",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Muffins",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground allspice"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Muffins",
+      "qty": 250,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "black treacle or molasses"
+    },
+    {
+      "group": "Muffins",
+      "qty": 240,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Muffins",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled slightly"
+    },
+    {
+      "group": "Muffins",
+      "qty": 40,
+      "unit": "g",
+      "item": "crystallised ginger, finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the oven to 190 °C (170 °C fan) and grease the holes of the tin with butter or oil."
+    },
+    {
+      "title": "Spice",
+      "text": "Whisk the flour, bicarbonate of soda, salt, ground ginger, cinnamon and allspice together in a medium bowl until the spices are evenly spread."
+    },
+    {
+      "title": "Wet",
+      "text": "In a bigger bowl whisk the eggs, dark brown sugar, treacle and buttermilk until smooth. Pour in the melted butter and whisk hard until the mix turns thick and glossy."
+    },
+    {
+      "title": "Mix",
+      "text": "Whisk in half the spiced flour until it starts to come together. Add the rest with two-thirds of the chopped crystallised ginger and stir with a spatula only until no flour shows."
+    },
+    {
+      "title": "Bake",
+      "text": "Scoop the batter into the tin and scatter over the remaining ginger. Bake 18-22 min, turning the tin once, until a cocktail stick in the middle comes out clean."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool 5 min in the tin, then move to the rack; they are good slightly warm."
+    }
+  ],
+  "tips": [
+    "The most common mistake is beating after the flour goes in; stir just until combined so the muffins stay soft.",
+    "Weigh treacle on a lightly oiled spoon so it slides off.",
+    "Dust crystallised ginger in a little of the flour if the pieces stick together."
+  ],
+  "storage": "Keep in an airtight box for up to 3 days; they get stickier and more gingery by day two. Freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 274,
+    "protein_g": 4.2,
+    "carbs_g": 44.7,
+    "sugar_g": 26.2,
+    "free_sugar_g": 25.1,
+    "fat_g": 9.0,
+    "satfat_g": 5.3,
+    "salt_g": 0.49,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Dark brown gingerbread muffins on a wire rack, topped with small pieces of crystallised ginger."
+}

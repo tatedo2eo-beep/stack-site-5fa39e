@@ -1,0 +1,176 @@
+{
+  "slug": "cherry-almond-frangipane-tart",
+  "title": "Cherry Frangipane Tart",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "frangipane",
+  "dish_title": "Frangipane",
+  "flavour": "Cherry",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "poached-pear-frangipane-tart",
+  "changes_from_base": "Fresh cherries pressed into a processor frangipane made from flaked almonds, in place of poached pears.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Sweet cherries pressed into a creamy almond frangipane in a crisp short pastry case.",
+  "servings": 8,
+  "prep_min": 35,
+  "cook_min": 55,
+  "difficulty": "medium",
+  "equipment": [
+    "mixing bowl",
+    "rolling pin",
+    "23 cm loose-based fluted tart tin",
+    "baking tray",
+    "food processor",
+    "silicone spatula",
+    "skewer",
+    "wire rack",
+    "small sieve"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 125,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 45,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 85,
+      "unit": "g",
+      "item": "chilled unsalted butter, in small pieces"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk, beaten with 2 tsp water"
+    },
+    {
+      "group": "Frangipane",
+      "qty": 110,
+      "unit": "g",
+      "item": "flaked almonds, plus 15 g for the top"
+    },
+    {
+      "group": "Frangipane",
+      "qty": 8,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Frangipane",
+      "qty": 90,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Frangipane",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, soft"
+    },
+    {
+      "group": "Frangipane",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Frangipane",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free almond extract"
+    },
+    {
+      "group": "Fruit",
+      "qty": 350,
+      "unit": "g",
+      "item": "cherries, stoned (about 400 g whole)"
+    },
+    {
+      "group": "Fruit",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar, for dusting",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry",
+      "text": "mix the flour, sugar and salt, rub in the butter completely, then stir in the yolk and water. Knead briefly until smooth and flatten into a disc."
+    },
+    {
+      "title": "Line",
+      "text": "roll out to a 28 cm round, press it into the tin and patch any cracks with trimmings. Chill 1 h (or freeze)."
+    },
+    {
+      "title": "Bake the case",
+      "text": "heat the oven to 220 °C (200 °C fan). Bake the case on the tray, uncovered and without beans, about 15 min, until lightly browned. No beans are needed; this pastry holds its shape."
+    },
+    {
+      "title": "Frangipane",
+      "text": "meanwhile, grind the 110 g almonds with the flour and sugar to a coarse powder. Pulse in the butter, then add the eggs and almond extract and process about 2 min, until smooth and creamy."
+    },
+    {
+      "title": "Fill",
+      "text": "spread the frangipane in the hot case and press the cherries into it in one layer. Scatter over the extra 15 g almonds."
+    },
+    {
+      "title": "Bake",
+      "text": "turn the oven down to 190 °C (170 °C fan) and bake 30-40 min, until golden and a skewer comes out clean. Check with a skewer between the cherries, not into one."
+    },
+    {
+      "title": "Finish",
+      "text": "cool on the rack, remove the ring and dust with icing sugar."
+    }
+  ],
+  "tips": [
+    "A cherry stoner saves a lot of time.",
+    "Frozen pitted cherries work; thaw and pat them dry.",
+    "Ground almonds (110 g) can replace the flaked almonds; mix the filling by hand.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered at room temperature for up to 2 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 452,
+    "protein_g": 7.6,
+    "carbs_g": 41.1,
+    "sugar_g": 24.2,
+    "free_sugar_g": 17.8,
+    "fat_g": 30.1,
+    "satfat_g": 14.1,
+    "salt_g": 0.15,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A golden almond tart studded with dark cherries and flaked almonds, dusted with icing sugar."
+}

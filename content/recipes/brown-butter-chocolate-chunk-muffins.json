@@ -1,0 +1,155 @@
+{
+  "slug": "brown-butter-chocolate-chunk-muffins",
+  "title": "Brown Butter Chocolate Chunk Muffins",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "muffins",
+  "book_chapter": "muffins",
+  "dish": "american-muffin-blueberry-style-muffin-method",
+  "dish_title": "American muffin (blueberry style, muffin method)",
+  "flavour": "Brown butter",
+  "flavour_order": 111,
+  "access": "premium",
+  "base_recipe": "lemon-sugar-blueberry-muffins",
+  "changes_from_base": "Browned butter and soured cream make a rich, tender batter studded with dark chocolate chunks, baked in tall baking-paper tulip cases.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Tall, rich muffins made with nutty browned butter and soured cream, packed with dark chocolate chunks.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "12-hole muffin tin",
+    "baking paper",
+    "tumbler",
+    "light-coloured frying pan",
+    "3 mixing bowls",
+    "balloon whisk",
+    "rubber spatula",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Muffins",
+      "qty": 280,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Muffins",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Muffins",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Muffins",
+      "qty": 170,
+      "unit": "g",
+      "item": "dark chocolate, roughly chopped"
+    },
+    {
+      "group": "Muffins",
+      "qty": 170,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Muffins",
+      "qty": 220,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Muffins",
+      "qty": 360,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Muffins",
+      "qty": 3,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar, for sprinkling",
+      "note": "about 2 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Liners",
+      "text": "Heat the oven to 200 °C (180 °C fan). Cut twelve 15 cm squares of baking paper, press each around the base of a tumbler to make a cup and set them in the tin."
+    },
+    {
+      "title": "Dry",
+      "text": "Whisk the flour, baking powder and salt in a bowl and stir in the chopped chocolate."
+    },
+    {
+      "title": "Brown",
+      "text": "Melt the butter in a light-coloured frying pan over medium-high heat and keep stirring for 2-4 min, until the solids are deep golden and it smells nutty. Scrape into a bowl and cool 10 min."
+    },
+    {
+      "title": "Wet",
+      "text": "In a large bowl whisk the 220 g sugar with the eggs for about 1 min until thick, then whisk in the soured cream, vanilla and the browned butter with its brown specks."
+    },
+    {
+      "title": "Mix",
+      "text": "Fold in the flour and chocolate until just combined."
+    },
+    {
+      "title": "Bake",
+      "text": "Divide between the paper cups, sprinkle with the 2 tbsp sugar and bake 22-25 min, until golden and a skewer shows no raw batter."
+    },
+    {
+      "title": "Cool",
+      "text": "Leave 5 min in the tin, then lift onto the rack."
+    }
+  ],
+  "tips": [
+    "The most common mistake is burning the butter; take it off the heat as soon as it smells nutty, as it keeps browning in the hot pan.",
+    "A light pan lets you see the colour change.",
+    "Use bar chocolate chopped by hand for melty pockets."
+  ],
+  "storage": "Keep in an airtight box for up to 2 days, or freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 408,
+    "protein_g": 4.9,
+    "carbs_g": 49.2,
+    "sugar_g": 29.4,
+    "free_sugar_g": 28.2,
+    "fat_g": 22.6,
+    "satfat_g": 13.1,
+    "salt_g": 0.71,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Tall muffins in baking-paper tulip cases with a sugary crust and chocolate chunks."
+}

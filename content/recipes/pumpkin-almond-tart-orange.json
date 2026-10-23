@@ -1,0 +1,166 @@
+{
+  "slug": "pumpkin-almond-tart-orange",
+  "title": "Pumpkin and Almond Tart with Orange",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "frangipane",
+  "dish_title": "Frangipane",
+  "flavour": "Pumpkin",
+  "flavour_order": 108,
+  "access": "premium",
+  "base_recipe": "poached-pear-frangipane-tart",
+  "changes_from_base": "A smooth pumpkin, orange and chopped almond custard baked in an unbaked shortcrust case, in place of pear frangipane.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A French-style pumpkin tart with chopped almonds, crème fraîche and orange zest in a tender egg pastry.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 60,
+  "difficulty": "medium",
+  "equipment": [
+    "large shallow bowl",
+    "cling film",
+    "steamer",
+    "food processor or blender",
+    "rolling pin",
+    "26 cm loose-based tart tin",
+    "baking tray",
+    "small knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 190,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 100,
+      "unit": "g",
+      "item": "unsalted butter, soft, cubed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Pastry",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "water",
+      "note": "about"
+    },
+    {
+      "group": "Filling",
+      "qty": 900,
+      "unit": "g",
+      "item": "wedge of pumpkin or butternut squash",
+      "note": "you need 480 g purée"
+    },
+    {
+      "group": "Filling",
+      "qty": 70,
+      "unit": "g",
+      "item": "whole almonds"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Filling",
+      "qty": 80,
+      "unit": "g",
+      "item": "crème fraîche or soured cream"
+    },
+    {
+      "group": "Filling",
+      "qty": 150,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "orange, zest finely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry",
+      "text": "put the flour in the bowl and make a well. Add the butter, sugar, egg and salt to the well and mix with your fingertips, slowly drawing in the flour. Add the water as needed and knead until even. Wrap and chill 30 min."
+    },
+    {
+      "title": "Steam",
+      "text": "heat the oven to 220 °C (200 °C fan). Scrape out the seeds and fibres, cut the pumpkin into 8 pieces and steam, skin on, for about 15 min, until tender. Drain, cool a little, peel and purée. Measure 480 g. Steaming keeps the purée thick, which helps it set."
+    },
+    {
+      "title": "Filling",
+      "text": "chop the almonds coarsely in the processor. Add the purée, eggs, crème fraîche, brown sugar and zest and blend well."
+    },
+    {
+      "title": "Assemble",
+      "text": "roll the pastry to fit the tin and line it. Set it on the tray and pour in the filling."
+    },
+    {
+      "title": "Bake",
+      "text": "about 45 min, until a knife in the centre comes out clean. Cover the edge with foil if it darkens too much."
+    },
+    {
+      "title": "Serve",
+      "text": "cool and eat at room temperature within 2-3 h of baking. It tastes best on the day of baking."
+    }
+  ],
+  "tips": [
+    "Butternut squash gives a smoother, sweeter purée than most pumpkins.",
+    "Squeeze excess water from the purée in a sieve if it looks wet.",
+    "Make the purée a day ahead and chill it.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best within a few hours. Chill leftovers, covered, for up to 2 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 380,
+    "protein_g": 8.5,
+    "carbs_g": 45.5,
+    "sugar_g": 22.6,
+    "free_sugar_g": 19.7,
+    "fat_g": 19.2,
+    "satfat_g": 8.7,
+    "salt_g": 0.17,
+    "fibre_g": 3.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A smooth orange pumpkin tart flecked with chopped almonds in a pale shortcrust case."
+}

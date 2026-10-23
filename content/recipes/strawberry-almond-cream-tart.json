@@ -1,0 +1,179 @@
+{
+  "slug": "strawberry-almond-cream-tart",
+  "title": "Strawberry Almond Cream Tart",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "frangipane",
+  "dish_title": "Frangipane",
+  "flavour": "Strawberry",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "poached-pear-frangipane-tart",
+  "changes_from_base": "A thin baked almond-paste cream under rings of fresh strawberries, instead of baked frangipane with poached pears.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A crisp pastry case with a thin baked almond cream, covered in rings of fresh strawberries.",
+  "servings": 8,
+  "prep_min": 35,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "cling film",
+    "rolling pin",
+    "23 cm tart tin or quiche dish",
+    "baking paper",
+    "baking beans",
+    "wire rack",
+    "spatula",
+    "small sieve"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 160,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 4,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 115,
+      "unit": "g",
+      "item": "cold unsalted butter, in pieces"
+    },
+    {
+      "group": "Pastry",
+      "qty": 60,
+      "unit": "ml",
+      "item": "iced water"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 115,
+      "unit": "g",
+      "item": "almond paste (at least 45% almonds)"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 55,
+      "unit": "g",
+      "item": "cold unsalted butter, in small pieces"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 30,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Topping",
+      "qty": 650,
+      "unit": "g",
+      "item": "strawberries, hulled and halved"
+    },
+    {
+      "group": "Topping",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry",
+      "text": "pulse the flour, salt and sugar, add the butter and pulse to pea-sized pieces. Pulse in the water just until the dough starts to clump, press it together, wrap and chill 30 min."
+    },
+    {
+      "title": "Line and bake",
+      "text": "heat the oven to 180 °C (160 °C fan). Roll the dough 3 mm thick and fit it into the dish. Line with paper and beans and bake 25 min, then uncover and bake 2 min more."
+    },
+    {
+      "title": "Almond cream",
+      "text": "process the almond paste and butter until smooth. Add the flour, sugar and salt, then the egg and vanilla, and blend until creamy."
+    },
+    {
+      "title": "Bake again",
+      "text": "spread the almond cream evenly in the case and bake about 15 min, until set. Cool completely. Let the almond cream cool fully before adding the fruit."
+    },
+    {
+      "title": "Strawberries",
+      "text": "starting at the edge, stand the halves in rings, cut sides facing out and leaning on the pastry, working inwards until covered."
+    },
+    {
+      "title": "Serve",
+      "text": "sift icing sugar over just before slicing. Dust just before serving, or the sugar dissolves into the berries."
+    }
+  ],
+  "tips": [
+    "Pick strawberries of a similar size so the rings look even.",
+    "Almond paste is coarser and less sweet than marzipan; use almond paste here.",
+    "Assemble no more than 2 h before serving.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day. Chill leftovers for up to 1 day.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 358,
+    "protein_g": 5.3,
+    "carbs_g": 35.9,
+    "sugar_g": 13.9,
+    "free_sugar_g": 9.8,
+    "fat_g": 22.3,
+    "satfat_g": 11.5,
+    "salt_g": 0.31,
+    "fibre_g": 3.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A tart covered in rings of halved fresh strawberries over a thin almond cream, dusted with icing sugar."
+}

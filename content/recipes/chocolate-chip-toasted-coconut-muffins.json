@@ -1,0 +1,144 @@
+{
+  "slug": "chocolate-chip-toasted-coconut-muffins",
+  "title": "Chocolate Chip Toasted Coconut Muffins",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "muffins",
+  "book_chapter": "muffins",
+  "dish": "american-muffin-blueberry-style-muffin-method",
+  "dish_title": "American muffin (blueberry style, muffin method)",
+  "flavour": "Chocolate",
+  "flavour_order": 107,
+  "access": "premium",
+  "base_recipe": "lemon-sugar-blueberry-muffins",
+  "changes_from_base": "Chocolate chips and desiccated coconut replace the blueberries in a lightly sweet melted-butter batter, with toasted coconut on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Lightly sweet muffins with chocolate chips through the crumb and toasted coconut on top.",
+  "servings": 10,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "12-hole muffin tin",
+    "10 paper muffin cases",
+    "2 mixing bowls",
+    "fork",
+    "rubber spatula",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Muffins",
+      "qty": 160,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Muffins",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Muffins",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Muffins",
+      "qty": 70,
+      "unit": "g",
+      "item": "desiccated coconut"
+    },
+    {
+      "group": "Muffins",
+      "qty": 70,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Muffins",
+      "qty": 90,
+      "unit": "g",
+      "item": "dark chocolate chips"
+    },
+    {
+      "group": "Muffins",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Muffins",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Muffins",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, beaten"
+    },
+    {
+      "group": "Muffins",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the oven to 190 °C (170 °C fan) and line 10 holes of the tin."
+    },
+    {
+      "title": "Dry",
+      "text": "Mix the flour, baking powder, salt, 45 g of the coconut and the sugar in a bowl, then toss in the chocolate chips so they are coated."
+    },
+    {
+      "title": "Wet",
+      "text": "Beat the melted butter, milk, egg and vanilla with a fork, then fold into the dry mix with a spatula until just combined; lumps are fine."
+    },
+    {
+      "title": "Bake",
+      "text": "Spoon into the cases, scatter the remaining 25 g coconut over and bake 25-30 min, until well risen and the coconut is toasted golden."
+    },
+    {
+      "title": "Cool",
+      "text": "Rest in the tin for 10 min, then take them out; they are best warm."
+    }
+  ],
+  "tips": [
+    "The most common mistake is pulling them early; wait for the coconut to turn golden so the centres are cooked.",
+    "Coating the chips in flour helps stop them sinking.",
+    "Use unsweetened desiccated coconut; the muffins have little sugar so it stays balanced."
+  ],
+  "storage": "Keep in an airtight box for up to 2 days, or freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 280,
+    "protein_g": 4.0,
+    "carbs_g": 28.1,
+    "sugar_g": 13.8,
+    "free_sugar_g": 11.9,
+    "fat_g": 18.0,
+    "satfat_g": 12.2,
+    "salt_g": 0.39,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Muffins topped with toasted coconut shreds, one broken to show melted chocolate chips."
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "plum-almond-cream-tart-vanilla-crust",
+  "title": "Plum and Almond Cream Tart",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "frangipane",
+  "dish_title": "Frangipane",
+  "flavour": "Plum",
+  "flavour_order": 106,
+  "access": "premium",
+  "base_recipe": "poached-pear-frangipane-tart",
+  "changes_from_base": "Overlapping rings of fresh plum on almond cream in a soft vanilla crust, instead of poached pears.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A soft vanilla crust filled with almond cream and covered with tight rings of fresh plum wedges.",
+  "servings": 10,
+  "prep_min": 45,
+  "cook_min": 55,
+  "difficulty": "medium",
+  "equipment": [
+    "stand mixer with paddle",
+    "cling film",
+    "food processor",
+    "rolling pin",
+    "28 cm loose-based tart tin",
+    "baking paper",
+    "baking beans",
+    "baking tray",
+    "palette knife",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Vanilla crust",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, soft"
+    },
+    {
+      "group": "Vanilla crust",
+      "qty": 95,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Vanilla crust",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Vanilla crust",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla bean paste or alcohol-free vanilla extract"
+    },
+    {
+      "group": "Vanilla crust",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Vanilla crust",
+      "qty": 190,
+      "unit": "g",
+      "item": "plain flour, plus plenty for rolling"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 120,
+      "unit": "g",
+      "item": "blanched almonds"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 16,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, soft"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 120,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg plus 1 yolk"
+    },
+    {
+      "group": "Topping",
+      "qty": 680,
+      "unit": "g",
+      "item": "small dark plums, stoned and cut into 6 mm wedges"
+    },
+    {
+      "group": "Topping",
+      "qty": 12,
+      "unit": "g",
+      "item": "demerara sugar",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crust",
+      "text": "beat the butter, icing sugar, salt and vanilla on low for 1 min, then on medium for 1 min. Add the egg, then the flour, and mix until smooth. Wrap and chill about 1 h, until firm."
+    },
+    {
+      "title": "Almond cream",
+      "text": "grind the almonds with the flour to a coarse meal. Beat the butter, icing sugar and salt as for the crust, add the egg and yolk and beat about 2 min, then mix in the almond meal just until combined."
+    },
+    {
+      "title": "Line",
+      "text": "let the dough sit 10 min, knead it briefly and roll it on a well-floured surface to 32 cm. Lift it into the tin, trim, and freeze until hard. This dough is soft; keep it cold and work quickly."
+    },
+    {
+      "title": "Blind bake",
+      "text": "heat the oven to 180 °C (160 °C fan). Bake on the tray with paper and beans for 12-15 min, until the edges just colour, then 5 min uncovered. Cool."
+    },
+    {
+      "title": "Arrange",
+      "text": "spread the almond cream over the base. Lay the plum wedges in an overlapping ring at the edge, reverse direction for the next ring and fill the middle."
+    },
+    {
+      "title": "Bake",
+      "text": "sprinkle with demerara and bake 30-40 min, until the almond cream is puffed and golden and the plums are soft. The plums sink a little into the almond cream as it puffs."
+    }
+  ],
+  "tips": [
+    "Small dark plums give the most colour.",
+    "A 23 cm tin works; use any extra plums and almond cream in a few ramekins.",
+    "Patch any cracks in the case with scraps before baking.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered at room temperature for 1 day, or in the fridge for up to 3 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 450,
+    "protein_g": 6.9,
+    "carbs_g": 48.9,
+    "sugar_g": 29.6,
+    "free_sugar_g": 22.2,
+    "fat_g": 26.4,
+    "satfat_g": 12.8,
+    "salt_g": 0.12,
+    "fibre_g": 3.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A large tart with overlapping rings of purple plum wedges on puffed golden almond cream."
+}

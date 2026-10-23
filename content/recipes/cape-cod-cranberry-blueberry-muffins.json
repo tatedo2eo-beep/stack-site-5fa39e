@@ -1,0 +1,162 @@
+{
+  "slug": "cape-cod-cranberry-blueberry-muffins",
+  "title": "Cape Cod Cranberry Blueberry Muffins",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "muffins",
+  "book_chapter": "muffins",
+  "dish": "american-muffin-blueberry-style-muffin-method",
+  "dish_title": "American muffin (blueberry style, muffin method)",
+  "flavour": "Cranberry (Cape Cod)",
+  "flavour_order": 110,
+  "access": "premium",
+  "base_recipe": "lemon-sugar-blueberry-muffins",
+  "changes_from_base": "Plumped dried cranberries join the blueberries in a Greek yoghurt batter; the mix makes 16 slightly smaller muffins and has no lemon sugar.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Soft Greek yoghurt muffins with plumped dried cranberries and fresh blueberries.",
+  "servings": 16,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "2 x 12-hole muffin tins",
+    "paper muffin cases",
+    "heatproof bowl",
+    "sieve",
+    "3 mixing bowls",
+    "balloon whisk",
+    "rubber spatula",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Fruit",
+      "qty": 80,
+      "unit": "g",
+      "item": "dried cranberries"
+    },
+    {
+      "group": "Fruit",
+      "qty": 110,
+      "unit": "g",
+      "item": "blueberries"
+    },
+    {
+      "group": "Fruit",
+      "qty": 8,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Muffins",
+      "qty": 200,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Muffins",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Muffins",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Muffins",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Muffins",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Muffins",
+      "qty": 190,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Muffins",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Muffins",
+      "qty": 160,
+      "unit": "g",
+      "item": "full-fat Greek yoghurt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Plump",
+      "text": "Put the dried cranberries in a heatproof bowl, cover with boiling water and leave to soften. Heat the oven to 190 °C (170 °C fan) and line 16 muffin holes."
+    },
+    {
+      "title": "Dry",
+      "text": "Whisk the 200 g flour, baking powder, bicarbonate of soda and salt in a bowl."
+    },
+    {
+      "title": "Wet",
+      "text": "In a large bowl whisk the melted butter and sugar, add the vanilla and eggs, then the yoghurt until smooth. Fold in the dry mix with a spatula."
+    },
+    {
+      "title": "Berries",
+      "text": "Drain the cranberries well, toss them with the blueberries and the 1 tbsp flour, then fold them gently through the batter."
+    },
+    {
+      "title": "Bake",
+      "text": "Fill the cases two-thirds full and bake 18-20 min, until golden and a cocktail stick comes out clean."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool 5 min in the tins, then move to the rack."
+    }
+  ],
+  "tips": [
+    "The most common mistake is skipping the soak; hard dried cranberries pull moisture from the crumb.",
+    "Tossing the berries in flour helps them stay suspended.",
+    "Frozen blueberries can go in straight from the freezer; add 2 min baking."
+  ],
+  "storage": "Keep in an airtight box for up to 2 days, or freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 184,
+    "protein_g": 3.1,
+    "carbs_g": 27.5,
+    "sugar_g": 16.7,
+    "free_sugar_g": 15.5,
+    "fat_g": 7.1,
+    "satfat_g": 4.2,
+    "salt_g": 0.44,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden muffins dotted with red cranberries and blueberries, on a wire rack."
+}
