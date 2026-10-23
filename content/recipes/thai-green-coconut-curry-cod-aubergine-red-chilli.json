@@ -1,0 +1,149 @@
+{
+  "slug": "thai-green-coconut-curry-cod-aubergine-red-chilli",
+  "title": "Thai Green Coconut Curry with Cod, Aubergine and Red Chilli",
+  "category": "fish-seafood",
+  "cuisine": "Thai",
+  "chapter": "curries",
+  "book_chapter": "curries",
+  "dish": "green-curry",
+  "dish_title": "Green curry",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Green curry paste and ginger are fried in thick coconut cream until the oil separates, then simmered with the rest of the coconut milk, fish sauce, palm sugar, aubergine and lime leaves before cod is poached gently and finished with basil, chilli and lime.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy pot or deep frying pan (about 4 l)",
+    "whisk",
+    "wooden spoon",
+    "instant-read probe thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Curry",
+      "qty": 800,
+      "unit": "ml",
+      "item": "full-fat coconut milk (2 cans, unshaken)"
+    },
+    {
+      "group": "Curry",
+      "qty": 60,
+      "unit": "g",
+      "item": "store-bought Thai green curry paste (check the label is halal)"
+    },
+    {
+      "group": "Curry",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Curry",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fish sauce (check the label is halal)"
+    },
+    {
+      "group": "Curry",
+      "qty": 10,
+      "unit": "g",
+      "item": "palm sugar or light brown sugar"
+    },
+    {
+      "group": "Curry",
+      "qty": 300,
+      "unit": "g",
+      "item": "Thai round aubergines or 1 small aubergine, cut into 2-3 cm pieces"
+    },
+    {
+      "group": "Curry",
+      "qty": 4,
+      "unit": "pc",
+      "item": "makrut lime leaves, torn"
+    },
+    {
+      "group": "Curry",
+      "qty": 600,
+      "unit": "g",
+      "item": "skinless cod or other firm white fish fillet, cut into 4 cm pieces"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "long red chilli, sliced on the diagonal"
+    },
+    {
+      "group": "To finish",
+      "qty": 15,
+      "unit": "g",
+      "item": "Thai or Italian basil leaves"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lime juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Fry the paste",
+      "text": "Reduce the coconut cream with the paste and ginger until the oil separates."
+    },
+    {
+      "title": "Make the sauce",
+      "text": "Whisk in the remaining coconut milk, fish sauce and sugar."
+    },
+    {
+      "title": "Cook the aubergine",
+      "text": "Simmer the aubergine and lime leaves for 8-10 minutes until tender."
+    },
+    {
+      "title": "Poach the fish",
+      "text": "Lay in the cod and poach gently until it flakes and reaches 63 °C."
+    },
+    {
+      "title": "Finish",
+      "text": "Off the heat, add the chilli, basil and lime juice."
+    },
+    {
+      "title": "Serve",
+      "text": "Taste, scatter with more basil and serve with jasmine rice."
+    }
+  ],
+  "tips": [
+    "Keep the curry at a bare simmer once the fish goes in so it stays in large flakes.",
+    "Stir gently; cod breaks up easily.",
+    "Add the basil at the end so it stays bright."
+  ],
+  "storage": "Best eaten the day it is made. Refrigerate leftovers within 1 hour and eat within 1 day, reheated gently until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 576,
+    "protein_g": 32.4,
+    "carbs_g": 16.3,
+    "sugar_g": 6.5,
+    "free_sugar_g": 2.7,
+    "fat_g": 45.1,
+    "satfat_g": 38.2,
+    "salt_g": 2.28,
+    "fibre_g": 3.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "green-curry-basic.jpg",
+  "image_alt": "Green coconut curry with white fish, aubergine, red chilli and basil, with rice.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

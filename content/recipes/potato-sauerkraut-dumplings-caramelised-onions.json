@@ -1,0 +1,185 @@
+{
+  "slug": "potato-sauerkraut-dumplings-caramelised-onions",
+  "title": "Potato and Sauerkraut Dumplings with Caramelised Onions",
+  "category": "vegetarian",
+  "cuisine": "Polish",
+  "chapter": "dumplings",
+  "book_chapter": "dumplings",
+  "dish": "pierogi",
+  "dish_title": "Pierogi",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A soft sour-cream dough is filled with riced potato beaten with chopped sauerkraut and butter, boiled until the dumplings float, then turned in a pan of slow-cooked golden onions and served with sour cream and chives.",
+  "servings": 4,
+  "prep_min": 60,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "medium saucepan",
+    "colander",
+    "potato ricer or masher",
+    "large bowl",
+    "shallow dish",
+    "rolling pin",
+    "7.5 cm round cutter or a glass",
+    "2 trays and a clean tea towel",
+    "large wide pan or stockpot",
+    "slotted spoon or spider",
+    "large frying pan (30 cm, nonstick)"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "plain flour, plus extra for dusting"
+    },
+    {
+      "group": "Dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 150,
+      "unit": "g",
+      "item": "full-fat sour cream"
+    },
+    {
+      "group": "Dough",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, very soft"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "cold water (up to 4 tbsp if needed)"
+    },
+    {
+      "group": "Filling",
+      "qty": 450,
+      "unit": "g",
+      "item": "floury potatoes (such as Maris Piper or russet), peeled and cut into 3 cm chunks"
+    },
+    {
+      "group": "Filling",
+      "qty": 150,
+      "unit": "g",
+      "item": "sauerkraut, well drained, squeezed dry and finely chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 25,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground white pepper"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Onions",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Onions",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large onion, finely chopped",
+      "note": "about 250 g"
+    },
+    {
+      "group": "To serve",
+      "qty": 120,
+      "unit": "g",
+      "item": "full-fat sour cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped chives"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dough",
+      "text": "Mix flour, salt, egg, sour cream and butter into a soft dough, knead briefly and rest 30 minutes."
+    },
+    {
+      "title": "Make the filling",
+      "text": "Boil and rice the potatoes, then beat in the sauerkraut, butter, white pepper and salt and chill."
+    },
+    {
+      "title": "Cook the onions",
+      "text": "Cook the onion slowly in butter for 15-20 minutes until deep golden."
+    },
+    {
+      "title": "Shape",
+      "text": "Roll the dough thin, cut rounds, fill and pinch into sealed half-moons."
+    },
+    {
+      "title": "Boil",
+      "text": "Cook in batches in unsalted boiling water until they float, then 2-3 minutes more."
+    },
+    {
+      "title": "Fry and serve",
+      "text": "Turn the pierogi in the onion pan with a splash of cooking water until golden, and serve with sour cream and chives."
+    }
+  ],
+  "tips": [
+    "Squeeze the sauerkraut hard; wet filling makes the edges hard to seal.",
+    "Keep unused dough wrapped so it does not dry out.",
+    "Freeze some uncooked on a tray for a quick supper later."
+  ],
+  "storage": "Refrigerate cooked pierogi up to 3 days and pan-fry to reheat until piping hot. Freeze uncooked pierogi up to 3 months and boil from frozen. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 714,
+    "protein_g": 14.6,
+    "carbs_g": 87.7,
+    "sugar_g": 6.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 34.5,
+    "satfat_g": 19.6,
+    "salt_g": 1.84,
+    "fibre_g": 6.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pierogi-basic.jpg",
+  "image_alt": "Pan-fried potato and sauerkraut pierogi with golden onions, sour cream and chives.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}
