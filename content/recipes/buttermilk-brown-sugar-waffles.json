@@ -1,0 +1,152 @@
+{
+  "slug": "buttermilk-brown-sugar-waffles",
+  "title": "Buttermilk Brown Sugar Waffles",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "waffles-belgian",
+  "dish_title": "Waffles (Belgian)",
+  "flavour": "Brown sugar",
+  "flavour_order": 17,
+  "access": "premium",
+  "base_recipe": "crisp-belgian-waffles-strawberries-cream",
+  "changes_from_base": "A quick one-bowl buttermilk batter sweetened only with light brown sugar and raised with both baking powder and bicarbonate; no whisked whites, no fruit or cream.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Classic buttermilk waffles sweetened lightly with brown sugar for a deep, caramel-edged flavour.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "waffle iron",
+    "large bowl",
+    "medium bowl",
+    "whisk",
+    "ladle",
+    "wire rack set in a rimmed baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 420,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 113,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled"
+    },
+    {
+      "group": "Batter",
+      "qty": 220,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 24,
+      "unit": "g",
+      "item": "light brown sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "For cooking",
+      "qty": 5,
+      "unit": "g",
+      "item": "butter or oil spray, for the iron",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk wet",
+      "text": "Whisk 2 eggs, 420 ml buttermilk and 113 g cooled melted butter together in a large bowl."
+    },
+    {
+      "title": "Mix dry",
+      "text": "Stir 220 g plain flour, 2 tbsp light brown sugar, 2 tsp baking powder, 1 tsp bicarbonate of soda and 1 tsp fine salt in a second bowl."
+    },
+    {
+      "title": "Combine",
+      "text": "Add the dry mix to the egg mixture and whisk only until smooth, then let the batter rest a few minutes."
+    },
+    {
+      "title": "Warm",
+      "text": "Heat the waffle iron and butter or spray it lightly, even if it is non-stick."
+    },
+    {
+      "title": "Cook",
+      "text": "Ladle about 60 ml batter into a 20 cm round iron, or more for a larger one, and cook until light golden brown."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve at once with 60 ml maple syrup."
+    }
+  ],
+  "tips": [
+    "Whisk the batter only until smooth, as overmixing will make the waffles tough.",
+    "Butter or spray the iron before every waffle, since even non-stick plates need it.",
+    "Adjust the amount of batter to suit the size of your iron, using more for larger rounds."
+  ],
+  "storage": "This batter is meant to be cooked and served straight away for the best texture, so avoid leaving waffles to sit before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 564,
+    "protein_g": 12.6,
+    "carbs_g": 67.5,
+    "sugar_g": 23.6,
+    "free_sugar_g": 18.2,
+    "fat_g": 27.4,
+    "satfat_g": 16.4,
+    "salt_g": 3.28,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A deeply golden, crisp-edged waffle with a light caramel colour, drizzled generously with maple syrup.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

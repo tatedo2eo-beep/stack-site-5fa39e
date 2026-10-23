@@ -1,0 +1,181 @@
+{
+  "slug": "chocolate-malt-sourdough-waffles",
+  "title": "Chocolate Malt Sourdough Waffles",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "waffles-belgian",
+  "dish_title": "Waffles (Belgian)",
+  "flavour": "Chocolate & malted milk",
+  "flavour_order": 14,
+  "access": "premium",
+  "base_recipe": "crisp-belgian-waffles-strawberries-cream",
+  "changes_from_base": "The batter starts the night before as a wholemeal sourdough sponge, then gets cocoa, malted milk powder, cinnamon and chocolate chips; no buttermilk, and no whipped cream or fruit to serve.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Deep, malty chocolate waffles built on an overnight sourdough sponge, with melted pockets of chocolate running through.",
+  "servings": 7,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "waffle iron",
+    "large bowl",
+    "medium bowl",
+    "whisk",
+    "ladle",
+    "wire rack set in a rimmed baking tray",
+    "sieve",
+    "cling film"
+  ],
+  "ingredients": [
+    {
+      "group": "Overnight sponge",
+      "qty": 227,
+      "unit": "g",
+      "item": "ripe sourdough starter"
+    },
+    {
+      "group": "Overnight sponge",
+      "qty": 283,
+      "unit": "ml",
+      "item": "cool water"
+    },
+    {
+      "group": "Overnight sponge",
+      "qty": 170,
+      "unit": "g",
+      "item": "wholemeal flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 43,
+      "unit": "g",
+      "item": "Dutch-process cocoa"
+    },
+    {
+      "group": "Batter",
+      "qty": 71,
+      "unit": "g",
+      "item": "malted milk powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Batter",
+      "qty": 149,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Batter",
+      "qty": 128,
+      "unit": "g",
+      "item": "dark or semi-sweet chocolate chips (mini chips work well)"
+    },
+    {
+      "group": "For cooking",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil, for the iron"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Ferment",
+      "text": "Mix 227 g ripe sourdough starter, 283 ml cool water and 170 g wholemeal flour in a large bowl, cover and leave at room temperature overnight, about 12 h."
+    },
+    {
+      "title": "Warm",
+      "text": "Heat the oven to 95°C with a wire rack set in a baking tray inside, then heat the waffle iron and brush it lightly with 1 tsp oil."
+    },
+    {
+      "title": "Sift",
+      "text": "Sift 43 g cocoa, 71 g malted milk powder, 1 tsp baking powder, ¾ tsp fine salt, ½ tsp cinnamon and 149 g caster sugar into a bowl."
+    },
+    {
+      "title": "Mix",
+      "text": "Stir the sifted ingredients into the overnight sponge with 2 eggs, 85 g melted butter, 2 tsp vanilla and 128 g chocolate chips until combined."
+    },
+    {
+      "title": "Cook",
+      "text": "Cook the batter in the hot iron following its usual timing until deeply chocolatey and set."
+    },
+    {
+      "title": "Hold",
+      "text": "Transfer waffles to the rack in the oven, where they will crisp further as they wait."
+    },
+    {
+      "title": "Store",
+      "text": "Freeze any leftovers for a few weeks and reheat straight from frozen in a toaster."
+    }
+  ],
+  "tips": [
+    "Start the sponge the night before so the starter has time to ferment and flavour the batter.",
+    "Malted milk powder contains barley and milk, so check this suits everyone at the table.",
+    "Let waffles rest on the rack in a low oven rather than stacking them, so they stay crisp rather than steaming."
+  ],
+  "storage": "Freeze leftover waffles for a few weeks and reheat them straight from frozen in a toaster. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 478,
+    "protein_g": 9.7,
+    "carbs_g": 74.9,
+    "sugar_g": 38.0,
+    "free_sugar_g": 37.6,
+    "fat_g": 19.3,
+    "satfat_g": 10.9,
+    "salt_g": 0.94,
+    "fibre_g": 6.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A dark, deeply ridged chocolate waffle studded with melted chocolate chips, steam rising from its crisp surface.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

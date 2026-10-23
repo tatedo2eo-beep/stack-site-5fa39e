@@ -35,6 +35,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | apple-grape-walnut-waldorf-salad | Waldorf | Classic | 3 | 5 |
 | apple-oat-crumble | Crumble | Classic | 2 | 4 |
 | apple-pie-pancakes-maple-cream | Pancakes (American) | Apple | 1 | 3 |
+| apple-raspberry-waffles | Waffles (Belgian) | Apple & raspberry | 1 | 3 |
 | apple-rose-tart-rosewater-glaze | Fruit tart (crème pâtissière) | Rose | 1 | 3 |
 | apple-rosemary-tarte-tatin | Tarte Tatin | Rosemary | 1 | 3 |
 | apricot-blueberry-free-form-tart | Fruit tart (crème pâtissière) | Apricot | 1 | 3 |
@@ -153,6 +154,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | butter-tarts-canadian-raisin | Butter tart | Classic | 1 | 3 |
 | buttered-corn-on-the-cob | Corn on the cob | Classic | 1 | 4 |
 | buttered-spaetzle | Spätzle | Classic | 3 | 5 |
+| buttermilk-brown-sugar-waffles | Waffles (Belgian) | Brown sugar | 1 | 3 |
 | buttermilk-chess-pie | Chess | Classic | 2 | 4 |
 | buttermilk-fried-chicken | Fried chicken (Southern) | Buttermilk-brined | 4 | 6 |
 | buttermilk-herb-ranch-dressing | Ranch dressing | Classic | 2 | 4 |
@@ -180,6 +182,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | caramel-choux-saint-honore-cream | Saint-Honoré | Classic | 0 | 4 |
 | caramel-peanut-vanilla-sundae | Sundaes | Caramel | 1 | 3 |
 | caramelised-apple-almond-crunch-tart | Frangipane | Apple | 1 | 3 |
+| caramelised-apple-star-crepes | Crêpes | Apple | 1 | 3 |
 | caramelised-kouign-amann-pastries | Kouign-amann | Classic | 2 | 4 |
 | caramelised-onion-flatbread-anchovies-black-olives-thyme | Pissaladière | Classic | 3 | 5 |
 | caramelised-onion-soup-cheese-toasts | French onion | Classic | 3 | 5 |
@@ -287,6 +290,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chocolate-hazelnut-gelato-gianduja | Gelato | Chocolate & hazelnut | 1 | 3 |
 | chocolate-hazelnut-spread-brownies | Brownie (fudgy or cakey) | Nutella & hazelnut | 1 | 3 |
 | chocolate-layer-cake | Chocolate layer | Classic | 2 | 4 |
+| chocolate-malt-sourdough-waffles | Waffles (Belgian) | Chocolate & malted milk | 1 | 3 |
 | chocolate-pancakes-chocolate-sauce | Pancakes (American) | Chocolate | 1 | 3 |
 | chocolate-rugelach | Rugelach | Chocolate | 2 | 4 |
 | chocolate-sandwich-cookies | Sandwich cookies | Classic | 2 | 4 |
@@ -607,6 +611,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | glossy-five-point-kaiser-rolls | Kaiser roll | Classic | 2 | 4 |
 | glossy-glazed-carrots | Glazed carrots | Classic | 2 | 4 |
 | gluten-free-cream-cheese-pancakes | Pancakes (American) | Cream cheese | 1 | 3 |
+| gluten-free-lemon-cornmeal-waffles | Waffles (Belgian) | Lemon | 1 | 3 |
+| gluten-free-sweet-potato-corn-waffles | Waffles (Belgian) | Sweet potato & corn | 1 | 3 |
 | gnocchi-brown-butter-sage | Gnocchi | Brown butter-sage | 3 | 5 |
 | gnocchi-cherry-tomato | Gnocchi | Tomato | 3 | 5 |
 | gnocchi-pesto | Gnocchi | Pesto | 3 | 5 |
@@ -1151,6 +1157,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | roasted-brussels-sprouts-charred | Brussels sprouts | Classic | 2 | 4 |
 | roasted-butternut-squash-soup-curry-coconut | Butternut squash | Curried | 3 | 5 |
 | roasted-butternut-squash-soup-sage-pumpkin-seeds | Butternut squash | Classic | 3 | 5 |
+| roasted-cauliflower-parsnip-leek-crepes | Crêpes | Cauliflower & leek | 1 | 3 |
 | roasted-cherry-custard-ice-cream | Custard-base (French) | Cherry | 1 | 3 |
 | roasted-courgette-aubergine-lasagne | Sheets/baked (lasagne) | Zucchini & eggplant | 1 | 3 |
 | roasted-garlic-mashed-potatoes | Mashed | Garlic | 3 | 5 |

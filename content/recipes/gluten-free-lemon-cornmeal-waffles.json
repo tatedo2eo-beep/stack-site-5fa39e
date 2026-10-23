@@ -1,0 +1,165 @@
+{
+  "slug": "gluten-free-lemon-cornmeal-waffles",
+  "title": "Gluten-Free Lemon Cornmeal Waffles",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "waffles-belgian",
+  "dish_title": "Waffles (Belgian)",
+  "flavour": "Lemon",
+  "flavour_order": 15,
+  "access": "premium",
+  "base_recipe": "crisp-belgian-waffles-strawberries-cream",
+  "changes_from_base": "Potato starch and wholegrain cornmeal replace the wheat flour, lots of lemon zest goes into the milk, and the batter rests 10 minutes so the cornmeal softens.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Light, tangy waffles made with cornmeal and potato starch, lifted by plenty of fresh lemon zest.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "waffle iron",
+    "large bowl",
+    "medium bowl",
+    "whisk",
+    "ladle",
+    "wire rack set in a rimmed baking tray",
+    "fine grater"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 74,
+      "unit": "g",
+      "item": "potato starch"
+    },
+    {
+      "group": "Batter",
+      "qty": 103,
+      "unit": "g",
+      "item": "wholegrain cornmeal"
+    },
+    {
+      "group": "Batter",
+      "qty": 35,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 57,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Batter",
+      "qty": 220,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "finely grated lemon zest (about 3 lemons)"
+    },
+    {
+      "group": "For cooking",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil, for the iron"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Warm",
+      "text": "Heat the waffle iron and put a wire rack set in a baking tray into a 95°C oven."
+    },
+    {
+      "title": "Dry",
+      "text": "Whisk 74 g potato starch, 103 g cornmeal, 35 g caster sugar, 1½ tsp baking powder and ½ tsp fine salt in a large bowl."
+    },
+    {
+      "title": "Wet",
+      "text": "In a second bowl whisk 2 eggs, 57 g melted butter, 220 ml milk and 2 tbsp lemon zest."
+    },
+    {
+      "title": "Combine",
+      "text": "Add the wet mixture to the dry ingredients, stir together, then leave the batter to rest for 10 min."
+    },
+    {
+      "title": "Cook",
+      "text": "Brush the hot iron lightly with oil and cook the waffles until golden."
+    },
+    {
+      "title": "Hold",
+      "text": "Keep cooked waffles warm on the rack in the oven while you cook the rest."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve with 60 ml maple syrup."
+    },
+    {
+      "title": "Store",
+      "text": "Freeze any leftovers for a few weeks and reheat in a toaster."
+    }
+  ],
+  "tips": [
+    "Use a fine grater to zest the lemons so the batter doesn't turn bitter from the pith.",
+    "Check the cornmeal and baking powder are labelled gluten-free if that matters to your guests.",
+    "Swap the melted butter for 35 g vegetable oil if you prefer a dairy-free batter."
+  ],
+  "storage": "Freeze any leftover waffles for a few weeks and reheat them in a toaster. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 433,
+    "protein_g": 7.0,
+    "carbs_g": 63.4,
+    "sugar_g": 24.3,
+    "free_sugar_g": 20.8,
+    "fat_g": 17.0,
+    "satfat_g": 9.3,
+    "salt_g": 1.35,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A pale golden, crisp waffle flecked with lemon zest, served with a pool of maple syrup.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "slug": "gluten-free-sweet-potato-corn-waffles",
+  "title": "Gluten-Free Sweet Potato and Corn Waffles",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "waffles-belgian",
+  "dish_title": "Waffles (Belgian)",
+  "flavour": "Sweet potato & corn",
+  "flavour_order": 13,
+  "access": "premium",
+  "base_recipe": "crisp-belgian-waffles-strawberries-cream",
+  "changes_from_base": "A gluten-free batter of corn flour, sorghum flour and cornflour, spiced and sweetened with dark brown sugar and bound with mashed roasted sweet potato and oil instead of buttermilk and butter.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A soft, naturally sweet waffle built on roasted sweet potato and a blend of gluten-free flours, finished with maple syrup.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 60,
+  "difficulty": "easy",
+  "equipment": [
+    "waffle iron",
+    "large bowl",
+    "medium bowl",
+    "whisk",
+    "ladle",
+    "wire rack set in a rimmed baking tray",
+    "fork or potato masher",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Sweet potato",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium sweet potato (about 350 g), for 240 g mashed flesh"
+    },
+    {
+      "group": "Batter",
+      "qty": 128,
+      "unit": "g",
+      "item": "fine corn flour (finely ground cornmeal)"
+    },
+    {
+      "group": "Batter",
+      "qty": 57,
+      "unit": "g",
+      "item": "gluten-free sorghum flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 71,
+      "unit": "g",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "Batter",
+      "qty": 24,
+      "unit": "g",
+      "item": "dark brown sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "pumpkin pie spice"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "xanthan gum"
+    },
+    {
+      "group": "Batter",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk (or a plant milk)"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "ml",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "For cooking",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil, for the iron"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 15,
+      "unit": "g",
+      "item": "butter, to serve (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast",
+      "text": "Prick 1 medium sweet potato and roast at 200°C until very soft, about 45-50 min, then cool and mash 240 g of the flesh until smooth."
+    },
+    {
+      "title": "Warm",
+      "text": "Lower the oven to 95°C with a wire rack set in a baking tray inside, then heat the waffle iron and brush it lightly with 1 tsp oil."
+    },
+    {
+      "title": "Dry",
+      "text": "Whisk 128 g corn flour, 57 g sorghum flour, 71 g cornflour, 2 tbsp dark brown sugar, 1 tbsp pumpkin pie spice, 3 tsp baking powder, ½ tsp fine salt and ½ tsp xanthan gum in a large bowl."
+    },
+    {
+      "title": "Wet",
+      "text": "In a separate bowl whisk 300 ml milk with the mashed sweet potato, 2 eggs and 60 ml vegetable oil until smooth."
+    },
+    {
+      "title": "Combine",
+      "text": "Pour the wet mixture into the dry ingredients and whisk until smooth."
+    },
+    {
+      "title": "Cook",
+      "text": "Ladle batter into the hot iron and cook until crisp and golden brown."
+    },
+    {
+      "title": "Hold",
+      "text": "Move cooked waffles to the rack in the oven to keep warm while the rest cook."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve with 60 ml maple syrup and 15 g butter if liked."
+    }
+  ],
+  "tips": [
+    "Mash the sweet potato while still warm so it blends into the batter without lumps.",
+    "Check that the corn flour, sorghum flour, baking powder and spice blend are all labelled gluten-free if that matters to your guests.",
+    "Keep cooked waffles on a rack rather than stacked so steam escapes and they stay crisp."
+  ],
+  "storage": "These waffles are best eaten freshly cooked; if you must keep extras, store them covered in the fridge and warm them through in a toaster before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 610,
+    "protein_g": 9.8,
+    "carbs_g": 91.0,
+    "sugar_g": 25.2,
+    "free_sugar_g": 18.2,
+    "fat_g": 23.3,
+    "satfat_g": 5.4,
+    "salt_g": 1.95,
+    "fibre_g": 4.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A golden, deep-ridged waffle flecked with orange sweet potato, drizzled with maple syrup and a pat of butter melting on top.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

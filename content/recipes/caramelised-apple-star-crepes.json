@@ -1,0 +1,162 @@
+{
+  "slug": "caramelised-apple-star-crepes",
+  "title": "Caramelised Apple Star Crêpes with Apple Butter Sauce",
+  "category": "breakfast",
+  "cuisine": "French",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "crepes",
+  "dish_title": "Crêpes",
+  "flavour": "Apple",
+  "flavour_order": 5,
+  "access": "premium",
+  "base_recipe": "thin-french-crepes-sugar-lemon",
+  "changes_from_base": "Not a thin flour-and-milk crêpe: a small, rich cream batter is poured over a star of browned apple slices in the pan and turned out apple side up, with a quick apple-juice butter sauce instead of sugar and lemon.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Delicate single-serve crêpes with a caramelised apple star cooked right into the batter, finished with a buttery apple sauce.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "20 cm non-stick frying pan",
+    "mixing bowl",
+    "whisk",
+    "small saucepan",
+    "thin spatula",
+    "4 warm plates",
+    "chopping board",
+    "sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large tart apple (Granny Smith or Golden Delicious), about 220 g"
+    },
+    {
+      "group": "Batter",
+      "qty": 11,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "about 4 tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 17,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 4 tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Batter",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "For cooking",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Sauce",
+      "qty": 120,
+      "unit": "ml",
+      "item": "apple juice"
+    },
+    {
+      "group": "Sauce",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 28,
+      "unit": "g",
+      "item": "unsalted butter, cold, cubed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prep apple",
+      "text": "Peel, core and quarter 1 large tart apple, then cut each quarter into 4 slices to give 16 pieces."
+    },
+    {
+      "title": "Reduce",
+      "text": "Boil 120 ml apple juice with 2 tbsp caster sugar in a small saucepan until reduced by half, about 5 min."
+    },
+    {
+      "title": "Enrich sauce",
+      "text": "Off the heat, whisk in 28 g cold butter a few cubes at a time until glossy, then keep warm without letting it boil again."
+    },
+    {
+      "title": "Make batter",
+      "text": "Whisk 4 tsp flour with 4 tsp caster sugar, 1 egg and ¼ tsp vanilla, then beat in 120 ml double cream until smooth."
+    },
+    {
+      "title": "Brown apples",
+      "text": "Heat 1 tsp butter in a 20 cm pan and brown 4 apple slices on both sides, then arrange them in the centre as a star."
+    },
+    {
+      "title": "Cook",
+      "text": "Pour a quarter of the batter evenly over the apple star, keeping it in place, and cook for about 1 min until lightly browned underneath and fully set."
+    },
+    {
+      "title": "Turn out",
+      "text": "Turn the crêpe onto a warm plate so the apple sits on top, then repeat with the remaining batter and apple to make 4."
+    },
+    {
+      "title": "Finish",
+      "text": "Spoon a little warm sauce over each crêpe before serving."
+    }
+  ],
+  "tips": [
+    "Brown the apple slices well before pouring over the batter, as they won't cook much further once covered.",
+    "Keep the sauce warm rather than letting it reboil, or it may separate once the cold butter is whisked in.",
+    "Cook each crêpe until the batter is completely set before turning it out, so the apple star holds together on top."
+  ],
+  "storage": "These crêpes are best served immediately while warm, so make them just before your guests sit down. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 297,
+    "protein_g": 3.0,
+    "carbs_g": 24.5,
+    "sugar_g": 20.1,
+    "free_sugar_g": 13.5,
+    "fat_g": 21.7,
+    "satfat_g": 13.4,
+    "salt_g": 0.07,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A single golden crêpe topped with a neat star of caramelised apple slices, glazed with a glossy butter sauce.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}
