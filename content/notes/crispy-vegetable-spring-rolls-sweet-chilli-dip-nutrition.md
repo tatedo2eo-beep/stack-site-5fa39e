@@ -39,4 +39,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Makes 16 rolls, 2 per serving.
-- Use a naturally brewed, alcohol-free soy sauce; spring roll pastry is usually egg-free, but check the pack.
+- Spring roll pastry is usually egg-free, but check the pack.

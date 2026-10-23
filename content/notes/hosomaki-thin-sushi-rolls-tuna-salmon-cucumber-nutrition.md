@@ -6,7 +6,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Japanese short-grain (sushi) rice | Rice, white, short-grain, raw, unenriched (FDC 168931) | 400 | 1432.0 | 26.0 | 316.6 | 0.00 | 0.00 | 2.1 | 0.56 | 4 | 0.0 |
 | cold water | Water, tap (SR 14411) | 0 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
-| plain rice vinegar (unseasoned, alcohol-free) | Vinegar, distilled (SR 02053), proxy for rice vinegar | 60 | 10.8 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
+| plain rice vinegar (unseasoned) | Vinegar, distilled (SR 02053), proxy for rice vinegar | 60 | 10.8 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 20 | 77.4 | 0.0 | 20.0 | 19.96 | 19.96 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 4.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1744 | 0.0 |
 | nori sheets, halved | Seaweed, laver, raw (FDC 168458) | 11 | 3.9 | 0.6 | 0.6 | 0.05 | 0.00 | 0.0 | 0.01 | 5 | 0.0 |
@@ -29,6 +29,6 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Raw fish: buy sushi- or sashimi-grade fish from a fishmonger you trust, frozen first (-20 °C for 7 days or -35 °C for 15 h) to kill parasites; keep it cold and eat it the same day.
-- Sushi rice is seasoned with plain rice vinegar, sugar and salt only (no rice-based alcohol), so it is alcohol-free.
+- Sushi rice is seasoned with plain rice vinegar, sugar and salt only.
 - Use tamari instead of soy sauce for a gluten-free version.
 - Wasabi paste and pickled ginger are not counted in the nutrition.

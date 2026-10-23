@@ -9,7 +9,7 @@ Servings: 2. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 40.5 | 358.0 | 0.0 | 0.0 | 0.00 | 0.00 | 40.5 | 2.98 | 0 | 0.0 |
 | spring onions, whites and greens sliced separately | Onions, spring or scallions, raw (SR 11291) | 45 | 14.4 | 0.8 | 3.3 | 1.05 | 0.00 | 0.1 | 0.01 | 7 | 1.2 |
-| soy sauce (alcohol-free) | Soy sauce, shoyu (FDC 174277) | 11 | 5.8 | 0.9 | 0.5 | 0.04 | 0.00 | 0.1 | 0.01 | 604 | 0.1 |
+| soy sauce | Soy sauce, shoyu (FDC 174277) | 11 | 5.8 | 0.9 | 0.5 | 0.04 | 0.00 | 0.1 | 0.01 | 604 | 0.1 |
 | ground white pepper | Spices, pepper, white (FDC 170933) | 0.6 | 1.8 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
 | **Total** | | | 1325 | 34.9 | 165.2 | 1.89 | 0.00 | 56.2 | 8.07 | 1416 | 4.0 |
 
@@ -26,5 +26,4 @@ Servings: 2. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Serves 2 as a main or 4 as a side.
-- Choose a soy sauce labelled alcohol-free (many naturally brewed soy sauces contain alcohol); brands are widely available.
 - Rice is cooked and chilled the day before; freshly cooked rice spread on a tray and chilled 1 h uncovered also works.

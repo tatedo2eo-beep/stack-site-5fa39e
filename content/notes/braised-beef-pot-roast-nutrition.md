@@ -36,4 +36,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Braised until fork-tender, far above the 63 °C whole-cut minimum.
-- Cider vinegar adds acidity, keeping the dish alcohol-free.
+- Cider vinegar adds acidity.

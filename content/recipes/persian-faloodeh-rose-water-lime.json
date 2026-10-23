@@ -10,7 +10,7 @@
   "flavour": "Classic",
   "flavour_order": 0,
   "access": "free",
-  "summary": "A simple sugar syrup is mixed with water, lime juice and alcohol-free rose water, half-frozen, studded with soft chopped rice vermicelli and scraped with a fork into fluffy crystals.",
+  "summary": "A simple sugar syrup is mixed with water, lime juice and food-grade rose water, half-frozen, studded with soft chopped rice vermicelli and scraped with a fork into fluffy crystals.",
   "servings": 6,
   "prep_min": 20,
   "cook_min": 10,
@@ -61,7 +61,7 @@
       "qty": 30,
       "unit": "ml",
       "item": "rose water",
-      "note": "food-grade, alcohol-free"
+      "note": "food-grade"
     },
     {
       "group": "Noodles",
@@ -117,7 +117,7 @@
   "tips": [
     "Cook the noodles until completely soft; they firm up in the freezer.",
     "Add the noodles only once ice crystals have formed or they sink.",
-    "Choose food-grade, alcohol-free rose water."
+    "Choose food-grade rose water."
   ],
   "storage": "Keep covered in the freezer for up to 1 week. Scrape again with a fork before serving.",
   "allergens": [],

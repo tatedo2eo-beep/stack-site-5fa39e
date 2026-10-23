@@ -5,7 +5,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Japanese short-grain (sushi) rice (ESTIMATE: short-grain rice counted as long-grain white rice (SR 20044); values are almost identical) | Rice, white, long-grain, regular, raw (SR 20044) | 300 | 1095.0 | 21.4 | 239.9 | 0.36 | 0.00 | 2.0 | 0.54 | 15 | 3.9 |
-| plain rice vinegar (unseasoned, alcohol-free) | Vinegar, distilled (SR 02053), proxy for rice vinegar | 60 | 10.8 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
+| plain rice vinegar (unseasoned) | Vinegar, distilled (SR 02053), proxy for rice vinegar | 60 | 10.8 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 20 | 77.4 | 0.0 | 20.0 | 19.96 | 19.96 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2325 | 0.0 |
 | **Total** | | | 1183 | 21.4 | 259.9 | 20.32 | 19.96 | 2.0 | 0.54 | 2342 | 3.9 |

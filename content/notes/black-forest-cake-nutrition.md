@@ -39,4 +39,4 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Large egg taken as 50 g edible (yolk 17 g, white 33 g).
-- Alcohol-free: cherry juice is used for soaking.
+- Cherry juice is used for soaking.

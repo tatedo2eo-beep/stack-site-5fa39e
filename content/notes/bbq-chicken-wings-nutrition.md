@@ -9,7 +9,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | smoked paprika | Spices, paprika (SR 02028) | 2.3 | 6.5 | 0.3 | 1.2 | 0.24 | 0.00 | 0.3 | 0.05 | 2 | 0.8 |
-| barbecue sauce (alcohol-free) | Sauce, barbecue (FDC 174523) | 150 | 258.0 | 1.2 | 61.2 | 49.80 | 49.80 | 0.9 | 0.07 | 1545 | 1.4 |
+| barbecue sauce (check the label) | Sauce, barbecue (FDC 174523) | 150 | 258.0 | 1.2 | 61.2 | 49.80 | 49.80 | 0.9 | 0.07 | 1545 | 1.4 |
 | honey | Honey (SR 19296) | 21 | 63.8 | 0.1 | 17.3 | 17.25 | 17.25 | 0.0 | 0.00 | 1 | 0.0 |
 | cider vinegar | Vinegar, cider (FDC 173469) | 15 | 3.1 | 0.0 | 0.1 | 0.06 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
 | cayenne pepper | Spices, pepper, red or cayenne (SR 02031) | 0.9 | 2.9 | 0.1 | 0.5 | 0.09 | 0.00 | 0.2 | 0.03 | 0 | 0.2 |

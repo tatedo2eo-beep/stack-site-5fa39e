@@ -44,4 +44,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Use chicken.
-- Rosewater and kewra water are left out; alcohol-free rosewater can be added with the saffron milk.
+- Rosewater and kewra water are left out; food-grade rosewater can be added with the saffron milk.

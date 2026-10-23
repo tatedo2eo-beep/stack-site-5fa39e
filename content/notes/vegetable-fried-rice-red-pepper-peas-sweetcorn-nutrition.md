@@ -9,7 +9,7 @@ Servings: 2. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 40.5 | 358.0 | 0.0 | 0.0 | 0.00 | 0.00 | 40.5 | 2.98 | 0 | 0.0 |
 | spring onions, whites and greens sliced separately | Onions, spring or scallions, raw (SR 11291) | 45 | 14.4 | 0.8 | 3.3 | 1.05 | 0.00 | 0.1 | 0.01 | 7 | 1.2 |
-| soy sauce (alcohol-free) | Soy sauce, shoyu (FDC 174277) | 11 | 5.8 | 0.9 | 0.5 | 0.04 | 0.00 | 0.1 | 0.01 | 604 | 0.1 |
+| soy sauce | Soy sauce, shoyu (FDC 174277) | 11 | 5.8 | 0.9 | 0.5 | 0.04 | 0.00 | 0.1 | 0.01 | 604 | 0.1 |
 | ground white pepper | Spices, pepper, white (FDC 170933) | 0.6 | 1.8 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
 | carrot, cut into 5 mm dice | Carrots, raw (SR 11124) | 80 | 32.8 | 0.7 | 7.7 | 3.79 | 0.00 | 0.2 | 0.03 | 55 | 2.2 |
 | red pepper, deseeded and cut into 1 cm dice | Peppers, sweet, red, raw (SR 11821) | 120 | 37.2 | 1.2 | 7.2 | 5.04 | 0.00 | 0.4 | 0.03 | 5 | 2.5 |
@@ -33,5 +33,4 @@ Servings: 2. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Serves 2 as a main.
-- Choose a soy sauce labelled alcohol-free (many naturally brewed soy sauces contain alcohol); brands are widely available.
 - Vegetarian (contains egg).

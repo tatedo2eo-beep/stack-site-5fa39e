@@ -13,11 +13,11 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | beef mince, 15% fat | Beef, ground, 85% lean/15% fat, raw (SR 23567) | 900 | 1935.0 | 167.3 | 0.0 | 0.00 | 0.00 | 135.0 | 53.01 | 594 | 0.0 |
 | flat-leaf parsley, finely chopped | Parsley, fresh (SR 11297) | 10 | 3.6 | 0.3 | 0.6 | 0.09 | 0.00 | 0.1 | 0.01 | 6 | 0.3 |
-| soy sauce (alcohol-free; check the label) | Soy sauce, shoyu (FDC 174277) | 10 | 5.3 | 0.8 | 0.5 | 0.04 | 0.00 | 0.1 | 0.01 | 549 | 0.1 |
+| soy sauce (check the label) | Soy sauce, shoyu (FDC 174277) | 10 | 5.3 | 0.8 | 0.5 | 0.04 | 0.00 | 0.1 | 0.01 | 549 | 0.1 |
 | fine salt | Salt, table (SR 02047) | 7.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2907 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | tomato purée | Tomato products, canned, paste, no salt added (SR 11546) | 32 | 26.2 | 1.4 | 6.1 | 3.90 | 0.00 | 0.2 | 0.03 | 19 | 1.3 |
-| soy sauce (alcohol-free; check the label) | Soy sauce, shoyu (FDC 174277) | 5 | 2.7 | 0.4 | 0.2 | 0.02 | 0.00 | 0.0 | 0.00 | 274 | 0.0 |
+| soy sauce (check the label) | Soy sauce, shoyu (FDC 174277) | 5 | 2.7 | 0.4 | 0.2 | 0.02 | 0.00 | 0.0 | 0.00 | 274 | 0.0 |
 | olive oil | Oil, olive, salad or cooking (SR 04053) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 1.86 | 0 | 0.0 |
 | **Total** | | | 2704 | 195.6 | 68.6 | 21.37 | 4.25 | 178.6 | 62.00 | 4920 | 7.1 |
 

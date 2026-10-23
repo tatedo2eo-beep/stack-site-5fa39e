@@ -18,7 +18,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | medium carrots, peeled, left whole (about half eaten as the garnish) | Carrots, raw (SR 11124) | 100 | 41.0 | 0.9 | 9.6 | 4.74 | 0.00 | 0.2 | 0.04 | 69 | 2.8 |
 | fine salt (about 1 g absorbed by the dumplings; the broth is not served) | Salt, table (SR 02047) | 1 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 388 | 0.0 |
 | cooked beetroot (not in vinegar), finely grated | Beets, cooked, boiled, drained (FDC 169146) | 150 | 66.0 | 2.5 | 14.9 | 11.94 | 0.00 | 0.3 | 0.04 | 116 | 3.0 |
-| prepared horseradish (check the label: alcohol-free, made with distilled or cider vinegar) | Horseradish, prepared (FDC 173472) | 40 | 19.2 | 0.5 | 4.5 | 3.20 | 0.00 | 0.3 | 0.04 | 168 | 1.3 |
+| prepared horseradish (made with distilled or cider vinegar; check the label) | Horseradish, prepared (FDC 173472) | 40 | 19.2 | 0.5 | 4.5 | 3.20 | 0.00 | 0.3 | 0.04 | 168 | 1.3 |
 | cider vinegar | Vinegar, cider (FDC 173469) | 15 | 3.1 | 0.0 | 0.1 | 0.06 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
 | sugar | Sugars, granulated (SR 19335) | 4 | 15.5 | 0.0 | 4.0 | 3.99 | 3.99 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |

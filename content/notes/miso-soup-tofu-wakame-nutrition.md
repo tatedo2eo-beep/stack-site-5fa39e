@@ -25,6 +25,6 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- The dashi is made with water, kombu and bonito only, so the soup is alcohol-free.
+- The dashi is made with water, kombu and bonito only.
 - Kombu and bonito flakes are removed after steeping, so they are not counted in the nutrition.
 - Boiling after the miso goes in dulls its aroma, so the soup is only warmed.

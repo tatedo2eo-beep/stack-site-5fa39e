@@ -34,4 +34,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt broth.
-- Apple juice (not alcoholic cider) gives the gentle sweetness and acidity, keeping the soup alcohol-free.
+- Apple juice gives the gentle sweetness and acidity.

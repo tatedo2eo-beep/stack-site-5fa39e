@@ -40,4 +40,3 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Beef cubes cooked to 63 °C at the centre and rested 3 min on the salad (whole-cut rule).
-- Choose soy sauce and fish sauce labelled alcohol-free; some brewed soy sauces contain added alcohol.

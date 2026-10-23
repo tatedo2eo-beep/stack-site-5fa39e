@@ -11,7 +11,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | shallots, thinly sliced into rings | Shallots, raw (FDC 170499) | 90 | 64.8 | 2.2 | 15.1 | 7.08 | 0.00 | 0.1 | 0.02 | 11 | 2.9 |
 | neutral oil | Oil, canola (SR 04582) | 40.5 | 358.0 | 0.0 | 0.0 | 0.00 | 0.00 | 40.5 | 2.98 | 0 | 0.0 |
 | spring onions, thinly sliced | Onions, spring or scallions, raw (SR 11291) | 45 | 14.4 | 0.8 | 3.3 | 1.05 | 0.00 | 0.1 | 0.01 | 7 | 1.2 |
-| soy sauce (alcohol-free) | Soy sauce, shoyu (FDC 174277) | 11 | 5.8 | 0.9 | 0.5 | 0.04 | 0.00 | 0.1 | 0.01 | 604 | 0.1 |
+| soy sauce | Soy sauce, shoyu (FDC 174277) | 11 | 5.8 | 0.9 | 0.5 | 0.04 | 0.00 | 0.1 | 0.01 | 604 | 0.1 |
 | toasted sesame oil | Oil, sesame (SR 04058) | 4.5 | 39.8 | 0.0 | 0.0 | 0.00 | 0.00 | 4.5 | 0.64 | 0 | 0.0 |
 | ground white pepper | Spices, pepper, white (FDC 170933) | 0.6 | 1.8 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
 | **Total** | | | 1086 | 18.5 | 146.8 | 11.02 | 0.00 | 47.5 | 4.06 | 3651 | 6.8 |

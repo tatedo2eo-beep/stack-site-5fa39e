@@ -5,7 +5,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | doenjang (Korean soybean paste) | Miso (FDC 172442) | 60 | 118.8 | 7.7 | 15.2 | 3.72 | 0.00 | 3.6 | 0.61 | 2237 | 3.2 |
-| gochujang (alcohol-free) | ESTIMATE from typical gochujang labels (no SR Legacy entry) | 10 | 22.0 | 0.4 | 4.5 | 2.20 | 2.20 | 0.2 | 0.02 | 250 | 0.2 |
+| gochujang (check the label) | ESTIMATE from typical gochujang labels (no SR Legacy entry) | 10 | 22.0 | 0.4 | 4.5 | 2.20 | 2.20 | 0.2 | 0.02 | 250 | 0.2 |
 | garlic cloves, finely grated | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | spring onion, finely chopped | Onions, spring or scallions, raw (SR 11291) | 15 | 4.8 | 0.3 | 1.1 | 0.35 | 0.00 | 0.0 | 0.00 | 2 | 0.4 |
 | honey | Honey (SR 19296) | 7 | 21.3 | 0.0 | 5.8 | 5.75 | 5.75 | 0.0 | 0.00 | 0 | 0.0 |

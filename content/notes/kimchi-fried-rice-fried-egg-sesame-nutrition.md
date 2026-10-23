@@ -11,7 +11,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | medium onion, chopped | Onions, raw (SR 11282) | 150 | 60.0 | 1.7 | 14.0 | 6.36 | 0.00 | 0.2 | 0.06 | 6 | 2.5 |
 | spring onions, whites and greens sliced separately | Onions, spring or scallions, raw (SR 11291) | 60 | 19.2 | 1.1 | 4.4 | 1.40 | 0.00 | 0.1 | 0.02 | 10 | 1.6 |
 | Korean chilli flakes (gochugaru) (ESTIMATE: paprika values used for gochugaru) | Spices, paprika (SR 02028) | 6 | 16.9 | 0.8 | 3.2 | 0.62 | 0.00 | 0.8 | 0.13 | 4 | 2.1 |
-| alcohol-free soy sauce (check the label) | Soy sauce, shoyu (FDC 174277) | 10 | 5.3 | 0.8 | 0.5 | 0.04 | 0.00 | 0.1 | 0.01 | 549 | 0.1 |
+| soy sauce (check the label) | Soy sauce, shoyu (FDC 174277) | 10 | 5.3 | 0.8 | 0.5 | 0.04 | 0.00 | 0.1 | 0.01 | 549 | 0.1 |
 | toasted sesame oil | Oil, sesame (SR 04058) | 9 | 79.6 | 0.0 | 0.0 | 0.00 | 0.00 | 9.0 | 1.28 | 0 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 0.99 | 0 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 200 | 286.0 | 25.1 | 1.4 | 0.74 | 0.00 | 19.0 | 6.26 | 284 | 0.0 |

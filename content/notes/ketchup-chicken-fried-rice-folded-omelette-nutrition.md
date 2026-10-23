@@ -12,7 +12,7 @@ Servings: 2. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | frozen peas | Peas, green, frozen, cooked, boiled, drained, without salt (FDC 170017) | 40 | 31.2 | 2.1 | 5.7 | 1.76 | 0.00 | 0.1 | 0.02 | 29 | 1.8 |
 | butter | Butter, without salt (SR 01145) | 15 | 107.5 | 0.1 | 0.0 | 0.01 | 0.00 | 12.2 | 7.71 | 2 | 0.0 |
 | tomato ketchup | Catsup (SR 11935) | 51 | 51.5 | 0.5 | 14.0 | 10.85 | 10.85 | 0.1 | 0.00 | 463 | 0.2 |
-| alcohol-free soy sauce (check the label) | Soy sauce, shoyu (FDC 174277) | 5 | 2.7 | 0.4 | 0.2 | 0.02 | 0.00 | 0.0 | 0.00 | 274 | 0.0 |
+| soy sauce (check the label) | Soy sauce, shoyu (FDC 174277) | 5 | 2.7 | 0.4 | 0.2 | 0.02 | 0.00 | 0.0 | 0.00 | 274 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 200 | 286.0 | 25.1 | 1.4 | 0.74 | 0.00 | 19.0 | 6.26 | 284 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 30 | 18.3 | 0.9 | 1.4 | 1.51 | 0.00 | 1.0 | 0.56 | 13 | 0.0 |

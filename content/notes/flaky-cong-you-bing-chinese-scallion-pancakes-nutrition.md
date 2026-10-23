@@ -30,5 +30,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use a naturally brewed, alcohol-free soy sauce.
 - Shaped, uncooked pancakes can be stacked between baking paper and chilled for 24 h or frozen for 1 month.

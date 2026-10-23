@@ -11,12 +11,12 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | spring onions, finely chopped | Onions, spring or scallions, raw (SR 11291) | 30 | 9.6 | 0.5 | 2.2 | 0.70 | 0.00 | 0.1 | 0.01 | 5 | 0.8 |
 | fresh ginger, finely grated | Ginger root, raw (SR 11216) | 6 | 4.8 | 0.1 | 1.1 | 0.10 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | garlic cloves, finely grated | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
-| soy sauce (alcohol-free) | Soy sauce, shoyu (FDC 174277) | 16 | 8.5 | 1.3 | 0.8 | 0.06 | 0.00 | 0.1 | 0.01 | 878 | 0.1 |
+| soy sauce | Soy sauce, shoyu (FDC 174277) | 16 | 8.5 | 1.3 | 0.8 | 0.06 | 0.00 | 0.1 | 0.01 | 878 | 0.1 |
 | toasted sesame oil | Oil, sesame (SR 04058) | 4.5 | 39.8 | 0.0 | 0.0 | 0.00 | 0.00 | 4.5 | 0.64 | 0 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 4 | 15.5 | 0.0 | 4.0 | 3.99 | 3.99 | 0.0 | 0.00 | 0 | 0.0 |
 | ground white pepper | Spices, pepper, white (FDC 170933) | 0.6 | 1.8 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
 | neutral oil | Oil, canola (SR 04582) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 1.99 | 0 | 0.0 |
-| soy sauce (alcohol-free) | Soy sauce, shoyu (FDC 174277) | 24 | 12.7 | 2.0 | 1.2 | 0.10 | 0.00 | 0.1 | 0.02 | 1318 | 0.2 |
+| soy sauce | Soy sauce, shoyu (FDC 174277) | 24 | 12.7 | 2.0 | 1.2 | 0.10 | 0.00 | 0.1 | 0.02 | 1318 | 0.2 |
 | plain rice vinegar | Vinegar, distilled (SR 02053), proxy for rice vinegar | 30 | 5.4 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
 | fresh ginger, cut into very fine matchsticks | Ginger root, raw (SR 11216) | 10 | 8.0 | 0.2 | 1.8 | 0.17 | 0.00 | 0.1 | 0.02 | 1 | 0.2 |
 | toasted sesame oil | Oil, sesame (SR 04058) | 2.25 | 19.9 | 0.0 | 0.0 | 0.00 | 0.00 | 2.2 | 0.32 | 0 | 0.0 |
@@ -35,6 +35,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - minced beef is used (minced lamb also works); no cooking alcohol of any kind is used.
-- Choose a soy sauce labelled alcohol-free (many naturally brewed soy sauces contain alcohol); brands are widely available.
 - Plain rice vinegar is used; check the label and choose one with no added alcohol (avoid seasoned or blended products that list alcohol).
 - Beef mince cooked to 71 °C.

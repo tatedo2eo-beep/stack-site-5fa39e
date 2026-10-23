@@ -8,7 +8,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | fresh ginger, peeled | Ginger root, raw (SR 11216) | 40 | 32.0 | 0.7 | 7.1 | 0.68 | 0.00 | 0.3 | 0.08 | 5 | 0.8 |
 | spring onions | Onions, spring or scallions, raw (SR 11291) | 75 | 24.0 | 1.4 | 5.5 | 1.75 | 0.00 | 0.1 | 0.02 | 12 | 2.0 |
-| light soy sauce (alcohol-free; check the label) | Soy sauce, shoyu (FDC 174277) | 40 | 21.2 | 3.3 | 2.0 | 0.16 | 0.00 | 0.2 | 0.03 | 2196 | 0.3 |
+| light soy sauce (check the label) | Soy sauce, shoyu (FDC 174277) | 40 | 21.2 | 3.3 | 2.0 | 0.16 | 0.00 | 0.2 | 0.03 | 2196 | 0.3 |
 | sugar | Sugars, granulated (SR 19335) | 4 | 15.5 | 0.0 | 4.0 | 3.99 | 3.99 | 0.0 | 0.00 | 0 | 0.0 |
 | ground white pepper | Spices, pepper, white (FDC 170933) | 0.6 | 1.8 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
 | neutral oil | Oil, canola (SR 04582) | 40.5 | 358.0 | 0.0 | 0.0 | 0.00 | 0.00 | 40.5 | 2.98 | 0 | 0.0 |

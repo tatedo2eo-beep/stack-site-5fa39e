@@ -18,7 +18,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | large egg, beaten | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
 | panko breadcrumbs | Bread crumbs, dry, grated, plain (FDC 174928); proxy for panko | 80 | 316.0 | 10.7 | 57.6 | 4.96 | 4.96 | 4.2 | 0.96 | 586 | 3.6 |
 | neutral oil | Oil, canola (SR 04582) | 54 | 477.4 | 0.0 | 0.0 | 0.00 | 0.00 | 54.0 | 3.98 | 0 | 0.0 |
-| mayonnaise (alcohol-free; check the label) | Salad dressing, mayonnaise, regular (SR 04025) | 100 | 680.0 | 1.0 | 0.6 | 0.57 | 0.57 | 74.8 | 11.74 | 635 | 0.0 |
+| mayonnaise (check the label) | Salad dressing, mayonnaise, regular (SR 04025) | 100 | 680.0 | 1.0 | 0.6 | 0.57 | 0.57 | 74.8 | 11.74 | 635 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 15 | 3.3 | 0.1 | 1.0 | 0.38 | 0.38 | 0.0 | 0.01 | 0 | 0.0 |
 | finely chopped chives | Chives, raw (FDC 169994) | 4 | 1.2 | 0.1 | 0.2 | 0.07 | 0.00 | 0.0 | 0.01 | 0 | 0.1 |
 | finely chopped parsley | Parsley, fresh (SR 11297) | 4 | 1.4 | 0.1 | 0.3 | 0.03 | 0.00 | 0.0 | 0.01 | 2 | 0.1 |

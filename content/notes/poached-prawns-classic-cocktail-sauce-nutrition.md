@@ -10,7 +10,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | celery seeds | Spices, celery seed (FDC 170920) | 1 | 3.9 | 0.2 | 0.4 | 0.01 | 0.00 | 0.3 | 0.02 | 2 | 0.1 |
 | lemon, halved (juice squeezed into the pot) | Lemon juice, raw (SR 09152) - juice sugars counted as free | 20 | 4.4 | 0.1 | 1.4 | 0.50 | 0.50 | 0.0 | 0.01 | 0 | 0.1 |
 | tomato ketchup | Catsup (SR 11935) | 120 | 121.2 | 1.2 | 32.9 | 25.52 | 25.52 | 0.1 | 0.00 | 1088 | 0.4 |
-| prepared horseradish (alcohol-free; check the label) | Horseradish, prepared (FDC 173472) | 30 | 14.4 | 0.4 | 3.4 | 2.40 | 0.00 | 0.2 | 0.03 | 126 | 1.0 |
+| prepared horseradish (check the label) | Horseradish, prepared (FDC 173472) | 30 | 14.4 | 0.4 | 3.4 | 2.40 | 0.00 | 0.2 | 0.03 | 126 | 1.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 15 | 3.3 | 0.1 | 1.0 | 0.38 | 0.38 | 0.0 | 0.01 | 0 | 0.0 |
 | hot pepper sauce (check the label for alcohol) | Sauce, ready-to-serve, pepper or hot (FDC 174527) | 3 | 0.3 | 0.0 | 0.1 | 0.04 | 0.00 | 0.0 | 0.00 | 79 | 0.0 |
 | cayenne pepper | Spices, pepper, red or cayenne (SR 02031) | 0.3 | 1.0 | 0.0 | 0.2 | 0.03 | 0.00 | 0.1 | 0.01 | 0 | 0.1 |

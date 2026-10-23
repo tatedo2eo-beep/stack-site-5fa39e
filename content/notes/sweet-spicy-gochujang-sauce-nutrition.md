@@ -4,7 +4,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| gochujang (alcohol-free) | ESTIMATE from typical gochujang labels (no SR Legacy entry) | 60 | 132.0 | 2.4 | 27.0 | 13.20 | 13.20 | 0.9 | 0.12 | 1500 | 1.2 |
+| gochujang (check the label) | ESTIMATE from typical gochujang labels (no SR Legacy entry) | 60 | 132.0 | 2.4 | 27.0 | 13.20 | 13.20 | 0.9 | 0.12 | 1500 | 1.2 |
 | soy sauce | Soy sauce, shoyu (FDC 174277) | 32 | 17.0 | 2.6 | 1.6 | 0.13 | 0.00 | 0.2 | 0.02 | 1757 | 0.3 |
 | rice vinegar | Vinegar, distilled (SR 02053), proxy for rice vinegar | 15 | 2.7 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | dark brown sugar | Sugars, brown (SR 19334) | 35 | 133.0 | 0.0 | 34.3 | 33.96 | 33.96 | 0.0 | 0.00 | 10 | 0.0 |

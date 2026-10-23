@@ -9,7 +9,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | small onion, roughly chopped | Onions, raw (SR 11282) | 80 | 32.0 | 0.9 | 7.5 | 3.39 | 0.00 | 0.1 | 0.03 | 3 | 1.4 |
 | garlic cloves, peeled | Garlic, raw (SR 11215) | 12 | 17.9 | 0.8 | 4.0 | 0.12 | 0.00 | 0.1 | 0.01 | 2 | 0.3 |
 | fresh ginger, finely grated | Ginger root, raw (SR 11216) | 4 | 3.2 | 0.1 | 0.7 | 0.07 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
-| soy sauce (naturally brewed, alcohol-free) | Soy sauce, shoyu (FDC 174277) | 48 | 25.4 | 3.9 | 2.4 | 0.19 | 0.00 | 0.3 | 0.04 | 2635 | 0.4 |
+| soy sauce (naturally brewed) | Soy sauce, shoyu (FDC 174277) | 48 | 25.4 | 3.9 | 2.4 | 0.19 | 0.00 | 0.3 | 0.04 | 2635 | 0.4 |
 | light brown sugar | Sugars, brown (SR 19334) | 18 | 68.4 | 0.0 | 17.7 | 17.46 | 17.46 | 0.0 | 0.00 | 5 | 0.0 |
 | toasted sesame oil | Oil, sesame (SR 04058) | 14 | 123.8 | 0.0 | 0.0 | 0.00 | 0.00 | 14.0 | 1.99 | 0 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
@@ -17,7 +17,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | spring onions, cut into 3 cm lengths, plus 1 thinly sliced to serve | Onions, spring or scallions, raw (SR 11291) | 60 | 19.2 | 1.1 | 4.4 | 1.40 | 0.00 | 0.1 | 0.02 | 10 | 1.6 |
 | toasted sesame seeds | Seeds, sesame, whole, dried (SR 12023) | 9 | 51.6 | 1.6 | 2.1 | 0.03 | 0.00 | 4.5 | 0.63 | 1 | 1.1 |
 | Korean chilli flakes (gochugaru) or mild chilli flakes (counted as dried red chilli) | ESTIMATE: dried red chillies, whole (close to SR chili pepper powder without salt) | 6 | 16.9 | 0.7 | 3.0 | 0.60 | 0.00 | 0.4 | 0.06 | 5 | 1.7 |
-| soy sauce (alcohol-free) | Soy sauce, shoyu (FDC 174277) | 6 | 3.2 | 0.5 | 0.3 | 0.02 | 0.00 | 0.0 | 0.00 | 329 | 0.0 |
+| soy sauce | Soy sauce, shoyu (FDC 174277) | 6 | 3.2 | 0.5 | 0.3 | 0.02 | 0.00 | 0.0 | 0.00 | 329 | 0.0 |
 | toasted sesame oil | Oil, sesame (SR 04058) | 5 | 44.2 | 0.0 | 0.0 | 0.00 | 0.00 | 5.0 | 0.71 | 0 | 0.0 |
 | sugar | Sugars, granulated (SR 19335) | 4 | 15.5 | 0.0 | 4.0 | 3.99 | 3.99 | 0.0 | 0.00 | 0 | 0.0 |
 | rice vinegar (distilled, not seasoned) | Vinegar, distilled (SR 02053), proxy for rice vinegar | 5 | 0.9 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
@@ -40,4 +40,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - Thin slices cooked through to at least 63 °C.
 - Discarded marinade estimated at a quarter of the marinade; all of it is counted, so the figures are generous.
-- Gochujang is left out because it can contain alcohol; the marinade is alcohol-free.
+- Gochujang is left out of the marinade.

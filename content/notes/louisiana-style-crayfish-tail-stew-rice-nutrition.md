@@ -17,7 +17,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | dried thyme | Spices, thyme, dried (SR 02042) | 1 | 2.8 | 0.1 | 0.6 | 0.02 | 0.00 | 0.1 | 0.03 | 1 | 0.4 |
 | bay leaves | Spices, bay leaf (FDC 170917) | 0.4 | 1.3 | 0.0 | 0.3 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.1 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
-| fish stock or low-salt chicken broth (alcohol-free) | Soup, stock, fish, home-prepared (FDC 172885) | 500 | 80.0 | 11.3 | 0.0 | 0.00 | 0.00 | 4.1 | 1.02 | 780 | 0.0 |
+| fish stock or low-salt chicken broth (check stock label for celery) | Soup, stock, fish, home-prepared (FDC 172885) | 500 | 80.0 | 11.3 | 0.0 | 0.00 | 0.00 | 4.1 | 1.02 | 780 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | spring onions, sliced | Onions, spring or scallions, raw (SR 11291) | 60 | 19.2 | 1.1 | 4.4 | 1.40 | 0.00 | 0.1 | 0.02 | 10 | 1.6 |
 | fresh flat-leaf parsley, chopped | Parsley, fresh (SR 11297) | 10 | 3.6 | 0.3 | 0.6 | 0.09 | 0.00 | 0.1 | 0.01 | 6 | 0.3 |

@@ -13,7 +13,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fresh ginger, finely grated | Ginger root, raw (SR 11216) | 6 | 4.8 | 0.1 | 1.1 | 0.10 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | neutral oil | Oil, canola (SR 04582) | 54 | 477.4 | 0.0 | 0.0 | 0.00 | 0.00 | 54.0 | 3.98 | 0 | 0.0 |
 | tomato ketchup | Catsup (SR 11935) | 45 | 45.5 | 0.5 | 12.3 | 9.57 | 9.57 | 0.0 | 0.00 | 408 | 0.1 |
-| soy sauce (alcohol-free; check the label) | Soy sauce, shoyu (FDC 174277) | 16 | 8.5 | 1.3 | 0.8 | 0.06 | 0.00 | 0.1 | 0.01 | 878 | 0.1 |
+| soy sauce (check the label) | Soy sauce, shoyu (FDC 174277) | 16 | 8.5 | 1.3 | 0.8 | 0.06 | 0.00 | 0.1 | 0.01 | 878 | 0.1 |
 | caster sugar | Sugars, granulated (SR 19335) | 12 | 46.4 | 0.0 | 12.0 | 11.98 | 11.98 | 0.0 | 0.00 | 0 | 0.0 |
 | mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 42 | 285.6 | 0.4 | 0.2 | 0.24 | 0.24 | 31.4 | 4.93 | 267 | 0.0 |
 | toasted sesame seeds | Seeds, sesame, whole, dried (SR 12023) | 3 | 17.2 | 0.5 | 0.7 | 0.01 | 0.00 | 1.5 | 0.21 | 0 | 0.4 |
@@ -33,4 +33,3 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - Made without meat, bonito flakes or dashi, so it is vegetarian; you can use cold fish-based dashi instead of water (check the label for alcohol).
 - Pickled red ginger and bottled okonomiyaki sauce often contain alcohol or sweeteners; fresh ginger and a quick ketchup-soy sauce are used instead.
-- Soy sauce often contains alcohol from brewing: choose one labelled alcohol-free.

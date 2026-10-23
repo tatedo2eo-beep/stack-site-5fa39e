@@ -16,7 +16,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | tomato purée | Tomato products, canned, paste, no salt added (SR 11546) | 5 | 4.1 | 0.2 | 0.9 | 0.61 | 0.00 | 0.0 | 0.01 | 3 | 0.2 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 8 | 29.1 | 0.8 | 6.1 | 0.02 | 0.00 | 0.1 | 0.01 | 0 | 0.2 |
 | beef stock, low-salt or homemade | Soup, stock, beef, home-prepared (FDC 172883) | 300 | 39.0 | 5.9 | 3.6 | 1.62 | 0.00 | 0.3 | 0.11 | 594 | 0.0 |
-| soy sauce (alcohol-free; check the label) | Soy sauce, shoyu (FDC 174277) | 5 | 2.7 | 0.4 | 0.2 | 0.02 | 0.00 | 0.0 | 0.00 | 274 | 0.0 |
+| soy sauce (check the label) | Soy sauce, shoyu (FDC 174277) | 5 | 2.7 | 0.4 | 0.2 | 0.02 | 0.00 | 0.0 | 0.00 | 274 | 0.0 |
 | mustard powder | Spices, mustard seed, ground (FDC 170929) | 1 | 5.1 | 0.3 | 0.3 | 0.07 | 0.00 | 0.4 | 0.02 | 0 | 0.1 |
 | soured cream (full-fat) | Cream, sour, cultured (FDC 171257) | 150 | 297.0 | 3.7 | 6.9 | 5.12 | 0.00 | 29.0 | 15.21 | 46 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 15 | 3.3 | 0.1 | 1.0 | 0.38 | 0.38 | 0.0 | 0.01 | 0 | 0.0 |
@@ -39,4 +39,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Beef strips reach at least 63 °C in the sauce; they are thin, so this happens within 2-3 min.
-- Lemon juice and mustard powder give the tang, keeping the dish alcohol-free.
+- Lemon juice and mustard powder give the tang.

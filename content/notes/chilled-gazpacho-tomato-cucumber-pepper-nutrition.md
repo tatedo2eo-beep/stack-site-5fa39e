@@ -31,5 +31,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Cider vinegar gives the sharpness and keeps the soup fully alcohol-free.
+- Cider vinegar gives the sharpness.
 - No bread in this version; some Andalusian versions blend in stale bread.

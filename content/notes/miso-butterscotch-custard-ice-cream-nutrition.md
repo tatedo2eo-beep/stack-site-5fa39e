@@ -8,7 +8,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | dark brown sugar | Sugars, brown (SR 19334) | 160 | 608.0 | 0.2 | 156.9 | 155.23 | 155.23 | 0.0 | 0.00 | 45 | 0.0 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 360 | 1224.0 | 10.2 | 10.2 | 10.51 | 0.00 | 129.9 | 82.92 | 97 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 370.8 | 226.2 | 11.7 | 17.8 | 18.73 | 0.00 | 12.1 | 6.92 | 159 | 0.0 |
-| white (shiro) miso, alcohol-free (check label) | Miso (FDC 172442) | 40 | 79.2 | 5.1 | 10.1 | 2.48 | 0.00 | 2.4 | 0.41 | 1491 | 2.2 |
+| white (shiro) miso (check the label) | Miso (FDC 172442) | 40 | 79.2 | 5.1 | 10.1 | 2.48 | 0.00 | 2.4 | 0.41 | 1491 | 2.2 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 108 | 347.8 | 17.1 | 3.9 | 0.60 | 0.00 | 28.7 | 10.31 | 52 | 0.0 |
 | vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | ground cinnamon | Spices, cinnamon, ground (SR 02010) | 0.65 | 1.6 | 0.0 | 0.5 | 0.01 | 0.00 | 0.0 | 0.00 | 0 | 0.3 |

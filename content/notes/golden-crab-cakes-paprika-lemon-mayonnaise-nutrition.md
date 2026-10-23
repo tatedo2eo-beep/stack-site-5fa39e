@@ -5,7 +5,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | cooked white crab meat (fresh or pasteurised), picked over for shell | Crustaceans, crab, blue, cooked, moist heat (FDC 174205) | 450 | 373.5 | 80.5 | 0.0 | 0.00 | 0.00 | 3.3 | 0.90 | 1778 | 0.0 |
-| mayonnaise (alcohol-free; check the label) | Salad dressing, mayonnaise, regular (SR 04025) | 60 | 408.0 | 0.6 | 0.3 | 0.34 | 0.34 | 44.9 | 7.04 | 381 | 0.0 |
+| mayonnaise (check the label) | Salad dressing, mayonnaise, regular (SR 04025) | 60 | 408.0 | 0.6 | 0.3 | 0.34 | 0.34 | 44.9 | 7.04 | 381 | 0.0 |
 | large egg | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 15 | 3.3 | 0.1 | 1.0 | 0.38 | 0.38 | 0.0 | 0.01 | 0 | 0.0 |
 | lemon zest, finely grated | Lemon peel, raw (SR 09156) | 2 | 0.9 | 0.0 | 0.3 | 0.08 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
@@ -19,7 +19,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | panko breadcrumbs, for coating (about 40 g sticks) | Bread crumbs, dry, grated, plain (FDC 174928); proxy for panko | 40 | 158.0 | 5.4 | 28.8 | 2.48 | 2.48 | 2.1 | 0.48 | 293 | 1.8 |
 | neutral oil | Oil, canola (SR 04582) | 40.5 | 358.0 | 0.0 | 0.0 | 0.00 | 0.00 | 40.5 | 2.98 | 0 | 0.0 |
-| mayonnaise (alcohol-free; check the label) | Salad dressing, mayonnaise, regular (SR 04025) | 80 | 544.0 | 0.8 | 0.5 | 0.46 | 0.46 | 59.9 | 9.39 | 508 | 0.0 |
+| mayonnaise (check the label) | Salad dressing, mayonnaise, regular (SR 04025) | 80 | 544.0 | 0.8 | 0.5 | 0.46 | 0.46 | 59.9 | 9.39 | 508 | 0.0 |
 | tomato ketchup | Catsup (SR 11935) | 15 | 15.1 | 0.2 | 4.1 | 3.19 | 3.19 | 0.0 | 0.00 | 136 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 10 | 2.2 | 0.0 | 0.7 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
 | sweet paprika | Spices, paprika (SR 02028) | 1 | 2.8 | 0.1 | 0.5 | 0.10 | 0.00 | 0.1 | 0.02 | 1 | 0.3 |

@@ -12,7 +12,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 30 | 109.2 | 3.1 | 22.9 | 0.08 | 0.00 | 0.3 | 0.05 | 1 | 0.8 |
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 4 | 2.1 | 0.0 | 1.1 | 0.00 | 0.00 | 0.0 | 0.00 | 424 | 0.0 |
 | frying oil absorbed (estimated absorption) | Oil, canola (SR 04582) | 60 | 530.4 | 0.0 | 0.0 | 0.00 | 0.00 | 60.0 | 4.42 | 0 | 0.0 |
-| gochujang (alcohol-free) | ESTIMATE from typical gochujang labels (no SR Legacy entry) | 40 | 88.0 | 1.6 | 18.0 | 8.80 | 8.80 | 0.6 | 0.08 | 1000 | 0.8 |
+| gochujang (check the label) | ESTIMATE from typical gochujang labels (no SR Legacy entry) | 40 | 88.0 | 1.6 | 18.0 | 8.80 | 8.80 | 0.6 | 0.08 | 1000 | 0.8 |
 | ketchup | Catsup (SR 11935) | 45 | 45.5 | 0.5 | 12.3 | 9.57 | 9.57 | 0.0 | 0.00 | 408 | 0.1 |
 | honey | Honey (SR 19296) | 42 | 127.7 | 0.1 | 34.6 | 34.49 | 34.49 | 0.0 | 0.00 | 2 | 0.1 |
 | soy sauce | Soy sauce, shoyu (FDC 174277) | 15 | 7.9 | 1.2 | 0.7 | 0.06 | 0.00 | 0.1 | 0.01 | 824 | 0.1 |

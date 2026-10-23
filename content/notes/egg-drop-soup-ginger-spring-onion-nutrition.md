@@ -31,5 +31,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt broth.
-- Fully Alcohol-free: the cornflour slurry is made with water only.
+- The cornflour slurry is made with water only.
 - Use tamari labelled gluten-free if needed.

@@ -15,7 +15,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | green chilli, seeded and thinly sliced | Peppers, hot chili, green, raw (SR 11670) | 10 | 4.0 | 0.2 | 0.9 | 0.51 | 0.00 | 0.0 | 0.00 | 1 | 0.2 |
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 9 | 13.4 | 0.6 | 3.0 | 0.09 | 0.00 | 0.0 | 0.01 | 2 | 0.2 |
 | ripe plum tomatoes, cut into 1.5 cm wedges | Tomatoes, red, ripe, raw (SR 11529) | 300 | 54.0 | 2.6 | 11.7 | 7.89 | 0.00 | 0.6 | 0.08 | 15 | 3.6 |
-| soy sauce (naturally brewed, alcohol-free) | Soy sauce, shoyu (FDC 174277) | 48 | 25.4 | 3.9 | 2.4 | 0.19 | 0.00 | 0.3 | 0.04 | 2635 | 0.4 |
+| soy sauce (naturally brewed) | Soy sauce, shoyu (FDC 174277) | 48 | 25.4 | 3.9 | 2.4 | 0.19 | 0.00 | 0.3 | 0.04 | 2635 | 0.4 |
 | cider vinegar | Vinegar, cider (FDC 173469) | 15 | 3.1 | 0.0 | 0.1 | 0.06 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
 | lime juice | Lime juice, raw (SR 09160) - juice sugars counted as free | 30 | 7.5 | 0.1 | 2.5 | 0.51 | 0.51 | 0.0 | 0.00 | 1 | 0.1 |
 | fresh coriander, roughly chopped | Coriander (cilantro) leaves, raw (SR 11165) | 15 | 3.4 | 0.3 | 0.6 | 0.13 | 0.00 | 0.1 | 0.00 | 7 | 0.4 |

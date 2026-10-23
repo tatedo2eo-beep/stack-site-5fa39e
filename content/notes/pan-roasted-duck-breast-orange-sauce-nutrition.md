@@ -14,7 +14,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | lime juice | Lime juice, raw (SR 09160) - juice sugars counted as free | 30 | 7.5 | 0.1 | 2.5 | 0.51 | 0.51 | 0.0 | 0.00 | 1 | 0.1 |
 | honey | Honey (SR 19296) | 40 | 121.6 | 0.1 | 33.0 | 32.85 | 32.85 | 0.0 | 0.00 | 2 | 0.1 |
 | shallot, finely chopped | Shallots, raw (FDC 170499) | 40 | 28.8 | 1.0 | 6.7 | 3.15 | 0.00 | 0.0 | 0.01 | 5 | 1.3 |
-| chicken broth (ready-to-use, alcohol-free) | Soup, chicken broth, ready-to-serve (FDC 174536) | 200 | 12.0 | 1.3 | 0.9 | 0.86 | 0.00 | 0.4 | 0.03 | 742 | 0.0 |
+| chicken broth (ready-to-use) | Soup, chicken broth, ready-to-serve (FDC 174536) | 200 | 12.0 | 1.3 | 0.9 | 0.86 | 0.00 | 0.4 | 0.03 | 742 | 0.0 |
 | cold unsalted butter, diced | Butter, without salt (SR 01145) | 20 | 143.4 | 0.2 | 0.0 | 0.01 | 0.00 | 16.2 | 10.27 | 2 | 0.0 |
 | **Total** | | | 2144 | 141.5 | 112.9 | 86.89 | 58.56 | 125.4 | 48.62 | 3652 | 9.3 |
 
@@ -31,5 +31,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Poultry cooked to at least 74 °C (site rule), so the duck is cooked through rather than pink.
-- Sauce made with orange juice, lime, honey and broth, so it is alcohol-free.
+- The sauce is made with orange juice, lime, honey and broth.
 - Duck skin and fat counted as raw meat and skin with no deduction for fat poured off, so energy is an overestimate.
