@@ -1,0 +1,123 @@
+{
+  "slug": "che-chuoi-banana-tapioca-coconut-milk",
+  "title": "Chè Chuối: Warm Banana, Tapioca and Coconut Milk Dessert",
+  "category": "desserts",
+  "cuisine": "Vietnamese",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "che",
+  "dish_title": "Chè",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "photo_pending": true,
+  "summary": "A warm, fragrant pudding of soft bananas and tender tapioca pearls in sweetened coconut milk, finished with crushed peanuts.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan (about 2000 ml)",
+    "wooden spoon or heatproof spatula",
+    "serving bowls"
+  ],
+  "ingredients": [
+    {
+      "qty": 600,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "qty": 400,
+      "unit": "ml",
+      "item": "coconut milk (1 tin), divided"
+    },
+    {
+      "qty": 3,
+      "unit": "pc",
+      "item": "pandan leaves, tied in a knot (or 0.5 tsp vanilla)"
+    },
+    {
+      "qty": 55,
+      "unit": "g",
+      "item": "small tapioca pearls"
+    },
+    {
+      "qty": 450,
+      "unit": "g",
+      "item": "ripe bananas (pisang awak if you can find them), peeled and cut on the diagonal into 2.5 cm pieces"
+    },
+    {
+      "qty": 38,
+      "unit": "g",
+      "item": "sugar, plus more to taste",
+      "note": "about 3 tbsp"
+    },
+    {
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 50,
+      "unit": "g",
+      "item": "roasted unsalted peanuts, roughly crushed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simmer",
+      "text": "Combine 600 ml water, 200 ml of the coconut milk and the knotted pandan leaves in a saucepan and bring to the boil."
+    },
+    {
+      "title": "Cook",
+      "text": "Add 55 g tapioca pearls, lower to a simmer and cook, stirring often, about 10 min until translucent."
+    },
+    {
+      "title": "Add",
+      "text": "Stir in 450 g banana pieces and simmer about 5 min until soft and bright yellow in the centre."
+    },
+    {
+      "title": "Finish",
+      "text": "Stir in the remaining 200 ml coconut milk, 3 tbsp sugar and ⅛ tsp salt, bring back to a gentle boil, then remove the pandan and adjust the sugar to taste."
+    },
+    {
+      "title": "Serve",
+      "text": "Ladle into bowls and top with 50 g crushed roasted peanuts."
+    }
+  ],
+  "tips": [
+    "Stir the tapioca often as it cooks so the pearls stay separate rather than clumping together.",
+    "Add the second half of the coconut milk only once the bananas are soft, to keep its flavour fresh.",
+    "Taste before serving and add a little extra sugar if the bananas aren't very sweet."
+  ],
+  "storage": "Best served fresh while warm; keep covered in the fridge for up to 2 days and reheat gently on the stove, loosening with a little water if needed.",
+  "allergens": [
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 309,
+    "protein_g": 4.2,
+    "carbs_g": 36.4,
+    "sugar_g": 17.4,
+    "free_sugar_g": 7.5,
+    "fat_g": 18.6,
+    "satfat_g": 13.3,
+    "salt_g": 0.15,
+    "fibre_g": 2.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A bowl of warm banana and tapioca pudding in coconut milk, topped with crushed peanuts.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

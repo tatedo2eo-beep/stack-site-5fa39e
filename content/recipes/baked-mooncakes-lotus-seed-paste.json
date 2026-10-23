@@ -1,0 +1,159 @@
+{
+  "slug": "baked-mooncakes-lotus-seed-paste",
+  "title": "Baked Mooncakes with Lotus Seed Paste",
+  "category": "desserts",
+  "cuisine": "Chinese",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "mooncake",
+  "dish_title": "Mooncake",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Patterned golden mooncakes with a tender, honey-enriched crust wrapped around a smooth sweet lotus seed filling.",
+  "servings": 6,
+  "prep_min": 40,
+  "cook_min": 20,
+  "difficulty": "hard",
+  "equipment": [
+    "small saucepan",
+    "stand mixer with flat beater",
+    "cling film",
+    "rolling pin",
+    "100-150 g mooncake press",
+    "baking tray lined with baking paper",
+    "pastry brush"
+  ],
+  "ingredients": [
+    {
+      "group": "Alkaline water",
+      "qty": 240,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Alkaline water",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dough",
+      "qty": 147,
+      "unit": "g",
+      "item": "honey"
+    },
+    {
+      "group": "Dough",
+      "qty": 66,
+      "unit": "g",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 240,
+      "unit": "g",
+      "item": "cake flour, plus more for dusting"
+    },
+    {
+      "group": "Dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 340,
+      "unit": "g",
+      "item": "sweet lotus seed paste (shop-bought)"
+    },
+    {
+      "group": "Egg wash",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Egg wash",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Egg wash",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "whole milk"
+    },
+    {
+      "group": "Egg wash",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Alkaline",
+      "text": "Simmer 240 ml water with ½ tsp bicarbonate of soda for 7-8 min until reduced to about 2 tbsp, then cool and keep only ½ tsp of it."
+    },
+    {
+      "title": "Dough",
+      "text": "Beat 147 g honey, the ½ tsp alkaline water, 66 g oil, 240 g cake flour and ½ tsp salt until smooth, then wrap and chill 30 min along with the 340 g lotus seed paste."
+    },
+    {
+      "title": "Divide",
+      "text": "Divide the dough into 6 balls of about 79 g and the paste into 6 balls of about 57 g."
+    },
+    {
+      "title": "Wrap",
+      "text": "On oiled cling film, roll each dough ball into a 6 mm thick, 12 cm round, set a paste ball in the centre, wrap and press shut, then roll smooth."
+    },
+    {
+      "title": "Press",
+      "text": "Press each ball into a floured mould onto a lined tray to print the pattern, spacing them 5 cm apart, then freeze 5-10 min."
+    },
+    {
+      "title": "Glaze",
+      "text": "Heat the oven to 190 °C, whisk 1 egg, 1 egg yolk, 1½ tsp milk and ⅛ tsp salt, and brush two coats over the cakes."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 15-20 min until firm with golden bases, then cool completely on the tray before cutting into quarters."
+    }
+  ],
+  "tips": [
+    "Only use the small measured amount of alkaline water called for; it's strong, so discard the rest.",
+    "Oil your hands and the work surface well, as the dough is quite sticky to handle.",
+    "Freeze the shaped cakes briefly before baking to help them hold their imprinted pattern.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keeps 1-2 days in an airtight container, 1 week chilled, or 3 months frozen.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 514,
+    "protein_g": 7.9,
+    "carbs_g": 85.8,
+    "sugar_g": 43.0,
+    "free_sugar_g": 42.8,
+    "fat_g": 16.3,
+    "satfat_g": 1.9,
+    "salt_g": 0.69,
+    "fibre_g": 2.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "mooncake-advanced.jpg",
+  "image_alt": "Golden-brown patterned mooncakes with a glossy egg-washed surface, one cut into quarters showing a smooth lotus paste filling.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

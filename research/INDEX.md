@@ -56,6 +56,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | baked-chicken-spaghetti | Long dried (spaghetti, linguine, bucatini) | Chicken | 1 | 3 |
 | baked-dark-chocolate-pots-de-creme | Pot de crème | Classic | 2 | 4 |
 | baked-mac-and-cheese | Mac and cheese | Classic | 2 | 4 |
+| baked-mooncakes-lotus-seed-paste | Mooncake | Classic | 1 | 3 |
+| baked-mooncakes-sweet-red-bean-paste | Mooncake | Red bean | 1 | 3 |
 | baked-ziti | Baked ziti | Classic | 2 | 4 |
 | baklava-walnut-pistachio-honey-syrup | Baklava | Classic | 2 | 4 |
 | banana-bread-pancakes-brown-butter | Pancakes (American) | Banana | 1 | 3 |
@@ -123,6 +125,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | borani-esfenaj-spinach-yoghurt-dip | Borani | Classic | 2 | 4 |
 | borani-esfenaj-spinach-yoghurt-turmeric-onion | Borani | Spinach (esfenaj) | 2 | 4 |
 | boston-cream-pie | Boston cream pie | Classic | 2 | 4 |
+| bougatsa-filo-semolina-custard-cinnamon-sugar | Bougatsa | Classic | 0 | 3 |
 | braided-greek-tsoureki-orange-mahleb | Tsoureki | Classic | 2 | 4 |
 | braised-beef-pot-roast | Pot roast | Classic | 2 | 4 |
 | brandade-de-morue-baked-salt-cod-potato-gratin | Brandade | Classic | 2 | 4 |
@@ -183,6 +186,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | carciofi-alla-giudia-twice-fried-artichokes | Carciofi alla giudia | Classic | 2 | 4 |
 | carciofi-alla-romana-mint-garlic-braise | Carciofi alla romana | Classic | 1 | 3 |
 | cardamom-kheer-pistachios-almonds | Kheer | Classic | 1 | 3 |
+| cardamom-rose-bread-and-butter-pudding-raisins | Bread and butter pudding | Classic | 1 | 3 |
 | carne-asada-burrito-black-beans-lime-rice | Burrito | Carne asada | 3 | 5 |
 | carne-asada-street-tacos-onion-coriander-lime | Taco | Classic | 2 | 4 |
 | carrot-cake-pancakes-maple-yoghurt | Pancakes (American) | Carrot cake | 1 | 3 |
@@ -203,6 +207,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | charred-tomatillo-salsa-verde | Salsa | Verde | 3 | 5 |
 | charred-tomato-red-chilli-salsa-roja | Salsa | Classic | 2 | 4 |
 | chausson-aux-pommes-apple-turnovers | Chausson aux pommes | Classic | 2 | 4 |
+| che-chuoi-banana-tapioca-coconut-milk | Chè | Classic | 1 | 3 |
 | cheddar-cheese-sauce | Cheese sauce | Classic | 2 | 4 |
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |
 | cheese-bread-boats-melted-mozzarella-feta-baked-egg | Khachapuri | Classic | 2 | 4 |
@@ -561,6 +566,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gai-yang | Gai yang | Classic | 2 | 4 |
 | gajar-ka-halwa-carrot-milk-pudding | Gajar ka halwa | Classic | 1 | 3 |
 | gaji-namul-steamed-aubergine-sesame | Namul | Classic | 1 | 3 |
+| galaktoboureko-semolina-custard-filo-lemon-syrup | Galaktoboureko | Classic | 0 | 3 |
 | galbitang-korean-beef-short-rib-radish-soup | Galbitang | Classic | 2 | 4 |
 | galette-des-rois-almond-cream | Galette des rois | Classic | 2 | 4 |
 | galician-style-octopus-potatoes-smoked-paprika | Pulpo a la gallega | Classic | 4 | 6 |
@@ -1088,6 +1094,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pumpkin-whoopie-pies | Whoopie pie | Pumpkin | 2 | 4 |
 | puto-cheese-topped-steamed-rice-cakes | Puto | Cheese-topped | 1 | 3 |
 | puto-steamed-coconut-rice-cakes | Puto | Classic | 1 | 3 |
+| qatayef-asafiri-ashta-cream-orange-blossom-syrup | Qatayef | Ashta (cream) | 2 | 4 |
 | qatayef-asafiri-cream-pistachio | Qatayef | Classic | 2 | 4 |
 | qatayef-fried-cheese-half-moons | Qatayef | Cheese | 1 | 3 |
 | qatayef-fried-walnut-cinnamon-half-moons | Qatayef | Walnut | 1 | 3 |

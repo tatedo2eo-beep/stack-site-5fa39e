@@ -1,0 +1,163 @@
+{
+  "slug": "baked-mooncakes-sweet-red-bean-paste",
+  "title": "Baked Mooncakes with Sweet Red Bean Paste",
+  "category": "desserts",
+  "cuisine": "Chinese",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "mooncake",
+  "dish_title": "Mooncake",
+  "flavour": "Red bean",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Patterned golden mooncakes with a soft honey-enriched crust wrapped around a smooth sweet red bean filling.",
+  "servings": 6,
+  "prep_min": 40,
+  "cook_min": 20,
+  "difficulty": "hard",
+  "equipment": [
+    "small saucepan",
+    "stand mixer with flat beater",
+    "cling film",
+    "rolling pin",
+    "100-150 g mooncake press",
+    "baking tray lined with baking paper",
+    "pastry brush"
+  ],
+  "ingredients": [
+    {
+      "group": "Alkaline water",
+      "qty": 240,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Alkaline water",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dough",
+      "qty": 147,
+      "unit": "g",
+      "item": "honey"
+    },
+    {
+      "group": "Dough",
+      "qty": 66,
+      "unit": "g",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 240,
+      "unit": "g",
+      "item": "cake flour, plus more for dusting"
+    },
+    {
+      "group": "Dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 340,
+      "unit": "g",
+      "item": "sweetened red bean paste (1 tin)"
+    },
+    {
+      "group": "Egg wash",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Egg wash",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Egg wash",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "whole milk"
+    },
+    {
+      "group": "Egg wash",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Alkaline",
+      "text": "Boil 240 ml water with ½ tsp bicarbonate of soda, then simmer to reduce to about 2 tbsp over 7-8 min, cool and keep only ½ tsp."
+    },
+    {
+      "title": "Dough",
+      "text": "Beat 147 g honey, the ½ tsp alkaline water, 66 g oil, 240 g cake flour and ½ tsp salt until smooth, then wrap and chill 30 min with the 340 g red bean paste in a covered bowl."
+    },
+    {
+      "title": "Divide",
+      "text": "Divide the dough into 6 balls of 78-80 g and the bean paste into 6 balls of 56-60 g."
+    },
+    {
+      "title": "Wrap",
+      "text": "On oiled cling film, roll each dough ball into a 6 mm disc, enclose a bean ball, seal, then roll round again."
+    },
+    {
+      "title": "Press",
+      "text": "Press each ball into a floured mould onto a lined tray to imprint, re-flouring between cakes and spacing them 5 cm apart."
+    },
+    {
+      "title": "Chill",
+      "text": "Freeze 5-10 min while the oven heats to 190 °C."
+    },
+    {
+      "title": "Glaze",
+      "text": "Mix 1 egg, 1 egg yolk, 1½ tsp milk and ⅛ tsp salt and give each cake two thorough coats."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 15-20 min until set and golden underneath, then cool fully on the tray before serving in wedges."
+    }
+  ],
+  "tips": [
+    "Chill both the dough and the bean paste before shaping, as it makes wrapping the balls much easier.",
+    "Apply two full coats of egg wash for an even, glossy golden finish.",
+    "Re-flour the mould between each cake so the pattern releases cleanly every time.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store in an airtight container at room temperature for a few days, or chill or freeze for longer keeping, bringing back to room temperature before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 479,
+    "protein_g": 7.2,
+    "carbs_g": 84.1,
+    "sugar_g": 20.4,
+    "free_sugar_g": 20.1,
+    "fat_g": 13.0,
+    "satfat_g": 1.4,
+    "salt_g": 0.99,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "mooncake-advanced--red-bean.jpg",
+  "image_alt": "Golden-brown patterned mooncakes with a glossy egg-washed surface, cut into wedges revealing a dark red bean filling.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

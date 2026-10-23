@@ -1,0 +1,160 @@
+{
+  "slug": "galaktoboureko-semolina-custard-filo-lemon-syrup",
+  "title": "Galaktoboureko: Semolina Custard Filo Pie with Lemon Syrup",
+  "category": "desserts",
+  "cuisine": "Greek",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "galaktoboureko",
+  "dish_title": "Galaktoboureko",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A golden filo pie hiding a thick semolina custard, soaked in a fragrant lemon syrup while still hot from the oven.",
+  "servings": 18,
+  "prep_min": 30,
+  "cook_min": 70,
+  "difficulty": "medium",
+  "equipment": [
+    "heavy saucepan",
+    "whisk",
+    "deep 25 cm round or square baking tin",
+    "pastry brush",
+    "sharp knife",
+    "second saucepan for the syrup"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 100,
+      "unit": "g",
+      "item": "fine semolina"
+    },
+    {
+      "group": "Custard",
+      "qty": 180,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 120,
+      "unit": "g",
+      "item": "unsalted butter, diced"
+    },
+    {
+      "group": "Custard",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Pastry",
+      "qty": 450,
+      "unit": "g",
+      "item": "thick filo pastry, thawed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 140,
+      "unit": "g",
+      "item": "ghee (clarified butter), melted, for brushing"
+    },
+    {
+      "group": "Syrup",
+      "qty": 600,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Syrup",
+      "qty": 400,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "lemon"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simmer",
+      "text": "Bring 1000 ml whole milk to the boil in a heavy saucepan."
+    },
+    {
+      "title": "Whisk",
+      "text": "Lower the heat right down and rain in 100 g fine semolina, whisking constantly, then stir in 180 g caster sugar and simmer 5-6 min."
+    },
+    {
+      "title": "Enrich",
+      "text": "Off the heat, beat in 120 g diced butter, then 4 eggs one at a time and 1 tsp vanilla, until the custard is thick, pourable and reaches 71 °C."
+    },
+    {
+      "title": "Line",
+      "text": "Heat the oven to 190 °C, butter a 25 cm tin and lay in 8 sheets of the 450 g filo, brushing each with 140 g melted ghee and letting the ends hang over the sides."
+    },
+    {
+      "title": "Fill",
+      "text": "Pour the custard into the filo case."
+    },
+    {
+      "title": "Top",
+      "text": "Cut the remaining filo to size, brush each sheet with ghee, stack on top, then brush and roll in the overhanging edges to seal."
+    },
+    {
+      "title": "Bake",
+      "text": "Score the top in diamonds, sprinkle with a little water and bake about 1 h until light golden and set."
+    },
+    {
+      "title": "Syrup",
+      "text": "Meanwhile simmer 600 ml water with 400 g sugar and half a lemon for about 1 h, then squeeze in the juice and discard the peel."
+    },
+    {
+      "title": "Finish",
+      "text": "Pour the hot syrup over the pie as it comes out of the oven, keeping hands well clear as it bubbles up, then cool before cutting along the scored lines."
+    }
+  ],
+  "tips": [
+    "Add the semolina to the milk very gradually over low heat, whisking the whole time, to keep it smooth and lump-free.",
+    "Check the custard reaches 71 °C before layering it into the filo so the eggs are properly cooked through.",
+    "Pour the hot syrup over the pie the moment it leaves the oven, standing well back as it bubbles up vigorously."
+  ],
+  "storage": "Keep covered at room temperature or in the fridge for up to 3 days, and serve at room temperature or gently warmed.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 387,
+    "protein_g": 5.8,
+    "carbs_g": 52.3,
+    "sugar_g": 35.2,
+    "free_sugar_g": 32.2,
+    "fat_g": 17.6,
+    "satfat_g": 10.0,
+    "salt_g": 0.41,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "galaktoboureko-advanced.jpg",
+  "image_alt": "A syrup-soaked golden filo pie cut into diamond pieces, revealing a thick creamy custard filling."
+}

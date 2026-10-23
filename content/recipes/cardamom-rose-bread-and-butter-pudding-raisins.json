@@ -1,0 +1,165 @@
+{
+  "slug": "cardamom-rose-bread-and-butter-pudding-raisins",
+  "title": "Cardamom and Rose Bread-and-Butter Pudding with Raisins",
+  "category": "desserts",
+  "cuisine": "British-Parsi",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "bread-and-butter-pudding",
+  "dish_title": "Bread and butter pudding",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Overlapping triangles of buttered bread baked in a fragrant cardamom and rose custard, finished with raisins and chopped nuts.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 60,
+  "difficulty": "easy",
+  "equipment": [
+    "23 x 33 cm baking dish",
+    "larger roasting tin for a water bath",
+    "pastry brush",
+    "large bowl",
+    "whisk",
+    "kettle",
+    "digital thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Pudding",
+      "qty": 11,
+      "unit": "pc",
+      "item": "slices white sandwich bread"
+    },
+    {
+      "group": "Pudding",
+      "qty": 150,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Pudding",
+      "qty": 110,
+      "unit": "g",
+      "item": "raisins"
+    },
+    {
+      "group": "Pudding",
+      "qty": 15,
+      "unit": "g",
+      "item": "pistachios, finely chopped"
+    },
+    {
+      "group": "Pudding",
+      "qty": 18,
+      "unit": "g",
+      "item": "skin-on almonds, finely chopped"
+    },
+    {
+      "group": "Custard",
+      "qty": 700,
+      "unit": "ml",
+      "item": "evaporated milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 397,
+      "unit": "g",
+      "item": "sweetened condensed milk (1 tin)"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Custard",
+      "qty": 85,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "grated nutmeg"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "rose water"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prep",
+      "text": "Heat the oven to 190 °C, brush both sides of all 11 bread slices with 150 g melted butter and cut each into two triangles."
+    },
+    {
+      "title": "Layer",
+      "text": "Butter a 23 x 33 cm dish, arrange the triangles overlapping with points up, then scatter in 110 g raisins, tucking some between the slices, followed by 15 g chopped pistachios and 18 g chopped almonds."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk 700 ml evaporated milk and 397 g condensed milk with 6 eggs until completely smooth, then whisk in 85 g sugar, 1 tsp cardamom, ¾ tsp nutmeg, 1 tsp rose water and 1 tsp vanilla."
+    },
+    {
+      "title": "Pour",
+      "text": "Pour the custard over the bread to within 1 cm of the rim and press the slices down so they soak."
+    },
+    {
+      "title": "Bake",
+      "text": "Set the dish in a roasting tin, pour boiling water in to about 1 cm deep and bake about 1 h, topping up the water as needed, until the centre reaches 71 °C and a knife comes out clean."
+    },
+    {
+      "title": "Finish",
+      "text": "If the top is pale, grill for 2-3 min, then serve warm or cold."
+    }
+  ],
+  "tips": [
+    "Brush both sides of every bread slice with butter so it browns evenly and the custard soaks in all over.",
+    "Bake in a water bath and top it up if it runs low, to keep the custard setting gently rather than curdling.",
+    "Check the centre reaches 71 °C and a knife comes out clean before taking the dish out of the oven."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days and serve cold or reheated gently in the oven.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 687,
+    "protein_g": 19.9,
+    "carbs_g": 79.6,
+    "sugar_g": 49.4,
+    "free_sugar_g": 40.0,
+    "fat_g": 33.4,
+    "satfat_g": 18.2,
+    "salt_g": 1.05,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bread-and-butter-pudding-basic.jpg",
+  "image_alt": "A dish of overlapping bread triangles baked golden in a custard studded with raisins and chopped nuts.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}
