@@ -1,0 +1,136 @@
+{
+  "slug": "soft-norwegian-potato-lefse-butter-sugar",
+  "title": "Soft Norwegian Potato Lefse",
+  "category": "snacks-sides",
+  "cuisine": "Norwegian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "lefse",
+  "dish_title": "Lefse",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A soft, thin Norwegian potato flatbread cooked on a dry griddle and rolled up with butter and sugar - a traditional treat for sharing.",
+  "servings": 16,
+  "prep_min": 60,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "large saucepan",
+    "potato ricer",
+    "large bowl",
+    "cling film",
+    "rolling pin (ideally grooved, with a cloth sleeve)",
+    "pastry cloth or floured board",
+    "long thin spatula",
+    "large dry griddle or heavy frying pan",
+    "clean tea towels"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 1000,
+      "unit": "g",
+      "item": "floury potatoes (such as Maris Piper or russet), peeled and cut into even chunks"
+    },
+    {
+      "group": "Dough",
+      "qty": 70,
+      "unit": "ml",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 70,
+      "unit": "ml",
+      "item": "evaporated milk"
+    },
+    {
+      "group": "Dough",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 180,
+      "unit": "g",
+      "item": "plain (all-purpose) flour",
+      "note": "plus more for rolling"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "To serve",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil the potatoes",
+      "text": "Boil the potato chunks in unsalted water for 15-20 minutes, until completely tender when pierced. Drain well, then rice the potatoes while they're still hot. Ricing hot potato breaks it down without overworking it, which keeps the dough from turning gluey."
+    },
+    {
+      "title": "Mix and chill",
+      "text": "Stir the oil, evaporated milk, sugar and salt into the hot riced potato, then leave it to cool before covering and chilling overnight. A cold, dry potato mix is what lets this dough roll out thin later without tearing or sticking."
+    },
+    {
+      "title": "Finish the dough",
+      "text": "Work the flour into the chilled potato mixture just until it holds together without sticking to your hands. Divide it into 16 even balls and keep them chilled until you're ready to roll, so the dough stays firm and easy to handle."
+    },
+    {
+      "title": "Roll paper-thin",
+      "text": "On a well-floured cloth, roll one ball at a time into a 25-30cm round, rolling it so thin you can almost see through it. Working on one piece at a time, rather than rolling them all at once, stops the dough drying out or sticking before it reaches the griddle."
+    },
+    {
+      "title": "Cook on a dry griddle",
+      "text": "With no oil or butter added, heat the griddle over medium-high heat, to around 230°C on the surface. Lift a round onto the spatula, cook it for 1-1½ minutes a side until freckled with brown spots but still soft and pliable, then stack the cooked rounds between tea towels so they steam gently and stay soft."
+    },
+    {
+      "title": "Serve warm",
+      "text": "Spread each round with softened butter, sprinkle with sugar and roll it up to serve. Lefse is traditionally eaten warm, straight from the stack."
+    }
+  ],
+  "tips": [
+    "Chill the potato mixture thoroughly before adding flour - warm potato makes a sticky dough that's much harder to roll thin.",
+    "Roll each piece as thin as you can manage; a thick lefse turns out doughy rather than soft and pliable once cooked.",
+    "Keep the unrolled dough balls covered and chilled while you work through the batch, so they don't dry out and crack.",
+    "Watch the griddle heat closely - too hot and the lefse scorches in spots before it's cooked through; too cool and it won't develop the characteristic brown freckles.",
+    "Stack cooked rounds between tea towels straight away so the residual steam keeps them soft rather than crisping up."
+  ],
+  "storage": "Keep lefse stacked in a sealed bag in the fridge for up to 5 days, or freeze with baking paper between the rounds for up to 2 months. Bring to room temperature or warm briefly before filling and serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 172,
+    "protein_g": 2.8,
+    "carbs_g": 24.0,
+    "sugar_g": 4.6,
+    "free_sugar_g": 4.1,
+    "fat_g": 7.5,
+    "satfat_g": 2.5,
+    "salt_g": 0.39,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "lefse-basic.jpg",
+  "image_alt": "Thin potato lefse speckled with brown spots on a dark plate, two rolled up and one folded."
+}

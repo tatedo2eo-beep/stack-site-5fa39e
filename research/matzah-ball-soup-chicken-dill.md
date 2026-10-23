@@ -22,7 +22,7 @@ Dish: Matzah ball soup / flavour: Classic. Private file, not published.
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
 
 ## Knowledge check
-Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C1 (74 °C, carryover; resting is not juice reabsorption); 02-C4 (crisp skin); 02-C5 (wings).
+Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 02-C1 (74 °C, carryover; resting is not juice reabsorption); 02-C4 (crisp skin); 02-C5 (wings); 02-C8 (whole roast chicken).
 Changes made:
 - Salt given in grams (06-G1): 1.25 tsp fine salt -> 7.5 g
 - Salt given in grams (06-G1): 0.5 tsp fine salt -> 3 g

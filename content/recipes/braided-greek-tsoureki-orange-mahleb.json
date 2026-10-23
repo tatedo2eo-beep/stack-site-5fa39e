@@ -1,0 +1,152 @@
+{
+  "slug": "braided-greek-tsoureki-orange-mahleb",
+  "title": "Braided Greek Tsoureki",
+  "category": "breakfast",
+  "cuisine": "Greek",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "tsoureki",
+  "dish_title": "Tsoureki",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A glossy, braided Greek sweet bread fragranced with orange zest and warm mahleb spice, with a soft, pull-apart crumb.",
+  "servings": 16,
+  "prep_min": 40,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "stand mixer with dough hook",
+    "cling film",
+    "2 baking trays lined with baking paper",
+    "pastry brush",
+    "instant-read thermometer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 700,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 10,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 160,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground mahleb",
+      "note": "optional; from Middle Eastern or Greek shops"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground mastic",
+      "note": "optional; grind with 1 tsp of the sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated orange zest"
+    },
+    {
+      "group": "Dough",
+      "qty": 160,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "lukewarm"
+    },
+    {
+      "group": "Dough",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Dough",
+      "qty": 180,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Egg wash",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, beaten with 1 tbsp milk"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make and rise the dough",
+      "text": "Mix the flour, yeast, sugar, salt, mahleb, mastic and orange zest, then add the milk, eggs and alcohol-free vanilla extract and knead for 5 minutes. Add the butter in pieces and knead for a further 8-10 minutes, until the dough turns silky and elastic and stretches into long, stringy threads when pulled. Cover and leave to rise for 2-3 hours, until doubled - this rich, buttery dough takes its time, so don't rush it."
+    },
+    {
+      "title": "Braid and prove",
+      "text": "Halve the dough and divide each half into 3 pieces. Roll each piece into a 45cm rope, pinch three ropes together at one end, braid them loosely and tuck the ends underneath. Set the braids on the trays, cover and prove for 1-1½ hours until puffy and visibly larger."
+    },
+    {
+      "title": "Bake to a deep shine",
+      "text": "At 170°C (150°C fan), brush the braids with egg wash twice for a deep shine, and bake for 30-35 minutes, covering with foil after 20 minutes if they're browning too fast. The tsoureki is done once it's a deep mahogany colour and the centre reads 88-90°C, which keeps this enriched dough soft rather than dry."
+    },
+    {
+      "title": "Cool before slicing",
+      "text": "At least 1 hour on the wire rack is needed before slicing, so the soft, stringy crumb has time to firm up enough to hold a clean cut."
+    }
+  ],
+  "tips": [
+    "Knead the enriched dough until it's properly elastic and stringy - stopping too early leaves tsoureki dense instead of soft and pull-apart.",
+    "Don't rush the first rise; this buttery, egg-rich dough is naturally slower than a plain loaf.",
+    "Double-brush with egg wash for the deep, glossy shine tsoureki is known for.",
+    "Cover with foil if the braid is browning before the centre reaches temperature, so the crust doesn't turn bitter.",
+    "Let the loaf cool fully before cutting, or the soft crumb will tear rather than slice cleanly."
+  ],
+  "storage": "Store airtight at room temperature for up to 2 days, or freeze for up to 1 month. Warm briefly in a low oven before serving if you'd like it piping hot again. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 311,
+    "protein_g": 8.1,
+    "carbs_g": 42.7,
+    "sugar_g": 10.7,
+    "free_sugar_g": 10.0,
+    "fat_g": 11.9,
+    "satfat_g": 6.6,
+    "salt_g": 0.44,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tsoureki-basic.jpg",
+  "image_alt": "A glossy mahogany braided tsoureki on a dark board with slices cut to show the soft, pale crumb."
+}

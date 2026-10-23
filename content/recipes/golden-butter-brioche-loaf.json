@@ -1,0 +1,141 @@
+{
+  "slug": "golden-butter-brioche-loaf",
+  "title": "Golden Butter Brioche Loaf",
+  "category": "breakfast",
+  "cuisine": "French",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "brioche",
+  "dish_title": "Brioche",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A rich, buttery French loaf with a pillowy, golden crumb - perfect for breakfast, toasting, or slicing into the ultimate sandwich bread.",
+  "servings": 12,
+  "prep_min": 40,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "stand mixer with dough hook",
+    "cling film",
+    "900 g (23 x 13 cm) loaf tin",
+    "pastry brush",
+    "instant-read thermometer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "cold"
+    },
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Dough",
+      "qty": 250,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "softened but still cool, in cubes"
+    },
+    {
+      "group": "Tin",
+      "qty": 5,
+      "unit": "g",
+      "item": "unsalted butter, for the tin"
+    },
+    {
+      "group": "Egg wash",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, beaten with 1 tbsp milk"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix the dough",
+      "text": "Combine the flour, yeast, sugar and salt in the mixer bowl, then add the cold milk and eggs. Knead on low speed for 4 minutes, then switch to medium for a further 6-8 minutes until the dough is smooth and stretches without tearing. Keeping the milk cold stops the dough warming up too fast, which matters once the butter goes in."
+    },
+    {
+      "title": "Work in the butter",
+      "text": "With the mixer running on medium-low, add the butter a few cubes at a time, waiting for each batch to disappear before adding more. Knead for 4-5 minutes more until the dough turns glossy and pulls cleanly away from the sides of the bowl. Adding butter gradually keeps the gluten strands intact, which is what gives brioche its light, feathery crumb rather than a greasy one."
+    },
+    {
+      "title": "Chill overnight",
+      "text": "A 1-hour rest at room temperature comes first, then move the covered dough to the fridge for an overnight chill of 8-16 hours. It won't balloon in size, but it should feel firm, cool and slightly puffy by morning. Chilling firms the butter back up, which makes this soft, sticky dough far easier to handle and shape."
+    },
+    {
+      "title": "Shape and prove",
+      "text": "Grease the tin with the 5g butter, divide the dough into 8 even pieces and roll each into a tight ball. Arrange them in two rows of four in the tin, cover loosely and leave to prove for 2-3 hours. The dough is ready for the oven once it domes just above the rim and jiggles gently when the tin is nudged, a sign the yeast has done its job."
+    },
+    {
+      "title": "Bake until golden",
+      "text": "Once the oven reaches 180°C (160°C fan), brush the top with egg wash and bake for 30-35 minutes, covering loosely with foil if it starts browning too quickly. It's done when the crust is deep golden and a thermometer pushed into the centre reads 88-90°C, confirming the egg-rich dough is cooked through without drying out."
+    },
+    {
+      "title": "Cool before slicing",
+      "text": "Leave the loaf in the tin for 10 minutes, then turn it out onto the wire rack and let it cool for at least 1 hour. Cutting in too soon squashes the soft, open crumb, so it's worth the wait."
+    }
+  ],
+  "tips": [
+    "Keep the milk and eggs cold when mixing - a warm dough makes the butter stage greasy instead of smooth.",
+    "Add the butter gradually in the second stage; dumping it all in at once is the most common cause of a dense, oily brioche.",
+    "Don't rush the overnight chill - cold dough holds its shape far better when you roll it into balls.",
+    "Tent the loaf with foil if it's colouring fast but the centre hasn't reached temperature yet, so the crust doesn't burn before the middle is baked through.",
+    "Let the loaf cool fully before slicing so the crumb has time to set."
+  ],
+  "storage": "Keep the cooled loaf wrapped at room temperature for up to 3 days. For longer storage, slice and freeze for up to 1 month, then toast slices straight from frozen until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 363,
+    "protein_g": 9.0,
+    "carbs_g": 35.1,
+    "sugar_g": 4.7,
+    "free_sugar_g": 4.2,
+    "fat_g": 20.7,
+    "satfat_g": 12.0,
+    "salt_g": 0.84,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "brioche-basic.jpg",
+  "image_alt": "A glossy golden brioche loaf baked as a row of domes on a dark board, with thick yellow slices cut from one end."
+}

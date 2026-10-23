@@ -1,0 +1,145 @@
+{
+  "slug": "open-crumb-country-sourdough-boule",
+  "title": "Country Sourdough Boule",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "sourdough-boule",
+  "dish_title": "Sourdough boule",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A rustic sourdough boule with a deeply coloured crust and an open, airy crumb, made the slow way with a natural levain.",
+  "servings": 12,
+  "prep_min": 40,
+  "cook_min": 45,
+  "difficulty": "hard",
+  "equipment": [
+    "large bowl",
+    "dough scraper",
+    "20 cm round banneton or bowl lined with a floured cloth",
+    "4-5 litre cast-iron casserole with lid",
+    "razor blade or very sharp knife",
+    "baking paper",
+    "instant-read thermometer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Levain",
+      "qty": 10,
+      "unit": "g",
+      "item": "active sourdough starter",
+      "note": "fed and bubbly"
+    },
+    {
+      "group": "Levain",
+      "qty": 25,
+      "unit": "g",
+      "item": "wholemeal (whole-wheat) flour"
+    },
+    {
+      "group": "Levain",
+      "qty": 25,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Levain",
+      "qty": 50,
+      "unit": "ml",
+      "item": "water",
+      "note": "about 26 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 400,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 75,
+      "unit": "g",
+      "item": "wholemeal (whole-wheat) flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 340,
+      "unit": "ml",
+      "item": "water",
+      "note": "about 27 °C, plus 20 ml held back"
+    },
+    {
+      "group": "Dough",
+      "qty": 10.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1.75 tsp"
+    },
+    {
+      "group": "Dusting",
+      "qty": 15,
+      "unit": "g",
+      "item": "rice flour, for dusting"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Build the levain",
+      "text": "The night before baking, stir the starter together with both flours and the water, then cover and leave at room temperature for 8-12 hours. It's ready when doubled in size and bubbly across the surface, a sign the wild yeast is active and ready to lift the main dough."
+    },
+    {
+      "title": "Mix the dough",
+      "text": "Stir the bread flour, wholemeal flour and the 340ml water together into a shaggy, rough dough and leave it to rest for 45 minutes. This rest lets the flour hydrate fully so the dough needs less working once the levain and salt go in. Add the levain, salt and the held-back 20ml water, then squeeze and fold through until everything is fully combined."
+    },
+    {
+      "title": "Bulk ferment with folds",
+      "text": "At 24-26°C, the dough needs 4-5 hours in bulk, with 4 sets of stretch-and-folds spaced 30 minutes apart during the first 2 hours. It's ready when it looks about 50% larger, feels domed and shows bubbles at the edges - signs that fermentation has built both strength and flavour."
+    },
+    {
+      "title": "Shape and chill",
+      "text": "Tip the dough out, pre-shape it into a loose round and rest for 20 minutes, then shape it firmly into a tight boule. Set it seam-up in the rice-floured banneton, cover and refrigerate for 12-16 hours; this cold, slow final rise deepens the flavour and makes the dough much easier to score."
+    },
+    {
+      "title": "Bake in a hot pot",
+      "text": "The lidded casserole goes into the oven first, heated to 250°C (230°C fan) for 45 minutes to get properly hot. Turn the cold loaf out onto baking paper, slash it 1cm deep, lower it into the pot and bake covered for 20 minutes, then uncovered at 230°C (210°C fan) for a further 20-25 minutes. The crust should turn very dark brown and the centre should read 96°C; the hot, trapped steam early on is what gives the crust its blistered shine."
+    },
+    {
+      "title": "Cool completely",
+      "text": "A full 2 hours on the wire rack is needed before cutting, since the crumb is still setting as it cools. Slicing early leaves it gummy rather than open and airy."
+    }
+  ],
+  "tips": [
+    "Make sure the levain is properly doubled and bubbly before using it - a sluggish levain is the most common reason a sourdough loaf ends up dense.",
+    "Don't skip the stretch-and-folds during bulk fermentation; they build the strength that holds an open crumb together.",
+    "Preheat the casserole thoroughly for the full 45 minutes, since an underheated pot gives a pale, tough crust.",
+    "Resist cutting the loaf while it's still warm - the crumb needs the full cooling time to finish setting.",
+    "Score firmly and quickly with a sharp blade; a hesitant, shallow cut makes the loaf tear unevenly as it bakes."
+  ],
+  "storage": "Store the cooled loaf wrapped at room temperature for up to 3 days. For longer storage, slice and freeze for up to 1 month, then toast slices straight from frozen. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 159,
+    "protein_g": 5.4,
+    "carbs_g": 32.3,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.8,
+    "satfat_g": 0.1,
+    "salt_g": 0.85,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sourdough-boule-basic.jpg",
+  "image_alt": "A dark-crusted round sourdough loaf cut in half on a wooden board, showing an open, holey crumb."
+}

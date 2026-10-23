@@ -43,6 +43,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
 | boiled-eggs-spiced-onion-tomato-coconut-curry | Egg curry | Classic | 3 | 5 |
 | boston-cream-pie | Boston cream pie | Classic | 2 | 4 |
+| braided-greek-tsoureki-orange-mahleb | Tsoureki | Classic | 2 | 4 |
 | braised-beef-pot-roast | Pot roast | Classic | 2 | 4 |
 | brandade-de-morue-baked-salt-cod-potato-gratin | Brandade | Classic | 2 | 4 |
 | brazilian-style-fish-prawn-coconut-stew | Moqueca | Classic | 3 | 5 |
@@ -122,6 +123,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cinnamon-almond-rice-horchata-lime-zest | Horchata | Classic | 2 | 4 |
 | cinnamon-raisin-bagels-cream-cheese | Bagels | Cinnamon-raisin | 2 | 4 |
 | cinnamon-streusel-coffee-cake | Coffee cake | Cinnamon streusel | 2 | 4 |
+| cinnamon-sugar-monkey-bread-caramel | Monkey bread | Classic | 3 | 5 |
 | citrus-chilli-marinated-grilled-steak-charred-spring-onions-guacamole | Carne asada | Classic | 3 | 5 |
 | classic-almond-biscotti | Biscotti | Classic | 3 | 5 |
 | classic-beef-meatloaf | Meatloaf | Classic | 2 | 4 |
@@ -204,6 +206,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fesenjan | Fesenjan | Classic | 2 | 4 |
 | fettuccine-alfredo | Alfredo (Roman original) | Classic | 3 | 5 |
 | filipino-oxtail-peanut-stew | Kare-kare | Classic | 2 | 4 |
+| flaky-butter-croissants-laminated | Croissant | Classic | 2 | 4 |
 | flaky-cong-you-bing-chinese-scallion-pancakes | Cong you bing | Classic | 3 | 5 |
 | flaky-layered-buttermilk-biscuits | Biscuit | Classic | 3 | 5 |
 | florentines | Florentines | Classic | 2 | 4 |
@@ -219,6 +222,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fresh-limeade-mashed-zest-mint | Limeade | Classic | 2 | 4 |
 | fried-mini-pizzas-tomato-mozzarella-basil | Pizza fritta/montanara | Classic | 2 | 4 |
 | frothy-whisked-matcha-green-tea | Matcha (whisked) | Classic | 2 | 4 |
+| fruit-almond-stollen-marzipan-core | Stollen | Classic | 2 | 4 |
 | gai-yang | Gai yang | Classic | 2 | 4 |
 | galbitang-korean-beef-short-rib-radish-soup | Galbitang | Classic | 2 | 4 |
 | galician-style-octopus-potatoes-smoked-paprika | Pulpo a la gallega | Classic | 4 | 6 |
@@ -239,6 +243,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gnocchi-pesto | Gnocchi | Pesto | 3 | 5 |
 | goan-style-coconut-fish-curry-rice | Fish curry | Classic | 4 | 6 |
 | golden-brown-butter-skillet-cornbread | Cornbread | Classic | 2 | 4 |
+| golden-butter-brioche-loaf | Brioche | Classic | 3 | 5 |
 | golden-crab-cakes-paprika-lemon-mayonnaise | Crab cakes | Classic | 4 | 6 |
 | golden-crisp-cheddar-grilled-cheese-sandwich | Grilled cheese | Classic | 2 | 4 |
 | golden-olive-oil-focaccia-flaky-sea-salt | Focaccia | Classic | 2 | 4 |
@@ -363,6 +368,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | one-pot-chicken-rice-peppers-peas-olives | Arroz con pollo | Classic | 3 | 5 |
 | onion-marinated-lamb-shashlik | Shashlik | Classic | 2 | 4 |
 | onion-rosti | Rösti | Onion | 3 | 5 |
+| open-crumb-country-sourdough-boule | Sourdough boule | Classic | 2 | 4 |
 | open-crumb-rustic-italian-ciabatta | Ciabatta | Classic | 2 | 4 |
 | open-faced-cheddar-tuna-melts-dill-pickles | Tuna melt | Classic | 2 | 4 |
 | orecchiette-broccoli | Hand-rolled shapes (orecchiette, pici, trofie, cavatelli) | Classic | 3 | 5 |
@@ -375,6 +381,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pad-see-ew | Pad see ew | Classic | 3 | 5 |
 | pad-thai-tofu | Pad thai | Tofu | 3 | 5 |
 | pad-thai | Pad thai | Classic | 2 | 4 |
+| pain-au-chocolat-dark-chocolate-batons | Pain au chocolat | Classic | 2 | 4 |
 | pain-de-genes | Pain de Gênes | Classic | 2 | 4 |
 | pan-bagnat-tuna-egg-olive-baguette | Pan bagnat | Classic | 2 | 4 |
 | pan-con-tomate-garlic-olive-oil-toast | Pan con tomate | Classic | 2 | 4 |
@@ -497,6 +504,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | soft-baked-pretzels-coarse-salt-mustard | Pretzels | Classic | 2 | 4 |
 | soft-cinnamon-rolls-cream-cheese-icing | Cinnamon rolls | Classic | 3 | 5 |
 | soft-layered-wholemeal-chapati | Chapati | Classic | 3 | 5 |
+| soft-norwegian-potato-lefse-butter-sugar | Lefse | Classic | 2 | 4 |
 | soft-puffed-pita-bread-olive-oil | Pita | Classic | 3 | 5 |
 | soft-pull-apart-milk-dinner-rolls | Dinner rolls | Classic | 3 | 5 |
 | soft-rice-and-yellow-lentil-porridge-cumin-ghee | Khichdi | Classic | 2 | 4 |
@@ -544,6 +552,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | swedish-meatballs-cream-gravy | Meatballs | Swedish (allspice-nutmeg) | 3 | 5 |
 | sweet-cheese-dumplings-sour-cream-berries | Pierogi | Sweet cheese | 3 | 5 |
 | sweetcorn-crusted-beef-chicken-bake-olives-egg | Pastel de choclo | Classic | 3 | 5 |
+| swirled-chocolate-babka-syrup-glaze | Babka | Classic | 3 | 5 |
 | swiss-rosti | Rösti | Classic | 2 | 4 |
 | tafelspitz-apple-horseradish | Tafelspitz | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |

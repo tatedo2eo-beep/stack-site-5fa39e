@@ -1,0 +1,168 @@
+{
+  "slug": "cinnamon-sugar-monkey-bread-caramel",
+  "title": "Cinnamon-Sugar Monkey Bread",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "monkey-bread",
+  "dish_title": "Monkey bread",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A sticky, pull-apart cinnamon sugar bread baked in a ring tin and finished with a glossy caramel, made for tearing and sharing by hand.",
+  "servings": 10,
+  "prep_min": 40,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "stand mixer with dough hook",
+    "cling film",
+    "25 cm Bundt tin",
+    "2 shallow bowls",
+    "small saucepan",
+    "large plate",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 550,
+      "unit": "g",
+      "item": "plain (all-purpose) flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1¼ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 45,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Coating",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Coating",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Coating",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Caramel",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Caramel",
+      "qty": 120,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Tin",
+      "qty": 10,
+      "unit": "g",
+      "item": "butter, for the tin"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make and rise the dough",
+      "text": "Mix the flour, yeast, sugar and salt, then add the milk, water, egg and melted butter and knead for 7-8 minutes until smooth and soft. Cover and leave to rise for 1-1½ hours, until doubled in size - a gentle poke should leave an indent that springs back slowly."
+    },
+    {
+      "title": "Coat the dough balls",
+      "text": "Grease the Bundt tin, then mix the sugar and cinnamon in one bowl and pour the melted butter into another. Pat the dough into a 20cm square and cut it into 64 pieces, roll each into a ball, dip in butter, roll in cinnamon sugar, then layer the pieces loosely into the tin."
+    },
+    {
+      "title": "Add caramel and prove",
+      "text": "Melt the butter with the brown sugar, stirring until smooth, and pour this caramel evenly over the layered dough balls. Cover and leave to prove for 45-60 minutes, until the dough has risen to about 2cm below the rim of the tin - the caramel will have soaked down between the pieces by then."
+    },
+    {
+      "title": "Bake until golden",
+      "text": "At 175°C (155°C fan), bake for 35-40 minutes. The bread is ready when it's deep golden on top and a thermometer pushed into the centre reads 88°C, confirming the dough between the balls is fully baked."
+    },
+    {
+      "title": "Unmould while warm",
+      "text": "Just 5 minutes of cooling in the tin is enough before turning it out onto the plate, while the caramel is still warm and runny so it coats the whole loaf evenly. Serve it warm, pulling pieces apart by hand rather than slicing."
+    }
+  ],
+  "tips": [
+    "Don't let it cool too long before turning out - once the caramel sets in the tin, it won't release cleanly.",
+    "Cut the dough pieces to a similar size so they bake and soak up caramel evenly, rather than some staying doughy while others dry out.",
+    "Space the dough balls loosely rather than packing them tight, so the caramel can work its way between every piece.",
+    "Check doneness with a thermometer in the centre of the tin - the top can look golden before the middle is fully baked.",
+    "Serve it warm for the best stretch and shine; the caramel firms up noticeably once the bread cools."
+  ],
+  "storage": "Store airtight at room temperature for up to 2 days, or freeze for up to 1 month. Warm gently in a low oven before serving so the caramel turns soft and glossy again. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 514,
+    "protein_g": 7.6,
+    "carbs_g": 75.6,
+    "sugar_g": 33.0,
+    "free_sugar_g": 31.6,
+    "fat_g": 20.6,
+    "satfat_g": 12.5,
+    "salt_g": 0.79,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "monkey-bread-basic.jpg",
+  "image_alt": "A ring of caramel-glazed monkey bread on a dark plate with a few soft pieces pulled away."
+}
