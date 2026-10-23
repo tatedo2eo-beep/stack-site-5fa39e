@@ -13,7 +13,6 @@
   "base_recipe": "honey-maple-nut-granola-raisins",
   "changes_from_base": "Pressed into a firm, even sheet with a metal spatula and baked unstirred so it sets into big chunks, using oil, maple syrup and a generous amount of honey and cinnamon, with pecans in the bake and chopped raisins added once cool.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A honey-touched granola studded with toasted pecans and sticky raisins, baked until crisp and shattering.",
   "servings": 18,
   "prep_min": 10,
@@ -147,8 +146,8 @@
     "fibre_g": 4.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Clusters of granola with visible pecan pieces and raisins.",
+  "image": "honey-pecan-granola.jpg",
+  "image_alt": "A bowl of granola with visible pecan pieces and raisins.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

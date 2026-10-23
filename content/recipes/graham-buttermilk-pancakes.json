@@ -13,7 +13,6 @@
   "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
   "changes_from_base": "Graham cracker crumbs and a little cornmeal replace half the flour, for a nutty, wholemeal flavour.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Buttermilk pancakes given a toasty flavour from crushed graham crackers and a touch of cornmeal.",
   "servings": 5,
   "prep_min": 15,
@@ -157,7 +156,7 @@
     "fibre_g": 1.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "graham-buttermilk-pancakes.jpg",
   "image_alt": "A stack of golden pancakes with a flecked, toasty crumb from crushed graham crackers.",
   "inspired_by": [
     "America's Test Kitchen"

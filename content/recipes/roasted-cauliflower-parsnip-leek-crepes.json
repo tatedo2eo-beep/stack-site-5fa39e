@@ -13,7 +13,6 @@
   "base_recipe": "thin-french-crepes-sugar-lemon",
   "changes_from_base": "The plain crêpes become a savoury main course: unsweetened crêpes rolled around roasted cauliflower, parsnip and leek bound in a mustardy stock velouté enriched with egg yolks, then baked under more sauce.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Hearty savoury crêpes rolled around roasted cauliflower, parsnip and leek, baked under a silky yolk-enriched sauce.",
   "servings": 6,
   "prep_min": 40,
@@ -224,7 +223,7 @@
     "fibre_g": 7.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "roasted-cauliflower-parsnip-leek-crepes.jpg",
   "image_alt": "A row of rolled crêpes filled with roasted cauliflower, parsnip and leek, baked under a creamy golden sauce bubbling at the edges.",
   "inspired_by": [
     "NYT Cooking"

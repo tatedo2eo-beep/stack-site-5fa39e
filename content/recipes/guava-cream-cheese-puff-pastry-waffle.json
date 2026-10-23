@@ -13,7 +13,6 @@
   "base_recipe": "crisp-belgian-waffles-strawberries-cream",
   "changes_from_base": "No batter at all: a sheet of puff pastry spread with cream cheese and sliced guava paste, rolled up, coiled into a spiral and cooked in the waffle iron until it reaches 93 °C, then cut into wedges.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A spiral of flaky puff pastry filled with cream cheese and sweet guava paste, cooked in the waffle iron until deeply golden and dusted with icing sugar.",
   "servings": 6,
   "prep_min": 10,
@@ -113,8 +112,8 @@
     "fibre_g": 1.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A golden, spiral-shaped puff pastry waffle dusted with icing sugar and sliced into wedges, with guava paste visible in the swirled layers.",
+  "image": "guava-cream-cheese-puff-pastry-waffle.jpg",
+  "image_alt": "A golden puff pastry waffle dusted with icing sugar and sliced into wedges, with guava paste and cream cheese visible in the flaky layers.",
   "inspired_by": [
     "Serious Eats"
   ]

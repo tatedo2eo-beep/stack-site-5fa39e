@@ -13,7 +13,6 @@
   "base_recipe": "crisp-belgian-waffles-strawberries-cream",
   "changes_from_base": "Finely ground pecans beaten into the batter, with 2 whole eggs plus 2 extra whisked whites; no sugar or vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Nutty waffles made with finely ground pecans folded through a light, airy batter.",
   "servings": 4,
   "prep_min": 10,
@@ -131,7 +130,7 @@
     "fibre_g": 2.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "pecan-waffles.jpg",
   "image_alt": "A golden waffle flecked throughout with finely ground pecans.",
   "inspired_by": [
     "NYT Cooking"

@@ -13,7 +13,6 @@
   "base_recipe": "honey-maple-nut-granola-raisins",
   "changes_from_base": "An agave syrup flavoured with dissolved instant coffee, vanilla and cinnamon coats the oats, almonds, pumpkin seeds and chia; the tray cools in the switched-off oven and dried apricots go in at the end.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A coffee-infused granola studded with almonds and pumpkin seeds, subtly scented with cinnamon and offering the gentle warmth of dried apricots.",
   "servings": 10,
   "prep_min": 10,
@@ -164,8 +163,8 @@
     "fibre_g": 5.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Brown granola with visible almond pieces and seeds.",
+  "image": "instant-coffee-granola-almonds.jpg",
+  "image_alt": "A bowl of brown granola with visible almond pieces, pumpkin seeds and dried apricots.",
   "inspired_by": [
     "Serious Eats"
   ]

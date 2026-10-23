@@ -13,7 +13,6 @@
   "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
   "changes_from_base": "A rice-flour, cornflour and xanthan blend replaces the wheat flour, milk and oil replace the buttermilk, soured cream and butter, and small pieces of cream cheese are dotted on each pancake as it cooks.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A tender, gluten-free pancake studded with warm pockets of cream cheese that melt into sweet richness.",
   "servings": 4,
   "prep_min": 10,
@@ -150,8 +149,8 @@
     "fibre_g": 1.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A gluten-free pancake studded with melted cream cheese pockets, warm and tender.",
+  "image": "gluten-free-cream-cheese-pancakes.jpg",
+  "image_alt": "A stack of gluten-free pancakes studded with melted cream cheese pockets, warm and tender.",
   "inspired_by": [
     "Serious Eats"
   ]

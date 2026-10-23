@@ -13,7 +13,6 @@
   "base_recipe": "thin-french-crepes-sugar-lemon",
   "changes_from_base": "A blended, sweetened batter with cardamom, a single egg and half water, cooked in ghee until the edges crisp and turn lacy, then sprinkled with sugar instead of served with lemon.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Soft, golden Somali crêpes lightly spiced with cardamom and sprinkled with sugar, best served warm straight from the pan.",
   "servings": 4,
   "prep_min": 10,
@@ -131,7 +130,7 @@
     "fibre_g": 1.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "malawax-cardamom-crepes.jpg",
   "image_alt": "A stack of golden, lightly spiced crêpes with crisp edges, sprinkled with sugar.",
   "inspired_by": [
     "NYT Cooking"

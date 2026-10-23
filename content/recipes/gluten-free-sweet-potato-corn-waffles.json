@@ -13,7 +13,6 @@
   "base_recipe": "crisp-belgian-waffles-strawberries-cream",
   "changes_from_base": "A gluten-free batter of corn flour, sorghum flour and cornflour, spiced and sweetened with dark brown sugar and bound with mashed roasted sweet potato and oil instead of buttermilk and butter.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A soft, naturally sweet waffle built on roasted sweet potato and a blend of gluten-free flours, finished with maple syrup.",
   "servings": 4,
   "prep_min": 15,
@@ -183,8 +182,8 @@
     "fibre_g": 4.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A golden, deep-ridged waffle flecked with orange sweet potato, drizzled with maple syrup and a pat of butter melting on top.",
+  "image": "gluten-free-sweet-potato-corn-waffles.jpg",
+  "image_alt": "A golden, deep-ridged sweet potato waffle with a pat of butter melting on top.",
   "inspired_by": [
     "Serious Eats"
   ]

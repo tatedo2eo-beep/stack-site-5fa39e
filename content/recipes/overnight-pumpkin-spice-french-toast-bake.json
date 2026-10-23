@@ -13,7 +13,6 @@
   "base_recipe": "classic-french-toast-cinnamon-sugar-maple",
   "changes_from_base": "A bake-ahead version: challah slices soak overnight in a milk custard spiced with a home-made pumpkin spice mix (no pumpkin), then bake under foil and finish uncovered.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Spiced bread baked overnight in a warming custard until puffed and golden, served with maple syrup and fresh raspberries.",
   "servings": 6,
   "prep_min": 15,
@@ -169,8 +168,8 @@
     "fibre_g": 3.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Overlapping slices of baked spiced bread pudding, lightly browned and topped with fresh raspberries and maple syrup.",
+  "image": "overnight-pumpkin-spice-french-toast-bake.jpg",
+  "image_alt": "A dish of baked spiced bread pudding, puffed and golden-brown, dotted with fresh raspberries.",
   "inspired_by": [
     "NYT Cooking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
   "changes_from_base": "Toasted steel-cut oats are blended to a powder and mixed with the flour, and the butter is browned before it goes in; no soured cream is used.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Hearty oat pancakes with the nutty depth of browned butter and buttermilk tang, crispy-edged and satisfying.",
   "servings": 6,
   "prep_min": 15,
@@ -151,8 +150,8 @@
     "fibre_g": 3.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Golden pancakes with a crispy brown edge, served with warm maple syrup.",
+  "image": "oat-brown-butter-buttermilk-pancakes.jpg",
+  "image_alt": "A stack of golden oat pancakes with crispy brown edges, drizzled with warm maple syrup.",
   "inspired_by": [
     "Serious Eats"
   ]

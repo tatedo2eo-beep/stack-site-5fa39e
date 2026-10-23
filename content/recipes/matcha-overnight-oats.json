@@ -13,7 +13,6 @@
   "base_recipe": "creamy-oat-porridge-banana-blueberries",
   "changes_from_base": "Uncooked: the oats and chia seeds soak in the fridge in milk whisked with matcha, maple syrup and vanilla, then are served with yoghurt and fresh fruit instead of being simmered.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Earthy matcha and creamy yoghurt make these overnight oats a sustaining breakfast with pretty green colour and subtle caffeine lift.",
   "servings": 4,
   "prep_min": 5,
@@ -130,8 +129,8 @@
     "fibre_g": 6.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Four glasses of pale green overnight oats topped with Greek yoghurt and fresh raspberries.",
+  "image": "matcha-overnight-oats.jpg",
+  "image_alt": "Three glasses of pale green overnight oats topped with Greek yoghurt and fresh raspberries.",
   "inspired_by": [
     "NYT Cooking"
   ]

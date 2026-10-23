@@ -13,7 +13,6 @@
   "base_recipe": "dutch-baby-pancake-berries-lemon",
   "changes_from_base": "Savoury: an 8-egg batter with black pepper, thyme and chives is poured into nutty browned butter and baked under a layer of grated Parmesan and flaky salt; served with lemon (and chilli sauce if you like) instead of berries.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A savoury herb-fragrant puffed pancake topped with nutty brown butter and a generous shower of Parmesan cheese.",
   "servings": 8,
   "prep_min": 10,
@@ -146,8 +145,8 @@
     "fibre_g": 0.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A puffed golden savoury pancake with melted Parmesan cheese across the top.",
+  "image": "herbed-parmesan-dutch-baby.jpg",
+  "image_alt": "A puffed golden savoury pancake in a skillet, showered with grated Parmesan and herbs, with lemon wedges.",
   "inspired_by": [
     "King Arthur Baking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "crisp-belgian-waffles-strawberries-cream",
   "changes_from_base": "Half white wholemeal flour, 4 whole eggs, milk with soured cream and molasses, spiced with ginger, nutmeg and cloves; whole eggs instead of whisked whites, and no sugar or vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Spiced gingerbread waffles rich with molasses and soured cream, best served warm with butter and maple syrup.",
   "servings": 5,
   "prep_min": 10,
@@ -170,8 +169,8 @@
     "fibre_g": 3.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A deep brown, spiced waffle with a crisp grid pattern, served with a pat of butter and maple syrup.",
+  "image": "gingerbread-waffles.jpg",
+  "image_alt": "A deep brown, spiced waffle with a crisp grid pattern and a pat of butter melting on top.",
   "inspired_by": [
     "King Arthur Baking"
   ]

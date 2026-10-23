@@ -13,7 +13,6 @@
   "base_recipe": "thin-french-crepes-sugar-lemon",
   "changes_from_base": "A sweetened batter cooked as small 15 cm crêpes, each rolled round a dulce de leche soufflé mixture and baked at 200 °C until puffed, served with toasted almonds, more dulce de leche and whipped cream; the source flavours the batter with almond extract, which I left out (my adjustment, as the extract is alcohol-based).",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Delicate crêpes rolled around a light dulce de leche soufflé, baked until puffed and finished with toasted almonds.",
   "servings": 6,
   "prep_min": 40,
@@ -156,8 +155,8 @@
     "fibre_g": 1.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Rolled crêpes filled with a puffed dulce de leche soufflé, served with dulce de leche, toasted almonds and whipped cream.",
+  "image": "souffleed-almond-dulce-de-leche-crepes.jpg",
+  "image_alt": "Two rolled crêpes filled with a puffed dulce de leche soufflé, served with dulce de leche, toasted flaked almonds and whipped cream.",
   "inspired_by": [
     "NYT Cooking"
   ]
