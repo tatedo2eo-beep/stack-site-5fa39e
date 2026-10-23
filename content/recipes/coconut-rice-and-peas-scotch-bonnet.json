@@ -1,0 +1,149 @@
+{
+  "slug": "coconut-rice-and-peas-scotch-bonnet",
+  "title": "Coconut Rice and Peas with Scotch Bonnet",
+  "category": "snacks-sides",
+  "cuisine": "Jamaican",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "rice-and-peas",
+  "dish_title": "Rice and peas",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Long-grain rice steamed in coconut milk with kidney beans, thyme, spring onion, allspice and a whole Scotch bonnet for fragrance.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy saucepan with tight lid",
+    "foil",
+    "fork"
+  ],
+  "ingredients": [
+    {
+      "group": "Rice",
+      "qty": 400,
+      "unit": "g",
+      "item": "long-grain white rice, rinsed until the water runs clear"
+    },
+    {
+      "group": "Rice",
+      "qty": 240,
+      "unit": "g",
+      "item": "drained tinned red kidney beans (1 tin), rinsed"
+    },
+    {
+      "group": "Rice",
+      "qty": 400,
+      "unit": "ml",
+      "item": "tinned coconut milk"
+    },
+    {
+      "group": "Rice",
+      "qty": 400,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 4,
+      "unit": "pc",
+      "item": "fresh thyme sprigs"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 3,
+      "unit": "pc",
+      "item": "spring onions, sliced"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, crushed"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground allspice"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 1,
+      "unit": "pc",
+      "item": "whole Scotch bonnet chilli (left whole)"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 20,
+      "unit": "g",
+      "item": "unsalted butter"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Build the base",
+      "text": "Put the coconut milk, water, beans, thyme, spring onions, garlic, allspice, salt and pepper in the saucepan and bring to the boil over high heat. Seasoning the liquid now means every grain of rice absorbs the flavour."
+    },
+    {
+      "title": "Add the rice",
+      "text": "Stir in the rice and butter and bring back to the boil. Lay the whole Scotch bonnet on top, taking care not to split it; left whole, it gives fruity aroma rather than fierce heat."
+    },
+    {
+      "title": "Steam gently",
+      "text": "Cover the pan with a sheet of foil and then the lid, turn the heat to low and cook for 20 min without lifting the lid. The tight seal traps the steam, so the rice cooks evenly and the coconut milk does not catch."
+    },
+    {
+      "title": "Rest and fluff",
+      "text": "Take the pan off the heat and leave covered for 10 min to let the grains firm up. Lift out the Scotch bonnet and thyme stalks, fluff with a fork and serve."
+    }
+  ],
+  "tips": [
+    "Rinse the rice well; surface starch makes it sticky and gluey.",
+    "The commonest mistake is lifting the lid, which lets out the steam and leaves hard grains; trust the timer.",
+    "Burst the chilli only if you want real heat, and wash your hands after handling it.",
+    "Serve alongside stews and curries."
+  ],
+  "storage": "Cool quickly and refrigerate within 1 hour, covered, for up to 1 day. Reheat once only, with a splash of water, until piping hot (74 °C) throughout. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 454,
+    "protein_g": 9.6,
+    "carbs_g": 65.2,
+    "sugar_g": 1.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 17.8,
+    "satfat_g": 14.5,
+    "salt_g": 1.24,
+    "fibre_g": 3.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "rice-and-peas-basic.jpg",
+  "image_alt": "Fluffy white rice studded with red kidney beans, with a whole Scotch bonnet chilli on top.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "roasted-brussels-sprouts-charred",
+  "title": "Charred Roasted Brussels Sprouts",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "brussels-sprouts",
+  "dish_title": "Brussels sprouts",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Halved sprouts steam-roasted under foil, then uncovered to char hard on their cut sides in a very hot oven.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 22,
+  "difficulty": "easy",
+  "equipment": [
+    "large mixing bowl",
+    "large rimmed baking tray",
+    "foil"
+  ],
+  "ingredients": [
+    {
+      "group": "Sprouts",
+      "qty": 1000,
+      "unit": "g",
+      "item": "Brussels sprouts, trimmed and halved"
+    },
+    {
+      "group": "Sprouts",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Sprouts",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Sprouts",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Sprouts",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Coat the sprouts",
+      "text": "Heat the oven to 240 °C (220 °C fan) with a shelf in the upper-middle. Toss the sprouts with the oil, water, salt and pepper in the bowl until glossy, then spread them on the tray cut side down. Flat faces against the hot metal are what give the deep browning."
+    },
+    {
+      "title": "Steam under foil",
+      "text": "Cover the tray tightly with foil and roast for 10 min. The spoonful of water turns to steam under the foil and cooks the sprouts right through before the outsides have a chance to burn."
+    },
+    {
+      "title": "Uncover and char",
+      "text": "Remove the foil and roast for 10-12 min more, until a knife slides easily into the thickest sprout and the cut sides are dark brown. Taste for salt and serve hot."
+    }
+  ],
+  "tips": [
+    "The commonest mistake is crowding the tray, which steams the sprouts grey; use the largest tray you have.",
+    "Pick sprouts of a similar size so they finish together.",
+    "Halve large sprouts and leave very small ones whole.",
+    "Finish with a squeeze of lemon or a little grated hard cheese made with microbial rennet if you like."
+  ],
+  "storage": "Refrigerate covered up to 3 days. Reheat on a tray in a hot oven for 5-8 min until piping hot (74 °C); the microwave softens them. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 131,
+    "protein_g": 5.6,
+    "carbs_g": 15.0,
+    "sugar_g": 3.7,
+    "free_sugar_g": 0.0,
+    "fat_g": 7.2,
+    "satfat_g": 1.0,
+    "salt_g": 0.83,
+    "fibre_g": 6.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "brussels-sprouts-advanced.jpg",
+  "image_alt": "Halved Brussels sprouts roasted until deeply charred on their cut sides.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Food Network Kitchen"
+  ]
+}

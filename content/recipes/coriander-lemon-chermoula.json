@@ -1,0 +1,137 @@
+{
+  "slug": "coriander-lemon-chermoula",
+  "title": "Coriander and Lemon Chermoula",
+  "category": "snacks-sides",
+  "cuisine": "Moroccan",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "chermoula",
+  "dish_title": "Chermoula",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Coriander and parsley chopped with garlic, paprika, cumin and a touch of cayenne, sharpened with lemon and whisked with olive oil.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "flexible spatula",
+    "mixing bowl",
+    "whisk",
+    "airtight container"
+  ],
+  "ingredients": [
+    {
+      "group": "Chermoula",
+      "qty": 40,
+      "unit": "g",
+      "item": "fresh coriander leaves"
+    },
+    {
+      "group": "Chermoula",
+      "qty": 15,
+      "unit": "g",
+      "item": "flat-leaf parsley leaves"
+    },
+    {
+      "group": "Chermoula",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Chermoula",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "paprika"
+    },
+    {
+      "group": "Chermoula",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Chermoula",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Chermoula",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Chermoula",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Chermoula",
+      "qty": 120,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Chop the herbs and spices",
+      "text": "Put the coriander, parsley, garlic, paprika, cumin, cayenne and salt in the food processor. Pulse in short bursts, scraping down the bowl, until everything is finely and evenly chopped."
+    },
+    {
+      "title": "Add the lemon",
+      "text": "Pour in the lemon juice and pulse a few more times, just to bring it together."
+    },
+    {
+      "title": "Whisk in the oil",
+      "text": "Scrape the mixture into the mixing bowl and whisk in the olive oil by hand. Running olive oil through a fast blade can make it taste bitter, so a whisk keeps the flavour clean."
+    },
+    {
+      "title": "Let it settle",
+      "text": "Leave the chermoula to stand for 15 min so the dried spices hydrate and the garlic mellows. Taste and add a little more salt if needed."
+    },
+    {
+      "title": "Spoon it over",
+      "text": "Serve it over grilled or pan-fried fish, roast chicken or charred vegetables, or rub some onto fish before cooking as a quick marinade."
+    }
+  ],
+  "tips": [
+    "If you have preserved lemon, swap a little of the juice for some finely chopped rind for a deeper, more fragrant note.",
+    "Dry the herbs well after washing; water left on the leaves dilutes the sauce.",
+    "For a smoky version, use half sweet smoked paprika.",
+    "Keep any chermoula used as a raw marinade separate from the sauce you serve at the table."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days; the herbs darken after that. Let it sit at room temperature for 10 min and stir before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 130,
+    "protein_g": 0.4,
+    "carbs_g": 1.8,
+    "sugar_g": 0.3,
+    "free_sugar_g": 0.2,
+    "fat_g": 14.0,
+    "satfat_g": 1.9,
+    "salt_g": 0.38,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chermoula-basic.jpg",
+  "image_alt": "A small dark bowl of green chermoula next to a spice-crusted fish fillet topped with more sauce and a lemon wedge.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

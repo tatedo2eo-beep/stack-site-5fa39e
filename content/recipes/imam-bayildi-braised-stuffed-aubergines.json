@@ -1,0 +1,147 @@
+{
+  "slug": "imam-bayildi-braised-stuffed-aubergines",
+  "title": "Imam Bayildi (Braised Stuffed Aubergines)",
+  "category": "snacks-sides",
+  "cuisine": "Turkish",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "imam-bayildi",
+  "dish_title": "Imam bayildi",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Roasted aubergine halves stuffed with soft onions, tomatoes, garlic, parsley and dill, slowly braised with olive oil, lemon and a little sugar.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 95,
+  "difficulty": "medium",
+  "equipment": [
+    "rimmed baking tray",
+    "baking paper",
+    "large frying pan with lid",
+    "mixing bowl",
+    "colander"
+  ],
+  "ingredients": [
+    {
+      "group": "Aubergines",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium aubergines, halved lengthwise",
+      "note": "about 300 g each"
+    },
+    {
+      "group": "Aubergines",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium onions, very thinly sliced",
+      "note": "about 300 g"
+    },
+    {
+      "group": "Filling",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 680,
+      "unit": "g",
+      "item": "ripe tomatoes, peeled and chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "chopped fresh parsley, plus extra to serve"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped fresh dill"
+    },
+    {
+      "group": "Filling",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Braising liquid",
+      "qty": 10,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 2.5 tsp"
+    },
+    {
+      "group": "Braising liquid",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Braising liquid",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast and drain",
+      "text": "Heat the oven to 230 °C (210 °C fan). Score the cut sides of the aubergines in a criss-cross without piercing the skin, brush with 1 tbsp oil and roast cut side up on the lined tray for 20 min until soft. Drain them cut side down in a colander for 30 min so excess bitter juices run out."
+    },
+    {
+      "title": "Make the filling",
+      "text": "Heat 2 tbsp oil in the frying pan over medium heat and cook the onions for 5-8 min, stirring, until very soft and sweet. Add the garlic for 1 min, then tip into the bowl and mix with the tomatoes, parsley, dill, salt, 1 tsp of the sugar and 1 tbsp of the remaining oil."
+    },
+    {
+      "title": "Stuff the aubergines",
+      "text": "Set the aubergines cut side up in the pan and press a hollow into each with a spoon. Pile in the filling. Mix the last of the oil with the remaining sugar, the water and the lemon juice and pour it over and around."
+    },
+    {
+      "title": "Braise slowly",
+      "text": "Cover and cook on low heat for 60-75 min, basting from time to time and adding a splash of water if the pan starts to dry. The aubergines are ready when collapsed and silky and the juices are lightly caramelised. Leave to cool in the pan and serve at room temperature with extra parsley."
+    }
+  ],
+  "tips": [
+    "Keep the heat truly low; a fast braise scorches the base before the aubergines soften.",
+    "Do not skimp on the onions or the oil, which give the dish its richness.",
+    "It tastes even better the next day, once the flavours have settled.",
+    "Serve with bread and yoghurt."
+  ],
+  "storage": "Refrigerate covered up to 4 days. Serve at room temperature, or reheat gently until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 237,
+    "protein_g": 4.3,
+    "carbs_g": 27.3,
+    "sugar_g": 15.7,
+    "free_sugar_g": 2.7,
+    "fat_g": 14.3,
+    "satfat_g": 2.0,
+    "salt_g": 1.5,
+    "fibre_g": 8.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "imam-bayildi-advanced.jpg",
+  "image_alt": "Two halved aubergines piled with a soft onion and tomato filling, scattered with parsley.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

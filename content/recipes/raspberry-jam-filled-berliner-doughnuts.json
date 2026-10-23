@@ -1,0 +1,154 @@
+{
+  "slug": "raspberry-jam-filled-berliner-doughnuts",
+  "title": "Raspberry Jam-Filled Berliner Doughnuts",
+  "category": "desserts",
+  "cuisine": "German",
+  "chapter": "donuts",
+  "book_chapter": "donuts",
+  "dish": "filled-berliner-bomboloni-jam",
+  "dish_title": "Filled (Berliner/bomboloni/jam)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Pillowy round yeast doughnuts fried golden with a pale middle band and piped full of seedless raspberry jam.",
+  "servings": 12,
+  "prep_min": 40,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "stand mixer with dough hook (or large bowl)",
+    "8 cm round cutter",
+    "rolling pin",
+    "2 baking trays lined with oiled baking paper",
+    "large heavy pan or casserole, at least 24 cm wide",
+    "deep-frying or probe thermometer",
+    "slotted spoon or spider",
+    "wire rack over a tray lined with kitchen paper",
+    "piping bag with a long narrow nozzle",
+    "chopstick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "plus extra for rolling"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1¼ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 290,
+      "unit": "ml",
+      "item": "whole milk, lukewarm (about 35 °C)"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter, very soft"
+    },
+    {
+      "group": "To fry",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for about 4 cm depth"
+    },
+    {
+      "group": "Filling",
+      "qty": 300,
+      "unit": "g",
+      "item": "seedless raspberry jam"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make a silky dough",
+      "text": "Stir the flour, sugar, yeast and salt together, pour in the warm milk and egg and knead for 5 min. Work in the softened butter bit by bit, then knead 6-8 min longer until the dough looks silky and comes away cleanly from the bowl. A well-developed dough traps the gas that makes these so light."
+    },
+    {
+      "title": "First rise",
+      "text": "Cover and set aside in a warm spot for 1-1.5 h until doubled."
+    },
+    {
+      "title": "Stamp out rounds",
+      "text": "Knock the dough back, roll it 1.5 cm thick and cut 8 cm rounds without a hole. Press the trimmings together and roll once more so you have 12. Space them well apart on the oiled paper, since they spread as they prove."
+    },
+    {
+      "title": "Second rise",
+      "text": "Lay a sheet of cling film loosely over the top and prove for 40-50 min. They are ready once they look risen, soft and pillowy."
+    },
+    {
+      "title": "Bring the oil to temperature",
+      "text": "Fill the heavy pan with about 4 cm of oil, no more than half its depth, and heat to 170 °C. A slightly lower heat than for rings gives the thicker rounds time to cook through before they brown too much."
+    },
+    {
+      "title": "Fry until golden",
+      "text": "Cook 3 at a time for about 2 min per side, keeping the oil between 165 and 175 °C. Each should be evenly golden with a pale band round its waist and read about 90 °C in the middle. Drain on the rack, then let them cool for 15 min so the crumb sets before filling."
+    },
+    {
+      "title": "Pipe in the jam",
+      "text": "Push a chopstick into the side of each doughnut to the centre and twist gently to open a pocket. Pipe in about 25 g jam per doughnut, stopping when it feels heavier and a little jam peeps out of the hole."
+    }
+  ],
+  "tips": [
+    "A common mistake is filling them hot; warm doughnuts tear and the jam leaks, so wait the full 15 min.",
+    "Seedless jam pipes smoothly through a narrow nozzle; sieve jam with seeds first.",
+    "If they brown before the centre reaches about 90 °C, lower the oil temperature slightly for the next batch.",
+    "Roll them in caster sugar while warm if you prefer a sugared finish.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Eat on the day of frying for the best texture. Leftovers keep loosely covered at room temperature for up to 1 day.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 388,
+    "protein_g": 6.0,
+    "carbs_g": 55.5,
+    "sugar_g": 18.5,
+    "free_sugar_g": 17.1,
+    "fat_g": 15.7,
+    "satfat_g": 4.0,
+    "salt_g": 0.67,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "filled-berliner-bomboloni-jam-basic.jpg",
+  "image_alt": "Golden filled doughnuts on a dark plate, one cut open to reveal a red raspberry jam centre.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "King Arthur Baking"
+  ]
+}

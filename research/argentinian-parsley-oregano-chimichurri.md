@@ -12,7 +12,7 @@ Dish: Chimichurri / flavour: Classic. Private file, not published.
 ## Own cooking judgment
 - Oregano, salt and chilli flakes bloomed in hot water.
 - Hand-chopped parsley and garlic; olive oil whisked in by hand.
-- Distilled white vinegar in place of wine vinegar; rested 30 min.
+- Distilled white vinegar for acidity; rested 30 min.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

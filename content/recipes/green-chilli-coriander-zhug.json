@@ -1,0 +1,138 @@
+{
+  "slug": "green-chilli-coriander-zhug",
+  "title": "Green Chilli and Coriander Zhug",
+  "category": "snacks-sides",
+  "cuisine": "Yemeni",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "zhug",
+  "dish_title": "Zhug",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Green chillies, garlic and a big bunch of coriander blended with cumin, cardamom, lemon and olive oil into a punchy, spoonable sauce.",
+  "servings": 12,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "food processor",
+    "flexible spatula",
+    "small jar with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Zhug",
+      "qty": 60,
+      "unit": "g",
+      "item": "fresh coriander, leaves and tender stems, roughly chopped"
+    },
+    {
+      "group": "Zhug",
+      "qty": 4,
+      "unit": "pc",
+      "item": "long green chillies, stemmed and sliced",
+      "note": "seed some or all for a milder sauce"
+    },
+    {
+      "group": "Zhug",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Zhug",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Zhug",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Zhug",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "Zhug",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Zhug",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Zhug",
+      "qty": 120,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Start with the heat",
+      "text": "Put the garlic, sliced chillies and lemon juice in the food processor and pulse until finely chopped, scraping the sides down once. Breaking these down first means no large pieces of raw garlic or chilli end up in the finished sauce."
+    },
+    {
+      "title": "Add the herbs and spices",
+      "text": "Tip in the coriander with the cumin, cardamom, pepper and salt. Blend until you have a coarse, bright green paste with no whole leaves left."
+    },
+    {
+      "title": "Loosen with oil",
+      "text": "Keep the motor running and pour the olive oil through the feed tube in a slow, thin stream. Stop once the sauce is glossy and falls easily from a spoon."
+    },
+    {
+      "title": "Taste and balance",
+      "text": "Try a little on its own. Add a pinch more salt if it tastes flat, or a few drops of lemon juice if it needs brightness."
+    },
+    {
+      "title": "Jar it up",
+      "text": "Scrape the zhug into the jar, level the surface and pour a thin layer of oil over the top. The oil seal slows browning and keeps the colour vivid."
+    }
+  ],
+  "tips": [
+    "Chillies vary a lot in heat; taste a sliver first and remove some seeds if they are fierce.",
+    "Use the tender coriander stems as well as the leaves; they carry plenty of flavour.",
+    "Do not over-blend after the oil goes in, or the sauce can turn bitter and muddy.",
+    "Stir a spoonful into yoghurt for a cooling green dip."
+  ],
+  "storage": "Keep in the sealed jar in the fridge for up to 1 week, topping up the oil layer after each use. Freeze small portions in an ice-cube tray for up to 2 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 86,
+    "protein_g": 0.3,
+    "carbs_g": 1.1,
+    "sugar_g": 0.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 9.3,
+    "satfat_g": 1.3,
+    "salt_g": 0.25,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "zhug-basic.jpg",
+  "image_alt": "A dark bowl of vivid green zhug beside a long green chilli and a sprig of fresh coriander.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}
