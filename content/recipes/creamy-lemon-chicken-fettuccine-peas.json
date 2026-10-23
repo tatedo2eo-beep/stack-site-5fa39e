@@ -1,0 +1,153 @@
+{
+  "slug": "creamy-lemon-chicken-fettuccine-peas",
+  "title": "Creamy Lemon Chicken Fettuccine with Peas",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "ribbons-fresh-egg-tagliatelle-fettuccine-pappardelle",
+  "dish_title": "Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle)",
+  "flavour": "Chicken",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "fresh-egg-tagliatelle",
+  "changes_from_base": "Dried fettuccine replaces handmade egg pasta, tossed with a quick lemon cream sauce, seared chicken strips, peas and basil.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Fettuccine in a light lemon cream sauce with seared chicken strips, sweet peas, Parmesan and basil.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large non-stick frying pan",
+    "instant-read thermometer",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 2,
+      "unit": "pc",
+      "item": "boneless skinless chicken breasts (about 350 g), in 5 mm strips"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Chicken",
+      "qty": 25,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 200,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon"
+    },
+    {
+      "group": "Pasta",
+      "qty": 400,
+      "unit": "g",
+      "item": "dried fettuccine"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 20,
+      "unit": "g",
+      "item": "fine salt for 4 litres of pasta water (0.5%)",
+      "note": "about 3.25 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Pasta",
+      "qty": 250,
+      "unit": "g",
+      "item": "frozen peas"
+    },
+    {
+      "group": "To finish",
+      "qty": 60,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "To finish",
+      "qty": 15,
+      "unit": "g",
+      "item": "basil, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Chicken",
+      "text": "Pat the strips dry and season with salt and pepper. Melt the butter in the pan over medium-high heat and cook the chicken about 3 min, turning, until no longer pink and 74 °C. Move to a plate."
+    },
+    {
+      "title": "Lemon cream",
+      "text": "Add the garlic to the empty pan for 30 s, then the cream, lemon zest and juice. Simmer 3-5 min until slightly thickened, then take off the heat and cover."
+    },
+    {
+      "title": "Pasta and peas",
+      "text": "Boil the fettuccine in 4 litres salted water until nearly al dente, adding the peas for the last minute. Save a mug of the water, drain and return to the pot."
+    },
+    {
+      "title": "Toss",
+      "text": "Add the lemon cream, Parmesan, basil and chicken and toss together, adding splashes of the water until silky. Serve straight away."
+    }
+  ],
+  "tips": [
+    "Slice the chicken thinly so it cooks in minutes.",
+    "Add the pasta water slowly; the sauce thickens as it stands.",
+    "Frozen peas go straight into the pasta water, no need to thaw."
+  ],
+  "storage": "Cool and refrigerate in an airtight container within 2 hours for up to 2 days. Reheat in a pan with a splash of water until piping hot (74 °C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 804,
+    "protein_g": 43.0,
+    "carbs_g": 86.8,
+    "sugar_g": 7.2,
+    "free_sugar_g": 0.2,
+    "fat_g": 31.0,
+    "satfat_g": 18.0,
+    "salt_g": 1.93,
+    "fibre_g": 6.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Fettuccine ribbons in a glossy cream sauce with chicken, green peas and basil.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

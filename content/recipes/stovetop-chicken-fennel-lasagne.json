@@ -1,0 +1,182 @@
+{
+  "slug": "stovetop-chicken-fennel-lasagne",
+  "title": "Stovetop Chicken and Fennel Lasagne",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "sheets-baked-lasagne",
+  "dish_title": "Sheets/baked (lasagne)",
+  "flavour": "Chicken",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "lasagne-bolognese",
+  "changes_from_base": "Cooked entirely in a frying pan: fennel-seasoned chicken mince and broken sheets simmer in tomato sauce, topped with ricotta and mozzarella. No oven, no béchamel.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A lasagne made entirely in a frying pan, with fennel-spiced chicken, broken sheets, tomato, ricotta and mozzarella.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "large lidded non-stick frying pan (30 cm)",
+    "2 medium bowls",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 340,
+      "unit": "g",
+      "item": "chicken mince"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "ground fennel seeds"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried chilli flakes",
+      "note": "divided"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 800,
+      "unit": "g",
+      "item": "tin crushed tomatoes"
+    },
+    {
+      "group": "Sauce",
+      "qty": 500,
+      "unit": "g",
+      "item": "tomato passata"
+    },
+    {
+      "group": "Sauce",
+      "qty": 240,
+      "unit": "ml",
+      "item": "low-salt chicken stock"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Base",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped"
+    },
+    {
+      "group": "Base",
+      "qty": 5,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Layers",
+      "qty": 12,
+      "unit": "pc",
+      "item": "no-pre-cook lasagne sheets, broken in half"
+    },
+    {
+      "group": "Layers",
+      "qty": 450,
+      "unit": "g",
+      "item": "ricotta"
+    },
+    {
+      "group": "Layers",
+      "qty": 340,
+      "unit": "g",
+      "item": "mozzarella, grated"
+    },
+    {
+      "group": "Layers",
+      "qty": 15,
+      "unit": "g",
+      "item": "parsley, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Season the chicken",
+      "text": "Mix the mince with the fennel, half the chilli and the salt in one bowl. In the other, stir together the crushed tomatoes, passata, stock and pepper; the stock and cheeses season the sauce, so it needs no extra salt."
+    },
+    {
+      "title": "Base",
+      "text": "Heat the oil in the pan over medium heat and cook the onion 6-8 min until soft and golden. Add the garlic for 30 s."
+    },
+    {
+      "title": "Cook the chicken",
+      "text": "Add the seasoned mince and break it up as it cooks, about 4 min, until no pink remains (74 °C)."
+    },
+    {
+      "title": "First layer",
+      "text": "Scatter half the broken sheets over the chicken, pushing them in. Pour over half the tomato mixture, sprinkle with the rest of the chilli, then dot with half the ricotta and scatter over half the mozzarella and half the parsley."
+    },
+    {
+      "title": "Second layer",
+      "text": "Add the remaining sheets and pour over the rest of the sauce, pressing the pasta under so it is covered. Liquid has to reach every piece for it to cook."
+    },
+    {
+      "title": "Simmer",
+      "text": "Bring to a simmer, cover and cook gently about 20 min until the pasta is tender, turning the heat down if it catches."
+    },
+    {
+      "title": "Finish",
+      "text": "Dot over the remaining ricotta and mozzarella, cover for 1 min to melt, and scatter with the last of the parsley."
+    }
+  ],
+  "tips": [
+    "Push the pasta right under the sauce so it cooks evenly.",
+    "Use a pan with a tight lid.",
+    "Keep it at a gentle simmer to avoid catching."
+  ],
+  "storage": "Cool and refrigerate in an airtight container within 2 hours for up to 2 days. Reheat in a pan with a splash of water until piping hot (74 °C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "celery"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 610,
+    "protein_g": 35.4,
+    "carbs_g": 47.8,
+    "sugar_g": 10.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 31.9,
+    "satfat_g": 15.7,
+    "salt_g": 2.02,
+    "fibre_g": 6.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A frying pan of saucy chicken lasagne with melted mozzarella and spoons of ricotta.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

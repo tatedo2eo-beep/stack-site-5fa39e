@@ -30,4 +30,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Dijon in one source swapped for yellow mustard (no wine).
+- Mustard from one source swapped for yellow mustard.

@@ -47,9 +47,9 @@
     },
     {
       "group": "Salad",
-      "qty": 1.5,
+      "qty": 1,
       "unit": "tbsp",
-      "item": "fish sauce (check the label: fish, salt and sugar only)"
+      "item": "fish sauce (check the label: fish, salt and sugar only), plus a little to taste"
     },
     {
       "group": "Salad",
@@ -93,7 +93,7 @@
     },
     {
       "title": "Season",
-      "text": "Toss in the shallots, 1 tbsp fish sauce and 2 tbsp lime, then taste: it should be mainly sour. Add the rest of the fish sauce, lime and chilli as needed."
+      "text": "Toss in the shallots, most of the fish sauce and 2 tbsp lime, then taste: it should be mainly sour. Add a few more drops of fish sauce only if it needs it, then the rest of the lime and chilli."
     },
     {
       "title": "Finish",
@@ -115,14 +115,14 @@
     "no-added-sugar"
   ],
   "nutrition_per_serving": {
-    "kcal": 121,
-    "protein_g": 9.6,
-    "carbs_g": 23.4,
-    "sugar_g": 8.6,
-    "free_sugar_g": 0.9,
+    "kcal": 119,
+    "protein_g": 9.4,
+    "carbs_g": 23.3,
+    "sugar_g": 8.4,
+    "free_sugar_g": 0.7,
     "fat_g": 1.0,
     "satfat_g": 0.2,
-    "salt_g": 2.74,
+    "salt_g": 1.86,
     "fibre_g": 5.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",

@@ -1,0 +1,129 @@
+{
+  "slug": "black-pepper-custard-ice-cream",
+  "title": "Black Pepper Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Black pepper",
+  "flavour_order": 147,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Coarse black pepper steeped in the dairy instead of vanilla, and the custard cooked to 77-80 °C rather than only tempered.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic custard with coarse black pepper steeped in the dairy instead of vanilla. Creamy and sweet up front with a warm, tingly finish; great with strawberries or chocolate desserts.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 270,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 95,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "black peppercorns, coarsely ground"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse the pepper",
+      "text": "Bring the cream, milk, sugar and pepper to the boil, then cover and leave off the heat for 15 min."
+    },
+    {
+      "title": "Whisk the yolks",
+      "text": "Whisk the yolks and salt until light."
+    },
+    {
+      "title": "Temper",
+      "text": "Reheat the pepper dairy until steaming and pour it gradually into the yolks, whisking all the time, then return everything to the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat until the custard reaches 77-80 °C and coats the spatula."
+    },
+    {
+      "title": "Chill",
+      "text": "Strain for a smooth ice cream, or skip the sieve for black speckles. Cool in the iced water and chill for at least 4 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn, then freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Grind the pepper fresh and coarse; pre-ground pepper tastes dusty.",
+    "A common mistake is using too much pepper; the heat builds as it sits.",
+    "Try a scoop on fresh strawberries."
+  ],
+  "storage": "Freeze, covered, for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 302,
+    "protein_g": 5.7,
+    "carbs_g": 21.1,
+    "sugar_g": 20.3,
+    "free_sugar_g": 15.8,
+    "fat_g": 22.3,
+    "satfat_g": 13.0,
+    "salt_g": 0.24,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

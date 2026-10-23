@@ -1,0 +1,145 @@
+{
+  "slug": "fresh-fettuccine-raw-tomato-herb-sauce",
+  "title": "Fresh Fettuccine with Raw Tomato and Herb Sauce",
+  "category": "pasta-noodles",
+  "cuisine": "Italian",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "ribbons-fresh-egg-tagliatelle-fettuccine-pappardelle",
+  "dish_title": "Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle)",
+  "flavour": "Tomato",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "fresh-egg-tagliatelle",
+  "changes_from_base": "Shop-bought fresh fettuccine served under an uncooked sauce of ripe tomatoes, garlic, basil, oregano and parsley, with Parmesan.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Hot fresh fettuccine under a cold, uncooked sauce of ripe tomatoes, garlic, herbs and Parmesan, made for high summer.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Sauce",
+      "qty": 20,
+      "unit": "g",
+      "item": "basil leaves"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "fresh oregano leaves"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "chopped flat-leaf parsley"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1100,
+      "unit": "g",
+      "item": "very ripe tomatoes, cored and cut into chunks"
+    },
+    {
+      "group": "Sauce",
+      "qty": 70,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Pasta",
+      "qty": 500,
+      "unit": "g",
+      "item": "fresh egg fettuccine"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 20,
+      "unit": "g",
+      "item": "fine salt for 4 litres of pasta water (0.5%)",
+      "note": "about 3.25 tsp; most of it goes down the drain"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Herbs",
+      "text": "With the processor running, drop the garlic through the feed tube to mince it. Stop, add the basil, oregano, parsley and oil and pulse to chop."
+    },
+    {
+      "title": "Tomatoes",
+      "text": "Add the tomato chunks and pulse just until coarsely chopped; over-blending makes the sauce watery and pink."
+    },
+    {
+      "title": "Cheese",
+      "text": "Tip into a bowl and stir in the Parmesan and pepper. The cheese seasons the sauce, so there is no added salt."
+    },
+    {
+      "title": "Cook the pasta",
+      "text": "Boil the fettuccine in 4 litres salted water for 2-3 min until tender, then drain."
+    },
+    {
+      "title": "Serve",
+      "text": "Divide the hot pasta between bowls and spoon the cold sauce over at once. It only works with tomatoes at their summer best."
+    }
+  ],
+  "tips": [
+    "Only make this with peak-season tomatoes.",
+    "Pulse the tomatoes briefly; a coarse sauce is better.",
+    "Warm the bowls so the pasta stays hot."
+  ],
+  "storage": "Best eaten straight away. The sauce keeps refrigerated for up to 1 day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 517,
+    "protein_g": 23.3,
+    "carbs_g": 81.7,
+    "sugar_g": 7.5,
+    "free_sugar_g": 0.0,
+    "fat_g": 11.4,
+    "satfat_g": 3.8,
+    "salt_g": 1.07,
+    "fibre_g": 3.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Fresh fettuccine topped with a chunky raw red tomato and herb sauce.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

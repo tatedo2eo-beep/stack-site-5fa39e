@@ -1,0 +1,215 @@
+{
+  "slug": "hearty-beef-lasagne-cream-sauce",
+  "title": "Hearty Beef Lasagne with Pecorino Cream",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "sheets-baked-lasagne",
+  "dish_title": "Sheets/baked (lasagne)",
+  "flavour": "Beef",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "lasagne-bolognese",
+  "changes_from_base": "A quicker beef lasagne: a tender beef mince and tomato sauce instead of slow ragù, and a no-cook pecorino cream sauce in place of béchamel.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A generous beef lasagne for a crowd, with a tender beef and tomato sauce and a pecorino cream in place of béchamel.",
+  "servings": 12,
+  "prep_min": 40,
+  "cook_min": 75,
+  "difficulty": "medium",
+  "equipment": [
+    "large flameproof casserole",
+    "rimmed baking sheet",
+    "mixing bowl",
+    "wooden spoon",
+    "23 x 33 cm baking dish",
+    "foil",
+    "baking tray (to catch drips)"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta",
+      "qty": 17,
+      "unit": "pc",
+      "item": "dried lasagne sheets (curly-edged if you can find them)"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 20,
+      "unit": "g",
+      "item": "fine salt for 4 litres of pasta water (0.5%)",
+      "note": "about 3.25 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "slices white bread, torn small"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "milk"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 680,
+      "unit": "g",
+      "item": "lean beef mince (10% fat)"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "onion, finely chopped"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried oregano"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Meat sauce",
+      "qty": 800,
+      "unit": "g",
+      "item": "tin crushed tomatoes"
+    },
+    {
+      "group": "Cream sauce",
+      "qty": 225,
+      "unit": "g",
+      "item": "cottage cheese"
+    },
+    {
+      "group": "Cream sauce",
+      "qty": 90,
+      "unit": "g",
+      "item": "pecorino, finely grated"
+    },
+    {
+      "group": "Cream sauce",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Cream sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Cream sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Cream sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Topping",
+      "qty": 340,
+      "unit": "g",
+      "item": "mozzarella, grated"
+    },
+    {
+      "group": "Topping",
+      "qty": 20,
+      "unit": "g",
+      "item": "pecorino, grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil the sheets",
+      "text": "Heat the oven to 190 °C (170 °C fan) and oil the baking sheet and the dish. Boil the sheets in 4 litres salted water until al dente, drain, lay them on the oiled sheet and turn to coat so they do not stick. Cut 2 in half."
+    },
+    {
+      "title": "Panade",
+      "text": "Mash the bread and milk to a paste, then knead in the beef, salt and pepper. The soaked bread keeps the meat tender through the long bake."
+    },
+    {
+      "title": "Meat sauce",
+      "text": "Heat the oil in the empty pot over medium heat, cook the onion 5 min, add the garlic, oregano and chilli for 1 min, then the beef, breaking it small, for about 4 min until no longer pink. Stir in the tomatoes and simmer 5 min."
+    },
+    {
+      "title": "Cream sauce",
+      "text": "Whisk the cottage cheese, pecorino, cream, garlic, cornflour and pepper together. The cornflour stops it turning greasy in the oven."
+    },
+    {
+      "title": "Layer",
+      "text": "Lay 3 sheets lengthways in the dish with a half sheet to fill the gap. Spread over about 360 ml meat sauce, 120 ml cream sauce and 60 g mozzarella. Repeat 3 more times, moving the half sheet to the other end each time, then top with the last 3 sheets, the rest of the cream sauce and mozzarella, and the pecorino."
+    },
+    {
+      "title": "Bake",
+      "text": "Cover with oiled foil, set on the baking tray and bake 30 min. Uncover and bake 25-30 min more until spotty brown and 74 °C in the centre. Rest 30 min before slicing."
+    }
+  ],
+  "tips": [
+    "Knead the panade well into the beef.",
+    "Oil the cooked sheets so they do not stick.",
+    "Rest for 30 min so it slices cleanly."
+  ],
+  "storage": "Cool, cover and refrigerate within 2 hours for up to 3 days, or freeze portions for up to 2 months. Reheat covered in a 180 °C oven until piping hot (74 °C) in the centre.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 475,
+    "protein_g": 28.5,
+    "carbs_g": 33.0,
+    "sugar_g": 5.1,
+    "free_sugar_g": 0.3,
+    "fat_g": 25.3,
+    "satfat_g": 13.5,
+    "salt_g": 1.62,
+    "fibre_g": 2.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A tall slice of beef lasagne with a browned cheese top.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "smoky-chicken-pepper-penne",
+  "title": "Smoky Chicken and Pepper Penne",
+  "category": "pasta-noodles",
+  "cuisine": "Spanish-inspired",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "short-penne-rigatoni-fusilli",
+  "dish_title": "Short (penne, rigatoni, fusilli)",
+  "flavour": "Chicken",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "penne-arrabbiata",
+  "changes_from_base": "Seared cumin and smoked-paprika chicken and soft sweet peppers replace the chilli tomato sauce, finished with oregano and cool yoghurt.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Penne with seared cumin and smoked-paprika chicken, soft sweet peppers and fresh oregano, served with cool yoghurt.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large frying pan (30 cm)",
+    "slotted spoon",
+    "instant-read thermometer",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta",
+      "qty": 340,
+      "unit": "g",
+      "item": "dried penne"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 15,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.5%)",
+      "note": "about 2.5 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Chicken",
+      "qty": 400,
+      "unit": "g",
+      "item": "boneless skinless chicken thighs, sliced 1 cm thick"
+    },
+    {
+      "group": "Spices",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cumin",
+      "note": "divided"
+    },
+    {
+      "group": "Spices",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "smoked paprika",
+      "note": "divided"
+    },
+    {
+      "group": "Chicken",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 3,
+      "unit": "pc",
+      "item": "small red, yellow or orange peppers, in 1 cm strips"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "jalapeño, seeded and cut into strips"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "fresh oregano leaves"
+    },
+    {
+      "group": "To serve",
+      "qty": 100,
+      "unit": "g",
+      "item": "thick Greek yoghurt, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the pasta",
+      "text": "Boil the penne in 3 litres salted water until al dente. Save about 80 ml of the water and drain."
+    },
+    {
+      "title": "Season the chicken",
+      "text": "Toss the slices with half the cumin and paprika, the salt and pepper."
+    },
+    {
+      "title": "Sear",
+      "text": "Heat 2 tbsp oil in the pan over high heat until it shimmers, add the chicken in one layer and cook about 5 min, turning now and then, until golden and 74 °C inside. The oil turns red from the paprika and carries the flavour into the pasta later. Lift the chicken onto a plate."
+    },
+    {
+      "title": "Peppers",
+      "text": "Turn the heat to medium, add the rest of the oil, the peppers, jalapeño and the second lot of salt. Cook 10 min, tossing, until soft but holding their shape. Add the garlic and the remaining cumin and paprika for 1 min, then the vinegar."
+    },
+    {
+      "title": "Combine",
+      "text": "Add the penne, the saved water and the chicken and toss until glossy and hot. Off the heat, toss in the oregano so it just wilts, and serve with spoonfuls of yoghurt."
+    }
+  ],
+  "tips": [
+    "Cut the chicken evenly so every piece cooks at the same rate.",
+    "Leave the jalapeño seeds in for more heat.",
+    "Add the oregano off the heat so it stays fresh."
+  ],
+  "storage": "Cool and refrigerate in an airtight container within 2 hours for up to 2 days. Reheat in a pan with a splash of water until piping hot (74 °C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "sulphites"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 591,
+    "protein_g": 34.5,
+    "carbs_g": 72.3,
+    "sugar_g": 7.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 17.5,
+    "satfat_g": 3.4,
+    "salt_g": 2.01,
+    "fibre_g": 5.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Penne with strips of red and yellow pepper and golden chicken, with a spoon of white yoghurt on top.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

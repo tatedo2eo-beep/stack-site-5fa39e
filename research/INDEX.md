@@ -64,6 +64,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | bbq-chicken-wings | Chicken wings | BBQ | 2 | 4 |
 | bean-filled-masa-flatbreads-seared-steak-salsa-verde | Huarache | Classic | 3 | 5 |
 | beef-bean-tostadas-crisp-corn | Tostada | Classic | 1 | 3 |
+| beef-carpaccio-rocket-mustard-lemon-sauce | Carpaccio | Classic | 1 | 3 |
 | beef-chili | Chili con carne | Classic | 2 | 4 |
 | beef-chow-fun | Beef chow fun | Classic | 3 | 5 |
 | beef-chow-mein | Chow mein/lo mein | Beef | 3 | 5 |
@@ -1118,6 +1119,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | square-sheet-pan-pizza-garlic-tomato-dollops-mozzarella | Grandma pizza | Classic | 2 | 4 |
 | sri-lankan-red-lentil-dal-curry-leaves | Lentil dishes (dal, lentil salad, lentils du Puy) | Classic | 1 | 3 |
 | st-josephs-zeppole-with-vanilla-cream-and-cherries | Zeppole | Classic | 2 | 4 |
+| steak-tartare-hand-cut-beef-capers-egg-yolk | Steak tartare | Classic | 1 | 3 |
 | steamed-broccoli-with-lemon | Steamed/blanched | Classic | 2 | 4 |
 | steamed-masa-parcels-chicken-tomatillo-salsa-verde | Tamal | Chicken in salsa verde | 2 | 4 |
 | steamed-masa-parcels-red-chilli-chicken | Tamal | Classic | 2 | 4 |

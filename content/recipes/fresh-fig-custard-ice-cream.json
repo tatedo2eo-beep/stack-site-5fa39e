@@ -1,0 +1,159 @@
+{
+  "slug": "fresh-fig-custard-ice-cream",
+  "title": "Fresh Fig Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Fig",
+  "flavour_order": 137,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Fresh figs cooked to a jam with lemon zest and blended into a slightly lighter yolk custard instead of vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A twist on our classic custard: ripe fresh figs are cooked down into a lemony jam and blended into a slightly lighter yolk custard. Sweet, honeyed and a pretty dusky pink.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "blender",
+    "small saucepan with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Fig jam",
+      "qty": 500,
+      "unit": "g",
+      "item": "ripe fresh figs, stems trimmed, cut into eighths"
+    },
+    {
+      "group": "Fig jam",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Fig jam",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Fig jam",
+      "qty": 60,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 90,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Finish",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice, plus more to taste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the figs",
+      "text": "Put the figs, water and lemon zest in the small saucepan, cover and cook over medium heat for 8-10 min, stirring occasionally, until soft."
+    },
+    {
+      "title": "Make the jam",
+      "text": "Uncover, add the 60 g sugar and keep cooking, stirring often, for about 10 min until thick and jammy. Leave to cool."
+    },
+    {
+      "title": "Start the custard",
+      "text": "Heat the cream and milk until steaming. Whisk the yolks with the 90 g sugar and the salt, whisk in a third of the hot dairy, then return it all to the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat until the custard reaches 77-80 °C and coats the spatula."
+    },
+    {
+      "title": "Chill",
+      "text": "Strain into a bowl, cool in the iced water and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the cold custard with the fig jam and lemon juice until smooth. Taste and add a little more lemon juice if it tastes flat."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn, then freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Use very ripe, soft figs; underripe ones give little flavour.",
+    "A common mistake is stopping the jam too early. It should look thick and glossy, or the ice cream will be icy.",
+    "Dark-skinned figs give the deepest colour."
+  ],
+  "storage": "Freeze, covered, for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 327,
+    "protein_g": 4.5,
+    "carbs_g": 34.0,
+    "sugar_g": 31.8,
+    "free_sugar_g": 18.7,
+    "fat_g": 20.4,
+    "satfat_g": 12.1,
+    "salt_g": 0.17,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

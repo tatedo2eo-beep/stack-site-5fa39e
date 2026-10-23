@@ -1,0 +1,142 @@
+{
+  "slug": "blueberry-custard-ice-cream",
+  "title": "Blueberry Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Blueberry",
+  "flavour_order": 146,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Mostly-milk custard with cooked blueberries stirred in before churning; cream added for body.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic French custard made with mostly milk for a lighter base, then mixed with jammy cooked blueberries before churning. Fruity, purple-streaked and not too rich.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Blueberries",
+      "qty": 340,
+      "unit": "g",
+      "item": "blueberries, fresh or frozen"
+    },
+    {
+      "group": "Blueberries",
+      "qty": 80,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 110,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Custard",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the berries",
+      "text": "Cook the blueberries and 80 g sugar in the small saucepan over medium-low heat for about 12 min, until the berries burst and the juice thickens. Cool and chill."
+    },
+    {
+      "title": "Warm the dairy",
+      "text": "Heat the milk and cream with the 110 g sugar until steaming."
+    },
+    {
+      "title": "Temper",
+      "text": "Whisk the yolks and salt, then whisk in a little hot dairy before adding the rest and pouring it back into the pan."
+    },
+    {
+      "title": "Cook gently",
+      "text": "Stir over low heat until the custard reaches 77-80 °C and coats the spatula. Rushing it over high heat makes it curdle."
+    },
+    {
+      "title": "Chill",
+      "text": "Strain, stir in the vanilla, cool in the iced water and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Stir in the cold blueberries and their juice, churn and freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Frozen wild blueberries give the most intense colour.",
+    "A common mistake is adding warm berries to the custard, which can make the churned ice cream icy.",
+    "Stir the berries in only briefly if you prefer purple ripples rather than an all-lilac ice cream."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 277,
+    "protein_g": 4.1,
+    "carbs_g": 33.4,
+    "sugar_g": 31.3,
+    "free_sugar_g": 23.8,
+    "fat_g": 14.9,
+    "satfat_g": 8.6,
+    "salt_g": 0.17,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

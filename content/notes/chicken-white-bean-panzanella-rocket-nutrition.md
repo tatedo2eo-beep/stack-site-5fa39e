@@ -14,7 +14,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | cider vinegar | Vinegar, cider (FDC 173469) | 45 | 9.5 | 0.0 | 0.4 | 0.18 | 0.00 | 0.0 | 0.00 | 2 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | ripe tomatoes, chopped, juices kept | Tomatoes, red, ripe, raw (SR 11529) | 700 | 126.0 | 6.2 | 27.2 | 18.41 | 0.00 | 1.4 | 0.20 | 35 | 8.4 |
-| cannellini beans (400 g), rinsed | Beans, white, mature seeds, canned (FDC 175204) | 240 | 273.6 | 17.4 | 50.9 | 0.70 | 0.00 | 0.7 | 0.18 | 816 | 11.5 |
+| canned cannellini beans, drained and rinsed (one 400 g tin) | Beans, white, mature seeds, canned (FDC 175204) | 240 | 273.6 | 17.4 | 50.9 | 0.70 | 0.00 | 0.7 | 0.18 | 816 | 11.5 |
 | small red onion, thinly sliced | Onions, raw (SR 11282) | 50 | 20.0 | 0.6 | 4.7 | 2.12 | 0.00 | 0.1 | 0.02 | 2 | 0.8 |
 | basil, torn | Basil, fresh (FDC 172232) | 15 | 3.4 | 0.5 | 0.4 | 0.04 | 0.00 | 0.1 | 0.01 | 1 | 0.2 |
 | rocket | Arugula (rocket), raw (SR 11959) | 80 | 20.0 | 2.1 | 2.9 | 1.64 | 0.00 | 0.5 | 0.07 | 22 | 1.3 |
@@ -33,4 +33,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Red wine and balsamic vinegar in the sources replaced with cider vinegar.
+- Both source vinaigrettes rebuilt with cider vinegar.

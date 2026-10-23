@@ -1,0 +1,157 @@
+{
+  "slug": "spiced-sweet-potato-custard-ice-cream",
+  "title": "Spiced Sweet Potato Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Sweet potato",
+  "flavour_order": 145,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Roasted sweet potato and warm spices whisked into a brown sugar milk custard, with the cream added cold.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A take on our classic custard built on milk, with roasted sweet potato and warm spices whisked in and the cream added cold. Earthy, spiced and smooth.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 70,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "blender",
+    "baking tray",
+    "fork"
+  ],
+  "ingredients": [
+    {
+      "group": "Sweet potato",
+      "qty": 500,
+      "unit": "g",
+      "item": "sweet potatoes (about 2), scrubbed",
+      "note": "gives about 250 g flesh; nutrition counts the flesh"
+    },
+    {
+      "group": "Custard",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 130,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Spices",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Spices",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Spices",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Custard",
+      "qty": 300,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast",
+      "text": "Heat the oven to 200 °C. Prick the sweet potatoes with the fork and roast on the tray for 45-60 min until very soft. Cool, peel, blend the flesh until smooth, press through the sieve and weigh out 250 g."
+    },
+    {
+      "title": "Spice the yolks",
+      "text": "Whisk the yolks with the brown sugar, salt and spices."
+    },
+    {
+      "title": "Temper",
+      "text": "Heat the milk until steaming and whisk it slowly into the yolks, then return to the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat until the custard reaches 77-80 °C and coats the spatula."
+    },
+    {
+      "title": "Combine",
+      "text": "Off the heat, whisk in the sweet potato. Cool in the iced water, then stir in the cream and vanilla and chill for at least 4 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn, then freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Orange-fleshed sweet potatoes give the best colour and flavour.",
+    "A common mistake is skipping the sieve, which leaves stringy fibres.",
+    "Use any spare purée in soups or mash."
+  ],
+  "storage": "Freeze, covered, for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 271,
+    "protein_g": 4.3,
+    "carbs_g": 25.9,
+    "sugar_g": 20.2,
+    "free_sugar_g": 15.8,
+    "fat_g": 17.2,
+    "satfat_g": 10.3,
+    "salt_g": 0.22,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

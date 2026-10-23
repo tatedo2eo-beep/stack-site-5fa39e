@@ -1,0 +1,201 @@
+{
+  "slug": "spinach-fontina-lasagne",
+  "title": "Spinach and Fontina Lasagne",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "sheets-baked-lasagne",
+  "dish_title": "Sheets/baked (lasagne)",
+  "flavour": "Spinach",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "lasagne-bolognese",
+  "changes_from_base": "A meat-free lasagne layered with spinach béchamel, a smooth cottage cheese and egg layer, Parmesan and fontina instead of ragù.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A meat-free lasagne layered with spinach béchamel, a smooth cottage cheese layer, Parmesan and melting fontina.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 50,
+  "difficulty": "medium",
+  "equipment": [
+    "large pot",
+    "bowl of iced water",
+    "clean tea towel",
+    "medium saucepan",
+    "whisk",
+    "food processor",
+    "23 x 33 cm baking dish",
+    "foil",
+    "baking tray (to catch drips)"
+  ],
+  "ingredients": [
+    {
+      "group": "Spinach",
+      "qty": 570,
+      "unit": "g",
+      "item": "curly spinach, stems removed"
+    },
+    {
+      "group": "Spinach",
+      "qty": 18,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for blanching",
+      "note": "about 1 tbsp; most goes down the drain"
+    },
+    {
+      "group": "Sauce",
+      "qty": 70,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Sauce",
+      "qty": 6,
+      "unit": "pc",
+      "item": "shallots, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 35,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Sauce",
+      "qty": 830,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Sauce",
+      "qty": 15,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "Filling",
+      "qty": 225,
+      "unit": "g",
+      "item": "cottage cheese"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Assembly",
+      "qty": 12,
+      "unit": "pc",
+      "item": "no-pre-cook lasagne sheets"
+    },
+    {
+      "group": "Assembly",
+      "qty": 40,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "Assembly",
+      "qty": 225,
+      "unit": "g",
+      "item": "fontina, grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blanch the spinach",
+      "text": "Boil a large pot of water with the salt, add the spinach for just 5 s until wilted, then lift it into iced water to cool. Drain, wrap in a tea towel and wring hard until dry, then chop. Squeezing out the water is what stops the lasagne going soggy."
+    },
+    {
+      "title": "White sauce",
+      "text": "Melt the butter in the saucepan over medium heat and cook the shallots and garlic about 4 min until soft. Stir in the flour for 1-2 min without browning, whisk in the milk and bring to the boil. Add the bay, nutmeg, salt and pepper, then simmer gently 10 min, whisking now and then. Remove the bay and whisk in the 15 g Parmesan."
+    },
+    {
+      "title": "Divide the sauce",
+      "text": "Keep 120 ml plain sauce for the base and stir the chopped spinach into the rest."
+    },
+    {
+      "title": "Cheese layer",
+      "text": "Blend the cottage cheese and egg in the processor until completely smooth."
+    },
+    {
+      "title": "Soften the sheets",
+      "text": "Heat the oven to 220 °C (200 °C fan). Soak the sheets in 5 cm of just-boiled water in the baking dish for 5 min until pliable, then lay them on tea towels. Dry and grease the dish."
+    },
+    {
+      "title": "Layer",
+      "text": "Spread the plain sauce over the base and lay 3 sheets on top. Make three layers, each of spinach sauce and 3 sheets, scattering the Parmesan over the first, half the fontina over the second and the cottage-cheese mixture over the third. Finish with the last 3 sheets, the rest of the spinach sauce and the remaining fontina."
+    },
+    {
+      "title": "Bake",
+      "text": "Cover with greased foil and bake about 20 min until bubbling at the edges, then uncover and bake 10-15 min until spotty brown. Rest 15 min before cutting."
+    }
+  ],
+  "tips": [
+    "Wring the spinach really dry.",
+    "Blend the cottage cheese until completely smooth.",
+    "Rest the lasagne before cutting so the layers hold."
+  ],
+  "storage": "Cool, cover and refrigerate within 2 hours for up to 3 days, or freeze portions for up to 2 months. Reheat covered in a 180 °C oven until piping hot (74 °C) in the centre.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 444,
+    "protein_g": 23.3,
+    "carbs_g": 35.7,
+    "sugar_g": 9.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 23.6,
+    "satfat_g": 13.8,
+    "salt_g": 1.65,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A square of spinach lasagne showing green layers and melted golden fontina on top.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

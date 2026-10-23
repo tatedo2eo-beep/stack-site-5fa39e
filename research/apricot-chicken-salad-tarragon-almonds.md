@@ -3,7 +3,7 @@ Dish: Chicken salad / flavour: Apricot. Private file, not published.
 
 ## Sources actually opened
 - [Apricot Chicken Salad (America's Test Kitchen)](https://www.americastestkitchen.com/recipes/2252-apricot-chicken-salad) [Tier 1 (locked list): America's Test Kitchen]: Mayonnaise, apricot preserves, lemon, cayenne; chicken, red grapes, toasted almonds and tarragon. _(fetched 200; recipe (ingredients and steps) read)_
-- [Apricot-Basil Chicken Salad (America's Test Kitchen)](https://www.americastestkitchen.com/recipes/8490-apricot-basil-chicken-salad) [Tier 1 (locked list): America's Test Kitchen]: Mayonnaise, chopped dried apricots, basil, shallot, lemon and Dijon; rotisserie chicken; served on Bibb lettuce. _(fetched 200; recipe (ingredients and steps) read)_
+- [Apricot-Basil Chicken Salad (America's Test Kitchen)](https://www.americastestkitchen.com/recipes/8490-apricot-basil-chicken-salad) [Tier 1 (locked list): America's Test Kitchen]: Mayonnaise, chopped dried apricots, basil, shallot, lemon and mustard; rotisserie chicken; served on Bibb lettuce. _(fetched 200; recipe (ingredients and steps) read)_
 - [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
 - [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
 
@@ -12,7 +12,7 @@ Dish: Chicken salad / flavour: Apricot. Private file, not published.
 ## Own cooking judgment
 - Metric quantities and our own wording
 - Fewer, regrouped steps in a different order
-- Dried apricots instead of preserves; Dijon (contains wine) replaced with yellow mustard
+- Dried apricots instead of preserves; yellow mustard used
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

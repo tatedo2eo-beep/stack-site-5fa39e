@@ -1,0 +1,153 @@
+{
+  "slug": "beef-carpaccio-rocket-mustard-lemon-sauce",
+  "title": "Classic Beef Carpaccio with Rocket, Cherry Tomatoes and Mustard-Lemon Sauce",
+  "category": "beef-lamb",
+  "cuisine": "Italian",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "carpaccio",
+  "dish_title": "Carpaccio",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Paper-thin rounds of raw beef fillet with a peppery rocket salad, quartered cherry tomatoes and a creamy mustard-lemon sauce drizzled over the top.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 0,
+  "difficulty": "medium",
+  "equipment": [
+    "cling film",
+    "very sharp thin-bladed knife",
+    "baking paper",
+    "rolling pin or flat meat mallet",
+    "tall jug",
+    "stick blender",
+    "mixing bowl",
+    "4 chilled plates"
+  ],
+  "ingredients": [
+    {
+      "group": "Beef",
+      "qty": 300,
+      "unit": "g",
+      "item": "beef fillet (tenderloin), centre cut, one very fresh whole piece",
+      "note": "trimmed of all fat and silver skin"
+    },
+    {
+      "group": "Salad",
+      "qty": 60,
+      "unit": "g",
+      "item": "rocket (arugula)"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Salad",
+      "qty": 12,
+      "unit": "pc",
+      "item": "cherry tomatoes, quartered",
+      "note": "about 180 g"
+    },
+    {
+      "group": "Mustard-lemon sauce",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Mustard-lemon sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Mustard-lemon sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "smooth mustard"
+    },
+    {
+      "group": "Mustard-lemon sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "pasteurised egg yolk"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 2,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.375 tsp"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Chill the fillet hard",
+      "text": "Roll the fillet tightly in cling film and freeze for 45-60 min, until the outside is firm but the centre still gives a little. That stiffness is what makes very thin slicing possible."
+    },
+    {
+      "title": "Slice across the grain",
+      "text": "Using your sharpest thin blade, cut 3 mm slices across the grain. Cutting this way shortens the muscle fibres, so every mouthful is tender."
+    },
+    {
+      "title": "Flatten the slices",
+      "text": "Sandwich a few slices at a time between baking paper and roll or tap them gently until 1-2 mm thick and nearly translucent. Lay them slightly overlapping so they cover each chilled plate, and return the plates to the fridge."
+    },
+    {
+      "title": "Blend the sauce",
+      "text": "Put 4 tbsp olive oil, the lemon juice, mustard, egg yolk, a pinch of salt and some pepper into the tall jug. Blitz with the stick blender for 20-30 s; the yolk and mustard emulsify the oil into a thick, pale yellow sauce."
+    },
+    {
+      "title": "Dress the rocket",
+      "text": "Just before serving, toss the leaves with 1 tbsp oil and a pinch each of salt and pepper. Dressing late keeps them from wilting."
+    },
+    {
+      "title": "Plate and serve",
+      "text": "Pile the rocket in the centre of each plate and trail the sauce in a circle across the beef. Dot over the tomato quarters, season the meat with the last of the salt and pepper and eat within a few minutes, while the beef is still cold."
+    }
+  ],
+  "tips": [
+    "RAW NOTE: the beef is eaten raw. Use a very fresh whole-muscle piece from a butcher you trust, trim and slice it yourself just before serving (never pre-minced beef), and keep it below 4 °C until it goes on the plate. Pregnant people, young children, older adults and anyone with weakened immunity should skip it.",
+    "EGG NOTE: the yolk in the sauce is raw. Use a pasteurised egg yolk; pregnant people, young children, older adults and anyone with weakened immunity should use a sauce of just oil, lemon and mustard instead.",
+    "A common mistake is slicing the beef straight from the fridge; it is too soft and tears, so give it the full time in the freezer first.",
+    "Chill the plates for at least 15 minutes so the thin beef stays cold right up to the table.",
+    "If the sauce is too thick to drizzle, blend in 1-2 tsp cold water."
+  ],
+  "storage": "Serve carpaccio as soon as it is plated and discard any leftovers. The sauce keeps for up to 1 day covered in the fridge. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 297,
+    "protein_g": 18.2,
+    "carbs_g": 3.3,
+    "sugar_g": 1.7,
+    "free_sugar_g": 0.2,
+    "fat_g": 23.6,
+    "satfat_g": 4.7,
+    "salt_g": 0.74,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "carpaccio-advanced.jpg",
+  "image_alt": "Paper-thin raw beef carpaccio with rocket, cherry tomato quarters and a yellow mustard-lemon drizzle.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

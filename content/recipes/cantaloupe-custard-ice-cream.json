@@ -1,0 +1,132 @@
+{
+  "slug": "cantaloupe-custard-ice-cream",
+  "title": "Cantaloupe Melon Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Cantaloupe",
+  "flavour_order": 144,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Raw blended cantaloupe whisked into a four-yolk custard; the source is an eggless melon ice cream, adapted to our custard base.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic custard made lighter and fruitier: very ripe cantaloupe is blended raw and whisked into a four-yolk custard. Fresh, delicate and summery.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "blender"
+  ],
+  "ingredients": [
+    {
+      "group": "Melon",
+      "qty": 500,
+      "unit": "g",
+      "item": "very ripe cantaloupe flesh, rind and seeds removed, cubed"
+    },
+    {
+      "group": "Melon",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the custard",
+      "text": "Heat the cream and milk until steaming. Whisk the yolks, sugar and salt until pale, whisk in a third of the hot dairy and pour it back into the pan."
+    },
+    {
+      "title": "Cook and chill",
+      "text": "Stir over low heat until the custard reaches 77-80 °C and coats the spatula. Strain, cool in the iced water and chill for at least 4 h."
+    },
+    {
+      "title": "Purée the melon",
+      "text": "Scrub the melon skin well before cutting it. Blend the flesh with the lemon juice until liquid, then chill."
+    },
+    {
+      "title": "Combine",
+      "text": "Whisk the cold melon purée into the cold custard."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn; it will stay quite soft. Freeze for 3-4 h until scoopable."
+    }
+  ],
+  "tips": [
+    "The melon must be very ripe and fragrant; smell the stem end before buying.",
+    "A common mistake is mixing the purée into warm custard, which dulls the fresh flavour.",
+    "If it has been frozen longer, soften it in the fridge for 30 min before serving."
+  ],
+  "storage": "Freeze, covered, for up to 1 week; the melon flavour fades after that.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 234,
+    "protein_g": 3.8,
+    "carbs_g": 24.1,
+    "sugar_g": 23.6,
+    "free_sugar_g": 16.2,
+    "fat_g": 14.3,
+    "satfat_g": 8.4,
+    "salt_g": 0.18,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

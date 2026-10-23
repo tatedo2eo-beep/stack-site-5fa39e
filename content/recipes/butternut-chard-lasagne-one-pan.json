@@ -1,0 +1,163 @@
+{
+  "slug": "butternut-chard-lasagne-one-pan",
+  "title": "Cheesy Butternut Squash and Swiss Chard Lasagne",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "sheets-baked-lasagne",
+  "dish_title": "Sheets/baked (lasagne)",
+  "flavour": "Squash & Swiss chard",
+  "flavour_order": 107,
+  "access": "premium",
+  "base_recipe": "lasagne-bolognese",
+  "changes_from_base": "A small meat-free lasagne for 4: microwaved butternut squash and Swiss chard with a sage cheese sauce instead of ragù and béchamel.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A small lasagne for 4 with butternut squash, Swiss chard and a sage cheese sauce, ready in about 75 min.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 55,
+  "difficulty": "easy",
+  "equipment": [
+    "microwave-safe bowl with cover",
+    "colander",
+    "20 cm square baking dish",
+    "foil"
+  ],
+  "ingredients": [
+    {
+      "group": "Cheese sauce",
+      "qty": 280,
+      "unit": "g",
+      "item": "whole-milk cottage cheese"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 55,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "chopped fresh sage"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 450,
+      "unit": "g",
+      "item": "butternut squash, peeled and in 1 cm dice"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 450,
+      "unit": "g",
+      "item": "Swiss chard, stems removed, leaves in 2.5 cm pieces"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "grated lemon zest"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Assembly",
+      "qty": 6,
+      "unit": "pc",
+      "item": "no-pre-cook lasagne sheets"
+    },
+    {
+      "group": "Assembly",
+      "qty": 110,
+      "unit": "g",
+      "item": "mozzarella, grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cheese sauce",
+      "text": "Heat the oven to 220 °C (200 °C fan). Whisk the cottage cheese, Parmesan, cream, sage, cornflour and pepper in a bowl. The cheeses bring enough salt, so none is added."
+    },
+    {
+      "title": "Vegetables",
+      "text": "Mix the squash, chard, oil, garlic, lemon zest and nutmeg in the bowl, cover and microwave about 7 min until the chard wilts and the squash is just tender. Drain in the colander for 5 min; this gets rid of the water that would otherwise thin the sauce."
+    },
+    {
+      "title": "Layer",
+      "text": "Grease the dish, spread in 240 ml cheese sauce and lay 2 sheets on top. Add half the vegetables and half the remaining sauce, then 2 more sheets, the rest of the vegetables and about 120 ml sauce. Top with the last 2 sheets, the remaining sauce and the mozzarella."
+    },
+    {
+      "title": "Bake",
+      "text": "Cover tightly with greased foil and bake about 30 min until bubbling at the edges. Uncover and bake 10-15 min until spotty brown. Rest 15 min before serving."
+    }
+  ],
+  "tips": [
+    "Drain the vegetables well.",
+    "Dice the squash small so it cooks evenly.",
+    "Use a 20 cm square dish."
+  ],
+  "storage": "Cool, cover and refrigerate within 2 hours for up to 3 days, or freeze portions for up to 2 months. Reheat covered in a 180 °C oven until piping hot (74 °C) in the centre.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 616,
+    "protein_g": 26.9,
+    "carbs_g": 42.9,
+    "sugar_g": 8.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 39.2,
+    "satfat_g": 22.2,
+    "salt_g": 2.25,
+    "fibre_g": 5.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A square dish of butternut squash and chard lasagne with browned mozzarella.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

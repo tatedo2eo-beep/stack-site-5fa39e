@@ -1,0 +1,157 @@
+{
+  "slug": "roasted-hazelnut-chocolate-custard-ice-cream",
+  "title": "Roasted Hazelnut Chocolate Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Hazelnut",
+  "flavour_order": 141,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Chocolate custard set with a little cornflour, made with demerara sugar and finished with dark-roasted crushed hazelnuts instead of vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A chocolate version of our classic custard, set with a little cornflour and made with demerara sugar, then studded with dark-roasted crushed hazelnuts. Deep, nutty and rich.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "baking tray",
+    "clean tea towel",
+    "rolling pin"
+  ],
+  "ingredients": [
+    {
+      "group": "Hazelnuts",
+      "qty": 70,
+      "unit": "g",
+      "item": "raw shelled hazelnuts"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 150,
+      "unit": "g",
+      "item": "demerara sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "Dutch-process cocoa powder"
+    },
+    {
+      "group": "Custard",
+      "qty": 60,
+      "unit": "g",
+      "item": "dark chocolate (70%), chopped"
+    },
+    {
+      "group": "Custard",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cornflour"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast the nuts",
+      "text": "Heat the oven to 200 °C. Roast the hazelnuts on the tray for about 10 min until deep golden, then rub off the skins in the tea towel. Cool and crush coarsely with the rolling pin."
+    },
+    {
+      "title": "Make the chocolate base",
+      "text": "Warm the milk, cream and sugar, whisking, without letting it boil. Whisk in the cocoa until smooth, then the chocolate until melted."
+    },
+    {
+      "title": "Prepare the yolks",
+      "text": "Whisk the yolks, salt and cornflour together in the heatproof bowl until smooth."
+    },
+    {
+      "title": "Temper",
+      "text": "Whisk about 250 ml of the hot chocolate mixture into the yolks, then pour everything back into the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir constantly over low heat for about 5 min, until the custard reaches 77-80 °C and has thickened slightly."
+    },
+    {
+      "title": "Chill",
+      "text": "Strain, cool in the iced water and chill for at least 4 h."
+    },
+    {
+      "title": "Churn and add nuts",
+      "text": "Churn until semi-firm, stir in the hazelnuts and freeze for at least 4 h, or overnight."
+    }
+  ],
+  "tips": [
+    "Roast the nuts until really dark; pale hazelnuts taste of little.",
+    "A common mistake is letting the chocolate base boil, which can make it grainy.",
+    "The custard can be made a day ahead and kept in the fridge.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Freeze, covered, for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "soya",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 388,
+    "protein_g": 6.4,
+    "carbs_g": 28.9,
+    "sugar_g": 24.1,
+    "free_sugar_g": 20.0,
+    "fat_g": 28.8,
+    "satfat_g": 14.4,
+    "salt_g": 0.29,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

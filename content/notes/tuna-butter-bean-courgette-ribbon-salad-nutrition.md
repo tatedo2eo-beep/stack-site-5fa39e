@@ -16,7 +16,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | parsley, mint and dill, chopped | Parsley, fresh (SR 11297) | 5 | 1.8 | 0.1 | 0.3 | 0.04 | 0.00 | 0.0 | 0.01 | 3 | 0.2 |
 | parsley, mint and dill, chopped | Spearmint, fresh (SR 02064) | 3 | 2.1 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 1 | 0.2 |
 | parsley, mint and dill, chopped | Dill weed, fresh (FDC 172233) | 2 | 0.9 | 0.1 | 0.1 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
-| butter beans (400 g), rinsed and dried | Lima beans, large, mature seeds, canned (FDC 174254) | 240 | 189.6 | 11.8 | 35.8 | 0.00 | 0.00 | 0.4 | 0.09 | 806 | 11.5 |
+| canned butter beans, rinsed and dried (one 400 g tin) | Lima beans, large, mature seeds, canned (FDC 174254) | 240 | 189.6 | 11.8 | 35.8 | 0.00 | 0.00 | 0.4 | 0.09 | 806 | 11.5 |
 | oil-packed tuna, drained and flaked into chunks | Fish, tuna, light, canned in oil, drained solids (FDC 173708) | 190 | 376.2 | 55.3 | 0.0 | 0.00 | 0.00 | 15.6 | 2.91 | 790 | 0.0 |
 | **Total** | | | 1398 | 73.6 | 63.0 | 14.59 | 1.51 | 97.5 | 14.41 | 2801 | 18.1 |
 

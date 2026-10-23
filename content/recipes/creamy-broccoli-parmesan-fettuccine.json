@@ -1,0 +1,148 @@
+{
+  "slug": "creamy-broccoli-parmesan-fettuccine",
+  "title": "Creamy Broccoli and Parmesan Fettuccine",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "ribbons-fresh-egg-tagliatelle-fettuccine-pappardelle",
+  "dish_title": "Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle)",
+  "flavour": "Broccoli & parmesan",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "fresh-egg-tagliatelle",
+  "changes_from_base": "Dried fettuccine in a cream sauce with pan-browned broccoli, lemon and Parmesan, in place of a simple butter-and-cheese finish on handmade egg pasta.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Fettuccine with pan-browned broccoli simmered in cream, finished with lemon and Parmesan.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large non-stick frying pan",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Broccoli",
+      "qty": 25,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Broccoli",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Broccoli",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large head broccoli (about 550 g), florets in 2.5 cm pieces, stalk peeled and thinly sliced"
+    },
+    {
+      "group": "Broccoli",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Broccoli",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Broccoli",
+      "qty": 300,
+      "unit": "ml",
+      "item": "double cream",
+      "note": "divided"
+    },
+    {
+      "group": "Broccoli",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Pasta",
+      "qty": 450,
+      "unit": "g",
+      "item": "dried fettuccine"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 20,
+      "unit": "g",
+      "item": "fine salt for 4 litres of pasta water (0.5%)",
+      "note": "about 3.25 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon"
+    },
+    {
+      "group": "To finish",
+      "qty": 45,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown the broccoli",
+      "text": "Heat the butter and oil in the pan over medium-high heat until foaming. Add the broccoli and salt and cook about 5 min until browned in spots; the browning adds a nutty depth the cream would otherwise lack. Stir in the garlic for 30 s."
+    },
+    {
+      "title": "Simmer",
+      "text": "Pour in 200 ml of the cream with the chilli, bring to the boil, then lower the heat and simmer 6-7 min until the broccoli is tender. The sauce will still be thin."
+    },
+    {
+      "title": "Cook the pasta",
+      "text": "Boil the fettuccine in 4 litres salted water until al dente. Save a mug of the water, drain and return to the pot."
+    },
+    {
+      "title": "Finish",
+      "text": "Add the broccoli sauce and the remaining 100 ml cream and toss over medium heat 1-2 min until thickened. Off the heat, stir in the lemon zest, juice and Parmesan, adding water as needed for a glossy sauce."
+    }
+  ],
+  "tips": [
+    "Let the broccoli sit undisturbed so it browns.",
+    "Slice the peeled stalk thinly so it cooks with the florets.",
+    "Add the lemon off the heat so the cream does not split."
+  ],
+  "storage": "Cool and refrigerate in an airtight container within 2 hours for up to 2 days. Reheat in a pan with a splash of water until piping hot (74 °C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 559,
+    "protein_g": 16.3,
+    "carbs_g": 64.0,
+    "sugar_g": 5.0,
+    "free_sugar_g": 0.1,
+    "fat_g": 27.1,
+    "satfat_g": 15.5,
+    "salt_g": 1.17,
+    "fibre_g": 4.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Creamy fettuccine with browned broccoli florets and grated Parmesan.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

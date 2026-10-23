@@ -1,0 +1,190 @@
+{
+  "slug": "pesto-bechamel-lasagne",
+  "title": "Pesto Béchamel Lasagne",
+  "category": "pasta-noodles",
+  "cuisine": "Italian (Ligurian-inspired)",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "sheets-baked-lasagne",
+  "dish_title": "Sheets/baked (lasagne)",
+  "flavour": "Pesto",
+  "flavour_order": 106,
+  "access": "premium",
+  "base_recipe": "lasagne-bolognese",
+  "changes_from_base": "Meat-free and green: every layer is a basil pesto béchamel, finished with Parmesan and toasted pine nuts instead of ragù.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A green lasagne layered with basil pesto béchamel and topped with Parmesan and toasted pine nuts.",
+  "servings": 10,
+  "prep_min": 40,
+  "cook_min": 60,
+  "difficulty": "medium",
+  "equipment": [
+    "medium saucepan",
+    "whisk",
+    "large pot",
+    "spider or slotted spoon",
+    "salad spinner or clean tea towel",
+    "blender",
+    "rimmed baking sheet",
+    "23 x 33 cm baking dish",
+    "foil"
+  ],
+  "ingredients": [
+    {
+      "group": "Béchamel",
+      "qty": 100,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 55,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 1300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Béchamel",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "grated nutmeg"
+    },
+    {
+      "group": "Pesto",
+      "qty": 110,
+      "unit": "g",
+      "item": "basil leaves"
+    },
+    {
+      "group": "Pesto",
+      "qty": 18,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for blanching",
+      "note": "about 1 tbsp; most goes down the drain"
+    },
+    {
+      "group": "Pesto",
+      "qty": 120,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Pesto",
+      "qty": 35,
+      "unit": "g",
+      "item": "pine nuts, toasted"
+    },
+    {
+      "group": "Pesto",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Pesto",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Pesto",
+      "qty": 55,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "Pesto",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "grated lemon zest"
+    },
+    {
+      "group": "Assembly",
+      "qty": 17,
+      "unit": "pc",
+      "item": "dried lasagne sheets (curly-edged if you can find them)"
+    },
+    {
+      "group": "Assembly",
+      "qty": 30,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "Assembly",
+      "qty": 35,
+      "unit": "g",
+      "item": "pine nuts, toasted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "White sauce",
+      "text": "Melt the butter in the saucepan over medium heat, whisk in the flour for 1 min without colouring, then slowly whisk in the milk. Bring to the boil, add the pepper and nutmeg and whisk 1 min more until smooth and thick. Pour into a large bowl to cool for 20 min."
+    },
+    {
+      "title": "Blanch the basil",
+      "text": "Bring 4 litres water to the boil with the blanching salt, drop in the basil for 5-10 s, then lift it out and spin or squeeze dry. Keep the water. Blanching sets the green colour so the pesto stays bright through baking."
+    },
+    {
+      "title": "Pesto",
+      "text": "Blend the basil with the oil, pine nuts, garlic and salt until smooth, then stir it into the béchamel with the 55 g Parmesan and the lemon zest."
+    },
+    {
+      "title": "Cook the sheets",
+      "text": "Heat the oven to 190 °C (170 °C fan). Bring the basil water back to the boil and cook the sheets until fully tender. Drain onto the oiled baking sheet, turn to coat and cut 2 in half."
+    },
+    {
+      "title": "Layer",
+      "text": "Spread a ladle of sauce in the oiled dish and make 5 layers of sheets and sauce, with a half sheet filling the gap each time, ending with sauce. Scatter over the 30 g Parmesan and the remaining pine nuts."
+    },
+    {
+      "title": "Bake",
+      "text": "Cover with oiled foil and bake 20 min, then uncover and bake 25-30 min until spotty brown and bubbling. Rest 20 min before cutting."
+    }
+  ],
+  "tips": [
+    "Blanch the basil only a few seconds.",
+    "Cool the béchamel before adding the pesto.",
+    "Cook the sheets fully; the sauce is thick."
+  ],
+  "storage": "Cool, cover and refrigerate within 2 hours for up to 3 days, or freeze portions for up to 2 months. Reheat covered in a 180 °C oven until piping hot (74 °C) in the centre.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 494,
+    "protein_g": 14.1,
+    "carbs_g": 40.7,
+    "sugar_g": 8.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 31.0,
+    "satfat_g": 10.9,
+    "salt_g": 1.17,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A slice of pale green pesto lasagne topped with golden pine nuts.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

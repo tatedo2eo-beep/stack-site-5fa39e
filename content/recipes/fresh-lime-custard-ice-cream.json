@@ -1,0 +1,140 @@
+{
+  "slug": "fresh-lime-custard-ice-cream",
+  "title": "Fresh Lime Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Lime",
+  "flavour_order": 135,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Lime zest rubbed into the sugar and steeped in the custard, finished with fresh lime juice, instead of vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic French custard, made sharp and fragrant with lime: the zest is rubbed into the sugar and steeped in the hot custard, and fresh juice goes in just before chilling. Creamy but properly zingy.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 8,
+      "unit": "g",
+      "item": "finely grated lime zest (about 4 limes)"
+    },
+    {
+      "group": "Custard",
+      "qty": 140,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 30,
+      "unit": "ml",
+      "item": "fresh lime juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make lime sugar",
+      "text": "Rub about three quarters of the lime zest into the sugar with your fingertips until it smells strongly of lime and feels slightly damp. Cover the remaining zest so it does not dry out."
+    },
+    {
+      "title": "Warm the dairy",
+      "text": "Put the cream, milk, lime sugar and salt in the saucepan and stir over medium heat until the sugar has dissolved and the dairy is steaming."
+    },
+    {
+      "title": "Temper the yolks",
+      "text": "Whisk the yolks in the heatproof bowl, slowly whisk in about a third of the hot dairy, then pour everything back into the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat until the custard reaches 77-80 °C and coats the spatula."
+    },
+    {
+      "title": "Steep",
+      "text": "Take the pan off the heat and leave for 30 min so the zest can perfume the custard."
+    },
+    {
+      "title": "Add the juice",
+      "text": "Stir in the lime juice and the reserved zest, then strain into a bowl set in the iced water. Once cool, chill for at least 4 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn until thick, then pack into the container and freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Zest the limes before juicing them; it is far easier.",
+    "A common mistake is adding the juice to the hot custard, which can make it grainy. Wait until it is off the heat and steeped.",
+    "Use only the green zest; the white pith underneath tastes bitter."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 335,
+    "protein_g": 4.8,
+    "carbs_g": 21.6,
+    "sugar_g": 21.0,
+    "free_sugar_g": 17.5,
+    "fat_g": 26.2,
+    "satfat_g": 15.7,
+    "salt_g": 0.18,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -2,7 +2,7 @@
 Dish: Panzanella / flavour: Chicken. Private file, not published.
 
 ## Sources actually opened
-- [Grilled Chicken Panzanella (Serious Eats)](https://www.seriouseats.com/grilled-chicken-panzanella-recipe) [Tier 1 (locked list): Serious Eats]: Grilled baguette and chicken; tomatoes, cucumber, red onion, olives, basil; red wine and balsamic vinaigrette; rest 15 min. _(fetched 200; recipe (ingredients and steps) read)_
+- [Grilled Chicken Panzanella (Serious Eats)](https://www.seriouseats.com/grilled-chicken-panzanella-recipe) [Tier 1 (locked list): Serious Eats]: Grilled baguette and chicken; tomatoes, cucumber, red onion, olives, basil; two-vinegar vinaigrette; rest 15 min. _(fetched 200; recipe (ingredients and steps) read)_
 - [Skillet Chicken and White Bean Panzanella Salad (America's Test Kitchen)](https://www.americastestkitchen.com/recipes/6478-skillet-chicken-and-white-bean-panzanella-salad) [Tier 1 (locked list): America's Test Kitchen]: Chicken browned, then baked on bread cubes in the same skillet; tomatoes with juice, cannellini, onion and basil in vinaigrette; arugula and shaved Parmesan. _(fetched 200; recipe (ingredients and steps) read)_
 - [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
 - [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
@@ -12,7 +12,7 @@ Dish: Panzanella / flavour: Chicken. Private file, not published.
 ## Own cooking judgment
 - Metric quantities and our own wording
 - Fewer, regrouped steps in a different order
-- Cider vinegar in place of wine and balsamic vinegars; animal-rennet-free cheese
+- Cider vinegar for the vinaigrette; animal-rennet-free cheese
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

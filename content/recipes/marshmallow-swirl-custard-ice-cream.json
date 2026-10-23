@@ -1,0 +1,172 @@
+{
+  "slug": "marshmallow-swirl-custard-ice-cream",
+  "title": "Marshmallow Swirl Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Marshmallow",
+  "flavour_order": 139,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Half-yolk vanilla custard with a homemade gelatine-free marshmallow (Italian meringue) swirl folded through.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic vanilla custard made lighter with four yolks, then swirled with homemade, gelatine-free marshmallow whipped from egg whites and hot syrup. Soft, sweet ribbons run through every scoop.",
+  "servings": 8,
+  "prep_min": 35,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "stand mixer or electric hand whisk",
+    "small saucepan",
+    "sugar thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Custard",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Marshmallow swirl",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg whites, at room temperature (pasteurised if needed)"
+    },
+    {
+      "group": "Marshmallow swirl",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cream of tartar"
+    },
+    {
+      "group": "Marshmallow swirl",
+      "qty": 40,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Marshmallow swirl",
+      "qty": 75,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Marshmallow swirl",
+      "qty": 80,
+      "unit": "g",
+      "item": "liquid glucose or light corn syrup"
+    },
+    {
+      "group": "Marshmallow swirl",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse the dairy",
+      "text": "Bring the milk and cream just to the boil, stir in the 2 tsp vanilla and leave off the heat for 30 min."
+    },
+    {
+      "title": "Make the custard",
+      "text": "Whisk the yolks, 100 g sugar and salt until pale, whisk in the warm dairy and pour it back into the pan."
+    },
+    {
+      "title": "Cook and chill",
+      "text": "Stir over low heat until the custard reaches 77-80 °C and coats the spatula. Strain, cool in the iced water and chill for at least 4 h."
+    },
+    {
+      "title": "Boil the syrup",
+      "text": "Heat the water, 75 g sugar and glucose in the small saucepan with the sugar thermometer clipped on. Do not stir once it boils."
+    },
+    {
+      "title": "Whip the whites",
+      "text": "When the syrup reaches 107 °C, start whisking the egg whites and cream of tartar to soft peaks."
+    },
+    {
+      "title": "Make the marshmallow",
+      "text": "At 115 °C, pour the syrup in a thin stream down the inside of the bowl with the mixer on medium-low. Whisk on high for 7-8 min until thick, glossy and cool, then beat in the 1/2 tsp vanilla."
+    },
+    {
+      "title": "Churn and swirl",
+      "text": "Churn the custard until thick but still soft. Fold in the marshmallow with just a few strokes so it stays in streaks, then freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Pour the syrup against the bowl, not onto the whisk, or it will spin into threads.",
+    "A common mistake is over-folding; the swirl disappears into the ice cream.",
+    "The marshmallow keeps for a day at room temperature in a sealed container if you make it ahead."
+  ],
+  "storage": "Freeze, covered, for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 331,
+    "protein_g": 5.1,
+    "carbs_g": 33.7,
+    "sugar_g": 33.4,
+    "free_sugar_g": 29.7,
+    "fat_g": 20.2,
+    "satfat_g": 12.1,
+    "salt_g": 0.23,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

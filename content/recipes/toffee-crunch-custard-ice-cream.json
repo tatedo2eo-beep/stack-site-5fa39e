@@ -1,0 +1,146 @@
+{
+  "slug": "toffee-crunch-custard-ice-cream",
+  "title": "Toffee Crunch Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Toffee",
+  "flavour_order": 136,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Brown sugar custard with chopped hard butter toffee folded through; cold-start method with the yolks and sugar whisked in the pan.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Based on our classic French custard, this version uses part brown sugar for a deeper caramel taste and has chopped butter toffee folded through after churning. Each spoonful has a little crunch.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "freezer bag and rolling pin"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 100,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Mix-ins",
+      "qty": 150,
+      "unit": "g",
+      "item": "hard butter toffee (gelatine-free), chopped into small pieces"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make a paste",
+      "text": "In the saucepan, whisk the yolks with the brown and caster sugars and 2 tbsp of the milk until smooth, with no lumps of sugar."
+    },
+    {
+      "title": "Add the liquid",
+      "text": "Gradually whisk in the remaining milk and then the cream."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over medium-low heat until the custard reaches 77-80 °C. Draw a finger across the coated spatula: a clean line means it is ready."
+    },
+    {
+      "title": "Season",
+      "text": "Off the heat, stir in the salt and vanilla."
+    },
+    {
+      "title": "Chill",
+      "text": "Strain, cool in the iced water and refrigerate for at least 4 h, or overnight for the best texture."
+    },
+    {
+      "title": "Prepare the toffee",
+      "text": "Chop the toffee into mostly pea-sized pieces with a few larger shards, and keep them in the freezer until needed."
+    },
+    {
+      "title": "Churn and fold",
+      "text": "Churn the custard, fold in the frozen toffee quickly, then freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Check the toffee label: choose a gelatine-free hard butter toffee, not a soft chewy caramel.",
+    "A common mistake is folding in room-temperature toffee, which sticks together. Freeze it first.",
+    "For the cleanest pieces, put the toffee in a freezer bag and tap it with a rolling pin."
+  ],
+  "storage": "Freeze, covered, for up to 2 weeks. The toffee slowly softens after about a week.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 393,
+    "protein_g": 5.1,
+    "carbs_g": 33.7,
+    "sugar_g": 32.5,
+    "free_sugar_g": 28.8,
+    "fat_g": 27.0,
+    "satfat_g": 15.9,
+    "salt_g": 0.4,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

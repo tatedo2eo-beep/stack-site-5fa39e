@@ -1,0 +1,210 @@
+{
+  "slug": "cheese-tomato-lasagne-anchovy-sauce",
+  "title": "Cheese and Tomato Lasagne",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "sheets-baked-lasagne",
+  "dish_title": "Sheets/baked (lasagne)",
+  "flavour": "Tomato",
+  "flavour_order": 104,
+  "access": "premium",
+  "base_recipe": "lasagne-bolognese",
+  "changes_from_base": "Meat-free: a rich tomato sauce deepened with anchovy, layered with a pecorino cream sauce and fontina instead of ragù and béchamel.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A meat-free lasagne with a deep tomato sauce, a pecorino cream sauce and fontina, browned on top.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 75,
+  "difficulty": "medium",
+  "equipment": [
+    "large saucepan",
+    "mixing bowl",
+    "clean tea towel",
+    "23 x 33 cm baking dish",
+    "foil",
+    "baking tray (to catch drips)"
+  ],
+  "ingredients": [
+    {
+      "group": "Cheese sauce",
+      "qty": 90,
+      "unit": "g",
+      "item": "pecorino, finely grated"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 225,
+      "unit": "g",
+      "item": "cottage cheese"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Cheese sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "onion, finely chopped"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 6,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1.5 tsp"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried oregano"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 4,
+      "unit": "pc",
+      "item": "anchovy fillets, rinsed and minced"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 800,
+      "unit": "g",
+      "item": "tin crushed tomatoes"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 400,
+      "unit": "g",
+      "item": "tin chopped tomatoes, drained"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "tomato purée"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 20,
+      "unit": "g",
+      "item": "pecorino, grated"
+    },
+    {
+      "group": "Assembly",
+      "qty": 14,
+      "unit": "pc",
+      "item": "dried lasagne sheets"
+    },
+    {
+      "group": "Assembly",
+      "qty": 225,
+      "unit": "g",
+      "item": "fontina, grated"
+    },
+    {
+      "group": "Assembly",
+      "qty": 15,
+      "unit": "g",
+      "item": "pecorino, grated"
+    },
+    {
+      "group": "Assembly",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "chopped basil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cheese sauce",
+      "text": "Whisk the 90 g pecorino, cottage cheese, cream, garlic, cornflour and pepper until smooth."
+    },
+    {
+      "title": "Tomato sauce",
+      "text": "Heat the oil in the saucepan over medium heat and cook the onion with the sugar, chilli and oregano for 10 min until soft. Add the garlic and anchovies for 2 min; they melt away and give a savoury depth without tasting of fish. Stir in both tins of tomatoes, the purée and the 20 g pecorino, and simmer about 20 min until slightly thickened."
+    },
+    {
+      "title": "Soak the sheets",
+      "text": "Meanwhile cover the sheets with boiling water in the baking dish and leave 15 min until pliable, separating them with a knife tip. Drain, rinse with cold water, pat dry and dry the dish. Cut 2 sheets in half. Heat the oven to 190 °C (170 °C fan)."
+    },
+    {
+      "title": "Layer",
+      "text": "Spread about 360 ml tomato sauce in the dish and make a layer of 3½ sheets, then half the cheese sauce and 60 g fontina. Add a second layer of sheets, 360 ml tomato sauce and 60 g fontina, then a third layer with the rest of the cheese sauce and 60 g fontina. Finish with the last sheets and the remaining tomato sauce, fontina and pecorino."
+    },
+    {
+      "title": "Bake",
+      "text": "Cover with oiled foil and bake 35 min. Uncover, raise the oven to 250 °C (230 °C fan) and bake 10-15 min until lightly browned. Rest 20 min and scatter with basil before cutting."
+    }
+  ],
+  "tips": [
+    "Mince the anchovies finely so they melt into the sauce.",
+    "Alternate the half sheets to keep the lasagne level.",
+    "Watch the final high-heat browning closely."
+  ],
+  "storage": "Cool, cover and refrigerate within 2 hours for up to 3 days, or freeze portions for up to 2 months. Reheat covered in a 180 °C oven until piping hot (74 °C) in the centre.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "fish"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 495,
+    "protein_g": 23.0,
+    "carbs_g": 40.3,
+    "sugar_g": 8.6,
+    "free_sugar_g": 0.7,
+    "fat_g": 27.5,
+    "satfat_g": 13.2,
+    "salt_g": 1.68,
+    "fibre_g": 4.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A slice of tomato and cheese lasagne with red sauce, melted cheese and basil.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

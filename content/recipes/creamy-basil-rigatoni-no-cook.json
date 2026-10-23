@@ -1,0 +1,135 @@
+{
+  "slug": "creamy-basil-rigatoni-no-cook",
+  "title": "Creamy No-Cook Basil Sauce with Rigatoni",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "short-penne-rigatoni-fusilli",
+  "dish_title": "Short (penne, rigatoni, fusilli)",
+  "flavour": "Basil",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "penne-arrabbiata",
+  "changes_from_base": "A no-cook sauce of cottage cheese, Gorgonzola, basil and fresh tomato blended in the processor replaces the spicy cooked tomato sauce.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Rigatoni tossed in a no-cook sauce of cottage cheese, Gorgonzola, basil and fresh tomato blended in minutes.",
+  "servings": 2,
+  "prep_min": 10,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "serving bowl",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta",
+      "qty": 170,
+      "unit": "g",
+      "item": "dried rigatoni"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 15,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.5%)",
+      "note": "about 2.5 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Sauce",
+      "qty": 170,
+      "unit": "g",
+      "item": "cottage cheese"
+    },
+    {
+      "group": "Sauce",
+      "qty": 30,
+      "unit": "g",
+      "item": "Gorgonzola"
+    },
+    {
+      "group": "Sauce",
+      "qty": 30,
+      "unit": "g",
+      "item": "basil leaves"
+    },
+    {
+      "group": "Sauce",
+      "qty": 150,
+      "unit": "g",
+      "item": "ripe tomato, in large chunks"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "pine nuts (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the pasta",
+      "text": "Boil the rigatoni in 3 litres lightly salted water until al dente."
+    },
+    {
+      "title": "Blend the sauce",
+      "text": "Meanwhile chop the garlic in the processor, then add the cottage cheese, Gorgonzola and basil and blend until smooth and pale green. The cottage cheese gives a creamy body with much less fat than cream."
+    },
+    {
+      "title": "Add the tomato",
+      "text": "Pulse the tomato in just until it is in small pieces, so the sauce keeps some texture. Stir in the pepper and pine nuts and scrape into the serving bowl."
+    },
+    {
+      "title": "Toss",
+      "text": "Drain the rigatoni well and stir it into the sauce straight away; the heat of the pasta warms the sauce through. Serve at once."
+    }
+  ],
+  "tips": [
+    "Use the ripest tomato you can find.",
+    "Swap the Gorgonzola for Parmesan for a milder sauce.",
+    "Toss straight after draining so the heat warms the sauce."
+  ],
+  "storage": "Best eaten straight away; refrigerate leftovers within 2 hours for up to 1 day.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 532,
+    "protein_g": 26.2,
+    "carbs_g": 71.9,
+    "sugar_g": 7.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 15.7,
+    "satfat_g": 5.0,
+    "salt_g": 1.66,
+    "fibre_g": 4.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Rigatoni coated in a pale green creamy basil sauce with flecks of tomato in a white bowl.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

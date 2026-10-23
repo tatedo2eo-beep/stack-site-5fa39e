@@ -1,0 +1,167 @@
+{
+  "slug": "roasted-courgette-aubergine-lasagne",
+  "title": "Roasted Courgette and Aubergine Lasagne",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "sheets-baked-lasagne",
+  "dish_title": "Sheets/baked (lasagne)",
+  "flavour": "Zucchini & eggplant",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "lasagne-bolognese",
+  "changes_from_base": "Meat-free: roasted courgette and aubergine with a light garlic tomato sauce and mozzarella replace the ragù and béchamel.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A meat-free lasagne of roasted courgette and aubergine, garlicky tomato sauce, mozzarella and Parmesan.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 90,
+  "difficulty": "medium",
+  "equipment": [
+    "2 baking trays",
+    "frying pan (25 cm)",
+    "measuring jug",
+    "23 x 33 cm baking dish",
+    "foil",
+    "baking tray (to catch drips)"
+  ],
+  "ingredients": [
+    {
+      "group": "Vegetables",
+      "qty": 450,
+      "unit": "g",
+      "item": "courgettes (zucchini), in 1 cm dice"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 450,
+      "unit": "g",
+      "item": "aubergines (eggplant), in 1 cm dice"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 800,
+      "unit": "g",
+      "item": "tin crushed tomatoes"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped basil or parsley"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Assembly",
+      "qty": 15,
+      "unit": "pc",
+      "item": "no-pre-cook lasagne sheets"
+    },
+    {
+      "group": "Assembly",
+      "qty": 450,
+      "unit": "g",
+      "item": "mozzarella, grated"
+    },
+    {
+      "group": "Assembly",
+      "qty": 40,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast the vegetables",
+      "text": "Heat the oven to 200 °C (180 °C fan) with shelves in the upper and lower thirds. Toss the courgette and aubergine with the oil, garlic, salt and pepper, spread over the two oiled trays and roast about 35 min, turning now and then, until golden. Roasting drives off water so the layers stay firm."
+    },
+    {
+      "title": "Sauce",
+      "text": "Warm the oil and garlic in the frying pan over medium heat for 2 min without browning, stir in the tomatoes and simmer 10 min. Add the herbs and salt, pour into the jug and top up with water to 830 ml; the extra liquid is what softens the no-cook sheets."
+    },
+    {
+      "title": "Layer",
+      "text": "Spread 120 ml sauce over the base of the oiled dish and lay 3 sheets across, not touching. Spread over about 180 g vegetables, 120 ml sauce, 75 g mozzarella and 2 tbsp Parmesan. Repeat 3 more times, then add the last sheets, the remaining sauce, mozzarella and Parmesan."
+    },
+    {
+      "title": "Bake",
+      "text": "Cover with oiled foil and bake on the middle shelf at 190 °C (170 °C fan) for 15 min, then uncover and bake about 25 min until bubbling and spotted brown. Rest 10 min."
+    }
+  ],
+  "tips": [
+    "Roast the vegetables until well browned.",
+    "Do not skip topping the sauce up with water.",
+    "Keep the sheets from touching the sides of the dish."
+  ],
+  "storage": "Cool, cover and refrigerate within 2 hours for up to 3 days, or freeze portions for up to 2 months. Reheat covered in a 180 °C oven until piping hot (74 °C) in the centre.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 432,
+    "protein_g": 20.2,
+    "carbs_g": 34.2,
+    "sugar_g": 7.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 24.6,
+    "satfat_g": 10.9,
+    "salt_g": 1.79,
+    "fibre_g": 5.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Lasagne layered with roasted courgette and aubergine and melted mozzarella.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

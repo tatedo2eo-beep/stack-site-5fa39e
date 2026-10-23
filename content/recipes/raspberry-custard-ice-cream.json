@@ -1,0 +1,143 @@
+{
+  "slug": "raspberry-custard-ice-cream",
+  "title": "Raspberry Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Raspberry",
+  "flavour_order": 142,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "All-cream custard with sieved raspberry purée stirred in; no milk or vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Based on our classic custard but made with cream alone, then mixed with a sweet-sharp raspberry purée that is sieved to remove the seeds. Vivid pink and full of fruit.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "blender"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Raspberry purée",
+      "qty": 450,
+      "unit": "g",
+      "item": "raspberries, fresh or thawed frozen"
+    },
+    {
+      "group": "Raspberry purée",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Raspberry purée",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice, plus more to taste"
+    },
+    {
+      "group": "Raspberry purée",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the custard",
+      "text": "Simmer the cream with the 130 g sugar and salt until the sugar dissolves. Whisk the yolks, temper with a third of the cream and return to the pan."
+    },
+    {
+      "title": "Thicken",
+      "text": "Stir over low heat until the custard reaches 77-80 °C and coats the spatula. Strain into a bowl."
+    },
+    {
+      "title": "Blend the berries",
+      "text": "Blend the raspberries with the 40 g sugar, lemon juice and pinch of salt. It should be sweet with a tart edge; adjust with more sugar or juice."
+    },
+    {
+      "title": "Sieve in",
+      "text": "Press the purée through the sieve into the custard to catch the seeds, then stir well."
+    },
+    {
+      "title": "Chill",
+      "text": "Cool in the iced water and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn, then freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Frozen raspberries work very well; thaw them fully first.",
+    "A common mistake is skipping the sieve, leaving the ice cream full of hard seeds.",
+    "The same method works with strawberries; there is no need to sieve them."
+  ],
+  "storage": "Freeze, covered, for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 359,
+    "protein_g": 4.5,
+    "carbs_g": 30.2,
+    "sugar_g": 25.5,
+    "free_sugar_g": 21.2,
+    "fat_g": 25.6,
+    "satfat_g": 15.1,
+    "salt_g": 0.19,
+    "fibre_g": 3.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

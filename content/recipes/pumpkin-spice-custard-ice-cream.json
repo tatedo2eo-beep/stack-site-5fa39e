@@ -1,0 +1,165 @@
+{
+  "slug": "pumpkin-spice-custard-ice-cream",
+  "title": "Pumpkin Spice Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Pumpkin",
+  "flavour_order": 140,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Pumpkin purée and warm spices cooked into the custard with part brown sugar; less dairy to keep it scoopable.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic French custard turned autumnal: pumpkin purée and warm spices are cooked straight into the base, with part brown sugar for a pie-like flavour. Smooth, spiced and scoopable.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 270,
+      "unit": "g",
+      "item": "plain canned pumpkin purée (not pie filling)"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Spices",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Spices",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Spices",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Spices",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Custard",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 80,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 90,
+      "unit": "g",
+      "item": "light brown sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Beat the yolks",
+      "text": "In the heatproof bowl, whisk the yolks with both sugars until thick and a shade paler."
+    },
+    {
+      "title": "Heat the pumpkin",
+      "text": "In the saucepan, whisk the pumpkin, milk, cream, spices and salt together and bring just to a simmer, stirring."
+    },
+    {
+      "title": "Temper",
+      "text": "Slowly whisk half the hot pumpkin mixture into the yolks, then pour it all back into the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir with the spatula over low heat until the custard reaches 77-80 °C and has clearly thickened."
+    },
+    {
+      "title": "Strain and chill",
+      "text": "Off the heat, stir in the vanilla, then press it through the sieve. Cool in the iced water and chill for at least 4 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn, then freeze for 2-4 h, until firm enough to scoop."
+    }
+  ],
+  "tips": [
+    "Check the can: plain pumpkin purée, not sweetened and spiced pie filling.",
+    "A common mistake is skipping the sieve; it gives a silky finish.",
+    "Serve with crushed ginger biscuits for crunch."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 297,
+    "protein_g": 4.1,
+    "carbs_g": 27.3,
+    "sugar_g": 25.0,
+    "free_sugar_g": 21.0,
+    "fat_g": 19.8,
+    "satfat_g": 11.9,
+    "salt_g": 0.18,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

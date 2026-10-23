@@ -1,0 +1,140 @@
+{
+  "slug": "cookies-and-cream-custard-ice-cream",
+  "title": "Cookies and Cream Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Cookies & cream",
+  "flavour_order": 138,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Extra vanilla and slightly less yolk for a very white base, with broken chocolate sandwich cookies folded in at the end.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic French custard with extra vanilla and slightly fewer yolks for a whiter base, then packed with broken chocolate sandwich cookies after churning. The real-custard version of a favourite.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Mix-ins",
+      "qty": 200,
+      "unit": "g",
+      "item": "chocolate sandwich cookies (cream-filled), broken into chunks"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the milk",
+      "text": "Warm the milk and half the cream in the saucepan until steaming. Pour the other half of the cream into a bowl sitting in the iced water."
+    },
+    {
+      "title": "Whisk the yolks",
+      "text": "Whisk the yolks, sugar and salt until pale."
+    },
+    {
+      "title": "Temper",
+      "text": "Slowly whisk in a third of the hot milk, then tip everything back into the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat until the custard reaches 77-80 °C and coats the spatula."
+    },
+    {
+      "title": "Cool fast",
+      "text": "Strain the custard straight into the cold cream, which stops it cooking, and stir in the vanilla. Chill for at least 4 h."
+    },
+    {
+      "title": "Break the cookies",
+      "text": "Break the cookies into uneven chunks, some large and some small, and chill them."
+    },
+    {
+      "title": "Churn and fold",
+      "text": "Churn until thick, fold in the cookie chunks and freeze for at least 3 h."
+    }
+  ],
+  "tips": [
+    "Leaving some chunks large gives the classic look; crumbs alone turn it grey.",
+    "A common mistake is adding the cookies too early in the machine, where they get ground to dust.",
+    "If it has been frozen overnight, let it soften for 15 min before scooping."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks; the cookies soften gradually.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 445,
+    "protein_g": 5.6,
+    "carbs_g": 37.2,
+    "sugar_g": 29.2,
+    "free_sugar_g": 25.8,
+    "fat_g": 30.6,
+    "satfat_g": 16.8,
+    "salt_g": 0.43,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

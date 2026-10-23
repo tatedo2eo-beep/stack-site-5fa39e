@@ -1,0 +1,130 @@
+{
+  "slug": "honey-thyme-custard-ice-cream",
+  "title": "Honey and Thyme Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Thyme",
+  "flavour_order": 143,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Honey replaces the sugar and fresh thyme is infused instead of vanilla; four yolks.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic French custard with honey in place of sugar and fresh thyme infused in the dairy instead of vanilla. Floral, gently herby and lovely with fruit.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large fresh thyme sprigs",
+      "note": "strained out; nutrition counts a little"
+    },
+    {
+      "group": "Custard",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 250,
+      "unit": "g",
+      "item": "runny honey"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse",
+      "text": "Bring the milk, cream and thyme to the boil, then cover and leave off the heat for 20 min. Strain and pour the dairy back into the pan."
+    },
+    {
+      "title": "Whisk the yolks",
+      "text": "Whisk the yolks in the heatproof bowl."
+    },
+    {
+      "title": "Temper",
+      "text": "Whisk in about 250 ml of the warm dairy a little at a time, then the honey, then the rest of the dairy."
+    },
+    {
+      "title": "Cook",
+      "text": "Return to the pan and stir over low heat until the custard reaches 77-80 °C and coats the spatula. Do not let it simmer."
+    },
+    {
+      "title": "Chill",
+      "text": "Stir in the salt, strain, cool in the iced water and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn, then freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "A mild floral honey lets the thyme come through; strong dark honey dominates.",
+    "A common mistake is adding honey straight to the yolks, which can make them seize. Add some warm dairy first.",
+    "Lemon thyme works beautifully here too."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks. Honey keeps it a little softer than sugar does.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 347,
+    "protein_g": 4.2,
+    "carbs_g": 29.3,
+    "sugar_g": 29.0,
+    "free_sugar_g": 25.7,
+    "fat_g": 25.1,
+    "satfat_g": 15.3,
+    "salt_g": 0.18,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}
