@@ -111,7 +111,7 @@
   "steps": [
     {
       "title": "Prepare",
-      "text": "Heat the oven to 180 °C (160 °C fan) and line the 23 cm tin. Purée: blitz the courgette with the melted butter, eggs and vanilla in a food processor until completely smooth."
+      "text": "Line the 23 cm square tin with baking paper and heat the oven to 180 °C (160 °C fan). Purée: blitz the courgette with the melted butter, eggs and vanilla in a food processor until completely smooth."
     },
     {
       "title": "Batter",
@@ -159,5 +159,8 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": null,
-  "image_alt": "Brownie squares with a thick, glossy chocolate fudge icing."
+  "image_alt": "Brownie squares with a thick, glossy chocolate fudge icing.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
 }

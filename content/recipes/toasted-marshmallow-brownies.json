@@ -117,7 +117,7 @@
     },
     {
       "title": "Bake",
-      "text": "Spread in the tin and bake 28-32 min, until a cocktail stick comes out with a few moist crumbs."
+      "text": "Pour into the lined tin, level it and bake for 28-32 min; a cocktail stick should come out with a few damp crumbs."
     },
     {
       "title": "Toast",
@@ -156,5 +156,8 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": null,
-  "image_alt": "Brownie bars covered in puffed, golden toasted mini marshmallows."
+  "image_alt": "Brownie bars covered in puffed, golden toasted mini marshmallows.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
 }
