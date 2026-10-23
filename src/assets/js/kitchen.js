@@ -153,3 +153,7 @@
   setTier(); measure(); kick();
   window.__kx = { get cur() { return cur; }, get S() { return S; }, get sp() { return sp; } };
 })();
+(function () { var e = document.querySelectorAll('.page-home .ehero'); if (!e.length) return;
+  if (!('IntersectionObserver' in window)) { e.forEach(function (x) { x.classList.add('vis'); }); return; }
+  var io = new IntersectionObserver(function (es) { es.forEach(function (x) { if (x.isIntersecting) { x.target.classList.add('vis'); io.unobserve(x.target); } }); }, { rootMargin: '800px 0px' });
+  e.forEach(function (x) { io.observe(x); }); })();

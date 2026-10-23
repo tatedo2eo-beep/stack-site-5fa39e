@@ -166,3 +166,7 @@ html[data-pal=blush-charcoal]{--accentText:#9f3851}
 @media print{.rcat{break-inside:avoid}}
 /* E · Magazine, single column (<1100 px): the sticky ingredients card slid over the method, tips and cat while scrolling. */
 @media (max-width:1099px){.ebody .eing{position:static;max-height:none;overflow:visible}}
+.bignum{line-height:1!important;height:1em;overflow:visible} /* CLS: fixed box so web-font swap cannot move content */
+.page-home .ehero:not(.vis){background-image:none} /* bg photo deferred until near viewport (kitchen.js) */
+@font-face{font-family:'LF fb';src:local('Arial'),local('Arimo'),local('Helvetica'),local('Roboto');size-adjust:103%}
+@font-face{font-family:'PD fb';src:local('Times New Roman'),local('Times'),local('Tinos'),local('Noto Serif'),local('Georgia');size-adjust:110%}

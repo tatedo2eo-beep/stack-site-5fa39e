@@ -22,7 +22,7 @@ ${cfg.noindex ? '<meta name="robots" content="noindex,nofollow">\n' : ''}<link r
 <meta name="theme-color" content="#111010">
 <link rel="icon" href="${u('favicon.svg')}" type="image/svg+xml"><link rel="icon" href="${u('favicon-32.png')}" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="${u('apple-touch-icon.png')}">
 <script>(function(h){h.classList.replace('no-js','js');try{var L=${JSON.stringify(Object.fromEntries(D.DESIGNS.map(x => [x.k, x.pals.map(p => p.id)])))},d=localStorage.getItem('design'),p=localStorage.getItem('pal');if(L[d]){h.dataset.design=d;h.dataset.pal=L[d].indexOf(p)>-1?p:L[d][0]}var q=location.search.match(/[?&]preview=(premium|off)/);if(q){if(q[1]=='off')localStorage.removeItem('preview');else localStorage.setItem('preview','premium')}if(localStorage.getItem('preview')=='premium')h.classList.add('is-premium')}catch(e){}})(document.documentElement)</script>
-${p.preload ? `<link rel="preload" as="image" href="${p.preload}" fetchpriority="high">
+<link rel="preload" as="font" type="font/woff2" href="${u('fonts/LibreFranklin-normal-latin.woff2')}" crossorigin><link rel="preload" as="font" type="font/woff2" href="${u('fonts/PlayfairDisplay-normal-latin.woff2')}" crossorigin>${p.preload ? `<link rel="preload" as="image" href="${p.preload}" fetchpriority="high">
 ` : ''}<link rel="stylesheet" href="${assets.css}">${(p.styles || []).map(s => `<link rel="stylesheet" href="${s}">`).join('')}
 ${p.head || ''}${p.jsonld ? `<script type="application/ld+json">${JSON.stringify(p.jsonld).replace(/</g, '\\u003c')}</script>` : ''}
 </head>

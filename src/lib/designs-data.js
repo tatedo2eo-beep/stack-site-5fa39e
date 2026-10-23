@@ -6,8 +6,8 @@ module.exports = [
   "name": "E · Magazine",
   "lay": "Full-bleed photos, top menu, big numbered steps",
   "fonts": [
-   "'Playfair Display',serif",
-   "'Libre Franklin',sans-serif"
+   "'Playfair Display','PD fb',serif",
+   "'Libre Franklin','LF fb',sans-serif"
   ],
   "pals": [
    {
