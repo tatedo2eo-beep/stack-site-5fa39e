@@ -1,0 +1,130 @@
+{
+  "slug": "thin-soft-lavash-flatbread",
+  "title": "Thin Soft Lavash",
+  "category": "snacks-sides",
+  "cuisine": "Armenian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "lavash",
+  "dish_title": "Lavash",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Paper-thin, soft and pale flatbreads cooked for seconds on a very hot surface until blistered, then stacked under a towel to stay pliable.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film",
+    "rolling pin",
+    "baking steel, stone or heavy griddle",
+    "pastry brush",
+    "clean tea towel"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 350,
+      "unit": "g",
+      "item": "strong white bread flour",
+      "note": "plus a little for dusting"
+    },
+    {
+      "group": "Dough",
+      "qty": 4,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 220,
+      "unit": "ml",
+      "item": "water",
+      "note": "warm, about 30 °C"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix and knead",
+      "text": "Whisk the flour and yeast together, then add the honey, olive oil, salt and warm water at about 30 °C and mix to a soft dough. Knead for 6-8 minutes until smooth and only a little sticky. The small amount of oil keeps the finished breads soft and easy to fold."
+    },
+    {
+      "title": "Rest the dough",
+      "text": "Cover and leave for 45 minutes at room temperature. The dough will relax and puff a little rather than double, which is all it needs, since lavash wants tenderness rather than a big rise."
+    },
+    {
+      "title": "Divide and relax",
+      "text": "Tip the dough out and divide it into 6 pieces of about 95 g. Shape into smooth rounds, cover loosely and rest for 20-30 minutes. Fully relaxed dough rolls out paper-thin without springing back."
+    },
+    {
+      "title": "Heat the surface",
+      "text": "For the oven, place a baking steel or stone on a high shelf and heat the oven to its highest setting for at least 30 minutes; for the hob, heat a heavy griddle over high heat until very hot. Intense heat turns the water in the thin dough to steam instantly, puffing it before it can dry out."
+    },
+    {
+      "title": "Roll very thin",
+      "text": "On a lightly floured surface, roll one piece at a time into an oval about 25 × 18 cm, so thin you can almost see through it. Brush off any excess flour, which would otherwise scorch and taste bitter."
+    },
+    {
+      "title": "Cook in seconds",
+      "text": "Cook each sheet for about 20-30 seconds a side on the very hot surface, or close under a hot grill (broiler) if using the steel or stone, until it puffs with small blisters and is only lightly spotted. Stop while it is still pale; longer cooking makes it crisp rather than soft."
+    },
+    {
+      "title": "Stack under a towel",
+      "text": "Stack each lavash under a clean tea towel as it comes off the heat, then roll and cook the rest. The trapped steam keeps the whole stack soft and foldable."
+    }
+  ],
+  "tips": [
+    "The most common mistake is a surface that is not hot enough, which dries the bread before it puffs; give the steel or griddle the full heating time.",
+    "Roll one sheet while the previous one cooks to keep a steady rhythm.",
+    "If the dough keeps springing back, cover it and wait 5 minutes more before rolling again.",
+    "Lightly spritz a lavash that has dried out with water and warm it for a few seconds to soften it again."
+  ],
+  "storage": "Keep the stacked lavash wrapped or in an airtight container at room temperature for up to 2 days, or freeze for up to 1 month. Warm briefly in a dry pan or wrapped in foil in a low oven to soften. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 236,
+    "protein_g": 7.3,
+    "carbs_g": 43.5,
+    "sugar_g": 1.1,
+    "free_sugar_g": 1.0,
+    "fat_g": 3.3,
+    "satfat_g": 0.5,
+    "salt_g": 0.98,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "lavash-advanced.jpg",
+  "image_alt": "A stack of very thin, soft, pale lavash sheets with light brown blisters, folded on a dark board.",
+  "inspired_by": [
+    "Serious Eats",
+    "King Arthur Baking"
+  ]
+}

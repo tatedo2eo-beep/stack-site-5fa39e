@@ -1,0 +1,149 @@
+{
+  "slug": "soft-coconut-milk-coco-bread",
+  "title": "Soft Coconut Milk Coco Bread",
+  "category": "breakfast",
+  "cuisine": "Jamaican",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "coco-bread",
+  "dish_title": "Coco bread",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Pillowy, pale half-moon buns made with warm coconut milk and butter, folded so they split open neatly around a patty or just a spread of butter.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film",
+    "digital scales",
+    "rolling pin",
+    "2 baking trays lined with baking paper",
+    "pastry brush",
+    "instant-read thermometer",
+    "clean tea towel",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour",
+      "note": "plus a little for dusting"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1¼ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 320,
+      "unit": "ml",
+      "item": "coconut milk",
+      "note": "warmed to about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 50,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled"
+    },
+    {
+      "group": "Finish",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter, melted",
+      "note": "for brushing"
+    },
+    {
+      "group": "Trays",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter, for the trays"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dough",
+      "text": "Stir the flour, yeast, sugar and salt together in a large bowl. Mix the coconut milk, warmed to about 38 °C, with the 50 g melted butter, pour it in and bring everything into a soft, slightly sticky dough. Warm liquid gets the yeast going quickly, and the coconut fat keeps the crumb tender."
+    },
+    {
+      "title": "Knead until smooth",
+      "text": "Knead for 8-10 minutes by hand, or 5-6 minutes in a mixer with the dough hook, until the dough is smooth, elastic and springs back when pressed. A well-developed dough holds the gas that makes these buns so light."
+    },
+    {
+      "title": "First rise",
+      "text": "Cover and leave somewhere warm for 1-1½ hours, until doubled in size and puffy. A finger pressed gently into the top should leave a dent that fills back slowly."
+    },
+    {
+      "title": "Divide and rest",
+      "text": "Tip the dough onto a lightly floured surface and divide it into 8 pieces of about 115 g. Roll each into a smooth ball, cover and rest for 10 minutes. The short rest relaxes the gluten so the balls roll out without shrinking back."
+    },
+    {
+      "title": "Roll, butter and fold",
+      "text": "Grease the trays with the 10 g butter. Roll each ball into a round about 15 cm across and 4 mm thick, brush the top lightly with melted butter and fold it in half into a half-moon, pressing the curved edge gently. The butter layer stops the two halves fusing, so each bun opens cleanly once baked."
+    },
+    {
+      "title": "Prove",
+      "text": "Set the buns well apart on the trays, cover loosely and leave for 30-45 minutes until puffy. Spacing them gives each bun room to rise without merging into its neighbour."
+    },
+    {
+      "title": "Bake gently",
+      "text": "Heat the oven to 175 °C (155 °C fan) and bake for 18-22 minutes, until just set and only very lightly golden underneath. The tops should stay pale and matt rather than brown or shiny, and the centre should read 88-93 °C. A moderate oven cooks the enriched dough through before the sugar and fat on the surface can colour."
+    },
+    {
+      "title": "Brush and steam",
+      "text": "Brush the hot buns lightly with the remaining melted butter, then stack them in a folded tea towel while any others bake. Trapped steam softens the crust, giving the characteristic tender, fluffy finish."
+    }
+  ],
+  "tips": [
+    "Check the coconut milk temperature: much above 40 °C can slow or harm the yeast, so aim for comfortably warm, not hot.",
+    "A common mistake is over-baking until the tops turn golden; coco bread should stay pale, so start checking the temperature at 18 minutes.",
+    "Brush only a light film of butter before folding; too much makes the halves slide apart as they prove.",
+    "Split and fill while warm, or reheat briefly wrapped in foil to bring back the softness."
+  ],
+  "storage": "Keep cooled buns in an airtight bag at room temperature for up to 2 days, or freeze for up to 1 month. Warm wrapped in foil in a low oven for a few minutes before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 421,
+    "protein_g": 8.8,
+    "carbs_g": 53.1,
+    "sugar_g": 6.4,
+    "free_sugar_g": 6.2,
+    "fat_g": 19.8,
+    "satfat_g": 14.1,
+    "salt_g": 0.93,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "coco-bread-basic.jpg",
+  "image_alt": "Three pale, soft folded coco bread buns on a dark plate, one split open to show the fluffy white crumb.",
+  "inspired_by": [
+    "Serious Eats",
+    "Food Network Kitchen"
+  ]
+}

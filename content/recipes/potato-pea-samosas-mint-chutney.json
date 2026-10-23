@@ -1,0 +1,272 @@
+{
+  "slug": "potato-pea-samosas-mint-chutney",
+  "title": "Potato and Pea Samosas with Coriander-Mint Chutney",
+  "category": "snacks-sides",
+  "cuisine": "Indian",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "samosas",
+  "dish_title": "Samosas",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Crisp, blistered pastry triangles filled with a tempered potato and pea mixture, served warm with a bright coriander and mint chutney.",
+  "servings": 6,
+  "prep_min": 60,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "medium saucepan",
+    "colander",
+    "large frying pan",
+    "large bowl",
+    "rolling pin",
+    "small bowl of water",
+    "small blender or food processor",
+    "large heavy pot (at least 5 l)",
+    "deep-fry thermometer",
+    "spider or slotted spoon",
+    "wire rack set over a tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 250,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "plus a little for dusting"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Pastry",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "plain whole-milk yoghurt"
+    },
+    {
+      "group": "Pastry",
+      "qty": 75,
+      "unit": "ml",
+      "item": "ice-cold water",
+      "note": "plus up to 15 ml more"
+    },
+    {
+      "group": "Filling",
+      "qty": 700,
+      "unit": "g",
+      "item": "floury potatoes, peeled and cut into 2 cm cubes"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cumin seeds"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fennel seeds"
+    },
+    {
+      "group": "Filling",
+      "qty": 4,
+      "unit": "g",
+      "item": "brown mustard seeds",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "finely grated fresh ginger"
+    },
+    {
+      "group": "Filling",
+      "qty": 80,
+      "unit": "g",
+      "item": "frozen peas, thawed"
+    },
+    {
+      "group": "Filling",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh coriander, chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Filling",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Chutney",
+      "qty": 40,
+      "unit": "g",
+      "item": "fresh coriander, leaves and tender stems"
+    },
+    {
+      "group": "Chutney",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh mint leaves"
+    },
+    {
+      "group": "Chutney",
+      "qty": 1,
+      "unit": "pc",
+      "item": "green chilli, roughly chopped"
+    },
+    {
+      "group": "Chutney",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Chutney",
+      "qty": 2.1,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 0.5 tsp"
+    },
+    {
+      "group": "Chutney",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Chutney",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "cold water"
+    },
+    {
+      "group": "To fry",
+      "qty": 1500,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the pastry",
+      "text": "Mix the flour and pastry salt, then rub in the 3 tbsp oil with your fingertips until it looks like damp sand. Stir in the yoghurt and enough ice-cold water to form a firm, smooth dough that is not sticky, knead for 1 minute, wrap and rest for 30 minutes. Coating the flour with oil limits gluten, giving a short, crisp crust rather than a chewy one."
+    },
+    {
+      "title": "Boil the potatoes",
+      "text": "Cover the potato cubes with cold unsalted water, bring to the boil and simmer for 8-10 minutes until just tender. Drain and leave to steam dry, so the filling stays fluffy rather than wet."
+    },
+    {
+      "title": "Temper the spices",
+      "text": "Heat the 2 tbsp oil in the frying pan over medium-high heat and add the cumin, fennel and mustard seeds. Fry for 30-60 seconds until the mustard seeds pop, which releases their aromatic oils into the fat. Add the turmeric, chilli flakes and onion and cook for 5-6 minutes until soft."
+    },
+    {
+      "title": "Finish the filling",
+      "text": "Stir in the garlic and ginger for 1 minute, then add the potatoes, peas and filling salt and cook for 3 minutes, lightly crushing some of the potato so the mixture holds together. Off the heat, stir in the coriander and lemon juice, spread out in a bowl and cool completely. Warm filling would soften the pastry and make it tear."
+    },
+    {
+      "title": "Blend the chutney",
+      "text": "Blend the coriander, mint, green chilli, lemon juice, sugar, chutney salt and water until smooth and bright green. Chill until needed; the acidity of the lemon helps keep the colour vivid."
+    },
+    {
+      "title": "Shape the samosas",
+      "text": "Divide the pastry into 6 pieces and roll each into an 18 cm round about 2 mm thick, then cut in half. Wet the straight edge of one half, fold it into a cone, overlap and press the seam, then fill with about 2 rounded tbsp filling. Wet the open edge and pinch it firmly closed into a triangle, making 12 in all; any gaps will let oil in."
+    },
+    {
+      "title": "Fry low and slow",
+      "text": "Heat 5-6 cm of oil in the heavy pot to 160 °C. Fry 3-4 samosas at a time for 8-10 minutes, turning, until blistered, deep golden and crisp, and bring the oil back to 160 °C between batches. Starting cooler keeps the pastry from puffing away from the filling and lets it crisp right through."
+    },
+    {
+      "title": "Serve warm",
+      "text": "Drain on a wire rack and serve warm with the chilled chutney. Resting on a rack rather than paper keeps the bases crisp."
+    }
+  ],
+  "tips": [
+    "Keep the pastry firm: a soft dough absorbs oil and turns greasy.",
+    "The most common mistake is frying too hot, which browns the outside fast and leaves pale, bubbly pastry; use a thermometer and hold 160 °C.",
+    "Never fill an oil pot more than half full, and lower samosas in gently, away from you.",
+    "Make the filling a day ahead and chill it; it is easier to shape cold.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Refrigerate cooled samosas for up to 2 days and reheat on a tray in a 200 °C (180 °C fan) oven for 10-12 minutes until crisp and piping hot. The chutney keeps for 2 days in the fridge. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 469,
+    "protein_g": 8.5,
+    "carbs_g": 59.6,
+    "sugar_g": 3.7,
+    "free_sugar_g": 0.5,
+    "fat_g": 22.4,
+    "satfat_g": 1.8,
+    "salt_g": 1.28,
+    "fibre_g": 5.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "samosas-basic.jpg",
+  "image_alt": "Three golden fried samosas, one broken open to show the potato and pea filling, with a small bowl of green chutney.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "King Arthur Baking"
+  ]
+}

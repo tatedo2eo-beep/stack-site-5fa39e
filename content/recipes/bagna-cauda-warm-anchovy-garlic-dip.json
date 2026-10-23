@@ -1,0 +1,140 @@
+{
+  "slug": "bagna-cauda-warm-anchovy-garlic-dip",
+  "title": "Bagna Cauda (Warm Anchovy and Garlic Dip)",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "bagna-cauda",
+  "dish_title": "Bagna cauda",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A warm, golden dip of anchovies and mellow garlic melted into olive oil and butter, served with crisp raw vegetables and tender small potatoes.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "small heavy saucepan",
+    "wooden spoon",
+    "small whisk",
+    "fondue pot, small flameproof dish or heatproof bowl over a pan of hot water",
+    "medium saucepan",
+    "large platter"
+  ],
+  "ingredients": [
+    {
+      "group": "Dip",
+      "qty": 100,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dip",
+      "qty": 8,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Dip",
+      "qty": 50,
+      "unit": "g",
+      "item": "oil-packed anchovy fillets, drained",
+      "note": "about 16 fillets"
+    },
+    {
+      "group": "Dip",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter, cut into small pieces"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 400,
+      "unit": "g",
+      "item": "small waxy potatoes"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "fennel bulb, cut into thin wedges"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "red pepper, cut into strips"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 3,
+      "unit": "pc",
+      "item": "celery sticks, cut into batons"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small head radicchio, leaves separated",
+      "note": "about 150 g"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil the potatoes",
+      "text": "Cover the potatoes with cold unsalted water, bring to the boil and simmer for 15-18 minutes until a knife slides in easily. Drain and leave to cool slightly. Unsalted water is enough, because the anchovies bring all the salt this dish needs."
+    },
+    {
+      "title": "Prepare the platter",
+      "text": "Arrange the fennel, red pepper, celery, radicchio and potatoes on a large platter. Crisp, cold vegetables contrast with the warm, rich dip."
+    },
+    {
+      "title": "Melt the anchovies",
+      "text": "Put the olive oil, garlic and anchovies into the small saucepan over the lowest heat. Cook for 12-15 minutes, stirring and mashing with a wooden spoon, until the anchovies dissolve and the garlic is soft and mellow. Keep the oil barely shimmering: browned garlic turns bitter, while slow cooking tames its sharpness."
+    },
+    {
+      "title": "Whisk in the butter",
+      "text": "Whisk in the butter a few pieces at a time, letting each melt before adding more, until the dip turns golden and lightly emulsified. Adding it gradually keeps the milk solids suspended rather than separating out."
+    },
+    {
+      "title": "Keep it warm",
+      "text": "Pour into a fondue pot or warm dish and keep it warm over a low flame or a pan of hot water, stirring now and then. Serve straight away with the vegetables for dipping."
+    }
+  ],
+  "tips": [
+    "Grate the garlic very finely so it melts into the sauce rather than staying in chewy pieces.",
+    "The most common mistake is too much heat; if the garlic starts to colour, pull the pan off at once.",
+    "Taste before adding anything: tinned anchovies vary in saltiness, and no extra salt is needed.",
+    "Stir before each round of dipping, as the dip settles as it sits."
+  ],
+  "storage": "Refrigerate leftover dip covered for up to 3 days. Rewarm gently over low heat without boiling and whisk well before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "celery",
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 309,
+    "protein_g": 5.1,
+    "carbs_g": 18.8,
+    "sugar_g": 4.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 24.6,
+    "satfat_g": 7.5,
+    "salt_g": 1.53,
+    "fibre_g": 3.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bagna-cauda-basic.jpg",
+  "image_alt": "A small pot of warm golden bagna cauda surrounded by fennel, red pepper strips, celery, radicchio and small potatoes.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Food Network Kitchen"
+  ]
+}
