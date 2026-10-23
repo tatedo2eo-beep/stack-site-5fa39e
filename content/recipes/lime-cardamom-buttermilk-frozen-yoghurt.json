@@ -1,0 +1,183 @@
+{
+  "slug": "lime-cardamom-buttermilk-frozen-yoghurt",
+  "title": "Lime and Cardamom Buttermilk Frozen Yoghurt",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "frozen-yogurt",
+  "dish_title": "Frozen yogurt",
+  "flavour": "Lime & cardamom",
+  "flavour_order": 12,
+  "access": "premium",
+  "base_recipe": "frozen-yogurt-strained-tangy",
+  "changes_from_base": "A cooked milk, cream and cream-cheese base thickened with cornflour carries buttermilk, Greek yoghurt, lime syrup and cardamom, instead of plain strained yoghurt.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A sophisticated frozen yoghurt with bright lime juice and aromatic cardamom. Smooth, tangy and beautifully perfumed.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "vegetable peeler",
+    "small saucepan",
+    "small bowl",
+    "large bowl",
+    "bowl of iced water",
+    "4 litre saucepan",
+    "whisk",
+    "sieve",
+    "freezer container",
+    "baking paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Lime syrup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "fresh lime juice (3-4 limes; peel the zest of 3 in wide strips first)"
+    },
+    {
+      "group": "Lime syrup",
+      "qty": 35,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 170,
+      "unit": "g",
+      "item": "strained plain Greek yoghurt"
+    },
+    {
+      "group": "Base",
+      "qty": 120,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Base",
+      "qty": 350,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "2 tbsp for the slurry"
+    },
+    {
+      "group": "Base",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "cornflour (14 g)"
+    },
+    {
+      "group": "Base",
+      "qty": 57,
+      "unit": "g",
+      "item": "cream cheese, softened"
+    },
+    {
+      "group": "Base",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "half with the cream cheese, half in the pan"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Base",
+      "qty": 78,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Base",
+      "qty": 3,
+      "unit": "pc",
+      "item": "lime zest strips (from above)"
+    },
+    {
+      "group": "Base",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Syrup",
+      "text": "Simmer 120 ml fresh lime juice with 35 g caster sugar until the sugar dissolves, then cool."
+    },
+    {
+      "title": "Base",
+      "text": "Mix 170 g strained Greek yoghurt and 120 ml buttermilk together; stir 2 tbsp milk with 2 tbsp cornflour to a smooth slurry."
+    },
+    {
+      "title": "Cream",
+      "text": "Whisk 57 g cream cheese, half of 130 g caster sugar and ¼ tsp fine salt until smooth, and prepare an ice bath."
+    },
+    {
+      "title": "Custard",
+      "text": "Bring the remaining milk and sugar, 120 ml double cream, 78 g light corn syrup or glucose syrup and the lime zest strips to a rolling boil; simmer for 4 min. Off the heat, whisk in the cornflour slurry and boil again, stirring, for about 1 min until slightly thick."
+    },
+    {
+      "title": "Combine",
+      "text": "Whisk the hot custard gradually into the cream cheese mixture, then whisk in the yoghurt mix, lime syrup and ¼ tsp ground cardamom."
+    },
+    {
+      "title": "Cool",
+      "text": "Stir the mixture over the ice bath until cold, about 30 min."
+    },
+    {
+      "title": "Churn",
+      "text": "Strain into the ice-cream maker and churn until thick."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pack into a container, press baking paper on the surface, cover and freeze for at least 4 h; keeps for 2 months."
+    }
+  ],
+  "tips": [
+    "Use fresh lime juice for the best bright flavour; squeeze and strain to remove pulp.",
+    "Cool the custard over the ice bath for about 30 min, until completely cold.",
+    "This keeps for 2 months, making it perfect for making ahead.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store in a sealed freezer container for up to 2 months.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 248,
+    "protein_g": 4.8,
+    "carbs_g": 35.6,
+    "sugar_g": 32.9,
+    "free_sugar_g": 28.3,
+    "fat_g": 10.6,
+    "satfat_g": 6.3,
+    "salt_g": 0.37,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale cream frozen yoghurt with flecks of lime zest.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

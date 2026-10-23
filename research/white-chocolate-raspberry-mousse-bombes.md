@@ -24,4 +24,5 @@ Changes made:
 - Salt given in grams (06-G1): 0.5 tsp fine salt -> 3 g
 - Salt given in grams (06-G1): 1 pinch fine salt -> 0.5 g
 - Added the do-not-eat-raw-dough note (03-K10)
+- Salt given in grams (06-G1): 1 pinch salt -> 0.5 g
 - Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

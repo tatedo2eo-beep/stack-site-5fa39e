@@ -1,0 +1,129 @@
+{
+  "slug": "coffee-frozen-yoghurt",
+  "title": "Coffee Frozen Yoghurt",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "frozen-yogurt",
+  "dish_title": "Frozen yogurt",
+  "flavour": "Coffee",
+  "flavour_order": 7,
+  "access": "premium",
+  "base_recipe": "frozen-yogurt-strained-tangy",
+  "changes_from_base": "Low-fat yoghurt is drained only briefly and set with a little gelatine in hot milk flavoured with instant espresso, instead of a long-strained yoghurt with golden syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A smooth, creamy frozen yoghurt infused with the rich flavour of instant espresso. Serve straight from the ice-cream maker for soft-serve indulgence, or freeze for a firmer treat.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "fine sieve",
+    "jug",
+    "small bowl",
+    "small saucepan",
+    "lidded freezer container"
+  ],
+  "ingredients": [
+    {
+      "group": "Frozen yoghurt",
+      "qty": 490,
+      "unit": "g",
+      "item": "plain low-fat yoghurt"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "beef gelatine powder"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 415,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "60 ml to soak the gelatine, 355 ml heated"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 6.5,
+      "unit": "tsp",
+      "item": "instant espresso powder",
+      "note": "6-7 tsp"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Drain",
+      "text": "Drain the 490 g yoghurt in a fine sieve over a jug in the fridge for 1-2 h until 120 ml liquid has run off; discard it."
+    },
+    {
+      "title": "Bloom",
+      "text": "Sprinkle the 2 tsp gelatine over 60 ml milk, stand for 10 min stirring often."
+    },
+    {
+      "title": "Warm",
+      "text": "Heat 355 ml milk with 200 g caster sugar and 6-7 tsp instant espresso powder, stirring until dissolved."
+    },
+    {
+      "title": "Combine",
+      "text": "Off the heat, whisk in the bloomed gelatine until dissolved, then cool to room temperature."
+    },
+    {
+      "title": "Mix",
+      "text": "Stir the cooled mixture into the drained yoghurt with 1 tsp vanilla."
+    },
+    {
+      "title": "Chill",
+      "text": "Chill to 4 °C or below."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn in the ice-cream maker until frozen, then serve soft or freeze in a sealed container for up to 2 days."
+    }
+  ],
+  "tips": [
+    "The gelatine needs the full 10 min to bloom in cold milk for a silky smooth texture.",
+    "Cool the mixture completely to room temperature before stirring into the yoghurt to prevent lumps.",
+    "Eat within 2 days for the creamiest texture; it becomes icy after longer storage."
+  ],
+  "storage": "Store in a sealed freezer container for up to 2 days; beyond that it becomes icy.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 165,
+    "protein_g": 4.9,
+    "carbs_g": 31.5,
+    "sugar_g": 31.0,
+    "free_sugar_g": 25.0,
+    "fat_g": 2.5,
+    "satfat_g": 1.5,
+    "salt_g": 0.14,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Scoops of rich coffee-coloured frozen yoghurt in a bowl.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

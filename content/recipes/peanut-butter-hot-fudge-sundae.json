@@ -1,0 +1,154 @@
+{
+  "slug": "peanut-butter-hot-fudge-sundae",
+  "title": "Peanut Butter Hot Fudge Sundae",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sundaes",
+  "dish_title": "Sundaes",
+  "flavour": "Peanut butter",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "hot-fudge-sundae-whipped-cream-cherry",
+  "changes_from_base": "A cocoa and brown-sugar fudge sauce enriched with smooth peanut butter replaces the plain hot fudge, with chopped salted peanuts on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A classic American sundae with a rich, luscious warm chocolate and peanut butter sauce. Topped with whipped cream, peanuts and a cherry.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "whisk",
+    "hand mixer or whisk",
+    "8 sundae glasses",
+    "ice-cream scoop"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 133,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Sauce",
+      "qty": 20,
+      "unit": "g",
+      "item": "Dutch-process cocoa powder"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Sauce",
+      "qty": 50,
+      "unit": "g",
+      "item": "dark chocolate (not chips), finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 135,
+      "unit": "g",
+      "item": "smooth peanut butter (not the natural kind)"
+    },
+    {
+      "group": "To serve",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "vanilla or chocolate ice cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream, whipped"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "g",
+      "item": "salted peanuts, chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 8,
+      "unit": "pc",
+      "item": "cocktail cherries"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk",
+      "text": "Whisk 133 g light brown sugar, 20 g Dutch-process cocoa powder and ¼ tsp fine salt together in a medium saucepan until lump-free."
+    },
+    {
+      "title": "Cream",
+      "text": "Whilst whisking, slowly stream in 360 ml double cream. Bring to a simmer over medium heat, stirring gently, until the sugar has melted, about 3 min."
+    },
+    {
+      "title": "Chocolate",
+      "text": "Off the heat, whisk in 50 g finely chopped dark chocolate until completely smooth."
+    },
+    {
+      "title": "Peanut",
+      "text": "Whisk in 135 g smooth peanut butter until the sauce is smooth and well combined, then cool slightly."
+    },
+    {
+      "title": "Assemble",
+      "text": "Spoon a little of the warm sauce into a sundae glass, then add a generous scoop of vanilla or chocolate ice cream."
+    },
+    {
+      "title": "Sauce",
+      "text": "Pour more of the warm sauce over the ice cream."
+    },
+    {
+      "title": "Top",
+      "text": "Add a dollop of whipped cream, scatter with some of the 60 g chopped salted peanuts and crown with a cocktail cherry."
+    }
+  ],
+  "tips": [
+    "The sauce keeps for a week in the fridge and reheats beautifully over gentle heat.",
+    "Use smooth, not natural, peanut butter for a silky sauce texture.",
+    "Assemble the sundae just before serving to keep the sauce warm and the ice cream cold."
+  ],
+  "storage": "The sauce keeps in an airtight container in the fridge for up to 1 week; reheat gently to serve.",
+  "allergens": [
+    "milk",
+    "soya",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 651,
+    "protein_g": 11.0,
+    "carbs_g": 45.9,
+    "sugar_g": 38.0,
+    "free_sugar_g": 33.6,
+    "fat_g": 49.7,
+    "satfat_g": 25.8,
+    "salt_g": 0.56,
+    "fibre_g": 3.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Sundae glass with scoops of ice cream, warm chocolate and peanut sauce, whipped cream and toppings.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "vanilla-pod-frozen-yoghurt",
+  "title": "Vanilla Pod Frozen Yoghurt",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "frozen-yogurt",
+  "dish_title": "Frozen yogurt",
+  "flavour": "Vanilla",
+  "flavour_order": 8,
+  "access": "premium",
+  "base_recipe": "frozen-yogurt-strained-tangy",
+  "changes_from_base": "Low-fat yoghurt is drained only briefly and set with a little gelatine in milk infused with a whole vanilla pod.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A creamy frozen yoghurt delicately flavoured with real vanilla pod seeds. The tiny black specks signal the real vanilla throughout.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "fine sieve",
+    "jug",
+    "small bowl",
+    "small saucepan",
+    "lidded freezer container"
+  ],
+  "ingredients": [
+    {
+      "group": "Frozen yoghurt",
+      "qty": 490,
+      "unit": "g",
+      "item": "plain low-fat yoghurt"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "beef gelatine powder"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 415,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "60 ml to soak the gelatine, 355 ml heated"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 175,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1,
+      "unit": "pc",
+      "item": "vanilla pod (13 cm), split lengthways"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Drain",
+      "text": "Drain the 490 g yoghurt in a fine sieve over a jug in the fridge for 1-2 h until 120 ml liquid has run off; discard it."
+    },
+    {
+      "title": "Bloom",
+      "text": "Sprinkle the 2 tsp gelatine over 60 ml milk, stand for 10 min stirring often."
+    },
+    {
+      "title": "Warm",
+      "text": "Heat 355 ml milk with 175 g caster sugar and the vanilla pod split lengthways, stirring until the sugar dissolves."
+    },
+    {
+      "title": "Combine",
+      "text": "Off the heat, whisk in the gelatine until dissolved. Scrape the vanilla seeds into the milk, whisk to spread them throughout, and discard the pod. Cool to room temperature."
+    },
+    {
+      "title": "Mix",
+      "text": "Stir the cooled mixture into the drained yoghurt."
+    },
+    {
+      "title": "Chill",
+      "text": "Chill to 4 °C or below."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn in the ice-cream maker until frozen, then serve soft or freeze in a sealed container for up to 2 days."
+    }
+  ],
+  "tips": [
+    "Split the vanilla pod lengthways and scrape out the seeds fully for maximum flavour and visual appeal.",
+    "Whisk the seeds thoroughly into the hot milk to distribute them evenly throughout the mixture.",
+    "Serve within 2 days of freezing for the smoothest, most luxurious texture."
+  ],
+  "storage": "Store in a sealed freezer container for up to 2 days for the best creamy consistency.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 150,
+    "protein_g": 4.8,
+    "carbs_g": 27.9,
+    "sugar_g": 27.8,
+    "free_sugar_g": 21.8,
+    "fat_g": 2.5,
+    "satfat_g": 1.5,
+    "salt_g": 0.14,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Vanilla bean frozen yoghurt with visible specks of vanilla seed.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

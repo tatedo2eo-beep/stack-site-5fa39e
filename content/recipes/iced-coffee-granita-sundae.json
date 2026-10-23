@@ -1,0 +1,150 @@
+{
+  "slug": "iced-coffee-granita-sundae",
+  "title": "Iced Coffee Granita Sundae",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sundaes",
+  "dish_title": "Sundaes",
+  "flavour": "Coffee",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "hot-fudge-sundae-whipped-cream-cherry",
+  "changes_from_base": "A no-churn condensed-milk ice cream, coffee granita and cocoa-coffee syrup replace the bought ice cream and hot fudge.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A sophisticated iced coffee dessert combining granita, ice cream and a silky chocolate-coffee syrup. Layers of texture and layers of flavour.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 0,
+  "difficulty": "medium",
+  "equipment": [
+    "2 shallow lidded freezer tubs",
+    "whisk",
+    "bowl",
+    "fork",
+    "6 tall glasses",
+    "ice-cream scoop"
+  ],
+  "ingredients": [
+    {
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "qty": 830,
+      "unit": "ml",
+      "item": "very strong hot black coffee"
+    },
+    {
+      "group": "Syrup",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cocoa powder"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 460,
+      "unit": "g",
+      "item": "sweetened condensed milk"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 480,
+      "unit": "ml",
+      "item": "single cream"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 240,
+      "unit": "ml",
+      "item": "crème fraîche"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "To serve",
+      "qty": 40,
+      "unit": "g",
+      "item": "dark chocolate shards (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Granita",
+      "text": "Dissolve 100 g caster sugar in 530 ml very strong hot black coffee, pour into a shallow lidded tub and cool to room temperature."
+    },
+    {
+      "title": "Syrup",
+      "text": "Stir the remaining 300 ml coffee with 100 g caster sugar and 2 tsp cocoa powder until dissolved, cover and chill."
+    },
+    {
+      "title": "Cream",
+      "text": "Whisk together 460 g sweetened condensed milk, 480 ml single cream, 240 ml crème fraîche, 1 tsp vanilla and 1 pinch salt; pour into another shallow tub."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze both tubs for 2 h."
+    },
+    {
+      "title": "Break",
+      "text": "Whisk the cream mixture hard to break the ice crystals, then freeze for 4 h or overnight."
+    },
+    {
+      "title": "Rake",
+      "text": "Rake the granita with a fork every hour for about 3 h until fully crystalline, or freeze overnight and rake again just before serving."
+    },
+    {
+      "title": "Layer",
+      "text": "Alternate scoops of the frozen cream mixture with the granita in a tall glass."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour the chilled chocolate-coffee syrup over and scatter with 40 g dark chocolate shards if desired."
+    }
+  ],
+  "tips": [
+    "Rake the granita hourly for the first few hours to break down the ice crystals into fine snow.",
+    "Use very strong coffee for maximum flavour intensity.",
+    "The granita and ice cream can be made the day before for convenience."
+  ],
+  "storage": "Keep the granita and the ice cream covered in the freezer and the syrup covered in the fridge; rake the granita again just before serving.",
+  "allergens": [
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 736,
+    "protein_g": 10.0,
+    "carbs_g": 82.7,
+    "sugar_g": 78.0,
+    "free_sugar_g": 76.7,
+    "fat_g": 41.4,
+    "satfat_g": 26.5,
+    "salt_g": 0.5,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Tall glass of layered iced coffee sundae with granita, ice cream and chocolate shards.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

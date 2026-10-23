@@ -1,0 +1,148 @@
+{
+  "slug": "maple-walnut-pineapple-sundae",
+  "title": "Maple Walnut and Pineapple Sundae",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sundaes",
+  "dish_title": "Sundaes",
+  "flavour": "Maple",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "hot-fudge-sundae-whipped-cream-cherry",
+  "changes_from_base": "Walnuts soaked overnight in dark maple syrup and crushed ripe pineapple replace the hot fudge and cherry, over banana ice cream.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A stunning sundae pairing toasted walnuts in dark maple syrup with crushed pineapple and whipped cream. Tropical meets classic autumn flavour.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "lidded container",
+    "knife and chopping board",
+    "potato masher",
+    "bowl",
+    "whisk",
+    "4 large sundae dishes",
+    "ice-cream scoop"
+  ],
+  "ingredients": [
+    {
+      "group": "Maple walnuts",
+      "qty": 100,
+      "unit": "g",
+      "item": "walnut halves, toasted"
+    },
+    {
+      "group": "Maple walnuts",
+      "qty": 240,
+      "unit": "ml",
+      "item": "dark maple syrup, plus extra"
+    },
+    {
+      "group": "Pineapple",
+      "qty": 330,
+      "unit": "g",
+      "item": "very ripe pineapple chunks"
+    },
+    {
+      "group": "Pineapple",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice (only if needed)"
+    },
+    {
+      "group": "Pineapple",
+      "qty": 4,
+      "unit": "g",
+      "item": "caster sugar (only if needed)",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 8,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "banana ice cream (or chocolate or coffee)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Toast 100 g walnut halves and cover with 240 ml dark maple syrup in a lidded container, adding more syrup to cover completely. Refrigerate overnight; keeps for 2 days."
+    },
+    {
+      "title": "Pineapple",
+      "text": "Mince 330 g very ripe pineapple chunks and crush with a potato masher; if holding, add a little lemon juice and sugar and chill for up to 2 days."
+    },
+    {
+      "title": "Cream",
+      "text": "Whip 120 ml double cream to soft peaks and whip in 2 tsp icing sugar."
+    },
+    {
+      "title": "Base",
+      "text": "Spread a thin layer of dark maple syrup in the bottom of each sundae dish."
+    },
+    {
+      "title": "Ice",
+      "text": "Add 4 scoops of banana, chocolate or coffee ice cream."
+    },
+    {
+      "title": "Walnuts",
+      "text": "Top with 4 tbsp of the maple walnuts."
+    },
+    {
+      "title": "Pineapple",
+      "text": "Top with 4 tbsp of the crushed pineapple."
+    },
+    {
+      "title": "Finish",
+      "text": "Crown with a generous dollop of whipped cream."
+    }
+  ],
+  "tips": [
+    "Toast the walnuts before covering with syrup to enhance their flavour.",
+    "Refrigerate the maple walnuts overnight to allow the flavours to meld.",
+    "Use very ripe pineapple for the sweetest, most intense flavour."
+  ],
+  "storage": "The maple walnuts keep for 2 days in the fridge; the crushed pineapple keeps for up to 2 days when lightly sweetened with lemon juice and sugar.",
+  "allergens": [
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 796,
+    "protein_g": 9.8,
+    "carbs_g": 101.8,
+    "sugar_g": 87.9,
+    "free_sugar_g": 78.2,
+    "fat_g": 41.8,
+    "satfat_g": 17.5,
+    "salt_g": 0.31,
+    "fibre_g": 3.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Sundae with ice cream, maple walnuts, crushed pineapple and whipped cream.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

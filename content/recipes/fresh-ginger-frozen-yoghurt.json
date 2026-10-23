@@ -1,0 +1,137 @@
+{
+  "slug": "fresh-ginger-frozen-yoghurt",
+  "title": "Fresh Ginger Frozen Yoghurt",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "frozen-yogurt",
+  "dish_title": "Frozen yogurt",
+  "flavour": "Ginger",
+  "flavour_order": 10,
+  "access": "premium",
+  "base_recipe": "frozen-yogurt-strained-tangy",
+  "changes_from_base": "Fresh and ground ginger are steeped in the warm gelatine whey before it is whisked back into the strained yoghurt.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A zingy frozen yoghurt with the warmth of fresh and ground ginger. Smooth, creamy and full of spiced ginger character.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 2,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "colander or sieve lined with three layers of muslin",
+    "large bowl",
+    "cling film",
+    "microwave-safe bowl",
+    "fine sieve",
+    "whisk",
+    "instant-read thermometer",
+    "airtight container"
+  ],
+  "ingredients": [
+    {
+      "group": "Frozen yoghurt",
+      "qty": 900,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "beef gelatine powder"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated fresh ginger"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "golden syrup"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Drain",
+      "text": "Drain the 900 g yoghurt in a colander lined with three layers of muslin, covered in the fridge for 8-12 h until 300 ml whey has drained."
+    },
+    {
+      "title": "Whey",
+      "text": "Discard 180 ml whey from the drained liquid. Sprinkle 1 tsp gelatine over the remaining 120 ml whey, stand for 5 min, then microwave for about 30 s until bubbling at the edges and dissolved."
+    },
+    {
+      "title": "Infuse",
+      "text": "Stir both 1 tbsp finely grated fresh ginger and 1 tsp ground ginger into the warm gelatine, cool for 5 min, then strain through a fine sieve, pressing the solids."
+    },
+    {
+      "title": "Mix",
+      "text": "Whisk 150 g caster sugar, 3 tbsp golden syrup, ⅛ tsp fine salt, the drained yoghurt and the ginger whey until the sugar dissolves."
+    },
+    {
+      "title": "Chill",
+      "text": "Chill in the fridge or over an ice bath to 4 °C or below."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn in the ice-cream maker for 25-35 min to thick soft-serve, about -6 °C."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze in an airtight container for at least 2 h; keeps for 5 days."
+    }
+  ],
+  "tips": [
+    "Strain the ginger whey carefully through a fine sieve to remove solids and achieve a silky texture.",
+    "Chill the mixture thoroughly to 4 °C before churning for the best results.",
+    "Churn until thick soft-serve consistency, then freeze for a firmer scoop."
+  ],
+  "storage": "Store in an airtight container in the freezer for up to 5 days.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 147,
+    "protein_g": 3.0,
+    "carbs_g": 28.9,
+    "sugar_g": 28.6,
+    "free_sugar_g": 25.1,
+    "fat_g": 2.5,
+    "satfat_g": 1.6,
+    "salt_g": 0.21,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Scoops of pale ivory ginger frozen yoghurt in a bowl.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

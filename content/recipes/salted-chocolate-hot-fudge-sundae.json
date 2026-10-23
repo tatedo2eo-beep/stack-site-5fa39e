@@ -1,0 +1,163 @@
+{
+  "slug": "salted-chocolate-hot-fudge-sundae",
+  "title": "Hot Fudge and Salted Chocolate Bits Sundae",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sundaes",
+  "dish_title": "Sundaes",
+  "flavour": "Chocolate",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "hot-fudge-sundae-whipped-cream-cherry",
+  "changes_from_base": "Frozen salted dark-chocolate bits and toasted almonds are layered with coffee and vanilla ice cream under a cream-based hot fudge.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A luxurious layered sundae with salted dark chocolate, two ice creams and a silky hot fudge. The almonds add crunch and sophistication.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "pie dish",
+    "cling film",
+    "heatproof bowl over a pan of simmering water (or microwave)",
+    "small saucepan",
+    "whisk",
+    "4 tall sundae glasses",
+    "long spoons"
+  ],
+  "ingredients": [
+    {
+      "group": "Salted bits",
+      "qty": 225,
+      "unit": "g",
+      "item": "dark chocolate (not chips), finely chopped"
+    },
+    {
+      "group": "Salted bits",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    },
+    {
+      "group": "Fudge",
+      "qty": 170,
+      "unit": "g",
+      "item": "dark chocolate (not chips), finely chopped"
+    },
+    {
+      "group": "Fudge",
+      "qty": 180,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Fudge",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Fudge",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 75,
+      "unit": "g",
+      "item": "toasted flaked almonds"
+    },
+    {
+      "group": "To serve",
+      "qty": 475,
+      "unit": "ml",
+      "item": "coffee ice cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 475,
+      "unit": "ml",
+      "item": "vanilla ice cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Bits",
+      "text": "Line a pie dish with cling film, melt 225 g finely chopped dark chocolate in a bowl over simmering water or on low in the microwave. Stir in ¾ tsp flaky sea salt, spread 3 mm thick on the film and cover with cling film."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for at least 45 min, then chop into bite-size pieces."
+    },
+    {
+      "title": "Fudge",
+      "text": "Stir together 170 g finely chopped dark chocolate, 180 ml double cream, 3 tbsp light corn syrup or glucose syrup and 2 tbsp caster sugar in a small saucepan over medium-low heat. Cook, stirring, until melted and just simmering, about 5 min."
+    },
+    {
+      "title": "Bubble",
+      "text": "Let the fudge bubble for 1-2 min more, stirring gently, until rich and glossy."
+    },
+    {
+      "title": "Build",
+      "text": "Scatter 75 g toasted flaked almonds and some of the salted chocolate bits in the bottom of a tall glass."
+    },
+    {
+      "title": "Coffee",
+      "text": "Add scoops of coffee ice cream, pour some warm fudge over and add more almonds and bits."
+    },
+    {
+      "title": "Vanilla",
+      "text": "Top with a scoop of vanilla ice cream, more fudge and whipped cream, then finish with almonds and bits."
+    }
+  ],
+  "tips": [
+    "The salted chocolate bits can be made ahead and frozen until serving.",
+    "Make the fudge just before assembling so it is still warm when it goes in.",
+    "Serve with a long spoon to reach all the layers."
+  ],
+  "storage": "Keep the salted chocolate bits in the freezer until needed; make the fudge just before serving and assemble the sundaes straight away.",
+  "allergens": [
+    "milk",
+    "soya",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 1391,
+    "protein_g": 19.0,
+    "carbs_g": 102.2,
+    "sugar_g": 74.4,
+    "free_sugar_g": 70.5,
+    "fat_g": 103.1,
+    "satfat_g": 57.6,
+    "salt_g": 1.0,
+    "fibre_g": 14.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Tall glass sundae with layered ice cream, dark chocolate bits, almonds and fudge sauce.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

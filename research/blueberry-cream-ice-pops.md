@@ -23,4 +23,5 @@ Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. It
 Changes made:
 - caster sugar: 1 tbsp → 12 g (CHECKLIST 1, weights in grams)
 - Salt given in grams (06-G1): 0.25 tsp fine sea salt -> 1.5 g
+- Salt given in grams (06-G1): 0.25 tsp fine salt -> 1.5 g
 - Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

@@ -1,0 +1,193 @@
+{
+  "slug": "caramel-peanut-vanilla-sundae",
+  "title": "Caramel Peanut Sundae",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sundaes",
+  "dish_title": "Sundaes",
+  "flavour": "Caramel",
+  "flavour_order": 5,
+  "access": "premium",
+  "base_recipe": "hot-fudge-sundae-whipped-cream-cherry",
+  "changes_from_base": "A home-churned vanilla custard ice cream with peanuts, a butter caramel and chocolate wafer pieces replace the bought ice cream and hot fudge.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "An impressive layered sundae combining silky homemade vanilla ice cream with salted peanuts, crispy wafers and a smooth caramel sauce. Pure indulgence.",
+  "servings": 4,
+  "prep_min": 40,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "small saucepan",
+    "medium saucepan",
+    "whisk",
+    "instant-read thermometer",
+    "sieve",
+    "bowl set over iced water",
+    "ice-cream maker",
+    "freezer container",
+    "4 tall glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Caramel",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Caramel",
+      "qty": 30,
+      "unit": "g",
+      "item": "butter"
+    },
+    {
+      "group": "Caramel",
+      "qty": 60,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Caramel",
+      "qty": 60,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Caramel",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    },
+    {
+      "group": "Caramel",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 1,
+      "unit": "pc",
+      "item": "vanilla pod, split and seeds scraped"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "glucose syrup"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 65,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 70,
+      "unit": "g",
+      "item": "salted peanuts, chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 3,
+      "unit": "pc",
+      "item": "square chocolate-coated wafer bars, each cut into quarters"
+    },
+    {
+      "group": "To serve",
+      "qty": 140,
+      "unit": "g",
+      "item": "salted peanuts, coarsely chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream, whipped to soft peaks"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Caramel",
+      "text": "Melt 100 g caster sugar in a small saucepan over medium heat, stirring often. On low heat, carefully add 30 g butter, 60 ml double cream and 60 ml whole milk. Off the heat, stir in ¼ tsp flaky sea salt and 2 tbsp light corn syrup or glucose syrup, then cool and chill for at least 2 h or overnight."
+    },
+    {
+      "title": "Custard",
+      "text": "Heat 360 ml whole milk with the split vanilla pod and scraped seeds and 1 tbsp glucose syrup until steaming. Whisk 4 large egg yolks and 65 g caster sugar until pale."
+    },
+    {
+      "title": "Temper",
+      "text": "Whisk in a third of the hot milk to the egg mixture, then return to the saucepan and cook, stirring constantly, until it coats the back of a spoon at 77-80 °C."
+    },
+    {
+      "title": "Cool",
+      "text": "Strain the custard into a bowl over iced water and cool to room temperature."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn in the ice-cream maker until thick, stir in 70 g chopped salted peanuts and freeze in a container until firm."
+    },
+    {
+      "title": "Cut",
+      "text": "Cut the 3 chocolate-coated wafer bars into quarters (12 pieces total)."
+    },
+    {
+      "title": "Build",
+      "text": "In a tall glass, alternate layers of caramel, a wafer quarter and scoops of the peanut ice cream."
+    },
+    {
+      "title": "Top",
+      "text": "Finish with more caramel, 140 g coarsely chopped salted peanuts and whipped cream."
+    }
+  ],
+  "tips": [
+    "Chill the caramel for at least 2 h, or overnight, so it thickens to a pourable sauce.",
+    "Cook the custard carefully to exactly 77-80 °C for a silky, safe ice cream.",
+    "Chill the peanut ice cream until firm before assembling the sundae."
+  ],
+  "storage": "Keep the caramel covered in the fridge and the peanut ice cream in a sealed container in the freezer; assemble the sundaes just before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 1220,
+    "protein_g": 24.1,
+    "carbs_g": 95.5,
+    "sugar_g": 80.7,
+    "free_sugar_g": 69.4,
+    "fat_g": 87.0,
+    "satfat_g": 41.5,
+    "salt_g": 0.53,
+    "fibre_g": 5.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Tall sundae glass layered with vanilla ice cream, salted peanuts, caramel sauce and crispy wafers.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

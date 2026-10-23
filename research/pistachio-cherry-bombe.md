@@ -24,4 +24,5 @@ Changes made:
 - honey: 1 tbsp → 21 g (CHECKLIST 1, weights in grams)
 - caster sugar: 1 tbsp → 12 g (CHECKLIST 1, weights in grams)
 - icing sugar, for dusting: 1 tsp → 4 g (CHECKLIST 1, weights in grams)
+- icing sugar: 1 tbsp → 12 g (CHECKLIST 1, weights in grams)
 - Units: °C only, metric weights and volumes (CHECKLIST 7, updated 22 Oct to metric only).

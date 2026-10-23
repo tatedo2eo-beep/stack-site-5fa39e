@@ -161,6 +161,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | caprese-panini-mozzarella-tomato-basil | Panini | Caprese | 1 | 3 |
 | caramel-choux-croquembouche | Croquembouche | Classic | 2 | 4 |
 | caramel-choux-saint-honore-cream | Saint-Honoré | Classic | 0 | 4 |
+| caramel-peanut-vanilla-sundae | Sundaes | Caramel | 1 | 3 |
 | caramelised-apple-almond-crunch-tart | Frangipane | Apple | 1 | 3 |
 | caramelised-kouign-amann-pastries | Kouign-amann | Classic | 2 | 4 |
 | caramelised-onion-flatbread-anchovies-black-olives-thyme | Pissaladière | Classic | 3 | 5 |
@@ -312,6 +313,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | clear-white-chicken-stock-slow-simmered | White/brown chicken | Classic | 2 | 4 |
 | clementine-sorbet-blender | Sorbet | Clementine | 1 | 3 |
 | cocoa-dusted-dark-chocolate-truffles | Truffles | Classic | 3 | 5 |
+| cocoa-frozen-yoghurt | Frozen yogurt | Chocolate | 1 | 3 |
 | coconut-hot-chocolate-meringue-top | Hot chocolate (French chocolat chaud, Spanish thick) | Coconut | 1 | 3 |
 | coconut-key-lime-yogurt-muffins | American muffin (blueberry style, muffin method) | Coconut & Key lime | 1 | 3 |
 | coconut-peanut-satay-sauce | Peanut/satay | Classic | 2 | 4 |
@@ -319,6 +321,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | coconut-white-chocolate-brownies | Brownie (fudgy or cakey) | Coconut | 1 | 3 |
 | cod-baked-in-parchment-vegetables-lemon-dill | En papillote | Classic | 4 | 6 |
 | coffee-bean-pots-de-creme | Pot de crème | Coffee | 1 | 3 |
+| coffee-frozen-yoghurt | Frozen yogurt | Coffee | 1 | 3 |
 | colcannon-kale-butter-well | Colcannon | Classic | 2 | 4 |
 | cold-somen | Somen | Classic | 3 | 5 |
 | colombian-arepas-de-queso-cheese-filled-corn-cakes | Arepa | Cheese | 2 | 4 |
@@ -487,6 +490,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fresh-fig-custard-ice-cream | Custard-base (French) | Fig | 1 | 3 |
 | fresh-fruit-tart-vanilla-creme-patissiere | Fruit tart (crème pâtissière) | Classic | 2 | 4 |
 | fresh-ginger-ale-lime-honey-syrup | Ginger ale | Classic | 2 | 4 |
+| fresh-ginger-frozen-yoghurt | Frozen yogurt | Ginger | 1 | 3 |
 | fresh-herb-gravy | Gravy | Herb | 2 | 4 |
 | fresh-lime-custard-ice-cream | Custard-base (French) | Lime | 1 | 3 |
 | fresh-limeade-mashed-zest-mint | Limeade | Classic | 2 | 4 |
@@ -531,6 +535,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | ginger-matcha-honey-granita | Granita | Ginger & matcha | 1 | 3 |
 | ginger-rhubarb-crumble | Crumble | Rhubarb | 1 | 3 |
 | ginger-spice-brownies | Brownie (fudgy or cakey) | Ginger | 1 | 3 |
+| ginger-turmeric-frozen-yoghurt | Frozen yogurt | Turmeric | 1 | 3 |
 | gingerbread-cookie-custard-ice-cream | Custard-base (French) | Gingerbread | 1 | 3 |
 | gingerbread-cookies | Gingerbread | Classic | 3 | 5 |
 | gingerbread-muffins-crystallised-ginger | American muffin (blueberry style, muffin method) | Gingerbread | 1 | 3 |
@@ -631,6 +636,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | hungarian-beef-goulash | Goulash | Classic | 2 | 4 |
 | hungarian-paprika-beef-stew-dumplings | Pörkölt | Classic | 3 | 5 |
 | iced-black-tea-lemon-mint | Iced tea | Classic | 2 | 4 |
+| iced-coffee-granita-sundae | Sundaes | Coffee | 1 | 3 |
 | iced-coffee | Iced coffee | Classic | 2 | 3 |
 | iced-matcha-latte-shaken-maple | Latte | Matcha | 1 | 3 |
 | iced-strawberry-matcha-latte-layered | Latte | Strawberry | 1 | 3 |
@@ -724,6 +730,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemony-tuna-salad-celery-capers | Tuna salad | Classic | 3 | 5 |
 | libyan-style-fish-spicy-tomato-pepper-sauce | Chraime | Classic | 2 | 4 |
 | liege-waffles-caramelised-pearl-sugar | Liège waffles | Classic | 2 | 4 |
+| lime-cardamom-buttermilk-frozen-yoghurt | Frozen yogurt | Lime & cardamom | 1 | 3 |
 | lime-cumin-steak-fajitas-charred-peppers-onions | Fajita | Beef | 3 | 5 |
 | lime-ginger-star-anise-coconut-water-sorbet | Sorbet | Lime & anise | 1 | 3 |
 | lime-posset-zest | Posset | Lime | 2 | 4 |
@@ -751,6 +758,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | maple-blondies | Blondies | Maple | 1 | 3 |
 | maple-glazed-carrots-ginger-lemon | Glazed carrots | Maple | 1 | 4 |
 | maple-pecan-granola-clusters | Granola | Maple-pecan | 2 | 4 |
+| maple-walnut-pineapple-sundae | Sundaes | Maple | 1 | 3 |
 | maqluba-chicken-aubergine-cauliflower-upside-down-rice | Maqluba | Classic | 1 | 3 |
 | marble-pound-cake | Pound cake | Marble | 3 | 5 |
 | marshmallow-swirl-custard-ice-cream | Custard-base (French) | Marshmallow | 1 | 3 |
@@ -904,6 +912,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | peanut-butter-cookies | Peanut butter | Classic | 3 | 5 |
 | peanut-butter-fudge-chopped-peanuts | Fudge | Peanut butter | 2 | 4 |
 | peanut-butter-honey-custard-ice-cream | Custard-base (French) | Peanut butter & honey | 1 | 3 |
+| peanut-butter-hot-fudge-sundae | Sundaes | Peanut butter | 1 | 3 |
 | peanut-butter-swirl-brownies | Brownie (fudgy or cakey) | Peanut butter | 1 | 3 |
 | peanut-horchata-sorbet | Sorbet | Peanut | 1 | 3 |
 | pear-tarte-tatin-dry-caramel | Tarte Tatin | Pear | 1 | 3 |
@@ -1081,6 +1090,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | salted-caramel-brownies | Brownie (fudgy or cakey) | Salted caramel | 1 | 3 |
 | salted-caramel-chocolate-tart-pecans | Chocolate tart | Salted caramel | 1 | 3 |
 | salted-caramel-coconut-philadelphia-ice-cream | Philadelphia (no egg) | Salted caramel & coconut | 1 | 3 |
+| salted-chocolate-hot-fudge-sundae | Sundaes | Chocolate | 1 | 3 |
 | salted-edamame-in-pods | Edamame | Classic | 1 | 3 |
 | saltenas-bolivian-chicken-hand-pies | Salteña | Chicken | 1 | 3 |
 | samgyetang | Samgyetang | Classic | 2 | 4 |
@@ -1328,6 +1338,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | vanilla-panna-cotta-raspberry-sauce | Panna cotta | Classic | 3 | 5 |
 | vanilla-pineapple-sorbet | Sorbet | Pineapple | 1 | 3 |
 | vanilla-pod-creme-anglaise | Crème anglaise | Classic | 2 | 4 |
+| vanilla-pod-frozen-yoghurt | Frozen yogurt | Vanilla | 1 | 3 |
 | vanilla-raspberry-mousse-cake | Entremets (mousse cake) | Classic | 2 | 4 |
 | vanilla-semifreddo-raspberry-swirl | Semifreddo | Classic | 1 | 3 |
 | vegetable-chow-mein | Chow mein/lo mein | Vegetable | 2 | 4 |
