@@ -40,14 +40,18 @@
     ctx.imageSmoothingEnabled = true; ctx.imageSmoothingQuality = 'high'; drawn = -1;
   }
   function get(url, cb, s) { fetch(url).then(function (r) { if (!r.ok) throw 0; return r.blob(); }).then(function (b) { if (s === S) cb(b); }, function () { if (s === S) cb(null); }); }
+  // Load only a short window of frames until the visitor actually scrolls, so the first paint and photos are not starved.
+  var AH = 16, sd = navigator.connection && navigator.connection.saveData;
+  function wake() { if (AH > 16 || sd) return; AH = 220; removeEventListener('scroll', wake); if (S) pump(); }
+  addEventListener('scroll', wake, { passive: true });
   function nextHi() {
-    var best = -1, bd = 1e9, a = Math.max(0, cur - 40), b = Math.min(N - 1, cur + 220);
+    var best = -1, bd = 1e9, a = Math.max(0, cur - 40), b = Math.min(N - 1, cur + AH);
     for (var k = a; k <= b; k++) { if (S.hi[k] !== undefined) continue; var d = k - cur; d = (d * dir >= 0) ? Math.abs(d) : Math.abs(d) * 2.5; if (d < bd) { bd = d; best = k; } }
     return best;
   }
   function nextLo() {
     var c = Math.round(cur / 4), best = -1, bd = 1e9;
-    for (var k = 0; k < S.lo.length; k++) { if (S.lo[k] !== undefined) continue; var d = Math.abs(k - c); if (d < bd) { bd = d; best = k; } }
+    for (var k = Math.max(0, c - AH), e = Math.min(S.lo.length, c + AH); k < e; k++) { if (S.lo[k] !== undefined) continue; var d = Math.abs(k - c); if (d < bd) { bd = d; best = k; } }
     return best;
   }
   function pump() {
