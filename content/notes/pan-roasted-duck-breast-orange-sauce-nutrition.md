@@ -31,5 +31,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Poultry cooked to at least 74 °C (site rule), so the duck is cooked through rather than pink.
-- Sauce made with orange juice, lime, honey and broth: no liqueur, wine or wine vinegar.
+- Sauce made with orange juice, lime, honey and broth, so it is alcohol-free.
 - Duck skin and fat counted as raw meat and skin with no deduction for fat poured off, so energy is an overestimate.

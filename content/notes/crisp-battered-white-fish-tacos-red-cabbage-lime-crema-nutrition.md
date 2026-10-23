@@ -34,4 +34,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Nutrition includes about 40 g frying oil absorbed by the batter.
-- No beer in the batter: cold sparkling water gives the lift.
+- Cold sparkling water gives the batter its lift.

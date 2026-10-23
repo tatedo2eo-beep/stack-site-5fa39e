@@ -30,4 +30,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - The sauce is thickened with beaten egg over low heat; stir until it is creamy and steaming and reaches 71 °C. Use pasteurised eggs for anyone pregnant, very young, elderly or with low immunity.
-- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian-rennet cheese if you need one.
+- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.

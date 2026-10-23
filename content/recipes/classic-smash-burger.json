@@ -38,16 +38,16 @@
     },
     {
       "group": "Patties",
-      "qty": null,
-      "unit": "to taste",
+      "qty": 0.25,
+      "unit": "tsp",
       "item": "black pepper, freshly ground"
     },
     {
       "group": "Patties",
-      "qty": 4,
-      "unit": "slice",
-      "item": "cheddar cheese",
-      "note": "about 20 g each"
+      "qty": 80,
+      "unit": "g",
+      "item": "cheddar cheese slices",
+      "note": "4 slices, about 20 g each"
     },
     {
       "group": "To build",
@@ -128,7 +128,7 @@
   ],
   "storage": "Best eaten immediately. Cooked patties keep in a covered container in the fridge for up to 2 days; reheat in a hot pan until piping hot all the way through (74°C in the centre). Do not store assembled burgers. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [
-    "cereals containing gluten",
+    "gluten",
     "eggs",
     "milk",
     "mustard",
@@ -136,17 +136,17 @@
   ],
   "diet": [],
   "nutrition_per_serving": {
-    "kcal": 897,
-    "protein_g": 42.2,
-    "carbs_g": 41.7,
-    "sugar_g": 11,
-    "free_sugar_g": 7.4,
-    "fat_g": 61.7,
-    "satfat_g": 27,
-    "salt_g": 3.0,
-    "fibre_g": 2.4
+    "kcal": 861,
+    "protein_g": 43.2,
+    "carbs_g": 41.3,
+    "sugar_g": 8.8,
+    "free_sugar_g": 6.9,
+    "fat_g": 57.3,
+    "satfat_g": 24.2,
+    "salt_g": 2.95,
+    "fibre_g": 2.3
   },
-  "nutrition_source": "Estimated per burger from USDA FoodData Central (SR Legacy) values: ground beef 80% lean raw, cheddar cheese, butter salted, mayonnaise, ketchup, pickles, tomato, lettuce; brioche bun estimated from typical label values. Raw-meat values used, so actual fat is a little lower because some renders out.",
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "smash-burger-basic--cheese.jpg",
   "image_alt": "A cheeseburger made with smashed beef patties and melted cheese in a soft bun.",
   "inspired_by": [

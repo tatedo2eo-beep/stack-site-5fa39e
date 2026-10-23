@@ -32,5 +32,5 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheese made with microbial (vegetarian) rennet; traditional Parmigiano Reggiano and many Italian hard cheeses use animal rennet.
+- Choose cheese made with microbial (vegetarian) rennet; many traditional Italian hard cheeses use animal rennet.
 - Soft enriched rolls are baked through at about 88-90 °C in the centre; leaner rolls at about 93-96 °C.

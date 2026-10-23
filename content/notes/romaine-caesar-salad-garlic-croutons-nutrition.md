@@ -32,5 +32,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- A mayonnaise base replaces the raw or coddled egg yolk (food safety); Worcestershire sauce and Dijon are left out; mustard powder adds the tang.
-- Check the hard cheese is made with microbial or vegetarian rennet (true Parmigiano-Reggiano uses animal rennet).
+- A mayonnaise base replaces the raw or coddled egg yolk (food safety); mustard powder adds the tang.
+- Check the hard cheese is made with microbial or vegetarian rennet (many traditional Italian hard cheeses use animal rennet).

@@ -34,4 +34,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Pine nuts are seeds, not one of the EU tree-nut allergens, but some people with nut allergies avoid them.
-- Check the hard cheese is made with microbial or vegetarian rennet (true Parmigiano-Reggiano uses animal rennet).
+- Check the hard cheese is made with microbial or vegetarian rennet (many traditional Italian hard cheeses use animal rennet).

@@ -19,7 +19,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | chilli flakes | ESTIMATE: dried red chillies, whole (close to SR chili pepper powder without salt) | 0.5 | 1.4 | 0.1 | 0.2 | 0.05 | 0.00 | 0.0 | 0.01 | 0 | 0.1 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | low-moisture whole-milk mozzarella, coarsely grated | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 220 | 699.6 | 47.5 | 5.4 | 2.22 | 0.00 | 54.2 | 34.23 | 1562 | 0.0 |
-| Parmesan or pecorino, finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
+| Parmesan-style or pecorino-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
 | green pepper, deseeded and very thinly sliced | Peppers, sweet, green, raw (FDC 170427) | 120 | 24.0 | 1.0 | 5.6 | 2.88 | 0.00 | 0.2 | 0.07 | 4 | 2.0 |
 | medium onion, very thinly sliced | Onions, raw (SR 11282) | 60 | 24.0 | 0.7 | 5.6 | 2.54 | 0.00 | 0.1 | 0.03 | 2 | 1.0 |
 | **Total** | | | 2439 | 101.0 | 264.1 | 24.01 | 5.99 | 108.9 | 44.00 | 3839 | 17.9 |

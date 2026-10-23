@@ -1,4 +1,4 @@
-# Nutrition working: Hearty Beef Lasagne with Pecorino Cream
+# Nutrition working: Hearty Beef Lasagne with Cheese Cream
 
 Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids listed). Energy uses the USDA kcal value for each food. Salt = sodium x 2.5. Free sugars = sugars from added sugar, honey, chocolate, ketchup, bread/buns, mayonnaise, vanilla and citrus juice (WHO definition; whole or mashed fruit, milk and yoghurt sugars are not free).
 
@@ -18,13 +18,13 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | dried chilli flakes | ESTIMATE: dried red chillies, whole (close to SR chili pepper powder without salt) | 0.5 | 1.4 | 0.1 | 0.2 | 0.05 | 0.00 | 0.0 | 0.01 | 0 | 0.1 |
 | tin crushed tomatoes (no-salt-added) | Tomatoes, red, ripe, canned, packed in tomato juice, no salt added (FDC 170138) | 800 | 128.0 | 6.3 | 27.8 | 20.40 | 0.00 | 2.0 | 0.27 | 80 | 15.2 |
 | cottage cheese | Cheese, cottage, creamed, large or small curd (FDC 172179) | 225 | 220.5 | 25.0 | 7.6 | 6.01 | 0.00 | 9.7 | 3.87 | 709 | 0.0 |
-| pecorino, finely grated | Cheese, romano (FDC 171249) | 90 | 348.3 | 28.6 | 3.3 | 0.66 | 0.00 | 24.2 | 15.40 | 1290 | 0.0 |
+| pecorino-style hard cheese (microbial rennet), finely grated | Cheese, romano (FDC 171249) | 90 | 348.3 | 28.6 | 3.3 | 0.66 | 0.00 | 24.2 | 15.40 | 1290 | 0.0 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 240 | 816.0 | 6.8 | 6.8 | 7.01 | 0.00 | 86.6 | 55.28 | 65 | 0.0 |
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | cornflour | Cornstarch (FDC 169698) | 3 | 11.4 | 0.0 | 2.7 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | mozzarella, grated | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 340 | 1081.2 | 73.4 | 8.4 | 3.43 | 0.00 | 83.8 | 52.91 | 2414 | 0.0 |
-| pecorino, grated | Cheese, romano (FDC 171249) | 20 | 77.4 | 6.4 | 0.7 | 0.15 | 0.00 | 5.4 | 3.42 | 287 | 0.0 |
+| pecorino-style hard cheese (microbial rennet), grated | Cheese, romano (FDC 171249) | 20 | 77.4 | 6.4 | 0.7 | 0.15 | 0.00 | 5.4 | 3.42 | 287 | 0.0 |
 | **Total** | | | 5699 | 342.5 | 395.6 | 60.71 | 3.18 | 303.1 | 162.43 | 7759 | 33.0 |
 
 **Per serving (total / 12):** kcal 475, protein_g 28.5, carbs_g 33.0, sugar_g 5.1, free_sugar_g 0.3, fat_g 25.3, satfat_g 13.5, salt_g 1.62, fibre_g 2.7
@@ -39,4 +39,4 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Pecorino is made with animal rennet.
+- Use pecorino-style hard cheese made with microbial rennet.

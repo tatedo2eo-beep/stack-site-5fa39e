@@ -37,4 +37,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Low-salt vegetable stock counted as water for nutrition; regular stock cubes add a lot of salt, so reduce the added salt if using them.
-- Lemon juice used in place of the wine vinegar some recipes add at the end.
+- Lemon juice brightens the dish at the end.

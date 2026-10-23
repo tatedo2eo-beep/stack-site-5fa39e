@@ -30,5 +30,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Lemon juice replaces the sherry vinegar used by one source and ham used by another is left out.
-- Check jarred peppers and olives are packed without wine vinegar.
+- Lemon juice gives the acidity.
+- Check jarred peppers and olives are packed in brine or distilled vinegar only.

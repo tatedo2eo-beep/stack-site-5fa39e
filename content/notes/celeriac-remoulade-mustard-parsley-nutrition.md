@@ -28,5 +28,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Mustard powder and lemon replace the Dijon and wine or sherry vinegar used by the sources.
+- Mustard powder and lemon give the sharpness.
 - Shop-bought mayonnaise and yoghurt stand in for a homemade raw-egg mayonnaise.

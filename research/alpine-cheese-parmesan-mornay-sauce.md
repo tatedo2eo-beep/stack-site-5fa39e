@@ -1,4 +1,4 @@
-# Research: Gruyère and Parmesan Mornay Sauce
+# Research: Alpine Cheese and Parmesan Mornay Sauce
 Dish: Mornay sauce / flavour: Classic. Private file, not published.
 
 ## Sources actually opened
@@ -18,7 +18,7 @@ Dish: Mornay sauce / flavour: Classic. Private file, not published.
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
 - Doneness cues in the method: 0 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 5 min + cook 10 min against the step times.
-- Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/gruyere-parmesan-mornay-sauce-nutrition.md).
+- Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/alpine-cheese-parmesan-mornay-sauce-nutrition.md).
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
 
 ## Knowledge check

@@ -1,4 +1,4 @@
-# Research: Cheesy Gruyère Gougères
+# Research: Alpine Cheese Gougères
 Dish: Gougères / flavour: Classic. Private file, not published.
 
 ## Sources actually opened
@@ -18,7 +18,7 @@ Dish: Gougères / flavour: Classic. Private file, not published.
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
 - Doneness cues in the method: 2 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 20 min + cook 40 min against the step times.
-- Quantities checked against servings (8). Nutrition worked from USDA FDC (see content/notes/cheesy-gruyere-gougeres-nutrition.md).
+- Quantities checked against servings (8). Nutrition worked from USDA FDC (see content/notes/alpine-cheese-gougeres-nutrition.md).
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
 
 ## Knowledge check

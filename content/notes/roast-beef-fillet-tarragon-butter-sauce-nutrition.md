@@ -36,5 +36,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Whole cut cooked to at least 63 °C with a rest (site rule), so the beef is cooked through.
-- Sauce uses cider vinegar in place of the usual wine and wine-vinegar reduction; egg yolks cooked to 71 °C.
+- Sauce uses a cider vinegar reduction; egg yolks cooked to 71 °C.
 - Fresh tarragon estimated as dried (no FDC fresh entry).

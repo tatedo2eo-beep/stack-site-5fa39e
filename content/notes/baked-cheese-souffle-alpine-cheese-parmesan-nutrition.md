@@ -1,4 +1,4 @@
-# Nutrition working: Baked Cheese Soufflé with Gruyère and Parmesan
+# Nutrition working: Baked Cheese Soufflé with Alpine Cheese and Parmesan
 
 Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids listed). Energy uses the USDA kcal value for each food. Salt = sodium x 2.5. Free sugars = sugars from added sugar, honey, chocolate, ketchup, bread/buns, mayonnaise, vanilla and citrus juice (WHO definition; whole or mashed fruit, milk and yoghurt sugars are not free).
 
@@ -13,7 +13,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | paprika | Spices, paprika (SR 02028) | 0.575 | 1.6 | 0.1 | 0.3 | 0.06 | 0.00 | 0.1 | 0.01 | 0 | 0.2 |
 | ground white pepper | Spices, pepper, white (FDC 170933) | 0.3 | 0.9 | 0.0 | 0.2 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
 | ground nutmeg | Spices, nutmeg, ground (FDC 171326) | 0.275 | 1.4 | 0.0 | 0.1 | 0.01 | 0.00 | 0.1 | 0.07 | 0 | 0.1 |
-| Gruyère, grated (animal-rennet-free) | Cheese, gruyere (FDC 171242) | 150 | 619.5 | 44.7 | 0.5 | 0.54 | 0.00 | 48.5 | 28.37 | 1071 | 0.0 |
+| alpine-style hard cheese (microbial rennet), grated | Cheese, Swiss-type alpine hard cheese (FDC 171242) | 150 | 619.5 | 44.7 | 0.5 | 0.54 | 0.00 | 48.5 | 28.37 | 1071 | 0.0 |
 | Parmesan-style hard cheese, finely grated (animal-rennet-free) | Cheese, parmesan, hard (SR 01033) | 15 | 58.8 | 5.4 | 0.5 | 0.12 | 0.00 | 3.9 | 2.46 | 240 | 0.0 |
 | large eggs, separated | Egg, whole, raw, fresh (SR 01123) | 300 | 429.0 | 37.7 | 2.2 | 1.11 | 0.00 | 28.5 | 9.39 | 426 | 0.0 |
 | cream of tartar | Leavening agents, cream of tartar (FDC 175041) | 0.75 | 1.9 | 0.0 | 0.5 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
@@ -32,4 +32,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Check the Gruyère and hard cheese are made with microbial or vegetarian rennet.
+- Check the alpine-style and hard cheeses are made with microbial or vegetarian rennet.

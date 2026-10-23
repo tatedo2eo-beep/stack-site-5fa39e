@@ -50,5 +50,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Strips cooked through to at least 63 °C.
-- No wine vinegar: distilled white vinegar and lime juice give the acidity.
+- Distilled white vinegar and lime juice give the acidity.
 - All marinade salt is counted although some is discarded.

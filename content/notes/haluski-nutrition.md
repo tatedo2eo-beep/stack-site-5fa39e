@@ -29,4 +29,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - The optional sour cream and dill are counted in the totals.
 - Salt: 1 tsp fine salt taken as 6 g.
-- Bacon, often added, is left out (and vegetarian).
+- Made without meat, so it is vegetarian.

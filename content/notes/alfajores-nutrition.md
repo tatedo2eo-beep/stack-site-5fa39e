@@ -30,4 +30,4 @@ Servings: 24. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Large egg taken as 50 g edible (yolk 17 g, white 33 g).
-- Brandy (traditional in some versions) left out: no alcohol.
+- Made without alcohol.

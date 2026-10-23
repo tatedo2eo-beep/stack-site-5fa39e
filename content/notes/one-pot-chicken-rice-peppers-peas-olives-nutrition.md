@@ -40,4 +40,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Turmeric and paprika stand in for annatto (achiote) for colour.
-- Check the olive brine label for wine vinegar.
+- Check the olive brine label: it should list distilled vinegar only.

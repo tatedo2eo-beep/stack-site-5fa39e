@@ -31,5 +31,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Dijon mustard used in some sources is left out; lemon zest gives the lift.
+- Lemon zest gives the lift.
 - Use chicken.

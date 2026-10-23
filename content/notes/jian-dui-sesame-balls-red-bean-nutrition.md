@@ -26,4 +26,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Glutinous (sweet) rice flour is counted as white rice flour for nutrition; it contains no gluten despite the name.
-- Shop-bought red bean paste varies; check the label for wheat or lard if needed.
+- Shop-bought red bean paste varies; check the label for wheat and animal fat if needed.

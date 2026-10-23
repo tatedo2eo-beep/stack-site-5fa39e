@@ -11,10 +11,10 @@
   "flavour_order": 104,
   "access": "premium",
   "base_recipe": "lasagne-bolognese",
-  "changes_from_base": "Meat-free: a rich tomato sauce deepened with anchovy, layered with a pecorino cream sauce and fontina instead of ragù and béchamel.",
+  "changes_from_base": "Meat-free: a rich tomato sauce deepened with anchovy, layered with a cheese cream sauce and fontina instead of ragù and béchamel.",
   "extra_flavour": true,
   "photo_pending": true,
-  "summary": "A meat-free lasagne with a deep tomato sauce, a pecorino cream sauce and fontina, browned on top.",
+  "summary": "A meat-free lasagne with a deep tomato sauce, a cheese cream sauce and fontina, browned on top.",
   "servings": 8,
   "prep_min": 30,
   "cook_min": 75,
@@ -32,7 +32,7 @@
       "group": "Cheese sauce",
       "qty": 90,
       "unit": "g",
-      "item": "pecorino, finely grated"
+      "item": "pecorino-style hard cheese (microbial rennet), finely grated"
     },
     {
       "group": "Cheese sauce",
@@ -129,7 +129,7 @@
       "group": "Tomato sauce",
       "qty": 20,
       "unit": "g",
-      "item": "pecorino, grated"
+      "item": "pecorino-style hard cheese (microbial rennet), grated"
     },
     {
       "group": "Assembly",
@@ -147,7 +147,7 @@
       "group": "Assembly",
       "qty": 15,
       "unit": "g",
-      "item": "pecorino, grated"
+      "item": "pecorino-style hard cheese (microbial rennet), grated"
     },
     {
       "group": "Assembly",
@@ -159,11 +159,11 @@
   "steps": [
     {
       "title": "Cheese sauce",
-      "text": "Whisk the 90 g pecorino, cottage cheese, cream, garlic, cornflour and pepper until smooth."
+      "text": "Whisk the 90 g pecorino-style cheese, cottage cheese, cream, garlic, cornflour and pepper until smooth."
     },
     {
       "title": "Tomato sauce",
-      "text": "Heat the oil in the saucepan over medium heat and cook the onion with the sugar, chilli and oregano for 10 min until soft. Add the garlic and anchovies for 2 min; they melt away and give a savoury depth without tasting of fish. Stir in both tins of tomatoes, the purée and the 20 g pecorino, and simmer about 20 min until slightly thickened."
+      "text": "Heat the oil in the saucepan over medium heat and cook the onion with the sugar, chilli and oregano for 10 min until soft. Add the garlic and anchovies for 2 min; they melt away and give a savoury depth without tasting of fish. Stir in both tins of tomatoes, the purée and the 20 g pecorino-style cheese, and simmer about 20 min until slightly thickened."
     },
     {
       "title": "Soak the sheets",
@@ -171,7 +171,7 @@
     },
     {
       "title": "Layer",
-      "text": "Spread about 360 ml tomato sauce in the dish and make a layer of 3½ sheets, then half the cheese sauce and 60 g fontina. Add a second layer of sheets, 360 ml tomato sauce and 60 g fontina, then a third layer with the rest of the cheese sauce and 60 g fontina. Finish with the last sheets and the remaining tomato sauce, fontina and pecorino."
+      "text": "Spread about 360 ml tomato sauce in the dish and make a layer of 3½ sheets, then half the cheese sauce and 60 g fontina. Add a second layer of sheets, 360 ml tomato sauce and 60 g fontina, then a third layer with the rest of the cheese sauce and 60 g fontina. Finish with the last sheets and the remaining tomato sauce, fontina and pecorino-style cheese."
     },
     {
       "title": "Bake",

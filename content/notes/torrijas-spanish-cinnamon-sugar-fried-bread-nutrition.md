@@ -30,5 +30,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Vanilla extract is the alcohol-free kind (or use vanilla paste).
-- Milk and single cream replace the sweet wine found in some versions.
+- Milk and single cream make the soaking liquid.
 - Only part of the soak and sugar is eaten; the amounts counted are noted in the nutrition working.

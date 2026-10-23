@@ -36,6 +36,6 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- No wine: tomato, browned beef and herbs carry the flavour.
+- Tomato, browned beef and herbs carry the flavour.
 - Braised beef is far above 71 °C; no thermometer needed.
-- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian cheese if you need one.
+- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.

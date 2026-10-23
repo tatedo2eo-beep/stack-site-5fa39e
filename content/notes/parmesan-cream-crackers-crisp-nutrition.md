@@ -23,5 +23,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheeses made with microbial (vegetarian) rennet; traditional Parmigiano Reggiano and some fetas use animal rennet.
+- Choose cheeses made with microbial (vegetarian) rennet; many traditional hard cheeses and some fetas use animal rennet.
 - Makes about 30 crackers, 5 a serving.

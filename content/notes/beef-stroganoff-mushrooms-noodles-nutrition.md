@@ -39,4 +39,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Beef strips reach at least 63 °C in the sauce; they are thin, so this happens within 2-3 min.
-- Lemon juice and mustard powder replace the wine and Dijon often used, keeping the dish alcohol-free.
+- Lemon juice and mustard powder give the tang, keeping the dish alcohol-free.

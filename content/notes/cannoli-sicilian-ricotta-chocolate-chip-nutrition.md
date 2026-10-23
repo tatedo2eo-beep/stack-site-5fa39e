@@ -37,6 +37,6 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- The shell dough uses refined coconut oil instead of lard and white grape juice with a little cider vinegar instead of wine; white grape juice is counted as apple juice for nutrition.
+- The shell dough uses refined coconut oil, and white grape juice with a little cider vinegar; white grape juice is counted as apple juice for nutrition.
 - Vanilla extract is the alcohol-free kind (or use vanilla paste).
 - Fill the shells shortly before serving so they stay crisp.

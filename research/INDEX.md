@@ -19,6 +19,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | almond-tuiles | Tuiles | Classic | 2 | 4 |
 | almond-turron-de-alicante | Turrón | Classic | 1 | 3 |
 | aloo-paratha-spiced-potato-flatbreads | Aloo paratha | Classic | 3 | 5 |
+| alpine-cheese-gougeres | Gougères | Classic | 2 | 4 |
+| alpine-cheese-parmesan-mornay-sauce | Mornay sauce | Classic | 2 | 4 |
 | american-cheeseburger | Cheeseburger | American | 3 | 5 |
 | angel-food-cake | Angel food | Classic | 2 | 4 |
 | anise-biscotti | Biscotti | Anise | 3 | 5 |
@@ -45,13 +47,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | baked-beef-empanadas-olives-raisins | Empanadas | Classic | 3 | 5 |
 | baked-beef-empanadas-potato-peppers | Empanadas | Beef | 2 | 4 |
 | baked-blueberry-raspberry-brown-butter-tart | Fruit tart (crème pâtissière) | Blueberry | 1 | 3 |
-| baked-cheese-souffle-gruyere-parmesan | Soufflé (savory) | Classic | 2 | 4 |
+| baked-cheese-souffle-alpine-cheese-parmesan | Soufflé (savory) | Classic | 2 | 4 |
 | baked-chicken-spaghetti | Long dried (spaghetti, linguine, bucatini) | Chicken | 1 | 3 |
 | baked-dark-chocolate-pots-de-creme | Pot de crème | Classic | 2 | 4 |
 | baked-mac-and-cheese | Mac and cheese | Classic | 2 | 4 |
 | baked-ziti | Baked ziti | Classic | 2 | 4 |
 | baklava-walnut-pistachio-honey-syrup | Baklava | Classic | 2 | 4 |
-| balsamic-honey-vinaigrette | Vinaigrette | Balsamic | 3 | 5 |
 | banana-bread | Banana bread/quick breads | Classic | 2 | 4 |
 | banana-cream-pie | Cream pie (banana, coconut) | Classic | 2 | 4 |
 | banana-infused-cream-pie | Cream pie (banana, coconut) | Banana | 2 | 4 |
@@ -150,7 +151,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | caramelised-apple-almond-crunch-tart | Frangipane | Apple | 1 | 3 |
 | caramelised-kouign-amann-pastries | Kouign-amann | Classic | 2 | 4 |
 | caramelised-onion-flatbread-anchovies-black-olives-thyme | Pissaladière | Classic | 3 | 5 |
-| caramelised-onion-soup-gruyere-toasts | French onion | Classic | 3 | 5 |
+| caramelised-onion-soup-cheese-toasts | French onion | Classic | 3 | 5 |
 | caraway-deli-rye-loaf | Rye/pumpernickel | Caraway | 2 | 4 |
 | carciofi-alla-giudia-twice-fried-artichokes | Carciofi alla giudia | Classic | 2 | 4 |
 | carciofi-alla-romana-mint-garlic-braise | Carciofi alla romana | Classic | 1 | 3 |
@@ -183,7 +184,6 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cheeseburger-sliders | Sliders | Classic | 2 | 5 |
 | cheesecake-layer-brownies | Brownie (fudgy or cakey) | Cheesecake | 1 | 3 |
 | cheesy-basil-pesto-pull-apart-rolls | Dinner rolls | Pesto | 1 | 3 |
-| cheesy-gruyere-gougeres | Gougères | Classic | 2 | 4 |
 | cheesy-potato-gratin | Gratin | Classic | 2 | 4 |
 | cherry-almond-frangipane-tart | Frangipane | Cherry | 1 | 3 |
 | cherry-bakewell-tart-glace-cherries | Bakewell | Cherry | 2 | 4 |
@@ -552,7 +552,6 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | grilled-salmon-caesar-charred-romaine | Caesar | Salmon | 1 | 3 |
 | groundnut-soup-chicken-crushed-peanuts | Groundnut soup | Chicken | 2 | 4 |
 | groundnut-soup-sweet-potato-kale-peanut | Groundnut soup | Classic | 2 | 4 |
-| gruyere-parmesan-mornay-sauce | Mornay sauce | Classic | 2 | 4 |
 | guacamole | Guacamole | Classic | 2 | 3 |
 | gulab-jamun-cardamom-saffron-syrup | Gulab jamun | Classic | 2 | 4 |
 | hainanese-chicken-rice | Hainanese chicken rice | Classic | 3 | 5 |
@@ -905,6 +904,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | poached-prawns-classic-cocktail-sauce | Shrimp cocktail | Classic | 3 | 5 |
 | poached-white-fish-dumplings-carrot-beetroot-horseradish | Gefilte fish | Classic | 4 | 6 |
 | pollo-al-mattone | Pollo al mattone (chicken under a brick) | Classic | 2 | 4 |
+| pomegranate-honey-vinaigrette | Vinaigrette | Pomegranate | 1 | 3 |
 | pommes-anna-layered-potato-cake | Pommes Anna | Classic | 3 | 5 |
 | pommes-dauphine-potato-puffs | Pommes dauphine | Classic | 2 | 4 |
 | poppy-seed-coleslaw-lemon-honey | Coleslaw | Poppy seed | 1 | 3 |

@@ -1,0 +1,136 @@
+{
+  "slug": "pomegranate-honey-vinaigrette",
+  "title": "Pomegranate Honey Vinaigrette",
+  "category": "snacks-sides",
+  "cuisine": "Levantine",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "vinaigrette",
+  "dish_title": "Vinaigrette",
+  "flavour": "Pomegranate",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "classic-shallot-vinaigrette",
+  "changes_from_base": "Same steep-then-whisk method as the classic shallot vinaigrette, with pomegranate molasses, garlic and a little honey added for a sweet-sour, deep red dressing; no mayonnaise.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Shallot and garlic mellowed in cider vinegar, then whisked with pomegranate molasses, honey, mustard and olive oil into a glossy, deep red dressing.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "small bowl",
+    "whisk or jar with a lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "shallot, finely chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.375 tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "pomegranate molasses"
+    },
+    {
+      "group": "Dressing",
+      "qty": 7,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "mild yellow mustard"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dressing",
+      "qty": 120,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mellow the shallot",
+      "text": "Put the shallot, garlic and salt in the bowl, pour over the cider vinegar and leave for 10 min so the shallot loses its raw bite."
+    },
+    {
+      "title": "Make the sweet-sour base",
+      "text": "Whisk in the pomegranate molasses, honey, mustard and pepper until the molasses has dissolved and the mixture looks even."
+    },
+    {
+      "title": "Emulsify",
+      "text": "Whisking all the time, add the olive oil in a thin stream until the dressing turns glossy and slightly thick. You can also shake everything hard in a lidded jar for about 20 seconds."
+    },
+    {
+      "title": "Serve",
+      "text": "Dress crisp leaves, sliced tomatoes, grilled aubergine or a herb and bread salad just before eating. Whisk again if it separates."
+    }
+  ],
+  "tips": [
+    "Taste your pomegranate molasses first: if it is very sharp, add a little more honey; if it is very sweet, leave the honey out.",
+    "A pinch of sumac or ground cumin suits it well.",
+    "It makes a good glaze brushed over grilled halloumi or roasted carrots."
+  ],
+  "storage": "Store in a sealed jar in the fridge for up to 1 week. Bring to room temperature and shake well before using. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 139,
+    "protein_g": 0.1,
+    "carbs_g": 4.6,
+    "sugar_g": 3.7,
+    "free_sugar_g": 3.5,
+    "fat_g": 13.5,
+    "satfat_g": 1.9,
+    "salt_g": 0.29,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A small glass jug of deep red pomegranate vinaigrette beside a bowl of crisp green leaves.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

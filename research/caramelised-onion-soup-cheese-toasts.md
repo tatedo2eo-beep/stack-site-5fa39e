@@ -1,4 +1,4 @@
-# Research: Caramelised Onion Soup with Gruyère Toasts
+# Research: Caramelised Onion Soup with Cheese Toasts
 Dish: French onion / flavour: Classic. Private file, not published.
 
 ## Sources actually opened
@@ -19,7 +19,7 @@ Dish: French onion / flavour: Classic. Private file, not published.
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
 - Doneness cues in the method: 0 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 20 min + cook 90 min against the step times.
-- Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/caramelised-onion-soup-gruyere-toasts-nutrition.md).
+- Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/caramelised-onion-soup-cheese-toasts-nutrition.md).
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 3. Non-top-tier pages are context only.
 
 ## Knowledge check

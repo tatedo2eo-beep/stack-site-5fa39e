@@ -1,4 +1,4 @@
-# Research: Cacio e Pepe (Pecorino and Black Pepper Spaghetti)
+# Research: Cacio e Pepe (Cheese and Black Pepper Spaghetti)
 Dish: Cacio e pepe / flavour: Classic. Private file, not published.
 
 ## Sources actually opened

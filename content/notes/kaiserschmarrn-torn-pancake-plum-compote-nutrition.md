@@ -33,4 +33,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Vanilla extract is the alcohol-free kind (or use vanilla paste).
-- Raisins are soaked in water or apple juice instead of the traditional rum.
+- Raisins are soaked in water or apple juice.

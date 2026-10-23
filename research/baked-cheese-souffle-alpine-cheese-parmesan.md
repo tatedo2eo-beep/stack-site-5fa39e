@@ -1,4 +1,4 @@
-# Research: Baked Cheese Soufflé with Gruyère and Parmesan
+# Research: Baked Cheese Soufflé with Alpine Cheese and Parmesan
 Dish: Soufflé (savory) / flavour: Classic. Private file, not published.
 
 ## Sources actually opened
@@ -18,7 +18,7 @@ Dish: Soufflé (savory) / flavour: Classic. Private file, not published.
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
 - Doneness cues in the method: 2 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 25 min + cook 35 min against the step times.
-- Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/baked-cheese-souffle-gruyere-parmesan-nutrition.md).
+- Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/baked-cheese-souffle-alpine-cheese-parmesan-nutrition.md).
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
 
 ## Knowledge check

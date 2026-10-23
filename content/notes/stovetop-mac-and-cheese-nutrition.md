@@ -12,7 +12,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | English mustard powder | Spices, mustard seed, ground (FDC 170929) | 1.5 | 7.6 | 0.4 | 0.4 | 0.10 | 0.00 | 0.5 | 0.03 | 0 | 0.2 |
 | cayenne pepper | Spices, pepper, red or cayenne (SR 02031) | 0.2 | 0.6 | 0.0 | 0.1 | 0.02 | 0.00 | 0.0 | 0.01 | 0 | 0.1 |
 | mature Cheddar, grated | Cheese, cheddar, sharp, sliced (FDC 170899) | 200 | 820.0 | 48.4 | 4.3 | 0.54 | 0.00 | 67.6 | 38.80 | 1288 | 0.0 |
-| Gruyère or Monterey Jack, grated | Cheese, gruyere (FDC 171242) | 50 | 206.5 | 14.9 | 0.2 | 0.18 | 0.00 | 16.2 | 9.46 | 357 | 0.0 |
+| alpine-style cheese or Monterey Jack (microbial rennet), grated | Cheese, Swiss-type alpine hard cheese (FDC 171242) | 50 | 206.5 | 14.9 | 0.2 | 0.18 | 0.00 | 16.2 | 9.46 | 357 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | panko breadcrumbs | Bread crumbs, dry, grated, plain (FDC 174928); proxy for panko | 40 | 158.0 | 5.4 | 28.8 | 2.48 | 2.48 | 2.1 | 0.48 | 293 | 1.8 |
 | olive oil | Oil, olive, salad or cooking (SR 04053) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 1.86 | 0 | 0.0 |
@@ -30,4 +30,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Cheddar and Gruyère are often made with animal rennet; choose vegetarian-labelled cheese if needed.
+- Cheddar and alpine-style cheeses are often made with animal rennet; choose ones made with microbial rennet.

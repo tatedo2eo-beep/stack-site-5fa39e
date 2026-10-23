@@ -37,4 +37,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Ground beef cooked to 71 °C at the centre (site rule).
-- Pork, often used in the original, is replaced with beef.
+- Made with beef only.

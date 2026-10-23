@@ -1,4 +1,4 @@
-# Research: Hearty Beef Lasagne with Pecorino Cream
+# Research: Hearty Beef Lasagne with Cheese Cream
 Dish: Sheets/baked (lasagne) / flavour: Beef. Private file, not published.
 
 ## Sources actually opened

@@ -34,5 +34,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- A mayonnaise base replaces raw egg yolk; Worcestershire sauce, Dijon and wine vinegar used by the sources are left out.
+- A mayonnaise base replaces raw egg yolk.
 - Check the hard cheese is made with microbial or vegetarian rennet.

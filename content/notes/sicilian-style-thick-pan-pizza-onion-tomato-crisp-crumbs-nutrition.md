@@ -17,7 +17,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | chilli flakes | ESTIMATE: dried red chillies, whole (close to SR chili pepper powder without salt) | 0.2 | 0.6 | 0.0 | 0.1 | 0.02 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
 | fine dried breadcrumbs | Bread, crumbs, dry, grated, plain (FDC 174928) | 60 | 237.0 | 8.0 | 43.2 | 3.72 | 3.72 | 3.2 | 0.72 | 439 | 2.7 |
-| pecorino, finely grated | Cheese, romano (FDC 171249) | 50 | 193.5 | 15.9 | 1.8 | 0.36 | 0.00 | 13.5 | 8.56 | 716 | 0.0 |
+| pecorino-style hard cheese (microbial rennet), finely grated | Cheese, romano (FDC 171249) | 50 | 193.5 | 15.9 | 1.8 | 0.36 | 0.00 | 13.5 | 8.56 | 716 | 0.0 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 1.86 | 0 | 0.0 |
 | dried oregano | Spices, oregano, dried (SR 02027) | 1 | 2.6 | 0.1 | 0.7 | 0.04 | 0.00 | 0.0 | 0.02 | 0 | 0.4 |
 | **Total** | | | 2722 | 66.1 | 329.4 | 32.64 | 3.72 | 129.0 | 24.91 | 3611 | 23.8 |
@@ -34,5 +34,5 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Anchovies, often used in Palermo, are left out so the pizza is vegetarian; pecorino gives the savoury note.
-- Pecorino is traditionally made with animal rennet; choose a vegetarian-rennet or hard cheese if needed.
+- Anchovies, often used in Palermo, are left out so the pizza is vegetarian; pecorino-style cheese gives the savoury note.
+- Use pecorino-style hard cheese made with microbial rennet.

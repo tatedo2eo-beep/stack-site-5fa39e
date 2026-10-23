@@ -40,4 +40,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - Thin slices cooked through to at least 63 °C.
 - Discarded marinade estimated at a quarter of the marinade; all of it is counted, so the figures are generous.
-- No mirin, rice wine or gochujang (which can contain alcohol).
+- Gochujang is left out because it can contain alcohol; the marinade is alcohol-free.

@@ -4,7 +4,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| pecorino, finely grated | Cheese, romano (FDC 171249) | 90 | 348.3 | 28.6 | 3.3 | 0.66 | 0.00 | 24.2 | 15.40 | 1290 | 0.0 |
+| pecorino-style hard cheese (microbial rennet), finely grated | Cheese, romano (FDC 171249) | 90 | 348.3 | 28.6 | 3.3 | 0.66 | 0.00 | 24.2 | 15.40 | 1290 | 0.0 |
 | cottage cheese | Cheese, cottage, creamed, large or small curd (FDC 172179) | 225 | 220.5 | 25.0 | 7.6 | 6.01 | 0.00 | 9.7 | 3.87 | 709 | 0.0 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 120 | 408.0 | 3.4 | 3.4 | 3.50 | 0.00 | 43.3 | 27.64 | 32 | 0.0 |
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
@@ -20,10 +20,10 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | tin crushed tomatoes (no-salt-added) | Tomatoes, red, ripe, canned, packed in tomato juice, no salt added (FDC 170138) | 800 | 128.0 | 6.3 | 27.8 | 20.40 | 0.00 | 2.0 | 0.27 | 80 | 15.2 |
 | tin chopped tomatoes, drained (drained weight) | Tomatoes, red, ripe, canned, in tomato juice (SR 11531) | 260 | 41.6 | 2.1 | 9.0 | 6.16 | 0.00 | 0.7 | 0.10 | 299 | 4.9 |
 | tomato purée | ESTIMATE: Tomato products, canned, paste, without salt added (SR Legacy values) | 64 | 52.5 | 2.8 | 12.1 | 7.80 | 0.00 | 0.3 | 0.06 | 38 | 2.6 |
-| pecorino, grated | Cheese, romano (FDC 171249) | 20 | 77.4 | 6.4 | 0.7 | 0.15 | 0.00 | 5.4 | 3.42 | 287 | 0.0 |
+| pecorino-style hard cheese (microbial rennet), grated | Cheese, romano (FDC 171249) | 20 | 77.4 | 6.4 | 0.7 | 0.15 | 0.00 | 5.4 | 3.42 | 287 | 0.0 |
 | dried lasagne sheets (about 300 g) | Pasta, dry, enriched (SR 20120) | 300 | 1113.0 | 39.1 | 224.0 | 8.01 | 0.00 | 4.5 | 0.83 | 18 | 9.6 |
 | fontina, grated | Cheese, fontina (FDC 170843) | 225 | 875.2 | 57.6 | 3.5 | 3.49 | 0.00 | 70.1 | 43.19 | 1800 | 0.0 |
-| pecorino, grated | Cheese, romano (FDC 171249) | 15 | 58.0 | 4.8 | 0.5 | 0.11 | 0.00 | 4.0 | 2.57 | 215 | 0.0 |
+| pecorino-style hard cheese (microbial rennet), grated | Cheese, romano (FDC 171249) | 15 | 58.0 | 4.8 | 0.5 | 0.11 | 0.00 | 4.0 | 2.57 | 215 | 0.0 |
 | chopped basil | Basil, fresh (FDC 172232) | 6 | 1.4 | 0.2 | 0.2 | 0.02 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
 | **Total** | | | 3962 | 183.9 | 322.0 | 68.95 | 5.99 | 220.1 | 105.28 | 5366 | 36.1 |
 
@@ -39,4 +39,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Pecorino is made with animal rennet.
+- Use pecorino-style hard cheese made with microbial rennet.

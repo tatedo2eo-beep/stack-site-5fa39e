@@ -31,6 +31,6 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Pork, the usual meat in this style, is replaced with lean beef, a swap one source suggests. Use beef.
+- Lean beef is used, a choice one source suggests.
 - Medium-hot: reduce the chilli flakes for a milder version.
 - Serve with sticky or jasmine rice, not counted.

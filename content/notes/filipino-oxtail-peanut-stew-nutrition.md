@@ -38,4 +38,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - Oxtail simmered until tender, far above the 63 °C whole-cut minimum.
 - Shrimp paste is counted in full; most people use less, so the salt figure is an upper estimate.
-- The red wine and rice wine used in one source are not used; the broth is made with water.
+- The broth is made with water.

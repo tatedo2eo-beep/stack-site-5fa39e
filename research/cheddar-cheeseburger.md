@@ -10,7 +10,7 @@ Dish: Cheeseburger / flavour: Cheddar. Private file, not published.
 - Caramelising onion with water splashes (also in Food & Wine patty melt page).
 
 ## Own cooking judgment
-- Mature cheddar needs a lid to melt; Dijon mayo and rocket pairing.
+- Mature cheddar needs a lid to melt; Mustard mayo and rocket pairing.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

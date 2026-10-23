@@ -28,4 +28,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Hard cheese counted as Parmesan; true Parmigiano-Reggiano uses animal rennet, so choose a vegetarian-rennet hard cheese.
+- Hard cheese counted as Parmesan; use a Parmesan-style hard cheese made with microbial rennet.

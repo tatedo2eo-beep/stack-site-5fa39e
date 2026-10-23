@@ -36,5 +36,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Homemade shells and refried beans avoid lard, which is common in store-bought versions; if buying ready-made, check the label.
+- Homemade shells and refried beans are made with oil; if buying ready-made, check the label for animal fat.
 - Choose a cheese made with microbial rennet.

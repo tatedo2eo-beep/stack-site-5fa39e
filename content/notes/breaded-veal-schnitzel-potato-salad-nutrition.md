@@ -39,4 +39,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - Thin veal cooked through to at least 63 °C with a 3 min rest.
 - Absorbed frying oil and the portions of flour and crumbs that stick are estimates.
-- Cider vinegar replaces the usual wine vinegar.
+- Cider vinegar gives the acidity.

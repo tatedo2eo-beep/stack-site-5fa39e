@@ -28,4 +28,4 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 - Salt: 1 tsp fine salt taken as 6 g.
 - Whole cut cooked far above the 63 °C minimum (to about 95 °C) and held above 63 °C while resting.
 - Raw trimmed weight used for nutrition; the meat loses about 40% of its weight in cooking.
-- Rub salt counted in full; no mustard, beer or bought sauces used.
+- Rub salt counted in full; no mustard or bought sauces used.

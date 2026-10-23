@@ -13,7 +13,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 4.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1744 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | floury potatoes (such as russet or Maris Piper), peeled (weighed peeled) | Potatoes, flesh and skin, raw (SR 11352) | 1000 | 770.0 | 20.5 | 174.9 | 8.20 | 0.00 | 0.9 | 0.25 | 60 | 21.0 |
-| Gruyère, grated | Cheese, gruyere (FDC 171242) | 120 | 495.6 | 35.8 | 0.4 | 0.43 | 0.00 | 38.8 | 22.70 | 857 | 0.0 |
+| alpine-style hard cheese (microbial rennet), grated | Cheese, Swiss-type alpine hard cheese (FDC 171242) | 120 | 495.6 | 35.8 | 0.4 | 0.43 | 0.00 | 38.8 | 22.70 | 857 | 0.0 |
 | Parmesan or a vegetarian hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 50 | 196.0 | 17.9 | 1.6 | 0.40 | 0.00 | 12.9 | 8.21 | 801 | 0.0 |
 | butter, for the dish (about 10 g stays in the dish) | Butter, without salt (SR 01145) | 10 | 71.7 | 0.1 | 0.0 | 0.01 | 0.00 | 8.1 | 5.14 | 1 | 0.0 |
 | **Total** | | | 2719 | 98.1 | 214.4 | 43.26 | 0.00 | 167.5 | 103.36 | 3750 | 22.4 |

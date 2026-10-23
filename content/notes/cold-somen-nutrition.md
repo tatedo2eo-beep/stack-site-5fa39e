@@ -27,4 +27,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - About half of the dipping sauce is drunk or eaten (ESTIMATE).
 - Kombu, bonito and shiso not counted separately.
-- No mirin: sugar sweetens the dip.
+- Sugar sweetens the dip.

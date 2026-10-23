@@ -28,5 +28,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Glutinous (sweet) rice flour is counted as white rice flour for nutrition; it contains no gluten despite the name.
-- Butter is used in the filling in place of lard.
+- Butter is used in the filling.
 - Most of the ginger is lifted out; only its flavour is counted.

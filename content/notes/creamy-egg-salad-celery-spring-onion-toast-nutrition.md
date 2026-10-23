@@ -29,5 +29,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Mustard powder used in place of prepared Dijon (which can contain wine or wine vinegar).
-- Mayonnaise counted as regular mayonnaise; choose a brand made without wine vinegar.
+- Mustard powder is used rather than a prepared mustard.
+- Mayonnaise counted as regular mayonnaise; choose a brand made with distilled vinegar only.

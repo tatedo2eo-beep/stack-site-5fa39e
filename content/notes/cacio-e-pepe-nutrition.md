@@ -1,4 +1,4 @@
-# Nutrition working: Cacio e Pepe (Pecorino and Black Pepper Spaghetti)
+# Nutrition working: Cacio e Pepe (Cheese and Black Pepper Spaghetti)
 
 Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids listed). Energy uses the USDA kcal value for each food. Salt = sodium x 2.5. Free sugars = sugars from added sugar, honey, chocolate, ketchup, bread/buns, mayonnaise, vanilla and citrus juice (WHO definition; whole or mashed fruit, milk and yoghurt sugars are not free).
 
@@ -25,4 +25,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian cheese if you need one.
+- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.

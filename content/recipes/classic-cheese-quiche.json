@@ -10,7 +10,7 @@
   "flavour": "Classic",
   "flavour_order": 0,
   "access": "free",
-  "summary": "A crisp, blind-baked butter pastry case filled with a silky cream-and-milk custard and plenty of melted cheddar and Gruyère-style cheese.",
+  "summary": "A crisp, blind-baked butter pastry case filled with a silky cream-and-milk custard and plenty of melted cheddar and alpine-style cheese.",
   "servings": 8,
   "prep_min": 30,
   "cook_min": 60,
@@ -108,7 +108,7 @@
       "group": "Cheese",
       "qty": 50,
       "unit": "g",
-      "item": "Gruyère-style cheese, coarsely grated",
+      "item": "alpine-style hard cheese (microbial rennet), coarsely grated",
       "note": "microbial rennet"
     },
     {

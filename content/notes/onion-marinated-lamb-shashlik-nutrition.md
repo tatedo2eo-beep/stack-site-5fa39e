@@ -35,4 +35,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - Lamb cubes cooked to 63 °C at the centre plus 5 min rest (whole-cut rule).
 - All the marinade salt is counted, although some is discarded with the marinade.
-- Cider vinegar replaces the wine vinegar sometimes used.
+- Cider vinegar gives the acidity.

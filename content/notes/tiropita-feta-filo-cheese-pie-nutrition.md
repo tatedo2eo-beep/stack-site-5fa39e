@@ -5,7 +5,7 @@ Servings: 9. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | feta in brine, drained and crumbled | Cheese, feta (SR 01019) | 280 | 739.2 | 39.8 | 11.5 | 11.45 | 0.00 | 59.6 | 41.86 | 2568 | 0.0 |
-| graviera or Gruyère, coarsely grated | Cheese, gruyere (FDC 171242) | 60 | 247.8 | 17.9 | 0.2 | 0.22 | 0.00 | 19.4 | 11.35 | 428 | 0.0 |
+| graviera or alpine-style hard cheese (microbial rennet), coarsely grated | Cheese, Swiss-type alpine hard cheese (FDC 171242) | 60 | 247.8 | 17.9 | 0.2 | 0.22 | 0.00 | 19.4 | 11.35 | 428 | 0.0 |
 | full-fat cottage cheese | Cheese, cottage, creamed, large or small curd (FDC 172179) | 115 | 112.7 | 12.8 | 3.9 | 3.07 | 0.00 | 4.9 | 1.98 | 362 | 0.0 |
 | large eggs, beaten | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | cornflour | Cornstarch (FDC 169698) | 6 | 22.9 | 0.0 | 5.5 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
@@ -26,6 +26,6 @@ Servings: 9. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheeses made with microbial (vegetarian) rennet; traditional Parmigiano Reggiano and some fetas use animal rennet.
+- Choose cheeses made with microbial (vegetarian) rennet; many traditional hard cheeses and some fetas use animal rennet.
 - The egg filling is cooked to 71 °C.
 - Leftovers keep in the fridge for 3 days; reheat at 180 °C for 10-12 minutes to re-crisp.

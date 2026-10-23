@@ -1,4 +1,4 @@
-# Nutrition working: Caramelised Onion Soup with Gruyère Toasts
+# Nutrition working: Caramelised Onion Soup with Cheese Toasts
 
 Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids listed). Energy uses the USDA kcal value for each food. Salt = sodium x 2.5. Free sugars = sugars from added sugar, honey, chocolate, ketchup, bread/buns, mayonnaise, vanilla and citrus juice (WHO definition; whole or mashed fruit, milk and yoghurt sugars are not free).
 
@@ -16,7 +16,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 10 | 2.2 | 0.0 | 0.7 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
 | slices baguette, 1.5 cm thick | Bread, French or Vienna incl. sourdough (FDC 172675) | 120 | 326.4 | 13.0 | 62.3 | 5.54 | 5.54 | 2.9 | 0.63 | 722 | 2.6 |
-| Gruyère, coarsely grated (animal-rennet-free) | Cheese, gruyere (FDC 171242) | 120 | 495.6 | 35.8 | 0.4 | 0.43 | 0.00 | 38.8 | 22.70 | 857 | 0.0 |
+| alpine-style hard cheese (microbial rennet), coarsely grated | Cheese, Swiss-type alpine hard cheese (FDC 171242) | 120 | 495.6 | 35.8 | 0.4 | 0.43 | 0.00 | 38.8 | 22.70 | 857 | 0.0 |
 | **Total** | | | 1775 | 78.2 | 196.2 | 65.22 | 9.79 | 80.3 | 47.28 | 3720 | 24.0 |
 
 **Per serving (total / 4):** kcal 444, protein_g 19.5, carbs_g 49.0, sugar_g 16.3, free_sugar_g 2.4, fat_g 20.1, satfat_g 11.8, salt_g 2.32, fibre_g 6.0
@@ -31,5 +31,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- No wine, sherry or wine vinegar: extra stock gives the body and lemon juice the acidity.
+- Extra stock gives the body and lemon juice the acidity.
 - Beef stock counted as ready-to-serve beef stock; choose a low-salt stock.

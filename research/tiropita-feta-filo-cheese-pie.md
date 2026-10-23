@@ -9,7 +9,7 @@ Dish: Tiropita / flavour: Classic. Private file, not published.
 > Written for this batch from one locked-list publisher (rule of 23 Oct 16:26). Wording, step order and structure differ from the source; quantities sanity-checked.
 
 ## Own cooking judgment
-- Quarter-turn layering with a rolled rim; filling to 71 °C; Gruyère allowed for graviera.
+- Quarter-turn layering with a rolled rim; filling to 71 °C; alpine-style cheese allowed for graviera.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

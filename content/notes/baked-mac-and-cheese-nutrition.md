@@ -11,7 +11,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 700 | 427.0 | 22.1 | 33.6 | 35.35 | 0.00 | 22.8 | 13.05 | 301 | 0.0 |
 | English mustard powder | Spices, mustard seed, ground (FDC 170929) | 1.5 | 7.6 | 0.4 | 0.4 | 0.10 | 0.00 | 0.5 | 0.03 | 0 | 0.2 |
 | mature Cheddar, grated | Cheese, cheddar, sharp, sliced (FDC 170899) | 250 | 1025.0 | 60.5 | 5.3 | 0.68 | 0.00 | 84.5 | 48.50 | 1610 | 0.0 |
-| Gruyère (or more Cheddar), grated | Cheese, gruyere (FDC 171242) | 100 | 413.0 | 29.8 | 0.4 | 0.36 | 0.00 | 32.3 | 18.91 | 714 | 0.0 |
+| alpine-style hard cheese or more Cheddar (microbial rennet), grated | Cheese, Swiss-type alpine hard cheese (FDC 171242) | 100 | 413.0 | 29.8 | 0.4 | 0.36 | 0.00 | 32.3 | 18.91 | 714 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | panko breadcrumbs | Bread crumbs, dry, grated, plain (FDC 174928); proxy for panko | 50 | 197.5 | 6.7 | 36.0 | 3.10 | 3.10 | 2.6 | 0.60 | 366 | 2.2 |
@@ -31,4 +31,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Cheddar and Gruyère are often made with animal rennet; choose vegetarian-labelled cheese if needed.
+- Cheddar and alpine-style cheeses are often made with animal rennet; choose ones made with microbial rennet.
