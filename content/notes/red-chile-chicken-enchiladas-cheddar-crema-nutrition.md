@@ -38,6 +38,5 @@ Servings: 5. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheese made with microbial rennet.
 - No-salt passata keeps the dish within the salt target; ordinary tomato sauce roughly doubles the salt.
 - Naturally gluten-free if the corn tortillas and chilli powder are certified gluten-free.

@@ -10,7 +10,7 @@
   "flavour": "Classic",
   "flavour_order": 0,
   "access": "free",
-  "summary": "Egg spätzle layered with melted Emmental and alpine-style cheese, baked until bubbling and finished with deeply caramelised onions.",
+  "summary": "Egg spätzle layered with melted Emmental and Gruyère, baked until bubbling and finished with deeply caramelised onions.",
   "servings": 4,
   "prep_min": 15,
   "cook_min": 50,
@@ -98,7 +98,7 @@
       "group": "Cheese",
       "qty": 100,
       "unit": "g",
-      "item": "alpine-style hard cheese (microbial rennet), grated"
+      "item": "Gruyère, grated"
     },
     {
       "group": "Cheese",
@@ -142,7 +142,7 @@
     },
     {
       "title": "Layer with cheese",
-      "text": "As each batch of spätzle is drained, tip it straight into the warm buttered dish and scatter over a third of the mixed Emmental and alpine-style cheese. Layering while the pasta is still hot means each batch melts its share of cheese as you go, rather than everything sitting on top cold."
+      "text": "As each batch of spätzle is drained, tip it straight into the warm buttered dish and scatter over a third of the mixed Emmental and Gruyère. Layering while the pasta is still hot means each batch melts its share of cheese as you go, rather than everything sitting on top cold."
     },
     {
       "title": "Bake",

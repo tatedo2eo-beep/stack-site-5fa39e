@@ -21,7 +21,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 125 | 76.2 | 3.9 | 6.0 | 6.31 | 0.00 | 4.1 | 2.33 | 54 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 34 | 109.5 | 5.4 | 1.2 | 0.19 | 0.00 | 9.0 | 3.25 | 16 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | cold double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 180 | 612.0 | 5.1 | 5.1 | 5.26 | 0.00 | 64.9 | 41.46 | 49 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 8 | 31.1 | 0.0 | 8.0 | 7.82 | 7.82 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 4361 | 64.8 | 414.4 | 251.20 | 217.15 | 279.5 | 169.76 | 2793 | 19.0 |

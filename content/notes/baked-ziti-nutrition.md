@@ -15,7 +15,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | dried ziti, penne or rigatoni | Pasta, dry, enriched (SR 20120) | 450 | 1669.5 | 58.7 | 336.0 | 12.02 | 0.00 | 6.8 | 1.25 | 27 | 14.4 |
 | fine salt for 4 litres of pasta water (0.5%) (about 4.1 g: absorbed by 450 g dried pasta plus 240 ml cooking water added to the sauce) | Salt, table (SR 02047) | 4.1 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1589 | 0.0 |
 | whole-milk ricotta | Cheese, ricotta, whole milk (FDC 170851) | 400 | 600.0 | 30.2 | 29.1 | 1.08 | 0.00 | 40.7 | 25.68 | 440 | 0.0 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 50 | 196.0 | 17.9 | 1.6 | 0.40 | 0.00 | 12.9 | 8.21 | 801 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 50 | 196.0 | 17.9 | 1.6 | 0.40 | 0.00 | 12.9 | 8.21 | 801 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | low-moisture mozzarella, grated or cut into small cubes | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 300 | 954.0 | 64.8 | 7.4 | 3.03 | 0.00 | 73.9 | 46.68 | 2130 | 0.0 |
 | basil leaves, torn | Basil, fresh (FDC 172232) | 5 | 1.2 | 0.2 | 0.1 | 0.01 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
@@ -33,4 +33,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian cheese if you need one.

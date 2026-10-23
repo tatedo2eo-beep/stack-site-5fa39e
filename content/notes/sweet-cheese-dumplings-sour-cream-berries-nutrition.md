@@ -12,7 +12,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | farmer's cheese (twaróg) or well-drained cottage cheese (ESTIMATE: farmer's cheese (twaróg) counted as creamed cottage cheese (FDC 172179), which is wetter and saltier, so the salt figure errs high) | Cheese, cottage, creamed, large or small curd (FDC 172179) | 450 | 441.0 | 50.0 | 15.2 | 12.02 | 0.00 | 19.3 | 7.73 | 1418 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 40 | 154.8 | 0.0 | 40.0 | 39.92 | 39.92 | 0.0 | 0.00 | 0 | 0.0 |
 | large egg yolk | Egg, yolk, raw, fresh (SR 01125) | 17 | 54.7 | 2.7 | 0.6 | 0.10 | 0.00 | 4.5 | 1.62 | 8 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | finely grated lemon zest | Lemon peel, raw (SR 09156) | 2 | 0.9 | 0.0 | 0.3 | 0.08 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
 | unsalted butter, melted | Butter, without salt (SR 01145) | 20 | 143.4 | 0.2 | 0.0 | 0.01 | 0.00 | 16.2 | 10.27 | 2 | 0.0 |
 | full-fat sour cream | Cream, sour, cultured (FDC 171257) | 120 | 237.6 | 2.9 | 5.6 | 4.09 | 0.00 | 23.2 | 12.17 | 37 | 0.0 |
@@ -33,5 +33,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - ESTIMATE: farmer's cheese (twaróg) counted as creamed cottage cheese (FDC 172179), which is wetter and saltier, so the salt figure errs high
-- Vanilla extract must be alcohol-free (or use the seeds of half a vanilla pod).
 - Cooking water is unsalted; the only salt is in the dough.

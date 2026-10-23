@@ -9,7 +9,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | icing sugar | Sugars, granulated (SR 19335) | 40 | 154.8 | 0.0 | 40.0 | 39.92 | 39.92 | 0.0 | 0.00 | 0 | 0.0 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 102 | 328.4 | 16.2 | 3.7 | 0.57 | 0.00 | 27.1 | 9.74 | 49 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | large egg whites, at room temperature | Egg, white, raw, fresh (SR 01124) | 198 | 103.0 | 21.6 | 1.4 | 1.41 | 0.00 | 0.3 | 0.00 | 329 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 110 | 425.7 | 0.0 | 110.0 | 109.78 | 109.78 | 0.0 | 0.00 | 1 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 130 | 473.2 | 13.4 | 99.2 | 0.35 | 0.00 | 1.3 | 0.20 | 3 | 3.5 |

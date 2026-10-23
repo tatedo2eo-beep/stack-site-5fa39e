@@ -16,7 +16,7 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | unsalted butter, in pieces | Butter, without salt (SR 01145) | 55 | 394.4 | 0.5 | 0.0 | 0.03 | 0.00 | 44.6 | 28.25 | 6 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 100 | 322.0 | 15.9 | 3.6 | 0.56 | 0.00 | 26.5 | 9.55 | 48 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | pecans, toasted and roughly chopped | Nuts, pecans (FDC 170182) | 150 | 1036.5 | 13.8 | 20.8 | 5.96 | 0.00 | 108.0 | 9.27 | 0 | 14.4 |
 | pecan halves, for the top | Nuts, pecans (FDC 170182) | 60 | 414.6 | 5.5 | 8.3 | 2.38 | 0.00 | 43.2 | 3.71 | 0 | 5.8 |
 | **Total** | | | 5748 | 59.6 | 591.6 | 428.88 | 415.89 | 364.7 | 140.35 | 2831 | 25.0 |

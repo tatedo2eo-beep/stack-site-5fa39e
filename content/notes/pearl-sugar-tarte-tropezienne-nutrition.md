@@ -20,7 +20,7 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | cornflour (cornstarch) | Cornstarch (SR 20027) | 30 | 114.3 | 0.1 | 27.4 | 0.00 | 0.00 | 0.0 | 0.00 | 3 | 0.3 |
 | fine salt | Salt, table (SR 02047) | 0.375 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 145 | 0.0 |
 | unsalted butter | Butter, without salt (SR 01145) | 40 | 286.8 | 0.3 | 0.0 | 0.02 | 0.00 | 32.4 | 20.55 | 4 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | orange flower water (optional) | Water, tap (SR 14411) | 5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | cold double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 200 | 680.0 | 5.7 | 5.7 | 5.84 | 0.00 | 72.2 | 46.06 | 54 | 0.0 |
 | **Total** | | | 4276 | 87.4 | 395.0 | 182.17 | 150.23 | 263.1 | 153.25 | 2435 | 8.2 |

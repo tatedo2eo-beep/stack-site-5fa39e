@@ -15,7 +15,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | unsalted butter | Butter, without salt (SR 01145) | 115 | 824.5 | 1.0 | 0.1 | 0.07 | 0.00 | 93.3 | 59.08 | 13 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 250 | 967.5 | 0.0 | 250.0 | 249.50 | 249.50 | 0.0 | 0.00 | 2 | 0.0 |
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 3679 | 49.2 | 397.2 | 283.11 | 274.98 | 215.2 | 128.81 | 1942 | 21.9 |
 
 **Per serving (total / 16):** kcal 230, protein_g 3.1, carbs_g 24.8, sugar_g 17.7, free_sugar_g 17.2, fat_g 13.4, satfat_g 8.1, salt_g 0.3, fibre_g 1.4

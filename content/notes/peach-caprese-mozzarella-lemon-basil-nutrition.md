@@ -9,7 +9,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | ripe peaches (about 500 g), stoned and sliced | Peaches, yellow, raw (FDC 169928) | 480 | 187.2 | 4.4 | 45.8 | 40.27 | 0.00 | 1.2 | 0.09 | 0 | 7.2 |
-| fresh mozzarella (animal-rennet-free), torn or sliced | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 250 | 795.0 | 54.0 | 6.2 | 2.52 | 0.00 | 61.6 | 38.90 | 1775 | 0.0 |
+| fresh mozzarella, torn or sliced | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 250 | 795.0 | 54.0 | 6.2 | 2.52 | 0.00 | 61.6 | 38.90 | 1775 | 0.0 |
 | basil leaves, torn | Basil, fresh (FDC 172232) | 10 | 2.3 | 0.3 | 0.3 | 0.03 | 0.00 | 0.1 | 0.00 | 0 | 0.2 |
 | **Total** | | | 1343 | 58.8 | 53.7 | 43.21 | 0.38 | 102.9 | 44.54 | 2358 | 7.6 |
 

@@ -12,13 +12,13 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | whole milk, at room temperature | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 309 | 188.5 | 9.7 | 14.8 | 15.60 | 0.00 | 10.0 | 5.76 | 133 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 51 | 164.2 | 8.1 | 1.8 | 0.29 | 0.00 | 13.5 | 4.87 | 24 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | unsalted butter, softened | Butter, without salt (SR 01145) | 225 | 1613.2 | 1.9 | 0.1 | 0.14 | 0.00 | 182.5 | 115.58 | 25 | 0.0 |
 | icing sugar, sifted | Sugars, powdered (FDC 169656) | 300 | 1167.0 | 0.0 | 299.3 | 293.43 | 293.43 | 0.0 | 0.00 | 6 | 0.0 |
 | cocoa powder, sifted | Cocoa, dry powder, unsweetened (SR 19165) | 60 | 136.8 | 11.8 | 34.7 | 1.05 | 0.00 | 8.2 | 4.84 | 13 | 22.2 |
 | dark chocolate (about 60-70% cocoa solids), melted and cooled | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 115 | 687.7 | 9.0 | 52.8 | 27.60 | 27.60 | 49.0 | 28.17 | 23 | 12.5 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 60 | 36.6 | 1.9 | 2.9 | 3.03 | 0.00 | 1.9 | 1.12 | 26 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | **Total** | | | 8093 | 91.3 | 1036.2 | 693.77 | 671.92 | 420.4 | 252.82 | 4012 | 40.7 |
 

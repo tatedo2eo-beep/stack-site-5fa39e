@@ -12,7 +12,7 @@ Dish: Panzanella / flavour: Chicken. Private file, not published.
 ## Own cooking judgment
 - Metric quantities and our own wording
 - Fewer, regrouped steps in a different order
-- Cider vinegar for the vinaigrette; animal-rennet-free cheese
+- Cider vinegar for the vinaigrette
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

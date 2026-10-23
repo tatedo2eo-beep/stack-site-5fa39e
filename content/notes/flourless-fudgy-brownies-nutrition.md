@@ -9,7 +9,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | caster sugar | Sugars, granulated (SR 19335) | 200 | 774.0 | 0.0 | 200.0 | 199.60 | 199.60 | 0.0 | 0.00 | 2 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | cocoa powder | Cocoa, dry powder, unsweetened (SR 19165) | 30 | 68.4 | 5.9 | 17.4 | 0.53 | 0.00 | 4.1 | 2.42 | 6 | 11.1 |
 | **Total** | | | 3090 | 41.3 | 310.8 | 249.28 | 248.13 | 196.9 | 115.19 | 1437 | 32.9 |
 

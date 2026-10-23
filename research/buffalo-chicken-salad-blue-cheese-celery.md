@@ -12,7 +12,7 @@ Dish: Chicken salad / flavour: Buffalo. Private file, not published.
 ## Own cooking judgment
 - Metric quantities and our own wording
 - Fewer, regrouped steps in a different order
-- Bottled dressing replaced with soured cream and cider vinegar; poached chicken; animal-rennet-free blue cheese
+- Bottled dressing replaced with soured cream and cider vinegar; poached chicken; blue cheese
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

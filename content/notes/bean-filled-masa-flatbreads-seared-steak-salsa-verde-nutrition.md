@@ -39,6 +39,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheese made with microbial rennet.
 - Naturally gluten-free if the masa harina is certified gluten-free.
 - Nutrition includes about 30 g oil absorbed while crisping.

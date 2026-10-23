@@ -12,7 +12,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | olive oil | Oil, olive, salad or cooking (SR 04053) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 3.73 | 1 | 0.0 |
 | garlic cloves, grated | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 120 | 816.0 | 1.2 | 0.7 | 0.68 | 0.68 | 89.8 | 14.09 | 762 | 0.0 |
-| Parmesan-style hard cheese, finely grated (animal-rennet-free) | Cheese, parmesan, grated (FDC 171247) | 20 | 84.0 | 5.7 | 2.8 | 0.01 | 0.00 | 5.6 | 3.07 | 361 | 0.0 |
+| Parmesan-style hard cheese, finely grated | Cheese, parmesan, grated (FDC 171247) | 20 | 84.0 | 5.7 | 2.8 | 0.01 | 0.00 | 5.6 | 3.07 | 361 | 0.0 |
 | anchovy fillets, mashed | Fish, anchovy, European, canned in oil, drained (FDC 174183) | 8 | 16.8 | 2.3 | 0.0 | 0.00 | 0.00 | 0.8 | 0.18 | 294 | 0.0 |
 | chipotle chilli in adobo, finely chopped | ESTIMATE from typical canned chipotle-in-adobo labels | 15 | 9.0 | 0.2 | 1.5 | 0.60 | 0.00 | 0.2 | 0.03 | 165 | 0.6 |
 | lime juice | Lime juice, raw (SR 09160) - juice sugars counted as free | 30 | 7.5 | 0.1 | 2.5 | 0.51 | 0.51 | 0.0 | 0.00 | 1 | 0.1 |

@@ -10,7 +10,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | light brown sugar | Sugars, brown (SR 19334) | 100 | 380.0 | 0.1 | 98.1 | 97.02 | 97.02 | 0.0 | 0.00 | 28 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 40 | 154.8 | 0.0 | 40.0 | 39.92 | 39.92 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
-| alcohol-free vanilla extract or paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | hard butter toffee, chopped into small pieces | ESTIMATE: butter toffee (gelatine-free), typical label values | 150 | 802.5 | 1.5 | 99.0 | 93.00 | 93.00 | 45.0 | 27.00 | 375 | 0.0 |
 | **Total** | | | 3147 | 40.7 | 269.5 | 260.29 | 230.45 | 215.6 | 127.15 | 1294 | 0.0 |
 
@@ -26,5 +26,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.

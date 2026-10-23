@@ -11,8 +11,8 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | large egg | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
 | large egg, separated (white for the cream, yolk for the glaze) | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
-| alcohol-free almond extract (almond flavouring estimate) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 1.05 | 3.0 | 0.0 | 0.1 | 0.13 | 0.13 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| almond flavouring | Vanilla (USDA SR 02050) | 1.05 | 3.0 | 0.0 | 0.1 | 0.13 | 0.13 | 0.0 | 0.00 | 0 | 0.0 |
 | all-butter puff pastry (2 x 320 g sheets), chilled | Puff pastry, frozen, ready-to-bake (FDC 172790) | 640 | 3526.4 | 46.7 | 288.6 | 4.74 | 4.74 | 243.8 | 61.72 | 1594 | 9.6 |
 | whole blanched almond, for the charm (optional) | Nuts, almonds (SR 12061) | 1 | 5.8 | 0.2 | 0.2 | 0.04 | 0.00 | 0.5 | 0.04 | 0 | 0.1 |
 | cold water | Water, tap (SR 14411) | 5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |

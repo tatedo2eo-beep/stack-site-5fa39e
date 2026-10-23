@@ -14,7 +14,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | cream of tartar | Leavening agents, cream of tartar (FDC 175041) | 4.5 | 11.6 | 0.0 | 2.8 | 0.00 | 0.00 | 0.0 | 0.00 | 2 | 0.0 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 150 | 580.5 | 0.0 | 150.0 | 149.70 | 149.70 | 0.0 | 0.00 | 2 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | strawberries, to serve | Strawberries, raw (FDC 167762) | 250 | 80.0 | 1.7 | 19.2 | 12.22 | 0.00 | 0.8 | 0.04 | 2 | 5.0 |
 | **Total** | | | 1915 | 60.6 | 423.8 | 316.57 | 300.46 | 8.1 | 3.65 | 1261 | 19.9 |
 

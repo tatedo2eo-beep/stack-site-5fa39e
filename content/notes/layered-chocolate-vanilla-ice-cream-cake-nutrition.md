@@ -13,13 +13,13 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | large egg | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
 | large eggs, separated | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | vegetable oil | Oil, canola (SR 04582) | 41 | 362.4 | 0.0 | 0.0 | 0.00 | 0.00 | 41.0 | 3.02 | 0 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | caster sugar, for the whites | Sugars, granulated (SR 19335) | 15 | 58.0 | 0.0 | 15.0 | 14.97 | 14.97 | 0.0 | 0.00 | 0 | 0.0 |
 | chocolate ice cream | Ice creams, chocolate (FDC 168809) | 410 | 885.6 | 15.6 | 115.6 | 103.98 | 103.98 | 45.1 | 27.88 | 312 | 4.9 |
 | vanilla ice cream | Ice creams, vanilla (FDC 167575) | 410 | 848.7 | 14.3 | 96.8 | 87.00 | 87.00 | 45.1 | 27.84 | 328 | 2.9 |
 | cold double cream | Cream, fluid, heavy whipping (FDC 170859) | 300 | 1020.0 | 8.5 | 8.5 | 8.76 | 0.00 | 108.2 | 69.10 | 81 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 25 | 96.8 | 0.0 | 25.0 | 24.95 | 24.95 | 0.0 | 0.00 | 0 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 4084 | 65.7 | 403.0 | 326.58 | 316.74 | 256.9 | 134.22 | 1446 | 16.1 |
 
 **Per serving (total / 10):** kcal 408, protein_g 6.6, carbs_g 40.3, sugar_g 32.7, free_sugar_g 31.7, fat_g 25.7, satfat_g 13.4, salt_g 0.36, fibre_g 1.6
@@ -34,5 +34,4 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - Bought ice cream and dark chocolate can contain egg or soya: check the labels.

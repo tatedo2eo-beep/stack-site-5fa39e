@@ -11,7 +11,7 @@ Servings: 24. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 36 | 115.9 | 5.7 | 1.3 | 0.20 | 0.00 | 9.6 | 3.44 | 17 | 0.0 |
 | unsalted butter, melted | Butter, without salt (SR 01145) | 55 | 394.4 | 0.5 | 0.0 | 0.03 | 0.00 | 44.6 | 28.25 | 6 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 250 | 910.0 | 25.8 | 190.8 | 0.68 | 0.00 | 2.5 | 0.39 | 5 | 6.8 |
 | fine salt | Salt, table (SR 02047) | 4.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1744 | 0.0 |
 | gelatine-free (vegetarian) mini marshmallows | ESTIMATE: gelatine-free (vegetarian) mini marshmallows, typical label values | 140 | 448.0 | 0.7 | 112.0 | 84.00 | 84.00 | 0.3 | 0.00 | 84 | 0.0 |

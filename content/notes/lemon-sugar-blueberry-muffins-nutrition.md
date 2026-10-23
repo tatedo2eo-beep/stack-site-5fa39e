@@ -13,7 +13,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | unsalted butter, melted and cooled slightly | Butter, without salt (SR 01145) | 60 | 430.2 | 0.5 | 0.0 | 0.04 | 0.00 | 48.7 | 30.82 | 7 | 0.0 |
 | neutral oil (sunflower or rapeseed) | Oil, canola (SR 04582) | 55 | 486.2 | 0.0 | 0.0 | 0.00 | 0.00 | 55.0 | 4.05 | 0 | 0.0 |
 | buttermilk | Milk, buttermilk, fluid, cultured, lowfat (SR 01088) | 245 | 98.0 | 8.1 | 11.7 | 11.74 | 0.00 | 2.2 | 1.34 | 257 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | granulated sugar | Sugars, granulated (SR 19335) | 60 | 232.2 | 0.0 | 60.0 | 59.88 | 59.88 | 0.0 | 0.00 | 1 | 0.0 |
 | lemon, finely grated zest only | Lemon peel, raw (SR 09156) | 3 | 1.4 | 0.0 | 0.5 | 0.13 | 0.00 | 0.0 | 0.00 | 0 | 0.3 |
 | **Total** | | | 3636 | 58.6 | 589.7 | 313.32 | 270.26 | 119.7 | 39.96 | 3329 | 16.7 |

@@ -18,7 +18,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | ground allspice | Spices, allspice, ground (SR 02001) | 0.47 | 1.2 | 0.0 | 0.3 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.1 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | full-fat cream cheese (block), at room temperature | Cheese, cream (FDC 173418) | 680 | 2380.0 | 41.8 | 37.5 | 25.57 | 0.00 | 234.2 | 137.45 | 2135 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 15 | 3.3 | 0.1 | 1.0 | 0.38 | 0.38 | 0.0 | 0.01 | 0 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 200 | 286.0 | 25.1 | 1.4 | 0.74 | 0.00 | 19.0 | 6.26 | 284 | 0.0 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 240 | 816.0 | 6.8 | 6.8 | 7.01 | 0.00 | 86.6 | 55.28 | 65 | 0.0 |

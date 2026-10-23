@@ -13,7 +13,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | baby spinach | Spinach, raw (SR 11457) | 30 | 6.9 | 0.9 | 1.1 | 0.13 | 0.00 | 0.1 | 0.02 | 24 | 0.7 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 30 | 6.6 | 0.1 | 2.1 | 0.76 | 0.76 | 0.1 | 0.01 | 0 | 0.1 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 67.5 | 596.7 | 0.0 | 0.0 | 0.00 | 0.00 | 67.5 | 9.32 | 1 | 0.0 |
-| Parmesan-style hard cheese (animal-rennet-free), finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
+| Parmesan-style hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
 | mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 28 | 190.4 | 0.3 | 0.2 | 0.16 | 0.16 | 21.0 | 3.29 | 178 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
@@ -34,4 +34,3 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Pine nuts are seeds, not one of the EU tree-nut allergens, but some people with nut allergies avoid them.
-- Check the hard cheese is made with microbial or vegetarian rennet (many traditional Italian hard cheeses use animal rennet).

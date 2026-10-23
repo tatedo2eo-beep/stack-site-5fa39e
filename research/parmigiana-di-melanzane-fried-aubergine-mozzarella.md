@@ -10,7 +10,6 @@ Dish: Parmigiana di melanzane / flavour: Classic. Private file, not published.
 
 ## Own cooking judgment
 - Quick garlic and basil tomato sauce made in the recipe.
-- Mozzarella with microbial rennet only.
 - Lengthways slices for neat layers.
 
 ## Reliability checks

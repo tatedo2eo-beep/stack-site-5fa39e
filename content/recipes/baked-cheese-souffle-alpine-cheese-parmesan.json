@@ -1,6 +1,6 @@
 {
   "slug": "baked-cheese-souffle-alpine-cheese-parmesan",
-  "title": "Baked Cheese Soufflé with Alpine Cheese and Parmesan",
+  "title": "Baked Cheese Soufflé with Gruyère and Parmesan",
   "category": "vegetarian",
   "cuisine": "French",
   "chapter": "eggs",
@@ -10,7 +10,7 @@
   "flavour": "Classic",
   "flavour_order": 0,
   "access": "free",
-  "summary": "A tall, golden savoury soufflé made with alpine-style cheese and Parmesan-style cheese, light and airy inside with a rich, cheesy flavour. Impressive yet straightforward, it goes from oven to table in a dramatic puff.",
+  "summary": "A tall, golden savoury soufflé made with Gruyère and Parmesan-style cheese, light and airy inside with a rich, cheesy flavour. Impressive yet straightforward, it goes from oven to table in a dramatic puff.",
   "servings": 4,
   "prep_min": 25,
   "cook_min": 35,
@@ -38,7 +38,7 @@
       "group": "Dish",
       "qty": 15,
       "unit": "g",
-      "item": "Parmesan-style hard cheese, finely grated, for the dish (animal-rennet-free)"
+      "item": "Parmesan-style hard cheese, finely grated, for the dish"
     },
     {
       "group": "Base",
@@ -87,13 +87,13 @@
       "group": "Base",
       "qty": 150,
       "unit": "g",
-      "item": "alpine-style hard cheese (microbial rennet), grated"
+      "item": "Gruyère, grated"
     },
     {
       "group": "Base",
       "qty": 15,
       "unit": "g",
-      "item": "Parmesan-style hard cheese, finely grated (animal-rennet-free)"
+      "item": "Parmesan-style hard cheese, finely grated"
     },
     {
       "group": "Eggs",
@@ -125,7 +125,7 @@
     },
     {
       "title": "Add cheese and yolks",
-      "text": "Off the heat, whisk in the salt, paprika, white pepper, nutmeg, alpine-style cheese and remaining hard cheese until smooth. Tip into a large bowl and cool for 10 minutes, then whisk in the egg yolks and parsley. Letting the base cool slightly stops the yolks cooking on contact and keeps the mixture silky."
+      "text": "Off the heat, whisk in the salt, paprika, white pepper, nutmeg, Gruyère and remaining hard cheese until smooth. Tip into a large bowl and cool for 10 minutes, then whisk in the egg yolks and parsley. Letting the base cool slightly stops the yolks cooking on contact and keeps the mixture silky."
     },
     {
       "title": "Whisk the whites",
@@ -147,7 +147,6 @@
   "tips": [
     "A common mistake is a greasy bowl or a speck of yolk in the whites, which stops them whipping; use a spotlessly clean, dry bowl.",
     "Fold with a light hand and stop as soon as the streaks disappear to keep as much air as possible.",
-    "Check that both cheeses are animal-rennet-free if you need them to be.",
     "Have everyone seated before the soufflé leaves the oven, as it starts to fall quickly."
   ],
   "storage": "Soufflé does not keep or reheat well and is best eaten straight from the oven. Refrigerate any leftovers within 1 hour, use within 1 day and reheat until piping hot (74°C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",

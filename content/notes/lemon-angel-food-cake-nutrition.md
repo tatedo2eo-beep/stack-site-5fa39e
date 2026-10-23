@@ -12,7 +12,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | caster sugar | Sugars, granulated (SR 19335) | 150 | 580.5 | 0.0 | 150.0 | 149.70 | 149.70 | 0.0 | 0.00 | 2 | 0.0 |
 | unwaxed lemons, finely grated zest | Lemon peel, raw (SR 09156) | 4 | 1.9 | 0.1 | 0.6 | 0.17 | 0.00 | 0.0 | 0.00 | 0 | 0.4 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 30 | 6.6 | 0.1 | 2.1 | 0.76 | 0.76 | 0.1 | 0.01 | 0 | 0.1 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | raspberries or blueberries, to serve | Raspberries, raw (FDC 167755) | 250 | 130.0 | 3.0 | 29.8 | 11.05 | 0.00 | 1.6 | 0.05 | 2 | 16.2 |
 | **Total** | | | 1957 | 56.2 | 432.1 | 314.82 | 300.42 | 3.4 | 0.21 | 1250 | 18.8 |
 

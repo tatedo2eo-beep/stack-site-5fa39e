@@ -13,7 +13,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 15 | 3.3 | 0.1 | 1.0 | 0.38 | 0.38 | 0.0 | 0.01 | 0 | 0.0 |
 | garlic cloves, grated | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | large ripe tomatoes, in 1 cm slices | Tomatoes, red, ripe, raw (SR 11529) | 350 | 63.0 | 3.1 | 13.6 | 9.21 | 0.00 | 0.7 | 0.10 | 18 | 4.2 |
-| fresh mozzarella (animal-rennet-free), sliced | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 200 | 636.0 | 43.2 | 4.9 | 2.02 | 0.00 | 49.3 | 31.12 | 1420 | 0.0 |
+| fresh mozzarella, sliced | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 200 | 636.0 | 43.2 | 4.9 | 2.02 | 0.00 | 49.3 | 31.12 | 1420 | 0.0 |
 | **Total** | | | 1971 | 193.4 | 21.7 | 11.69 | 0.38 | 121.2 | 42.35 | 3477 | 4.9 |
 
 **Per serving (total / 4):** kcal 493, protein_g 48.3, carbs_g 5.4, sugar_g 2.9, free_sugar_g 0.1, fat_g 30.3, satfat_g 10.6, salt_g 2.17, fibre_g 1.2

@@ -11,7 +11,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | light brown sugar | Sugars, brown (SR 19334) | 30 | 114.0 | 0.0 | 29.4 | 29.11 | 29.11 | 0.0 | 0.00 | 8 | 0.0 |
 | light corn syrup or glucose syrup | Syrups, corn, light (FDC 168837) | 60 | 169.8 | 0.0 | 46.1 | 46.06 | 46.06 | 0.1 | 0.00 | 37 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
-| alcohol-free vanilla extract or paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6 | 17.3 | 0.0 | 0.8 | 0.76 | 0.76 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6 | 17.3 | 0.0 | 0.8 | 0.76 | 0.76 | 0.0 | 0.00 | 1 | 0.0 |
 | **Total** | | | 2901 | 28.6 | 218.6 | 217.95 | 185.71 | 217.4 | 142.36 | 932 | 0.0 |
 
 **Per serving (total / 8):** kcal 363, protein_g 3.6, carbs_g 27.3, sugar_g 27.2, free_sugar_g 23.2, fat_g 27.2, satfat_g 17.8, salt_g 0.29, fibre_g 0.0
@@ -26,6 +26,5 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.
 - No eggs are used, so nothing needs cooking to a safe temperature; the dairy is only warmed to dissolve the sugar.

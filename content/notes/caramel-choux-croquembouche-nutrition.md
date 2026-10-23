@@ -20,7 +20,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | cornflour (cornstarch) | Cornstarch (SR 20027) | 60 | 228.6 | 0.2 | 54.8 | 0.00 | 0.00 | 0.0 | 0.01 | 5 | 0.5 |
 | fine salt | Salt, table (SR 02047) | 0.375 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 145 | 0.0 |
 | unsalted butter | Butter, without salt (SR 01145) | 40 | 286.8 | 0.3 | 0.0 | 0.02 | 0.00 | 32.4 | 20.55 | 4 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 12.6 | 36.3 | 0.0 | 1.6 | 1.59 | 1.59 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 12.6 | 36.3 | 0.0 | 1.6 | 1.59 | 1.59 | 0.0 | 0.00 | 1 | 0.0 |
 | cold double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 240 | 816.0 | 6.8 | 6.8 | 7.01 | 0.00 | 86.6 | 55.28 | 65 | 0.0 |
 | granulated sugar (about 60% of the caramel ends up on the tower) | Sugars, granulated (SR 19335) | 360 | 1393.2 | 0.0 | 359.9 | 359.28 | 359.28 | 0.0 | 0.00 | 4 | 0.0 |
 | water | Water, tap (SR 14411) | 180 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 7 | 0.0 |

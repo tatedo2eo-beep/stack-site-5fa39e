@@ -9,7 +9,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | frozen peas, thawed | Peas, green, frozen, cooked, boiled, drained, without salt (FDC 170017) | 170 | 132.6 | 8.8 | 24.2 | 7.48 | 0.00 | 0.5 | 0.08 | 122 | 7.6 |
 | ricotta | Cheese, ricotta, whole milk (FDC 170851) | 60 | 90.0 | 4.5 | 4.4 | 0.16 | 0.00 | 6.1 | 3.85 | 66 | 0.0 |
 | shelled unsalted pistachios, toasted | Nuts, pistachio nuts, dry roasted, without salt added (FDC 170185) | 50 | 286.0 | 10.5 | 14.1 | 3.87 | 0.00 | 22.9 | 2.82 | 3 | 5.2 |
-| Pecorino-style hard cheese, grated (animal-rennet-free) | Cheese, romano (FDC 171249) | 25 | 96.8 | 8.0 | 0.9 | 0.18 | 0.00 | 6.7 | 4.28 | 358 | 0.0 |
+| Pecorino-style hard cheese, grated | Cheese, romano (FDC 171249) | 25 | 96.8 | 8.0 | 0.9 | 0.18 | 0.00 | 6.7 | 4.28 | 358 | 0.0 |
 | garlic cloves, peeled | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | finely grated lemon zest | Lemon peel, raw (SR 09156) | 6 | 2.8 | 0.1 | 1.0 | 0.25 | 0.00 | 0.0 | 0.00 | 0 | 0.6 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 15 | 3.3 | 0.1 | 1.0 | 0.38 | 0.38 | 0.0 | 0.01 | 0 | 0.0 |

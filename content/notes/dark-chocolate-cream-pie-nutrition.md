@@ -17,7 +17,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 742 | 452.6 | 23.4 | 35.6 | 37.47 | 0.00 | 24.1 | 13.84 | 319 | 0.0 |
 | dark chocolate (60-70%), chopped | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 140 | 837.2 | 10.9 | 64.3 | 33.60 | 33.60 | 59.6 | 34.30 | 28 | 15.3 |
 | unsalted butter, softened | Butter, without salt (SR 01145) | 40 | 286.8 | 0.3 | 0.0 | 0.02 | 0.00 | 32.4 | 20.55 | 4 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | cold double cream | Cream, fluid, heavy whipping (FDC 170859) | 240 | 816.0 | 6.8 | 6.8 | 7.01 | 0.00 | 86.6 | 55.28 | 65 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 10 | 38.9 | 0.0 | 10.0 | 9.78 | 9.78 | 0.0 | 0.00 | 0 | 0.0 |
 | dark chocolate, for shaving | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 15 | 89.7 | 1.2 | 6.9 | 3.60 | 3.60 | 6.4 | 3.67 | 3 | 1.6 |

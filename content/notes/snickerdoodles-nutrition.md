@@ -8,7 +8,7 @@ Servings: 24. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | caster sugar | Sugars, granulated (SR 19335) | 200 | 774.0 | 0.0 | 200.0 | 199.60 | 199.60 | 0.0 | 0.00 | 2 | 0.0 |
 | large egg | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
 | large egg yolk | Egg, yolk, raw, fresh (SR 01125) | 17 | 54.7 | 2.7 | 0.6 | 0.10 | 0.00 | 4.5 | 1.62 | 8 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 250 | 910.0 | 25.8 | 190.8 | 0.68 | 0.00 | 2.5 | 0.39 | 5 | 6.8 |
 | cream of tartar | Leavening agents, cream of tartar (FDC 175041) | 6 | 15.5 | 0.0 | 3.7 | 0.00 | 0.00 | 0.0 | 0.00 | 3 | 0.0 |
 | bicarbonate of soda | Leavening agents, baking soda (SR 18372) | 4.6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1259 | 0.0 |

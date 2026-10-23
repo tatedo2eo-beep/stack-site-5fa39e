@@ -19,7 +19,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | neutral oil (rapeseed or sunflower) | Oil, canola (SR 04582) | 80 | 707.2 | 0.0 | 0.0 | 0.00 | 0.00 | 80.0 | 5.90 | 0 | 0.0 |
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 30 | 18.3 | 0.9 | 1.4 | 1.51 | 0.00 | 1.0 | 0.56 | 13 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 3566 | 50.8 | 419.6 | 288.54 | 274.98 | 192.0 | 70.48 | 1933 | 28.2 |
 
 **Per serving (total / 16):** kcal 223, protein_g 3.2, carbs_g 26.2, sugar_g 18.0, free_sugar_g 17.2, fat_g 12.0, satfat_g 4.4, salt_g 0.3, fibre_g 1.8

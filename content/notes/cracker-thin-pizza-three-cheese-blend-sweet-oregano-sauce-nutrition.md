@@ -35,4 +35,3 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Provel (a processed cheddar, Swiss and provolone blend) is hard to find; this mix of cheddar, Swiss and mozzarella is close in melt and flavour.
 - Liquid smoke, sometimes added to copy provel, is left out (some brands use alcohol as a carrier).
 - Swiss cheese is usually made with animal rennet; choose a vegetarian or one if needed.
-- Mozzarella, cheddar, Swiss, feta and Parmesan are often made with animal rennet; choose cheese made with microbial or vegetarian rennet if needed.

@@ -13,7 +13,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ground ginger | Spices, ginger, ground (FDC 170926) | 0.9 | 3.0 | 0.1 | 0.6 | 0.03 | 0.00 | 0.0 | 0.02 | 0 | 0.1 |
 | ground nutmeg | Spices, nutmeg, ground (FDC 171326) | 1.1 | 5.8 | 0.1 | 0.5 | 0.03 | 0.00 | 0.4 | 0.29 | 0 | 0.2 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 300 | 1020.0 | 8.5 | 8.5 | 8.76 | 0.00 | 108.2 | 69.10 | 81 | 0.0 |
-| alcohol-free vanilla extract or paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 2170 | 34.0 | 207.3 | 161.72 | 126.38 | 138.0 | 82.10 | 714 | 9.2 |
 
 **Per serving (total / 8):** kcal 271, protein_g 4.3, carbs_g 25.9, sugar_g 20.2, free_sugar_g 15.8, fat_g 17.2, satfat_g 10.3, salt_g 0.22, fibre_g 1.2
@@ -28,5 +28,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.

@@ -11,7 +11,7 @@
   "flavour_order": 2,
   "access": "premium",
   "base_recipe": "potato-gnocchi",
-  "changes_from_base": "Butter-tomato sauce replaced by a pounded basil, pine nut, Parmesan and pecorino-style cheese pesto, folded through off the heat.",
+  "changes_from_base": "Butter-tomato sauce replaced by a pounded basil, pine nut, Parmesan and pecorino pesto, folded through off the heat.",
   "summary": "This follows the same potato gnocchi method as our classic recipe, finished instead with a hand-pounded basil, pine nut and Parmesan pesto stirred through off the heat.",
   "servings": 4,
   "prep_min": 45,
@@ -84,13 +84,13 @@
       "group": "Pesto",
       "qty": 25,
       "unit": "g",
-      "item": "Parmesan-style hard cheese (microbial rennet), finely grated"
+      "item": "Parmesan, finely grated"
     },
     {
       "group": "Pesto",
       "qty": 15,
       "unit": "g",
-      "item": "pecorino-style hard cheese (microbial rennet), finely grated"
+      "item": "pecorino, finely grated"
     },
     {
       "group": "Pesto",
@@ -109,7 +109,7 @@
       "group": "To serve",
       "qty": 15,
       "unit": "g",
-      "item": "Parmesan-style hard cheese (microbial rennet), finely grated"
+      "item": "Parmesan, finely grated"
     }
   ],
   "steps": [
@@ -123,7 +123,7 @@
     },
     {
       "title": "Finish the pesto",
-      "text": "Stir in the Parmesan and pecorino-style cheese, then pour in the olive oil in a thin stream, stirring until the pesto turns creamy. If using a food processor instead, pulse rather than running it continuously, and add the oil last. Press a layer of cling film onto the surface to stop it discolouring while you make the gnocchi."
+      "text": "Stir in the Parmesan and pecorino, then pour in the olive oil in a thin stream, stirring until the pesto turns creamy. If using a food processor instead, pulse rather than running it continuously, and add the oil last. Press a layer of cling film onto the surface to stop it discolouring while you make the gnocchi."
     },
     {
       "title": "Bake the potatoes",

@@ -14,13 +14,13 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | caster sugar | Sugars, granulated (SR 19335) | 200 | 774.0 | 0.0 | 200.0 | 199.60 | 199.60 | 0.0 | 0.00 | 2 | 0.0 |
 | light brown soft sugar | Sugars, brown (SR 19334) | 100 | 380.0 | 0.1 | 98.1 | 97.02 | 97.02 | 0.0 | 0.00 | 28 | 0.0 |
 | neutral oil (sunflower or rapeseed) | Oil, canola (SR 04582) | 270 | 2386.8 | 0.0 | 0.0 | 0.00 | 0.00 | 270.0 | 19.90 | 0 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | carrots, peeled and coarsely grated | Carrots, raw (SR 11124) | 400 | 164.0 | 3.7 | 38.3 | 18.96 | 0.00 | 1.0 | 0.15 | 276 | 11.2 |
 | walnuts, toasted and chopped | Nuts, walnuts, English (SR 12155) | 100 | 654.0 | 15.2 | 13.7 | 2.61 | 0.00 | 65.2 | 6.13 | 2 | 6.7 |
 | full-fat cream cheese (block), at room temperature | Cheese, cream (FDC 173418) | 340 | 1190.0 | 20.9 | 18.8 | 12.78 | 0.00 | 117.1 | 68.72 | 1068 | 0.0 |
 | unsalted butter, softened but cool | Butter, without salt (SR 01145) | 90 | 645.3 | 0.8 | 0.1 | 0.05 | 0.00 | 73.0 | 46.23 | 10 | 0.0 |
 | icing sugar, sifted | Sugars, powdered (FDC 169656) | 250 | 972.5 | 0.0 | 249.4 | 244.53 | 244.53 | 0.0 | 0.00 | 5 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | **Total** | | | 8590 | 97.1 | 855.6 | 578.31 | 542.21 | 548.7 | 148.16 | 4818 | 29.0 |
 

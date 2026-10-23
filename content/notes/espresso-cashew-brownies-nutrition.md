@@ -12,7 +12,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | dark brown soft sugar | Sugars, brown (SR 19334) | 60 | 228.0 | 0.1 | 58.9 | 58.21 | 58.21 | 0.0 | 0.00 | 17 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 75 | 273.0 | 7.7 | 57.2 | 0.20 | 0.00 | 0.7 | 0.12 | 2 | 2.0 |
 | **Total** | | | 4022 | 64.7 | 396.1 | 255.97 | 246.46 | 250.5 | 120.44 | 1396 | 28.8 |
 

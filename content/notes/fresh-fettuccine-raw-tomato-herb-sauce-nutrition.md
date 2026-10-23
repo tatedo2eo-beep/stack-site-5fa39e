@@ -10,7 +10,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | chopped flat-leaf parsley | Parsley, fresh (SR 11297) | 12 | 4.3 | 0.4 | 0.8 | 0.10 | 0.00 | 0.1 | 0.02 | 7 | 0.4 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 1.86 | 0 | 0.0 |
 | very ripe tomatoes, cored and cut into chunks | Tomatoes, red, ripe, raw (SR 11529) | 1100 | 198.0 | 9.7 | 42.8 | 28.93 | 0.00 | 2.2 | 0.31 | 55 | 13.2 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 70 | 274.4 | 25.0 | 2.3 | 0.56 | 0.00 | 18.1 | 11.49 | 1121 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 70 | 274.4 | 25.0 | 2.3 | 0.56 | 0.00 | 18.1 | 11.49 | 1121 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | fresh egg fettuccine | Pasta, fresh-refrigerated, plain, as purchased (FDC 169727) | 500 | 1440.0 | 56.6 | 273.6 | 0.00 | 0.00 | 11.5 | 1.64 | 130 | 0.0 |
 | fine salt for 4 litres of pasta water (0.5%) (about 1.0 g: absorbed by 500 g fresh pasta) | Salt, table (SR 02047) | 1 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 388 | 0.0 |
@@ -28,4 +28,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian-rennet cheese if you need one.

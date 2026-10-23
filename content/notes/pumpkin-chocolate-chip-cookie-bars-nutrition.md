@@ -15,7 +15,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | bicarbonate of soda | Leavening agents, baking soda (SR 18372) | 2 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 547 | 0.0 |
 | dark brown soft sugar | Sugars, brown (SR 19334) | 160 | 608.0 | 0.2 | 156.9 | 155.23 | 155.23 | 0.0 | 0.00 | 45 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 65 | 251.6 | 0.0 | 65.0 | 64.87 | 64.87 | 0.0 | 0.00 | 1 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | dark chocolate chips | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 210 | 1255.8 | 16.4 | 96.4 | 50.40 | 50.40 | 89.5 | 51.45 | 42 | 22.9 |
 | **Total** | | | 3985 | 41.7 | 498.3 | 277.15 | 271.56 | 205.9 | 124.12 | 1826 | 35.3 |
 

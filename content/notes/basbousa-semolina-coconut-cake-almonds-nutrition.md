@@ -15,7 +15,7 @@ Servings: 24. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | caster sugar | Sugars, granulated (SR 19335) | 200 | 774.0 | 0.0 | 200.0 | 199.60 | 199.60 | 0.0 | 0.00 | 2 | 0.0 |
 | plain whole-milk yoghurt | Yogurt, plain, whole milk (FDC 171284) | 230 | 140.3 | 8.0 | 10.7 | 10.72 | 0.00 | 7.5 | 4.82 | 106 | 0.0 |
 | large eggs, beaten | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8 | 23.0 | 0.0 | 1.0 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8 | 23.0 | 0.0 | 1.0 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.0 |
 | whole blanched almonds | Nuts, almonds (SR 12061) | 30 | 173.7 | 6.3 | 6.5 | 1.30 | 0.00 | 15.0 | 1.14 | 0 | 3.8 |
 | **Total** | | | 4978 | 67.9 | 741.3 | 518.72 | 500.07 | 204.1 | 129.35 | 1627 | 28.4 |
 
@@ -31,4 +31,3 @@ Servings: 24. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.

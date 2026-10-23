@@ -7,7 +7,7 @@ Servings: 24. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | unsalted butter | Butter, without salt (SR 01145) | 115 | 824.5 | 1.0 | 0.1 | 0.07 | 0.00 | 93.3 | 59.08 | 13 | 0.0 |
 | light brown soft sugar | Sugars, brown (SR 19334) | 400 | 1520.0 | 0.5 | 392.4 | 388.08 | 388.08 | 0.0 | 0.00 | 112 | 0.0 |
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 200 | 728.0 | 20.7 | 152.6 | 0.54 | 0.00 | 2.0 | 0.31 | 4 | 5.4 |
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 8 | 4.2 | 0.0 | 2.2 | 0.00 | 0.00 | 0.0 | 0.00 | 848 | 0.0 |

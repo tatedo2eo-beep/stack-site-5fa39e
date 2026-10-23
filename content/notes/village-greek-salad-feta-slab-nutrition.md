@@ -15,7 +15,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | pitted Kalamata olives | Olives, pickled, canned or bottled, green (FDC 169096) | 60 | 87.0 | 0.6 | 2.3 | 0.32 | 0.00 | 9.2 | 1.22 | 934 | 2.0 |
 | capers, rinsed | Capers, canned (SR 02054) | 9 | 2.1 | 0.2 | 0.4 | 0.04 | 0.00 | 0.1 | 0.02 | 211 | 0.3 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 54 | 477.4 | 0.0 | 0.0 | 0.00 | 0.00 | 54.0 | 7.46 | 1 | 0.0 |
-| block of feta (animal-rennet-free), cut into 2 thick slabs | Cheese, feta (SR 01019) | 200 | 528.0 | 28.4 | 8.2 | 8.18 | 0.00 | 42.6 | 29.90 | 1834 | 0.0 |
+| block of feta, cut into 2 thick slabs | Cheese, feta (SR 01019) | 200 | 528.0 | 28.4 | 8.2 | 8.18 | 0.00 | 42.6 | 29.90 | 1834 | 0.0 |
 | **Total** | | | 1338 | 39.8 | 64.9 | 39.11 | 0.00 | 108.0 | 39.06 | 3903 | 16.6 |
 
 **Per serving (total / 4):** kcal 334, protein_g 10.0, carbs_g 16.2, sugar_g 9.8, free_sugar_g 0.0, fat_g 27.0, satfat_g 9.8, salt_g 2.44, fibre_g 4.2
@@ -31,5 +31,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Cider vinegar gives the acidity.
-- Check the feta is made with microbial or vegetarian rennet.
 - Red onion counted as onion.

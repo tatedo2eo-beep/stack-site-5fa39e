@@ -13,11 +13,11 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | anchovy fillets in oil, drained, patted dry and mashed to a paste | Fish, anchovy, European, canned in oil, drained (FDC 174183) | 16 | 33.6 | 4.6 | 0.0 | 0.00 | 0.00 | 1.6 | 0.35 | 587 | 0.0 |
 | garlic cloves, grated to a paste | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | mustard powder | Spices, mustard seed, ground (FDC 170929) | 0.8 | 4.1 | 0.2 | 0.2 | 0.05 | 0.00 | 0.3 | 0.02 | 0 | 0.1 |
-| Parmesan-style hard cheese, finely grated (animal-rennet-free) | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
+| Parmesan-style hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 3.73 | 1 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | romaine hearts (about 2), cut into 2 cm strips | Lettuce, cos or romaine, raw (SR 11251) | 500 | 85.0 | 6.2 | 16.4 | 5.95 | 0.00 | 1.5 | 0.20 | 40 | 10.5 |
-| Parmesan-style hard cheese, shaved (animal-rennet-free) | Cheese, parmesan, hard (SR 01033) | 20 | 78.4 | 7.2 | 0.6 | 0.16 | 0.00 | 5.2 | 3.28 | 320 | 0.0 |
+| Parmesan-style hard cheese, shaved | Cheese, parmesan, hard (SR 01033) | 20 | 78.4 | 7.2 | 0.6 | 0.16 | 0.00 | 5.2 | 3.28 | 320 | 0.0 |
 | **Total** | | | 1903 | 46.6 | 101.5 | 14.73 | 8.26 | 148.9 | 28.79 | 3124 | 14.4 |
 
 **Per serving (total / 4):** kcal 476, protein_g 11.7, carbs_g 25.4, sugar_g 3.7, free_sugar_g 2.1, fat_g 37.2, satfat_g 7.2, salt_g 1.95, fibre_g 3.6
@@ -33,4 +33,3 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - A mayonnaise base replaces the raw or coddled egg yolk (food safety); mustard powder adds the tang.
-- Check the hard cheese is made with microbial or vegetarian rennet (many traditional Italian hard cheeses use animal rennet).

@@ -15,7 +15,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | dark brown sugar | Sugars, brown (SR 19334) | 110 | 418.0 | 0.1 | 107.9 | 106.72 | 106.72 | 0.0 | 0.00 | 31 | 0.0 |
 | black treacle or molasses | Molasses (FDC 168820) | 60 | 174.0 | 0.0 | 44.8 | 44.83 | 44.83 | 0.1 | 0.01 | 22 | 0.0 |
 | neutral oil (sunflower or rapeseed) | Oil, canola (SR 04582) | 73 | 645.3 | 0.0 | 0.0 | 0.00 | 0.00 | 73.0 | 5.38 | 0 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | raisins | Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program) (FDC 168165) | 80 | 239.2 | 2.6 | 63.5 | 52.14 | 0.00 | 0.2 | 0.08 | 21 | 3.6 |
 | **Total** | | | 2648 | 59.2 | 438.4 | 220.15 | 152.09 | 91.2 | 11.14 | 3550 | 48.6 |
 

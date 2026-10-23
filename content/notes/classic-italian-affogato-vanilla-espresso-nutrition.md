@@ -20,6 +20,5 @@ Servings: 2. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose an ice cream flavoured with alcohol-free vanilla.
 - Caffeine is not part of the nutrition panel; each serving has roughly 120-130 mg (EFSA guidance: up to 400 mg a day for healthy adults, 200 mg in pregnancy).
 - Nothing else is added: just ice cream and coffee.

@@ -9,7 +9,7 @@ Dish: Focaccia / flavour: Parmesan. Private file, not published.
 > Written for this batch. Quantities, step structure and wording are my own and differ from the source; quantities sanity-checked independently.
 
 ## Own cooking judgment
-- Simple stretch-and-fold method; microbial-rennet cheese note.
+- Simple stretch-and-fold method.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

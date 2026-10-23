@@ -10,7 +10,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 360 | 1224.0 | 10.2 | 10.2 | 10.51 | 0.00 | 129.9 | 82.92 | 97 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 185 | 112.9 | 5.8 | 8.9 | 9.34 | 0.00 | 6.0 | 3.45 | 80 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | instant espresso powder | Beverages, coffee, instant, regular, powder (FDC 171893) | 1 | 3.5 | 0.1 | 0.8 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | dark chocolate, for shaving | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 30 | 179.4 | 2.3 | 13.8 | 7.20 | 7.20 | 12.8 | 7.35 | 6 | 3.3 |
 | **Total** | | | 3545 | 51.5 | 212.5 | 148.47 | 128.14 | 277.7 | 163.09 | 857 | 30.5 |

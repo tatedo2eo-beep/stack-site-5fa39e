@@ -9,7 +9,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | cocoa powder | Cocoa, dry powder, unsweetened, processed with alkali (FDC 169594) | 55 | 121.0 | 10.0 | 32.1 | 0.97 | 0.00 | 7.2 | 4.27 | 10 | 16.4 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 1 | 0.5 | 0.0 | 0.3 | 0.00 | 0.00 | 0.0 | 0.00 | 106 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 55 | 200.2 | 5.7 | 42.0 | 0.15 | 0.00 | 0.5 | 0.09 | 1 | 1.5 |
 | dark chocolate chips | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 100 | 598.0 | 7.8 | 45.9 | 24.00 | 24.00 | 42.6 | 24.50 | 20 | 10.9 |
@@ -17,7 +17,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | caster sugar | Sugars, granulated (SR 19335) | 60 | 232.2 | 0.0 | 60.0 | 59.88 | 59.88 | 0.0 | 0.00 | 1 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 8 | 29.1 | 0.8 | 6.1 | 0.02 | 0.00 | 0.1 | 0.01 | 0 | 0.2 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 30 | 102.0 | 0.9 | 0.9 | 0.88 | 0.00 | 10.8 | 6.91 | 8 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | large egg, at room temperature | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
 | **Total** | | | 3998 | 58.8 | 426.5 | 320.33 | 309.23 | 246.3 | 145.03 | 1663 | 29.0 |
 

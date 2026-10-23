@@ -12,11 +12,11 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | seedless raspberry jam | Jams and preserves (FDC 169641) | 120 | 333.6 | 0.4 | 82.6 | 58.20 | 58.20 | 0.1 | 0.01 | 38 | 1.3 |
 | caster sugar | Sugars, granulated (SR 19335) | 240 | 928.8 | 0.0 | 240.0 | 239.52 | 239.52 | 0.0 | 0.00 | 2 | 0.0 |
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | full-fat cream cheese, softened | Cheese, cream (FDC 173418) | 225 | 787.5 | 13.8 | 12.4 | 8.46 | 0.00 | 77.5 | 45.48 | 706 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 50 | 193.5 | 0.0 | 50.0 | 49.90 | 49.90 | 0.0 | 0.00 | 0 | 0.0 |
 | large egg yolk | Egg, yolk, raw, fresh (SR 01125) | 18 | 58.0 | 2.9 | 0.6 | 0.10 | 0.00 | 4.8 | 1.72 | 9 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 3.15 | 9.1 | 0.0 | 0.4 | 0.40 | 0.40 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 3.15 | 9.1 | 0.0 | 0.4 | 0.40 | 0.40 | 0.0 | 0.00 | 0 | 0.0 |
 | fresh raspberries | Raspberries, raw (FDC 167755) | 80 | 41.6 | 1.0 | 9.6 | 3.54 | 0.00 | 0.5 | 0.02 | 1 | 5.2 |
 | **Total** | | | 4494 | 64.2 | 503.3 | 362.84 | 348.82 | 251.5 | 148.26 | 2388 | 28.2 |
 

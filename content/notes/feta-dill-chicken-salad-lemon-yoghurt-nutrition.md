@@ -14,7 +14,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | spring onions, thinly sliced | Onions, spring or scallions, raw (SR 11291) | 45 | 14.4 | 0.8 | 3.3 | 1.05 | 0.00 | 0.1 | 0.01 | 7 | 1.2 |
-| feta (animal-rennet-free), cut into 1 cm cubes | Cheese, feta (SR 01019) | 150 | 396.0 | 21.3 | 6.1 | 6.13 | 0.00 | 31.9 | 22.42 | 1376 | 0.0 |
+| feta, cut into 1 cm cubes | Cheese, feta (SR 01019) | 150 | 396.0 | 21.3 | 6.1 | 6.13 | 0.00 | 31.9 | 22.42 | 1376 | 0.0 |
 | **Total** | | | 1852 | 188.0 | 17.5 | 11.58 | 1.18 | 110.5 | 37.01 | 2794 | 2.4 |
 
 **Per serving (total / 6):** kcal 309, protein_g 31.3, carbs_g 2.9, sugar_g 1.9, free_sugar_g 0.2, fat_g 18.4, satfat_g 6.2, salt_g 1.16, fibre_g 0.4

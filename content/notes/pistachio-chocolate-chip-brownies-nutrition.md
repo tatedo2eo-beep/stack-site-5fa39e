@@ -9,7 +9,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | Dutch-process cocoa powder | Cocoa, dry powder, unsweetened, processed with alkali (FDC 169594) | 45 | 99.0 | 8.1 | 26.2 | 0.79 | 0.00 | 5.9 | 3.49 | 9 | 13.4 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 120 | 436.8 | 12.4 | 91.6 | 0.32 | 0.00 | 1.2 | 0.19 | 2 | 3.2 |
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 2 | 1.1 | 0.0 | 0.6 | 0.00 | 0.00 | 0.0 | 0.00 | 212 | 0.0 |
 | semisweet chocolate chips | Candies, semisweet chocolate (FDC 167976) | 125 | 600.0 | 5.2 | 79.9 | 68.12 | 68.12 | 37.5 | 22.25 | 14 | 7.4 |

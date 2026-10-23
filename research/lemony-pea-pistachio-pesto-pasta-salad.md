@@ -11,7 +11,7 @@ Dish: Pasta salad / flavour: Pea & pistachio. Private file, not published.
 ## Own cooking judgment
 - Metric quantities and our own wording
 - Fewer, regrouped steps in a different order
-- Half the peas kept whole; lemon juice and pistachio garnish added; animal-rennet-free cheese
+- Half the peas kept whole; lemon juice and pistachio garnish added
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

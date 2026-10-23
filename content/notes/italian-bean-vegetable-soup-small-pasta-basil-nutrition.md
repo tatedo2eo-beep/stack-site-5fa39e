@@ -21,7 +21,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | small soup pasta (ditalini or similar) | Pasta, dry, enriched (SR 20120) | 80 | 296.8 | 10.4 | 59.7 | 2.14 | 0.00 | 1.2 | 0.22 | 5 | 2.6 |
 | spinach, shredded | Spinach, raw (SR 11457) | 60 | 13.8 | 1.7 | 2.2 | 0.25 | 0.00 | 0.2 | 0.04 | 47 | 1.3 |
 | basil leaves, torn | Basil, fresh (FDC 172232) | 10 | 2.3 | 0.3 | 0.3 | 0.03 | 0.00 | 0.1 | 0.00 | 0 | 0.2 |
-| Parmesan-style hard cheese, finely grated, to serve (animal-rennet-free) | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
+| Parmesan-style hard cheese, finely grated, to serve | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
 | extra-virgin olive oil, to drizzle | Oil, olive, salad or cooking (SR 04053) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 1.86 | 0 | 0.0 |
 | **Total** | | | 1660 | 56.5 | 221.5 | 39.53 | 0.00 | 66.9 | 13.44 | 5027 | 40.8 |
 

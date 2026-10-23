@@ -7,7 +7,7 @@ Servings: 40. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | unsalted butter, very soft | Butter, without salt (SR 01145) | 100 | 717.0 | 0.8 | 0.1 | 0.06 | 0.00 | 81.1 | 51.37 | 11 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 100 | 389.0 | 0.0 | 99.8 | 97.81 | 97.81 | 0.0 | 0.00 | 2 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.4 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 155 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | large egg whites, at room temperature | Egg, white, raw, fresh (SR 01124) | 100 | 52.0 | 10.9 | 0.7 | 0.71 | 0.00 | 0.2 | 0.00 | 166 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 110 | 400.4 | 11.4 | 83.9 | 0.30 | 0.00 | 1.1 | 0.17 | 2 | 3.0 |
 | finely grated lemon zest (optional) | Lemon peel, raw (SR 09156) | 2 | 0.9 | 0.0 | 0.3 | 0.08 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |

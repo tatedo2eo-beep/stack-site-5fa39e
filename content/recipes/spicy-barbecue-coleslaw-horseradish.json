@@ -11,7 +11,7 @@
   "flavour_order": 103,
   "access": "premium",
   "base_recipe": "creamy-two-cabbage-coleslaw",
-  "changes_from_base": "Horseradish, cayenne and tamarind make a peppery barbecue-style dressing, and the cabbage is wilted quickly in the microwave instead of salted.",
+  "changes_from_base": "Horseradish, cayenne and Worcestershire make a peppery barbecue-style dressing, and the cabbage is wilted quickly in the microwave instead of salted.",
   "extra_flavour": true,
   "photo_pending": true,
   "summary": "A creamy, peppery coleslaw with a horseradish and cayenne kick, made for barbecues and grilled meat.",
@@ -74,7 +74,7 @@
       "group": "Dressing",
       "qty": 1,
       "unit": "tsp",
-      "item": "tamarind paste"
+      "item": "Worcestershire sauce"
     },
     {
       "group": "Dressing",
@@ -119,7 +119,7 @@
     },
     {
       "title": "Dress",
-      "text": "Whisk the mayonnaise, vinegar, horseradish, tamarind, garlic, mustard, cayenne, pepper and remaining salt in the large bowl."
+      "text": "Whisk the mayonnaise, vinegar, horseradish, Worcestershire, garlic, mustard, cayenne, pepper and remaining salt in the large bowl."
     },
     {
       "title": "Chill",
@@ -135,22 +135,22 @@
   "allergens": [
     "eggs",
     "mustard",
+    "fish",
     "sulphites"
   ],
   "diet": [
-    "vegetarian",
     "gluten-free",
     "dairy-free"
   ],
   "nutrition_per_serving": {
-    "kcal": 180,
+    "kcal": 179,
     "protein_g": 2.1,
-    "carbs_g": 12.2,
-    "sugar_g": 7.2,
+    "carbs_g": 12.0,
+    "sugar_g": 7.0,
     "free_sugar_g": 1.6,
     "fat_g": 14.3,
     "satfat_g": 2.3,
-    "salt_g": 1.14,
+    "salt_g": 1.16,
     "fibre_g": 4.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",

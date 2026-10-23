@@ -9,7 +9,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | oil-packed sun-dried tomatoes, rinsed and blotted | Tomatoes, sun-dried, packed in oil, drained (FDC 169384) | 100 | 213.0 | 5.1 | 23.3 | 0.00 | 0.00 | 14.1 | 1.89 | 266 | 5.8 |
 | ricotta | Cheese, ricotta, whole milk (FDC 170851) | 60 | 90.0 | 4.5 | 4.4 | 0.16 | 0.00 | 6.1 | 3.85 | 66 | 0.0 |
 | pine nuts, toasted | Nuts, pine nuts, dried (FDC 170591) | 50 | 336.5 | 6.8 | 6.5 | 1.79 | 0.00 | 34.2 | 2.45 | 1 | 1.9 |
-| Parmesan-style hard cheese, finely grated (animal-rennet-free) | Cheese, parmesan, grated (FDC 171247) | 25 | 105.0 | 7.1 | 3.5 | 0.02 | 0.00 | 7.0 | 3.84 | 451 | 0.0 |
+| Parmesan-style hard cheese, finely grated | Cheese, parmesan, grated (FDC 171247) | 25 | 105.0 | 7.1 | 3.5 | 0.02 | 0.00 | 7.0 | 3.84 | 451 | 0.0 |
 | garlic cloves, peeled | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 54 | 477.4 | 0.0 | 0.0 | 0.00 | 0.00 | 54.0 | 7.46 | 1 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |

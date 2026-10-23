@@ -24,7 +24,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | milk powder | Milk, dry, whole, without added vitamin D (FDC 173454) | 20 | 99.2 | 5.3 | 7.7 | 7.68 | 0.00 | 5.3 | 3.35 | 74 | 0.0 |
 | freeze-dried sweetcorn, ground to a powder | ESTIMATE: freeze-dried sweetcorn; Corn, sweet, yellow, raw (FDC 169998) scaled to about 4% moisture | 24 | 82.6 | 3.1 | 18.0 | 6.00 | 0.00 | 1.3 | 0.31 | 14 | 1.9 |
 | fine salt | Salt, table (SR 02047) | 6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2325 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
 | icing sugar, for dusting | Sugars, powdered (FDC 169656) | 16 | 62.2 | 0.0 | 16.0 | 15.65 | 15.65 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 7207 | 64.9 | 799.3 | 638.03 | 617.18 | 434.0 | 259.49 | 3947 | 16.2 |
 

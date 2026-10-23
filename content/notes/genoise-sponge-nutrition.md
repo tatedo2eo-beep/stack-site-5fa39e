@@ -10,7 +10,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 90 | 327.6 | 9.3 | 68.7 | 0.24 | 0.00 | 0.9 | 0.14 | 2 | 2.4 |
 | cornflour | Cornstarch (SR 20027) | 30 | 114.3 | 0.1 | 27.4 | 0.00 | 0.00 | 0.0 | 0.00 | 3 | 0.3 |
 | unsalted butter, melted and cooled to warm | Butter, without salt (SR 01145) | 40 | 286.8 | 0.3 | 0.0 | 0.02 | 0.00 | 32.4 | 20.55 | 4 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 300 | 1020.0 | 8.5 | 8.5 | 8.76 | 0.00 | 108.2 | 69.10 | 81 | 0.0 |
 | icing sugar | Sugars, granulated (SR 19335) | 20 | 77.4 | 0.0 | 20.0 | 19.96 | 19.96 | 0.0 | 0.00 | 0 | 0.0 |
 | strawberries or mixed berries | Strawberries, raw (FDC 167762) | 250 | 80.0 | 1.7 | 19.2 | 12.22 | 0.00 | 0.8 | 0.04 | 2 | 5.0 |

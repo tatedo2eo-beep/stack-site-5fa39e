@@ -20,7 +20,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | cornflour (cornstarch) | Cornstarch (SR 20027) | 16 | 61.0 | 0.0 | 14.6 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | finely grated lemon zest | Lemon peel, raw (SR 09156) | 2 | 0.9 | 0.0 | 0.3 | 0.08 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 30 | 6.6 | 0.1 | 2.1 | 0.76 | 0.76 | 0.1 | 0.01 | 0 | 0.1 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | large egg, beaten (about 20 g used for glazing) | Egg, whole, raw, fresh (SR 01123) | 20 | 28.6 | 2.5 | 0.1 | 0.07 | 0.00 | 1.9 | 0.63 | 28 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 12 | 46.4 | 0.0 | 12.0 | 11.98 | 11.98 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 4733 | 46.0 | 698.9 | 366.20 | 222.59 | 206.0 | 125.83 | 3036 | 43.5 |

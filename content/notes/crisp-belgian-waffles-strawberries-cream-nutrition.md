@@ -8,7 +8,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 480 | 292.8 | 15.1 | 23.0 | 24.24 | 0.00 | 15.6 | 8.95 | 206 | 0.0 |
 | unsalted butter, melted and cooled slightly | Butter, without salt (SR 01145) | 110 | 788.7 | 0.9 | 0.1 | 0.07 | 0.00 | 89.2 | 56.51 | 12 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 50 | 193.5 | 0.0 | 50.0 | 49.90 | 49.90 | 0.0 | 0.00 | 0 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 13 | 37.4 | 0.0 | 1.6 | 1.64 | 1.64 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 13 | 37.4 | 0.0 | 1.6 | 1.64 | 1.64 | 0.0 | 0.00 | 1 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 256 | 931.8 | 26.4 | 195.4 | 0.69 | 0.00 | 2.5 | 0.40 | 5 | 6.9 |
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 8 | 4.2 | 0.0 | 2.2 | 0.00 | 0.00 | 0.0 | 0.00 | 848 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |

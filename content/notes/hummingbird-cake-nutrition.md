@@ -11,14 +11,14 @@ Servings: 14. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 300 | 1161.0 | 0.0 | 299.9 | 299.40 | 299.40 | 0.0 | 0.00 | 3 | 0.0 |
 | neutral oil (sunflower or rapeseed) | Oil, canola (SR 04582) | 200 | 1768.0 | 0.0 | 0.0 | 0.00 | 0.00 | 200.0 | 14.74 | 0 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | very ripe bananas, mashed | Bananas, raw (SR 09040) | 300 | 267.0 | 3.3 | 68.5 | 36.69 | 0.00 | 1.0 | 0.34 | 3 | 7.8 |
 | tinned crushed pineapple in juice, undrained (1 small tin) | Pineapple, canned, juice pack, solids and liquids (FDC 169126) | 225 | 135.0 | 0.9 | 35.3 | 32.51 | 0.00 | 0.2 | 0.01 | 2 | 1.8 |
 | pecans, toasted and chopped, plus 12 halves to decorate | Nuts, pecans (FDC 170182) | 130 | 898.3 | 11.9 | 18.0 | 5.16 | 0.00 | 93.6 | 8.03 | 0 | 12.5 |
 | full-fat cream cheese (block), at room temperature | Cheese, cream (FDC 173418) | 450 | 1575.0 | 27.7 | 24.8 | 16.92 | 0.00 | 155.0 | 90.96 | 1413 | 0.0 |
 | unsalted butter, softened but cool | Butter, without salt (SR 01145) | 170 | 1218.9 | 1.4 | 0.1 | 0.10 | 0.00 | 137.9 | 87.33 | 19 | 0.0 |
 | icing sugar, sifted | Sugars, powdered (FDC 169656) | 350 | 1361.5 | 0.0 | 349.2 | 342.34 | 342.34 | 0.0 | 0.00 | 7 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | **Total** | | | 9956 | 101.4 | 1076.5 | 736.33 | 643.33 | 605.4 | 206.68 | 4962 | 33.9 |
 

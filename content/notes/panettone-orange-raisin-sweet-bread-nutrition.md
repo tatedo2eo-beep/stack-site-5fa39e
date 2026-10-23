@@ -11,7 +11,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | golden syrup | ESTIMATE: golden syrup (partly inverted cane sugar syrup) from typical UK label values; SR Legacy has no entry and its corn/refiner blend lists no sugars | 60 | 195.0 | 0.2 | 48.6 | 48.60 | 48.60 | 0.0 | 0.00 | 84 | 0.0 |
 | large egg | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 35 | 112.7 | 5.6 | 1.3 | 0.20 | 0.00 | 9.3 | 3.34 | 17 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | finely grated orange zest | Oranges, raw, all commercial varieties (FDC 169097) | 4 | 1.9 | 0.0 | 0.5 | 0.37 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 390 | 1419.6 | 40.3 | 297.6 | 1.05 | 0.00 | 3.8 | 0.60 | 8 | 10.5 |
 | fast-action dried yeast | Leavening agents, yeast, baker's, active dry (FDC 175043) | 7 | 22.8 | 2.8 | 2.9 | 0.00 | 0.00 | 0.5 | 0.07 | 4 | 1.9 |
@@ -32,6 +32,5 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla extract is the alcohol-free kind (or use vanilla paste).
 - Almond extract is left out (it often contains alcohol).
 - Golden syrup replaces light corn syrup.

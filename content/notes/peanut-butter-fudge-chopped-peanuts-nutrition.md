@@ -7,7 +7,7 @@ Servings: 18. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | white chocolate, finely chopped | Candies, white chocolate (FDC 167571) | 300 | 1617.0 | 17.6 | 177.7 | 177.00 | 177.00 | 96.3 | 58.24 | 270 | 0.6 |
 | sweetened condensed milk (1 tin) | Milk, canned, condensed, sweetened (FDC 171275) | 397 | 1274.4 | 31.4 | 216.0 | 215.97 | 215.97 | 34.5 | 21.78 | 504 | 0.0 |
 | smooth peanut butter | Peanut butter, smooth style, with salt (Includes foods for USDA's Food Distribution Program) (FDC 174266) | 200 | 1196.0 | 44.4 | 44.6 | 20.98 | 0.00 | 102.7 | 20.65 | 852 | 10.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | roasted unsalted peanuts, chopped | Peanuts, all types, dry-roasted, without salt (FDC 173806) | 40 | 234.8 | 9.7 | 8.5 | 1.96 | 0.00 | 19.9 | 3.09 | 2 | 3.4 |
 | neutral oil, for the tin | Oil, canola (SR 04582) | 2 | 17.7 | 0.0 | 0.0 | 0.00 | 0.00 | 2.0 | 0.15 | 0 | 0.0 |
 | **Total** | | | 4352 | 103.2 | 447.3 | 416.44 | 393.50 | 255.4 | 103.90 | 1629 | 14.0 |

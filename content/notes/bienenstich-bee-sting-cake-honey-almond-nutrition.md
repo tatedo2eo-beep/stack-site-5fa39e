@@ -10,7 +10,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | cornflour | Cornstarch (SR 20027) | 40 | 152.4 | 0.1 | 36.5 | 0.00 | 0.00 | 0.0 | 0.00 | 4 | 0.4 |
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | unsalted butter | Butter, without salt (SR 01145) | 30 | 215.1 | 0.3 | 0.0 | 0.02 | 0.00 | 24.3 | 15.41 | 3 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6 | 17.3 | 0.0 | 0.8 | 0.76 | 0.76 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6 | 17.3 | 0.0 | 0.8 | 0.76 | 0.76 | 0.0 | 0.00 | 1 | 0.0 |
 | whole milk, lukewarm | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 185 | 112.9 | 5.8 | 8.9 | 9.34 | 0.00 | 6.0 | 3.45 | 80 | 0.0 |
 | large egg | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 34 | 109.5 | 5.4 | 1.2 | 0.19 | 0.00 | 9.0 | 3.25 | 16 | 0.0 |
@@ -38,5 +38,4 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla extract is the alcohol-free kind (or use vanilla paste).
 - No gelatine: the vanilla cream is set with extra cornflour instead.

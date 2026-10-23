@@ -12,7 +12,7 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | caster sugar, for the paper | Sugars, granulated (SR 19335) | 20 | 77.4 | 0.0 | 20.0 | 19.96 | 19.96 | 0.0 | 0.00 | 0 | 0.0 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 300 | 1020.0 | 8.5 | 8.5 | 8.76 | 0.00 | 108.2 | 69.10 | 81 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 25 | 97.2 | 0.0 | 24.9 | 24.45 | 24.45 | 0.0 | 0.00 | 0 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | dark chocolate (about 60% cocoa solids), finely chopped | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 200 | 1196.0 | 15.6 | 91.8 | 48.00 | 48.00 | 85.2 | 49.00 | 40 | 21.8 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 200 | 680.0 | 5.7 | 5.7 | 5.84 | 0.00 | 72.2 | 46.06 | 54 | 0.0 |
 | golden syrup | ESTIMATE: golden syrup (partly inverted cane sugar syrup) from typical UK label values; SR Legacy has no entry and its corn/refiner blend lists no sugars | 20 | 65.0 | 0.1 | 16.2 | 16.20 | 16.20 | 0.0 | 0.00 | 28 | 0.0 |

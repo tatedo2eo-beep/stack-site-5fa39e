@@ -10,7 +10,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 1 | 0.5 | 0.0 | 0.3 | 0.00 | 0.00 | 0.0 | 0.00 | 106 | 0.0 |
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | neutral oil (rapeseed or sunflower) | Oil, canola (SR 04582) | 100 | 884.0 | 0.0 | 0.0 | 0.00 | 0.00 | 100.0 | 7.37 | 0 | 0.0 |
 | semisweet chocolate chips | Candies, semisweet chocolate (FDC 167976) | 140 | 672.0 | 5.9 | 89.5 | 76.30 | 76.30 | 42.0 | 24.92 | 15 | 8.3 |
 | walnuts or pecans, chopped | Nuts, walnuts, English (SR 12155) | 80 | 523.2 | 12.2 | 11.0 | 2.09 | 0.00 | 52.2 | 4.90 | 2 | 5.4 |

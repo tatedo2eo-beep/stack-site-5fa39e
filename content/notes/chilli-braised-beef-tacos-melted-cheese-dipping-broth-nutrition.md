@@ -35,5 +35,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose a mozzarella made with microbial rennet.
 - Nutrition counts all the beef, chillies and salt, and about 125 ml broth per person; some fat is skimmed off and only part of it is used for frying.

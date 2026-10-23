@@ -1,6 +1,6 @@
 {
   "slug": "alpine-cheese-gougeres",
-  "title": "Alpine Cheese Gougères",
+  "title": "Cheesy Gruyère Gougères",
   "category": "snacks-sides",
   "cuisine": "French",
   "chapter": "appetizers-dips",
@@ -10,7 +10,7 @@
   "flavour": "Classic",
   "flavour_order": 0,
   "access": "free",
-  "summary": "A choux paste of water, butter and flour is cooked, beaten with eggs and alpine-style cheese, piped into small mounds, topped with Parmesan and baked at two temperatures before drying in the oven.",
+  "summary": "A choux paste of water, butter and flour is cooked, beaten with eggs and Gruyère, piped into small mounds, topped with Parmesan and baked at two temperatures before drying in the oven.",
   "servings": 8,
   "prep_min": 20,
   "cook_min": 40,
@@ -66,15 +66,13 @@
       "group": "Cheese",
       "qty": 140,
       "unit": "g",
-      "item": "alpine-style hard cheese (microbial rennet), coarsely grated",
-      "note": "choose one made with microbial rennet"
+      "item": "Gruyère, coarsely grated"
     },
     {
       "group": "Cheese",
       "qty": 30,
       "unit": "g",
-      "item": "Parmesan, finely grated",
-      "note": "microbial rennet"
+      "item": "Parmesan, finely grated"
     }
   ],
   "steps": [
@@ -88,7 +86,7 @@
     },
     {
       "title": "Beat in the eggs",
-      "text": "Cool briefly, then beat in the eggs gradually until glossy, and add the alpine-style cheese."
+      "text": "Cool briefly, then beat in the eggs gradually until glossy, and add the Gruyère."
     },
     {
       "title": "Pipe",
@@ -131,7 +129,7 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "gougeres-basic.jpg",
-  "image_alt": "A plate of golden alpine-style cheese gougères, one torn open to show the hollow centre.",
+  "image_alt": "A plate of golden Gruyère gougères, one torn open to show the hollow centre.",
   "inspired_by": [
     "NYT Cooking",
     "America's Test Kitchen"

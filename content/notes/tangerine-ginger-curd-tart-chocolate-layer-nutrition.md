@@ -21,7 +21,7 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | finely grated fresh ginger | Ginger root, raw (SR 11216) | 6 | 4.8 | 0.1 | 1.1 | 0.10 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | unsalted butter, cubed | Butter, without salt (SR 01145) | 170 | 1218.9 | 1.4 | 0.1 | 0.10 | 0.00 | 137.9 | 87.33 | 19 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | soured cream or crème fraîche | Cream, sour, cultured (FDC 171257) | 120 | 237.6 | 2.9 | 5.6 | 4.09 | 0.00 | 23.2 | 12.17 | 37 | 0.0 |
 | **Total** | | | 4772 | 76.0 | 402.5 | 198.06 | 191.57 | 322.6 | 186.09 | 1003 | 14.3 |
 

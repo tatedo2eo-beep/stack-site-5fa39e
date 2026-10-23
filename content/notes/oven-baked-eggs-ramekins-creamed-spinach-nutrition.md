@@ -9,7 +9,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | baby spinach | Spinach, raw (SR 11457) | 300 | 69.0 | 8.6 | 10.9 | 1.26 | 0.00 | 1.2 | 0.19 | 237 | 6.6 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 60 | 204.0 | 1.7 | 1.7 | 1.75 | 0.00 | 21.6 | 13.82 | 16 | 0.0 |
 | ground nutmeg | Spices, nutmeg, ground (FDC 171326) | 0.275 | 1.4 | 0.0 | 0.1 | 0.01 | 0.00 | 0.1 | 0.07 | 0 | 0.1 |
-| Parmesan-style hard cheese, finely grated (animal-rennet-free) | Cheese, parmesan, hard (SR 01033) | 20 | 78.4 | 7.2 | 0.6 | 0.16 | 0.00 | 5.2 | 3.28 | 320 | 0.0 |
+| Parmesan-style hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 20 | 78.4 | 7.2 | 0.6 | 0.16 | 0.00 | 5.2 | 3.28 | 320 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 400 | 572.0 | 50.2 | 2.9 | 1.48 | 0.00 | 38.0 | 12.52 | 568 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |

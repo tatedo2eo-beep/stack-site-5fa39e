@@ -10,11 +10,11 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | cornflour | Cornstarch (SR 20027) | 35 | 133.3 | 0.1 | 31.9 | 0.00 | 0.00 | 0.0 | 0.00 | 3 | 0.3 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | unsalted butter, cold | Butter, without salt (SR 01145) | 25 | 179.2 | 0.2 | 0.0 | 0.01 | 0.00 | 20.3 | 12.84 | 3 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 200 | 774.0 | 0.0 | 200.0 | 199.60 | 199.60 | 0.0 | 0.00 | 2 | 0.0 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 2.25 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 872 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | cake flour (or plain flour; see note) | Wheat flour, white, cake, enriched (FDC 169723) | 200 | 724.0 | 16.4 | 156.1 | 0.62 | 0.00 | 1.7 | 0.25 | 4 | 3.4 |
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 8 | 4.2 | 0.0 | 2.2 | 0.00 | 0.00 | 0.0 | 0.00 | 848 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 165 | 100.6 | 5.2 | 7.9 | 8.33 | 0.00 | 5.4 | 3.08 | 71 | 0.0 |

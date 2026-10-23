@@ -10,7 +10,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ground cinnamon | Spices, cinnamon, ground (SR 02010) | 0.3 | 0.7 | 0.0 | 0.2 | 0.01 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 200 | 286.0 | 25.1 | 1.4 | 0.74 | 0.00 | 19.0 | 6.26 | 284 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 130 | 503.1 | 0.0 | 130.0 | 129.74 | 129.74 | 0.0 | 0.00 | 1 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 10.5 | 30.2 | 0.0 | 1.3 | 1.33 | 1.33 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 10.5 | 30.2 | 0.0 | 1.3 | 1.33 | 1.33 | 0.0 | 0.00 | 1 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 70 | 254.8 | 7.2 | 53.4 | 0.19 | 0.00 | 0.7 | 0.11 | 1 | 1.9 |
 | double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 240 | 816.0 | 6.8 | 6.8 | 7.01 | 0.00 | 86.6 | 55.28 | 65 | 0.0 |

@@ -9,18 +9,18 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 370 | 225.7 | 11.7 | 17.8 | 18.68 | 0.00 | 12.0 | 6.90 | 159 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 52 | 167.4 | 8.2 | 1.9 | 0.29 | 0.00 | 13.8 | 4.97 | 25 | 0.0 |
 | cold unsalted butter, cubed | Butter, without salt (SR 01145) | 40 | 286.8 | 0.3 | 0.0 | 0.02 | 0.00 | 32.4 | 20.55 | 4 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 200 | 286.0 | 25.1 | 1.4 | 0.74 | 0.00 | 19.0 | 6.26 | 284 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 70 | 225.4 | 11.1 | 2.5 | 0.39 | 0.00 | 18.6 | 6.69 | 34 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 245 | 948.2 | 0.0 | 245.0 | 244.51 | 244.51 | 0.0 | 0.00 | 2 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 240 | 873.6 | 24.8 | 183.1 | 0.65 | 0.00 | 2.4 | 0.37 | 5 | 6.5 |
 | cornflour | Cornstarch (FDC 169698) | 30 | 114.3 | 0.1 | 27.4 | 0.00 | 0.00 | 0.0 | 0.00 | 3 | 0.3 |
 | unsalted butter, melted and cooled | Butter, without salt (SR 01145) | 85 | 609.4 | 0.7 | 0.1 | 0.05 | 0.00 | 68.9 | 43.66 | 9 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8 | 23.0 | 0.0 | 1.0 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8 | 23.0 | 0.0 | 1.0 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.0 |
 | seedless raspberry jam | Jams and preserves (FDC 169641) | 300 | 834.0 | 1.1 | 206.6 | 145.50 | 145.50 | 0.2 | 0.03 | 96 | 3.3 |
 | double cream, cold | Cream, fluid, heavy whipping (FDC 170859) | 480 | 1632.0 | 13.6 | 13.6 | 14.02 | 0.00 | 173.2 | 110.55 | 130 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 30 | 116.7 | 0.0 | 29.9 | 29.34 | 29.34 | 0.0 | 0.00 | 1 | 0.0 |
-| vanilla paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla paste | Vanilla (USDA SR 02050) | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
 | ready-made marzipan | Nuts, almond paste (FDC 170160) | 400 | 1832.0 | 36.0 | 191.2 | 145.00 | 145.00 | 111.0 | 10.52 | 36 | 19.2 |
 | **Total** | | | 8512 | 132.9 | 1003.7 | 665.84 | 630.99 | 451.5 | 210.50 | 791 | 29.4 |
 
@@ -36,6 +36,5 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla extract is the alcohol-free kind (or use vanilla paste).
 - Ready-made marzipan avoids the raw egg white in homemade versions and is counted as almond paste for nutrition.
 - No gelatine is used: the custard is set with cornflour only.

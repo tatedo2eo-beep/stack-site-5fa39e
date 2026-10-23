@@ -15,7 +15,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | caster sugar | Sugars, granulated (SR 19335) | 25 | 96.8 | 0.0 | 25.0 | 24.95 | 24.95 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | large egg | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | strawberries, hulled and halved | Strawberries, raw (FDC 167762) | 650 | 208.0 | 4.4 | 49.9 | 31.78 | 0.00 | 1.9 | 0.10 | 6 | 13.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 8 | 31.1 | 0.0 | 8.0 | 7.82 | 7.82 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 2866 | 42.1 | 287.6 | 111.30 | 78.72 | 178.4 | 92.31 | 985 | 23.6 |

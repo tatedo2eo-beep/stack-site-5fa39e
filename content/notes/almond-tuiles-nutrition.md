@@ -9,7 +9,7 @@ Servings: 24. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | fine salt | Salt, table (SR 02047) | 0.4 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 155 | 0.0 |
 | large egg whites, at room temperature | Egg, white, raw, fresh (SR 01124) | 100 | 52.0 | 10.9 | 0.7 | 0.71 | 0.00 | 0.2 | 0.00 | 166 | 0.0 |
 | unsalted butter, melted and cooled | Butter, without salt (SR 01145) | 90 | 645.3 | 0.8 | 0.1 | 0.05 | 0.00 | 73.0 | 46.23 | 10 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | flaked almonds | Nuts, almonds (SR 12061) | 30 | 173.7 | 6.3 | 6.5 | 1.30 | 0.00 | 15.0 | 1.14 | 0 | 3.8 |
 | **Total** | | | 1600 | 27.3 | 176.2 | 100.65 | 98.34 | 89.0 | 47.51 | 335 | 6.2 |
 

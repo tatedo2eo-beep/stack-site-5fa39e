@@ -4,7 +4,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | instant espresso powder | Beverages, coffee, instant, regular, powder (FDC 171893) | 1 | 3.5 | 0.1 | 0.8 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 100 | 387.0 | 0.0 | 100.0 | 99.80 | 99.80 | 0.0 | 0.00 | 1 | 0.0 |
 | Dutch-processed cocoa powder | Cocoa, dry powder, unsweetened, processed with alkali (FDC 169594) | 16 | 35.2 | 2.9 | 9.3 | 0.28 | 0.00 | 2.1 | 1.24 | 3 | 4.8 |

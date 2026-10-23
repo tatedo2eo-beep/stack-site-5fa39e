@@ -10,7 +10,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | caster sugar | Sugars, granulated (SR 19335) | 150 | 580.5 | 0.0 | 150.0 | 149.70 | 149.70 | 0.0 | 0.00 | 2 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 108 | 347.8 | 17.1 | 3.9 | 0.60 | 0.00 | 28.7 | 10.31 | 52 | 0.0 |
-| alcohol-free vanilla extract or paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | dark chocolate (60-70% cocoa), chopped | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 60 | 358.8 | 4.7 | 27.5 | 14.40 | 14.40 | 25.6 | 14.70 | 12 | 6.5 |
 | roasted almonds, roughly chopped | Nuts, almonds (SR 12061) | 70 | 405.3 | 14.8 | 15.1 | 3.04 | 0.00 | 35.0 | 2.66 | 1 | 8.8 |
 | gelatine-free (vegetarian) mini marshmallows | ESTIMATE: gelatine-free (vegetarian) mini marshmallows, typical label values | 40 | 128.0 | 0.2 | 32.0 | 24.00 | 24.00 | 0.1 | 0.00 | 24 | 0.0 |
@@ -29,5 +29,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.

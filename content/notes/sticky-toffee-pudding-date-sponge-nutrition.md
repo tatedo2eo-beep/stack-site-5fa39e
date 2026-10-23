@@ -14,7 +14,7 @@ Servings: 9. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | soft unsalted butter | Butter, without salt (SR 01145) | 60 | 430.2 | 0.5 | 0.0 | 0.04 | 0.00 | 48.7 | 30.82 | 7 | 0.0 |
 | dark brown sugar | Sugars, brown (SR 19334) | 150 | 570.0 | 0.2 | 147.1 | 145.53 | 145.53 | 0.0 | 0.00 | 42 | 0.0 |
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | unsalted butter | Butter, without salt (SR 01145) | 115 | 824.5 | 1.0 | 0.1 | 0.07 | 0.00 | 93.3 | 59.08 | 13 | 0.0 |
 | dark brown sugar | Sugars, brown (SR 19334) | 170 | 646.0 | 0.2 | 166.8 | 164.93 | 164.93 | 0.0 | 0.00 | 48 | 0.0 |
 | double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 240 | 816.0 | 6.8 | 6.8 | 7.01 | 0.00 | 86.6 | 55.28 | 65 | 0.0 |

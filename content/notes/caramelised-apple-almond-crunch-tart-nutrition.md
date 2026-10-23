@@ -14,7 +14,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 15 | 3.3 | 0.1 | 1.0 | 0.38 | 0.38 | 0.0 | 0.01 | 0 | 0.0 |
 | unsalted butter | Butter, without salt (SR 01145) | 15 | 107.5 | 0.1 | 0.0 | 0.01 | 0.00 | 12.2 | 7.71 | 2 | 0.0 |
 | demerara sugar | Sugars, brown (SR 19334) | 50 | 190.0 | 0.1 | 49.0 | 48.51 | 48.51 | 0.0 | 0.00 | 14 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | ground cinnamon | Spices, cinnamon, ground (SR 02010) | 1.3 | 3.2 | 0.1 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 0 | 0.7 |
 | ground nutmeg | Spices, nutmeg, ground (FDC 171326) | 0.6 | 3.1 | 0.0 | 0.3 | 0.02 | 0.00 | 0.2 | 0.16 | 0 | 0.1 |
 | large egg whites (60 g) | Egg, white, raw, fresh (SR 01124) | 60 | 31.2 | 6.5 | 0.4 | 0.43 | 0.00 | 0.1 | 0.00 | 100 | 0.0 |

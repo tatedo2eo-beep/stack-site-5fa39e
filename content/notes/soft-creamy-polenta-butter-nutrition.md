@@ -24,5 +24,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Parmesan is left out of this base version; add a hard cheese made with microbial rennet if you like.
+- Parmesan is left out of this base version; add a hard cheese if you like.
 - A serving is about 300 g.

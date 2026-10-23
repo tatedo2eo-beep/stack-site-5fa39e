@@ -8,7 +8,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 31 | 18.9 | 1.0 | 1.5 | 1.57 | 0.00 | 1.0 | 0.58 | 13 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
-| feta, crumbled (animal-rennet-free) | Cheese, feta (SR 01019) | 100 | 264.0 | 14.2 | 4.1 | 4.09 | 0.00 | 21.3 | 14.95 | 917 | 0.0 |
+| feta, crumbled | Cheese, feta (SR 01019) | 100 | 264.0 | 14.2 | 4.1 | 4.09 | 0.00 | 21.3 | 14.95 | 917 | 0.0 |
 | olive oil | Oil, olive, salad or cooking (SR 04053) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 3.73 | 1 | 0.0 |
 | medium onion, finely chopped | Onions, raw (SR 11282) | 150 | 60.0 | 1.7 | 14.0 | 6.36 | 0.00 | 0.2 | 0.06 | 6 | 2.5 |
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
@@ -28,4 +28,3 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Check the feta is made with microbial or vegetarian rennet.

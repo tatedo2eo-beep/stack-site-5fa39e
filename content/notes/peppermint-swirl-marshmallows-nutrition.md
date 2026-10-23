@@ -12,7 +12,7 @@ Servings: 18. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | light corn syrup | Syrups, corn, light (FDC 168837) | 160 | 452.8 | 0.0 | 122.9 | 122.83 | 122.83 | 0.3 | 0.00 | 99 | 0.0 |
 | water | Water, tap (SR 14411) | 0 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | peppermint hard sweets or candy canes, crushed | Candies, hard (FDC 167990) | 40 | 157.6 | 0.0 | 39.2 | 25.16 | 25.16 | 0.1 | 0.00 | 15 | 0.0 |
 | **Total** | | | 2559 | 20.7 | 638.9 | 586.85 | 586.85 | 0.4 | 0.02 | 752 | 0.4 |
 

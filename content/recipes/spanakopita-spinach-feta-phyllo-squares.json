@@ -62,15 +62,13 @@
       "group": "Filling",
       "qty": 300,
       "unit": "g",
-      "item": "feta cheese, finely crumbled",
-      "note": "microbial rennet"
+      "item": "feta cheese, finely crumbled"
     },
     {
       "group": "Filling",
       "qty": 250,
       "unit": "g",
-      "item": "whole-milk ricotta",
-      "note": "microbial rennet"
+      "item": "whole-milk ricotta"
     },
     {
       "group": "Filling",
@@ -125,8 +123,7 @@
       "group": "Pastry",
       "qty": 30,
       "unit": "g",
-      "item": "parmesan-style hard cheese, finely grated",
-      "note": "microbial rennet"
+      "item": "parmesan-style hard cheese, finely grated"
     }
   ],
   "steps": [

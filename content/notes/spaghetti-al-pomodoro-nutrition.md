@@ -11,7 +11,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | dried spaghetti | Pasta, dry, enriched (SR 20120) | 360 | 1335.6 | 46.9 | 268.8 | 9.61 | 0.00 | 5.4 | 1.00 | 22 | 11.5 |
 | fine salt for 3 litres of pasta water (0.8%) (about 4.2 g: absorbed by 360 g dried pasta plus 60 ml cooking water added to the sauce) | Salt, table (SR 02047) | 4.2 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1628 | 0.0 |
 | basil leaves, torn | Basil, fresh (FDC 172232) | 4 | 0.9 | 0.1 | 0.1 | 0.01 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
 | **Total** | | | 1954 | 61.6 | 285.2 | 20.02 | 0.00 | 62.9 | 36.91 | 3760 | 19.4 |
 
 **Per serving (total / 4):** kcal 489, protein_g 15.4, carbs_g 71.3, sugar_g 5.0, free_sugar_g 0.0, fat_g 15.7, satfat_g 9.2, salt_g 2.35, fibre_g 4.9
@@ -27,4 +27,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Onion is discarded; about 15 g of it counted.
-- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian cheese if you need one.

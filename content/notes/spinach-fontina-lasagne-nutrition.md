@@ -15,11 +15,11 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ground nutmeg | Spices, nutmeg, ground (FDC 171326) | 1.7 | 8.9 | 0.1 | 0.8 | 0.05 | 0.00 | 0.6 | 0.44 | 0 | 0.4 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 15 | 58.8 | 5.4 | 0.5 | 0.12 | 0.00 | 3.9 | 2.46 | 240 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 15 | 58.8 | 5.4 | 0.5 | 0.12 | 0.00 | 3.9 | 2.46 | 240 | 0.0 |
 | cottage cheese | Cheese, cottage, creamed, large or small curd (FDC 172179) | 225 | 220.5 | 25.0 | 7.6 | 6.01 | 0.00 | 9.7 | 3.87 | 709 | 0.0 |
 | large egg | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
 | no-pre-cook lasagne sheets (about 200 g) | Pasta, dry, enriched (SR 20120) | 200 | 742.0 | 26.1 | 149.3 | 5.34 | 0.00 | 3.0 | 0.55 | 12 | 6.4 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
 | fontina, grated | Cheese, fontina (FDC 170843) | 225 | 875.2 | 57.6 | 3.5 | 3.49 | 0.00 | 70.1 | 43.19 | 1800 | 0.0 |
 | **Total** | | | 3551 | 186.8 | 285.6 | 74.25 | 0.00 | 188.9 | 110.55 | 5282 | 26.5 |
 
@@ -35,5 +35,5 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian-rennet cheese if you need one.
 - The egg is cooked through as the lasagne bakes (above 71 °C in the centre).

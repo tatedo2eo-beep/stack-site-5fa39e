@@ -11,7 +11,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | garlic cloves, grated | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 3.73 | 1 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
-| fresh mozzarella or bocconcini (animal-rennet-free), cut into 1.5 cm cubes | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 225 | 715.5 | 48.6 | 5.6 | 2.27 | 0.00 | 55.4 | 35.01 | 1598 | 0.0 |
+| fresh mozzarella or bocconcini, cut into 1.5 cm cubes | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 225 | 715.5 | 48.6 | 5.6 | 2.27 | 0.00 | 55.4 | 35.01 | 1598 | 0.0 |
 | basil, roughly chopped | Basil, fresh (FDC 172232) | 20 | 4.6 | 0.6 | 0.5 | 0.06 | 0.00 | 0.1 | 0.01 | 1 | 0.3 |
 | **Total** | | | 1084 | 54.8 | 32.9 | 20.20 | 2.00 | 83.8 | 38.93 | 2793 | 7.7 |
 

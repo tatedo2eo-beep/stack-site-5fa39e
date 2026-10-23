@@ -25,6 +25,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheese made with microbial rennet.
-- Choose a pesto made with microbial-rennet cheese, or blend your own.
 - If your pan is smaller than 28 cm, cook one sandwich at a time.

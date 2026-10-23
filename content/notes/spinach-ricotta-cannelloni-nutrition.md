@@ -6,7 +6,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | spinach leaves | Spinach, raw (SR 11457) | 500 | 115.0 | 14.3 | 18.1 | 2.10 | 0.00 | 2.0 | 0.32 | 395 | 11.0 |
 | whole-milk ricotta (about 450 g after draining) | Cheese, ricotta, whole milk (FDC 170851) | 450 | 675.0 | 33.9 | 32.7 | 1.22 | 0.00 | 45.8 | 28.89 | 495 | 0.0 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 50 | 196.0 | 17.9 | 1.6 | 0.40 | 0.00 | 12.9 | 8.21 | 801 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 50 | 196.0 | 17.9 | 1.6 | 0.40 | 0.00 | 12.9 | 8.21 | 801 | 0.0 |
 | large egg yolk | Egg, yolk, raw, fresh (SR 01125) | 17 | 54.7 | 2.7 | 0.6 | 0.10 | 0.00 | 4.5 | 1.62 | 8 | 0.0 |
 | freshly grated nutmeg | Spices, nutmeg, ground (FDC 171326) | 0.6 | 3.1 | 0.0 | 0.3 | 0.02 | 0.00 | 0.2 | 0.16 | 0 | 0.1 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
@@ -20,7 +20,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | basil leaves | Basil, fresh (FDC 172232) | 4 | 0.9 | 0.1 | 0.1 | 0.01 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
 | dried cannelloni tubes (no-precook, about 200 g) | Pasta, dry, enriched (SR 20120) | 200 | 742.0 | 26.1 | 149.3 | 5.34 | 0.00 | 3.0 | 0.55 | 12 | 6.4 |
 | mozzarella, torn | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 125 | 397.5 | 27.0 | 3.1 | 1.26 | 0.00 | 30.8 | 19.45 | 888 | 0.0 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 20 | 78.4 | 7.2 | 0.6 | 0.16 | 0.00 | 5.2 | 3.28 | 320 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 20 | 78.4 | 7.2 | 0.6 | 0.16 | 0.00 | 5.2 | 3.28 | 320 | 0.0 |
 | **Total** | | | 2766 | 141.0 | 267.7 | 44.30 | 0.00 | 133.5 | 66.53 | 4690 | 35.0 |
 
 **Per serving (total / 6):** kcal 461, protein_g 23.5, carbs_g 44.6, sugar_g 7.4, free_sugar_g 0.0, fat_g 22.3, satfat_g 11.1, salt_g 1.95, fibre_g 5.8
@@ -36,4 +36,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - About 50 g whey drained from the ricotta.
-- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian cheese if you need one.

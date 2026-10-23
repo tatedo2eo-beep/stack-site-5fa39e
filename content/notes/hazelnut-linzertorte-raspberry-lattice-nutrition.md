@@ -15,7 +15,7 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | cold unsalted butter, cubed | Butter, without salt (SR 01145) | 115 | 824.5 | 1.0 | 0.1 | 0.07 | 0.00 | 93.3 | 59.08 | 13 | 0.0 |
 | large egg yolk | Egg, yolk, raw, fresh (SR 01125) | 17 | 54.7 | 2.7 | 0.6 | 0.10 | 0.00 | 4.5 | 1.62 | 8 | 0.0 |
 | cold water | Water, tap (SR 14411) | 15 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | raspberry jam | Jams and preserves (FDC 169641) | 280 | 778.4 | 1.0 | 192.8 | 135.80 | 135.80 | 0.2 | 0.03 | 90 | 3.1 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 10 | 2.2 | 0.0 | 0.7 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 15 | 9.2 | 0.5 | 0.7 | 0.76 | 0.00 | 0.5 | 0.28 | 6 | 0.0 |

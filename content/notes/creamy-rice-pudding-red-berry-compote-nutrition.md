@@ -11,7 +11,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | single (light) cream | Cream, fluid, heavy whipping (FDC 170859) | 150 | 510.0 | 4.3 | 4.3 | 4.38 | 0.00 | 54.1 | 34.55 | 40 | 0.0 |
 | single (light) cream (single cream approximated as half cream, half milk) | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 150 | 91.5 | 4.7 | 7.2 | 7.57 | 0.00 | 4.9 | 2.80 | 64 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 100 | 387.0 | 0.0 | 100.0 | 99.80 | 99.80 | 0.0 | 0.00 | 1 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | mixed red berries (cherries, raspberries), fresh or frozen | Cherries, sweet, raw (FDC 171719) | 125 | 78.8 | 1.3 | 20.0 | 16.02 | 0.00 | 0.2 | 0.05 | 0 | 2.6 |
 | mixed red berries (cherries, raspberries), fresh or frozen | Raspberries, raw (FDC 167755) | 125 | 65.0 | 1.5 | 14.9 | 5.53 | 0.00 | 0.8 | 0.02 | 1 | 8.1 |
 | caster sugar | Sugars, granulated (SR 19335) | 40 | 154.8 | 0.0 | 40.0 | 39.92 | 39.92 | 0.0 | 0.00 | 0 | 0.0 |

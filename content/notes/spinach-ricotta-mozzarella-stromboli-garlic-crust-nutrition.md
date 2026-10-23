@@ -35,4 +35,3 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - Filled with spinach and cheese to match the photo; no cured-meat filling.
 - Egg is used only as a glaze and is fully baked.
-- Mozzarella, cheddar and Parmesan are often made with animal rennet; choose cheese made with microbial or vegetarian rennet if needed.

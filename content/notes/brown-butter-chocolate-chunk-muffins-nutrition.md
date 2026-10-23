@@ -12,7 +12,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | caster sugar | Sugars, granulated (SR 19335) | 220 | 851.4 | 0.0 | 220.0 | 219.56 | 219.56 | 0.0 | 0.00 | 2 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | soured cream | Cream, sour, cultured (FDC 171257) | 360 | 712.8 | 8.8 | 16.7 | 12.28 | 0.00 | 69.7 | 36.50 | 112 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 12.6 | 36.3 | 0.0 | 1.6 | 1.59 | 1.59 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 12.6 | 36.3 | 0.0 | 1.6 | 1.59 | 1.59 | 0.0 | 0.00 | 1 | 0.0 |
 | caster sugar, for sprinkling | Sugars, granulated (SR 19335) | 25 | 96.8 | 0.0 | 25.0 | 24.95 | 24.95 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 4901 | 58.9 | 589.9 | 352.26 | 338.75 | 270.8 | 157.66 | 3422 | 17.6 |
 

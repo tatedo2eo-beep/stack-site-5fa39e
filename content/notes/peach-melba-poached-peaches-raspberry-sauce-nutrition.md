@@ -12,7 +12,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | caster sugar (about a tenth clings to the fruit) | Sugars, granulated (SR 19335) | 30 | 116.1 | 0.0 | 30.0 | 29.94 | 29.94 | 0.0 | 0.00 | 0 | 0.0 |
 | honey (about a tenth clings to the fruit) | Honey (SR 19296) | 8 | 24.3 | 0.0 | 6.6 | 6.57 | 6.57 | 0.0 | 0.00 | 0 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 6 | 1.3 | 0.0 | 0.4 | 0.15 | 0.15 | 0.0 | 0.00 | 0 | 0.0 |
-| alcohol-free vanilla paste or extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 1 | 2.9 | 0.0 | 0.1 | 0.13 | 0.13 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 1 | 2.9 | 0.0 | 0.1 | 0.13 | 0.13 | 0.0 | 0.00 | 0 | 0.0 |
 | ripe but firm peaches | Peaches, yellow, raw (FDC 169928) | 900 | 351.0 | 8.2 | 85.9 | 75.51 | 0.00 | 2.2 | 0.17 | 0 | 13.5 |
 | vanilla ice cream | Ice creams, vanilla (FDC 167575) | 480 | 993.6 | 16.8 | 113.3 | 101.86 | 101.86 | 52.8 | 32.59 | 384 | 3.4 |
 | **Total** | | | 2073 | 30.5 | 380.3 | 323.99 | 228.59 | 58.0 | 32.85 | 395 | 46.2 |
@@ -29,6 +29,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - Poaching syrup is not eaten: about a tenth of its sugar and honey counted as clinging to the fruit.
 - Eggs declared because many vanilla ice creams are custard-based; check the label.

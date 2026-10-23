@@ -18,7 +18,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | buttermilk, at room temperature | Milk, buttermilk, fluid, cultured, lowfat (SR 01088) | 310 | 124.0 | 10.3 | 14.8 | 14.85 | 0.00 | 2.7 | 1.70 | 326 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 15 | 3.3 | 0.1 | 1.0 | 0.38 | 0.38 | 0.0 | 0.01 | 0 | 0.0 |
 | finely grated lemon zest | Lemon peel, raw (SR 09156) | 2 | 0.9 | 0.0 | 0.3 | 0.08 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | nutmeg dusting | Spices, nutmeg, ground (FDC 171326) | 0.3 | 1.6 | 0.0 | 0.1 | 0.01 | 0.00 | 0.1 | 0.08 | 0 | 0.1 |
 | **Total** | | | 4399 | 65.8 | 549.8 | 379.59 | 362.72 | 219.6 | 130.68 | 3044 | 6.5 |
 
@@ -34,4 +34,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla pod in one source replaced with alcohol-free extract.
+- Vanilla pod in one source replaced with vanilla.

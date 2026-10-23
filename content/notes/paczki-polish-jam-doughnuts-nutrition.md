@@ -9,7 +9,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | caster sugar | Sugars, granulated (SR 19335) | 100 | 387.0 | 0.0 | 100.0 | 99.80 | 99.80 | 0.0 | 0.00 | 1 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 105 | 338.1 | 16.7 | 3.8 | 0.59 | 0.00 | 27.9 | 10.03 | 50 | 0.0 |
 | large egg | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2325 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 500 | 1820.0 | 51.6 | 381.6 | 1.35 | 0.00 | 4.9 | 0.78 | 10 | 13.5 |
 | unsalted butter, very soft | Butter, without salt (SR 01145) | 85 | 609.4 | 0.7 | 0.1 | 0.05 | 0.00 | 68.9 | 43.66 | 9 | 0.0 |
@@ -29,5 +29,4 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla extract is the alcohol-free kind (or use vanilla paste).
 - Traditional recipes sometimes add a splash of spirit to the dough to limit oil absorption; it is left out here.

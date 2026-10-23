@@ -8,7 +8,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 90 | 327.6 | 9.3 | 68.7 | 0.24 | 0.00 | 0.9 | 0.14 | 2 | 2.4 |
 | whole milk, at room temperature | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 160 | 97.6 | 5.0 | 7.7 | 8.08 | 0.00 | 5.2 | 2.98 | 69 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 12 | 46.4 | 0.0 | 12.0 | 11.98 | 11.98 | 0.0 | 0.00 | 0 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.5 | 13.0 | 0.0 | 0.6 | 0.57 | 0.57 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.5 | 13.0 | 0.0 | 0.6 | 0.57 | 0.57 | 0.0 | 0.00 | 0 | 0.0 |
 | freshly grated nutmeg | Spices, nutmeg, ground (FDC 171326) | 0.3 | 1.6 | 0.0 | 0.1 | 0.01 | 0.00 | 0.1 | 0.08 | 0 | 0.1 |
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | unsalted butter | Butter, without salt (SR 01145) | 45 | 322.7 | 0.4 | 0.0 | 0.03 | 0.00 | 36.5 | 23.12 | 5 | 0.0 |

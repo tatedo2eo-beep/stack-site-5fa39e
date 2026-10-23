@@ -8,7 +8,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 0.4 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 155 | 0.0 |
 | unsweetened cocoa powder, preferably Dutch-processed | Cocoa, dry powder, unsweetened (SR 19165) | 20 | 45.6 | 3.9 | 11.6 | 0.35 | 0.00 | 2.7 | 1.61 | 4 | 7.4 |
 | unsweetened (100%) chocolate, finely chopped | Baking chocolate, unsweetened, squares (FDC 167568) | 15 | 96.3 | 2.1 | 4.3 | 0.14 | 0.00 | 7.8 | 4.84 | 4 | 2.5 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
 | whole milk, very cold | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 989 | 603.3 | 31.2 | 47.5 | 49.94 | 0.00 | 32.1 | 18.44 | 425 | 0.0 |
 | **Total** | | | 1041 | 37.2 | 138.6 | 125.53 | 75.10 | 42.7 | 24.90 | 589 | 9.9 |
 
@@ -24,5 +24,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Check the vanilla extract is alcohol-free (or use vanilla paste or powder).
 - Caffeine is not part of the nutrition panel; a glass has roughly 10-20 mg from the cocoa.

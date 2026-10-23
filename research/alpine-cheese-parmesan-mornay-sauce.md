@@ -1,4 +1,4 @@
-# Research: Alpine Cheese and Parmesan Mornay Sauce
+# Research: Gruyère and Parmesan Mornay Sauce
 Dish: Mornay sauce / flavour: Classic. Private file, not published.
 
 ## Sources actually opened

@@ -8,7 +8,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 31 | 18.9 | 1.0 | 1.5 | 1.57 | 0.00 | 1.0 | 0.58 | 13 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
-| Parmesan-style hard cheese, finely grated (animal-rennet-free) | Cheese, parmesan, hard (SR 01033) | 25 | 98.0 | 8.9 | 0.8 | 0.20 | 0.00 | 6.5 | 4.10 | 400 | 0.0 |
+| Parmesan-style hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 25 | 98.0 | 8.9 | 0.8 | 0.20 | 0.00 | 6.5 | 4.10 | 400 | 0.0 |
 | olive oil | Oil, olive, salad or cooking (SR 04053) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 3.73 | 1 | 0.0 |
 | medium onion, thinly sliced | Onions, raw (SR 11282) | 150 | 60.0 | 1.7 | 14.0 | 6.36 | 0.00 | 0.2 | 0.06 | 6 | 2.5 |
 | red pepper, cut into 1 cm pieces | Peppers, sweet, red, raw (SR 11821) | 180 | 55.8 | 1.8 | 10.9 | 7.56 | 0.00 | 0.5 | 0.05 | 7 | 3.8 |
@@ -28,4 +28,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Hard cheese counted as Parmesan; use a Parmesan-style hard cheese made with microbial rennet.
+- Hard cheese counted as Parmesan; true Parmigiano-Reggiano uses animal rennet, so choose a vegetarian-rennet hard cheese.

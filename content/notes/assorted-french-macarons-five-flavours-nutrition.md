@@ -11,7 +11,7 @@ Servings: 18. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | soft unsalted butter | Butter, without salt (SR 01145) | 200 | 1434.0 | 1.7 | 0.1 | 0.12 | 0.00 | 162.2 | 102.74 | 22 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 240 | 933.6 | 0.0 | 239.4 | 234.74 | 234.74 | 0.0 | 0.00 | 5 | 0.0 |
 | double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 15 | 51.0 | 0.4 | 0.4 | 0.44 | 0.00 | 5.4 | 3.45 | 4 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.375 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 145 | 0.0 |
 | cocoa powder | Cocoa, dry powder, unsweetened (SR 19165) | 5 | 11.4 | 1.0 | 2.9 | 0.09 | 0.00 | 0.7 | 0.40 | 1 | 1.9 |
 | shelled unsalted pistachios, very finely ground | Nuts, pistachio nuts, dry roasted, without salt added (FDC 170185) | 15 | 85.8 | 3.2 | 4.2 | 1.16 | 0.00 | 6.9 | 0.85 | 1 | 1.5 |

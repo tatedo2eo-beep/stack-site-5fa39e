@@ -13,7 +13,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 258 | 157.4 | 8.1 | 12.4 | 13.03 | 0.00 | 8.4 | 4.81 | 111 | 0.0 |
 | unsalted butter, melted | Butter, without salt (SR 01145) | 30 | 215.1 | 0.3 | 0.0 | 0.02 | 0.00 | 24.3 | 15.41 | 3 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | finely grated lemon zest | Lemon peel, raw (SR 09156) | 2 | 0.9 | 0.0 | 0.3 | 0.08 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
 | icing sugar, for dusting | Sugars, powdered (FDC 169656) | 8 | 31.1 | 0.0 | 8.0 | 7.82 | 7.82 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 1653 | 40.5 | 252.6 | 181.12 | 95.45 | 56.9 | 30.38 | 622 | 13.9 |

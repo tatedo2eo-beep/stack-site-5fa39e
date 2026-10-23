@@ -13,7 +13,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | unsalted butter, softened | Butter, without salt (SR 01145) | 150 | 1075.5 | 1.3 | 0.1 | 0.09 | 0.00 | 121.7 | 77.05 | 16 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 180 | 696.6 | 0.0 | 180.0 | 179.64 | 179.64 | 0.0 | 0.00 | 2 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | buttermilk | Milk, buttermilk, fluid, cultured, lowfat (SR 01088) | 245 | 98.0 | 8.1 | 11.7 | 11.74 | 0.00 | 2.2 | 1.34 | 257 | 0.0 |
 | tart green apples (such as Granny Smith), peeled, cored and diced (prepared weight) | Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (FDC 171688) | 260 | 135.2 | 0.7 | 35.9 | 27.01 | 0.00 | 0.4 | 0.07 | 3 | 6.2 |
 | granulated sugar | Sugars, granulated (SR 19335) | 25 | 96.8 | 0.0 | 25.0 | 24.95 | 24.95 | 0.0 | 0.00 | 0 | 0.0 |

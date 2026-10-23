@@ -18,7 +18,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | small red onion, thinly sliced | Onions, raw (SR 11282) | 50 | 20.0 | 0.6 | 4.7 | 2.12 | 0.00 | 0.1 | 0.02 | 2 | 0.8 |
 | basil, torn | Basil, fresh (FDC 172232) | 15 | 3.4 | 0.5 | 0.4 | 0.04 | 0.00 | 0.1 | 0.01 | 1 | 0.2 |
 | rocket | Arugula (rocket), raw (SR 11959) | 80 | 20.0 | 2.1 | 2.9 | 1.64 | 0.00 | 0.5 | 0.07 | 22 | 1.3 |
-| Parmesan-style hard cheese, shaved (animal-rennet-free) | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
+| Parmesan-style hard cheese, shaved | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
 | **Total** | | | 2586 | 167.4 | 176.4 | 31.27 | 7.85 | 135.8 | 25.27 | 4504 | 26.2 |
 
 **Per serving (total / 6):** kcal 431, protein_g 27.9, carbs_g 29.4, sugar_g 5.2, free_sugar_g 1.3, fat_g 22.6, satfat_g 4.2, salt_g 1.88, fibre_g 4.4

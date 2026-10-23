@@ -27,4 +27,3 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Flower waters optional and not counted.
-- Choose cheese made with microbial or vegetable rennet if that matters to you.

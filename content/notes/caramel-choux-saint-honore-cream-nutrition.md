@@ -18,13 +18,13 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | cornflour (cornstarch) | Cornstarch (SR 20027) | 30 | 114.3 | 0.1 | 27.4 | 0.00 | 0.00 | 0.0 | 0.00 | 3 | 0.3 |
 | fine salt | Salt, table (SR 02047) | 0.375 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 145 | 0.0 |
 | unsalted butter | Butter, without salt (SR 01145) | 30 | 215.1 | 0.3 | 0.0 | 0.02 | 0.00 | 24.3 | 15.41 | 3 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | granulated sugar (about half the caramel is eaten; the rest stays in the pan) | Sugars, granulated (SR 19335) | 100 | 387.0 | 0.0 | 100.0 | 99.80 | 99.80 | 0.0 | 0.00 | 1 | 0.0 |
 | water | Water, tap (SR 14411) | 60 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 5 | 1.1 | 0.0 | 0.3 | 0.13 | 0.13 | 0.0 | 0.00 | 0 | 0.0 |
 | cold double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 300 | 1020.0 | 8.5 | 8.5 | 8.76 | 0.00 | 108.2 | 69.10 | 81 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 30 | 116.7 | 0.0 | 29.9 | 29.34 | 29.34 | 0.0 | 0.00 | 1 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 5815 | 91.6 | 519.4 | 275.07 | 238.49 | 378.3 | 181.77 | 2112 | 7.6 |
 
 **Per serving (total / 10):** kcal 581, protein_g 9.2, carbs_g 51.9, sugar_g 27.5, free_sugar_g 23.8, fat_g 37.8, satfat_g 18.2, salt_g 0.53, fibre_g 0.8

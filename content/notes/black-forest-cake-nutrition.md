@@ -14,14 +14,14 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | neutral oil (sunflower or rapeseed) | Oil, canola (SR 04582) | 120 | 1060.8 | 0.0 | 0.0 | 0.00 | 0.00 | 120.0 | 8.84 | 0 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
 | buttermilk | Milk, buttermilk, fluid, cultured, lowfat (SR 01088) | 240 | 96.0 | 7.9 | 11.5 | 11.50 | 0.00 | 2.1 | 1.32 | 252 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | pitted morello (sour) cherries in juice (1 jar) (drained cherries, about 350 g) | Cherries, sour, red, canned, water pack, solids and liquids (FDC 173955) | 350 | 126.0 | 2.7 | 31.3 | 26.60 | 0.00 | 0.4 | 0.08 | 24 | 3.9 |
 | caster sugar | Sugars, granulated (SR 19335) | 40 | 154.8 | 0.0 | 40.0 | 39.92 | 39.92 | 0.0 | 0.00 | 0 | 0.0 |
 | cornflour | Cornstarch (SR 20027) | 8 | 30.5 | 0.0 | 7.3 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | cherry juice from the jar (juice counted as cherries in water pack) | Cherries, sour, red, canned, water pack, solids and liquids (FDC 173955) | 150 | 54.0 | 1.2 | 13.4 | 11.40 | 0.00 | 0.2 | 0.03 | 10 | 1.7 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 600 | 2040.0 | 17.0 | 17.0 | 17.52 | 0.00 | 216.5 | 138.19 | 162 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 60 | 233.4 | 0.0 | 59.9 | 58.69 | 58.69 | 0.0 | 0.00 | 1 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | dark chocolate, for curls | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 60 | 358.8 | 4.7 | 27.5 | 14.40 | 14.40 | 25.6 | 14.70 | 12 | 6.5 |
 | cherries to decorate (fresh with stalks, or from the jar) | Cherries, sweet, raw (FDC 171719) | 60 | 37.8 | 0.6 | 9.6 | 7.69 | 0.00 | 0.1 | 0.02 | 0 | 1.3 |
 | **Total** | | | 6648 | 89.7 | 747.0 | 490.99 | 414.00 | 389.4 | 172.93 | 4181 | 38.0 |

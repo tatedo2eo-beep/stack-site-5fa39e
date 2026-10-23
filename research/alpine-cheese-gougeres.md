@@ -1,4 +1,4 @@
-# Research: Alpine Cheese Gougères
+# Research: Cheesy Gruyère Gougères
 Dish: Gougères / flavour: Classic. Private file, not published.
 
 ## Sources actually opened
@@ -11,7 +11,6 @@ Dish: Gougères / flavour: Classic. Private file, not published.
 
 ## Own cooking judgment
 - NYT two-temperature bake plus ATK oven-off drying so they do not collapse
-- Microbial-rennet cheeses
 - Parmesan on top
 
 ## Reliability checks

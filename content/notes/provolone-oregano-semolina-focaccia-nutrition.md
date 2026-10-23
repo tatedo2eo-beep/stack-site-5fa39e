@@ -28,5 +28,4 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheese made with microbial (vegetarian) rennet; many traditional Italian hard cheeses and provolones use animal rennet.
 - Bread is baked through when the centre reads about 96 °C on a probe thermometer.

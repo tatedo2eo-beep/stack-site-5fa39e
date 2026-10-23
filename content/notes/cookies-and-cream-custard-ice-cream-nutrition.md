@@ -9,7 +9,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 90 | 289.8 | 14.3 | 3.2 | 0.50 | 0.00 | 23.9 | 8.60 | 43 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 130 | 503.1 | 0.0 | 130.0 | 129.74 | 129.74 | 0.0 | 0.00 | 1 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
-| alcohol-free vanilla extract or paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8 | 23.0 | 0.0 | 1.0 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8 | 23.0 | 0.0 | 1.0 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.0 |
 | chocolate sandwich cookies (cream-filled), broken into chunks | ESTIMATE: chocolate sandwich cookies with cream filling, typical label values (SR 18166 range) | 200 | 960.0 | 9.2 | 138.0 | 76.00 | 76.00 | 40.0 | 11.00 | 800 | 5.6 |
 | **Total** | | | 3559 | 44.9 | 297.7 | 233.76 | 206.75 | 245.1 | 134.76 | 1372 | 5.6 |
 
@@ -25,5 +25,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.

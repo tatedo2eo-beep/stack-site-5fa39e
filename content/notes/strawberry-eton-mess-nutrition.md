@@ -7,7 +7,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | caster sugar | Sugars, granulated (SR 19335) | 70 | 270.9 | 0.0 | 70.0 | 69.86 | 69.86 | 0.0 | 0.00 | 1 | 0.0 |
 | cornflour (cornstarch) | Cornstarch (SR 20027) | 3 | 11.4 | 0.0 | 2.7 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | large egg whites | Egg, white, raw, fresh (SR 01124) | 70 | 36.4 | 7.6 | 0.5 | 0.50 | 0.00 | 0.1 | 0.00 | 116 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 1.05 | 3.0 | 0.0 | 0.1 | 0.13 | 0.13 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 1.05 | 3.0 | 0.0 | 0.1 | 0.13 | 0.13 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.375 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 145 | 0.0 |
 | strawberries, hulled | Strawberries, raw (FDC 167762) | 700 | 224.0 | 4.7 | 53.8 | 34.23 | 0.00 | 2.1 | 0.10 | 7 | 14.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 40 | 154.8 | 0.0 | 40.0 | 39.92 | 39.92 | 0.0 | 0.00 | 0 | 0.0 |

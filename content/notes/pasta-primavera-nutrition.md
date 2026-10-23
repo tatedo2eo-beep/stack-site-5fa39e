@@ -18,7 +18,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | unsalted butter | Butter, without salt (SR 01145) | 20 | 143.4 | 0.2 | 0.0 | 0.01 | 0.00 | 16.2 | 10.27 | 2 | 0.0 |
 | unwaxed lemon (zest) | Lemon peel, raw (SR 09156) | 3 | 1.4 | 0.0 | 0.5 | 0.13 | 0.00 | 0.0 | 0.00 | 0 | 0.3 |
 | unwaxed lemon (about 20 ml juice) | Lemon juice, raw (SR 09152) - juice sugars counted as free | 20 | 4.4 | 0.1 | 1.4 | 0.50 | 0.50 | 0.0 | 0.01 | 0 | 0.1 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 50 | 196.0 | 17.9 | 1.6 | 0.40 | 0.00 | 12.9 | 8.21 | 801 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 50 | 196.0 | 17.9 | 1.6 | 0.40 | 0.00 | 12.9 | 8.21 | 801 | 0.0 |
 | basil leaves, torn | Basil, fresh (FDC 172232) | 10 | 2.3 | 0.3 | 0.3 | 0.03 | 0.00 | 0.1 | 0.00 | 0 | 0.2 |
 | **Total** | | | 2540 | 94.4 | 369.9 | 42.13 | 0.50 | 78.7 | 25.84 | 3598 | 37.2 |
 
@@ -35,4 +35,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - No cream: butter, Parmesan and pasta water make the sauce.
-- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian cheese if you need one.

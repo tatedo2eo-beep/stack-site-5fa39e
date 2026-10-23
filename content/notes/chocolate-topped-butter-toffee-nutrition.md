@@ -9,7 +9,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | light corn syrup | Syrups, corn, light (FDC 168837) | 20 | 56.6 | 0.0 | 15.4 | 15.35 | 15.35 | 0.0 | 0.00 | 12 | 0.0 |
 | water | Water, tap (SR 14411) | 0 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | dark chocolate (50-60 % cocoa), finely chopped | Candies, semisweet chocolate (FDC 167976) | 170 | 816.0 | 7.1 | 108.6 | 92.65 | 92.65 | 51.0 | 30.26 | 19 | 10.0 |
 | **Total** | | | 3465 | 9.1 | 374.6 | 358.17 | 358.04 | 233.5 | 145.84 | 1221 | 10.0 |
 

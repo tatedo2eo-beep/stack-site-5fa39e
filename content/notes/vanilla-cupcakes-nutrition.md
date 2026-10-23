@@ -8,14 +8,14 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | caster sugar | Sugars, granulated (SR 19335) | 150 | 580.5 | 0.0 | 150.0 | 149.70 | 149.70 | 0.0 | 0.00 | 2 | 0.0 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | cake flour (or plain flour; see note) | Wheat flour, white, cake, enriched (FDC 169723) | 160 | 579.2 | 13.1 | 124.8 | 0.50 | 0.00 | 1.4 | 0.20 | 3 | 2.7 |
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 6 | 3.2 | 0.0 | 1.7 | 0.00 | 0.00 | 0.0 | 0.00 | 636 | 0.0 |
 | whole milk, at room temperature | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 124 | 75.6 | 3.9 | 6.0 | 6.26 | 0.00 | 4.0 | 2.31 | 53 | 0.0 |
 | unsalted butter, softened | Butter, without salt (SR 01145) | 170 | 1218.9 | 1.4 | 0.1 | 0.10 | 0.00 | 137.9 | 87.33 | 19 | 0.0 |
 | icing sugar, sifted | Sugars, powdered (FDC 169656) | 340 | 1322.6 | 0.0 | 339.2 | 332.55 | 332.55 | 0.0 | 0.00 | 7 | 0.0 |
 | whole milk or double cream | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 30 | 18.3 | 0.9 | 1.4 | 1.51 | 0.00 | 1.0 | 0.56 | 13 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | **Total** | | | 4808 | 33.0 | 625.8 | 492.93 | 484.11 | 247.1 | 152.61 | 1760 | 2.7 |
 

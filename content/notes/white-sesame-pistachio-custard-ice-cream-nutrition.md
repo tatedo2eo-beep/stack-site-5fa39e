@@ -10,7 +10,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 108 | 347.8 | 17.1 | 3.9 | 0.60 | 0.00 | 28.7 | 10.31 | 52 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 140 | 541.8 | 0.0 | 140.0 | 139.72 | 139.72 | 0.0 | 0.00 | 1 | 0.0 |
 | finely grated orange zest | Orange peel, raw (FDC 169103) | 4 | 3.9 | 0.1 | 1.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.4 |
-| alcohol-free vanilla extract or paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | shelled pistachios, toasted and chilled | Nuts, pistachio nuts, dry roasted, without salt added (FDC 170185) | 60 | 343.2 | 12.6 | 17.0 | 4.64 | 0.00 | 27.5 | 3.39 | 4 | 6.2 |
 | pomegranate molasses, to serve | ESTIMATE from typical pomegranate molasses labels (no SR Legacy entry) | 56 | 145.6 | 0.3 | 36.4 | 30.80 | 30.80 | 0.1 | 0.00 | 11 | 0.3 |
@@ -28,5 +28,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.

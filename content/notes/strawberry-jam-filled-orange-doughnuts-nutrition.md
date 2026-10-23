@@ -13,7 +13,7 @@ Servings: 14. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | soured cream | Cream, sour, cultured (FDC 171257) | 60 | 118.8 | 1.5 | 2.8 | 2.05 | 0.00 | 11.6 | 6.08 | 19 | 0.0 |
 | olive oil | Oil, olive, salad or cooking (SR 04053) | 37 | 327.1 | 0.0 | 0.0 | 0.00 | 0.00 | 37.0 | 5.11 | 1 | 0.0 |
 | large egg | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | frying oil absorbed (estimated absorption) | Oil, canola (SR 04582) | 130 | 1149.2 | 0.0 | 0.0 | 0.00 | 0.00 | 130.0 | 9.58 | 0 | 0.0 |
 | smooth strawberry jam | Jams and preserves (FDC 169641) | 300 | 834.0 | 1.1 | 206.6 | 145.50 | 145.50 | 0.2 | 0.03 | 96 | 3.3 |
 | **Total** | | | 4138 | 59.7 | 544.2 | 189.42 | 185.95 | 190.8 | 23.42 | 2532 | 15.2 |

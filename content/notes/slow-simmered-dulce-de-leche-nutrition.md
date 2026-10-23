@@ -8,7 +8,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | whole milk (fat top-up to whole-milk level) | Cream, fluid, heavy whipping (SR 01053) | 36 | 122.4 | 1.0 | 1.0 | 1.05 | 0.00 | 13.0 | 8.29 | 10 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 300 | 1161.0 | 0.0 | 299.9 | 299.40 | 299.40 | 0.0 | 0.00 | 3 | 0.0 |
 | bicarbonate of soda | Leavening agents, baking soda (SR 18372) | 2.3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 629 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 1810 | 35.0 | 350.9 | 350.42 | 299.93 | 33.4 | 21.27 | 1126 | 0.0 |
 
 **Per serving (total / 12):** kcal 151, protein_g 2.9, carbs_g 29.2, sugar_g 29.2, free_sugar_g 25.0, fat_g 2.8, satfat_g 1.8, salt_g 0.23, fibre_g 0.0

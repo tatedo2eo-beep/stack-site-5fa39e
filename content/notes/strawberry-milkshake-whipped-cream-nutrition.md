@@ -25,5 +25,5 @@ Servings: 2. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose an ice cream flavoured with alcohol-free vanilla, and check the label: custard-style ice creams also contain egg.
+- Check the ice cream label: custard-style ice creams also contain egg.
 - Frozen strawberries give a deeper colour and flavour out of season.

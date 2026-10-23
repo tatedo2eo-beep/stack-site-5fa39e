@@ -6,7 +6,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 480 | 1632.0 | 13.6 | 13.6 | 14.02 | 0.00 | 173.2 | 110.55 | 130 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 245 | 149.5 | 7.7 | 11.8 | 12.37 | 0.00 | 8.0 | 4.57 | 105 | 0.0 |
-| vanilla pod, split lengthwise (seeds counted as extract weight) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla pod, split lengthwise (seeds counted as extract weight) | Vanilla (USDA SR 02050) | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 120 | 386.4 | 19.0 | 4.3 | 0.67 | 0.00 | 31.8 | 11.46 | 58 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 100 | 387.0 | 0.0 | 100.0 | 99.80 | 99.80 | 0.0 | 0.00 | 1 | 0.0 |

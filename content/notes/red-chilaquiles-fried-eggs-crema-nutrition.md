@@ -37,5 +37,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - Salt includes the tortilla chips; unsalted chips allow 1/4 tsp more salt in the sauce.
 - Water rather than stock, so no hidden celery.
-- Cheese is left out; add crumbled feta made with microbial rennet if you like.
+- Cheese is left out; add crumbled feta if you like.
 - Yolks are cooked firm to 71 °C.

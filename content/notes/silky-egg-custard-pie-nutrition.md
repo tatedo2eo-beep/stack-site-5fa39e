@@ -14,7 +14,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 135 | 522.5 | 0.0 | 135.0 | 134.73 | 134.73 | 0.0 | 0.00 | 1 | 0.0 |
 | cornflour (cornstarch) | Cornstarch (SR 20027) | 24 | 91.4 | 0.1 | 21.9 | 0.00 | 0.00 | 0.0 | 0.00 | 2 | 0.2 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | freshly grated nutmeg, plus extra to finish | Spices, nutmeg, ground (FDC 171326) | 0.15 | 0.8 | 0.0 | 0.1 | 0.00 | 0.00 | 0.1 | 0.04 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | **Total** | | | 3530 | 60.8 | 338.9 | 180.64 | 147.77 | 215.9 | 131.08 | 1966 | 5.1 |

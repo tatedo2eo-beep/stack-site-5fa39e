@@ -12,7 +12,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 90 | 289.8 | 14.3 | 3.2 | 0.50 | 0.00 | 23.9 | 8.60 | 43 | 0.0 |
 | light brown sugar | Sugars, brown (SR 19334) | 80 | 304.0 | 0.1 | 78.5 | 77.62 | 77.62 | 0.0 | 0.00 | 22 | 0.0 |
 | soured cream | Cream, sour, cultured (FDC 171257) | 150 | 297.0 | 3.7 | 6.9 | 5.12 | 0.00 | 29.0 | 15.21 | 46 | 0.0 |
-| alcohol-free vanilla extract or paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | **Total** | | | 2599 | 37.0 | 127.0 | 119.95 | 89.89 | 220.4 | 129.80 | 629 | 0.5 |
 
@@ -28,5 +28,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.

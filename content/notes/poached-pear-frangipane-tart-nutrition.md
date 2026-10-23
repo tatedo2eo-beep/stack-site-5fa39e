@@ -7,7 +7,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | water | Water, tap (SR 14411) | 0 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 30 | 116.1 | 0.0 | 30.0 | 29.94 | 29.94 | 0.0 | 0.00 | 0 | 0.0 |
 | lemon juice, plus 3 strips of peel | Lemon juice, raw (SR 09152) - juice sugars counted as free | 10 | 2.2 | 0.0 | 0.7 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | firm, just-ripe pears (about 800 g), peeled, halved and cored | Pears, raw (FDC 169118) | 650 | 370.5 | 2.3 | 99.0 | 63.38 | 0.00 | 0.9 | 0.14 | 6 | 20.2 |
 | large egg yolk | Egg, yolk, raw, fresh (SR 01125) | 17 | 54.7 | 2.7 | 0.6 | 0.10 | 0.00 | 4.5 | 1.62 | 8 | 0.0 |
 | double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 15 | 51.0 | 0.4 | 0.4 | 0.44 | 0.00 | 5.4 | 3.45 | 4 | 0.0 |
@@ -20,7 +20,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | ground almonds | Nuts, almonds, blanched (FDC 170568) | 110 | 649.0 | 23.5 | 20.5 | 5.09 | 0.00 | 57.8 | 4.35 | 21 | 10.9 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 20 | 72.8 | 2.1 | 15.3 | 0.05 | 0.00 | 0.2 | 0.03 | 0 | 0.5 |
-| alcohol-free almond extract (almond flavouring estimate) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| almond flavouring | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | smooth apricot jam | Jams and preserves, apricot (FDC 170645) | 40 | 96.8 | 0.3 | 25.8 | 17.36 | 17.36 | 0.1 | 0.00 | 16 | 0.1 |
 | water | Water, tap (SR 14411) | 5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |

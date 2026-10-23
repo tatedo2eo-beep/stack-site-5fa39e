@@ -10,7 +10,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 2 | 1.1 | 0.0 | 0.6 | 0.00 | 0.00 | 0.0 | 0.00 | 212 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 95 | 345.8 | 9.8 | 72.5 | 0.26 | 0.00 | 0.9 | 0.15 | 2 | 2.6 |
 | pecan halves | Nuts, pecans (FDC 170182) | 120 | 829.2 | 11.0 | 16.6 | 4.76 | 0.00 | 86.4 | 7.42 | 0 | 11.5 |
 | dark brown soft sugar | Sugars, brown (SR 19334) | 70 | 266.0 | 0.1 | 68.7 | 67.91 | 67.91 | 0.0 | 0.00 | 20 | 0.0 |

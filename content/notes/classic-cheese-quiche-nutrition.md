@@ -16,7 +16,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | ground nutmeg | Spices, nutmeg, ground (FDC 171326) | 0.3 | 1.6 | 0.0 | 0.1 | 0.01 | 0.00 | 0.1 | 0.08 | 0 | 0.1 |
 | mature cheddar, coarsely grated | Cheese, cheddar, sharp, sliced (FDC 170899) | 100 | 410.0 | 24.2 | 2.1 | 0.27 | 0.00 | 33.8 | 19.40 | 644 | 0.0 |
-| alpine-style hard cheese (microbial rennet), coarsely grated | Cheese, Swiss-type alpine hard cheese (FDC 171242) | 50 | 206.5 | 14.9 | 0.2 | 0.18 | 0.00 | 16.2 | 9.46 | 357 | 0.0 |
+| Gruyère-style cheese, coarsely grated | Cheese, gruyere (FDC 171242) | 50 | 206.5 | 14.9 | 0.2 | 0.18 | 0.00 | 16.2 | 9.46 | 357 | 0.0 |
 | fresh chives, finely chopped (optional) | Chives, raw (FDC 169994) | 3 | 0.9 | 0.1 | 0.1 | 0.06 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
 | **Total** | | | 3519 | 103.9 | 176.8 | 21.89 | 0.00 | 267.5 | 158.55 | 3231 | 5.7 |
 

@@ -9,7 +9,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | instant (fast-action) yeast | Leavening agents, yeast, baker's, active dry (FDC 175043) | 8 | 26.0 | 3.2 | 3.3 | 0.00 | 0.00 | 0.6 | 0.08 | 4 | 2.2 |
 | freshly grated nutmeg | Spices, nutmeg, ground (FDC 171326) | 0.6 | 3.1 | 0.0 | 0.3 | 0.02 | 0.00 | 0.2 | 0.16 | 0 | 0.1 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
-| alcohol-free vanilla flavouring | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | frying oil absorbed (estimated absorption) | Oil, canola (SR 04582) | 60 | 530.4 | 0.0 | 0.0 | 0.00 | 0.00 | 60.0 | 4.42 | 0 | 0.0 |
 | **Total** | | | 2462 | 40.5 | 428.8 | 151.20 | 150.21 | 64.4 | 5.22 | 1176 | 12.0 |
 

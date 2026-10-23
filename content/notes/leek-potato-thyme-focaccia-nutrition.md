@@ -16,7 +16,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 1.86 | 0 | 0.0 |
 | waxy potatoes, halved lengthways and sliced into thin half-moons | Potatoes, flesh and skin, raw (SR 11352) | 200 | 154.0 | 4.1 | 35.0 | 1.64 | 0.00 | 0.2 | 0.05 | 12 | 4.2 |
 | fresh thyme leaves | Spices, thyme, dried (SR 02042) | 3 | 8.3 | 0.3 | 1.9 | 0.05 | 0.00 | 0.2 | 0.08 | 2 | 1.1 |
-| pecorino-style or Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, romano (FDC 171249) | 30 | 116.1 | 9.5 | 1.1 | 0.22 | 0.00 | 8.1 | 5.13 | 430 | 0.0 |
+| pecorino or Parmesan-style hard cheese, finely grated | Cheese, romano (FDC 171249) | 30 | 116.1 | 9.5 | 1.1 | 0.22 | 0.00 | 8.1 | 5.13 | 430 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | **Total** | | | 2888 | 75.5 | 410.5 | 15.03 | 0.00 | 105.2 | 28.74 | 4023 | 23.7 |
 
@@ -32,5 +32,4 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheese made with microbial (vegetarian) rennet; many traditional Italian hard cheeses and provolones use animal rennet.
 - Bread is baked through when the centre reads about 96 °C on a probe thermometer.

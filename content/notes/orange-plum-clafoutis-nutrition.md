@@ -15,7 +15,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ground almonds | Nuts, almonds, blanched (FDC 170568) | 25 | 147.5 | 5.3 | 4.7 | 1.16 | 0.00 | 13.1 | 0.99 | 5 | 2.5 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 400 | 1360.0 | 11.4 | 11.4 | 11.68 | 0.00 | 144.3 | 92.13 | 108 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | caster sugar, to finish | Sugars, granulated (SR 19335) | 12 | 46.4 | 0.0 | 12.0 | 11.98 | 11.98 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 2761 | 37.7 | 262.4 | 215.41 | 157.44 | 181.0 | 104.11 | 841 | 10.5 |
 

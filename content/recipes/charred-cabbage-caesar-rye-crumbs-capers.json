@@ -49,7 +49,7 @@
       "group": "Dressing",
       "qty": 1,
       "unit": "tsp",
-      "item": "tamarind paste"
+      "item": "Worcestershire sauce"
     },
     {
       "group": "Dressing",
@@ -104,13 +104,13 @@
       "group": "To finish",
       "qty": 20,
       "unit": "g",
-      "item": "Parmesan-style hard cheese, finely grated (animal-rennet-free)"
+      "item": "Parmesan-style hard cheese, finely grated"
     }
   ],
   "steps": [
     {
       "title": "Whisk the dressing",
-      "text": "Whisk the mayonnaise, lemon juice, mustard, tamarind, anchovies, garlic and pepper together."
+      "text": "Whisk the mayonnaise, lemon juice, mustard, Worcestershire, anchovies, garlic and pepper together."
     },
     {
       "title": "Crisp the rye",
@@ -136,18 +136,19 @@
     "milk",
     "eggs",
     "mustard",
-    "fish"
+    "fish",
+    "sulphites"
   ],
   "diet": [],
   "nutrition_per_serving": {
-    "kcal": 319,
-    "protein_g": 5.1,
-    "carbs_g": 18.6,
-    "sugar_g": 6.0,
+    "kcal": 317,
+    "protein_g": 5.0,
+    "carbs_g": 18.3,
+    "sugar_g": 5.8,
     "free_sugar_g": 0.9,
     "fat_g": 25.8,
     "satfat_g": 4.3,
-    "salt_g": 1.33,
+    "salt_g": 1.35,
     "fibre_g": 4.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",

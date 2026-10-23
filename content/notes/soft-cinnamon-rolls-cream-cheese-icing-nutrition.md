@@ -17,7 +17,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | full-fat cream cheese, softened | Cheese, cream (FDC 173418) | 100 | 350.0 | 6.2 | 5.5 | 3.76 | 0.00 | 34.4 | 20.21 | 314 | 0.0 |
 | unsalted butter, softened | Butter, without salt (SR 01145) | 25 | 179.2 | 0.2 | 0.0 | 0.01 | 0.00 | 20.3 | 12.84 | 3 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 120 | 466.8 | 0.0 | 119.7 | 117.37 | 117.37 | 0.0 | 0.00 | 2 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 4510 | 69.9 | 687.9 | 327.92 | 313.31 | 168.2 | 100.59 | 2870 | 20.4 |
 
 **Per serving (total / 12):** kcal 376, protein_g 5.8, carbs_g 57.3, sugar_g 27.3, free_sugar_g 26.1, fat_g 14.0, satfat_g 8.4, salt_g 0.6, fibre_g 1.7

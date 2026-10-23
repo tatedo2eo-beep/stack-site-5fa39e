@@ -10,7 +10,7 @@ Servings: 14. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | caster sugar | Sugars, granulated (SR 19335) | 300 | 1161.0 | 0.0 | 299.9 | 299.40 | 299.40 | 0.0 | 0.00 | 3 | 0.0 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 68 | 219.0 | 10.8 | 2.4 | 0.38 | 0.00 | 18.0 | 6.49 | 33 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | cake flour (or plain flour; see note) | Wheat flour, white, cake, enriched (FDC 169723) | 250 | 905.0 | 20.5 | 195.1 | 0.78 | 0.00 | 2.1 | 0.32 | 5 | 4.2 |
 | bicarbonate of soda | Leavening agents, baking soda (SR 18372) | 4.6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1259 | 0.0 |
 | buttermilk | Milk, buttermilk, fluid, cultured, lowfat (SR 01088) | 240 | 96.0 | 7.9 | 11.5 | 11.50 | 0.00 | 2.1 | 1.32 | 252 | 0.0 |
@@ -20,7 +20,7 @@ Servings: 14. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 68 | 219.0 | 10.8 | 2.4 | 0.38 | 0.00 | 18.0 | 6.49 | 33 | 0.0 |
 | unsalted butter, cubed | Butter, without salt (SR 01145) | 115 | 824.5 | 1.0 | 0.1 | 0.07 | 0.00 | 93.3 | 59.08 | 13 | 0.0 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | desiccated or shredded coconut | Nuts, coconut meat, dried (desiccated), not sweetened (FDC 170170) | 200 | 1320.0 | 13.8 | 47.3 | 14.70 | 0.00 | 129.1 | 114.44 | 74 | 32.6 |
 | pecans, toasted and chopped | Nuts, pecans (FDC 170182) | 200 | 1382.0 | 18.3 | 27.7 | 7.94 | 0.00 | 143.9 | 12.36 | 0 | 19.2 |
 | **Total** | | | 9414 | 136.3 | 898.3 | 594.15 | 557.37 | 611.3 | 328.86 | 4244 | 60.1 |

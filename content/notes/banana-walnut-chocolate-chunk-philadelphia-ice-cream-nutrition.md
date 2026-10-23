@@ -11,7 +11,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | caster sugar | Sugars, granulated (SR 19335) | 90 | 348.3 | 0.0 | 90.0 | 89.82 | 89.82 | 0.0 | 0.00 | 1 | 0.0 |
 | light corn syrup or glucose syrup | Syrups, corn, light (FDC 168837) | 60 | 169.8 | 0.0 | 46.1 | 46.06 | 46.06 | 0.1 | 0.00 | 37 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
-| alcohol-free vanilla extract or paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | walnut halves | Nuts, walnuts, English (SR 12155) | 40 | 261.6 | 6.1 | 5.5 | 1.04 | 0.00 | 26.1 | 2.45 | 1 | 2.7 |
 | dark chocolate, chopped into small chunks | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 50 | 299.0 | 3.9 | 22.9 | 12.00 | 12.00 | 21.3 | 12.25 | 10 | 5.5 |
 | **Total** | | | 2848 | 30.4 | 241.7 | 200.79 | 148.77 | 205.9 | 115.17 | 826 | 14.4 |
@@ -28,6 +28,5 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.
 - No eggs are used, so nothing needs cooking to a safe temperature; the dairy is only warmed to dissolve the sugar.

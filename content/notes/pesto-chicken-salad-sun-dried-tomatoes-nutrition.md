@@ -7,7 +7,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | skinless, boneless chicken breasts (about 4) | Chicken, broiler, breast, skinless, boneless, meat only, raw (SR 05062) | 700 | 840.0 | 157.5 | 0.0 | 0.00 | 0.00 | 18.3 | 3.92 | 315 | 0.0 |
 | basil leaves | Basil, fresh (FDC 172232) | 30 | 6.9 | 0.9 | 0.8 | 0.09 | 0.00 | 0.2 | 0.01 | 1 | 0.5 |
 | pine nuts, toasted | Nuts, pine nuts, dried (FDC 170591) | 25 | 168.2 | 3.4 | 3.3 | 0.90 | 0.00 | 17.1 | 1.22 | 0 | 0.9 |
-| Parmesan-style hard cheese, finely grated (animal-rennet-free) | Cheese, parmesan, grated (FDC 171247) | 20 | 84.0 | 5.7 | 2.8 | 0.01 | 0.00 | 5.6 | 3.07 | 361 | 0.0 |
+| Parmesan-style hard cheese, finely grated | Cheese, parmesan, grated (FDC 171247) | 20 | 84.0 | 5.7 | 2.8 | 0.01 | 0.00 | 5.6 | 3.07 | 361 | 0.0 |
 | garlic cloves, peeled | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 40 | 353.6 | 0.0 | 0.0 | 0.00 | 0.00 | 40.0 | 5.52 | 1 | 0.0 |
 | mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 100 | 680.0 | 1.0 | 0.6 | 0.57 | 0.57 | 74.8 | 11.74 | 635 | 0.0 |

@@ -10,7 +10,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | chocolate sandwich cookies (cream-filled), finely crushed | ESTIMATE: chocolate sandwich cookies with cream filling, typical label values (SR 18166 range) | 100 | 480.0 | 4.6 | 69.0 | 38.00 | 38.00 | 20.0 | 5.50 | 400 | 2.8 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 309 | 188.5 | 9.7 | 14.8 | 15.60 | 0.00 | 10.0 | 5.76 | 133 | 0.0 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 420 | 1428.0 | 11.9 | 11.9 | 12.26 | 0.00 | 151.5 | 96.73 | 113 | 0.0 |
-| alcohol-free vanilla extract or paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | chocolate sandwich cookies (cream-filled), roughly chopped | ESTIMATE: chocolate sandwich cookies with cream filling, typical label values (SR 18166 range) | 80 | 384.0 | 3.7 | 55.2 | 30.40 | 30.40 | 16.0 | 4.40 | 320 | 2.2 |
 | **Total** | | | 3265 | 47.1 | 265.3 | 207.16 | 178.69 | 226.2 | 122.71 | 1310 | 5.0 |
 
@@ -26,5 +26,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.

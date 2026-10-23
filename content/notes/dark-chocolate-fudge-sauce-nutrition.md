@@ -10,7 +10,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | unsweetened cocoa powder, sifted | Cocoa, dry powder, unsweetened (SR 19165) | 25 | 57.0 | 4.9 | 14.5 | 0.44 | 0.00 | 3.4 | 2.02 | 5 | 9.2 |
 | dark chocolate (about 70% cocoa), finely chopped | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 70 | 418.6 | 5.5 | 32.1 | 16.80 | 16.80 | 29.8 | 17.15 | 14 | 7.6 |
 | unsalted butter, cold, cubed | Butter, without salt (SR 01145) | 55 | 394.4 | 0.5 | 0.0 | 0.03 | 0.00 | 44.6 | 28.25 | 6 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 1755 | 16.0 | 255.0 | 225.63 | 216.93 | 83.2 | 50.46 | 679 | 16.9 |
 
 **Per serving (total / 8):** kcal 219, protein_g 2.0, carbs_g 31.9, sugar_g 28.2, free_sugar_g 27.1, fat_g 10.4, satfat_g 6.3, salt_g 0.21, fibre_g 2.1

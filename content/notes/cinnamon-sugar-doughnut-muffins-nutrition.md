@@ -13,7 +13,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | bicarbonate of soda | Leavening agents, baking soda (SR 18372) | 1.2 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 328 | 0.0 |
 | ground nutmeg | Spices, nutmeg, ground (FDC 171326) | 2.2 | 11.6 | 0.1 | 1.1 | 0.07 | 0.00 | 0.8 | 0.57 | 0 | 0.5 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 310 | 1128.4 | 32.0 | 236.6 | 0.84 | 0.00 | 3.0 | 0.48 | 6 | 8.4 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 248 | 151.3 | 7.8 | 11.9 | 12.52 | 0.00 | 8.1 | 4.63 | 107 | 0.0 |
 | unsalted butter, melted | Butter, without salt (SR 01145) | 70 | 501.9 | 0.6 | 0.0 | 0.04 | 0.00 | 56.8 | 35.96 | 8 | 0.0 |

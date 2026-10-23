@@ -1,4 +1,4 @@
-# Research: Baked Cheese Soufflé with Alpine Cheese and Parmesan
+# Research: Baked Cheese Soufflé with Gruyère and Parmesan
 Dish: Soufflé (savory) / flavour: Classic. Private file, not published.
 
 ## Sources actually opened

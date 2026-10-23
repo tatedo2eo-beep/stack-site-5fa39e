@@ -11,7 +11,7 @@ Dish: Chicken salad / flavour: Pesto. Private file, not published.
 ## Own cooking judgment
 - Metric quantities and our own wording
 - Fewer, regrouped steps in a different order
-- Quick homemade pesto with animal-rennet-free cheese; no brine
+- Quick homemade pesto; no brine
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

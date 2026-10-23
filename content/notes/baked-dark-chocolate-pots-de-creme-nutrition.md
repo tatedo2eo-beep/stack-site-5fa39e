@@ -10,7 +10,7 @@ Servings: 5. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 68 | 219.0 | 10.8 | 2.4 | 0.38 | 0.00 | 18.0 | 6.49 | 33 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 30 | 116.1 | 0.0 | 30.0 | 29.94 | 29.94 | 0.0 | 0.00 | 0 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 1920 | 35.8 | 112.4 | 82.70 | 61.41 | 148.4 | 85.58 | 532 | 14.2 |
 
 **Per serving (total / 5):** kcal 384, protein_g 7.2, carbs_g 22.5, sugar_g 16.5, free_sugar_g 12.3, fat_g 29.7, satfat_g 17.1, salt_g 0.27, fibre_g 2.8

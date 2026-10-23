@@ -9,7 +9,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | fine sea salt or table salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 300 | 429.0 | 37.7 | 2.2 | 1.11 | 0.00 | 28.5 | 9.39 | 426 | 0.0 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 400 | 1360.0 | 11.4 | 11.4 | 11.68 | 0.00 | 144.3 | 92.13 | 108 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 30 | 109.2 | 3.1 | 22.9 | 0.08 | 0.00 | 0.3 | 0.05 | 1 | 0.8 |
 | **Total** | | | 6221 | 107.5 | 386.6 | 346.64 | 299.93 | 483.1 | 283.48 | 3945 | 0.8 |
 

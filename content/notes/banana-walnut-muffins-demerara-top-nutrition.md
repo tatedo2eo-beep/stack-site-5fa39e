@@ -12,7 +12,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | light brown sugar | Sugars, brown (SR 19334) | 140 | 532.0 | 0.2 | 137.3 | 135.83 | 135.83 | 0.0 | 0.00 | 39 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | neutral oil (sunflower or rapeseed) | Oil, canola (SR 04582) | 68 | 601.1 | 0.0 | 0.0 | 0.00 | 0.00 | 68.0 | 5.01 | 0 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | walnuts, toasted and chopped | Nuts, walnuts, English (SR 12155) | 80 | 523.2 | 12.2 | 11.0 | 2.09 | 0.00 | 52.2 | 4.90 | 2 | 5.4 |
 | demerara sugar | Sugars, brown (SR 19334) | 25 | 95.0 | 0.0 | 24.5 | 24.25 | 24.25 | 0.0 | 0.00 | 7 | 0.0 |
 | **Total** | | | 3272 | 56.7 | 479.4 | 219.34 | 161.15 | 133.7 | 13.95 | 3425 | 24.1 |

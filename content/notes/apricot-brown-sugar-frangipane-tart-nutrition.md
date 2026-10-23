@@ -13,7 +13,7 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | blanched whole almonds | Nuts, almonds (SR 12061) | 200 | 1158.0 | 42.3 | 43.1 | 8.70 | 0.00 | 99.9 | 7.60 | 2 | 25.0 |
 | light brown sugar, plus 25 g for sprinkling | Sugars, brown (SR 19334) | 225 | 855.0 | 0.3 | 220.7 | 218.29 | 218.29 | 0.0 | 0.00 | 63 | 0.0 |
 | unsalted butter, soft | Butter, without salt (SR 01145) | 200 | 1434.0 | 1.7 | 0.1 | 0.12 | 0.00 | 162.2 | 102.74 | 22 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 8 | 29.1 | 0.8 | 6.1 | 0.02 | 0.00 | 0.1 | 0.01 | 0 | 0.2 |
 | large eggs, beaten | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | small ripe but firm apricots, halved and stoned | Apricots, raw (SR 09021) | 320 | 153.6 | 4.5 | 35.6 | 29.57 | 0.00 | 1.2 | 0.09 | 3 | 6.4 |

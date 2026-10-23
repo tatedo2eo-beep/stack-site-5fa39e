@@ -11,7 +11,7 @@ Servings: 24. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | unsalted butter, softened (about 18°C) | Butter, without salt (SR 01145) | 150 | 1075.5 | 1.3 | 0.1 | 0.09 | 0.00 | 121.7 | 77.05 | 16 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 80 | 309.6 | 0.0 | 80.0 | 79.84 | 79.84 | 0.0 | 0.00 | 1 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 51 | 164.2 | 8.1 | 1.8 | 0.29 | 0.00 | 13.5 | 4.87 | 24 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | finely grated lemon zest | Lemon peel, raw (SR 09156) | 2 | 0.9 | 0.0 | 0.3 | 0.08 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
 | thick dulce de leche (repostero or baking type) | Dulce de Leche (FDC 173461) | 400 | 1260.0 | 27.4 | 221.4 | 198.96 | 198.96 | 29.4 | 18.14 | 516 | 0.0 |
 | desiccated coconut | Nuts, coconut meat, dried (desiccated), not sweetened (FDC 170170) | 30 | 198.0 | 2.1 | 7.1 | 2.20 | 0.00 | 19.4 | 17.17 | 11 | 4.9 |

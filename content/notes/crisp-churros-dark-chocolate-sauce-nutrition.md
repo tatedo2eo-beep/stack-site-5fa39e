@@ -7,7 +7,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | water | Water, tap (SR 14411) | 480 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 19 | 0.0 |
 | unsalted butter | Butter, without salt (SR 01145) | 30 | 215.1 | 0.3 | 0.0 | 0.02 | 0.00 | 24.3 | 15.41 | 3 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 25 | 96.8 | 0.0 | 25.0 | 24.95 | 24.95 | 0.0 | 0.00 | 0 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 280 | 1019.2 | 28.9 | 213.7 | 0.76 | 0.00 | 2.7 | 0.43 | 6 | 7.6 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
@@ -18,7 +18,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | cocoa powder | Cocoa, dry powder, unsweetened (SR 19165) | 25 | 57.0 | 4.9 | 14.5 | 0.44 | 0.00 | 3.4 | 2.02 | 5 | 9.2 |
 | dark chocolate (about 70% cocoa), finely chopped | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 85 | 508.3 | 6.6 | 39.0 | 20.40 | 20.40 | 36.2 | 20.82 | 17 | 9.3 |
 | unsalted butter, cold, cubed | Butter, without salt (SR 01145) | 30 | 215.1 | 0.3 | 0.0 | 0.02 | 0.00 | 24.3 | 15.41 | 3 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 3517 | 58.7 | 392.0 | 145.81 | 135.97 | 195.9 | 66.90 | 1430 | 26.4 |
 
 **Per serving (total / 6):** kcal 586, protein_g 9.8, carbs_g 65.3, sugar_g 24.3, free_sugar_g 22.7, fat_g 32.6, satfat_g 11.2, salt_g 0.6, fibre_g 4.4

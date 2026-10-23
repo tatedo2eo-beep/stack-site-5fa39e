@@ -9,7 +9,7 @@ Servings: 24. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | light brown soft sugar | Sugars, brown (SR 19334) | 110 | 418.0 | 0.1 | 107.9 | 106.72 | 106.72 | 0.0 | 0.00 | 31 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 100 | 387.0 | 0.0 | 100.0 | 99.80 | 99.80 | 0.0 | 0.00 | 1 | 0.0 |
 | large egg | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 190 | 691.6 | 19.6 | 145.0 | 0.51 | 0.00 | 1.9 | 0.29 | 4 | 5.1 |
 | bicarbonate of soda | Leavening agents, baking soda (SR 18372) | 2.3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 629 | 0.0 |
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 2 | 1.1 | 0.0 | 0.6 | 0.00 | 0.00 | 0.0 | 0.00 | 212 | 0.0 |

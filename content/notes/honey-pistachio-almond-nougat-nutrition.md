@@ -13,7 +13,7 @@ Servings: 24. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | water | Water, tap (SR 14411) | 0 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | egg whites (from 2 large eggs), pasteurised if you like | Egg, white, raw, fresh (SR 01124) | 66 | 34.3 | 7.2 | 0.5 | 0.47 | 0.00 | 0.1 | 0.00 | 110 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 3351 | 58.4 | 566.8 | 515.93 | 500.95 | 115.2 | 11.33 | 760 | 27.7 |
 
 **Per serving (total / 24):** kcal 140, protein_g 2.4, carbs_g 23.6, sugar_g 21.5, free_sugar_g 20.9, fat_g 4.8, satfat_g 0.5, salt_g 0.08, fibre_g 1.2

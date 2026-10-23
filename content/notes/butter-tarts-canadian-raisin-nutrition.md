@@ -12,7 +12,7 @@ Servings: 18. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | unsalted butter, melted | Butter, without salt (SR 01145) | 170 | 1218.9 | 1.4 | 0.1 | 0.10 | 0.00 | 137.9 | 87.33 | 19 | 0.0 |
 | dark soft brown sugar | Sugars, brown (SR 19334) | 330 | 1254.0 | 0.4 | 323.7 | 320.17 | 320.17 | 0.0 | 0.00 | 92 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | cider vinegar | Vinegar, distilled (FDC 172237) | 7 | 1.3 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | raisins | Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program) (FDC 168165) | 90 | 269.1 | 3.0 | 71.4 | 58.66 | 0.00 | 0.2 | 0.08 | 23 | 4.0 |
@@ -30,4 +30,3 @@ Servings: 18. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla extract is the alcohol-free kind (or use vanilla paste).

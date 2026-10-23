@@ -18,7 +18,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | light brown soft sugar | Sugars, brown (SR 19334) | 270 | 1026.0 | 0.3 | 264.8 | 261.95 | 261.95 | 0.0 | 0.00 | 76 | 0.0 |
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | large egg yolk | Egg, yolk, raw, fresh (SR 01125) | 18 | 58.0 | 2.9 | 0.6 | 0.10 | 0.00 | 4.8 | 1.72 | 9 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | **Total** | | | 3755 | 46.8 | 465.7 | 294.51 | 287.01 | 194.2 | 115.94 | 2684 | 8.3 |
 
 **Per serving (total / 16):** kcal 235, protein_g 2.9, carbs_g 29.1, sugar_g 18.4, free_sugar_g 17.9, fat_g 12.1, satfat_g 7.2, salt_g 0.42, fibre_g 0.5

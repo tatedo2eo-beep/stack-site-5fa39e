@@ -24,7 +24,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | mature Cheddar, grated | Cheese, cheddar, sharp, sliced (FDC 170899) | 170 | 697.0 | 41.1 | 3.6 | 0.46 | 0.00 | 57.5 | 32.98 | 1095 | 0.0 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
 | **Total** | | | 3165 | 212.1 | 264.6 | 39.61 | 0.00 | 138.6 | 76.11 | 5546 | 21.4 |
 
 **Per serving (total / 6):** kcal 527, protein_g 35.3, carbs_g 44.1, sugar_g 6.6, free_sugar_g 0.0, fat_g 23.1, satfat_g 12.7, salt_g 2.31, fibre_g 3.6

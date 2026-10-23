@@ -16,7 +16,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | whole-milk ricotta | Cheese, ricotta, whole milk (FDC 170851) | 250 | 375.0 | 18.9 | 18.2 | 0.68 | 0.00 | 25.4 | 16.05 | 275 | 0.0 |
 | mascarpone, cold | ESTIMATE: mascarpone, typical EU pack label values; SR Legacy has no entry | 250 | 1072.5 | 11.5 | 10.0 | 8.75 | 0.00 | 110.0 | 75.00 | 100 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 60 | 233.4 | 0.0 | 59.9 | 58.69 | 58.69 | 0.0 | 0.00 | 1 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 116 | 0.0 |
 | shelled pistachios, finely chopped | Nuts, pistachio nuts, dry roasted, without salt added (FDC 170185) | 50 | 286.0 | 10.5 | 14.1 | 3.87 | 0.00 | 22.9 | 2.82 | 3 | 5.2 |
 | shelled pistachios, very finely chopped | Nuts, pistachio nuts, dry roasted, without salt added (FDC 170185) | 40 | 228.8 | 8.4 | 11.3 | 3.10 | 0.00 | 18.3 | 2.26 | 2 | 4.1 |
@@ -35,5 +35,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - The shell dough uses refined coconut oil, and white grape juice with a little cider vinegar; white grape juice is counted as apple juice for nutrition.
-- Vanilla extract is the alcohol-free kind (or use vanilla paste).
 - Fill the shells shortly before serving so they stay crisp.

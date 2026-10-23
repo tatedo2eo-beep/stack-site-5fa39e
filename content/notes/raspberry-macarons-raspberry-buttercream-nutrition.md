@@ -13,7 +13,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | icing sugar | Sugars, powdered (FDC 169656) | 160 | 622.4 | 0.0 | 159.6 | 156.50 | 156.50 | 0.0 | 0.00 | 3 | 0.0 |
 | freeze-dried raspberries | ESTIMATE: freeze-dried raspberries, typical label values | 12 | 42.0 | 1.0 | 8.2 | 4.80 | 0.00 | 0.4 | 0.01 | 1 | 3.0 |
 | double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 15 | 51.0 | 0.4 | 0.4 | 0.44 | 0.00 | 5.4 | 3.45 | 4 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.375 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 145 | 0.0 |
 | **Total** | | | 3211 | 35.5 | 403.1 | 377.62 | 363.75 | 172.3 | 79.35 | 358 | 14.9 |
 

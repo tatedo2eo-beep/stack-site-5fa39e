@@ -7,7 +7,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 34 | 109.5 | 5.4 | 1.2 | 0.19 | 0.00 | 9.0 | 3.25 | 16 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 480 | 292.8 | 15.1 | 23.0 | 24.24 | 0.00 | 15.6 | 8.95 | 206 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.5 | 13.0 | 0.0 | 0.6 | 0.57 | 0.57 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.5 | 13.0 | 0.0 | 0.6 | 0.57 | 0.57 | 0.0 | 0.00 | 0 | 0.0 |
 | ground cinnamon | Spices, cinnamon, ground (SR 02010) | 1.3 | 3.2 | 0.1 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 0 | 0.7 |
 | soft light brown sugar | Sugars, brown (SR 19334) | 8 | 30.4 | 0.0 | 7.8 | 7.76 | 7.76 | 0.0 | 0.00 | 2 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |

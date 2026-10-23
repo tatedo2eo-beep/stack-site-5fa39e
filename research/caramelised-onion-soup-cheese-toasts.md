@@ -1,4 +1,4 @@
-# Research: Caramelised Onion Soup with Cheese Toasts
+# Research: Caramelised Onion Soup with Gruyère Toasts
 Dish: French onion / flavour: Classic. Private file, not published.
 
 ## Sources actually opened

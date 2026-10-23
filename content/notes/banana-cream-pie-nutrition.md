@@ -16,7 +16,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | cornflour (cornstarch) | Cornstarch (SR 20027) | 24 | 91.4 | 0.1 | 21.9 | 0.00 | 0.00 | 0.0 | 0.00 | 2 | 0.2 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | unsalted butter | Butter, without salt (SR 01145) | 30 | 215.1 | 0.3 | 0.0 | 0.02 | 0.00 | 24.3 | 15.41 | 3 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | ripe but firm bananas (peeled weight) | Bananas, raw (SR 09040) | 440 | 391.6 | 4.8 | 100.5 | 53.81 | 0.00 | 1.5 | 0.49 | 4 | 11.4 |
 | orange juice | Orange juice, raw (Includes foods for USDA's Food Distribution Program) (FDC 169098) | 15 | 6.8 | 0.1 | 1.6 | 1.26 | 1.26 | 0.0 | 0.00 | 0 | 0.0 |
 | cold double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 240 | 816.0 | 6.8 | 6.8 | 7.01 | 0.00 | 86.6 | 55.28 | 65 | 0.0 |

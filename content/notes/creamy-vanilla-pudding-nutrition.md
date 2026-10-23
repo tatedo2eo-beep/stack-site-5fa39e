@@ -10,7 +10,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | cornflour (cornstarch) | Cornstarch (SR 20027) | 28 | 106.7 | 0.1 | 25.6 | 0.00 | 0.00 | 0.0 | 0.00 | 3 | 0.3 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 50 | 161.0 | 7.9 | 1.8 | 0.28 | 0.00 | 13.3 | 4.78 | 24 | 0.0 |
 | cold unsalted butter | Butter, without salt (SR 01145) | 25 | 179.2 | 0.2 | 0.0 | 0.01 | 0.00 | 20.3 | 12.84 | 3 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 10.5 | 30.2 | 0.0 | 1.3 | 1.33 | 1.33 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 10.5 | 30.2 | 0.0 | 1.3 | 1.33 | 1.33 | 0.0 | 0.00 | 1 | 0.0 |
 | **Total** | | | 1273 | 29.3 | 160.8 | 135.26 | 101.13 | 55.3 | 30.12 | 901 | 0.3 |
 
 **Per serving (total / 4):** kcal 318, protein_g 7.3, carbs_g 40.2, sugar_g 33.8, free_sugar_g 25.3, fat_g 13.8, satfat_g 7.5, salt_g 0.56, fibre_g 0.1

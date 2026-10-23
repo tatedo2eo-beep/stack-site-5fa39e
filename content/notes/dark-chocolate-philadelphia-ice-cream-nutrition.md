@@ -12,7 +12,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | instant coffee or espresso powder | Beverages, coffee, instant, regular, powder (FDC 171893) | 1 | 3.5 | 0.1 | 0.8 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 420 | 1428.0 | 11.9 | 11.9 | 12.26 | 0.00 | 151.5 | 96.73 | 113 | 0.0 |
-| alcohol-free vanilla extract or paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 3158 | 36.4 | 261.6 | 220.48 | 192.35 | 227.7 | 140.46 | 900 | 21.9 |
 
 **Per serving (total / 8):** kcal 395, protein_g 4.6, carbs_g 32.7, sugar_g 27.6, free_sugar_g 24.0, fat_g 28.5, satfat_g 17.6, salt_g 0.28, fibre_g 2.7
@@ -27,6 +27,5 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.
 - No eggs are used, so nothing needs cooking to a safe temperature; the dairy is only warmed to dissolve the sugar.

@@ -13,7 +13,7 @@ Servings: 18. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | light corn syrup | Syrups, corn, light (FDC 168837) | 160 | 452.8 | 0.0 | 122.9 | 122.83 | 122.83 | 0.3 | 0.00 | 99 | 0.0 |
 | water | Water, tap (SR 14411) | 0 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | Dutch-process cocoa powder, sifted | Cocoa, dry powder, unsweetened, processed with alkali (FDC 169594) | 40 | 88.0 | 7.2 | 23.3 | 0.70 | 0.00 | 5.2 | 3.10 | 8 | 11.9 |
 | boiling water | Water, tap (SR 14411) | 45 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2 | 0.0 |
 | **Total** | | | 2434 | 29.7 | 609.8 | 552.79 | 551.91 | 6.9 | 3.90 | 747 | 15.2 |

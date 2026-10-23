@@ -7,7 +7,7 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | unsalted butter, soft | Butter, without salt (SR 01145) | 115 | 824.5 | 1.0 | 0.1 | 0.07 | 0.00 | 93.3 | 59.08 | 13 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 95 | 369.5 | 0.0 | 94.8 | 92.92 | 92.92 | 0.0 | 0.00 | 2 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.375 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 145 | 0.0 |
-| vanilla bean paste or alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla bean paste or vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | large egg | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
 | plain flour, plus plenty for rolling | Wheat flour, white, all-purpose, enriched (SR 20081) | 190 | 691.6 | 19.6 | 145.0 | 0.51 | 0.00 | 1.9 | 0.29 | 4 | 5.1 |
 | blanched almonds | Nuts, almonds (SR 12061) | 120 | 694.8 | 25.4 | 25.9 | 5.22 | 0.00 | 59.9 | 4.56 | 1 | 15.0 |

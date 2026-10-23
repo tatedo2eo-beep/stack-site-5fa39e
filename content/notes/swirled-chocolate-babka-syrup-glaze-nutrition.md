@@ -10,7 +10,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | fine salt | Salt, table (SR 02047) | 6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2325 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 120 | 73.2 | 3.8 | 5.8 | 6.06 | 0.00 | 3.9 | 2.24 | 52 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 165 | 235.9 | 20.7 | 1.2 | 0.61 | 0.00 | 15.7 | 5.16 | 234 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | finely grated orange zest | Orange peel, raw (FDC 169103) | 2 | 1.9 | 0.0 | 0.5 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
 | unsalted butter, softened | Butter, without salt (SR 01145) | 120 | 860.4 | 1.0 | 0.1 | 0.07 | 0.00 | 97.3 | 61.64 | 13 | 0.0 |
 | dark chocolate (about 70% cocoa), chopped | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 170 | 1016.6 | 13.2 | 78.0 | 40.80 | 40.80 | 72.4 | 41.65 | 34 | 18.5 |

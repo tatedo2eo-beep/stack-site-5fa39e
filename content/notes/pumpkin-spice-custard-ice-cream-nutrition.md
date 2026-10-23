@@ -12,7 +12,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ground nutmeg | Spices, nutmeg, ground (FDC 171326) | 0.6 | 3.1 | 0.0 | 0.3 | 0.02 | 0.00 | 0.2 | 0.16 | 0 | 0.1 |
 | ground cloves | Spices, cloves, ground (FDC 171321) | 0.3 | 0.8 | 0.0 | 0.2 | 0.01 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
-| alcohol-free vanilla extract or paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 72 | 231.8 | 11.4 | 2.6 | 0.40 | 0.00 | 19.1 | 6.88 | 35 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 80 | 309.6 | 0.0 | 80.0 | 79.84 | 79.84 | 0.0 | 0.00 | 1 | 0.0 |
 | light brown sugar | Sugars, brown (SR 19334) | 90 | 342.0 | 0.1 | 88.3 | 87.32 | 87.32 | 0.0 | 0.00 | 25 | 0.0 |
@@ -30,5 +30,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.

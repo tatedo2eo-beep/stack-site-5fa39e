@@ -11,7 +11,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | full-fat cream cheese, softened | Cheese, cream (FDC 173418) | 60 | 210.0 | 3.7 | 3.3 | 2.26 | 0.00 | 20.7 | 12.13 | 188 | 0.0 |
 | unsalted butter, melted and cooled | Butter, without salt (SR 01145) | 30 | 215.1 | 0.3 | 0.0 | 0.02 | 0.00 | 24.3 | 15.41 | 3 | 0.0 |
-| alcohol-free vanilla extract or paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8 | 23.0 | 0.0 | 1.0 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8 | 23.0 | 0.0 | 1.0 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.0 |
 | rainbow sprinkles (sprinkles counted as sugar) | Sugars, granulated (SR 19335) | 30 | 116.1 | 0.0 | 30.0 | 29.94 | 29.94 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 2878 | 26.5 | 218.0 | 217.81 | 186.79 | 217.5 | 136.95 | 1067 | 0.0 |
 
@@ -27,6 +27,5 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.
 - No eggs are used, so nothing needs cooking to a safe temperature; the dairy is only warmed to dissolve the sugar.

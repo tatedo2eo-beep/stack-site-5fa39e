@@ -9,7 +9,7 @@ Servings: 2. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | basil leaves | Basil, fresh (FDC 172232) | 25 | 5.8 | 0.8 | 0.7 | 0.07 | 0.00 | 0.2 | 0.01 | 1 | 0.4 |
 | pine nuts | Nuts, pine nuts, dried (FDC 170591) | 45 | 302.9 | 6.2 | 5.9 | 1.62 | 0.00 | 30.8 | 2.20 | 1 | 1.7 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 3.73 | 1 | 0.0 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | dried linguine | Pasta, dry, enriched (SR 20120) | 250 | 927.5 | 32.6 | 186.7 | 6.67 | 0.00 | 3.8 | 0.69 | 15 | 8.0 |
 | fine salt for 3 litres of pasta water (0.5%) (about 1.6 g: absorbed by 250 g dried pasta) | Salt, table (SR 02047) | 1.6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 620 | 0.0 |
@@ -28,4 +28,4 @@ Servings: 2. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian-rennet cheese if you need one.

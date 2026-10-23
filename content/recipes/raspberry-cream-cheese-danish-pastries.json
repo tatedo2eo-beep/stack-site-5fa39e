@@ -65,7 +65,7 @@
       "group": "Dough",
       "qty": 1,
       "unit": "tsp",
-      "item": "alcohol-free vanilla extract"
+      "item": "vanilla"
     },
     {
       "group": "Dough",
@@ -127,7 +127,7 @@
       "group": "Filling",
       "qty": 0.5,
       "unit": "tsp",
-      "item": "alcohol-free vanilla extract"
+      "item": "vanilla"
     },
     {
       "group": "Topping",
@@ -145,7 +145,7 @@
   "steps": [
     {
       "title": "Make the dough",
-      "text": "Mix the flour, sugar, yeast, salt and cardamom in a stand mixer bowl, then add the alcohol-free vanilla extract, egg, cold milk, water and softened butter. Knead with the dough hook for 4-5 minutes until the dough is smooth and soft. Keeping the milk and water cold stops the dough warming up, which matters once the butter needs to stay firm for lamination."
+      "text": "Mix the flour, sugar, yeast, salt and cardamom in a stand mixer bowl, then add the vanilla, egg, cold milk, water and softened butter. Knead with the dough hook for 4-5 minutes until the dough is smooth and soft. Keeping the milk and water cold stops the dough warming up, which matters once the butter needs to stay firm for lamination."
     },
     {
       "title": "First chill",
@@ -169,7 +169,7 @@
     },
     {
       "title": "Make the filling",
-      "text": "Beat the cream cheese, sugar, egg yolk, lemon zest and alcohol-free vanilla extract together until smooth and thick. This tangy filling sets as it bakes, giving a rich, slightly firm centre rather than a runny one."
+      "text": "Beat the cream cheese, sugar, egg yolk, lemon zest and vanilla together until smooth and thick. This tangy filling sets as it bakes, giving a rich, slightly firm centre rather than a runny one."
     },
     {
       "title": "Shape the coils",

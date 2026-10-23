@@ -10,7 +10,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | light corn syrup or glucose syrup | Syrups, corn, light (FDC 168837) | 60 | 169.8 | 0.0 | 46.1 | 46.06 | 46.06 | 0.1 | 0.00 | 37 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 450 | 1530.0 | 12.8 | 12.8 | 13.14 | 0.00 | 162.4 | 103.64 | 122 | 0.0 |
-| alcohol-free vanilla extract or paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | chocolate-coated malted milk balls, roughly crushed | ESTIMATE: chocolate-coated malted milk balls, typical label values | 75 | 375.0 | 6.0 | 49.5 | 43.50 | 43.50 | 18.0 | 10.50 | 150 | 1.1 |
 | **Total** | | | 2846 | 34.9 | 260.7 | 245.83 | 217.09 | 194.1 | 121.71 | 1204 | 1.7 |
 
@@ -26,6 +26,5 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.
 - No eggs are used, so nothing needs cooking to a safe temperature; the dairy is only warmed to dissolve the sugar.

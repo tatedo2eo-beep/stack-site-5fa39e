@@ -29,4 +29,3 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - Georgian imeruli and sulguni cheeses are hard to find; mozzarella and feta give the right melt and tang.
 - Egg is cooked until set (71 °C) rather than left runny.
-- Mozzarella, cheddar, Swiss, feta and Parmesan are often made with animal rennet; choose cheese made with microbial or vegetarian rennet if needed.

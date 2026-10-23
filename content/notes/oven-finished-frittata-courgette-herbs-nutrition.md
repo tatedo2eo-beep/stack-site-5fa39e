@@ -8,7 +8,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 31 | 18.9 | 1.0 | 1.5 | 1.57 | 0.00 | 1.0 | 0.58 | 13 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
-| Parmesan-style hard cheese, finely grated (animal-rennet-free) | Cheese, parmesan, hard (SR 01033) | 25 | 98.0 | 8.9 | 0.8 | 0.20 | 0.00 | 6.5 | 4.10 | 400 | 0.0 |
+| Parmesan-style hard cheese, finely grated | Cheese, parmesan, hard (SR 01033) | 25 | 98.0 | 8.9 | 0.8 | 0.20 | 0.00 | 6.5 | 4.10 | 400 | 0.0 |
 | olive oil | Oil, olive, salad or cooking (SR 04053) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 3.73 | 1 | 0.0 |
 | medium courgettes (zucchini), sliced into 3 mm rounds | Squash, summer, zucchini, includes skin, raw (FDC 169291) | 450 | 76.5 | 5.4 | 14.0 | 11.25 | 0.00 | 1.4 | 0.38 | 36 | 4.5 |
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |

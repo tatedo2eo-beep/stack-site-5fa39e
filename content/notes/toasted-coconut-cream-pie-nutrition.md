@@ -17,10 +17,10 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 85 | 273.7 | 13.5 | 3.1 | 0.48 | 0.00 | 22.6 | 8.12 | 41 | 0.0 |
 | cornflour | Cornstarch (SR 20027) | 28 | 106.7 | 0.1 | 25.6 | 0.00 | 0.00 | 0.0 | 0.00 | 3 | 0.3 |
 | unsalted butter | Butter, without salt (SR 01145) | 30 | 215.1 | 0.3 | 0.0 | 0.02 | 0.00 | 24.3 | 15.41 | 3 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | cold double cream | Cream, fluid, heavy whipping (FDC 170859) | 360 | 1224.0 | 10.2 | 10.2 | 10.51 | 0.00 | 129.9 | 82.92 | 97 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 20 | 77.4 | 0.0 | 20.0 | 19.96 | 19.96 | 0.0 | 0.00 | 0 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | desiccated or flaked coconut, for toasting | Nuts, coconut meat, dried (desiccated), not sweetened (FDC 170170) | 20 | 132.0 | 1.4 | 4.7 | 1.47 | 0.00 | 12.9 | 11.44 | 7 | 3.3 |
 | **Total** | | | 5354 | 64.0 | 377.8 | 191.55 | 162.74 | 411.2 | 285.83 | 2092 | 15.7 |
 

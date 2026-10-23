@@ -1,4 +1,4 @@
-# Research: Pasta alla Norma (Aubergine, Tomato and Feta)
+# Research: Pasta alla Norma (Aubergine, Tomato and Ricotta Salata)
 Dish: Alla Norma / flavour: Classic. Private file, not published.
 
 ## Sources actually opened
@@ -10,7 +10,6 @@ Dish: Alla Norma / flavour: Classic. Private file, not published.
 > Written in the pasta chapter. Quantities are my own; the core method matches the locked-list sources listed above. No wine or pork; Parmesan rennet note given. The Serious Eats version returned 403 twice and was not read, so it is not cited.
 
 ## Own cooking judgment
-- Firm feta made with microbial rennet is used in place of the ricotta salata.
 - Aubergine roasted (NYT alternative) rather than fried, using less oil.
 - Anchovy in one source left out so the dish stays vegetarian.
 

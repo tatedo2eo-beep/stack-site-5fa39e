@@ -1,4 +1,4 @@
-# Nutrition working: Cacio e Pepe (Cheese and Black Pepper Spaghetti)
+# Nutrition working: Cacio e Pepe (Pecorino and Black Pepper Spaghetti)
 
 Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids listed). Energy uses the USDA kcal value for each food. Salt = sodium x 2.5. Free sugars = sugars from added sugar, honey, chocolate, ketchup, bread/buns, mayonnaise, vanilla and citrus juice (WHO definition; whole or mashed fruit, milk and yoghurt sugars are not free).
 
@@ -9,8 +9,8 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | black peppercorns, coarsely crushed | Spices, pepper, black (SR 02030) | 5 | 12.6 | 0.5 | 3.2 | 0.03 | 0.00 | 0.2 | 0.07 | 1 | 1.3 |
 | cornflour | Cornstarch (SR 20027) | 4 | 15.2 | 0.0 | 3.7 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | cold water | Water, tap (SR 14411) | 45 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2 | 0.0 |
-| pecorino-style hard cheese (microbial rennet), very finely grated | Cheese, romano (FDC 171249) | 120 | 464.4 | 38.2 | 4.4 | 0.88 | 0.00 | 32.3 | 20.54 | 1720 | 0.0 |
-| pecorino-style hard cheese (microbial rennet), very finely grated | Cheese, romano (FDC 171249) | 15 | 58.0 | 4.8 | 0.5 | 0.11 | 0.00 | 4.0 | 2.57 | 215 | 0.0 |
+| pecorino, very finely grated | Cheese, romano (FDC 171249) | 120 | 464.4 | 38.2 | 4.4 | 0.88 | 0.00 | 32.3 | 20.54 | 1720 | 0.0 |
+| pecorino, very finely grated | Cheese, romano (FDC 171249) | 15 | 58.0 | 4.8 | 0.5 | 0.11 | 0.00 | 4.0 | 2.57 | 215 | 0.0 |
 | **Total** | | | 1849 | 89.1 | 273.1 | 10.36 | 0.00 | 41.8 | 24.14 | 3238 | 12.5 |
 
 **Per serving (total / 4):** kcal 462, protein_g 22.3, carbs_g 68.3, sugar_g 2.6, free_sugar_g 0.0, fat_g 10.5, satfat_g 6.0, salt_g 2.02, fibre_g 3.1
@@ -25,4 +25,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian cheese if you need one.

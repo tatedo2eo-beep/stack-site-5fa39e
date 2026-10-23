@@ -38,4 +38,3 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - One calzone per person.
 - Dough salt kept at about 1.7% of the flour so each calzone stays under 3 g salt; the sauce is unsalted.
-- Mozzarella, cheddar, Swiss, feta and Parmesan are often made with animal rennet; choose cheese made with microbial or vegetarian rennet if needed.

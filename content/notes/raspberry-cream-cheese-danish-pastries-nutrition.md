@@ -9,7 +9,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | instant (fast-action) dried yeast | Leavening agents, yeast, baker's, active dry (FDC 175043) | 7 | 22.8 | 2.8 | 2.9 | 0.00 | 0.00 | 0.5 | 0.07 | 4 | 1.9 |
 | fine salt | Salt, table (SR 02047) | 6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2325 | 0.0 |
 | ground cardamom | Spices, cardamom (FDC 170919) | 1 | 3.1 | 0.1 | 0.7 | 0.00 | 0.00 | 0.1 | 0.01 | 0 | 0.3 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | large egg | Egg, whole, raw, fresh (SR 01123) | 55 | 78.7 | 6.9 | 0.4 | 0.20 | 0.00 | 5.2 | 1.72 | 78 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 150 | 91.5 | 4.7 | 7.2 | 7.57 | 0.00 | 4.9 | 2.80 | 64 | 0.0 |
 | water | Water, tap (SR 14411) | 50 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2 | 0.0 |
@@ -19,7 +19,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | caster sugar | Sugars, granulated (SR 19335) | 40 | 154.8 | 0.0 | 40.0 | 39.92 | 39.92 | 0.0 | 0.00 | 0 | 0.0 |
 | large egg yolk | Egg, yolk, raw, fresh (SR 01125) | 18 | 58.0 | 2.9 | 0.6 | 0.10 | 0.00 | 4.8 | 1.72 | 9 | 0.0 |
 | finely grated lemon zest | Lemon peel, raw (SR 09156) | 1 | 0.5 | 0.0 | 0.2 | 0.04 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
 | fresh raspberries (about 36) | Raspberries, raw (FDC 167755) | 150 | 78.0 | 1.8 | 17.9 | 6.63 | 0.00 | 1.0 | 0.03 | 2 | 9.8 |
 | large egg, beaten with 1 tbsp milk | Egg, whole, raw, fresh (SR 01123) | 55 | 78.7 | 6.9 | 0.4 | 0.20 | 0.00 | 5.2 | 1.72 | 78 | 0.0 |
 | **Total** | | | 4546 | 81.7 | 437.4 | 114.07 | 90.58 | 277.0 | 164.69 | 3224 | 22.8 |

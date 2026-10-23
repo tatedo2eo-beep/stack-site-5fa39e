@@ -12,7 +12,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fresh sage leaves (fresh leaves (about 0.7 g each) counted as dried sage at a quarter of the weight (ESTIMATE)) | Spices, sage, ground (FDC 170935) | 2.8 | 8.8 | 0.3 | 1.7 | 0.05 | 0.00 | 0.4 | 0.20 | 0 | 1.1 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | fine salt for 4 litres of pasta water (1%) (about 1.3 g: absorbed by the gnocchi plus 40 ml cooking water added to the sauce) | Salt, table (SR 02047) | 1.3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 504 | 0.0 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
 | **Total** | | | 1916 | 47.2 | 265.4 | 7.57 | 0.00 | 75.7 | 45.72 | 2216 | 22.7 |
 
 **Per serving (total / 4):** kcal 479, protein_g 11.8, carbs_g 66.4, sugar_g 1.9, free_sugar_g 0.0, fat_g 18.9, satfat_g 11.4, salt_g 1.39, fibre_g 5.7
@@ -29,4 +29,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - About 820 g potato flesh from 1 kg baked potatoes.
 - Fresh sage counted as dried sage at a quarter of the weight (ESTIMATE).
-- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian cheese if you need one.

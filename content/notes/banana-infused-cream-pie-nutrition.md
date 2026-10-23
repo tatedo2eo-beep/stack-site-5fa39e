@@ -18,12 +18,12 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | cornflour | Cornstarch (SR 20027) | 25 | 95.2 | 0.1 | 22.8 | 0.00 | 0.00 | 0.0 | 0.00 | 2 | 0.2 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | unsalted butter, cut in small pieces | Butter, without salt (SR 01145) | 30 | 215.1 | 0.3 | 0.0 | 0.02 | 0.00 | 24.3 | 15.41 | 3 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | ripe but firm bananas, sliced 6 mm thick | Bananas, raw (SR 09040) | 330 | 293.7 | 3.6 | 75.4 | 40.36 | 0.00 | 1.1 | 0.37 | 3 | 8.6 |
 | orange juice | Orange juice, raw (Includes foods for USDA's Food Distribution Program) (FDC 169098) | 31 | 13.9 | 0.2 | 3.2 | 2.60 | 2.60 | 0.1 | 0.01 | 0 | 0.1 |
 | cold double cream | Cream, fluid, heavy whipping (FDC 170859) | 240 | 816.0 | 6.8 | 6.8 | 7.01 | 0.00 | 86.6 | 55.28 | 65 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 15 | 58.3 | 0.0 | 15.0 | 14.67 | 14.67 | 0.0 | 0.00 | 0 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 4921 | 66.0 | 441.9 | 238.04 | 155.06 | 329.1 | 199.85 | 2125 | 15.3 |
 
 **Per serving (total / 8):** kcal 615, protein_g 8.2, carbs_g 55.2, sugar_g 29.8, free_sugar_g 19.4, fat_g 41.1, satfat_g 25.0, salt_g 0.66, fibre_g 1.9

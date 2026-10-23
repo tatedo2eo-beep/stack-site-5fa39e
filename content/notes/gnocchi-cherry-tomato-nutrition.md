@@ -14,7 +14,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | basil leaves | Basil, fresh (FDC 172232) | 15 | 3.4 | 0.5 | 0.4 | 0.04 | 0.00 | 0.1 | 0.01 | 1 | 0.2 |
 | fine salt for 4 litres of pasta water (1%) (about 1.3 g: absorbed by the gnocchi plus 40 ml cooking water added to the sauce) | Salt, table (SR 02047) | 1.3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 504 | 0.0 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 20 | 78.4 | 7.2 | 0.6 | 0.16 | 0.00 | 5.2 | 3.28 | 320 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 20 | 78.4 | 7.2 | 0.6 | 0.16 | 0.00 | 5.2 | 3.28 | 320 | 0.0 |
 | **Total** | | | 1794 | 48.1 | 285.8 | 20.68 | 0.00 | 53.6 | 11.10 | 3238 | 27.8 |
 
 **Per serving (total / 4):** kcal 448, protein_g 12.0, carbs_g 71.4, sugar_g 5.2, free_sugar_g 0.0, fat_g 13.4, satfat_g 2.8, salt_g 2.02, fibre_g 7.0
@@ -30,4 +30,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - About 820 g potato flesh from 1 kg baked potatoes.
-- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian cheese if you need one.

@@ -27,4 +27,3 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - Makes about 400 ml; a serving is about 100 ml.
 - No salt is added; the cheeses season it.
-- Choose cheeses made with microbial (non-animal) rennet; check the label.

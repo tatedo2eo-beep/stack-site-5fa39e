@@ -11,7 +11,7 @@ Servings: 9. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | instant (fast-action) dried yeast | Leavening agents, yeast, baker's, active dry (FDC 175043) | 3 | 9.8 | 1.2 | 1.2 | 0.00 | 0.00 | 0.2 | 0.03 | 2 | 0.8 |
 | water | Water, tap (SR 14411) | 255 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 10 | 0.0 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 1.86 | 0 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | dark chocolate (55-70% cocoa), chopped | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 150 | 897.0 | 11.7 | 68.8 | 36.00 | 36.00 | 63.9 | 36.75 | 30 | 16.4 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 3.73 | 1 | 0.0 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 1.86 | 0 | 0.0 |

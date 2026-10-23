@@ -10,7 +10,7 @@ Servings: 25. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | light corn syrup | Syrups, corn, light (FDC 168837) | 82 | 232.1 | 0.0 | 63.0 | 62.95 | 62.95 | 0.2 | 0.00 | 51 | 0.0 |
 | water | Water, tap (SR 14411) | 60 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2 | 0.0 |
 | granulated sugar | Sugars, granulated (SR 19335) | 265 | 1025.5 | 0.0 | 264.9 | 264.47 | 264.47 | 0.0 | 0.00 | 3 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | **Total** | | | 2600 | 7.5 | 335.4 | 335.33 | 328.22 | 144.3 | 91.69 | 1292 | 0.0 |
 
 **Per serving (total / 25):** kcal 104, protein_g 0.3, carbs_g 13.4, sugar_g 13.4, free_sugar_g 13.1, fat_g 5.8, satfat_g 3.7, salt_g 0.13, fibre_g 0.0

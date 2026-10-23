@@ -6,7 +6,7 @@ Servings: 30. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 210 | 812.7 | 0.0 | 210.0 | 209.58 | 209.58 | 0.0 | 0.00 | 2 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 6 | 3.2 | 0.0 | 1.7 | 0.00 | 0.00 | 0.0 | 0.00 | 636 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 250 | 910.0 | 25.8 | 190.8 | 0.68 | 0.00 | 2.5 | 0.39 | 5 | 6.8 |

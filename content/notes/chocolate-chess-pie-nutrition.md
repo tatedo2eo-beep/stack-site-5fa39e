@@ -15,7 +15,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | cocoa powder | Cocoa, dry powder, unsweetened (SR 19165) | 25 | 57.0 | 4.9 | 14.5 | 0.44 | 0.00 | 3.4 | 2.02 | 5 | 9.2 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | double cream, whipped softly, to serve | Cream, fluid, heavy whipping (FDC 170859) | 120 | 408.0 | 3.4 | 3.4 | 3.50 | 0.00 | 43.3 | 27.64 | 32 | 0.0 |
 | **Total** | | | 4410 | 52.6 | 442.7 | 280.17 | 275.05 | 287.9 | 175.82 | 2042 | 20.9 |
 

@@ -11,7 +11,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine semolina, for dusting the tray (about 5 g clings) | Semolina, enriched (FDC 169715) | 5 | 18.0 | 0.6 | 3.6 | 0.00 | 0.00 | 0.1 | 0.01 | 0 | 0.2 |
 | butternut squash, about 1 kg, halved lengthways and seeded (about 600 g edible raw flesh; roasting concentrates it to about 400 g) | Squash, winter, butternut, raw (FDC 169295) | 600 | 270.0 | 6.0 | 70.1 | 13.20 | 0.00 | 0.6 | 0.13 | 24 | 12.0 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 1.86 | 0 | 0.0 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
 | freshly grated nutmeg | Spices, nutmeg, ground (FDC 171326) | 0.3 | 1.6 | 0.0 | 0.1 | 0.01 | 0.00 | 0.1 | 0.08 | 0 | 0.1 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
@@ -19,7 +19,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | unsalted butter | Butter, without salt (SR 01145) | 75 | 537.8 | 0.6 | 0.0 | 0.04 | 0.00 | 60.8 | 38.53 | 8 | 0.0 |
 | fresh sage leaves (fresh leaves (about 0.7 g each) counted as dried sage at a quarter of the weight (ESTIMATE)) | Spices, sage, ground (FDC 170935) | 2.8 | 8.8 | 0.3 | 1.7 | 0.05 | 0.00 | 0.4 | 0.20 | 0 | 1.1 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 5 | 1.1 | 0.0 | 0.3 | 0.13 | 0.13 | 0.0 | 0.00 | 0 | 0.0 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 20 | 78.4 | 7.2 | 0.6 | 0.16 | 0.00 | 5.2 | 3.28 | 320 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 20 | 78.4 | 7.2 | 0.6 | 0.16 | 0.00 | 5.2 | 3.28 | 320 | 0.0 |
 | **Total** | | | 2700 | 88.1 | 317.8 | 15.59 | 0.13 | 121.8 | 60.70 | 3835 | 21.9 |
 
 **Per serving (total / 4):** kcal 675, protein_g 22.0, carbs_g 79.5, sugar_g 3.9, free_sugar_g 0.0, fat_g 30.5, satfat_g 15.2, salt_g 2.4, fibre_g 5.5
@@ -36,4 +36,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - Fresh sage counted as dried sage at a quarter of the weight (ESTIMATE).
 - Dough about 500 g; about 10 g dusting flour and 5 g semolina counted.
-- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian cheese if you need one.

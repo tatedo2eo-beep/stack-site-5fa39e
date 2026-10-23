@@ -12,7 +12,7 @@ Servings: 24. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | full-fat cream cheese, softened | Cheese, cream (FDC 173418) | 680 | 2380.0 | 41.8 | 37.5 | 25.57 | 0.00 | 234.2 | 137.45 | 2135 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 200 | 774.0 | 0.0 | 200.0 | 199.60 | 199.60 | 0.0 | 0.00 | 2 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | strawberries, hulled | Strawberries, raw (FDC 167762) | 230 | 73.6 | 1.5 | 17.7 | 11.25 | 0.00 | 0.7 | 0.03 | 2 | 4.6 |
 | caster sugar | Sugars, granulated (SR 19335) | 105 | 406.4 | 0.0 | 105.0 | 104.79 | 104.79 | 0.0 | 0.00 | 1 | 0.0 |
 | soured cream | Cream, sour, cultured (FDC 171257) | 480 | 950.4 | 11.7 | 22.2 | 16.37 | 0.00 | 92.9 | 48.67 | 149 | 0.0 |

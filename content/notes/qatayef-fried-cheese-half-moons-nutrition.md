@@ -33,4 +33,3 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Only part of the soaking syrup is eaten; the amount counted is noted in the nutrition working.
 - Orange blossom water optional and not counted.
 - Serving = 2 pieces.
-- Choose cheese made with microbial or vegetable rennet if that matters to you.

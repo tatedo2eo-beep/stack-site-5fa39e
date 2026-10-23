@@ -10,7 +10,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | raw peeled king prawns | Crustaceans, shrimp, raw (FDC 175179) | 500 | 425.0 | 100.5 | 0.0 | 0.00 | 0.00 | 2.5 | 0.50 | 595 | 0.0 |
 | jarred roasted red peppers, drained | Peppers, sweet, red, canned, solids and liquids (FDC 168546) | 100 | 18.0 | 0.8 | 3.9 | 0.00 | 0.00 | 0.3 | 0.04 | 1369 | 1.2 |
 | mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 80 | 544.0 | 0.8 | 0.5 | 0.46 | 0.46 | 59.9 | 9.39 | 508 | 0.0 |
-| feta (animal-rennet-free), crumbled | Cheese, feta (SR 01019) | 60 | 158.4 | 8.5 | 2.5 | 2.45 | 0.00 | 12.8 | 8.97 | 550 | 0.0 |
+| feta, crumbled | Cheese, feta (SR 01019) | 60 | 158.4 | 8.5 | 2.5 | 2.45 | 0.00 | 12.8 | 8.97 | 550 | 0.0 |
 | almonds, toasted | Nuts, almonds (SR 12061) | 30 | 173.7 | 6.3 | 6.5 | 1.30 | 0.00 | 15.0 | 1.14 | 0 | 3.8 |
 | finely grated lemon zest | Lemon peel, raw (SR 09156) | 4 | 1.9 | 0.1 | 0.6 | 0.17 | 0.00 | 0.0 | 0.00 | 0 | 0.4 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 30 | 6.6 | 0.1 | 2.1 | 0.76 | 0.76 | 0.1 | 0.01 | 0 | 0.1 |
@@ -18,7 +18,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | dried chilli flakes | ESTIMATE: dried red chillies, whole (close to SR chili pepper powder without salt) | 0.5 | 1.4 | 0.1 | 0.2 | 0.05 | 0.00 | 0.0 | 0.01 | 0 | 0.1 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | cherry tomatoes, halved | Tomatoes, red, ripe, raw, year round average (FDC 170457) | 250 | 45.0 | 2.2 | 9.7 | 6.57 | 0.00 | 0.5 | 0.07 | 12 | 3.0 |
-| feta (animal-rennet-free), crumbled, to finish | Cheese, feta (SR 01019) | 40 | 105.6 | 5.7 | 1.6 | 1.64 | 0.00 | 8.5 | 5.98 | 367 | 0.0 |
+| feta, crumbled, to finish | Cheese, feta (SR 01019) | 40 | 105.6 | 5.7 | 1.6 | 1.64 | 0.00 | 8.5 | 5.98 | 367 | 0.0 |
 | **Total** | | | 2827 | 178.4 | 298.4 | 30.03 | 1.21 | 105.3 | 27.23 | 5137 | 28.1 |
 
 **Per serving (total / 6):** kcal 471, protein_g 29.7, carbs_g 49.7, sugar_g 5.0, free_sugar_g 0.2, fat_g 17.5, satfat_g 4.5, salt_g 2.14, fibre_g 4.7

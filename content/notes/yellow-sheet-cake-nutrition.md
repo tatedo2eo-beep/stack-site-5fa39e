@@ -9,7 +9,7 @@ Servings: 15. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | fine sea salt or table salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
 | large egg yolk | Egg, yolk, raw, fresh (SR 01125) | 17 | 54.7 | 2.7 | 0.6 | 0.10 | 0.00 | 4.5 | 1.62 | 8 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 300 | 1092.0 | 31.0 | 228.9 | 0.81 | 0.00 | 2.9 | 0.46 | 6 | 8.1 |
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 6 | 3.2 | 0.0 | 1.7 | 0.00 | 0.00 | 0.0 | 0.00 | 636 | 0.0 |
 | bicarbonate of soda | Leavening agents, baking soda (SR 18372) | 2.3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 629 | 0.0 |

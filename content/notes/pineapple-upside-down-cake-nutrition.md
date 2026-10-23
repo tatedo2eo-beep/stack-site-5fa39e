@@ -12,7 +12,7 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | caster sugar | Sugars, granulated (SR 19335) | 150 | 580.5 | 0.0 | 150.0 | 149.70 | 149.70 | 0.0 | 0.00 | 2 | 0.0 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 2.25 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 872 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | cake flour (or plain flour; see note) | Wheat flour, white, cake, enriched (FDC 169723) | 190 | 687.8 | 15.6 | 148.3 | 0.59 | 0.00 | 1.6 | 0.24 | 4 | 3.2 |
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 6 | 3.2 | 0.0 | 1.7 | 0.00 | 0.00 | 0.0 | 0.00 | 636 | 0.0 |
 | pineapple juice (unsweetened) (juice counted as juice-pack pineapple (ESTIMATE)) | Pineapple, canned, juice pack, solids and liquids (FDC 169126) | 120 | 72.0 | 0.5 | 18.8 | 17.34 | 0.00 | 0.1 | 0.01 | 1 | 1.0 |

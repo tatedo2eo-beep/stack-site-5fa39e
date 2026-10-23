@@ -1,6 +1,6 @@
 {
   "slug": "hearty-beef-lasagne-cream-sauce",
-  "title": "Hearty Beef Lasagne with Cheese Cream",
+  "title": "Hearty Beef Lasagne with Pecorino Cream",
   "category": "pasta-noodles",
   "cuisine": "Italian-American",
   "chapter": "pasta",
@@ -11,10 +11,10 @@
   "flavour_order": 103,
   "access": "premium",
   "base_recipe": "lasagne-bolognese",
-  "changes_from_base": "A quicker beef lasagne: a tender beef mince and tomato sauce instead of slow ragù, and a no-cook cheese cream sauce in place of béchamel.",
+  "changes_from_base": "A quicker beef lasagne: a tender beef mince and tomato sauce instead of slow ragù, and a no-cook pecorino cream sauce in place of béchamel.",
   "extra_flavour": true,
   "photo_pending": true,
-  "summary": "A generous beef lasagne for a crowd, with a tender beef and tomato sauce and a cheese cream in place of béchamel.",
+  "summary": "A generous beef lasagne for a crowd, with a tender beef and tomato sauce and a pecorino cream in place of béchamel.",
   "servings": 12,
   "prep_min": 40,
   "cook_min": 75,
@@ -119,7 +119,7 @@
       "group": "Cream sauce",
       "qty": 90,
       "unit": "g",
-      "item": "pecorino-style hard cheese (microbial rennet), finely grated"
+      "item": "pecorino, finely grated"
     },
     {
       "group": "Cream sauce",
@@ -155,7 +155,7 @@
       "group": "Topping",
       "qty": 20,
       "unit": "g",
-      "item": "pecorino-style hard cheese (microbial rennet), grated"
+      "item": "pecorino, grated"
     }
   ],
   "steps": [
@@ -173,11 +173,11 @@
     },
     {
       "title": "Cream sauce",
-      "text": "Whisk the cottage cheese, pecorino-style cheese, cream, garlic, cornflour and pepper together. The cornflour stops it turning greasy in the oven."
+      "text": "Whisk the cottage cheese, pecorino, cream, garlic, cornflour and pepper together. The cornflour stops it turning greasy in the oven."
     },
     {
       "title": "Layer",
-      "text": "Lay 3 sheets lengthways in the dish with a half sheet to fill the gap. Spread over about 360 ml meat sauce, 120 ml cream sauce and 60 g mozzarella. Repeat 3 more times, moving the half sheet to the other end each time, then top with the last 3 sheets, the rest of the cream sauce and mozzarella, and the pecorino-style cheese."
+      "text": "Lay 3 sheets lengthways in the dish with a half sheet to fill the gap. Spread over about 360 ml meat sauce, 120 ml cream sauce and 60 g mozzarella. Repeat 3 more times, moving the half sheet to the other end each time, then top with the last 3 sheets, the rest of the cream sauce and mozzarella, and the pecorino."
     },
     {
       "title": "Bake",

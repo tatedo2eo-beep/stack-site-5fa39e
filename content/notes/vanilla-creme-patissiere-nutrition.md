@@ -10,7 +10,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 0.375 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 145 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 85 | 273.7 | 13.5 | 3.1 | 0.48 | 0.00 | 22.6 | 8.12 | 41 | 0.0 |
 | cold unsalted butter, cut into 4 pieces | Butter, without salt (SR 01145) | 55 | 394.4 | 0.5 | 0.0 | 0.03 | 0.00 | 44.6 | 28.25 | 6 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | **Total** | | | 1470 | 29.5 | 149.6 | 126.12 | 100.86 | 83.1 | 45.51 | 407 | 0.2 |
 
 **Per serving (total / 8):** kcal 184, protein_g 3.7, carbs_g 18.7, sugar_g 15.8, free_sugar_g 12.6, fat_g 10.4, satfat_g 5.7, salt_g 0.13, fibre_g 0.0

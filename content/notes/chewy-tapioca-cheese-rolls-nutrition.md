@@ -28,5 +28,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Makes 16 rolls; one serving is 2 rolls.
-- Choose cheeses made with microbial rennet.
 - Naturally gluten-free; check the tapioca starch and baking powder labels if cooking for coeliacs.

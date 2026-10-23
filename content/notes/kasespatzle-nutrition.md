@@ -15,7 +15,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | neutral oil (about 20 g stays with the onions) | Oil, canola (SR 04582) | 20 | 176.8 | 0.0 | 0.0 | 0.00 | 0.00 | 20.0 | 1.47 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.4 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 155 | 0.0 |
 | Emmental, grated | Cheese, Swiss (FDC 171251) | 150 | 589.5 | 40.5 | 2.2 | 0.00 | 0.00 | 46.5 | 27.30 | 280 | 0.0 |
-| alpine-style hard cheese (microbial rennet), grated | Cheese, Swiss-type alpine hard cheese (FDC 171242) | 100 | 413.0 | 29.8 | 0.4 | 0.36 | 0.00 | 32.3 | 18.91 | 714 | 0.0 |
+| Gruyère, grated | Cheese, gruyere (FDC 171242) | 100 | 413.0 | 29.8 | 0.4 | 0.36 | 0.00 | 32.3 | 18.91 | 714 | 0.0 |
 | butter for the dish (about half stays on the dish) | Butter, without salt (SR 01145) | 5 | 35.9 | 0.0 | 0.0 | 0.00 | 0.00 | 4.1 | 2.57 | 1 | 0.0 |
 | snipped chives | Chives, raw (FDC 169994) | 6 | 1.8 | 0.2 | 0.3 | 0.11 | 0.00 | 0.0 | 0.01 | 0 | 0.1 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
@@ -33,4 +33,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Emmental and alpine-style cheeses are usually made with animal rennet; choose ones made with microbial rennet.
+- Emmental and Gruyère are usually made with animal rennet; choose vegetarian cheese if needed.

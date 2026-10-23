@@ -11,7 +11,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | finely grated orange zest | Orange peel, raw (FDC 169103) | 6 | 5.8 | 0.1 | 1.5 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.6 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 160 | 97.6 | 5.0 | 7.7 | 8.08 | 0.00 | 5.2 | 2.98 | 69 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 220 | 314.6 | 27.6 | 1.6 | 0.81 | 0.00 | 20.9 | 6.89 | 312 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | unsalted butter, softened | Butter, without salt (SR 01145) | 180 | 1290.6 | 1.5 | 0.1 | 0.11 | 0.00 | 146.0 | 92.47 | 20 | 0.0 |
 | large egg, beaten with 1 tbsp milk | Egg, whole, raw, fresh (SR 01123) | 55 | 78.7 | 6.9 | 0.4 | 0.20 | 0.00 | 5.2 | 1.72 | 78 | 0.0 |
 | **Total** | | | 4977 | 129.1 | 683.6 | 171.56 | 160.19 | 189.7 | 105.87 | 2826 | 20.1 |

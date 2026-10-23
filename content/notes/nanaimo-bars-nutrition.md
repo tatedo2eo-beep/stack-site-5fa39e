@@ -15,7 +15,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | custard powder | Cornstarch (SR 20027) | 18 | 68.6 | 0.0 | 16.4 | 0.00 | 0.00 | 0.0 | 0.00 | 2 | 0.2 |
 | double cream or milk | Cream, fluid, heavy whipping (FDC 170859) | 45 | 153.0 | 1.3 | 1.3 | 1.31 | 0.00 | 16.2 | 10.36 | 12 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 220 | 855.8 | 0.0 | 219.5 | 215.18 | 215.18 | 0.0 | 0.00 | 4 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | dark chocolate (50-70% cocoa solids), chopped | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 130 | 777.4 | 10.1 | 59.7 | 31.20 | 31.20 | 55.4 | 31.85 | 26 | 14.2 |
 | unsalted butter, cubed | Butter, without salt (SR 01145) | 25 | 179.2 | 0.2 | 0.0 | 0.01 | 0.00 | 20.3 | 12.84 | 3 | 0.0 |
 | **Total** | | | 5425 | 49.7 | 527.7 | 350.53 | 341.28 | 365.6 | 213.16 | 1105 | 46.1 |

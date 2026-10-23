@@ -10,7 +10,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | sugar | Sugars, granulated (SR 19335) | 25 | 96.8 | 0.0 | 25.0 | 24.95 | 24.95 | 0.0 | 0.00 | 0 | 0.0 |
 | sweetened condensed milk | Milk, canned, condensed, sweetened (FDC 171275) | 100 | 321.0 | 7.9 | 54.4 | 54.40 | 54.40 | 8.7 | 5.49 | 127 | 0.0 |
 | half-and-half (or 60 ml whole milk mixed with 60 ml single cream) | Cream, fluid, half and half (FDC 171255) | 120 | 157.2 | 3.8 | 5.2 | 4.96 | 0.00 | 13.8 | 8.44 | 73 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | ice | Ice (water) | 600 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 608 | 12.0 | 90.8 | 84.95 | 79.86 | 22.6 | 14.00 | 223 | 1.7 |
 

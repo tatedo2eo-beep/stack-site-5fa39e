@@ -13,7 +13,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | unsalted butter, melted | Butter, without salt (SR 01145) | 115 | 824.5 | 1.0 | 0.1 | 0.07 | 0.00 | 93.3 | 59.08 | 13 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 190 | 735.3 | 0.0 | 190.0 | 189.62 | 189.62 | 0.0 | 0.00 | 2 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | full-fat Greek yoghurt | Yogurt, Greek, plain, whole milk (FDC 171304) | 160 | 155.2 | 14.4 | 6.4 | 6.40 | 0.00 | 8.0 | 3.83 | 56 | 0.0 |
 | **Total** | | | 2940 | 50.4 | 440.5 | 266.56 | 248.20 | 114.1 | 66.46 | 2811 | 12.5 |

@@ -19,7 +19,7 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 34 | 109.5 | 5.4 | 1.2 | 0.19 | 0.00 | 9.0 | 3.25 | 16 | 0.0 |
 | soured cream | Cream, sour, cultured (FDC 171257) | 240 | 475.2 | 5.9 | 11.1 | 8.18 | 0.00 | 46.4 | 24.34 | 74 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 4200 | 61.3 | 518.7 | 263.99 | 225.95 | 214.0 | 122.75 | 3091 | 26.8 |
 
 **Per serving (total / 10):** kcal 420, protein_g 6.1, carbs_g 51.9, sugar_g 26.4, free_sugar_g 22.6, fat_g 21.4, satfat_g 12.3, salt_g 0.77, fibre_g 2.7

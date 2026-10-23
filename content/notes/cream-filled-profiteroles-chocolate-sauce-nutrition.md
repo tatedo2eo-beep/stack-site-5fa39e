@@ -14,7 +14,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | plain flour, sifted | Wheat flour, white, all-purpose, enriched (SR 20081) | 70 | 254.8 | 7.2 | 53.4 | 0.19 | 0.00 | 0.7 | 0.11 | 1 | 1.9 |
 | cold double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 360 | 1224.0 | 10.2 | 10.2 | 10.51 | 0.00 | 129.9 | 82.92 | 97 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 30 | 116.7 | 0.0 | 29.9 | 29.34 | 29.34 | 0.0 | 0.00 | 1 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 180 | 612.0 | 5.1 | 5.1 | 5.26 | 0.00 | 64.9 | 41.46 | 49 | 0.0 |
 | golden syrup | ESTIMATE: golden syrup (partly inverted cane sugar syrup) from typical UK label values; SR Legacy has no entry and its corn/refiner blend lists no sugars | 60 | 195.0 | 0.2 | 48.6 | 48.60 | 48.60 | 0.0 | 0.00 | 84 | 0.0 |
 | unsalted butter | Butter, without salt (SR 01145) | 40 | 286.8 | 0.3 | 0.0 | 0.02 | 0.00 | 32.4 | 20.55 | 4 | 0.0 |

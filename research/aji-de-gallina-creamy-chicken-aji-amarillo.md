@@ -10,7 +10,7 @@ Dish: Ají de gallina / flavour: Classic. Private file, not published.
 
 ## Own cooking judgment
 - Evaporated milk and a fully blended sauce.
-- Microbial-rennet hard cheese, less of it.
+- Less hard cheese.
 - Served with rice and olives; chicken to 74 °C.
 
 ## Reliability checks

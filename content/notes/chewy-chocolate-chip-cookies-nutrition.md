@@ -9,7 +9,7 @@ Servings: 18. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | granulated or caster sugar | Sugars, granulated (SR 19335) | 70 | 270.9 | 0.0 | 70.0 | 69.86 | 69.86 | 0.0 | 0.00 | 1 | 0.0 |
 | large egg, at room temperature | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
 | large egg yolk | Egg, yolk, raw, fresh (SR 01125) | 17 | 54.7 | 2.7 | 0.6 | 0.10 | 0.00 | 4.5 | 1.62 | 8 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 250 | 910.0 | 25.8 | 190.8 | 0.68 | 0.00 | 2.5 | 0.39 | 5 | 6.8 |
 | bicarbonate of soda (baking soda) | Leavening agents, baking soda (SR 18372) | 2.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 684 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
@@ -28,5 +28,5 @@ Servings: 18. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 
 ## Assumptions
 - One serving = one cookie (dough ~50 g each, 18 cookies).
-- Alcohol-free vanilla uses the USDA vanilla extract entry as proxy (4 g; negligible).
+- Vanilla uses the USDA vanilla entry as proxy (4 g; negligible).
 - Chocolate = USDA semisweet chocolate; all its sugar is counted as free sugar.

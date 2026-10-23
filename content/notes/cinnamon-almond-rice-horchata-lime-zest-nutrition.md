@@ -8,7 +8,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | cinnamon sticks (preferably Ceylon), crumbled | Spices, cinnamon, ground (SR 02010) | 2 | 4.9 | 0.1 | 1.6 | 0.04 | 0.00 | 0.0 | 0.01 | 0 | 1.1 |
 | long-grain white rice, uncooked (about a quarter passes the strainer) | Rice, white, long-grain, regular, raw (SR 20044) | 50 | 182.5 | 3.6 | 40.0 | 0.06 | 0.00 | 0.3 | 0.09 | 2 | 0.7 |
 | sugar | Sugars, granulated (SR 19335) | 90 | 348.3 | 0.0 | 90.0 | 89.82 | 89.82 | 0.0 | 0.00 | 1 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8 | 23.0 | 0.0 | 1.0 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8 | 23.0 | 0.0 | 1.0 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.4 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 155 | 0.0 |
 | whole milk, cold | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 412 | 251.3 | 13.0 | 19.8 | 20.81 | 0.00 | 13.4 | 7.68 | 177 | 0.0 |
 | ice, to serve | Ice (water) | 400 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
@@ -28,4 +28,3 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Only about a quarter of the rice and almonds pass through the strainer; nutrition counts that share.
-- Check the vanilla extract is alcohol-free (or use vanilla paste or powder).

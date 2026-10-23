@@ -9,7 +9,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | cornflour | Cornstarch (SR 20027) | 35 | 133.3 | 0.1 | 31.9 | 0.00 | 0.00 | 0.0 | 0.00 | 3 | 0.3 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 90 | 289.8 | 14.3 | 3.2 | 0.50 | 0.00 | 23.9 | 8.60 | 43 | 0.0 |
 | lemon, finely grated zest only | Lemon peel, raw (SR 09156) | 2 | 0.9 | 0.0 | 0.3 | 0.08 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | unsalted butter, cold, cubed | Butter, without salt (SR 01145) | 40 | 286.8 | 0.3 | 0.0 | 0.02 | 0.00 | 32.4 | 20.55 | 4 | 0.0 |
 | water | Water, tap (SR 14411) | 125 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 5 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 129 | 78.7 | 4.1 | 6.2 | 6.51 | 0.00 | 4.2 | 2.41 | 55 | 0.0 |

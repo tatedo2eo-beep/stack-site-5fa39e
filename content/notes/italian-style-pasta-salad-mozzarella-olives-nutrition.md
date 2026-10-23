@@ -35,4 +35,3 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Salami used by one source is left out; cider vinegar and lemon give the acidity.
-- Check that the mozzarella or hard cheese is made with microbial or vegetarian rennet if you need it.

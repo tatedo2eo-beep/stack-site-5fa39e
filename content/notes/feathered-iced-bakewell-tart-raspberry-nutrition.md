@@ -13,7 +13,7 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | soft unsalted butter | Butter, without salt (SR 01145) | 135 | 968.0 | 1.1 | 0.1 | 0.08 | 0.00 | 109.5 | 69.35 | 15 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 135 | 522.5 | 0.0 | 135.0 | 134.73 | 134.73 | 0.0 | 0.00 | 1 | 0.0 |
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
-| alcohol-free almond extract (almond flavouring estimate) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| almond flavouring | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | ground almonds | Nuts, almonds, blanched (FDC 170568) | 135 | 796.5 | 28.9 | 25.2 | 6.25 | 0.00 | 70.9 | 5.34 | 26 | 13.4 |
 | seedless raspberry jam | Jams and preserves (FDC 169641) | 120 | 333.6 | 0.4 | 82.6 | 58.20 | 58.20 | 0.1 | 0.01 | 38 | 1.3 |
 | icing sugar | Sugars, powdered (FDC 169656) | 180 | 700.2 | 0.0 | 179.6 | 176.06 | 176.06 | 0.0 | 0.00 | 4 | 0.0 |

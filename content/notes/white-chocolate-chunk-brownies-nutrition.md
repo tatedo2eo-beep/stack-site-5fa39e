@@ -11,7 +11,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | dark chocolate (60-70% cocoa), finely chopped | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 115 | 687.7 | 9.0 | 52.8 | 27.60 | 27.60 | 49.0 | 28.17 | 23 | 12.5 |
 | caster sugar | Sugars, granulated (SR 19335) | 100 | 387.0 | 0.0 | 100.0 | 99.80 | 99.80 | 0.0 | 0.00 | 1 | 0.0 |
 | dark brown soft sugar | Sugars, brown (SR 19334) | 100 | 380.0 | 0.1 | 98.1 | 97.02 | 97.02 | 0.0 | 0.00 | 28 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | white chocolate, cut into chunks | Candies, white chocolate (FDC 167571) | 130 | 700.7 | 7.6 | 77.0 | 76.70 | 76.70 | 41.7 | 25.24 | 117 | 0.3 |
 | **Total** | | | 3518 | 41.1 | 409.6 | 302.37 | 301.65 | 194.5 | 115.78 | 1595 | 15.6 |

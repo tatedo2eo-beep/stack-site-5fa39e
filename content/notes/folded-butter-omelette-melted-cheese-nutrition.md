@@ -8,7 +8,7 @@ Servings: 1. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | pinch ground black pepper | Spices, pepper, black (SR 02030) | 0.3 | 0.8 | 0.0 | 0.2 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
 | unsalted butter | Butter, without salt (SR 01145) | 15 | 107.5 | 0.1 | 0.0 | 0.01 | 0.00 | 12.2 | 7.71 | 2 | 0.0 |
-| alpine-style cheese or mature cheddar (microbial rennet), finely grated | Cheese, Swiss-type alpine hard cheese (FDC 171242) | 30 | 123.9 | 8.9 | 0.1 | 0.11 | 0.00 | 9.7 | 5.67 | 214 | 0.0 |
+| Gruyère or mature cheddar, finely grated | Cheese, gruyere (FDC 171242) | 30 | 123.9 | 8.9 | 0.1 | 0.11 | 0.00 | 9.7 | 5.67 | 214 | 0.0 |
 | chives, finely snipped | Chives, raw (FDC 169994) | 2 | 0.6 | 0.1 | 0.1 | 0.04 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
 | **Total** | | | 447 | 28.0 | 1.5 | 0.71 | 0.00 | 36.2 | 18.08 | 720 | 0.1 |
 
@@ -24,4 +24,4 @@ Servings: 1. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Cheese counted as alpine-style hard cheese; check any cheese is made with microbial or vegetarian rennet.
+- Cheese counted as Gruyère.

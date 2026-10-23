@@ -18,7 +18,7 @@ Servings: 20. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | finely grated lemon zest | Lemon peel, raw (SR 09156) | 2 | 0.9 | 0.0 | 0.3 | 0.08 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 200 | 122.0 | 6.3 | 9.6 | 10.10 | 0.00 | 6.5 | 3.73 | 86 | 0.0 |
 | large egg | Egg, whole, raw, fresh (SR 01123) | 55 | 78.7 | 6.9 | 0.4 | 0.20 | 0.00 | 5.2 | 1.72 | 78 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | unsalted butter, melted | Butter, without salt (SR 01145) | 140 | 1003.8 | 1.2 | 0.1 | 0.08 | 0.00 | 113.6 | 71.92 | 15 | 0.0 |
 | ground almonds | Nuts, almonds, blanched (FDC 170568) | 120 | 708.0 | 25.7 | 22.4 | 5.56 | 0.00 | 63.0 | 4.74 | 23 | 11.9 |
 | icing sugar | Sugars, powdered (FDC 169656) | 80 | 311.2 | 0.0 | 79.8 | 78.25 | 78.25 | 0.0 | 0.00 | 2 | 0.0 |

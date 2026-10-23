@@ -5,7 +5,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | whole-milk cottage cheese | Cheese, cottage, creamed, large or small curd (FDC 172179) | 280 | 274.4 | 31.1 | 9.5 | 7.48 | 0.00 | 12.0 | 4.81 | 882 | 0.0 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 55 | 215.6 | 19.7 | 1.8 | 0.44 | 0.00 | 14.2 | 9.03 | 881 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 55 | 215.6 | 19.7 | 1.8 | 0.44 | 0.00 | 14.2 | 9.03 | 881 | 0.0 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 240 | 816.0 | 6.8 | 6.8 | 7.01 | 0.00 | 86.6 | 55.28 | 65 | 0.0 |
 | chopped fresh sage | Spices, sage, ground (FDC 170935) | 2 | 6.3 | 0.2 | 1.2 | 0.03 | 0.00 | 0.3 | 0.14 | 0 | 0.8 |
 | cornflour | Cornstarch (FDC 169698) | 3 | 11.4 | 0.0 | 2.7 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
@@ -32,4 +32,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian-rennet cheese if you need one.

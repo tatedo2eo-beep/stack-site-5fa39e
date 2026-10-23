@@ -9,7 +9,7 @@ Dish: Panini / flavour: Caprese. Private file, not published.
 > Written for this batch. Quantities and wording are my own; the core method matches the locked-list source(s) listed above; nothing copied.
 
 ## Own cooking judgment
-- Fresh mozzarella with microbial rennet.
+- Fresh mozzarella.
 - Tomatoes blotted first.
 - Bread rubbed with garlic.
 

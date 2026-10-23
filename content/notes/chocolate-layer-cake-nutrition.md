@@ -14,7 +14,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | neutral oil (sunflower or rapeseed) | Oil, canola (SR 04582) | 120 | 1060.8 | 0.0 | 0.0 | 0.00 | 0.00 | 120.0 | 8.84 | 0 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
 | buttermilk, at room temperature | Milk, buttermilk, fluid, cultured, lowfat (SR 01088) | 240 | 96.0 | 7.9 | 11.5 | 11.50 | 0.00 | 2.1 | 1.32 | 252 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | dark chocolate (about 60% cocoa solids), finely chopped | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 300 | 1794.0 | 23.4 | 137.7 | 72.00 | 72.00 | 127.8 | 73.50 | 60 | 32.7 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 300 | 1020.0 | 8.5 | 8.5 | 8.76 | 0.00 | 108.2 | 69.10 | 81 | 0.0 |
 | unsalted butter, softened | Butter, without salt (SR 01145) | 60 | 430.2 | 0.5 | 0.0 | 0.04 | 0.00 | 48.7 | 30.82 | 7 | 0.0 |

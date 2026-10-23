@@ -15,10 +15,10 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | pine nuts, toasted | Nuts, pine nuts, dried (FDC 170591) | 35 | 235.5 | 4.8 | 4.6 | 1.26 | 0.00 | 23.9 | 1.71 | 1 | 1.3 |
 | garlic cloves, peeled | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | fine salt | Salt, table (SR 02047) | 6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2325 | 0.0 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 55 | 215.6 | 19.7 | 1.8 | 0.44 | 0.00 | 14.2 | 9.03 | 881 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 55 | 215.6 | 19.7 | 1.8 | 0.44 | 0.00 | 14.2 | 9.03 | 881 | 0.0 |
 | grated lemon zest | Lemon peel, raw (SR 09156) | 4 | 1.9 | 0.1 | 0.6 | 0.17 | 0.00 | 0.0 | 0.00 | 0 | 0.4 |
 | dried lasagne sheets (curly-edged if you can find them) (about 380 g) | Pasta, dry, enriched (SR 20120) | 380 | 1409.8 | 49.6 | 283.7 | 10.15 | 0.00 | 5.7 | 1.05 | 23 | 12.2 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
 | pine nuts, toasted | Nuts, pine nuts, dried (FDC 170591) | 35 | 235.5 | 4.8 | 4.6 | 1.26 | 0.00 | 23.9 | 1.71 | 1 | 1.3 |
 | **Total** | | | 4940 | 141.2 | 407.3 | 79.78 | 0.00 | 310.4 | 109.48 | 4678 | 19.2 |
 
@@ -34,4 +34,4 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian-rennet cheese if you need one.

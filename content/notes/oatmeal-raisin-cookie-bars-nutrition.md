@@ -8,7 +8,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | unsalted butter, at room temperature | Butter, without salt (SR 01145) | 115 | 824.5 | 1.0 | 0.1 | 0.07 | 0.00 | 93.3 | 59.08 | 13 | 0.0 |
 | black treacle or molasses | Molasses (FDC 168820) | 43 | 124.7 | 0.0 | 32.1 | 32.13 | 32.13 | 0.0 | 0.01 | 16 | 0.0 |
 | large egg, at room temperature | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 120 | 436.8 | 12.4 | 91.6 | 0.32 | 0.00 | 1.2 | 0.19 | 2 | 3.2 |
 | rolled oats | Oats, rolled, dry (SR 08120) | 50 | 189.5 | 6.6 | 33.9 | 0.49 | 0.00 | 3.3 | 0.56 | 3 | 5.0 |
 | ground cinnamon | Spices, cinnamon, ground (SR 02010) | 5.2 | 12.8 | 0.2 | 4.2 | 0.11 | 0.00 | 0.1 | 0.02 | 1 | 2.8 |

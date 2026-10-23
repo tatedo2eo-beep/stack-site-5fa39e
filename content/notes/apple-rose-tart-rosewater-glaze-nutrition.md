@@ -9,7 +9,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | cold unsalted butter, in 1 cm pieces, plus extra for the tin | Butter, without salt (SR 01145) | 140 | 1003.8 | 1.2 | 0.1 | 0.08 | 0.00 | 113.6 | 71.92 | 15 | 0.0 |
 | large egg yolk | Egg, yolk, raw, fresh (SR 01125) | 17 | 54.7 | 2.7 | 0.6 | 0.10 | 0.00 | 4.5 | 1.62 | 8 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | cold water, if needed | Water, tap (SR 14411) | 30 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
 | medium crisp, tart apples such as Braeburn or Honeycrisp (about 450 g) | Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (FDC 171688) | 450 | 234.0 | 1.2 | 62.1 | 46.76 | 0.00 | 0.8 | 0.13 | 4 | 10.8 |
 | caster sugar | Sugars, granulated (SR 19335) | 50 | 193.5 | 0.0 | 50.0 | 49.90 | 49.90 | 0.0 | 0.00 | 0 | 0.0 |

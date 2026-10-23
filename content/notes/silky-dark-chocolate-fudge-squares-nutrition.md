@@ -8,7 +8,7 @@ Servings: 18. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | sweetened condensed milk (1 tin) | Milk, canned, condensed, sweetened (FDC 171275) | 397 | 1274.4 | 31.4 | 216.0 | 215.97 | 215.97 | 34.5 | 21.78 | 504 | 0.0 |
 | unsalted butter, cubed, plus a little for the tin | Butter, without salt (SR 01145) | 42 | 301.1 | 0.4 | 0.0 | 0.03 | 0.00 | 34.1 | 21.58 | 5 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 3508 | 48.6 | 472.1 | 434.52 | 434.50 | 188.6 | 114.56 | 844 | 23.6 |
 
 **Per serving (total / 18):** kcal 195, protein_g 2.7, carbs_g 26.2, sugar_g 24.1, free_sugar_g 24.1, fat_g 10.5, satfat_g 6.4, salt_g 0.12, fibre_g 1.3

@@ -9,7 +9,7 @@ Servings: 3. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | dark brown soft sugar | Sugars, brown (SR 19334) | 50 | 190.0 | 0.1 | 49.0 | 48.51 | 48.51 | 0.0 | 0.00 | 14 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 116 | 0.0 |
 | dark chocolate (70% cocoa), chopped | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 30 | 179.4 | 2.3 | 13.8 | 7.20 | 7.20 | 12.8 | 7.35 | 6 | 3.3 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | pasteurised egg white (from a carton, about 1 egg white) | Egg, white, raw, fresh (SR 01124) | 30 | 15.6 | 3.3 | 0.2 | 0.21 | 0.00 | 0.1 | 0.00 | 50 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 30 | 116.1 | 0.0 | 30.0 | 29.94 | 29.94 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 1328 | 16.1 | 111.7 | 86.58 | 86.16 | 99.8 | 83.98 | 241 | 7.7 |

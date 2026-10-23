@@ -9,7 +9,7 @@ Dish: Dinner rolls / flavour: Pesto. Private file, not published.
 > Written for this batch. Quantities, step structure and wording are my own and differ from the source; quantities sanity-checked independently.
 
 ## Own cooking judgment
-- Scratch dough instead of a boxed mix; home-made pesto; microbial-rennet cheese note.
+- Scratch dough instead of a boxed mix; home-made pesto.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

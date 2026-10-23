@@ -26,4 +26,4 @@ Servings: 26. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 - Salt: 1 tsp fine salt taken as 6 g.
 - Large egg taken as 50 g edible (yolk 17 g, white 33 g).
 - Naturally gluten-free as written.
-- Almond extract (if used) must be alcohol-free; not counted in the nutrition.
+- Almond flavouring (if used) is not counted in the nutrition.

@@ -22,7 +22,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 85 | 273.7 | 13.5 | 3.1 | 0.48 | 0.00 | 22.6 | 8.12 | 41 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 70 | 270.9 | 0.0 | 70.0 | 69.86 | 69.86 | 0.0 | 0.00 | 1 | 0.0 |
 | cornflour (cornstarch) | Cornstarch (SR 20027) | 30 | 114.3 | 0.1 | 27.4 | 0.00 | 0.00 | 0.0 | 0.00 | 3 | 0.3 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | soft unsalted butter | Butter, without salt (SR 01145) | 200 | 1434.0 | 1.7 | 0.1 | 0.12 | 0.00 | 162.2 | 102.74 | 22 | 0.0 |
 | icing sugar, for dusting | Sugars, powdered (FDC 169656) | 8 | 31.1 | 0.0 | 8.0 | 7.82 | 7.82 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 5370 | 93.9 | 362.7 | 216.46 | 184.13 | 406.2 | 178.18 | 1730 | 20.1 |

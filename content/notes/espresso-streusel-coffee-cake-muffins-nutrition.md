@@ -13,7 +13,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | pecans | Nuts, pecans (FDC 170182) | 50 | 345.5 | 4.6 | 6.9 | 1.99 | 0.00 | 36.0 | 3.09 | 0 | 4.8 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | soured cream | Cream, sour, cultured (FDC 171257) | 240 | 475.2 | 5.9 | 11.1 | 8.18 | 0.00 | 46.4 | 24.34 | 74 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | instant espresso powder | Beverages, coffee, instant, regular, powder (FDC 171893) | 6 | 21.2 | 0.7 | 4.5 | 0.00 | 0.00 | 0.0 | 0.01 | 2 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 250 | 910.0 | 25.8 | 190.8 | 0.68 | 0.00 | 2.5 | 0.39 | 5 | 6.8 |
 | granulated sugar | Sugars, granulated (SR 19335) | 100 | 387.0 | 0.0 | 100.0 | 99.80 | 99.80 | 0.0 | 0.00 | 1 | 0.0 |

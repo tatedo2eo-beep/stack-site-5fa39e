@@ -22,7 +22,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | freshly grated nutmeg | Spices, nutmeg, ground (FDC 171326) | 0.6 | 3.1 | 0.0 | 0.3 | 0.02 | 0.00 | 0.2 | 0.16 | 0 | 0.1 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | dried lasagne sheets (no-precook type) | Pasta, dry, enriched (SR 20120) | 300 | 1113.0 | 39.1 | 224.0 | 8.01 | 0.00 | 4.5 | 0.83 | 18 | 9.6 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 90 | 352.8 | 32.2 | 2.9 | 0.72 | 0.00 | 23.2 | 14.77 | 1442 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 90 | 352.8 | 32.2 | 2.9 | 0.72 | 0.00 | 23.2 | 14.77 | 1442 | 0.0 |
 | butter for the dish | Butter, without salt (SR 01145) | 10 | 71.7 | 0.1 | 0.0 | 0.01 | 0.00 | 8.1 | 5.14 | 1 | 0.0 |
 | **Total** | | | 4705 | 234.2 | 370.7 | 95.96 | 0.00 | 253.2 | 126.46 | 6905 | 32.3 |
 
@@ -39,4 +39,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - The milk-then-tomato order and long simmer give the depth.
-- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian cheese if you need one.

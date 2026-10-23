@@ -11,7 +11,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | unsweetened cocoa powder | Cocoa, dry powder, unsweetened (SR 19165) | 10 | 22.8 | 2.0 | 5.8 | 0.18 | 0.00 | 1.4 | 0.81 | 2 | 3.7 |
 | unsalted butter | Butter, without salt (SR 01145) | 15 | 107.5 | 0.1 | 0.0 | 0.01 | 0.00 | 12.2 | 7.71 | 2 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.375 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 145 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
 | cold double cream | Cream, fluid, heavy whipping (FDC 170859) | 150 | 510.0 | 4.3 | 4.3 | 4.38 | 0.00 | 54.1 | 34.55 | 40 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 12 | 46.4 | 0.0 | 12.0 | 11.98 | 11.98 | 0.0 | 0.00 | 0 | 0.0 |
 | vanilla ice cream (8 scoops), bought or homemade | Ice creams, vanilla (FDC 167575) | 480 | 993.6 | 16.8 | 113.3 | 101.86 | 101.86 | 52.8 | 32.59 | 384 | 3.4 |
@@ -30,6 +30,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - Bought ice cream and dark chocolate can contain egg or soya: check the labels.
 - The cherries must be alcohol-free; most jarred cocktail cherries are, but check.

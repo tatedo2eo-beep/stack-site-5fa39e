@@ -10,8 +10,8 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | thyme sprigs | Spices, thyme, dried (SR 02042) | 0.5 | 1.4 | 0.0 | 0.3 | 0.01 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | unsalted butter, diced | Butter, without salt (SR 01145) | 90 | 645.3 | 0.8 | 0.1 | 0.05 | 0.00 | 73.0 | 46.23 | 10 | 0.0 |
 | double cream, hot | Cream, fluid, heavy whipping (SR 01053) | 200 | 680.0 | 5.7 | 5.5 | 5.84 | 0.00 | 72.2 | 46.06 | 54 | 0.0 |
-| young tomme fraîche, or a mix of alpine-style cheese and mozzarella (microbial rennet), grated | Cheese, Swiss-type alpine hard cheese (FDC 171242) | 125 | 516.2 | 37.3 | 0.4 | 0.45 | 0.00 | 40.4 | 23.64 | 892 | 0.0 |
-| young tomme fraîche, or a mix of alpine-style cheese and mozzarella (microbial rennet), grated | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 125 | 397.5 | 27.0 | 3.1 | 1.26 | 0.00 | 30.8 | 19.45 | 888 | 0.0 |
+| young Tomme fraîche, or a mix of Comté or Gruyère and mozzarella, grated | Cheese, gruyere (FDC 171242) | 125 | 516.2 | 37.3 | 0.4 | 0.45 | 0.00 | 40.4 | 23.64 | 892 | 0.0 |
+| young Tomme fraîche, or a mix of Comté or Gruyère and mozzarella, grated | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 125 | 397.5 | 27.0 | 3.1 | 1.26 | 0.00 | 30.8 | 19.45 | 888 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | **Total** | | | 2773 | 85.1 | 130.3 | 13.25 | 0.00 | 217.1 | 135.57 | 3243 | 14.6 |
 
@@ -28,4 +28,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Cheese is often made with animal rennet; choose a vegetarian cheese if needed.
-- Tomme fraîche counted as half alpine-style cheese, half mozzarella (estimate).
+- Tomme fraîche counted as half Gruyère, half mozzarella (estimate).

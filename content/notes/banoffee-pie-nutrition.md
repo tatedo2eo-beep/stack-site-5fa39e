@@ -10,7 +10,7 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | light brown sugar | Sugars, brown (SR 19334) | 75 | 285.0 | 0.1 | 73.6 | 72.77 | 72.77 | 0.0 | 0.00 | 21 | 0.0 |
 | tin sweetened condensed milk | Milk, canned, condensed, sweetened (FDC 171275) | 397 | 1274.4 | 31.4 | 216.0 | 215.97 | 215.97 | 34.5 | 21.78 | 504 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | ripe but firm bananas, sliced | Bananas, raw (SR 09040) | 330 | 293.7 | 3.6 | 75.4 | 40.36 | 0.00 | 1.1 | 0.37 | 3 | 8.6 |
 | cold double cream | Cream, fluid, heavy whipping (FDC 170859) | 300 | 1020.0 | 8.5 | 8.5 | 8.76 | 0.00 | 108.2 | 69.10 | 81 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 10 | 38.9 | 0.0 | 10.0 | 9.78 | 9.78 | 0.0 | 0.00 | 0 | 0.0 |

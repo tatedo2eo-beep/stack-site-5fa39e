@@ -9,7 +9,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | caster sugar | Sugars, granulated (SR 19335) | 200 | 774.0 | 0.0 | 200.0 | 199.60 | 199.60 | 0.0 | 0.00 | 2 | 0.0 |
 | dark muscovado or dark brown soft sugar | Sugars, brown (SR 19334) | 30 | 114.0 | 0.0 | 29.4 | 29.11 | 29.11 | 0.0 | 0.00 | 8 | 0.0 |
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | finely grated fresh ginger | Ginger root, raw (SR 11216) | 6 | 4.8 | 0.1 | 1.1 | 0.10 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | ground ginger | Spices, ginger, ground (FDC 170926) | 4 | 13.4 | 0.4 | 2.9 | 0.14 | 0.00 | 0.2 | 0.10 | 1 | 0.6 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |

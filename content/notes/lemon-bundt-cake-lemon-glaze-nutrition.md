@@ -10,7 +10,7 @@ Servings: 14. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 4 | 2.1 | 0.0 | 1.1 | 0.00 | 0.00 | 0.0 | 0.00 | 424 | 0.0 |
 | bicarbonate of soda | Leavening agents, baking soda (SR 18372) | 2.3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 629 | 0.0 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 4.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1744 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | buttermilk, at room temperature | Milk, buttermilk, fluid, cultured, lowfat (SR 01088) | 200 | 80.0 | 6.6 | 9.6 | 9.58 | 0.00 | 1.8 | 1.10 | 210 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
 | large egg yolk | Egg, yolk, raw, fresh (SR 01125) | 17 | 54.7 | 2.7 | 0.6 | 0.10 | 0.00 | 4.5 | 1.62 | 8 | 0.0 |

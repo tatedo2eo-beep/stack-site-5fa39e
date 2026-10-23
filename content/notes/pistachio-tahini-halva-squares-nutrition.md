@@ -6,7 +6,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | tahini, well stirred | Seeds, sesame butter, tahini (SR 12698) | 340 | 2023.0 | 57.8 | 72.0 | 1.67 | 0.00 | 182.8 | 25.62 | 391 | 31.6 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | shelled unsalted pistachios, roughly chopped | Nuts, pistachio nuts, dry roasted, without salt added (FDC 170185) | 70 | 400.4 | 14.7 | 19.8 | 5.42 | 0.00 | 32.1 | 3.95 | 4 | 7.2 |
 | granulated sugar | Sugars, granulated (SR 19335) | 300 | 1161.0 | 0.0 | 299.9 | 299.40 | 299.40 | 0.0 | 0.00 | 3 | 0.0 |
 | water | Water, tap (SR 14411) | 90 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 4 | 0.0 |

@@ -7,7 +7,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | unsalted butter, melted | Butter, without salt (SR 01145) | 70 | 501.9 | 0.6 | 0.0 | 0.04 | 0.00 | 56.8 | 35.96 | 8 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 340 | 1315.8 | 0.0 | 339.9 | 339.32 | 339.32 | 0.0 | 0.00 | 3 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | cocoa powder (natural or Dutch-process) | Cocoa, dry powder, unsweetened (SR 19165) | 65 | 148.2 | 12.7 | 37.6 | 1.14 | 0.00 | 8.9 | 5.25 | 14 | 24.1 |
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
 | ground almonds (almond flour) | Nuts, almonds, blanched (FDC 170568) | 145 | 855.5 | 31.0 | 27.1 | 6.71 | 0.00 | 76.2 | 5.73 | 28 | 14.4 |

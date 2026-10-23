@@ -10,7 +10,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 370.8 | 226.2 | 11.7 | 17.8 | 18.73 | 0.00 | 12.1 | 6.92 | 159 | 0.0 |
 | white (shiro) miso, alcohol-free (check label) | Miso (FDC 172442) | 40 | 79.2 | 5.1 | 10.1 | 2.48 | 0.00 | 2.4 | 0.41 | 1491 | 2.2 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 108 | 347.8 | 17.1 | 3.9 | 0.60 | 0.00 | 28.7 | 10.31 | 52 | 0.0 |
-| alcohol-free vanilla extract or paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | ground cinnamon | Spices, cinnamon, ground (SR 02010) | 0.65 | 1.6 | 0.0 | 0.5 | 0.01 | 0.00 | 0.0 | 0.00 | 0 | 0.3 |
 | **Total** | | | 2928 | 44.9 | 200.1 | 188.11 | 155.74 | 221.7 | 131.38 | 1852 | 2.5 |
 
@@ -26,5 +26,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.

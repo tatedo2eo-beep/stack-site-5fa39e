@@ -20,7 +20,7 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | instant espresso powder | Beverages, coffee, instant, regular, powder (SR 14214) | 6 | 14.5 | 0.7 | 2.5 | 0.00 | 0.00 | 0.0 | 0.01 | 2 | 0.0 |
 | hot water | Water, tap (SR 14411) | 30 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
 | soft unsalted butter | Butter, without salt (SR 01145) | 225 | 1613.2 | 1.9 | 0.1 | 0.14 | 0.00 | 182.5 | 115.58 | 25 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 3983 | 59.8 | 320.1 | 281.94 | 264.86 | 286.8 | 131.52 | 942 | 16.3 |
 
 **Per serving (total / 10):** kcal 398, protein_g 6.0, carbs_g 32.0, sugar_g 28.2, free_sugar_g 26.5, fat_g 28.7, satfat_g 13.2, salt_g 0.24, fibre_g 1.6

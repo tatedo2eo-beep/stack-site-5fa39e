@@ -1,6 +1,6 @@
 {
   "slug": "pasta-alla-norma",
-  "title": "Pasta alla Norma (Aubergine, Tomato and Feta)",
+  "title": "Pasta alla Norma (Aubergine, Tomato and Ricotta Salata)",
   "category": "pasta-noodles",
   "cuisine": "Italian (Sicilian)",
   "chapter": "pasta",
@@ -10,7 +10,7 @@
   "flavour": "Classic",
   "flavour_order": 0,
   "access": "free",
-  "summary": "A Sicilian pasta of roasted aubergine and rich tomato sauce, finished with salty feta and fresh basil.",
+  "summary": "A Sicilian pasta of roasted aubergine and rich tomato sauce, finished with salty ricotta salata and fresh basil.",
   "servings": 4,
   "prep_min": 15,
   "cook_min": 40,
@@ -89,8 +89,8 @@
       "group": "To serve",
       "qty": 80,
       "unit": "g",
-      "item": "firm feta (microbial rennet), finely crumbled",
-      "note": "or a pecorino-style hard cheese (microbial rennet)"
+      "item": "ricotta salata, coarsely grated",
+      "note": "or a mild pecorino or feta"
     }
   ],
   "steps": [
@@ -120,14 +120,14 @@
     },
     {
       "title": "Serve",
-      "text": "Serve topped with the remaining aubergine, the feta and the rest of the basil. Keeping some aubergine back for the top adds texture and a browned flavour that would otherwise get lost if everything were stirred together."
+      "text": "Serve topped with the remaining aubergine, the ricotta salata and the rest of the basil. Keeping some aubergine back for the top adds texture and a browned flavour that would otherwise get lost if everything were stirred together."
     }
   ],
   "tips": [
     "Don't crowd the aubergine on the trays, as pieces that touch too much will steam instead of browning, and browning is what gives this dish its depth.",
     "Salt the aubergine before roasting rather than after; it helps draw out excess moisture so the pieces crisp rather than stew.",
     "Keep some roasted aubergine back to scatter on top for a contrast of texture.",
-    "Use a firm, dry feta made with microbial rennet; its salty tang stands in well for the traditional Sicilian cheese."
+    "Use a genuine ricotta salata if you can find it, since its firm, salty tang is quite different from fresh ricotta and harder to substitute well."
   ],
   "storage": "Keep covered in the fridge for up to 3 days; the sauce (without pasta) also freezes well for up to 3 months. Reheat gently in a pan with a splash of water, or in the microwave, until piping hot throughout. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
   "allergens": [

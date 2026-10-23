@@ -6,7 +6,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | large egg yolk | Egg, yolk, raw, fresh (SR 01125) | 17 | 54.7 | 2.7 | 0.6 | 0.10 | 0.00 | 4.5 | 1.62 | 8 | 0.0 |
 | double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 15 | 51.0 | 0.4 | 0.4 | 0.44 | 0.00 | 5.4 | 3.45 | 4 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | plain flour, plus extra for rolling | Wheat flour, white, all-purpose, enriched (SR 20081) | 175 | 637.0 | 18.1 | 133.5 | 0.47 | 0.00 | 1.7 | 0.27 | 4 | 4.7 |
 | icing sugar | Sugars, powdered (FDC 169656) | 80 | 311.2 | 0.0 | 79.8 | 78.25 | 78.25 | 0.0 | 0.00 | 2 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
@@ -16,7 +16,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | large egg white | Egg, white, raw, fresh (SR 01124) | 33 | 17.2 | 3.6 | 0.2 | 0.23 | 0.00 | 0.1 | 0.00 | 55 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 110 | 425.7 | 0.0 | 110.0 | 109.78 | 109.78 | 0.0 | 0.00 | 1 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | finely grated lemon zest | Lemon peel, raw (SR 09156) | 0.5 | 0.2 | 0.0 | 0.1 | 0.02 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 7.5 | 1.6 | 0.0 | 0.5 | 0.19 | 0.19 | 0.0 | 0.00 | 0 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 15 | 54.6 | 1.5 | 11.4 | 0.04 | 0.00 | 0.1 | 0.02 | 0 | 0.4 |

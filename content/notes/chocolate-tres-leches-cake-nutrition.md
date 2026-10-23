@@ -7,7 +7,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 250 | 357.5 | 31.4 | 1.8 | 0.93 | 0.00 | 23.8 | 7.82 | 355 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 200 | 774.0 | 0.0 | 200.0 | 199.60 | 199.60 | 0.0 | 0.00 | 2 | 0.0 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 82 | 50.0 | 2.6 | 3.9 | 4.14 | 0.00 | 2.7 | 1.53 | 35 | 0.0 |
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 8 | 4.2 | 0.0 | 2.2 | 0.00 | 0.00 | 0.0 | 0.00 | 848 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 150 | 546.0 | 15.5 | 114.5 | 0.41 | 0.00 | 1.5 | 0.23 | 3 | 4.1 |
@@ -19,7 +19,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | dark chocolate, finely chopped | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 50 | 299.0 | 3.9 | 22.9 | 12.00 | 12.00 | 21.3 | 12.25 | 10 | 5.5 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 300 | 1020.0 | 8.5 | 8.5 | 8.76 | 0.00 | 108.2 | 69.10 | 81 | 0.0 |
 | icing sugar | Sugars, granulated (SR 19335) | 25 | 96.8 | 0.0 | 25.0 | 24.95 | 24.95 | 0.0 | 0.00 | 0 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | strawberries, to decorate | Strawberries, raw (FDC 167762) | 150 | 48.0 | 1.0 | 11.5 | 7.33 | 0.00 | 0.4 | 0.02 | 2 | 3.0 |
 | cocoa powder, to dust | Cocoa, dry powder, unsweetened, processed with alkali (FDC 169594) | 2 | 4.4 | 0.4 | 1.2 | 0.04 | 0.00 | 0.3 | 0.16 | 0 | 0.6 |
 | **Total** | | | 4916 | 125.3 | 637.4 | 443.04 | 412.22 | 222.9 | 130.77 | 2756 | 28.0 |

@@ -17,7 +17,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | large eggs, separated | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 245 | 149.5 | 7.7 | 11.8 | 12.37 | 0.00 | 8.0 | 4.57 | 105 | 0.0 |
 | melted unsalted butter | Butter, without salt (SR 01145) | 25 | 179.2 | 0.2 | 0.0 | 0.01 | 0.00 | 20.3 | 12.84 | 3 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | unsalted butter, for the pan | Butter, without salt (SR 01145) | 25 | 179.2 | 0.2 | 0.0 | 0.01 | 0.00 | 20.3 | 12.84 | 3 | 0.0 |
 | lingonberry or raspberry jam | Jams and preserves (FDC 169641) | 120 | 333.6 | 0.4 | 82.6 | 58.20 | 58.20 | 0.1 | 0.01 | 38 | 1.3 |
 | **Total** | | | 1936 | 40.4 | 281.1 | 110.32 | 82.45 | 72.3 | 41.43 | 1837 | 11.0 |
@@ -34,5 +34,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla extract is the alcohol-free kind (or use vanilla paste).
 - Makes about 21 balls.

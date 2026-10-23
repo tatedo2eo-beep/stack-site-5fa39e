@@ -16,7 +16,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 258 | 157.4 | 8.1 | 12.4 | 13.03 | 0.00 | 8.4 | 4.81 | 111 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 51 | 164.2 | 8.1 | 1.8 | 0.29 | 0.00 | 13.5 | 4.87 | 24 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 70 | 270.9 | 0.0 | 70.0 | 69.86 | 69.86 | 0.0 | 0.00 | 1 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | beef powdered gelatine | Gelatins, dry powder, unsweetened (FDC 169599) | 8 | 26.8 | 6.8 | 0.0 | 0.00 | 0.00 | 0.0 | 0.01 | 16 | 0.0 |
 | cold water | Water, tap (SR 14411) | 45 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2 | 0.0 |
 | white chocolate, chopped | Candies, white chocolate (FDC 167571) | 120 | 646.8 | 7.0 | 71.1 | 70.80 | 70.80 | 38.5 | 23.29 | 108 | 0.2 |

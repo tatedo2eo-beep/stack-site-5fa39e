@@ -32,4 +32,3 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Use a mayonnaise made with cider or distilled malt-free vinegar.
-- Choose cheese made with microbial rennet.

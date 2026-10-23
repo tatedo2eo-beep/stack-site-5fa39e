@@ -30,5 +30,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Makes 12 empanadas, 2 a serving.
-- Choose cheeses made with microbial (vegetarian) rennet.
 - Seal the edges well, or the cheese leaks out in the oven.

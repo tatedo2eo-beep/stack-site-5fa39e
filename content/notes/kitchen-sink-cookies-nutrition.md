@@ -9,7 +9,7 @@ Servings: 18. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | caster sugar | Sugars, granulated (SR 19335) | 100 | 387.0 | 0.0 | 100.0 | 99.80 | 99.80 | 0.0 | 0.00 | 1 | 0.0 |
 | golden syrup | ESTIMATE: golden syrup (partly inverted cane sugar syrup) from typical UK label values; SR Legacy has no entry and its corn/refiner blend lists no sugars | 15 | 48.8 | 0.0 | 12.2 | 12.15 | 12.15 | 0.0 | 0.00 | 21 | 0.0 |
 | large egg | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 220 | 800.8 | 22.7 | 167.9 | 0.59 | 0.00 | 2.2 | 0.34 | 4 | 5.9 |
 | rolled oats | Oats, rolled, dry (SR 08120) | 40 | 151.6 | 5.3 | 27.1 | 0.40 | 0.00 | 2.6 | 0.44 | 2 | 4.0 |
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 2 | 1.1 | 0.0 | 0.6 | 0.00 | 0.00 | 0.0 | 0.00 | 212 | 0.0 |

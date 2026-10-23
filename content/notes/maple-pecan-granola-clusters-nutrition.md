@@ -12,7 +12,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | maple syrup | Syrups, maple (FDC 169661) | 132 | 343.2 | 0.1 | 88.5 | 79.81 | 79.81 | 0.1 | 0.01 | 16 | 0.0 |
 | vegetable oil | Oil, canola (SR 04582) | 41 | 362.4 | 0.0 | 0.0 | 0.00 | 0.00 | 41.0 | 3.02 | 0 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | egg white (optional, for bigger clusters) | Egg, white, raw, fresh (SR 01124) | 33 | 17.2 | 3.6 | 0.2 | 0.23 | 0.00 | 0.1 | 0.00 | 55 | 0.0 |
 | **Total** | | | 2358 | 48.3 | 243.9 | 86.98 | 80.31 | 141.0 | 14.09 | 667 | 33.0 |
 

@@ -28,6 +28,6 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Mozzarella only, no hard aged cheese, so check for microbial rennet.
+- Mozzarella only, no hard aged cheese.
 - About 90 ml of frying oil is absorbed.
 - A serving is about 280 g.

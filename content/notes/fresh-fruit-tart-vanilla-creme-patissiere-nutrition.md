@@ -16,7 +16,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | cornflour (cornstarch) | Cornstarch (SR 20027) | 25 | 95.2 | 0.1 | 22.8 | 0.00 | 0.00 | 0.0 | 0.00 | 2 | 0.2 |
 | fine salt | Salt, table (SR 02047) | 0.375 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 145 | 0.0 |
 | cold unsalted butter | Butter, without salt (SR 01145) | 55 | 394.4 | 0.5 | 0.0 | 0.03 | 0.00 | 44.6 | 28.25 | 6 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 6.3 | 18.1 | 0.0 | 0.8 | 0.80 | 0.80 | 0.0 | 0.00 | 1 | 0.0 |
 | strawberries, hulled and halved | Strawberries, raw (FDC 167762) | 300 | 96.0 | 2.0 | 23.0 | 14.67 | 0.00 | 0.9 | 0.04 | 3 | 6.0 |
 | kiwis, peeled and sliced | Kiwifruit, green, raw (FDC 168153) | 150 | 91.5 | 1.7 | 22.0 | 13.48 | 0.00 | 0.8 | 0.04 | 4 | 4.5 |
 | blueberries | Blueberries, raw (FDC 171711) | 125 | 71.2 | 0.9 | 18.1 | 12.45 | 0.00 | 0.4 | 0.04 | 1 | 3.0 |

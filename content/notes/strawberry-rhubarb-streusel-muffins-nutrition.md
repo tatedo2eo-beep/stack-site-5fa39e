@@ -17,7 +17,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 206 | 125.7 | 6.5 | 9.9 | 10.40 | 0.00 | 6.7 | 3.84 | 89 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
 | unsalted butter, melted and cooled | Butter, without salt (SR 01145) | 100 | 717.0 | 0.8 | 0.1 | 0.06 | 0.00 | 81.1 | 51.37 | 11 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 3247 | 57.7 | 457.4 | 186.15 | 166.86 | 133.8 | 79.51 | 2623 | 14.3 |
 
 **Per serving (total / 12):** kcal 271, protein_g 4.8, carbs_g 38.1, sugar_g 15.5, free_sugar_g 13.9, fat_g 11.1, satfat_g 6.6, salt_g 0.55, fibre_g 1.2

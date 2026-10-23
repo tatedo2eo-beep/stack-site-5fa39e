@@ -7,7 +7,7 @@ Servings: 32. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | unsalted butter, softened (about 18°C) | Butter, without salt (SR 01145) | 225 | 1613.2 | 1.9 | 0.1 | 0.14 | 0.00 | 182.5 | 115.58 | 25 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 100 | 387.0 | 0.0 | 100.0 | 99.80 | 99.80 | 0.0 | 0.00 | 1 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 34 | 109.5 | 5.4 | 1.2 | 0.19 | 0.00 | 9.0 | 3.25 | 16 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | fine sea salt or table salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | ground almonds | Nuts, almonds, blanched (FDC 170568) | 50 | 295.0 | 10.7 | 9.3 | 2.31 | 0.00 | 26.3 | 1.98 | 10 | 5.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 260 | 946.4 | 26.9 | 198.4 | 0.70 | 0.00 | 2.5 | 0.40 | 5 | 7.0 |

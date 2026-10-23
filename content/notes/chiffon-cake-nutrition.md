@@ -11,7 +11,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 102 | 328.4 | 16.2 | 3.7 | 0.57 | 0.00 | 27.1 | 9.74 | 49 | 0.0 |
 | neutral oil (sunflower or rapeseed) | Oil, canola (SR 04582) | 110 | 972.4 | 0.0 | 0.0 | 0.00 | 0.00 | 110.0 | 8.11 | 0 | 0.0 |
 | water or whole milk | Water, tap (SR 14411) | 180 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 7 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | large egg whites, at room temperature | Egg, white, raw, fresh (SR 01124) | 264 | 137.3 | 28.8 | 1.9 | 1.87 | 0.00 | 0.4 | 0.00 | 438 | 0.0 |
 | cream of tartar | Leavening agents, cream of tartar (FDC 175041) | 1.5 | 3.9 | 0.0 | 0.9 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 140 | 541.8 | 0.0 | 140.0 | 139.72 | 139.72 | 0.0 | 0.00 | 1 | 0.0 |

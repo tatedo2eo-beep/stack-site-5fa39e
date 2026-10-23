@@ -10,7 +10,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | gingernut or gingerbread biscuits, finely crushed | Cookies, gingersnaps (SR 18172) | 180 | 748.8 | 10.1 | 138.4 | 54.00 | 54.00 | 17.6 | 4.41 | 938 | 4.0 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 260 | 884.0 | 7.4 | 7.4 | 7.59 | 0.00 | 93.8 | 59.88 | 70 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 329.6 | 201.1 | 10.4 | 15.8 | 16.64 | 0.00 | 10.7 | 6.15 | 142 | 0.0 |
-| alcohol-free vanilla extract or paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | freshly ground black pepper | Spices, pepper, black (SR 02030) | 0.2 | 0.5 | 0.0 | 0.1 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
 | gingernut biscuits, roughly broken | Cookies, gingersnaps (SR 18172) | 40 | 166.4 | 2.2 | 30.8 | 12.00 | 12.00 | 3.9 | 0.98 | 208 | 0.9 |
 | **Total** | | | 2892 | 47.4 | 334.2 | 227.18 | 202.33 | 154.8 | 81.74 | 2031 | 4.9 |
@@ -27,5 +27,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.

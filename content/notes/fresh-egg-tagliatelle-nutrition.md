@@ -11,7 +11,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine semolina, for dusting the tray (about 5 g clings) | Semolina, enriched (FDC 169715) | 5 | 18.0 | 0.6 | 3.6 | 0.00 | 0.00 | 0.1 | 0.01 | 0 | 0.2 |
 | fine salt for 4 litres of pasta water (0.8%) (about 2.2 g: absorbed by 500 g fresh pasta plus 80 ml cooking water added to the sauce) | Salt, table (SR 02047) | 2.2 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 853 | 0.0 |
 | unsalted butter, diced | Butter, without salt (SR 01145) | 60 | 430.2 | 0.5 | 0.0 | 0.04 | 0.00 | 48.7 | 30.82 | 7 | 0.0 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 50 | 196.0 | 17.9 | 1.6 | 0.40 | 0.00 | 12.9 | 8.21 | 801 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 50 | 196.0 | 17.9 | 1.6 | 0.40 | 0.00 | 12.9 | 8.21 | 801 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | **Total** | | | 2154 | 78.1 | 245.5 | 2.12 | 0.00 | 92.5 | 49.10 | 2486 | 8.9 |
 
@@ -28,4 +28,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Dough about 500 g; about 10 g dusting flour and 5 g semolina counted.
-- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian cheese if you need one.

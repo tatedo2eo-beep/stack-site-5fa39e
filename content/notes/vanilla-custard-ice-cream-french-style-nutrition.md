@@ -8,7 +8,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 247 | 150.7 | 7.8 | 11.9 | 12.47 | 0.00 | 8.0 | 4.61 | 106 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 135 | 522.5 | 0.0 | 135.0 | 134.73 | 134.73 | 0.0 | 0.00 | 1 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
-| alcohol-free vanilla paste or extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8 | 23.0 | 0.0 | 1.0 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8 | 23.0 | 0.0 | 1.0 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 108 | 347.8 | 17.1 | 3.9 | 0.60 | 0.00 | 28.7 | 10.31 | 52 | 0.0 |
 | **Total** | | | 2676 | 38.5 | 165.4 | 162.84 | 135.74 | 209.9 | 125.47 | 580 | 0.0 |
 
@@ -24,5 +24,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.

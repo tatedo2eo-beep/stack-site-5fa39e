@@ -9,7 +9,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | dark chocolate (60-70% cocoa), finely chopped | Chocolate, dark, 70-85% cacao solids (FDC 170273) | 130 | 777.4 | 10.1 | 59.7 | 31.20 | 31.20 | 55.4 | 31.85 | 26 | 14.2 |
 | sugar | Sugars, granulated (SR 19335) | 12.5 | 48.4 | 0.0 | 12.5 | 12.47 | 12.47 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 116 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 1336 | 37.4 | 119.9 | 82.00 | 44.18 | 82.2 | 47.30 | 466 | 21.6 |
 
 **Per serving (total / 4):** kcal 334, protein_g 9.4, carbs_g 30.0, sugar_g 20.5, free_sugar_g 11.0, fat_g 20.6, satfat_g 11.8, salt_g 0.29, fibre_g 5.4
@@ -25,5 +25,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Check the chocolate is free of milk-derived or alcohol-based flavourings if needed; many dark chocolates contain traces of milk.
-- Check the vanilla extract is alcohol-free.
 - Caffeine is not part of the nutrition panel; a mug has roughly 15-25 mg from the cocoa and chocolate.

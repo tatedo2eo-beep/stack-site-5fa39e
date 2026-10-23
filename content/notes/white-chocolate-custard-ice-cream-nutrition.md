@@ -10,7 +10,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 90 | 289.8 | 14.3 | 3.2 | 0.50 | 0.00 | 23.9 | 8.60 | 43 | 0.0 |
 | white chocolate, finely chopped | Candies, white chocolate (FDC 167571) | 150 | 808.5 | 8.8 | 88.9 | 88.50 | 88.50 | 48.1 | 29.12 | 135 | 0.3 |
-| alcohol-free vanilla extract or paste | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | white chocolate, shaved | Candies, white chocolate (FDC 167571) | 40 | 215.6 | 2.3 | 23.7 | 23.60 | 23.60 | 12.8 | 7.76 | 36 | 0.1 |
 | **Total** | | | 3119 | 47.2 | 203.5 | 201.31 | 172.49 | 239.9 | 143.75 | 756 | 0.4 |
 
@@ -26,5 +26,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla is alcohol-free vanilla extract or paste.
 - An ice-cream maker is needed; freeze a canister-style bowl for at least 24 h first.

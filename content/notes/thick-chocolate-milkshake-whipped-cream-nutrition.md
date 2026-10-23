@@ -23,5 +23,4 @@ Servings: 2. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose an ice cream flavoured with alcohol-free vanilla.
 - Caffeine is not part of the nutrition panel; the cocoa gives a small amount, roughly 5-10 mg a glass.

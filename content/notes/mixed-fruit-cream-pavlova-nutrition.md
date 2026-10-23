@@ -9,7 +9,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | caster sugar | Sugars, granulated (SR 19335) | 250 | 967.5 | 0.0 | 250.0 | 249.50 | 249.50 | 0.0 | 0.00 | 2 | 0.0 |
 | cornflour (cornstarch) | Cornstarch (SR 20027) | 6 | 22.9 | 0.0 | 5.5 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | white vinegar (distilled) | Vinegar, distilled (FDC 172237) | 5 | 0.9 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | cold double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 300 | 1020.0 | 8.5 | 8.5 | 8.76 | 0.00 | 108.2 | 69.10 | 81 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 8 | 31.1 | 0.0 | 8.0 | 7.82 | 7.82 | 0.0 | 0.00 | 0 | 0.0 |
 | strawberries, hulled and halved | Strawberries, raw (FDC 167762) | 250 | 80.0 | 1.7 | 19.2 | 12.22 | 0.00 | 0.8 | 0.04 | 2 | 5.0 |

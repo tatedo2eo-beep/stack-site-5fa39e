@@ -16,7 +16,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | ground cinnamon | Spices, cinnamon, ground (SR 02010) | 8 | 19.8 | 0.3 | 6.4 | 0.17 | 0.00 | 0.1 | 0.03 | 1 | 4.2 |
 | icing sugar, sifted | Sugars, powdered (FDC 169656) | 90 | 350.1 | 0.0 | 89.8 | 88.03 | 88.03 | 0.0 | 0.00 | 2 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 22 | 13.4 | 0.7 | 1.1 | 1.11 | 0.00 | 0.7 | 0.41 | 9 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2 | 5.8 | 0.0 | 0.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
 | fine sea salt | Salt, table (SR 02047) | 0.3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 116 | 0.0 |
 | **Total** | | | 2741 | 39.8 | 446.2 | 162.46 | 160.19 | 89.4 | 24.79 | 3274 | 14.8 |
 

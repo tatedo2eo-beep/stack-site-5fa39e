@@ -11,7 +11,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | unsalted butter, cut into 12 pieces and softened | Butter, without salt (SR 01145) | 170 | 1218.9 | 1.4 | 0.1 | 0.10 | 0.00 | 137.9 | 87.33 | 19 | 0.0 |
 | whole milk, warmed to 43 °C | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 120 | 73.2 | 3.8 | 5.8 | 6.06 | 0.00 | 3.9 | 2.24 | 52 | 0.0 |
 | large egg | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 13 | 37.4 | 0.0 | 1.6 | 1.64 | 1.64 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 13 | 37.4 | 0.0 | 1.6 | 1.64 | 1.64 | 0.0 | 0.00 | 1 | 0.0 |
 | Belgian pearl sugar | Sugars, granulated (SR 19335) | 156 | 603.7 | 0.0 | 156.0 | 155.69 | 155.69 | 0.0 | 0.00 | 2 | 0.0 |
 | **Total** | | | 3228 | 51.3 | 412.6 | 184.61 | 177.29 | 152.2 | 91.95 | 2479 | 9.1 |
 

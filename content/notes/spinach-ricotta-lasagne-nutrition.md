@@ -22,7 +22,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | dried no-pre-cook lasagne sheets | Pasta, dry, enriched (SR 20120) | 250 | 927.5 | 32.6 | 186.7 | 6.67 | 0.00 | 3.8 | 0.69 | 15 | 8.0 |
 | mozzarella, grated | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 200 | 636.0 | 43.2 | 4.9 | 2.02 | 0.00 | 49.3 | 31.12 | 1420 | 0.0 |
-| Parmesan-style hard cheese (microbial rennet), finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
+| Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 30 | 117.6 | 10.7 | 1.0 | 0.24 | 0.00 | 7.7 | 4.92 | 481 | 0.0 |
 | **Total** | | | 4147 | 212.5 | 351.0 | 58.97 | 0.00 | 216.8 | 123.70 | 6971 | 33.1 |
 
 **Per serving (total / 8):** kcal 518, protein_g 26.6, carbs_g 43.9, sugar_g 7.4, free_sugar_g 0.0, fat_g 27.1, satfat_g 15.5, salt_g 2.18, fibre_g 4.1
@@ -37,4 +37,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Hard cheeses here are the Parmesan- and pecorino-style kind made with microbial rennet, which keeps the vegetarian label; check the label.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian-rennet cheese if you need one.

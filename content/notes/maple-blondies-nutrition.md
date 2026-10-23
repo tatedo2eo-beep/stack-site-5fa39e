@@ -11,7 +11,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | dark brown soft sugar | Sugars, brown (SR 19334) | 160 | 608.0 | 0.2 | 156.9 | 155.23 | 155.23 | 0.0 | 0.00 | 45 | 0.0 |
 | large egg, at room temperature | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
 | pure maple syrup | Syrups, maple (FDC 169661) | 160 | 416.0 | 0.1 | 107.3 | 96.74 | 96.74 | 0.1 | 0.01 | 19 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 2692 | 29.2 | 425.7 | 253.05 | 252.23 | 100.2 | 60.98 | 1527 | 5.7 |
 
 **Per serving (total / 16):** kcal 168, protein_g 1.8, carbs_g 26.6, sugar_g 15.8, free_sugar_g 15.8, fat_g 6.3, satfat_g 3.8, salt_g 0.24, fibre_g 0.4

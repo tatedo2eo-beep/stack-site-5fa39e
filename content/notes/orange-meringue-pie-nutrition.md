@@ -20,7 +20,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | large egg whites | Egg, white, raw, fresh (SR 01124) | 99 | 51.5 | 10.8 | 0.7 | 0.70 | 0.00 | 0.2 | 0.00 | 164 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 100 | 387.0 | 0.0 | 100.0 | 99.80 | 99.80 | 0.0 | 0.00 | 1 | 0.0 |
 | cream of tartar | Leavening agents, cream of tartar (FDC 175041) | 0.8 | 2.1 | 0.0 | 0.5 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
-| vanilla extract (alcohol-free) | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 3674 | 42.7 | 546.9 | 357.12 | 355.55 | 150.4 | 90.04 | 1680 | 6.7 |
 
 **Per serving (total / 8):** kcal 459, protein_g 5.3, carbs_g 68.4, sugar_g 44.6, free_sugar_g 44.4, fat_g 18.8, satfat_g 11.3, salt_g 0.52, fibre_g 0.8

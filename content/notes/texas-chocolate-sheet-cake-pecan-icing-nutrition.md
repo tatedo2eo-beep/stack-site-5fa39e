@@ -13,12 +13,12 @@ Servings: 15. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | water, just boiled | Water, tap (SR 14411) | 240 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 10 | 0.0 |
 | soured cream, at room temperature | Cream, sour, cultured (FDC 171257) | 120 | 237.6 | 2.9 | 5.6 | 4.09 | 0.00 | 23.2 | 12.17 | 37 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 100 | 143.0 | 12.6 | 0.7 | 0.37 | 0.00 | 9.5 | 3.13 | 142 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | pecans, roughly chopped | Nuts, pecans (FDC 170182) | 100 | 691.0 | 9.2 | 13.9 | 3.97 | 0.00 | 72.0 | 6.18 | 0 | 9.6 |
 | unsalted butter, cut into pieces | Butter, without salt (SR 01145) | 115 | 824.5 | 1.0 | 0.1 | 0.07 | 0.00 | 93.3 | 59.08 | 13 | 0.0 |
 | natural cocoa powder | Cocoa, dry powder, unsweetened (SR 19165) | 30 | 68.4 | 5.9 | 17.4 | 0.53 | 0.00 | 4.1 | 2.42 | 6 | 11.1 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 62 | 37.8 | 2.0 | 3.0 | 3.13 | 0.00 | 2.0 | 1.16 | 27 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | icing sugar, sifted | Sugars, powdered (FDC 169656) | 300 | 1167.0 | 0.0 | 299.3 | 293.43 | 293.43 | 0.0 | 0.00 | 6 | 0.0 |
 | **Total** | | | 6563 | 67.6 | 852.0 | 607.44 | 593.89 | 349.2 | 174.67 | 2697 | 40.4 |
 

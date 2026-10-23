@@ -9,7 +9,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | granulated sugar | Sugars, granulated (SR 19335) | 75 | 290.2 | 0.0 | 75.0 | 74.85 | 74.85 | 0.0 | 0.00 | 1 | 0.0 |
 | cornflour | Cornstarch (FDC 169698) | 40 | 152.4 | 0.1 | 36.5 | 0.00 | 0.00 | 0.0 | 0.00 | 4 | 0.4 |
 | fine salt | Salt, table (SR 02047) | 0.3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 116 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | **Total** | | | 1399 | 19.1 | 140.0 | 94.04 | 75.36 | 89.9 | 75.94 | 328 | 0.4 |
 
 **Per serving (total / 8):** kcal 175, protein_g 2.4, carbs_g 17.5, sugar_g 11.8, free_sugar_g 9.4, fat_g 11.2, satfat_g 9.5, salt_g 0.1, fibre_g 0.0
@@ -24,5 +24,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Vanilla extract is the alcohol-free kind (or use vanilla paste).
 - Served as 2 squares per person.

@@ -9,7 +9,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | powdered beef gelatine | Gelatins, dry powder, unsweetened (FDC 169599) | 7 | 23.5 | 6.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 14 | 0.0 |
 | double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 600 | 2040.0 | 17.0 | 17.0 | 17.52 | 0.00 | 216.5 | 138.19 | 162 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 90 | 348.3 | 0.0 | 90.0 | 89.82 | 89.82 | 0.0 | 0.00 | 1 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.375 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 145 | 0.0 |
 | raspberries, fresh or frozen | Raspberries, raw (FDC 167755) | 200 | 104.0 | 2.4 | 23.9 | 8.84 | 0.00 | 1.3 | 0.04 | 2 | 13.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 40 | 155.6 | 0.0 | 39.9 | 39.12 | 39.12 | 0.0 | 0.00 | 1 | 0.0 |

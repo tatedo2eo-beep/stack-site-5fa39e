@@ -7,7 +7,7 @@ Servings: 16. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | courgette (zucchini), cut into chunks | Squash, summer, zucchini, includes skin, raw (FDC 169291) | 200 | 34.0 | 2.4 | 6.2 | 5.00 | 0.00 | 0.6 | 0.17 | 16 | 2.0 |
 | unsalted butter, melted | Butter, without salt (SR 01145) | 45 | 322.7 | 0.4 | 0.0 | 0.03 | 0.00 | 36.5 | 23.12 | 5 | 0.0 |
 | large eggs, at room temperature | Egg, whole, raw, fresh (SR 01123) | 150 | 214.5 | 18.8 | 1.1 | 0.55 | 0.00 | 14.3 | 4.70 | 213 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 150 | 580.5 | 0.0 | 150.0 | 149.70 | 149.70 | 0.0 | 0.00 | 2 | 0.0 |
 | cocoa powder | Cocoa, dry powder, unsweetened (SR 19165) | 55 | 125.4 | 10.8 | 31.8 | 0.96 | 0.00 | 7.5 | 4.44 | 12 | 20.4 |
 | instant espresso powder | Beverages, coffee, instant, regular, powder (SR 14214) | 1 | 2.4 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |

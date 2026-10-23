@@ -43,7 +43,7 @@
       "group": "Croutons",
       "qty": 15,
       "unit": "g",
-      "item": "Parmesan-style hard cheese, finely grated (animal-rennet-free)"
+      "item": "Parmesan-style hard cheese, finely grated"
     },
     {
       "group": "Croutons",
@@ -79,13 +79,13 @@
       "group": "Dressing",
       "qty": 1,
       "unit": "tsp",
-      "item": "tamarind paste"
+      "item": "Worcestershire sauce"
     },
     {
       "group": "Dressing",
       "qty": 15,
       "unit": "g",
-      "item": "Parmesan-style hard cheese, finely grated (animal-rennet-free)"
+      "item": "Parmesan-style hard cheese, finely grated"
     },
     {
       "group": "Dressing",
@@ -125,7 +125,7 @@
     },
     {
       "title": "Make the dressing",
-      "text": "In the large bowl, mash the anchovies and garlic together, then whisk in the lemon juice, mustard, tamarind, Parmesan, oil and pepper."
+      "text": "In the large bowl, mash the anchovies and garlic together, then whisk in the lemon juice, mustard, Worcestershire, Parmesan, oil and pepper."
     },
     {
       "title": "Toss",
@@ -146,19 +146,20 @@
     "gluten",
     "milk",
     "mustard",
-    "fish"
+    "fish",
+    "sulphites"
   ],
   "diet": [],
   "nutrition_per_serving": {
-    "kcal": 308,
-    "protein_g": 8.3,
-    "carbs_g": 25.1,
-    "sugar_g": 6.6,
+    "kcal": 306,
+    "protein_g": 8.2,
+    "carbs_g": 24.6,
+    "sugar_g": 6.2,
     "free_sugar_g": 1.5,
     "fat_g": 20.4,
     "satfat_g": 3.8,
-    "salt_g": 1.34,
-    "fibre_g": 3.0
+    "salt_g": 1.38,
+    "fibre_g": 2.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": null,

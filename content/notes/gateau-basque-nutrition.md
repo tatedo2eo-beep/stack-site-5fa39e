@@ -8,7 +8,7 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 68 | 219.0 | 10.8 | 2.4 | 0.38 | 0.00 | 18.0 | 6.49 | 33 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 90 | 348.3 | 0.0 | 90.0 | 89.82 | 89.82 | 0.0 | 0.00 | 1 | 0.0 |
 | cornflour | Cornstarch (SR 20027) | 40 | 152.4 | 0.1 | 36.5 | 0.00 | 0.00 | 0.0 | 0.00 | 4 | 0.4 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
 | unsalted butter, cold | Butter, without salt (SR 01145) | 20 | 143.4 | 0.2 | 0.0 | 0.01 | 0.00 | 16.2 | 10.27 | 2 | 0.0 |
 | unsalted butter, softened (about 18°C) | Butter, without salt (SR 01145) | 200 | 1434.0 | 1.7 | 0.1 | 0.12 | 0.00 | 162.2 | 102.74 | 22 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 180 | 696.6 | 0.0 | 180.0 | 179.64 | 179.64 | 0.0 | 0.00 | 2 | 0.0 |
@@ -16,7 +16,7 @@ Servings: 10. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | large egg | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 34 | 109.5 | 5.4 | 1.2 | 0.19 | 0.00 | 9.0 | 3.25 | 16 | 0.0 |
 | unwaxed lemon, finely grated zest | Lemon peel, raw (SR 09156) | 2 | 0.9 | 0.0 | 0.3 | 0.08 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 4.2 | 12.1 | 0.0 | 0.5 | 0.53 | 0.53 | 0.0 | 0.00 | 0 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 280 | 1019.2 | 28.9 | 213.7 | 0.76 | 0.00 | 2.7 | 0.43 | 6 | 7.6 |
 | ground almonds | Nuts, almonds, blanched (FDC 170568) | 80 | 472.0 | 17.1 | 14.9 | 3.70 | 0.00 | 42.0 | 3.16 | 15 | 7.9 |
 | baking powder | Leavening agents, baking powder, double-acting (SR 18369) | 4 | 2.1 | 0.0 | 1.1 | 0.00 | 0.00 | 0.0 | 0.00 | 424 | 0.0 |

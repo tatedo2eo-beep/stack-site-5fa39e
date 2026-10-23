@@ -6,7 +6,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | large egg yolk | Egg, yolk, raw, fresh (SR 01125) | 17 | 54.7 | 2.7 | 0.6 | 0.10 | 0.00 | 4.5 | 1.62 | 8 | 0.0 |
 | double (heavy) cream | Cream, fluid, heavy whipping (FDC 170859) | 15 | 51.0 | 0.4 | 0.4 | 0.44 | 0.00 | 5.4 | 3.45 | 4 | 0.0 |
-| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
+| vanilla | Vanilla (USDA SR 02050) | 2.1 | 6.0 | 0.0 | 0.3 | 0.27 | 0.27 | 0.0 | 0.00 | 0 | 0.0 |
 | plain flour, plus extra for rolling | Wheat flour, white, all-purpose, enriched (SR 20081) | 180 | 655.2 | 18.6 | 137.4 | 0.49 | 0.00 | 1.8 | 0.28 | 4 | 4.9 |
 | icing sugar | Sugars, powdered (FDC 169656) | 70 | 272.3 | 0.0 | 69.8 | 68.47 | 68.47 | 0.0 | 0.00 | 1 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |

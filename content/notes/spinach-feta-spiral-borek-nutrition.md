@@ -28,4 +28,3 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - No added salt: feta and filo are already salty.
-- Choose a feta made with microbial or vegetable rennet if you avoid animal rennet.
