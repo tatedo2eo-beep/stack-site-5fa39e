@@ -1,0 +1,201 @@
+{
+  "slug": "oyster-po-boy-cornmeal-fried-oysters",
+  "title": "Oyster Po’ Boy (Cornmeal-Fried Oysters)",
+  "category": "fish-seafood",
+  "cuisine": "American (New Orleans)",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "po-boy",
+  "dish_title": "Po' boy",
+  "flavour": "Oyster",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "Shucked oysters dipped in egg, tossed in seasoned cornmeal and flour and fried at 190 °C for 2-3 minutes. Piled into toasted French bread dressed with mayonnaise, lettuce, tomato and pickles.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 12,
+  "difficulty": "medium",
+  "equipment": [
+    "fine sieve",
+    "2 shallow bowls",
+    "wire rack over a tray",
+    "kitchen paper",
+    "large Dutch oven",
+    "deep-fry thermometer",
+    "spider or slotted spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Oysters",
+      "qty": 24,
+      "unit": "pc",
+      "item": "freshly shucked oysters, well drained and kept cold",
+      "note": "about 360 g"
+    },
+    {
+      "group": "Oysters",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, cold"
+    },
+    {
+      "group": "Oysters",
+      "qty": 120,
+      "unit": "g",
+      "item": "fine cornmeal"
+    },
+    {
+      "group": "Oysters",
+      "qty": 60,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Salt-free Creole seasoning",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Salt-free Creole seasoning",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Salt-free Creole seasoning",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "onion powder"
+    },
+    {
+      "group": "Salt-free Creole seasoning",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried oregano"
+    },
+    {
+      "group": "Salt-free Creole seasoning",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried thyme"
+    },
+    {
+      "group": "Salt-free Creole seasoning",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Salt-free Creole seasoning",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Oysters",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, to finish",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Oysters",
+      "qty": 1500,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    },
+    {
+      "group": "To dress",
+      "qty": 4,
+      "unit": "pc",
+      "item": "sections of soft French bread or po’ boy rolls, about 20 cm long, split and lightly toasted",
+      "note": "about 90 g each"
+    },
+    {
+      "group": "To dress",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "To dress",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium tomatoes, thinly sliced"
+    },
+    {
+      "group": "To dress",
+      "qty": 12,
+      "unit": "pc",
+      "item": "dill pickle slices"
+    },
+    {
+      "group": "To dress",
+      "qty": 120,
+      "unit": "g",
+      "item": "iceberg lettuce, finely shredded"
+    },
+    {
+      "group": "To dress",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Coat the oysters",
+      "text": "Drain the oysters well; excess liquid stops the coating sticking. Beat the eggs in one bowl and mix the cornmeal, flour and Creole seasoning in another. Dip six oysters at a time in egg, let the excess drip off, then toss them in the coating."
+    },
+    {
+      "title": "Fry",
+      "text": "Heat oil 5 cm deep to 190 °C and fry in batches for 2-3 min, stirring gently, until golden and crisp and the bubbling slows. Drain on the paper-lined rack and sprinkle with the pinch of salt."
+    },
+    {
+      "title": "Dress the bread",
+      "text": "Spread the toasted bread with mayonnaise, lay tomato and pickles on the top halves and shredded lettuce on the bottoms."
+    },
+    {
+      "title": "Pile and serve",
+      "text": "Pile six oysters into each sandwich, press together and eat at once with lemon wedges."
+    }
+  ],
+  "tips": [
+    "Keep the oysters very cold until frying so they stay plump.",
+    "Very hot oil cooks the coating fast, before the oysters overcook.",
+    "Large prawns can replace the oysters for a shrimp po' boy.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Eat immediately; fried oysters do not keep well. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "mustard",
+    "molluscs",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 698,
+    "protein_g": 22.9,
+    "carbs_g": 89.6,
+    "sugar_g": 7.9,
+    "free_sugar_g": 4.3,
+    "fat_g": 27.6,
+    "satfat_g": 4.2,
+    "salt_g": 2.24,
+    "fibre_g": 5.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "po-boy-advanced--oyster.jpg",
+  "image_alt": "Rolls piled with crisp fried oysters on shredded lettuce and tomato.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

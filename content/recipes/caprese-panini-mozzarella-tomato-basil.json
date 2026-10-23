@@ -1,0 +1,118 @@
+{
+  "slug": "caprese-panini-mozzarella-tomato-basil",
+  "title": "Caprese Panini (Pressed Mozzarella, Tomato and Basil Sandwich)",
+  "category": "burgers-sandwiches",
+  "cuisine": "Italian",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "panini",
+  "dish_title": "Panini",
+  "flavour": "Caprese",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Ciabatta rubbed with garlic, brushed with olive oil outside and filled with fresh mozzarella, blotted tomato and basil, then pressed in a pan until golden and melting. Ready in under 20 minutes.",
+  "servings": 2,
+  "prep_min": 10,
+  "cook_min": 8,
+  "difficulty": "easy",
+  "equipment": [
+    "kitchen paper",
+    "pastry brush",
+    "large non-stick frying pan or panini press",
+    "heavy saucepan or second pan to press",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Panini",
+      "qty": 4,
+      "unit": "pc",
+      "item": "slices ciabatta or crusty bread, 1 cm thick"
+    },
+    {
+      "group": "Panini",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Panini",
+      "qty": 125,
+      "unit": "g",
+      "item": "fresh mozzarella, sliced and patted dry",
+      "note": "made with microbial rennet"
+    },
+    {
+      "group": "Panini",
+      "qty": 2,
+      "unit": "pc",
+      "item": "ripe medium tomatoes, sliced 5 mm thick"
+    },
+    {
+      "group": "Panini",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Panini",
+      "qty": 12,
+      "unit": "pc",
+      "item": "large basil leaves"
+    },
+    {
+      "group": "Panini",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small garlic clove, halved"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prep the filling",
+      "text": "Lay the tomato slices on kitchen paper for 5 min and pat the mozzarella dry; removing excess moisture keeps the bread crisp. Rub one side of each bread slice with the cut garlic and brush the other side with oil."
+    },
+    {
+      "title": "Build",
+      "text": "On the unoiled side of two slices, layer half the mozzarella, then the tomato seasoned with pepper, the basil and the rest of the cheese. Top with the remaining slices, oiled side up."
+    },
+    {
+      "title": "Press and toast",
+      "text": "Put the sandwiches in the cold pan, weigh them down with the saucepan and cook over medium heat for about 4 min until deeply golden. Flip, press again and cook for 2-3 min more until the cheese has melted."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Leave for 2 min so the melted cheese sets slightly, then cut in half and serve warm."
+    }
+  ],
+  "tips": [
+    "Check the mozzarella label for microbial (non-animal) rennet.",
+    "A spoonful of pesto spread inside adds extra basil flavour.",
+    "Starting in a cold pan gives the cheese time to melt before the bread browns."
+  ],
+  "storage": "Best eaten hot. Assemble up to 2 hours ahead, cover and chill, then toast just before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 543,
+    "protein_g": 22.6,
+    "carbs_g": 44.9,
+    "sugar_g": 6.7,
+    "free_sugar_g": 3.5,
+    "fat_g": 30.9,
+    "satfat_g": 12.0,
+    "salt_g": 2.25,
+    "fibre_g": 3.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "panini-basic--caprese.jpg",
+  "image_alt": "A grill-marked pressed sandwich filled with tomato, melted mozzarella and basil.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

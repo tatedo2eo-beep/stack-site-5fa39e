@@ -1,0 +1,132 @@
+{
+  "slug": "clear-raspberry-jelly-domes",
+  "title": "Clear Raspberry Jelly Domes",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "jelly-gelatin",
+  "dish_title": "Jelly (gelatin)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Bright, clear jelly domes made from fresh raspberry juice and set with beef gelatine.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan",
+    "wooden spoon",
+    "fine sieve",
+    "muslin or a clean thin tea towel",
+    "large bowl",
+    "measuring jug",
+    "small bowl",
+    "6 x 150 ml pudding moulds or small round bowls",
+    "kitchen paper",
+    "tray",
+    "bowl of hot water",
+    "6 small plates"
+  ],
+  "ingredients": [
+    {
+      "group": "Raspberry juice",
+      "qty": 750,
+      "unit": "g",
+      "item": "raspberries, fresh or frozen"
+    },
+    {
+      "group": "Raspberry juice",
+      "qty": 600,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Raspberry juice",
+      "qty": 180,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Raspberry juice",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Jelly",
+      "qty": 18,
+      "unit": "g",
+      "item": "powdered beef gelatine (about 2 level tbsp)",
+      "note": "check the pack says beef (bovine)"
+    },
+    {
+      "group": "Jelly",
+      "qty": 100,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Jelly",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sunflower oil, for the moulds (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Juice",
+      "text": "put the raspberries, water and sugar in the pan and bring slowly to a simmer, stirring until the sugar dissolves. Simmer gently for 10 min until the fruit has collapsed."
+    },
+    {
+      "title": "Strain",
+      "text": "line the sieve with damp muslin and set it over the bowl. Pour in the fruit and let the juice drip through for 30 min. Do not press the pulp, or the jelly will turn cloudy. Stir in the lemon juice, then measure: you need 900 ml, so top up with water if short. Letting the juice drip on its own is the secret to a clear jelly."
+    },
+    {
+      "title": "Bloom",
+      "text": "pour the 100 ml cold water into the small bowl, sprinkle the gelatine evenly over it and leave 5 min until spongy."
+    },
+    {
+      "title": "Dissolve",
+      "text": "warm 300 ml of the juice in the clean pan until steaming, about 70 °C; do not boil, as boiling weakens gelatine. Off the heat, add the soaked gelatine and stir until there are no grains left, then stir in the rest of the juice."
+    },
+    {
+      "title": "Fill",
+      "text": "rinse the moulds with cold water, or wipe them very lightly with oil on kitchen paper, and stand them on the tray. Skim off any foam, then pour in the jelly."
+    },
+    {
+      "title": "Set",
+      "text": "cool to room temperature, then chill at least 6 h or overnight until firm."
+    },
+    {
+      "title": "Unmould",
+      "text": "dip each mould in the hot water for 5-10 s, put a plate on top, turn over and give a gentle shake. If it sticks, dip again for a few seconds. A short dip in hot water loosens just the outside of the jelly."
+    }
+  ],
+  "tips": [
+    "A common mistake is boiling the juice after adding the gelatine, which weakens the set.",
+    "Do not use fresh pineapple, kiwi or papaya juice in this recipe; they stop gelatine setting.",
+    "Frozen raspberries work just as well as fresh and are often cheaper."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days. Unmould just before serving.",
+  "allergens": [],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 168,
+    "protein_g": 3.5,
+    "carbs_g": 39.3,
+    "sugar_g": 33.4,
+    "free_sugar_g": 30.1,
+    "fat_g": 0.7,
+    "satfat_g": 0.0,
+    "salt_g": 0.03,
+    "fibre_g": 4.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "jelly-gelatin-basic.jpg",
+  "image_alt": "A clear, ruby-red raspberry jelly dome on a small dark plate."
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "maple-pecan-granola-clusters",
+  "title": "Maple-Pecan Granola Clusters",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "granola",
+  "dish_title": "Granola",
+  "flavour": "Maple-pecan",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Oats, pecans and pumpkin seeds coated with maple syrup, oil, vanilla and an optional egg white, pressed thin and baked at 160 °C without stirring. Cooled on the tray, then broken into clusters.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "large rimmed baking tray",
+    "baking paper",
+    "large bowl",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Granola",
+      "qty": 200,
+      "unit": "g",
+      "item": "rolled oats"
+    },
+    {
+      "group": "Granola",
+      "qty": 100,
+      "unit": "g",
+      "item": "pecans, roughly broken"
+    },
+    {
+      "group": "Granola",
+      "qty": 30,
+      "unit": "g",
+      "item": "pumpkin seeds"
+    },
+    {
+      "group": "Granola",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Granola",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Granola",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Granola",
+      "qty": 100,
+      "unit": "ml",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Granola",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Granola",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Granola",
+      "qty": 1,
+      "unit": "pc",
+      "item": "egg white (optional, for bigger clusters)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix the dry ingredients",
+      "text": "Heat the oven to 160 °C (140 °C fan) and line the tray. Stir together the oats, pecans, seeds, cinnamon, nutmeg and salt."
+    },
+    {
+      "title": "Bind",
+      "text": "Whisk the maple syrup, oil, vanilla and egg white until frothy, pour over the oats and stir until evenly coated. The egg white sets in the oven and glues the clusters together."
+    },
+    {
+      "title": "Bake undisturbed",
+      "text": "Press into a thin, even layer and bake for 35-40 min, turning the tray halfway but not stirring, until deep golden and dry-looking."
+    },
+    {
+      "title": "Cool and break",
+      "text": "Leave on the tray for at least 30 min; it crisps as it cools. Break into clusters."
+    }
+  ],
+  "tips": [
+    "Stir in dried cranberries or chopped dates after baking, as they burn in the oven.",
+    "Leave out the egg white for a vegan granola with smaller clusters.",
+    "Use pure maple syrup, not maple-flavoured syrup."
+  ],
+  "storage": "Store airtight at room temperature for up to 2 weeks. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 295,
+    "protein_g": 6.0,
+    "carbs_g": 30.5,
+    "sugar_g": 10.9,
+    "free_sugar_g": 10.0,
+    "fat_g": 17.6,
+    "satfat_g": 1.8,
+    "salt_g": 0.21,
+    "fibre_g": 4.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "granola-basic--maple-pecan.jpg",
+  "image_alt": "A bowl of golden oat and pecan granola clusters.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

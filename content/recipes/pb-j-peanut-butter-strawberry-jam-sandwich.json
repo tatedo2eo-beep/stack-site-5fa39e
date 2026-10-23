@@ -1,0 +1,89 @@
+{
+  "slug": "pb-j-peanut-butter-strawberry-jam-sandwich",
+  "title": "PB&J (Peanut Butter and Strawberry Jam Sandwich)",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "pb-j",
+  "dish_title": "PB&J",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Smooth peanut butter spread thinly on all four slices of soft white bread, strawberry jam on two, then closed and cut on the diagonal. Ready in 5 minutes.",
+  "servings": 2,
+  "prep_min": 5,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "butter knife",
+    "bread knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Sandwich",
+      "qty": 4,
+      "unit": "pc",
+      "item": "slices soft white sandwich bread"
+    },
+    {
+      "group": "Sandwich",
+      "qty": 56,
+      "unit": "g",
+      "item": "smooth peanut butter",
+      "note": "about 4 tbsp"
+    },
+    {
+      "group": "Sandwich",
+      "qty": 5,
+      "unit": "tbsp",
+      "item": "strawberry jam"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Spread the peanut butter",
+      "text": "Spread the peanut butter thinly over all four slices, right to the edges. A layer on both sides acts as a seal, so the jam can't soak into the bread."
+    },
+    {
+      "title": "Add the jam",
+      "text": "Spoon the jam onto two of the slices and spread it evenly, stopping about 5 mm from the crust so it doesn't squeeze out."
+    },
+    {
+      "title": "Close and cut",
+      "text": "Close the sandwiches, press gently and cut each one in half on the diagonal. Eat straight away or wrap for a packed lunch."
+    }
+  ],
+  "tips": [
+    "Crunchy peanut butter adds texture; raspberry or grape jam are classic swaps.",
+    "A tiny pinch of flaky salt on the jam sharpens the flavour.",
+    "Toast the finished sandwich in a dry pan for a warm, melting version."
+  ],
+  "storage": "Wrapped, it keeps well at room temperature until lunchtime the same day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 479,
+    "protein_g": 12.2,
+    "carbs_g": 69.2,
+    "sugar_g": 30.8,
+    "free_sugar_g": 27.4,
+    "fat_g": 18.3,
+    "satfat_g": 3.7,
+    "salt_g": 1.07,
+    "fibre_g": 3.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pb-j-basic.jpg",
+  "image_alt": "A stacked white-bread sandwich with peanut butter and red strawberry jam.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

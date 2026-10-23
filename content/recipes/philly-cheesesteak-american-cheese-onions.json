@@ -1,0 +1,112 @@
+{
+  "slug": "philly-cheesesteak-american-cheese-onions",
+  "title": "Philly Cheesesteak with American Cheese",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "philly-cheesesteak",
+  "dish_title": "Philly cheesesteak",
+  "flavour": "American",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "Part-frozen rib-eye shaved paper-thin, seared hard with onion in a smoking cast-iron pan, topped with melting American cheese and flipped into soft hoagie rolls.",
+  "servings": 2,
+  "prep_min": 60,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "freezer",
+    "very sharp knife",
+    "30 cm cast-iron frying pan or griddle",
+    "wide metal spatula",
+    "lid or large bowl for melting"
+  ],
+  "ingredients": [
+    {
+      "group": "Steak",
+      "qty": 300,
+      "unit": "g",
+      "item": "boneless rib-eye steak, trimmed"
+    },
+    {
+      "group": "Steak",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Steak",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "medium onion, diced 5 mm",
+      "note": "about 110 g"
+    },
+    {
+      "group": "Steak",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Steak",
+      "qty": 4,
+      "unit": "pc",
+      "item": "thin slices white American cheese",
+      "note": "about 12 g each"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "soft hoagie rolls, about 15 cm, split but hinged",
+      "note": "about 75 g each"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Firm and shave",
+      "text": "Freeze the steak for 45-60 min until firm but not solid, which lets you cut it very thinly. Shave it across the grain as thinly as you can, then chop it roughly a few times."
+    },
+    {
+      "title": "Sear",
+      "text": "Heat the empty pan over medium-high heat for 5 min, add the oil and, once it smokes, spread the steak and onion in a single layer. Leave for 4-5 min until well browned underneath, then stir and pull the meat apart for 2-3 min until no pink remains. Season with pepper."
+    },
+    {
+      "title": "Melt the cheese",
+      "text": "Shape the meat into two roll-length piles and lay two cheese slices over each. Cover for 1 min until the cheese melts."
+    },
+    {
+      "title": "Flip into the roll",
+      "text": "Set an open roll cut side down over each pile. Slide the spatula under the meat and turn it over in one go so it lands neatly in the roll. Serve at once."
+    }
+  ],
+  "tips": [
+    "Many butchers will shave the steak for you; ask for it very thin.",
+    "Fried green peppers or mushrooms are popular extras.",
+    "Don't crowd the pan, or the beef will steam instead of browning."
+  ],
+  "storage": "Best eaten straight away. Leftover meat keeps chilled for 2 days; reheat until piping hot (74 °C) and make up fresh rolls. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 791,
+    "protein_g": 39.5,
+    "carbs_g": 45.4,
+    "sugar_g": 5.8,
+    "free_sugar_g": 3.5,
+    "fat_g": 49.7,
+    "satfat_g": 19.0,
+    "salt_g": 2.39,
+    "fibre_g": 2.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "philly-cheesesteak-advanced--american.jpg",
+  "image_alt": "Soft rolls stuffed with chopped browned steak and melted American cheese.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

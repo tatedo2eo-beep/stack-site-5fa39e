@@ -1,0 +1,187 @@
+{
+  "slug": "roast-beef-po-boy-debris-gravy",
+  "title": "Roast Beef Po’ Boy with Debris Gravy",
+  "category": "beef-lamb",
+  "cuisine": "American (New Orleans)",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "po-boy",
+  "dish_title": "Po' boy",
+  "flavour": "Roast beef",
+  "flavour_order": 3,
+  "access": "premium",
+  "summary": "Beef braised low in the oven with vegetables, stock and herbs, chilled overnight, sliced thin and reheated in a nutty roux gravy made from the cooking liquid. Piled into French bread with mayonnaise, tomato and lettuce.",
+  "servings": 4,
+  "prep_min": 30,
+  "cook_min": 170,
+  "difficulty": "hard",
+  "equipment": [
+    "large Dutch oven with lid",
+    "fine sieve",
+    "medium saucepan",
+    "whisk",
+    "sharp carving knife",
+    "baking dish",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Beef",
+      "qty": 700,
+      "unit": "g",
+      "item": "beef top round or bottom round joint, patted dry"
+    },
+    {
+      "group": "Beef",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large onion, roughly chopped",
+      "note": "about 200 g"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium carrot, chopped"
+    },
+    {
+      "group": "Beef",
+      "qty": 2,
+      "unit": "pc",
+      "item": "celery sticks, chopped"
+    },
+    {
+      "group": "Beef",
+      "qty": 600,
+      "unit": "ml",
+      "item": "low-salt chicken stock",
+      "note": "check stock label for celery"
+    },
+    {
+      "group": "Beef",
+      "qty": 400,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Beef",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "Beef",
+      "qty": 4,
+      "unit": "pc",
+      "item": "thyme sprigs"
+    },
+    {
+      "group": "Gravy",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Gravy",
+      "qty": 25,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Gravy",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, minced"
+    },
+    {
+      "group": "Gravy",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To dress",
+      "qty": 4,
+      "unit": "pc",
+      "item": "sections of soft French bread or po’ boy rolls, about 20 cm long, split and lightly toasted",
+      "note": "about 90 g each"
+    },
+    {
+      "group": "To dress",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "To dress",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium tomatoes, thinly sliced"
+    },
+    {
+      "group": "To dress",
+      "qty": 120,
+      "unit": "g",
+      "item": "iceberg lettuce, finely shredded"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Braise",
+      "text": "Heat the oven to 120 °C (100 °C fan). Brown the beef in the oil in the Dutch oven over high heat for about 10 min, then set aside. Brown the onion, carrot and celery for 8 min, scraping up the browned bits. Return the beef with the stock, water, bay and thyme, bring to the boil, cover and braise for about 2 h until tender but not falling apart."
+    },
+    {
+      "title": "Chill overnight",
+      "text": "Cool for 1 h, then refrigerate the beef in its liquid overnight. Chilled beef slices thinly without shredding, and the fat sets on top so it is easy to remove."
+    },
+    {
+      "title": "Make the gravy",
+      "text": "Lift off the fat, remove the beef and strain the liquid. Cook the butter, flour and garlic in the saucepan over medium heat, stirring, until amber and nutty. Whisk in the liquid gradually and simmer for 10-15 min until it coats a spoon, then add the pepper and taste."
+    },
+    {
+      "title": "Slice and reheat",
+      "text": "Heat the oven to 175 °C (155 °C fan). Slice the beef as thinly as possible, layer it in the dish with the gravy and any shreds from the board, cover and heat for 20-25 min until it reaches 74 °C."
+    },
+    {
+      "title": "Build",
+      "text": "Spread the bread with mayonnaise, add tomato and lettuce and spoon in plenty of beef and gravy. Serve at once with lots of napkins."
+    }
+  ],
+  "tips": [
+    "Toast the bread lightly so it holds up to the gravy.",
+    "Make the beef up to 3 days ahead; it only improves.",
+    "A dash of hot sauce over the beef is a popular finish."
+  ],
+  "storage": "Refrigerate the beef in its gravy up to 3 days. Reheat covered until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "celery"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 823,
+    "protein_g": 55.0,
+    "carbs_g": 68.3,
+    "sugar_g": 12.2,
+    "free_sugar_g": 4.2,
+    "fat_g": 36.1,
+    "satfat_g": 10.5,
+    "salt_g": 2.49,
+    "fibre_g": 5.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "po-boy-advanced--roast-beef.jpg",
+  "image_alt": "Rolls packed with thin-sliced roast beef in gravy, lettuce and tomato.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

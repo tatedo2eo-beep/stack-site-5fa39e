@@ -1,0 +1,119 @@
+{
+  "slug": "smorrebrod-pickled-herring-rye-onion-dill",
+  "title": "Smørrebrød with Pickled Herring, Onion and Dill",
+  "category": "fish-seafood",
+  "cuisine": "Danish",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "smrrebrd-open",
+  "dish_title": "Smørrebrød (open)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thin slices of dark rye bread buttered to the edges and covered with pickled herring, red onion rings, optional egg and dill. Ready in 10 minutes and eaten with a knife and fork.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "bread knife",
+    "butter knife",
+    "kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Smørrebrød",
+      "qty": 4,
+      "unit": "pc",
+      "item": "thin slices dense dark rye bread (rugbrød), about 1 cm thick"
+    },
+    {
+      "group": "Smørrebrød",
+      "qty": 20,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Smørrebrød",
+      "qty": 200,
+      "unit": "g",
+      "item": "pickled herring fillets in a plain vinegar marinade, drained"
+    },
+    {
+      "group": "Smørrebrød",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "small red onion, sliced into thin rings"
+    },
+    {
+      "group": "Smørrebrød",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped dill"
+    },
+    {
+      "group": "Smørrebrød",
+      "qty": 1,
+      "unit": "pc",
+      "item": "hard-boiled egg, sliced (optional)",
+      "note": "boiled 10 min to a firm yolk"
+    },
+    {
+      "group": "Smørrebrød",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Trim the bread",
+      "text": "Cut the rye into neat rectangles about 8 x 12 cm."
+    },
+    {
+      "title": "Butter",
+      "text": "Spread the butter thinly right to the edges. It adds richness and stops the topping soaking into the bread."
+    },
+    {
+      "title": "Add the herring",
+      "text": "Pat the herring dry, cut it into bite-size pieces and lay them close together so they cover the bread completely. Tuck the onion rings and egg slices in between."
+    },
+    {
+      "title": "Finish",
+      "text": "Scatter with dill and a little pepper and serve straight away, with a knife and fork."
+    }
+  ],
+  "tips": [
+    "Danes eat herring first, then other fish, then meat and cheese.",
+    "Curried herring or herring in a creamy dill sauce are tasty alternatives.",
+    "Choose herring in a plain vinegar and sugar marinade."
+  ],
+  "storage": "Assemble just before serving. Opened herring keeps in its marinade in the fridge for up to 1 week. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "fish",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 293,
+    "protein_g": 12.3,
+    "carbs_g": 25.3,
+    "sugar_g": 5.9,
+    "free_sugar_g": 1.5,
+    "fat_g": 15.6,
+    "satfat_g": 4.4,
+    "salt_g": 1.74,
+    "fibre_g": 2.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "smrrebrd-open-advanced.jpg",
+  "image_alt": "A slice of dark rye bread topped with pickled herring, red onion rings and dill.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

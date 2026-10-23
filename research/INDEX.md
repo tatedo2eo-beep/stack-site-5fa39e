@@ -91,6 +91,9 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
 | caffe-latte-rosetta-art | Latte | Classic | 4 | 6 |
 | caponata-aubergine-celery-capers-olives | Caponata | Classic | 1 | 3 |
+| caprese-panini-mozzarella-tomato-basil | Panini | Caprese | 1 | 3 |
+| caramel-choux-croquembouche | Croquembouche | Classic | 2 | 4 |
+| caramel-choux-saint-honore-cream | Saint-Honoré | Classic | 0 | 4 |
 | caramelised-kouign-amann-pastries | Kouign-amann | Classic | 2 | 4 |
 | caramelised-onion-flatbread-anchovies-black-olives-thyme | Pissaladière | Classic | 3 | 5 |
 | caramelised-onion-soup-gruyere-toasts | French onion | Classic | 3 | 5 |
@@ -101,6 +104,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | carne-asada-street-tacos-onion-coriander-lime | Taco | Classic | 2 | 4 |
 | carrot-cake | Carrot | Classic | 2 | 4 |
 | carrot-nuoc-cham-dipping-sauce | Nuoc cham | Classic | 2 | 4 |
+| catfish-po-boy-fried-catfish-dressed | Po' boy | Classic | 1 | 3 |
 | celeriac-parsnip-puree-crisp-parsnip-ribbons | Purées (celeriac, parsnip) | Classic | 1 | 3 |
 | celeriac-remoulade-mustard-parsley | Celeriac rémoulade | Classic | 3 | 5 |
 | champ-spring-onion-mash | Champ | Classic | 1 | 3 |
@@ -204,6 +208,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-thousand-island-dressing | Thousand Island dressing | Classic | 1 | 3 |
 | classic-vanilla-brioche-bread-pudding | Bread pudding | Classic | 2 | 4 |
 | classic-vanilla-creme-brulee | Crème brûlée | Classic | 3 | 5 |
+| clear-raspberry-jelly-domes | Jelly (gelatin) | Classic | 0 | 3 |
 | clear-white-chicken-stock-slow-simmered | White/brown chicken | Classic | 2 | 4 |
 | cocoa-dusted-dark-chocolate-truffles | Truffles | Classic | 3 | 5 |
 | coconut-peanut-satay-sauce | Peanut/satay | Classic | 2 | 4 |
@@ -333,6 +338,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | folded-butter-omelette-chives | Omelette | Classic | 3 | 5 |
 | folded-butter-omelette-fresh-herbs | Omelette | Herb (fines herbes) | 3 | 5 |
 | folded-butter-omelette-melted-cheese | Omelette | Cheese | 2 | 4 |
+| fondant-iced-layered-petits-fours | Petit four | Classic | 1 | 4 |
 | fondant-potatoes | Fondant potatoes | Classic | 2 | 4 |
 | french-dip-roast-beef-sandwiches-thyme-jus | French dip | Classic | 3 | 5 |
 | fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
@@ -516,6 +522,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mango-lime-sorbet | Sorbet | Classic | 1 | 3 |
 | mango-sticky-rice-toasted-mung-beans | Mango sticky rice | Classic | 2 | 4 |
 | maple-glazed-carrots-ginger-lemon | Glazed carrots | Maple | 1 | 4 |
+| maple-pecan-granola-clusters | Granola | Maple-pecan | 2 | 4 |
 | maqluba-chicken-aubergine-cauliflower-upside-down-rice | Maqluba | Classic | 1 | 3 |
 | marble-pound-cake | Pound cake | Marble | 3 | 5 |
 | matcha-chiffon-cake | Chiffon | Matcha | 2 | 4 |
@@ -582,6 +589,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | oven-finished-frittata-courgette-herbs | Frittata | Zucchini | 2 | 4 |
 | oven-finished-frittata-red-pepper-spinach | Frittata | Classic | 3 | 5 |
 | oven-finished-frittata-spinach-feta | Frittata | Spinach-feta | 2 | 4 |
+| oyster-po-boy-cornmeal-fried-oysters | Po' boy | Oyster | 2 | 4 |
 | pad-see-ew | Pad see ew | Classic | 3 | 5 |
 | pad-thai-tofu | Pad thai | Tofu | 3 | 5 |
 | pad-thai | Pad thai | Classic | 2 | 4 |
@@ -617,6 +625,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pasteis-de-nata-portuguese-custard-tarts | Pastéis de nata | Classic | 2 | 4 |
 | pastitsio | Pastitsio | Classic | 3 | 5 |
 | patatas-bravas | Patatas bravas | Classic | 2 | 4 |
+| pb-j-peanut-butter-strawberry-jam-sandwich | PB&J | Classic | 1 | 3 |
 | peach-cobbler-buttermilk-biscuits | Cobbler | Classic | 2 | 4 |
 | peach-cobbler-yogurt-biscuits | Cobbler | Peach | 1 | 3 |
 | peach-crisp-almond-crumbs | Crisp | Peach | 1 | 3 |
@@ -629,6 +638,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pear-upside-down-cake | Upside-down | Pear | 2 | 4 |
 | pearl-barley-with-mushrooms | Barley | Classic | 1 | 3 |
 | pearl-sugar-chouquettes | Chouquettes | Classic | 2 | 4 |
+| pearl-sugar-tarte-tropezienne | Tropézienne | Classic | 0 | 3 |
 | peking-duck | Peking duck | Classic | 2 | 4 |
 | penne-arrabbiata | Short (penne, rigatoni, fusilli) | Classic | 3 | 5 |
 | peperonata-sweet-peppers-basil | Peperonata | Classic | 2 | 4 |
@@ -638,6 +648,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | persian-saffron-rice-golden-crust-barberries | Tahdig/Persian polo | Classic | 3 | 5 |
 | peruvian-style-beef-tomato-stir-fry-chips | Lomo saltado | Classic | 3 | 5 |
 | pesto-alla-trapanese | Pesto alla trapanese | Classic | 2 | 4 |
+| philly-cheesesteak-american-cheese-onions | Philly cheesesteak | American | 1 | 3 |
 | philly-cheesesteaks-shaved-ribeye-caramelised-onions | Philly cheesesteak | Classic | 2 | 4 |
 | pho-bo-vietnamese-beef-noodle-soup | Pho | Classic | 2 | 4 |
 | pickle-caper-tartar-sauce | Tartar sauce | Classic | 2 | 4 |
@@ -697,6 +708,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | rich-dark-chocolate-tart | Chocolate tart | Classic | 2 | 4 |
 | ricotta-ravioli | Filled (ravioli, tortellini, agnolotti) | Classic | 4 | 6 |
 | roast-beef-fillet-tarragon-butter-sauce | Châteaubriand | Classic | 6 | 8 |
+| roast-beef-po-boy-debris-gravy | Po' boy | Roast beef | 1 | 3 |
 | roast-chicken | Whole roast chicken | Classic | 3 | 6 |
 | roasted-brussels-sprouts-charred | Brussels sprouts | Classic | 2 | 4 |
 | roasted-butternut-squash-soup-curry-coconut | Butternut squash | Curried | 3 | 5 |
@@ -766,6 +778,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | smoky-molasses-bbq-sauce | BBQ | Classic | 2 | 4 |
 | smooth-cold-brew-coffee-concentrate | Cold brew | Classic | 2 | 4 |
 | smooth-garlic-basil-tomato-sauce | Tomato | Classic | 1 | 3 |
+| smorrebrod-pickled-herring-rye-onion-dill | Smørrebrød (open) | Classic | 1 | 3 |
 | snickerdoodles | Snickerdoodle | Classic | 3 | 5 |
 | soft-baked-pretzels-coarse-salt-mustard | Pretzels | Classic | 2 | 4 |
 | soft-cinnamon-rolls-cream-cheese-icing | Cinnamon rolls | Classic | 3 | 5 |

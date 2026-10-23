@@ -1,0 +1,209 @@
+{
+  "slug": "pearl-sugar-tarte-tropezienne",
+  "title": "Tarte Tropézienne (Pearl Sugar Brioche with Vanilla Cream)",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "tropezienne",
+  "dish_title": "Tropézienne",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A soft, buttery brioche topped with crunchy pearl sugar, split and filled with a light vanilla cream.",
+  "servings": 10,
+  "prep_min": 50,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "stand mixer with dough hook",
+    "large bowl",
+    "cling film",
+    "baking tray",
+    "baking paper",
+    "24 cm cake ring (optional)",
+    "rolling pin",
+    "pastry brush",
+    "instant-read thermometer",
+    "medium saucepan",
+    "whisk",
+    "fine sieve",
+    "electric whisk",
+    "long serrated knife",
+    "piping bag with 1.5 cm plain nozzle",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Brioche",
+      "qty": 250,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Brioche",
+      "qty": 30,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brioche",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Brioche",
+      "qty": 7,
+      "unit": "g",
+      "item": "sachet fast-action dried yeast"
+    },
+    {
+      "group": "Brioche",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs, cold"
+    },
+    {
+      "group": "Brioche",
+      "qty": 50,
+      "unit": "ml",
+      "item": "whole milk, cold"
+    },
+    {
+      "group": "Brioche",
+      "qty": 125,
+      "unit": "g",
+      "item": "soft unsalted butter, cubed"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk, beaten with 1 tbsp milk, for glazing"
+    },
+    {
+      "group": "Topping",
+      "qty": 40,
+      "unit": "g",
+      "item": "pearl (nib) sugar",
+      "note": "the large, hard white nibs that keep their shape when baked"
+    },
+    {
+      "group": "Vanilla cream",
+      "qty": 400,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Vanilla cream",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Vanilla cream",
+      "qty": 80,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Vanilla cream",
+      "qty": 30,
+      "unit": "g",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "Vanilla cream",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Vanilla cream",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Vanilla cream",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Vanilla cream",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "orange flower water (optional)",
+      "note": "check the label: it should be alcohol-free"
+    },
+    {
+      "group": "Vanilla cream",
+      "qty": 200,
+      "unit": "ml",
+      "item": "cold double (heavy) cream"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brioche dough",
+      "text": "in the mixer bowl, combine the flour, sugar, salt and yeast. Add the eggs and milk and knead with the dough hook on medium-low for 6-8 min until smooth and stretchy. Add the butter a few cubes at a time, letting each lot disappear, then knead 5-8 min more until the dough is glossy and comes away from the sides. Adding the butter slowly keeps the dough strong and silky."
+    },
+    {
+      "title": "Rise",
+      "text": "cover the bowl and leave in a warm place for 1 h 30 min until doubled, or chill overnight, which makes the dough easier to shape."
+    },
+    {
+      "title": "Shape",
+      "text": "knock the dough back, roll it into a ball and press it out on the lined tray into a 22 cm round about 2 cm thick; put the ring round it if using. Cover loosely and prove 1-1 h 30 min until puffy and soft."
+    },
+    {
+      "title": "Vanilla cream",
+      "text": "in a pan off the heat, whisk the yolks with the sugar, cornflour and salt, then whisk in the milk. Whisk over medium heat until it thickens and bubbles for 1 min, past 85 °C. Sieve, stir in the butter, vanilla and orange flower water, cover the surface and chill at least 2 h."
+    },
+    {
+      "title": "Bake",
+      "text": "heat the oven to 180 °C (160 °C fan). Brush the brioche gently with the yolk glaze and scatter the pearl sugar thickly over the top. Bake 20-25 min until deep golden and the centre reaches about 90 °C. Cool completely on the rack. A thermometer is the surest test that the brioche is baked through."
+    },
+    {
+      "title": "Lighten",
+      "text": "whip the cold cream to firm peaks. Beat the chilled vanilla cream until smooth and fold in the whipped cream in 2 lots."
+    },
+    {
+      "title": "Assemble",
+      "text": "slice the brioche in half across with the serrated knife. Pipe the cream in fat dots over the bottom half, right to the edge, and set the sugared top on it. Chill 1 h so the cream firms before slicing."
+    }
+  ],
+  "tips": [
+    "A common mistake is adding the butter too fast, which makes a greasy dough; wait for each lot to disappear.",
+    "Chilling the dough overnight makes it much easier to shape.",
+    "Cool the brioche completely before filling, or the cream will melt.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in the fridge and eat within 2 days. Take it out 15 min before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 428,
+    "protein_g": 8.7,
+    "carbs_g": 39.5,
+    "sugar_g": 18.2,
+    "free_sugar_g": 15.0,
+    "fat_g": 26.3,
+    "satfat_g": 15.3,
+    "salt_g": 0.61,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tropezienne-basic.jpg",
+  "image_alt": "A round pearl-sugar brioche split and filled with piped pale vanilla cream, a wedge cut away."
+}
