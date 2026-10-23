@@ -91,6 +91,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cheeseburger-sliders | Sliders | Classic | 2 | 5 |
 | cheesy-gruyere-gougeres | Gougères | Classic | 2 | 4 |
 | cheesy-potato-gratin | Gratin | Classic | 2 | 4 |
+| cherry-bakewell-tart-glace-cherries | Bakewell | Cherry | 2 | 4 |
 | cherry-clafoutis | Clafoutis | Classic | 2 | 4 |
 | chewy-amaretti | Amaretti | Classic | 2 | 4 |
 | chewy-blondies | Blondies | Classic | 2 | 4 |
@@ -233,6 +234,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | curry-laksa-chicken-prawn-coconut-noodle-soup | Laksa | Classic | 2 | 4 |
 | cut-out-sugar-cookies | Sugar/cut-out | Classic | 2 | 4 |
 | dark-chocolate-fudge-sauce | Sauce | Classic | 2 | 4 |
+| dark-chocolate-orange-tart-candied-slices | Chocolate tart | Orange | 2 | 4 |
 | dashi-kombu-bonito-japanese-stock | Dashi | Classic | 3 | 5 |
 | deep-caramelised-french-onion-dip-chives-crisps | French onion dip | Classic | 3 | 5 |
 | detroit-style-pan-pizza-crisp-cheese-edges-tomato-stripes | Pan/Detroit | Classic | 3 | 5 |
@@ -257,6 +259,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | everyday-chicken-curry | Chicken curry | Classic | 3 | 6 |
 | extra-crunchy-buttermilk-onion-rings-horseradish-dip | Onion ring | Classic | 2 | 4 |
 | falafel-wrap | Falafel pita | Classic | 2 | 4 |
+| feathered-iced-bakewell-tart-raspberry | Bakewell | Classic | 2 | 4 |
 | fermented-sour-dill-pickles | Sour dill pickles | Classic | 2 | 4 |
 | fesenjan | Fesenjan | Classic | 2 | 4 |
 | fettuccine-alfredo | Alfredo (Roman original) | Classic | 3 | 5 |
@@ -275,6 +278,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fondant-potatoes | Fondant potatoes | Classic | 2 | 4 |
 | french-dip-roast-beef-sandwiches-thyme-jus | French dip | Classic | 3 | 5 |
 | fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
+| fresh-fruit-tart-vanilla-creme-patissiere | Fruit tart (crème pâtissière) | Classic | 2 | 4 |
 | fresh-ginger-ale-lime-honey-syrup | Ginger ale | Classic | 2 | 4 |
 | fresh-herb-gravy | Gravy | Herb | 2 | 4 |
 | fresh-limeade-mashed-zest-mint | Limeade | Classic | 2 | 4 |
@@ -284,6 +288,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | ful-medames-cumin-lemon-tomato | Ful medames | Classic | 1 | 4 |
 | gai-yang | Gai yang | Classic | 2 | 4 |
 | galbitang-korean-beef-short-rib-radish-soup | Galbitang | Classic | 2 | 4 |
+| galette-des-rois-almond-cream | Galette des rois | Classic | 2 | 4 |
 | galician-style-octopus-potatoes-smoked-paprika | Pulpo a la gallega | Classic | 4 | 6 |
 | garlic-coriander-butter-naan | Naan | Garlic | 3 | 5 |
 | garlic-herb-olive-oil-crostini | Crostini | Classic | 2 | 4 |
@@ -339,6 +344,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | hard-boiled-eggs-ice-bath-easy-peel | Boiled (soft/hard) | Classic | 2 | 4 |
 | harira-moroccan-lentil-chickpea-soup | Harira | Classic | 2 | 4 |
 | harissa-yoghurt-beef-skewers | Kebabs/skewers | Harissa | 3 | 5 |
+| hazelnut-praline-paris-brest | Paris-Brest | Classic | 2 | 4 |
 | herb-crusted-rack-of-lamb-mustard | Rack of lamb/persillade | Mustard-herb crust | 4 | 6 |
 | herb-crusted-rack-of-lamb-persillade | Rack of lamb/persillade | Classic | 3 | 5 |
 | herb-tabbouleh-bulgur-lemon | Tabbouleh | Classic | 3 | 5 |
@@ -714,6 +720,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | upside-down-spiced-rice-chicken-roasted-aubergine | Maqluba | Eggplant | 3 | 5 |
 | upside-down-spiced-rice-chicken-roasted-cauliflower | Maqluba | Cauliflower | 3 | 5 |
 | vanilla-bundt-cake | Bundt | Classic | 2 | 4 |
+| vanilla-cream-chocolate-glazed-eclairs | Éclair | Classic | 2 | 4 |
 | vanilla-creme-patissiere | Crème pâtissière | Classic | 2 | 4 |
 | vanilla-cupcakes | Cupcakes | Classic | 2 | 4 |
 | vanilla-glazed-yeast-raised-doughnuts | Yeast-raised ring | Classic | 2 | 4 |

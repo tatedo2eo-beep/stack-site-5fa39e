@@ -1,0 +1,185 @@
+{
+  "slug": "cherry-bakewell-tart-glace-cherries",
+  "title": "Cherry Bakewell Tart with Glacé Cherries",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "bakewell",
+  "dish_title": "Bakewell",
+  "flavour": "Cherry",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "Shortcrust filled with cherry jam and almond frangipane, covered in white icing and dotted with glacé cherry halves.",
+  "servings": 10,
+  "prep_min": 40,
+  "cook_min": 65,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor",
+    "cling film",
+    "rolling pin",
+    "23 cm loose-based fluted tart tin",
+    "baking paper",
+    "baking beans",
+    "baking tray",
+    "mixing bowl",
+    "electric whisk",
+    "offset spatula",
+    "small bowl",
+    "wire rack",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 190,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Pastry",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 115,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "ice-cold water"
+    },
+    {
+      "group": "Frangipane",
+      "qty": 135,
+      "unit": "g",
+      "item": "soft unsalted butter"
+    },
+    {
+      "group": "Frangipane",
+      "qty": 135,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Frangipane",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Frangipane",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free almond extract"
+    },
+    {
+      "group": "Frangipane",
+      "qty": 135,
+      "unit": "g",
+      "item": "ground almonds"
+    },
+    {
+      "group": "Filling",
+      "qty": 120,
+      "unit": "g",
+      "item": "cherry jam"
+    },
+    {
+      "group": "White icing",
+      "qty": 180,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "White icing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "White icing",
+      "qty": 12,
+      "unit": "pc",
+      "item": "glacé cherries, halved",
+      "note": "check the label: glacé cherries often contain sulphites"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry",
+      "text": "pulse the flour, icing sugar and salt together, add the butter and pulse to fine crumbs, then add the yolks and cold water and pulse until it clumps. Form a disc, wrap and chill 1 h, then roll to 3 mm thick, line the tin and freeze 20 min."
+    },
+    {
+      "title": "Blind bake",
+      "text": "heat the oven to 190 °C (170 °C fan). Fill the lined case with paper and beans, bake on the tray 20 min, then remove them and give it 5 min more until lightly golden. Turn the oven down to 175 °C (155 °C fan). A pre-baked case stays crisp under the jam."
+    },
+    {
+      "title": "Frangipane",
+      "text": "cream the butter and sugar for 3 min, add the eggs one by one with the almond extract, then fold through the ground almonds."
+    },
+    {
+      "title": "Fill and bake",
+      "text": "spread the cherry jam over the case, top with the frangipane and level it. Bake 35-40 min until risen, golden and springy, and 75 °C in the middle. Leave to cool fully in the tin."
+    },
+    {
+      "title": "Ice",
+      "text": "stir the icing sugar with the water until thick and smooth, spread over the cold tart and dot with the cherry halves, cut side down, in rings. Leave 30 min until the icing sets. Ice only when the tart is completely cold."
+    }
+  ],
+  "tips": [
+    "A common mistake is spreading too much jam, which boils up through the sponge; keep to a thin layer.",
+    "Rinse and dry the glacé cherries if they are very sticky.",
+    "Glacé cherries often contain sulphites, so check the pack if anyone is sensitive.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered at room temperature for up to 3 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 523,
+    "protein_g": 6.9,
+    "carbs_g": 60.3,
+    "sugar_g": 40.8,
+    "free_sugar_g": 37.7,
+    "fat_g": 29.5,
+    "satfat_g": 14.1,
+    "salt_g": 0.14,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bakewell-basic--cherry.jpg",
+  "image_alt": "A white-iced cherry Bakewell tart dotted with glacé cherry halves, a slice cut to show the jam and frangipane.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

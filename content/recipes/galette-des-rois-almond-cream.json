@@ -1,0 +1,173 @@
+{
+  "slug": "galette-des-rois-almond-cream",
+  "title": "Galette des Rois with Almond Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "galette-des-rois",
+  "dish_title": "Galette des rois",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Two rounds of buttery puff pastry sealed around a rich almond cream, scored in a sunburst pattern and baked until deep golden.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "mixing bowl",
+    "wooden spoon or electric whisk",
+    "cling film",
+    "baking tray",
+    "baking paper",
+    "23 cm plate or cake tin, as a template",
+    "sharp knife",
+    "pastry brush",
+    "small bowl",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Almond cream",
+      "qty": 85,
+      "unit": "g",
+      "item": "soft unsalted butter"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 85,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 85,
+      "unit": "g",
+      "item": "ground almonds"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 8,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, separated (white for the cream, yolk for the glaze)"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "alcohol-free almond extract"
+    },
+    {
+      "group": "Pastry",
+      "qty": 640,
+      "unit": "g",
+      "item": "all-butter puff pastry (2 x 320 g sheets), chilled"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "whole blanched almond, for the charm (optional)"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cold water"
+    },
+    {
+      "group": "Pastry",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar, for dusting (optional)",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Almond cream",
+      "text": "beat the butter and icing sugar until creamy, then the ground almonds, flour and salt. Beat in the whole egg, then the egg white, then the vanilla and almond extract. Cover and chill 1 h. Mix the yolk with the water for the glaze and chill."
+    },
+    {
+      "title": "Cut",
+      "text": "using the plate, cut a 23 cm round from each pastry sheet and put one on the lined tray."
+    },
+    {
+      "title": "Fill",
+      "text": "spread the almond cream over the base, leaving a 2.5 cm border, and press in the almond if using. Brush the border with water, lay the second round on top and press the edges firmly to seal. Scallop the edge with the back of a knife and chill 30 min. A firm seal stops the almond cream leaking as it bakes."
+    },
+    {
+      "title": "Decorate",
+      "text": "heat the oven to 220 °C (200 °C fan). Brush the top thinly with the yolk glaze, keeping it off the cut edge, then score curved lines from the centre outwards with the knife tip without cutting through, and make 5 small steam holes. Glaze on the cut edge glues the layers and stops them rising."
+    },
+    {
+      "title": "Bake",
+      "text": "lower the oven to 200 °C (180 °C fan) and bake 30-40 min until puffed and deep golden, covering loosely with foil if it browns too fast. The almond cream should be set and reach 75 °C."
+    },
+    {
+      "title": "Cool",
+      "text": "cool on the rack 15 min and serve warm or at room temperature, warning guests about the hidden almond."
+    }
+  ],
+  "tips": [
+    "A common mistake is cutting right through the pastry when scoring; press lightly with the tip.",
+    "Keep everything cold so the layers rise high.",
+    "Tell everyone about the hidden almond before they bite.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day. Keep covered at room temperature for 1 day or in the fridge for 2 days, and warm at 160 °C (140 °C fan) for 10 min.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 649,
+    "protein_g": 9.9,
+    "carbs_g": 50.6,
+    "sugar_g": 12.6,
+    "free_sugar_g": 12.0,
+    "fat_g": 45.9,
+    "satfat_g": 14.0,
+    "salt_g": 0.64,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "galette-des-rois-basic.jpg",
+  "image_alt": "A golden puff pastry galette des rois with curved scored lines, a slice cut away to show the almond cream layer.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}
