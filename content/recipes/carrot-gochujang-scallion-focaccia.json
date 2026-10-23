@@ -1,0 +1,181 @@
+{
+  "slug": "carrot-gochujang-scallion-focaccia",
+  "title": "Carrot and Gochujang Focaccia",
+  "category": "snacks-sides",
+  "cuisine": "Korean",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "focaccia",
+  "dish_title": "Focaccia",
+  "flavour": "Carrot",
+  "flavour_order": 110,
+  "access": "premium",
+  "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
+  "changes_from_base": "Carrot juice and gochujang in the dough, a ginger, garlic and spring onion oil, and carrot ribbons with sesame on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A bright orange focaccia made with carrot juice and gochujang, topped with carrot ribbons in a ginger, garlic and spring onion oil.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 32,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "spatula or wooden spoon",
+    "cling film or a clean tea towel",
+    "23 x 33 cm metal baking tin",
+    "wire rack",
+    "probe thermometer (optional)",
+    "small saucepan",
+    "vegetable peeler"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 8,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1.33 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 250,
+      "unit": "ml",
+      "item": "carrot juice",
+      "note": "warmed to about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 130,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "gochujang (Korean chilli paste)",
+      "note": "choose one with no alcohol (ethanol or spirit) in the ingredients"
+    },
+    {
+      "group": "Dough",
+      "qty": 4,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced, white and green parts kept apart"
+    },
+    {
+      "group": "Ginger oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Ginger oil",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Ginger oil",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Ginger oil",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium carrots, peeled into long ribbons"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "sesame seeds"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Ginger oil",
+      "text": "Warm the neutral oil with the ginger, garlic and spring onion whites over low heat 3-4 min, until soft and fragrant. Stir in the sesame oil and cool."
+    },
+    {
+      "title": "Dough",
+      "text": "Whisk the gochujang into the warm carrot juice and water, then add the flour, yeast and spring onion greens and mix until no flour shows; the dough will be a soft orange. Rest 15 min, then work in the salt."
+    },
+    {
+      "title": "Folds",
+      "text": "Fold every 30 min, four times in all, until the dough is elastic and puffy."
+    },
+    {
+      "title": "Tin",
+      "text": "Spoon 2 tbsp of the ginger oil, without the solids, into the tin, add the dough, turn to coat and stretch it out. Cover and leave about 1 h, until risen."
+    },
+    {
+      "title": "Top",
+      "text": "Heat the oven to 220 °C (200 °C fan). Toss the carrot ribbons with 1 tbsp of the ginger oil, dimple the dough and pile the ribbons loosely on top. Spoon over the remaining oil and aromatics and sprinkle with sesame seeds and flaky salt."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 25-28 min, until the ribbons are tinged brown at the tips and the bread is deep orange-gold; the centre reads about 96 °C. Cool 15 min on a rack."
+    }
+  ],
+  "tips": [
+    "Check the gochujang label: some brands contain alcohol, and most contain wheat and soya.",
+    "Peel the carrot ribbons thin so they char at the tips without drying out.",
+    "Strain the oil for the tin and save the aromatics for the top, as the solids burn on the base."
+  ],
+  "storage": "Best on the day. Keep wrapped at room temperature for 1 day or in the fridge for up to 3 days, then reheat at 200 °C for 5 min; freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 223,
+    "protein_g": 5.9,
+    "carbs_g": 35.9,
+    "sugar_g": 2.4,
+    "free_sugar_g": 0.5,
+    "fat_g": 6.1,
+    "satfat_g": 0.6,
+    "salt_g": 0.99,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Orange-tinted focaccia topped with curled carrot ribbons, spring onions and sesame seeds.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

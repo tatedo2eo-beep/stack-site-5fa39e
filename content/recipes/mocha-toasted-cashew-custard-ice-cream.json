@@ -1,0 +1,143 @@
+{
+  "slug": "mocha-toasted-cashew-custard-ice-cream",
+  "title": "Mocha and Toasted Cashew Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Mocha & cashew",
+  "flavour_order": 115,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Cocoa and instant espresso cooked into the custard; toasted cashews folded in; no vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic custard reworked with cocoa and instant espresso cooked into the base and toasted cashews folded in at the end. Dark, roasty and crunchy.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "small frying pan"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 140,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 20,
+      "unit": "g",
+      "item": "cocoa powder"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "instant espresso powder"
+    },
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Mix-ins",
+      "qty": 80,
+      "unit": "g",
+      "item": "unsalted cashews, toasted and roughly chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make a smooth base",
+      "text": "Whisk the yolks, sugar, cocoa and espresso powder in the saucepan, then add the cream a spoonful at a time until smooth before whisking in the milk. Adding liquid slowly stops the cocoa clumping."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat, scraping the base, for 8-10 min until it coats the spatula and reads 77-80 °C. The cocoa can catch, so keep the heat low and the spatula moving."
+    },
+    {
+      "title": "Chill",
+      "text": "Mix in the salt, strain, and cool the custard over iced water before chilling it for at least 4 h."
+    },
+    {
+      "title": "Toast the cashews",
+      "text": "Shake the cashews in the small dry frying pan over medium heat for 4-5 min until golden, then cool and chop. Toasting adds a deeper, buttery flavour and keeps them crunchy in the ice cream."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn until thick, adding the cashews in the last minute so they are evenly spread."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for at least 4 h until firm."
+    }
+  ],
+  "tips": [
+    "Use unsalted cashews so the salt stays under control.",
+    "A common mistake is swapping in brewed coffee, which adds water and makes the ice cream icy. Espresso powder gives flavour without liquid.",
+    "Decaffeinated espresso powder works just as well."
+  ],
+  "storage": "Freeze, covered, for up to 2 weeks; the cashews soften slightly after a week.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 397,
+    "protein_g": 7.2,
+    "carbs_g": 26.0,
+    "sugar_g": 21.5,
+    "free_sugar_g": 17.5,
+    "fat_g": 31.0,
+    "satfat_g": 16.7,
+    "salt_g": 0.28,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

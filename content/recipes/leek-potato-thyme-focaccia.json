@@ -1,0 +1,179 @@
+{
+  "slug": "leek-potato-thyme-focaccia",
+  "title": "Leek, Potato and Thyme Focaccia",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "focaccia",
+  "dish_title": "Focaccia",
+  "flavour": "Leek",
+  "flavour_order": 109,
+  "access": "premium",
+  "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
+  "changes_from_base": "Butter and oil in the tin; topped with softened leeks, thin potato and thyme with a little grated cheese.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A buttery-bottomed focaccia topped with sweet softened leeks, thin potatoes, thyme and a little hard cheese.",
+  "servings": 12,
+  "prep_min": 35,
+  "cook_min": 47,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "spatula or wooden spoon",
+    "cling film or a clean tea towel",
+    "23 x 33 cm metal baking tin",
+    "wire rack",
+    "probe thermometer (optional)",
+    "frying pan"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 450,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1.5 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 360,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tin",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter, soft",
+      "note": "for greasing"
+    },
+    {
+      "group": "Tin",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium leeks, white and pale green parts, thinly sliced and rinsed",
+      "note": "about 300 g trimmed"
+    },
+    {
+      "group": "Topping",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Topping",
+      "qty": 200,
+      "unit": "g",
+      "item": "waxy potatoes, halved lengthways and sliced into thin half-moons"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fresh thyme leaves"
+    },
+    {
+      "group": "Topping",
+      "qty": 30,
+      "unit": "g",
+      "item": "pecorino or Parmesan-style hard cheese, finely grated",
+      "note": "made with microbial rennet (vegetarian)"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Combine the flour, yeast, salt, warm water and 2 tbsp oil, mix to a soft, sticky dough and rest 15 min."
+    },
+    {
+      "title": "Folds",
+      "text": "Fold the dough from four sides every 30 min, four times, until it is smooth and full of bubbles."
+    },
+    {
+      "title": "Tin",
+      "text": "Rub the tin with the soft butter, then pour in 2 tbsp oil; the butter browns the base and the oil keeps it from catching. Add the dough, turn it over, cover and leave 1 h to puff, pressing it to the corners halfway."
+    },
+    {
+      "title": "Leeks",
+      "text": "Cook the leeks in the butter and 1 tbsp oil over medium-low heat 10-12 min, until soft and sweet but not browned. Cool a little, then stir in the potato slices and thyme."
+    },
+    {
+      "title": "Top",
+      "text": "Heat the oven to 220 °C (200 °C fan). Dimple the dough, spread the leek and potato evenly over it, scatter with the cheese and grind over the pepper."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 30-35 min, until the potatoes are tender and the top is golden at the edges; the centre reads about 96 °C. Cool 15 min before cutting."
+    }
+  ],
+  "tips": [
+    "Rinse the sliced leeks well; grit hides between the layers.",
+    "Cook the leeks gently; if they brown they turn bitter.",
+    "A common mistake is spreading hot leeks on the dough, which knocks the air out; let them cool first."
+  ],
+  "storage": "Keep in the fridge for up to 2 days and reheat at 200 °C for 6-8 min; freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 241,
+    "protein_g": 6.3,
+    "carbs_g": 34.2,
+    "sugar_g": 1.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 8.8,
+    "satfat_g": 2.4,
+    "salt_g": 0.84,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden focaccia covered with soft leeks, potato half-moons and thyme leaves.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

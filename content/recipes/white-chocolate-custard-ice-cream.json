@@ -1,0 +1,146 @@
+{
+  "slug": "white-chocolate-custard-ice-cream",
+  "title": "White Chocolate Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "White chocolate",
+  "flavour_order": 122,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "White chocolate melted into the custard with much less sugar; shaved white chocolate folded in.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic custard with white chocolate melted in and much less sugar, finished with shaved white chocolate. Creamy, mellow and gently sweet.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 400,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 320,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 60,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Chocolate",
+      "qty": 150,
+      "unit": "g",
+      "item": "white chocolate, finely chopped"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Finish",
+      "qty": 40,
+      "unit": "g",
+      "item": "white chocolate, shaved"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Warm the dairy",
+      "text": "Heat the cream, milk and half the sugar in the saucepan until steaming."
+    },
+    {
+      "title": "Whisk the yolks",
+      "text": "Whisk the yolks with the remaining sugar until pale. White chocolate brings plenty of sweetness, so only 60 g sugar is needed."
+    },
+    {
+      "title": "Temper",
+      "text": "Whisk two ladles of hot dairy into the yolks, then return to the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Return the pan to low heat and stir until the custard thickens and hits 77-80 °C. Keep it below a simmer."
+    },
+    {
+      "title": "Melt the chocolate",
+      "text": "Put the chopped chocolate in a clean bowl and sieve the hot custard over it. Leave for 1 min, then stir until smooth with the salt and vanilla; residual heat melts white chocolate gently without scorching it."
+    },
+    {
+      "title": "Chill",
+      "text": "Cool over the iced water and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn until thick, fold in the shaved chocolate and freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Use white chocolate with cocoa butter high on the label; cheaper bars do not melt smoothly.",
+    "A common mistake is melting white chocolate over direct heat, which makes it seize. Let the hot custard do the work.",
+    "Fresh raspberries are a great match."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 390,
+    "protein_g": 5.9,
+    "carbs_g": 25.4,
+    "sugar_g": 25.2,
+    "free_sugar_g": 21.6,
+    "fat_g": 30.0,
+    "satfat_g": 18.0,
+    "salt_g": 0.24,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

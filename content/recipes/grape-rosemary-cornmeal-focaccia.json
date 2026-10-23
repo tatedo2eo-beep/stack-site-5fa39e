@@ -1,0 +1,166 @@
+{
+  "slug": "grape-rosemary-cornmeal-focaccia",
+  "title": "Grape and Rosemary Focaccia",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "focaccia",
+  "dish_title": "Focaccia",
+  "flavour": "Grape",
+  "flavour_order": 104,
+  "access": "premium",
+  "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
+  "changes_from_base": "Cornmeal and a little sugar in the dough, rosemary-infused oil, and grapes pressed into the top; baked cooler and longer.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A lightly sweet cornmeal focaccia with juicy grapes pressed into the top and a drizzle of rosemary oil.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "spatula or wooden spoon",
+    "cling film or a clean tea towel",
+    "23 x 33 cm metal baking tin",
+    "wire rack",
+    "probe thermometer (optional)",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 450,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 50,
+      "unit": "g",
+      "item": "fine cornmeal (polenta)"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1.5 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 370,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Rosemary oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Rosemary oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fresh rosemary needles, chopped"
+    },
+    {
+      "group": "Topping",
+      "qty": 350,
+      "unit": "g",
+      "item": "seedless red or black grapes, halved if large"
+    },
+    {
+      "group": "Topping",
+      "qty": 30,
+      "unit": "g",
+      "item": "pine nuts",
+      "note": "optional"
+    },
+    {
+      "group": "Topping",
+      "qty": 12,
+      "unit": "g",
+      "item": "granulated or demerara sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Rosemary oil",
+      "text": "Warm the 4 tbsp oil with the chopped rosemary over the lowest heat for 3-4 min, until it smells fragrant, then let it cool."
+    },
+    {
+      "title": "Dough",
+      "text": "Combine the flour, cornmeal, yeast and 25 g sugar, add the warm water, 1 tbsp of the rosemary oil and the salt and mix into a soft, sticky mass. The cornmeal gives a sunny colour and a faint crunch."
+    },
+    {
+      "title": "Folds",
+      "text": "Leave 15 min, then fold the dough over itself every 30 min, four times, until smooth and airy."
+    },
+    {
+      "title": "Tin",
+      "text": "Brush the tin with 2 tbsp of the rosemary oil, add the dough and coax it to the edges. Cover and leave about 1 h, until puffy."
+    },
+    {
+      "title": "Top",
+      "text": "Heat the oven to 200 °C (180 °C fan). Dimple the dough, push the grapes into it so they sit half-buried, scatter the pine nuts if using, then the sugar and flaky salt, and spoon over the remaining rosemary oil."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 30-35 min, until deep golden and the grapes have slumped and bubbled; the centre reads about 96 °C. The longer, cooler bake lets the juicy fruit cook without the sugar burning. Cool 20 min before cutting."
+    }
+  ],
+  "tips": [
+    "Press the grapes in firmly or they roll off as the dough rises.",
+    "Seedless grapes save a lot of picking at the table.",
+    "A common mistake is baking too hot; the sugar on top burns before the fruit softens."
+  ],
+  "storage": "Eat within 1 day at room temperature, or keep in the fridge for up to 3 days and warm at 180 °C for 5 min. Not ideal for freezing because the grapes go soft. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 242,
+    "protein_g": 5.6,
+    "carbs_g": 39.5,
+    "sugar_g": 7.9,
+    "free_sugar_g": 3.1,
+    "fat_g": 7.0,
+    "satfat_g": 0.9,
+    "salt_g": 0.86,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden focaccia dotted with roasted red grapes, rosemary and pine nuts.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "dark-salted-caramel-custard-ice-cream",
+  "title": "Salted Caramel Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Salted caramel",
+  "flavour_order": 111,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Most of the sugar is cooked to a deep caramel and loosened with the cream; four times the salt; half the vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic custard method, but most of the sugar is first cooked to a deep amber caramel and loosened with hot cream, then seasoned with a generous pinch of salt. Bittersweet, buttery and very smooth.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "heatproof jug"
+  ],
+  "ingredients": [
+    {
+      "group": "Caramel",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar, for the caramel"
+    },
+    {
+      "group": "Caramel",
+      "qty": 420,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 260,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Get ready",
+      "text": "Warm the cream in the jug in short microwave bursts or in a small pan so it is hot when the caramel is ready, and have the milk, yolks and remaining sugar close by. Caramel moves fast, and hot cream splutters less than cold."
+    },
+    {
+      "title": "Make the caramel",
+      "text": "Sprinkle a third of the 100 g sugar into the dry saucepan over medium heat. When it melts at the edges, stir gently and add the rest in two lots, letting each melt first, then cook to a deep amber, 4-6 min in total. Adding sugar in stages helps it melt evenly instead of crystallising."
+    },
+    {
+      "title": "Add the cream",
+      "text": "Off the heat, pour in the hot cream slowly, standing back, as it will steam and bubble fiercely. Stir until smooth, warming gently if any caramel has hardened, then stir in the milk."
+    },
+    {
+      "title": "Whisk the yolks",
+      "text": "In the heatproof bowl, whisk the yolks with the 40 g sugar until combined and slightly paler."
+    },
+    {
+      "title": "Temper",
+      "text": "Whisk two ladles of the hot caramel cream into the yolks, then pour the mixture back into the pan. The yolks warm up gradually instead of scrambling."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat, scraping the corners of the pan, until the custard reaches 77-80 °C. Caramel custards look thicker than they are, so rely on the thermometer and keep it below a simmer."
+    },
+    {
+      "title": "Season and chill",
+      "text": "Stir in the salt and vanilla, sieve, then cool over the iced water and refrigerate for at least 4 h. Taste once cold, as salt reads more mildly when frozen."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn until thick like soft serve and freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Take the caramel darker than you think, to deep mahogany; pale caramel just tastes sweet.",
+    "A common mistake is pouring in cold cream, which seizes the caramel into hard lumps. Warm the cream first.",
+    "Use a light-coloured pan so you can see the caramel's colour.",
+    "If lumps of caramel remain, stir over low heat until they dissolve before adding the yolks."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks. Caramel keeps the ice cream softer, so it scoops straight from the freezer.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 304,
+    "protein_g": 4.3,
+    "carbs_g": 21.0,
+    "sugar_g": 20.8,
+    "free_sugar_g": 17.5,
+    "fat_g": 23.0,
+    "satfat_g": 13.8,
+    "salt_g": 0.45,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

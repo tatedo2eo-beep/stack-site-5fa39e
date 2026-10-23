@@ -1,0 +1,174 @@
+{
+  "slug": "masala-chai-custard-ice-cream",
+  "title": "Masala Chai Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Chai spice",
+  "flavour_order": 113,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Whole spices, ginger and black tea steeped in the dairy instead of vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A spiced take on our classic custard: toasted whole spices, fresh ginger and black tea are steeped in the dairy instead of vanilla, for all the warmth of masala chai.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "small frying pan"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 450,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Spices",
+      "qty": 6,
+      "unit": "pc",
+      "item": "green cardamom pods, crushed"
+    },
+    {
+      "group": "Spices",
+      "qty": 6,
+      "unit": "pc",
+      "item": "whole cloves"
+    },
+    {
+      "group": "Spices",
+      "qty": 1,
+      "unit": "pc",
+      "item": "star anise"
+    },
+    {
+      "group": "Spices",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "black peppercorns"
+    },
+    {
+      "group": "Spices",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Spices",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger, sliced"
+    },
+    {
+      "group": "Spices",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "loose black tea leaves (Assam or breakfast tea)"
+    },
+    {
+      "group": "Custard",
+      "qty": 140,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the spices",
+      "text": "Warm the cardamom, cloves, star anise and peppercorns in the small frying pan over medium heat for 1-2 min until they smell warm and sweet. Toasting deepens the flavour before the spices meet the dairy."
+    },
+    {
+      "title": "Steep the spices",
+      "text": "Add them to the cream and milk in the saucepan with the cinnamon and ginger. Bring to steaming, cover off the heat and leave for 30 min so the fat absorbs the aromas."
+    },
+    {
+      "title": "Add the tea",
+      "text": "Reheat to steaming, stir in the tea leaves and steep for exactly 8 min. Sieve, pressing on the solids, and return the dairy to the cleaned pan; longer steeping draws out bitter tannins."
+    },
+    {
+      "title": "Whisk the yolks",
+      "text": "Whisk the yolks with the sugar until pale and thick."
+    },
+    {
+      "title": "Temper",
+      "text": "Whisk two ladles of the hot spiced dairy into the yolks, then pour back into the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat until it reaches 77-80 °C and coats the spatula. Keep it off the boil."
+    },
+    {
+      "title": "Strain and chill",
+      "text": "Add the salt and sieve again to catch any spice fragments, then cool over the iced water and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn until thick and freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Use a strong black tea such as Assam so its flavour stands up to the spices.",
+    "A common mistake is over-steeping the tea, which makes the ice cream bitter; set a timer for 8 min.",
+    "Ground cinnamon can leave specks; it is harmless and looks pretty."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 330,
+    "protein_g": 5.1,
+    "carbs_g": 22.3,
+    "sugar_g": 21.2,
+    "free_sugar_g": 17.5,
+    "fat_g": 25.2,
+    "satfat_g": 15.0,
+    "salt_g": 0.19,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

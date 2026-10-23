@@ -1,0 +1,151 @@
+{
+  "slug": "lemon-blackberry-ripple-custard-ice-cream",
+  "title": "Lemon Custard Ice Cream with Blackberry Ripple",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Lemon & blackberry",
+  "flavour_order": 117,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Lemon peel steeped in the dairy instead of vanilla; a reduced blackberry syrup rippled through after churning.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic custard infused with lemon peel instead of vanilla, then rippled with a reduced blackberry syrup after churning. Fresh, tart and striking to look at.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "pc",
+      "item": "lemons, zest pared in wide strips (about 8 g)",
+      "note": "unwaxed"
+    },
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 120,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Blackberry ripple",
+      "qty": 400,
+      "unit": "g",
+      "item": "blackberries"
+    },
+    {
+      "group": "Blackberry ripple",
+      "qty": 60,
+      "unit": "g",
+      "item": "caster sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Steep the lemon",
+      "text": "Heat the cream and milk with the lemon strips until steaming, then cover off the heat for 45 min. Peel holds the lemon oils, so the dairy tastes of lemon without curdling from the juice."
+    },
+    {
+      "title": "Make the ripple",
+      "text": "Meanwhile, blend or mash the blackberries, push through the sieve and discard the seeds. Simmer the juice with 60 g sugar in the small pan, stirring, for 8-10 min until reduced to about 120 ml, then chill; reducing it stops the ripple freezing into icy streaks."
+    },
+    {
+      "title": "Prepare the yolks",
+      "text": "Whisk the yolks with 120 g sugar. Lift out the lemon strips and rewarm the dairy until steaming."
+    },
+    {
+      "title": "Temper",
+      "text": "Whisk two ladles of the lemon dairy into the yolks and return to the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Keep stirring over a gentle flame until the custard thickens enough to coat the spatula, at 77-80 °C. Avoid boiling."
+    },
+    {
+      "title": "Chill",
+      "text": "Season with the salt, strain into a clean bowl, set it over the iced water to cool, then chill for 4 h or more."
+    },
+    {
+      "title": "Churn and ripple",
+      "text": "Churn until thick, then layer it into the container with spoonfuls of the cold blackberry syrup and drag a knife through once or twice. Too much swirling blends the colours into pink."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for at least 4 h until scoopable."
+    }
+  ],
+  "tips": [
+    "Pare the lemon with a vegetable peeler, leaving the bitter white pith behind.",
+    "A common mistake is skipping the reduction, so the syrup freezes hard and icy. Simmer it until syrupy.",
+    "Raspberries make an equally good ripple."
+  ],
+  "storage": "Freeze, covered, for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 375,
+    "protein_g": 5.5,
+    "carbs_g": 31.1,
+    "sugar_g": 28.3,
+    "free_sugar_g": 22.5,
+    "fat_g": 26.5,
+    "satfat_g": 15.7,
+    "salt_g": 0.18,
+    "fibre_g": 2.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

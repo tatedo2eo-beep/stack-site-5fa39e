@@ -1,0 +1,150 @@
+{
+  "slug": "roasted-apricot-almond-custard-ice-cream",
+  "title": "Roasted Apricot and Almond Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Apricot & almond",
+  "flavour_order": 114,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Roasted apricot purée stirred into a lighter custard; toasted flaked almonds folded in.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A lighter version of our classic custard, with a purée of oven-roasted apricots stirred in before churning and toasted flaked almonds folded through. Tangy, jammy and nutty.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "roasting tin",
+    "blender or stick blender"
+  ],
+  "ingredients": [
+    {
+      "group": "Apricots",
+      "qty": 600,
+      "unit": "g",
+      "item": "ripe apricots, halved and stoned"
+    },
+    {
+      "group": "Apricots",
+      "qty": 60,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 90,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Almonds",
+      "qty": 50,
+      "unit": "g",
+      "item": "flaked almonds, toasted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast the apricots",
+      "text": "Heat the oven to 220 °C (200 °C fan). Toss the apricots with 60 g sugar in the tin, arrange cut side up and roast for 20-25 min until soft and caramelised at the edges; roasting concentrates their flavour and drives off water. Cool, blend smooth and chill."
+    },
+    {
+      "title": "Make the custard",
+      "text": "Warm the cream, milk and salt until steaming. Whisk the yolks with 90 g sugar, whisk in two ladles of the hot dairy and pour back into the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Cook gently, stirring all the time, until a line drawn on the coated spatula holds and the thermometer shows 77-80 °C. Do not let it bubble."
+    },
+    {
+      "title": "Chill",
+      "text": "Sieve, add the vanilla and cool over the iced water, then refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Stir in the cold apricot purée and churn until thick, then fold in the toasted almonds by hand."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pack into the container and freeze for at least 4 h. The fruit flavour is brightest within a week."
+    }
+  ],
+  "tips": [
+    "Toast the almonds in a dry pan for 3-4 min, shaking often, until golden.",
+    "A common mistake is adding warm purée to the base, which slows churning and gives an icy result. Chill both parts.",
+    "Very ripe, slightly soft apricots give the best colour and flavour."
+  ],
+  "storage": "Freeze, covered, for up to 1 week. Soften for 10 min at room temperature before scooping.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 354,
+    "protein_g": 6.4,
+    "carbs_g": 31.6,
+    "sugar_g": 28.9,
+    "free_sugar_g": 18.7,
+    "fat_g": 23.6,
+    "satfat_g": 12.3,
+    "salt_g": 0.17,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

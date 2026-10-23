@@ -1,0 +1,174 @@
+{
+  "slug": "cherry-rosemary-balsamic-focaccia",
+  "title": "Cherry and Rosemary Focaccia",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "focaccia",
+  "dish_title": "Focaccia",
+  "flavour": "Cherry",
+  "flavour_order": 114,
+  "access": "premium",
+  "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
+  "changes_from_base": "No-knead potato-flake dough on a large tray, topped with cherries cooked in balsamic and rosemary.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A no-knead tray focaccia topped with cherries cooked down with balsamic vinegar, plus rosemary and flaky salt.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "spatula or wooden spoon",
+    "cling film or a clean tea towel",
+    "frying pan",
+    "30 x 40 cm rimmed baking tray",
+    "wire rack",
+    "probe thermometer (optional)"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 480,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 40,
+      "unit": "g",
+      "item": "instant mashed potato flakes"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 4,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 0.83 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 340,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Cherries",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Cherries",
+      "qty": 450,
+      "unit": "g",
+      "item": "fresh sweet cherries, pitted and halved"
+    },
+    {
+      "group": "Cherries",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "balsamic vinegar"
+    },
+    {
+      "group": "Cherries",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Tray and topping",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tray and topping",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "fresh rosemary needles, chopped"
+    },
+    {
+      "group": "Tray and topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Mix the flour, potato flakes, yeast, sugar, salt, 2 tbsp oil and lukewarm water briefly into a rough ball. Cover and leave 3 h, until doubled; there is no need to knead or fold. Potato flakes make the crumb tender and moist."
+    },
+    {
+      "title": "Cherries",
+      "text": "Heat 1 tbsp oil in a frying pan over medium-high heat and cook the cherries 3 min, until they start to bleed juice. Add the balsamic and water and bubble 2-3 min, until syrupy and clinging to the fruit. Cool."
+    },
+    {
+      "title": "Tray",
+      "text": "Spread 1 tbsp oil over the tray and push the dough out to the edges, leaving it 10-15 min whenever it shrinks back."
+    },
+    {
+      "title": "Top",
+      "text": "Brush the dough with the last 1 tbsp oil, then scatter over the cherries and their syrup, the rosemary and the flaky salt. Cover and leave 1 1/2 h."
+    },
+    {
+      "title": "Bake",
+      "text": "Towards the end, heat the oven to 200 °C (180 °C fan). Bake 20-25 min, until golden brown and crusty at the edges; the centre reads about 96 °C. Cool 10 min before cutting into 12."
+    }
+  ],
+  "tips": [
+    "Frozen or drained tinned cherries work out of season.",
+    "Cook the cherries only until syrupy; overcooked fruit collapses on the bread.",
+    "If the dough keeps shrinking, rest it and stretch again instead of tearing it."
+  ],
+  "storage": "Eat within 1 day at room temperature, or keep in the fridge for up to 3 days and warm at 180 °C for 5 min. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 235,
+    "protein_g": 5.7,
+    "carbs_g": 38.8,
+    "sugar_g": 5.7,
+    "free_sugar_g": 0.3,
+    "fat_g": 6.4,
+    "satfat_g": 0.9,
+    "salt_g": 0.54,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden tray focaccia topped with glossy halved cherries, rosemary and flaky salt.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

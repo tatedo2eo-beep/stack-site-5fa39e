@@ -1,0 +1,166 @@
+{
+  "slug": "double-chocolate-focaccia",
+  "title": "Double Chocolate Focaccia",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "focaccia",
+  "dish_title": "Focaccia",
+  "flavour": "Chocolate",
+  "flavour_order": 112,
+  "access": "premium",
+  "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
+  "changes_from_base": "Sweet cocoa dough with chopped dark chocolate, baked in a smaller tin and finished with pearl sugar.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A sweet, bubbly cocoa focaccia laced with melting dark chocolate and topped with crunchy sugar.",
+  "servings": 9,
+  "prep_min": 30,
+  "cook_min": 28,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "spatula or wooden spoon",
+    "cling film or a clean tea towel",
+    "20 cm square metal baking tin",
+    "wire rack",
+    "probe thermometer (optional)",
+    "stand mixer with paddle (optional)"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 250,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 12,
+      "unit": "g",
+      "item": "cocoa powder, preferably dark Dutch-processed"
+    },
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 0.83 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 255,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Dough",
+      "qty": 150,
+      "unit": "g",
+      "item": "dark chocolate (55-70% cocoa), chopped"
+    },
+    {
+      "group": "Tin",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Topping",
+      "qty": 12,
+      "unit": "g",
+      "item": "pearl sugar or demerara sugar",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Mix the flour, sugar, cocoa, salt, yeast, warm water, 1 tbsp oil and vanilla until no dry patches remain, cover and rest 20 min."
+    },
+    {
+      "title": "Develop",
+      "text": "Beat with a paddle on medium speed 10-12 min, or give the dough six sets of bowl folds 20 min apart, until it stretches in long strands. Mix in the chopped chocolate briefly. A well-developed dough traps the gas and stays bubbly despite the cocoa."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave in a warm place about 1 h, until slightly puffy."
+    },
+    {
+      "title": "Tin",
+      "text": "Oil the tin with 2 tbsp oil, scrape in the dough and press it to the edges with oiled fingers. Cover and leave 2-3 h, until very puffy with bubbles on the surface."
+    },
+    {
+      "title": "Top",
+      "text": "Heat the oven to 200 °C (180 °C fan). Drizzle with the last 1 tbsp oil, dimple gently and sprinkle with the pearl or demerara sugar."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 25-28 min; the dark colour hides browning, so go by the probe, which should read about 96 °C, and a firm, crisp base. Cool 20 min in the tin before cutting into 9."
+    }
+  ],
+  "tips": [
+    "Use a probe to check doneness; the dark crumb hides any browning.",
+    "A common mistake is under-mixing; the dough must stretch in strands before the chocolate goes in.",
+    "Choose alcohol-free vanilla extract or vanilla paste.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep wrapped at room temperature for up to 2 days; warm at 180 °C for 4-5 min. Freeze for up to 1 month.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 274,
+    "protein_g": 5.0,
+    "carbs_g": 32.9,
+    "sugar_g": 8.3,
+    "free_sugar_g": 8.2,
+    "fat_g": 13.8,
+    "satfat_g": 5.1,
+    "salt_g": 0.55,
+    "fibre_g": 3.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Dark chocolate focaccia dimpled with melted chocolate pockets and pearl sugar.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

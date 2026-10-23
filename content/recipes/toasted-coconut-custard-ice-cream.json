@@ -1,0 +1,140 @@
+{
+  "slug": "toasted-coconut-custard-ice-cream",
+  "title": "Toasted Coconut Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Coconut",
+  "flavour_order": 116,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Toasted coconut and coconut milk replace a third of the cream and the vanilla; the custard steeps on the coconut before straining.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Following the classic custard method, coconut milk replaces part of the cream and the base steeps on toasted coconut, which is then strained out. Nutty, tropical and creamy.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 80,
+      "unit": "g",
+      "item": "unsweetened desiccated coconut",
+      "note": "60 g for steeping, 20 g to finish"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "full-fat coconut milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the coconut",
+      "text": "Toast all the coconut in the dry saucepan over medium heat, stirring constantly, for 4-5 min until evenly golden. Set 20 g aside on a plate for finishing; toasting brings out sweet, nutty notes."
+    },
+    {
+      "title": "Warm the dairy",
+      "text": "Add the coconut milk, cream, milk, half the sugar and the salt to the remaining coconut and heat until steaming."
+    },
+    {
+      "title": "Temper",
+      "text": "Whisk the yolks with the rest of the sugar in the heatproof bowl, whisk in two ladles of the hot coconut dairy, then return it all to the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat until thick enough to coat the spatula, checking for 77-80 °C. Hold it under a simmer."
+    },
+    {
+      "title": "Steep and strain",
+      "text": "Cover off the heat and leave for 45 min, then sieve, pressing hard on the coconut to squeeze out every drop. The custard draws more flavour from the coconut as it sits."
+    },
+    {
+      "title": "Chill",
+      "text": "Cool over the iced water and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn until thick, fold in the reserved toasted coconut and freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Shake the coconut milk tin well before opening, as the cream separates.",
+    "A common mistake is toasting the coconut over high heat; it burns in seconds. Stay with it and keep stirring.",
+    "Squeeze the strained coconut firmly in the sieve, or a lot of base is lost."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 352,
+    "protein_g": 5.3,
+    "carbs_g": 22.3,
+    "sugar_g": 19.5,
+    "free_sugar_g": 16.2,
+    "fat_g": 28.3,
+    "satfat_g": 20.2,
+    "salt_g": 0.18,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

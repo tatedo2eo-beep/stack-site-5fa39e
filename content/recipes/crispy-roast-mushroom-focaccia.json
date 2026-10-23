@@ -1,0 +1,178 @@
+{
+  "slug": "crispy-roast-mushroom-focaccia",
+  "title": "Crispy Mushroom Focaccia",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "focaccia",
+  "dish_title": "Focaccia",
+  "flavour": "Mushroom",
+  "flavour_order": 108,
+  "access": "premium",
+  "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
+  "changes_from_base": "Cold overnight rise; topped with pre-roasted chestnut and shiitake mushrooms and a little cheese, finished with lemon zest and chives.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A deeply bubbly, cold-risen focaccia covered with crisp roasted mushrooms and finished with lemon zest and chives.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 55,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "spatula or wooden spoon",
+    "cling film or a clean tea towel",
+    "23 x 33 cm metal baking tin",
+    "wire rack",
+    "probe thermometer (optional)",
+    "large roasting tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 10.5,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1.75 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 400,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tin",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 400,
+      "unit": "g",
+      "item": "chestnut (cremini) mushrooms, thickly sliced"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 200,
+      "unit": "g",
+      "item": "shiitake mushrooms, stems removed, caps torn"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 30,
+      "unit": "g",
+      "item": "Parmesan-style hard cheese, finely grated",
+      "note": "made with microbial rennet (vegetarian)"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "unwaxed lemon, zest finely grated"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chives, finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Mix the flour, yeast, salt, warm water and 2 tbsp oil to a sticky dough with no dry flour. Rest 15 min, fold it over itself four times round the bowl, then cover and refrigerate 12-24 h. A long cold rise gives big bubbles and a deeper flavour."
+    },
+    {
+      "title": "Tin",
+      "text": "Oil the tin with 3 tbsp oil, tip in the cold dough and turn it over. Cover and leave in a warm spot 2-3 h, until it has spread out, doubled and wobbles when you shake the tin; ease it into the corners as it softens."
+    },
+    {
+      "title": "Mushrooms",
+      "text": "Heat the oven to 220 °C (200 °C fan). Toss the mushrooms with 3 tbsp oil, salt and pepper on the roasting tray in one layer and roast 20-25 min, turning once, until browned and shrunken. Driving off their water first means they crisp on the bread instead of making it soggy."
+    },
+    {
+      "title": "Top",
+      "text": "Dimple the dough deeply, spread the roasted mushrooms over the top and sprinkle with the cheese."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 25-30 min, until the edges of the mushrooms are crisp and the base is golden; the centre reads about 96 °C."
+    },
+    {
+      "title": "Finish",
+      "text": "Scatter the lemon zest and chives over the warm bread, cool 10 min on a rack and cut into 12."
+    }
+  ],
+  "tips": [
+    "Roast the mushrooms in a single layer; crowded mushrooms steam.",
+    "The cold dough is ready to bake when it wobbles like jelly and bubbles show on top.",
+    "Add the lemon zest and chives after baking so they stay fresh and bright."
+  ],
+  "storage": "Keep in the fridge for up to 2 days and reheat at 200 °C for 6-8 min until hot through; freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 255,
+    "protein_g": 7.4,
+    "carbs_g": 33.2,
+    "sugar_g": 1.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 10.5,
+    "satfat_g": 1.8,
+    "salt_g": 1.21,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Focaccia piled with crisp, browned mushrooms, grated cheese and chopped chives.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

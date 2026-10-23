@@ -1,0 +1,168 @@
+{
+  "slug": "overnight-starter-rosemary-focaccia",
+  "title": "Overnight Rosemary Focaccia",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "focaccia",
+  "dish_title": "Focaccia",
+  "flavour": "Rosemary",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
+  "changes_from_base": "Overnight flour-and-water starter, chopped rosemary in the dough and on top, baked as two 23 cm rounds.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Two crisp-bottomed rounds of focaccia built on an overnight starter, with rosemary through the crumb and across the top.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 26,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "spatula or wooden spoon",
+    "cling film or a clean tea towel",
+    "two 23 cm round metal cake tins (not loose-bottomed)",
+    "wire rack",
+    "probe thermometer (optional)"
+  ],
+  "ingredients": [
+    {
+      "group": "Starter",
+      "qty": 100,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Starter",
+      "qty": 100,
+      "unit": "ml",
+      "item": "water",
+      "note": "room temperature"
+    },
+    {
+      "group": "Starter",
+      "qty": 1,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast",
+      "note": "a scant 1/4 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 400,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 280,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 10,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1.67 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "fresh rosemary needles, chopped",
+      "note": "half for the dough, half for the top"
+    },
+    {
+      "group": "Tins and topping",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil",
+      "note": "2 tbsp per tin"
+    },
+    {
+      "group": "Tins and topping",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil",
+      "note": "for drizzling"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Starter",
+      "text": "In a large bowl stir 100 g flour, 100 ml room-temperature water and the 1 g yeast into a thick paste. Cover and leave on the worktop 8-24 h, until domed and full of bubbles; this slow ferment builds a rounder, gently tangy flavour."
+    },
+    {
+      "title": "Dough",
+      "text": "Add the remaining 400 g flour, the 280 ml lukewarm water, the 5 g yeast and half the rosemary, and mix until no dry flour is left. Cover for 15 min, then scatter over the fine salt and squeeze it through with a wet hand."
+    },
+    {
+      "title": "Folds",
+      "text": "Every 30 min for 1 1/2 h, lift one edge of the dough and lay it over the middle, working four times round the bowl. By the last set the dough feels smooth, elastic and wobbly with air."
+    },
+    {
+      "title": "Tins",
+      "text": "Pour 2 tbsp oil into each tin, halve the dough and turn each piece over in its oil. After 15 min, ease the dough out to the edges and cover again."
+    },
+    {
+      "title": "Proof",
+      "text": "Leave 45-60 min, until puffy and a fingertip dent fills back slowly. Meanwhile heat the oven to 230 °C (210 °C fan) with a shelf low down."
+    },
+    {
+      "title": "Dimple and bake",
+      "text": "Drizzle with the last 1 tbsp oil, press oiled fingertips right down to the base all over, then scatter the rest of the rosemary and the flaky salt. Bake 22-26 min, swapping the tins halfway, until deep gold with a crisp, almost fried base; the centre reads about 96 °C."
+    },
+    {
+      "title": "Cool",
+      "text": "Slide the breads out onto a rack within 2 min so the bases stay crisp, and wait 20 min before cutting each into 6 wedges."
+    }
+  ],
+  "tips": [
+    "Mix the starter before bed and the dough is ready to make by mid-morning.",
+    "Do not skip the oil in the tins; it is what fries the base until crisp.",
+    "If the dough snaps back when you stretch it, leave it 10 min and try again rather than forcing it.",
+    "Dry rosemary burns, so keep the topping needles fresh and coated in oil."
+  ],
+  "storage": "Best eaten the day it is baked. Wrap leftovers and keep at room temperature for up to 2 days, then crisp at 200 °C for 5 min; or freeze wedges for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 202,
+    "protein_g": 5.2,
+    "carbs_g": 30.5,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 6.4,
+    "satfat_g": 0.9,
+    "salt_g": 0.94,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Two round golden focaccias dimpled and scattered with rosemary needles and flaky salt.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

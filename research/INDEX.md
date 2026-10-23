@@ -131,6 +131,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | carne-asada-burrito-black-beans-lime-rice | Burrito | Carne asada | 3 | 5 |
 | carne-asada-street-tacos-onion-coriander-lime | Taco | Classic | 2 | 4 |
 | carrot-cake | Carrot | Classic | 2 | 4 |
+| carrot-gochujang-scallion-focaccia | Focaccia | Carrot | 1 | 3 |
 | carrot-nuoc-cham-dipping-sauce | Nuoc cham | Classic | 2 | 4 |
 | catfish-po-boy-fried-catfish-dressed | Po' boy | Classic | 1 | 3 |
 | celeriac-parsnip-puree-crisp-parsnip-ribbons | Purées (celeriac, parsnip) | Classic | 1 | 3 |
@@ -154,6 +155,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cheesy-potato-gratin | Gratin | Classic | 2 | 4 |
 | cherry-bakewell-tart-glace-cherries | Bakewell | Cherry | 2 | 4 |
 | cherry-clafoutis | Clafoutis | Classic | 2 | 4 |
+| cherry-rosemary-balsamic-focaccia | Focaccia | Cherry | 1 | 3 |
 | chewy-amaretti | Amaretti | Classic | 2 | 4 |
 | chewy-blondies | Blondies | Classic | 2 | 4 |
 | chewy-boiled-new-york-bagels-cream-cheese | Bagels | Classic | 3 | 5 |
@@ -196,6 +198,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chocolate-cheesecake-biscuit-base | New York (baked, dense) | Chocolate | 2 | 4 |
 | chocolate-chess-pie | Chess | Chocolate | 1 | 3 |
 | chocolate-cocoa-dusted-marshmallows | Marshmallows | Chocolate | 2 | 4 |
+| chocolate-cookie-crumb-custard-ice-cream | Custard-base (French) | Chocolate sandwich cookie | 1 | 3 |
 | chocolate-cupcakes | Cupcakes | Chocolate | 3 | 5 |
 | chocolate-dipped-shortbread | Shortbread | Chocolate-dipped | 2 | 5 |
 | chocolate-hazelnut-spread-brownies | Brownie (fudgy or cakey) | Nutella & hazelnut | 1 | 3 |
@@ -218,6 +221,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cinnamon-streusel-coffee-cake | Coffee cake | Cinnamon streusel | 2 | 4 |
 | cinnamon-sugar-buttermilk-cake-doughnuts | Cake doughnut | Classic | 2 | 4 |
 | cinnamon-sugar-monkey-bread-caramel | Monkey bread | Classic | 3 | 5 |
+| cinnamon-sugar-swirl-focaccia | Focaccia | Cinnamon | 1 | 3 |
 | citrus-chilli-marinated-grilled-steak-charred-spring-onions-guacamole | Carne asada | Classic | 3 | 5 |
 | classic-almond-biscotti | Biscotti | Classic | 3 | 5 |
 | classic-apple-tarte-tatin | Tarte Tatin | Classic | 2 | 4 |
@@ -305,9 +309,11 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crispy-baked-chicken-wings | Chicken wings | Classic | 3 | 5 |
 | crispy-chicken-sandwich | Chicken burger | Classic | 3 | 6 |
 | crispy-cornmeal-shrimp-po-boys-creole-mayo | Po' boy | Shrimp | 2 | 4 |
+| crispy-grated-potato-focaccia | Focaccia | Potato | 1 | 3 |
 | crispy-hasselback-potatoes | Hasselback | Classic | 2 | 4 |
 | crispy-oven-potato-wedges | Wedges | Classic | 3 | 5 |
 | crispy-potato-latkes | Latkes/potato pancakes | Classic | 3 | 5 |
+| crispy-roast-mushroom-focaccia | Focaccia | Mushroom | 1 | 3 |
 | crispy-roast-potatoes | Roast potatoes | Classic | 3 | 5 |
 | crispy-shredded-hash-browns | Hash browns | Classic | 3 | 5 |
 | crispy-smashed-potatoes | Crispy smashed potatoes | Classic | 2 | 4 |
@@ -330,6 +336,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | dark-chocolate-orange-mousse | Chocolate mousse | Orange | 3 | 5 |
 | dark-chocolate-orange-tart-candied-slices | Chocolate tart | Orange | 2 | 4 |
 | dark-molasses-bran-muffins | Bran muffins | Classic | 2 | 4 |
+| dark-salted-caramel-custard-ice-cream | Custard-base (French) | Salted caramel | 1 | 3 |
 | dashi-kombu-bonito-japanese-stock | Dashi | Classic | 3 | 5 |
 | deep-caramelised-french-onion-dip-chives-crisps | French onion dip | Classic | 3 | 5 |
 | detroit-style-pan-pizza-crisp-cheese-edges-tomato-stripes | Pan/Detroit | Classic | 3 | 5 |
@@ -340,6 +347,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | diner-style-home-fries | Home fries | Classic | 2 | 4 |
 | doenjang-jjigae-tofu-courgette-potato-stew | Doenjang-jjigae | Classic | 2 | 4 |
 | domed-almond-cream-pithivier | Pithivier | Classic | 0 | 4 |
+| double-chocolate-focaccia | Focaccia | Chocolate | 1 | 3 |
 | double-chocolate-glazed-cake-doughnuts | Cake doughnut | Chocolate | 1 | 3 |
 | double-crust-apple-pie | Double-crust fruit pie (apple, cherry) | Classic | 3 | 5 |
 | double-espresso-thick-crema | Espresso | Classic | 1 | 3 |
@@ -455,10 +463,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | golden-sour-cream-corn-muffins | Corn muffin | Classic | 2 | 4 |
 | gooey-butter-oat-pie | Gooey butter oat pie | Classic | 1 | 3 |
 | graham-crackers | Graham crackers | Classic | 3 | 5 |
+| grape-rosemary-cornmeal-focaccia | Focaccia | Grape | 1 | 3 |
 | gratin-dauphinois | Gratin dauphinois | Classic | 2 | 4 |
 | greek-mint-oregano-meatballs | Meatballs | Greek (mint-oregano) | 2 | 4 |
 | green-bean-casserole-crispy-onions | Green bean casserole | Classic | 2 | 4 |
 | green-beans-amandine-brown-butter | Green beans almondine | Classic | 2 | 4 |
+| green-cardamom-custard-ice-cream | Custard-base (French) | Cardamom | 1 | 3 |
 | green-chilli-coriander-zhug | Zhug | Classic | 2 | 4 |
 | green-chilli-tomatillo-chicken-hominy-soup | Pozole verde | Classic | 2 | 4 |
 | green-freekeh-herbs-toasted-almonds | Freekeh | Classic | 2 | 4 |
@@ -562,8 +572,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | layered-chocolate-vanilla-ice-cream-cake | Ice-cream cake | Classic | 1 | 3 |
 | layered-espresso-tonic-orange | Tonics | Classic | 2 | 4 |
 | layered-vegetable-biryani-cauliflower-potato-cashews | Biryani | Vegetable | 3 | 5 |
+| leek-potato-thyme-focaccia | Focaccia | Leek | 1 | 3 |
 | lemon-angel-food-cake | Angel food | Lemon | 3 | 5 |
 | lemon-bars | Lemon bars | Classic | 3 | 5 |
+| lemon-blackberry-ripple-custard-ice-cream | Custard-base (French) | Lemon & blackberry | 1 | 3 |
 | lemon-bundt-cake-lemon-glaze | Bundt | Lemon | 2 | 4 |
 | lemon-chess-pie | Chess | Lemon | 2 | 4 |
 | lemon-chiffon-cake | Chiffon | Lemon | 3 | 5 |
@@ -573,6 +585,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-herb-vinaigrette | Vinaigrette | Lemon-herb | 2 | 4 |
 | lemon-meringue-pie | Meringue pie (lemon) | Classic | 2 | 4 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
+| lemon-potato-sage-focaccia | Focaccia | Lemon | 1 | 3 |
 | lemon-pound-cake | Pound cake | Lemon | 3 | 5 |
 | lemon-sorbet-water-ice | Sorbet | Lemon | 2 | 4 |
 | lemon-sugar-blueberry-muffins | American muffin (blueberry style, muffin method) | Classic | 2 | 4 |
@@ -602,6 +615,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | maple-pecan-granola-clusters | Granola | Maple-pecan | 2 | 4 |
 | maqluba-chicken-aubergine-cauliflower-upside-down-rice | Maqluba | Classic | 1 | 3 |
 | marble-pound-cake | Pound cake | Marble | 3 | 5 |
+| masala-chai-custard-ice-cream | Custard-base (French) | Chai spice | 1 | 3 |
 | matcha-chiffon-cake | Chiffon | Matcha | 2 | 4 |
 | matzah-ball-soup-chicken-dill | Matzah ball soup | Classic | 2 | 4 |
 | mediterranean-chicken-wraps-feta-peppers-olives | Wraps | Classic | 2 | 4 |
@@ -619,6 +633,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mixed-berry-oat-crisp | Crisp | Classic | 2 | 4 |
 | mixed-fruit-cream-pavlova | Pavlova | Classic | 2 | 4 |
 | miyeok-guk-korean-seaweed-beef-brisket-soup | Miyeok-guk | Classic | 2 | 4 |
+| mocha-toasted-cashew-custard-ice-cream | Custard-base (French) | Mocha & cashew | 1 | 3 |
 | moi-moi-steamed-bean-pudding | Moi moi | Classic | 2 | 4 |
 | molten-chocolate-cakes | Molten chocolate | Classic | 3 | 5 |
 | moroccan-chicken-pastilla-almonds-cinnamon | Pastilla | Classic | 2 | 4 |
@@ -673,6 +688,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | oven-finished-frittata-courgette-herbs | Frittata | Zucchini | 2 | 4 |
 | oven-finished-frittata-red-pepper-spinach | Frittata | Classic | 3 | 5 |
 | oven-finished-frittata-spinach-feta | Frittata | Spinach-feta | 2 | 4 |
+| overnight-starter-rosemary-focaccia | Focaccia | Rosemary | 1 | 3 |
 | oyster-po-boy-cornmeal-fried-oysters | Po' boy | Oyster | 2 | 4 |
 | paczki-polish-jam-doughnuts | Paczki | Classic | 1 | 3 |
 | pad-see-ew | Pad see ew | Classic | 3 | 5 |
@@ -780,6 +796,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pommes-anna-layered-potato-cake | Pommes Anna | Classic | 3 | 5 |
 | pommes-dauphine-potato-puffs | Pommes dauphine | Classic | 2 | 4 |
 | potato-cheese-dumplings-buttery-golden-onions | Pierogi | Potato-cheese (ruskie) | 4 | 6 |
+| potato-dough-parmesan-focaccia | Focaccia | Parmesan | 1 | 3 |
 | potato-gnocchi | Gnocchi | Classic | 4 | 6 |
 | potato-pea-samosas-mint-chutney | Samosas | Classic | 2 | 4 |
 | potato-pea-samosas-mint-coriander-chutney | Samosas | Potato-pea | 3 | 5 |
@@ -791,8 +808,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | poutine-fries-curds-gravy | Poutine | Classic | 3 | 5 |
 | prawn-fried-rice-egg-peas-sweetcorn | Fried rice | Shrimp | 3 | 5 |
 | pressed-pesto-mozzarella-tomato-panini | Panini | Classic | 2 | 4 |
+| pretzel-crust-focaccia | Focaccia | Pretzel | 1 | 3 |
 | prinsesstarta-swedish-princess-cake | Prinsesstårta | Classic | 2 | 4 |
 | provencal-vegetable-tian-thyme-garlic | Tian | Classic | 2 | 4 |
+| provolone-oregano-semolina-focaccia | Focaccia | Provolone | 1 | 3 |
 | provolone-philly-cheesesteaks-melted-provolone-onions | Philly cheesesteak | Provolone | 2 | 4 |
 | puffy-new-orleans-style-beignets | Beignets | Classic | 1 | 3 |
 | pumpkin-soup-caramelised-onion-sage | Pumpkin soup | Classic | 2 | 4 |
@@ -829,10 +848,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | roast-beef-fillet-tarragon-butter-sauce | Châteaubriand | Classic | 6 | 8 |
 | roast-beef-po-boy-debris-gravy | Po' boy | Roast beef | 1 | 3 |
 | roast-chicken | Whole roast chicken | Classic | 3 | 6 |
+| roasted-apricot-almond-custard-ice-cream | Custard-base (French) | Apricot & almond | 1 | 3 |
 | roasted-brown-beef-stock-marrow-bones | Beef stock | Classic | 2 | 4 |
 | roasted-brussels-sprouts-charred | Brussels sprouts | Classic | 2 | 4 |
 | roasted-butternut-squash-soup-curry-coconut | Butternut squash | Curried | 3 | 5 |
 | roasted-butternut-squash-soup-sage-pumpkin-seeds | Butternut squash | Classic | 3 | 5 |
+| roasted-cherry-custard-ice-cream | Custard-base (French) | Cherry | 1 | 3 |
 | roasted-garlic-mashed-potatoes | Mashed | Garlic | 3 | 5 |
 | roasted-pepper-almond-romesco | Romesco | Classic | 2 | 4 |
 | roasted-red-pepper-hummus-almonds | Hummus | Roasted red pepper | 3 | 5 |
@@ -849,6 +870,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | saffron-chilli-rouille-toasts | Rouille | Classic | 1 | 3 |
 | saffron-layered-chicken-biryani-golden-onions-eggs | Biryani | Classic | 2 | 4 |
 | saffron-layered-lamb-biryani-golden-onions-mint | Biryani | Lamb | 2 | 4 |
+| sage-and-coarse-salt-focaccia | Focaccia | Sage | 1 | 3 |
 | sage-beurre-noisette | Beurre noisette | Classic | 2 | 4 |
 | salade-nicoise-tuna-eggs-potatoes | Niçoise | Classic | 2 | 4 |
 | salt-preserved-lemons | Preserved lemon | Classic | 2 | 4 |
@@ -981,9 +1003,11 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | stuffed-corn-griddle-cakes-refried-beans-cheese-cabbage-relish | Pupusa | Bean-cheese | 3 | 5 |
 | sukuma-wiki-collards-tomato-ginger | Sukuma wiki | Classic | 1 | 3 |
 | swedish-meatballs-cream-gravy | Meatballs | Swedish (allspice-nutmeg) | 3 | 5 |
+| sweet-basil-custard-ice-cream | Custard-base (French) | Basil | 1 | 3 |
 | sweet-cheese-danish-pastries-lemon | Danish | Cheese | 4 | 6 |
 | sweet-cheese-dumplings-sour-cream-berries | Pierogi | Sweet cheese | 3 | 5 |
 | sweet-potato-pie | Sweet potato pie | Classic | 2 | 4 |
+| sweet-rhubarb-syrup-focaccia | Focaccia | Rhubarb | 1 | 3 |
 | sweet-spicy-gochujang-sauce | Gochujang sauce | Classic | 2 | 4 |
 | sweetcorn-crusted-beef-chicken-bake-olives-egg | Pastel de choclo | Classic | 3 | 5 |
 | swirled-chocolate-babka-syrup-glaze | Babka | Classic | 3 | 5 |
@@ -997,6 +1021,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tangy-ginger-hoisin-dipping-sauce | Hoisin sauce | Classic | 1 | 3 |
 | tangyuan-black-sesame-ginger-soup | Tangyuan | Classic | 1 | 3 |
 | tangzhong-japanese-milk-bread-loaf | ? | ? | MISSING | |
+| tart-cranberry-custard-ice-cream | Custard-base (French) | Cranberry | 1 | 3 |
 | teh-tarik-pulled-malaysian-milk-tea | Teh tarik | Classic | 1 | 3 |
 | tender-cream-scones-jam-clotted-cream | ? | ? | MISSING | |
 | tex-mex-chile-con-queso-dip | Queso | Classic | 2 | 4 |
@@ -1017,6 +1042,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tiny-lamb-dumplings-garlic-yoghurt-paprika-butter | Manti | Classic | 2 | 4 |
 | tiropita-feta-filo-cheese-pie | Tiropita | Classic | 1 | 3 |
 | toasted-coconut-cream-pie | Cream pie (banana, coconut) | Coconut | 2 | 4 |
+| toasted-coconut-custard-ice-cream | Custard-base (French) | Coconut | 1 | 3 |
 | toasted-farro-olive-oil-parsley | Farro | Classic | 2 | 4 |
 | toasted-marshmallow-brownies | Brownie (fudgy or cakey) | Marshmallow | 1 | 3 |
 | toasted-walnut-brown-sugar-custard-ice-cream | Custard-base (French) | Walnut | 1 | 3 |
@@ -1076,6 +1102,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | whipped-garlic-toum | Toum | Classic | 2 | 4 |
 | white-bean-bruschetta-sage-lemon | Bruschetta | White bean | 1 | 3 |
 | white-chocolate-chunk-brownies | Brownie (fudgy or cakey) | White chocolate | 1 | 3 |
+| white-chocolate-custard-ice-cream | Custard-base (French) | White chocolate | 1 | 3 |
 | whole-cherry-clafoutis | Clafoutis | Cherry (classic) | 2 | 4 |
 | whole-sea-bass-baked-in-salt-crust-lemon-herbs | Salt-crusted fish | Classic | 4 | 6 |
 | wholemeal-irish-brown-soda-bread-oats | ? | ? | MISSING | |

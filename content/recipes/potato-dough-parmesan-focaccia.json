@@ -1,0 +1,148 @@
+{
+  "slug": "potato-dough-parmesan-focaccia",
+  "title": "Parmesan Focaccia with a Potato Dough",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "focaccia",
+  "dish_title": "Focaccia",
+  "flavour": "Parmesan",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
+  "changes_from_base": "Cooked mashed potato in a slightly smaller dough and a grated Parmesan crust instead of flaky salt.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "An extra-soft focaccia made with mashed potato in the dough and baked under a lacy crust of grated cheese.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "spatula or wooden spoon",
+    "cling film or a clean tea towel",
+    "23 x 33 cm metal baking tin",
+    "wire rack",
+    "probe thermometer (optional)",
+    "saucepan",
+    "potato ricer or masher"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 250,
+      "unit": "g",
+      "item": "floury potato (such as Maris Piper or russet), peeled and cut into 3 cm chunks"
+    },
+    {
+      "group": "Dough",
+      "qty": 450,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1.5 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "ml",
+      "item": "water",
+      "note": "potato cooking water topped up with plain water, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tin and topping",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tin and topping",
+      "qty": 50,
+      "unit": "g",
+      "item": "Parmesan-style hard cheese, finely grated",
+      "note": "made with microbial rennet (vegetarian)"
+    },
+    {
+      "group": "Tin and topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Potato",
+      "text": "Cover the chunks with cold unsalted water, bring to the boil and simmer 12-15 min, until a knife slides through. Drain, saving 150 ml of the cloudy water, and rice or mash until smooth; leave until just warm. Starch from the potato holds on to water, which keeps the crumb soft for longer."
+    },
+    {
+      "title": "Dough",
+      "text": "Mix the flour and yeast, then add the potato, the 300 ml warm liquid and 2 tbsp oil and stir 2 min into a soft, tacky dough. Rest 15 min, add the salt and squeeze it in."
+    },
+    {
+      "title": "Folds",
+      "text": "Give the dough three sets of folds 30 min apart, stretching each side up and over the centre. It will feel silkier than a plain dough."
+    },
+    {
+      "title": "Tin",
+      "text": "Spread 2 tbsp oil over the tin, tip in the dough, turn it to coat and press it towards the corners. Cover and leave about 1 h, until puffy, nudging it into the corners halfway."
+    },
+    {
+      "title": "Top",
+      "text": "Heat the oven to 220 °C (200 °C fan). Drizzle the last 1 tbsp oil, dimple deeply with your fingertips, then cover evenly with the cheese and the pepper."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 22-25 min, until the cheese is lacy and golden and the edges are crisp; the centre reads about 96 °C. Cool 15 min on a rack before slicing into 12."
+    }
+  ],
+  "tips": [
+    "Use a floury potato; waxy ones make a gluey mash.",
+    "Let the potato cool to just warm before mixing or it can weaken the yeast.",
+    "A common mistake is piling the cheese in the centre; spread it right to the edges so every slice gets a crisp top."
+  ],
+  "storage": "Keep wrapped at room temperature for 1 day, then in the fridge for up to 3 days. Reheat at 200 °C for 5-6 min; freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 220,
+    "protein_g": 6.7,
+    "carbs_g": 31.3,
+    "sugar_g": 0.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 7.4,
+    "satfat_g": 1.6,
+    "salt_g": 0.9,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A rectangular focaccia with a golden, crisp grated-cheese crust, cut into squares.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

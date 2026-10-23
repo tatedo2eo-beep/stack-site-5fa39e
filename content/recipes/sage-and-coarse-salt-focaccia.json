@@ -1,0 +1,147 @@
+{
+  "slug": "sage-and-coarse-salt-focaccia",
+  "title": "Sage and Sea Salt Focaccia",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "focaccia",
+  "dish_title": "Focaccia",
+  "flavour": "Sage",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
+  "changes_from_base": "Chopped sage in the dough, oil-coated whole sage leaves pressed into the dimples and coarse salt on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A classic olive oil focaccia flecked with chopped sage and topped with crisp whole leaves and crunchy sea salt.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 26,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "spatula or wooden spoon",
+    "cling film or a clean tea towel",
+    "23 x 33 cm metal baking tin",
+    "wire rack",
+    "probe thermometer (optional)",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1.5 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 400,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "fresh sage, finely chopped"
+    },
+    {
+      "group": "Tin and topping",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tin and topping",
+      "qty": 24,
+      "unit": "pc",
+      "item": "whole fresh sage leaves"
+    },
+    {
+      "group": "Tin and topping",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "coarse sea salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Whisk the flour, yeast and chopped sage together, pour in the warm water and 2 tbsp oil and mix to a sticky, shaggy dough. Cover for 15 min, then work in the fine salt with wet fingers."
+    },
+    {
+      "title": "Folds",
+      "text": "Fold the dough over itself from four sides every 30 min, four times in all, until it is glossy, stretchy and visibly bubbly."
+    },
+    {
+      "title": "Tin",
+      "text": "Oil the tin with 2 tbsp oil, settle the dough in and turn it over once. Cover and let it relax and puff for about 1 h, stretching it to the corners after 30 min."
+    },
+    {
+      "title": "Leaves",
+      "text": "Heat the oven to 230 °C (210 °C fan). Toss the whole sage leaves in a small bowl with the last 1 tbsp oil so they are slick all over; the coating stops them scorching and turns them crisp."
+    },
+    {
+      "title": "Finish",
+      "text": "Dimple the dough firmly, press a leaf into each hollow and scatter with the coarse salt."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 22-26 min, until the top is golden and the sage leaves are crackly but still green; the centre reads about 96 °C. Rest on a rack 20 min before cutting."
+    }
+  ],
+  "tips": [
+    "Coat every sage leaf in oil; dry leaves turn brown and bitter in a hot oven.",
+    "Press the leaves well into the dimples so they do not lift off as the dough rises.",
+    "Coarse salt adds crunch, but go easy if you are watching your salt intake."
+  ],
+  "storage": "Best the same day. Keep wrapped at room temperature for up to 2 days and refresh at 200 °C for 5 min; freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 205,
+    "protein_g": 5.3,
+    "carbs_g": 31.0,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 6.5,
+    "satfat_g": 0.9,
+    "salt_g": 1.06,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden focaccia studded with crisp green sage leaves and coarse sea salt crystals.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

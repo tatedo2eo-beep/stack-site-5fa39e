@@ -1,0 +1,134 @@
+{
+  "slug": "sweet-basil-custard-ice-cream",
+  "title": "Sweet Basil Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Basil",
+  "flavour_order": 118,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Basil blitzed with half the sugar and steeped in the dairy instead of vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Classic French custard with fresh basil blitzed into the sugar and steeped in the dairy instead of vanilla. Herbal, sweet and surprisingly refreshing.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "food processor or blender"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 30,
+      "unit": "g",
+      "item": "fresh basil leaves (a large bunch)"
+    },
+    {
+      "group": "Custard",
+      "qty": 135,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make basil sugar",
+      "text": "Blitz the basil leaves with half the sugar until bright green and sandy. The sugar grinds the leaves, releasing their oils quickly."
+    },
+    {
+      "title": "Infuse",
+      "text": "Warm the cream, milk, basil sugar and salt until steaming, then cover off the heat for 20 min."
+    },
+    {
+      "title": "Whisk the yolks",
+      "text": "Beat the yolks and the rest of the sugar together in the heatproof bowl."
+    },
+    {
+      "title": "Temper",
+      "text": "Rewarm the dairy, whisk two ladles into the yolks and pour back into the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Cook on low, stirring steadily, to 77-80 °C, when the custard clings to the spatula. Gentle heat keeps the herb flavour fresh."
+    },
+    {
+      "title": "Strain and chill",
+      "text": "Sieve, pressing on the basil, then cool quickly over the iced water and refrigerate for at least 4 h. Fast cooling helps the base keep its fresh, green taste."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn until thick and freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Use only the leaves and dry them well after washing.",
+    "A common mistake is steeping the basil for hours, which brings out a grassy, bitter edge; 20 min is plenty.",
+    "Serve with fresh strawberries for a lovely summer pudding."
+  ],
+  "storage": "Freeze, covered, for up to 1 week; the basil flavour fades after that.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 332,
+    "protein_g": 4.9,
+    "carbs_g": 20.6,
+    "sugar_g": 20.2,
+    "free_sugar_g": 16.8,
+    "fat_g": 26.3,
+    "satfat_g": 15.7,
+    "salt_g": 0.18,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

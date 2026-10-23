@@ -1,0 +1,166 @@
+{
+  "slug": "lemon-potato-sage-focaccia",
+  "title": "Lemon, Potato and Sage Focaccia",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "focaccia",
+  "dish_title": "Focaccia",
+  "flavour": "Lemon",
+  "flavour_order": 107,
+  "access": "premium",
+  "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
+  "changes_from_base": "Garlic and lemon-zest oil, thinly sliced waxy potato and a little sage on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Focaccia brushed with a garlic and lemon-zest oil and layered with paper-thin potatoes and torn sage.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 32,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "spatula or wooden spoon",
+    "cling film or a clean tea towel",
+    "23 x 33 cm metal baking tin",
+    "wire rack",
+    "probe thermometer (optional)",
+    "mandoline or sharp knife",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 10.5,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1.75 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 400,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Lemon garlic oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Lemon garlic oil",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Lemon garlic oil",
+      "qty": 2,
+      "unit": "pc",
+      "item": "unwaxed lemons, finely grated zest only"
+    },
+    {
+      "group": "Topping",
+      "qty": 250,
+      "unit": "g",
+      "item": "small waxy potatoes, scrubbed"
+    },
+    {
+      "group": "Topping",
+      "qty": 10,
+      "unit": "pc",
+      "item": "fresh sage leaves, torn"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "flaky sea salt"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Stir the flour, yeast, fine salt, warm water and 2 tbsp oil into a wet dough, cover and leave 15 min."
+    },
+    {
+      "title": "Folds",
+      "text": "Work through four sets of folds at 30 min intervals until the dough is smooth and lively."
+    },
+    {
+      "title": "Lemon oil",
+      "text": "Mix the 4 tbsp oil with the grated garlic and lemon zest and leave it to infuse while the dough rises."
+    },
+    {
+      "title": "Tin",
+      "text": "Brush half the lemon oil over the tin, add the dough, flip it and stretch it out. Cover and let it puff for about 1 h."
+    },
+    {
+      "title": "Potatoes",
+      "text": "Slice the potatoes 2 mm thick and toss with the rest of the lemon oil. Thin slices cook through in the time the bread takes and curl at the edges."
+    },
+    {
+      "title": "Top and bake",
+      "text": "Heat the oven to 230 °C (210 °C fan). Dimple the dough, overlap the potato slices on top, tuck in the sage and season with flaky salt and pepper. Bake 28-32 min, until the potatoes are tender and browned at the rims; the centre reads about 96 °C. Cool 15 min before slicing."
+    }
+  ],
+  "tips": [
+    "Slice the potatoes evenly thin; thick slices stay hard in the time the bread takes.",
+    "Use unwaxed lemons, or scrub waxed ones in hot water before zesting.",
+    "Overlap the potato slices only slightly so the dough can still rise between them."
+  ],
+  "storage": "Best on the day. Keep in the fridge for up to 2 days and reheat at 200 °C for 6 min; freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 230,
+    "protein_g": 5.7,
+    "carbs_g": 34.5,
+    "sugar_g": 0.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 7.5,
+    "satfat_g": 1.1,
+    "salt_g": 1.04,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Focaccia covered with overlapping golden potato slices, torn sage and flecks of lemon zest.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "chocolate-cookie-crumb-custard-ice-cream",
+  "title": "Chocolate Sandwich Cookie Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Chocolate sandwich cookie",
+  "flavour_order": 120,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Crushed chocolate sandwich cookies cooked into the custard and strained out, with chopped cookies folded in; less sugar.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A version of our classic custard where crushed chocolate sandwich cookies are cooked into the base and strained out, then more chopped cookies are folded through. The base tastes deeply of the cookies.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "freezer bag and rolling pin"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 110,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 100,
+      "unit": "g",
+      "item": "chocolate sandwich cookies (cream-filled), finely crushed"
+    },
+    {
+      "group": "Custard",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 420,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Mix-ins",
+      "qty": 80,
+      "unit": "g",
+      "item": "chocolate sandwich cookies (cream-filled), roughly chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the base",
+      "text": "Whisk the yolks, sugar and salt in the saucepan, then whisk in the crushed cookies, milk and cream. Cooking with the crumbs pulls their cocoa flavour right into the custard."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat, scraping constantly, for about 10 min until steaming, thickened and 77-80 °C. The crumbs make it look thick early, so check the thermometer."
+    },
+    {
+      "title": "Strain",
+      "text": "Sieve into a bowl, pressing gently on the crumbs to release the liquid, then stir in the vanilla."
+    },
+    {
+      "title": "Chill",
+      "text": "Cool over the iced water and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn and fold",
+      "text": "Churn until thick, then fold in the chopped cookies with the spatula."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for at least 4 h until scoopable."
+    }
+  ],
+  "tips": [
+    "Crush the cookies in a freezer bag with a rolling pin; filling and all.",
+    "A common mistake is pressing the crumbs too hard in the sieve, which pushes grit into the base. Press gently.",
+    "Freeze the chopped cookies before folding in so they stay crisp longer."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks; the cookie pieces soften slowly.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 408,
+    "protein_g": 5.9,
+    "carbs_g": 33.2,
+    "sugar_g": 25.9,
+    "free_sugar_g": 22.3,
+    "fat_g": 28.3,
+    "satfat_g": 15.3,
+    "salt_g": 0.41,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

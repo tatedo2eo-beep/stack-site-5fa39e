@@ -1,0 +1,153 @@
+{
+  "slug": "provolone-oregano-semolina-focaccia",
+  "title": "Provolone and Oregano Focaccia",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "focaccia",
+  "dish_title": "Focaccia",
+  "flavour": "Provolone",
+  "flavour_order": 106,
+  "access": "premium",
+  "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
+  "changes_from_base": "Part wholemeal and semolina dough, garlic oil instead of plain oil, and cubes of provolone with oregano on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A nutty semolina and wholemeal focaccia brushed with garlic oil and studded with melting cubes of provolone and oregano.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "spatula or wooden spoon",
+    "cling film or a clean tea towel",
+    "23 x 33 cm metal baking tin",
+    "wire rack",
+    "probe thermometer (optional)",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 100,
+      "unit": "g",
+      "item": "wholemeal bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 100,
+      "unit": "g",
+      "item": "fine semolina"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1.5 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 380,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Garlic oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Garlic oil",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Topping",
+      "qty": 120,
+      "unit": "g",
+      "item": "provolone, cut into 1 cm dice",
+      "note": "made with microbial rennet (vegetarian)"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "dried oregano"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Garlic oil",
+      "text": "Warm the oil and sliced garlic over low heat 4-5 min, until the garlic is pale gold, then take off the heat. Strain and keep the oil and the garlic slices separately."
+    },
+    {
+      "title": "Dough",
+      "text": "Mix the white flour, wholemeal flour, semolina and yeast, then add the warm water and 1 tbsp of the garlic oil. Stir to a rough, sticky dough, rest 15 min and work in the salt. Semolina and wholemeal give a nutty, slightly golden crumb."
+    },
+    {
+      "title": "Folds",
+      "text": "Fold every 30 min, four times, until the dough holds its shape a little and shows bubbles."
+    },
+    {
+      "title": "Tin",
+      "text": "Brush the tin with 2 tbsp garlic oil, add the dough, turn it over and stretch it to the corners. Cover and leave about 1 h, until risen and puffy."
+    },
+    {
+      "title": "Top",
+      "text": "Heat the oven to 220 °C (200 °C fan). Dimple the dough, press the provolone cubes and garlic slices into the hollows, sprinkle with oregano and drizzle with the last of the garlic oil."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 22-26 min, until golden and the cheese has melted into little browned pools; the centre reads about 96 °C. Cool 15 min before cutting into 12."
+    }
+  ],
+  "tips": [
+    "Keep the garlic pale when infusing; browned garlic tastes bitter.",
+    "Cut the cheese in fairly large dice so it melts into pools rather than vanishing.",
+    "Fine semolina is best; coarse semolina makes a gritty crumb."
+  ],
+  "storage": "Keep wrapped at room temperature for 1 day, then in the fridge for up to 3 days. Warm at 200 °C for 5 min; freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 227,
+    "protein_g": 8.0,
+    "carbs_g": 31.0,
+    "sugar_g": 0.2,
+    "free_sugar_g": 0.0,
+    "fat_g": 7.9,
+    "satfat_g": 2.4,
+    "salt_g": 0.91,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden focaccia with browned pools of melted provolone, garlic slices and oregano.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

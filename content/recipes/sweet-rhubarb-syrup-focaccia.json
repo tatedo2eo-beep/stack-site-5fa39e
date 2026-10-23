@@ -1,0 +1,151 @@
+{
+  "slug": "sweet-rhubarb-syrup-focaccia",
+  "title": "Sweet Rhubarb Focaccia",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "focaccia",
+  "dish_title": "Focaccia",
+  "flavour": "Rhubarb",
+  "flavour_order": 115,
+  "access": "premium",
+  "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
+  "changes_from_base": "Sweet version: sugared rhubarb slices on top, brushed with their own reduced syrup and demerara instead of salt.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A sweet focaccia topped with sugared rhubarb slices, glazed with their own pink syrup and crunchy demerara.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "spatula or wooden spoon",
+    "cling film or a clean tea towel",
+    "23 x 33 cm metal baking tin",
+    "wire rack",
+    "probe thermometer (optional)",
+    "small bowl",
+    "small saucepan",
+    "sieve",
+    "pastry brush"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 10.5,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1.75 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 400,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tin",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Rhubarb",
+      "qty": 150,
+      "unit": "g",
+      "item": "rhubarb, thinly sliced on an angle"
+    },
+    {
+      "group": "Rhubarb",
+      "qty": 65,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Rhubarb",
+      "qty": 12,
+      "unit": "g",
+      "item": "demerara sugar",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Mix the flour, yeast, salt, warm water and 2 tbsp oil into a sticky dough, cover and rest 15 min."
+    },
+    {
+      "title": "Folds",
+      "text": "Fold four times at 30 min intervals, until the dough is elastic and airy."
+    },
+    {
+      "title": "Rhubarb",
+      "text": "During the last fold, toss the rhubarb with the caster sugar and leave 20-30 min, stirring now and then, until it has released a pink syrup. The sugar draws out the juice so the fruit stays in neat slices."
+    },
+    {
+      "title": "Tin",
+      "text": "Pour 3 tbsp oil into the tin, add the dough and pat it out to about 1.5 cm thick, leaving a small gap at the edges. Cover and leave 45 min."
+    },
+    {
+      "title": "Syrup",
+      "text": "Heat the oven to 230 °C (210 °C fan). Strain the rhubarb juices into a small pan and simmer 2-3 min, until thick. Dimple the dough, scatter the rhubarb over it, brush with the syrup and sprinkle with demerara."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 20-25 min, until golden brown and the rhubarb is tender; the centre reads about 96 °C. Cool 20 min, as the syrup is very hot, then cut into 12."
+    }
+  ],
+  "tips": [
+    "Slice the rhubarb thinly on an angle so it softens in the bake.",
+    "Reduce the syrup only until it coats a spoon; it thickens more as it cools.",
+    "Use young, pink rhubarb for the best colour.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day. Keep covered at room temperature for up to 1 day or in the fridge for up to 3 days; warm at 180 °C for 5 min.",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 229,
+    "protein_g": 5.3,
+    "carbs_g": 37.4,
+    "sugar_g": 6.7,
+    "free_sugar_g": 6.4,
+    "fat_g": 6.4,
+    "satfat_g": 0.9,
+    "salt_g": 0.86,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden focaccia topped with glossy pink rhubarb slices and sparkling demerara sugar.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

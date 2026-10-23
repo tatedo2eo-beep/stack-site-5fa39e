@@ -1,0 +1,148 @@
+{
+  "slug": "tart-cranberry-custard-ice-cream",
+  "title": "Tart Cranberry Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Cranberry",
+  "flavour_order": 119,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Sieved, sweetened cranberry purée whisked into a four-yolk custard.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A sieved, sweetened cranberry purée whisked into a lighter version of our classic custard. Sharp, fruity and a cheerful pink.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Cranberries",
+      "qty": 300,
+      "unit": "g",
+      "item": "fresh or frozen cranberries"
+    },
+    {
+      "group": "Cranberries",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Cranberries",
+      "qty": 70,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 200,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the cranberries",
+      "text": "Simmer the cranberries with the water and 70 g sugar in the small pan for 8-10 min until they burst and collapse. Push through the sieve to remove the skins, then chill the purée; cranberries are rich in pectin, which gives the ice cream body."
+    },
+    {
+      "title": "Make the custard",
+      "text": "Heat the cream, milk and salt until steaming. Whisk the yolks with 100 g sugar, whisk in two ladles of the hot dairy and return to the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir steadily over low heat to 77-80 °C, until the custard coats the back of the spatula. Watch the temperature closely; it should not bubble."
+    },
+    {
+      "title": "Chill",
+      "text": "Strain it, add the vanilla, then cool quickly in the iced water bath and chill for at least 4 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Whisk in the cold cranberry purée and churn until thick and creamy."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for at least 4 h before serving."
+    }
+  ],
+  "tips": [
+    "Frozen cranberries work straight from the freezer; add 2 min to the cooking time.",
+    "A common mistake is cutting the sugar too far; cranberries are very tart and need it.",
+    "Grated orange zest in the purée is a nice addition."
+  ],
+  "storage": "Freeze, covered, for up to 2 weeks. Soften for 10 min before scooping.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 298,
+    "protein_g": 3.7,
+    "carbs_g": 28.7,
+    "sugar_g": 25.5,
+    "free_sugar_g": 21.2,
+    "fat_g": 19.5,
+    "satfat_g": 11.7,
+    "salt_g": 0.16,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

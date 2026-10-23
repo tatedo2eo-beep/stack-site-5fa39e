@@ -1,0 +1,180 @@
+{
+  "slug": "pretzel-crust-focaccia",
+  "title": "Pretzel Focaccia",
+  "category": "snacks-sides",
+  "cuisine": "German",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "focaccia",
+  "dish_title": "Focaccia",
+  "flavour": "Pretzel",
+  "flavour_order": 111,
+  "access": "premium",
+  "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
+  "changes_from_base": "Overnight starter, a kneaded and smaller dough, then a bicarbonate wash, egg glaze, pretzel salt and melted butter.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A soft, chewy focaccia with the dark, glossy crust and salty bite of a pretzel, thanks to a quick bicarbonate wash.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "spatula or wooden spoon",
+    "cling film or a clean tea towel",
+    "23 x 33 cm metal baking tin",
+    "wire rack",
+    "probe thermometer (optional)",
+    "pastry brush",
+    "small bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Starter",
+      "qty": 120,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Starter",
+      "qty": 115,
+      "unit": "ml",
+      "item": "water",
+      "note": "cool"
+    },
+    {
+      "group": "Starter",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 240,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 150,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Tin",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Pretzel wash",
+      "qty": 1.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Pretzel wash",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "hot water"
+    },
+    {
+      "group": "Pretzel wash",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, beaten with 1 tbsp water"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "coarse sea salt or pretzel salt"
+    },
+    {
+      "group": "Topping",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Starter",
+      "text": "The night before, stir the 120 g flour, cool water and pinch of yeast into a paste. Cover and leave at room temperature 10-14 h, until bubbly."
+    },
+    {
+      "title": "Dough",
+      "text": "Add the 240 g flour, lukewarm water, 2 tbsp oil, salt and 6 g yeast to the starter and knead 6-8 min by hand or 5 min in a stand mixer, until soft, smooth and slightly sticky. Cover and let it rise about 1 h, until doubled."
+    },
+    {
+      "title": "Tin",
+      "text": "Oil the tin with 1 tbsp oil, put in the dough and stretch it towards the corners, resting it 15 min if it springs back. Cover and leave 30 min."
+    },
+    {
+      "title": "Wash",
+      "text": "Heat the oven to 200 °C (180 °C fan). Stir the bicarbonate of soda into the hot water until dissolved and brush it all over the dough. The alkaline wash speeds up browning and gives the classic pretzel colour and tang."
+    },
+    {
+      "title": "Glaze",
+      "text": "Let the soda wash dry for 5 min, then brush with the beaten egg, dimple lightly and sprinkle with the coarse salt."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 20-25 min, until deep mahogany brown; the centre reads about 96 °C. Brush with the melted butter straight from the oven and cool 15 min before cutting into 12."
+    }
+  ],
+  "tips": [
+    "Dissolve the bicarbonate fully so it does not leave bitter spots.",
+    "Let the soda wash dry before the egg goes on, or the glaze slides off.",
+    "A common mistake is pulling the bread too early; it should be truly dark brown.",
+    "Serve with mustard for dipping."
+  ],
+  "storage": "Best on the day. Keep wrapped at room temperature for up to 2 days and warm at 180 °C for 5 min; freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 155,
+    "protein_g": 4.3,
+    "carbs_g": 22.0,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 5.3,
+    "satfat_g": 1.3,
+    "salt_g": 1.17,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Deep brown, glossy pretzel-style focaccia sprinkled with coarse salt, cut into squares.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

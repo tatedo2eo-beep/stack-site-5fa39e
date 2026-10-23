@@ -1,0 +1,135 @@
+{
+  "slug": "green-cardamom-custard-ice-cream",
+  "title": "Green Cardamom Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Cardamom",
+  "flavour_order": 112,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Toasted, crushed green cardamom pods steeped in the dairy instead of vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Classic French custard ice cream with toasted green cardamom pods steeped in the cream instead of vanilla. Floral, warm and quietly aromatic.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "pestle and mortar or rolling pin"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 12,
+      "unit": "g",
+      "item": "green cardamom pods (about 30), lightly crushed",
+      "note": "strained out; nutrition counts a little"
+    },
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 140,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the pods",
+      "text": "Warm the crushed cardamom pods in the dry saucepan over medium heat for 1-2 min until fragrant. Heat wakes up the volatile oils, giving a rounder flavour."
+    },
+    {
+      "title": "Steep",
+      "text": "Add the cream, milk and half the sugar to the pan, bring to steaming, then cover off the heat for 25 min. Sieve out the pods and pour the scented dairy back into the pan."
+    },
+    {
+      "title": "Whisk the yolks",
+      "text": "Whisk the yolks and leftover sugar in the heatproof bowl until evenly blended."
+    },
+    {
+      "title": "Temper",
+      "text": "Rewarm the dairy until steaming and whisk two ladles into the yolks, then return everything to the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Cook over low heat, stirring, until the thermometer reads 77-80 °C and the custard is lightly thickened. Holding it below the boil keeps the texture velvety."
+    },
+    {
+      "title": "Chill",
+      "text": "Stir in the salt, pass through the sieve and cool over the iced water, then refrigerate for 4 h or overnight."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn until thick, then freeze for at least 4 h before scooping."
+    }
+  ],
+  "tips": [
+    "Crush the pods just enough to split them; the seeds inside hold the flavour.",
+    "A common mistake is using ground cardamom, which turns the base grey and gritty. Steep whole pods and strain.",
+    "A few strands of saffron steeped with the pods make it richer still."
+  ],
+  "storage": "Keep frozen and covered for up to 2 weeks, with baking paper pressed onto the surface.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 335,
+    "protein_g": 4.9,
+    "carbs_g": 21.4,
+    "sugar_g": 20.9,
+    "free_sugar_g": 17.5,
+    "fat_g": 26.3,
+    "satfat_g": 15.7,
+    "salt_g": 0.18,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

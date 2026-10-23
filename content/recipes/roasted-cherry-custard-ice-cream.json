@@ -1,0 +1,149 @@
+{
+  "slug": "roasted-cherry-custard-ice-cream",
+  "title": "Roasted Cherry Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Cherry",
+  "flavour_order": 121,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Oven-roasted cherries folded through a lighter custard.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic custard, made a little lighter and streaked with sweet cherries roasted until soft and syrupy. Deep red, jammy and summery.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "roasting tin",
+    "cherry stoner (optional)"
+  ],
+  "ingredients": [
+    {
+      "group": "Cherries",
+      "qty": 500,
+      "unit": "g",
+      "item": "sweet cherries, stoned"
+    },
+    {
+      "group": "Cherries",
+      "qty": 70,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cherries",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 80,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast the cherries",
+      "text": "Heat the oven to 220 °C (200 °C fan). Toss the cherries with 70 g sugar in the tin and roast for 25 min, stirring once, until soft and sitting in syrup. Stir in the lemon juice, mash roughly and chill; roasting intensifies the fruit and cooks off water."
+    },
+    {
+      "title": "Make the custard",
+      "text": "Warm the cream, milk and salt until steaming. Whisk the yolks with 80 g sugar, whisk in two ladles of hot dairy and pour back into the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Over low heat, keep the custard moving until it thickens and reaches 77-80 °C. Do not let it simmer."
+    },
+    {
+      "title": "Chill",
+      "text": "Pour through the sieve, stir in the vanilla and cool the bowl in iced water before refrigerating for a minimum of 4 h."
+    },
+    {
+      "title": "Churn and ripple",
+      "text": "Churn until thick, then fold in the cold cherries and their syrup in streaks rather than mixing fully."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for at least 4 h, and enjoy within a week."
+    }
+  ],
+  "tips": [
+    "Frozen stoned cherries work well; roast them a few minutes longer.",
+    "A common mistake is folding in warm cherries, which melts the ice cream. Chill them thoroughly.",
+    "Wear an apron when stoning cherries; the juice stains."
+  ],
+  "storage": "Freeze, covered, for up to 1 week.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 321,
+    "protein_g": 4.7,
+    "carbs_g": 32.1,
+    "sugar_g": 29.7,
+    "free_sugar_g": 18.8,
+    "fat_g": 20.4,
+    "satfat_g": 12.0,
+    "salt_g": 0.17,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

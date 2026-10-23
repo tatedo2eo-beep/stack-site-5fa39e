@@ -1,0 +1,161 @@
+{
+  "slug": "crispy-grated-potato-focaccia",
+  "title": "Crispy Grated Potato Focaccia",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "focaccia",
+  "dish_title": "Focaccia",
+  "flavour": "Potato",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "golden-olive-oil-focaccia-flaky-sea-salt",
+  "changes_from_base": "Topped with squeezed-dry grated potato, thyme and pepper that crisps like a hash brown; no flaky salt.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Focaccia under a crunchy, golden layer of grated potato and thyme, like a hash brown and a bread in one.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 32,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "spatula or wooden spoon",
+    "cling film or a clean tea towel",
+    "23 x 33 cm metal baking tin",
+    "wire rack",
+    "probe thermometer (optional)",
+    "box grater",
+    "clean tea towel for squeezing"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 10.5,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1.75 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 400,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tin",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Topping",
+      "qty": 300,
+      "unit": "g",
+      "item": "floury potatoes, peeled"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "fresh thyme leaves"
+    },
+    {
+      "group": "Topping",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Mix the flour, yeast, salt, warm water and 2 tbsp oil until no dry patches remain, cover and rest 15 min."
+    },
+    {
+      "title": "Folds",
+      "text": "Give four rounds of folds 30 min apart, lifting and laying each side over the middle, until the dough is springy and full of air."
+    },
+    {
+      "title": "Tin",
+      "text": "Spread 2 tbsp oil over the tin, add the dough, flip to coat and press out to the corners. Cover and leave about 1 h to puff."
+    },
+    {
+      "title": "Potato",
+      "text": "Near the end of the rise, coarsely grate the potatoes, gather them in a clean tea towel and wring hard over the sink until no more liquid drips out. Toss with 2 tbsp oil, the thyme, salt and pepper. Dry shreds fry in the oil on top of the bread rather than steaming."
+    },
+    {
+      "title": "Top",
+      "text": "Heat the oven to 220 °C (200 °C fan). Dimple the dough firmly, then scatter the potato over it in a loose, even layer, leaving a few gaps."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 28-32 min, until the potato is browned and crisp at the tips and the base is golden; the centre reads about 96 °C. Cool 15 min on a rack and cut into 12."
+    }
+  ],
+  "tips": [
+    "Squeeze the potato really hard; leftover water stops it crisping.",
+    "Grate the potato just before using so it does not turn grey.",
+    "Keep the layer loose and thin; packed shreds steam instead of browning."
+  ],
+  "storage": "Best warm on the day. Keep leftovers in the fridge for up to 2 days and re-crisp at 200 °C for 6-8 min; freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 232,
+    "protein_g": 5.8,
+    "carbs_g": 35.0,
+    "sugar_g": 0.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 7.5,
+    "satfat_g": 1.1,
+    "salt_g": 1.1,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Focaccia topped with crisp, golden shreds of potato and thyme leaves, cut into squares.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}
