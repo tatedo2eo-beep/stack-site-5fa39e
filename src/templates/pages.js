@@ -41,6 +41,21 @@ const crumbs = (ctx, items) => `<nav class="crumbs" aria-label="Breadcrumb"><a h
 const adw = (ctx, n) => `<div class="wrap adw">${ad(ctx, n)}</div>`;
 const each = f => ({ e: f('e'), b: f('b'), c: f('c'), d: f('d'), g: f('g') });
 
+// ---------------- cat tip ----------------
+// Labels: EN defaults below; a locale file can override any of them with a `catTip` object (same keys).
+const CAT_TIP = { tip: 'Cat tip', mistake: 'Common mistake', note: 'Useful note', more: 'More from the cat', alt: 'A cream-coloured cat in a pink apron, telling you a tip', locked: 'The cat\u2019s tips for this flavour are for Premium members.', cta: 'See Premium' };
+const CAT_ICON = '<svg viewBox="0 0 24 24" class="ic" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true" focusable="false"><path d="M4 20v-9l2-6 3 4h6l3-4 2 6v9z"/><circle cx="9" cy="14" r=".8"/><circle cx="15" cy="14" r=".8"/></svg>';
+const tipKind = x => /\b(mistake|don['\u2019]t|do not|avoid|never|careful|otherwise)\b/i.test(x) ? 'mistake' : /^(note|if |for a |you can|to make ahead|leftover)/i.test(x) ? 'note' : 'tip';
+function catTip(ctx, r, locked) {
+  const { t, u } = ctx, L = Object.assign({}, CAT_TIP, t.catTip || {});
+  const tips = (r.tips || []).filter(Boolean);
+  if (!locked && !tips.length) return '';
+  const ava = `<span class="cattip-ava" role="img" aria-label="${esc(L.alt)}"></span>`;
+  if (locked) return `<aside class="cattip is-locked" aria-label="${esc(t.ui.tips)}">${ava}<div class="cattip-bub"><h4 class="cattip-h" role="heading" aria-level="3">${CAT_ICON}<span>${esc(t.ui.tips)}</span><span class="cattip-kind">${LOCK}${esc(t.ui.premium)}</span></h4><p class="cattip-say">${esc(L.locked)}</p><p class="cattip-cta"><a href="${u('plans/')}">${esc(L.cta)} →</a></p></div></aside>`;
+  const [first, ...rest] = tips;
+  return `<aside class="cattip" aria-label="${esc(t.ui.tips)}">${ava}<div class="cattip-bub"><h4 class="cattip-h" role="heading" aria-level="3">${CAT_ICON}<span>${esc(t.ui.tips)}</span><span class="cattip-kind">${esc(L[tipKind(first)])}</span></h4><p class="cattip-say">${esc(first)}</p>${rest.length ? `<p class="cattip-more-h">${esc(L.more)}</p><ul class="cattip-more">${rest.map(x => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}</div></aside>`;
+}
+
 // ---------------- recipe page ----------------
 function recipeParts(ctx, r, related) {
   const { t, u } = ctx;
@@ -77,8 +92,12 @@ function recipeParts(ctx, r, related) {
   P.methTitle = t.ui.method;
   P.steps = `<div id="r-steps">${prem ? stepsLocked : stepsFull}</div>`;
   P.stepsList = r.steps;
-  const extraFull = `<div class="extra"><div class="xf"><h4 role="heading" aria-level="3">${t.ui.tips}</h4><ul class="lst">${r.tips.map(x => `<li>${esc(x)}</li>`).join('')}</ul></div><div class="xf"><h4 role="heading" aria-level="3">${t.ui.storage}</h4><p>${esc(r.storage)}</p></div></div>`;
-  P.extra = `<div id="r-extras">${prem ? '' : extraFull}</div>`;
+  // Cat tip (from Tami's cookbook): a cat narrates the recipe's tips in a speech bubble. Free pages get the tips;
+  // Premium pages get the cat with a members-only bubble and NO tip text anywhere in the HTML (not even in the preview template).
+  const storageXf = `<div class="xf"><h4 role="heading" aria-level="3">${t.ui.storage}</h4><p>${esc(r.storage)}</p></div>`;
+  const extraFull = `<div class="extra">${catTip(ctx, r, false)}${storageXf}</div>`;
+  const extraPremPreview = `<div class="extra">${catTip(ctx, r, true)}${storageXf}</div>`;
+  P.extra = `<div id="r-extras">${prem ? `<div class="extra">${catTip(ctx, r, true)}</div>` : extraFull}</div>`;
   P.misc = `<h4 role="heading" aria-level="3">${t.ui.equipment}</h4><div class="s"><ul class="lst">${r.equipment.map(e => `<li>${esc(e)}</li>`).join('')}</ul></div>`;
   // why it's healthy
   let why = '';
@@ -96,7 +115,7 @@ function recipeParts(ctx, r, related) {
   P.nut = `<section class="wrap rnut"><div>${P.nutTitle}${P.nutT}</div><div>${P.nutX}</div></section>`;
   P.flv = related.length ? `<section class="wrap flv"><h2>${t.ui.moreIn} ${esc(r.dish_title)}</h2>${grid(ctx, related)}</section>` : '';
   P.ad1 = adw(ctx, 1); P.ad2 = adw(ctx, 2);
-  P.premTpl = prem ? `<template id="premium-full"><div data-into="r-scale">${scalerFull}</div><div data-into="r-ing">${ingFull}</div><div data-into="r-steps">${stepsFull}</div><div data-into="r-extras">${extraFull}</div></template>` : '';
+  P.premTpl = prem ? `<template id="premium-full"><div data-into="r-scale">${scalerFull}</div><div data-into="r-ing">${ingFull}</div><div data-into="r-steps">${stepsFull}</div><div data-into="r-extras">${extraPremPreview}</div></template>` : '';
   P.cookBar = `<div class="cook-bar" id="cook-bar" hidden><button type="button" class="btn ghost" data-step="prev">${t.ui.prev}</button><span><b id="cook-pos"></b><small id="cook-status"></small></span><button type="button" class="btn" data-step="next">${t.ui.next}</button><button type="button" class="ghostbtn" data-step="exit" aria-label="${t.ui.exit}">✕</button></div>`;
   P.tail = P.premTpl + P.cookBar;
   return P;
