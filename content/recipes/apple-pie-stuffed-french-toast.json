@@ -1,0 +1,160 @@
+{
+  "slug": "apple-pie-stuffed-french-toast",
+  "title": "Apple Pie Stuffed French Toast",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "french-toast",
+  "dish_title": "French toast",
+  "flavour": "Cinnamon & apple",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "classic-french-toast-cinnamon-sugar-maple",
+  "changes_from_base": "Instead of slices soaked in a yolk-rich milk custard, cream cheese, apple butter and cinnamon are sandwiched between plain bread, dipped in a thin egg, flour and water batter and fried crisp.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Crisp golden sandwiches hiding a warm pocket of spiced cream cheese and apple, finished with a drizzle of maple syrup.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "medium bowl",
+    "butter knife or small spatula",
+    "shallow dish (about 23 cm)",
+    "whisk",
+    "large non-stick frying pan",
+    "fish slice",
+    "chopping board",
+    "bread knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 113,
+      "unit": "g",
+      "item": "full-fat cream cheese, softened"
+    },
+    {
+      "group": "Filling",
+      "qty": 42,
+      "unit": "g",
+      "item": "apple butter (thick spiced apple spread)",
+      "note": "about 3 tbsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 19,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1.5 tbsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices good white sandwich bread (about 280 g)"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Batter",
+      "qty": 240,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Batter",
+      "qty": 65,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "For cooking",
+      "qty": 56,
+      "unit": "g",
+      "item": "unsalted butter, for frying"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Beat together 113 g cream cheese, 3 tbsp apple butter, 1½ tbsp caster sugar and ¼ tsp cinnamon until creamy and well combined."
+    },
+    {
+      "title": "Sandwich",
+      "text": "Spread the filling over 4 of the 8 bread slices, then close each with a second slice and press the edges together."
+    },
+    {
+      "title": "Whisk",
+      "text": "In a shallow dish, whisk 1 egg with 240 ml cold water, 65 g plain flour and 1 tsp vanilla into a thin, smooth batter."
+    },
+    {
+      "title": "Fry first batch",
+      "text": "Melt half of the 56 g butter in a large non-stick pan over medium heat, dip two sandwiches quickly on both sides, letting excess batter drip off, then fry until deeply golden, about 3 min per side."
+    },
+    {
+      "title": "Fry second batch",
+      "text": "Melt the remaining butter in the pan and cook the last two sandwiches in the same way."
+    },
+    {
+      "title": "Serve",
+      "text": "Slice each sandwich into triangles and bring to the table straight away with 60 ml maple syrup."
+    }
+  ],
+  "tips": [
+    "Let the sandwiches sit for a minute off the heat before slicing, as the filling stays very hot.",
+    "Press the bread edges firmly together so the filling doesn't escape while frying.",
+    "Keep the pan at medium heat so the outside browns before the filling overheats.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best enjoyed straight away while crisp; if needed, keep covered in the fridge for up to a day and warm through in a pan before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 541,
+    "protein_g": 11.3,
+    "carbs_g": 68.5,
+    "sugar_g": 23.2,
+    "free_sugar_g": 20.9,
+    "fat_g": 24.8,
+    "satfat_g": 13.8,
+    "salt_g": 1.14,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A golden pan-fried sandwich sliced into triangles, oozing spiced cream cheese and apple filling and drizzled with maple syrup.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

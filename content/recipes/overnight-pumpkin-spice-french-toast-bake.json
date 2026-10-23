@@ -1,0 +1,177 @@
+{
+  "slug": "overnight-pumpkin-spice-french-toast-bake",
+  "title": "Overnight Pumpkin Spice French Toast Bake",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "french-toast",
+  "dish_title": "French toast",
+  "flavour": "Pumpkin spice",
+  "flavour_order": 8,
+  "access": "premium",
+  "base_recipe": "classic-french-toast-cinnamon-sugar-maple",
+  "changes_from_base": "A bake-ahead version: challah slices soak overnight in a milk custard spiced with a home-made pumpkin spice mix (no pumpkin), then bake under foil and finish uncovered.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Spiced bread baked overnight in a warming custard until puffed and golden, served with maple syrup and fresh raspberries.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "23 x 33 cm baking dish (metal, glass or ceramic)",
+    "large bowl",
+    "whisk",
+    "foil",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "For cooking",
+      "qty": 42,
+      "unit": "g",
+      "item": "unsalted butter, cut into small cubes, plus a little for the dish"
+    },
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Custard",
+      "qty": 50,
+      "unit": "g",
+      "item": "soft light brown sugar"
+    },
+    {
+      "group": "Pumpkin spice mix",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Pumpkin spice mix",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Pumpkin spice mix",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Pumpkin spice mix",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground allspice"
+    },
+    {
+      "group": "Pumpkin spice mix",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Custard",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 450,
+      "unit": "g",
+      "item": "challah or brioche loaf, in 2 cm slices"
+    },
+    {
+      "group": "To serve",
+      "qty": 80,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 125,
+      "unit": "g",
+      "item": "fresh raspberries or other berries, to serve (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Spice",
+      "text": "Combine 2 tsp cinnamon, 1 tsp ginger, ½ tsp nutmeg, ¼ tsp allspice and ¼ tsp cloves to make the spice blend."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk 480 ml milk with 4 eggs, 50 g brown sugar, the spice blend, 1 tsp vanilla and ½ tsp salt."
+    },
+    {
+      "title": "Layer",
+      "text": "Dip each slice of the 450 g challah or brioche loaf into the custard and arrange in slightly overlapping rows in a buttered 23 x 33 cm dish, then pour over the rest."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover with foil and refrigerate overnight."
+    },
+    {
+      "title": "Turn",
+      "text": "The next day, turn each slice so the wetter side faces up, dot with 42 g butter cubes, cover with foil and bake at 175 °C (155 °C fan) for 15 min."
+    },
+    {
+      "title": "Finish baking",
+      "text": "Uncover and bake for a further 15-20 min until lightly browned, slightly puffed and the centre reads 71 °C, tenting with foil if it browns too quickly."
+    },
+    {
+      "title": "Serve",
+      "text": "Cool briefly, then serve with 80 ml maple syrup and 125 g fresh raspberries."
+    }
+  ],
+  "tips": [
+    "Overlapping the slices evenly helps the bake set without any dry patches.",
+    "Tent with foil if the top is browning faster than the centre is cooking.",
+    "Preparing the custard the night before means less to do on the morning you serve it."
+  ],
+  "storage": "Covered in the fridge, leftovers keep for up to two days; reheat in the oven until warmed through. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 458,
+    "protein_g": 14.5,
+    "carbs_g": 65.4,
+    "sugar_g": 29.6,
+    "free_sugar_g": 24.4,
+    "fat_g": 15.4,
+    "satfat_g": 7.3,
+    "salt_g": 1.63,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Overlapping slices of baked spiced bread pudding, lightly browned and topped with fresh raspberries and maple syrup.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

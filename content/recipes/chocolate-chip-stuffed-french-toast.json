@@ -1,0 +1,154 @@
+{
+  "slug": "chocolate-chip-stuffed-french-toast",
+  "title": "Chocolate Chip Stuffed French Toast",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "french-toast",
+  "dish_title": "French toast",
+  "flavour": "Chocolate",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "classic-french-toast-cinnamon-sugar-maple",
+  "changes_from_base": "A sweet cream cheese and chocolate chip filling is sealed between two slices, dipped in a light egg, flour and water batter and fried until the chips just soften; no cinnamon custard.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Rich chocolate chip cream cheese tucked between crisp fried bread, finished with a maple syrup drizzle.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "medium bowl",
+    "butter knife or small spatula",
+    "shallow dish (about 23 cm)",
+    "whisk",
+    "large non-stick frying pan",
+    "fish slice",
+    "chopping board",
+    "bread knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 113,
+      "unit": "g",
+      "item": "full-fat cream cheese, softened"
+    },
+    {
+      "group": "Filling",
+      "qty": 19,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1.5 tbsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 45,
+      "unit": "g",
+      "item": "dark or semi-sweet chocolate chips"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices good white sandwich bread (about 280 g)"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Batter",
+      "qty": 240,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Batter",
+      "qty": 65,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "For cooking",
+      "qty": 56,
+      "unit": "g",
+      "item": "unsalted butter, for frying"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Stir filling",
+      "text": "Mix 113 g cream cheese with 1½ tbsp caster sugar and 45 g chocolate chips until the chips are evenly distributed."
+    },
+    {
+      "title": "Close sandwiches",
+      "text": "Spread the mixture over 4 bread slices and top with the remaining slices, pressing the edges firmly."
+    },
+    {
+      "title": "Thin batter",
+      "text": "Whisk 1 egg with 240 ml cold water, 65 g plain flour and 1 tsp vanilla in a shallow dish until lump-free."
+    },
+    {
+      "title": "Fry batch one",
+      "text": "Melt half of the 56 g butter in a large non-stick pan, dip two sandwiches in the batter and fry until the outside is a deep golden brown, about 3 min on each side."
+    },
+    {
+      "title": "Fry batch two",
+      "text": "Melt the rest of the butter and cook the remaining sandwiches the same way."
+    },
+    {
+      "title": "Cut and serve",
+      "text": "Slice into triangles and serve immediately with 60 ml maple syrup, while the chocolate is still soft."
+    }
+  ],
+  "tips": [
+    "The chocolate chips soften as they cook, so handle the hot sandwiches carefully when slicing.",
+    "Keep the pan at a steady medium heat so the chocolate melts without the crust burning.",
+    "Serve immediately for the best contrast between crisp toast and molten filling.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best served fresh while the chocolate is still soft; store any extra covered in the fridge for a day and warm through before eating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 590,
+    "protein_g": 11.8,
+    "carbs_g": 74.1,
+    "sugar_g": 28.2,
+    "free_sugar_g": 27.0,
+    "fat_g": 28.2,
+    "satfat_g": 15.8,
+    "salt_g": 1.14,
+    "fibre_g": 3.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Cut sandwich triangles with a golden fried crust and melted chocolate chip cream cheese filling, drizzled with maple syrup.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

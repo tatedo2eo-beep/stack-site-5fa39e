@@ -1,0 +1,159 @@
+{
+  "slug": "blueberry-cream-cheese-stuffed-french-toast",
+  "title": "Blueberry Cream Cheese Stuffed French Toast",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "french-toast",
+  "dish_title": "French toast",
+  "flavour": "Blueberry",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "classic-french-toast-cinnamon-sugar-maple",
+  "changes_from_base": "The bread is stuffed with a cream cheese and blueberry jam spread, then dipped in a thin egg, flour and water batter rather than a milk custard, so the outside fries up crisp.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Toasted sandwiches filled with a sweet blueberry and cream cheese mixture, golden outside and ready for a syrup drizzle.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "medium bowl",
+    "butter knife or small spatula",
+    "shallow dish (about 23 cm)",
+    "whisk",
+    "large non-stick frying pan",
+    "fish slice",
+    "chopping board",
+    "bread knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 113,
+      "unit": "g",
+      "item": "full-fat cream cheese, softened"
+    },
+    {
+      "group": "Filling",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "blueberry jam"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices good white sandwich bread (about 280 g)"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Batter",
+      "qty": 240,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Batter",
+      "qty": 65,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "For cooking",
+      "qty": 56,
+      "unit": "g",
+      "item": "unsalted butter, for frying"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix filling",
+      "text": "Stir together 113 g cream cheese, 1 tbsp caster sugar, 2 tbsp blueberry jam and ¼ tsp cinnamon until smooth."
+    },
+    {
+      "title": "Build",
+      "text": "Divide the mixture between 4 bread slices and top each with a second slice to close the sandwiches."
+    },
+    {
+      "title": "Batter",
+      "text": "Whisk 1 egg, 240 ml cold water, 65 g plain flour and 1 tsp vanilla in a shallow dish until the batter runs smoothly off a spoon."
+    },
+    {
+      "title": "First pan",
+      "text": "Melt half of the 56 g butter in a large non-stick pan, coat two sandwiches briefly in the batter and fry until the crust turns a deep gold, roughly 3 min a side."
+    },
+    {
+      "title": "Second pan",
+      "text": "Add the rest of the butter to the pan and fry the remaining sandwiches the same way."
+    },
+    {
+      "title": "Plate",
+      "text": "Cut each sandwich into triangles and serve while hot, with 60 ml maple syrup poured over."
+    }
+  ],
+  "tips": [
+    "Use jam straight from the jar so the filling spreads easily without extra stirring.",
+    "Fry in two batches so the pan stays hot enough to give a crisp crust each time.",
+    "Serve as soon as they're cooked, while the filling is still soft and warm.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Eat fresh for the best texture; leftovers can be covered and kept in the fridge for a day, then reheated gently in a pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 558,
+    "protein_g": 11.4,
+    "carbs_g": 72.4,
+    "sugar_g": 25.4,
+    "free_sugar_g": 24.3,
+    "fat_g": 24.8,
+    "satfat_g": 13.8,
+    "salt_g": 1.14,
+    "fibre_g": 2.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Triangles of golden fried sandwich revealing a purple-flecked blueberry cream cheese filling, drizzled with maple syrup.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

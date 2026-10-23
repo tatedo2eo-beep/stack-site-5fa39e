@@ -1,0 +1,161 @@
+{
+  "slug": "almond-croissant-french-toast-bake",
+  "title": "Almond Croissant French Toast Bake",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "french-toast",
+  "dish_title": "French toast",
+  "flavour": "Almond",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "classic-french-toast-cinnamon-sugar-maple",
+  "changes_from_base": "Torn shop-bought croissants replace sliced brioche, soaked in an almond-scented single cream custard under flaked almonds and baked as one dish rather than fried slice by slice.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Buttery croissant pieces baked in a rich almond custard until golden, finished with a dusting of icing sugar and maple syrup.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 50,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square baking dish",
+    "large bowl",
+    "whisk",
+    "instant-read thermometer",
+    "sieve"
+  ],
+  "ingredients": [
+    {
+      "group": "For cooking",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil, for the dish"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "plain croissants (about 450 g)"
+    },
+    {
+      "group": "Custard",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Custard",
+      "qty": 105,
+      "unit": "g",
+      "item": "soft light brown sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "almond flavouring"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "single cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 25,
+      "unit": "g",
+      "item": "flaked almonds"
+    },
+    {
+      "group": "To serve",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar, to dust",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Lightly oil a 20 cm square baking dish and tear 6 croissants into 5-6 pieces each, spreading them evenly inside."
+    },
+    {
+      "title": "Whisk",
+      "text": "Beat 4 eggs with 105 g brown sugar, 1 tsp vanilla, 1 tsp almond flavouring and ⅛ tsp salt, then whisk in 480 ml single cream."
+    },
+    {
+      "title": "Pour",
+      "text": "Pour the custard evenly over the croissant pieces and press lightly so they soak it up, then scatter over 25 g flaked almonds."
+    },
+    {
+      "title": "Rest",
+      "text": "Leave at room temperature for 30 min, or cover and chill overnight."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake at 175 °C (155 °C fan) for 45-50 min until the custard is set, the almonds are golden and the centre reads 71 °C."
+    },
+    {
+      "title": "Cool",
+      "text": "Leave in the dish for 15-25 min before serving."
+    },
+    {
+      "title": "Finish",
+      "text": "Dust with 1 tbsp icing sugar through a sieve and serve in scoops with 60 ml maple syrup."
+    }
+  ],
+  "tips": [
+    "If soaking overnight, bake straight from the fridge and add about 5 min to the time.",
+    "Use a thermometer to check the centre reaches 71 °C before taking it out of the oven.",
+    "Let the bake settle for the full resting time so it holds together when scooped."
+  ],
+  "storage": "Keeps covered in the fridge for a couple of days; warm individual portions through in the oven before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 626,
+    "protein_g": 12.4,
+    "carbs_g": 59.7,
+    "sugar_g": 30.2,
+    "free_sugar_g": 29.7,
+    "fat_g": 38.1,
+    "satfat_g": 20.7,
+    "salt_g": 1.1,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A baked square of torn croissant pieces in golden set custard, scattered with toasted almonds and dusted with icing sugar.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

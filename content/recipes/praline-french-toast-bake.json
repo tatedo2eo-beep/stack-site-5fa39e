@@ -1,0 +1,170 @@
+{
+  "slug": "praline-french-toast-bake",
+  "title": "Overnight Praline French Toast Bake",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "french-toast",
+  "dish_title": "French toast",
+  "flavour": "Praline",
+  "flavour_order": 7,
+  "access": "premium",
+  "base_recipe": "classic-french-toast-cinnamon-sugar-maple",
+  "changes_from_base": "Bread slices sit on a buttery brown sugar and honey glaze, soak overnight in a cream custard and bake as one dish; each piece is turned over so the praline glaze ends up on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Slices of bread baked over a sticky brown sugar glaze until golden and bubbling, finished with toasted pecans.",
+  "servings": 9,
+  "prep_min": 15,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "23 x 33 cm baking dish",
+    "small saucepan",
+    "wooden spoon",
+    "large jug or bowl",
+    "whisk",
+    "foil or cling film",
+    "instant-read thermometer",
+    "fish slice"
+  ],
+  "ingredients": [
+    {
+      "group": "Praline glaze",
+      "qty": 113,
+      "unit": "g",
+      "item": "unsalted butter, cold"
+    },
+    {
+      "group": "Praline glaze",
+      "qty": 213,
+      "unit": "g",
+      "item": "soft light or dark brown sugar, packed"
+    },
+    {
+      "group": "Praline glaze",
+      "qty": 42,
+      "unit": "g",
+      "item": "honey (or maple syrup)",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "pc",
+      "item": "French or Italian loaf, sliced 1.3 cm thick, enough to cover the dish in one layer (about 450 g)"
+    },
+    {
+      "group": "Custard",
+      "qty": 340,
+      "unit": "ml",
+      "item": "whipping cream (or whole milk for a lighter custard)"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Custard",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "To serve",
+      "qty": 47,
+      "unit": "g",
+      "item": "pecans, toasted and finely chopped (optional)"
+    },
+    {
+      "group": "For cooking",
+      "qty": 5,
+      "unit": "g",
+      "item": "butter, for the dish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Glaze",
+      "text": "Melt 113 g butter in a small pan, stir in 213 g brown sugar and 2 tbsp honey, and simmer until the sugar dissolves, then pour into a buttered 23 x 33 cm dish."
+    },
+    {
+      "title": "Layer",
+      "text": "Lay enough 1.3 cm thick loaf slices over the glaze to cover the dish in a single layer."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk 340 ml whipping cream with 5 eggs, 2 tsp vanilla and ¼ tsp salt, then pour over the bread, pressing it down."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and refrigerate overnight, up to 24 h."
+    },
+    {
+      "title": "Bake",
+      "text": "Sprinkle ¼ tsp nutmeg and ¼ tsp cinnamon over the top, then bake at 175 °C (155 °C fan) for 40-45 min until bubbling and the centre reads 71 °C."
+    },
+    {
+      "title": "Rest",
+      "text": "Leave to settle for 10-15 min."
+    },
+    {
+      "title": "Serve",
+      "text": "Turn each slice over so the syrupy side faces up and scatter with 47 g toasted chopped pecans."
+    }
+  ],
+  "tips": [
+    "A crusty loaf gives more chew, while soft sandwich bread makes a softer bake.",
+    "Day-old bread works well here, soaking up the custard without falling apart.",
+    "Turning the slices over before serving shows off the sticky praline glaze underneath."
+  ],
+  "storage": "Best served the day it's baked; cover and keep in the fridge for up to two days, reheating in the oven to re-crisp the top. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 542,
+    "protein_g": 10.6,
+    "carbs_g": 55.2,
+    "sugar_g": 30.6,
+    "free_sugar_g": 29.2,
+    "fat_g": 31.9,
+    "satfat_g": 16.9,
+    "salt_g": 1.06,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A baking dish of custard-soaked bread baked in a sticky brown sugar glaze, topped with toasted pecans.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

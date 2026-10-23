@@ -1,0 +1,160 @@
+{
+  "slug": "apricot-almond-stuffed-french-toast",
+  "title": "Apricot and Almond Stuffed French Toast",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "french-toast",
+  "dish_title": "French toast",
+  "flavour": "Apricot",
+  "flavour_order": 5,
+  "access": "premium",
+  "base_recipe": "classic-french-toast-cinnamon-sugar-maple",
+  "changes_from_base": "Cream cheese beaten with apricot jam and a drop of almond flavouring fills each sandwich; the bread goes through a thin egg, flour and water batter instead of the cinnamon milk custard.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Golden fried sandwiches filled with a fruity apricot cream cheese and a hint of almond, lovely with a drizzle of syrup.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "medium bowl",
+    "butter knife or small spatula",
+    "shallow dish (about 23 cm)",
+    "whisk",
+    "large non-stick frying pan",
+    "fish slice",
+    "chopping board",
+    "bread knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 113,
+      "unit": "g",
+      "item": "full-fat cream cheese, softened"
+    },
+    {
+      "group": "Filling",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "apricot jam"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "almond flavouring"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices good white sandwich bread (about 280 g)"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Batter",
+      "qty": 240,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Batter",
+      "qty": 65,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "For cooking",
+      "qty": 56,
+      "unit": "g",
+      "item": "unsalted butter, for frying"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Combine filling",
+      "text": "Beat 113 g cream cheese with 1 tbsp caster sugar, 2 tbsp apricot jam and ⅛ tsp almond flavouring until completely smooth."
+    },
+    {
+      "title": "Layer sandwiches",
+      "text": "Spread the filling onto 4 slices of bread and cover each with a second slice, pressing to seal."
+    },
+    {
+      "title": "Make batter",
+      "text": "Whisk 1 egg, 240 ml cold water, 65 g plain flour and 1 tsp vanilla together in a shallow dish."
+    },
+    {
+      "title": "Cook",
+      "text": "Melt half of the 56 g butter in a large non-stick pan, dunk two sandwiches briefly so the batter clings lightly, and fry until golden on both sides, around 3 min per side."
+    },
+    {
+      "title": "Finish cooking",
+      "text": "Melt the remaining butter and fry the other two sandwiches in the same way."
+    },
+    {
+      "title": "Serve warm",
+      "text": "Cut into triangles and serve at once, drizzled with 60 ml maple syrup."
+    }
+  ],
+  "tips": [
+    "Check the almond flavouring label if cooking for anyone with a nut allergy.",
+    "Dip the sandwiches quickly rather than soaking them, so the bread doesn't turn soggy.",
+    "A steady, warm pan keeps the crust crisp while the filling softens inside.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Enjoy right away for the crispest result; cover and refrigerate leftovers for up to a day, then reheat gently in a pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 555,
+    "protein_g": 11.4,
+    "carbs_g": 71.9,
+    "sugar_g": 24.9,
+    "free_sugar_g": 23.8,
+    "fat_g": 24.8,
+    "satfat_g": 13.8,
+    "salt_g": 1.14,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Fried sandwich triangles with a golden crust and a soft apricot and almond cream cheese centre, served with maple syrup.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

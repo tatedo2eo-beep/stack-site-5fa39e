@@ -1,0 +1,195 @@
+{
+  "slug": "ipo-coconut-bread-pain-perdu",
+  "title": "Ipo Pain Perdu (Coconut Bread French Toast)",
+  "category": "breakfast",
+  "cuisine": "French Polynesian",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "french-toast",
+  "dish_title": "French toast",
+  "flavour": "Coconut",
+  "flavour_order": 10,
+  "access": "premium",
+  "base_recipe": "classic-french-toast-cinnamon-sugar-maple",
+  "changes_from_base": "The bread is made first: a quick yeasted coconut-milk loaf (ipo) is steamed or baked, then sliced and dipped in coconut milk and beaten egg in two stages and fried in butter, with tropical fruit and coconut cream on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Homemade coconut bread fried until golden and served with tropical fruit, coconut cream and toasted macadamias.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "11 x 22 cm loaf tin",
+    "steamer large enough for the tin (or the oven)",
+    "skewer",
+    "wire rack",
+    "2 shallow bowls",
+    "large frying pan",
+    "fish slice",
+    "bread knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Ipo (coconut bread)",
+      "qty": 250,
+      "unit": "g",
+      "item": "plain flour, plus a little for your hands"
+    },
+    {
+      "group": "Ipo (coconut bread)",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Ipo (coconut bread)",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "unsweetened desiccated coconut"
+    },
+    {
+      "group": "Ipo (coconut bread)",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "instant dried yeast"
+    },
+    {
+      "group": "Ipo (coconut bread)",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Ipo (coconut bread)",
+      "qty": 175,
+      "unit": "ml",
+      "item": "coconut milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 150,
+      "unit": "ml",
+      "item": "coconut milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, beaten"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "vanilla (optional)"
+    },
+    {
+      "group": "For cooking",
+      "qty": 57,
+      "unit": "g",
+      "item": "butter, for frying"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "ripe banana, sliced"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "passion fruit, halved"
+    },
+    {
+      "group": "To serve",
+      "qty": 42,
+      "unit": "g",
+      "item": "honey or maple syrup",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "coconut cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 30,
+      "unit": "g",
+      "item": "macadamia nuts, toasted and chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "g",
+      "item": "fresh mint leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Combine 250 g flour, 50 g caster sugar, 3 tbsp desiccated coconut, 1 tbsp dried yeast, 1 tsp baking powder and 175 ml coconut milk by hand until it forms a ball."
+    },
+    {
+      "title": "Shape",
+      "text": "Press the dough into a rough log inside an 11 x 22 cm loaf tin."
+    },
+    {
+      "title": "Cook",
+      "text": "Steam for 30 min until a skewer comes out clean, or bake at 175 °C (155 °C fan) for 40-45 min until risen and golden."
+    },
+    {
+      "title": "Cool",
+      "text": "Rest in the tin for 5 min, then turn out onto a rack to cool fully before slicing into 8 pieces 1.3 cm thick."
+    },
+    {
+      "title": "Dunk",
+      "text": "Dip each slice into 150 ml coconut milk mixed with ½ tsp vanilla, coating but not soaking it, then into 2 beaten eggs."
+    },
+    {
+      "title": "Fry",
+      "text": "Melt 57 g butter in a large pan over medium heat and fry the slices in batches until golden, 2-3 min per side."
+    },
+    {
+      "title": "Serve",
+      "text": "Plate with sliced banana, halved passion fruit, 2 tbsp honey, 60 ml coconut cream, 30 g toasted macadamia nuts and fresh mint leaves."
+    }
+  ],
+  "tips": [
+    "Coat the bread quickly in the coconut milk rather than soaking it, so it fries up firm rather than soggy.",
+    "Leftover ipo loaf can be toasted instead of fried for a quicker breakfast.",
+    "Make the ipo loaf ahead, as it keeps well wrapped in the fridge for a few days.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "The coconut bread keeps wrapped in the fridge for up to 3 days and can be toasted; the fried slices are best eaten fresh. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 783,
+    "protein_g": 14.4,
+    "carbs_g": 85.5,
+    "sugar_g": 26.7,
+    "free_sugar_g": 21.2,
+    "fat_g": 45.5,
+    "satfat_g": 31.3,
+    "salt_g": 0.45,
+    "fibre_g": 5.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden fried slices of coconut bread served with banana, passion fruit, coconut cream and toasted macadamia nuts.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

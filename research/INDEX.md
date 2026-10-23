@@ -14,6 +14,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | akara-black-eyed-pea-fritters-pepper-sauce | Akara | Classic | 2 | 4 |
 | alfajores | Alfajores | Classic | 2 | 4 |
 | aligot-cheesy-mashed-potatoes | Aligot | Classic | 2 | 4 |
+| almond-croissant-french-toast-bake | French toast | Almond | 1 | 3 |
 | almond-flour-brownies | Brownie (fudgy or cakey) | Almond | 1 | 3 |
 | almond-hazelnut-dacquoise-coffee-buttercream | Dacquoise | Classic | 2 | 4 |
 | almond-marzipan-fruits | Pâte d'amande/marzipan | Classic | 1 | 3 |
@@ -35,9 +36,11 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | apple-grape-walnut-waldorf-salad | Waldorf | Classic | 3 | 5 |
 | apple-oat-crumble | Crumble | Classic | 2 | 4 |
 | apple-pie-pancakes-maple-cream | Pancakes (American) | Apple | 1 | 3 |
+| apple-pie-stuffed-french-toast | French toast | Cinnamon & apple | 1 | 3 |
 | apple-raspberry-waffles | Waffles (Belgian) | Apple & raspberry | 1 | 3 |
 | apple-rose-tart-rosewater-glaze | Fruit tart (crème pâtissière) | Rose | 1 | 3 |
 | apple-rosemary-tarte-tatin | Tarte Tatin | Rosemary | 1 | 3 |
+| apricot-almond-stuffed-french-toast | French toast | Apricot | 1 | 3 |
 | apricot-blueberry-free-form-tart | Fruit tart (crème pâtissière) | Apricot | 1 | 3 |
 | apricot-brown-sugar-frangipane-tart | Frangipane | Apricot | 1 | 3 |
 | apricot-chicken-salad-tarragon-almonds | Chicken salad | Apricot | 2 | 4 |
@@ -115,6 +118,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | blood-orange-zest-sorbet | Sorbet | Blood orange | 1 | 3 |
 | blue-cheese-chive-popovers-blue-cheese-butter | Popovers | Blue cheese & chive | 1 | 3 |
 | blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
+| blueberry-cream-cheese-stuffed-french-toast | French toast | Blueberry | 1 | 3 |
 | blueberry-cream-ice-pops | Popsicles | Blueberry | 1 | 3 |
 | blueberry-custard-ice-cream | Custard-base (French) | Blueberry | 1 | 3 |
 | blueberry-ginger-sorbet | Sorbet | Blueberry & ginger | 1 | 3 |
@@ -142,6 +146,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | brown-butter-mashed-potatoes | Mashed | Brown butter | 2 | 4 |
 | brown-butter-pecan-custard-ice-cream | Custard-base (French) | Pecan & brown butter | 1 | 3 |
 | brown-sugar-bubble-tea-tapioca-pearls | Milk tea/bubble tea | Classic | 1 | 3 |
+| brown-sugar-sheet-tray-french-toast | French toast | Brown sugar | 1 | 3 |
 | brown-sugar-shortbread | Shortbread | Brown sugar | 1 | 5 |
 | bubble-and-squeak-savoy-cabbage | Bubble and squeak | Classic | 2 | 4 |
 | buckwheat-blueberry-waffles | Waffles (Belgian) | Blueberry | 1 | 3 |
@@ -280,6 +285,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chocolate-chess-pie | Chess | Chocolate | 1 | 3 |
 | chocolate-chip-coconut-pancakes | Pancakes (American) | Coconut | 1 | 3 |
 | chocolate-chip-cookie-ice-cream-pie | Ice-cream cake | Chocolate | 1 | 3 |
+| chocolate-chip-stuffed-french-toast | French toast | Chocolate | 1 | 3 |
 | chocolate-chip-toasted-coconut-muffins | American muffin (blueberry style, muffin method) | Chocolate | 1 | 3 |
 | chocolate-cocoa-dusted-marshmallows | Marshmallows | Chocolate | 2 | 4 |
 | chocolate-cookie-crumb-custard-ice-cream | Custard-base (French) | Chocolate sandwich cookie | 1 | 3 |
@@ -716,6 +722,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | imam-bayildi-braised-stuffed-aubergines | Imam bayildi | Classic | 2 | 4 |
 | individual-almond-plum-tarts | Fruit tart (crème pâtissière) | Almond | 1 | 3 |
 | indonesian-sweet-soy-fried-rice-chicken-prawns-fried-egg | Nasi goreng | Classic | 3 | 5 |
+| ipo-coconut-bread-pain-perdu | French toast | Coconut | 1 | 3 |
 | irish-lamb-stew-potatoes-carrots | Irish stew | Classic | 3 | 5 |
 | italian-bean-vegetable-soup-small-pasta-basil | Minestrone | Classic | 3 | 5 |
 | italian-parsley-caper-salsa-verde | Salsa verde | Classic | 1 | 3 |
@@ -790,6 +797,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-garlic-tahini-sauce | Tahini sauce | Lemon-garlic | 2 | 4 |
 | lemon-herb-quinoa-pilaf | Quinoa | Lemon-herb | 1 | 3 |
 | lemon-herb-vinaigrette | Vinaigrette | Lemon-herb | 2 | 4 |
+| lemon-mascarpone-french-toast | French toast | Lemon & mascarpone | 1 | 3 |
 | lemon-mascarpone-gelato | Gelato | Lemon & mascarpone | 1 | 3 |
 | lemon-meringue-icebox-cake | Ice-cream cake | Lemon | 1 | 3 |
 | lemon-meringue-pie | Meringue pie (lemon) | Classic | 2 | 4 |
@@ -936,6 +944,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | oven-finished-frittata-red-pepper-spinach | Frittata | Classic | 3 | 5 |
 | oven-finished-frittata-spinach-feta | Frittata | Spinach-feta | 2 | 4 |
 | overnight-brown-butter-yeast-waffles | Waffles (Belgian) | Brown butter | 1 | 3 |
+| overnight-pumpkin-spice-french-toast-bake | French toast | Pumpkin spice | 1 | 3 |
 | overnight-starter-rosemary-focaccia | Focaccia | Rosemary | 1 | 3 |
 | oyster-po-boy-cornmeal-fried-oysters | Po' boy | Oyster | 2 | 4 |
 | paczki-polish-jam-doughnuts | Paczki | Classic | 1 | 3 |
@@ -1084,6 +1093,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pound-cake | Pound cake | Classic | 2 | 4 |
 | pour-over-coffee-paper-filter-cone | Pour-over | Classic | 1 | 3 |
 | poutine-fries-curds-gravy | Poutine | Classic | 3 | 5 |
+| praline-french-toast-bake | French toast | Praline | 1 | 3 |
 | prawn-fried-rice-egg-peas-sweetcorn | Fried rice | Shrimp | 3 | 5 |
 | pressed-pesto-mozzarella-tomato-panini | Panini | Classic | 2 | 4 |
 | pretzel-crust-focaccia | Focaccia | Pretzel | 1 | 3 |

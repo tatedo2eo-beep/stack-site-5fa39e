@@ -1,0 +1,233 @@
+{
+  "slug": "lemon-mascarpone-french-toast",
+  "title": "Lemon Mascarpone French Toast with Strawberries",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "french-toast",
+  "dish_title": "French toast",
+  "flavour": "Lemon & mascarpone",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "classic-french-toast-cinnamon-sugar-maple",
+  "changes_from_base": "The custard is sweetened with maple syrup, and each plate gets a whipped lemon mascarpone cream and lemony macerated strawberries with toasted nuts instead of cinnamon sugar.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Fluffy brioche fried until golden and topped with a tangy lemon mascarpone cream, sweet strawberries and toasted nuts.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "2 medium bowls",
+    "whisk",
+    "shallow dish",
+    "wire rack set in a rimmed baking tray",
+    "30 cm non-stick frying pan",
+    "fish slice",
+    "foil",
+    "fine grater"
+  ],
+  "ingredients": [
+    {
+      "group": "Strawberries",
+      "qty": 450,
+      "unit": "g",
+      "item": "strawberries, hulled and quartered (eighths if large)"
+    },
+    {
+      "group": "Strawberries",
+      "qty": 38,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 3 tbsp"
+    },
+    {
+      "group": "Strawberries",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Strawberries",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Strawberries",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Strawberries",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Lemon cream",
+      "qty": 225,
+      "unit": "g",
+      "item": "mascarpone"
+    },
+    {
+      "group": "Lemon cream",
+      "qty": 60,
+      "unit": "g",
+      "item": "whole-milk Greek-style yoghurt"
+    },
+    {
+      "group": "Lemon cream",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Lemon cream",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Lemon cream",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Lemon cream",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Custard",
+      "qty": 28,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Custard",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices brioche or challah, 2.5 cm thick (about 450 g)"
+    },
+    {
+      "group": "For cooking",
+      "qty": 42,
+      "unit": "g",
+      "item": "unsalted butter, for frying"
+    },
+    {
+      "group": "To serve",
+      "qty": 25,
+      "unit": "g",
+      "item": "flaked almonds (or pistachios or hazelnuts), toasted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Macerate",
+      "text": "Stir 450 g quartered strawberries with 3 tbsp caster sugar, 1 tsp lemon zest, 1 tbsp lemon juice, 1 tsp vanilla and ⅛ tsp salt, then leave at room temperature for 30 min, stirring once."
+    },
+    {
+      "title": "Whip",
+      "text": "Whisk 225 g mascarpone with 60 g yoghurt, 3 tbsp maple syrup, 1 tbsp lemon zest, 1 tbsp lemon juice and ⅛ tsp salt until smooth, then chill."
+    },
+    {
+      "title": "Whisk custard",
+      "text": "Beat 3 eggs with 240 ml milk, 2 tbsp maple syrup, 28 g melted butter, 1 tsp vanilla, ¼ tsp cinnamon and ¼ tsp salt in a shallow dish."
+    },
+    {
+      "title": "Soak",
+      "text": "Dip each of the 8 brioche or challah slices into the custard for 30 s per side, then drain on a wire rack for 1 min."
+    },
+    {
+      "title": "Fry",
+      "text": "Melt half of the 42 g butter in a large non-stick pan over medium-low heat and cook 4 slices until deep golden, 3-4 min per side, lowering the heat if they colour too fast."
+    },
+    {
+      "title": "Keep warm",
+      "text": "Cover the cooked slices with foil while melting the remaining butter and frying the last 4 slices."
+    },
+    {
+      "title": "Serve",
+      "text": "Plate 2 slices per person topped with the lemon cream, macerated strawberries and their juice, and 25 g toasted flaked almonds."
+    }
+  ],
+  "tips": [
+    "Press the centre of a slice gently; it's ready when it springs back and no longer feels wet.",
+    "Lower the heat if the outside browns before the inside is cooked through.",
+    "Let the strawberries sit the full 30 minutes so their juices form a light syrup.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best eaten fresh and warm; keep any leftover lemon cream covered in the fridge for a day and the cooked toast loosely covered for a few hours. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 964,
+    "protein_g": 23.1,
+    "carbs_g": 100.0,
+    "sugar_g": 45.0,
+    "free_sugar_g": 33.2,
+    "fat_g": 52.9,
+    "satfat_g": 29.7,
+    "salt_g": 2.41,
+    "fibre_g": 5.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden fried brioche slices topped with lemon mascarpone cream, macerated strawberries and toasted almonds.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

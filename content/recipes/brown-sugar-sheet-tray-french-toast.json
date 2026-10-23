@@ -1,0 +1,142 @@
+{
+  "slug": "brown-sugar-sheet-tray-french-toast",
+  "title": "Brown Sugar Sheet-Tray French Toast",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "french-toast",
+  "dish_title": "French toast",
+  "flavour": "Brown sugar",
+  "flavour_order": 9,
+  "access": "premium",
+  "base_recipe": "classic-french-toast-cinnamon-sugar-maple",
+  "changes_from_base": "Thick challah soaks for hours in a simple cinnamon custard, then bakes on a tray spread with dark brown sugar and melted butter, which turns into a crunchy caramel crust instead of a cinnamon-sugar coating.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A whole tray of custard-soaked challah baked over a bubbling brown sugar glaze until golden and crisp, straight from the oven.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "2 rimmed baking trays (one for soaking, one for baking)",
+    "large bowl",
+    "whisk",
+    "offset spatula",
+    "fish slice",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Custard",
+      "qty": 520,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Custard",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 450,
+      "unit": "g",
+      "item": "challah loaf, in 2.5 cm slices"
+    },
+    {
+      "group": "Brown sugar layer",
+      "qty": 210,
+      "unit": "g",
+      "item": "dark brown sugar, packed"
+    },
+    {
+      "group": "Brown sugar layer",
+      "qty": 113,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk",
+      "text": "Beat 6 eggs well, then whisk in 520 ml milk, 2 tsp vanilla, ½ tsp cinnamon and ½ tsp salt."
+    },
+    {
+      "title": "Soak",
+      "text": "Lay the 450 g challah slices on a rimmed tray, pour over the custard and turn to coat both sides."
+    },
+    {
+      "title": "Chill",
+      "text": "Refrigerate for 4 h or overnight, turning once halfway through."
+    },
+    {
+      "title": "Mix",
+      "text": "Spread 210 g brown sugar mixed with 113 g melted butter evenly over a second rimmed tray."
+    },
+    {
+      "title": "Transfer",
+      "text": "Lift the soaked bread onto the sugar layer, leaving behind any spare custard."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake at 190 °C (170 °C fan) for 27-35 min until puffed and golden on top, with the sugar bubbling and the centre reading 71 °C."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve immediately crunchy side up, spooning over the syrup left on the tray."
+    }
+  ],
+  "tips": [
+    "Turning the bread halfway through chilling helps both sides soak up the custard evenly.",
+    "Lift the slices carefully, as the sugar layer underneath is extremely hot straight from the oven.",
+    "Spoon the syrup left on the tray back over each slice for extra sweetness."
+  ],
+  "storage": "Serve immediately while hot for the crispest sugar crust; leftovers can be covered and kept in the fridge for a day, though the crust will soften. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 608,
+    "protein_g": 16.6,
+    "carbs_g": 76.9,
+    "sugar_g": 44.3,
+    "free_sugar_g": 39.6,
+    "fat_g": 25.9,
+    "satfat_g": 13.5,
+    "salt_g": 1.71,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A tray of custard-soaked challah slices baked over a bubbling brown sugar glaze, golden and crisp on top.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}
