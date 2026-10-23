@@ -10,30 +10,6 @@ Dish: Cupcakes / flavour: Red velvet. Private file, not published.
 > Written as an extra flavour for the cakes chapter. Quantities are my own; the core method matches the locked-list sources listed above; nothing copied.
 
 ## Own cooking judgment
-- H
-- a
-- l
-- a
-- l
-- :
--  
-- h
-- a
-- l
-- a
-- l
-- -
-- c
-- e
-- r
-- t
-- i
-- f
-- i
-- e
-- d
-- ,
--  
 - c
 - a
 - r

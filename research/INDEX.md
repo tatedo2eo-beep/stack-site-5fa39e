@@ -238,6 +238,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | ginger-chicken-rice-porridge-crispy-garlic-egg | Arroz caldo | Classic | 2 | 4 |
 | gingerbread-cookies | Gingerbread | Classic | 3 | 5 |
 | glossy-braided-honey-challah | Challah | Classic | 3 | 5 |
+| glossy-five-point-kaiser-rolls | Kaiser roll | Classic | 2 | 4 |
 | gnocchi-brown-butter-sage | Gnocchi | Brown butter-sage | 3 | 5 |
 | gnocchi-cherry-tomato | Gnocchi | Tomato | 3 | 5 |
 | gnocchi-pesto | Gnocchi | Pesto | 3 | 5 |
@@ -352,6 +353,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mushroom-lasagne | Sheets/baked (lasagne) | Mushroom | 3 | 5 |
 | mushroom-poblano-quesadillas-oregano-queso-fresco | Quesadilla | Mushroom | 3 | 5 |
 | naengmyeon | Naengmyeon | Classic | 2 | 4 |
+| nan-e-barbari-sesame-ridged-flatbread | Barbari bread | Classic | 2 | 4 |
 | nanaimo-bars | Nanaimo bar | Classic | 3 | 5 |
 | nashville-hot-chicken | Nashville hot chicken | Classic | 2 | 5 |
 | neapolitan-style-margherita-pizza-tomato-mozzarella-basil | Neapolitan | Classic | 5 | 7 |
@@ -445,6 +447,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pumpkin-soup-caramelised-onion-sage | Pumpkin soup | Classic | 2 | 4 |
 | pumpkin-whoopie-pies | Whoopie pie | Pumpkin | 2 | 4 |
 | rainbow-fruit-salad-lime-mint | Fruit salad | Classic | 3 | 5 |
+| raspberry-cream-cheese-danish-pastries | Danish | Classic | 4 | 6 |
 | raspberry-thumbprint-cookies | Thumbprints | Raspberry | 3 | 5 |
 | red-chile-chicken-enchiladas-cheddar-crema | Enchilada | Classic | 2 | 4 |
 | red-lentil-soup | Lentil | Classic | 2 | 3 |
@@ -511,6 +514,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | soft-scrambled-eggs-butter-chives-toast | Scrambled | Classic | 3 | 5 |
 | soft-steamed-rice-lentil-idli-coconut-chutney | Idli | Classic | 2 | 4 |
 | soft-white-sandwich-loaf-butter-milk | White sandwich loaf | Classic | 2 | 4 |
+| soft-yoghurt-pan-flatbreads-olive-oil | Flatbreads | Classic | 2 | 4 |
 | som-tam-green-papaya-salad | Som tam | Classic | 3 | 5 |
 | soto-ayam-indonesian-chicken-turmeric-soup | Soto | Classic | 2 | 4 |
 | sour-cream-coffee-cake | Coffee cake | Classic | 3 | 5 |
@@ -550,6 +554,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | stuffed-corn-griddle-cakes-melted-cheese-cabbage-relish | Pupusa | Cheese | 4 | 6 |
 | stuffed-corn-griddle-cakes-refried-beans-cheese-cabbage-relish | Pupusa | Bean-cheese | 3 | 5 |
 | swedish-meatballs-cream-gravy | Meatballs | Swedish (allspice-nutmeg) | 3 | 5 |
+| sweet-cheese-danish-pastries-lemon | Danish | Cheese | 4 | 6 |
 | sweet-cheese-dumplings-sour-cream-berries | Pierogi | Sweet cheese | 3 | 5 |
 | sweetcorn-crusted-beef-chicken-bake-olives-egg | Pastel de choclo | Classic | 3 | 5 |
 | swirled-chocolate-babka-syrup-glaze | Babka | Classic | 3 | 5 |

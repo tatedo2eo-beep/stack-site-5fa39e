@@ -1,0 +1,143 @@
+{
+  "slug": "glossy-five-point-kaiser-rolls",
+  "title": "Glossy Five-Point Kaiser Rolls",
+  "category": "snacks-sides",
+  "cuisine": "Austrian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "kaiser-roll",
+  "dish_title": "Kaiser roll",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Crusty, glossy bread rolls knotted into a five-point rosette pattern, with a crisp crust and a soft, light crumb inside.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "stand mixer with dough hook (or large bowl)",
+    "cling film",
+    "digital scales",
+    "2 baking trays lined with baking paper",
+    "kaiser roll stamp (optional)",
+    "pastry brush",
+    "instant-read thermometer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 10,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 25,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Dough",
+      "qty": 270,
+      "unit": "ml",
+      "item": "lukewarm water"
+    },
+    {
+      "group": "Egg wash",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, beaten with 1 tbsp water"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix and knead",
+      "text": "Combine the flour, yeast, sugar and salt, then add the egg, butter and water and knead for 8-10 minutes until the dough is smooth and elastic. You want it firm enough to hold a crisp pattern once knotted, rather than soft and slack."
+    },
+    {
+      "title": "First rise",
+      "text": "Cover the dough and leave it somewhere warm for 1-1½ hours, until it has doubled in size. This rise builds the dough's structure and flavour before it's divided and shaped."
+    },
+    {
+      "title": "Divide and rest",
+      "text": "Tip the dough out and divide it into 8 pieces of about 105g each, then cover with cling film and rest for 10 minutes. Resting relaxes the dough so it rolls into ropes smoothly, without tearing or snapping back."
+    },
+    {
+      "title": "Knot the rolls",
+      "text": "Roll each piece into a 30cm rope, tie a loose single knot leaving one long end free, then wrap that end over and through the centre and tuck the short end up through the middle from underneath to form a five-section rosette. (Or roll into tight balls and press a kaiser stamp down almost to the base.) This knotting creates the layered, star-like pattern that opens up fully as the rolls prove and bake."
+    },
+    {
+      "title": "Prove",
+      "text": "Set the rolls patterned side down on the trays, cover and prove for 30 minutes, then turn them patterned side up and prove for a further 15-20 minutes, until puffy and a fingertip pressed in springs back slowly. Proving face-down first stops the pattern closing up before it gets the chance to set."
+    },
+    {
+      "title": "Bake",
+      "text": "Heat the oven to 220°C (200°C fan), brush the rolls with egg wash, and add steam by tipping a few ice cubes into a hot tray below or misting the oven floor. Bake for 16-20 minutes until deep golden brown and glossy with a hollow sound when the base is tapped; a thermometer in the centre should read 93-96°C. The steam keeps the crust soft just long enough for the rolls to expand fully before it sets crisp."
+    },
+    {
+      "title": "Cool before splitting",
+      "text": "Leave the rolls to cool on a wire rack for at least 20 minutes before splitting them open. Cutting in too soon lets steam escape all at once and can leave the crumb gummy rather than light."
+    }
+  ],
+  "tips": [
+    "Make sure the dough is firm enough to hold its shape before knotting; a slack, overly wet dough won't keep the rosette pattern crisp.",
+    "Prove patterned side down first - skipping this step is a common mistake that lets the pattern close up before baking.",
+    "Add steam in the oven, either with ice cubes on a hot tray or by misting, so the crust stays soft long enough for the rolls to expand fully.",
+    "Check for a hollow sound when you tap the base, alongside the 93-96°C internal temperature, to confirm they're fully baked.",
+    "Let the rolls cool for at least 20 minutes before splitting, so the crumb has time to set."
+  ],
+  "storage": "Store the cooled rolls wrapped at room temperature for up to 2 days, or freeze for up to 1 month. Refresh frozen or day-old rolls for 5 minutes in a 180°C oven until warmed through. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 275,
+    "protein_g": 9.6,
+    "carbs_g": 47.0,
+    "sugar_g": 1.5,
+    "free_sugar_g": 1.2,
+    "fat_g": 4.9,
+    "satfat_g": 2.2,
+    "salt_g": 1.15,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "kaiser-roll-basic.jpg",
+  "image_alt": "A basket of glossy, deep golden kaiser rolls with crisp five-point knotted tops, one split open to show the soft crumb inside.",
+  "inspired_by": [
+    "King Arthur Baking",
+    "America's Test Kitchen"
+  ]
+}

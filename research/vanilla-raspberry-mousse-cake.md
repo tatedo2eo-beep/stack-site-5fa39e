@@ -11,7 +11,7 @@ Dish: Entremets (mousse cake) / flavour: Classic. Private file, not published.
 
 ## Own cooking judgment
 - Sponge base, set fruit insert, gelatine-set vanilla custard mousse with white chocolate and a fruit glaze, assembled upside down and frozen.
-- beef gelatine; no alcohol.
+- Gelatine; no alcohol.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

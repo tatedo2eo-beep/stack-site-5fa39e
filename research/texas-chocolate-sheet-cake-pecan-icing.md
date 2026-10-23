@@ -11,11 +11,6 @@ Dish: Sheet cake / flavour: Chocolate (Texas-style). Private file, not published
 > Written as an extra flavour for the cakes chapter. Quantities are my own; the core method matches the locked-list sources listed above; nothing copied.
 
 ## Own cooking judgment
-- H
-- a
-- l
-- a
-- l
 - /
 - c
 - a

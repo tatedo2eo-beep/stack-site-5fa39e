@@ -11,7 +11,7 @@ Dish: Kitchen-sink cookie / flavour: Classic. Private file, not published.
 > Written in the cookies/bars/brownies chapter. Quantities are my own; the core method matches the locked-list sources listed above.
 
 ## Own cooking judgment
-- mix-ins only; optional instant coffee in place of ground coffee; digestive or graham pieces instead of a separate graham crust; dough balls chilled at least 1 h (as Milk Bar does).
+- Mix-ins free of gelatine and alcohol only; optional instant coffee in place of ground coffee; digestive or graham pieces instead of a separate graham crust; dough balls chilled at least 1 h (as Milk Bar does).
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

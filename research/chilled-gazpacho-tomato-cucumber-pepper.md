@@ -7,7 +7,7 @@ Dish: Gazpacho / flavour: Classic. Private file, not published.
 - [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
 - [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
 
-> Changes: cider vinegar in place of the wine-based vinegar both sources use. Quantities scaled for 6.
+> Cider vinegar in place of the wine-based vinegar both sources use. Quantities scaled for 6.
 
 ## Own cooking judgment
 - Blended until very smooth, vinegar and salt added with the motor running and olive oil streamed in to emulsify, then strained (NYT)

@@ -11,7 +11,7 @@ Dish: Poutine / flavour: Classic. Private file, not published.
 > Written for the fries and potatoes chapter. Quantities are my own; the core method matches the locked-list sources listed above; nothing copied.
 
 ## Own cooking judgment
-- beef and chicken stock; no Worcestershire; cider vinegar.
+- Beef and chicken stock; no Worcestershire; cider vinegar.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
