@@ -1,0 +1,120 @@
+{
+  "slug": "classic-lemon-mayonnaise",
+  "title": "Classic Homemade Mayonnaise",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "mayonnaise-tartare-remoulade",
+  "dish_title": "Mayonnaise (tartare, remoulade)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Pasteurised egg yolks blended with lemon juice and mustard powder, then oil streamed in until thick.",
+  "servings": 12,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor or bowl and whisk",
+    "measuring jug with spout",
+    "spatula",
+    "clean jar"
+  ],
+  "ingredients": [
+    {
+      "group": "Mayonnaise",
+      "qty": 2,
+      "unit": "pc",
+      "item": "pasteurised egg yolks"
+    },
+    {
+      "group": "Mayonnaise",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Mayonnaise",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "mustard powder"
+    },
+    {
+      "group": "Mayonnaise",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "sugar"
+    },
+    {
+      "group": "Mayonnaise",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Mayonnaise",
+      "qty": 180,
+      "unit": "ml",
+      "item": "sunflower or rapeseed oil"
+    },
+    {
+      "group": "Mayonnaise",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the base",
+      "text": "Blitz the yolks, lemon juice, mustard powder, sugar and salt for 10 seconds until even."
+    },
+    {
+      "title": "Add the oil",
+      "text": "With the motor running, pour in the oil in a very thin stream over about 30 seconds until thick and pale."
+    },
+    {
+      "title": "Finish",
+      "text": "Scrape down the sides, blitz for 5 seconds more and season with pepper and a few drops more lemon if needed."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon into a bowl and serve with hot chips, or keep in a jar in the fridge."
+    }
+  ],
+  "tips": [
+    "Use pasteurised eggs; pregnant women, young children, older people and anyone unwell should skip raw-egg sauces.",
+    "Have the yolks at room temperature so the sauce thickens easily.",
+    "If it splits, whisk 1 tsp water into a clean bowl and slowly whisk the split sauce back in.",
+    "For a cooked-yolk version, heat the yolks with the lemon juice and 1 tbsp water over simmering water to 71 °C first."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 132,
+    "protein_g": 0.5,
+    "carbs_g": 0.3,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.1,
+    "fat_g": 14.6,
+    "satfat_g": 1.3,
+    "salt_g": 0.12,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "mayonnaise-tartare-remoulade-basic.jpg",
+  "image_alt": "A bowl of thick, pale-yellow homemade mayonnaise beside golden chips.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

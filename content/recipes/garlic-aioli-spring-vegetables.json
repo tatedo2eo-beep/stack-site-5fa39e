@@ -1,0 +1,139 @@
+{
+  "slug": "garlic-aioli-spring-vegetables",
+  "title": "Garlic Aioli with Boiled Potatoes and Vegetables",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "aioli",
+  "dish_title": "Aioli",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Pasteurised yolks whisked with lemon and garlic, then sunflower and olive oil worked in by hand, served with boiled vegetables.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "saucepan",
+    "colander",
+    "large bowl",
+    "whisk",
+    "damp tea towel",
+    "measuring jug with spout"
+  ],
+  "ingredients": [
+    {
+      "group": "Aioli",
+      "qty": 2,
+      "unit": "pc",
+      "item": "pasteurised egg yolks"
+    },
+    {
+      "group": "Aioli",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Aioli",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, crushed to a paste"
+    },
+    {
+      "group": "Aioli",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Aioli",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "sugar"
+    },
+    {
+      "group": "Aioli",
+      "qty": 120,
+      "unit": "ml",
+      "item": "sunflower oil"
+    },
+    {
+      "group": "Aioli",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 500,
+      "unit": "g",
+      "item": "small new potatoes"
+    },
+    {
+      "group": "To serve",
+      "qty": 200,
+      "unit": "g",
+      "item": "green beans, trimmed"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "carrots, cut into sticks"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the vegetables",
+      "text": "Boil the potatoes in unsalted water for 15-20 min until a knife slides in, adding the beans and carrots for the last 4-5 min. Drain."
+    },
+    {
+      "title": "Make the base",
+      "text": "Set the bowl on a twisted damp towel and whisk the yolks, lemon juice, garlic, salt and sugar together."
+    },
+    {
+      "title": "Add the oil",
+      "text": "Whisking all the time, add the sunflower oil drop by drop at first, then in a thin stream, then the olive oil, until thick and glossy."
+    },
+    {
+      "title": "Serve",
+      "text": "Season and serve the aioli with the warm potatoes, beans and carrots."
+    }
+  ],
+  "tips": [
+    "Use pasteurised eggs; pregnant women, young children, older people and anyone unwell should skip raw-egg sauces.",
+    "Remove any green shoot from the garlic for a milder taste.",
+    "Mixing in sunflower oil stops the sauce tasting bitter.",
+    "For a cooked-yolk version, heat the yolks with the lemon juice and 1 tbsp water over simmering water to 71 °C first."
+  ],
+  "storage": "Keep the aioli covered in the fridge for up to 3 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 349,
+    "protein_g": 3.5,
+    "carbs_g": 20.0,
+    "sugar_g": 3.2,
+    "free_sugar_g": 0.2,
+    "fat_g": 29.3,
+    "satfat_g": 3.2,
+    "salt_g": 0.31,
+    "fibre_g": 3.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "aioli-basic.jpg",
+  "image_alt": "A bowl of golden garlic aioli with boiled new potatoes, green beans and a carrot.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

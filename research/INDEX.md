@@ -176,6 +176,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-french-toast-cinnamon-sugar-maple | French toast | Classic | 2 | 4 |
 | classic-fresh-squeezed-lemonade | Lemonade | Classic | 2 | 4 |
 | classic-italian-affogato-vanilla-espresso | Affogato | Classic | 2 | 4 |
+| classic-lemon-mayonnaise | Mayonnaise (tartare, remoulade) | Classic | 1 | 3 |
 | classic-mashed-potatoes | Mashed | Classic | 2 | 4 |
 | classic-onion-beef-gravy | Gravy | Classic | 2 | 4 |
 | classic-patty-melt | Patty melt | Classic | 2 | 6 |
@@ -323,6 +324,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | galbitang-korean-beef-short-rib-radish-soup | Galbitang | Classic | 2 | 4 |
 | galette-des-rois-almond-cream | Galette des rois | Classic | 2 | 4 |
 | galician-style-octopus-potatoes-smoked-paprika | Pulpo a la gallega | Classic | 4 | 6 |
+| garlic-aioli-spring-vegetables | Aioli | Classic | 1 | 3 |
 | garlic-coriander-butter-naan | Naan | Garlic | 3 | 5 |
 | garlic-herb-olive-oil-crostini | Crostini | Classic | 2 | 4 |
 | garlic-parmesan-chicken-wings | Chicken wings | Garlic-parmesan | 3 | 5 |
@@ -634,6 +636,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | sabich-pita-fried-aubergine-eggs-hummus-tahini | Sabich | Classic | 2 | 4 |
 | sables-diamants | Diamant | Classic | 2 | 4 |
 | sachertorte | Sachertorte | Classic | 2 | 4 |
+| saffron-chilli-rouille-toasts | Rouille | Classic | 1 | 3 |
 | saffron-layered-chicken-biryani-golden-onions-eggs | Biryani | Classic | 2 | 4 |
 | saffron-layered-lamb-biryani-golden-onions-mint | Biryani | Lamb | 2 | 4 |
 | sage-beurre-noisette | Beurre noisette | Classic | 2 | 4 |
@@ -829,5 +832,6 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | yellow-sheet-cake | Sheet cake | Classic | 2 | 4 |
 | zaalouk-smoky-aubergine-tomato | Zaalouk | Classic | 2 | 4 |
 | zaatar-flatbreads-olive-oil-cucumber-tomato-mint | Manakish | Classic | 2 | 4 |
+| zesty-lemon-aioli-vegetables | Aioli | Lemon | 1 | 3 |
 
 Flavour maps: [smash-burger-flavours.md](smash-burger-flavours.md) (extra flavours ON HOLD per Joe's final rule: book flavours only).

@@ -97,5 +97,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "posset-advanced.jpg",
-  "image_alt": "A dark bowl of smooth, pale yellow lemon posset with a spoon beside it."
+  "image_alt": "A dark bowl of smooth, pale yellow lemon posset with a spoon beside it.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
 }

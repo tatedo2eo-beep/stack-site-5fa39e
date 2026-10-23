@@ -1,0 +1,165 @@
+{
+  "slug": "zesty-lemon-aioli-vegetables",
+  "title": "Lemon Aioli with Boiled Potatoes and Vegetables",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "aioli",
+  "dish_title": "Aioli",
+  "flavour": "Lemon",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Whole pasteurised egg blended with lemon juice, zest and garlic into a thick aioli, served with boiled vegetables and lemon.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "saucepan",
+    "colander",
+    "food processor",
+    "spatula",
+    "fine grater",
+    "jar"
+  ],
+  "ingredients": [
+    {
+      "group": "Aioli",
+      "qty": 1,
+      "unit": "pc",
+      "item": "pasteurised egg"
+    },
+    {
+      "group": "Aioli",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Aioli",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Aioli",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "mustard powder"
+    },
+    {
+      "group": "Aioli",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, crushed to a paste"
+    },
+    {
+      "group": "Aioli",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Aioli",
+      "qty": 1.0,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 0.25 tsp"
+    },
+    {
+      "group": "Aioli",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Aioli",
+      "qty": 300,
+      "unit": "ml",
+      "item": "sunflower oil"
+    },
+    {
+      "group": "Aioli",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 500,
+      "unit": "g",
+      "item": "small new potatoes"
+    },
+    {
+      "group": "To serve",
+      "qty": 200,
+      "unit": "g",
+      "item": "green beans, trimmed"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "carrots, cut into sticks"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the vegetables",
+      "text": "Simmer the potatoes in a pan of unsalted water until tender, 15-20 min, dropping in the beans and carrot sticks for the final 4-5 min. Drain well."
+    },
+    {
+      "title": "Make the base",
+      "text": "Blitz the egg, lemon juice and zest, mustard powder, garlic, salt, sugar and cayenne for 5 seconds."
+    },
+    {
+      "title": "Add the oil",
+      "text": "With the motor running, trickle in the sunflower oil over about 2 min until thick. Scrape down and stir in the olive oil by hand."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve a bowl of aioli with the warm vegetables and lemon wedges; keep the rest in a jar in the fridge."
+    }
+  ],
+  "tips": [
+    "Use pasteurised eggs; pregnant women, young children, older people and anyone unwell should skip raw-egg sauces.",
+    "Grate the zest before squeezing the lemon.",
+    "Adding the olive oil by hand keeps it from turning bitter.",
+    "For a cooked-egg version, heat the egg with the lemon juice and 1 tbsp water over simmering water to 71 °C first."
+  ],
+  "storage": "Keep the aioli covered in the fridge for up to 3 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 412,
+    "protein_g": 2.9,
+    "carbs_g": 15.9,
+    "sugar_g": 2.7,
+    "free_sugar_g": 0.3,
+    "fat_g": 38.6,
+    "satfat_g": 3.2,
+    "salt_g": 0.43,
+    "fibre_g": 2.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "aioli-basic--lemon.jpg",
+  "image_alt": "Lemon aioli in a bowl with boiled potatoes, green beans, carrot sticks and a lemon wedge.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

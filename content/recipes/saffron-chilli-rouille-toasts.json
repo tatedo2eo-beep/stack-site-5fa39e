@@ -1,0 +1,133 @@
+{
+  "slug": "saffron-chilli-rouille-toasts",
+  "title": "Saffron and Chilli Rouille with Toasts",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "rouille",
+  "dish_title": "Rouille",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Garlic pounded with saffron, cayenne and tomato purée, emulsified with yolks and oil, served on baked baguette toasts.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "mortar and pestle",
+    "bowl",
+    "whisk",
+    "damp tea towel",
+    "baking tray",
+    "oven"
+  ],
+  "ingredients": [
+    {
+      "group": "Rouille",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, halved, green shoots removed"
+    },
+    {
+      "group": "Rouille",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Rouille",
+      "qty": 2,
+      "unit": "pinch",
+      "item": "saffron threads"
+    },
+    {
+      "group": "Rouille",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Rouille",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "tomato purée"
+    },
+    {
+      "group": "Rouille",
+      "qty": 2,
+      "unit": "pc",
+      "item": "pasteurised egg yolks"
+    },
+    {
+      "group": "Rouille",
+      "qty": 120,
+      "unit": "ml",
+      "item": "sunflower oil"
+    },
+    {
+      "group": "Rouille",
+      "qty": 120,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Toasts",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small baguette, sliced 1 cm thick"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the paste",
+      "text": "Pound the garlic with the salt to a smooth paste, then pound in the saffron, cayenne and tomato purée."
+    },
+    {
+      "title": "Add the yolks",
+      "text": "Whisk the yolks into the paste in a bowl set on a damp towel."
+    },
+    {
+      "title": "Add the oil",
+      "text": "Add the sunflower oil drop by drop, whisking all the time, then in a thin stream once it thickens. Finish with the olive oil a spoonful at a time."
+    },
+    {
+      "title": "Toast",
+      "text": "Bake the baguette slices at 200 °C for 8-10 min until golden, then top with rouille or float on fish soup."
+    }
+  ],
+  "tips": [
+    "Use pasteurised eggs; pregnant women, young children, older people and anyone unwell should skip raw-egg sauces.",
+    "Crumble the saffron finely so the colour spreads evenly.",
+    "Add more cayenne for a hotter sauce.",
+    "For a cooked-yolk version, heat the yolks with 1 tbsp lemon juice and 1 tbsp water over simmering water to 71 °C first."
+  ],
+  "storage": "Keep the rouille covered in the fridge for up to 2 days; toasts in a tin for 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 311,
+    "protein_g": 2.8,
+    "carbs_g": 10.4,
+    "sugar_g": 1.0,
+    "free_sugar_g": 0.9,
+    "fat_g": 29.2,
+    "satfat_g": 3.4,
+    "salt_g": 0.65,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "rouille-basic.jpg",
+  "image_alt": "A bowl of orange-red rouille beside toasted baguette slices topped with a dollop.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

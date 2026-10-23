@@ -112,5 +112,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "posset-advanced--lemon.jpg",
-  "image_alt": "A bowl of lemon posset topped with fine strips of lemon zest, with a lemon slice alongside."
+  "image_alt": "A bowl of lemon posset topped with fine strips of lemon zest, with a lemon slice alongside.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
 }

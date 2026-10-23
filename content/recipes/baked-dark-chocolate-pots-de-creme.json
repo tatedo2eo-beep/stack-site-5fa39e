@@ -124,5 +124,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "pot-de-creme-advanced.jpg",
-  "image_alt": "A dark ramekin of smooth, glossy chocolate pot de crème with a spoon beside it."
+  "image_alt": "A dark ramekin of smooth, glossy chocolate pot de crème with a spoon beside it.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
 }

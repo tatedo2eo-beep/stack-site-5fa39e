@@ -117,5 +117,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "posset-advanced--lime.jpg",
-  "image_alt": "A pale lime posset sprinkled with green lime zest, with a lime wedge beside the bowl."
+  "image_alt": "A pale lime posset sprinkled with green lime zest, with a lime wedge beside the bowl.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
 }
