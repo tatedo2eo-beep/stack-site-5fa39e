@@ -1,0 +1,194 @@
+{
+  "slug": "plump-raisin-bran-muffins",
+  "title": "Plump Raisin Bran Muffins",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "muffins",
+  "book_chapter": "muffins",
+  "dish": "bran-muffins",
+  "dish_title": "Bran muffins",
+  "flavour": "Raisin",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Dark molasses bran muffins packed with plumped raisins, made with plain and wholemeal flour and melted butter.",
+  "servings": 12,
+  "prep_min": 20,
+  "cook_min": 22,
+  "difficulty": "easy",
+  "equipment": [
+    "12-hole muffin tin",
+    "paper muffin cases or butter for greasing",
+    "small heatproof bowl",
+    "sieve",
+    "2 mixing bowls",
+    "balloon whisk",
+    "rubber spatula",
+    "wire rack",
+    "cocktail stick"
+  ],
+  "ingredients": [
+    {
+      "group": "Raisins",
+      "qty": 180,
+      "unit": "g",
+      "item": "raisins"
+    },
+    {
+      "group": "Raisins",
+      "qty": 150,
+      "unit": "ml",
+      "item": "boiling water"
+    },
+    {
+      "group": "Batter",
+      "qty": 80,
+      "unit": "g",
+      "item": "wheat bran"
+    },
+    {
+      "group": "Batter",
+      "qty": 250,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 100,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 80,
+      "unit": "g",
+      "item": "wholemeal flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Batter",
+      "qty": 100,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 45,
+      "unit": "g",
+      "item": "black treacle or molasses"
+    },
+    {
+      "group": "Batter",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled slightly"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Plump the raisins",
+      "text": "Pour the boiling water over the raisins and leave for 10 min. Drain well and pat them dry with kitchen paper."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 200 °C (180 °C fan) and line or grease the 12-hole tin."
+    },
+    {
+      "title": "Soak the bran",
+      "text": "Mix the bran and buttermilk in a large bowl and leave it while you weigh everything else."
+    },
+    {
+      "title": "Mix the dry",
+      "text": "Whisk both flours, the bicarbonate, baking powder, salt, cinnamon and nutmeg in the second bowl. Toss in all but a small handful of the raisins so they are coated in flour."
+    },
+    {
+      "title": "Mix the wet",
+      "text": "Whisk the egg, brown sugar, molasses and melted butter into the bran."
+    },
+    {
+      "title": "Combine",
+      "text": "Fold the dry mix into the bran with a spatula only until no flour shows."
+    },
+    {
+      "title": "Fill",
+      "text": "Spoon the batter into the holes and press the reserved raisins into the tops."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 18-22 min, until risen and a cocktail stick in the centre comes out clean apart from smears of raisin."
+    },
+    {
+      "title": "Cool",
+      "text": "Leave in the tin for 5 min, then move to the rack."
+    }
+  ],
+  "tips": [
+    "The most common mistake is adding the raisins wet; pat them dry and coat them in flour or they sink to the bottom.",
+    "Overmixing makes tough muffins; stop as soon as the flour disappears.",
+    "For a citrus note, add the finely grated zest of an orange with the wet ingredients.",
+    "Warm leftovers for 10 seconds in the microwave."
+  ],
+  "storage": "Keep in an airtight container at room temperature for up to 3 days, or freeze for up to 2 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 221,
+    "protein_g": 4.6,
+    "carbs_g": 39.5,
+    "sugar_g": 21.8,
+    "free_sugar_g": 10.9,
+    "fat_g": 6.9,
+    "satfat_g": 4.0,
+    "salt_g": 0.67,
+    "fibre_g": 4.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bran-muffins-basic--raisin.jpg",
+  "image_alt": "Dark bran muffins studded with plump raisins.",
+  "inspired_by": [
+    "Serious Eats",
+    "King Arthur Baking"
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "slug": "honey-glazed-corn-muffins",
+  "title": "Honey-Glazed Corn Muffins",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "muffins",
+  "book_chapter": "muffins",
+  "dish": "corn-muffin",
+  "dish_title": "Corn muffin",
+  "flavour": "Honey",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Tender, golden corn muffins sweetened with honey and brushed with a warm honey-butter glaze.",
+  "servings": 12,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "12-hole muffin tin",
+    "paper muffin cases or butter for greasing",
+    "large mixing bowl",
+    "balloon whisk",
+    "small saucepan",
+    "pastry brush",
+    "wire rack",
+    "cocktail stick"
+  ],
+  "ingredients": [
+    {
+      "group": "Muffins",
+      "qty": 100,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Muffins",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Muffins",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Muffins",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Muffins",
+      "qty": 150,
+      "unit": "g",
+      "item": "runny honey"
+    },
+    {
+      "group": "Muffins",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Muffins",
+      "qty": 170,
+      "unit": "g",
+      "item": "fine yellow cornmeal"
+    },
+    {
+      "group": "Muffins",
+      "qty": 140,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Muffins",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Glaze",
+      "qty": 45,
+      "unit": "g",
+      "item": "runny honey"
+    },
+    {
+      "group": "Glaze",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 190 °C (170 °C fan) and line or grease the 12-hole tin."
+    },
+    {
+      "title": "Cream",
+      "text": "Whisk the soft butter, sugar and salt in the bowl until pale and creamy, then whisk in the eggs one at a time."
+    },
+    {
+      "title": "Add the liquids",
+      "text": "Whisk in the honey, then the milk. It may look curdled at this point, which is fine."
+    },
+    {
+      "title": "Add the dry",
+      "text": "Add the cornmeal, flour and baking powder and whisk only until smooth."
+    },
+    {
+      "title": "Bake",
+      "text": "Divide between the holes and bake for 18-20 min, until golden and a cocktail stick in the centre comes out clean."
+    },
+    {
+      "title": "Glaze",
+      "text": "While they bake, warm the glaze honey and butter in the small pan until melted. Brush it generously over the muffins the moment they come out of the oven."
+    },
+    {
+      "title": "Cool",
+      "text": "Leave in the tin for 10 min so the glaze soaks in, then move to the rack."
+    }
+  ],
+  "tips": [
+    "The most common mistake is overbaking; honey browns quickly, so start checking at 16 min.",
+    "Brush the glaze on while the muffins are hot so it soaks in rather than sitting on top.",
+    "Medium cornmeal gives more crunch; fine cornmeal gives a softer crumb.",
+    "Serve warm with extra butter."
+  ],
+  "storage": "Keep in an airtight container at room temperature for up to 2 days, or freeze unglazed for up to 2 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 254,
+    "protein_g": 4.0,
+    "carbs_g": 39.1,
+    "sugar_g": 18.8,
+    "free_sugar_g": 17.5,
+    "fat_g": 9.6,
+    "satfat_g": 5.6,
+    "salt_g": 0.59,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "corn-muffin-basic--honey.jpg",
+  "image_alt": "Golden corn muffins with glossy honey-glazed tops, one split open.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

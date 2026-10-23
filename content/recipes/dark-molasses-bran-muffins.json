@@ -1,0 +1,176 @@
+{
+  "slug": "dark-molasses-bran-muffins",
+  "title": "Dark Molasses Bran Muffins",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "muffins",
+  "book_chapter": "muffins",
+  "dish": "bran-muffins",
+  "dish_title": "Bran muffins",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Soft, dark bran muffins made with buttermilk-soaked wheat bran, molasses and a scattering of raisins.",
+  "servings": 12,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "12-hole muffin tin",
+    "paper muffin cases or oil for greasing",
+    "2 mixing bowls",
+    "balloon whisk",
+    "rubber spatula",
+    "wire rack",
+    "cocktail stick"
+  ],
+  "ingredients": [
+    {
+      "group": "Soak",
+      "qty": 90,
+      "unit": "g",
+      "item": "wheat bran"
+    },
+    {
+      "group": "Soak",
+      "qty": 300,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Dry",
+      "qty": 190,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Dry",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Dry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Wet",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Wet",
+      "qty": 110,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Wet",
+      "qty": 60,
+      "unit": "g",
+      "item": "black treacle or molasses"
+    },
+    {
+      "group": "Wet",
+      "qty": 80,
+      "unit": "ml",
+      "item": "neutral oil (sunflower or rapeseed)"
+    },
+    {
+      "group": "Wet",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Wet",
+      "qty": 80,
+      "unit": "g",
+      "item": "raisins"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak the bran",
+      "text": "Stir the bran into the buttermilk in a large bowl and leave it for 10 min to soften."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "Meanwhile heat the oven to 200 °C (180 °C fan) and line or grease the 12-hole tin."
+    },
+    {
+      "title": "Mix the dry",
+      "text": "Whisk the flour, bicarbonate, baking powder, salt and cinnamon together in the second bowl."
+    },
+    {
+      "title": "Mix the wet",
+      "text": "Whisk the eggs, brown sugar, molasses, oil and vanilla into the soaked bran until smooth."
+    },
+    {
+      "title": "Combine",
+      "text": "Fold in the dry mix with a spatula until only a few streaks of flour remain, then fold in the raisins."
+    },
+    {
+      "title": "Fill",
+      "text": "Divide the batter between the 12 holes, filling them almost to the top."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 18-20 min, until domed, the tops spring back when pressed and a cocktail stick pushed into the centre comes out clean."
+    },
+    {
+      "title": "Cool",
+      "text": "Leave in the tin for 5 min, then move the muffins to the rack."
+    }
+  ],
+  "tips": [
+    "The most common mistake is overmixing; stir only until the flour disappears or the muffins turn tough and tunnelled.",
+    "Do not skip the soak; dry bran makes a crumbly muffin.",
+    "Molasses makes them brown quickly, so judge doneness with the cocktail stick, not the colour.",
+    "Swap the raisins for chopped dates if you prefer."
+  ],
+  "storage": "Keep in an airtight container at room temperature for up to 3 days, or freeze for up to 2 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 221,
+    "protein_g": 4.9,
+    "carbs_g": 36.5,
+    "sugar_g": 18.3,
+    "free_sugar_g": 12.7,
+    "fat_g": 7.6,
+    "satfat_g": 0.9,
+    "salt_g": 0.74,
+    "fibre_g": 4.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bran-muffins-basic.jpg",
+  "image_alt": "Dark bran muffins dotted with raisins, one broken open.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "King Arthur Baking"
+  ]
+}

@@ -248,6 +248,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | dark-chocolate-fudge-sauce | Sauce | Classic | 2 | 4 |
 | dark-chocolate-orange-mousse | Chocolate mousse | Orange | 3 | 5 |
 | dark-chocolate-orange-tart-candied-slices | Chocolate tart | Orange | 2 | 4 |
+| dark-molasses-bran-muffins | Bran muffins | Classic | 2 | 4 |
 | dashi-kombu-bonito-japanese-stock | Dashi | Classic | 3 | 5 |
 | deep-caramelised-french-onion-dip-chives-crisps | French onion dip | Classic | 3 | 5 |
 | detroit-style-pan-pizza-crisp-cheese-edges-tomato-stripes | Pan/Detroit | Classic | 3 | 5 |
@@ -373,6 +374,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | home-fries-peppers-onions | Home fries | Peppers and onions | 2 | 4 |
 | homemade-chocolate-milk-cocoa-syrup | Chocolate milk | Classic | 2 | 4 |
 | homemade-sauerkraut | Sauerkraut | Classic | 2 | 4 |
+| honey-glazed-corn-muffins | Corn muffin | Honey | 1 | 3 |
 | honey-maple-nut-granola-raisins | Granola | Classic | 2 | 4 |
 | honey-pistachio-almond-nougat | Nougat | Classic | 1 | 4 |
 | honey-whole-wheat-sandwich-loaf | Whole wheat | Classic | 2 | 4 |
@@ -554,6 +556,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pistachio-tahini-halva-squares | Halva | Classic | 2 | 4 |
 | pizzelle | Pizzelle | Classic | 2 | 4 |
 | pizzoccheri | Pizzoccheri | Classic | 2 | 4 |
+| plump-raisin-bran-muffins | Bran muffins | Raisin | 2 | 4 |
 | poached-chicken | Poached | Classic | 2 | 4 |
 | poached-eggs-buttered-sourdough-toast-chives | Poached eggs | Classic | 2 | 4 |
 | poached-eggs-garlic-yoghurt-chilli-butter | Çılbır | Classic | 2 | 4 |
