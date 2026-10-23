@@ -110,7 +110,7 @@
     },
     {
       "title": "Cook",
-      "text": "Stir over low heat until the custard reaches 77-80 °C and coats the spatula."
+      "text": "Stir gently over low heat, scraping the base, until it thickens to 77-80 °C."
     },
     {
       "title": "Chill",
@@ -152,8 +152,5 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": null,
-  "image_alt": "",
-  "inspired_by": [
-    "Serious Eats"
-  ]
+  "image_alt": ""
 }

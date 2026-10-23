@@ -91,7 +91,7 @@
     },
     {
       "title": "Cook",
-      "text": "Stir over low heat until the custard reaches 77-80 °C and coats the spatula."
+      "text": "Keep stirring over a low flame until the probe reads 77-80 °C and the custard clings to the spatula."
     },
     {
       "title": "Steep",
@@ -133,8 +133,5 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": null,
-  "image_alt": "",
-  "inspired_by": [
-    "NYT Cooking"
-  ]
+  "image_alt": ""
 }

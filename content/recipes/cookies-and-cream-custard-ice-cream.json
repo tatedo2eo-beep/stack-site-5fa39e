@@ -90,7 +90,7 @@
     },
     {
       "title": "Cook",
-      "text": "Stir over low heat until the custard reaches 77-80 °C and coats the spatula."
+      "text": "Cook on low, stirring all the time, until the thermometer shows 77-80 °C and a line drawn through the coating holds."
     },
     {
       "title": "Cool fast",
@@ -133,8 +133,5 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": null,
-  "image_alt": "",
-  "inspired_by": [
-    "King Arthur Baking"
-  ]
+  "image_alt": ""
 }

@@ -11,7 +11,7 @@
   "flavour_order": 139,
   "access": "premium",
   "base_recipe": "vanilla-custard-ice-cream-french-style",
-  "changes_from_base": "Half-yolk vanilla custard with a homemade gelatine-free marshmallow (Italian meringue) swirl folded through.",
+  "changes_from_base": "Half-yolk vanilla custard with a homemade egg-white marshmallow (Italian meringue) swirl folded through.",
   "extra_flavour": true,
   "photo_pending": true,
   "summary": "Our classic vanilla custard made lighter with four yolks, then swirled with homemade, gelatine-free marshmallow whipped from egg whites and hot syrup. Soft, sweet ribbons run through every scoop.",
@@ -119,7 +119,7 @@
     },
     {
       "title": "Cook and chill",
-      "text": "Stir over low heat until the custard reaches 77-80 °C and coats the spatula. Strain, cool in the iced water and chill for at least 4 h."
+      "text": "Stir over low heat to 77-80 °C, when it should coat the spatula. Strain, cool in the iced water and chill for at least 4 h."
     },
     {
       "title": "Boil the syrup",
@@ -165,8 +165,5 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": null,
-  "image_alt": "",
-  "inspired_by": [
-    "King Arthur Baking"
-  ]
+  "image_alt": ""
 }

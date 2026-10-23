@@ -97,7 +97,7 @@
     },
     {
       "title": "Cook gently",
-      "text": "Stir over low heat until the custard reaches 77-80 °C and coats the spatula. Rushing it over high heat makes it curdle."
+      "text": "Stir slowly over the lowest heat until the custard is 77-80 °C and silky. Rushing it over high heat makes it curdle."
     },
     {
       "title": "Chill",
@@ -135,8 +135,5 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": null,
-  "image_alt": "",
-  "inspired_by": [
-    "NYT Cooking"
-  ]
+  "image_alt": ""
 }

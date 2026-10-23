@@ -7,7 +7,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | water | Water, tap (SR 14411) | 230 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 9 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 35 | 135.4 | 0.0 | 35.0 | 34.93 | 34.93 | 0.0 | 0.00 | 0 | 0.0 |
 | unsalted butter | Butter, without salt (SR 01145) | 55 | 394.4 | 0.5 | 0.0 | 0.03 | 0.00 | 44.6 | 28.25 | 6 | 0.0 |
-| vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8 | 23.0 | 0.0 | 1.0 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.0 |
+| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8 | 23.0 | 0.0 | 1.0 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 210 | 764.4 | 21.7 | 160.3 | 0.57 | 0.00 | 2.1 | 0.33 | 4 | 5.7 |
 | wholemeal bread flour | Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program) (FDC 168893) | 85 | 289.0 | 11.2 | 61.2 | 0.35 | 0.00 | 2.1 | 0.37 | 2 | 9.1 |
 | dried milk powder | Milk, dry, whole, without added vitamin D (FDC 173454) | 20 | 99.2 | 5.3 | 7.7 | 7.68 | 0.00 | 5.3 | 3.35 | 74 | 0.0 |
