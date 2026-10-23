@@ -40,7 +40,7 @@
       "qty": 18,
       "unit": "g",
       "item": "beef gelatine powder",
-      "note": "use beef gelatine, not pork; or the equivalent in beef gelatine leaves"
+      "note": "or the equivalent in beef gelatine leaves"
     },
     {
       "group": "Orange",
@@ -59,7 +59,7 @@
       "qty": 18,
       "unit": "g",
       "item": "beef gelatine powder",
-      "note": "use beef gelatine, not pork; or the equivalent in beef gelatine leaves"
+      "note": "or the equivalent in beef gelatine leaves"
     },
     {
       "group": "Yellow",
@@ -78,7 +78,7 @@
       "qty": 18,
       "unit": "g",
       "item": "beef gelatine powder",
-      "note": "use beef gelatine, not pork; or the equivalent in beef gelatine leaves"
+      "note": "or the equivalent in beef gelatine leaves"
     },
     {
       "group": "All colours",
@@ -152,5 +152,8 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "gelatin-gummies-basic.jpg",
-  "image_alt": "Red, orange and yellow translucent fruit gummy cubes piled in a dark bowl."
+  "image_alt": "Red, orange and yellow translucent fruit gummy cubes piled in a dark bowl.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
 }

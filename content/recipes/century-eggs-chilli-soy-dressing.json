@@ -1,0 +1,146 @@
+{
+  "slug": "century-eggs-chilli-soy-dressing",
+  "title": "Century Eggs with Chilli-Soy Dressing (Pidan)",
+  "category": "snacks-sides",
+  "cuisine": "Chinese",
+  "chapter": "eggs",
+  "book_chapter": "eggs",
+  "dish": "century-salted-egg",
+  "dish_title": "Century/salted egg",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Lead-free century eggs cut into neat wedges and dressed with soy, rice vinegar, sesame and chilli oils, garlic and ginger, finished with fresh chilli, spring onion and coriander. Ready in 15 minutes.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "small bowl",
+    "sharp knife or length of clean thread",
+    "serving plate"
+  ],
+  "ingredients": [
+    {
+      "group": "Eggs",
+      "qty": 4,
+      "unit": "pc",
+      "item": "century (preserved) duck eggs, lead-free",
+      "note": "about 60 g each"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "light soy sauce"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "rice vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "chilli oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2.1,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 0.5 tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "grated fresh ginger"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "red chilli, finely sliced"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "spring onion, thinly sliced"
+    },
+    {
+      "group": "To finish",
+      "qty": 10,
+      "unit": "g",
+      "item": "coriander leaves, roughly chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Peel and air",
+      "text": "Crack off the clay or shell coating, peel the eggs and rinse them under cold water. Leave them on a plate for 10 min; the sharp, ammonia-like aroma from the cure fades as they sit in the air."
+    },
+    {
+      "title": "Cut into wedges",
+      "text": "Dip the knife in hot water and wipe it between cuts, or press a taut thread through the egg, to cut each one lengthways into 6 wedges. A warm, clean blade glides through the soft yolk instead of smearing it. Fan the wedges on the plate."
+    },
+    {
+      "title": "Mix the dressing",
+      "text": "In the small bowl, stir the soy sauce, vinegar, sesame oil, chilli oil, sugar, garlic and ginger until the sugar has dissolved. The sugar and vinegar balance the egg's rich, savoury depth."
+    },
+    {
+      "title": "Dress and serve",
+      "text": "Spoon the dressing over the eggs and scatter with chilli, spring onion and coriander. Serve straight away, cold, as a starter or alongside rice congee."
+    }
+  ],
+  "tips": [
+    "Buy eggs labelled lead-free; traditional curing methods sometimes used lead compounds.",
+    "A common mistake is cutting with a dry knife, which tears the yolk; wet it between every cut.",
+    "Serve on a bed of chilled silken tofu for a classic, more filling plate."
+  ],
+  "storage": "Best eaten as soon as it is dressed. Unpeeled century eggs keep in a cool, dry cupboard until the date on the pack; peeled leftovers keep covered in the fridge for 1 day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "sesame",
+    "soya",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 141,
+    "protein_g": 8.5,
+    "carbs_g": 2.7,
+    "sugar_g": 1.4,
+    "free_sugar_g": 0.5,
+    "fat_g": 10.5,
+    "satfat_g": 2.5,
+    "salt_g": 1.74,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "century-salted-egg-advanced.jpg",
+  "image_alt": "Wedges of dark amber century egg on a plate, dressed with soy and topped with red chilli and spring onion.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

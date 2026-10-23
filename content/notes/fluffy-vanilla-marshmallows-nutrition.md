@@ -29,4 +29,4 @@ Servings: 18. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 - Salt: 1 tsp fine salt taken as 6 g.
 - Makes about 36 cubes of 3.8 cm (about 750 g); a serving is 2 cubes.
 - Water evaporates while boiling and is not counted; about half the dusting stays on the tin and board.
-- Made with beef gelatine; no pork gelatine.
+- Made with beef gelatine only.

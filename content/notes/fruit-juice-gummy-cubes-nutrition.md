@@ -30,5 +30,5 @@ Servings: 24. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Makes about 190 cubes (about 600 g); a serving is 8 cubes.
-- Made with beef gelatine; no pork gelatine.
+- Made with beef gelatine only.
 - Fruit juice sugars are counted as free sugars.

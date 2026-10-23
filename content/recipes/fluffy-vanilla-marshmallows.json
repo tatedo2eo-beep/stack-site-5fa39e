@@ -44,7 +44,7 @@
       "qty": 24,
       "unit": "g",
       "item": "beef gelatine powder",
-      "note": "use beef gelatine, not pork; or the equivalent in beef gelatine leaves"
+      "note": "or the equivalent in beef gelatine leaves"
     },
     {
       "group": "Gelatine",
@@ -140,5 +140,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "marshmallows-basic.jpg",
-  "image_alt": "Tall white vanilla marshmallow cubes on a black plate, one torn open to show the airy inside."
+  "image_alt": "Tall white vanilla marshmallow cubes on a black plate, one torn open to show the airy inside.",
+  "inspired_by": [
+    "King Arthur Baking",
+    "America's Test Kitchen"
+  ]
 }
