@@ -78,6 +78,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | champurrado-thick-mexican-chocolate-masa-drink | Champurrado | Classic | 2 | 4 |
 | chana-masala-chickpeas-tomato-gravy | Chickpeas (chana masala, falafel) | Classic | 2 | 4 |
 | charred-tawa-naan-yoghurt-ghee | Naan | Classic | 2 | 4 |
+| charred-tomatillo-salsa-verde | Salsa | Verde | 3 | 5 |
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |
 | cheese-bread-boats-melted-mozzarella-feta-baked-egg | Khachapuri | Classic | 2 | 4 |
 | cheese-jalapeno-nachos | Nachos | Classic | 2 | 4 |

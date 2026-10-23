@@ -1,0 +1,135 @@
+{
+  "slug": "charred-tomatillo-salsa-verde",
+  "title": "Charred Tomatillo Salsa Verde",
+  "category": "snacks-sides",
+  "cuisine": "Mexican",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "salsa",
+  "dish_title": "Salsa",
+  "flavour": "Verde",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Tomatillos, onion, chillies and garlic blistered in a hot pan, pulsed to a chunky salsa and finished with coriander, lime and salt.",
+  "servings": 10,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy frying pan",
+    "tongs",
+    "food processor or blender",
+    "chopping board",
+    "knife",
+    "serving bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Salsa",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Salsa",
+      "qty": 700,
+      "unit": "g",
+      "item": "tomatillos, husked, rinsed and halved",
+      "note": "about 10 medium"
+    },
+    {
+      "group": "Salsa",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "white onion, cut into 2 wedges"
+    },
+    {
+      "group": "Salsa",
+      "qty": 2,
+      "unit": "pc",
+      "item": "jalapeño or serrano chillies, halved",
+      "note": "seed them for a milder salsa"
+    },
+    {
+      "group": "Salsa",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Salsa",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh coriander, leaves and tender stems"
+    },
+    {
+      "group": "Salsa",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lime juice, plus wedges to serve"
+    },
+    {
+      "group": "Salsa",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blister the vegetables",
+      "text": "Heat the oil in the heavy pan over medium-high heat. Lay in the tomatillos cut-side down with the onion wedges, chillies and garlic. Cook for 8-10 min, turning occasionally, until blackened in patches and the tomatillos slump and release juice. Lift the garlic out once golden, after about 3 min, so it does not turn bitter."
+    },
+    {
+      "title": "Let it cool",
+      "text": "Tip the vegetables and every bit of juice onto a plate and leave for 10 min, so the salsa keeps its fresh colour and is safe to blend."
+    },
+    {
+      "title": "Pulse roughly",
+      "text": "Put the vegetables in the processor with half the coriander and pulse in short bursts to a chunky purée. Stop while you can still see pieces of tomatillo and onion."
+    },
+    {
+      "title": "Season",
+      "text": "Finely chop the rest of the coriander and stir it in with the lime juice and salt. Taste and add more lime or salt as needed; it should be tart, bright and gently hot."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon into a bowl and serve with tortilla chips and lime wedges, or spoon it over tacos, fried eggs or grilled chicken."
+    }
+  ],
+  "tips": [
+    "Choose firm, bright green tomatillos that fill their husks; rinse off the sticky coating after husking.",
+    "Taste a sliver of each chilli first, as heat varies widely.",
+    "Char one extra chilli whole to serve alongside, as in the photo.",
+    "The salsa thickens as it chills; loosen with a spoonful of water if needed."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days. Freeze for up to 2 months; stir well after thawing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 41,
+    "protein_g": 0.9,
+    "carbs_g": 5.5,
+    "sugar_g": 3.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 2.2,
+    "satfat_g": 0.2,
+    "salt_g": 0.44,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "salsa-basic--verde.jpg",
+  "image_alt": "A stone molcajete of chunky green tomatillo salsa beside tortilla chips, a lime wedge and a blistered green chilli.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}
