@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-granita-fork-scraped",
   "changes_from_base": "Blueberries and lemon zest replace the strawberries.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A refreshing violet ice treat made with fresh blueberries and bright citrus notes for a crisp finish.",
   "servings": 8,
   "prep_min": 15,
@@ -116,8 +115,8 @@
     "fibre_g": 1.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Deep violet blueberry granita in a glass with a little lemon zest.",
+  "image": "blueberry-granita-lemon-zest.jpg",
+  "image_alt": "Deep violet blueberry granita in a small glass topped with grated lemon zest.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

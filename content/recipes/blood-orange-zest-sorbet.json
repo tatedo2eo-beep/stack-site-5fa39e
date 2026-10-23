@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "Blood orange juice and a zest-infused syrup replace the mango purée.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Ruby-red and sweet-sharp: fresh blood orange juice stirred into a syrup infused with the orange zest.",
   "servings": 6,
   "prep_min": 20,
@@ -108,8 +107,8 @@
     "fibre_g": 0.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Deep ruby blood orange sorbet scoops with fresh blood orange segments.",
+  "image": "blood-orange-zest-sorbet.jpg",
+  "image_alt": "Two scoops of deep ruby blood orange sorbet with blood orange segments in a black bowl.",
   "inspired_by": [
     "NYT Cooking"
   ]

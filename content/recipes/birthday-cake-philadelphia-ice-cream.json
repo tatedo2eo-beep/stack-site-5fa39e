@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
   "changes_from_base": "A buttery cream cheese and vanilla mix gives a frosting flavour, and rainbow sprinkles replace the strawberries; no food colouring.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A party ice cream that tastes of buttery vanilla cake icing, thanks to cream cheese, butter and plenty of vanilla, with rainbow sprinkles folded in at the end.",
   "servings": 8,
   "prep_min": 15,
@@ -133,8 +132,8 @@
     "fibre_g": 0.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Creamy white ice cream scoops dotted with rainbow sprinkles.",
+  "image": "birthday-cake-philadelphia-ice-cream.jpg",
+  "image_alt": "Two scoops of creamy white ice cream dotted with rainbow sprinkles in a black bowl.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

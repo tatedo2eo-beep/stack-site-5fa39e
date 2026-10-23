@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "Seedless blackberry purée and a plain syrup with lemon replace the mango; no corn syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A deep purple sorbet of ripe blackberries, milled free of seeds and sharpened with lemon.",
   "servings": 8,
   "prep_min": 15,
@@ -102,8 +101,8 @@
     "fibre_g": 4.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Dark purple blackberry sorbet scoops topped with whole blackberries.",
+  "image": "blackberry-lemon-sorbet-sieved.jpg",
+  "image_alt": "Two scoops of dark purple blackberry sorbet topped with whole blackberries in a black bowl.",
   "inspired_by": [
     "NYT Cooking"
   ]

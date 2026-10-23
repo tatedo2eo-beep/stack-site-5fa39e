@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Raw blended cantaloupe whisked into a four-yolk custard; the source is an eggless melon ice cream, adapted to our custard base.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic custard made lighter and fruitier: very ripe cantaloupe is blended raw and whisked into a four-yolk custard. Fresh, delicate and summery.",
   "servings": 8,
   "prep_min": 20,
@@ -124,8 +123,8 @@
     "fibre_g": 0.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "cantaloupe-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale apricot-orange cantaloupe custard ice cream in a black bowl.",
   "inspired_by": [
     "NYT Cooking"
   ]

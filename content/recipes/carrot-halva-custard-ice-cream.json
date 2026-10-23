@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Carrot, ginger, tahini and warm spices cooked into the base and blended, with brown sugar and pistachios; no vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Inspired by carrot halva, this version of our classic custard simmers grated carrot, ginger, tahini and warm spices in the dairy and blends them in, then adds toasted pistachios. Sweet, spiced and nutty.",
   "servings": 8,
   "prep_min": 25,
@@ -170,8 +169,8 @@
     "fibre_g": 2.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "carrot-halva-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale orange spiced carrot halva ice cream scattered with chopped pistachios in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

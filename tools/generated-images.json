@@ -1,5 +1,30 @@
 {
  "_note": "Generated photos, Joe approved 2026-10-23 ('Yes, do all 498'): only for recipes that had photo_pending (no Tami photo of their own). recipes: slug -> file in content/images/. cats: slug -> file in content/images/cats/ (flavour cat for an extra flavour with no cookbook cat). Style: /workspace/rw/photos/STYLE.md. Every other photo and cat is Tami's original, byte-for-byte.",
- "recipes": {},
+ "recipes": {
+  "almond-milk-granita-toasted-almonds": "almond-milk-granita-toasted-almonds.jpg",
+  "apple-brown-butter-custard-ice-cream": "apple-brown-butter-custard-ice-cream.jpg",
+  "banana-milk-paletas": "banana-milk-paletas.jpg",
+  "banana-walnut-chocolate-chunk-philadelphia-ice-cream": "banana-walnut-chocolate-chunk-philadelphia-ice-cream.jpg",
+  "birthday-cake-philadelphia-ice-cream": "birthday-cake-philadelphia-ice-cream.jpg",
+  "black-pepper-custard-ice-cream": "black-pepper-custard-ice-cream.jpg",
+  "black-sesame-custard-ice-cream": "black-sesame-custard-ice-cream.jpg",
+  "blackberry-brown-sugar-frozen-yoghurt": "blackberry-brown-sugar-frozen-yoghurt.jpg",
+  "blackberry-granita-lemon": "blackberry-granita-lemon.jpg",
+  "blackberry-lemon-sorbet-sieved": "blackberry-lemon-sorbet-sieved.jpg",
+  "blood-orange-sherbet-no-cook": "blood-orange-sherbet-no-cook.jpg",
+  "blood-orange-zest-sorbet": "blood-orange-zest-sorbet.jpg",
+  "blueberry-cream-ice-pops": "blueberry-cream-ice-pops.jpg",
+  "blueberry-custard-ice-cream": "blueberry-custard-ice-cream.jpg",
+  "blueberry-ginger-sorbet": "blueberry-ginger-sorbet.jpg",
+  "blueberry-granita-lemon-zest": "blueberry-granita-lemon-zest.jpg",
+  "brown-butter-pecan-custard-ice-cream": "brown-butter-pecan-custard-ice-cream.jpg",
+  "cantaloupe-custard-ice-cream": "cantaloupe-custard-ice-cream.jpg",
+  "cantaloupe-star-anise-sorbet": "cantaloupe-star-anise-sorbet.jpg",
+  "caramel-peanut-vanilla-sundae": "caramel-peanut-vanilla-sundae.jpg",
+  "carrot-halva-custard-ice-cream": "carrot-halva-custard-ice-cream.jpg",
+  "chocolate-banana-icebox-cake": "chocolate-banana-icebox-cake.jpg",
+  "chocolate-chip-cookie-ice-cream-pie": "chocolate-chip-cookie-ice-cream-pie.jpg",
+  "chocolate-cookie-crumb-custard-ice-cream": "chocolate-cookie-crumb-custard-ice-cream.jpg"
+ },
  "cats": {}
 }

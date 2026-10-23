@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "Ripe cantaloupe steeped with whole star anise replaces the mango and lime.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Very ripe cantaloupe steeped with whole star anise gives a sweet, fragrant orange sorbet with a gentle liquorice note.",
   "servings": 8,
   "prep_min": 20,
@@ -105,8 +104,8 @@
     "fibre_g": 1.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Soft orange cantaloupe sorbet in a bowl with a whole star anise beside it.",
+  "image": "cantaloupe-star-anise-sorbet.jpg",
+  "image_alt": "Two scoops of soft orange cantaloupe sorbet in a black bowl with a whole star anise beside it.",
   "inspired_by": [
     "NYT Cooking"
   ]

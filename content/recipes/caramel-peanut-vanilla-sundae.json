@@ -13,7 +13,6 @@
   "base_recipe": "hot-fudge-sundae-whipped-cream-cherry",
   "changes_from_base": "A home-churned vanilla custard ice cream with peanuts, a butter caramel and chocolate wafer pieces replace the bought ice cream and hot fudge.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "An impressive layered sundae combining silky homemade vanilla ice cream with salted peanuts, crispy wafers and a smooth caramel sauce. Pure indulgence.",
   "servings": 4,
   "prep_min": 40,
@@ -185,8 +184,8 @@
     "fibre_g": 5.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Tall sundae glass layered with vanilla ice cream, salted peanuts, caramel sauce and crispy wafers.",
+  "image": "caramel-peanut-vanilla-sundae.jpg",
+  "image_alt": "A sundae glass of vanilla ice cream with caramel sauce, chopped salted peanuts, whipped cream and chocolate-coated wafer bars.",
   "inspired_by": [
     "NYT Cooking"
   ]

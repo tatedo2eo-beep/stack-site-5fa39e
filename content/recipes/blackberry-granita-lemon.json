@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-granita-fork-scraped",
   "changes_from_base": "Blackberries replace the strawberries, with a little less water.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A refreshing frozen dessert made with fresh blackberries and lemon juice, processed into light and airy ice crystals.",
   "servings": 8,
   "prep_min": 15,
@@ -110,8 +109,8 @@
     "fibre_g": 3.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Deep purple blackberry granita in a chilled glass with a few blackberries.",
+  "image": "blackberry-granita-lemon.jpg",
+  "image_alt": "Deep purple blackberry granita in a small glass topped with three blackberries.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

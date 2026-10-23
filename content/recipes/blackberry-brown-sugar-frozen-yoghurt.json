@@ -13,7 +13,6 @@
   "base_recipe": "frozen-yogurt-strained-tangy",
   "changes_from_base": "Blackberries, dark brown sugar and a little clove are blended with unstrained yoghurt and sieved; brown sugar replaces the caster sugar and golden syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Blackberries blended with yoghurt, dark brown sugar and a hint of clove for a deep purple, caramel-edged frozen yoghurt.",
   "servings": 8,
   "prep_min": 20,
@@ -124,8 +123,8 @@
     "fibre_g": 2.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Deep purple blackberry frozen yoghurt scoops in a bowl.",
+  "image": "blackberry-brown-sugar-frozen-yoghurt.jpg",
+  "image_alt": "Two scoops of deep purple blackberry frozen yoghurt in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

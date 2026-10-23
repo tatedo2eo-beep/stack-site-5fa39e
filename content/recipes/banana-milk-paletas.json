@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-ice-pops",
   "changes_from_base": "Ripe banana blended with milk and vanilla replaces the strawberry purée and jam.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Simple, creamy ice pops made from ripe banana blended with milk and vanilla.",
   "servings": 5,
   "prep_min": 5,
@@ -96,8 +95,8 @@
     "fibre_g": 0.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale cream-coloured ice pops on sticks with a smooth, even texture.",
+  "image": "banana-milk-paletas.jpg",
+  "image_alt": "Four smooth pale cream banana milk ice pops on wooden sticks on a black tray.",
   "inspired_by": [
     "NYT Cooking"
   ]

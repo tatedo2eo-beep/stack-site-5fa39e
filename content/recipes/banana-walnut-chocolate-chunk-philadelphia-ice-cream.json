@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
   "changes_from_base": "Ripe banana blended into the base, with toasted walnuts and dark chocolate chunks, replaces the strawberries.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Like banana bread in ice-cream form: very ripe bananas blended into a sweet cream base, with toasted walnuts and dark chocolate chunks.",
   "servings": 8,
   "prep_min": 15,
@@ -142,8 +141,8 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale gold banana ice cream with toasted walnut pieces and dark chocolate chunks.",
+  "image": "banana-walnut-chocolate-chunk-philadelphia-ice-cream.jpg",
+  "image_alt": "Two scoops of pale gold banana ice cream with walnut pieces and dark chocolate chunks in a black bowl.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

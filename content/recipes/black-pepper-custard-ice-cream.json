@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Coarse black pepper steeped in the dairy instead of vanilla, and the custard cooked to 77-80 °C rather than only tempered.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic custard with coarse black pepper steeped in the dairy instead of vanilla. Creamy and sweet up front with a warm, tingly finish; great with strawberries or chocolate desserts.",
   "servings": 6,
   "prep_min": 20,
@@ -121,8 +120,8 @@
     "fibre_g": 0.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "black-pepper-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of ivory custard ice cream finished with cracked black pepper in a black bowl.",
   "inspired_by": [
     "NYT Cooking"
   ]

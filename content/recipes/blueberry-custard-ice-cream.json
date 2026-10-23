@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Mostly-milk custard with cooked blueberries stirred in before churning; cream added for body.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Our classic French custard made with mostly milk for a lighter base, then mixed with jammy cooked blueberries before churning. Fruity, purple-streaked and not too rich.",
   "servings": 8,
   "prep_min": 20,
@@ -134,8 +133,8 @@
     "fibre_g": 1.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "blueberry-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of lavender blueberry custard ice cream with dark purple streaks in a black bowl.",
   "inspired_by": [
     "NYT Cooking"
   ]

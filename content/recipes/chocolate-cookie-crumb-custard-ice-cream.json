@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Crushed chocolate sandwich cookies cooked into the custard and strained out, with chopped cookies folded in; less sugar.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A version of our classic custard where crushed chocolate sandwich cookies are cooked into the base and strained out, then more chopped cookies are folded through. The base tastes deeply of the cookies.",
   "servings": 8,
   "prep_min": 20,
@@ -135,8 +134,8 @@
     "fibre_g": 0.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "chocolate-cookie-crumb-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale grey custard ice cream speckled with chocolate sandwich cookie crumbs in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

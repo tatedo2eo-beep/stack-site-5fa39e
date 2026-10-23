@@ -13,7 +13,6 @@
   "base_recipe": "mango-lime-sorbet",
   "changes_from_base": "Blueberries and a fresh ginger syrup replace the mango and lime; no corn syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Bright blueberries with a warm kick of fresh ginger, steeped in the syrup and strained out so the sorbet stays perfectly smooth.",
   "servings": 6,
   "prep_min": 15,
@@ -113,8 +112,8 @@
     "fibre_g": 2.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Vivid violet blueberry sorbet scoops topped with a few fresh blueberries.",
+  "image": "blueberry-ginger-sorbet.jpg",
+  "image_alt": "Two scoops of vivid violet blueberry sorbet topped with fresh blueberries in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

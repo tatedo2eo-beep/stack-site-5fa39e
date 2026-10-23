@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "A pressed chocolate-chip biscuit crust filled with two layers of bought chocolate ice cream and a hot fudge middle, instead of sponge layers.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A no-bake chocolate ice cream pie with a crisp biscuit crust and a ribbon of hot fudge running through the middle.",
   "servings": 8,
   "prep_min": 25,
@@ -125,8 +124,8 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A sliced ice cream pie in a biscuit crust showing layers of chocolate ice cream and a fudge ribbon, scattered with sprinkles.",
+  "image": "chocolate-chip-cookie-ice-cream-pie.jpg",
+  "image_alt": "A wedge of ice cream pie with a chocolate chip biscuit crust, chocolate ice cream, a fudge ribbon and sprinkles.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

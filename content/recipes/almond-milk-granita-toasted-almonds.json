@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-granita-fork-scraped",
   "changes_from_base": "Almond paste dissolved in milk and water replaces the strawberry purée, with a pinch of cinnamon and toasted almonds to serve.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "This refreshing frozen dessert combines smooth almond milk with a hint of cinnamon and crunchy toasted almonds for a light texture.",
   "servings": 8,
   "prep_min": 20,
@@ -113,8 +112,8 @@
     "fibre_g": 2.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Snowy white almond milk granita in a glass layered with toasted flaked almonds.",
+  "image": "almond-milk-granita-toasted-almonds.jpg",
+  "image_alt": "A small glass of snowy white almond milk granita layered and topped with toasted flaked almonds.",
   "inspired_by": [
     "NYT Cooking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Apple juice reduced to a syrup with nutmeg, browned butter and soured cream blended into a lighter custard; brown sugar; half the vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A lighter take on our classic custard, blended with an apple syrup made by reducing apple juice with nutmeg, plus browned butter and soured cream. Tangy, buttery and full of apple flavour.",
   "servings": 8,
   "prep_min": 20,
@@ -148,8 +147,8 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "apple-brown-butter-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale caramel apple and brown butter custard ice cream flecked with nutmeg in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

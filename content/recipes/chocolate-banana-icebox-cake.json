@@ -13,7 +13,6 @@
   "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
   "changes_from_base": "A cooked vanilla custard lightened with whipped cream, layered with chocolate wafers and sliced bananas and set in the fridge, instead of sponge and ice cream.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A classic custard-based icebox cake layers rich vanilla custard with chocolate wafer biscuits and sliced banana, finished with whipped cream and a dusting of cocoa.",
   "servings": 9,
   "prep_min": 45,
@@ -169,8 +168,8 @@
     "fibre_g": 2.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A layered dessert in a glass dish showing custard, chocolate wafer biscuits and banana slices, topped with whipped cream and a dusting of cocoa.",
+  "image": "chocolate-banana-icebox-cake.jpg",
+  "image_alt": "A square of icebox cake showing layers of custard, chocolate wafers and banana slices under whipped cream dusted with cocoa.",
   "inspired_by": [
     "NYT Cooking"
   ]

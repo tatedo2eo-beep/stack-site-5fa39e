@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Toasted pecans steeped in the dairy, browned butter whisked in, brown sugar instead of caster, extra toasted pecans; no vanilla.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A richer version of our classic custard: toasted pecans are steeped in the dairy, browned butter is whisked in, brown sugar replaces caster sugar and more toasted pecans go in at the end.",
   "servings": 8,
   "prep_min": 25,
@@ -134,8 +133,8 @@
     "fibre_g": 2.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "brown-butter-pecan-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of light tan brown butter ice cream studded with toasted pecans in a black bowl.",
   "inspired_by": [
     "Serious Eats"
   ]

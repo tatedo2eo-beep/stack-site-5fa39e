@@ -13,7 +13,6 @@
   "base_recipe": "fresh-orange-sherbet-creamy",
   "changes_from_base": "Blood orange juice and zest replace the orange and lemon; the cream is whisked straight in rather than whipped, and more corn syrup keeps it soft.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "No cooking at all: blood orange juice and zest whisked with cream and sugar for a creamy, rosy sherbet.",
   "servings": 8,
   "prep_min": 25,
@@ -112,8 +111,8 @@
     "fibre_g": 0.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Creamy pink-red blood orange sherbet scoops in a glass dish.",
+  "image": "blood-orange-sherbet-no-cook.jpg",
+  "image_alt": "Two scoops of creamy coral-pink blood orange sherbet in a glass dish.",
   "inspired_by": [
     "Serious Eats"
   ]

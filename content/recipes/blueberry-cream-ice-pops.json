@@ -13,7 +13,6 @@
   "base_recipe": "strawberry-ice-pops",
   "changes_from_base": "Briefly cooked blueberries blended with condensed milk, cream and soured cream replace the strawberry purée and jam.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Creamy ice pops with bursts of cooked blueberry running through a soured cream and condensed milk base.",
   "servings": 10,
   "prep_min": 15,
@@ -136,8 +135,8 @@
     "fibre_g": 0.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale purple ice pops on sticks with deep blue flecks of blueberry running through them.",
+  "image": "blueberry-cream-ice-pops.jpg",
+  "image_alt": "Three pale purple blueberry cream ice pops streaked with deep blue on a black tray.",
   "inspired_by": [
     "NYT Cooking"
   ]
