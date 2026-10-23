@@ -92,6 +92,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | bircher-muesli-apple-pecans-raspberries | Muesli | Classic | 2 | 4 |
 | birthday-cake-blondies | Blondies | Birthday cake | 1 | 3 |
 | birthday-cake-philadelphia-ice-cream | Philadelphia (no egg) | Birthday cake | 1 | 3 |
+| bittersweet-cocoa-chocolate-babka-twist | Babka | Chocolate | 1 | 3 |
 | black-and-white-cookies | Black-and-white | Classic | 2 | 4 |
 | black-bean-burger | Veggie/bean burger | Classic | 2 | 6 |
 | black-bean-fried-rice-peppers-coriander-fried-eggs | Gallo pinto | Classic | 2 | 4 |
@@ -108,6 +109,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | blood-orange-marmalade | Marmalade | Classic | 2 | 4 |
 | blood-orange-sherbet-no-cook | Sherbet | Blood orange | 1 | 3 |
 | blood-orange-zest-sorbet | Sorbet | Blood orange | 1 | 3 |
+| blue-cheese-chive-popovers-blue-cheese-butter | Popovers | Blue cheese & chive | 1 | 3 |
 | blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
 | blueberry-cream-ice-pops | Popsicles | Blueberry | 1 | 3 |
 | blueberry-custard-ice-cream | Custard-base (French) | Blueberry | 1 | 3 |
@@ -444,6 +446,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | dark-salted-caramel-custard-ice-cream | Custard-base (French) | Salted caramel | 1 | 3 |
 | dashi-kombu-bonito-japanese-stock | Dashi | Classic | 3 | 5 |
 | deep-caramelised-french-onion-dip-chives-crisps | French onion dip | Classic | 3 | 5 |
+| dense-pumpernickel-rye-loaf-caraway-cocoa | Rye/pumpernickel | Classic | 1 | 3 |
 | detroit-style-pan-pizza-crisp-cheese-edges-tomato-stripes | Pan/Detroit | Classic | 3 | 5 |
 | di-san-xian-potato-aubergine-green-pepper | Di san xian | Classic | 2 | 4 |
 | dill-cucumber-tzatziki | Tzatziki | Classic | 2 | 4 |
@@ -495,6 +498,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | flaky-butter-croissants-laminated | Croissant | Classic | 2 | 4 |
 | flaky-cong-you-bing-chinese-scallion-pancakes | Cong you bing | Classic | 3 | 5 |
 | flaky-layered-buttermilk-biscuits | ? | ? | MISSING | |
+| flaky-roti-canai-coiled-layers | Roti canai | Classic | 1 | 3 |
 | flaky-spiral-roti-paratha | Roti/paratha | Classic | 1 | 3 |
 | flat-white-velvet-microfoam | Flat white | Classic | 2 | 4 |
 | florentines | Florentines | Classic | 2 | 4 |
@@ -1074,6 +1078,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | quick-tomato-paste-ketchup | Ketchup | Classic | 1 | 3 |
 | rainbow-fruit-salad-lime-mint | Fruit salad | Classic | 3 | 5 |
 | rasgulla-chenna-dumplings-cardamom-syrup | Rasgulla | Classic | 1 | 3 |
+| raspberry-bakewell-tart-fresh-berries-frangipane | Bakewell | Raspberry | 1 | 3 |
 | raspberry-cream-cheese-brownies | Brownie (fudgy or cakey) | Raspberry | 1 | 3 |
 | raspberry-cream-cheese-danish-pastries | Danish | Classic | 4 | 6 |
 | raspberry-custard-ice-cream | Custard-base (French) | Raspberry | 1 | 3 |
@@ -1282,6 +1287,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | steamed-masa-parcels-red-chilli-chicken | Tamal | Classic | 2 | 4 |
 | steamed-whole-sea-bass-ginger-spring-onions-sizzling-oil | Cantonese steamed whole fish | Classic | 3 | 5 |
 | sticky-pecan-buns | Sticky/pecan buns | Classic | 2 | 4 |
+| sticky-toffee-pudding-date-sponge-toffee-sauce | Sticky toffee pudding | Classic | 1 | 3 |
 | sticky-toffee-pudding-date-sponge | Sticky toffee pudding | Classic | 2 | 4 |
 | stir-fried-tomato-scrambled-eggs | Stir-fried tomato and scrambled eggs | Classic | 2 | 4 |
 | stovetop-buttered-popcorn | Popcorn | Classic | 3 | 5 |
@@ -1310,6 +1316,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
 | stuffed-corn-griddle-cakes-melted-cheese-cabbage-relish | Pupusa | Cheese | 4 | 6 |
 | stuffed-corn-griddle-cakes-refried-beans-cheese-cabbage-relish | Pupusa | Bean-cheese | 3 | 5 |
+| stuffed-paneer-kulcha-ghee-coriander | Kulcha | Classic | 1 | 3 |
 | sugar-snap-pea-pancakes | Pancakes (American) | Pea | 1 | 3 |
 | sukuma-wiki-collards-tomato-ginger | Sukuma wiki | Classic | 1 | 3 |
 | sun-dried-tomato-basil-pesto-pasta-salad | Pasta salad | Basil & sun-dried tomato | 1 | 3 |
@@ -1411,6 +1418,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | vanilla-panna-cotta-raspberry-sauce | Panna cotta | Classic | 3 | 5 |
 | vanilla-pineapple-sorbet | Sorbet | Pineapple | 1 | 3 |
 | vanilla-pod-creme-anglaise | Crème anglaise | Classic | 2 | 4 |
+| vanilla-pod-creme-brulee-demerara-crust | Crème brûlée | Vanilla | 1 | 3 |
 | vanilla-pod-frozen-yoghurt | Frozen yogurt | Vanilla | 1 | 3 |
 | vanilla-raspberry-mousse-cake | Entremets (mousse cake) | Classic | 2 | 4 |
 | vanilla-semifreddo-raspberry-swirl | Semifreddo | Classic | 1 | 3 |
@@ -1434,6 +1442,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | whipped-dalgona-coffee-cold-milk | Dalgona coffee | Classic | 2 | 4 |
 | whipped-garlic-toum | Toum | Classic | 2 | 4 |
 | white-bean-bruschetta-sage-lemon | Bruschetta | White bean | 1 | 3 |
+| white-chocolate-bread-pudding-warm-white-chocolate-sauce | Bread pudding | White chocolate | 1 | 3 |
 | white-chocolate-chunk-brownies | Brownie (fudgy or cakey) | White chocolate | 1 | 3 |
 | white-chocolate-custard-ice-cream | Custard-base (French) | White chocolate | 1 | 3 |
 | white-chocolate-raspberry-mousse-bombes | Bombe | White chocolate | 1 | 3 |

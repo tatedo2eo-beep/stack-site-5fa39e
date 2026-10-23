@@ -1,0 +1,158 @@
+{
+  "slug": "white-chocolate-bread-pudding-warm-white-chocolate-sauce",
+  "title": "White Chocolate Bread Pudding with Warm White Chocolate Sauce",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "bread-pudding",
+  "dish_title": "Bread pudding",
+  "flavour": "White chocolate",
+  "flavour_order": 1,
+  "access": "premium",
+  "photo_pending": true,
+  "summary": "A rich, custardy bread pudding made with white chocolate, baked until golden and puffed and served with a warm white chocolate sauce.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square baking tin",
+    "rimmed baking tray",
+    "wire rack",
+    "medium saucepan",
+    "whisk",
+    "large bowl",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Pudding",
+      "qty": 15,
+      "unit": "g",
+      "item": "butter, for the tin"
+    },
+    {
+      "group": "Pudding",
+      "qty": 255,
+      "unit": "g",
+      "item": "day-old French bread, cut into 2.5 cm cubes"
+    },
+    {
+      "group": "Pudding",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Pudding",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Pudding",
+      "qty": 65,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Pudding",
+      "qty": 170,
+      "unit": "g",
+      "item": "white chocolate, finely chopped"
+    },
+    {
+      "group": "Pudding",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Pudding",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Pudding",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Sauce",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Sauce",
+      "qty": 55,
+      "unit": "g",
+      "item": "white chocolate, finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast",
+      "text": "Spread 255 g bread cubes on a tray and toast at 180 °C until dry but barely coloured, 8-10 min, then tip into a buttered tin."
+    },
+    {
+      "title": "Heat",
+      "text": "Warm 360 ml milk, 120 ml cream and 65 g sugar until steaming, then off the heat whisk in 170 g white chocolate until smooth."
+    },
+    {
+      "title": "Whisk",
+      "text": "Beat 4 egg yolks, 1 egg and ½ tsp vanilla, then slowly whisk in the warm chocolate mixture."
+    },
+    {
+      "title": "Soak",
+      "text": "Pour the custard over the bread, pressing down so all the cubes are soaked, and leave to stand 20-30 min."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake at 180 °C until puffed, golden and just set with a centre temperature of 71 °C, 35-40 min."
+    },
+    {
+      "title": "Sauce",
+      "text": "Simmer 120 ml cream, take off the heat, whisk in 55 g white chocolate until smooth."
+    },
+    {
+      "title": "Serve",
+      "text": "Cool the pudding 10 min, then serve warm with the sauce poured over."
+    }
+  ],
+  "tips": [
+    "Toast the bread cubes lightly first so they soak up the custard without turning soggy.",
+    "Press the bread down into the custard a few times while it soaks so every cube is coated.",
+    "Check the centre reaches 71 °C so the custard is fully set before taking the pudding out of the oven."
+  ],
+  "storage": "Best served warm on the day of baking; keep covered in the fridge and reheat gently if there are leftovers.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 452,
+    "protein_g": 9.6,
+    "carbs_g": 44.8,
+    "sugar_g": 29.5,
+    "free_sugar_g": 26.2,
+    "fat_g": 26.6,
+    "satfat_g": 15.4,
+    "salt_g": 0.65,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A golden, puffed square bread pudding in a baking tin, with warm white chocolate sauce poured over the top.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "slug": "raspberry-bakewell-tart-fresh-berries-frangipane",
+  "title": "Raspberry Bakewell Tart with Fresh Berries and Feathered Icing",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "bakewell",
+  "dish_title": "Bakewell",
+  "flavour": "Raspberry",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A buttery pastry case filled with almond frangipane and fresh raspberries, finished with a delicately feathered pink and white icing.",
+  "servings": 8,
+  "prep_min": 45,
+  "cook_min": 75,
+  "difficulty": "hard",
+  "equipment": [
+    "large bowl",
+    "small bowl",
+    "cling film",
+    "rolling pin",
+    "23 cm fluted tart tin with removable base",
+    "baking paper and baking beans",
+    "stand mixer or hand mixer",
+    "offset palette knife",
+    "rimmed baking tray",
+    "2 small piping bags or freezer bags",
+    "cocktail stick",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 190,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 8,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Pastry",
+      "qty": 115,
+      "unit": "g",
+      "item": "cold unsalted butter, in 1 cm cubes"
+    },
+    {
+      "group": "Pastry",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "iced water, plus more if needed"
+    },
+    {
+      "group": "Frangipane",
+      "qty": 135,
+      "unit": "g",
+      "item": "unsalted butter, at room temperature"
+    },
+    {
+      "group": "Frangipane",
+      "qty": 135,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Frangipane",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Frangipane",
+      "qty": 135,
+      "unit": "g",
+      "item": "ground almonds"
+    },
+    {
+      "group": "Filling",
+      "qty": 100,
+      "unit": "g",
+      "item": "seedless raspberry jam"
+    },
+    {
+      "group": "Filling",
+      "qty": 100,
+      "unit": "g",
+      "item": "fresh raspberries, plus a few to serve"
+    },
+    {
+      "group": "Icing",
+      "qty": 120,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Icing",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "water"
+    },
+    {
+      "group": "Icing",
+      "qty": 3,
+      "unit": "pc",
+      "item": "raspberries, crushed and sieved for juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry",
+      "text": "Rub 190 g flour, 8 g icing sugar and 115 g cold butter to fine crumbs, add 2 egg yolks and 1 tbsp iced water, bring together, then chill 30 min."
+    },
+    {
+      "title": "Blind Bake",
+      "text": "Line a 23 cm tart tin with the pastry, chill 15 min, then bake at 190 °C with paper and beans for 15-20 min before baking uncovered 8-10 min more."
+    },
+    {
+      "title": "Frangipane",
+      "text": "Beat 135 g butter and 135 g sugar until pale and fluffy, beat in 2 eggs one at a time, then fold in 135 g ground almonds."
+    },
+    {
+      "title": "Fill",
+      "text": "Spread 100 g raspberry jam over the pastry base, scatter 100 g raspberries over, then cover with the frangipane."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake until golden and a skewer comes out clean, 40-45 min, then cool completely."
+    },
+    {
+      "title": "Ice",
+      "text": "Mix 120 g icing sugar with 4 tsp water to a thick icing, tint 2 tbsp of it pink with raspberry juice."
+    },
+    {
+      "title": "Decorate",
+      "text": "Spread the white icing over the tart, pipe pink lines across and drag a cocktail stick through to feather, then leave to set 30 min."
+    }
+  ],
+  "tips": [
+    "Chill the pastry well before and after lining the tin to stop it shrinking during blind baking.",
+    "Let the tart cool completely before icing so the icing sets on top rather than melting in.",
+    "Drag the cocktail stick through the icing in alternating directions for a neat feathered pattern.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keeps in an airtight container at room temperature for a couple of days, or chilled for longer; bring back to room temperature before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 612,
+    "protein_g": 8.8,
+    "carbs_g": 64.7,
+    "sugar_g": 40.1,
+    "free_sugar_g": 38.6,
+    "fat_g": 36.9,
+    "satfat_g": 17.6,
+    "salt_g": 0.08,
+    "fibre_g": 3.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bakewell-basic--raspberry.jpg",
+  "image_alt": "A round tart with a feathered pink and white iced top, studded with raspberries, sliced to show an almond frangipane filling.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

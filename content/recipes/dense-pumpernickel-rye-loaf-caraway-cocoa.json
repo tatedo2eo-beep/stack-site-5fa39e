@@ -1,0 +1,162 @@
+{
+  "slug": "dense-pumpernickel-rye-loaf-caraway-cocoa",
+  "title": "Dense Pumpernickel Rye Loaf with Caraway",
+  "category": "snacks-sides",
+  "cuisine": "German",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "rye-pumpernickel",
+  "dish_title": "Rye/pumpernickel",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A dense, dark rye loaf flavoured with caraway and a hint of cocoa, with a close, moist crumb suited to thin slicing.",
+  "servings": 20,
+  "prep_min": 25,
+  "cook_min": 60,
+  "difficulty": "medium",
+  "equipment": [
+    "small saucepan",
+    "large bowl or stand mixer with dough hook",
+    "900 g loaf tin (about 22 x 11 cm)",
+    "sharp knife",
+    "digital thermometer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 340,
+      "unit": "ml",
+      "item": "water, divided"
+    },
+    {
+      "group": "Dough",
+      "qty": 70,
+      "unit": "g",
+      "item": "fine cornmeal (polenta)"
+    },
+    {
+      "group": "Dough",
+      "qty": 85,
+      "unit": "g",
+      "item": "black treacle or molasses"
+    },
+    {
+      "group": "Dough",
+      "qty": 15,
+      "unit": "g",
+      "item": "butter"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 8,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "caraway seeds"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cocoa powder"
+    },
+    {
+      "group": "Dough",
+      "qty": 2.5,
+      "unit": "tsp",
+      "item": "instant yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 320,
+      "unit": "g",
+      "item": "dark rye flour, plus extra for dusting"
+    },
+    {
+      "group": "Dough",
+      "qty": 115,
+      "unit": "g",
+      "item": "wholemeal flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 170,
+      "unit": "g",
+      "item": "cooked potato, mashed and cooled"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook",
+      "text": "Boil 230 ml of the water, whisk in 70 g cornmeal and stir over low heat until thick, 1-2 min."
+    },
+    {
+      "title": "Flavour",
+      "text": "Off the heat stir in 85 g treacle, 15 g butter, 1½ tsp salt, 2 tsp sugar, 2 tsp caraway seeds and 1 tbsp cocoa, then cool to lukewarm."
+    },
+    {
+      "title": "Mix",
+      "text": "Add the remaining 110 ml cold water, 2½ tsp yeast, 320 g rye flour, 115 g wholemeal flour and 170 g mashed potato, then knead to a stiff, sticky dough for about 5 min."
+    },
+    {
+      "title": "Shape",
+      "text": "Press the dough into a greased loaf tin and smooth the top."
+    },
+    {
+      "title": "Prove",
+      "text": "Cover and leave until risen just to the rim of the tin, 60-90 min."
+    },
+    {
+      "title": "Bake",
+      "text": "Dust with rye flour, score lightly and bake at 190 °C until the centre reaches 93 °C, 55-65 min."
+    },
+    {
+      "title": "Cool",
+      "text": "Turn out onto a rack and cool completely, ideally several hours, before slicing thinly."
+    }
+  ],
+  "tips": [
+    "Tent the loaf with foil if it starts to darken too quickly during the long bake.",
+    "Check the centre reaches 93 °C with a thermometer rather than judging by colour alone.",
+    "Let the loaf cool completely, ideally for several hours, before slicing so it holds together."
+  ],
+  "storage": "Keeps well wrapped at room temperature for several days; slice thinly as needed and toast to refresh. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 113,
+    "protein_g": 4.0,
+    "carbs_g": 23.4,
+    "sugar_g": 3.9,
+    "free_sugar_g": 3.6,
+    "fat_g": 1.3,
+    "satfat_g": 0.5,
+    "salt_g": 0.45,
+    "fibre_g": 5.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "rye-pumpernickel-advanced.jpg",
+  "image_alt": "A dark, dense rye loaf with a lightly floured crust, sliced thinly to show a tight, moist crumb.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

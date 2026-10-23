@@ -1,0 +1,144 @@
+{
+  "slug": "flaky-roti-canai-coiled-layers",
+  "title": "Flaky Roti Canai with Coiled Buttery Layers",
+  "category": "snacks-sides",
+  "cuisine": "Malaysian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "roti-canai",
+  "dish_title": "Roti canai",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Golden, flaky flatbread built from countless paper-thin layers, pan-fried until crisp outside and soft within, perfect for mopping up a curry.",
+  "servings": 6,
+  "prep_min": 60,
+  "cook_min": 20,
+  "difficulty": "hard",
+  "equipment": [
+    "stand mixer with dough hook",
+    "small bowl",
+    "baking tray",
+    "cling film",
+    "rolling pin",
+    "large frying pan",
+    "clean tea towel"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 330,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 87,
+      "unit": "g",
+      "item": "'00' flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 12,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 78,
+      "unit": "g",
+      "item": "sweetened condensed milk"
+    },
+    {
+      "group": "Dough",
+      "qty": 175,
+      "unit": "ml",
+      "item": "lukewarm water"
+    },
+    {
+      "group": "Roti fat",
+      "qty": 35,
+      "unit": "g",
+      "item": "butter, softened"
+    },
+    {
+      "group": "Roti fat",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "neutral oil, plus extra for greasing and frying"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Combine 330 g plain flour, 87 g '00' flour and 2 tsp fine salt in a mixer bowl."
+    },
+    {
+      "title": "Knead",
+      "text": "Whisk 1 egg, 78 g condensed milk and 175 ml warm water into the flour and knead on low until soft and smooth, 8-10 min, then rest covered for 30 min."
+    },
+    {
+      "title": "Coat",
+      "text": "Divide into 6 balls, roll smooth, coat each in a mix of 35 g softened butter and 3 tbsp oil, then rest covered at room temperature for at least 4 h."
+    },
+    {
+      "title": "Stretch",
+      "text": "Oil the worktop and stretch each ball into a paper-thin sheet about 50 cm across, brushing with a little fat."
+    },
+    {
+      "title": "Coil",
+      "text": "Fold the edges inward into a rope, coil into a snail and tuck the end under, then rest 30-60 min covered."
+    },
+    {
+      "title": "Flatten",
+      "text": "Press each coil out to a 20 cm round."
+    },
+    {
+      "title": "Fry",
+      "text": "Cook each roti in a lightly oiled pan over medium heat for 2-3 min per side until golden and crisp in spots."
+    },
+    {
+      "title": "Fluff",
+      "text": "Stack 2-3 hot roti and scrunch between your palms to loosen the layers before serving."
+    }
+  ],
+  "tips": [
+    "Keep your hands and worktop well oiled so the dough stretches paper-thin without tearing too much.",
+    "Give the coated dough balls the full resting time so the layers separate easily when stretched.",
+    "Clap or scrunch the cooked roti straight from the pan to fluff up the layers before serving."
+  ],
+  "storage": "Best eaten hot and fresh from the pan; any leftovers can be kept covered for a day and reheated in a dry pan to crisp them back up. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 422,
+    "protein_g": 9.3,
+    "carbs_g": 60.2,
+    "sugar_g": 7.3,
+    "free_sugar_g": 7.1,
+    "fat_g": 15.7,
+    "satfat_g": 4.7,
+    "salt_g": 2.02,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "roti-canai-basic.jpg",
+  "image_alt": "A golden, flaky coiled flatbread with visible thin layers, served warm alongside a bowl of curry.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

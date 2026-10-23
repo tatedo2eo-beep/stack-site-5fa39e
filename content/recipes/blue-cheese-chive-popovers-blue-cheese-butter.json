@@ -1,0 +1,170 @@
+{
+  "slug": "blue-cheese-chive-popovers-blue-cheese-butter",
+  "title": "Blue Cheese and Chive Popovers with Whipped Blue Cheese Butter",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "muffins",
+  "book_chapter": "muffins",
+  "dish": "popovers",
+  "dish_title": "Popovers",
+  "flavour": "Blue cheese & chive",
+  "flavour_order": 1,
+  "access": "premium",
+  "photo_pending": true,
+  "summary": "Tall, crisp-shelled popovers studded with blue cheese and chives, hollow and airy inside, served warm with a blue cheese butter.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "small bowl and fork",
+    "6-hole popover tin or deep muffin tin",
+    "kitchen paper",
+    "large jug or bowl",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Blue cheese butter",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Blue cheese butter",
+      "qty": 55,
+      "unit": "g",
+      "item": "blue cheese, crumbled"
+    },
+    {
+      "group": "Blue cheese butter",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "chives, finely chopped"
+    },
+    {
+      "group": "Blue cheese butter",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Popovers",
+      "qty": 190,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Popovers",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "chives, finely chopped"
+    },
+    {
+      "group": "Popovers",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "mustard powder"
+    },
+    {
+      "group": "Popovers",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Popovers",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Popovers",
+      "qty": 360,
+      "unit": "ml",
+      "item": "semi-skimmed milk, warmed to 43-49 °C"
+    },
+    {
+      "group": "Popovers",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Popovers",
+      "qty": 55,
+      "unit": "g",
+      "item": "blue cheese, crumbled"
+    },
+    {
+      "group": "Popovers",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil, for the tin"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Butter",
+      "text": "Mash 115 g butter with 55 g blue cheese, 4 tbsp chives and black pepper and set aside."
+    },
+    {
+      "title": "Prep",
+      "text": "Brush a popover tin with oil and wipe out the excess."
+    },
+    {
+      "title": "Mix",
+      "text": "Whisk 190 g bread flour, 3 tbsp chives, 1½ tsp mustard powder, ¾ tsp salt and a pinch of cayenne."
+    },
+    {
+      "title": "Whisk",
+      "text": "Beat 360 ml warm milk with 3 eggs until frothy, pour into the dry ingredients and whisk until mostly smooth."
+    },
+    {
+      "title": "Rest",
+      "text": "Leave the batter 10 min, then stir in 55 g blue cheese."
+    },
+    {
+      "title": "Bake",
+      "text": "Divide among the tin holes and bake at 200 °C without opening the door until tall and deep golden, 40-45 min."
+    },
+    {
+      "title": "Vent",
+      "text": "Pierce each top with a skewer and bake 5 min more, then serve at once with the blue cheese butter."
+    }
+  ],
+  "tips": [
+    "Warm the milk and eggs before whisking in, as this helps the popovers rise tall.",
+    "Resist opening the oven door while baking so the popovers don't collapse.",
+    "Pierce the tops with a skewer near the end of baking to let steam escape and keep them crisp."
+  ],
+  "storage": "Best served warm straight from the oven, as popovers lose their crisp texture on standing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 394,
+    "protein_g": 13.4,
+    "carbs_g": 26.9,
+    "sugar_g": 3.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 25.9,
+    "satfat_g": 15.0,
+    "salt_g": 1.42,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Tall, golden, crisp popovers flecked with blue cheese and chives, served alongside a pat of blue cheese butter.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

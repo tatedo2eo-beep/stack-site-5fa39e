@@ -1,0 +1,136 @@
+{
+  "slug": "vanilla-pod-creme-brulee-demerara-crust",
+  "title": "Vanilla Pod Crème Brûlée with Demerara Crust",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "creme-brulee",
+  "dish_title": "Crème brûlée",
+  "flavour": "Vanilla",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Silky baked vanilla custards topped with a shatteringly crisp layer of caramelised demerara sugar.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "medium saucepan",
+    "paring knife",
+    "6 ramekins (about 170 ml each)",
+    "roasting tin and tea towel",
+    "kettle",
+    "large bowl",
+    "whisk",
+    "fine sieve",
+    "instant-read thermometer",
+    "cling film",
+    "cook's blowtorch"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "pc",
+      "item": "vanilla pod"
+    },
+    {
+      "group": "Custard",
+      "qty": 720,
+      "unit": "ml",
+      "item": "double cream, divided"
+    },
+    {
+      "group": "Custard",
+      "qty": 100,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Custard",
+      "qty": 9,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "demerara sugar",
+      "note": "about 6 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prep",
+      "text": "Set 6 ramekins in a roasting tin lined with a folded tea towel and boil a kettle."
+    },
+    {
+      "title": "Infuse",
+      "text": "Split a vanilla pod, scrape the seeds into a saucepan with the pod, 240 ml cream, 100 g sugar and a pinch of salt, bring to a bare simmer, then cover and steep 15 min."
+    },
+    {
+      "title": "Combine",
+      "text": "Remove the pod, stir in 480 ml cold cream, then whisk in 9 egg yolks and slowly combine with the warm cream."
+    },
+    {
+      "title": "Strain",
+      "text": "Pass the custard through a sieve and divide among the ramekins."
+    },
+    {
+      "title": "Bake",
+      "text": "Pour boiling water into the tin to come two-thirds up the ramekins and bake at 150 °C until the centres reach 77-79 °C, 30-35 min."
+    },
+    {
+      "title": "Chill",
+      "text": "Cool the ramekins 2 h, then cover and chill at least 4 h."
+    },
+    {
+      "title": "Caramelise",
+      "text": "Sprinkle 1 tsp demerara sugar over each custard and caramelise with a blowtorch until deep amber."
+    },
+    {
+      "title": "Serve",
+      "text": "Chill 30-45 min to re-firm, then serve within an hour."
+    }
+  ],
+  "tips": [
+    "Whisk the yolks gently rather than vigorously so you don't introduce too much foam into the custard.",
+    "Check the custards with a thermometer, as they should still have a slight wobble when they come out of the oven.",
+    "Blot any surface moisture from the chilled custards before adding sugar so it caramelises evenly."
+  ],
+  "storage": "Chill the baked custards for at least 4 hours before caramelising, and serve within an hour of torching so the sugar crust stays crisp.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 574,
+    "protein_g": 7.7,
+    "carbs_g": 25.1,
+    "sugar_g": 24.2,
+    "free_sugar_g": 20.5,
+    "fat_g": 50.4,
+    "satfat_g": 30.2,
+    "salt_g": 0.16,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "creme-brulee-advanced--vanilla.jpg",
+  "image_alt": "Individual baked custards in ramekins, each topped with a glossy, deep amber caramelised sugar crust.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
