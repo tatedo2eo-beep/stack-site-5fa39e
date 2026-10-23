@@ -158,10 +158,11 @@
     "fibre_g": 3.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": "new-york-baked-dense-cheesecakes.jpg",
-  "image_alt": "A dense dark chocolate cheesecake on a cocoa biscuit base, cut into neat slices.",
+  "image": null,
+  "image_alt": "A slice of dense dark chocolate cheesecake on a crisp biscuit base.",
   "inspired_by": [
     "NYT Cooking",
     "America's Test Kitchen"
-  ]
+  ],
+  "photo_pending": true
 }

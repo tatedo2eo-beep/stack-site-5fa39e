@@ -194,10 +194,11 @@
     "fibre_g": 0.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": "cupcakes-basic.jpg",
-  "image_alt": "Red velvet cupcakes topped with swirls of white cream cheese frosting.",
+  "image": null,
+  "image_alt": "Deep red velvet cupcakes swirled with white cream cheese frosting.",
   "inspired_by": [
     "NYT Cooking",
     "America's Test Kitchen"
-  ]
+  ],
+  "photo_pending": true
 }

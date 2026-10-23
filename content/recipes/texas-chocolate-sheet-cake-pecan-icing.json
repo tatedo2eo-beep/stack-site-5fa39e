@@ -189,10 +189,11 @@
     "fibre_g": 2.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": "sheet-cake-basic.jpg",
-  "image_alt": "Squares of thin chocolate sheet cake with glossy cocoa icing and toasted pecans on top.",
+  "image": null,
+  "image_alt": "Squares of thin chocolate sheet cake under glossy chocolate icing scattered with pecans.",
   "inspired_by": [
     "America's Test Kitchen",
     "NYT Cooking"
-  ]
+  ],
+  "photo_pending": true
 }

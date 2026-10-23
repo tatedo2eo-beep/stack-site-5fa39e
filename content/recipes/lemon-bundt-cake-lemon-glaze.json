@@ -189,10 +189,11 @@
     "fibre_g": 0.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": "bundt-basic.jpg",
-  "image_alt": "A golden lemon Bundt cake with white lemon glaze running down its ridges, a slice cut beside it.",
+  "image": null,
+  "image_alt": "A golden lemon bundt cake dripping with a pale lemon glaze, flecked with zest.",
   "inspired_by": [
     "America's Test Kitchen",
     "NYT Cooking"
-  ]
+  ],
+  "photo_pending": true
 }

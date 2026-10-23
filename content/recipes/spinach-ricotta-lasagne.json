@@ -209,11 +209,12 @@
     "fibre_g": 4.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": "sheets-baked-lasagne-basic.jpg",
-  "image_alt": "A neat slice of beef lasagne with a golden, bubbling top on a black plate, the baking dish behind it.",
+  "image": null,
+  "image_alt": "A square of green and white spinach and ricotta lasagne with a golden cheese top.",
   "inspired_by": [
     "Serious Eats",
     "America's Test Kitchen",
     "NYT Cooking"
-  ]
+  ],
+  "photo_pending": true
 }

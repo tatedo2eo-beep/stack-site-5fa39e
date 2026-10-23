@@ -154,11 +154,12 @@
     "fibre_g": 3.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": "mac-and-cheese-basic.jpg",
-  "image_alt": "Baked macaroni cheese with a golden, crunchy crumb top in a black oval dish on dark slate.",
+  "image": null,
+  "image_alt": "A pan of creamy, glossy stovetop macaroni cheese with no crumb topping.",
   "inspired_by": [
     "NYT Cooking",
     "America's Test Kitchen",
     "Serious Eats"
-  ]
+  ],
+  "photo_pending": true
 }

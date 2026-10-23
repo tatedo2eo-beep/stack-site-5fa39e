@@ -197,10 +197,11 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": "new-york-baked-dense-cheesecakes.jpg",
-  "image_alt": "A smooth orange pumpkin cheesecake on a dark biscuit base, one slice lifted out.",
+  "image": null,
+  "image_alt": "A slice of orange spiced pumpkin cheesecake on a crumb base.",
   "inspired_by": [
     "America's Test Kitchen",
     "NYT Cooking"
-  ]
+  ],
+  "photo_pending": true
 }

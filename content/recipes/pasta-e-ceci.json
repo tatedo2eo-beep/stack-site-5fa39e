@@ -180,10 +180,11 @@
     "fibre_g": 11.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": "pasta-e-fagioli-basic.jpg",
-  "image_alt": "A thick bean and pasta soup topped with grated cheese and a sprig of rosemary in a black bowl on dark slate.",
+  "image": null,
+  "image_alt": "A thick bowl of pasta and chickpea soup topped with grated cheese and olive oil.",
   "inspired_by": [
     "NYT Cooking",
     "America's Test Kitchen"
-  ]
+  ],
+  "photo_pending": true
 }

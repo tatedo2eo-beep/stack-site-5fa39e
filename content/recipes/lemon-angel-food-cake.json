@@ -153,11 +153,12 @@
     "fibre_g": 1.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": "angel-food-basic.jpg",
+  "image": null,
   "image_alt": "A tall, airy lemon angel food cake ring with fresh berries beside it.",
   "inspired_by": [
     "America's Test Kitchen",
     "NYT Cooking",
     "King Arthur Baking"
-  ]
+  ],
+  "photo_pending": true
 }

@@ -146,10 +146,11 @@
     "fibre_g": 4.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": "aglio-e-olio-basic.jpg",
-  "image_alt": "Spaghetti glossy with olive oil, golden garlic slices, chilli and chopped parsley in a black bowl on dark slate.",
+  "image": null,
+  "image_alt": "A bowl of spaghetti with anchovy and garlic, topped with crunchy golden breadcrumbs and parsley.",
   "inspired_by": [
     "NYT Cooking",
     "Serious Eats"
-  ]
+  ],
+  "photo_pending": true
 }

@@ -162,11 +162,12 @@
     "fibre_g": 8.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": "puttanesca-basic.jpg",
-  "image_alt": "Spaghetti in a chunky tomato sauce with black olives, capers and parsley in a black bowl on dark slate.",
+  "image": null,
+  "image_alt": "Spaghetti in tomato, olive and caper sauce with flakes of tuna through it.",
   "inspired_by": [
     "NYT Cooking",
     "Serious Eats",
     "America's Test Kitchen"
-  ]
+  ],
+  "photo_pending": true
 }
