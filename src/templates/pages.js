@@ -69,7 +69,7 @@ function recipeParts(ctx, r, related) {
   P.crumbs = crumbs(ctx, [[`chapter/${r.chapter}/`, t.chapters[r.chapter].name], [`dish/${r.dish}/`, r.dish_title], [null, r.flavour]]);
   // 'Inspired by' credit (plain text, no links): 1-3 locked-list sources from the recipe's research file
   const insp = (r.inspired_by || []).slice(0, 3).map(esc);
-  const inspTxt = insp.length ? 'Inspired by techniques from professional test kitchens.' : ''; // no outlet names in public (inspired_by stays in JSON)
+  const inspTxt = insp.length ? `${t.ui.inspiredBy} ${insp.length > 1 ? insp.slice(0, -1).join(', ') + ` ${t.ui.and} ` + insp[insp.length - 1] : insp[0]}.` : '';
   P.h1 = `<h1>${esc(r.title)}</h1>${inspTxt ? `<p class="insp">${inspTxt}</p>` : ''}`;
   P.src = `<div class="src"><a href="${u(`dish/${r.dish}/`)}">${esc(r.dish_title)}</a> · ${esc(r.flavour)} · ${esc(r.cuisine)}</div><p class="rsum">${esc(r.summary)}</p>`;
   P.stats = `<div class="stats"><div><small>${t.ui.prep}</small><b>${mins(r.prep_min)}</b></div><div><small>${t.ui.cook}</small><b>${mins(r.cook_min)}</b></div><div><small>${t.ui.total}</small><b>${mins(r.total_min)}</b></div><div><small>${t.ui.difficulty}</small><b>${t.difficulty[r.difficulty]}</b></div><div><small>Per serving</small><b>${Math.round(n.kcal)} kcal</b></div></div>`;
