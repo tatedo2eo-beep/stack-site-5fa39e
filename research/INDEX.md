@@ -158,6 +158,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-fresh-squeezed-lemonade | Lemonade | Classic | 2 | 4 |
 | classic-italian-affogato-vanilla-espresso | Affogato | Classic | 2 | 4 |
 | classic-mashed-potatoes | Mashed | Classic | 2 | 4 |
+| classic-onion-beef-gravy | Gravy | Classic | 2 | 4 |
 | classic-patty-melt | Patty melt | Classic | 2 | 6 |
 | classic-pecan-pie | Pecan | Classic | 2 | 4 |
 | classic-pumpkin-pie | Pumpkin pie | Classic | 2 | 4 |
@@ -270,6 +271,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | french-dip-roast-beef-sandwiches-thyme-jus | French dip | Classic | 3 | 5 |
 | fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
 | fresh-ginger-ale-lime-honey-syrup | Ginger ale | Classic | 2 | 4 |
+| fresh-herb-gravy | Gravy | Herb | 2 | 4 |
 | fresh-limeade-mashed-zest-mint | Limeade | Classic | 2 | 4 |
 | fried-mini-pizzas-tomato-mozzarella-basil | Pizza fritta/montanara | Classic | 2 | 4 |
 | frothy-whisked-matcha-green-tea | Matcha (whisked) | Classic | 2 | 4 |
@@ -426,6 +428,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | musakhan | Musakhan | Classic | 3 | 6 |
 | mushroom-lasagne | Sheets/baked (lasagne) | Mushroom | 3 | 5 |
 | mushroom-poblano-quesadillas-oregano-queso-fresco | Quesadilla | Mushroom | 3 | 5 |
+| mushroom-thyme-gravy | Gravy | Mushroom | 2 | 4 |
 | naengmyeon | Naengmyeon | Classic | 2 | 4 |
 | nan-e-barbari-sesame-ridged-flatbread | Barbari bread | Classic | 2 | 4 |
 | nanaimo-bars | Nanaimo bar | Classic | 3 | 5 |

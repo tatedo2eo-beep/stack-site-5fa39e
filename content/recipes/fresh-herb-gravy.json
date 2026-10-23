@@ -1,0 +1,151 @@
+{
+  "slug": "fresh-herb-gravy",
+  "title": "Fresh Herb Gravy",
+  "category": "snacks-sides",
+  "cuisine": "British",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "gravy",
+  "dish_title": "Gravy",
+  "flavour": "Herb",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "A shallot roux simmered with beef stock and woody herbs, strained smooth and brightened with fresh herbs.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "medium saucepan",
+    "whisk",
+    "sieve",
+    "gravy jug"
+  ],
+  "ingredients": [
+    {
+      "group": "Roux",
+      "qty": 45,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Roux",
+      "qty": 2,
+      "unit": "pc",
+      "item": "shallots, finely chopped"
+    },
+    {
+      "group": "Roux",
+      "qty": 35,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Gravy",
+      "qty": 500,
+      "unit": "ml",
+      "item": "beef stock, hot",
+      "note": "low-salt; contains celery in most brands"
+    },
+    {
+      "group": "Gravy",
+      "qty": 4,
+      "unit": "pc",
+      "item": "sprigs fresh thyme"
+    },
+    {
+      "group": "Gravy",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small sprig rosemary"
+    },
+    {
+      "group": "Gravy",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, finely chopped"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fresh thyme leaves"
+    },
+    {
+      "group": "To finish",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the shallots",
+      "text": "Melt the butter over medium heat and cook the shallots for about 4 min until soft."
+    },
+    {
+      "title": "Make the roux",
+      "text": "Add the flour and stir for 4-5 min until light brown."
+    },
+    {
+      "title": "Infuse the herbs",
+      "text": "Whisk in the hot stock, drop in the thyme sprigs, rosemary and bay leaf, and simmer for 10 min until the gravy coats a spoon."
+    },
+    {
+      "title": "Strain",
+      "text": "Pour through the sieve into a clean pan or jug, pressing the shallots to extract their flavour. Discard the stalks and leaves."
+    },
+    {
+      "title": "Finish",
+      "text": "Stir in the chopped parsley and thyme leaves, season with salt and pepper and serve hot with sliced roast chicken."
+    }
+  ],
+  "tips": [
+    "Bruise the herb sprigs lightly before adding to release their oils.",
+    "Add sage leaves with the thyme for a stuffing-like flavour.",
+    "Keep the gravy warm over low heat but add the fresh herbs at the last minute.",
+    "Use a little roast chicken resting juice for extra flavour."
+  ],
+  "storage": "Refrigerate for up to 3 days. Reheat until piping hot and add fresh herbs again if you like. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "celery"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 93,
+    "protein_g": 2.6,
+    "carbs_g": 7.2,
+    "sugar_g": 1.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 6.3,
+    "satfat_g": 3.9,
+    "salt_g": 0.66,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gravy-basic--herb.jpg",
+  "image_alt": "A jug of herb gravy with thyme being poured over sliced roast chicken scattered with thyme sprigs.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

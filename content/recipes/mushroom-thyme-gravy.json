@@ -1,0 +1,139 @@
+{
+  "slug": "mushroom-thyme-gravy",
+  "title": "Mushroom and Thyme Gravy",
+  "category": "snacks-sides",
+  "cuisine": "British",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "gravy",
+  "dish_title": "Gravy",
+  "flavour": "Mushroom",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Chestnut mushrooms browned in butter with onion and garlic, thickened with flour and simmered in beef stock with thyme.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "wide saucepan or deep frying pan",
+    "whisk",
+    "gravy jug"
+  ],
+  "ingredients": [
+    {
+      "group": "Mushrooms",
+      "qty": 45,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 250,
+      "unit": "g",
+      "item": "chestnut mushrooms, sliced"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small onion, finely chopped",
+      "note": "about 60 g"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Gravy",
+      "qty": 30,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Gravy",
+      "qty": 500,
+      "unit": "ml",
+      "item": "beef stock, hot",
+      "note": "low-salt; contains celery in most brands"
+    },
+    {
+      "group": "Gravy",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fresh thyme leaves, plus sprigs to serve"
+    },
+    {
+      "group": "Gravy",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Gravy",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown the mushrooms",
+      "text": "Melt the butter over medium-high heat and add the mushrooms. Cook for 8-10 min, stirring now and then, until their juices have cooked away and they are deeply browned."
+    },
+    {
+      "title": "Add onion and garlic",
+      "text": "Stir in the onion and garlic and cook for 3 min until softened."
+    },
+    {
+      "title": "Cook the flour",
+      "text": "Sprinkle in the flour and stir for 1 min so it coats the mushrooms."
+    },
+    {
+      "title": "Simmer",
+      "text": "Gradually whisk in the hot stock with the thyme. Bring to the boil, then simmer for 10-12 min until thickened and slightly reduced."
+    },
+    {
+      "title": "Serve",
+      "text": "Season with salt and pepper and spoon over sliced roast chicken, steak or mash. Scatter with a few thyme leaves."
+    }
+  ],
+  "tips": [
+    "Do not crowd the pan; mushrooms that steam will not brown.",
+    "A few dried porcini, soaked in the hot stock, deepen the flavour.",
+    "Use a mix of mushrooms such as chestnut and oyster.",
+    "Thin with a little water if needed."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days. Reheat gently until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "celery"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 97,
+    "protein_g": 3.7,
+    "carbs_g": 7.4,
+    "sugar_g": 1.7,
+    "free_sugar_g": 0.0,
+    "fat_g": 6.4,
+    "satfat_g": 3.9,
+    "salt_g": 0.66,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gravy-basic--mushroom.jpg",
+  "image_alt": "Mushroom gravy with sliced mushrooms poured over sliced roast chicken, with a small jug of gravy on the side.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}
