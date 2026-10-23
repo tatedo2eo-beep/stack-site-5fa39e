@@ -1,0 +1,274 @@
+{
+  "slug": "chocolate-ginger-peach-icebox-cake",
+  "title": "Chocolate Ginger Peach Icebox Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Ginger & peach",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "A cocoa chiffon cake split and filled with a frozen ginger-peach semifreddo with gingersnap pieces, then glazed in chocolate, instead of ice cream layers.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A striped chocolate and ginger sponge cake layered with a peach semifreddo and wrapped in a shiny dark chocolate glaze and crushed gingersnaps.",
+  "servings": 10,
+  "prep_min": 90,
+  "cook_min": 35,
+  "difficulty": "hard",
+  "equipment": [
+    "23 cm springform tin",
+    "baking paper",
+    "sieve",
+    "large and medium bowls",
+    "whisk",
+    "stand mixer with whisk",
+    "rubber spatula",
+    "cooling rack",
+    "serrated knife",
+    "small bowl",
+    "microwave",
+    "zip-lock bag and rolling pin",
+    "blender or food processor",
+    "heavy medium saucepan",
+    "sugar thermometer",
+    "rimmed baking tray",
+    "offset spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Cake",
+      "qty": 1,
+      "unit": "pc",
+      "item": "baking spray"
+    },
+    {
+      "group": "Cake",
+      "qty": 62,
+      "unit": "g",
+      "item": "cake flour, sifted"
+    },
+    {
+      "group": "Cake",
+      "qty": 40,
+      "unit": "g",
+      "item": "natural unsweetened cocoa powder"
+    },
+    {
+      "group": "Cake",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "100 g with the flour, 50 g for the whites"
+    },
+    {
+      "group": "Cake",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Cake",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Cake",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large egg yolks, at room temperature"
+    },
+    {
+      "group": "Cake",
+      "qty": 60,
+      "unit": "ml",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Cake",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Cake",
+      "qty": 60,
+      "unit": "ml",
+      "item": "hot water"
+    },
+    {
+      "group": "Cake",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg whites, at room temperature"
+    },
+    {
+      "group": "Cake",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Ginger-peach semifreddo",
+      "qty": 7,
+      "unit": "g",
+      "item": "beef gelatine powder"
+    },
+    {
+      "group": "Ginger-peach semifreddo",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Ginger-peach semifreddo",
+      "qty": 140,
+      "unit": "g",
+      "item": "gingersnap biscuits"
+    },
+    {
+      "group": "Ginger-peach semifreddo",
+      "qty": 225,
+      "unit": "g",
+      "item": "frozen peaches, thawed"
+    },
+    {
+      "group": "Ginger-peach semifreddo",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "finely grated fresh ginger"
+    },
+    {
+      "group": "Ginger-peach semifreddo",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Ginger-peach semifreddo",
+      "qty": 250,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "50 g for the purée, 200 g for the syrup"
+    },
+    {
+      "group": "Ginger-peach semifreddo",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Ginger-peach semifreddo",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Ginger-peach semifreddo",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg whites, at room temperature"
+    },
+    {
+      "group": "Ginger-peach semifreddo",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Chocolate glaze",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Chocolate glaze",
+      "qty": 120,
+      "unit": "ml",
+      "item": "dark corn syrup or golden syrup"
+    },
+    {
+      "group": "Chocolate glaze",
+      "qty": 255,
+      "unit": "g",
+      "item": "dark chocolate, chopped"
+    },
+    {
+      "group": "Chocolate glaze",
+      "qty": 18,
+      "unit": "pc",
+      "item": "gingersnap biscuits (16-20)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Bake",
+      "text": "Whisk together 62 g cake flour, 40 g cocoa powder, 100 g sugar, baking powder and 1 tsp ground ginger, then whisk in the egg yolks, oil and vanilla before stirring in 60 ml hot water to make a thick batter."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk the 4 egg whites with ½ tsp salt to soft peaks, whisk in 50 g sugar to firm glossy peaks, then fold into the chocolate batter, spread in the tin and bake at 165 °C for 25-30 min until a skewer comes out clean; cool completely and split into two layers."
+    },
+    {
+      "title": "Bloom",
+      "text": "Soak 7 g gelatine in 3 tbsp water for 5 min, microwave for 30 s and leave to cool for 5-10 min."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the peaches, fresh ginger, 50 g sugar and vanilla, sieve into a bowl and stir in the crushed gingersnap pieces."
+    },
+    {
+      "title": "Meringue",
+      "text": "Dissolve 200 g sugar, 60 ml water and the light corn or glucose syrup, boil to 114 °C, then whisk 4 egg whites with ¼ tsp salt to soft peaks, pour in the hot syrup and whisk until cool and glossy, about 7 min, before beating in the gelatine."
+    },
+    {
+      "title": "Assemble",
+      "text": "Fold the meringue into the peach mixture, spread over the bottom cake layer in the tin, top with the second layer and freeze for at least 6 h."
+    },
+    {
+      "title": "Glaze",
+      "text": "Bring 120 ml cream and 120 ml dark syrup to a simmer, whisk in 255 g chopped dark chocolate until smooth, then coat the top and sides of the cake in two layers, freezing briefly between coats."
+    },
+    {
+      "title": "Finish",
+      "text": "Press gingersnap biscuits around the sides, freeze for about 1 h, then slice with a knife warmed in hot water and dried between cuts."
+    }
+  ],
+  "tips": [
+    "Use pasteurised egg whites for the semifreddo if serving pregnant women, young children, older people or anyone unwell, as it may not fully reach 71 °C.",
+    "Check the gelatine packet, as it is sourced from beef.",
+    "Warm the knife and wipe it dry between slices so the glaze and semifreddo layers stay neat.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep the cake well wrapped in the freezer and slice it straight from frozen with a warm, dried knife.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 657,
+    "protein_g": 9.9,
+    "carbs_g": 100.2,
+    "sugar_g": 73.9,
+    "free_sugar_g": 71.3,
+    "fat_g": 25.6,
+    "satfat_g": 10.9,
+    "salt_g": 1.16,
+    "fibre_g": 5.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A tall round cake with chocolate ginger sponge layers, a peach semifreddo centre, a glossy dark chocolate glaze and crushed gingersnaps around the edge.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

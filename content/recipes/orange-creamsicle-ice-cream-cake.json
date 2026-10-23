@@ -1,0 +1,103 @@
+{
+  "slug": "orange-creamsicle-ice-cream-cake",
+  "title": "Orange Creamsicle Ice Cream Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Orange",
+  "flavour_order": 8,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "A wafer base under swirled spoonfuls of bought orange sherbet and vanilla ice cream, instead of sponge and layered ice cream.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A playful orange and vanilla ice cream cake with a crunchy wafer base, swirled into peaks reminiscent of a classic creamsicle.",
+  "servings": 10,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm springform tin (5 cm deep)",
+    "soup spoon",
+    "cling film",
+    "warm damp tea towel"
+  ],
+  "ingredients": [
+    {
+      "qty": 950,
+      "unit": "ml",
+      "item": "orange sherbet (or orange sorbet)"
+    },
+    {
+      "qty": 950,
+      "unit": "ml",
+      "item": "vanilla ice cream"
+    },
+    {
+      "qty": 20,
+      "unit": "pc",
+      "item": "vanilla wafer biscuits (about 70 g), plus more as needed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften",
+      "text": "Let 950 ml orange sherbet and 950 ml vanilla ice cream stand at room temperature while you prepare the base."
+    },
+    {
+      "title": "Base",
+      "text": "Cover the base of the springform tin with the vanilla wafer biscuits, breaking some to fill any gaps."
+    },
+    {
+      "title": "Dollop",
+      "text": "Drop small, alternating spoonfuls of sherbet and ice cream over the biscuits at random, pressing down gently with the back of a spoon and tapping the tin on the worktop to knock out air and fill gaps."
+    },
+    {
+      "title": "Swirl",
+      "text": "Level the surface, then press the back of the spoon in and lift it up and out in circles to create swirls and peaks."
+    },
+    {
+      "title": "Freeze",
+      "text": "Cover and freeze for at least 2 h."
+    },
+    {
+      "title": "Release",
+      "text": "Rub the side and base of the tin with a warm damp tea towel, release the ring and move the cake to a plate to serve."
+    }
+  ],
+  "tips": [
+    "Let the sherbet and ice cream soften slightly at room temperature so they are easy to spoon and press together.",
+    "Tap the tin firmly on the worktop as you build the layers to knock out any air pockets.",
+    "Run a warm damp tea towel around the tin before releasing the springform ring so the cake comes out cleanly."
+  ],
+  "storage": "Keep the cake covered in the freezer for up to 1 week.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 243,
+    "protein_g": 2.9,
+    "carbs_g": 38.6,
+    "sugar_g": 30.6,
+    "free_sugar_g": 30.6,
+    "fat_g": 8.5,
+    "satfat_g": 4.7,
+    "salt_g": 0.24,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A round ice cream cake on a wafer biscuit base with swirled peaks of orange sherbet and vanilla ice cream.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "pumpkin-spice-ice-cream-cake",
+  "title": "Pumpkin Spice Ice Cream Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Pumpkin spice",
+  "flavour_order": 9,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "Two pumpkin blondie layers with vanilla ice cream, a white chocolate pumpkin ganache and a white chocolate gingersnap crumble, instead of chocolate sponge and two ice creams.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A towering autumnal ice cream cake with spiced pumpkin blondies, white chocolate pumpkin ganache, crunchy gingersnap crumble and vanilla ice cream.",
+  "servings": 12,
+  "prep_min": 75,
+  "cook_min": 25,
+  "difficulty": "hard",
+  "equipment": [
+    "two 23 cm round cake tins",
+    "baking paper",
+    "medium and large bowls",
+    "whisk",
+    "silicone spatula",
+    "wire rack",
+    "microwave",
+    "baking tray",
+    "23 cm springform tin",
+    "offset spatula",
+    "cling film"
+  ],
+  "ingredients": [
+    {
+      "group": "Blondie layers",
+      "qty": 213,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Blondie layers",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "pumpkin pie spice"
+    },
+    {
+      "group": "Blondie layers",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Blondie layers",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Blondie layers",
+      "qty": 170,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled"
+    },
+    {
+      "group": "Blondie layers",
+      "qty": 298,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Blondie layers",
+      "qty": 60,
+      "unit": "ml",
+      "item": "unsweetened pumpkin purée (tinned)"
+    },
+    {
+      "group": "Blondie layers",
+      "qty": 60,
+      "unit": "ml",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Blondie layers",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, lightly beaten"
+    },
+    {
+      "group": "Blondie layers",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Gingersnap crumble",
+      "qty": 170,
+      "unit": "g",
+      "item": "white chocolate chips"
+    },
+    {
+      "group": "Gingersnap crumble",
+      "qty": 225,
+      "unit": "g",
+      "item": "gingersnap biscuits, broken into 1-2.5 cm pieces"
+    },
+    {
+      "group": "Pumpkin ganache",
+      "qty": 340,
+      "unit": "g",
+      "item": "white chocolate chips"
+    },
+    {
+      "group": "Pumpkin ganache",
+      "qty": 180,
+      "unit": "ml",
+      "item": "unsweetened pumpkin purée"
+    },
+    {
+      "group": "Pumpkin ganache",
+      "qty": 60,
+      "unit": "ml",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Pumpkin ganache",
+      "qty": 57,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Pumpkin ganache",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "pumpkin pie spice"
+    },
+    {
+      "group": "Pumpkin ganache",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 1400,
+      "unit": "ml",
+      "item": "vanilla ice cream (700 ml + 700 ml)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Bake",
+      "text": "Whisk 213 g flour, 1½ tsp pumpkin pie spice, baking powder and ½ tsp salt, then beat in the melted butter, 298 g brown sugar, 60 ml pumpkin purée and 60 ml light corn or glucose syrup, whisk in the eggs and vanilla, stir in the flour mix and divide between the two lined tins; bake at 180 °C for 16-19 min until a skewer shows a few moist crumbs, then cool completely and turn out as two blondie layers."
+    },
+    {
+      "title": "Crumble",
+      "text": "Melt 170 g white chocolate at 50% power, stir in the broken gingersnaps, spread on a lined tray and leave for 30 min until firm, then break some into coarse pieces and chop the rest finely."
+    },
+    {
+      "title": "Ganache",
+      "text": "Melt the 340 g white chocolate, 180 ml pumpkin purée, 60 ml light corn or glucose syrup, 57 g butter, 1 tsp pumpkin pie spice and ½ tsp salt together at 50% power until smooth, about 3 min."
+    },
+    {
+      "title": "Set",
+      "text": "Spread about 240 ml ganache over the base of the lined springform tin and freeze for 30-60 min until firm, keeping the rest at room temperature."
+    },
+    {
+      "title": "Layer",
+      "text": "Spread 700 ml vanilla ice cream over the set ganache, sprinkle over half the fine crumble, drizzle with half the remaining ganache and top with a blondie layer, pressing lightly."
+    },
+    {
+      "title": "Repeat",
+      "text": "Spread the remaining 700 ml ice cream over the blondie, sprinkle with the rest of the fine crumble, drizzle with the remaining ganache and finish with the second blondie layer."
+    },
+    {
+      "title": "Freeze",
+      "text": "Wrap tightly and freeze for at least 6 h."
+    },
+    {
+      "title": "Serve",
+      "text": "Unwrap, remove the ring, invert onto a plate, soften in the fridge for 15 min, scatter the coarse crumble around the edge and slice, wiping the knife between cuts."
+    }
+  ],
+  "tips": [
+    "Let the ice cream soften in the fridge for 30 min before assembling so it spreads easily without melting the ganache.",
+    "Work quickly while layering so the ice cream does not soften too much between additions.",
+    "Wipe the knife clean between slices for neat layers when cutting the finished cake.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Wrap tightly and freeze for up to 5 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 798,
+    "protein_g": 9.1,
+    "carbs_g": 105.7,
+    "sugar_g": 80.1,
+    "free_sugar_g": 79.3,
+    "fat_g": 38.9,
+    "satfat_g": 23.1,
+    "salt_g": 1.12,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A tall layered cake with spiced pumpkin blondie, white chocolate ganache, gingersnap crumble and vanilla ice cream, sliced to show the layers.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

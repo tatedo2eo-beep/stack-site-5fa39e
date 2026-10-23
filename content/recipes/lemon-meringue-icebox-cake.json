@@ -1,0 +1,145 @@
+{
+  "slug": "lemon-meringue-icebox-cake",
+  "title": "Lemon Meringue Icebox Cake",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Lemon",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "A no-bake loaf of butter crackers, whipped cream and lemon curd that softens in the fridge, covered in blowtorched Italian meringue, instead of sponge and ice cream.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A tangy icebox cake of lemon curd and cream between softened butter crackers, finished with swirls of torched Italian meringue.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "23 x 10 cm loaf tin",
+    "cling film",
+    "stand mixer with whisk",
+    "flexible or offset spatula",
+    "23 x 33 cm rimmed baking tray lined with foil",
+    "small saucepan",
+    "sugar thermometer",
+    "kitchen blowtorch"
+  ],
+  "ingredients": [
+    {
+      "group": "Layers",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Layers",
+      "qty": 15,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Layers",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Layers",
+      "qty": 525,
+      "unit": "g",
+      "item": "lemon curd"
+    },
+    {
+      "group": "Layers",
+      "qty": 32,
+      "unit": "pc",
+      "item": "round butter crackers (about 128 g)"
+    },
+    {
+      "group": "Italian meringue",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg whites (about 140 g), at room temperature"
+    },
+    {
+      "group": "Italian meringue",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Italian meringue",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whip",
+      "text": "Whip 360 ml double cream with 15 g caster sugar and ⅛ tsp salt to medium-stiff peaks, about 2 min."
+    },
+    {
+      "title": "Layer",
+      "text": "Line the loaf tin with cling film and build up layers of butter crackers, 525 g lemon curd and the whipped cream, repeating four times and finishing with crackers and a thin layer of cream."
+    },
+    {
+      "title": "Press",
+      "text": "Press cling film onto the surface and chill for about 6 h until the crackers soften."
+    },
+    {
+      "title": "Freeze",
+      "text": "Turn the cake out onto a foil-lined tray, peel off the cling film and freeze for about 1 h until firm."
+    },
+    {
+      "title": "Meringue",
+      "text": "Whisk 4 egg whites on low speed while boiling 200 g caster sugar with 120 ml water to 115 °C, then whisk the whites to soft peaks, drizzle in the hot syrup down the side of the bowl and whisk on high until stiff and no longer warm, about 10 min."
+    },
+    {
+      "title": "Torch",
+      "text": "Spread the meringue over the cake and brown it with a kitchen blowtorch held 3-5 cm away."
+    },
+    {
+      "title": "Slice",
+      "text": "Cut into 8 with a hot, dried knife."
+    }
+  ],
+  "tips": [
+    "Use pasteurised eggs for the meringue if serving pregnant women, young children, older people or anyone unwell, as it may not fully reach 71 °C.",
+    "Chill the layered cake for the full time so the crackers soften to a cake-like texture before freezing.",
+    "Dip the knife in hot water and dry it between slices for the neatest cuts."
+  ],
+  "storage": "The cake can be frozen without its meringue for up to 1 week; add and torch the meringue just before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 543,
+    "protein_g": 5.3,
+    "carbs_g": 78.9,
+    "sugar_g": 65.6,
+    "free_sugar_g": 64.2,
+    "fat_g": 23.4,
+    "satfat_g": 13.3,
+    "salt_g": 0.61,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A loaf-shaped icebox cake with pale yellow lemon layers, topped with swirls of toasted meringue.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

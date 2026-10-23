@@ -251,11 +251,13 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chocolate-buche-de-noel | Swiss roll/bûche de Noël | Classic | 3 | 5 |
 | chocolate-cheesecake-biscuit-base | New York (baked, dense) | Chocolate | 2 | 4 |
 | chocolate-chess-pie | Chess | Chocolate | 1 | 3 |
+| chocolate-chip-cookie-ice-cream-pie | Ice-cream cake | Chocolate | 1 | 3 |
 | chocolate-chip-toasted-coconut-muffins | American muffin (blueberry style, muffin method) | Chocolate | 1 | 3 |
 | chocolate-cocoa-dusted-marshmallows | Marshmallows | Chocolate | 2 | 4 |
 | chocolate-cookie-crumb-custard-ice-cream | Custard-base (French) | Chocolate sandwich cookie | 1 | 3 |
 | chocolate-cupcakes | Cupcakes | Chocolate | 3 | 5 |
 | chocolate-dipped-shortbread | Shortbread | Chocolate-dipped | 2 | 5 |
+| chocolate-ginger-peach-icebox-cake | Ice-cream cake | Ginger & peach | 1 | 3 |
 | chocolate-hazelnut-gelato-gianduja | Gelato | Chocolate & hazelnut | 1 | 3 |
 | chocolate-hazelnut-spread-brownies | Brownie (fudgy or cakey) | Nutella & hazelnut | 1 | 3 |
 | chocolate-layer-cake | Chocolate layer | Classic | 2 | 4 |
@@ -329,6 +331,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cooked-strawberry-frozen-yoghurt | Frozen yogurt | Strawberry | 1 | 3 |
 | cooked-yolk-hollandaise | Hollandaise (béarnaise, mousseline) | Classic | 2 | 4 |
 | cookies-and-cream-custard-ice-cream | Custard-base (French) | Cookies & cream | 1 | 3 |
+| cookies-and-cream-ice-cream-pie | Ice-cream cake | Cookies & cream | 1 | 3 |
 | cool-yoghurt-rice-mustard-seeds-curry-leaves-pomegranate | Curd rice | Classic | 2 | 4 |
 | coriander-lemon-chermoula | Chermoula | Classic | 2 | 4 |
 | corn-egg-drop-soup-chicken | Egg drop soup | Corn egg drop | 3 | 5 |
@@ -716,6 +719,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-herb-quinoa-pilaf | Quinoa | Lemon-herb | 1 | 3 |
 | lemon-herb-vinaigrette | Vinaigrette | Lemon-herb | 2 | 4 |
 | lemon-mascarpone-gelato | Gelato | Lemon & mascarpone | 1 | 3 |
+| lemon-meringue-icebox-cake | Ice-cream cake | Lemon | 1 | 3 |
 | lemon-meringue-pie | Meringue pie (lemon) | Classic | 2 | 4 |
 | lemon-milk-sherbet-blender | Sherbet | Lemon | 1 | 3 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
@@ -749,6 +753,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | malted-milk-chocolate-custard-ice-cream | Custard-base (French) | Malted milk & milk chocolate | 1 | 3 |
 | malted-milk-philadelphia-ice-cream | Philadelphia (no egg) | Malted milk | 1 | 3 |
 | mango-granita-ice-cube | Granita | Mango | 1 | 3 |
+| mango-icebox-cake-cardamom | Ice-cream cake | Mango | 1 | 3 |
 | mango-lassi-cardamom-pistachio | Lassi | Mango | 2 | 4 |
 | mango-lassi-frozen-yoghurt | Frozen yogurt | Mango | 1 | 3 |
 | mango-lassi-ice-pops | Popsicles | Mango | 1 | 3 |
@@ -786,6 +791,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mixed-berry-oat-crisp | Crisp | Classic | 2 | 4 |
 | mixed-fruit-cream-pavlova | Pavlova | Classic | 2 | 4 |
 | miyeok-guk-korean-seaweed-beef-brisket-soup | Miyeok-guk | Classic | 2 | 4 |
+| mocha-ice-cream-pie | Ice-cream cake | Mocha | 1 | 3 |
 | mocha-toasted-cashew-custard-ice-cream | Custard-base (French) | Mocha & cashew | 1 | 3 |
 | moi-moi-steamed-bean-pudding | Moi moi | Classic | 2 | 4 |
 | molten-chocolate-cakes | Molten chocolate | Classic | 3 | 5 |
@@ -835,6 +841,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | open-faced-cheddar-tuna-melts-dill-pickles | Tuna melt | Classic | 2 | 4 |
 | orange-and-cranberry-agar-jelly-cubes | Agar jellies | Classic | 2 | 4 |
 | orange-creamsicle-frozen-yoghurt | Frozen yogurt | Orange | 1 | 3 |
+| orange-creamsicle-ice-cream-cake | Ice-cream cake | Orange | 1 | 3 |
 | orange-meringue-pie | Meringue pie (lemon) | Orange | 1 | 3 |
 | orange-plum-clafoutis | Clafoutis | Plum | 1 | 3 |
 | orange-posset-fresh-orange | Posset | Orange | 2 | 4 |
@@ -1003,6 +1010,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pumpkin-ginger-spiced-sorbet | Sorbet | Pumpkin | 1 | 3 |
 | pumpkin-soup-caramelised-onion-sage | Pumpkin soup | Classic | 2 | 4 |
 | pumpkin-spice-custard-ice-cream | Custard-base (French) | Pumpkin | 1 | 3 |
+| pumpkin-spice-ice-cream-cake | Ice-cream cake | Pumpkin spice | 1 | 3 |
 | pumpkin-spice-latte-butternut-maple | Latte | Pumpkin spice | 1 | 3 |
 | pumpkin-spice-muffins-crumb-top | American muffin (blueberry style, muffin method) | Pumpkin spice | 1 | 3 |
 | pumpkin-swirl-brownies | Brownie (fudgy or cakey) | Pumpkin | 1 | 3 |
@@ -1150,6 +1158,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | smoky-molasses-bbq-sauce | BBQ | Classic | 2 | 4 |
 | smooth-cold-brew-coffee-concentrate | Cold brew | Classic | 2 | 4 |
 | smooth-garlic-basil-tomato-sauce | Tomato | Classic | 1 | 3 |
+| smores-icebox-cake-toasted-meringue | Ice-cream cake | S'mores | 1 | 3 |
 | smorrebrod-pickled-herring-rye-onion-dill | Smørrebrød (open) | Classic | 1 | 3 |
 | snickerdoodles | Snickerdoodle | Classic | 3 | 5 |
 | soft-baked-pretzels-coarse-salt-mustard | ? | ? | MISSING | |

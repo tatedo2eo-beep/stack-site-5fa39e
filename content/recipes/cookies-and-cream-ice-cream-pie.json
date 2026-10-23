@@ -1,0 +1,127 @@
+{
+  "slug": "cookies-and-cream-ice-cream-pie",
+  "title": "Cookies and Cream Ice Cream Pie",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Cookies & cream",
+  "flavour_order": 10,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "A baked crust of crushed sugar cones filled with vanilla ice cream mashed with chopped chocolate sandwich biscuits, instead of sponge layers.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A crisp ice-cream-cone crust filled with chunky cookies-and-cream ice cream, topped with a cloud of whipped cream.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 8,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "bowl",
+    "23 cm pie dish",
+    "wire rack",
+    "rubber spatula",
+    "spoon",
+    "cling film"
+  ],
+  "ingredients": [
+    {
+      "group": "Crust",
+      "qty": 12,
+      "unit": "pc",
+      "item": "sugar ice-cream cones"
+    },
+    {
+      "group": "Crust",
+      "qty": 70,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Crust",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 950,
+      "unit": "ml",
+      "item": "vanilla ice cream"
+    },
+    {
+      "group": "Filling",
+      "qty": 200,
+      "unit": "g",
+      "item": "chocolate sandwich biscuits, coarsely chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream, whipped (to serve)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crust",
+      "text": "Process 12 sugar ice-cream cones to fine crumbs, about 30 s, then stir in 70 g melted butter and 25 g caster sugar until moistened."
+    },
+    {
+      "title": "Bake",
+      "text": "Press the crumb mixture firmly over the base and up the sides of the pie dish and bake at 180 °C for 6-8 min until crisp, then cool completely on a rack, about 30 min."
+    },
+    {
+      "title": "Mix",
+      "text": "Soften 950 ml vanilla ice cream in a bowl, add the chopped chocolate sandwich biscuits and mash together with the back of a spoon."
+    },
+    {
+      "title": "Fill",
+      "text": "Spread the ice cream mixture evenly into the cooled crust and press cling film onto the surface."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for at least 4 h until firm."
+    },
+    {
+      "title": "Serve",
+      "text": "Cut into wedges and top each with a spoonful of whipped cream."
+    }
+  ],
+  "tips": [
+    "Let the ice cream soften just enough to mix in the biscuits without turning it to liquid.",
+    "Press cling film directly onto the surface before freezing to stop ice crystals forming.",
+    "The baked crust can be made ahead and frozen for up to 1 month before filling."
+  ],
+  "storage": "Covered well, the filled pie keeps in the freezer for up to 1 week.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 493,
+    "protein_g": 5.6,
+    "carbs_g": 49.3,
+    "sugar_g": 31.2,
+    "free_sugar_g": 30.3,
+    "fat_g": 30.7,
+    "satfat_g": 17.3,
+    "salt_g": 0.5,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A pie with a crisp ice-cream-cone crust filled with cookies-and-cream ice cream and topped with whipped cream.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

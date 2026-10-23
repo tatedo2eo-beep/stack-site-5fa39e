@@ -1,0 +1,194 @@
+{
+  "slug": "mocha-ice-cream-pie",
+  "title": "Mocha Ice Cream Pie",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Mocha",
+  "flavour_order": 7,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "A baked chocolate crumb crust brushed with chocolate sauce, filled with a home-churned no-cook mocha ice cream and topped with whipped cream, instead of sponge layers.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A coffee-and-cocoa ice cream pie in a chocolate biscuit crust, piled with cream and finished with a drizzle of chocolate sauce.",
+  "servings": 12,
+  "prep_min": 40,
+  "cook_min": 18,
+  "difficulty": "medium",
+  "equipment": [
+    "medium bowl",
+    "23 cm metal pie tin",
+    "foil or baking paper",
+    "baking beans",
+    "pastry brush",
+    "whisk",
+    "ice-cream maker (bowl frozen at least 24 h)",
+    "stand mixer or hand mixer with whisk",
+    "piping bag (optional)"
+  ],
+  "ingredients": [
+    {
+      "group": "Crust",
+      "qty": 206,
+      "unit": "g",
+      "item": "chocolate biscuit crumbs"
+    },
+    {
+      "group": "Crust",
+      "qty": 28,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Crust",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Crust",
+      "qty": 57,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Crust",
+      "qty": 99,
+      "unit": "g",
+      "item": "chocolate sauce"
+    },
+    {
+      "group": "Mocha ice cream",
+      "qty": 227,
+      "unit": "g",
+      "item": "cold whole milk"
+    },
+    {
+      "group": "Mocha ice cream",
+      "qty": 149,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Mocha ice cream",
+      "qty": 11,
+      "unit": "g",
+      "item": "instant espresso powder"
+    },
+    {
+      "group": "Mocha ice cream",
+      "qty": 11,
+      "unit": "g",
+      "item": "Dutch-process cocoa powder"
+    },
+    {
+      "group": "Mocha ice cream",
+      "qty": 454,
+      "unit": "g",
+      "item": "cold double cream"
+    },
+    {
+      "group": "Mocha ice cream",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Mocha ice cream",
+      "qty": 113,
+      "unit": "g",
+      "item": "chocolate sandwich biscuits, broken into small pieces (optional)"
+    },
+    {
+      "group": "Topping",
+      "qty": 170,
+      "unit": "g",
+      "item": "double cream (113-227 g)"
+    },
+    {
+      "group": "Topping",
+      "qty": 10,
+      "unit": "g",
+      "item": "icing sugar (7-14 g)"
+    },
+    {
+      "group": "Topping",
+      "qty": 30,
+      "unit": "g",
+      "item": "extra chocolate sandwich biscuits, broken (optional)"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra chocolate sauce, for drizzling"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Bake",
+      "text": "Press a mix of 206 g chocolate biscuit crumbs, 28 g icing sugar, ¼ tsp salt and 57 g melted butter over the base and sides of the pie tin, line with foil and baking beans and bake at 190 °C for 12 min, then remove the foil and beans and bake for 4-6 min more until shiny; cool completely."
+    },
+    {
+      "title": "Brush",
+      "text": "Warm 99 g chocolate sauce until pourable and brush it all over the inside of the crust, then freeze while you make the ice cream."
+    },
+    {
+      "title": "Churn",
+      "text": "Whisk 227 g cold milk with 149 g sugar, 11 g espresso powder and 11 g cocoa until the sugar dissolves, stir in 454 g cold double cream and vanilla, then churn in the ice-cream maker, folding in the broken chocolate sandwich biscuits at the end."
+    },
+    {
+      "title": "Whip",
+      "text": "Whip the topping double cream with icing sugar to firm peaks."
+    },
+    {
+      "title": "Fill",
+      "text": "Spoon the mocha ice cream into the crust and spread or pipe the whipped cream on top."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for about 2 h until firm, thawing for 15-20 min if it has been frozen for longer."
+    },
+    {
+      "title": "Serve",
+      "text": "Drizzle with extra chocolate sauce, scatter over extra broken biscuits if using, and serve."
+    }
+  ],
+  "tips": [
+    "The ice cream contains espresso powder, so bear its caffeine content in mind if serving children or anyone avoiding caffeine.",
+    "Make sure the ice-cream maker bowl has been in the freezer for at least 24 h before churning.",
+    "Thaw the pie for 15-20 min if it has been in the freezer longer than 2 h, so it is easier to slice."
+  ],
+  "storage": "Wrapped well, the pie keeps in the freezer for up to 2 weeks.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 452,
+    "protein_g": 4.3,
+    "carbs_g": 47.3,
+    "sugar_g": 34.1,
+    "free_sugar_g": 31.6,
+    "fat_g": 28.3,
+    "satfat_g": 16.3,
+    "salt_g": 0.58,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A pie with a chocolate biscuit crust filled with coffee ice cream and piled high with whipped cream, drizzled with chocolate sauce.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

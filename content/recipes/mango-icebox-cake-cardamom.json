@@ -1,0 +1,201 @@
+{
+  "slug": "mango-icebox-cake-cardamom",
+  "title": "Mango Icebox Cake with Cardamom",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Mango",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "A chilled cake of savoiardi sponge fingers and a mango, mascarpone and Italian meringue filling with cardamom, topped with mango roses, instead of sponge and ice cream.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A striking charlotte-style mango cake with cardamom-scented mascarpone filling, ringed with sponge fingers and crowned with mango flowers.",
+  "servings": 12,
+  "prep_min": 75,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "small bowl",
+    "microwave",
+    "food processor",
+    "heavy medium saucepan",
+    "sugar thermometer",
+    "stand mixer with whisk",
+    "large bowl",
+    "rubber spatula",
+    "23 cm springform tin",
+    "baking paper",
+    "serrated knife",
+    "vegetable peeler",
+    "cling film"
+  ],
+  "ingredients": [
+    {
+      "group": "Cake",
+      "qty": 7,
+      "unit": "g",
+      "item": "beef gelatine powder"
+    },
+    {
+      "group": "Cake",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "Cake",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water",
+      "note": "60 ml with the gelatine, 60 ml in the syrup"
+    },
+    {
+      "group": "Cake",
+      "qty": 3,
+      "unit": "pc",
+      "item": "medium ripe but firm mangoes, peeled and cut into 5 mm dice"
+    },
+    {
+      "group": "Cake",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Cake",
+      "qty": 250,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "50 g for the purée, 200 g for the syrup"
+    },
+    {
+      "group": "Cake",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Cake",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg whites, at room temperature"
+    },
+    {
+      "group": "Cake",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Cake",
+      "qty": 1,
+      "unit": "pc",
+      "item": "vanilla pod, seeds only"
+    },
+    {
+      "group": "Cake",
+      "qty": 340,
+      "unit": "g",
+      "item": "mascarpone"
+    },
+    {
+      "group": "Cake",
+      "qty": 120,
+      "unit": "ml",
+      "item": "sweetened condensed milk"
+    },
+    {
+      "group": "Cake",
+      "qty": 44,
+      "unit": "pc",
+      "item": "savoiardi sponge fingers (2 packs of 200 g)"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium ripe but firm mangoes"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lime juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Bloom",
+      "text": "Soak 7 g gelatine and 1½ tsp ground cardamom in 60 ml water for 5 min, microwave for 45 s, then leave to cool for 5-7 min."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend 240 ml of the diced mango with 50 g sugar and 1 tsp lime juice until smooth."
+    },
+    {
+      "title": "Boil",
+      "text": "Dissolve 200 g sugar, 60 ml water and the light corn or glucose syrup over medium-low heat, then boil to 114 °C, about 5 min."
+    },
+    {
+      "title": "Meringue",
+      "text": "Whisk 4 egg whites with the vanilla seeds and ¾ tsp salt to soft peaks, pour in the hot syrup with the mixer running and whisk until cool, thick and glossy, about 7 min, then beat in the bloomed gelatine."
+    },
+    {
+      "title": "Fold",
+      "text": "Whisk the mascarpone, condensed milk and mango purée together, fold in a third of the meringue followed by the rest, then fold in the remaining diced mango."
+    },
+    {
+      "title": "Build",
+      "text": "Scatter half the broken sponge fingers over the lined tin base, spread half the filling leaving a 2.5 cm gap, stand the 24 trimmed sponge fingers upright around the edge and spread the filling to meet them."
+    },
+    {
+      "title": "Repeat",
+      "text": "Scatter over the rest of the broken sponge fingers, pressing in, then spread over the remaining filling."
+    },
+    {
+      "title": "Decorate",
+      "text": "Peel the topping mangoes into thin strips, toss with 2 tsp lime juice, roll into flower shapes and arrange over the top."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover loosely and chill for at least 4 h until set, then release from the tin and serve chilled."
+    }
+  ],
+  "tips": [
+    "Use pasteurised egg whites for the meringue if serving pregnant women, young children, older people or anyone unwell, as it may not fully reach 71 °C.",
+    "Check the gelatine packet, as it is sourced from beef.",
+    "Choose mangoes that are ripe but still firm so the diced fruit and the peeled topping strips hold their shape."
+  ],
+  "storage": "This is a chilled rather than frozen cake, so keep it covered in the fridge.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 434,
+    "protein_g": 8.3,
+    "carbs_g": 64.5,
+    "sugar_g": 54.3,
+    "free_sugar_g": 41.8,
+    "fat_g": 17.0,
+    "satfat_g": 10.3,
+    "salt_g": 0.61,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A round charlotte cake ringed with sponge fingers, filled with pale mango mousse and topped with rose-like mango flowers.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

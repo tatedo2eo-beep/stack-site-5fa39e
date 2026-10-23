@@ -1,0 +1,133 @@
+{
+  "slug": "chocolate-chip-cookie-ice-cream-pie",
+  "title": "Chocolate Chip Cookie Ice Cream Pie",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "ice-cream-cake",
+  "dish_title": "Ice-cream cake",
+  "flavour": "Chocolate",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "layered-chocolate-vanilla-ice-cream-cake",
+  "changes_from_base": "A pressed chocolate-chip biscuit crust filled with two layers of bought chocolate ice cream and a hot fudge middle, instead of sponge layers.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A no-bake chocolate ice cream pie with a crisp biscuit crust and a ribbon of hot fudge running through the middle.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "food processor",
+    "large bowl",
+    "spoon",
+    "23 cm pie dish",
+    "baking paper",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Crust",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Crust",
+      "qty": 200,
+      "unit": "g",
+      "item": "crisp chocolate chip biscuits, frozen for 20 min"
+    },
+    {
+      "group": "Crust",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 950,
+      "unit": "ml",
+      "item": "chocolate ice cream, divided (475 ml + 475 ml)"
+    },
+    {
+      "group": "Filling",
+      "qty": 120,
+      "unit": "ml",
+      "item": "hot fudge sauce"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "sprinkles (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Melt",
+      "text": "Melt 85 g unsalted butter over medium-low heat and leave to cool until liquid but no longer hot, about 15 min."
+    },
+    {
+      "title": "Crush",
+      "text": "Pulse 200 g frozen chocolate chip biscuits to fine crumbs, setting aside 1 tbsp for decoration, then stir the rest with the melted butter and ⅛ tsp salt using a spoon so the chocolate chips do not melt."
+    },
+    {
+      "title": "Press",
+      "text": "Press the crumb mixture over the base and up the sides of the pie dish and freeze for at least 30 min until firm."
+    },
+    {
+      "title": "Spread",
+      "text": "Spread 475 ml chocolate ice cream over the crust and freeze for at least 1 h."
+    },
+    {
+      "title": "Fudge",
+      "text": "Dot 120 ml hot fudge sauce over the ice cream in small spoonfuls, spread evenly and freeze for at least 1 h."
+    },
+    {
+      "title": "Top",
+      "text": "Spread the remaining 475 ml chocolate ice cream over the fudge layer, cover with baking paper and freeze for at least 4 h, ideally overnight."
+    },
+    {
+      "title": "Serve",
+      "text": "Stand the pie for 5 min, scatter sprinkles around the edge and the reserved crumbs in the centre, then cut into wedges."
+    }
+  ],
+  "tips": [
+    "Mix the crumb crust with a spoon rather than your hands so the chocolate chips stay intact.",
+    "Let each ice cream layer firm up in the freezer before adding the next so the fudge stays as a distinct ribbon.",
+    "Leave the pie to stand for 5 min at room temperature before slicing to make cutting easier."
+  ],
+  "storage": "Covered tightly, the pie keeps in the freezer for up to 1 week.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 413,
+    "protein_g": 4.8,
+    "carbs_g": 47.2,
+    "sugar_g": 36.0,
+    "free_sugar_g": 36.0,
+    "fat_g": 24.1,
+    "satfat_g": 13.2,
+    "salt_g": 0.6,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A sliced ice cream pie in a biscuit crust showing layers of chocolate ice cream and a fudge ribbon, scattered with sprinkles.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
