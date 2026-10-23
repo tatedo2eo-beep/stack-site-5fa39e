@@ -1,0 +1,137 @@
+{
+  "slug": "fried-brussels-sprouts-shallots-honey-balsamic",
+  "title": "Fried Brussels Sprouts with Crisp Shallots, Honey and Balsamic",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "brussels-sprouts",
+  "dish_title": "Brussels sprouts",
+  "flavour": "Balsamic",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Deep-fried Brussels sprouts and shallots tossed in a sweet honey and balsamic dressing with fresh parsley, for a crisp, punchy side.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "small bowl",
+    "wok or large deep casserole",
+    "deep-fry thermometer",
+    "spider or slotted spoon",
+    "tray lined with kitchen paper",
+    "large bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Dressing",
+      "qty": 63,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 3 tbsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "balsamic vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 15,
+      "unit": "g",
+      "item": "parsley leaves, finely chopped"
+    },
+    {
+      "group": "Sprouts",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "neutral oil, for deep frying",
+      "note": "about 70 g is absorbed"
+    },
+    {
+      "group": "Sprouts",
+      "qty": 1200,
+      "unit": "g",
+      "item": "Brussels sprouts, trimmed, outer leaves removed, halved"
+    },
+    {
+      "group": "Sprouts",
+      "qty": 3,
+      "unit": "pc",
+      "item": "medium shallots, thinly sliced"
+    },
+    {
+      "group": "Sprouts",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Sprouts",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dressing",
+      "text": "Mix 3 tbsp honey, 1 tbsp balsamic vinegar and the chopped parsley in a small bowl."
+    },
+    {
+      "title": "Heat",
+      "text": "Heat the oil in a wok to 205°C."
+    },
+    {
+      "title": "First batch",
+      "text": "Fry half the sprouts and half the shallots, letting the oil fall to about 165°C and holding it there, stirring until deep golden brown, about 4 min."
+    },
+    {
+      "title": "Drain",
+      "text": "Lift the sprouts and shallots onto kitchen paper."
+    },
+    {
+      "title": "Second batch",
+      "text": "Reheat the oil to 205°C and fry the remaining sprouts and shallots."
+    },
+    {
+      "title": "Toss",
+      "text": "Tip the hot sprouts and shallots into a bowl with the dressing, toss, season with ¾ tsp salt and ¼ tsp pepper and serve at once."
+    }
+  ],
+  "tips": [
+    "Make sure the sprouts are completely dry before frying, as any moisture will cause the oil to spatter.",
+    "Fry in two batches and keep the oil at the right temperature so the sprouts crisp rather than steam.",
+    "Toss the sprouts in the dressing as soon as they're drained, while they're still hot.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best served immediately while crisp; leftovers can be kept covered in the fridge for a day but will soften on reheating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 179,
+    "protein_g": 5.5,
+    "carbs_g": 22.9,
+    "sugar_g": 11.3,
+    "free_sugar_g": 6.5,
+    "fat_g": 9.2,
+    "satfat_g": 0.7,
+    "salt_g": 0.65,
+    "fibre_g": 6.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "brussels-sprouts-advanced--balsamic.jpg",
+  "image_alt": "A bowl of deep-fried Brussels sprouts and shallots glazed in a honey balsamic dressing and flecked with chopped parsley.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

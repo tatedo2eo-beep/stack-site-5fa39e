@@ -1,0 +1,166 @@
+{
+  "slug": "classic-reuben-corned-beef-sauerkraut-rye",
+  "title": "Classic Reuben with Corned Beef, Sauerkraut and Russian-Style Dressing",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "sandwiches-wraps",
+  "book_chapter": "sandwiches-wraps",
+  "dish": "reuben",
+  "dish_title": "Reuben",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Hot pressed sandwiches layered with warm corned beef, tangy sauerkraut and melted cheese between slices of rye, finished with a creamy dressing.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "medium bowl",
+    "rimmed baking tray",
+    "foil",
+    "small frying pan",
+    "30 cm heavy frying pan with a slightly smaller lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Russian-style dressing",
+      "qty": 35,
+      "unit": "ml",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Russian-style dressing",
+      "qty": 30,
+      "unit": "ml",
+      "item": "soured cream"
+    },
+    {
+      "group": "Russian-style dressing",
+      "qty": 20,
+      "unit": "ml",
+      "item": "ketchup"
+    },
+    {
+      "group": "Russian-style dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "dill pickle, finely chopped"
+    },
+    {
+      "group": "Russian-style dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Russian-style dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "grated horseradish from a jar"
+    },
+    {
+      "group": "Russian-style dressing",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 450,
+      "unit": "g",
+      "item": "thinly sliced cooked corned beef"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 70,
+      "unit": "g",
+      "item": "butter, softened"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 225,
+      "unit": "g",
+      "item": "sauerkraut, drained"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices rye bread"
+    },
+    {
+      "group": "Sandwiches",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices Swiss cheese (Emmental)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dressing",
+      "text": "Stir together 35 ml mayonnaise, 30 ml soured cream, 20 ml ketchup, 1 tbsp chopped pickle, 1 tbsp lemon juice and 1 tsp horseradish, then season with pepper."
+    },
+    {
+      "title": "Warm",
+      "text": "Oven 180°C, wrap the 450 g corned beef with 2 tbsp water in foil and heat for 10 min."
+    },
+    {
+      "title": "Sauerkraut",
+      "text": "Melt 15 g butter in a small pan and cook the sauerkraut until the liquid evaporates and it turns glossy, about 5 min."
+    },
+    {
+      "title": "Toast",
+      "text": "Melt 30 g butter in the large pan and toast 4 bread slices on one side until golden, about 4 min."
+    },
+    {
+      "title": "Assemble",
+      "text": "Spread dressing on all 8 slices, pile the drained beef, sauerkraut and cheese onto the toasted slices, then close with the untoasted slices."
+    },
+    {
+      "title": "Grill",
+      "text": "Melt the remaining 25 g butter, add the sandwiches and press with a smaller lid until the cheese melts, about 2 min, then uncover and keep pressing until crisp, about 3 min."
+    },
+    {
+      "title": "Serve",
+      "text": "Halve diagonally and serve hot."
+    }
+  ],
+  "tips": [
+    "Warm the beef gently in a sealed foil parcel so it stays moist rather than drying out.",
+    "Cook off the extra liquid from the sauerkraut so the sandwich doesn't turn soggy.",
+    "Press firmly while grilling and move the sandwiches around the pan for even, crisp colouring."
+  ],
+  "storage": "Best eaten hot and freshly made; reheat any leftover beef until piping hot (74°C) before rebuilding the sandwich. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 833,
+    "protein_g": 38.4,
+    "carbs_g": 36.9,
+    "sugar_g": 5.2,
+    "free_sugar_g": 3.8,
+    "fat_g": 59.0,
+    "satfat_g": 26.1,
+    "salt_g": 5.19,
+    "fibre_g": 5.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "reuben-advanced.jpg",
+  "image_alt": "A halved toasted rye sandwich oozing melted cheese, corned beef and sauerkraut, with a bowl of pink dressing alongside.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

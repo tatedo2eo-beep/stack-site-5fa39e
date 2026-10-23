@@ -1,0 +1,162 @@
+{
+  "slug": "cheese-herb-borek-spiral",
+  "title": "Cheese and Herb Börek Spiral",
+  "category": "snacks-sides",
+  "cuisine": "Turkish",
+  "chapter": "savory-pies-pastries",
+  "book_chapter": "savory-pies-pastries",
+  "dish": "borek",
+  "dish_title": "Börek",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A golden, crisp filo spiral filled with a herby mix of feta, Monterey Jack and goat cheese, baked until deeply golden and cut into wedges.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "medium bowl",
+    "small saucepan",
+    "pastry brush",
+    "25 cm round tin or ovenproof frying pan",
+    "baking paper",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 225,
+      "unit": "g",
+      "item": "feta, crumbled"
+    },
+    {
+      "group": "Filling",
+      "qty": 115,
+      "unit": "g",
+      "item": "Monterey Jack or other mild melting cheese, grated"
+    },
+    {
+      "group": "Filling",
+      "qty": 70,
+      "unit": "g",
+      "item": "soft goat cheese, crumbled"
+    },
+    {
+      "group": "Filling",
+      "qty": 60,
+      "unit": "g",
+      "item": "mixed soft herbs (dill, parsley, mint, coriander), chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 4,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, lightly beaten"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Pastry",
+      "qty": 9,
+      "unit": "pc",
+      "item": "large sheets filo pastry (about 33 x 46 cm), thawed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 140,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "sesame seeds"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "nigella seeds (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Filling",
+      "text": "Mix the 225 g feta, 115 g Monterey Jack, 70 g goat cheese, 60 g herbs, spring onions, 2 eggs and ¼ tsp pepper, then chill covered."
+    },
+    {
+      "title": "Butter",
+      "text": "Oven 190°C, melt the 140 g butter in a small pan, swirling, until the foaming stops but the solids are not browned, 5-7 min."
+    },
+    {
+      "title": "Layer",
+      "text": "Lay 1 sheet of filo with the long side toward you, brush with butter, top with a second sheet and brush again."
+    },
+    {
+      "title": "Roll",
+      "text": "Spoon one-third of the filling along the near edge, roll up into a loose rope, then gently scrunch it shorter like a concertina."
+    },
+    {
+      "title": "Coil",
+      "text": "Coil the rope in the middle of the lined tin, then repeat twice more, joining each rope to the end of the spiral."
+    },
+    {
+      "title": "Patch",
+      "text": "Use the remaining 3 sheets of filo, buttered and scrunched, to patch any gaps or wrap the outer edge."
+    },
+    {
+      "title": "Finish",
+      "text": "Brush the top generously with butter and scatter over the sesame and nigella seeds."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake until deep golden and crisp, 35-40 min, then cool on a rack for 10 min before cutting into wedges."
+    }
+  ],
+  "tips": [
+    "Keep the filo covered with a damp cloth as you work so it doesn't dry out and crack.",
+    "Scrunch the filled rope gently like a concertina so it coils without splitting.",
+    "Use the last few sheets of filo to patch any gaps so the filling doesn't leak out during baking."
+  ],
+  "storage": "Best served the day it's baked while the pastry is crisp; keep any leftovers covered in the fridge and reheat in the oven until hot (71°C) in the centre. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 407,
+    "protein_g": 14.0,
+    "carbs_g": 20.2,
+    "sugar_g": 1.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 30.4,
+    "satfat_g": 18.2,
+    "salt_g": 1.42,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "borek-basic.jpg",
+  "image_alt": "A golden spiral of crisp filo pastry filled with herbed cheese, cut into wedges revealing the coiled layers inside.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

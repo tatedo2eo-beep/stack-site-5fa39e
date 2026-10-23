@@ -4,6 +4,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 
 | Recipe | Dish | Flavour | Locked-list technique sources | All sources |
 |---|---|---|---|---|
+| ackee-saltfish-fried-dumplings-plantain | Ackee and saltfish | Classic | 1 | 3 |
 | adana-style-lamb-kebabs | Adana kebabı | Classic | 3 | 5 |
 | aebleskiver-danish-apple-filled-pancake-balls | Æbleskiver | Classic | 2 | 4 |
 | agua-de-jamaica-hibiscus-allspice-orange | Agua de jamaica | Classic | 2 | 4 |
@@ -202,6 +203,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |
 | cheese-bread-boats-melted-mozzarella-feta-baked-egg | Khachapuri | Classic | 2 | 4 |
 | cheese-empanadas-melting-mozzarella-fontina | Empanadas | Cheese | 1 | 3 |
+| cheese-herb-borek-spiral | Börek | Classic | 1 | 3 |
 | cheese-jalapeno-nachos | Nachos | Classic | 2 | 4 |
 | cheese-tomato-lasagne-anchovy-sauce | Sheets/baked (lasagne) | Tomato | 1 | 3 |
 | cheeseburger-sliders | Sliders | Classic | 2 | 5 |
@@ -319,6 +321,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-patty-melt | Patty melt | Classic | 2 | 6 |
 | classic-pecan-pie | Pecan | Classic | 2 | 4 |
 | classic-pumpkin-pie | Pumpkin pie | Classic | 2 | 4 |
+| classic-reuben-corned-beef-sauerkraut-rye | Reuben | Classic | 1 | 3 |
 | classic-shallot-vinaigrette | Vinaigrette | Classic | 3 | 5 |
 | classic-smash-burger | Smash burger | Cheese | 3 | 7 |
 | classic-strawberry-jam | Strawberry jam | Classic | 2 | 4 |
@@ -343,6 +346,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cold-somen | Somen | Classic | 3 | 5 |
 | colombian-arepas-de-queso-cheese-filled-corn-cakes | Arepa | Cheese | 2 | 4 |
 | concord-grape-sorbet | Sorbet | Grape | 1 | 3 |
+| confit-byaldi-piperade-slow-baked-vegetables | Ratatouille (& confit byaldi) | Classic | 0 | 3 |
 | cooked-strawberry-frozen-yoghurt | Frozen yogurt | Strawberry | 1 | 3 |
 | cooked-yolk-hollandaise | Hollandaise (béarnaise, mousseline) | Classic | 2 | 4 |
 | cookies-and-cream-custard-ice-cream | Custard-base (French) | Cookies & cream | 1 | 3 |
@@ -350,6 +354,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cool-yoghurt-rice-mustard-seeds-curry-leaves-pomegranate | Curd rice | Classic | 2 | 4 |
 | coriander-lemon-chermoula | Chermoula | Classic | 2 | 4 |
 | corn-egg-drop-soup-chicken | Egg drop soup | Corn egg drop | 3 | 5 |
+| corned-beef-cabbage-potatoes-carrots | Corned beef and cabbage | Classic | 1 | 3 |
 | cornish-beef-pasty | Cornish pasty | Classic | 2 | 4 |
 | cornmeal-cranberry-pancakes-apple-compote | Pancakes (American) | Cranberry | 1 | 3 |
 | coronation-chicken | Coronation chicken | Classic | 2 | 5 |
@@ -458,6 +463,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | dubu-jorim-spicy-braised-tofu | Dubu jorim (spicy braised tofu) | Classic | 1 | 3 |
 | duchess-potatoes | Duchesse | Classic | 2 | 4 |
 | dulce-de-leche-icebox-cake | Ice-cream cake | Dulce de leche | 1 | 3 |
+| durban-lamb-potato-bunny-chow | Bunny chow | Classic | 1 | 3 |
 | dutch-baby-pancake-berries-lemon | Dutch baby | Classic | 2 | 4 |
 | earl-grey-chocolate-cremeux-tart-coconut-crust | Chocolate tart | Earl Grey | 1 | 3 |
 | egg-drop-soup-ginger-spring-onion | Egg drop soup | Classic | 3 | 5 |
@@ -522,6 +528,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fresh-orange-sherbet-creamy | Sherbet | Classic | 1 | 3 |
 | fresh-peach-custard-ice-cream | Custard-base (French) | Peach | 1 | 3 |
 | fresh-red-chilli-sambal | Sambal | Classic | 2 | 4 |
+| fried-brussels-sprouts-shallots-honey-balsamic | Brussels sprouts | Balsamic | 1 | 3 |
 | fried-mini-pizzas-tomato-mozzarella-basil | Pizza fritta/montanara | Classic | 2 | 4 |
 | frothy-whisked-matcha-green-tea | Matcha (whisked) | Classic | 2 | 4 |
 | frozen-yogurt-strained-tangy | Frozen yogurt | Classic | 1 | 3 |
@@ -1364,6 +1371,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | toasted-walnut-brown-sugar-custard-ice-cream | Custard-base (French) | Walnut | 1 | 3 |
 | toasted-whole-spice-garam-masala | Garam masala | Classic | 2 | 4 |
 | toffee-crunch-custard-ice-cream | Custard-base (French) | Toffee | 1 | 3 |
+| tofu-katsu-sando-tangy-sauce-sesame-cabbage | Katsu sando | Classic | 1 | 3 |
 | tom-kha-gai-coconut-poached-chicken-breast | Tom kha | Chicken (gai) | 2 | 4 |
 | tom-kha-thai-coconut-chicken-mushroom-soup | Tom kha | Classic | 2 | 4 |
 | tom-yum-goong-thai-hot-sour-prawn-soup | Tom yum | Classic | 3 | 5 |

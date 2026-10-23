@@ -1,0 +1,178 @@
+{
+  "slug": "corned-beef-cabbage-potatoes-carrots",
+  "title": "Oven-Braised Corned Beef with Cabbage, Potatoes and Carrots",
+  "category": "beef-lamb",
+  "cuisine": "Irish-American",
+  "chapter": "meat",
+  "book_chapter": "meat",
+  "dish": "corned-beef-and-cabbage",
+  "dish_title": "Corned beef and cabbage",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A classic braised brisket dinner, slow-cooked until meltingly tender then served with buttery potatoes, carrots and cabbage wedges.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 330,
+  "difficulty": "easy",
+  "equipment": [
+    "large casserole (Dutch oven) with lid",
+    "fine sieve",
+    "large bowl",
+    "33 x 23 cm baking dish",
+    "foil",
+    "carving board"
+  ],
+  "ingredients": [
+    {
+      "group": "Beef",
+      "qty": 2000,
+      "unit": "g",
+      "item": "flat-cut corned beef brisket, rinsed, fat trimmed to about 5 mm"
+    },
+    {
+      "group": "Beef",
+      "qty": 950,
+      "unit": "ml",
+      "item": "low-salt chicken stock",
+      "note": "check stock label for celery"
+    },
+    {
+      "group": "Beef",
+      "qty": 950,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Beef",
+      "qty": 10,
+      "unit": "pc",
+      "item": "carrots, peeled (2 chopped, 8 halved crosswise)",
+      "note": "2 for the pot, 8 to serve"
+    },
+    {
+      "group": "Beef",
+      "qty": 2,
+      "unit": "pc",
+      "item": "celery sticks, chopped"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "pc",
+      "item": "onion, peeled and quartered"
+    },
+    {
+      "group": "Beef",
+      "qty": 3,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "black peppercorns"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fresh thyme, chopped"
+    },
+    {
+      "group": "Beef",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "whole allspice berries"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 40,
+      "unit": "g",
+      "item": "butter"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 700,
+      "unit": "g",
+      "item": "small red potatoes"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "green cabbage (about 900 g), cut into 8 wedges"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "wholegrain mustard, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Braise",
+      "text": "Oven 150°C, combine the 2000 g brisket, 950 ml stock, 950 ml water, 2 chopped carrots, celery, onion, 3 bay leaves, 1 tbsp peppercorns, 1 tbsp thyme and 1 tsp allspice in a casserole, bring to a simmer, cover and braise until a fork slides in easily, 4½-5 h."
+    },
+    {
+      "title": "Rest",
+      "text": "Move the brisket to a baking dish, ladle over 240 ml of the cooking liquid, cover with foil and leave to rest."
+    },
+    {
+      "title": "Strain",
+      "text": "Strain the remaining liquid, skim off the fat and return it to the casserole with 40 g butter, 700 g potatoes and the 8 halved carrots, then simmer until just tender, 7-10 min."
+    },
+    {
+      "title": "Cabbage",
+      "text": "Add the cabbage wedges, cover and simmer until all the vegetables are tender, 10-15 min more."
+    },
+    {
+      "title": "Slice",
+      "text": "Slice the brisket against the grain about 5 mm thick."
+    },
+    {
+      "title": "Serve",
+      "text": "Arrange the brisket with the vegetables, moisten with a little broth, season with ¼ tsp pepper and serve with the mustard."
+    }
+  ],
+  "tips": [
+    "Make sure the liquid just covers the brisket before braising, topping up with water if needed, so it cooks evenly.",
+    "Skim the fat from the strained liquid before simmering the vegetables for a cleaner-tasting broth.",
+    "Slice the brisket against the grain for the most tender result."
+  ],
+  "storage": "Store cooled brisket and vegetables separately in the fridge for up to 3 days and reheat until piping hot (74°C) before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "mustard",
+    "celery"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 1087,
+    "protein_g": 67.7,
+    "carbs_g": 46.4,
+    "sugar_g": 13.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 69.8,
+    "satfat_g": 24.8,
+    "salt_g": 10.05,
+    "fibre_g": 10.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "corned-beef-and-cabbage-basic.jpg",
+  "image_alt": "Thick slices of braised brisket arranged on a platter with buttered potatoes, carrots and cabbage wedges, moistened with broth.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
