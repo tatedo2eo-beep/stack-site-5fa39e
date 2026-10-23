@@ -1,0 +1,154 @@
+{
+  "slug": "pearl-sugar-chouquettes",
+  "title": "Chouquettes (Pearl Sugar Choux Puffs)",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "chouquettes",
+  "dish_title": "Chouquettes",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Little crisp choux puffs topped with crunchy pearl sugar, baked until deep golden and light as air.",
+  "servings": 10,
+  "prep_min": 25,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "2 baking trays",
+    "baking paper",
+    "medium saucepan",
+    "wooden spoon",
+    "bowl",
+    "electric whisk (optional)",
+    "piping bag with 1.2 cm plain nozzle",
+    "pastry brush",
+    "small bowl",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Choux pastry",
+      "qty": 75,
+      "unit": "g",
+      "item": "unsalted butter, diced"
+    },
+    {
+      "group": "Choux pastry",
+      "qty": 75,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Choux pastry",
+      "qty": 75,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Choux pastry",
+      "qty": 6,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1.5 tsp"
+    },
+    {
+      "group": "Choux pastry",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Choux pastry",
+      "qty": 95,
+      "unit": "g",
+      "item": "plain flour, sifted"
+    },
+    {
+      "group": "Choux pastry",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs, beaten"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "whole milk"
+    },
+    {
+      "group": "Topping",
+      "qty": 60,
+      "unit": "g",
+      "item": "pearl (nib) sugar",
+      "note": "the large, hard white nibs that do not melt in the oven"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "heat the oven to 200 °C (180 °C fan) and line the trays with baking paper."
+    },
+    {
+      "title": "Panade",
+      "text": "bring the butter, water, milk, sugar and salt to a full boil, take off the heat and tip in all the flour. Beat hard, then return to low heat and keep beating 1-2 min until the paste forms a smooth ball and leaves a thin film on the pan. Cooking the flour paste dries it out so it can take more egg and puff higher."
+    },
+    {
+      "title": "Eggs",
+      "text": "tip into the bowl and cool 5 min, stirring. Beat in the eggs a little at a time until the paste is glossy and falls from the spoon in a thick V; you may not need the last spoonful."
+    },
+    {
+      "title": "Pipe",
+      "text": "pipe about 30 mounds 3 cm wide, 4 cm apart, and smooth any points with a wet fingertip. Beat the yolk with the milk and brush a thin coat on each mound without letting it drip onto the paper."
+    },
+    {
+      "title": "Sugar",
+      "text": "press a generous pinch of pearl sugar onto the top and sides of each mound; it should look crowded, as the puffs double in size."
+    },
+    {
+      "title": "Bake",
+      "text": "bake 22-25 min, without opening the door for the first 15 min, until puffed, deep golden and light. Turn the oven off, prop the door ajar and leave 20 min so they dry and hold their shape, then cool on the rack. Steam inside lifts the puffs; opening the door too soon lets it escape and they sink."
+    }
+  ],
+  "tips": [
+    "A common mistake is adding all the egg at once; add it slowly and stop when the paste falls in a V.",
+    "Pearl sugar keeps its shape in the oven; ordinary sugar melts, so do not swap it.",
+    "Bake one tray at a time on the middle shelf for even colour.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best within a few hours. Keep in a paper bag for up to 1 day, or freeze for 1 month and recrisp at 180 °C (160 °C fan) for 4-5 min.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 146,
+    "protein_g": 3.5,
+    "carbs_g": 14.5,
+    "sugar_g": 7.1,
+    "free_sugar_g": 6.6,
+    "fat_g": 8.3,
+    "satfat_g": 4.7,
+    "salt_g": 0.21,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chouquettes-basic.jpg",
+  "image_alt": "A dark bowl piled with small golden choux puffs covered in white pearl sugar.",
+  "inspired_by": [
+    "King Arthur Baking",
+    "Serious Eats"
+  ]
+}

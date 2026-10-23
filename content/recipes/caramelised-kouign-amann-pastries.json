@@ -1,0 +1,151 @@
+{
+  "slug": "caramelised-kouign-amann-pastries",
+  "title": "Caramelised Kouign-Amann Pastries",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "kouign-amann",
+  "dish_title": "Kouign-amann",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Flaky, buttery pastries folded into flower shapes with layers of sugar that bake into a crunchy caramel crust.",
+  "servings": 12,
+  "prep_min": 90,
+  "cook_min": 70,
+  "difficulty": "hard",
+  "equipment": [
+    "stand mixer with dough hook",
+    "bowl",
+    "cling film",
+    "baking paper",
+    "rolling pin",
+    "ruler",
+    "sharp knife",
+    "pastry brush",
+    "two 12-hole muffin tins",
+    "baking tray lined with foil",
+    "palette knife",
+    "wire rack",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 375,
+      "unit": "g",
+      "item": "strong white bread flour, plus a little for rolling"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "instant (fast-action) yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1¼ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 25,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Dough",
+      "qty": 240,
+      "unit": "ml",
+      "item": "lukewarm water"
+    },
+    {
+      "group": "Butter layer",
+      "qty": 300,
+      "unit": "g",
+      "item": "cold unsalted butter"
+    },
+    {
+      "group": "Sugar",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter, melted, for the tins"
+    },
+    {
+      "group": "Sugar",
+      "qty": 260,
+      "unit": "g",
+      "item": "caster sugar, divided",
+      "note": "50 g for the tins, 150 g for the folds and rolling, 60 g for shaping"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Tins",
+      "text": "brush 6 alternate holes in each tin with melted butter and sprinkle each with about 1 tsp of sugar (50 g in all)."
+    },
+    {
+      "title": "Dough",
+      "text": "knead the flour, yeast, salt, melted butter and water on low until it comes together, then on medium 8-10 min until smooth and it stretches thin without tearing. Cover and leave in a warm place 1 h until puffy but not quite doubled."
+    },
+    {
+      "title": "Butter",
+      "text": "fold baking paper into an 18 cm square packet, put the cold butter inside in slices and beat and roll it into an even, pliable 18 cm square. Chill. Press the air out of the dough, flatten to a disc, wrap and freeze 30 min until very cold."
+    },
+    {
+      "title": "Laminate",
+      "text": "roll the dough to a 30 cm square, set the butter on it like a diamond and fold the corners over to enclose it. Roll to a 60 x 25 cm strip and fold in 3 like a letter. Turn 90°, roll and fold again, then wrap and chill 30 min. Give it a third roll and fold. Cold butter in thin layers turns to steam in the oven and pushes the layers apart."
+    },
+    {
+      "title": "Sugar fold",
+      "text": "roll a fourth time to 60 x 25 cm, sprinkle the middle third with 40 g sugar, fold one end over, sprinkle with 40 g more and fold the last third over. Chill 30 min; if the butter softens at any stage, chill 20 min."
+    },
+    {
+      "title": "Shape",
+      "text": "scatter 30 g sugar on the worktop, roll the dough to 34 x 45 cm and scatter 40 g more on top. Trim the edges and cut 12 squares of about 11 cm. Sprinkle each with 1 tsp sugar, fold the 4 corners into the centre, press down and set in the prepared holes."
+    },
+    {
+      "title": "Prove",
+      "text": "cover loosely and leave 45-60 min in a warm (not hot) place until puffed and the layers start to open. Heat the oven to 190 °C (170 °C fan) with the foil-lined tray on the shelf below."
+    },
+    {
+      "title": "Bake",
+      "text": "bake one tin at a time, 15 min, then lower to 175 °C (155 °C fan) and bake 15-20 min more until deep golden with dark caramel at the edges; the centre should read 93 °C. Turn the oven back up for the second tin. Cool 5 min, ease out with the palette knife and cool caramel side up on the rack. Spacing them in alternate holes lets hot air reach every side so they caramelise evenly."
+    }
+  ],
+  "tips": [
+    "A common mistake is letting the butter warm up; if it feels greasy or soft, chill the dough for 20 min.",
+    "Prove somewhere warm but not hot, or the butter melts out before baking.",
+    "Unmould while still warm, as the caramel hardens and sticks once cold.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day. Keep in an airtight box for up to 2 days and warm at 180 °C (160 °C fan) for 4 min.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 402,
+    "protein_g": 4.2,
+    "carbs_g": 44.6,
+    "sugar_g": 21.7,
+    "free_sugar_g": 21.6,
+    "fat_g": 23.5,
+    "satfat_g": 14.6,
+    "salt_g": 0.62,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "kouign-amann-advanced.jpg",
+  "image_alt": "Four flaky, caramelised kouign-amann pastries on a dark tray, one broken open to show the layers.",
+  "inspired_by": [
+    "Food Network Kitchen",
+    "King Arthur Baking"
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "slug": "kanda-poha-peanuts-peas-potato",
+  "title": "Kanda Poha (Flattened Rice with Onion, Peanuts, Peas and Potato)",
+  "category": "breakfast",
+  "cuisine": "Indian (Maharashtrian)",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "poha-rice",
+  "dish_title": "Poha (rice)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Rinsed poha seasoned with turmeric, salt and sugar, folded into a tempering of peanuts, mustard and cumin seeds, curry leaves, chillies and onion with boiled potato and peas. Steamed briefly and finished with coriander and lemon.",
+  "servings": 3,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "sieve",
+    "large frying pan or kadai with lid",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Poha",
+      "qty": 200,
+      "unit": "g",
+      "item": "thick poha (flattened rice)"
+    },
+    {
+      "group": "Poha",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Poha",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Poha",
+      "qty": 4,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium potato, boiled, peeled and diced"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 70,
+      "unit": "g",
+      "item": "frozen peas"
+    },
+    {
+      "group": "Tempering",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Tempering",
+      "qty": 40,
+      "unit": "g",
+      "item": "raw peanuts"
+    },
+    {
+      "group": "Tempering",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "black mustard seeds"
+    },
+    {
+      "group": "Tempering",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cumin seeds"
+    },
+    {
+      "group": "Tempering",
+      "qty": 12,
+      "unit": "pc",
+      "item": "curry leaves"
+    },
+    {
+      "group": "Tempering",
+      "qty": 2,
+      "unit": "pc",
+      "item": "green chillies, slit"
+    },
+    {
+      "group": "Tempering",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "To finish",
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh coriander, chopped"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften the poha",
+      "text": "Tip the poha into a sieve and rinse under cold water for about 30 seconds, tossing, until just softened but not mushy. Drain well, then toss with the turmeric, salt and sugar and leave for 5-10 min; the flakes absorb the clinging water and turn fluffy."
+    },
+    {
+      "title": "Fry the peanuts",
+      "text": "Heat the oil in the pan over medium heat and fry the peanuts for 2-3 min until golden and crisp. Lift them out with a slotted spoon so they stay crunchy."
+    },
+    {
+      "title": "Temper the spices",
+      "text": "Add the mustard seeds to the hot oil and, once they pop, the cumin, curry leaves and chillies for 30 seconds. Add the onion and cook for 4-5 min until soft and translucent."
+    },
+    {
+      "title": "Combine",
+      "text": "Add the potato and peas and cook for 2-3 min until heated through. Gently fold in the poha, cover and steam on low for 2-3 min, stirring once."
+    },
+    {
+      "title": "Finish",
+      "text": "Stir in most of the peanuts and coriander, scatter over the rest and serve hot with lemon wedges."
+    }
+  ],
+  "tips": [
+    "Use thick poha; thin poha dissolves when rinsed.",
+    "Grated fresh coconut on top is a lovely addition.",
+    "Squeeze over the lemon just before eating to keep the colour bright."
+  ],
+  "storage": "Best eaten fresh. Refrigerate up to 1 day; sprinkle with water and reheat covered until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "mustard",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 505,
+    "protein_g": 11.6,
+    "carbs_g": 77.1,
+    "sugar_g": 6.1,
+    "free_sugar_g": 1.5,
+    "fat_g": 17.2,
+    "satfat_g": 1.9,
+    "salt_g": 1.06,
+    "fibre_g": 5.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "poha-rice-basic.jpg",
+  "image_alt": "Yellow flattened rice with peanuts, peas and potato, topped with coriander and a lemon wedge."
+}

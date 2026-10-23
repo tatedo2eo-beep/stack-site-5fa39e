@@ -1,0 +1,141 @@
+{
+  "slug": "oeufs-mayonnaise-lemon-mayo-chives",
+  "title": "Oeufs Mayonnaise (French Eggs with Lemon Mayonnaise)",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "eggs",
+  "book_chapter": "eggs",
+  "dish": "oeufs-mayonnaise",
+  "dish_title": "Oeufs mayonnaise",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Eggs boiled for 10-11 min, chilled and halved, then coated in a hand-whisked mayonnaise made with an egg yolk, mustard powder, lemon juice, garlic and oil. Finished with chives.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "bowl of iced water",
+    "mixing bowl on a damp cloth",
+    "balloon whisk",
+    "instant-read thermometer (for the cooked-yolk method)"
+  ],
+  "ingredients": [
+    {
+      "group": "Eggs",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs, for boiling"
+    },
+    {
+      "group": "Mayonnaise",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large pasteurised egg yolk, at room temperature",
+      "note": "see the egg-safety note for a cooked-yolk method"
+    },
+    {
+      "group": "Mayonnaise",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "mustard powder mixed with 1 tsp water"
+    },
+    {
+      "group": "Mayonnaise",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Mayonnaise",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Mayonnaise",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Mayonnaise",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Mayonnaise",
+      "qty": 100,
+      "unit": "ml",
+      "item": "sunflower oil"
+    },
+    {
+      "group": "Mayonnaise",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely snipped chives"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil the eggs",
+      "text": "Lower the eggs into a pan of boiling water and keep it at a steady simmer for 10-11 min so the yolks are firm (71 °C or above). Plunge them into iced water to stop the cooking, then peel and halve lengthways."
+    },
+    {
+      "title": "Start the mayonnaise",
+      "text": "Set the bowl on a damp cloth so it won't slide. Whisk the yolk, mustard paste, lemon juice, garlic, salt and pepper together until smooth; the mustard and yolk both help hold the sauce together."
+    },
+    {
+      "title": "Emulsify",
+      "text": "Whisking constantly, add the mixed oils a few drops at a time until the sauce starts to thicken, then pour in a thin, steady stream. If it looks greasy, stop adding oil and whisk until it turns glossy again. Thin with a few drops of warm water until it falls from the spoon in thick ribbons."
+    },
+    {
+      "title": "Assemble",
+      "text": "Spoon a little mayonnaise onto each plate and set the egg halves on top cut side down. Coat them generously with the rest and scatter with chives."
+    }
+  ],
+  "tips": [
+    "Egg safety: the mayonnaise yolk is raw, so use a pasteurised yolk. Otherwise whisk the yolk with the lemon juice and 1 tbsp water in a heatproof bowl over barely simmering water until it reaches 71 °C and thickens, cool for 5 min, then continue. Pregnant people, young children, older adults and anyone with weakened immunity should skip raw-yolk mayonnaise.",
+    "Have the yolk at room temperature; cold yolks are more likely to split.",
+    "If the mayonnaise splits, whisk a fresh yolk in a clean bowl and slowly beat the split sauce back in."
+  ],
+  "storage": "Mayonnaise made with pasteurised or cooked yolk keeps covered in the fridge for up to 2 days. Assemble the eggs just before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 415,
+    "protein_g": 7.2,
+    "carbs_g": 1.2,
+    "sugar_g": 0.4,
+    "free_sugar_g": 0.1,
+    "fat_g": 42.9,
+    "satfat_g": 5.6,
+    "salt_g": 0.55,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "oeufs-mayonnaise-basic.jpg",
+  "image_alt": "Halved boiled eggs coated in thick mayonnaise and sprinkled with chopped chives.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

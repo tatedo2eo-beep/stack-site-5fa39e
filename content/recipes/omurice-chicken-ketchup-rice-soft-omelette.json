@@ -1,0 +1,153 @@
+{
+  "slug": "omurice-chicken-ketchup-rice-soft-omelette",
+  "title": "Omurice (Japanese Ketchup Chicken Rice with Soft Omelette)",
+  "category": "rice-grains",
+  "cuisine": "Japanese",
+  "chapter": "rice",
+  "book_chapter": "rice",
+  "dish": "omurice",
+  "dish_title": "Omurice",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Day-old rice toasted in batches, tossed with chicken, onion, carrot and ketchup, moulded into domes and covered with a softly set omelette. Finished with a zigzag of ketchup.",
+  "servings": 2,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "25 cm non-stick or carbon-steel frying pan",
+    "flexible spatula",
+    "small heatproof bowl (about 400 ml)",
+    "2 serving plates"
+  ],
+  "ingredients": [
+    {
+      "group": "Ketchup rice",
+      "qty": 350,
+      "unit": "g",
+      "item": "cooked short-grain rice, preferably a day old",
+      "note": "from about 120 g raw"
+    },
+    {
+      "group": "Ketchup rice",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Ketchup rice",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 100 g"
+    },
+    {
+      "group": "Ketchup rice",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large carrot, finely diced"
+    },
+    {
+      "group": "Ketchup rice",
+      "qty": 100,
+      "unit": "g",
+      "item": "boneless, skinless chicken thigh, diced 1 cm"
+    },
+    {
+      "group": "Ketchup rice",
+      "qty": 60,
+      "unit": "ml",
+      "item": "tomato ketchup, plus extra to serve"
+    },
+    {
+      "group": "Ketchup rice",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Ketchup rice",
+      "qty": 1,
+      "unit": "pc",
+      "item": "spring onion, thinly sliced"
+    },
+    {
+      "group": "Ketchup rice",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Omelette",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Omelette",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Omelette",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the rice",
+      "text": "Break the cold rice into separate grains with your fingers. Heat 1 tbsp oil in the pan over high heat and stir-fry half the rice for about 3 min until lightly toasted, then set aside and repeat with the rest. Working in batches keeps the pan hot, so the rice fries rather than steams."
+    },
+    {
+      "title": "Cook the chicken",
+      "text": "Add 2 tbsp oil to the pan and fry the onion and carrot for 3 min until they start to brown. Add the chicken and cook for 3-4 min, stirring, until cooked through (74 °C)."
+    },
+    {
+      "title": "Coat with ketchup",
+      "text": "Return all the rice, add the ketchup thinned with the water and toss until every grain is glossy and evenly red. Stir through the spring onion and pepper."
+    },
+    {
+      "title": "Mould",
+      "text": "Pack half the rice into the small bowl and turn it out onto a plate as a neat dome. Repeat with the rest on the second plate."
+    },
+    {
+      "title": "Make the omelettes",
+      "text": "Wipe out the pan and heat half the remaining oil over medium-high heat. Pour in half the beaten eggs with the salt and stir rapidly while shaking the pan for 1-2 min, until softly set but still glossy, then spread into a round and slide it over a rice dome. Repeat, then finish each with a zigzag of ketchup."
+    }
+  ],
+  "tips": [
+    "Freshly cooked rice turns mushy; spread it on a tray and chill it for an hour if it isn't a day old.",
+    "Egg safety: a soft, glossy omelette needs pasteurised eggs. Otherwise cook it until just set throughout (71 °C). Pregnant people, young children, older adults and anyone with weakened immunity should eat only fully set eggs.",
+    "A drizzle of tomato sauce simmered with a little stock is a richer alternative to plain ketchup."
+  ],
+  "storage": "Best eaten straight away. The ketchup rice keeps in the fridge for 2 days; reheat until piping hot (74 °C) and make the omelette fresh. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 813,
+    "protein_g": 28.2,
+    "carbs_g": 69.2,
+    "sugar_g": 13.1,
+    "free_sugar_g": 8.0,
+    "fat_g": 47.2,
+    "satfat_g": 6.4,
+    "salt_g": 1.62,
+    "fibre_g": 3.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "omurice-basic.jpg",
+  "image_alt": "A smooth yellow omelette over a mound of ketchup rice, finished with a zigzag of ketchup.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

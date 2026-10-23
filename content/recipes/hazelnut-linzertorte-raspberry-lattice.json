@@ -1,0 +1,189 @@
+{
+  "slug": "hazelnut-linzertorte-raspberry-lattice",
+  "title": "Hazelnut Linzertorte with Raspberry Jam Lattice",
+  "category": "desserts",
+  "cuisine": "Austrian",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "linzer",
+  "dish_title": "Linzer",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A tender spiced hazelnut and almond pastry filled with raspberry jam and finished with a crunchy sugared lattice.",
+  "servings": 10,
+  "prep_min": 35,
+  "cook_min": 50,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor",
+    "small bowl",
+    "23 cm loose-based fluted tart tin",
+    "baking paper",
+    "rolling pin",
+    "ruler",
+    "sharp knife or fluted pastry wheel",
+    "baking tray",
+    "pastry brush",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Nut pastry",
+      "qty": 95,
+      "unit": "g",
+      "item": "hazelnuts, toasted and skinned"
+    },
+    {
+      "group": "Nut pastry",
+      "qty": 40,
+      "unit": "g",
+      "item": "blanched almonds"
+    },
+    {
+      "group": "Nut pastry",
+      "qty": 85,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Nut pastry",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Nut pastry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Nut pastry",
+      "qty": 145,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Nut pastry",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Nut pastry",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Nut pastry",
+      "qty": 115,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    },
+    {
+      "group": "Nut pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Nut pastry",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cold water"
+    },
+    {
+      "group": "Nut pastry",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Filling",
+      "qty": 280,
+      "unit": "g",
+      "item": "raspberry jam"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Glaze",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "whole milk"
+    },
+    {
+      "group": "Glaze",
+      "qty": 12,
+      "unit": "g",
+      "item": "demerara sugar",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry",
+      "text": "whisk the yolk, water and vanilla. Process the hazelnuts, almonds, sugar and salt until very fine, about 45 s. Pulse in the zest, flour and spices, then the butter until it looks like coarse sand. Add the yolk mix and process until the dough just comes together."
+    },
+    {
+      "title": "Base",
+      "text": "press 60% of the dough evenly over the base and up the side of the tin. Roll the rest between 2 sheets of baking paper to a 25 cm square, 3 mm thick. Chill both 30 min. Heat the oven to 180 °C (160 °C fan) with the tray inside."
+    },
+    {
+      "title": "Fill",
+      "text": "stir the jam with the lemon juice and spread it evenly over the base."
+    },
+    {
+      "title": "Lattice",
+      "text": "cut the chilled sheet into 1.5 cm strips. Lay 5 strips across the tart, then 5 more on the diagonal to make diamonds, pressing the ends onto the edge and trimming. If the strips soften, chill them 10 min. Cold strips are easy to lift and keep their neat edges."
+    },
+    {
+      "title": "Bake",
+      "text": "brush the lattice with milk and sprinkle with demerara. Bake on the hot tray 45-50 min until the pastry is deep golden and the jam bubbles in the gaps."
+    },
+    {
+      "title": "Cool",
+      "text": "cool completely in the tin on the rack, at least 2 h, before unmoulding; the jam sets as it cools. The flavour deepens if you leave it overnight."
+    }
+  ],
+  "tips": [
+    "A common mistake is warm dough, which tears; chill the strips again if they go soft.",
+    "Rub the skins off warm toasted hazelnuts in a tea towel.",
+    "Use a thick, good-quality jam so it does not run.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered at room temperature for up to 4 days; it tastes even better on day 2.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 341,
+    "protein_g": 4.3,
+    "carbs_g": 42.9,
+    "sugar_g": 24.0,
+    "free_sugar_g": 23.3,
+    "fat_g": 17.8,
+    "satfat_g": 6.7,
+    "salt_g": 0.18,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "linzer-basic.jpg",
+  "image_alt": "A golden hazelnut Linzertorte with a diamond lattice over red raspberry jam, a wedge cut out.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

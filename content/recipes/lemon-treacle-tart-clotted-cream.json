@@ -1,0 +1,168 @@
+{
+  "slug": "lemon-treacle-tart-clotted-cream",
+  "title": "Lemon Treacle Tart with Clotted Cream",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "treacle-tart",
+  "dish_title": "Treacle tart",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Crisp shortcrust filled with a soft, set golden syrup filling sharpened with lemon, served with cold clotted cream.",
+  "servings": 10,
+  "prep_min": 30,
+  "cook_min": 70,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor or large bowl",
+    "cling film",
+    "rolling pin",
+    "23 cm loose-based tart tin, 3 cm deep",
+    "baking paper",
+    "baking beans",
+    "baking tray",
+    "small saucepan",
+    "whisk",
+    "mixing bowl",
+    "jug",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 200,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Pastry",
+      "qty": 30,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 110,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Pastry",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "ice-cold water"
+    },
+    {
+      "group": "Filling",
+      "qty": 400,
+      "unit": "g",
+      "item": "golden syrup"
+    },
+    {
+      "group": "Filling",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Filling",
+      "qty": 130,
+      "unit": "g",
+      "item": "fine dried white breadcrumbs"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Filling",
+      "qty": 100,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, finely grated zest and juice"
+    },
+    {
+      "group": "To serve",
+      "qty": 250,
+      "unit": "g",
+      "item": "clotted cream, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry",
+      "text": "blitz or rub the flour, icing sugar, salt and butter to fine crumbs. Mix the yolk with the water, add it and work until the dough just clumps; add a few drops more water only if it stays dry. Flatten into a disc, wrap and chill 30 min."
+    },
+    {
+      "title": "Line",
+      "text": "roll to 4 mm and line the tin, letting the excess hang over the rim. Chill 20 min. Heat the oven to 190 °C (170 °C fan) with the tray inside."
+    },
+    {
+      "title": "Blind bake",
+      "text": "line with paper and beans and bake on the hot tray 20 min. Lift out the paper and beans and bake 8-10 min more until dry and pale golden. Trim the overhang with a sharp knife. Lower the oven to 150 °C (130 °C fan). A fully baked case stays crisp under the wet filling."
+    },
+    {
+      "title": "Filling",
+      "text": "warm the golden syrup and butter until the butter melts and the syrup is runny but not hot, about 45 °C. Whisk the eggs, cream, lemon zest and juice in the bowl, whisk in the warm syrup, then stir in the breadcrumbs. Rest 5 min so the crumbs swell."
+    },
+    {
+      "title": "Bake",
+      "text": "pour into the warm case and bake 35-40 min until the filling is golden, set at the edge and has only a slight wobble in the middle. A low oven sets the egg gently so the filling stays soft, not rubbery."
+    },
+    {
+      "title": "Cool",
+      "text": "cool in the tin on the rack at least 1 h; it firms as it cools. Serve warm or at room temperature with spoonfuls of clotted cream."
+    }
+  ],
+  "tips": [
+    "A common mistake is overbaking until the filling is firm; take it out with a slight wobble, as it sets on cooling.",
+    "Warm the syrup only until runny; very hot syrup can scramble the eggs.",
+    "Make the breadcrumbs from day-old white bread dried in a low oven if you cannot buy them.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered at room temperature for 1 day or in the fridge for up to 3 days. Warm slices at 160 °C (140 °C fan) for 10 min.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 575,
+    "protein_g": 6.3,
+    "carbs_g": 61.4,
+    "sugar_g": 37.2,
+    "free_sugar_g": 36.2,
+    "fat_g": 33.9,
+    "satfat_g": 20.6,
+    "salt_g": 0.58,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "treacle-tart-basic.jpg",
+  "image_alt": "A slice of golden treacle tart on a dark plate beside a quenelle of clotted cream."
+}

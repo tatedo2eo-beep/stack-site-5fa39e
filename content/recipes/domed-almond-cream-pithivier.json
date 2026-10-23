@@ -1,0 +1,174 @@
+{
+  "slug": "domed-almond-cream-pithivier",
+  "title": "Domed Almond Cream Pithivier",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "pithivier",
+  "dish_title": "Pithivier",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Two rounds of puff pastry sealed over a tall dome of almond cream, scored in curves and baked until shiny and deep amber.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 45,
+  "difficulty": "hard",
+  "equipment": [
+    "mixing bowl",
+    "electric whisk or wooden spoon",
+    "piping bag (no nozzle) or spoon",
+    "rolling pin",
+    "baking tray",
+    "baking paper",
+    "sharp small knife",
+    "pastry brush",
+    "small bowls",
+    "24 cm and 27 cm plates or cake tins, as templates",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Almond cream",
+      "qty": 100,
+      "unit": "g",
+      "item": "soft unsalted butter"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 100,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 120,
+      "unit": "g",
+      "item": "ground almonds"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 15,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free almond extract"
+    },
+    {
+      "group": "Almond cream",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Pastry",
+      "qty": 500,
+      "unit": "g",
+      "item": "all-butter puff pastry block, chilled"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "whole milk"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "golden syrup"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "hot water"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Almond cream",
+      "text": "beat the butter and icing sugar until creamy, then beat in the ground almonds, flour and salt. Beat in the egg, then the yolk and the extracts. Chill 30 min until firm enough to pipe."
+    },
+    {
+      "title": "Roll",
+      "text": "cut the pastry in 2, one piece a little larger. Roll the smaller piece 3 mm thick and cut a 24 cm round; roll the larger piece and cut a 27 cm round. Put the small round on the lined tray."
+    },
+    {
+      "title": "Dome",
+      "text": "pipe or spoon the almond cream into a 15 cm mound, 3 cm high in the middle, leaving a wide border. Beat the yolk with the milk and brush it on the border. Lay the large round over, press it close round the dome to push out air, then press the border firmly to seal. Chill 30 min. Pressing out trapped air stops the top layer from ballooning and splitting."
+    },
+    {
+      "title": "Decorate",
+      "text": "trim the edge into scallops with the knife. Brush the dome with egg glaze, then score curved lines from the top down to the base about 1.5 cm apart, cutting only the surface. Make a small steam hole in the top and chill 30 min. Heat the oven to 200 °C (180 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "bake 25 min until risen and golden. Mix the golden syrup with the hot water, brush it over the top, lower the oven to 180 °C (160 °C fan) and bake 15-20 min more until deep amber and shiny; the cream inside should reach at least 75 °C. The syrup glaze gives the deep, glossy finish of a bakery pithivier."
+    },
+    {
+      "title": "Cool",
+      "text": "cool on the rack 20 min and serve slightly warm, cut with a serrated knife."
+    }
+  ],
+  "tips": [
+    "A common mistake is warm pastry, which will not rise; chill it whenever it feels soft.",
+    "Score with only the tip of the knife so you do not cut into the filling.",
+    "Keep the egg glaze off the cut edge, or it glues the layers together.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day. Keep covered at room temperature for 1 day or in the fridge for 2 days, and warm at 160 °C (140 °C fan) for 10 min.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 611,
+    "protein_g": 9.6,
+    "carbs_g": 47.2,
+    "sugar_g": 15.6,
+    "free_sugar_g": 14.8,
+    "fat_g": 43.6,
+    "satfat_g": 13.7,
+    "salt_g": 0.53,
+    "fibre_g": 2.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pithivier-basic.jpg",
+  "image_alt": "A domed, deep golden pithivier with curved scored lines and a scalloped edge, one wedge cut away to show the almond filling."
+}

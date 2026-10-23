@@ -1,0 +1,156 @@
+{
+  "slug": "passion-fruit-pavlova",
+  "title": "Passion Fruit Pavlova",
+  "category": "desserts",
+  "cuisine": "Australian",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "pavlova",
+  "dish_title": "Pavlova",
+  "flavour": "Passion fruit",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A crisp, marshmallow-centred meringue filled with whipped cream and covered in sweetened passion fruit pulp.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 75,
+  "difficulty": "medium",
+  "equipment": [
+    "baking tray",
+    "baking paper",
+    "22 cm plate or cake tin, as a template",
+    "pencil",
+    "large grease-free bowl",
+    "electric whisk or stand mixer",
+    "small bowl",
+    "spatula",
+    "mixing bowl",
+    "balloon whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Meringue",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg whites (about 140 g), at room temperature"
+    },
+    {
+      "group": "Meringue",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Meringue",
+      "qty": 250,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Meringue",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "Meringue",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "white vinegar (distilled)"
+    },
+    {
+      "group": "Meringue",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Topping",
+      "qty": 300,
+      "unit": "ml",
+      "item": "cold double (heavy) cream"
+    },
+    {
+      "group": "Topping",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 8,
+      "unit": "pc",
+      "item": "ripe passion fruit",
+      "note": "wrinkly skins mean ripe"
+    },
+    {
+      "group": "Topping",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "set the oven to 150 °C (130 °C fan). Trace round a 22 cm plate on a sheet of baking paper and lay it pencil side down on a flat tray. Stir the cornflour into the caster sugar."
+    },
+    {
+      "title": "Whisk",
+      "text": "beat the whites with the pinch of salt at medium speed to soft peaks. Keep beating while you add the sugar and cornflour one spoonful at a time, waiting about 30 s between each. Turn to high speed and beat for another 5-8 min, until the meringue is stiff and shiny and feels silky when rubbed between two fingers. Beat in the vinegar and vanilla. Rubbing a little between your fingers tells you the sugar has dissolved."
+    },
+    {
+      "title": "Shape",
+      "text": "spoon the meringue onto the traced circle. Spread it out to the line, building the edge a little higher than the middle so there is a dip for the filling; lift the spatula up the sides to make ridges."
+    },
+    {
+      "title": "Bake",
+      "text": "slide the tray in and turn the oven straight down to 120 °C (100 °C fan). Bake for 1 h 15 min, until the shell is dry, pale cream and peels away from the paper easily. Switch the oven off, prop the door open a little and let the meringue cool inside for 2 h or more."
+    },
+    {
+      "title": "Passion fruit",
+      "text": "halve the fruit. Scoop the pulp of 6 into a bowl and stir in the caster sugar; keep the other 2 fruit in halves for the top. A spoon of sugar softens the sharpness of the pulp."
+    },
+    {
+      "title": "Top",
+      "text": "when you are ready to eat, beat the cream and icing sugar together until it just holds soft peaks, then fill the dip in the meringue. Spoon the sweetened pulp over the cream so it runs to the edges, set the passion fruit halves on top and serve straight away."
+    }
+  ],
+  "tips": [
+    "A common mistake is opening the oven during baking; the meringue can crack and sink.",
+    "Choose heavy, wrinkly passion fruit, as they have the most juice.",
+    "Spoon the pulp on just before serving so the cream stays thick.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep the plain meringue airtight at room temperature for up to 2 days. Once topped, eat within 2 hours; chill leftovers and eat within 1 day.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 289,
+    "protein_g": 3.4,
+    "carbs_g": 39.9,
+    "sugar_g": 37.0,
+    "free_sugar_g": 33.7,
+    "fat_g": 13.7,
+    "satfat_g": 8.6,
+    "salt_g": 0.16,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pavlova-basic--passion-fruit.jpg",
+  "image_alt": "A pavlova covered in whipped cream and glossy passion fruit pulp, topped with passion fruit halves.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

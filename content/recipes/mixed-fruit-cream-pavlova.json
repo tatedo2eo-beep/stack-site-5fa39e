@@ -1,0 +1,163 @@
+{
+  "slug": "mixed-fruit-cream-pavlova",
+  "title": "Mixed Fruit Pavlova with Whipped Cream",
+  "category": "desserts",
+  "cuisine": "Australian",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "pavlova",
+  "dish_title": "Pavlova",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A crisp meringue shell with a soft marshmallow centre, filled with whipped cream and topped with strawberries, kiwi, blueberries and passion fruit.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 75,
+  "difficulty": "medium",
+  "equipment": [
+    "baking tray",
+    "baking paper",
+    "22 cm plate or cake tin, as a template",
+    "pencil",
+    "large grease-free bowl",
+    "electric whisk or stand mixer",
+    "small bowl",
+    "spatula",
+    "mixing bowl",
+    "balloon whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Meringue",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg whites (about 140 g), at room temperature"
+    },
+    {
+      "group": "Meringue",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Meringue",
+      "qty": 250,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Meringue",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "Meringue",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "white vinegar (distilled)"
+    },
+    {
+      "group": "Meringue",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Topping",
+      "qty": 300,
+      "unit": "ml",
+      "item": "cold double (heavy) cream"
+    },
+    {
+      "group": "Topping",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 250,
+      "unit": "g",
+      "item": "strawberries, hulled and halved"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "pc",
+      "item": "kiwis, peeled, halved and sliced"
+    },
+    {
+      "group": "Topping",
+      "qty": 100,
+      "unit": "g",
+      "item": "blueberries"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "pc",
+      "item": "ripe passion fruit, halved",
+      "note": "wrinkly skins mean ripe"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "heat the oven to 150 °C (130 °C fan). Draw a 22 cm circle on baking paper, turn it over onto the tray. Mix the sugar with the cornflour."
+    },
+    {
+      "title": "Whisk",
+      "text": "whisk the egg whites and salt on medium until soft peaks, then add the sugar mix a spoonful at a time, 30 s apart. Whisk on high 5-8 min more until very thick and glossy and a pinch feels smooth, not gritty. Whisk in the vinegar and vanilla. Adding the sugar slowly lets it dissolve, so the meringue does not weep."
+    },
+    {
+      "title": "Shape",
+      "text": "pile the meringue into the circle and spread it into a round with slightly higher sides and a shallow hollow in the middle, sweeping the sides upwards with the spatula."
+    },
+    {
+      "title": "Bake",
+      "text": "put it in, lower the oven at once to 120 °C (100 °C fan) and bake 1 h 15 min until crisp and pale cream, and it lifts off the paper cleanly. Turn off the oven and leave the meringue inside with the door ajar until cold, at least 2 h. Cooling slowly in the oven stops large cracks."
+    },
+    {
+      "title": "Top",
+      "text": "just before serving, whip the cream with the icing sugar to soft peaks and spoon it into the hollow. Scatter over the strawberries, kiwi and blueberries, then scoop the passion fruit pulp over the top. Serve straight away."
+    }
+  ],
+  "tips": [
+    "A common mistake is a greasy bowl; any fat or yolk stops the whites from whipping.",
+    "Cracks are normal, and the cream will cover them.",
+    "Top only at the last minute, as cream and fruit soften the meringue.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep the plain meringue in an airtight box at room temperature for up to 2 days. Once topped, eat within 2 hours; chill leftovers and eat within 1 day.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 299,
+    "protein_g": 3.6,
+    "carbs_g": 42.2,
+    "sugar_g": 38.4,
+    "free_sugar_g": 32.2,
+    "fat_g": 13.8,
+    "satfat_g": 8.7,
+    "salt_g": 0.15,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pavlova-basic.jpg",
+  "image_alt": "A crisp white pavlova piled with whipped cream, strawberries, kiwi, blueberries and passion fruit.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}
