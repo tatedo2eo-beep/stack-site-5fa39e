@@ -213,6 +213,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crisp-socca-onions-rosemary-black-olives | Socca | Classic | 2 | 4 |
 | crisp-spiced-aloo-tikki-mint-chutney | Aloo tikki | Classic | 2 | 4 |
 | crisp-thin-crust-tavern-pizza-peppers-onion-fennel-tomato | Bar/tavern-style pizza | Classic | 2 | 4 |
+| crisp-toasted-sesame-brittle-squares | Brittle | Sesame | 1 | 4 |
 | crisp-vanilla-meringue-kisses | Meringues (French/Swiss/Italian) | Classic | 2 | 4 |
 | crispy-baked-chicken-wings | Chicken wings | Classic | 3 | 5 |
 | crispy-chicken-sandwich | Chicken burger | Classic | 3 | 6 |
@@ -297,6 +298,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gingerbread-cookies | Gingerbread | Classic | 3 | 5 |
 | glassy-salted-peanut-brittle | Brittle | Peanut | 1 | 4 |
 | glossy-braided-honey-challah | Challah | Classic | 3 | 5 |
+| glossy-candied-orange-lemon-peel | Candied citrus peel | Classic | 3 | 5 |
 | glossy-dark-chocolate-ganache | Ganache | Classic | 2 | 4 |
 | glossy-five-point-kaiser-rolls | Kaiser roll | Classic | 2 | 4 |
 | glossy-glazed-carrots | Glazed carrots | Classic | 2 | 4 |
@@ -514,6 +516,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pineapple-upside-down-cake | Upside-down | Pineapple | 2 | 4 |
 | piri-piri-chicken | Piri-piri | Classic | 2 | 4 |
 | pistachio-sesame-dukkah | Dukkah | Classic | 2 | 4 |
+| pistachio-tahini-halva-squares | Halva | Classic | 2 | 4 |
 | pizzelle | Pizzelle | Classic | 2 | 4 |
 | pizzoccheri | Pizzoccheri | Classic | 2 | 4 |
 | poached-chicken | Poached | Classic | 2 | 4 |

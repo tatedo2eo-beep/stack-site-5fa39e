@@ -1,0 +1,132 @@
+{
+  "slug": "pistachio-tahini-halva-squares",
+  "title": "Pistachio Tahini Halva Squares",
+  "category": "desserts",
+  "cuisine": "Middle Eastern",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "halva",
+  "dish_title": "Halva",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Fudgy tahini halva made by beating hot sugar syrup into sesame paste, studded with pistachios and pressed into a tin to set.",
+  "servings": 16,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "20 cm square tin",
+    "baking paper",
+    "small heavy saucepan",
+    "digital thermometer",
+    "stand mixer with paddle, or a large bowl and sturdy spatula",
+    "large sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Halva",
+      "qty": 340,
+      "unit": "g",
+      "item": "tahini, well stirred"
+    },
+    {
+      "group": "Halva",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Halva",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Halva",
+      "qty": 70,
+      "unit": "g",
+      "item": "shelled unsalted pistachios, roughly chopped"
+    },
+    {
+      "group": "Syrup",
+      "qty": 300,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 90,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Line the tin",
+      "text": "Line the tin with baking paper, leaving extra hanging over two sides so you can lift the halva out later."
+    },
+    {
+      "title": "Prepare the tahini",
+      "text": "Put the tahini, salt and vanilla in the mixer bowl and fold in the chopped pistachios."
+    },
+    {
+      "title": "Cook the syrup",
+      "text": "Put the sugar, water and lemon zest in the saucepan over medium heat and stir until the sugar dissolves. Then simmer without stirring for 6-8 min, until the thermometer reads 118 °C."
+    },
+    {
+      "title": "Beat together briefly",
+      "text": "Run the mixer on medium-low and pour the hot syrup into the tahini in a thin stream. Mix for just 30-60 seconds, until the mixture thickens and starts to pull away from the sides of the bowl."
+    },
+    {
+      "title": "Press into the tin",
+      "text": "Scrape it into the tin straight away, lay a sheet of baking paper on top and press it flat and even with your hands."
+    },
+    {
+      "title": "Cool and cut",
+      "text": "Leave to cool to room temperature for about 2 h, until firm. Lift it out and cut into 16 squares."
+    }
+  ],
+  "tips": [
+    "The most common mistake is overmixing; beating too long turns the halva sandy and crumbly, so stop as soon as it pulls away from the bowl.",
+    "Stir the tahini thoroughly before measuring, as the oil separates in the jar.",
+    "Use a light, runny tahini made from hulled seeds for the palest colour and mildest flavour.",
+    "Add 0.5 tsp ground cardamom to the tahini for a fragrant variation."
+  ],
+  "storage": "Wrap well and keep at room temperature for up to 2 weeks or in the fridge for up to 1 month.",
+  "allergens": [
+    "sesame",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 225,
+    "protein_g": 4.5,
+    "carbs_g": 24.5,
+    "sugar_g": 19.2,
+    "free_sugar_g": 18.7,
+    "fat_g": 13.4,
+    "satfat_g": 1.8,
+    "salt_g": 0.15,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "halva-advanced.jpg",
+  "image_alt": "Blocks of pale tahini halva flecked with green pistachios on a black plate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "King Arthur Baking"
+  ]
+}

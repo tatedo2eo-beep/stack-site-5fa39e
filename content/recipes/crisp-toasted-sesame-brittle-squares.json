@@ -1,0 +1,125 @@
+{
+  "slug": "crisp-toasted-sesame-brittle-squares",
+  "title": "Crisp Toasted Sesame Brittle Squares",
+  "category": "desserts",
+  "cuisine": "Chinese",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "brittle",
+  "dish_title": "Brittle",
+  "flavour": "Sesame",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "Thin, crisp sesame brittle squares made by folding toasted sesame seeds into hard-crack sugar syrup and rolling the mixture out between oiled paper.",
+  "servings": 14,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "rimmed baking tray",
+    "2 large sheets of baking paper",
+    "medium heavy saucepan",
+    "digital thermometer",
+    "silicone spatula",
+    "rolling pin",
+    "large sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Brittle",
+      "qty": 150,
+      "unit": "g",
+      "item": "white sesame seeds"
+    },
+    {
+      "group": "Brittle",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Brittle",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil, for the paper and tools"
+    },
+    {
+      "group": "Brittle",
+      "qty": 200,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Brittle",
+      "qty": 80,
+      "unit": "g",
+      "item": "light corn syrup"
+    },
+    {
+      "group": "Brittle",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the seeds",
+      "text": "Heat the oven to 175 °C. Spread the sesame seeds on the tray and toast for 5-7 min, stirring once, until pale gold and fragrant. Tip them into a bowl, stir in the salt and keep them somewhere warm."
+    },
+    {
+      "title": "Oil everything",
+      "text": "Brush one side of each sheet of baking paper with oil, and oil the spatula, rolling pin and knife too. Lay one sheet on the work surface, oiled side up. You will need to move fast later, so have everything within reach."
+    },
+    {
+      "title": "Boil the syrup",
+      "text": "Put the sugar, corn syrup and water in the saucepan over medium heat and stir until the sugar has dissolved. Then stop stirring and let it boil for 8-10 min, until the thermometer reads 150 °C and the syrup is just turning pale gold."
+    },
+    {
+      "title": "Fold in the seeds",
+      "text": "Take the pan off the heat, add the warm sesame seeds all at once and fold quickly until every seed is coated in syrup."
+    },
+    {
+      "title": "Roll thin",
+      "text": "Scrape the mixture onto the oiled paper, lay the second sheet on top with the oiled side down and roll it out quickly to about 3 mm thick."
+    },
+    {
+      "title": "Cut while warm",
+      "text": "Peel off the top sheet and cut the sheet into 5 cm squares with the oiled knife while it is still warm and bendy. Leave for 20 min until hard, then snap the squares apart along the cuts."
+    }
+  ],
+  "tips": [
+    "The most common mistake is waiting too long to cut; once the brittle hardens it shatters instead of cutting, so score it within a minute or two of rolling.",
+    "If it hardens before you finish rolling, slide it on its paper into a 150 °C oven for 1-2 min to soften.",
+    "Swap a third of the white sesame for black sesame for a striking two-tone look.",
+    "Hot syrup burns badly; keep a bowl of cold water nearby while you work."
+  ],
+  "storage": "Keep in an airtight container at room temperature, layered with baking paper, for up to 2 weeks.",
+  "allergens": [
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 135,
+    "protein_g": 1.9,
+    "carbs_g": 21.2,
+    "sugar_g": 18.7,
+    "free_sugar_g": 18.6,
+    "fat_g": 5.6,
+    "satfat_g": 0.8,
+    "salt_g": 0.12,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "brittle-basic--sesame.jpg",
+  "image_alt": "A stack of thin golden sesame brittle squares on a black plate.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "glossy-candied-orange-lemon-peel",
+  "title": "Glossy Candied Orange and Lemon Peel",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "candied-citrus-peel",
+  "dish_title": "Candied citrus peel",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Strips of orange and lemon peel blanched three times to tame their bitterness, then simmered slowly in syrup until soft, glossy and translucent.",
+  "servings": 12,
+  "prep_min": 20,
+  "cook_min": 70,
+  "difficulty": "easy",
+  "equipment": [
+    "sharp paring knife",
+    "chopping board",
+    "medium saucepan",
+    "colander",
+    "wire rack set over a tray",
+    "baking paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Peel",
+      "qty": 240,
+      "unit": "g",
+      "item": "orange peel, from about 3 large thick-skinned oranges",
+      "note": "keep the fruit for another use"
+    },
+    {
+      "group": "Peel",
+      "qty": 100,
+      "unit": "g",
+      "item": "lemon peel, from about 2 lemons"
+    },
+    {
+      "group": "Syrup",
+      "qty": 400,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 400,
+      "unit": "ml",
+      "item": "water, plus more for blanching"
+    },
+    {
+      "group": "Syrup",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "light corn syrup"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cut the peel",
+      "text": "Score each orange and lemon from top to bottom into quarters and pull the peel away from the fruit. Slice it into strips about 6 mm wide and trim off any thick white pith or bits of flesh."
+    },
+    {
+      "title": "Blanch three times",
+      "text": "Put the strips in the saucepan and cover them with cold water. Bring to the boil, boil for 5 min and drain. Do this twice more, with fresh cold water each time; each round takes away more bitterness."
+    },
+    {
+      "title": "Make the syrup",
+      "text": "Put the sugar, the 400 ml water and the corn syrup in the empty pan over medium heat and stir until the sugar has completely dissolved."
+    },
+    {
+      "title": "Simmer until translucent",
+      "text": "Add the blanched peel and bring back to the boil, then turn the heat down so the syrup barely bubbles. Simmer for 40-60 min, stirring now and then, until the strips are soft and look translucent, especially at the edges."
+    },
+    {
+      "title": "Drain",
+      "text": "Lift the strips out with a fork, letting the excess syrup drip back into the pan, and lay them in a single layer on the paper-lined rack."
+    },
+    {
+      "title": "Dry",
+      "text": "Leave uncovered at room temperature for 8-12 h, until the peel is glossy but no longer wet or sticky to touch."
+    }
+  ],
+  "tips": [
+    "The most common mistake is skipping a blanch; the peel stays harsh and bitter, so do all three rounds.",
+    "Keep the syrup at a bare simmer; a hard boil caramelises the sugar and toughens the peel.",
+    "For a sparkly finish, toss the dried strips in granulated sugar.",
+    "Save the leftover syrup; it is lovely in iced tea, lemonade or brushed over cakes."
+  ],
+  "storage": "Keep in an airtight jar at room temperature for up to 1 month, or in the fridge for up to 3 months.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 93,
+    "protein_g": 0.4,
+    "carbs_g": 24.3,
+    "sugar_g": 18.3,
+    "free_sugar_g": 17.9,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 3.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "candied-citrus-peel-advanced.jpg",
+  "image_alt": "A pile of glossy candied orange and lemon peel strips on a dark tray.",
+  "inspired_by": [
+    "King Arthur Baking",
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}
