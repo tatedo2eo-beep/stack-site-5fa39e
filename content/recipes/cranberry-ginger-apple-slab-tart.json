@@ -1,0 +1,184 @@
+{
+  "slug": "cranberry-ginger-apple-slab-tart",
+  "title": "Cranberry, Ginger and Apple Slab Tart",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "fruit-tart-creme-patissiere",
+  "dish_title": "Fruit tart (crème pâtissière)",
+  "flavour": "Cranberry & ginger",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
+  "changes_from_base": "A rectangular open apple tart with cranberries, crystallised ginger and orange zest, glazed with apple jelly in place of the fresh fruit and crème pâtissière.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A big rectangular open apple tart with tart cranberries, warm crystallised ginger and a hint of orange.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 55,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "cling film",
+    "rolling pin",
+    "large rimmed baking tray",
+    "baking paper",
+    "large bowl",
+    "pastry brush",
+    "wire rack",
+    "small microwave-safe bowl",
+    "chopping board"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 215,
+      "unit": "g",
+      "item": "plain flour, plus plenty for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 140,
+      "unit": "g",
+      "item": "cold unsalted butter, diced"
+    },
+    {
+      "group": "Pastry",
+      "qty": 90,
+      "unit": "ml",
+      "item": "iced water"
+    },
+    {
+      "group": "Filling",
+      "qty": 900,
+      "unit": "g",
+      "item": "Gala or Fuji apples (about 6), peeled, cored and sliced 6 mm thick"
+    },
+    {
+      "group": "Filling",
+      "qty": 110,
+      "unit": "g",
+      "item": "cranberries, fresh or frozen and thawed"
+    },
+    {
+      "group": "Filling",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 30,
+      "unit": "g",
+      "item": "crystallised ginger, finely chopped, divided"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "finely grated orange zest"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, in small dice"
+    },
+    {
+      "group": "Finish",
+      "qty": 12,
+      "unit": "g",
+      "item": "demerara sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "apple jelly"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry",
+      "text": "pulse the flour and salt briefly, add the butter and pulse 10-12 times to even crumbs. With the motor running pour in the water and blend about 10 seconds, until barely any dry flour shows."
+    },
+    {
+      "title": "Chill",
+      "text": "press into a 13 x 15 cm block, wrap and refrigerate at least 1 h."
+    },
+    {
+      "title": "Roll out",
+      "text": "line the tray with paper. Soften the dough 10 min, then roll it on a well-floured surface to a 40 x 30 cm rectangle. Wind it round the pin, unroll it on the tray, cover and chill 30 min. Chilling the rolled pastry again stops it shrinking in the oven."
+    },
+    {
+      "title": "Filling",
+      "text": "heat the oven to 200 °C (180 °C fan). Toss the apples, cranberries, caster sugar, two-thirds of the ginger, the zest, cinnamon and salt in the bowl."
+    },
+    {
+      "title": "Assemble",
+      "text": "spread the fruit evenly over the pastry, leaving 5 cm clear all round, and dot with the butter. Fold the edges in over the fruit and pinch the corners into points."
+    },
+    {
+      "title": "Bake",
+      "text": "brush the pastry edge with water, sprinkle with demerara and bake 45-55 min, turning the tray halfway, until golden and the apples are soft. Cool on the tray for 1 h 30 min."
+    },
+    {
+      "title": "Glaze",
+      "text": "melt the apple jelly in the microwave for about 30 seconds, stir in the rest of the ginger and brush it over the fruit only. Slide onto the board and cut into squares. Keep the glaze off the crust so it stays crisp."
+    }
+  ],
+  "tips": [
+    "Fresh cranberries can be used straight away; thaw frozen ones on kitchen paper.",
+    "Slice the apples evenly so they cook at the same rate.",
+    "Apricot jam, sieved, can stand in for apple jelly.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered at room temperature for up to 2 days.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 396,
+    "protein_g": 3.3,
+    "carbs_g": 58.5,
+    "sugar_g": 31.5,
+    "free_sugar_g": 19.1,
+    "fat_g": 17.7,
+    "satfat_g": 11.0,
+    "salt_g": 0.56,
+    "fibre_g": 4.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A rectangular apple tart dotted with red cranberries and glossy with ginger glaze, cut into squares.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

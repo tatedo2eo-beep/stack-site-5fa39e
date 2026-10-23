@@ -1,0 +1,217 @@
+{
+  "slug": "baked-blueberry-raspberry-brown-butter-tart",
+  "title": "Baked Blueberry and Raspberry Brown Butter Tart",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "fruit-tart-creme-patissiere",
+  "dish_title": "Fruit tart (crème pâtissière)",
+  "flavour": "Blueberry",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
+  "changes_from_base": "Mixed berries baked under a brown butter custard in a sweet pastry case instead of raw fruit over crème pâtissière.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Raspberries and blueberries baked under a nutty brown butter custard in a crisp sweet pastry case.",
+  "servings": 8,
+  "prep_min": 45,
+  "cook_min": 65,
+  "difficulty": "medium",
+  "equipment": [
+    "small bowl",
+    "food processor",
+    "cling film",
+    "baking paper",
+    "rolling pin",
+    "23 cm loose-based fluted tart tin",
+    "baking tray",
+    "foil",
+    "baking beans",
+    "wire rack",
+    "small light-coloured saucepan",
+    "2 mixing bowls",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Sweet pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Sweet pastry",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Sweet pastry",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Sweet pastry",
+      "qty": 175,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Sweet pastry",
+      "qty": 80,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Sweet pastry",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Sweet pastry",
+      "qty": 115,
+      "unit": "g",
+      "item": "very cold unsalted butter, in 1 cm cubes"
+    },
+    {
+      "group": "Brown butter filling",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Brown butter filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Brown butter filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg white"
+    },
+    {
+      "group": "Brown butter filling",
+      "qty": 110,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brown butter filling",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Brown butter filling",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Brown butter filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Brown butter filling",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Brown butter filling",
+      "qty": 15,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Brown butter filling",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Berries",
+      "qty": 140,
+      "unit": "g",
+      "item": "raspberries"
+    },
+    {
+      "group": "Berries",
+      "qty": 140,
+      "unit": "g",
+      "item": "blueberries"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry",
+      "text": "whisk the yolk, 1 tbsp cream and ½ tsp vanilla together. Pulse the flour, icing sugar and salt 4 times, add the butter and pulse about 20 times to fine crumbs. Add the yolk mix with the motor running and stop once the dough gathers. Wrap as a 15 cm disc and chill 1 h."
+    },
+    {
+      "title": "Line",
+      "text": "roll the dough between two sheets of floured baking paper to 28 cm. Drape it into the tin, press it into the edges and fluted sides, and roll the pin over the rim to trim. Freeze on the tray for 30 min."
+    },
+    {
+      "title": "Blind bake",
+      "text": "heat the oven to 190 °C (170 °C fan). Press lightly greased foil into the frozen case, fill with beans and bake 20-25 min, until dry and pale gold. Lift out the foil and beans and bake 5 min more, until the sides are golden. Cool on the rack."
+    },
+    {
+      "title": "Brown the butter",
+      "text": "melt the 85 g butter in the pan over medium heat, swirling, for about 7 min, until it smells nutty and the specks turn golden brown. Pour into a bowl and cool until just warm. A light-coloured pan lets you see the butter change colour."
+    },
+    {
+      "title": "Filling",
+      "text": "whisk the egg and egg white, then whisk in the sugar and salt for 1 min until pale. Beat in the brown butter, then the vanilla, zest and lemon juice, then the flour and finally the 2 tbsp cream."
+    },
+    {
+      "title": "Bake",
+      "text": "pack the berries in one layer in the cooled case and pour the filling over. Bake on the tray about 30 min, turning once, until puffed, deep golden and set with no wobble."
+    },
+    {
+      "title": "Cool",
+      "text": "leave on the rack at least 1 h 30 min before removing the ring and slicing. The filling firms up as it cools, so be patient."
+    }
+  ],
+  "tips": [
+    "Freezing the lined tin before baking keeps the sides from slumping.",
+    "Frozen berries can be used straight from frozen; add 5 min to the bake.",
+    "Pull the butter off the heat as soon as it smells of hazelnuts; it burns fast.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep at room temperature for up to 6 hours, or cover and chill for 2 days. Bring back to room temperature before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 416,
+    "protein_g": 4.7,
+    "carbs_g": 47.0,
+    "sugar_g": 26.5,
+    "free_sugar_g": 23.6,
+    "fat_g": 23.9,
+    "satfat_g": 14.6,
+    "salt_g": 0.42,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A fluted tart with berries peeking through a puffed, deep golden brown butter filling.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

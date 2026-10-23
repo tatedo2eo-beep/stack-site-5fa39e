@@ -1,0 +1,140 @@
+{
+  "slug": "plum-raspberry-rustic-tart",
+  "title": "Rustic Plum and Raspberry Tart",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "fruit-tart-creme-patissiere",
+  "dish_title": "Fruit tart (crème pâtissière)",
+  "flavour": "Plum",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
+  "changes_from_base": "Plums and raspberries in an open, hand-pleated pastry instead of a crème pâtissière tart.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Sweet-tart plums and raspberries heaped in an open, pleated crust and baked until jammy.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 50,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "mixing bowl",
+    "silicone spatula",
+    "cling film",
+    "rolling pin",
+    "rimmed baking tray",
+    "baking paper",
+    "pastry brush",
+    "wire rack",
+    "wide spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 215,
+      "unit": "g",
+      "item": "plain flour, plus extra for dusting"
+    },
+    {
+      "group": "Dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 140,
+      "unit": "g",
+      "item": "unsalted butter, chilled and diced"
+    },
+    {
+      "group": "Dough",
+      "qty": 100,
+      "unit": "ml",
+      "item": "ice-cold water, plus 1 tbsp to glaze"
+    },
+    {
+      "group": "Filling",
+      "qty": 450,
+      "unit": "g",
+      "item": "ripe plums, halved, stoned and cut into 1 cm slices"
+    },
+    {
+      "group": "Filling",
+      "qty": 150,
+      "unit": "g",
+      "item": "raspberries"
+    },
+    {
+      "group": "Filling",
+      "qty": 75,
+      "unit": "g",
+      "item": "granulated sugar, divided"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "blitz the flour and salt for 3 seconds. Scatter in the butter and pulse about 10 times, until crumbly, then tip into the bowl. Stop pulsing while you can still see flecks of butter."
+    },
+    {
+      "title": "Hydrate",
+      "text": "stir in 90 ml of the cold water with the spatula, pressing until it clumps; add a little more only if needed. Shape a flat round, wrap and refrigerate 1 h (or up to 2 days)."
+    },
+    {
+      "title": "Shape",
+      "text": "set the oven to 190 °C (170 °C fan) and put baking paper on the tray. After 10 min at room temperature, roll the dough out to about 30 cm across and transfer it to the tray."
+    },
+    {
+      "title": "Fruit",
+      "text": "mix the plum slices and raspberries with 60 g sugar, then heap them in the centre, keeping a 5 cm border clear."
+    },
+    {
+      "title": "Fold",
+      "text": "lift the border over the filling in loose pleats all the way round, leaving the middle open."
+    },
+    {
+      "title": "Glaze and bake",
+      "text": "brush the folded edge with the 1 tbsp water and sprinkle with the remaining 15 g sugar. Bake 45-50 min, until well browned with bubbling juice."
+    },
+    {
+      "title": "Rest",
+      "text": "after 10 min, slide the tart off the paper onto the rack. Serve warm, about 30 min later. Warm slices hold together better than hot ones."
+    }
+  ],
+  "tips": [
+    "Tart, dark-skinned plums give the best colour and flavour.",
+    "Add a spoon of extra sugar if your plums are very sour.",
+    "Serve with vanilla ice cream or plain yoghurt.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep loosely covered at room temperature for up to 1 day. Reheat in a 180 °C oven for 10 min to crisp the crust.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 394,
+    "protein_g": 4.7,
+    "carbs_g": 51.4,
+    "sugar_g": 21.1,
+    "free_sugar_g": 12.5,
+    "fat_g": 19.6,
+    "satfat_g": 12.1,
+    "salt_g": 0.5,
+    "fibre_g": 3.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A rustic open tart with deep red plum slices and raspberries bubbling inside a folded golden crust.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

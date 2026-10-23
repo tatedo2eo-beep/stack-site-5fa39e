@@ -1,0 +1,153 @@
+{
+  "slug": "individual-almond-plum-tarts",
+  "title": "Individual Almond and Plum Tarts",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "fruit-tart-creme-patissiere",
+  "dish_title": "Fruit tart (crème pâtissière)",
+  "flavour": "Almond",
+  "flavour_order": 106,
+  "access": "premium",
+  "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
+  "changes_from_base": "Crustless individual almond sponges baked around whole plums, in place of a pastry case with crème pâtissière.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Quick individual almond sponges, each baked around a whole plum and served warm with soft cream.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "small bowl",
+    "small sharp knife",
+    "four 250 ml ramekins",
+    "baking tray",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Almond batter",
+      "qty": 70,
+      "unit": "g",
+      "item": "blanched whole almonds"
+    },
+    {
+      "group": "Almond batter",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, soft"
+    },
+    {
+      "group": "Almond batter",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Almond batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Almond batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Almond batter",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Almond batter",
+      "qty": 45,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Fruit",
+      "qty": 4,
+      "unit": "pc",
+      "item": "small ripe plums or apricots"
+    },
+    {
+      "group": "To serve",
+      "qty": 100,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 1 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Grind",
+      "text": "heat the oven to 200 °C (180 °C fan). Pulse the almonds until finely ground but still dry, and tip into the small bowl. Over-ground almonds turn oily, so pulse in short bursts."
+    },
+    {
+      "title": "Prepare the plums",
+      "text": "cut a small cross in the stalk end of each plum and ease out the stone, keeping the fruit whole."
+    },
+    {
+      "title": "Batter",
+      "text": "process the butter and sugar until smooth. Add the eggs, vanilla, salt, flour and ground almonds and pulse just until combined."
+    },
+    {
+      "title": "Fill",
+      "text": "share the batter between the ramekins on the tray. Push a plum, cut side up, into the middle of each; the top will sit proud of the batter."
+    },
+    {
+      "title": "Bake",
+      "text": "15-20 min, until puffed, golden and springy at the edges. Serve straight away while the sponge is light."
+    },
+    {
+      "title": "Serve",
+      "text": "whip the cream with the icing sugar to soft peaks and spoon some onto each warm tart."
+    }
+  ],
+  "tips": [
+    "Ground almonds from a packet save time; use 70 g.",
+    "Small apricots work in the same way.",
+    "Choose plums that fit snugly in the ramekins.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best eaten warm on the day. Chill leftovers for up to 1 day and warm briefly before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 599,
+    "protein_g": 9.4,
+    "carbs_g": 46.0,
+    "sugar_g": 33.4,
+    "free_sugar_g": 25.8,
+    "fat_g": 43.7,
+    "satfat_g": 22.0,
+    "salt_g": 0.21,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Four ramekins of golden almond sponge, each with a whole plum in the middle and a spoon of whipped cream.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

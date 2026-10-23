@@ -1,0 +1,176 @@
+{
+  "slug": "yuzu-curd-raspberry-tart",
+  "title": "Yuzu Curd Tart with Raspberries",
+  "category": "desserts",
+  "cuisine": "Japanese",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "fruit-tart-creme-patissiere",
+  "dish_title": "Fruit tart (crème pâtissière)",
+  "flavour": "Yuzu",
+  "flavour_order": 110,
+  "access": "premium",
+  "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
+  "changes_from_base": "A silky blended yuzu curd in a press-in lemon crust with a ring of raspberries, instead of crème pâtissière under mixed fruit.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A press-in lemon crust filled with a silky blended yuzu curd and edged with fresh raspberries.",
+  "servings": 10,
+  "prep_min": 40,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor",
+    "23 cm loose-based tart tin",
+    "foil",
+    "baking tray",
+    "wire rack",
+    "fine sieve",
+    "medium bowl",
+    "medium saucepan",
+    "whisk",
+    "instant-read thermometer",
+    "blender"
+  ],
+  "ingredients": [
+    {
+      "group": "Crust",
+      "qty": 190,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Crust",
+      "qty": 50,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Crust",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, zest finely grated"
+    },
+    {
+      "group": "Crust",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Crust",
+      "qty": 145,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed, plus extra for the tin"
+    },
+    {
+      "group": "Crust",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Yuzu curd",
+      "qty": 180,
+      "unit": "ml",
+      "item": "bottled pure yuzu juice, or Meyer lemon juice"
+    },
+    {
+      "group": "Yuzu curd",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Yuzu curd",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Yuzu curd",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Yuzu curd",
+      "qty": 170,
+      "unit": "g",
+      "item": "cold unsalted butter, in 12 pieces"
+    },
+    {
+      "group": "To finish",
+      "qty": 170,
+      "unit": "g",
+      "item": "raspberries"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crumb dough",
+      "text": "heat the oven to 180 °C (160 °C fan). Pulse the flour, icing sugar, lemon zest and salt, add the butter and pulse until sandy, then pulse in the yolk."
+    },
+    {
+      "title": "Squeeze a little",
+      "text": "if it doesn't hold, add 1-2 tbsp cold water."
+    },
+    {
+      "title": "Press",
+      "text": "butter the tin and press the dough evenly over the base and up the sides, saving a little for repairs."
+    },
+    {
+      "title": "Bake the case",
+      "text": "line with foil tucked over the edges and bake on the tray 20-25 min, until dry. Remove the foil, patch any cracks and bake 5-10 min more, until golden. Cool completely."
+    },
+    {
+      "title": "Curd",
+      "text": "set the sieve over the bowl. Whisk the yuzu juice, sugar, eggs and yolks smooth in the pan, then whisk over medium-low heat until thick and 80 °C on the thermometer. Sieve at once. Whisk constantly so the eggs cook evenly."
+    },
+    {
+      "title": "Cool slightly",
+      "text": "chill 10-15 min, stirring now and then, until just warm."
+    },
+    {
+      "title": "Blend",
+      "text": "pour into the blender and, on medium speed, drop in the butter piece by piece until creamy. If it is very bubbly, let it sit 5 min. Blending in the butter gives a light, creamy curd."
+    },
+    {
+      "title": "Set",
+      "text": "pour into the case and chill about 2 h. Scatter the raspberries round the edge just before serving."
+    }
+  ],
+  "tips": [
+    "Bottled yuzu juice is sold in Japanese and Asian shops; check it is 100% juice.",
+    "Meyer lemons are a good stand-in if you cannot find yuzu.",
+    "Add the raspberries at the last minute so they don't bleed into the curd.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 416,
+    "protein_g": 4.6,
+    "carbs_g": 38.1,
+    "sugar_g": 21.2,
+    "free_sugar_g": 20.3,
+    "fat_g": 28.2,
+    "satfat_g": 17.0,
+    "salt_g": 0.34,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A smooth pale yellow yuzu curd tart with fresh raspberries arranged round the rim.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

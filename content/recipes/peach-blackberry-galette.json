@@ -1,0 +1,139 @@
+{
+  "slug": "peach-blackberry-galette",
+  "title": "Peach and Blackberry Galette",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "fruit-tart-creme-patissiere",
+  "dish_title": "Fruit tart (crème pâtissière)",
+  "flavour": "Peach",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
+  "changes_from_base": "A free-form galette of peaches and blackberries baked in plain shortcrust, with no crème pâtissière.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A simple galette: hand-rubbed shortcrust folded around sugared peaches and blackberries and baked until bubbling.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 50,
+  "difficulty": "easy",
+  "equipment": [
+    "large mixing bowl",
+    "silicone spatula",
+    "cling film",
+    "rolling pin",
+    "large rimmed baking tray",
+    "baking paper",
+    "pastry brush",
+    "wire rack",
+    "fish slice"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 215,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 140,
+      "unit": "g",
+      "item": "cold unsalted butter, in 1 cm cubes"
+    },
+    {
+      "group": "Pastry",
+      "qty": 100,
+      "unit": "ml",
+      "item": "iced water, plus 1 tbsp for brushing"
+    },
+    {
+      "group": "Fruit",
+      "qty": 450,
+      "unit": "g",
+      "item": "ripe peaches, stoned and cut into 1 cm wedges"
+    },
+    {
+      "group": "Fruit",
+      "qty": 150,
+      "unit": "g",
+      "item": "blackberries"
+    },
+    {
+      "group": "Fruit",
+      "qty": 75,
+      "unit": "g",
+      "item": "caster sugar, divided"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Rub in",
+      "text": "put the flour and salt in the bowl, add the butter and rub it in with your fingertips until it looks like coarse crumbs with a few pea-sized bits. Small lumps of butter left in the dough make the pastry flaky."
+    },
+    {
+      "title": "Bring together",
+      "text": "sprinkle over 90 ml of the iced water and press with the spatula until the dough holds, adding up to 1 tbsp more only if it stays dry. Pat into a 10 cm disc, wrap and chill 1 h."
+    },
+    {
+      "title": "Roll",
+      "text": "heat the oven to 190 °C (170 °C fan) with a shelf just below the middle, and line the tray. Leave the dough out 10 min, then roll it to a 30 cm round and lift it onto the tray."
+    },
+    {
+      "title": "Fill",
+      "text": "toss the peaches and blackberries with 60 g of the sugar. Pile them in the middle, leaving a 5 cm rim of bare pastry."
+    },
+    {
+      "title": "Pleat",
+      "text": "fold the rim up over the fruit, overlapping it every 5 cm, and pinch the folds lightly without pressing them into the fruit."
+    },
+    {
+      "title": "Bake",
+      "text": "brush the pastry with 1 tbsp water and scatter the last 15 g sugar over pastry and fruit. Bake 45-50 min, until the pastry is deep golden and the juices bubble."
+    },
+    {
+      "title": "Cool",
+      "text": "leave on the tray 10 min, loosen with the fish slice, slide onto the rack and cool another 30 min before cutting. The juices thicken as the galette cools."
+    }
+  ],
+  "tips": [
+    "Use peaches that are ripe but still firm so the wedges keep their shape.",
+    "Frozen blackberries work; add them straight from the freezer.",
+    "If the dough cracks as you fold, pinch it back together; the rustic look is the point.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day. Keep leftovers covered at room temperature overnight and warm in a 180 °C oven for 10 min.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 386,
+    "protein_g": 4.9,
+    "carbs_g": 49.4,
+    "sugar_g": 20.1,
+    "free_sugar_g": 12.5,
+    "fat_g": 19.6,
+    "satfat_g": 12.1,
+    "salt_g": 0.5,
+    "fibre_g": 3.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A golden pleated galette filled with juicy peach wedges and dark blackberries, sparkling with sugar.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

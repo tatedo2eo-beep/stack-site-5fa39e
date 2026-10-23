@@ -1,0 +1,144 @@
+{
+  "slug": "free-form-apple-tart-brown-sugar",
+  "title": "Free-Form Apple Tart with Brown Sugar",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "fruit-tart-creme-patissiere",
+  "dish_title": "Fruit tart (crème pâtissière)",
+  "flavour": "Apple",
+  "flavour_order": 112,
+  "access": "premium",
+  "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
+  "changes_from_base": "A thin, flat pastry round covered edge to edge with apple slices and brown sugar, instead of a deep case filled with crème pâtissière.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A thin, crisp pastry round covered with apple slices, brown sugar and butter, baked until caramelised at the edges.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "mixing bowl",
+    "spoon",
+    "cling film",
+    "rolling pin",
+    "baking tray or pizza tray",
+    "baking paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 160,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Pastry",
+      "qty": 130,
+      "unit": "g",
+      "item": "cold unsalted butter, divided"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Pastry",
+      "qty": 60,
+      "unit": "ml",
+      "item": "cold water",
+      "note": "you may need only 45 ml"
+    },
+    {
+      "group": "Topping",
+      "qty": 4,
+      "unit": "pc",
+      "item": "medium Golden Delicious apples (about 600 g), peeled, cored and very thinly sliced"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "To serve",
+      "qty": 150,
+      "unit": "g",
+      "item": "crème fraîche, to serve",
+      "note": "or whipped cream"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry",
+      "text": "pulse the flour, salt and sugar once or twice. Cut 115 g of the butter into chunks and process it with the yolk for about 10 seconds, until blended."
+    },
+    {
+      "title": "Water",
+      "text": "tip into the bowl and stir in cold water 1 tbsp at a time; after 3-4 tbsp it should gather into a ball. Wrap and chill 1 h, or freeze 15 min."
+    },
+    {
+      "title": "Shape",
+      "text": "heat the oven to 200 °C (180 °C fan). Roll or pat the dough into a rough 25 cm round on the paper-lined tray. A rough edge is fine; this tart is meant to look homemade."
+    },
+    {
+      "title": "Top",
+      "text": "lay the apple slices over the pastry right to the edges in overlapping rows. Sprinkle with the brown sugar and dot with the last 15 g butter, cut into bits. Very thin slices cook quickly and lie flat."
+    },
+    {
+      "title": "Bake",
+      "text": "20-30 min, until the crust is well browned and the apples are tender. Serve warm or at room temperature with crème fraîche."
+    }
+  ],
+  "tips": [
+    "Pears can replace the apples.",
+    "A non-stick or lined tray stops the sugary juices sticking.",
+    "Chill the shaped base for 10 min if the kitchen is warm.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best eaten the day it is made. Keep leftovers covered at room temperature overnight.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 300,
+    "protein_g": 3.2,
+    "carbs_g": 33.8,
+    "sugar_g": 15.9,
+    "free_sugar_g": 8.0,
+    "fat_g": 17.7,
+    "satfat_g": 10.5,
+    "salt_g": 0.12,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A thin, flat apple tart with rows of browned apple slices to the edge, with crème fraîche on the side.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

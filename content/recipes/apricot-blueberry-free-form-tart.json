@@ -1,0 +1,140 @@
+{
+  "slug": "apricot-blueberry-free-form-tart",
+  "title": "Apricot and Blueberry Free-Form Tart",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "fruit-tart-creme-patissiere",
+  "dish_title": "Fruit tart (crème pâtissière)",
+  "flavour": "Apricot",
+  "flavour_order": 104,
+  "access": "premium",
+  "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
+  "changes_from_base": "Apricots and blueberries baked in a folded free-form crust rather than a blind-baked case with crème pâtissière.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A crisp, sugared free-form crust wrapped round tangy apricots and sweet blueberries.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 50,
+  "difficulty": "easy",
+  "equipment": [
+    "coarse box grater",
+    "mixing bowl",
+    "fork",
+    "cling film",
+    "rolling pin",
+    "rimmed baking tray",
+    "baking paper",
+    "pastry brush",
+    "wire rack",
+    "palette knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Shortcrust",
+      "qty": 215,
+      "unit": "g",
+      "item": "plain flour, plus a little for the worktop"
+    },
+    {
+      "group": "Shortcrust",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Shortcrust",
+      "qty": 140,
+      "unit": "g",
+      "item": "unsalted butter, frozen for 20 min"
+    },
+    {
+      "group": "Shortcrust",
+      "qty": 100,
+      "unit": "ml",
+      "item": "very cold water, plus 1 tbsp for the edge"
+    },
+    {
+      "group": "Fruit",
+      "qty": 450,
+      "unit": "g",
+      "item": "apricots, stoned and cut into 1 cm wedges"
+    },
+    {
+      "group": "Fruit",
+      "qty": 150,
+      "unit": "g",
+      "item": "blueberries"
+    },
+    {
+      "group": "Fruit",
+      "qty": 75,
+      "unit": "g",
+      "item": "caster sugar, divided"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Grate",
+      "text": "mix the flour and salt in the bowl. Grate the frozen butter straight in on the coarse side and toss with a fork so every shred is coated. Work fast so the butter stays frozen."
+    },
+    {
+      "title": "Mix",
+      "text": "add 90 ml cold water and stir with the fork, then squeeze the dough together with your hands; add drops more water only if it crumbles. Flatten into a disc, wrap and chill for an hour."
+    },
+    {
+      "title": "Prepare",
+      "text": "heat the oven to 190 °C (170 °C fan) and line the tray. Let the dough stand 10 min, roll it on a lightly floured surface to a 30 cm circle and move it to the tray."
+    },
+    {
+      "title": "Fill",
+      "text": "combine the apricots and blueberries with 60 g of the sugar and spread them over the middle, stopping 5 cm short of the edge."
+    },
+    {
+      "title": "Enclose",
+      "text": "turn the pastry edge up and over the fruit, letting it fold on itself in pleats, and press the pleats together gently."
+    },
+    {
+      "title": "Bake",
+      "text": "paint the pastry with 1 tbsp water, scatter on the final 15 g sugar and bake 45-50 min, until the crust is richly browned and the apricots are soft and bubbling."
+    },
+    {
+      "title": "Serve",
+      "text": "cool 10 min on the tray, free the base with the palette knife, then rest on the rack about 30 min and serve warm. A little juice may leak; it caramelises on the paper and is fine."
+    }
+  ],
+  "tips": [
+    "Ripe apricots should give a little when pressed but not feel soft.",
+    "Tinned apricots are too wet here; use fresh fruit.",
+    "A spoon of ground almonds under the fruit soaks up extra juice, but adds nuts.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best eaten the day it is baked. Cover leftovers and keep at room temperature overnight.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 396,
+    "protein_g": 5.1,
+    "carbs_g": 51.8,
+    "sugar_g": 22.0,
+    "free_sugar_g": 12.5,
+    "fat_g": 19.7,
+    "satfat_g": 12.1,
+    "salt_g": 0.5,
+    "fibre_g": 3.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A free-form tart of orange apricot wedges and blueberries in a crisp, sugared pleated crust.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

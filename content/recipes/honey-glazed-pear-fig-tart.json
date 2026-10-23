@@ -1,0 +1,158 @@
+{
+  "slug": "honey-glazed-pear-fig-tart",
+  "title": "Honey-Glazed Pear and Fig Tart",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "fruit-tart-creme-patissiere",
+  "dish_title": "Fruit tart (crème pâtissière)",
+  "flavour": "Pear",
+  "flavour_order": 111,
+  "access": "premium",
+  "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
+  "changes_from_base": "Baked figs and pears glazed with honey in a blind-baked case, with no crème pâtissière.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Halved figs and fanned pear slices baked in a crisp pastry case and brushed with warm honey.",
+  "servings": 8,
+  "prep_min": 35,
+  "cook_min": 65,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "cling film",
+    "rolling pin",
+    "23 cm loose-based tart tin",
+    "baking paper",
+    "baking beans",
+    "baking tray",
+    "small knife",
+    "small saucepan",
+    "pastry brush",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry case",
+      "qty": 175,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry case",
+      "qty": 40,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Pastry case",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pastry case",
+      "qty": 110,
+      "unit": "g",
+      "item": "cold unsalted butter, diced"
+    },
+    {
+      "group": "Pastry case",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Pastry case",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "cold water",
+      "note": "as needed"
+    },
+    {
+      "group": "Fruit",
+      "qty": 450,
+      "unit": "g",
+      "item": "small ripe figs, stalks removed, halved"
+    },
+    {
+      "group": "Fruit",
+      "qty": 2,
+      "unit": "pc",
+      "item": "ripe Conference or Bosc pears (about 225 g)"
+    },
+    {
+      "group": "Fruit",
+      "qty": 4,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Glaze",
+      "qty": 85,
+      "unit": "g",
+      "item": "runny honey"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry",
+      "text": "pulse the flour, icing sugar and salt, add the butter and pulse to crumbs, then add the yolk and enough water for the dough to clump. Wrap and chill 30 min."
+    },
+    {
+      "title": "Case",
+      "text": "roll the dough to 28 cm, line the tin, trim and chill 20 min. Heat the oven to 190 °C (170 °C fan)."
+    },
+    {
+      "title": "Blind bake",
+      "text": "line with paper and beans and bake on the tray 20 min, then uncover and bake 5-8 min more, until pale golden."
+    },
+    {
+      "title": "Arrange",
+      "text": "set the fig halves, cut side up, in a ring round the edge. Quarter, core and peel the pears, cut them across into 8 mm slices and fan them, slightly overlapping, inside the figs. Sprinkle with the sugar. Thin, even slices bake through at the same time as the figs."
+    },
+    {
+      "title": "Bake",
+      "text": "about 35 min, until the fruit is soft and juicy."
+    },
+    {
+      "title": "Glaze",
+      "text": "warm the honey gently and brush it over the hot fruit. Serve warm or at room temperature. Brushing the fruit while hot helps the honey soak in."
+    }
+  ],
+  "tips": [
+    "Pick figs that are soft and fragrant with no splits.",
+    "Rub the cut pears with lemon if you prepare them ahead.",
+    "A spoon of thick yoghurt or cream is lovely on the side.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day. Keep leftovers covered in the fridge for up to 1 day.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 296,
+    "protein_g": 3.3,
+    "carbs_g": 46.1,
+    "sugar_g": 26.1,
+    "free_sugar_g": 14.1,
+    "fat_g": 12.1,
+    "satfat_g": 7.3,
+    "salt_g": 0.19,
+    "fibre_g": 3.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A tart with a ring of halved figs around fanned pear slices, glazed with honey.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

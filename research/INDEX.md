@@ -27,7 +27,9 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | apfelstrudel-filo-apple-strudel | Apfelstrudel | Classic | 1 | 3 |
 | apple-grape-walnut-waldorf-salad | Waldorf | Classic | 3 | 5 |
 | apple-oat-crumble | Crumble | Classic | 2 | 4 |
+| apple-rose-tart-rosewater-glaze | Fruit tart (crème pâtissière) | Rose | 1 | 3 |
 | apple-rosemary-tarte-tatin | Tarte Tatin | Rosemary | 1 | 3 |
+| apricot-blueberry-free-form-tart | Fruit tart (crème pâtissière) | Apricot | 1 | 3 |
 | apricot-tarte-tatin-crisp-pastry | Tarte Tatin | Apricot | 1 | 3 |
 | argentinian-parsley-oregano-chimichurri | Chimichurri | Classic | 2 | 4 |
 | arnold-palmer-layered-iced-tea-lemonade | Iced tea lemonade | Classic | 3 | 5 |
@@ -38,6 +40,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | bagna-cauda-warm-anchovy-garlic-dip | Bagna cauda | Classic | 2 | 4 |
 | baked-beef-empanadas-olives-raisins | Empanadas | Classic | 3 | 5 |
 | baked-beef-empanadas-potato-peppers | Empanadas | Beef | 2 | 4 |
+| baked-blueberry-raspberry-brown-butter-tart | Fruit tart (crème pâtissière) | Blueberry | 1 | 3 |
 | baked-cheese-souffle-gruyere-parmesan | Soufflé (savory) | Classic | 2 | 4 |
 | baked-dark-chocolate-pots-de-creme | Pot de crème | Classic | 2 | 4 |
 | baked-mac-and-cheese | Mac and cheese | Classic | 2 | 4 |
@@ -277,6 +280,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | coronation-chicken | Coronation chicken | Classic | 2 | 5 |
 | courgette-fudge-brownies | Brownie (fudgy or cakey) | Zucchini | 1 | 3 |
 | cracker-thin-pizza-three-cheese-blend-sweet-oregano-sauce | St. Louis-style pizza | Classic | 2 | 4 |
+| cranberry-ginger-apple-slab-tart | Fruit tart (crème pâtissière) | Cranberry & ginger | 1 | 3 |
 | cream-cheese-swirl-brownies | Brownie (fudgy or cakey) | Cream cheese | 1 | 3 |
 | cream-filled-profiteroles-chocolate-sauce | Profiteroles | Classic | 2 | 4 |
 | creamy-cashew-yoghurt-chicken-curry-cardamom | Korma | Chicken | 3 | 5 |
@@ -405,6 +409,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fondant-iced-layered-petits-fours | Petit four | Classic | 1 | 4 |
 | fondant-potatoes | Fondant potatoes | Classic | 2 | 4 |
 | fougasse-provencal-leaf-bread | Fougasse | Classic | 1 | 3 |
+| free-form-apple-tart-brown-sugar | Fruit tart (crème pâtissière) | Apple | 1 | 3 |
 | french-dip-roast-beef-sandwiches-thyme-jus | French dip | Classic | 3 | 5 |
 | fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
 | fresh-fruit-tart-vanilla-creme-patissiere | Fruit tart (crème pâtissière) | Classic | 2 | 4 |
@@ -515,6 +520,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | homemade-sauerkraut | Sauerkraut | Classic | 2 | 4 |
 | honey-glazed-corn-muffins | Corn muffin | Honey | 1 | 3 |
 | honey-glazed-french-crullers | Cruller/French cruller (choux) | Classic | 1 | 3 |
+| honey-glazed-pear-fig-tart | Fruit tart (crème pâtissière) | Pear | 1 | 3 |
 | honey-maple-nut-granola-raisins | Granola | Classic | 2 | 4 |
 | honey-mustard-coleslaw-chives | Coleslaw | Honey mustard | 1 | 3 |
 | honey-pistachio-almond-nougat | Nougat | Classic | 1 | 4 |
@@ -533,6 +539,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | iced-coffee | Iced coffee | Classic | 2 | 3 |
 | ile-flottante-poached-meringue-caramel | Île flottante/oeufs à la neige | Classic | 1 | 3 |
 | imam-bayildi-braised-stuffed-aubergines | Imam bayildi | Classic | 2 | 4 |
+| individual-almond-plum-tarts | Fruit tart (crème pâtissière) | Almond | 1 | 3 |
 | indonesian-sweet-soy-fried-rice-chicken-prawns-fried-egg | Nasi goreng | Classic | 3 | 5 |
 | irish-lamb-stew-potatoes-carrots | Irish stew | Classic | 3 | 5 |
 | italian-bean-vegetable-soup-small-pasta-basil | Minestrone | Classic | 3 | 5 |
@@ -749,6 +756,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pastitsio | Pastitsio | Classic | 3 | 5 |
 | patatas-bravas | Patatas bravas | Classic | 2 | 4 |
 | pb-j-peanut-butter-strawberry-jam-sandwich | PB&J | Classic | 1 | 3 |
+| peach-blackberry-galette | Fruit tart (crème pâtissière) | Peach | 1 | 3 |
 | peach-caprese-mozzarella-lemon-basil | Caprese | Peach | 1 | 3 |
 | peach-cobbler-buttermilk-biscuits | Cobbler | Classic | 2 | 4 |
 | peach-cobbler-yogurt-biscuits | Cobbler | Peach | 1 | 3 |
@@ -795,10 +803,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pistachio-baklava-green-pistachio-squares | Baklava | Pistachio | 3 | 5 |
 | pistachio-chocolate-chip-brownies | Brownie (fudgy or cakey) | Pistachio | 1 | 3 |
 | pistachio-gelato-steeped-pistachio-milk | Gelato | Classic | 1 | 3 |
+| pistachio-raspberry-tart | Fruit tart (crème pâtissière) | Pistachio | 1 | 3 |
 | pistachio-sesame-dukkah | Dukkah | Classic | 2 | 4 |
 | pistachio-tahini-halva-squares | Halva | Classic | 2 | 4 |
 | pizzelle | Pizzelle | Classic | 2 | 4 |
 | pizzoccheri | Pizzoccheri | Classic | 2 | 4 |
+| plum-raspberry-rustic-tart | Fruit tart (crème pâtissière) | Plum | 1 | 3 |
 | plump-raisin-bran-muffins | Bran muffins | Raisin | 2 | 4 |
 | poached-chicken | Poached | Classic | 2 | 4 |
 | poached-eggs-buttered-sourdough-toast-chives | Poached eggs | Classic | 2 | 4 |
@@ -1034,6 +1044,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | swiss-rosti | Rösti | Classic | 2 | 4 |
 | switchel-ginger-maple-cider-vinegar | Switchel | Classic | 1 | 3 |
 | tafelspitz-apple-horseradish | Tafelspitz | Classic | 2 | 4 |
+| tahini-apple-galette-cardamom | Fruit tart (crème pâtissière) | Tahini | 1 | 3 |
 | tall-crisp-popovers | Popovers | Classic | 2 | 4 |
 | tall-crisp-yorkshire-puddings | Yorkshire pudding | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
@@ -1135,6 +1146,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | yellow-butter-cake-chocolate-frosting | Butter/layer cake (yellow/vanilla) | Classic | 3 | 5 |
 | yellow-sheet-cake | Sheet cake | Classic | 2 | 4 |
 | youtiao-twin-dough-sticks-with-warm-soy-milk | Youtiao | Classic | 1 | 3 |
+| yuzu-curd-raspberry-tart | Fruit tart (crème pâtissière) | Yuzu | 1 | 3 |
 | zaalouk-smoky-aubergine-tomato | Zaalouk | Classic | 2 | 4 |
 | zaatar-feta-caesar-salad-crunchy-crumbs | Caesar | Feta & Za'atar | 1 | 3 |
 | zaatar-flatbreads-olive-oil-cucumber-tomato-mint | Manakish | Classic | 2 | 4 |
