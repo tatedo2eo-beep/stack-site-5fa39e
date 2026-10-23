@@ -136,10 +136,57 @@ async function buildImages(recipes) {
   for (const r of recipes) {
     // photo_pending: an extra flavour waiting for its own photo. Never fall back to the dish photo (it would not match); show 'Photo coming soon'.
     if (r.photo_pending && !r.image) { r.img = null; continue; }
-    r.img = await tamiImg(TAMI.recipes[r.slug] || tamiRel(r.image) || TAMI.dishes[r.dish] || tamiRel(r._dishImage));
+    r._tamiRel = TAMI.recipes[r.slug] || tamiRel(r.image) || TAMI.dishes[r.dish] || tamiRel(r._dishImage);
+    r.img = await tamiImg(r._tamiRel);
     if (!r.img) console.log(C.yel(`warning: ${r.slug}: no photo mapped in tools/tami-images.json (placeholder used)`));
   }
 }
+// Cat tip pictures: the cookbook's own mapping. A recipe whose photo is a cookbook flavour photo gets that flavour's cat
+// (img/cat-flavors/...); a recipe on the dish photo, or an extra flavour of the same dish, gets the dish cat (img/cats/...);
+// anything else gets the master cat. The full picture is used (never cropped), re-encoded to webp at the same framing,
+// served under a neutral hashed name. Converted files are cached outside docs/ so rebuilds stay fast.
+const CAT_MASTER = 'img/cat-master-final.jpg';
+const CAT_BY_PHOTO = {}, DISH_CAT_BY_PHOTO = {};
+for (const f of fs.readdirSync(path.join(TAMI.source, 'data/ch')).filter(f => f.endsWith('.json')).sort())
+  for (const d of JSON.parse(fs.readFileSync(path.join(TAMI.source, 'data/ch', f), 'utf8'))) {
+    const dc = d.cat && d.cat.img;
+    if (!dc) continue;
+    if (d.img) { CAT_BY_PHOTO[d.img] = { kind: 'dish', rel: dc }; DISH_CAT_BY_PHOTO[d.img] = dc; }
+    for (const fl of d.flavors || []) if (fl.img) { CAT_BY_PHOTO[fl.img] = fl.cat ? { kind: 'flavour', rel: fl.cat } : { kind: 'dish', rel: dc }; DISH_CAT_BY_PHOTO[fl.img] = dc; }
+  }
+const CAT_CACHE = path.join(ROOT, 'node_modules/.cache/cat-tip');
+const catDone = {};
+async function catImg(rel) {
+  if (catDone[rel]) return catDone[rel];
+  const src = path.join(TAMI.source, rel);
+  if (!fs.existsSync(src)) return null;
+  const id = crypto.createHash('sha1').update(fs.readFileSync(src)).digest('hex').slice(0, 12);
+  const m = await require('sharp')(src).metadata();
+  const o = { width: m.width, height: m.height, src: `img/cat/${id}.webp`, srcset: [] };
+  for (const w of [640, m.width]) {
+    const name = w === m.width ? `${id}.webp` : `${id}-${w}.webp`, cache = path.join(CAT_CACHE, name);
+    if (!fs.existsSync(cache)) { fs.mkdirSync(CAT_CACHE, { recursive: true }); await require('sharp')(src).resize({ width: w }).webp({ quality: w === m.width ? 74 : 72 }).toFile(cache + '.tmp'); fs.renameSync(cache + '.tmp', cache); }
+    writeFile(`img/cat/${name}`, fs.readFileSync(cache));
+    o.srcset.push(`img/cat/${name} ${w}w`);
+  }
+  return (catDone[rel] = o);
+}
+async function buildCats(recipes, dishes) {
+  // dish cat for a public dish: from its dish photo, else from any of its flavours' photos (same cookbook dish)
+  const dishCat = {};
+  for (const d of dishes) dishCat[d.slug] = DISH_CAT_BY_PHOTO[tamiRel(d.image)] || DISH_CAT_BY_PHOTO[TAMI.dishes[d.slug]] || d.flavours.map(r => DISH_CAT_BY_PHOTO[r._tamiRel]).find(Boolean);
+  const n = { flavour: 0, dish: 0, master: 0 };
+  for (const r of recipes) {
+    const own = !(r.photo_pending && !r.image) && CAT_BY_PHOTO[r._tamiRel];
+    const pick = own || (dishCat[r.dish] ? { kind: 'dish', rel: dishCat[r.dish] } : { kind: 'master', rel: CAT_MASTER });
+    r.catPic = await catImg(pick.rel);
+    if (!r.catPic) { console.log(C.yel(`warning: ${r.slug}: cat picture missing (${pick.rel}), master cat used`)); r.catPic = await catImg(CAT_MASTER); pick.kind = 'master'; }
+    r.catKind = pick.kind; n[pick.kind]++;
+  }
+  console.log(`cat tips: ${n.flavour} flavour cat, ${n.dish} dish cat, ${n.master} master cat`);
+  return n;
+}
+
 // Background tone for the drinks showcase: the photo's main colour (read from the served copy, which is
 // byte-identical to the original), kept dark enough for light text. The photo itself is never changed.
 async function photoTone(rel) {
@@ -167,6 +214,7 @@ function placeholderSvg(label) {
   fs.rmSync(OUT, { recursive: true, force: true }); fs.mkdirSync(OUT, { recursive: true });
   const assets = await buildAssets();
   await buildImages(recipes);
+  await buildCats(recipes, dishes);
   copyDir(path.join(ROOT, 'static'), OUT);
   for (const r of recipes) if (r.img && (r.category === 'drinks' || r.book_chapter === 'drinks')) r.img = { ...r.img, tone: await photoTone(r.img.w1200) };
 

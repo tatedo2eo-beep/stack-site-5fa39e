@@ -43,17 +43,21 @@ const each = f => ({ e: f('e'), b: f('b'), c: f('c'), d: f('d'), g: f('g') });
 
 // ---------------- cat tip ----------------
 // Labels: EN defaults below; a locale file can override any of them with a `catTip` object (same keys).
-const CAT_TIP = { tip: 'Cat tip', mistake: 'Common mistake', note: 'Useful note', more: 'More from the cat', alt: 'A cream-coloured cat in a pink apron, telling you a tip', locked: 'The cat\u2019s tips for this flavour are for Premium members.', cta: 'See Premium' };
+const CAT_TIP = { tip: 'Cat tip', mistake: 'Common mistake', note: 'Useful note', more: 'More from the cat', alt: 'A cream-coloured cat in a pink apron, cooking this dish', locked: 'The cat\u2019s tips for this flavour are for Premium members.', cta: 'See Premium' };
 const CAT_ICON = '<svg viewBox="0 0 24 24" class="ic" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true" focusable="false"><path d="M4 20v-9l2-6 3 4h6l3-4 2 6v9z"/><circle cx="9" cy="14" r=".8"/><circle cx="15" cy="14" r=".8"/></svg>';
 const tipKind = x => /\b(mistake|don['\u2019]t|do not|avoid|never|careful|otherwise)\b/i.test(x) ? 'mistake' : /^(note|if |for a |you can|to make ahead|leftover)/i.test(x) ? 'note' : 'tip';
+// Same block as the cookbook's catCard: <div class="cat"><img ...><div><span class="pl">…</span><p>tip</p></div></div>.
+// The picture is the cookbook's own cat for this flavour (or the dish / master cat), shown whole, never cropped.
+const CAT_SIZES = '(max-width: 640px) calc(100vw - 40px), 460px';
 function catTip(ctx, r, locked) {
   const { t, u } = ctx, L = Object.assign({}, CAT_TIP, t.catTip || {});
   const tips = (r.tips || []).filter(Boolean);
   if (!locked && !tips.length) return '';
-  const ava = `<span class="cattip-ava" role="img" aria-label="${esc(L.alt)}"></span>`;
-  if (locked) return `<aside class="cattip is-locked" aria-label="${esc(t.ui.tips)}">${ava}<div class="cattip-bub"><h4 class="cattip-h" role="heading" aria-level="3">${CAT_ICON}<span>${esc(t.ui.tips)}</span><span class="cattip-kind">${LOCK}${esc(t.ui.premium)}</span></h4><p class="cattip-say">${esc(L.locked)}</p><p class="cattip-cta"><a href="${u('plans/')}">${esc(L.cta)} →</a></p></div></aside>`;
+  const c = r.catPic;
+  const img = c ? `<img src="${u(c.src)}" srcset="${c.srcset.map(x => u(x)).join(', ')}" sizes="${CAT_SIZES}" width="${c.width}" height="${c.height}" alt="${esc(L.alt)}" loading="lazy" decoding="async">` : '';
+  if (locked) return `<aside class="cat rcat is-locked" aria-label="${esc(t.ui.tips)}">${img}<div><h4 class="pl">${CAT_ICON}<span>${esc(t.ui.tips)}</span><span class="rcat-kind">${LOCK}${esc(t.ui.premium)}</span></h4><p>${esc(L.locked)}</p><p class="rcat-cta"><a href="${u('plans/')}">${esc(L.cta)} →</a></p></div></aside>`;
   const [first, ...rest] = tips;
-  return `<aside class="cattip" aria-label="${esc(t.ui.tips)}">${ava}<div class="cattip-bub"><h4 class="cattip-h" role="heading" aria-level="3">${CAT_ICON}<span>${esc(t.ui.tips)}</span><span class="cattip-kind">${esc(L[tipKind(first)])}</span></h4><p class="cattip-say">${esc(first)}</p>${rest.length ? `<p class="cattip-more-h">${esc(L.more)}</p><ul class="cattip-more">${rest.map(x => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}</div></aside>`;
+  return `<aside class="cat rcat" aria-label="${esc(t.ui.tips)}">${img}<div><h4 class="pl">${CAT_ICON}<span>${esc(L[tipKind(first)])}</span></h4><p>${esc(first)}</p>${rest.length ? `<p class="rcat-more-h">${esc(L.more)}</p><ul class="rcat-more">${rest.map(x => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}</div></aside>`;
 }
 
 // ---------------- recipe page ----------------
