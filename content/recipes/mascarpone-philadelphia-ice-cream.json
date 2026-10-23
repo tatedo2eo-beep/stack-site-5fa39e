@@ -1,0 +1,134 @@
+{
+  "slug": "mascarpone-philadelphia-ice-cream",
+  "title": "Mascarpone Ice Cream (No Egg)",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "philadelphia-no-egg",
+  "dish_title": "Philadelphia (no egg)",
+  "flavour": "Mascarpone",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
+  "changes_from_base": "Mascarpone and a little brown sugar replace the strawberries; the cream is cut back and the milk raised to keep the base scoopable.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A rich, egg-free ice cream built on cold mascarpone, with a touch of brown sugar for warmth. It tastes like the creamy part of tiramisu, dense and smooth.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "medium saucepan",
+    "whisk",
+    "silicone spatula",
+    "large jug",
+    "freezer container with lid",
+    "large bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 225,
+      "unit": "g",
+      "item": "mascarpone, cold"
+    },
+    {
+      "group": "Base",
+      "qty": 300,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Base",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 110,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 30,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 60,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sweet milk",
+      "text": "Warm the milk, both sugars, the syrup and the salt in the saucepan over medium heat, stirring, just until the sugar has dissolved and the milk steams. Pour into the jug and cool completely."
+    },
+    {
+      "title": "Loosen the mascarpone",
+      "text": "In the large bowl, whisk the cold mascarpone with about a third of the cream until smooth and free of lumps, then whisk in the rest of the cream and the vanilla."
+    },
+    {
+      "title": "Combine and chill",
+      "text": "Whisk the cooled milk into the mascarpone cream a little at a time so it stays silky, then cover and chill for at least 4 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn for 20-25 min, until it looks like thick soft serve. Mascarpone churns faster than plain cream, so check it early."
+    },
+    {
+      "title": "Freeze",
+      "text": "Scrape into the container, press baking paper on the surface and freeze for at least 4 h. Give it 10 min out of the freezer before scooping."
+    }
+  ],
+  "tips": [
+    "Keep the mascarpone cold and loosen it with a little cream first, or it can turn grainy.",
+    "Use mascarpone made with microbial rennet or acid-set (check the label).",
+    "Serve with crushed amaretti or a drizzle of strong coffee."
+  ],
+  "storage": "Keep covered with baking paper pressed on the surface in the freezer for up to 2 weeks. Soften for 10 min in the fridge before scooping.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 363,
+    "protein_g": 3.6,
+    "carbs_g": 27.3,
+    "sugar_g": 27.2,
+    "free_sugar_g": 23.2,
+    "fat_g": 27.2,
+    "satfat_g": 17.8,
+    "salt_g": 0.29,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Ivory mascarpone ice cream scoops with a soft, dense texture in a glass bowl.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

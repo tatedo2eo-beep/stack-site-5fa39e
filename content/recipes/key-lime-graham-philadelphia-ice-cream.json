@@ -1,0 +1,129 @@
+{
+  "slug": "key-lime-graham-philadelphia-ice-cream",
+  "title": "Key Lime Pie Ice Cream (No Egg)",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "philadelphia-no-egg",
+  "dish_title": "Philadelphia (no egg)",
+  "flavour": "Key lime",
+  "flavour_order": 11,
+  "access": "premium",
+  "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
+  "changes_from_base": "Lime zest, key lime juice and buttermilk replace the strawberries and milk, with broken graham crackers for a pie crust crunch.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "All the flavours of key lime pie in a scoop: a tangy lime and buttermilk ice cream with crunchy graham cracker pieces folded through.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "medium saucepan",
+    "whisk",
+    "silicone spatula",
+    "large jug",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Base",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 60,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "finely grated lime zest"
+    },
+    {
+      "group": "Base",
+      "qty": 120,
+      "unit": "ml",
+      "item": "buttermilk, cold"
+    },
+    {
+      "group": "Base",
+      "qty": 90,
+      "unit": "ml",
+      "item": "key lime juice (or ordinary lime juice), fresh or bottled"
+    },
+    {
+      "group": "Mix-ins",
+      "qty": 60,
+      "unit": "g",
+      "item": "graham crackers or digestive biscuits, broken into small pieces"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Lime cream",
+      "text": "Warm the cream, sugar, syrup, salt and zest in the saucepan until the sugar has dissolved, then leave to cool to room temperature so the zest can perfume it."
+    },
+    {
+      "title": "Add the tang",
+      "text": "Whisk in the cold buttermilk, then the lime juice. The acid thickens the cream slightly, like a pie filling. Chill for at least 4 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn for 20-30 min, until thick."
+    },
+    {
+      "title": "Fold and freeze",
+      "text": "Fold in the biscuit pieces quickly so they stay crunchy, pack into the container and freeze, covered, for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Bottled key lime juice works well; ordinary limes give a sharper flavour.",
+    "Add the lime juice only to cool cream so it thickens rather than curdles.",
+    "Top with a little whipped cream and extra zest to serve."
+  ],
+  "storage": "Keep covered with baking paper pressed on the surface in the freezer for up to 2 weeks. Soften for 10 min in the fridge before scooping.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 339,
+    "protein_g": 2.8,
+    "carbs_g": 33.8,
+    "sugar_g": 29.0,
+    "free_sugar_g": 26.5,
+    "fat_g": 22.6,
+    "satfat_g": 14.0,
+    "salt_g": 0.37,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale lime ice cream scoops with crumbly golden biscuit pieces and lime zest.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

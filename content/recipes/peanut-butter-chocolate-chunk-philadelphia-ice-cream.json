@@ -1,0 +1,137 @@
+{
+  "slug": "peanut-butter-chocolate-chunk-philadelphia-ice-cream",
+  "title": "Peanut Butter and Chocolate Chunk Ice Cream (No Egg)",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "philadelphia-no-egg",
+  "dish_title": "Philadelphia (no egg)",
+  "flavour": "Peanut butter",
+  "flavour_order": 8,
+  "access": "premium",
+  "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
+  "changes_from_base": "Peanut butter replaces the strawberries in the base, with homemade peanut-chocolate chunks folded through.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Creamy peanut butter ice cream with thin, snappy chunks of homemade peanut-chocolate, made in a churn without eggs.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "medium saucepan",
+    "whisk",
+    "silicone spatula",
+    "large jug",
+    "freezer container with lid",
+    "small tray lined with baking paper",
+    "heatproof bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 130,
+      "unit": "g",
+      "item": "smooth peanut butter"
+    },
+    {
+      "group": "Base",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 60,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 420,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Chunks",
+      "qty": 100,
+      "unit": "g",
+      "item": "milk chocolate, chopped"
+    },
+    {
+      "group": "Chunks",
+      "qty": 40,
+      "unit": "g",
+      "item": "smooth peanut butter"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Peanut base",
+      "text": "Warm the milk, sugar, syrup and salt in the saucepan until the sugar has dissolved, then take off the heat and whisk in the 130 g peanut butter until completely smooth."
+    },
+    {
+      "title": "Cool",
+      "text": "Whisk in the cold cream and chill for at least 4 h. Peanut butter thickens the base, so whisk again before churning."
+    },
+    {
+      "title": "Make the chunks",
+      "text": "Melt the milk chocolate in the heatproof bowl over barely simmering water, stir in the 40 g peanut butter and spread thinly on the lined tray. Freeze until hard, then chop into small chunks."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn the peanut base for 20-25 min, until thick."
+    },
+    {
+      "title": "Fold and freeze",
+      "text": "Fold through the frozen chunks, pack into the container and freeze, covered, for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Use a smooth peanut butter without added palm oil for the cleanest flavour.",
+    "Spread the chocolate thinly so the chunks stay tender, not hard, in the ice cream.",
+    "Add a handful of chopped roasted peanuts for extra crunch."
+  ],
+  "storage": "Keep covered with baking paper pressed on the surface in the freezer for up to 2 weeks. Soften for 10 min in the fridge before scooping.",
+  "allergens": [
+    "milk",
+    "soya",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 466,
+    "protein_g": 8.4,
+    "carbs_g": 33.8,
+    "sugar_g": 30.4,
+    "free_sugar_g": 24.7,
+    "fat_g": 34.8,
+    "satfat_g": 17.3,
+    "salt_g": 0.52,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Tan peanut butter ice cream scoops with chunks of milk chocolate.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

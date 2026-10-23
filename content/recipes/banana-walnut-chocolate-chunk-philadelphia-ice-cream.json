@@ -1,0 +1,150 @@
+{
+  "slug": "banana-walnut-chocolate-chunk-philadelphia-ice-cream",
+  "title": "Banana, Walnut and Chocolate Chunk Ice Cream (No Egg)",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "philadelphia-no-egg",
+  "dish_title": "Philadelphia (no egg)",
+  "flavour": "Banana & walnut",
+  "flavour_order": 9,
+  "access": "premium",
+  "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
+  "changes_from_base": "Ripe banana blended into the base, with toasted walnuts and dark chocolate chunks, replaces the strawberries.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Like banana bread in ice-cream form: very ripe bananas blended into a sweet cream base, with toasted walnuts and dark chocolate chunks.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "medium saucepan",
+    "whisk",
+    "silicone spatula",
+    "large jug",
+    "freezer container with lid",
+    "blender",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 2,
+      "unit": "pc",
+      "item": "very ripe bananas, peeled",
+      "note": "about 240 g peeled"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Base",
+      "qty": 420,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Base",
+      "qty": 180,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 90,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 60,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Mix-ins",
+      "qty": 40,
+      "unit": "g",
+      "item": "walnut halves"
+    },
+    {
+      "group": "Mix-ins",
+      "qty": 50,
+      "unit": "g",
+      "item": "dark chocolate, chopped into small chunks"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sweet cream",
+      "text": "Warm the cream, milk, sugar, syrup and salt in the saucepan until the sugar dissolves, then cool."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the bananas with the lemon juice until smooth, then add the cooled cream mixture and vanilla and blend briefly to combine. The lemon helps keep the banana from turning grey. Chill for at least 4 h."
+    },
+    {
+      "title": "Toast the nuts",
+      "text": "Roast the walnuts on the tray in a 180 °C (160 °C fan) oven for 7-8 min, until fragrant, then cool and chop roughly."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn the banana base for 20-30 min, until thick and pale gold."
+    },
+    {
+      "title": "Fold and freeze",
+      "text": "Fold in the walnuts and chocolate, pack into the container and freeze, covered, for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Use bananas with plenty of brown spots; they are sweeter and stronger in flavour.",
+    "Best eaten within a week, as banana flavour fades in the freezer.",
+    "Pecans work just as well as walnuts."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; soften for 10 min in the fridge before scooping.",
+  "allergens": [
+    "milk",
+    "soya",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 356,
+    "protein_g": 3.8,
+    "carbs_g": 30.2,
+    "sugar_g": 25.1,
+    "free_sugar_g": 18.6,
+    "fat_g": 25.7,
+    "satfat_g": 14.4,
+    "salt_g": 0.26,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale gold banana ice cream with toasted walnut pieces and dark chocolate chunks.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

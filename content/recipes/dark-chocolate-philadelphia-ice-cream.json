@@ -1,0 +1,141 @@
+{
+  "slug": "dark-chocolate-philadelphia-ice-cream",
+  "title": "Dark Chocolate Ice Cream (No Egg)",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "philadelphia-no-egg",
+  "dish_title": "Philadelphia (no egg)",
+  "flavour": "Dark chocolate",
+  "flavour_order": 5,
+  "access": "premium",
+  "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
+  "changes_from_base": "Melted dark chocolate, cocoa and a little coffee replace the strawberries, with more milk and less cream.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A deep, intense chocolate ice cream from 70% chocolate and cocoa, with a little coffee to make the chocolate taste darker rather than of coffee.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "medium saucepan",
+    "whisk",
+    "silicone spatula",
+    "large jug",
+    "freezer container with lid",
+    "heatproof bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 150,
+      "unit": "g",
+      "item": "dark chocolate (about 70% cocoa solids), finely chopped"
+    },
+    {
+      "group": "Base",
+      "qty": 15,
+      "unit": "g",
+      "item": "cocoa powder"
+    },
+    {
+      "group": "Base",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 110,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 60,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "instant coffee or espresso powder"
+    },
+    {
+      "group": "Base",
+      "qty": 420,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cocoa milk",
+      "text": "Whisk the cocoa with a splash of the milk in the saucepan to a smooth paste, then whisk in the rest of the milk, the sugar, syrup, salt and coffee. Bring just to a simmer, whisking."
+    },
+    {
+      "title": "Melt the chocolate",
+      "text": "Pour the hot cocoa milk over the chopped chocolate in the heatproof bowl, wait 1 min, then whisk until glossy and smooth."
+    },
+    {
+      "title": "Add the cream",
+      "text": "Whisk in the cold cream and vanilla, which also starts the cooling. Chill for at least 4 h; the base thickens noticeably."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn for 20-30 min. Chocolate bases set quickly, so stop as soon as it holds soft peaks."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pack into the container, cover and freeze for at least 4 h. Soften for 10-15 min before scooping, as chocolate ice cream freezes harder."
+    }
+  ],
+  "tips": [
+    "Leave out the coffee if serving to children; the flavour will be a little milder.",
+    "Chop the chocolate finely so it melts completely in the hot milk.",
+    "Soften this one slightly longer than most; it sets firm."
+  ],
+  "storage": "Keep covered with baking paper pressed on the surface in the freezer for up to 2 weeks. Soften for 10 min in the fridge before scooping.",
+  "allergens": [
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 395,
+    "protein_g": 4.6,
+    "carbs_g": 32.7,
+    "sugar_g": 27.6,
+    "free_sugar_g": 24.0,
+    "fat_g": 28.5,
+    "satfat_g": 17.6,
+    "salt_g": 0.28,
+    "fibre_g": 2.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Deep brown dark chocolate ice cream scoops with a glossy surface.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

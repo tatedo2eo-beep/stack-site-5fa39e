@@ -1,0 +1,148 @@
+{
+  "slug": "salted-caramel-coconut-philadelphia-ice-cream",
+  "title": "Salted Caramel and Toasted Coconut Ice Cream (No Egg)",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "philadelphia-no-egg",
+  "dish_title": "Philadelphia (no egg)",
+  "flavour": "Salted caramel & coconut",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
+  "changes_from_base": "A dark homemade salted caramel flavours the base and is rippled through, with toasted coconut folded in, instead of strawberries.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Dark homemade salted caramel flavours the base and runs through it in ribbons, while toasted coconut adds a nutty crunch.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium saucepan",
+    "whisk",
+    "silicone spatula",
+    "large jug",
+    "freezer container with lid",
+    "small heavy saucepan",
+    "dry frying pan",
+    "heatproof bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Caramel",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Caramel",
+      "qty": 150,
+      "unit": "ml",
+      "item": "double cream, warmed"
+    },
+    {
+      "group": "Caramel",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Caramel",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 330,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Base",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 40,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Mix-ins",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsweetened desiccated coconut"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Caramel",
+      "text": "Melt the 150 g sugar in the small heavy pan over medium heat, swirling rather than stirring, until it turns a deep amber, about 180 °C. Off the heat, pour in the warm cream carefully (it will bubble up hard), then stir in the butter and salt until smooth."
+    },
+    {
+      "title": "Divide",
+      "text": "Pour a third of the caramel into the heatproof bowl and leave it to cool for the swirl."
+    },
+    {
+      "title": "Base",
+      "text": "Warm the 330 ml cream, the milk, 40 g sugar and syrup in the medium saucepan until the sugar dissolves, then whisk in the rest of the warm caramel and the vanilla. Cool, then chill for at least 4 h."
+    },
+    {
+      "title": "Toast the coconut",
+      "text": "Stir the coconut in the dry frying pan over medium-low heat for 3-4 min until golden and fragrant, then tip onto a plate to cool."
+    },
+    {
+      "title": "Churn and swirl",
+      "text": "Churn the caramel base for 20-30 min, then fold in the coconut. Layer it into the container with spoonfuls of the reserved caramel and drag a knife through once or twice for ribbons. Freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Take the caramel dark, to a deep amber; pale caramel tastes only sweet.",
+    "Warm the cream before adding it to the caramel so it splutters less and does not seize.",
+    "The reserved caramel thickens as it cools; warm it for a few seconds if it is too stiff to swirl."
+  ],
+  "storage": "Keep covered with baking paper pressed on the surface in the freezer for up to 2 weeks. Soften for 10 min in the fridge before scooping.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 395,
+    "protein_g": 3.3,
+    "carbs_g": 32.4,
+    "sugar_g": 31.7,
+    "free_sugar_g": 27.6,
+    "fat_g": 29.2,
+    "satfat_g": 19.3,
+    "salt_g": 0.64,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Caramel-coloured ice cream rippled with amber caramel and flecked with toasted coconut.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

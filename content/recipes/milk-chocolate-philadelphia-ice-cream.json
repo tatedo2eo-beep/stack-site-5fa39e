@@ -1,0 +1,129 @@
+{
+  "slug": "milk-chocolate-philadelphia-ice-cream",
+  "title": "Milk Chocolate Ice Cream (No Egg)",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "philadelphia-no-egg",
+  "dish_title": "Philadelphia (no egg)",
+  "flavour": "Milk chocolate",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
+  "changes_from_base": "Melted milk chocolate replaces the strawberries, with less added sugar to balance its sweetness.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Smooth, gentle and nostalgic: a pale-brown milk chocolate ice cream with less added sugar, so the chocolate leads.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "medium saucepan",
+    "whisk",
+    "silicone spatula",
+    "large jug",
+    "freezer container with lid",
+    "heatproof bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 200,
+      "unit": "g",
+      "item": "milk chocolate, finely chopped"
+    },
+    {
+      "group": "Base",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 60,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 60,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 450,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Warm the milk",
+      "text": "Heat the milk, sugar, syrup and salt in the saucepan until steaming and the sugar has dissolved. The sugar is low because milk chocolate brings plenty."
+    },
+    {
+      "title": "Melt in",
+      "text": "Pour the hot milk over the chopped milk chocolate in the heatproof bowl, leave for 1 min, then whisk to a smooth, pale-brown liquid."
+    },
+    {
+      "title": "Cool",
+      "text": "Whisk in the cold cream and vanilla, then chill for at least 4 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn for 20-30 min, until thick and creamy like soft serve."
+    },
+    {
+      "title": "Freeze",
+      "text": "Scrape into the container, cover the surface and freeze for at least 4 h before scooping."
+    }
+  ],
+  "tips": [
+    "Use a good-quality milk chocolate with at least 30% cocoa solids.",
+    "If the chocolate does not fully melt, warm the bowl over simmering water for a moment.",
+    "Top with chopped toasted hazelnuts."
+  ],
+  "storage": "Keep covered with baking paper pressed on the surface in the freezer for up to 2 weeks. Soften for 10 min in the fridge before scooping.",
+  "allergens": [
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 400,
+    "protein_g": 4.7,
+    "carbs_g": 31.6,
+    "sugar_g": 29.8,
+    "free_sugar_g": 26.2,
+    "fat_g": 29.0,
+    "satfat_g": 18.3,
+    "salt_g": 0.32,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Light brown milk chocolate ice cream scoops in a small dish.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

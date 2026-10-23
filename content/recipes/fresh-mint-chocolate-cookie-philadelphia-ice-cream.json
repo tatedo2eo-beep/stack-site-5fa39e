@@ -1,0 +1,131 @@
+{
+  "slug": "fresh-mint-chocolate-cookie-philadelphia-ice-cream",
+  "title": "Fresh Mint and Chocolate Cookie Ice Cream (No Egg)",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "philadelphia-no-egg",
+  "dish_title": "Philadelphia (no egg)",
+  "flavour": "Mint",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
+  "changes_from_base": "Fresh mint steeped in the warm dairy and chopped chocolate sandwich cookies replace the strawberries; no extract or colouring, so the ice cream stays ivory.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Real mint leaves steeped in warm cream give this ivory ice cream a fresh, garden flavour that extract cannot match, with crunchy chocolate cookie pieces folded through.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "medium saucepan",
+    "whisk",
+    "silicone spatula",
+    "large jug",
+    "freezer container with lid",
+    "fine sieve"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Base",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 120,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 60,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 30,
+      "unit": "g",
+      "item": "fresh mint leaves (about 2 large bunches), roughly torn"
+    },
+    {
+      "group": "Mix-ins",
+      "qty": 6,
+      "unit": "pc",
+      "item": "chocolate sandwich cookies (cream-filled), roughly broken",
+      "note": "about 66 g"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Steep the mint",
+      "text": "Bring the cream, milk, sugar, syrup and salt to a bare simmer in the saucepan, stirring until the sugar dissolves. Take off the heat, push in the torn mint and cover for 30 min."
+    },
+    {
+      "title": "Strain",
+      "text": "Pour through the sieve into the jug, pressing hard on the leaves to get every bit of flavour, then throw the leaves away. Cool and chill for at least 4 h, or overnight for a stronger mint taste."
+    },
+    {
+      "title": "Prepare the cookies",
+      "text": "Break the cookies into pieces about the size of a fingernail and keep them in the freezer while the base churns."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn the cold mint base for 20-30 min, until thick and creamy."
+    },
+    {
+      "title": "Fold and freeze",
+      "text": "Fold the frozen cookie pieces through quickly, pack into the container, cover the surface and freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Spearmint gives a sweet, rounded taste; peppermint is sharper.",
+    "Steep overnight in the fridge, then strain, for a stronger mint flavour.",
+    "Freeze the cookie pieces first so they stay crisp instead of going soggy."
+  ],
+  "storage": "Keep covered with baking paper pressed on the surface in the freezer for up to 2 weeks. Soften for 10 min in the fridge before scooping.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 349,
+    "protein_g": 3.4,
+    "carbs_g": 30.6,
+    "sugar_g": 27.6,
+    "free_sugar_g": 23.9,
+    "fat_g": 24.6,
+    "satfat_g": 15.0,
+    "salt_g": 0.36,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale cream mint ice cream scoops speckled with dark chocolate cookie pieces.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

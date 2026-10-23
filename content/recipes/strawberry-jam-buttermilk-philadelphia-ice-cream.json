@@ -1,0 +1,128 @@
+{
+  "slug": "strawberry-jam-buttermilk-philadelphia-ice-cream",
+  "title": "Strawberry Jam and Buttermilk Ice Cream (No Egg)",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "philadelphia-no-egg",
+  "dish_title": "Philadelphia (no egg)",
+  "flavour": "Strawberry",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
+  "changes_from_base": "Buttermilk replaces the milk for tang, and strawberry jam is rippled through in place of fresh puréed strawberries.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Buttermilk gives this egg-free ice cream a gentle tang, like a frozen strawberry cheesecake, and thick ribbons of strawberry jam run through every scoop.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "medium saucepan",
+    "whisk",
+    "silicone spatula",
+    "large jug",
+    "freezer container with lid",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 420,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Base",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 60,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 240,
+      "unit": "ml",
+      "item": "buttermilk, cold"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Swirl",
+      "qty": 120,
+      "unit": "g",
+      "item": "strawberry jam"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sweeten the cream",
+      "text": "Heat the cream, sugar, syrup and salt in the saucepan, stirring, just until the sugar has dissolved. Pour into the jug and let it cool to room temperature."
+    },
+    {
+      "title": "Add the buttermilk",
+      "text": "Whisk in the cold buttermilk and lemon juice only once the cream is cool; hot cream can make buttermilk split. Chill for at least 4 h."
+    },
+    {
+      "title": "Loosen the jam",
+      "text": "Stir the jam in the small bowl until it is soft and spreadable, so it ribbons rather than sitting in lumps."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn the tangy base for 20-30 min, until thick."
+    },
+    {
+      "title": "Swirl and freeze",
+      "text": "Spread a third of the ice cream in the container, dot with a third of the jam and repeat twice, then marble with a knife. Cover the surface and freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Choose a jam with a high fruit content for the best flavour.",
+    "Let the cream cool fully before adding the buttermilk to avoid splitting.",
+    "Swap in raspberry or apricot jam for a change."
+  ],
+  "storage": "Keep covered with baking paper pressed on the surface in the freezer for up to 2 weeks. Soften for 10 min in the fridge before scooping.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 302,
+    "protein_g": 2.6,
+    "carbs_g": 31.6,
+    "sugar_g": 28.5,
+    "free_sugar_g": 25.5,
+    "fat_g": 19.2,
+    "satfat_g": 12.3,
+    "salt_g": 0.32,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "White buttermilk ice cream marbled with ribbons of red strawberry jam.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

@@ -56,6 +56,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | banana-bread | Banana bread/quick breads | Classic | 2 | 4 |
 | banana-cream-pie | Cream pie (banana, coconut) | Classic | 2 | 4 |
 | banana-infused-cream-pie | Cream pie (banana, coconut) | Banana | 2 | 4 |
+| banana-walnut-chocolate-chunk-philadelphia-ice-cream | Philadelphia (no egg) | Banana & walnut | 1 | 3 |
 | banana-walnut-muffins-demerara-top | American muffin (blueberry style, muffin method) | Banana & walnut | 1 | 3 |
 | banana-walnut-tarte-tatin-brown-sugar | Tarte Tatin | Banana & walnut | 1 | 3 |
 | banoffee-pie | Banoffee | Classic | 1 | 4 |
@@ -82,6 +83,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | bienenstich-bee-sting-cake-honey-almond | Bienenstich | Classic | 1 | 3 |
 | bircher-muesli-apple-pecans-raspberries | Muesli | Classic | 2 | 4 |
 | birthday-cake-blondies | Blondies | Birthday cake | 1 | 3 |
+| birthday-cake-philadelphia-ice-cream | Philadelphia (no egg) | Birthday cake | 1 | 3 |
 | black-and-white-cookies | Black-and-white | Classic | 2 | 4 |
 | black-bean-burger | Veggie/bean burger | Classic | 2 | 6 |
 | black-bean-fried-rice-peppers-coriander-fried-eggs | Gallo pinto | Classic | 2 | 4 |
@@ -388,6 +390,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | dark-chocolate-fudge-sauce | Sauce | Classic | 2 | 4 |
 | dark-chocolate-orange-mousse | Chocolate mousse | Orange | 3 | 5 |
 | dark-chocolate-orange-tart-candied-slices | Chocolate tart | Orange | 2 | 4 |
+| dark-chocolate-philadelphia-ice-cream | Philadelphia (no egg) | Dark chocolate | 1 | 3 |
 | dark-molasses-bran-muffins | Bran muffins | Classic | 2 | 4 |
 | dark-salted-caramel-custard-ice-cream | Custard-base (French) | Salted caramel | 1 | 3 |
 | dashi-kombu-bonito-japanese-stock | Dashi | Classic | 3 | 5 |
@@ -465,6 +468,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fresh-herb-gravy | Gravy | Herb | 2 | 4 |
 | fresh-lime-custard-ice-cream | Custard-base (French) | Lime | 1 | 3 |
 | fresh-limeade-mashed-zest-mint | Limeade | Classic | 2 | 4 |
+| fresh-mint-chocolate-cookie-philadelphia-ice-cream | Philadelphia (no egg) | Mint | 1 | 3 |
 | fresh-mint-dark-chocolate-custard-ice-cream | Custard-base (French) | Chocolate & mint | 2 | 4 |
 | fresh-mint-parsley-sauce | Mint sauce | Classic | 1 | 3 |
 | fresh-orange-sherbet-creamy | Sherbet | Classic | 1 | 3 |
@@ -637,6 +641,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | ketchup-chicken-fried-rice-folded-omelette | Omurice | Ketchup | 3 | 5 |
 | ketchup-glazed-meatloaf | Meatloaf | Ketchup-brown sugar glaze | 2 | 4 |
 | key-lime-bars | Bars (magic bars, millionaire's shortbread) | Key lime | 1 | 3 |
+| key-lime-graham-philadelphia-ice-cream | Philadelphia (no egg) | Key lime | 1 | 3 |
 | key-lime-pie | Key lime | Classic | 2 | 4 |
 | khanom-chan-thai-pandan-coconut-layer-cake | Khanom chan | Classic | 1 | 3 |
 | kibbeh-lamb-bulgur-shells-spiced-filling | Kibbeh | Classic | 2 | 4 |
@@ -700,6 +705,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | malloreddus-saffron-tomato | Malloreddus | Classic | 2 | 4 |
 | malted-milk-brownies | Brownie (fudgy or cakey) | Malted milk | 1 | 3 |
 | malted-milk-chocolate-custard-ice-cream | Custard-base (French) | Malted milk & milk chocolate | 1 | 3 |
+| malted-milk-philadelphia-ice-cream | Philadelphia (no egg) | Malted milk | 1 | 3 |
 | mango-lassi-cardamom-pistachio | Lassi | Mango | 2 | 4 |
 | mango-lime-sorbet | Sorbet | Classic | 1 | 3 |
 | mango-sticky-rice-toasted-mung-beans | Mango sticky rice | Classic | 2 | 4 |
@@ -711,6 +717,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | marble-pound-cake | Pound cake | Marble | 3 | 5 |
 | marshmallow-swirl-custard-ice-cream | Custard-base (French) | Marshmallow | 1 | 3 |
 | masala-chai-custard-ice-cream | Custard-base (French) | Chai spice | 1 | 3 |
+| mascarpone-philadelphia-ice-cream | Philadelphia (no egg) | Mascarpone | 1 | 3 |
 | matcha-chiffon-cake | Chiffon | Matcha | 2 | 4 |
 | matzah-ball-soup-chicken-dill | Matzah ball soup | Classic | 2 | 4 |
 | mediterranean-chicken-wraps-feta-peppers-olives | Wraps | Classic | 2 | 4 |
@@ -719,6 +726,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mexican-atole-cinnamon-brown-sugar | Atole | Classic | 2 | 4 |
 | mexican-red-rice-tomato-peas-carrots | Mexican rice (arroz rojo) | Classic | 3 | 5 |
 | miang-kham-betel-leaf-bites-palm-sugar-sauce | Miang kham | Classic | 1 | 3 |
+| milk-chocolate-philadelphia-ice-cream | Philadelphia (no egg) | Milk chocolate | 1 | 3 |
 | milk-chocolate-revel-bars | Bars (magic bars, millionaire's shortbread) | Milk chocolate | 1 | 3 |
 | millionaires-shortbread | Bars (magic bars, millionaire's shortbread) | Classic | 4 | 6 |
 | mint-coriander-green-chutney | Chutney | Classic | 2 | 4 |
@@ -848,6 +856,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | peach-tarte-tatin-amber-glaze | Tarte Tatin | Peach | 1 | 3 |
 | peanut-butter-banana-smoothie-thick | Smoothies | Banana-peanut butter | 2 | 4 |
 | peanut-butter-blondies | Blondies | Peanut butter | 1 | 3 |
+| peanut-butter-chocolate-chunk-philadelphia-ice-cream | Philadelphia (no egg) | Peanut butter | 1 | 3 |
 | peanut-butter-cookies | Peanut butter | Classic | 3 | 5 |
 | peanut-butter-fudge-chopped-peanuts | Fudge | Peanut butter | 2 | 4 |
 | peanut-butter-honey-custard-ice-cream | Custard-base (French) | Peanut butter & honey | 1 | 3 |
@@ -1010,6 +1019,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | salt-preserved-lemons | Preserved lemon | Classic | 2 | 4 |
 | salted-caramel-brownies | Brownie (fudgy or cakey) | Salted caramel | 1 | 3 |
 | salted-caramel-chocolate-tart-pecans | Chocolate tart | Salted caramel | 1 | 3 |
+| salted-caramel-coconut-philadelphia-ice-cream | Philadelphia (no egg) | Salted caramel & coconut | 1 | 3 |
 | salted-edamame-in-pods | Edamame | Classic | 1 | 3 |
 | saltenas-bolivian-chicken-hand-pies | Salteña | Chicken | 1 | 3 |
 | samgyetang | Samgyetang | Classic | 2 | 4 |
@@ -1144,6 +1154,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | strawberry-cheesecake-bars | Bars (magic bars, millionaire's shortbread) | Strawberry | 1 | 3 |
 | strawberry-eton-mess | Eton mess | Classic | 2 | 4 |
 | strawberry-granita-fork-scraped | Granita | Strawberry | 2 | 4 |
+| strawberry-jam-buttermilk-philadelphia-ice-cream | Philadelphia (no egg) | Strawberry | 1 | 3 |
 | strawberry-jam-filled-orange-doughnuts | Sufganiyot | Classic | 1 | 3 |
 | strawberry-lemon-tart-walnut-crust | Lemon tart | Strawberry | 1 | 3 |
 | strawberry-lemonade-fresh-berries | Lemonade | Strawberry | 2 | 4 |

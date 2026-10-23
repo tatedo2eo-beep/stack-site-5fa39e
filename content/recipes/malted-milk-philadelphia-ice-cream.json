@@ -1,0 +1,136 @@
+{
+  "slug": "malted-milk-philadelphia-ice-cream",
+  "title": "Malted Milk Ice Cream (No Egg)",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "philadelphia-no-egg",
+  "dish_title": "Philadelphia (no egg)",
+  "flavour": "Malted milk",
+  "flavour_order": 7,
+  "access": "premium",
+  "base_recipe": "strawberry-philadelphia-ice-cream-no-egg",
+  "changes_from_base": "Malted milk powder flavours the base and crushed chocolate malt balls are folded in, instead of strawberries.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A toasty, biscuit-like ice cream flavoured with malted milk powder and packed with crushed chocolate malt balls, like an old-fashioned malted shake.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "medium saucepan",
+    "whisk",
+    "silicone spatula",
+    "large jug",
+    "freezer container with lid",
+    "freezer bag and rolling pin"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 60,
+      "unit": "g",
+      "item": "malted milk powder"
+    },
+    {
+      "group": "Base",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 90,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 60,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Base",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 450,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Mix-ins",
+      "qty": 75,
+      "unit": "g",
+      "item": "chocolate-coated malted milk balls, roughly crushed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dissolve the malt",
+      "text": "Whisk the malted milk powder into the cold milk in the saucepan until no lumps remain, then add the sugar, syrup and salt."
+    },
+    {
+      "title": "Warm",
+      "text": "Heat, whisking, until steaming and the sugar has dissolved; malt powder catches on the bottom if left alone, so keep it moving."
+    },
+    {
+      "title": "Chill",
+      "text": "Pour into the jug, whisk in the cold cream and vanilla and chill for at least 4 h."
+    },
+    {
+      "title": "Crush the malt balls",
+      "text": "Tap them in the freezer bag with the rolling pin into rough halves and quarters, then freeze until needed."
+    },
+    {
+      "title": "Churn and finish",
+      "text": "Churn for 20-30 min, fold in the crushed malt balls and freeze, covered, for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Whisk the malt powder into cold milk first; added to hot milk it clumps.",
+    "Malt balls contain barley malt, so this is not gluten-free.",
+    "Serve between two biscuits for an ice-cream sandwich."
+  ],
+  "storage": "Keep covered with baking paper pressed on the surface in the freezer for up to 2 weeks. Soften for 10 min in the fridge before scooping.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 356,
+    "protein_g": 4.4,
+    "carbs_g": 32.6,
+    "sugar_g": 30.7,
+    "free_sugar_g": 27.1,
+    "fat_g": 24.3,
+    "satfat_g": 15.2,
+    "salt_g": 0.38,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Beige malted milk ice cream studded with crushed chocolate malt balls.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
