@@ -1,0 +1,124 @@
+{
+  "slug": "smoked-mozzarella-sun-dried-tomato-pinwheel-pizza",
+  "title": "Smoked Mozzarella and Sun-Dried Tomato Pizza",
+  "category": "vegetarian",
+  "cuisine": "American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "new-york",
+  "dish_title": "New York",
+  "flavour": "Mozzarella & sun-dried tomato",
+  "flavour_order": 12,
+  "access": "premium",
+  "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
+  "changes_from_base": "The base is brushed with sun-dried tomato oil and part-baked, then sun-dried tomatoes in a pinwheel and slices of smoked mozzarella replace the tomato sauce and fresh mozzarella.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Par-baked base crowned with a striking spiral of sun-dried tomatoes and soft smoked mozzarella, finished with optional fresh basil.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large baking tray",
+    "rolling pin",
+    "pastry brush",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 450,
+      "unit": "g",
+      "item": "pizza dough, shop-bought or homemade, at room temperature"
+    },
+    {
+      "group": "Dough",
+      "qty": 16,
+      "unit": "g",
+      "item": "plain flour, for dusting",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 225,
+      "unit": "g",
+      "item": "sun-dried tomatoes in oil, drained (oil kept)"
+    },
+    {
+      "group": "Topping",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "oil from the sun-dried tomato jar"
+    },
+    {
+      "group": "Topping",
+      "qty": 225,
+      "unit": "g",
+      "item": "smoked mozzarella, halved and thinly sliced"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "torn fresh basil, to serve (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Preheat",
+      "text": "Turn the oven to 220 °C."
+    },
+    {
+      "title": "Prepare",
+      "text": "On a floured surface, roll or stretch the 450 g dough into a 30 cm circle or rectangle that fits your tray, then lift it onto the lightly floured baking tray."
+    },
+    {
+      "title": "Part-bake",
+      "text": "Brush the top of the dough with oil from the jar of sun-dried tomatoes (about 1½ tbsp) and bake for 15 minutes to firm the base."
+    },
+    {
+      "title": "Top",
+      "text": "Remove from the oven, arrange the 225 g sun-dried tomatoes in a decorative pinwheel pattern, then fit thin slices of the 225 g smoked mozzarella between them."
+    },
+    {
+      "title": "Finish",
+      "text": "Bake for a further 5 minutes until the cheese melts and the crust takes on a golden hue."
+    },
+    {
+      "title": "Garnish",
+      "text": "If you have fresh basil, tear 2 tbsp over the surface and slice to serve."
+    }
+  ],
+  "tips": [
+    "Pre-bake the base briefly so it holds its shape and doesn't become soggy from the tomato oil",
+    "Pat the sun-dried tomatoes with kitchen paper if they are very oily so the base stays crisp.",
+    "Watch the cheese carefully in the final minutes as it can brown quickly once it starts to melt"
+  ],
+  "storage": "Keep leftovers chilled and consume within 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 614,
+    "protein_g": 22.1,
+    "carbs_g": 67.2,
+    "sugar_g": 0.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 29.7,
+    "satfat_g": 10.9,
+    "salt_g": 2.47,
+    "fibre_g": 5.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Thin-crust pizza with sun-dried tomatoes arranged in a decorative spiral and melted smoked mozzarella layered between them.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

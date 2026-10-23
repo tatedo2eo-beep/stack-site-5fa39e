@@ -1,0 +1,137 @@
+{
+  "slug": "thin-crust-lemon-pizza-black-pepper-creme-fraiche",
+  "title": "Thin-Crust Lemon Pizza with Black Pepper and Crème Fraîche",
+  "category": "vegetarian",
+  "cuisine": "American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "new-york",
+  "dish_title": "New York",
+  "flavour": "Lemon",
+  "flavour_order": 19,
+  "access": "premium",
+  "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
+  "changes_from_base": "Overlapping paper-thin lemon slices with black pepper and olive oil bake on a very thin crust in place of tomato sauce and mozzarella, and cool crème fraîche and chives go on after baking; the salmon roe in the original is left out.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Tissue-thin crust topped with translucent lemon slices that caramelise slightly in the oven, finished with cooling crème fraîche and herbaceous chives.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "pizza stone or rimmed baking tray",
+    "rolling pin",
+    "very sharp knife or mandoline",
+    "foil",
+    "offset spatula or spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 340,
+      "unit": "g",
+      "item": "pizza dough, shop-bought or homemade, at room temperature"
+    },
+    {
+      "group": "Dough",
+      "qty": 16,
+      "unit": "g",
+      "item": "plain flour, for dusting",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Base",
+      "qty": 5,
+      "unit": "ml",
+      "item": "olive oil, for the tray"
+    },
+    {
+      "group": "Topping",
+      "qty": 3,
+      "unit": "pc",
+      "item": "lemons, ends trimmed, sliced paper-thin, pips removed"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Topping",
+      "qty": 15,
+      "unit": "ml",
+      "item": "extra-virgin olive oil, for drizzling"
+    },
+    {
+      "group": "To finish",
+      "qty": 120,
+      "unit": "g",
+      "item": "crème fraîche"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "finely chopped chives"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Set the oven to 230 °C (place a pizza stone inside if you have one; if using a tray, brush it lightly with 5 ml oil)."
+    },
+    {
+      "title": "Roll thin",
+      "text": "Roll the 340 g dough very thinly to about 4 mm thickness and roughly 30 cm across, then transfer to the tray or a floured peel."
+    },
+    {
+      "title": "Top",
+      "text": "Cover the entire base with thin, overlapping slices of the 3 lemons (pips removed), grind ½ tsp ground black pepper across the surface and drizzle with 15 ml oil."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 15 to 20 minutes until the base becomes brown and crisp; if the lemon begins to brown too quickly, lay foil loosely across the top."
+    },
+    {
+      "title": "Cool",
+      "text": "Allow the pizza to cool slightly, spread 120 g crème fraîche over the surface and scatter the 2 tbsp finely chopped chives across the top."
+    },
+    {
+      "title": "Slice",
+      "text": "Cut into wedges and serve."
+    }
+  ],
+  "tips": [
+    "Roll the dough extremely thin so the base crisps properly underneath the lemon weight",
+    "Cover with foil if the lemon is browning faster than the crust is cooking to prevent the citrus from charring",
+    "Remove the pips from lemon slices before topping so diners don't bite into bitter seeds"
+  ],
+  "storage": "Keep leftovers chilled and eat within 1 day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 193,
+    "protein_g": 3.5,
+    "carbs_g": 23.7,
+    "sugar_g": 1.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 9.5,
+    "satfat_g": 4.5,
+    "salt_g": 0.43,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Thin crispy crust completely covered with overlapping pale lemon slices, topped with creamy dollops of crème fraîche and scattered chives.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

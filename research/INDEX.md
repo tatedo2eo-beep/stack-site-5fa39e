@@ -181,6 +181,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | butternut-chard-lasagne-one-pan | Sheets/baked (lasagne) | Squash & Swiss chard | 1 | 3 |
 | butternut-squash-apple-fattoush-sumac | Fattoush | Squash | 1 | 3 |
 | butternut-squash-ravioli | Filled (ravioli, tortellini, agnolotti) | Butternut squash | 4 | 6 |
+| butternut-squash-sage-onion-pine-nut-pizza | New York | Squash & pine nut | 1 | 3 |
 | buttery-rice-pilaf-toasted-vermicelli-herbs | Steamed/pilaf | Classic | 3 | 5 |
 | buttery-succotash-corn-lima | Succotash | Classic | 2 | 4 |
 | cacio-e-pepe | Cacio e pepe | Classic | 3 | 5 |
@@ -410,6 +411,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cornish-beef-pasty | Cornish pasty | Classic | 2 | 4 |
 | cornmeal-cranberry-pancakes-apple-compote | Pancakes (American) | Cranberry | 1 | 3 |
 | coronation-chicken | Coronation chicken | Classic | 2 | 5 |
+| courgette-filo-pizza-parmesan-herbs | New York | Zucchini | 1 | 3 |
 | courgette-fudge-brownies | Brownie (fudgy or cakey) | Zucchini | 1 | 3 |
 | cracker-thin-pizza-three-cheese-blend-sweet-oregano-sauce | St. Louis-style pizza | Classic | 2 | 4 |
 | cranberry-apricot-almond-granola | Granola | Cranberry & apricot | 1 | 3 |
@@ -420,6 +422,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cream-cheese-semifreddo-maple-balsamic | Semifreddo | Cream cheese | 1 | 3 |
 | cream-cheese-swirl-brownies | Brownie (fudgy or cakey) | Cream cheese | 1 | 3 |
 | cream-filled-profiteroles-chocolate-sauce | Profiteroles | Classic | 2 | 4 |
+| creamed-kale-pizza-lemon-parmesan-shallot | New York | Kale | 1 | 3 |
 | creamy-basil-rigatoni-no-cook | Short (penne, rigatoni, fusilli) | Basil | 1 | 3 |
 | creamy-broccoli-parmesan-fettuccine | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Broccoli & parmesan | 1 | 3 |
 | creamy-cashew-yoghurt-chicken-curry-cardamom | Korma | Chicken | 3 | 5 |
@@ -658,6 +661,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gnocchi-pesto | Gnocchi | Pesto | 3 | 5 |
 | goan-style-coconut-fish-curry-rice | Fish curry | Classic | 4 | 6 |
 | goat-cheese-dill-dutch-baby | Dutch baby | Goat cheese & dill | 1 | 3 |
+| goats-cheese-tomato-basil-party-tray-pizzas | New York | Goat cheese | 1 | 3 |
 | gochujang-tomato-bucatini | Long dried (spaghetti, linguine, bucatini) | Gochujang & tomato | 1 | 3 |
 | golden-braised-endive-lemon-thyme | Braised endive | Classic | 3 | 5 |
 | golden-brown-butter-skillet-cornbread | ? | ? | MISSING | |
@@ -1065,6 +1069,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | peanut-butter-swirl-brownies | Brownie (fudgy or cakey) | Peanut butter | 1 | 3 |
 | peanut-honey-banana-steel-cut-oatmeal | Porridge/oatmeal | Peanut & honey | 1 | 3 |
 | peanut-horchata-sorbet | Sorbet | Peanut | 1 | 3 |
+| pear-blue-cheese-gruyere-rye-crust-pizza | New York | Blue cheese & pear | 1 | 3 |
 | pear-tarte-tatin-dry-caramel | Tarte Tatin | Pear | 1 | 3 |
 | pear-upside-down-cake | Upside-down | Pear | 2 | 4 |
 | pear-vanilla-pod-sorbet | Sorbet | Pear & vanilla | 1 | 3 |
@@ -1218,6 +1223,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | roast-beef-po-boy-debris-gravy | Po' boy | Roast beef | 1 | 3 |
 | roast-chicken | Whole roast chicken | Classic | 3 | 6 |
 | roasted-apricot-almond-custard-ice-cream | Custard-base (French) | Apricot & almond | 1 | 3 |
+| roasted-aubergine-buffalo-mozzarella-pizza-garlic-chilli | Neapolitan | Eggplant & Buffalo mozzarella | 1 | 3 |
 | roasted-banana-blondies | Blondies | Banana | 1 | 3 |
 | roasted-beet-dark-chocolate-custard-ice-cream | Custard-base (French) | Beet | 1 | 3 |
 | roasted-brown-beef-stock-marrow-bones | Beef stock | Classic | 2 | 4 |
@@ -1254,6 +1260,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | saffron-chilli-rouille-toasts | Rouille | Classic | 1 | 3 |
 | saffron-layered-chicken-biryani-golden-onions-eggs | Biryani | Classic | 2 | 4 |
 | saffron-layered-lamb-biryani-golden-onions-mint | Biryani | Lamb | 2 | 4 |
+| saffron-leek-goats-cheese-mini-pizzas-sun-dried-tomato | New York | Leek | 1 | 3 |
 | sage-and-coarse-salt-focaccia | Focaccia | Sage | 1 | 3 |
 | sage-beurre-noisette | Beurre noisette | Classic | 2 | 4 |
 | sage-butter-crescent-rolls | Dinner rolls | Sage | 1 | 3 |
@@ -1331,6 +1338,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | smashed-avocado-chicken-burgers | Chicken burger | Avocado | 1 | 3 |
 | smashed-buttery-mushy-peas | Mushy peas | Classic | 2 | 4 |
 | smashed-cabbage-mushroom-veggie-burgers | Veggie/bean burger | Cabbage & mushroom | 1 | 3 |
+| smoked-mozzarella-sun-dried-tomato-pinwheel-pizza | New York | Mozzarella & sun-dried tomato | 1 | 3 |
+| smoked-salmon-pizza-dill-soured-cream-red-onion | New York | Salmon | 1 | 3 |
 | smoky-almond-pesto-spaghetti-peas | Long dried (spaghetti, linguine, bucatini) | Almond | 1 | 3 |
 | smoky-baba-ghanoush-charred-aubergine-tahini-lemon | Baba ghanoush | Classic | 2 | 4 |
 | smoky-beef-vegetable-sliders | Sliders | Beef | 1 | 3 |
@@ -1381,6 +1390,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spiced-hibiscus-iced-tea-orange-ginger | Iced tea | Hibiscus | 1 | 3 |
 | spiced-hot-cross-buns-orange-peel | ? | ? | MISSING | |
 | spiced-lamb-seekh-kebabs-mint-chutney | Seekh kebab | Classic | 2 | 4 |
+| spiced-lamb-sumac-tortilla-pizzas-yoghurt-cucumber | New York | Lamb | 1 | 3 |
 | spiced-mango-chutney | Chutney | Mango | 2 | 4 |
 | spiced-masala-chai-ginger-cardamom | Masala chai | Classic | 2 | 4 |
 | spiced-minced-beef-keema-peas | Keema | Keema matar (with peas) | 3 | 5 |
@@ -1500,9 +1510,11 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | thai-yellow-coconut-curry-prawns-potatoes-crispy-shallots | Thai yellow curry (kaeng kari) | Classic | 1 | 3 |
 | thick-acai-bowl-banana-berries-granola | Açaí bowl | Classic | 2 | 4 |
 | thick-chocolate-milkshake-whipped-cream | Milkshakes | Classic | 2 | 4 |
+| thin-crust-lemon-pizza-black-pepper-creme-fraiche | New York | Lemon | 1 | 3 |
 | thin-french-crepes-sugar-lemon | Crêpes | Classic | 2 | 4 |
 | thin-soft-lavash-flatbread | Lavash | Classic | 2 | 4 |
 | thin-spiced-lamb-flatbreads-sumac-onion-parsley-lemon | Lahmacun | Classic | 3 | 5 |
+| three-cheese-pesto-pizza-fontina-parmesan | New York | Pesto | 1 | 3 |
 | thumbprint-cookies | Thumbprints | Classic | 3 | 5 |
 | thyme-sumac-sesame-zaatar | Za'atar | Classic | 2 | 4 |
 | tiny-lamb-dumplings-garlic-yoghurt-paprika-butter | Manti | Classic | 2 | 4 |

@@ -1,0 +1,134 @@
+{
+  "slug": "goats-cheese-tomato-basil-party-tray-pizzas",
+  "title": "Goats' Cheese, Tomato and Basil Party Tray Pizzas",
+  "category": "vegetarian",
+  "cuisine": "American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "new-york",
+  "dish_title": "New York",
+  "flavour": "Goat cheese",
+  "flavour_order": 21,
+  "access": "premium",
+  "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
+  "changes_from_base": "Sliced fresh tomatoes, crumbled aged goats' cheese and plenty of chopped basil replace the tomato sauce and mozzarella, and the dough is spread over two whole baking trays and cut into small squares for a party.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Two generous rectangular pizzas scattered with crumbly aged goats' cheese, fresh tomato slices and torn basil, baked until the crust is golden.",
+  "servings": 12,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "2 large baking trays",
+    "rolling pin (optional)",
+    "large sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 900,
+      "unit": "g",
+      "item": "pizza dough, shop-bought or homemade, thawed if frozen"
+    },
+    {
+      "group": "Dough",
+      "qty": 48,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "about 6 tbsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 225,
+      "unit": "g",
+      "item": "aged goats' cheese, crumbled"
+    },
+    {
+      "group": "Topping",
+      "qty": 4,
+      "unit": "pc",
+      "item": "tomatoes, sliced"
+    },
+    {
+      "group": "Topping",
+      "qty": 20,
+      "unit": "g",
+      "item": "fresh basil, chopped"
+    },
+    {
+      "group": "Topping",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Thaw any frozen 900 g pizza dough the morning before you plan to bake."
+    },
+    {
+      "title": "Heat",
+      "text": "Set the oven to 180 °C."
+    },
+    {
+      "title": "First tray",
+      "text": "Scatter about 1 tbsp plain flour across the first large baking tray; press and stretch half the dough to cover the entire surface, flouring your hands and the dough as needed to prevent sticking (a rolling pin will produce a thinner, more uniform crust if preferred)."
+    },
+    {
+      "title": "Top",
+      "text": "Scatter half the 225 g crumbled aged goats' cheese across the first tray, arrange half the 4 sliced tomatoes in an even layer, sprinkle half the 20 g chopped fresh basil and season with half the ¼ tsp salt and half the ¼ tsp pepper."
+    },
+    {
+      "title": "Repeat",
+      "text": "Press and stretch the remaining dough onto the second tray in the same manner and repeat the topping process with the remaining cheese, tomato, basil and seasoning."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 30 to 60 minutes depending on how thick the dough is and how crisp you prefer the result, continuing until the base is golden brown underneath."
+    },
+    {
+      "title": "Serve",
+      "text": "Cut each tray into small rectangles with a large, sharp knife."
+    }
+  ],
+  "tips": [
+    "Press the dough gently and evenly from the centre outward so it stretches uniformly to fill the entire tray",
+    "Use aged goats' cheese rather than young fresh cheese so it holds its shape and doesn't collapse into a puddle",
+    "Bake for longer if you prefer a crispier, thinner base or for less time if you like a softer, chewier crust"
+  ],
+  "storage": "Keep leftovers chilled and consume within 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 243,
+    "protein_g": 8.8,
+    "carbs_g": 37.9,
+    "sugar_g": 1.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 6.0,
+    "satfat_g": 3.0,
+    "salt_g": 1.07,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Large rectangular pizza cut into small pieces, topped with crumbled aged goats' cheese, fresh tomato slices and torn basil leaves.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

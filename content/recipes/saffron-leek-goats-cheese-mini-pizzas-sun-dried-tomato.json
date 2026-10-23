@@ -1,0 +1,152 @@
+{
+  "slug": "saffron-leek-goats-cheese-mini-pizzas-sun-dried-tomato",
+  "title": "Saffron Leek and Goats' Cheese Mini Pizzas with Sun-Dried Tomatoes",
+  "category": "vegetarian",
+  "cuisine": "French",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "new-york",
+  "dish_title": "New York",
+  "flavour": "Leek",
+  "flavour_order": 22,
+  "access": "premium",
+  "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
+  "changes_from_base": "A soft, buttery leek and onion mixture tinted with saffron replaces the tomato sauce, and crumbled goats' cheese with strips of sun-dried tomato take the place of mozzarella on four small individual bases.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Four individual pizzas topped with saffron-scented sweet leeks and crumbled goats' cheese, decorated with sun-dried tomatoes in a neat spoke pattern.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 50,
+  "difficulty": "easy",
+  "equipment": [
+    "large frying pan with a lid",
+    "large baking tray",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Leeks",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Leeks",
+      "qty": 15,
+      "unit": "ml",
+      "item": "olive oil"
+    },
+    {
+      "group": "Leeks",
+      "qty": 180,
+      "unit": "g",
+      "item": "leeks, white parts only, finely diced (about 6 medium)"
+    },
+    {
+      "group": "Leeks",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 160 g"
+    },
+    {
+      "group": "Leeks",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "saffron threads"
+    },
+    {
+      "group": "Leeks",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fine cornmeal or semolina, for dusting"
+    },
+    {
+      "group": "Dough",
+      "qty": 340,
+      "unit": "g",
+      "item": "pizza dough, shop-bought or homemade, at room temperature"
+    },
+    {
+      "group": "Topping",
+      "qty": 170,
+      "unit": "g",
+      "item": "goats' cheese log, rind removed, crumbled"
+    },
+    {
+      "group": "Topping",
+      "qty": 6,
+      "unit": "pc",
+      "item": "sun-dried tomato halves in oil, drained and cut into thin strips (or 16 pitted black olives, chopped)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Stew",
+      "text": "Heat 55 g unsalted butter and 15 ml oil in a large frying pan with a lid, add the 180 g finely diced leek whites and the 1 finely chopped medium onion, cover the pan and cook over low heat, stirring occasionally, until both vegetables are very soft but have not browned."
+    },
+    {
+      "title": "Infuse",
+      "text": "Crumble ¼ tsp saffron threads directly into the pan, add ¼ tsp salt, cover again and cook for 10 minutes more, stirring a few times, so the saffron flavour disperses throughout."
+    },
+    {
+      "title": "Prepare",
+      "text": "Set the oven to 220 °C and dust a large baking tray with 1 tbsp cornmeal or semolina."
+    },
+    {
+      "title": "Shape",
+      "text": "Divide the 340 g dough into 4 equal portions, shape each into a 15 cm circle with a 1 cm raised rim and set them spaced evenly on the tray."
+    },
+    {
+      "title": "Top",
+      "text": "Spread the warm leek mixture evenly across each circle, scatter the 170 g crumbled goats' cheese (rind removed) over the top and arrange the 6 drained sun-dried tomato halves like spokes radiating from the centre (alternatively, scatter 16 pitted black olives in a circle)."
+    },
+    {
+      "title": "Bake",
+      "text": "Place the tray on the bottom shelf of the oven and bake for about 20 minutes until the edges are lightly browned and the cheese has melted."
+    },
+    {
+      "title": "Serve",
+      "text": "Remove from the oven and serve straight away while warm."
+    }
+  ],
+  "tips": [
+    "Cook the leeks gently and slowly so they turn translucent and sweet without browning or catching on the pan",
+    "Rub the saffron threads between your fingers before adding them to the pan to crack the threads and release maximum colour and flavour",
+    "Chopped black olives in place of the sun-dried tomatoes give a saltier finish."
+  ],
+  "storage": "Keep leftovers chilled and eat within 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 503,
+    "protein_g": 14.7,
+    "carbs_g": 51.5,
+    "sugar_g": 4.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 27.0,
+    "satfat_g": 14.2,
+    "salt_g": 1.76,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Individual mini pizza with pale, creamy leek topping, scattered white goats' cheese and sun-dried tomato strips arranged in a spoke pattern.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "slug": "spiced-lamb-sumac-tortilla-pizzas-yoghurt-cucumber",
+  "title": "Spiced Lamb and Sumac Tortilla Pizzas with Minted Yoghurt",
+  "category": "beef-lamb",
+  "cuisine": "Middle Eastern",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "new-york",
+  "dish_title": "New York",
+  "flavour": "Lamb",
+  "flavour_order": 18,
+  "access": "premium",
+  "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
+  "changes_from_base": "Warm wholemeal tortillas replace the yeast dough, and they are spread with minted cucumber yoghurt, then topped with sumac and cumin spiced lamb, chopped tomato and coriander instead of tomato sauce and mozzarella.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Spiced lamb on warm tortillas offset by creamy yoghurt, cool cucumber and fresh herbs, finished with ripe tomato.",
+  "servings": 2,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "medium non-stick frying pan",
+    "food processor (optional)",
+    "small bowl",
+    "medium bowl",
+    "foil",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Lamb",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 115 g"
+    },
+    {
+      "group": "Lamb",
+      "qty": 5,
+      "unit": "ml",
+      "item": "olive oil"
+    },
+    {
+      "group": "Lamb",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, minced"
+    },
+    {
+      "group": "Lamb",
+      "qty": 225,
+      "unit": "g",
+      "item": "lamb mince (or trimmed leg of lamb, minced)"
+    },
+    {
+      "group": "Lamb",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sumac"
+    },
+    {
+      "group": "Lamb",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Lamb",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Lamb",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Lamb",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Yoghurt",
+      "qty": 115,
+      "unit": "g",
+      "item": "small cucumbers, cut into small cubes"
+    },
+    {
+      "group": "Yoghurt",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped fresh mint"
+    },
+    {
+      "group": "Yoghurt",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "chopped fresh coriander, divided"
+    },
+    {
+      "group": "Yoghurt",
+      "qty": 245,
+      "unit": "g",
+      "item": "plain yoghurt"
+    },
+    {
+      "group": "To assemble",
+      "qty": 4,
+      "unit": "pc",
+      "item": "wholemeal tortillas, about 20 cm"
+    },
+    {
+      "group": "To assemble",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium-large ripe tomatoes"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown onion",
+      "text": "Heat a large non-stick frying pan until very hot, lower to medium-high, add 5 ml oil and cook the 1 finely chopped medium onion until it begins to brown at the edges."
+    },
+    {
+      "title": "Season and cook",
+      "text": "Mix the 225 g lamb mince with 1 minced garlic clove, 1 tsp sumac, ⅛ tsp chilli flakes, ¼ tsp cumin, ⅛ tsp salt and ¼ tsp black pepper; add to the onion, breaking it apart with a spoon, and cook until fully browned and reaching 71 °C on an instant-read thermometer."
+    },
+    {
+      "title": "Prepare yoghurt",
+      "text": "Cut 115 g small unpeeled cucumbers into small cubes, chop 2 tbsp fresh mint and 4 tbsp fresh coriander (reserve half the coriander), then fold the cucumber, mint and half the coriander into 245 g plain yoghurt."
+    },
+    {
+      "title": "Warm tortillas",
+      "text": "Heat 2 of the 4 wholemeal tortillas (about 20 cm each) either over a low gas flame or wrapped in foil in a 200 °C oven for roughly 3 minutes."
+    },
+    {
+      "title": "Prepare toppings",
+      "text": "Slice the 2 medium-large ripe tomatoes and cut them into small wedges."
+    },
+    {
+      "title": "Assemble",
+      "text": "Spread one quarter of the yoghurt mixture onto each warm tortilla, top with one quarter of the cooked lamb, one quarter of the tomato wedges and a scatter of the remaining coriander, then repeat the process with the remaining 2 tortillas."
+    }
+  ],
+  "tips": [
+    "Cook the lamb to 71 °C using an instant-read thermometer to ensure it is fully cooked and food-safe",
+    "Warm the tortillas just before assembling so they stay soft and pliable.",
+    "If the yoghurt is very runny, drain it in a sieve for 10 minutes so the tortillas do not turn soggy."
+  ],
+  "storage": "Place leftovers in a sealed container and refrigerate within 2 hours; they keep for 2 days.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 748,
+    "protein_g": 32.9,
+    "carbs_g": 65.5,
+    "sugar_g": 15.5,
+    "free_sugar_g": 2.4,
+    "fat_g": 40.1,
+    "satfat_g": 15.6,
+    "salt_g": 2.38,
+    "fibre_g": 6.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Warm wholemeal tortillas filled with brown spiced lamb, cool white yoghurt, tomato wedges and fresh green herbs.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

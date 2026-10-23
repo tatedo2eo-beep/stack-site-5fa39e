@@ -1,0 +1,147 @@
+{
+  "slug": "courgette-filo-pizza-parmesan-herbs",
+  "title": "Courgette Filo Pizza with Parmesan and Herbs",
+  "category": "vegetarian",
+  "cuisine": "American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "new-york",
+  "dish_title": "New York",
+  "flavour": "Zucchini",
+  "flavour_order": 15,
+  "access": "premium",
+  "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
+  "changes_from_base": "Twelve sheets of filo layered with butter, oil, herbs, parmesan and wheat germ replace the yeast dough, and overlapping rows of green and yellow courgette with red onion take the place of tomato sauce and mozzarella.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Crisp layers of filo with herbs and cheese, topped with overlapping rows of green and yellow courgette and a little red onion.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "large baking tray",
+    "pastry brush",
+    "small bowl",
+    "damp tea towel",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Herb cheese",
+      "qty": 50,
+      "unit": "g",
+      "item": "parmesan or Asiago, finely grated"
+    },
+    {
+      "group": "Herb cheese",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "chopped mixed fresh herbs (thyme, parsley and basil)"
+    },
+    {
+      "group": "Layers",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Layers",
+      "qty": 30,
+      "unit": "ml",
+      "item": "rapeseed oil"
+    },
+    {
+      "group": "Layers",
+      "qty": 12,
+      "unit": "pc",
+      "item": "filo pastry sheets, thawed"
+    },
+    {
+      "group": "Layers",
+      "qty": 16,
+      "unit": "g",
+      "item": "wheat germ (or wholemeal flour)",
+      "note": "about 6 tsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium green courgette, thinly sliced"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "red onion, finely chopped"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium yellow courgette, thinly sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Set the oven to 200 °C."
+    },
+    {
+      "title": "Prepare",
+      "text": "Mix 50 g grated cheese with 4 tbsp chopped mixed fresh herbs (thyme, parsley and basil) and set aside."
+    },
+    {
+      "title": "Combine",
+      "text": "Blend 30 g melted unsalted butter with 30 ml rapeseed oil in a small bowl."
+    },
+    {
+      "title": "Layer",
+      "text": "Brush a light coating of the butter mixture over a large baking tray, keeping the 12 filo sheets under a damp tea towel to prevent drying; lay 2 sheets on the tray, brush gently with the mixture and scatter 2 tbsp herb cheese and 1 tsp wheat germ over the top, then repeat this process five more times, finishing with a filo sheet and a brush of butter-oil on top."
+    },
+    {
+      "title": "Arrange",
+      "text": "Leaving a 4 cm border around the edge, scatter the ½ finely chopped red onion across the surface, then lay the thinly sliced green and yellow courgette in alternating overlapping rows."
+    },
+    {
+      "title": "Finish",
+      "text": "Sprinkle the remaining herb cheese and wheat germ over the courgette, drizzle any leftover butter-oil across the surface and bake for 15 to 20 minutes until the filo is light golden and the cheese has melted."
+    },
+    {
+      "title": "Serve",
+      "text": "Cool briefly on a rack then cut into 8 cm squares."
+    }
+  ],
+  "tips": [
+    "Keep the filo sheets covered with a damp tea towel at all times so they stay pliable and don't crack",
+    "Brush each layer generously with the butter-oil mixture to ensure maximum crispness and golden colour",
+    "Slice the finished pizza while still warm so the filo cuts cleanly without shattering"
+  ],
+  "storage": "This is best eaten on the day it is made; leftovers keep chilled for 1 day and can be re-crisped in the oven. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 366,
+    "protein_g": 10.4,
+    "carbs_g": 37.0,
+    "sugar_g": 3.5,
+    "free_sugar_g": 0.0,
+    "fat_g": 20.0,
+    "satfat_g": 7.3,
+    "salt_g": 1.19,
+    "fibre_g": 2.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Squares of crispy golden filo layered with herbs and cheese, topped with alternating strips of pale green and bright yellow courgette.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

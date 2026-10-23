@@ -1,0 +1,160 @@
+{
+  "slug": "butternut-squash-sage-onion-pine-nut-pizza",
+  "title": "Butternut Squash, Sage and Slow-Cooked Onion Pizza with Pine Nuts",
+  "category": "vegetarian",
+  "cuisine": "Italian-American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "new-york",
+  "dish_title": "New York",
+  "flavour": "Squash & pine nut",
+  "flavour_order": 11,
+  "access": "premium",
+  "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
+  "changes_from_base": "A sage and nutmeg squash purée replaces the tomato sauce, and slowly cooked golden onions, grated parmesan and pine nuts take the place of mozzarella.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Sweet roasted squash purée topped with caramelised onions, melted cheese and toasted pine nuts on a crispy crust.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "pizza stone or large baking tray",
+    "pizza peel (if using a stone)",
+    "large frying pan",
+    "medium bowl",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fine cornmeal or semolina, for dusting"
+    },
+    {
+      "group": "Dough",
+      "qty": 450,
+      "unit": "g",
+      "item": "pizza dough, shop-bought or homemade, at room temperature"
+    },
+    {
+      "group": "Topping",
+      "qty": 30,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium onions, halved and thinly sliced",
+      "note": "about 300 g"
+    },
+    {
+      "group": "Topping",
+      "qty": 180,
+      "unit": "g",
+      "item": "butternut squash or pumpkin purée (tinned, or roasted and mashed)"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "finely chopped fresh sage"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Topping",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Topping",
+      "qty": 45,
+      "unit": "g",
+      "item": "parmesan or pecorino romano, finely grated"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "pine nuts"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Preheat",
+      "text": "Set the oven to 230 °C with a pizza stone inside for 30 to 45 minutes; if using a baking tray, simply heat the oven and brush it lightly with oil."
+    },
+    {
+      "title": "Slow-cook",
+      "text": "Heat 30 ml olive oil in a large pan over medium, add the 2 sliced onions, lower the heat and cook gently for 20 to 25 minutes, stirring frequently, until they soften into a deep golden sweetness."
+    },
+    {
+      "title": "Blend",
+      "text": "Whisk the 180 g squash purée together with 2 tsp chopped sage, ¼ tsp ground nutmeg, ¼ tsp salt and ¼ tsp ground pepper until the mixture becomes completely even."
+    },
+    {
+      "title": "Stretch",
+      "text": "Dust the pizza peel with cornmeal, use your fingertips to dimple the 450 g dough and gradually turn it at the edges to form a 35 cm circle (or a rough 30 x 18 cm rectangle on the tray)."
+    },
+    {
+      "title": "Assemble",
+      "text": "Spread the squash blend within 1 cm of the rim, layer the softened onions across the surface, then sprinkle 45 g grated cheese and 1 tbsp pine nuts over the top."
+    },
+    {
+      "title": "Bake",
+      "text": "Slide onto the stone or place the tray in the oven and bake for 16 to 18 minutes until the base turns golden and firm, piercing any large bubbles as they form."
+    },
+    {
+      "title": "Rest",
+      "text": "Transfer to a rack, rest for 5 minutes, then slice and serve."
+    }
+  ],
+  "tips": [
+    "Cook the onions over a very low heat and stir often so they turn soft, sweet and golden without catching.",
+    "Prick large bubbles as they form during baking to keep the crust even and crisp",
+    "Pine nuts are seeds rather than true tree nuts, but some people with nut allergies react to them; leave them out if in any doubt."
+  ],
+  "storage": "Keep leftovers chilled and eat within 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 433,
+    "protein_g": 12.6,
+    "carbs_g": 63.1,
+    "sugar_g": 5.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 14.6,
+    "satfat_g": 3.5,
+    "salt_g": 1.92,
+    "fibre_g": 4.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden-based pizza topped with caramelised rings of onion, golden squash purée, melted cheese and scattered pine nuts.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

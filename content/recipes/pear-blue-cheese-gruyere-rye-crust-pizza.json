@@ -1,0 +1,183 @@
+{
+  "slug": "pear-blue-cheese-gruyere-rye-crust-pizza",
+  "title": "Pear, Blue Cheese and Gruyère Pizza on a Rye Crust",
+  "category": "vegetarian",
+  "cuisine": "American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "new-york",
+  "dish_title": "New York",
+  "flavour": "Blue cheese & pear",
+  "flavour_order": 16,
+  "access": "premium",
+  "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
+  "changes_from_base": "A nutty rye and wheat dough replaces the plain base, and two layers of paper-thin pear with grated Gruyère and crumbled blue cheese stand in for the tomato sauce and mozzarella.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Rye-enriched dough supporting delicate layers of pear with the contrasting saltiness of blue cheese and nutty Gruyère.",
+  "servings": 6,
+  "prep_min": 40,
+  "cook_min": 12,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "cling film",
+    "melon baller or teaspoon",
+    "rolling pin",
+    "3 pizza tins or baking trays",
+    "pastry brush",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 355,
+      "unit": "ml",
+      "item": "lukewarm water"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "dried active yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 4,
+      "unit": "g",
+      "item": "dark brown sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 90,
+      "unit": "g",
+      "item": "rye flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 345,
+      "unit": "g",
+      "item": "plain flour, plus 2 tbsp for rolling"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 15,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "ml",
+      "item": "olive oil, for the bowl"
+    },
+    {
+      "group": "Topping",
+      "qty": 4,
+      "unit": "pc",
+      "item": "firm ripe pears (about 225 g each)"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "lemon"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fine cornmeal or semolina, for dusting"
+    },
+    {
+      "group": "Topping",
+      "qty": 200,
+      "unit": "g",
+      "item": "Gruyère, grated"
+    },
+    {
+      "group": "Topping",
+      "qty": 180,
+      "unit": "g",
+      "item": "blue cheese, crumbled"
+    },
+    {
+      "group": "Topping",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Activate",
+      "text": "Combine 355 ml lukewarm water in a warm bowl with 2 tsp dried yeast and 1 tsp dark brown sugar, stir and leave for a few minutes until bubbles form."
+    },
+    {
+      "title": "Mix",
+      "text": "In a large bowl, combine 90 g rye flour, 345 g plain flour, 1 tsp salt and 15 ml oil; pour in the yeast mixture and mix until a rough dough forms."
+    },
+    {
+      "title": "Knead",
+      "text": "Turn the dough onto a floured surface and knead for about 10 minutes until it loses its stickiness, adding small amounts of flour as needed."
+    },
+    {
+      "title": "First rise",
+      "text": "Shape into a ball, place in an oiled bowl, cover with cling film and leave in a warm spot for 45 to 60 minutes until the dough has roughly doubled in size."
+    },
+    {
+      "title": "Second rise",
+      "text": "Knock back the dough, shape it again and leave for about 30 minutes until roughly doubled again; meanwhile, peel the 4 pears, rub with cut lemon, halve them, scoop out the cores and slice paper-thin."
+    },
+    {
+      "title": "Prepare",
+      "text": "Set the oven to 260 °C; knock back the risen dough and divide into 3 pieces; roll each to a 25 to 28 cm circle and place on tins dusted with cornmeal or semolina."
+    },
+    {
+      "title": "Assemble",
+      "text": "Lay the first layer of pear slices in tight circles leaving a 2.5 cm border, scatter one third of the 200 g Gruyère over each, add a second thinner layer of pear and divide the 180 g crumbled blue cheese among the three, then brush the borders with 55 g melted butter."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 10 to 12 minutes until the crust is golden and the cheese bubbles across the surface."
+    }
+  ],
+  "tips": [
+    "Slice pears paper-thin so they cook evenly without becoming tough or mushy",
+    "Anyone pregnant should use a pasteurised blue cheese; check the label.",
+    "Brush the crust border generously with melted butter so it browns well and adds richness to every bite"
+  ],
+  "storage": "Keep leftovers chilled and eat within 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 700,
+    "protein_g": 26.1,
+    "carbs_g": 82.1,
+    "sugar_g": 15.9,
+    "free_sugar_g": 0.7,
+    "fat_g": 31.1,
+    "satfat_g": 17.2,
+    "salt_g": 2.44,
+    "fibre_g": 10.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Three individual pizzas with paper-thin layers of pale pear, melted Gruyère and crumbled blue cheese on a rye-flecked crust.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

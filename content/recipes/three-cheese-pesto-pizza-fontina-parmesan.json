@@ -1,0 +1,137 @@
+{
+  "slug": "three-cheese-pesto-pizza-fontina-parmesan",
+  "title": "Three-Cheese Pesto Pizza with Fontina and Parmesan",
+  "category": "vegetarian",
+  "cuisine": "Italian-American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "new-york",
+  "dish_title": "New York",
+  "flavour": "Pesto",
+  "flavour_order": 20,
+  "access": "premium",
+  "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
+  "changes_from_base": "A thin layer of basil pesto replaces the tomato sauce, and a mix of mozzarella, parmesan and fontina is scattered over in place of plain mozzarella.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Three distinct cheeses with subtly different melting points create a complex, deeply satisfying topping over vibrant basil pesto.",
+  "servings": 2,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "30 cm pizza tin",
+    "rolling pin",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 5,
+      "unit": "ml",
+      "item": "olive oil, for the tin"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fine cornmeal or semolina, for dusting"
+    },
+    {
+      "group": "Dough",
+      "qty": 340,
+      "unit": "g",
+      "item": "pizza dough, shop-bought or homemade, at room temperature"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "basil pesto (shop-bought or homemade)"
+    },
+    {
+      "group": "Topping",
+      "qty": 55,
+      "unit": "g",
+      "item": "mozzarella, grated"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "parmesan, finely grated"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "fontina, grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Set the oven to 245 °C."
+    },
+    {
+      "title": "Prepare",
+      "text": "Brush 5 ml oil inside a 30 cm pizza tin and dust the surface with 1 tbsp cornmeal or semolina."
+    },
+    {
+      "title": "Shape",
+      "text": "Roll and stretch the 340 g dough to fit the tin, making sure to leave a thicker, raised rim around the edge."
+    },
+    {
+      "title": "Spread",
+      "text": "Distribute 2 tbsp basil pesto evenly across the base."
+    },
+    {
+      "title": "Combine",
+      "text": "In a small bowl, mix together 55 g grated mozzarella, 25 g finely grated parmesan and 25 g grated fontina."
+    },
+    {
+      "title": "Top",
+      "text": "Scatter the mixed cheese blend over the pesto."
+    },
+    {
+      "title": "Bake",
+      "text": "Place the tin on the bottom shelf of the oven and bake for about 20 minutes until the crust is browned underneath and the cheese bubbles and turns just golden."
+    },
+    {
+      "title": "Serve",
+      "text": "Remove from the oven and serve at once while the cheese is still soft."
+    }
+  ],
+  "tips": [
+    "Toss the three cheeses together before topping so they distribute evenly rather than settling in pockets",
+    "Bake on the bottom shelf so the base crisps while the cheese on top stays soft and creamy",
+    "Shop-bought pesto can contain pine nuts, cashews or other nuts as well as cheese; check the label if cooking for anyone with an allergy."
+  ],
+  "storage": "Keep leftovers chilled and eat within 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 672,
+    "protein_g": 25.6,
+    "carbs_g": 81.2,
+    "sugar_g": 1.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 26.3,
+    "satfat_g": 10.7,
+    "salt_g": 3.12,
+    "fibre_g": 3.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Round pizza with thick raised crust edge, topped with a bubbling layer of three melted cheeses over bright green pesto.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

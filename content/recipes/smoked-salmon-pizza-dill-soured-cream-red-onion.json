@@ -1,0 +1,148 @@
+{
+  "slug": "smoked-salmon-pizza-dill-soured-cream-red-onion",
+  "title": "Smoked Salmon Pizzas with Dill Soured Cream and Red Onion",
+  "category": "fish-seafood",
+  "cuisine": "American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "new-york",
+  "dish_title": "New York",
+  "flavour": "Salmon",
+  "flavour_order": 17,
+  "access": "premium",
+  "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
+  "changes_from_base": "Four small bases are baked with just olive oil and red onion, then spread with dill soured cream and topped with smoked salmon instead of tomato sauce and mozzarella; the optional caviar in the original is left out.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Thin, crisp bases baked with olive oil and red onion, then spread with cool dill soured cream and topped with smoked salmon.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "pizza stone or 2 baking trays",
+    "pizza peel or flat baking sheet",
+    "rolling pin",
+    "pastry brush",
+    "small bowl",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 450,
+      "unit": "g",
+      "item": "pizza dough, shop-bought or homemade, at room temperature"
+    },
+    {
+      "group": "Dough",
+      "qty": 16,
+      "unit": "g",
+      "item": "plain flour, for dusting",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Base",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Base",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "red onion, thinly sliced"
+    },
+    {
+      "group": "Dill cream",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "finely chopped fresh dill"
+    },
+    {
+      "group": "Dill cream",
+      "qty": 80,
+      "unit": "g",
+      "item": "soured cream or crème fraîche"
+    },
+    {
+      "group": "Dill cream",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 100,
+      "unit": "g",
+      "item": "smoked salmon, very thinly sliced"
+    },
+    {
+      "group": "To finish",
+      "qty": 4,
+      "unit": "pc",
+      "item": "small dill sprigs, to garnish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Set the oven to 260 °C with a pizza stone inside; allow 30 minutes for the stone to reach temperature."
+    },
+    {
+      "title": "Prepare",
+      "text": "Cut the 100 g smoked salmon into 5 cm squares and keep chilled until needed."
+    },
+    {
+      "title": "Divide and shape",
+      "text": "Cut the 450 g dough into 4 equal pieces; roll or stretch each to a 20 cm circle and place either on a floured peel (if using a stone) or on oiled, floured baking trays."
+    },
+    {
+      "title": "Season",
+      "text": "Brush each base with a quarter of the 60 ml oil, stopping about 2.5 cm from the edge, then scatter the ½ thinly sliced red onion evenly."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 8 to 12 minutes until the crust is golden and firm."
+    },
+    {
+      "title": "Meanwhile",
+      "text": "Stir the 4 tbsp finely chopped fresh dill into 80 g soured cream or crème fraîche, season with ¼ tsp ground black pepper."
+    },
+    {
+      "title": "Finish",
+      "text": "Place each warm base on a warm serving plate, spread the dill cream across the surface, arrange the cold salmon squares on top, garnish each with a small dill sprig and serve immediately."
+    }
+  ],
+  "tips": [
+    "Chill the salmon until the very last moment so it doesn't warm up too much from contact with the hot base",
+    "Serve immediately after topping so the creamy layer stays cool and the crust doesn't lose its crispness",
+    "Cold-smoked salmon is not cooked: anyone pregnant or vulnerable should use hot-smoked salmon instead."
+  ],
+  "storage": "Best eaten straight away; keep the salmon chilled until serving and eat any leftovers within 1 day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "fish"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 471,
+    "protein_g": 12.5,
+    "carbs_g": 55.6,
+    "sugar_g": 1.7,
+    "free_sugar_g": 0.0,
+    "fat_g": 21.7,
+    "satfat_g": 4.6,
+    "salt_g": 1.54,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Individual thin-crust pizzas topped with creamy dill sauce, squares of smoked salmon and a fresh dill sprig garnish.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}
