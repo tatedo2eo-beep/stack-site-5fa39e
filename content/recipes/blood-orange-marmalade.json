@@ -1,0 +1,113 @@
+{
+  "slug": "blood-orange-marmalade",
+  "title": "Blood Orange Marmalade",
+  "category": "snacks-sides",
+  "cuisine": "British",
+  "chapter": "preserves-pickles-ferments",
+  "book_chapter": "preserves-pickles-ferments",
+  "dish": "marmalade",
+  "dish_title": "Marmalade",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A ruby-red marmalade made from whole simmered blood oranges, with tender ribbons of peel in a softly set, bittersweet jelly.",
+  "servings": 48,
+  "prep_min": 40,
+  "cook_min": 130,
+  "difficulty": "medium",
+  "equipment": [
+    "4 × 250 ml glass jars with new lids",
+    "preserving pan or large heavy pan (at least 5 litres)",
+    "sugar thermometer",
+    "2 small plates, chilled in the freezer",
+    "ladle and jam funnel",
+    "foil",
+    "sieve",
+    "sharp knife and board"
+  ],
+  "ingredients": [
+    {
+      "group": "Fruit",
+      "qty": 450,
+      "unit": "g",
+      "item": "blood oranges (about 3), scrubbed"
+    },
+    {
+      "group": "Fruit",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, scrubbed",
+      "note": "about 120 g"
+    },
+    {
+      "group": "Fruit",
+      "qty": 950,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Sugar",
+      "qty": 700,
+      "unit": "g",
+      "item": "granulated sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simmer the whole fruit",
+      "text": "Put the whole oranges and lemon in the pan with the water, cover tightly with foil and a lid, and simmer gently for about 1½ hours, until a skewer slides easily into the peel. Cooking the fruit whole softens the peel without losing the juice. Leave covered to cool for at least 5 hours, or overnight."
+    },
+    {
+      "title": "Extract the pectin",
+      "text": "Lift out the fruit and quarter it. Scrape the pulp, pips and most of the white pith back into the cooking liquid, mash and simmer 10 minutes, then strain through the sieve, pressing hard; the pith and pips hold the pectin that sets the marmalade."
+    },
+    {
+      "title": "Cut the peel",
+      "text": "Slice the softened peel into thin strips about 3 cm long, so they show as ribbons in the finished jar."
+    },
+    {
+      "title": "Prepare the jars",
+      "text": "Wash the jars and lids in hot soapy water, rinse and dry them in the oven at 140 °C (120 °C fan) for 15 minutes. Keep them warm, as hot marmalade can crack cold glass."
+    },
+    {
+      "title": "Boil to setting point",
+      "text": "Return the strained liquid and peel to the pan with the sugar and stir over a low heat until every crystal has dissolved. Then boil hard, without stirring much, for 15-25 minutes until the thermometer reads 104-105 °C. Check with the plate test: a spoonful on a frozen plate should wrinkle when nudged after a minute."
+    },
+    {
+      "title": "Jar",
+      "text": "Take off the heat, skim any foam and leave 10 minutes so the peel stays evenly suspended. Ladle into the warm jars, leaving 5 mm headspace, seal and leave 12-24 hours to set."
+    }
+  ],
+  "tips": [
+    "Blood oranges are in season from about January to March; outside that window, Seville or ordinary oranges work with the same method.",
+    "The most common mistake is boiling well past 105 °C, which gives a dark, stiff, toffee-like set. Start testing early.",
+    "Use a wide pan; a shallower depth of liquid reaches setting point faster and keeps the colour bright.",
+    "If it has not set after 48 hours, return it to the pan and boil for a few more minutes."
+  ],
+  "storage": "Unopened jars keep in the fridge for up to 3 months, or in a cool cupboard for up to 1 year if processed in a boiling-water bath for 10 minutes. Once opened, refrigerate and use within 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 62,
+    "protein_g": 0.1,
+    "carbs_g": 15.9,
+    "sugar_g": 15.5,
+    "free_sugar_g": 14.6,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.0,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "marmalade-basic.jpg",
+  "image_alt": "A jar of deep red blood orange marmalade with thin peel strips, a halved blood orange and a spoonful on a dark plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

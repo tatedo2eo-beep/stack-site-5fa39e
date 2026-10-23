@@ -50,6 +50,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | beef-meatballs-tomato-sauce | Meatballs | Classic | 2 | 4 |
 | beef-rice-stuffed-peppers-tomato-melted-cheese | Stuffed peppers | Classic | 2 | 4 |
 | beef-stroganoff-mushrooms-noodles | Beef stroganoff | Classic | 2 | 4 |
+| bengali-spiced-tomato-chutney | Chutney | Tomato | 2 | 4 |
 | biang-biang-noodles | Biang biang/hand-pulled lamian | Classic | 2 | 4 |
 | bircher-muesli-apple-pecans-raspberries | Muesli | Classic | 2 | 4 |
 | black-and-white-cookies | Black-and-white | Classic | 2 | 4 |
@@ -58,6 +59,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | black-forest-cake | Black Forest | Classic | 3 | 5 |
 | black-olive-tapenade-capers-anchovy-thyme | Tapenade | Classic | 3 | 5 |
 | blackberry-cobbler | Cobbler | Blackberry | 1 | 3 |
+| blood-orange-marmalade | Marmalade | Classic | 2 | 4 |
 | blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
 | boiled-eggs-spiced-onion-tomato-coconut-curry | Egg curry | Classic | 3 | 5 |
 | borani-esfenaj-spinach-yoghurt-dip | Borani | Classic | 2 | 4 |
@@ -316,6 +318,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | festival-jamaican-sweet-cornmeal-dumplings | Festival | Classic | 2 | 4 |
 | fettuccine-alfredo | Alfredo (Roman original) | Classic | 3 | 5 |
 | filipino-oxtail-peanut-stew | Kare-kare | Classic | 2 | 4 |
+| fine-cut-lemon-marmalade | Marmalade | Lemon | 2 | 4 |
 | fior-di-latte-gelato-pure-milk | Gelato | Fior di latte | 1 | 3 |
 | fish-fragrant-aubergine-yuxiang-qiezi | Dunlop fish-fragrant aubergine (yuxiang qiezi) | Classic | 1 | 3 |
 | flaky-butter-croissants-laminated | Croissant | Classic | 2 | 4 |
@@ -522,6 +525,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mexican-atole-cinnamon-brown-sugar | Atole | Classic | 2 | 4 |
 | mexican-red-rice-tomato-peas-carrots | Mexican rice (arroz rojo) | Classic | 3 | 5 |
 | millionaires-shortbread | Bars (magic bars, millionaire's shortbread) | Classic | 4 | 6 |
+| mint-coriander-green-chutney | Chutney | Classic | 2 | 4 |
 | mint-coriander-raita | Raita | Classic | 2 | 4 |
 | miso-soup-tofu-wakame | Miso | Classic | 2 | 4 |
 | mixed-berry-banana-yoghurt-smoothie-orange | Smoothies | Classic | 2 | 4 |
@@ -639,6 +643,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pickle-caper-tartar-sauce | Tartar sauce | Classic | 2 | 4 |
 | pinakbet-prawns-squash-bitter-melon | Pinakbet | Classic | 2 | 4 |
 | pineapple-upside-down-cake | Upside-down | Pineapple | 2 | 4 |
+| pink-grapefruit-marmalade | Marmalade | Grapefruit | 2 | 4 |
 | pink-lemonade-raspberry-syrup | Lemonade | Pink | 2 | 4 |
 | piri-piri-chicken | Piri-piri | Classic | 2 | 4 |
 | pistachio-baklava-green-pistachio-squares | Baklava | Pistachio | 3 | 5 |
@@ -795,6 +800,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spiced-chicken-cheddar-jack-quesadillas-pickled-jalapenos | Quesadilla | Chicken | 2 | 4 |
 | spiced-hot-cross-buns-orange-peel | Hot cross buns | Classic | 3 | 5 |
 | spiced-lamb-seekh-kebabs-mint-chutney | Seekh kebab | Classic | 2 | 4 |
+| spiced-mango-chutney | Chutney | Mango | 2 | 4 |
 | spiced-masala-chai-ginger-cardamom | Masala chai | Classic | 2 | 4 |
 | spiced-minced-beef-keema-peas | Keema | Keema matar (with peas) | 3 | 5 |
 | spiced-minced-beef-keema-potatoes | Keema | Aloo keema (potato) | 3 | 5 |

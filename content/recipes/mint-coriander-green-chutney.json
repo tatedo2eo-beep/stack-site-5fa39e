@@ -1,0 +1,139 @@
+{
+  "slug": "mint-coriander-green-chutney",
+  "title": "Mint and Coriander Green Chutney",
+  "category": "snacks-sides",
+  "cuisine": "Indian",
+  "chapter": "preserves-pickles-ferments",
+  "book_chapter": "preserves-pickles-ferments",
+  "dish": "chutney",
+  "dish_title": "Chutney",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A vivid, fresh green chutney of mint and coriander blended with chilli, ginger, toasted cumin and lemon, ready in ten minutes.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 1,
+  "difficulty": "easy",
+  "equipment": [
+    "small dry frying pan",
+    "high-speed blender or small food processor",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Chutney",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cumin seeds"
+    },
+    {
+      "group": "Chutney",
+      "qty": 40,
+      "unit": "g",
+      "item": "mint leaves"
+    },
+    {
+      "group": "Chutney",
+      "qty": 30,
+      "unit": "g",
+      "item": "coriander leaves and tender stems"
+    },
+    {
+      "group": "Chutney",
+      "qty": 1,
+      "unit": "pc",
+      "item": "green chilli, roughly chopped",
+      "note": "use 2 for more heat"
+    },
+    {
+      "group": "Chutney",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small garlic clove"
+    },
+    {
+      "group": "Chutney",
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh ginger, peeled and sliced"
+    },
+    {
+      "group": "Chutney",
+      "qty": 45,
+      "unit": "ml",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Chutney",
+      "qty": 4,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Chutney",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Chutney",
+      "qty": 75,
+      "unit": "ml",
+      "item": "cold water",
+      "note": "60-90 ml as needed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the cumin",
+      "text": "Toast the cumin seeds in the dry pan over a medium heat for about 1 minute, shaking, until they smell nutty. Toasting brings out the oils and gives the chutney a warm backbone."
+    },
+    {
+      "title": "Blend",
+      "text": "Put the cumin, mint, coriander, chilli, garlic, ginger, lemon juice, sugar, salt and 60 ml of the water in the blender. Blend 30-60 seconds, stopping to scrape down the sides, until completely smooth."
+    },
+    {
+      "title": "Adjust",
+      "text": "Add the rest of the water a spoonful at a time until the chutney is thick enough to coat a spoon. Taste and add a pinch more salt or a squeeze of lemon if needed."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon into a bowl and serve with samosas, pakoras, grilled meats or sandwiches. The lemon juice helps keep the bright green colour."
+    }
+  ],
+  "tips": [
+    "Make sure the herbs are completely dry after washing, or the chutney will be watery.",
+    "The usual mistake is adding all the water at once; blend with a little and loosen gradually.",
+    "For a creamy version to serve with kebabs, stir 2 tablespoons into 150 g plain yoghurt (adds milk).",
+    "Pull mint leaves off their tough stems, but tender coriander stems add flavour and can go in."
+  ],
+  "storage": "Refrigerate in a covered jar with a thin film of lemon juice on top for up to 3 days. Freeze in ice-cube trays for up to 3 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 11,
+    "protein_g": 0.4,
+    "carbs_g": 2.4,
+    "sugar_g": 0.8,
+    "free_sugar_g": 0.6,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.37,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chutney-basic.jpg",
+  "image_alt": "A dark bowl of smooth bright green mint and coriander chutney swirled with a spoon on a dark plate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "spiced-mango-chutney",
+  "title": "Spiced Mango Chutney",
+  "category": "snacks-sides",
+  "cuisine": "Indian",
+  "chapter": "preserves-pickles-ferments",
+  "book_chapter": "preserves-pickles-ferments",
+  "dish": "chutney",
+  "dish_title": "Chutney",
+  "flavour": "Mango",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Chunks of ripe mango simmered with mustard seeds, ginger, warm spices, brown sugar and cider vinegar into a glossy, sweet and tangy chutney.",
+  "servings": 25,
+  "prep_min": 20,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "heavy medium saucepan",
+    "wooden spoon",
+    "2 × 300 ml glass jars with lids"
+  ],
+  "ingredients": [
+    {
+      "group": "Spices",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Spices",
+      "qty": 2.0,
+      "unit": "g",
+      "item": "brown mustard seeds",
+      "note": "about 0.5 tsp"
+    },
+    {
+      "group": "Spices",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "chilli flakes"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 80,
+      "unit": "g",
+      "item": "onion, finely chopped"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Aromatics",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "garam masala"
+    },
+    {
+      "group": "Chutney",
+      "qty": 600,
+      "unit": "g",
+      "item": "ripe but firm mango flesh, cut in 1.5 cm dice",
+      "note": "from about 3 mangoes"
+    },
+    {
+      "group": "Chutney",
+      "qty": 120,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Chutney",
+      "qty": 80,
+      "unit": "ml",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Chutney",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Chutney",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Bloom the seeds",
+      "text": "Heat the oil in the saucepan over a medium heat, add the mustard seeds and chilli flakes and cook until the seeds start to pop, 30-60 seconds. Frying whole spices first releases their flavour into the oil."
+    },
+    {
+      "title": "Soften the onion",
+      "text": "Add the onion and cook for about 5 minutes, stirring, until soft and lightly golden. Stir in the ginger, garlic, cinnamon, cloves and garam masala and cook 1 minute more."
+    },
+    {
+      "title": "Simmer",
+      "text": "Add the mango, sugar, vinegar, water and salt and bring to the boil. Lower the heat and simmer, stirring often and more frequently towards the end, for 30-40 minutes until thick and glossy and a spoon dragged across the base leaves a clear trail."
+    },
+    {
+      "title": "Jar",
+      "text": "Spoon the hot chutney into clean, hot jars, seal and cool. It thickens further as it cools."
+    }
+  ],
+  "tips": [
+    "Choose mangoes that are ripe but still firm so the pieces hold their shape.",
+    "A common mistake is stopping too early; it should look thick and jammy in the pan, as it only firms slightly as it cools.",
+    "Stir more often near the end, as the sugar catches easily on the base of the pan.",
+    "Let it mature for a few days in the fridge; the flavours mellow and blend."
+  ],
+  "storage": "Keep in sealed jars in the fridge for up to 2 months. Use a clean spoon each time. It can be frozen for up to 6 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 41,
+    "protein_g": 0.3,
+    "carbs_g": 8.9,
+    "sugar_g": 8.1,
+    "free_sugar_g": 4.7,
+    "fat_g": 0.7,
+    "satfat_g": 0.1,
+    "salt_g": 0.12,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chutney-basic--mango.jpg",
+  "image_alt": "A dark bowl of glossy golden chunky mango chutney with a spoon on a dark plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

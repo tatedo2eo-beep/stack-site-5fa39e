@@ -1,0 +1,105 @@
+{
+  "slug": "fine-cut-lemon-marmalade",
+  "title": "Fine-Cut Lemon Marmalade",
+  "category": "snacks-sides",
+  "cuisine": "British",
+  "chapter": "preserves-pickles-ferments",
+  "book_chapter": "preserves-pickles-ferments",
+  "dish": "marmalade",
+  "dish_title": "Marmalade",
+  "flavour": "Lemon",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "A pale golden, sharply tangy lemon marmalade with whisper-thin slices of peel, soaked overnight for a soft texture and natural set.",
+  "servings": 48,
+  "prep_min": 30,
+  "cook_min": 80,
+  "difficulty": "medium",
+  "equipment": [
+    "7 × 250 ml glass jars with new lids",
+    "preserving pan or large heavy pan (at least 5 litres)",
+    "sugar thermometer",
+    "2 small plates, chilled in the freezer",
+    "ladle and jam funnel",
+    "muslin square and string",
+    "sharp knife and board"
+  ],
+  "ingredients": [
+    {
+      "group": "Fruit",
+      "qty": 900,
+      "unit": "g",
+      "item": "unwaxed lemons (about 7)"
+    },
+    {
+      "group": "Fruit",
+      "qty": 1400,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Sugar",
+      "qty": 800,
+      "unit": "g",
+      "item": "granulated sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Slice",
+      "text": "Halve the lemons lengthways and slice them as thinly as you can, picking out every pip as you go. Tie the pips in the muslin; they release pectin while the marmalade cooks."
+    },
+    {
+      "title": "Soak",
+      "text": "Put the sliced lemons, the muslin bag and the water in a large bowl, cover and refrigerate for 8-24 hours. Soaking starts to soften the peel and draws out more pectin."
+    },
+    {
+      "title": "Cook the peel",
+      "text": "Tip everything into the pan and simmer gently, uncovered, for 40-50 minutes, until the peel is translucent and the liquid has reduced by about a quarter. Squeeze the bag into the pan and discard it."
+    },
+    {
+      "title": "Sterilise",
+      "text": "Meanwhile, wash the jars and dry them in a 140 °C (120 °C fan) oven for 15 minutes."
+    },
+    {
+      "title": "Set",
+      "text": "Stir in the sugar over a low heat until fully dissolved, then boil, stirring more often as it thickens, for 20-30 minutes until it reaches 104-105 °C and passes the cold-plate wrinkle test."
+    },
+    {
+      "title": "Jar",
+      "text": "Skim off any froth, leave 10 minutes, then ladle into the warm jars with 5 mm headspace and close. Leave undisturbed overnight to set."
+    }
+  ],
+  "tips": [
+    "Choose unwaxed lemons, or scrub waxed ones in hot water, as the peel stays in the marmalade.",
+    "Slicing the lemons as thinly as possible is the biggest factor in a delicate texture.",
+    "A common mistake is stirring hard during the final boil, which clouds the jelly; stir gently and only to stop sticking.",
+    "Meyer lemons give a sweeter, more floral version with the same method."
+  ],
+  "storage": "Unopened jars keep in the fridge for up to 3 months, or in a cool cupboard for up to 1 year if processed in a boiling-water bath for 10 minutes. Once opened, refrigerate and use within 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 70,
+    "protein_g": 0.2,
+    "carbs_g": 18.4,
+    "sugar_g": 17.1,
+    "free_sugar_g": 16.6,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.0,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "marmalade-basic--lemon.jpg",
+  "image_alt": "A small jar of clear pale golden lemon marmalade with fine shreds of peel, a halved lemon and a spoonful on a dark plate.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

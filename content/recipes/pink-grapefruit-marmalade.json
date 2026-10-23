@@ -1,0 +1,112 @@
+{
+  "slug": "pink-grapefruit-marmalade",
+  "title": "Pink Grapefruit Marmalade",
+  "category": "snacks-sides",
+  "cuisine": "British",
+  "chapter": "preserves-pickles-ferments",
+  "book_chapter": "preserves-pickles-ferments",
+  "dish": "marmalade",
+  "dish_title": "Marmalade",
+  "flavour": "Grapefruit",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A glowing pink marmalade of grapefruit segments and fine peel slivers, set with the fruit’s own pectin and brightened with lemon.",
+  "servings": 48,
+  "prep_min": 40,
+  "cook_min": 50,
+  "difficulty": "medium",
+  "equipment": [
+    "7 × 250 ml glass jars with new lids",
+    "preserving pan or large heavy pan",
+    "sugar thermometer",
+    "2 small plates, chilled in the freezer",
+    "vegetable peeler",
+    "muslin square and string",
+    "ladle and jam funnel"
+  ],
+  "ingredients": [
+    {
+      "group": "Fruit",
+      "qty": 1100,
+      "unit": "g",
+      "item": "pink grapefruit (2 large), scrubbed"
+    },
+    {
+      "group": "Fruit",
+      "qty": 2,
+      "unit": "pc",
+      "item": "lemons",
+      "note": "juiced; keep the pips"
+    },
+    {
+      "group": "Fruit",
+      "qty": 600,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Sugar",
+      "qty": 1000,
+      "unit": "g",
+      "item": "granulated sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Shred the peel",
+      "text": "Pare the coloured zest from the grapefruit with the peeler, leaving the bitter white pith behind, and cut it into 3 mm slivers."
+    },
+    {
+      "title": "Segment",
+      "text": "Cut the remaining pith off the fruit and slice out the segments over a bowl. Tie the membranes, the leftover pith and all the grapefruit and lemon pips in the muslin; this bag supplies the natural pectin, so no bought pectin is needed."
+    },
+    {
+      "title": "Soften the peel",
+      "text": "Put the segments, slivers, muslin bag, lemon juice and water in the pan and simmer 25-30 minutes, until a sliver of peel squashes easily between your fingers. Peel will not soften any further once sugar goes in."
+    },
+    {
+      "title": "Squeeze the bag",
+      "text": "Let the bag cool enough to handle, then squeeze it firmly over the pan to release the thick pectin-rich juice and discard it. Sterilise the jars in a 140 °C (120 °C fan) oven for 15 minutes."
+    },
+    {
+      "title": "Boil",
+      "text": "Add the sugar, stir over a low heat until dissolved, then boil rapidly for 15-20 minutes to 104-105 °C. Confirm the set with a cold plate: the marmalade should wrinkle when pushed."
+    },
+    {
+      "title": "Pot",
+      "text": "Skim, rest 10 minutes, then fill the hot jars to 5 mm from the top and seal. Allow to set at room temperature overnight."
+    }
+  ],
+  "tips": [
+    "Grapefruit can interact with some medicines, including certain statins and blood-pressure drugs. If you take regular medication, check with a pharmacist before eating it.",
+    "Removing the white pith from the zest is the key to a marmalade that is pleasantly, not harshly, bitter.",
+    "A frequent mistake is adding sugar before the peel is soft; sugar firms the peel, so it stays chewy.",
+    "Grapefruit is lower in pectin than lemons, so do not skip the muslin bag."
+  ],
+  "storage": "Unopened jars keep in the fridge for up to 3 months, or in a cool cupboard for up to 1 year if processed in a boiling-water bath for 10 minutes. Once opened, refrigerate and use within 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 90,
+    "protein_g": 0.2,
+    "carbs_g": 23.1,
+    "sugar_g": 22.3,
+    "free_sugar_g": 20.8,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.0,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "marmalade-basic--grapefruit.jpg",
+  "image_alt": "A jar of translucent pink grapefruit marmalade with fine peel shreds beside a halved pink grapefruit and a spoonful on a dark plate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

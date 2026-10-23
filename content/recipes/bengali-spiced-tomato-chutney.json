@@ -1,0 +1,163 @@
+{
+  "slug": "bengali-spiced-tomato-chutney",
+  "title": "Bengali-Spiced Tomato Chutney",
+  "category": "snacks-sides",
+  "cuisine": "Indian",
+  "chapter": "preserves-pickles-ferments",
+  "book_chapter": "preserves-pickles-ferments",
+  "dish": "chutney",
+  "dish_title": "Chutney",
+  "flavour": "Tomato",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "Chunky tomatoes cooked down with crackling cumin, mustard and fennel seeds, ginger, chilli, cider vinegar and brown sugar into a sweet, sour and spicy relish.",
+  "servings": 25,
+  "prep_min": 15,
+  "cook_min": 55,
+  "difficulty": "easy",
+  "equipment": [
+    "wide heavy saucepan",
+    "wooden spoon",
+    "potato masher",
+    "2 × 300 ml glass jars with lids"
+  ],
+  "ingredients": [
+    {
+      "group": "Tempering",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Tempering",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "cumin seeds"
+    },
+    {
+      "group": "Tempering",
+      "qty": 2.0,
+      "unit": "g",
+      "item": "brown mustard seeds",
+      "note": "about 0.5 tsp"
+    },
+    {
+      "group": "Tempering",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "fennel seeds"
+    },
+    {
+      "group": "Chutney",
+      "qty": 750,
+      "unit": "g",
+      "item": "ripe plum tomatoes, cored and cut in 1 cm pieces"
+    },
+    {
+      "group": "Chutney",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Chutney",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Chutney",
+      "qty": 1,
+      "unit": "pc",
+      "item": "green chilli, finely chopped"
+    },
+    {
+      "group": "Chutney",
+      "qty": 150,
+      "unit": "ml",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Chutney",
+      "qty": 150,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Chutney",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "chilli flakes"
+    },
+    {
+      "group": "Chutney",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Chutney",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Temper the spices",
+      "text": "Heat the oil in the pan over a medium-high heat. Add the cumin and mustard seeds and, as soon as the mustard seeds crackle, a few seconds later, add the fennel seeds. Have the tomatoes ready, as the seeds burn quickly."
+    },
+    {
+      "title": "Add everything else",
+      "text": "Tip in the tomatoes, ginger, garlic, green chilli, vinegar, sugar, chilli flakes, salt and bay leaf, and bring to the boil."
+    },
+    {
+      "title": "Reduce",
+      "text": "Simmer uncovered for 40-50 minutes, stirring now and then and more often as it thickens. Halfway through, lightly mash about half the tomatoes so the chutney is part jammy, part chunky."
+    },
+    {
+      "title": "Check the set",
+      "text": "It is ready when glossy and a spatula drawn across the base leaves a clear path for a few seconds. It will firm up more as it cools."
+    },
+    {
+      "title": "Jar",
+      "text": "Spoon into clean, hot jars with the bay leaf on top, seal and cool."
+    }
+  ],
+  "tips": [
+    "Have all the tomatoes chopped before heating the oil, as the seeds take only seconds to toast.",
+    "A frequent mistake is covering the pan; the chutney needs to stay uncovered so the liquid can evaporate.",
+    "Ripe summer plum tomatoes give the best colour; good tinned plum tomatoes also work out of season.",
+    "Adjust the chilli flakes up or down to taste before jarring."
+  ],
+  "storage": "Keep in sealed jars in the fridge for up to 1 month. It can be frozen for up to 6 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 41,
+    "protein_g": 0.3,
+    "carbs_g": 7.4,
+    "sugar_g": 6.7,
+    "free_sugar_g": 5.8,
+    "fat_g": 1.2,
+    "satfat_g": 0.1,
+    "salt_g": 0.18,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chutney-basic--tomato.jpg",
+  "image_alt": "A dark bowl of chunky red tomato chutney topped with a single green bay leaf, with a spoon on a dark plate.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}
