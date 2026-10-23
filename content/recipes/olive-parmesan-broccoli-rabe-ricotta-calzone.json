@@ -13,7 +13,6 @@
   "base_recipe": "spinach-ricotta-calzones-tomato-dipping-sauce",
   "changes_from_base": "Garlicky braised broccoli rabe with black olives, parmesan, ricotta, sliced mozzarella and chilli flakes replaces the spinach filling in one large calzone.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A single baked pastry envelope holding creamy ricotta, punctuated with salty olives, nutty parmesan and tender broccoli rabe.",
   "servings": 2,
   "prep_min": 20,
@@ -163,8 +162,8 @@
     "fibre_g": 7.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A large golden calzone folded in half with dark green cooked greens visible at the edges of the filling.",
+  "image": "olive-parmesan-broccoli-rabe-ricotta-calzone.jpg",
+  "image_alt": "A large golden calzone folded in half, cut open to show dark green broccoli rabe, white ricotta and black olive slices.",
   "inspired_by": [
     "NYT Cooking"
   ]

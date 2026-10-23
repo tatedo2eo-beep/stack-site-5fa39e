@@ -13,7 +13,6 @@
   "base_recipe": "cheeseburger-sliders",
   "changes_from_base": "Chopped prawns, part of them worked to a paste, are bound with crumbled tofu, garlic, ginger, spring onion and a spoonful of miso-sesame mayonnaise, pan-fried as small thin patties and served with shredded cabbage and pickles.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "These soft, umami-rich patties blend sweet prawns with silky tofu and pungent miso, coated in a delicate sesame mayo.",
   "servings": 4,
   "prep_min": 25,
@@ -177,8 +176,8 @@
     "fibre_g": 3.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Soft, pale golden patty of prawn and tofu topped with sesame mayo, shredded cabbage and pickles on a small soft roll.",
+  "image": "prawn-tofu-sliders-sesame-mayo.jpg",
+  "image_alt": "Three prawn and tofu sliders topped with sesame mayo, shredded cabbage and pickles on small soft rolls.",
   "inspired_by": [
     "NYT Cooking"
   ]

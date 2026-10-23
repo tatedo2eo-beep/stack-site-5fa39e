@@ -13,7 +13,6 @@
   "base_recipe": "cheeseburger-sliders",
   "changes_from_base": "Thin slices of cod are dusted in flour, dipped in beaten egg and gently pan-fried as Korean jeon, then tucked into soft sweet rolls with sesame mayonnaise, a soy-dressed spring onion salad and dill pickles in place of a beef patty and cheese.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Delicate white fish fillet, thinly sliced and pan-fried until golden, served with crisp salad and a subtle sesame accent.",
   "servings": 4,
   "prep_min": 15,
@@ -183,8 +182,8 @@
     "fibre_g": 1.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Golden-brown fried fish slice topped with spring onion and salad leaves in a soft split dinner roll.",
+  "image": "korean-cod-jeon-sliders.jpg",
+  "image_alt": "Three sliders of golden fried cod topped with spring onion and salad leaves in soft split rolls.",
   "inspired_by": [
     "NYT Cooking"
   ]

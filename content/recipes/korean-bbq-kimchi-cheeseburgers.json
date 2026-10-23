@@ -13,7 +13,6 @@
   "base_recipe": "classic-cheeseburger",
   "changes_from_base": "Grilled patties are brushed with a home-made sweet soy, sesame, garlic, ginger and pear glaze, then topped with American cheese, chopped kimchi, quick-pickled cucumber and carrot, and spring onion.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Charred beef glazed with a sweet-savoury pear and soy sauce glistens under melted cheese, brought alive by tangy kimchi and crisp pickles.",
   "servings": 4,
   "prep_min": 20,
@@ -197,8 +196,8 @@
     "fibre_g": 2.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Korean-style beef patties with melted cheese and glossy glaze topped with kimchi and pickled vegetables in burger buns.",
+  "image": "korean-bbq-kimchi-cheeseburgers.jpg",
+  "image_alt": "Three Korean-style beef cheeseburgers with melted cheese and dark glaze, topped with kimchi and pickled vegetables in soft buns.",
   "inspired_by": [
     "Serious Eats"
   ]

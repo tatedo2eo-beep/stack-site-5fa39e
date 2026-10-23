@@ -13,7 +13,6 @@
   "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
   "changes_from_base": "Sliced fresh tomatoes, crumbled aged goats' cheese and plenty of chopped basil replace the tomato sauce and mozzarella, and the dough is spread over two whole baking trays and cut into small squares for a party.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Two generous rectangular pizzas scattered with crumbly aged goats' cheese, fresh tomato slices and torn basil, baked until the crust is golden.",
   "servings": 12,
   "prep_min": 15,
@@ -126,8 +125,8 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Large rectangular pizza cut into small pieces, topped with crumbled aged goats' cheese, fresh tomato slices and torn basil leaves.",
+  "image": "goats-cheese-tomato-basil-party-tray-pizzas.jpg",
+  "image_alt": "Large rectangular pizza on a slate board, cut into small pieces, topped with crumbled goats' cheese, fresh tomato slices and basil leaves.",
   "inspired_by": [
     "NYT Cooking"
   ]

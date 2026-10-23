@@ -13,7 +13,6 @@
   "base_recipe": "crispy-chicken-sandwich",
   "changes_from_base": "Turkey thigh is part-frozen and ground at home in a food processor, then seasoned with a little miso for a deeper, beefier flavour; the burgers are browned hard on one side and finished gently under a lid ajar.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Turkey thighs pulsed to a fine texture and seasoned with umami-rich white miso make tender, juicy burgers with crispy golden exteriors.",
   "servings": 4,
   "prep_min": 15,
@@ -130,8 +129,8 @@
     "fibre_g": 1.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Golden-brown turkey burger patty topped with fresh lettuce leaf and tomato slice on a toasted bun.",
+  "image": "miso-turkey-burgers.jpg",
+  "image_alt": "Golden-brown turkey burger patty topped with a tomato slice and fresh lettuce leaf on a toasted bun.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

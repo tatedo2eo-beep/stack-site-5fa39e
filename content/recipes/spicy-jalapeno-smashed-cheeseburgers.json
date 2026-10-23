@@ -13,7 +13,6 @@
   "base_recipe": "classic-cheeseburger",
   "changes_from_base": "Smashed thin with diced onion pressed into the top and onion fried alongside, then finished with American cheese, pickles and a layer of fresh jalapeño slices on butter-toasted buns.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Smashed tissue-thin beef fuses instantly with melted cheese and caramelised onion, sparked by bright pickles and jalapeño heat.",
   "servings": 2,
   "prep_min": 10,
@@ -136,7 +135,7 @@
     "fibre_g": 1.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "spicy-jalapeno-smashed-cheeseburgers.jpg",
   "image_alt": "Smashed thin beef patties topped with melted American cheese, caramelised onions, dill pickles and jalapeño slices in buttered buns.",
   "inspired_by": [
     "NYT Cooking"

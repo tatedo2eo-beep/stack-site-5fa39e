@@ -13,7 +13,6 @@
   "base_recipe": "spinach-ricotta-calzones-tomato-dipping-sauce",
   "changes_from_base": "A lemony mashed white bean layer and a slowly cooked mix of onion, fennel and fennel seed replace the cheese filling, so the single large calzone has no cheese at all.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A single large pastry parcel of sweet caramelised onion and fennel paired with lemony white bean purée.",
   "servings": 2,
   "prep_min": 20,
@@ -193,8 +192,8 @@
     "fibre_g": 17.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A large golden-brown calzone folded in half with a lighter border, resting on a plate alongside lemon wedges.",
+  "image": "caramelised-onion-fennel-white-bean-calzone-lemon.jpg",
+  "image_alt": "A large golden-brown calzone with a crimped border, cut open to show a caramelised onion filling, on a plate beside two lemon wedges.",
   "inspired_by": [
     "NYT Cooking"
   ]

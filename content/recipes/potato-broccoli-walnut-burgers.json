@@ -13,7 +13,6 @@
   "base_recipe": "classic-cheeseburger",
   "changes_from_base": "Meat-free and bun-free: mashed red potatoes with blanched broccoli, toasted cumin, nigella, garam masala and ricotta, rolled in ground walnuts, chilled and pan-fried; served with yoghurt or chutney.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Substantial mashed potato and broccoli studded with toasted walnuts and warming spices creates hearty vegetarian patties with Indian character.",
   "servings": 5,
   "prep_min": 30,
@@ -166,8 +165,8 @@
     "fibre_g": 5.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Potato and broccoli patties with a walnut crust served with yoghurt, raita and a fresh salad.",
+  "image": "potato-broccoli-walnut-burgers.jpg",
+  "image_alt": "Three walnut-crusted potato and broccoli patties served with yoghurt raita and a fresh green salad.",
   "inspired_by": [
     "NYT Cooking"
   ]

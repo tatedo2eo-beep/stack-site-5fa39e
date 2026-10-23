@@ -13,7 +13,6 @@
   "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
   "changes_from_base": "A sage and nutmeg squash purée replaces the tomato sauce, and slowly cooked golden onions, grated parmesan and pine nuts take the place of mozzarella.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Sweet roasted squash purée topped with caramelised onions, melted cheese and toasted pine nuts on a crispy crust.",
   "servings": 4,
   "prep_min": 15,
@@ -152,8 +151,8 @@
     "fibre_g": 4.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Golden-based pizza topped with caramelised rings of onion, golden squash purée, melted cheese and scattered pine nuts.",
+  "image": "butternut-squash-sage-onion-pine-nut-pizza.jpg",
+  "image_alt": "Golden-based pizza topped with squash purée, caramelised onion rings, melted cheese, crisp sage leaves and pine nuts.",
   "inspired_by": [
     "NYT Cooking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "classic-cheeseburger",
   "changes_from_base": "Meat-free: grated carrot softened with spring onion, ginger, chilli, coriander, turmeric and cinnamon, bound with egg white, peanut butter and lime, crumbed, browned and finished in the oven.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Tender grated carrots are spiced with warm turmeric and cinnamon, bound with peanut butter and fresh coriander into fragrant, golden patties.",
   "servings": 4,
   "prep_min": 20,
@@ -184,7 +183,7 @@
     "fibre_g": 6.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "thai-carrot-peanut-burgers.jpg",
   "image_alt": "Golden-brown carrot patties flecked with coriander and spiced with turmeric in burger buns.",
   "inspired_by": [
     "NYT Cooking"

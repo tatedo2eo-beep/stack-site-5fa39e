@@ -13,7 +13,6 @@
   "base_recipe": "spinach-ricotta-calzones-tomato-dipping-sauce",
   "changes_from_base": "Shredded cooked chicken tossed with cayenne hot sauce, mozzarella and blue cheese replaces the spinach and ricotta, and the dough is made into four smaller calzones.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Hand-held pastry parcels filled with shredded roast chicken, tangy blue cheese and spicy sauce.",
   "servings": 4,
   "prep_min": 15,
@@ -139,8 +138,8 @@
     "fibre_g": 2.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Four golden-brown folded pastries with two small slits visible on the tops, resting on a cooling rack.",
+  "image": "buffalo-chicken-blue-cheese-calzones.jpg",
+  "image_alt": "Three golden-brown calzones with slits on top, one cut open to show buffalo chicken and blue cheese filling.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

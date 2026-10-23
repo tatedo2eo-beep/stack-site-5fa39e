@@ -13,7 +13,6 @@
   "base_recipe": "black-bean-burger",
   "changes_from_base": "Earthy brown lentils, browned mushrooms and leek replace the black beans, bulgur soaks up spare moisture, ground cashews add savoury richness, and aquafaba with panko holds the patties together without egg.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "These robust patties draw on the earthy flavour of lentils, the meaty texture of mushrooms and the subtle nuttiness of bulgur.",
   "servings": 6,
   "prep_min": 40,
@@ -200,8 +199,8 @@
     "fibre_g": 5.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Crispy golden-brown lentil patties with a dense, textured interior.",
+  "image": "lentil-mushroom-bulgur-burgers.jpg",
+  "image_alt": "Three crispy golden-brown lentil patties, one cut open to show the dense, textured interior.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

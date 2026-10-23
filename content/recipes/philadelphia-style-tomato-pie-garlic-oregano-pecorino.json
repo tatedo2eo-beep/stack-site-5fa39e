@@ -13,7 +13,6 @@
   "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
   "changes_from_base": "A thick, airy, focaccia-like dough proved in an oiled tray replaces the thin round base, and a slow-simmered garlic, butter and oregano tomato sauce takes the place of mozzarella; it is eaten at room temperature with just a dusting of pecorino.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Rectangular tomato pizza with a garlicky, oregano-scented sauce and a puffy crust, finished with sharp pecorino and served at room temperature.",
   "servings": 6,
   "prep_min": 30,
@@ -178,7 +177,7 @@
     "fibre_g": 5.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "philadelphia-style-tomato-pie-garlic-oregano-pecorino.jpg",
   "image_alt": "A rectangular pizza with a thin raised golden rim, vibrant red tomato sauce, and a fine dusting of white pecorino cheese.",
   "inspired_by": [
     "Serious Eats"

@@ -13,7 +13,6 @@
   "base_recipe": "crispy-chicken-sandwich",
   "changes_from_base": "A little mashed avocado keeps the chicken mince tender, and the patties are packed with coriander, ginger, garlic and spring onion, smashed thin in a hot pan for a crust and finished with soy-lime mayonnaise and avocado slices.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Chicken thigh burgers folded with buttery mashed avocado, aromatic ginger and fresh coriander stay juicy inside with a crispy golden exterior, served with cooling lime-soy mayo.",
   "servings": 4,
   "prep_min": 15,
@@ -177,8 +176,8 @@
     "fibre_g": 4.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Brioche bun bursting with a juicy chicken patty, sliced avocado, jalapeño and fresh coriander in green and white layers.",
+  "image": "smashed-avocado-chicken-burgers.jpg",
+  "image_alt": "Brioche bun with crispy chicken, sliced avocado, jalapeño, fresh coriander and creamy white sauce.",
   "inspired_by": [
     "NYT Cooking"
   ]

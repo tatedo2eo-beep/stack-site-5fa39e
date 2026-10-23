@@ -13,7 +13,6 @@
   "base_recipe": "spinach-ricotta-calzones-tomato-dipping-sauce",
   "changes_from_base": "Slow-roasted peeled tomatoes with garlic, a thin layer of basil pesto and plenty of low-moisture mozzarella fill six calzones made with a sweetened yeast dough, replacing the spinach and ricotta.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Six savoury baked pastries encasing sweet, concentrated roasted tomatoes, fresh mozzarella and aromatic basil pesto.",
   "servings": 6,
   "prep_min": 40,
@@ -190,8 +189,8 @@
     "fibre_g": 4.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A golden-brown pastry calzone with two small slits across the top, displaying flaky, risen dough and a light char in places.",
+  "image": "roasted-tomato-mozzarella-pesto-calzones.jpg",
+  "image_alt": "Two golden-brown calzones with slits across the top and a light char, one cut open to show roasted tomatoes, melted mozzarella and green pesto.",
   "inspired_by": [
     "NYT Cooking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "classic-smash-burger",
   "changes_from_base": "No beef: whole portobello caps brushed with onion-powder oil are pressed flat between two heavy pans until thin and browned, then topped with Cheddar; two caps per bun.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Meaty portobello caps are smashed and melted with tangy Cheddar under a weight until gorgeously caramelised. Fresh lettuce, tomato and classic sauces complete these hefty, satisfying mushroom sandwiches.",
   "servings": 2,
   "prep_min": 10,
@@ -142,7 +141,7 @@
     "fibre_g": 3.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "mushroom-smash-burgers.jpg",
   "image_alt": "Two caramelised mushroom caps topped with melted Cheddar sitting in buttered burger buns with fresh greens and tomato.",
   "inspired_by": [
     "NYT Cooking"

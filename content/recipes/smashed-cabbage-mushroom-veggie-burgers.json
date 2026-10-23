@@ -13,7 +13,6 @@
   "base_recipe": "black-bean-burger",
   "changes_from_base": "Instead of beans and grains, shredded cabbage, sliced onion and torn mushrooms are bound with a chickpea flour batter, rested, then pressed flat in the pan and fried slowly until golden, in the style of okonomiyaki, and topped with melted Cheddar.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A hefty combination of finely shredded cabbage and mushrooms bound together with a savoury chickpea and egg batter, crowned with melted cheese.",
   "servings": 6,
   "prep_min": 20,
@@ -202,8 +201,8 @@
     "fibre_g": 5.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Thick, hearty patty topped with melting Cheddar, layered in a brioche bun with fresh toppings.",
+  "image": "smashed-cabbage-mushroom-veggie-burgers.jpg",
+  "image_alt": "Thick veggie patty topped with melting Cheddar in a brioche bun with lettuce and red onion.",
   "inspired_by": [
     "NYT Cooking"
   ]

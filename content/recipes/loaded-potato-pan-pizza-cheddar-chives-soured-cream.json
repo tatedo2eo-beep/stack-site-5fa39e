@@ -13,7 +13,6 @@
   "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
   "changes_from_base": "A thick, airy pan crust built with gentle folds replaces the thin round base, topped with paper-thin salted potatoes, onion, rosemary, chilli and cheddar, then finished with chives and a soured cream drizzle; the meat in the original is left out.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Thick, airy pan pizza layered with paper-thin potatoes, onion, rosemary and mature cheddar, finished with chives and a soured cream drizzle.",
   "servings": 6,
   "prep_min": 30,
@@ -193,8 +192,8 @@
     "fibre_g": 3.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A rectangular sheet pizza with a thick crust, topped with thinly sliced golden potatoes, caramelised onion, melted cheddar cheese, and white streaks of soured cream.",
+  "image": "loaded-potato-pan-pizza-cheddar-chives-soured-cream.jpg",
+  "image_alt": "A rectangular pan pizza with a thick crust, topped with sliced golden potatoes, caramelised onion, melted cheddar, white streaks of soured cream and chopped chives.",
   "inspired_by": [
     "King Arthur Baking"
   ]

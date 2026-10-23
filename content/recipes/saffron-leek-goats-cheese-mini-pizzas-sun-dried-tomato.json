@@ -13,7 +13,6 @@
   "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
   "changes_from_base": "A soft, buttery leek and onion mixture tinted with saffron replaces the tomato sauce, and crumbled goats' cheese with strips of sun-dried tomato take the place of mozzarella on four small individual bases.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Four individual pizzas topped with saffron-scented sweet leeks and crumbled goats' cheese, decorated with sun-dried tomatoes in a neat spoke pattern.",
   "servings": 4,
   "prep_min": 20,
@@ -144,8 +143,8 @@
     "fibre_g": 3.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Individual mini pizza with pale, creamy leek topping, scattered white goats' cheese and sun-dried tomato strips arranged in a spoke pattern.",
+  "image": "saffron-leek-goats-cheese-mini-pizzas-sun-dried-tomato.jpg",
+  "image_alt": "Three mini pizzas with a pale creamy leek topping, crumbled white goats' cheese and sun-dried tomato strips arranged in a spoke pattern.",
   "inspired_by": [
     "NYT Cooking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "black-bean-burger",
   "changes_from_base": "No patty: whole portobello caps, gills scooped out, are marinated with olive oil, garlic and basil, pan-cooked until juicy, then filled with pesto and warmed through; buns optional.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Meaty portobello caps caramelise in olive oil until golden, then are filled with fragrant basil pesto and cooked until tender, juicy and warm right through.",
   "servings": 4,
   "prep_min": 10,
@@ -129,8 +128,8 @@
     "fibre_g": 3.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Large stuffed portobello mushroom cap glossy from oil, with basil pesto melting in a shallow cavity.",
+  "image": "pesto-stuffed-portobello-burgers.jpg",
+  "image_alt": "Large roasted portobello mushroom cap with basil pesto filling its shallow cavity.",
   "inspired_by": [
     "NYT Cooking"
   ]

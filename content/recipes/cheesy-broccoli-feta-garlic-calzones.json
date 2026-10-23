@@ -13,7 +13,6 @@
   "base_recipe": "spinach-ricotta-calzones-tomato-dipping-sauce",
   "changes_from_base": "Garlicky chopped broccoli with a mix of mozzarella and crumbled feta replaces the spinach and ricotta filling, and two large calzones are baked on oiled trays rather than served with a tomato dip.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Two stuffed pizza pastries packed with tender broccoli, creamy feta and melted mozzarella.",
   "servings": 4,
   "prep_min": 15,
@@ -159,8 +158,8 @@
     "fibre_g": 6.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Two golden half-moon shaped pastries with slashed tops revealing a green and white filling inside.",
+  "image": "cheesy-broccoli-feta-garlic-calzones.jpg",
+  "image_alt": "A golden half-moon calzone with a slashed top, cut in two to reveal a broccoli, feta and melted cheese filling.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

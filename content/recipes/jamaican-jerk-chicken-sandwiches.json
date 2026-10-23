@@ -13,7 +13,6 @@
   "base_recipe": "crispy-chicken-sandwich",
   "changes_from_base": "Chicken breasts are coated in a dry jerk paste of black pepper, allspice, nutmeg, thyme, cayenne and chilli loosened with lime juice, roasted hot and fast, sliced and piled into crusty rolls with mayonnaise, lettuce and salsa. A spoon of oil is added to help the paste cling.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Quick-roasted chicken breasts coated in a punchy, warming jerk spice paste make spicy, flavour-packed sandwiches piled with fresh lettuce and tangy salsa.",
   "servings": 4,
   "prep_min": 10,
@@ -166,7 +165,7 @@
     "fibre_g": 2.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "jamaican-jerk-chicken-sandwiches.jpg",
   "image_alt": "Crusty roll filled with sliced jerk-spiced chicken breast, fresh lettuce and bright red tomato salsa.",
   "inspired_by": [
     "NYT Cooking"

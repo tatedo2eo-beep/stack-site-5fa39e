@@ -13,7 +13,6 @@
   "base_recipe": "crispy-chicken-sandwich",
   "changes_from_base": "Inspired by a famous roast chicken bread salad: shredded chicken tossed with garlic and spring onion softened in olive oil, vinegar-plumped currants, rocket, toasted nuts and Parmesan, stuffed into baguette with mayonnaise. I roast thighs instead of using a shop rotisserie chicken, and use cider vinegar in place of the original vinegar.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Shredded roast chicken doused in fragrant garlic and spring onion oil with plump currants, fresh rocket and toasted nuts makes a luxurious, warm sandwich.",
   "servings": 4,
   "prep_min": 15,
@@ -166,7 +165,7 @@
     "fibre_g": 3.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "garlic-spring-onion-chicken-sandwiches.jpg",
   "image_alt": "Thick-cut baguette sandwich oozing with shredded chicken in garlic and spring onion oil, topped with rocket and toasted nuts.",
   "inspired_by": [
     "NYT Cooking"

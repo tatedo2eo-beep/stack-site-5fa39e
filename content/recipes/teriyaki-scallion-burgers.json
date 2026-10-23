@@ -13,7 +13,6 @@
   "base_recipe": "classic-cheeseburger",
   "changes_from_base": "Togarashi-seasoned patties are glazed with my own home-made soy, honey and ginger teriyaki, rolled in sliced spring onion and served with mayonnaise and shredded cabbage instead of cheese.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Smoky beef coated in glossy teriyaki and sprinkled with Japanese seven-spice comes topped with creamy mayo, shredded cabbage and spring onion.",
   "servings": 4,
   "prep_min": 20,
@@ -170,8 +169,8 @@
     "fibre_g": 3.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Charred beef patties glazed with teriyaki, topped with creamy mayo and shredded green cabbage in soft burger buns.",
+  "image": "teriyaki-scallion-burgers.jpg",
+  "image_alt": "Two charred teriyaki-glazed beef patties topped with creamy mayo, shredded cabbage and spring onion in soft buns.",
   "inspired_by": [
     "Serious Eats"
   ]

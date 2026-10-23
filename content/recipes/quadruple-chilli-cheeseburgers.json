@@ -13,7 +13,6 @@
   "base_recipe": "classic-cheeseburger",
   "changes_from_base": "Four kinds of chilli: charred and peeled poblanos, pickled jalapeños, chipotle-adobo mayonnaise and pepper Jack cheese, on larger patties grilled over high heat.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Juicy beef layered with three types of chilli—roasted poblanos, pickled jalapeños and fiery chipotle mayo—all balanced by creamy pepper Jack cheese.",
   "servings": 4,
   "prep_min": 20,
@@ -135,8 +134,8 @@
     "fibre_g": 2.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Large beef patties topped with melted pepper Jack cheese, roasted poblanos, pickled jalapeños and chipotle mayo in burger buns.",
+  "image": "quadruple-chilli-cheeseburgers.jpg",
+  "image_alt": "Large beef patty topped with melted pepper Jack cheese, roasted poblanos, pickled jalapeños and chipotle mayo in a burger bun.",
   "inspired_by": [
     "Serious Eats"
   ]

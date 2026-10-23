@@ -13,7 +13,6 @@
   "base_recipe": "cheeseburger-sliders",
   "changes_from_base": "Instead of patties, a small amount of browned beef mince is stretched with onion, red pepper, carrot and courgette and simmered in a smoky paprika tomato sauce, like a tidy sloppy Joe, then spooned into slider buns; cider vinegar sharpens it at the end.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A thick, tomato-based filling laden with vegetables and fragrant with smoked paprika and hints of vinegary heat, served in small soft rolls.",
   "servings": 4,
   "prep_min": 15,
@@ -181,8 +180,8 @@
     "fibre_g": 5.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Soft dinner roll filled with thick, rich beef and vegetable filling studded with carrot, pepper and courgette pieces.",
+  "image": "smoky-beef-vegetable-sliders.jpg",
+  "image_alt": "Three soft dinner rolls filled with rich beef and vegetable filling studded with carrot, pepper and courgette pieces.",
   "inspired_by": [
     "NYT Cooking"
   ]

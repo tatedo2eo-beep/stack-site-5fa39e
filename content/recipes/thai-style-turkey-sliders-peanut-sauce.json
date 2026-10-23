@@ -13,7 +13,6 @@
   "base_recipe": "cheeseburger-sliders",
   "changes_from_base": "Turkey replaces beef, mixed with spring onion, coriander, chilli-garlic sauce, lime zest and a little melted butter; the thin patties are pan-fried and topped with a fish sauce and lime peanut sauce and a sweet-sour cucumber salad.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "These fragrant sliders draw on Thai flavours with minced turkey enriched by coriander and lime, finished with a silky peanut sauce and tangy cucumber.",
   "servings": 6,
   "prep_min": 30,
@@ -211,8 +210,8 @@
     "fibre_g": 2.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Small burger topped with creamy peanut sauce, fresh cucumber slices and red onion on a toasted soft roll.",
+  "image": "thai-style-turkey-sliders-peanut-sauce.jpg",
+  "image_alt": "Three small turkey sliders topped with creamy peanut sauce, cucumber slices and red onion on soft rolls.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

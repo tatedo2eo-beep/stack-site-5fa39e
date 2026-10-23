@@ -13,7 +13,6 @@
   "base_recipe": "spinach-ricotta-calzones-tomato-dipping-sauce",
   "changes_from_base": "Shredded cooked chicken, artichoke hearts, baby spinach, mozzarella, feta and basil go into two calzones in place of the ricotta filling.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Substantial pastry envelopes hiding a filling of tender chicken, bright spinach, soft artichokes and two cheeses.",
   "servings": 4,
   "prep_min": 20,
@@ -155,8 +154,8 @@
     "fibre_g": 4.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Two golden-brown half-moon pastries with steam visible rising from the small slits in the tops.",
+  "image": "chicken-artichoke-spinach-feta-calzones.jpg",
+  "image_alt": "Two golden-brown half-moon calzones with small slits on top, one cut open to show chicken, spinach and feta filling.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

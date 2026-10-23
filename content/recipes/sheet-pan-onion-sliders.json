@@ -13,7 +13,6 @@
   "base_recipe": "cheeseburger-sliders",
   "changes_from_base": "Finely chopped onion is roasted on a baking tray first, then small beef balls are smashed straight onto the onion piles, topped with quartered cheese slices and steamed under the buns in the oven, finished with a quick burger sauce.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "These compact sliders feature a simple but clever technique: piles of roasted onion cradle thin beef patties beneath molten cheese.",
   "servings": 6,
   "prep_min": 15,
@@ -154,8 +153,8 @@
     "fibre_g": 1.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Stack of small burgers with melted cheese and caramelised onion visible between soft dinner rolls.",
+  "image": "sheet-pan-onion-sliders.jpg",
+  "image_alt": "Tray of small burgers with melted cheese and caramelised onion between soft dinner rolls.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

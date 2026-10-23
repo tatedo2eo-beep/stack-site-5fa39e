@@ -13,7 +13,6 @@
   "base_recipe": "neapolitan-style-margherita-pizza-tomato-mozzarella-basil",
   "changes_from_base": "A crunchy cornmeal crust flavoured with garlic-herb oil is cooked on a covered barbecue instead of a hot oven, then topped with soft sautéed onion and fennel, roasted plum tomato halves and a sprinkle of Asiago in place of tomato sauce and mozzarella.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Eight small garlic-herb pizzas cooked on the barbecue with a soft, sweet fennel and onion topping, roasted plum tomatoes and a sprinkle of grated Asiago.",
   "servings": 4,
   "prep_min": 45,
@@ -229,8 +228,8 @@
     "fibre_g": 11.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A hand-stretched grilled pizza with charred edges, topped with caramelised fennel and onion, halved roasted tomatoes, and pale shreds of Asiago cheese.",
+  "image": "grilled-garlic-herb-pizzas-fennel-roasted-tomato-asiago.jpg",
+  "image_alt": "A hand-stretched grilled pizza with charred edges, topped with caramelised fennel and onion, halved roasted tomatoes and pale shavings of Asiago cheese.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

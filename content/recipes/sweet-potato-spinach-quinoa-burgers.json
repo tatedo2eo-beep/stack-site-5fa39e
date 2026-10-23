@@ -13,7 +13,6 @@
   "base_recipe": "black-bean-burger",
   "changes_from_base": "Baked sweet potato mashed with spinach, quinoa and red lentils makes a soft, colourful patty with a Mediterranean lean from feta, mint and chives; the patties are rolled in panko, chilled and pan-fried.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Vibrant and creamy, these patties combine roasted sweet potato with fresh herbs, tangy cheese and wholesome grains.",
   "servings": 10,
   "prep_min": 30,
@@ -184,8 +183,8 @@
     "fibre_g": 4.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Burnished golden-brown patties speckled with green spinach and flecks of white cheese.",
+  "image": "sweet-potato-spinach-quinoa-burgers.jpg",
+  "image_alt": "Three burnished golden-brown patties speckled with green spinach and topped with crumbled white cheese.",
   "inspired_by": [
     "NYT Cooking"
   ]
