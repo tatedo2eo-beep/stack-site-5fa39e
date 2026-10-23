@@ -1,0 +1,133 @@
+{
+  "slug": "caraway-deli-rye-loaf",
+  "title": "Caraway Deli Rye Loaf",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "rye-pumpernickel",
+  "dish_title": "Rye/pumpernickel",
+  "flavour": "Caraway",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A bread and rye flour dough with caraway and molasses, baked in a tin until the centre reaches 96 °C.",
+  "servings": 12,
+  "prep_min": 20,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl or stand mixer",
+    "23 x 13 cm loaf tin",
+    "food thermometer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 330,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 180,
+      "unit": "g",
+      "item": "rye flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "instant yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "caraway seeds"
+    },
+    {
+      "group": "Dough",
+      "qty": 10.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1.75 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "molasses"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "vegetable oil, plus extra for the tin"
+    },
+    {
+      "group": "Dough",
+      "qty": 320,
+      "unit": "ml",
+      "item": "warm water"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Knead",
+      "text": "Mix the flours, yeast, caraway and salt, add the molasses, oil and water and knead 8-10 min; the dough will stay slightly tacky."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave 1-1½ h until about doubled."
+    },
+    {
+      "title": "Shape",
+      "text": "Oil the tin, press the dough into a rectangle, roll up tightly and set seam-down in the tin."
+    },
+    {
+      "title": "Prove",
+      "text": "Cover and leave 45-60 min until it rises about 2 cm above the rim. Heat the oven to 200 °C (180 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 40-45 min until dark golden and the centre reads 96 °C."
+    },
+    {
+      "title": "Cool",
+      "text": "Turn out and cool completely on the rack before slicing."
+    }
+  ],
+  "tips": [
+    "Rye dough stays sticky; resist adding much flour.",
+    "Check the inside temperature to be sure it is baked.",
+    "Toasts very well."
+  ],
+  "storage": "Keep wrapped at room temperature for up to 3 days, or slice and freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 185,
+    "protein_g": 6.1,
+    "carbs_g": 33.5,
+    "sugar_g": 2.7,
+    "free_sugar_g": 2.5,
+    "fat_g": 3.5,
+    "satfat_g": 0.3,
+    "salt_g": 0.86,
+    "fibre_g": 4.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "rye-pumpernickel-advanced--caraway.jpg",
+  "image_alt": "A light brown rye tin loaf flecked with caraway, sliced on a board.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

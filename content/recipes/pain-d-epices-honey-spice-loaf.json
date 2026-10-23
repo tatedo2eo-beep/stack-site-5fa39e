@@ -1,0 +1,178 @@
+{
+  "slug": "pain-d-epices-honey-spice-loaf",
+  "title": "Pain d'Épices (French Honey Spice Loaf)",
+  "category": "breakfast",
+  "cuisine": "French",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "pain-depices",
+  "dish_title": "Pain d'épices",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A honey and rye loaf spiced with cinnamon, ginger, anise, clove and nutmeg, baked slowly until dark.",
+  "servings": 10,
+  "prep_min": 15,
+  "cook_min": 60,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "large bowl",
+    "whisk",
+    "23 x 13 cm loaf tin",
+    "baking paper",
+    "skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Wet",
+      "qty": 250,
+      "unit": "g",
+      "item": "runny honey"
+    },
+    {
+      "group": "Wet",
+      "qty": 100,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Wet",
+      "qty": 60,
+      "unit": "g",
+      "item": "butter"
+    },
+    {
+      "group": "Wet",
+      "qty": 50,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Wet",
+      "qty": 2,
+      "unit": "pc",
+      "item": "eggs"
+    },
+    {
+      "group": "Dry",
+      "qty": 125,
+      "unit": "g",
+      "item": "rye flour"
+    },
+    {
+      "group": "Dry",
+      "qty": 125,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dry",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Dry",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Dry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Dry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground anise or fennel seed"
+    },
+    {
+      "group": "Dry",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Dry",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "grated nutmeg"
+    },
+    {
+      "group": "Dry",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Dry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated orange zest"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Warm",
+      "text": "Heat the honey, milk, butter and sugar gently, stirring, until the butter melts; cool 10 min. Heat the oven to 160 °C (140 °C fan) and line the tin."
+    },
+    {
+      "title": "Mix",
+      "text": "Whisk the flours, raising agents, spices, salt and zest in the bowl."
+    },
+    {
+      "title": "Combine",
+      "text": "Whisk the eggs into the honey mix, pour onto the dry ingredients and whisk just until smooth."
+    },
+    {
+      "title": "Bake",
+      "text": "Pour into the tin and bake 50-60 min until dark brown and a skewer comes out clean; cover loosely with foil after 30 min if it browns fast."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool in the tin 10 min, then on a rack. Wrap and leave a day before slicing for the best flavour."
+    }
+  ],
+  "tips": [
+    "Use a mild runny honey for the best flavour.",
+    "It slices better and tastes richer after a day.",
+    "Serve thinly sliced with butter."
+  ],
+  "storage": "Wrap well and keep at room temperature for up to 1 week. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 248,
+    "protein_g": 5.1,
+    "carbs_g": 45.0,
+    "sugar_g": 26.1,
+    "free_sugar_g": 25.4,
+    "fat_g": 6.6,
+    "satfat_g": 3.7,
+    "salt_g": 0.55,
+    "fibre_g": 3.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pain-d-epices-basic.jpg",
+  "image_alt": "A dark brown honey spice loaf with thick slices on a wooden board.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

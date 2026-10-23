@@ -1,0 +1,148 @@
+{
+  "slug": "nordic-seeded-whole-grain-rye-loaf",
+  "title": "Nordic Seeded Whole-Grain Rye Loaf",
+  "category": "snacks-sides",
+  "cuisine": "Scandinavian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "rye-pumpernickel",
+  "dish_title": "Rye/pumpernickel",
+  "flavour": "Seeded",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "A rye, wholemeal and oat batter full of seeds, raised in the tin and baked long and slow.",
+  "servings": 14,
+  "prep_min": 15,
+  "cook_min": 70,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "sturdy spatula",
+    "23 x 13 cm loaf tin",
+    "foil",
+    "food thermometer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "rye flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 150,
+      "unit": "g",
+      "item": "wholemeal flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "g",
+      "item": "rolled oats"
+    },
+    {
+      "group": "Dough",
+      "qty": 75,
+      "unit": "g",
+      "item": "sunflower seeds"
+    },
+    {
+      "group": "Dough",
+      "qty": 50,
+      "unit": "g",
+      "item": "pumpkin seeds"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "instant yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 10.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1.75 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "molasses"
+    },
+    {
+      "group": "Dough",
+      "qty": 550,
+      "unit": "ml",
+      "item": "warm water"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "vegetable oil, for the tin"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "sunflower and pumpkin seeds mixed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Stir all the dough ingredients together with the spatula for 2-3 min to a thick, sticky paste; there is no kneading."
+    },
+    {
+      "title": "Fill",
+      "text": "Oil the tin, scrape in the dough, smooth with a wet spatula and press the topping seeds over the surface."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave 1-1½ h until the dough reaches about 1 cm below the rim. Heat the oven to 200 °C (180 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 60-70 min, covering with foil after 40 min, until the centre reads 96-98 °C."
+    },
+    {
+      "title": "Rest",
+      "text": "Turn out and cool on the rack, then wrap in a cloth and leave overnight before slicing thinly."
+    }
+  ],
+  "tips": [
+    "Wet the spatula to smooth the sticky dough.",
+    "Wait overnight before slicing or it will be gummy.",
+    "Slice thinly and top with cheese or avocado."
+  ],
+  "storage": "Keep wrapped at room temperature for up to 5 days, or freeze in slices. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 196,
+    "protein_g": 8.1,
+    "carbs_g": 29.3,
+    "sugar_g": 2.7,
+    "free_sugar_g": 2.1,
+    "fat_g": 6.8,
+    "satfat_g": 0.8,
+    "salt_g": 0.74,
+    "fibre_g": 7.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "rye-pumpernickel-advanced--seeded.jpg",
+  "image_alt": "A dark dense rye loaf crusted with seeds, cut into thin slices.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

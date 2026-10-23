@@ -1,0 +1,129 @@
+{
+  "slug": "fougasse-provencal-leaf-bread",
+  "title": "Fougasse (Provençal Leaf Bread)",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "fougasse",
+  "dish_title": "Fougasse",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "An olive-oil dough shaped into leaves, slashed open and baked hot until golden and crisp.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 22,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "2 baking trays",
+    "baking paper",
+    "pizza cutter or sharp knife",
+    "pastry brush"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "instant yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 350,
+      "unit": "ml",
+      "item": "lukewarm water"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil, for brushing"
+    },
+    {
+      "group": "To finish",
+      "qty": 8,
+      "unit": "g",
+      "item": "semolina or flour, for the trays",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Stir the flour, yeast and salt with the water and oil to a shaggy dough and rest 15 min."
+    },
+    {
+      "title": "Fold",
+      "text": "Knead 5 min until smooth, then cover and leave 1½ h, stretching and folding the dough over itself 3 times in the first hour."
+    },
+    {
+      "title": "Shape",
+      "text": "Divide in two and press each on a lined, semolina-dusted tray into a 30 x 20 cm leaf shape."
+    },
+    {
+      "title": "Cut",
+      "text": "Cut a long slash down the centre and 3-4 angled slashes on each side, cutting right through, then pull the cuts wide open with your fingers."
+    },
+    {
+      "title": "Prove",
+      "text": "Cover and leave 30 min. Heat the oven to 240 °C (220 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Brush with oil and bake 18-22 min until golden and crisp; brush once more as they come out."
+    }
+  ],
+  "tips": [
+    "Pull the cuts wide; they close up as the dough rises.",
+    "Lightly oiled hands make shaping easier.",
+    "Best eaten on the day."
+  ],
+  "storage": "Best fresh; re-crisp in a hot oven for 5 min. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 292,
+    "protein_g": 7.9,
+    "carbs_g": 46.5,
+    "sugar_g": 0.2,
+    "free_sugar_g": 0.0,
+    "fat_g": 7.8,
+    "satfat_g": 1.1,
+    "salt_g": 1.1,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "fougasse-advanced.jpg",
+  "image_alt": "A golden leaf-shaped flatbread with open slashes on a wooden board.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

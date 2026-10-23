@@ -1,0 +1,119 @@
+{
+  "slug": "kubaneh-yemeni-pull-apart-bread",
+  "title": "Kubaneh (Yemeni Buttery Pull-Apart Bread)",
+  "category": "breakfast",
+  "cuisine": "Yemeni",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "kubaneh",
+  "dish_title": "Kubaneh",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thin buttered sheets of dough rolled into coils, packed into a lidded pot and baked long and slow until deeply browned.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 200,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl or stand mixer",
+    "20 cm ovenproof pot with lid",
+    "pastry brush"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "instant yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 25,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 320,
+      "unit": "ml",
+      "item": "warm water"
+    },
+    {
+      "group": "Layers",
+      "qty": 120,
+      "unit": "g",
+      "item": "butter, very soft, plus extra for the pot"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Knead",
+      "text": "Mix the flour, yeast, sugar and salt with the water and knead 10 min until smooth and very stretchy."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave about 1 h until doubled. Butter the pot well."
+    },
+    {
+      "title": "Stretch",
+      "text": "Divide into 8 balls. Smear the worktop with butter, then press and stretch each ball into a very thin sheet, spread with soft butter, fold the sides in and roll up into a rope."
+    },
+    {
+      "title": "Coil",
+      "text": "Curl each rope into a snail and set them snugly in the pot; cover and leave 45 min until puffy. Heat the oven to 180 °C (160 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake with the lid on 40 min, then lower to 120 °C (100 °C fan) and bake 2-3 h more until deep mahogany brown underneath."
+    },
+    {
+      "title": "Serve",
+      "text": "Turn out and serve warm; pull the coils apart by hand."
+    }
+  ],
+  "tips": [
+    "Use plenty of butter on the worktop and your hands.",
+    "Keep the lid on so the bread stays soft inside.",
+    "Serve with grated tomato and hot green chilli sauce."
+  ],
+  "storage": "Best warm on the day; rewarm wrapped in foil. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 353,
+    "protein_g": 8.0,
+    "carbs_g": 48.8,
+    "sugar_g": 3.3,
+    "free_sugar_g": 3.1,
+    "fat_g": 13.8,
+    "satfat_g": 8.2,
+    "salt_g": 1.1,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "kubaneh-advanced.jpg",
+  "image_alt": "A deep brown glossy coiled pull-apart bread, torn open to show soft buttery layers.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

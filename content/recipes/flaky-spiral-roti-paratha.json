@@ -1,0 +1,128 @@
+{
+  "slug": "flaky-spiral-roti-paratha",
+  "title": "Flaky Spiral Paratha",
+  "category": "snacks-sides",
+  "cuisine": "Indian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "roti-paratha",
+  "dish_title": "Roti/paratha",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thin dough brushed with ghee, pleated, coiled and rolled out, then cooked on a tawa until golden and flaky.",
+  "servings": 6,
+  "prep_min": 40,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "rolling pin",
+    "pastry brush",
+    "tawa or large heavy frying pan",
+    "fish slice"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 4,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 180,
+      "unit": "ml",
+      "item": "warm water"
+    },
+    {
+      "group": "Layers",
+      "qty": 60,
+      "unit": "g",
+      "item": "ghee, melted"
+    },
+    {
+      "group": "Layers",
+      "qty": 24,
+      "unit": "g",
+      "item": "plain flour, for dusting",
+      "note": "about 3 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Knead",
+      "text": "Mix the flour, salt, sugar, oil and water and knead 5 min until soft and smooth; cover and rest 30 min."
+    },
+    {
+      "title": "Roll",
+      "text": "Divide into 6 balls and roll each as thin as you can, about 25 cm across."
+    },
+    {
+      "title": "Layer",
+      "text": "Brush with ghee, dust with flour, then pleat it back and forth like a paper fan into a long strip."
+    },
+    {
+      "title": "Coil",
+      "text": "Stretch the strip gently, wind it into a tight spiral and tuck the end underneath; rest 10 min, then roll out to 18 cm."
+    },
+    {
+      "title": "Cook",
+      "text": "Cook on the hot tawa over medium-high heat 1-2 min, flip, brush with ghee, and keep turning and brushing until golden in spots on both sides."
+    },
+    {
+      "title": "Fluff",
+      "text": "While hot, clap or scrunch it between your hands to open the layers."
+    }
+  ],
+  "tips": [
+    "Roll the dough very thin for more layers.",
+    "Rest the coils so they roll out without springing back.",
+    "Serve with curry or dal."
+  ],
+  "storage": "Keep wrapped for 1 day or freeze; reheat on a dry pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 305,
+    "protein_g": 5.5,
+    "carbs_g": 41.4,
+    "sugar_g": 0.8,
+    "free_sugar_g": 0.7,
+    "fat_g": 12.8,
+    "satfat_g": 6.4,
+    "salt_g": 0.73,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "roti-paratha-advanced.jpg",
+  "image_alt": "A stack of golden flaky spiral parathas with visible layers.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

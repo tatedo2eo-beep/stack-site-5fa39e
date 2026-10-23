@@ -1,0 +1,144 @@
+{
+  "slug": "pain-de-mie-pullman-loaf",
+  "title": "Pain de Mie (Square Sandwich Loaf)",
+  "category": "breakfast",
+  "cuisine": "French",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "pain-de-mie",
+  "dish_title": "Pain de mie",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A milk and butter dough baked in a lidded Pullman tin, then uncovered to colour the crust.",
+  "servings": 16,
+  "prep_min": 20,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "stand mixer or large bowl",
+    "33 x 10 x 10 cm lidded Pullman tin",
+    "food thermometer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 570,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 35,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 28,
+      "unit": "g",
+      "item": "dried milk powder"
+    },
+    {
+      "group": "Dough",
+      "qty": 35,
+      "unit": "g",
+      "item": "potato flour (or potato starch)"
+    },
+    {
+      "group": "Dough",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "instant yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 13.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 2.25 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 150,
+      "unit": "ml",
+      "item": "whole milk, warm"
+    },
+    {
+      "group": "Dough",
+      "qty": 230,
+      "unit": "ml",
+      "item": "warm water"
+    },
+    {
+      "group": "Dough",
+      "qty": 85,
+      "unit": "g",
+      "item": "butter, softened"
+    },
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "g",
+      "item": "butter, for the tin",
+      "note": "about 1 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Knead",
+      "text": "Mix everything except the tin butter and knead 10 min until smooth and elastic."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave about 1-1½ h until doubled."
+    },
+    {
+      "title": "Shape",
+      "text": "Butter the tin and lid. Press the dough into a 30 cm rectangle, roll up tightly from a short side and set seam-down in the tin."
+    },
+    {
+      "title": "Prove",
+      "text": "Cover and leave 45-60 min until the dough is 1 cm below the rim; slide on the lid. Heat the oven to 175 °C (155 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 25 min with the lid on, then remove the lid and bake 10-20 min more until golden and the centre reads 88 °C."
+    },
+    {
+      "title": "Cool",
+      "text": "Turn out at once and cool completely on the rack before slicing."
+    }
+  ],
+  "tips": [
+    "Let the dough rise to 1 cm below the rim before closing the lid.",
+    "Turn out at once so the sides stay crisp.",
+    "Slice only when fully cool."
+  ],
+  "storage": "Keep wrapped at room temperature for up to 3 days, or slice and freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 204,
+    "protein_g": 4.8,
+    "carbs_g": 32.9,
+    "sugar_g": 3.4,
+    "free_sugar_g": 2.2,
+    "fat_g": 5.8,
+    "satfat_g": 3.4,
+    "salt_g": 0.85,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pain-de-mie-basic.jpg",
+  "image_alt": "A square-sided white sandwich loaf with thin slices fanned beside it.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

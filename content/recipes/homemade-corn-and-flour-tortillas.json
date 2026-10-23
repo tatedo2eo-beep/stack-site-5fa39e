@@ -1,0 +1,139 @@
+{
+  "slug": "homemade-corn-and-flour-tortillas",
+  "title": "Homemade Corn and Flour Tortillas",
+  "category": "snacks-sides",
+  "cuisine": "Mexican",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "tortillas-corn-flour",
+  "dish_title": "Tortillas (corn/flour)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Both soft flour tortillas and pressed corn tortillas, cooked on a dry, hot cast-iron pan.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "2 bowls",
+    "rolling pin",
+    "tortilla press or heavy pan",
+    "2 pieces of baking paper or a cut-open freezer bag",
+    "cast-iron pan",
+    "clean tea towel"
+  ],
+  "ingredients": [
+    {
+      "group": "Flour tortillas",
+      "qty": 300,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Flour tortillas",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Flour tortillas",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Flour tortillas",
+      "qty": 60,
+      "unit": "ml",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Flour tortillas",
+      "qty": 165,
+      "unit": "ml",
+      "item": "warm water"
+    },
+    {
+      "group": "Corn tortillas",
+      "qty": 240,
+      "unit": "g",
+      "item": "masa harina"
+    },
+    {
+      "group": "Corn tortillas",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Corn tortillas",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Corn tortillas",
+      "qty": 330,
+      "unit": "ml",
+      "item": "warm water, as needed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Flour dough",
+      "text": "Mix the flour, salt and baking powder, add the oil and water and knead 2-3 min until smooth; divide into 8 balls and rest, covered, 30 min."
+    },
+    {
+      "title": "Corn dough",
+      "text": "Mix the masa harina, salt, oil and most of the water to a soft dough like play dough, adding more water if it cracks; divide into 12 balls and keep covered."
+    },
+    {
+      "title": "Roll",
+      "text": "Roll each flour ball into a thin 20 cm round; press each corn ball between the paper sheets to a 14 cm round."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat the dry cast-iron pan over medium-high; cook flour tortillas about 1 min each side until blistered with brown spots; cook corn tortillas 50 s, flip for 1 min, then flip back and press gently so they puff."
+    },
+    {
+      "title": "Keep warm",
+      "text": "Stack in the tea towel as they come off the pan so they stay soft."
+    }
+  ],
+  "tips": [
+    "If corn dough cracks at the edges, add a little water.",
+    "Keep cooked tortillas wrapped so they steam soft.",
+    "Rest the flour dough so it rolls easily."
+  ],
+  "storage": "Keep wrapped in the fridge for up to 3 days; reheat in a dry pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 322,
+    "protein_g": 6.4,
+    "carbs_g": 51.7,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 10.1,
+    "satfat_g": 0.9,
+    "salt_g": 1.17,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tortillas-corn-flour-advanced.jpg",
+  "image_alt": "A stack of yellow corn tortillas beside folded soft flour tortillas with brown spots.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

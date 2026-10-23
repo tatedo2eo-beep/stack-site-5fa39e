@@ -1,0 +1,134 @@
+{
+  "slug": "zopf-swiss-braided-sunday-bread",
+  "title": "Zopf (Swiss Braided Sunday Bread)",
+  "category": "breakfast",
+  "cuisine": "Swiss",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "zopf",
+  "dish_title": "Zopf",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A milk, butter and soured cream dough plaited into a loaf and baked to a glossy golden crust.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl or stand mixer",
+    "baking tray",
+    "baking paper",
+    "pastry brush",
+    "food thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "instant yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 12,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 200,
+      "unit": "ml",
+      "item": "warm milk"
+    },
+    {
+      "group": "Dough",
+      "qty": 120,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "g",
+      "item": "butter, softened"
+    },
+    {
+      "group": "Glaze",
+      "qty": 1,
+      "unit": "pc",
+      "item": "egg yolk beaten with 1 tbsp milk"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Knead",
+      "text": "Mix the flour, yeast, sugar and salt, add the milk and soured cream and knead 5 min, then add the butter and knead 8 min more until silky."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave about 1 h until doubled."
+    },
+    {
+      "title": "Braid",
+      "text": "Divide into 3, roll each into a 45 cm rope tapered at the ends, pinch together at the top and plait loosely, tucking both ends under."
+    },
+    {
+      "title": "Prove",
+      "text": "Set on the lined tray, brush with glaze and leave uncovered 40 min until puffy. Heat the oven to 190 °C (170 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Brush again and bake 30-35 min until deep golden and the centre reads 88-90 °C."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool on a rack at least 30 min before slicing."
+    }
+  ],
+  "tips": [
+    "Plait loosely; the dough needs room to rise.",
+    "Glaze twice for a deep shine.",
+    "Lovely with butter and jam."
+  ],
+  "storage": "Keep wrapped at room temperature for up to 3 days, or slice and freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 229,
+    "protein_g": 5.6,
+    "carbs_g": 34.4,
+    "sugar_g": 2.4,
+    "free_sugar_g": 1.0,
+    "fat_g": 7.4,
+    "satfat_g": 4.1,
+    "salt_g": 0.76,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "zopf-basic.jpg",
+  "image_alt": "A glossy golden three-strand braided loaf with slices cut on a board.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}
