@@ -1,0 +1,153 @@
+{
+  "slug": "blueberry-pancakes-lemon-milk",
+  "title": "Blueberry Pancakes",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Blueberry",
+  "flavour_order": 12,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "Milk soured with lemon juice stands in for buttermilk and soured cream, and blueberries are scattered over each pancake in the pan.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Light, tender pancakes with bright bursts of tart blueberries throughout, lifted by a whisper of lemon.",
+  "servings": 5,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "2 medium bowls",
+    "whisk",
+    "nonstick frying pan (30 cm) or griddle",
+    "pastry brush",
+    "60 ml ladle",
+    "thin wide spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Batter",
+      "qty": 480,
+      "unit": "ml",
+      "item": "milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 283,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Batter",
+      "qty": 42,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled slightly"
+    },
+    {
+      "group": "For cooking",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Topping",
+      "qty": 150,
+      "unit": "g",
+      "item": "blueberries, fresh or frozen (ideally wild), rinsed and dried"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sour milk",
+      "text": "Whisk 1 tbsp lemon juice into 480 ml milk and set aside to thicken."
+    },
+    {
+      "title": "Mix dry",
+      "text": "Whisk 283 g plain flour, 2 tbsp caster sugar, 2 tsp baking powder, ½ tsp bicarbonate of soda and ½ tsp fine salt."
+    },
+    {
+      "title": "Mix wet",
+      "text": "Whisk 1 large egg and 42 g unsalted butter (melted and cooled slightly) into the milk, pour into a well in the flour and whisk very gently until just combined (a few lumps)."
+    },
+    {
+      "title": "Heat pan",
+      "text": "Heat a 30 cm non-stick frying pan over medium heat for 3-5 min, add 1 tsp vegetable oil and brush it over."
+    },
+    {
+      "title": "Cook",
+      "text": "Pour 60 ml batter in 3 places and sprinkle each with 1 tbsp blueberries (fresh or frozen, rinsed and dried, wild if possible). Cook until large bubbles appear (1½-2 min); flip and cook until golden (1-1½ min more). Serve at once; repeat, using the remaining oil only if needed."
+    }
+  ],
+  "tips": [
+    "Lemon juice curdled into milk mimics buttermilk, tenderising the pancakes and adding a subtle tang that brightens the fruit.",
+    "Wild blueberries are smaller and more flavourful than cultivated ones; use them if you can find them.",
+    "Pat the blueberries dry before using them; any excess water streaks the batter and makes the pancakes soggy."
+  ],
+  "storage": "Best served fresh and warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 395,
+    "protein_g": 10.5,
+    "carbs_g": 58.1,
+    "sugar_g": 13.2,
+    "free_sugar_g": 5.1,
+    "fat_g": 13.4,
+    "satfat_g": 6.7,
+    "salt_g": 1.55,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Stack of light pancakes studded with blueberries, served warm.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

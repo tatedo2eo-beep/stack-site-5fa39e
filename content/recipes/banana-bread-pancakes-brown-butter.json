@@ -1,0 +1,174 @@
+{
+  "slug": "banana-bread-pancakes-brown-butter",
+  "title": "Banana Bread Pancakes with Brown Butter",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Banana",
+  "flavour_order": 5,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "Mashed banana and brown sugar form the base, the butter is browned with cinnamon, and walnuts can be folded in; there is no soured cream.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Pancakes infused with ripe banana and brown butter, warm with cinnamon, and studded with toasted walnuts for a comforting treat.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "medium bowl",
+    "small saucepan",
+    "whisk",
+    "flexible spatula",
+    "wire rack set in a rimmed baking tray",
+    "nonstick frying pan (30 cm) or griddle",
+    "80 ml scoop"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large ripe bananas",
+      "note": "about 400 g"
+    },
+    {
+      "group": "Batter",
+      "qty": 12,
+      "unit": "g",
+      "item": "dark brown sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Batter",
+      "qty": 42,
+      "unit": "g",
+      "item": "unsalted butter, plus more for the pan"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Batter",
+      "qty": 163,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 120,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "g",
+      "item": "toasted walnuts, roughly chopped (optional)"
+    },
+    {
+      "group": "To serve",
+      "qty": 90,
+      "unit": "ml",
+      "item": "maple syrup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mash bananas",
+      "text": "Mash 2 large ripe bananas (about 400 g) with 1 tbsp dark brown sugar, 1 large egg and 1 tsp vanilla in a large bowl until mostly smooth."
+    },
+    {
+      "title": "Brown butter",
+      "text": "Melt 42 g unsalted butter in a small pan over medium heat, stirring often, until the solids are golden brown and smell nutty (4-6 min); off the heat whisk in ¼ tsp ground cinnamon and cool 5 min."
+    },
+    {
+      "title": "Mix dry",
+      "text": "Whisk 163 g plain flour, ¾ tsp baking powder, ¾ tsp bicarbonate of soda and ¼ tsp fine salt."
+    },
+    {
+      "title": "Combine",
+      "text": "Whisk the brown butter into the banana, then 120 ml buttermilk, then the flour mix until just combined; fold in 60 g toasted roughly chopped walnuts if using."
+    },
+    {
+      "title": "Cook",
+      "text": "Set a wire rack in a rimmed baking tray. Heat a griddle to medium (175 °C) or a pan over medium heat; melt ½ tbsp butter, scoop 80 ml portions to make 8 cm pancakes (1-2.5 cm apart). Cook until bubbles appear and the base is golden (2-4 min), adjusting heat so they do not over-brown; flip and cook until cooked through (2-4 min). Move to the rack and repeat."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve warm with 90 ml maple syrup."
+    }
+  ],
+  "tips": [
+    "Brown butter—melted until the milk solids turn golden and nutty—adds depth that transforms these from simple banana pancakes into something richly flavoured.",
+    "Mashing the banana into the batter (rather than using it as a topping) means every bite has flavour throughout.",
+    "The walnuts are optional; fold them in last so they stay crunchy.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Once cool, they keep 5 days airtight in the fridge; reheat in the microwave or a 150 °C oven. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 367,
+    "protein_g": 6.9,
+    "carbs_g": 54.4,
+    "sugar_g": 24.0,
+    "free_sugar_g": 14.4,
+    "fat_g": 14.8,
+    "satfat_g": 5.4,
+    "salt_g": 0.9,
+    "fibre_g": 3.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Stack of brown pancakes studded with walnut pieces, drizzled with maple syrup.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "slug": "gluten-free-cream-cheese-pancakes",
+  "title": "Gluten-Free Cream Cheese Pancakes",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Cream cheese",
+  "flavour_order": 7,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "A rice-flour, cornflour and xanthan blend replaces the wheat flour, milk and oil replace the buttermilk, soured cream and butter, and small pieces of cream cheese are dotted on each pancake as it cooks.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A tender, gluten-free pancake studded with warm pockets of cream cheese that melt into sweet richness.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "medium bowl",
+    "whisk",
+    "flat griddle or large frying pan",
+    "60 ml ladle",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 113,
+      "unit": "g",
+      "item": "white rice flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 57,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "Batter",
+      "qty": 57,
+      "unit": "g",
+      "item": "glutinous (sweet) rice flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "baking powder",
+      "note": "check the label is gluten-free"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "xanthan gum"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 240,
+      "unit": "ml",
+      "item": "milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "ml",
+      "item": "neutral oil, plus a little for the griddle"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Filling",
+      "qty": 57,
+      "unit": "g",
+      "item": "cream cheese, cut into small pieces (or 120 g ricotta)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix dry",
+      "text": "Whisk 115 g white rice flour, 57 g cornflour, 57 g glutinous (sweet) rice flour, 50 g caster sugar, 1 tbsp baking powder, ½ tsp fine salt and ¼ tsp xanthan gum."
+    },
+    {
+      "title": "Add wet",
+      "text": "Add 2 large eggs, 240 ml milk, 60 ml vegetable oil and 1 tsp vanilla and whisk smooth."
+    },
+    {
+      "title": "Oil griddle",
+      "text": "Lightly oil a flat griddle and heat over medium-high heat."
+    },
+    {
+      "title": "Pour and dot",
+      "text": "Pour about 60 ml batter per pancake (it should sizzle) and dot each with a few small pieces of 57 g cream cheese (or ½ tsp dots of 120 g ricotta)."
+    },
+    {
+      "title": "Cook",
+      "text": "Cook about 3 min, until bubbles cover the surface and pop and it looks almost dry; flip and cook 1-1½ min more."
+    }
+  ],
+  "tips": [
+    "Xanthan gum is essential in gluten-free baking; it mimics gluten's binding power and keeps these pancakes tender rather than crumbly.",
+    "Ricotta can replace cream cheese if you prefer a milder tang; both melt into warm pockets throughout the pancake.",
+    "Medium-high heat is important—it browns the pancakes quickly and gives them a slightly crisp edge."
+  ],
+  "storage": "Best served fresh and warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 515,
+    "protein_g": 8.5,
+    "carbs_g": 64.7,
+    "sugar_g": 16.4,
+    "free_sugar_g": 12.6,
+    "fat_g": 24.4,
+    "satfat_g": 6.0,
+    "salt_g": 1.93,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A gluten-free pancake studded with melted cream cheese pockets, warm and tender.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "slug": "oat-brown-butter-buttermilk-pancakes",
+  "title": "Toasted Oat and Brown Butter Buttermilk Pancakes",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Brown butter",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "Toasted steel-cut oats are blended to a powder and mixed with the flour, and the butter is browned before it goes in; no soured cream is used.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Hearty oat pancakes with the nutty depth of browned butter and buttermilk tang, crispy-edged and satisfying.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "medium frying pan",
+    "2 bowls",
+    "blender",
+    "whisk",
+    "griddle or large frying pan",
+    "80 ml ladle",
+    "spatula",
+    "wire rack set in a rimmed baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 170,
+      "unit": "g",
+      "item": "steel-cut oats"
+    },
+    {
+      "group": "Batter",
+      "qty": 57,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Batter",
+      "qty": 142,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 35,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 454,
+      "unit": "g",
+      "item": "buttermilk",
+      "note": "about 440 ml"
+    },
+    {
+      "group": "For cooking",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil, for the pan"
+    },
+    {
+      "group": "To serve",
+      "qty": 120,
+      "unit": "ml",
+      "item": "warm maple syrup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast oats",
+      "text": "Toast 170 g steel-cut oats in a dry medium frying pan over medium heat, stirring often, until nutty (about 4 min); tip into a bowl to cool slightly."
+    },
+    {
+      "title": "Brown butter",
+      "text": "Melt 57 g unsalted butter in the same pan over low heat, swirling, until the solids are golden brown and it smells nutty (about 2 min); pour into a large bowl."
+    },
+    {
+      "title": "Grind and mix",
+      "text": "Blend the cooled oats to a fine powder on high (about 1 min); return to the bowl and whisk in 140 g plain flour, 2 tsp baking powder, ½ tsp bicarbonate of soda, ½ tsp fine salt and 35 g caster sugar."
+    },
+    {
+      "title": "Whisk wet",
+      "text": "Heat a griddle over medium heat and rub it with kitchen paper dipped in oil. Whisk 2 large eggs and 450 ml buttermilk into the brown butter, add the dry mix and whisk until no dry streaks remain but the batter is still lumpy."
+    },
+    {
+      "title": "Cook",
+      "text": "Ladle 80 ml portions and spread to 10 cm rounds; cook undisturbed until bubbles form on top and the base is deep golden, then flip and cook until golden."
+    },
+    {
+      "title": "Keep warm",
+      "text": "Keep warm on a wire rack in a warm oven while you cook the rest; serve straight away with warm maple syrup."
+    }
+  ],
+  "tips": [
+    "Toasting the oats before grinding them brings out their nuttiness, a flavour amplified by the browned butter.",
+    "Grind the oats to a fine powder so they disappear into the batter; coarser pieces can make the pancakes gritty.",
+    "Leave the pancakes undisturbed on the griddle until bubbles cover the surface—this gives them a deep golden base and helps them cook through evenly."
+  ],
+  "storage": "Best served fresh and warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 415,
+    "protein_g": 10.9,
+    "carbs_g": 65.1,
+    "sugar_g": 26.0,
+    "free_sugar_g": 21.9,
+    "fat_g": 12.8,
+    "satfat_g": 6.2,
+    "salt_g": 1.44,
+    "fibre_g": 3.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden pancakes with a crispy brown edge, served with warm maple syrup.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

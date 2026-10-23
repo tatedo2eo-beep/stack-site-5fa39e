@@ -1,0 +1,166 @@
+{
+  "slug": "matcha-pancakes-macerated-berries-creme-fraiche",
+  "title": "Matcha Pancakes with Macerated Berries and Whipped Crème Fraîche",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Matcha",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "Matcha goes into the dry mix, the butter is melted in the pan and whisked into the batter, and the stack is served with sugared berries and whipped crème fraîche instead of butter and maple syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Fluffy matcha pancakes with a delicate green hue, topped with juicy macerated berries and a cloud of sweetened crème fraîche.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "2 medium bowls",
+    "large bowl",
+    "sieve",
+    "whisk or electric hand mixer",
+    "nonstick frying pan (30 cm) or griddle",
+    "60 ml scoop or ladle",
+    "thin wide spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Berries",
+      "qty": 300,
+      "unit": "g",
+      "item": "mixed berries, larger ones cut into bite-size pieces"
+    },
+    {
+      "group": "Berries",
+      "qty": 35,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 130,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "matcha powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 240,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Batter",
+      "qty": 14,
+      "unit": "g",
+      "item": "unsalted butter, plus a little more for the pan"
+    },
+    {
+      "group": "Whipped crème fraîche",
+      "qty": 480,
+      "unit": "ml",
+      "item": "full-fat crème fraîche"
+    },
+    {
+      "group": "Whipped crème fraîche",
+      "qty": 24,
+      "unit": "g",
+      "item": "icing sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Macerate berries",
+      "text": "Toss 300 g mixed berries with 35 g caster sugar, cover and chill at least 1 h (up to overnight) until they make a syrup."
+    },
+    {
+      "title": "Mix batter",
+      "text": "Sift 130 g plain flour, 1 tbsp caster sugar, 1 tbsp matcha powder, 1 tsp baking powder, ¼ tsp bicarbonate of soda and ⅛ tsp fine salt into a large bowl and whisk. Add 240 ml buttermilk and 1 large egg; melt 14 g unsalted butter in the frying pan over medium heat and pour it in, leaving a thin film. Whisk gently until just combined (lumpy); rest 10-15 min."
+    },
+    {
+      "title": "Cook pancakes",
+      "text": "Heat the pan over medium heat and test with 1 tbsp batter—pale golden after 1 min means ready. Pour 60 ml batter in 3 places and spread each to 10 cm; cook until bubbles break, edges are set and base is golden (2-4 min), flip and cook 1-3 min more. Keep warm on a rack in a 93 °C oven if you like; repeat, adding butter as needed."
+    },
+    {
+      "title": "Whip cream",
+      "text": "Whisk 480 ml crème fraîche with 24 g icing sugar to soft peaks."
+    },
+    {
+      "title": "Stack and serve",
+      "text": "Layer the pancakes, spoon over the macerated berries and juices, and crown with a dollop of the whipped cream."
+    }
+  ],
+  "tips": [
+    "Chill the berries at least 1 h (or overnight) so they release their natural syrup, deepening the dish.",
+    "A lumpy batter is what you want—overmixing develops gluten and toughens the pancakes.",
+    "Crème fraîche is tangier than whipped cream, so whisk it only to soft peaks to avoid breaking and to balance the sweetness."
+  ],
+  "storage": "Best served fresh and warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 765,
+    "protein_g": 10.9,
+    "carbs_g": 58.5,
+    "sugar_g": 29.0,
+    "free_sugar_g": 17.7,
+    "fat_g": 53.1,
+    "satfat_g": 34.8,
+    "salt_g": 0.99,
+    "fibre_g": 4.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Stack of fluffy green matcha pancakes topped with macerated berries in syrup and a spoonful of crème fraîche.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

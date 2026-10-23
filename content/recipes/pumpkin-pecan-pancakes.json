@@ -1,0 +1,164 @@
+{
+  "slug": "pumpkin-pecan-pancakes",
+  "title": "Spiced Pumpkin Pancakes with Toasted Pecans",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Pumpkin",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "The pumpkin purée is first cooked down with sugar and spices, milk and oil replace the buttermilk and butter, and each pancake is scattered with toasted pecans before flipping.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Warm, spiced pumpkin pancakes studded with toasted pecans, gently sweet and fragrant with autumn spices.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "medium saucepan",
+    "whisk",
+    "nonstick frying pan (30 cm) or griddle",
+    "paper towel",
+    "60 ml scoop or ladle",
+    "thin wide spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 255,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 3.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 425,
+      "unit": "g",
+      "item": "tin unsweetened pumpkin purée"
+    },
+    {
+      "group": "Batter",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.333 tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "ml",
+      "item": "neutral oil or melted butter, plus a little oil for the pan"
+    },
+    {
+      "group": "Batter",
+      "qty": 180,
+      "unit": "ml",
+      "item": "whole milk, at room temperature"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "vanilla (optional)"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "g",
+      "item": "pecans, toasted and finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix dry",
+      "text": "Whisk 255 g plain flour and 3½ tsp baking powder."
+    },
+    {
+      "title": "Cook pumpkin",
+      "text": "Cook 425 g tin unsweetened pumpkin purée, 50 g caster sugar, 1 tsp ground cinnamon, a scant ½ tsp fine salt and ¼ tsp ground nutmeg over medium heat, stirring constantly, until thick, glossy and reduced to about 240 ml (6-8 min)."
+    },
+    {
+      "title": "Add liquid",
+      "text": "Off the heat whisk in 60 ml vegetable oil (or melted butter), 180 ml whole milk (room temperature) and ¼ tsp vanilla (optional); cool 5 min, then whisk in 2 large eggs (room temperature)."
+    },
+    {
+      "title": "Combine",
+      "text": "Pour into the flour and stir until just combined (lumpy); rest 10-15 min."
+    },
+    {
+      "title": "Heat pan",
+      "text": "Heat 1 tsp oil in a 30 cm non-stick or cast-iron frying pan over medium-low heat until shimmering (about 5 min) and wipe out the excess with kitchen paper. Test with 1 tbsp batter (pale golden after 1 min)."
+    },
+    {
+      "title": "Cook",
+      "text": "Spoon 3 portions of 60 ml, spread each to 10 cm and sprinkle each with about 1 tbsp toasted finely chopped pecans; cook until bubbles break, edges are set and base is golden (2-4 min). Flip and cook 1-3 min more. Keep warm on a rack in a 93 °C oven if you like; repeat, adding oil as needed."
+    }
+  ],
+  "tips": [
+    "Reduce the pumpkin purée over the heat to concentrate its flavour and remove excess moisture, keeping the pancakes fluffy rather than dense.",
+    "Toast the pecans lightly before chopping to bring out their nuttiness and add crunch.",
+    "A gentle medium-low heat prevents the spices and pecans burning before the pancake cooks through."
+  ],
+  "storage": "Best served fresh and warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 415,
+    "protein_g": 9.2,
+    "carbs_g": 50.6,
+    "sugar_g": 12.8,
+    "free_sugar_g": 8.3,
+    "fat_g": 20.4,
+    "satfat_g": 2.6,
+    "salt_g": 1.13,
+    "fibre_g": 4.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden pumpkin pancakes scattered with toasted pecan pieces.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

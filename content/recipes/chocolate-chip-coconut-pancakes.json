@@ -1,0 +1,162 @@
+{
+  "slug": "chocolate-chip-coconut-pancakes",
+  "title": "Chocolate Chip and Coconut Pancakes",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Coconut",
+  "flavour_order": 11,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "The same buttermilk and soured cream batter, with chocolate chips and shredded coconut scattered over each pancake before flipping.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Soft, pillowy pancakes studded with chocolate chips and shredded coconut, a tropical-meets-indulgent treat.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "2 bowls",
+    "small bowl",
+    "whisk",
+    "nonstick frying pan (30 cm) or griddle",
+    "paper towel",
+    "60 ml scoop or ladle",
+    "wide spatula",
+    "wire rack set in a rimmed baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 283,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 480,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "ml",
+      "item": "soured cream"
+    },
+    {
+      "group": "Batter",
+      "qty": 42,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled slightly"
+    },
+    {
+      "group": "Topping",
+      "qty": 170,
+      "unit": "g",
+      "item": "semi-sweet chocolate chips"
+    },
+    {
+      "group": "Topping",
+      "qty": 42,
+      "unit": "g",
+      "item": "sweetened shredded coconut"
+    },
+    {
+      "group": "For cooking",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "neutral oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare oven and mix dry",
+      "text": "Heat oven to 93 °C; spray a wire rack and put it in the oven on its tray. Whisk 283 g plain flour, 2 tbsp caster sugar, 1 tsp baking powder, ½ tsp bicarbonate of soda and ½ tsp fine salt."
+    },
+    {
+      "title": "Mix wet",
+      "text": "Whisk 480 ml buttermilk, 2 large eggs, 60 ml soured cream and 42 g unsalted butter (melted and cooled slightly), pour into a well in the flour and stir gently until just combined (lumpy); rest 10 min."
+    },
+    {
+      "title": "Prepare topping",
+      "text": "Mix 170 g plain chocolate chips and 40 g sweetened shredded coconut."
+    },
+    {
+      "title": "Heat pan",
+      "text": "Heat 1 tsp vegetable oil in a 30 cm non-stick frying pan over medium heat until shimmering and wipe out the excess."
+    },
+    {
+      "title": "Cook",
+      "text": "Cook 4 pancakes of 60 ml each until the edges are set, the base is golden and bubbles begin to break (2-3 min); sprinkle each with 1 tbsp of the chip mixture. Flip and cook 1-2 min more. Serve straight away or keep warm on the rack; repeat, adding the remaining oil as needed."
+    }
+  ],
+  "tips": [
+    "Mix the chocolate chips and coconut before cooking so you can measure them evenly for each pancake.",
+    "Sprinkle the mixture on the pancake after the base has set (when you can see bubbles breaking); this lets the chips warm through rather than melt away into the batter.",
+    "The subtle coconut flavour works beautifully with chocolate without dominating; for more intensity, add an extra 1 tbsp."
+  ],
+  "storage": "Best served fresh and warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 763,
+    "protein_g": 17.4,
+    "carbs_g": 97.8,
+    "sugar_g": 37.8,
+    "free_sugar_g": 30.4,
+    "fat_g": 36.7,
+    "satfat_g": 21.7,
+    "salt_g": 1.89,
+    "fibre_g": 6.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden pancake studded with chocolate chips and shredded coconut.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

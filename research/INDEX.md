@@ -30,8 +30,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | apfelstrudel-filo-apple-strudel | Apfelstrudel | Classic | 1 | 3 |
 | apple-brown-butter-custard-ice-cream | Custard-base (French) | Apple | 1 | 3 |
 | apple-cinnamon-iced-tea | Iced tea | Apple | 1 | 3 |
+| apple-cinnamon-pancakes | Pancakes (American) | Cinnamon | 1 | 3 |
 | apple-grape-walnut-waldorf-salad | Waldorf | Classic | 3 | 5 |
 | apple-oat-crumble | Crumble | Classic | 2 | 4 |
+| apple-pie-pancakes-maple-cream | Pancakes (American) | Apple | 1 | 3 |
 | apple-rose-tart-rosewater-glaze | Fruit tart (crème pâtissière) | Rose | 1 | 3 |
 | apple-rosemary-tarte-tatin | Tarte Tatin | Rosemary | 1 | 3 |
 | apricot-blueberry-free-form-tart | Fruit tart (crème pâtissière) | Apricot | 1 | 3 |
@@ -54,6 +56,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | baked-mac-and-cheese | Mac and cheese | Classic | 2 | 4 |
 | baked-ziti | Baked ziti | Classic | 2 | 4 |
 | baklava-walnut-pistachio-honey-syrup | Baklava | Classic | 2 | 4 |
+| banana-bread-pancakes-brown-butter | Pancakes (American) | Banana | 1 | 3 |
 | banana-bread | Banana bread/quick breads | Classic | 2 | 4 |
 | banana-cream-pie | Cream pie (banana, coconut) | Classic | 2 | 4 |
 | banana-infused-cream-pie | Cream pie (banana, coconut) | Banana | 2 | 4 |
@@ -108,6 +111,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | blueberry-ginger-sorbet | Sorbet | Blueberry & ginger | 1 | 3 |
 | blueberry-granita-lemon-zest | Granita | Blueberry | 1 | 3 |
 | blueberry-key-lime-tart-biscuit-base | Lemon tart | Blueberry | 1 | 3 |
+| blueberry-pancakes-lemon-milk | Pancakes (American) | Blueberry | 1 | 3 |
 | blueberry-pie-bars | Bars (magic bars, millionaire's shortbread) | Blueberry | 1 | 3 |
 | boiled-eggs-spiced-onion-tomato-coconut-curry | Egg curry | Classic | 3 | 5 |
 | borani-esfenaj-spinach-yoghurt-dip | Borani | Classic | 2 | 4 |
@@ -252,6 +256,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chocolate-buche-de-noel | Swiss roll/bûche de Noël | Classic | 3 | 5 |
 | chocolate-cheesecake-biscuit-base | New York (baked, dense) | Chocolate | 2 | 4 |
 | chocolate-chess-pie | Chess | Chocolate | 1 | 3 |
+| chocolate-chip-coconut-pancakes | Pancakes (American) | Coconut | 1 | 3 |
 | chocolate-chip-cookie-ice-cream-pie | Ice-cream cake | Chocolate | 1 | 3 |
 | chocolate-chip-toasted-coconut-muffins | American muffin (blueberry style, muffin method) | Chocolate | 1 | 3 |
 | chocolate-cocoa-dusted-marshmallows | Marshmallows | Chocolate | 2 | 4 |
@@ -262,6 +267,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chocolate-hazelnut-gelato-gianduja | Gelato | Chocolate & hazelnut | 1 | 3 |
 | chocolate-hazelnut-spread-brownies | Brownie (fudgy or cakey) | Nutella & hazelnut | 1 | 3 |
 | chocolate-layer-cake | Chocolate layer | Classic | 2 | 4 |
+| chocolate-pancakes-chocolate-sauce | Pancakes (American) | Chocolate | 1 | 3 |
 | chocolate-rugelach | Rugelach | Chocolate | 2 | 4 |
 | chocolate-sandwich-cookies | Sandwich cookies | Classic | 2 | 4 |
 | chocolate-shavings-pots-de-creme | Pot de crème | Chocolate | 2 | 4 |
@@ -553,6 +559,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | glossy-dark-chocolate-ganache | Ganache | Classic | 2 | 4 |
 | glossy-five-point-kaiser-rolls | Kaiser roll | Classic | 2 | 4 |
 | glossy-glazed-carrots | Glazed carrots | Classic | 2 | 4 |
+| gluten-free-cream-cheese-pancakes | Pancakes (American) | Cream cheese | 1 | 3 |
 | gnocchi-brown-butter-sage | Gnocchi | Brown butter-sage | 3 | 5 |
 | gnocchi-cherry-tomato | Gnocchi | Tomato | 3 | 5 |
 | gnocchi-pesto | Gnocchi | Pesto | 3 | 5 |
@@ -731,6 +738,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-pistachio-baked-alaska | Baked Alaska | Pistachio | 1 | 3 |
 | lemon-potato-sage-focaccia | Focaccia | Lemon | 1 | 3 |
 | lemon-pound-cake | Pound cake | Lemon | 3 | 5 |
+| lemon-ricotta-pancakes | Pancakes (American) | Lemon & ricotta | 1 | 3 |
 | lemon-sorbet-water-ice | Sorbet | Lemon | 2 | 4 |
 | lemon-sugar-blueberry-muffins | American muffin (blueberry style, muffin method) | Classic | 2 | 4 |
 | lemon-treacle-tart-clotted-cream | Treacle tart | Classic | 0 | 4 |
@@ -777,6 +785,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mascarpone-philadelphia-ice-cream | Philadelphia (no egg) | Mascarpone | 1 | 3 |
 | mascarpone-yoghurt-sherbet | Sherbet | Mascarpone | 1 | 3 |
 | matcha-chiffon-cake | Chiffon | Matcha | 2 | 4 |
+| matcha-pancakes-macerated-berries-creme-fraiche | Pancakes (American) | Matcha | 1 | 3 |
 | matzah-ball-soup-chicken-dill | Matzah ball soup | Classic | 2 | 4 |
 | mediterranean-chicken-wraps-feta-peppers-olives | Wraps | Classic | 2 | 4 |
 | mee-goreng | Mee goreng | Classic | 2 | 4 |
@@ -833,6 +842,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | noodle-kugel | Kugel | Classic | 3 | 5 |
 | nordic-seeded-whole-grain-rye-loaf | Rye/pumpernickel | Seeded | 1 | 3 |
 | northern-thai-coconut-curry-noodle-soup-chicken | Khao soi | Chicken | 3 | 5 |
+| oat-brown-butter-buttermilk-pancakes | Pancakes (American) | Brown butter | 1 | 3 |
 | oatmeal-raisin-cookie-bars | Bars (magic bars, millionaire's shortbread) | Raisin | 1 | 3 |
 | oeufs-mayonnaise-lemon-mayo-chives | Oeufs mayonnaise | Classic | 2 | 4 |
 | ohn-no-khao-swe | Ohn no khao swè | Classic | 2 | 4 |
@@ -1016,6 +1026,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pumpkin-chocolate-chip-cookie-bars | Bars (magic bars, millionaire's shortbread) | Pumpkin & chocolate | 1 | 3 |
 | pumpkin-cream-cheese-blondies | Blondies | Pumpkin & cream cheese | 1 | 3 |
 | pumpkin-ginger-spiced-sorbet | Sorbet | Pumpkin | 1 | 3 |
+| pumpkin-pecan-pancakes | Pancakes (American) | Pumpkin | 1 | 3 |
 | pumpkin-soup-caramelised-onion-sage | Pumpkin soup | Classic | 2 | 4 |
 | pumpkin-spice-custard-ice-cream | Custard-base (French) | Pumpkin | 1 | 3 |
 | pumpkin-spice-ice-cream-cake | Ice-cream cake | Pumpkin spice | 1 | 3 |
@@ -1242,6 +1253,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | stovetop-chicken-fennel-lasagne | Sheets/baked (lasagne) | Chicken | 1 | 3 |
 | stovetop-mac-and-cheese | Mac and cheese | Stovetop | 3 | 5 |
 | strained-yoghurt-labneh-olive-oil-fresh-mint | Labneh | Classic | 2 | 4 |
+| strawberries-and-cream-sheet-pan-pancake | Pancakes (American) | Strawberry | 1 | 3 |
 | strawberry-almond-cream-tart | Frangipane | Strawberry | 1 | 3 |
 | strawberry-cheesecake-bars | Bars (magic bars, millionaire's shortbread) | Strawberry | 1 | 3 |
 | strawberry-eton-mess | Eton mess | Classic | 2 | 4 |

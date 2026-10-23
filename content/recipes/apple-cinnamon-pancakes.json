@@ -1,0 +1,168 @@
+{
+  "slug": "apple-cinnamon-pancakes",
+  "title": "Apple-Cinnamon Pancakes",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Cinnamon",
+  "flavour_order": 10,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "The same buttermilk and soured cream batter, but each pancake is scattered with cinnamon-sugared chopped apple before it is flipped.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Warm, spiced pancakes studded with fresh apple, cinnamon-sweet, tender and quick to come together.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "2 bowls",
+    "small bowl",
+    "whisk",
+    "nonstick frying pan (30 cm) or griddle",
+    "paper towel",
+    "60 ml scoop or ladle",
+    "wide spatula",
+    "wire rack set in a rimmed baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 283,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 480,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "ml",
+      "item": "soured cream"
+    },
+    {
+      "group": "Batter",
+      "qty": 42,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled slightly"
+    },
+    {
+      "group": "Apple mix",
+      "qty": 2,
+      "unit": "pc",
+      "item": "apples, peeled, cored and finely chopped"
+    },
+    {
+      "group": "Apple mix",
+      "qty": 12,
+      "unit": "g",
+      "item": "light brown sugar, packed",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Apple mix",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "For cooking",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "neutral oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare oven and mix dry",
+      "text": "Heat oven to 93 °C; spray a wire rack and put it in the oven on its tray. Whisk 283 g plain flour, 2 tbsp caster sugar, 1 tsp baking powder, ½ tsp bicarbonate of soda and ½ tsp fine salt."
+    },
+    {
+      "title": "Mix wet",
+      "text": "Whisk 480 ml buttermilk, 2 large eggs, 60 ml soured cream and 42 g unsalted butter (melted and cooled slightly), pour into a well in the flour and stir gently until just combined (lumpy); rest 10 min."
+    },
+    {
+      "title": "Prepare topping",
+      "text": "Mix 2 apples (peeled, cored and finely chopped), 1 tbsp light brown sugar and ½ tsp ground cinnamon."
+    },
+    {
+      "title": "Heat pan",
+      "text": "Heat 1 tsp vegetable oil in a 30 cm non-stick frying pan over medium heat until shimmering and wipe out the excess, leaving a thin film."
+    },
+    {
+      "title": "Cook",
+      "text": "Cook 4 pancakes of 60 ml each until the edges are set, the base is golden and bubbles begin to break (2-3 min); sprinkle each with 1 tbsp apple mixture. Flip and cook 1-2 min more. Serve straight away or keep warm on the rack; repeat, adding the remaining oil as needed."
+    }
+  ],
+  "tips": [
+    "Finely chop the apples rather than grating them; the pieces stay distinct and add pleasant pockets of texture.",
+    "Sprinkle the apple mixture on top of the pancake just before flipping; this prevents it soaking into the raw batter and keeps the pieces visible.",
+    "The thin film of oil left in the pan (rather than wiping it clean completely) ensures an even golden crust."
+  ],
+  "storage": "Best served fresh and warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 546,
+    "protein_g": 15.2,
+    "carbs_g": 81.4,
+    "sugar_g": 24.2,
+    "free_sugar_g": 9.6,
+    "fat_g": 18.0,
+    "satfat_g": 8.7,
+    "salt_g": 1.88,
+    "fibre_g": 3.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Stack of golden pancakes studded with chunks of cooked apple.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

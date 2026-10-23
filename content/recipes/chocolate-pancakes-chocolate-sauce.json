@@ -1,0 +1,166 @@
+{
+  "slug": "chocolate-pancakes-chocolate-sauce",
+  "title": "Chocolate Pancakes with Chocolate Sauce",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Chocolate",
+  "flavour_order": 9,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "Cocoa and an optional pinch of espresso go into a milk batter, the pancakes are small and thin, and a quick chocolate sauce replaces the maple syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Dark, rich chocolate pancakes—tender and not too sweet—with a silky chocolate sauce that flows warm and luxurious over the top.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "fine sieve",
+    "large bowl",
+    "medium bowl",
+    "whisk",
+    "large nonstick frying pan",
+    "silicone spatula",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 170,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 32,
+      "unit": "g",
+      "item": "cocoa powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 75,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 180,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 42,
+      "unit": "g",
+      "item": "unsalted butter, melted, plus more for the pan and to serve"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "fine instant espresso powder (optional, up to 1 tsp)"
+    },
+    {
+      "group": "Chocolate sauce",
+      "qty": 120,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Chocolate sauce",
+      "qty": 142,
+      "unit": "g",
+      "item": "semi-sweet chocolate, finely chopped"
+    },
+    {
+      "group": "Chocolate sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sift dry",
+      "text": "Sift 170 g plain flour, 32 g cocoa powder (natural, not Dutch-processed), 75 g caster sugar, 1½ tsp baking powder, ¾ tsp fine salt and ¼ tsp bicarbonate of soda into a large bowl."
+    },
+    {
+      "title": "Mix wet",
+      "text": "Whisk 2 large eggs, 180 ml whole milk, 42 g unsalted butter (melted) and ½ tsp instant espresso powder (optional, up to 1 tsp), pour into the dry mix and stir gently until just moistened (lumps remain; do not overmix)."
+    },
+    {
+      "title": "Butter pan",
+      "text": "Very lightly butter a large non-stick frying pan over medium heat."
+    },
+    {
+      "title": "Cook",
+      "text": "Drop 2 heaped tbsp batter per pancake and spread to 8-9 cm (2.5-4 cm apart). Cook until the base is set, edges start to set and tiny bubbles form (about 1 min); flip with a lightly greased spatula and cook about 1 min more. Adjust heat to stop them over-browning; wipe the pan and butter it again between batches; keep warm under foil or in a 150 °C oven."
+    },
+    {
+      "title": "Make sauce",
+      "text": "Heat 120 ml whole milk to a bare simmer over medium heat, add 142 g semi-sweet chocolate (finely chopped), take off the heat and whisk smooth; whisk in 1 tsp vanilla and serve straight away over the pancakes."
+    }
+  ],
+  "tips": [
+    "A touch of instant espresso powder deepens the chocolate flavour without making the pancakes taste of coffee; it is entirely optional.",
+    "Natural cocoa powder (not Dutch-processed) gives a sharper, truer chocolate flavour; Dutch-processed is darker but slightly more mellow.",
+    "The sauce must be poured over the pancakes straight away whilst it is glossy and warm; if it cools and thickens, gently reheat it."
+  ],
+  "storage": "Best served fresh and warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 401,
+    "protein_g": 8.8,
+    "carbs_g": 55.4,
+    "sugar_g": 28.3,
+    "free_sugar_g": 25.5,
+    "fat_g": 18.8,
+    "satfat_g": 10.9,
+    "salt_g": 1.3,
+    "fibre_g": 4.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Stack of dark chocolate pancakes drizzled generously with glossy warm chocolate sauce.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}
