@@ -1,0 +1,131 @@
+{
+  "slug": "rosemary-maple-custard-ice-cream",
+  "title": "Rosemary and Maple Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Rosemary",
+  "flavour_order": 125,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Maple syrup replaces the sugar and fresh rosemary is infused in place of vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A take on our classic custard in which maple syrup does all the sweetening and fresh rosemary is infused into the dairy instead of vanilla. Woodsy, gently herbal and caramel-like.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 3,
+      "unit": "pc",
+      "item": "rosemary sprigs (about 10 cm each)",
+      "note": "removed; nutrition counts a little"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 200,
+      "unit": "ml",
+      "item": "pure maple syrup"
+    },
+    {
+      "group": "Custard",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse",
+      "text": "Heat the cream and milk to a bare simmer, add the rosemary sprigs, cover and hold on the very lowest heat for 20 min, stirring the base occasionally so nothing catches. Remove the sprigs."
+    },
+    {
+      "title": "Mix the yolks",
+      "text": "Whisk the yolks with the maple syrup in the heatproof bowl until thoroughly combined."
+    },
+    {
+      "title": "Temper",
+      "text": "Slowly add about a third of the hot rosemary dairy, a ladle at a time, whisking constantly, then pour it all back into the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over medium-low heat until it coats the spatula and the probe shows 77-80 °C; it must not boil."
+    },
+    {
+      "title": "Chill",
+      "text": "Season with the salt, strain and cool over the iced water. Chill for at least 4 h, or overnight for the best texture."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn until thick, then freeze for several hours until it holds a scoop."
+    }
+  ],
+  "tips": [
+    "Use pure maple syrup; maple-flavoured syrups are mostly corn syrup and taste flat.",
+    "A common mistake is boiling the rosemary hard, which turns the flavour piney and harsh. Keep it at the barest simmer.",
+    "Serve with roasted pears or apples."
+  ],
+  "storage": "Freeze, covered, for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 311,
+    "protein_g": 4.9,
+    "carbs_g": 26.2,
+    "sugar_g": 23.7,
+    "free_sugar_g": 20.0,
+    "fat_g": 21.4,
+    "satfat_g": 12.5,
+    "salt_g": 0.29,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

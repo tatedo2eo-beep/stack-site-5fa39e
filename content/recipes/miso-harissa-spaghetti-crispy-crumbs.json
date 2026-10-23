@@ -1,0 +1,155 @@
+{
+  "slug": "miso-harissa-spaghetti-crispy-crumbs",
+  "title": "Miso and Harissa Spaghetti with Crispy Crumbs",
+  "category": "pasta-noodles",
+  "cuisine": "Japanese-North African fusion",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "long-dried-spaghetti-linguine-bucatini",
+  "dish_title": "Long dried (spaghetti, linguine, bucatini)",
+  "flavour": "Miso",
+  "flavour_order": 109,
+  "access": "premium",
+  "base_recipe": "spaghetti-al-pomodoro",
+  "changes_from_base": "Carbonara-style: beaten eggs, miso, harissa and Parmesan make a silky sauce in the hot pasta, topped with crunchy parsley crumbs.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A carbonara-style spaghetti made silky with egg, miso, harissa and Parmesan, topped with golden parsley breadcrumbs.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "small frying pan",
+    "medium bowl",
+    "whisk",
+    "instant-read thermometer",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta",
+      "qty": 340,
+      "unit": "g",
+      "item": "dried spaghetti"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 15,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.5%)",
+      "note": "about 2.5 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "white miso"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "harissa paste"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Sauce",
+      "qty": 45,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "Crumbs",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Crumbs",
+      "qty": 40,
+      "unit": "g",
+      "item": "panko breadcrumbs"
+    },
+    {
+      "group": "Crumbs",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "finely chopped parsley"
+    },
+    {
+      "group": "Crumbs",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crumbs",
+      "text": "Heat the oil in the small pan over medium-high heat, add the panko, parsley and salt and stir constantly for 2-3 min until golden. Tip into a bowl."
+    },
+    {
+      "title": "Cook the pasta",
+      "text": "Boil the spaghetti in 3 litres salted water until just short of al dente. Save a mug of the water and drain."
+    },
+    {
+      "title": "Sauce base",
+      "text": "In the bowl, whisk the miso, harissa and oil with 3 tbsp of the hot pasta water until smooth, then whisk in the eggs."
+    },
+    {
+      "title": "Make it creamy",
+      "text": "Return the pasta to the pot over the lowest heat, add the egg mixture and Parmesan and stir hard and constantly. Add a few spoonfuls of water and keep stirring 1-2 min until the sauce is thick, glossy and steaming (71 °C). Keep it moving, as constant stirring is what stops the egg scrambling."
+    },
+    {
+      "title": "Serve",
+      "text": "Take off the heat, taste (miso and cheese are both salty) and serve at once with the crumbs."
+    }
+  ],
+  "tips": [
+    "Use the lowest heat and never stop stirring once the eggs go in.",
+    "Have bowls warm and ready; the sauce thickens as it sits.",
+    "Taste before salting, as miso and Parmesan are both salty."
+  ],
+  "storage": "Best eaten straight away; egg sauces do not reheat well. Refrigerate any leftovers within 2 hours and eat within 1 day.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 587,
+    "protein_g": 22.1,
+    "carbs_g": 73.3,
+    "sugar_g": 3.7,
+    "free_sugar_g": 0.8,
+    "fat_g": 22.2,
+    "satfat_g": 5.3,
+    "salt_g": 2.39,
+    "fibre_g": 3.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Spaghetti in a creamy orange miso and harissa sauce scattered with golden breadcrumbs and parsley.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

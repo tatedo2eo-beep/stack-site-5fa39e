@@ -1,0 +1,141 @@
+{
+  "slug": "broccoli-basil-pesto-linguine",
+  "title": "Broccoli and Basil Pesto Linguine",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "long-dried-spaghetti-linguine-bucatini",
+  "dish_title": "Long dried (spaghetti, linguine, bucatini)",
+  "flavour": "Pesto",
+  "flavour_order": 108,
+  "access": "premium",
+  "base_recipe": "spaghetti-al-pomodoro",
+  "changes_from_base": "A green pesto bulked out with steamed broccoli replaces the tomato sauce; fresh tomato slices are served on the side.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Linguine in a creamy, bright green pesto made by blending steamed broccoli with basil, pine nuts, garlic and Parmesan.",
+  "servings": 2,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "steamer basket",
+    "food processor",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Pesto",
+      "qty": 450,
+      "unit": "g",
+      "item": "broccoli"
+    },
+    {
+      "group": "Pesto",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Pesto",
+      "qty": 25,
+      "unit": "g",
+      "item": "basil leaves"
+    },
+    {
+      "group": "Pesto",
+      "qty": 45,
+      "unit": "g",
+      "item": "pine nuts"
+    },
+    {
+      "group": "Pesto",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Pesto",
+      "qty": 40,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "Pesto",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Pasta",
+      "qty": 250,
+      "unit": "g",
+      "item": "dried linguine"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 15,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.5%)",
+      "note": "about 2.5 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "ripe tomatoes, sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Steam the broccoli",
+      "text": "Cut it into florets and steam about 5 min until tender but still bright green. Save 6 tbsp of the steaming water."
+    },
+    {
+      "title": "Blend",
+      "text": "Whizz the garlic in the processor, then add the basil, pine nuts and oil and blend until minced. Add the warm broccoli and blend until smooth, loosening with the steaming water a spoonful at a time. Blend in the Parmesan and pepper. Broccoli stretches the pesto into a thick, creamy sauce with far less oil than usual."
+    },
+    {
+      "title": "Cook the pasta",
+      "text": "Boil the linguine in 3 litres salted water until al dente and drain."
+    },
+    {
+      "title": "Serve",
+      "text": "Toss the hot pasta with the pesto and serve with the sliced tomatoes on the side."
+    }
+  ],
+  "tips": [
+    "Steam the broccoli only until tender so the pesto stays bright.",
+    "Toast the pine nuts first for a deeper flavour.",
+    "The pesto also works spread on toast or stirred into soup."
+  ],
+  "storage": "Cool and refrigerate in an airtight container within 2 hours for up to 2 days. Reheat in a pan with a splash of water until piping hot (74 °C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 891,
+    "protein_g": 32.3,
+    "carbs_g": 112.6,
+    "sugar_g": 10.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 36.8,
+    "satfat_g": 6.8,
+    "salt_g": 1.74,
+    "fibre_g": 10.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Linguine coated in a thick, bright green broccoli pesto with slices of red tomato on the side.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

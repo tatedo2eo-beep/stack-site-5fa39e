@@ -1,0 +1,165 @@
+{
+  "slug": "white-sesame-pistachio-custard-ice-cream",
+  "title": "White Sesame and Pistachio Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Sesame & pistachio",
+  "flavour_order": 127,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Toasted white sesame blended into the dairy, with orange zest, less vanilla, pistachios and a pomegranate molasses drizzle.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Built on our classic custard method, this one has freshly toasted sesame seeds blended into the dairy and less vanilla, with orange zest and pistachios. A drizzle of pomegranate molasses on top gives it a tangy finish.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "blender",
+    "small frying pan"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 70,
+      "unit": "g",
+      "item": "white sesame seeds, freshly toasted"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 140,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "finely grated orange zest"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Custard",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Finish",
+      "qty": 60,
+      "unit": "g",
+      "item": "shelled pistachios, toasted and chilled"
+    },
+    {
+      "group": "Finish",
+      "qty": 8,
+      "unit": "tsp",
+      "item": "pomegranate molasses, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the sesame",
+      "text": "Toast the sesame seeds in the small frying pan over medium heat, shaking often, until golden and fragrant, 3-4 min. Freshly toasted seeds give much more flavour than pre-toasted ones."
+    },
+    {
+      "title": "Blend",
+      "text": "Blitz the warm seeds for 10 s, pour in half the milk and blend to a fine paste, then add the rest of the milk and all the cream and blend on high for 30 s."
+    },
+    {
+      "title": "Make the custard",
+      "text": "Beat the yolks and sugar in the saucepan until pale, then whisk in the sesame dairy."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over medium-low heat to 77-80 °C, when the custard coats the spatula."
+    },
+    {
+      "title": "Strain",
+      "text": "Sieve into a bowl, pressing hard on the sesame pulp to get every bit of liquid out."
+    },
+    {
+      "title": "Chill",
+      "text": "Stir in the orange zest, vanilla and salt, cool over the iced water and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn until thick, adding the chilled pistachios during the last minute, then freeze for at least 4 h."
+    },
+    {
+      "title": "Serve",
+      "text": "Scoop into bowls and drizzle about 1 tsp of pomegranate molasses over each portion."
+    }
+  ],
+  "tips": [
+    "Chill the toasted pistachios in the freezer so they stay crunchy in the ice cream.",
+    "A common mistake is letting the sesame seeds darken too far; they turn bitter quickly once golden.",
+    "Pomegranate molasses is sharp; taste a little before you drizzle."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks. Add the pomegranate molasses only when serving.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "sesame",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 446,
+    "protein_g": 8.0,
+    "carbs_g": 30.0,
+    "sugar_g": 25.3,
+    "free_sugar_g": 21.3,
+    "fat_g": 34.0,
+    "satfat_g": 16.7,
+    "salt_g": 0.28,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

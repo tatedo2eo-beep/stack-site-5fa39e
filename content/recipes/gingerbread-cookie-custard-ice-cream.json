@@ -1,0 +1,148 @@
+{
+  "slug": "gingerbread-cookie-custard-ice-cream",
+  "title": "Gingerbread Cookie Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Gingerbread",
+  "flavour_order": 134,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Brown sugar, crushed gingerbread biscuits cooked into the base and strained, a pinch of black pepper and biscuit pieces layered in.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic custard, made with brown sugar and crushed gingerbread biscuits cooked into the base and strained out, then a pinch of black pepper and biscuit pieces folded through. Like a frozen gingerbread biscuit.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 140,
+      "unit": "g",
+      "item": "light or dark brown sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 180,
+      "unit": "g",
+      "item": "gingernut or gingerbread biscuits, finely crushed"
+    },
+    {
+      "group": "Custard",
+      "qty": 260,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 320,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "freshly ground black pepper"
+    },
+    {
+      "group": "Finish",
+      "qty": 40,
+      "unit": "g",
+      "item": "gingernut biscuits, roughly broken"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Combine",
+      "text": "Whisk the brown sugar, yolks and salt in the saucepan, then whisk in the crushed biscuits, cream and milk."
+    },
+    {
+      "title": "Cook",
+      "text": "Warm over medium-low heat for a few minutes, then increase to medium and stir, scraping the base and corners, until it is steaming and 77-80 °C, about 10 min. The crumbs thicken it early, so trust the thermometer."
+    },
+    {
+      "title": "Flavour and strain",
+      "text": "Stir in the vanilla and black pepper, then sieve into a bowl, pressing gently on the crumbs to release the custard trapped inside."
+    },
+    {
+      "title": "Chill",
+      "text": "Cool over the iced water, stirring occasionally, then refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn and layer",
+      "text": "Chill a container while the ice cream churns, then layer the ice cream with the broken biscuits."
+    },
+    {
+      "title": "Freeze",
+      "text": "Cover and freeze for about 4 h until firm."
+    }
+  ],
+  "tips": [
+    "Crunchy gingernut biscuits give the strongest spice flavour.",
+    "A common mistake is pressing the crumbs hard through the sieve, which makes the base gritty. Press lightly.",
+    "Serve with a drizzle of caramel sauce."
+  ],
+  "storage": "Freeze, covered, for up to 2 weeks. The biscuit pieces soften slowly over time.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 362,
+    "protein_g": 5.9,
+    "carbs_g": 41.8,
+    "sugar_g": 28.4,
+    "free_sugar_g": 25.3,
+    "fat_g": 19.3,
+    "satfat_g": 10.2,
+    "salt_g": 0.63,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

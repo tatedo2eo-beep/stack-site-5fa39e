@@ -1,0 +1,178 @@
+{
+  "slug": "carrot-halva-custard-ice-cream",
+  "title": "Carrot Halva Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Carrot halva",
+  "flavour_order": 126,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Carrot, ginger, tahini and warm spices cooked into the base and blended, with brown sugar and pistachios; no vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Inspired by carrot halva, this version of our classic custard simmers grated carrot, ginger, tahini and warm spices in the dairy and blends them in, then adds toasted pistachios. Sweet, spiced and nutty.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "blender"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 180,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 60,
+      "unit": "g",
+      "item": "carrot, finely grated"
+    },
+    {
+      "group": "Custard",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Custard",
+      "qty": 30,
+      "unit": "g",
+      "item": "tahini"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Custard",
+      "qty": 4,
+      "unit": "pc",
+      "item": "green cardamom pods, cracked"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "pc",
+      "item": "whole cloves"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Custard",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 110,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Finish",
+      "qty": 90,
+      "unit": "g",
+      "item": "shelled pistachios, toasted and roughly chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simmer the flavourings",
+      "text": "Combine the cream, milk, carrot, ginger, tahini, cinnamon, cardamom, cloves and nutmeg in the saucepan and keep at a bare simmer for 15-20 min, stirring now and then, until the carrot is soft. Remove the cloves and cardamom pods and add the salt."
+    },
+    {
+      "title": "Whisk",
+      "text": "In the heatproof bowl, beat the yolks with the brown sugar until smooth and a little paler."
+    },
+    {
+      "title": "Temper",
+      "text": "Ladle in two or three spoonfuls of the hot spiced base, whisking, until the bowl feels warm, then return everything to the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Keep stirring over low heat for about 5 min, to 77-80 °C, until a line drawn on the spatula holds."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the hot base for about 2 min until velvety, venting the lid and covering it with a towel."
+    },
+    {
+      "title": "Chill",
+      "text": "Pour into a bowl, cool over the iced water and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn until thick and add the pistachios in the last minute. Serve soft, or freeze for 2 h for firmer scoops."
+    }
+  ],
+  "tips": [
+    "Grate the carrot on the fine side of the grater so it softens quickly.",
+    "A common mistake is skipping the blending, which leaves stringy carrot. Blend until completely smooth.",
+    "Stir the tahini jar well before measuring, as the oil separates."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "sesame",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 392,
+    "protein_g": 7.0,
+    "carbs_g": 22.1,
+    "sugar_g": 17.6,
+    "free_sugar_g": 13.3,
+    "fat_g": 32.0,
+    "satfat_g": 16.1,
+    "salt_g": 0.29,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

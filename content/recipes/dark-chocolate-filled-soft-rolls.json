@@ -1,0 +1,174 @@
+{
+  "slug": "dark-chocolate-filled-soft-rolls",
+  "title": "Dark Chocolate-Filled Soft Rolls",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "dinner-rolls",
+  "dish_title": "Dinner rolls",
+  "flavour": "Dark chocolate",
+  "flavour_order": 106,
+  "access": "premium",
+  "base_recipe": "soft-pull-apart-milk-dinner-rolls",
+  "changes_from_base": "Part wholemeal dough with milk powder and potato flakes, each roll folded around two sticks of dark chocolate.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Pillowy sweet rolls folded around two sticks of dark chocolate and dusted with icing sugar.",
+  "servings": 12,
+  "prep_min": 40,
+  "cook_min": 18,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film or a clean tea towel",
+    "pastry brush",
+    "wire rack",
+    "probe thermometer (optional)",
+    "baking tray lined with baking paper",
+    "rolling pin",
+    "sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 230,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 35,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "softened"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "vanilla extract"
+    },
+    {
+      "group": "Dough",
+      "qty": 210,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 85,
+      "unit": "g",
+      "item": "wholemeal bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 20,
+      "unit": "g",
+      "item": "dried milk powder"
+    },
+    {
+      "group": "Dough",
+      "qty": 28,
+      "unit": "g",
+      "item": "instant mashed potato flakes"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Filling",
+      "qty": 200,
+      "unit": "g",
+      "item": "dark chocolate (70%), cut into 24 sticks about 8 cm long"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "whole milk",
+      "note": "to brush"
+    },
+    {
+      "group": "To finish",
+      "qty": 25,
+      "unit": "g",
+      "item": "icing sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Combine all the dough ingredients, cover and leave 20 min, then knead until soft, smooth and slightly sticky. Oil your hands and the worktop rather than adding more flour."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave about 1 1/2 h, until puffy; it will not quite double but will lose most of its stickiness."
+    },
+    {
+      "title": "Roll",
+      "text": "Halve the dough and roll each half on a lightly oiled worktop to a 20 x 23 cm rectangle. Cut each into 6 pieces of about 10 x 8 cm."
+    },
+    {
+      "title": "Fill",
+      "text": "With a short side facing you, lay a chocolate stick 2-3 cm from the far edge, fold that edge over it to the middle and press. Lay a second stick on the seam, then fold the near edge up over it and press again. Turn seam side down onto the tray and repeat, spacing the rolls 4 cm apart."
+    },
+    {
+      "title": "Prove",
+      "text": "Cover and leave 1-1 1/2 h, until puffy. Heat the oven to 180 °C (160 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Brush with milk and bake 14-18 min, until light golden; the bread reads 88-93 °C. After 5 min move to a rack and dust with icing sugar. Serve warm, or rewarm briefly so the chocolate softens again."
+    }
+  ],
+  "tips": [
+    "Oil the worktop instead of flouring it to keep the dough soft.",
+    "Cut the chocolate into neat sticks with a hot knife so it does not shatter.",
+    "Serve warm; rewarm leftovers briefly so the chocolate melts again.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight box for up to 2 days. Rewarm at 160 °C for 4-5 min; freeze for up to 1 month.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 261,
+    "protein_g": 5.0,
+    "carbs_g": 34.0,
+    "sugar_g": 10.0,
+    "free_sugar_g": 9.0,
+    "fat_g": 11.7,
+    "satfat_g": 6.8,
+    "salt_g": 0.52,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Soft golden rolls dusted with icing sugar, one torn open to show two lines of melted dark chocolate.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

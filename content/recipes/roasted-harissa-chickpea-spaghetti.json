@@ -1,0 +1,157 @@
+{
+  "slug": "roasted-harissa-chickpea-spaghetti",
+  "title": "Roasted Harissa, Tomato and Chickpea Spaghetti",
+  "category": "pasta-noodles",
+  "cuisine": "North African-Italian",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "long-dried-spaghetti-linguine-bucatini",
+  "dish_title": "Long dried (spaghetti, linguine, bucatini)",
+  "flavour": "Harissa & chickpea",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "spaghetti-al-pomodoro",
+  "changes_from_base": "The tomato sauce is roasted in the oven with chickpeas, red onion, sun-dried tomato and harissa, then stirred together with ricotta and Parmesan.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Spaghetti tossed in the baking dish with jammy roasted cherry tomatoes, chickpeas, red onion and harissa, made creamy with ricotta.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "23 x 33 cm baking dish",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Roast",
+      "qty": 700,
+      "unit": "g",
+      "item": "cherry tomatoes"
+    },
+    {
+      "group": "Roast",
+      "qty": 400,
+      "unit": "g",
+      "item": "tin chickpeas, drained and rinsed"
+    },
+    {
+      "group": "Roast",
+      "qty": 1,
+      "unit": "pc",
+      "item": "red onion, thinly sliced"
+    },
+    {
+      "group": "Roast",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, peeled and lightly crushed"
+    },
+    {
+      "group": "Roast",
+      "qty": 50,
+      "unit": "g",
+      "item": "sun-dried tomatoes in oil, drained and chopped"
+    },
+    {
+      "group": "Roast",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "mild harissa paste"
+    },
+    {
+      "group": "Roast",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Roast",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pasta",
+      "qty": 340,
+      "unit": "g",
+      "item": "dried spaghetti"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 15,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.5%)",
+      "note": "about 2.5 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "To finish",
+      "qty": 150,
+      "unit": "g",
+      "item": "whole-milk ricotta"
+    },
+    {
+      "group": "To finish",
+      "qty": 30,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Set it to 220 °C (200 °C fan) with a shelf in the middle."
+    },
+    {
+      "title": "Roast",
+      "text": "In the baking dish, toss the cherry tomatoes, chickpeas, onion, garlic, sun-dried tomatoes, harissa, oil and salt until everything is coated. Roast 30-40 min until the tomatoes have burst and the mixture looks jammy; the dry oven heat concentrates the juices into a sauce without any simmering."
+    },
+    {
+      "title": "Mash",
+      "text": "Crush the soft garlic cloves with a fork and stir them back through."
+    },
+    {
+      "title": "Cook the pasta",
+      "text": "Meanwhile boil the spaghetti in 3 litres salted water until al dente. Save a mug of the water and drain."
+    },
+    {
+      "title": "Toss",
+      "text": "Tip the pasta into the hot dish with the ricotta and Parmesan and toss, adding splashes of the water until the sauce is creamy and coats every strand. Serve straight from the dish."
+    }
+  ],
+  "tips": [
+    "Use a mild harissa; strength varies widely between brands.",
+    "Let the tomatoes really collapse in the oven, which is where the sauce comes from.",
+    "A drizzle of olive oil at the table rounds out the heat."
+  ],
+  "storage": "Cool and refrigerate in an airtight container within 2 hours for up to 2 days. Reheat in a pan with a splash of water until piping hot (74 °C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 631,
+    "protein_g": 23.2,
+    "carbs_g": 92.6,
+    "sugar_g": 11.8,
+    "free_sugar_g": 0.4,
+    "fat_g": 19.2,
+    "satfat_g": 5.5,
+    "salt_g": 2.29,
+    "fibre_g": 9.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Spaghetti tossed with roasted burst cherry tomatoes, chickpeas and red onion in a red harissa sauce in a baking dish.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

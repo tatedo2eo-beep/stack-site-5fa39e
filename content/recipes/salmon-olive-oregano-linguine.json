@@ -1,0 +1,141 @@
+{
+  "slug": "salmon-olive-oregano-linguine",
+  "title": "Salmon, Olive and Oregano Linguine",
+  "category": "pasta-noodles",
+  "cuisine": "Mediterranean",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "long-dried-spaghetti-linguine-bucatini",
+  "dish_title": "Long dried (spaghetti, linguine, bucatini)",
+  "flavour": "Salmon & olive",
+  "flavour_order": 113,
+  "access": "premium",
+  "base_recipe": "spaghetti-al-pomodoro",
+  "changes_from_base": "Grilled salmon flaked through fresh linguine with soft onions, olives and oregano, no tomato sauce.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Fresh linguine tossed with flaked grilled salmon, softened onion, briny olives and fresh oregano: a quick supper for two.",
+  "servings": 2,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "foil-lined grill tray",
+    "frying pan",
+    "instant-read thermometer",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Salmon",
+      "qty": 340,
+      "unit": "g",
+      "item": "skinless salmon fillet"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large onion, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 30,
+      "unit": "g",
+      "item": "pitted green or black olives in brine, chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fresh oregano leaves"
+    },
+    {
+      "group": "Pasta",
+      "qty": 200,
+      "unit": "g",
+      "item": "fresh egg linguine"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 16,
+      "unit": "g",
+      "item": "fine salt for 2 litres of pasta water (0.8%)",
+      "note": "about 2.75 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Grill the salmon",
+      "text": "Heat the grill to high and cook the salmon on the foil-lined tray 6-8 cm from the heat for 5-7 min, depending on thickness, until it flakes and the centre reads 63 °C."
+    },
+    {
+      "title": "Sauce",
+      "text": "Meanwhile heat the oil in the frying pan and cook the onion and garlic over medium heat for 6-8 min until soft. Stir in the olives and oregano and cook 2 min."
+    },
+    {
+      "title": "Combine",
+      "text": "Break the salmon into bite-sized flakes and fold it into the onions; keep warm."
+    },
+    {
+      "title": "Cook the pasta",
+      "text": "Boil the fresh linguine in 2 litres salted water for 1-2 min and drain."
+    },
+    {
+      "title": "Serve",
+      "text": "Toss the pasta gently with the salmon mixture so the flakes stay whole, and finish with black pepper. Olives and oregano bring the salty, herby notes a tomato sauce usually provides."
+    }
+  ],
+  "tips": [
+    "Flake the salmon into large pieces and fold gently so it stays moist.",
+    "Dried oregano works; use half the amount.",
+    "A squeeze of lemon at the end brightens the fish."
+  ],
+  "storage": "Best eaten straight away. Refrigerate leftovers within 2 hours and eat within 1 day, reheating gently until piping hot (74 °C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "fish"
+  ],
+  "diet": [
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 769,
+    "protein_g": 47.5,
+    "carbs_g": 66.0,
+    "sugar_g": 4.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 34.3,
+    "satfat_g": 6.8,
+    "salt_g": 1.2,
+    "fibre_g": 2.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Fresh linguine with flakes of pink grilled salmon, chopped olives and oregano leaves on a white plate.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

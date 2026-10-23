@@ -1,0 +1,153 @@
+{
+  "slug": "sage-butter-crescent-rolls",
+  "title": "Sage Butter Crescent Rolls",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "dinner-rolls",
+  "dish_title": "Dinner rolls",
+  "flavour": "Sage",
+  "flavour_order": 108,
+  "access": "premium",
+  "base_recipe": "soft-pull-apart-milk-dinner-rolls",
+  "changes_from_base": "Rich egg dough flavoured with sage, rolled into 18 butter-brushed crescents.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Rich, buttery crescent rolls flecked with sage, ideal alongside a roast.",
+  "servings": 18,
+  "prep_min": 35,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film or a clean tea towel",
+    "pastry brush",
+    "wire rack",
+    "probe thermometer (optional)",
+    "two baking trays lined with baking paper",
+    "rolling pin",
+    "pizza wheel or sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 420,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "fresh sage, finely chopped",
+      "note": "or 2 tsp dried"
+    },
+    {
+      "group": "Dough",
+      "qty": 8,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1.33 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs",
+      "note": "beaten"
+    },
+    {
+      "group": "Dough",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "softened"
+    },
+    {
+      "group": "Dough",
+      "qty": 115,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 115,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "lukewarm"
+    },
+    {
+      "group": "To brush",
+      "qty": 45,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "melted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Mix and knead all the dough ingredients for 8-10 min, until soft and smooth but not sticky."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave about 1 1/2 h, until doubled."
+    },
+    {
+      "title": "Cut",
+      "text": "Divide the dough in half. Roll one half into a 22 cm circle and cut it like a cake into 9 long triangles."
+    },
+    {
+      "title": "Roll up",
+      "text": "Starting from the wide end, roll each triangle towards its point and set it point side down on a tray, bending the ends into a gentle curve. Brush with some of the melted butter, then repeat with the second half."
+    },
+    {
+      "title": "Prove",
+      "text": "Cover loosely and leave 25-35 min, until puffy but not doubled. Heat the oven to 180 °C (160 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake about 18-20 min, until golden; the thickest part reads 88-90 °C. Brush with the rest of the butter and serve warm."
+    }
+  ],
+  "tips": [
+    "Stretch each triangle gently before rolling for more layers.",
+    "Tuck the point underneath so the crescents do not unroll.",
+    "Use 2 tsp dried sage if fresh is not available."
+  ],
+  "storage": "Keep cooled rolls in an airtight bag at room temperature for up to 2 days. Rewarm at 180 °C for 5 min; freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 139,
+    "protein_g": 3.5,
+    "carbs_g": 18.4,
+    "sugar_g": 0.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 5.5,
+    "satfat_g": 3.2,
+    "salt_g": 0.46,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden curved crescent rolls brushed with butter, with flecks of green sage.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

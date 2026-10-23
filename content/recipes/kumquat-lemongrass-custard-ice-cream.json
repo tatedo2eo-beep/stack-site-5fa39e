@@ -1,0 +1,151 @@
+{
+  "slug": "kumquat-lemongrass-custard-ice-cream",
+  "title": "Kumquat and Lemongrass Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Kumquat",
+  "flavour_order": 123,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Lemongrass steeped in the dairy instead of vanilla; sugared chopped kumquats folded in.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "This follows our classic French custard method, but lemongrass is steeped in the cream instead of vanilla and sugared kumquat pieces are folded through at the end. Citrusy, fragrant and a little bitter-sweet.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Kumquats",
+      "qty": 180,
+      "unit": "g",
+      "item": "kumquats, finely chopped and seeded"
+    },
+    {
+      "group": "Kumquats",
+      "qty": 80,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 3,
+      "unit": "pc",
+      "item": "lemongrass stalks, tender lower halves chopped",
+      "note": "strained out; nutrition counts a little"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sugar the kumquats",
+      "text": "Toss the chopped kumquats with the 80 g sugar in the small bowl and leave for 10 min, then toss again and refrigerate. The sugar draws out juice and softens the peel, so the pieces stay pleasantly chewy when frozen."
+    },
+    {
+      "title": "Steep the lemongrass",
+      "text": "Heat the cream and milk in the saucepan until steaming, add the lemongrass, cover and take off the heat for 1 h. Strain out the lemongrass and pour the infused dairy back into the pan."
+    },
+    {
+      "title": "Beat the yolks",
+      "text": "Whisk the yolks with the 100 g sugar until paler and slightly thick."
+    },
+    {
+      "title": "Temper",
+      "text": "Bring the lemongrass dairy back to steaming and whisk two ladles into the yolks before tipping everything back into the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over a low flame until the kumquat-free base reaches 77-80 °C and lightly coats the spatula. Bubbles mean it is too hot."
+    },
+    {
+      "title": "Chill",
+      "text": "Stir in the salt, strain once more and cool in the iced water, then refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn and fold",
+      "text": "Churn until thick. Drain the kumquats, saving the syrup for drinks, and fold them through quickly."
+    },
+    {
+      "title": "Freeze",
+      "text": "Transfer to the container and freeze for 4 h or longer."
+    }
+  ],
+  "tips": [
+    "Bruise the lemongrass with the back of a knife before chopping to release more flavour.",
+    "A common mistake is leaving kumquat seeds in; they are bitter, so pick them out as you chop.",
+    "The leftover kumquat syrup is lovely stirred into sparkling water."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 371,
+    "protein_g": 5.3,
+    "carbs_g": 30.1,
+    "sugar_g": 27.9,
+    "free_sugar_g": 22.5,
+    "fat_g": 26.4,
+    "satfat_g": 15.7,
+    "salt_g": 0.28,
+    "fibre_g": 1.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

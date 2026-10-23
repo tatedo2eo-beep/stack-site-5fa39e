@@ -1,0 +1,128 @@
+{
+  "slug": "lemon-garlic-butter-linguine",
+  "title": "Lemon and Garlic Butter Linguine",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "long-dried-spaghetti-linguine-bucatini",
+  "dish_title": "Long dried (spaghetti, linguine, bucatini)",
+  "flavour": "Lemon & garlic",
+  "flavour_order": 112,
+  "access": "premium",
+  "base_recipe": "spaghetti-al-pomodoro",
+  "changes_from_base": "A glossy lemon, garlic and butter sauce emulsified with pasta water replaces the tomato sauce.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Linguine in a glossy lemon, garlic and butter sauce brought together with starchy pasta water, ready in 20 minutes.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "fine grater",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta",
+      "qty": 450,
+      "unit": "g",
+      "item": "dried linguine"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 24,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.8%)",
+      "note": "about 4 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Sauce",
+      "qty": 110,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large unwaxed lemon"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 30,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped flat-leaf parsley"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the pasta",
+      "text": "Boil the linguine in 3 litres salted water until al dente. Save about 500 ml of the water and drain."
+    },
+    {
+      "title": "Garlic butter",
+      "text": "Dry the pot, set it over low heat and add the butter. As it melts, grate the garlic straight in and stir 1-2 min until fragrant. Grate in the lemon zest and add the pepper."
+    },
+    {
+      "title": "Emulsify",
+      "text": "When the pepper sizzles, add the pasta and about 240 ml of the water. Raise the heat to medium-high and toss hard. Keep adding a few spoonfuls of water as it bubbles away and toss for 1-2 min, until the butter and starch have formed a thick, glossy coating."
+    },
+    {
+      "title": "Finish",
+      "text": "Off the heat, squeeze in the lemon juice and toss again. Adding the acid last keeps it bright and stops the sauce splitting. Serve with Parmesan and parsley."
+    }
+  ],
+  "tips": [
+    "Keep tossing vigorously while adding the water; that is what makes the sauce emulsify.",
+    "Add the juice off the heat to keep it fresh.",
+    "Chilli flakes make a good extra finish."
+  ],
+  "storage": "Cool and refrigerate in an airtight container within 2 hours for up to 2 days. Reheat in a pan with a splash of water until piping hot (74 °C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 652,
+    "protein_g": 17.9,
+    "carbs_g": 86.3,
+    "sugar_g": 3.5,
+    "free_sugar_g": 0.3,
+    "fat_g": 26.0,
+    "satfat_g": 15.7,
+    "salt_g": 1.98,
+    "fibre_g": 4.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Glossy linguine with lemon zest, chopped parsley and grated Parmesan in a shallow bowl with a lemon half.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

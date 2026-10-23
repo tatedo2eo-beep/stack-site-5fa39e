@@ -1,0 +1,148 @@
+{
+  "slug": "sweet-potato-buttermilk-pull-apart-rolls",
+  "title": "Sweet Potato Buttermilk Pull-Apart Rolls",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "dinner-rolls",
+  "dish_title": "Dinner rolls",
+  "flavour": "Sweet potato",
+  "flavour_order": 111,
+  "access": "premium",
+  "base_recipe": "soft-pull-apart-milk-dinner-rolls",
+  "changes_from_base": "Mashed sweet potato and buttermilk enrich a 15-roll dough baked in a rectangular tin.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Soft, orange-tinged pull-apart rolls made with mashed sweet potato and tangy buttermilk.",
+  "servings": 15,
+  "prep_min": 35,
+  "cook_min": 26,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film or a clean tea towel",
+    "pastry brush",
+    "wire rack",
+    "probe thermometer (optional)",
+    "small saucepan",
+    "potato masher or fork",
+    "23 x 33 cm baking tin"
+  ],
+  "ingredients": [
+    {
+      "group": "Sweet potato",
+      "qty": 170,
+      "unit": "g",
+      "item": "orange-fleshed sweet potato, peeled and cut into 3 cm chunks"
+    },
+    {
+      "group": "Dough",
+      "qty": 120,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Dough",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "softened, plus extra for greasing"
+    },
+    {
+      "group": "Dough",
+      "qty": 510,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Dough",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1.5 tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "melted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sweet potato",
+      "text": "Simmer the sweet potato in unsalted water 10-13 min, until very soft. Drain well, mash in a large bowl, then beat in the buttermilk and 55 g butter until fairly smooth."
+    },
+    {
+      "title": "Dough",
+      "text": "Add the flour, yeast, sugar, eggs and salt and mix, then knead 8 min by machine on medium-low (or by hand on a lightly floured worktop), until smooth, elastic and slightly sticky."
+    },
+    {
+      "title": "Rise",
+      "text": "Put the dough in a buttered bowl, cover and leave about 1 1/2 h in a warm place, until more than doubled."
+    },
+    {
+      "title": "Shape",
+      "text": "Butter the tin. Turn out the dough, divide it into 15 pieces and roll each into a smooth ball. Set them in the tin in 3 rows of 5, cover and leave 45 min, until they fill the tin."
+    },
+    {
+      "title": "Bake",
+      "text": "Heat the oven to 190 °C (170 °C fan). Brush with half the melted butter and bake 22-26 min, until deep orange-gold; the centre roll reads 88-90 °C."
+    },
+    {
+      "title": "Finish",
+      "text": "Brush with the remaining butter as they come out and cool 10 min before pulling apart."
+    }
+  ],
+  "tips": [
+    "Drain the sweet potato well so the dough is not too wet.",
+    "If the dough is very sticky, add flour a spoonful at a time.",
+    "Brush with butter twice for a soft, shiny top."
+  ],
+  "storage": "Keep cooled rolls in an airtight bag at room temperature for up to 2 days. Rewarm at 180 °C for 5 min; freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 200,
+    "protein_g": 5.0,
+    "carbs_g": 30.5,
+    "sugar_g": 2.7,
+    "free_sugar_g": 1.7,
+    "fat_g": 6.2,
+    "satfat_g": 3.6,
+    "salt_g": 0.65,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A tin of fifteen golden-orange pull-apart rolls with buttery tops.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

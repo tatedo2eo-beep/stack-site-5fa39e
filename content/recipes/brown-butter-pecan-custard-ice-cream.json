@@ -1,0 +1,142 @@
+{
+  "slug": "brown-butter-pecan-custard-ice-cream",
+  "title": "Brown Butter Pecan Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Pecan & brown butter",
+  "flavour_order": 129,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Toasted pecans steeped in the dairy, browned butter whisked in, brown sugar instead of caster, extra toasted pecans; no vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A richer version of our classic custard: toasted pecans are steeped in the dairy, browned butter is whisked in, brown sugar replaces caster sugar and more toasted pecans go in at the end.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "light-coloured frying pan"
+  ],
+  "ingredients": [
+    {
+      "group": "Pecans",
+      "qty": 220,
+      "unit": "g",
+      "item": "unsalted pecans, divided",
+      "note": "half steeped and discarded; nutrition counts all"
+    },
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 150,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast and steep",
+      "text": "Toast half the pecans in a dry pan for about 2 min until slightly darker and nutty, chop them finely and add to the cream and milk heated to steaming. Cover off the heat and steep for 1 h."
+    },
+    {
+      "title": "Brown the butter",
+      "text": "Melt the butter in the light-coloured frying pan over medium heat and keep cooking, swirling, until it smells nutty and the solids turn golden-brown. Set aside; a pale pan lets you see the colour change."
+    },
+    {
+      "title": "Mix the yolks",
+      "text": "Whisk the yolks and brown sugar in the clean saucepan."
+    },
+    {
+      "title": "Combine",
+      "text": "Strain the pecan dairy onto the yolks, pressing on the nuts before discarding them, then whisk in the brown butter."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over medium-low heat until the thermometer shows 77-80 °C, then stir in the salt."
+    },
+    {
+      "title": "Chill",
+      "text": "Sieve again, cool over the iced water and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn",
+      "text": "While it churns, toast and roughly chop the remaining pecans and chill them. Add them in the final minute and freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Scrape all the browned bits from the pan into the custard; they hold most of the flavour.",
+    "A common mistake is browning the butter too far until black; pull it off the heat when it is hazelnut brown.",
+    "Stir the container before serving if the nuts have sunk."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 577,
+    "protein_g": 7.4,
+    "carbs_g": 25.9,
+    "sugar_g": 22.7,
+    "free_sugar_g": 18.2,
+    "fat_g": 51.6,
+    "satfat_g": 20.9,
+    "salt_g": 0.47,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

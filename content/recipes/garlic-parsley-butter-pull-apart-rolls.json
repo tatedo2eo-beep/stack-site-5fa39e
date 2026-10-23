@@ -1,0 +1,173 @@
+{
+  "slug": "garlic-parsley-butter-pull-apart-rolls",
+  "title": "Garlic and Parsley Butter Pull-Apart Rolls",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "dinner-rolls",
+  "dish_title": "Dinner rolls",
+  "flavour": "Garlic",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "soft-pull-apart-milk-dinner-rolls",
+  "changes_from_base": "Plain-flour dough baked in a rectangular dish, egg-washed, then soaked in garlic and parsley butter.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Soft, golden pull-apart rolls drenched straight from the oven in melted garlic and parsley butter.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 22,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film or a clean tea towel",
+    "pastry brush",
+    "wire rack",
+    "probe thermometer (optional)",
+    "23 x 33 cm baking dish",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 180,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "lukewarm"
+    },
+    {
+      "group": "Dough",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "melted and cooled"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 320,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 0.83 tsp"
+    },
+    {
+      "group": "Tin",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "softened"
+    },
+    {
+      "group": "Egg wash",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg",
+      "note": "beaten with a pinch of salt"
+    },
+    {
+      "group": "Garlic butter",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Garlic butter",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Garlic butter",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, finely chopped"
+    },
+    {
+      "group": "Garlic butter",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "flaky sea salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Whisk the milk, cooled melted butter and 1 egg in a large bowl, then tip in the flour and yeast and mix to a shaggy dough with no dry patches. Cover and rest 15 min so the flour hydrates."
+    },
+    {
+      "title": "Knead",
+      "text": "Add the sugar and salt and knead 8-10 min by machine on medium (or 12 min by hand), until the dough is smooth, stretchy and only slightly tacky."
+    },
+    {
+      "title": "Rise",
+      "text": "Shape into a ball, return to a lightly greased bowl, cover and leave about 1 h, until doubled."
+    },
+    {
+      "title": "Shape",
+      "text": "Butter the dish. Cut the dough into 12 pieces of roughly 50 g, curl your palm over each one and roll it on an unfloured worktop into a taut ball. Set them in the dish in three rows of four, cover and leave 30-40 min, until the balls press against each other."
+    },
+    {
+      "title": "Bake",
+      "text": "Heat the oven to 180 °C (160 °C fan). Brush the tops with the salted beaten egg and bake about 20 min, until deep golden; the centre roll reads 88-90 °C."
+    },
+    {
+      "title": "Garlic butter",
+      "text": "While the rolls bake, melt the butter with the garlic over low heat for 2 min without letting it colour, then stir in the parsley and the pinch of salt. Spoon it over the hot rolls straight from the oven, let them soak for 5 min and serve warm."
+    }
+  ],
+  "tips": [
+    "Grate the garlic finely so it melts into the butter instead of sitting in lumps.",
+    "Keep the butter on a low heat; browned garlic tastes harsh.",
+    "Pour the butter over the rolls the moment they leave the oven so it soaks in."
+  ],
+  "storage": "Keep cooled rolls in an airtight bag at room temperature for up to 2 days. Rewarm at 180 °C for 5 min; freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 201,
+    "protein_g": 4.7,
+    "carbs_g": 23.7,
+    "sugar_g": 3.0,
+    "free_sugar_g": 2.1,
+    "fat_g": 9.7,
+    "satfat_g": 5.7,
+    "salt_g": 0.5,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A dish of glossy golden pull-apart rolls brushed with garlic butter and flecked with green parsley.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "slug": "miso-butterscotch-custard-ice-cream",
+  "title": "White Miso Butterscotch Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Miso",
+  "flavour_order": 133,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Butter and dark brown sugar cooked to a butterscotch, white miso whisked in for a salty-savoury edge, a little cinnamon; no added salt.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A version of our classic custard where butter and dark brown sugar are cooked into a butterscotch and white miso brings a salty, savoury edge instead of added salt. Rich and moreish.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Custard",
+      "qty": 160,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 40,
+      "unit": "g",
+      "item": "white (shiro) miso, alcohol-free (check label)"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the butterscotch",
+      "text": "Melt the butter in the saucepan over medium-low heat, stir in the dark brown sugar, then turn up the heat and cook for 2-3 min until it smells toasted."
+    },
+    {
+      "title": "Add the dairy",
+      "text": "Whisk in the cream, milk and miso and bring to a bare simmer, whisking so the miso dissolves fully."
+    },
+    {
+      "title": "Temper",
+      "text": "Beat the yolks in the heatproof bowl and add a third of the hot butterscotch dairy a ladle at a time, whisking, then return to the pan and lower the heat."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir until the custard thickens enough to coat the spatula, at 77-80 °C."
+    },
+    {
+      "title": "Season and chill",
+      "text": "Off the heat, whisk in the vanilla and cinnamon, strain and cool over the iced water. Refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn until thick. It comes out very soft, so give it 4-5 h in the freezer."
+    }
+  ],
+  "tips": [
+    "Choose white (shiro) miso for a mild flavour, and check the label for any added alcohol.",
+    "A common mistake is adding extra salt; miso is already salty, so taste the chilled base first.",
+    "Lovely with sliced banana or a warm brownie."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 366,
+    "protein_g": 5.6,
+    "carbs_g": 25.0,
+    "sugar_g": 23.5,
+    "free_sugar_g": 19.5,
+    "fat_g": 27.7,
+    "satfat_g": 16.4,
+    "salt_g": 0.58,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

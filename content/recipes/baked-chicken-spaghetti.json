@@ -1,0 +1,223 @@
+{
+  "slug": "baked-chicken-spaghetti",
+  "title": "Baked Chicken Spaghetti",
+  "category": "pasta-noodles",
+  "cuisine": "American (Texan)",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "long-dried-spaghetti-linguine-bucatini",
+  "dish_title": "Long dried (spaghetti, linguine, bucatini)",
+  "flavour": "Chicken",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "spaghetti-al-pomodoro",
+  "changes_from_base": "A baked casserole: spaghetti is tossed with poached chicken, a creamy vegetable and tomato sauce and Cheddar, then baked until bubbling.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A creamy, cheesy baked spaghetti with poached chicken, soft vegetables and tomatoes with green chilli, baked until golden and bubbling.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 70,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "instant-read thermometer",
+    "large frying pan or sauté pan",
+    "large mixing bowl",
+    "23 x 33 cm baking dish",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 450,
+      "unit": "g",
+      "item": "boneless skinless chicken breasts"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Pasta",
+      "qty": 250,
+      "unit": "g",
+      "item": "dried spaghetti, broken into thirds"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 24,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.8%)",
+      "note": "about 4 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Sauce",
+      "qty": 50,
+      "unit": "g",
+      "item": "unsalted butter, plus extra for the dish"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small onion, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 120,
+      "unit": "g",
+      "item": "button mushrooms, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "celery sticks, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "green pepper, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 30,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Sauce",
+      "qty": 250,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Sauce",
+      "qty": 250,
+      "unit": "ml",
+      "item": "low-salt chicken stock"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "onion powder"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Sauce",
+      "qty": 400,
+      "unit": "g",
+      "item": "tinned chopped tomatoes, drained"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "green chilli, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Cheese",
+      "qty": 170,
+      "unit": "g",
+      "item": "mature Cheddar, grated"
+    },
+    {
+      "group": "Cheese",
+      "qty": 40,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Poach the chicken",
+      "text": "Cover the breasts with cold water in the saucepan, add the bay leaf and bring to a bare simmer. Cook 12-15 min until the thickest part reads 74 °C, then lift out, cool a little and shred. Gentle heat keeps the meat moist."
+    },
+    {
+      "title": "Heat the oven",
+      "text": "Set it to 180 °C (160 °C fan) and butter the baking dish."
+    },
+    {
+      "title": "Cook the pasta",
+      "text": "Boil the spaghetti in 3 litres salted water for about 2 min less than the packet time, as it finishes in the oven. Drain and tip into the mixing bowl."
+    },
+    {
+      "title": "Soften the vegetables",
+      "text": "Melt the butter in the frying pan over medium heat and cook the onion, mushrooms, celery and green pepper for 10-12 min until soft. Add the garlic for the last 2 min."
+    },
+    {
+      "title": "Make the sauce",
+      "text": "Stir in the flour and cook 2 min until it smells nutty. Add the milk a splash at a time, stirring out lumps, then the stock, onion and garlic powders, salt and pepper. Simmer 5 min until thick, then stir in the tomatoes and chilli."
+    },
+    {
+      "title": "Combine",
+      "text": "Add the sauce, chicken, half the Cheddar and all the Parmesan to the pasta and mix well. Spread in the dish and scatter over the rest of the Cheddar."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake uncovered for about 35 min, until bubbling at the edges and golden on top. Rest 5 min before serving."
+    }
+  ],
+  "tips": [
+    "Undercook the pasta at the boiling stage; it keeps softening in the oven.",
+    "Leftover roast chicken works too; use about 450 g meat.",
+    "Add a dash of hot sauce at the table if you like more heat."
+  ],
+  "storage": "Cool, cover and refrigerate within 2 hours for up to 3 days, or freeze portions for up to 2 months. Reheat covered in a 180 °C oven until piping hot (74 °C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "celery"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 527,
+    "protein_g": 35.3,
+    "carbs_g": 44.1,
+    "sugar_g": 6.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 23.1,
+    "satfat_g": 12.7,
+    "salt_g": 2.31,
+    "fibre_g": 3.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A baking dish of golden, bubbling chicken spaghetti with melted Cheddar on top and a serving lifted out.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

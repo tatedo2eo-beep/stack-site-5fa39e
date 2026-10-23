@@ -1,0 +1,164 @@
+{
+  "slug": "cranberry-butter-parker-house-rolls",
+  "title": "Parker House Rolls with Cranberry Butter",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "dinner-rolls",
+  "dish_title": "Dinner rolls",
+  "flavour": "Cranberry",
+  "flavour_order": 112,
+  "access": "premium",
+  "base_recipe": "soft-pull-apart-milk-dinner-rolls",
+  "changes_from_base": "Butter-rich dough folded into Parker House rolls around a cooked cranberry butter that is also served alongside.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Classic folded Parker House rolls with a sweet-tart cranberry butter tucked inside and served alongside.",
+  "servings": 12,
+  "prep_min": 45,
+  "cook_min": 18,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film or a clean tea towel",
+    "pastry brush",
+    "wire rack",
+    "probe thermometer (optional)",
+    "stand mixer with dough hook",
+    "small saucepan",
+    "baking tray lined with baking paper",
+    "rolling pin",
+    "7 cm round cutter"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 20,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 120,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "lukewarm"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg",
+      "note": "beaten"
+    },
+    {
+      "group": "Dough",
+      "qty": 310,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 0.83 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "diced, at room temperature"
+    },
+    {
+      "group": "Cranberry butter",
+      "qty": 150,
+      "unit": "g",
+      "item": "fresh or frozen cranberries"
+    },
+    {
+      "group": "Cranberry butter",
+      "qty": 60,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cranberry butter",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Cranberry butter",
+      "qty": 125,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "very soft"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "In the mixer bowl combine the yeast, sugar, milk and egg, then add the flour and salt and knead on low for 4-5 min, until a ball forms. With the motor running on medium, add the butter a cube at a time and keep kneading about 5 min, until glossy and pulling away from the bowl."
+    },
+    {
+      "title": "Rise",
+      "text": "Shape into a ball in a lightly oiled bowl, cover and leave 2-2 1/2 h at room temperature, until doubled."
+    },
+    {
+      "title": "Cranberry butter",
+      "text": "Meanwhile cook the cranberries, sugar and water over low heat, stirring now and then, 20-30 min, until the berries collapse and the liquid has cooked away. Cool completely, then beat into the soft butter."
+    },
+    {
+      "title": "Shape",
+      "text": "Roll the dough out 1 cm thick and stamp out 12 rounds, re-rolling the scraps once. Press a shallow crease across each round with the back of a knife, spread a little cranberry butter on one half and fold it over so the top half slightly overhangs."
+    },
+    {
+      "title": "Prove",
+      "text": "Set the rolls on the tray, cover and leave 30-40 min, until puffy. Heat the oven to 190 °C (170 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 15-18 min, until golden; the centre reads 88-90 °C. Brush the tops with a little more cranberry butter and serve warm with the rest alongside."
+    }
+  ],
+  "tips": [
+    "Cook the cranberries until the liquid has gone or the butter will split.",
+    "Keep the butter very soft so it beats in smoothly.",
+    "Leftover cranberry butter keeps a week in the fridge."
+  ],
+  "storage": "Keep rolls in an airtight bag for up to 2 days and rewarm at 180 °C for 5 min. Keep the cranberry butter chilled for up to 1 week. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 247,
+    "protein_g": 3.9,
+    "carbs_g": 28.6,
+    "sugar_g": 7.8,
+    "free_sugar_g": 6.7,
+    "fat_g": 13.2,
+    "satfat_g": 8.1,
+    "salt_g": 0.44,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Folded Parker House rolls with golden tops beside a bowl of pink cranberry butter.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

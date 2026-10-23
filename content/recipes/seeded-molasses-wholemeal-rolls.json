@@ -1,0 +1,192 @@
+{
+  "slug": "seeded-molasses-wholemeal-rolls",
+  "title": "Seeded Molasses Wholemeal Rolls",
+  "category": "snacks-sides",
+  "cuisine": "International",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "dinner-rolls",
+  "dish_title": "Dinner rolls",
+  "flavour": "Molasses",
+  "flavour_order": 110,
+  "access": "premium",
+  "base_recipe": "soft-pull-apart-milk-dinner-rolls",
+  "changes_from_base": "Treacle sponge, soaked flax, sunflower and pumpkin seeds, wholemeal flour and a mixed seed crust; overnight rise.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Hearty wholemeal rolls made with a treacle sponge and soaked seeds, slow-risen overnight and crusted with sesame, caraway, cumin and aniseed.",
+  "servings": 15,
+  "prep_min": 35,
+  "cook_min": 22,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film or a clean tea towel",
+    "pastry brush",
+    "wire rack",
+    "probe thermometer (optional)",
+    "small bowl",
+    "sieve",
+    "baking tray lined with baking paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Sponge",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "black treacle or dark molasses"
+    },
+    {
+      "group": "Sponge",
+      "qty": 4,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Sponge",
+      "qty": 190,
+      "unit": "ml",
+      "item": "water",
+      "note": "cool"
+    },
+    {
+      "group": "Sponge",
+      "qty": 125,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Soaked seeds",
+      "qty": 20,
+      "unit": "g",
+      "item": "flaxseed (linseed)"
+    },
+    {
+      "group": "Soaked seeds",
+      "qty": 15,
+      "unit": "g",
+      "item": "sunflower seeds"
+    },
+    {
+      "group": "Soaked seeds",
+      "qty": 20,
+      "unit": "g",
+      "item": "pumpkin seeds"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg",
+      "note": "beaten"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 220,
+      "unit": "g",
+      "item": "wholemeal bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 0.83 tsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg",
+      "note": "beaten, to brush"
+    },
+    {
+      "group": "Topping",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "sesame seeds"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "caraway seeds"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "cumin seeds"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "aniseed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sponge",
+      "text": "In a large bowl dissolve the treacle and yeast in the cool water, then whisk in the white flour to a thick batter. Cover and leave 30 min, until bubbly."
+    },
+    {
+      "title": "Seeds",
+      "text": "Meanwhile pour boiling water over the flax, sunflower and pumpkin seeds and soak 30 min. Drain in a sieve, rinse under the cold tap and drain well, then stir them into the sponge."
+    },
+    {
+      "title": "Dough",
+      "text": "Add the egg, oil, wholemeal flour and salt and mix to a shaggy mass. Knead about 5 min on a lightly floured worktop, until it forms a smooth, slightly tacky ball."
+    },
+    {
+      "title": "Chill",
+      "text": "Put the dough in a large oiled container or food bag and refrigerate overnight for a slow rise; or leave it covered at room temperature about 1 h, until doubled."
+    },
+    {
+      "title": "Shape",
+      "text": "Heat the oven to 190 °C (170 °C fan). Divide the dough into 15 pieces of about 45 g, roll into tight balls and space them 5 cm apart on the tray. Cover and leave 30-60 min, until puffy (longer if the dough was chilled)."
+    },
+    {
+      "title": "Bake",
+      "text": "Brush with the beaten egg, mix the topping seeds and sprinkle them over, then bake 18-22 min, until browned and hollow-sounding underneath; the centre reads about 93 °C. Cool on a rack."
+    }
+  ],
+  "tips": [
+    "Soaking the seeds stops them stealing water from the dough.",
+    "Use the overnight rise if you can; the flavour is noticeably deeper.",
+    "Weigh the pieces for evenly sized rolls that bake at the same rate."
+  ],
+  "storage": "Keep in a bread bag for up to 3 days; refresh at 180 °C for 5 min. Freeze for up to 2 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 132,
+    "protein_g": 4.8,
+    "carbs_g": 18.3,
+    "sugar_g": 0.9,
+    "free_sugar_g": 0.7,
+    "fat_g": 4.9,
+    "satfat_g": 0.8,
+    "salt_g": 0.35,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Dark brown wholemeal rolls covered in sesame and spice seeds on a baking tray.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

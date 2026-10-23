@@ -1,0 +1,131 @@
+{
+  "slug": "black-sesame-custard-ice-cream",
+  "title": "Black Sesame Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Black sesame",
+  "flavour_order": 130,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Brown sugar instead of caster, one more yolk, less dairy, and black sesame paste whisked in after cooking; no vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Based on our classic custard method, this has brown sugar in place of caster, one extra yolk and a generous amount of black sesame paste whisked in after cooking. Deeply nutty with a striking grey colour.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "stick blender (optional)"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 160,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 7,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 200,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 160,
+      "unit": "g",
+      "item": "smooth black sesame paste (unsweetened)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Whisk the brown sugar, yolks and salt together in the saucepan, then whisk in the cream and milk."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat over medium-low until warm, then raise to medium and keep stirring with the spatula until steaming and 77-80 °C, about 10 min. Do not let it bubble."
+    },
+    {
+      "title": "Add the sesame",
+      "text": "Off the heat, whisk in the black sesame paste until smooth and strain into a bowl. A quick buzz with a stick blender gives a more even colour."
+    },
+    {
+      "title": "Chill",
+      "text": "Set the bowl in the iced water, stirring from time to time, for about 30 min, then cover and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Chill the container and a spatula in the freezer while the ice cream churns until fluffy and thick."
+    },
+    {
+      "title": "Freeze",
+      "text": "Scrape into the cold container, press baking paper onto the surface and freeze for about 4 h."
+    }
+  ],
+  "tips": [
+    "Use unsweetened Japanese-style black sesame paste; sweetened pastes will make it too sweet.",
+    "A common mistake is adding the paste before cooking, which makes the custard hard to judge. Stir it in afterwards.",
+    "Serve with fresh figs or a drizzle of honey."
+  ],
+  "storage": "Freeze, covered, for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 345,
+    "protein_g": 7.8,
+    "carbs_g": 27.1,
+    "sugar_g": 21.8,
+    "free_sugar_g": 19.4,
+    "fat_g": 24.1,
+    "satfat_g": 9.2,
+    "salt_g": 0.27,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

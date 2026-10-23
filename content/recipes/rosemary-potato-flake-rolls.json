@@ -1,0 +1,153 @@
+{
+  "slug": "rosemary-potato-flake-rolls",
+  "title": "Rosemary Potato Rolls",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "dinner-rolls",
+  "dish_title": "Dinner rolls",
+  "flavour": "Rosemary",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "soft-pull-apart-milk-dinner-rolls",
+  "changes_from_base": "Egg-free olive oil dough with potato flakes, milk powder and rosemary, cut into flour-dusted triangles.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Light, egg-free olive oil rolls with rosemary and a soft crumb from potato flakes, cut into flour-dusted triangles.",
+  "servings": 16,
+  "prep_min": 25,
+  "cook_min": 18,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film or a clean tea towel",
+    "pastry brush",
+    "wire rack",
+    "probe thermometer (optional)",
+    "baking tray lined with baking paper",
+    "bench scraper or sharp knife",
+    "spray bottle (optional)"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 285,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 360,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 15,
+      "unit": "g",
+      "item": "dried milk powder"
+    },
+    {
+      "group": "Dough",
+      "qty": 45,
+      "unit": "g",
+      "item": "instant mashed potato flakes"
+    },
+    {
+      "group": "Dough",
+      "qty": 11,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "fresh rosemary, finely chopped"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 8,
+      "unit": "g",
+      "item": "plain flour, for dusting",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Stir the water, oil and yeast together in a large bowl. Whisk the milk powder and potato flakes into the flour, then add this with the sugar, rosemary and salt and mix to a soft dough."
+    },
+    {
+      "title": "Knead",
+      "text": "Knead 6 min on low speed or 8 min by hand, until satiny and springy. If it feels stiff after a few minutes, work in another 1-2 tbsp water."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover the bowl and leave about 1 h, until almost doubled."
+    },
+    {
+      "title": "Cut",
+      "text": "Press the dough down and roll it into a log about 55 cm long. Mist or brush the top with water, dust with flour, then cut it into 16 triangles with a base of about 5 cm, alternating the angle of the knife. Space them out on the tray."
+    },
+    {
+      "title": "Prove",
+      "text": "Cover and leave about 45 min, until puffy. Heat the oven to 220 °C (200 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 15-18 min, until pale golden on top and browned underneath; the centre reads about 93 °C. Cool on a rack."
+    }
+  ],
+  "tips": [
+    "Chop the rosemary very finely so it does not tear the dough.",
+    "Alternate the angle of the knife to get triangles with no waste.",
+    "Bake on a hot tray for a crisper base."
+  ],
+  "storage": "Keep cooled rolls in an airtight bag at room temperature for up to 2 days. Rewarm at 180 °C for 5 min; freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 117,
+    "protein_g": 3.0,
+    "carbs_g": 21.1,
+    "sugar_g": 1.2,
+    "free_sugar_g": 0.7,
+    "fat_g": 2.2,
+    "satfat_g": 0.4,
+    "salt_g": 0.38,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Flour-dusted triangular rosemary rolls, pale golden, on a baking tray.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "jasmine-tea-cherry-custard-ice-cream",
+  "title": "Jasmine Tea Custard Ice Cream with Sugared Cherries",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Jasmine",
+  "flavour_order": 132,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Jasmine green tea steeped in the dairy instead of vanilla, with syrup-plumped dried cherries layered through.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic custard infused with jasmine green tea instead of vanilla and layered with dried cherries plumped in sugar syrup. Fragrant, delicate and fruity.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "small saucepan",
+    "heatproof bowl for cherries"
+  ],
+  "ingredients": [
+    {
+      "group": "Cherries",
+      "qty": 150,
+      "unit": "g",
+      "item": "dried sour cherries"
+    },
+    {
+      "group": "Cherries",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Cherries",
+      "qty": 75,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "syrup drained; nutrition counts about half"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 10,
+      "unit": "g",
+      "item": "jasmine green tea leaves"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Plump the cherries",
+      "text": "Boil the water and sugar in the small saucepan until the sugar dissolves, pour over the cherries in a heatproof bowl and leave to cool, then refrigerate."
+    },
+    {
+      "title": "Steep the tea",
+      "text": "Bring the cream, milk and sugar just to the boil, remove from the heat, add the tea leaves and steep for 6 min. Strain, pressing on the leaves, and return to the pan; green tea turns bitter if steeped longer."
+    },
+    {
+      "title": "Temper",
+      "text": "Beat the yolks, whisk in two ladles of the tea dairy and pour back into the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir gently over low heat until the custard reaches 77-80 °C and lightly coats the spatula."
+    },
+    {
+      "title": "Chill",
+      "text": "Add the salt, strain and cool over the iced water, then refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn and layer",
+      "text": "Churn until thick. Drain the cherries well and layer them with the ice cream in the container."
+    },
+    {
+      "title": "Freeze",
+      "text": "Press baking paper onto the surface, cover and freeze for at least 4 h."
+    }
+  ],
+  "tips": [
+    "Use loose jasmine green tea rather than bags for a cleaner, stronger flavour.",
+    "A common mistake is adding wet cherries, which freeze into icy lumps. Drain them thoroughly.",
+    "Plumped cherries keep for a month in the fridge."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 314,
+    "protein_g": 5.1,
+    "carbs_g": 26.9,
+    "sugar_g": 26.4,
+    "free_sugar_g": 21.2,
+    "fat_g": 21.3,
+    "satfat_g": 12.5,
+    "salt_g": 0.19,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

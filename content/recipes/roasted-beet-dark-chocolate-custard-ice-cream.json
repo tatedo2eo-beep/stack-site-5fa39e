@@ -1,0 +1,157 @@
+{
+  "slug": "roasted-beet-dark-chocolate-custard-ice-cream",
+  "title": "Beetroot and Dark Chocolate Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Beet",
+  "flavour_order": 124,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Cooked beetroot simmered in the dairy and blended in, with cocoa, orange zest and shaved dark chocolate instead of vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic custard with a twist: cooked beetroot is simmered in the dairy and blended smooth, then cocoa, orange zest and shaved dark chocolate take the place of vanilla. Earthy, chocolatey and a stunning colour.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "blender"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 300,
+      "unit": "g",
+      "item": "cooked peeled beetroot (plain, not pickled), diced"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "Dutch-process cocoa powder"
+    },
+    {
+      "group": "Custard",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated orange zest"
+    },
+    {
+      "group": "Finish",
+      "qty": 60,
+      "unit": "g",
+      "item": "dark chocolate (70%), shaved with a peeler"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simmer the beetroot",
+      "text": "Put the beetroot, cream and milk in the saucepan and simmer very gently for about 25 min, until a knife breaks the cubes apart easily. While it cooks, whisk the yolks and sugar in the heatproof bowl until pale."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the hot mixture until completely smooth. Remove the centre cap of the lid and hold a folded towel over the hole so steam can escape safely."
+    },
+    {
+      "title": "Add the cocoa",
+      "text": "Pour the purée back into the pan over low heat and whisk in the cocoa and salt until no lumps remain."
+    },
+    {
+      "title": "Temper",
+      "text": "Whisk a third of the hot beetroot base into the yolks, then return the lot to the pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir below a simmer until the custard thickens and reaches 77-80 °C."
+    },
+    {
+      "title": "Chill",
+      "text": "Push through the sieve, stir in the orange zest, then cool over the iced water and refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn until thick, sprinkling in the shaved chocolate during the final minute."
+    },
+    {
+      "title": "Freeze",
+      "text": "Freeze for at least 4 h, then let it soften for 10 min before scooping, as the beetroot makes it set firm."
+    }
+  ],
+  "tips": [
+    "Check the beetroot pack: it must be plain cooked beetroot, not pickled in vinegar.",
+    "A common mistake is blending hot liquid in a sealed jug, which can blow the lid off. Vent it.",
+    "Wear gloves or wash up quickly; beetroot stains."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks. It is best in the first week, when the texture is softest.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 362,
+    "protein_g": 6.4,
+    "carbs_g": 30.8,
+    "sugar_g": 27.3,
+    "free_sugar_g": 20.5,
+    "fat_g": 24.8,
+    "satfat_g": 14.5,
+    "salt_g": 0.36,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

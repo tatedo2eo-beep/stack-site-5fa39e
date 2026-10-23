@@ -1,0 +1,128 @@
+{
+  "slug": "zaatar-labneh-spaghetti",
+  "title": "Za'atar and Labneh Spaghetti",
+  "category": "pasta-noodles",
+  "cuisine": "Levantine",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "long-dried-spaghetti-linguine-bucatini",
+  "dish_title": "Long dried (spaghetti, linguine, bucatini)",
+  "flavour": "Za'atar",
+  "flavour_order": 110,
+  "access": "premium",
+  "base_recipe": "spaghetti-al-pomodoro",
+  "changes_from_base": "Tangy labneh and garlic oil make a creamy sauce in place of tomato, with lots of za'atar on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Spaghetti in a creamy, tangy labneh and garlic sauce, buried under fragrant za'atar and a final drizzle of olive oil.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "wooden spoon",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta",
+      "qty": 340,
+      "unit": "g",
+      "item": "dried spaghetti"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 24,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.8%)",
+      "note": "about 4 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Sauce",
+      "qty": 5,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Sauce",
+      "qty": 225,
+      "unit": "g",
+      "item": "labneh (or thick strained yoghurt)"
+    },
+    {
+      "group": "To finish",
+      "qty": 40,
+      "unit": "g",
+      "item": "za'atar",
+      "note": "shop-bought or homemade; check for added salt"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the pasta",
+      "text": "Boil the spaghetti in 3 litres salted water for 1 min less than the packet says, so it is just a little firm in the middle. Save about 500 ml of the water, drain, and put the pot back on medium-high heat."
+    },
+    {
+      "title": "Garlic oil",
+      "text": "Add the oil and garlic to the empty pot and cook, stirring, for 2-4 min until the garlic is light brown."
+    },
+    {
+      "title": "Emulsify",
+      "text": "Add the spaghetti and about 240 ml of the water and let it bubble, tossing, until the oil, starch and water come together in a thick sauce and the pasta is tender."
+    },
+    {
+      "title": "Add the labneh",
+      "text": "Turn the heat to low, add the labneh and stir hard until smooth and creamy. Do not let it boil or it will split. If it does start to look grainy, stir in more pasta water off the heat."
+    },
+    {
+      "title": "Serve",
+      "text": "Divide between bowls and cover generously with za'atar and a drizzle of oil."
+    }
+  ],
+  "tips": [
+    "Keep the heat low once the labneh goes in, or it will split.",
+    "Thick Greek yoghurt strained for an hour stands in for labneh.",
+    "Toast the za'atar in a dry pan for 30 s to wake it up."
+  ],
+  "storage": "Cool and refrigerate in an airtight container within 2 hours for up to 2 days. Reheat in a pan with a splash of water until piping hot (74 °C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 593,
+    "protein_g": 17.6,
+    "carbs_g": 72.3,
+    "sugar_g": 4.7,
+    "free_sugar_g": 0.0,
+    "fat_g": 26.7,
+    "satfat_g": 4.8,
+    "salt_g": 1.41,
+    "fibre_g": 5.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Spaghetti in a creamy white labneh sauce covered with green-brown za'atar and a drizzle of olive oil.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

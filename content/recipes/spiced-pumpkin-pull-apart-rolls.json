@@ -1,0 +1,172 @@
+{
+  "slug": "spiced-pumpkin-pull-apart-rolls",
+  "title": "Spiced Pumpkin Pull-Apart Rolls",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "dinner-rolls",
+  "dish_title": "Dinner rolls",
+  "flavour": "Pumpkin",
+  "flavour_order": 107,
+  "access": "premium",
+  "base_recipe": "soft-pull-apart-milk-dinner-rolls",
+  "changes_from_base": "Pumpkin purée, brown sugar and warm spices in the dough; 12 rolls in a round tin with an egg wash.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Bright orange pull-apart rolls made with pumpkin purée, brown sugar and a little warm spice.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 26,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film or a clean tea towel",
+    "pastry brush",
+    "wire rack",
+    "probe thermometer (optional)",
+    "23 cm round cake tin"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 4,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 25,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "lukewarm"
+    },
+    {
+      "group": "Dough",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "softened"
+    },
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 0.83 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 85,
+      "unit": "g",
+      "item": "pumpkin purée (canned or home-made)"
+    },
+    {
+      "group": "Dough",
+      "qty": 240,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Egg wash",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg",
+      "note": "beaten with 1 tbsp water"
+    },
+    {
+      "group": "Egg wash",
+      "qty": 10,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "melted, to brush after baking"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Put all the dough ingredients in a large bowl and mix, then knead 8-10 min, until soft and smooth. Pumpkin purée varies in wetness, so add a spoonful of flour if the dough is very sticky."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave 60-75 min, until clearly puffy."
+    },
+    {
+      "title": "Shape",
+      "text": "Grease the tin. Deflate the dough, divide it into 12 and roll each piece into a smooth ball. Set them in the tin, close together."
+    },
+    {
+      "title": "Prove",
+      "text": "Cover and leave 1-1 1/2 h, until the balls are crowded together and very soft. Heat the oven to 180 °C (160 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Brush with the egg wash and bake 22-26 min, laying foil loosely over the top for the last 5-10 min if they darken quickly; the centre roll reads 88-90 °C."
+    },
+    {
+      "title": "Finish",
+      "text": "Brush with melted butter, leave 2 min, then turn out onto a rack."
+    }
+  ],
+  "tips": [
+    "Pat very wet home-made purée dry with kitchen paper before weighing.",
+    "Tent with foil if they brown fast; the sugar and pumpkin colour quickly.",
+    "They are lovely with savoury dishes and with jam at breakfast."
+  ],
+  "storage": "Keep cooled rolls in an airtight bag at room temperature for up to 2 days. Rewarm at 180 °C for 5 min; freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 124,
+    "protein_g": 3.5,
+    "carbs_g": 18.5,
+    "sugar_g": 2.6,
+    "free_sugar_g": 2.0,
+    "fat_g": 3.9,
+    "satfat_g": 2.1,
+    "salt_g": 0.44,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A round tin of glossy orange-gold pumpkin dinner rolls packed together.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

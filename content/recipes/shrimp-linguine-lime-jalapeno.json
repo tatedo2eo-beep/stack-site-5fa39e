@@ -1,0 +1,165 @@
+{
+  "slug": "shrimp-linguine-lime-jalapeno",
+  "title": "Shrimp Linguine with Lime, Jalapeño and Herbs",
+  "category": "pasta-noodles",
+  "cuisine": "American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "long-dried-spaghetti-linguine-bucatini",
+  "dish_title": "Long dried (spaghetti, linguine, bucatini)",
+  "flavour": "Shrimp",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "spaghetti-al-pomodoro",
+  "changes_from_base": "Prawns poached in the starchy pasta water with red pepper, jalapeño and lime, finished with parsley, coriander and Parmesan instead of a tomato sauce.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Linguine with tender prawns poached in starchy pasta water with red pepper, jalapeño and lime, finished with fresh herbs and Parmesan.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large deep frying pan",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "red pepper, diced"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, diced"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "jalapeño, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Pasta",
+      "qty": 250,
+      "unit": "g",
+      "item": "dried linguine"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 24,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.8%)",
+      "note": "about 4 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Prawns",
+      "qty": 350,
+      "unit": "g",
+      "item": "raw peeled prawns (shrimp), deveined"
+    },
+    {
+      "group": "To finish",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "chopped flat-leaf parsley"
+    },
+    {
+      "group": "To finish",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "chopped coriander"
+    },
+    {
+      "group": "To finish",
+      "qty": 40,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften the vegetables",
+      "text": "Heat the oil in the pan over medium heat and cook the red pepper and onion for 6-8 min until tender. Stir in the garlic, jalapeño, lime juice, salt and pepper and cook 1 min more."
+    },
+    {
+      "title": "Cook the pasta",
+      "text": "Boil the linguine in 3 litres salted water until al dente. Save about 250 ml of the water, then drain."
+    },
+    {
+      "title": "Poach the prawns",
+      "text": "Pour the saved water over the vegetables, bring to a boil and add the prawns. Cook 2-3 min, stirring, until pink and opaque all through (63 °C); the starchy water becomes a light sauce as it reduces."
+    },
+    {
+      "title": "Toss",
+      "text": "Add the linguine, parsley and coriander and toss for 30 s. Divide between plates and grate Parmesan over each."
+    }
+  ],
+  "tips": [
+    "Pull the prawns as soon as they turn opaque, as they toughen fast.",
+    "Seed the jalapeño for a milder dish.",
+    "Frozen raw prawns work well; thaw them in the fridge first."
+  ],
+  "storage": "Best eaten straight away. Refrigerate leftovers within 2 hours and eat within 1 day, reheating until piping hot (74 °C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "crustaceans"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 433,
+    "protein_g": 30.2,
+    "carbs_g": 53.0,
+    "sugar_g": 4.4,
+    "free_sugar_g": 0.1,
+    "fat_g": 10.9,
+    "satfat_g": 2.9,
+    "salt_g": 2.16,
+    "fibre_g": 3.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Linguine with pink prawns, diced red pepper, parsley and coriander, finished with grated Parmesan.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

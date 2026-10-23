@@ -1,0 +1,168 @@
+{
+  "slug": "sweet-tangy-beef-bean-spaghetti",
+  "title": "Sweet and Tangy Beef and Bean Spaghetti",
+  "category": "pasta-noodles",
+  "cuisine": "American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "long-dried-spaghetti-linguine-bucatini",
+  "dish_title": "Long dried (spaghetti, linguine, bucatini)",
+  "flavour": "Beef",
+  "flavour_order": 104,
+  "access": "premium",
+  "base_recipe": "spaghetti-al-pomodoro",
+  "changes_from_base": "A one-pot family supper: beef mince, two kinds of beans and a sweet-tangy ketchup and vinegar sauce replace the plain tomato sauce, finished with Cheddar.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A hearty one-pot spaghetti with beef mince, kidney and black beans and a sweet-tangy tomato sauce, finished with melting Cheddar.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large flameproof casserole or deep pan",
+    "wooden spoon",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta",
+      "qty": 340,
+      "unit": "g",
+      "item": "dried spaghetti, broken into 8 cm lengths"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 10,
+      "unit": "g",
+      "item": "fine salt for 2 litres of pasta water (0.5%)",
+      "note": "about 1.75 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.6666666666666666,
+      "unit": "tbsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, chopped",
+      "note": "keep 2 tbsp raw for serving"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 450,
+      "unit": "g",
+      "item": "beef mince (15% fat)"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Sauce",
+      "qty": 800,
+      "unit": "g",
+      "item": "tinned chopped tomatoes (no salt added), drained"
+    },
+    {
+      "group": "Sauce",
+      "qty": 400,
+      "unit": "g",
+      "item": "tin kidney beans, drained and rinsed"
+    },
+    {
+      "group": "Sauce",
+      "qty": 400,
+      "unit": "g",
+      "item": "tin black beans (no salt added), drained and rinsed"
+    },
+    {
+      "group": "Sauce",
+      "qty": 150,
+      "unit": "g",
+      "item": "tomato ketchup"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "mild chilli powder"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "To finish",
+      "qty": 60,
+      "unit": "g",
+      "item": "mature Cheddar, grated, plus extra to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the pasta",
+      "text": "Boil the broken spaghetti in 2 litres salted water, stirring often, until al dente. Drain, rinse under cold water and drain well so it does not stick while you make the sauce."
+    },
+    {
+      "title": "Soften the onion",
+      "text": "Heat the oil in the casserole over medium heat and cook most of the onion for 4-5 min until soft but not brown, then add the garlic for 30 s."
+    },
+    {
+      "title": "Brown the beef",
+      "text": "Add the mince with the pepper and break it into small pieces with the spoon. Cook about 5 min until no pink remains and the meat reaches 71 °C."
+    },
+    {
+      "title": "Simmer",
+      "text": "Stir in the tomatoes, both beans, ketchup, chilli powder and vinegar. The ketchup gives the sweet base and the vinegar the tang. Add the spaghetti and heat through for about 5 min."
+    },
+    {
+      "title": "Finish",
+      "text": "Off the heat, stir in the Cheddar until melted. Serve with extra cheese and the reserved raw onion."
+    }
+  ],
+  "tips": [
+    "Breaking the spaghetti makes it easy to eat with a spoon and stops it clumping.",
+    "Rinse the cooked pasta so it does not turn gummy while it waits.",
+    "Swap the chilli powder for chipotle for a smokier pot."
+  ],
+  "storage": "Cool and refrigerate within 2 hours for up to 3 days, or freeze for up to 2 months. Reheat until piping hot (74 °C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 872,
+    "protein_g": 47.8,
+    "carbs_g": 110.3,
+    "sugar_g": 17.7,
+    "free_sugar_g": 8.0,
+    "fat_g": 26.9,
+    "satfat_g": 10.2,
+    "salt_g": 2.26,
+    "fibre_g": 14.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A pot of short spaghetti mixed with beef mince, red kidney beans and black beans in tomato sauce, topped with grated Cheddar and chopped onion.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "honey-lavender-custard-ice-cream",
+  "title": "Honey and Lavender Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Lavender",
+  "flavour_order": 128,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Honey replaces the sugar and dried lavender is steeped instead of vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Our classic custard, sweetened with honey instead of sugar and steeped with dried lavender instead of vanilla. Floral, soft and summery.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "dried culinary lavender",
+      "note": "strained out"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 180,
+      "unit": "g",
+      "item": "mild runny honey"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Steep",
+      "text": "Combine the cream, milk and salt in the saucepan, bring slowly to a simmer, then stir in the lavender, cover and remove from the heat for 30 min. Taste and steep up to 15 min more if you want a stronger flavour."
+    },
+    {
+      "title": "Prepare the yolks",
+      "text": "Whisk the yolks with the honey in the heatproof bowl until smooth; honey blends more easily if it is runny."
+    },
+    {
+      "title": "Temper",
+      "text": "Reheat the infused dairy until hot but not simmering, then pour it through the sieve onto the yolks, whisking all the while. Discard the flowers and return the mixture to a clean pan."
+    },
+    {
+      "title": "Cook",
+      "text": "Stir over low heat until the custard thickens and a line drawn on the spatula holds, at 77-80 °C."
+    },
+    {
+      "title": "Chill",
+      "text": "Cool the custard over the iced water and refrigerate for at least 4 h; an overnight rest improves the flavour and texture."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn until thick and freeze until firm, at least 4 h."
+    }
+  ],
+  "tips": [
+    "Buy culinary lavender; lavender sold for crafts may be treated.",
+    "A common mistake is using too much lavender, which tastes soapy. Start with the recipe amount and taste.",
+    "A mild honey such as acacia or clover lets the lavender come through."
+  ],
+  "storage": "Freeze in a covered container for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 335,
+    "protein_g": 4.9,
+    "carbs_g": 22.3,
+    "sugar_g": 21.9,
+    "free_sugar_g": 18.5,
+    "fat_g": 26.3,
+    "satfat_g": 15.7,
+    "salt_g": 0.18,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

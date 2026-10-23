@@ -1,0 +1,156 @@
+{
+  "slug": "apple-brown-butter-custard-ice-cream",
+  "title": "Apple and Brown Butter Custard Ice Cream",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "custard-base-french",
+  "dish_title": "Custard-base (French)",
+  "flavour": "Apple",
+  "flavour_order": 131,
+  "access": "premium",
+  "base_recipe": "vanilla-custard-ice-cream-french-style",
+  "changes_from_base": "Apple juice reduced to a syrup with nutmeg, browned butter and soured cream blended into a lighter custard; brown sugar; half the vanilla.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A lighter take on our classic custard, blended with an apple syrup made by reducing apple juice with nutmeg, plus browned butter and soured cream. Tangy, buttery and full of apple flavour.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "ice-cream maker",
+    "medium heavy saucepan",
+    "heatproof bowl",
+    "whisk",
+    "silicone spatula",
+    "probe thermometer",
+    "fine sieve",
+    "large bowl of iced water",
+    "freezer container with lid",
+    "blender",
+    "light-coloured frying pan"
+  ],
+  "ingredients": [
+    {
+      "group": "Apple syrup",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "unsweetened cloudy apple juice",
+      "note": "reduced to 120 ml; nutrition counts the reduced syrup"
+    },
+    {
+      "group": "Apple syrup",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Custard",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Custard",
+      "qty": 300,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 80,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 150,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract or paste"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown the butter",
+      "text": "Melt the butter in the light-coloured pan, then cook over medium-high heat until deep amber. Pour into a small heatproof bowl, leaving the darkest sediment behind, and cool."
+    },
+    {
+      "title": "Make the apple syrup",
+      "text": "Boil the apple juice with the nutmeg in a wide pan for about 20-25 min until reduced to 120 ml. Watch carefully at the end, because once the bubbles start to stack up it reduces very quickly. Cool."
+    },
+    {
+      "title": "Make the custard",
+      "text": "Heat the cream and milk to steaming. Whisk the yolks and brown sugar, whisk in two ladles of hot dairy, then return to the pan and stir over low heat to 77-80 °C."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the warm custard with the soured cream, apple syrup, brown butter, vanilla and salt until completely emulsified. Butter that is not fully blended in turns grainy when frozen."
+    },
+    {
+      "title": "Chill",
+      "text": "Cool over the iced water, then refrigerate for at least 4 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn until thick and freeze for 1-2 h. If frozen longer, leave at room temperature for 20 min before scooping."
+    }
+  ],
+  "tips": [
+    "Use a wide pan for the juice; more surface area makes it reduce faster.",
+    "A common mistake is over-reducing the syrup, which sets hard and bitter. Stop at 120 ml.",
+    "Serve with a warm crumble or spiced cake."
+  ],
+  "storage": "Freeze in a covered container for up to 1 week; it is best within a few days.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 325,
+    "protein_g": 4.6,
+    "carbs_g": 15.9,
+    "sugar_g": 15.0,
+    "free_sugar_g": 11.2,
+    "fat_g": 27.6,
+    "satfat_g": 16.2,
+    "salt_g": 0.2,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

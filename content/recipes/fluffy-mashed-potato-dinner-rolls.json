@@ -1,0 +1,149 @@
+{
+  "slug": "fluffy-mashed-potato-dinner-rolls",
+  "title": "Fluffy Mashed Potato Dinner Rolls",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "dinner-rolls",
+  "dish_title": "Dinner rolls",
+  "flavour": "Potato",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "soft-pull-apart-milk-dinner-rolls",
+  "changes_from_base": "Riced potato and its cooking water replace the milk paste; rolls baked separately on a tray.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Featherlight dinner rolls made with mashed potato and its cooking water, baked individually for a golden crust all round.",
+  "servings": 12,
+  "prep_min": 35,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film or a clean tea towel",
+    "pastry brush",
+    "wire rack",
+    "probe thermometer (optional)",
+    "saucepan",
+    "potato ricer or masher",
+    "baking tray lined with baking paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Potato",
+      "qty": 450,
+      "unit": "g",
+      "item": "floury potatoes (such as Maris Piper or russet), peeled and cut into 3 cm chunks"
+    },
+    {
+      "group": "Potato",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "in small pieces"
+    },
+    {
+      "group": "Dough",
+      "qty": 350,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 75,
+      "unit": "ml",
+      "item": "potato cooking water",
+      "note": "cooled to lukewarm"
+    },
+    {
+      "group": "Egg wash",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg",
+      "note": "beaten with 1 tsp water and a pinch of salt"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Potato",
+      "text": "Cover the potatoes with cold unsalted water, bring to the boil and simmer 8-10 min, until tender. Scoop out 75 ml of the cooking water to cool, drain, then return the potatoes to the hot pan for a minute to steam dry."
+    },
+    {
+      "title": "Mash",
+      "text": "Rice or mash until completely smooth, weigh out 225 g (any extra is cook's perks) and stir in the butter until it melts."
+    },
+    {
+      "title": "Dough",
+      "text": "Mix the flour, yeast, sugar and salt in a large bowl, add the warm potato and rub together with your fingers. Add 1 egg and the cooled potato water and knead 8-10 min by machine on low, until soft, smooth and a little sticky."
+    },
+    {
+      "title": "Rise",
+      "text": "Put the dough in a greased bowl, cover and leave 30-40 min, until nearly doubled; the potato makes it rise quickly."
+    },
+    {
+      "title": "Shape",
+      "text": "Pat the dough into a 20 cm square and cut it into 12 equal pieces. Round each into a ball and space them 5 cm apart on the tray. Cover loosely and leave 30-40 min, until puffy."
+    },
+    {
+      "title": "Bake",
+      "text": "Heat the oven to 200 °C (180 °C fan). Brush with the egg wash and bake 15-18 min, until golden brown; the centre of a roll reads 88-90 °C. Cool on a rack at least 10 min."
+    }
+  ],
+  "tips": [
+    "Steam the potatoes dry in the pan so the dough does not turn gluey.",
+    "The potato starch keeps the rolls soft for an extra day.",
+    "Leave the potato water unsalted; the salt is measured in the dough."
+  ],
+  "storage": "Keep cooled rolls in an airtight bag at room temperature for up to 2 days. Rewarm at 180 °C for 5 min; freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 170,
+    "protein_g": 5.5,
+    "carbs_g": 29.0,
+    "sugar_g": 1.4,
+    "free_sugar_g": 1.0,
+    "fat_g": 3.4,
+    "satfat_g": 1.6,
+    "salt_g": 0.52,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Round golden potato dinner rolls with shiny egg-washed tops on a baking tray.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

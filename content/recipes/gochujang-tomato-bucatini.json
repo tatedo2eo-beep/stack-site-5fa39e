@@ -1,0 +1,142 @@
+{
+  "slug": "gochujang-tomato-bucatini",
+  "title": "Garlicky Gochujang and Tomato Bucatini",
+  "category": "pasta-noodles",
+  "cuisine": "Korean-Italian",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "long-dried-spaghetti-linguine-bucatini",
+  "dish_title": "Long dried (spaghetti, linguine, bucatini)",
+  "flavour": "Gochujang & tomato",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "spaghetti-al-pomodoro",
+  "changes_from_base": "The butter-onion tomato sauce is replaced by passata simmered with a whole head of garlic and gochujang, then finished with ricotta and basil.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Bucatini in a sweet, garlicky passata sauce spiked with gochujang, topped with cool ricotta and torn basil.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large frying pan or sauté pan (30 cm)",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 10,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "gochujang (Korean chilli paste)"
+    },
+    {
+      "group": "Sauce",
+      "qty": 600,
+      "unit": "g",
+      "item": "tomato passata"
+    },
+    {
+      "group": "Pasta",
+      "qty": 400,
+      "unit": "g",
+      "item": "dried bucatini"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 24,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.8%)",
+      "note": "about 4 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "To serve",
+      "qty": 120,
+      "unit": "g",
+      "item": "whole-milk ricotta"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 8,
+      "unit": "pc",
+      "item": "basil leaves, torn"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Garlic oil",
+      "text": "Put the oil and sliced garlic into the cold pan and set it over medium-low heat. Cook 5-7 min, stirring now and then, until the slices are soft and only just turning pale gold; starting cold stops the garlic burning before it has softened."
+    },
+    {
+      "title": "Bloom the gochujang",
+      "text": "Stir in the chilli paste and cook for 1 min until it loosens and turns a shade darker, which deepens its fermented sweetness."
+    },
+    {
+      "title": "Simmer",
+      "text": "Pour in the passata, bring to a gentle bubble and cook 8-10 min until slightly thickened. Turn the heat down if it spits. Set aside off the heat."
+    },
+    {
+      "title": "Cook the pasta",
+      "text": "Bring 3 litres water to the boil with the salt and cook the bucatini until al dente. Scoop out a mug of the water, then drain."
+    },
+    {
+      "title": "Toss",
+      "text": "Warm the sauce again, add the pasta and about 100 ml of the water and toss for 1 min until the sauce clings inside and out. Taste before adding any more salt, as gochujang is already salty."
+    },
+    {
+      "title": "Serve",
+      "text": "Divide between bowls and top each with a spoonful of ricotta, black pepper and torn basil. The cool ricotta softens the chilli heat."
+    }
+  ],
+  "tips": [
+    "Slice the garlic thinly and evenly so it softens at the same rate.",
+    "Gochujang brands vary in heat and salt; start with 2 tbsp if yours is fiery.",
+    "Lower the heat if the sauce spits, since passata catches easily."
+  ],
+  "storage": "Cool and refrigerate in an airtight container within 2 hours for up to 2 days. Reheat in a pan with a splash of water until piping hot (74 °C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 604,
+    "protein_g": 18.8,
+    "carbs_g": 99.0,
+    "sugar_g": 13.0,
+    "free_sugar_g": 3.0,
+    "fat_g": 15.3,
+    "satfat_g": 3.7,
+    "salt_g": 2.26,
+    "fibre_g": 6.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Bucatini coated in a deep red gochujang tomato sauce with a spoon of white ricotta and torn basil in a shallow bowl.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

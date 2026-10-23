@@ -1,0 +1,132 @@
+{
+  "slug": "one-pan-broccoli-anchovy-spaghetti",
+  "title": "One-Pan Broccoli Spaghetti with Anchovy Butter",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "long-dried-spaghetti-linguine-bucatini",
+  "dish_title": "Long dried (spaghetti, linguine, bucatini)",
+  "flavour": "Broccoli",
+  "flavour_order": 106,
+  "access": "premium",
+  "base_recipe": "spaghetti-al-pomodoro",
+  "changes_from_base": "A one-pan version: the spaghetti cooks in a measured amount of water with broccoli and anchovy butter, so its starch thickens the sauce. No tomatoes.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Spaghetti cooked in one pan with broccoli, garlic and melted anchovy butter, so the pasta starch turns everything into a glossy sauce.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large deep frying pan with high sides (30 cm)",
+    "tongs"
+  ],
+  "ingredients": [
+    {
+      "group": "Broccoli",
+      "qty": 650,
+      "unit": "g",
+      "item": "broccoli (1 large head)"
+    },
+    {
+      "group": "Broccoli",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Broccoli",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Broccoli",
+      "qty": 4,
+      "unit": "pc",
+      "item": "anchovy fillets in oil"
+    },
+    {
+      "group": "Pasta",
+      "qty": 340,
+      "unit": "g",
+      "item": "dried spaghetti"
+    },
+    {
+      "group": "Pasta",
+      "qty": 1250,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Pasta",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Pasta",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "To serve",
+      "qty": 20,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prep the broccoli",
+      "text": "Peel the stalk, then cut the stalk and thick stems into 1 cm pieces and put them in the pan with the garlic. Chop the florets into spoon-sized pieces and keep them separate; stalks need longer to soften."
+    },
+    {
+      "title": "Anchovy butter",
+      "text": "Add the butter and anchovies to the pan and set over medium-high heat. Cook 2-3 min, mashing the anchovies into the butter, until they melt away and the stalks have softened."
+    },
+    {
+      "title": "Cook it all in one pan",
+      "text": "Add the dry spaghetti, the florets, salt, chilli and the water and bring to a boil. Cook 8-12 min, turning everything with tongs every minute or so, until the pasta is al dente and the liquid has thickened into a glossy sauce. Add a splash more water if it dries out before the pasta is done; the starch the spaghetti releases is what makes the sauce."
+    },
+    {
+      "title": "Serve",
+      "text": "Eat straight away with grated Parmesan."
+    }
+  ],
+  "tips": [
+    "Keep tossing; spaghetti cooked in little water sticks if left alone.",
+    "Do not skip the stalks, as they add sweetness and bulk.",
+    "The anchovies melt away, leaving savoury depth rather than a fishy taste."
+  ],
+  "storage": "Cool and refrigerate in an airtight container within 2 hours for up to 2 days. Reheat in a pan with a splash of water until piping hot (74 °C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "fish"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 500,
+    "protein_g": 18.7,
+    "carbs_g": 75.2,
+    "sugar_g": 4.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 14.7,
+    "satfat_g": 8.4,
+    "salt_g": 2.16,
+    "fibre_g": 6.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Spaghetti tangled with small green broccoli florets and sliced garlic in a wide pan, with grated Parmesan.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

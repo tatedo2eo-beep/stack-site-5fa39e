@@ -1,0 +1,203 @@
+{
+  "slug": "cinnamon-apple-pull-apart-muffin-rolls",
+  "title": "Cinnamon Apple Pull-Apart Rolls",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "dinner-rolls",
+  "dish_title": "Dinner rolls",
+  "flavour": "Cinnamon & apple",
+  "flavour_order": 104,
+  "access": "premium",
+  "base_recipe": "soft-pull-apart-milk-dinner-rolls",
+  "changes_from_base": "Muffin-tin rolls made of cinnamon-sugar coated dough pieces layered with diced apple, with a thin icing glaze.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Little pull-apart rolls built from cinnamon-sugar coated dough pieces and juicy diced apple, baked in muffin cases and drizzled with icing.",
+  "servings": 16,
+  "prep_min": 40,
+  "cook_min": 24,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film or a clean tea towel",
+    "pastry brush",
+    "wire rack",
+    "probe thermometer (optional)",
+    "two 12-hole muffin tins",
+    "16 paper muffin cases",
+    "bench scraper or knife",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 110,
+      "unit": "g",
+      "item": "wholemeal bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 240,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 30,
+      "unit": "g",
+      "item": "instant mashed potato flakes"
+    },
+    {
+      "group": "Dough",
+      "qty": 50,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "softened"
+    },
+    {
+      "group": "Dough",
+      "qty": 115,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "lukewarm"
+    },
+    {
+      "group": "Dough",
+      "qty": 115,
+      "unit": "ml",
+      "item": "water",
+      "note": "lukewarm, about 38 °C"
+    },
+    {
+      "group": "Cinnamon sugar",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Cinnamon sugar",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Filling",
+      "qty": 130,
+      "unit": "g",
+      "item": "eating apple, cored and cut into 1 cm dice"
+    },
+    {
+      "group": "Filling",
+      "qty": 40,
+      "unit": "g",
+      "item": "raisins (optional)"
+    },
+    {
+      "group": "Glaze",
+      "qty": 75,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Glaze",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "whole milk"
+    },
+    {
+      "group": "Glaze",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "Put everything for the dough in a large bowl and mix, then knead 8-10 min, until soft and smooth. It feels firm at first but loosens as you work it."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave 1-1 1/2 h, until clearly puffy; it need not double."
+    },
+    {
+      "title": "Cases",
+      "text": "Put 16 paper cases in the muffin tins and grease them lightly. Stir the sugar and cinnamon together in a small bowl."
+    },
+    {
+      "title": "Cut",
+      "text": "Tip the dough out, divide it into 16 pieces of about 45 g and flatten each into a disc. Cut each disc into 8 small wedges."
+    },
+    {
+      "title": "Assemble",
+      "text": "Roll the wedges in the cinnamon sugar and drop 4 into each case, scatter over some apple and raisins, then top with 4 more wedges. Sprinkle any leftover cinnamon sugar on top."
+    },
+    {
+      "title": "Prove and bake",
+      "text": "Cover and leave 45-60 min, until risen above the cases. Heat the oven to 190 °C (170 °C fan) and bake 20-24 min, until golden and the sugar is bubbling; the centre reads 88-90 °C."
+    },
+    {
+      "title": "Glaze",
+      "text": "Whisk the icing sugar, milk and salt until smooth and drizzle over the rolls once they have cooled for 10 min."
+    }
+  ],
+  "tips": [
+    "Choose a firm eating apple that keeps some bite after baking.",
+    "Use paper cases; the melted sugar sticks fiercely to bare tins.",
+    "Let them cool a little before glazing or the icing simply runs off.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day. Keep in an airtight box for up to 2 days; warm at 160 °C for 5 min. Freeze unglazed for up to 1 month.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 183,
+    "protein_g": 3.2,
+    "carbs_g": 35.9,
+    "sugar_g": 16.9,
+    "free_sugar_g": 13.9,
+    "fat_g": 3.4,
+    "satfat_g": 2.0,
+    "salt_g": 0.5,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Muffin-shaped pull-apart rolls of cinnamon-sugar dough pieces and apple, drizzled with white icing.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

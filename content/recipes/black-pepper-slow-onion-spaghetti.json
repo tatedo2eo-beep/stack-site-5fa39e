@@ -1,0 +1,139 @@
+{
+  "slug": "black-pepper-slow-onion-spaghetti",
+  "title": "Black Pepper and Slow-Cooked Onion Spaghetti",
+  "category": "pasta-noodles",
+  "cuisine": "Italian-American",
+  "chapter": "pasta",
+  "book_chapter": "pasta",
+  "dish": "long-dried-spaghetti-linguine-bucatini",
+  "dish_title": "Long dried (spaghetti, linguine, bucatini)",
+  "flavour": "Black pepper & onion",
+  "flavour_order": 111,
+  "access": "premium",
+  "base_recipe": "spaghetti-al-pomodoro",
+  "changes_from_base": "Onions slow-cooked in olive oil for an hour replace the tomato sauce, finished with tarragon and lots of black pepper.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Spaghetti wrapped in a silky sauce of onions slow-cooked in olive oil for an hour, finished with tarragon and plenty of black pepper.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 75,
+  "difficulty": "easy",
+  "equipment": [
+    "large lidded casserole or deep frying pan",
+    "large pot (at least 5 litres)",
+    "colander or tongs",
+    "heatproof mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Onions",
+      "qty": 120,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Onions",
+      "qty": 450,
+      "unit": "g",
+      "item": "white onions (about 3), sliced 5 mm thick"
+    },
+    {
+      "group": "Onions",
+      "qty": 225,
+      "unit": "g",
+      "item": "red onion (1 medium), sliced 5 mm thick"
+    },
+    {
+      "group": "Onions",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Pasta",
+      "qty": 340,
+      "unit": "g",
+      "item": "dried spaghetti or bucatini"
+    },
+    {
+      "group": "Pasta water",
+      "qty": 24,
+      "unit": "g",
+      "item": "fine salt for 3 litres of pasta water (0.8%)",
+      "note": "about 4 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "tarragon leaves"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "coarsely ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 30,
+      "unit": "g",
+      "item": "Parmesan (Parmigiano Reggiano) or a vegetarian hard cheese, finely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sweat the onions",
+      "text": "Put the oil and both onions in the casserole over medium heat. When they sizzle, cook 5-7 min until they begin to wilt but have not browned."
+    },
+    {
+      "title": "Slow-cook",
+      "text": "Stir in the salt, cover, turn the heat to low and cook about 1 h, stirring now and then, until very soft and translucent but still in strands. The lid traps the steam so they turn silky and sweet without colouring; add a spoon of water if they catch."
+    },
+    {
+      "title": "Cook the pasta",
+      "text": "Boil the spaghetti in 3 litres salted water until al dente. Save about 350 ml of the water and drain."
+    },
+    {
+      "title": "Toss",
+      "text": "Add the pasta, the tarragon and about 120 ml of the water to the onions. Turn the heat to medium-high and stir hard for 1-2 min until glossy, adding more water if needed."
+    },
+    {
+      "title": "Serve",
+      "text": "Pile into bowls and finish with Parmesan and plenty of black pepper."
+    }
+  ],
+  "tips": [
+    "Keep the heat low so the onions soften without browning.",
+    "Make a double batch of onions; they keep a week and freeze well.",
+    "Grind the pepper coarsely for little bursts of heat."
+  ],
+  "storage": "Cool and refrigerate in an airtight container within 2 hours for up to 2 days. Reheat in a pan with a splash of water until piping hot (74 °C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 660,
+    "protein_g": 15.9,
+    "carbs_g": 80.4,
+    "sugar_g": 9.5,
+    "free_sugar_g": 0.0,
+    "fat_g": 31.0,
+    "satfat_g": 5.4,
+    "salt_g": 2.15,
+    "fibre_g": 5.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Spaghetti tangled with soft, translucent onion strands, flecked with coarse black pepper and tarragon leaves.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

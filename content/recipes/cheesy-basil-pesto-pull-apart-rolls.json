@@ -1,0 +1,178 @@
+{
+  "slug": "cheesy-basil-pesto-pull-apart-rolls",
+  "title": "Cheesy Basil Pesto Pull-Apart Rolls",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "breads-viennoiserie",
+  "book_chapter": "breads-viennoiserie",
+  "dish": "dinner-rolls",
+  "dish_title": "Dinner rolls",
+  "flavour": "Pesto",
+  "flavour_order": 109,
+  "access": "premium",
+  "base_recipe": "soft-pull-apart-milk-dinner-rolls",
+  "changes_from_base": "Home-made basil pesto in the dough and coating each ball, finished with mozzarella and hard cheese.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Green-flecked pull-apart rolls rolled in home-made pesto and baked under bubbling mozzarella.",
+  "servings": 12,
+  "prep_min": 35,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl or stand mixer with dough hook",
+    "cling film or a clean tea towel",
+    "pastry brush",
+    "wire rack",
+    "probe thermometer (optional)",
+    "food processor or pestle and mortar",
+    "23 x 33 cm baking dish or lined baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Pesto",
+      "qty": 30,
+      "unit": "g",
+      "item": "fresh basil leaves"
+    },
+    {
+      "group": "Pesto",
+      "qty": 20,
+      "unit": "g",
+      "item": "pine nuts, lightly toasted"
+    },
+    {
+      "group": "Pesto",
+      "qty": 20,
+      "unit": "g",
+      "item": "Parmesan-style hard cheese, finely grated",
+      "note": "made with microbial rennet (vegetarian)"
+    },
+    {
+      "group": "Pesto",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic clove"
+    },
+    {
+      "group": "Pesto",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 400,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 15,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "g",
+      "item": "fine sea salt",
+      "note": "about 0.83 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 25,
+      "unit": "g",
+      "item": "Parmesan-style hard cheese, finely grated",
+      "note": "made with microbial rennet (vegetarian)"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 270,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "warm, about 40 °C"
+    },
+    {
+      "group": "Topping",
+      "qty": 110,
+      "unit": "g",
+      "item": "mozzarella, coarsely grated"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "Parmesan-style hard cheese, finely grated",
+      "note": "made with microbial rennet (vegetarian)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pesto",
+      "text": "Blitz the basil, pine nuts, 20 g cheese and garlic to a rough paste, then work in the oil to make a loose sauce. Set aside 2 tbsp for the dough."
+    },
+    {
+      "title": "Dough",
+      "text": "Mix the flour, yeast, sugar, salt and 25 g cheese, then add the 2 tbsp oil, the reserved pesto and the warm milk and stir to a shaggy dough. Rest 5 min, then knead about 6 min, until smooth and bouncy."
+    },
+    {
+      "title": "Rise",
+      "text": "Cover and leave 45-60 min, until doubled."
+    },
+    {
+      "title": "Shape",
+      "text": "Divide into 12 pieces of about 65 g and round each tightly. Roll each ball in the remaining pesto and arrange them in the greased dish, just touching."
+    },
+    {
+      "title": "Prove",
+      "text": "Cover and leave 30-45 min, until puffy. Heat the oven to 190 °C (170 °C fan)."
+    },
+    {
+      "title": "Bake",
+      "text": "Scatter over the mozzarella and the last 25 g cheese and bake 20-25 min, until the cheese is bubbling and browned; the centre roll reads 88-90 °C. Cool 10 min before pulling apart."
+    }
+  ],
+  "tips": [
+    "Toast the pine nuts gently; they burn in seconds.",
+    "Make the pesto just before using so it stays green.",
+    "Use a vegetarian hard cheese if you need the rolls to be vegetarian."
+  ],
+  "storage": "Keep in the fridge for up to 2 days and reheat at 180 °C for 6-8 min; freeze for up to 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 265,
+    "protein_g": 9.3,
+    "carbs_g": 27.6,
+    "sugar_g": 2.7,
+    "free_sugar_g": 1.2,
+    "fat_g": 13.0,
+    "satfat_g": 3.9,
+    "salt_g": 0.83,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pull-apart rolls streaked with green pesto under a layer of browned bubbling mozzarella.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}
