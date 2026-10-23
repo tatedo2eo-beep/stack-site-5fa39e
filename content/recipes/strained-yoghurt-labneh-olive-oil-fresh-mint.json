@@ -1,0 +1,117 @@
+{
+  "slug": "strained-yoghurt-labneh-olive-oil-fresh-mint",
+  "title": "Strained Yoghurt Labneh with Olive Oil and Fresh Mint",
+  "category": "snacks-sides",
+  "cuisine": "Levantine",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "labneh",
+  "dish_title": "Labneh",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Full-fat yoghurt is salted and strained through muslin in the fridge for a day until thick and spreadable, then swirled into a bowl and finished with olive oil, dried mint and fresh mint leaves.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "sieve",
+    "2 layers of muslin or a clean thin tea towel",
+    "cling film",
+    "shallow serving bowl",
+    "spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Labneh",
+      "qty": 1000,
+      "unit": "g",
+      "item": "full-fat plain Greek-style yoghurt (no gelling agents or thickeners)"
+    },
+    {
+      "group": "Labneh",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 6,
+      "unit": "pc",
+      "item": "small mint leaves"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried mint"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Season",
+      "text": "Stir the salt into the yoghurt until dissolved."
+    },
+    {
+      "title": "Line the sieve",
+      "text": "Set a sieve over a deep bowl and line it with damp muslin."
+    },
+    {
+      "title": "Strain",
+      "text": "Spoon in the yoghurt, cover and strain in the fridge for 24 hours."
+    },
+    {
+      "title": "Check the texture",
+      "text": "It should be as thick as soft cream cheese; strain longer for firmer labneh."
+    },
+    {
+      "title": "Plate",
+      "text": "Spoon into a shallow bowl and make a swirl with a well in the middle."
+    },
+    {
+      "title": "Finish",
+      "text": "Fill the well with olive oil, add both mints and serve chilled."
+    }
+  ],
+  "tips": [
+    "Use yoghurt without gelling agents or thickeners, or it will not drain properly.",
+    "Leave plenty of space under the sieve so the cloth never sits in the whey.",
+    "Roll very firm labneh into balls and keep them under olive oil in the fridge."
+  ],
+  "storage": "Keep covered in the fridge for up to 1 week. Firm labneh balls kept under olive oil last up to 2 weeks in the fridge. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 166,
+    "protein_g": 11.3,
+    "carbs_g": 5.0,
+    "sugar_g": 5.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 11.3,
+    "satfat_g": 3.7,
+    "salt_g": 0.84,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "labneh-basic.jpg",
+  "image_alt": "A bowl of thick white labneh swirled with a pool of olive oil and topped with fresh mint leaves.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

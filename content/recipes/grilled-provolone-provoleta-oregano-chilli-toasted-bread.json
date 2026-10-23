@@ -1,0 +1,121 @@
+{
+  "slug": "grilled-provolone-provoleta-oregano-chilli-toasted-bread",
+  "title": "Grilled Provolone Provoleta with Oregano, Chilli and Toasted Bread",
+  "category": "snacks-sides",
+  "cuisine": "Argentinian",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "provoleta",
+  "dish_title": "Provoleta",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A cold slab of provolone is seared in a very hot cast-iron pan until a brown crust forms, finished under the grill until bubbling, then scattered with oregano and chilli flakes and served in the pan with olive-oil toasted baguette.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm cast-iron frying pan (or a grill with a hot side)",
+    "pastry brush",
+    "thin metal spatula",
+    "oven grill (broiler)",
+    "baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Provoleta",
+      "qty": 250,
+      "unit": "g",
+      "item": "provolone in one round slab, about 2 cm thick",
+      "note": "microbial rennet"
+    },
+    {
+      "group": "Provoleta",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried oregano"
+    },
+    {
+      "group": "Provoleta",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Provoleta",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Bread",
+      "qty": 200,
+      "unit": "g",
+      "item": "baguette, cut into 1 cm slices on the diagonal"
+    },
+    {
+      "group": "Bread",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil, for brushing"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Keep it cold",
+      "text": "Keep the provolone in the fridge until the moment it goes in the pan."
+    },
+    {
+      "title": "Toast the bread",
+      "text": "Brush the baguette slices with oil and toast them under the grill."
+    },
+    {
+      "title": "Heat the pan",
+      "text": "Heat the cast-iron pan until very hot and brush it with oil."
+    },
+    {
+      "title": "Sear",
+      "text": "Cook the cheese undisturbed until browned underneath, then add half the herbs."
+    },
+    {
+      "title": "Finish under the grill",
+      "text": "Grill the top until bubbling and the centre is soft."
+    },
+    {
+      "title": "Serve",
+      "text": "Add the rest of the oregano and chilli and serve at once with the bread."
+    }
+  ],
+  "tips": [
+    "A thick slab of firm provolone works best; thin or soft cheese melts into a puddle.",
+    "Do not move the cheese while it sears, or the crust will tear.",
+    "Serve it in the pan on a board so it stays molten at the table."
+  ],
+  "storage": "Provoleta is best eaten immediately. Leftovers can be chilled for up to 2 days and melted onto toast, though they will not ooze the same way again. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 446,
+    "protein_g": 21.4,
+    "carbs_g": 27.6,
+    "sugar_g": 2.7,
+    "free_sugar_g": 2.3,
+    "fat_g": 28.0,
+    "satfat_g": 12.3,
+    "salt_g": 1.89,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "provoleta-basic.jpg",
+  "image_alt": "A small cast-iron pan of golden, bubbling provolone flecked with oregano and chilli, with slices of toasted baguette alongside.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

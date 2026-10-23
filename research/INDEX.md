@@ -224,6 +224,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | garlic-coriander-butter-naan | Naan | Garlic | 3 | 5 |
 | garlic-herb-olive-oil-crostini | Crostini | Classic | 2 | 4 |
 | garlic-parmesan-chicken-wings | Chicken wings | Garlic-parmesan | 3 | 5 |
+| garlic-potato-almond-skordalia-crisp-fried-cod | Skordalia | Classic | 3 | 5 |
 | garlic-rosemary-roast-beef | Roast beef | Garlic-rosemary | 3 | 5 |
 | gateau-basque | Basque cake | Classic | 2 | 4 |
 | general-tsos-chicken | General Tso's chicken | Classic | 2 | 4 |
@@ -249,6 +250,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | griddled-english-muffins-nooks-crannies | English muffins | Classic | 2 | 4 |
 | grilled-beef-kebabs-peppers | Kebabs/skewers | Classic | 3 | 5 |
 | grilled-porterhouse-steak-rosemary-lemon | Bistecca alla fiorentina | Classic | 2 | 4 |
+| grilled-provolone-provoleta-oregano-chilli-toasted-bread | Provoleta | Classic | 2 | 4 |
 | groundnut-soup-sweet-potato-kale-peanut | Groundnut soup | Classic | 2 | 4 |
 | guacamole | Guacamole | Classic | 2 | 3 |
 | hainanese-chicken-rice | Hainanese chicken rice | Classic | 3 | 5 |
@@ -278,6 +280,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | italian-bean-vegetable-soup-small-pasta-basil | Minestrone | Classic | 3 | 5 |
 | italian-style-pasta-salad-mozzarella-olives | Pasta salad | Classic | 3 | 5 |
 | jamaican-braised-oxtail-butter-beans | Oxtail stew | Classic | 3 | 5 |
+| jamaican-curried-beef-patties-flaky-turmeric-pastry | Jamaican patty | Classic | 3 | 5 |
 | jamaican-curry-goat-rice-peas | Curry goat | Classic | 2 | 4 |
 | japanese-cotton-cheesecake | Japanese soufflé/cotton | Classic | 3 | 5 |
 | japanese-rice-triangles-flaked-salmon-nori | Onigiri | Classic | 3 | 5 |
@@ -463,6 +466,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | seared-scallops-garlic-thyme-butter-lemon | Seared scallops | Classic | 4 | 6 |
 | seasoned-short-grain-rice-for-sushi | Sushi rice | Classic | 3 | 5 |
 | semolina-sesame-grissini | Grissini | Sesame | 2 | 4 |
+| seven-layer-bean-dip-guacamole-cheddar-pico-de-gallo | Seven-layer dip | Classic | 2 | 4 |
 | shaken-iced-coffee-frappe-milk | Frappé coffee | Classic | 2 | 4 |
 | shakshuka | Shakshuka | Classic | 2 | 4 |
 | sicilian-style-thick-pan-pizza-onion-tomato-crisp-crumbs | Sicilian/sfincione | Classic | 2 | 4 |
@@ -525,6 +529,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | steamed-whole-sea-bass-ginger-spring-onions-sizzling-oil | Cantonese steamed whole fish | Classic | 3 | 5 |
 | stovetop-buttered-popcorn | Popcorn | Classic | 3 | 5 |
 | stovetop-mac-and-cheese | Mac and cheese | Stovetop | 3 | 5 |
+| strained-yoghurt-labneh-olive-oil-fresh-mint | Labneh | Classic | 2 | 4 |
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
 | stuffed-corn-griddle-cakes-melted-cheese-cabbage-relish | Pupusa | Cheese | 4 | 6 |
 | stuffed-corn-griddle-cakes-refried-beans-cheese-cabbage-relish | Pupusa | Bean-cheese | 3 | 5 |
