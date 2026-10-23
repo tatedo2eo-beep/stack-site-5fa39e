@@ -1,0 +1,205 @@
+{
+  "slug": "korean-bbq-kimchi-cheeseburgers",
+  "title": "Sweet Korean BBQ Kimchi Cheeseburgers",
+  "category": "burgers-sandwiches",
+  "cuisine": "Korean-American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "cheeseburger",
+  "dish_title": "Cheeseburger",
+  "flavour": "BBQ",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "classic-cheeseburger",
+  "changes_from_base": "Grilled patties are brushed with a home-made sweet soy, sesame, garlic, ginger and pear glaze, then topped with American cheese, chopped kimchi, quick-pickled cucumber and carrot, and spring onion.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Charred beef glazed with a sweet-savoury pear and soy sauce glistens under melted cheese, brought alive by tangy kimchi and crisp pickles.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "barbecue (or griddle pan)",
+    "medium bowl",
+    "small saucepan",
+    "pastry brush",
+    "fish slice",
+    "instant-read thermometer",
+    "foil"
+  ],
+  "ingredients": [
+    {
+      "group": "Quick pickle",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small cucumber, deseeded and cut into thin matchsticks"
+    },
+    {
+      "group": "Quick pickle",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small carrot, peeled and cut into thin matchsticks"
+    },
+    {
+      "group": "Quick pickle",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Quick pickle",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Quick pickle",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "rice vinegar"
+    },
+    {
+      "group": "Bulgogi-style glaze",
+      "qty": 60,
+      "unit": "ml",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Bulgogi-style glaze",
+      "qty": 24,
+      "unit": "g",
+      "item": "light brown sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Bulgogi-style glaze",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Bulgogi-style glaze",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Bulgogi-style glaze",
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Bulgogi-style glaze",
+      "qty": 60,
+      "unit": "g",
+      "item": "ripe pear, finely grated"
+    },
+    {
+      "group": "Patties",
+      "qty": 510,
+      "unit": "g",
+      "item": "beef chuck mince (about 20% fat)"
+    },
+    {
+      "group": "Patties",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Patties",
+      "qty": 4,
+      "unit": "pc",
+      "item": "slices American-style processed cheese"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "burger buns, split"
+    },
+    {
+      "group": "To serve",
+      "qty": 75,
+      "unit": "g",
+      "item": "cabbage kimchi, chopped (check the label: no added alcohol)"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pickle",
+      "text": "Toss 1 small cucumber (deseeded and cut into thin matchsticks), 1 small carrot (peeled and cut into thin matchsticks), 1 tsp fine salt, 1 tbsp caster sugar and 2 tbsp rice vinegar in a medium bowl and set aside."
+    },
+    {
+      "title": "Glaze",
+      "text": "Simmer 60 ml soy sauce, 2 tbsp light brown sugar, 1 tbsp toasted sesame oil, 2 finely grated garlic cloves, 10 g finely grated fresh ginger and 60 g finely grated ripe pear in a small pan for 3-4 min until slightly syrupy; cool."
+    },
+    {
+      "title": "Shape",
+      "text": "Divide 510 g beef chuck mince into 4 and shape into patties about 1 cm wider than the buns, then season with ½ tsp fine salt and ¼ tsp ground black pepper."
+    },
+    {
+      "title": "Grill",
+      "text": "Heat a barbecue with one hot side and one cooler side (or a griddle pan over high), grill patties over the hot side about 2 min until charred, flip, brush with glaze and cook 2 min more; flip again, move to the cooler side and keep brushing until 71 °C in the centre (about 4-6 min), then put a cheese slice on each."
+    },
+    {
+      "title": "Toast",
+      "text": "Toast 4 burger buns cut side up on the hot side for about 30 s."
+    },
+    {
+      "title": "Build",
+      "text": "Place patties on bun bases, then 75 g chopped cabbage kimchi (checked for no added alcohol), 2 thinly sliced spring onions and drained pickles; drizzle with a little more glaze, close and serve."
+    }
+  ],
+  "tips": [
+    "Make the pickle at least 30 minutes ahead for softened vegetables and flavour.",
+    "Brush the warm glaze onto hot patties for a glossy coating as it thickens.",
+    "Most shop kimchi contains fish sauce and salted shrimp; check the label for these, and for added alcohol"
+  ],
+  "storage": "Cooked patties can be refrigerated for 2 days; the glaze and pickle keep separately for 3-4 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "sesame",
+    "soya",
+    "fish",
+    "crustaceans",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 673,
+    "protein_g": 33.8,
+    "carbs_g": 47.8,
+    "sugar_g": 16.6,
+    "free_sugar_g": 13.4,
+    "fat_g": 38.1,
+    "satfat_g": 14.5,
+    "salt_g": 6.47,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Korean-style beef patties with melted cheese and glossy glaze topped with kimchi and pickled vegetables in burger buns.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

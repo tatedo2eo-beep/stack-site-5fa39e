@@ -96,6 +96,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | beef-rice-stuffed-peppers-tomato-melted-cheese | Stuffed peppers | Classic | 2 | 4 |
 | beef-stroganoff-mushrooms-noodles | Beef stroganoff | Classic | 2 | 4 |
 | beetroot-chia-pancakes | Pancakes (American) | Beet | 1 | 3 |
+| beetroot-rice-goats-cheese-burgers | Cheeseburger | Beet & goat cheese | 1 | 3 |
 | bengali-spiced-tomato-chutney | Chutney | Tomato | 2 | 4 |
 | bhatura-puffed-fried-bread | Bhatura | Classic | 1 | 3 |
 | biang-biang-noodles | Biang biang/hand-pulled lamian | Classic | 2 | 4 |
@@ -565,6 +566,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fougasse-provencal-leaf-bread | Fougasse | Classic | 1 | 3 |
 | free-form-apple-tart-brown-sugar | Fruit tart (crème pâtissière) | Apple | 1 | 3 |
 | french-dip-roast-beef-sandwiches-thyme-jus | French dip | Classic | 3 | 5 |
+| french-onion-gruyere-burgers | Cheeseburger | Onion | 1 | 3 |
 | french-press-coffee-four-minute-steep | French press | Classic | 1 | 3 |
 | fresh-egg-tagliatelle | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Classic | 3 | 5 |
 | fresh-fettuccine-raw-tomato-herb-sauce | Ribbons/fresh egg (tagliatelle, fettuccine, pappardelle) | Tomato | 1 | 3 |
@@ -793,6 +795,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | kinilaw-filipino-tuna-vinegar-ginger-cucumber | Kinilaw | Classic | 1 | 3 |
 | kitchen-sink-cookies | Kitchen-sink cookie | Classic | 3 | 5 |
 | knafeh-orange-kataifi-melted-cheese | Knafeh | Classic | 2 | 4 |
+| korean-bbq-kimchi-cheeseburgers | Cheeseburger | BBQ | 1 | 3 |
 | korean-rice-bowl-beef-vegetables-crisp-rice-chilli-sauce | Bibimbap (dolsot) | Classic | 2 | 4 |
 | korean-seaweed-rice-rolls-beef-egg-vegetables | Kimbap | Classic | 2 | 4 |
 | korean-style-marinated-beef-bulgogi | Bulgogi/galbi | Classic | 3 | 5 |
@@ -920,6 +923,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | musakhan | Musakhan | Classic | 3 | 6 |
 | mushroom-lasagne | Sheets/baked (lasagne) | Mushroom | 3 | 5 |
 | mushroom-poblano-quesadillas-oregano-queso-fresco | Quesadilla | Mushroom | 3 | 5 |
+| mushroom-smash-burgers | Smash burger | Mushroom | 1 | 3 |
 | mushroom-thyme-gravy | Gravy | Mushroom | 2 | 4 |
 | mutabbal-smoky-aubergine-tahini-pomegranate | Mutabbal | Classic | 1 | 3 |
 | naengmyeon | Naengmyeon | Classic | 2 | 4 |
@@ -1108,6 +1112,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pommes-dauphine-potato-puffs | Pommes dauphine | Classic | 2 | 4 |
 | poppy-lemon-sunflower-seed-pancakes | Pancakes (American) | Poppy seed | 1 | 3 |
 | poppy-seed-coleslaw-lemon-honey | Coleslaw | Poppy seed | 1 | 3 |
+| potato-broccoli-walnut-burgers | Cheeseburger | Potato & broccoli | 1 | 3 |
 | potato-cheese-dumplings-buttery-golden-onions | Pierogi | Potato-cheese (ruskie) | 4 | 6 |
 | potato-dough-parmesan-focaccia | Focaccia | Parmesan | 1 | 3 |
 | potato-gnocchi | Gnocchi | Classic | 4 | 6 |
@@ -1150,6 +1155,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | qatayef-asafiri-cream-pistachio | Qatayef | Classic | 2 | 4 |
 | qatayef-fried-cheese-half-moons | Qatayef | Cheese | 1 | 3 |
 | qatayef-fried-walnut-cinnamon-half-moons | Qatayef | Walnut | 1 | 3 |
+| quadruple-chilli-cheeseburgers | Cheeseburger | Chili | 1 | 3 |
 | quail-egg-canapes-smoked-salmon-avocado-cucumber | Canapés | Classic | 1 | 3 |
 | quick-frozen-watermelon-granita | Granita | Watermelon | 1 | 3 |
 | quick-tomato-paste-ketchup | Ketchup | Classic | 1 | 3 |
@@ -1266,6 +1272,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | shredded-beef-chimichangas-fried | Chimichanga | Classic | 1 | 3 |
 | shrimp-linguine-lime-jalapeno | Long dried (spaghetti, linguine, bucatini) | Shrimp | 1 | 3 |
 | sichuan-home-style-tofu-bamboo-peppers | Home-style tofu | Classic | 1 | 3 |
+| sichuan-peppercorn-beef-burgers | Cheeseburger | Beef | 1 | 3 |
 | sicilian-lemon-granita-fork-scraped | Granita | Classic | 1 | 3 |
 | sicilian-style-thick-pan-pizza-onion-tomato-crisp-crumbs | Sicilian/sfincione | Classic | 2 | 4 |
 | sigeumchi-namul-sesame-spinach | Namul | Spinach (sigeumchi) | 2 | 4 |
@@ -1363,6 +1370,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spicy-barbecue-coleslaw-horseradish | Coleslaw | BBQ | 1 | 3 |
 | spicy-chicken-burger | Chicken burger | Spicy (cayenne/hot sauce) | 2 | 8 |
 | spicy-ful-medames-chilli-oil | Ful medames | Chili oil | 1 | 3 |
+| spicy-jalapeno-smashed-cheeseburgers | Cheeseburger | Jalapeño | 1 | 3 |
 | spicy-peanut-red-cabbage-slaw | Coleslaw | Peanut | 1 | 3 |
 | spinach-fatayer-sumac-lemon | Fatayer | Classic | 1 | 3 |
 | spinach-feta-spiral-borek | Börek | Spinach (ıspanaklı) | 1 | 3 |
@@ -1448,8 +1456,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tart-cranberry-custard-ice-cream | Custard-base (French) | Cranberry | 1 | 3 |
 | teh-tarik-pulled-malaysian-milk-tea | Teh tarik | Classic | 1 | 3 |
 | tender-cream-scones-jam-clotted-cream | ? | ? | MISSING | |
+| teriyaki-scallion-burgers | Cheeseburger | Teriyaki | 1 | 3 |
 | tex-mex-chile-con-queso-dip | Queso | Classic | 2 | 4 |
 | texas-chocolate-sheet-cake-pecan-icing | Sheet cake | Chocolate (Texas-style) | 3 | 5 |
+| thai-carrot-peanut-burgers | Cheeseburger | Carrot | 1 | 3 |
 | thai-coconut-beef-curry-potatoes-peanuts-tamarind | Massaman | Beef | 2 | 4 |
 | thai-green-coconut-curry-chicken-aubergine-basil | Green curry | Chicken | 3 | 5 |
 | thai-green-coconut-curry-cod-aubergine-red-chilli | Green curry | Classic | 3 | 5 |

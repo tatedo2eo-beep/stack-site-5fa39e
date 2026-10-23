@@ -1,0 +1,178 @@
+{
+  "slug": "teriyaki-scallion-burgers",
+  "title": "Teriyaki Spring Onion Burgers",
+  "category": "burgers-sandwiches",
+  "cuisine": "Japanese-American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "cheeseburger",
+  "dish_title": "Cheeseburger",
+  "flavour": "Teriyaki",
+  "flavour_order": 5,
+  "access": "premium",
+  "base_recipe": "classic-cheeseburger",
+  "changes_from_base": "Togarashi-seasoned patties are glazed with my own home-made soy, honey and ginger teriyaki, rolled in sliced spring onion and served with mayonnaise and shredded cabbage instead of cheese.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Smoky beef coated in glossy teriyaki and sprinkled with Japanese seven-spice comes topped with creamy mayo, shredded cabbage and spring onion.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "barbecue (or griddle pan)",
+    "small saucepan",
+    "pastry brush",
+    "large plate or board",
+    "fish slice",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Teriyaki glaze",
+      "qty": 80,
+      "unit": "ml",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Teriyaki glaze",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Teriyaki glaze",
+      "qty": 24,
+      "unit": "g",
+      "item": "light brown sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Teriyaki glaze",
+      "qty": 21,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Teriyaki glaze",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated fresh ginger"
+    },
+    {
+      "group": "Teriyaki glaze",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Teriyaki glaze",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cornflour mixed with 1 tbsp cold water"
+    },
+    {
+      "group": "Patties",
+      "qty": 680,
+      "unit": "g",
+      "item": "beef chuck mince (about 20% fat)"
+    },
+    {
+      "group": "Patties",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Patties",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "shichimi togarashi (Japanese seven-spice)"
+    },
+    {
+      "group": "Patties",
+      "qty": 6,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "soft burger buns, split"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "mayonnaise (Japanese-style if you have it)"
+    },
+    {
+      "group": "To serve",
+      "qty": 140,
+      "unit": "g",
+      "item": "green cabbage, very finely shredded"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Glaze",
+      "text": "Simmer 80 ml soy sauce, 60 ml water, 2 tbsp light brown sugar, 1 tbsp honey, 1 tsp finely grated fresh ginger and 1 finely grated garlic clove in a small pan for 2 min, whisk in a slurry of 1 tsp cornflour mixed with 1 tbsp cold water and bubble for 1 min until glossy; cool."
+    },
+    {
+      "title": "Shape",
+      "text": "Shape 680 g beef chuck mince into 4 patties about 1 cm wider than the buns with a slight dip in the centre, season with 1 tsp fine salt and 2 tsp shichimi togarashi and chill until needed."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat a barbecue with one hot zone (or a griddle pan over high), cook the patties over the hot side turning now and then for 5-7 min until well charred; then brush both sides with teriyaki and keep turning and brushing until 71 °C in the centre."
+    },
+    {
+      "title": "Finish",
+      "text": "Lift the patties onto 140 g green cabbage very finely shredded and spread over a large plate, brush with more sauce and turn to coat in cabbage."
+    },
+    {
+      "title": "Toast",
+      "text": "Toast 4 soft burger buns."
+    },
+    {
+      "title": "Assemble",
+      "text": "Spread 4 tbsp mayonnaise on both halves of the buns, put half the cabbage on the bases, add patties, brush with a little more sauce, top with the rest of the cabbage, close and serve."
+    }
+  ],
+  "tips": [
+    "Brief toasting of shichimi togarashi in a dry pan enhances its fragrance.",
+    "Keep spring onions separate and coat patties just before serving to stay crisp.",
+    "Make the glaze up to 3 days ahead; reheat gently before brushing on."
+  ],
+  "storage": "Cooked patties keep for 2 days refrigerated; the teriyaki glaze keeps for up to 4 days in a separate container. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "mustard",
+    "sesame",
+    "soya"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 770,
+    "protein_g": 38.0,
+    "carbs_g": 47.1,
+    "sugar_g": 16.7,
+    "free_sugar_g": 14.8,
+    "fat_g": 47.2,
+    "satfat_g": 15.1,
+    "salt_g": 5.74,
+    "fibre_g": 3.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Charred beef patties glazed with teriyaki, topped with creamy mayo and shredded green cabbage in soft burger buns.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

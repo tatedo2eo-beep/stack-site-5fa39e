@@ -1,0 +1,173 @@
+{
+  "slug": "french-onion-gruyere-burgers",
+  "title": "French Onion Burgers with Gruyère",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "cheeseburger",
+  "dish_title": "Cheeseburger",
+  "flavour": "Onion",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "classic-cheeseburger",
+  "changes_from_base": "Thyme-seasoned thick patties are seared then finished in a low oven, and the buns are spread with a slow-cooked balsamic onion jam and grilled under a blanket of Gruyère; frisée replaces lettuce. My own onion jam replaces the referenced one.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Deeply caramelised onions give these beef patties a rich, sweet-savoury depth, crowned with bubbling melted Gruyère and peppery frisée.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 60,
+  "difficulty": "medium",
+  "equipment": [
+    "large frying pan (30 cm)",
+    "2 rimmed baking trays",
+    "fish slice",
+    "instant-read thermometer",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Onion jam",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large onions, thinly sliced",
+      "note": "about 500 g"
+    },
+    {
+      "group": "Onion jam",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Onion jam",
+      "qty": 12,
+      "unit": "g",
+      "item": "light brown sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Onion jam",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "balsamic vinegar"
+    },
+    {
+      "group": "Onion jam",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Patties",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "finely chopped fresh thyme"
+    },
+    {
+      "group": "Patties",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Patties",
+      "qty": 800,
+      "unit": "g",
+      "item": "beef mince (about 15% fat)"
+    },
+    {
+      "group": "Patties",
+      "qty": 5,
+      "unit": "ml",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "burger buns, split"
+    },
+    {
+      "group": "To serve",
+      "qty": 340,
+      "unit": "g",
+      "item": "Gruyère, grated"
+    },
+    {
+      "group": "To serve",
+      "qty": 85,
+      "unit": "g",
+      "item": "frisée (curly endive) leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Jam",
+      "text": "Melt 30 g butter in a large frying pan over medium-low, add 2 large thinly sliced onions and ¼ tsp fine salt, cover for 10 min, then uncover and cook 35-40 min, stirring often, until deep golden; stir in 1 tbsp light brown sugar and 1 tbsp balsamic vinegar and cook 2 min until sticky."
+    },
+    {
+      "title": "Mix",
+      "text": "Combine 1½ tsp finely chopped fresh thyme, ½ tsp fine salt and ¼ tsp ground black pepper, then loosely shape 800 g beef mince into 4 patties 2 cm thick with a 1 cm dip in the centre of each; season with the thyme mix."
+    },
+    {
+      "title": "Brown",
+      "text": "Heat 5 ml oil in the pan over high until just smoking, add patties dip side up and cook 2-4 min until well browned, then turn and brown the other side 2-4 min."
+    },
+    {
+      "title": "Bake",
+      "text": "Move patties to a baking tray dip side down and bake at 150 °C (130 °C fan) for 6-10 min until 71 °C in the centre; rest 5 min."
+    },
+    {
+      "title": "Toast",
+      "text": "Heat the grill to high with a shelf 15 cm below, grill the 4 buns cut side up for about 1 min."
+    },
+    {
+      "title": "Top",
+      "text": "Spread onion jam on the bun tops, cover with grated Gruyère and grill about 2 min until bubbling."
+    },
+    {
+      "title": "Serve",
+      "text": "Place the patties in the buns with frisée leaves."
+    }
+  ],
+  "tips": [
+    "Stir frequently during cooking to prevent burning and ensure even caramelisation.",
+    "The dip in the centre helps patties cook through evenly and stay juicy.",
+    "Always check the centre reaches 71 °C with a thermometer inserted through the side."
+  ],
+  "storage": "Cooked patties keep for 2 days refrigerated; the onion jam can be made up to 3 days ahead. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 1160,
+    "protein_g": 67.3,
+    "carbs_g": 46.7,
+    "sugar_g": 13.5,
+    "free_sugar_g": 7.3,
+    "fat_g": 77.3,
+    "satfat_g": 35.8,
+    "salt_g": 3.71,
+    "fibre_g": 4.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Four beef burger patties topped with melted Gruyère and caramelised onions served in toasted buns with peppery frisée greens.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

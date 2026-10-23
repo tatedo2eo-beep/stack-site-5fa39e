@@ -1,0 +1,174 @@
+{
+  "slug": "potato-broccoli-walnut-burgers",
+  "title": "Spiced Potato and Broccoli Burgers with a Walnut Crust",
+  "category": "burgers-sandwiches",
+  "cuisine": "Indian-American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "cheeseburger",
+  "dish_title": "Cheeseburger",
+  "flavour": "Potato & broccoli",
+  "flavour_order": 9,
+  "access": "premium",
+  "base_recipe": "classic-cheeseburger",
+  "changes_from_base": "Meat-free and bun-free: mashed red potatoes with blanched broccoli, toasted cumin, nigella, garam masala and ricotta, rolled in ground walnuts, chilled and pan-fried; served with yoghurt or chutney.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Substantial mashed potato and broccoli studded with toasted walnuts and warming spices creates hearty vegetarian patties with Indian character.",
+  "servings": 5,
+  "prep_min": 30,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "medium pan with a sieve",
+    "steamer",
+    "large bowl",
+    "food processor",
+    "wide bowl",
+    "large heavy non-stick frying pan (30 cm)",
+    "wire rack over a baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Patties",
+      "qty": 185,
+      "unit": "g",
+      "item": "broccoli florets, very finely chopped"
+    },
+    {
+      "group": "Patties",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Patties",
+      "qty": 680,
+      "unit": "g",
+      "item": "red potatoes, scrubbed and quartered"
+    },
+    {
+      "group": "Patties",
+      "qty": 10,
+      "unit": "g",
+      "item": "coriander, chopped"
+    },
+    {
+      "group": "Patties",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cumin seeds, toasted and lightly crushed"
+    },
+    {
+      "group": "Patties",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Patties",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "nigella seeds"
+    },
+    {
+      "group": "Patties",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "garam masala"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Patties",
+      "qty": 60,
+      "unit": "g",
+      "item": "ricotta"
+    },
+    {
+      "group": "Coating",
+      "qty": 85,
+      "unit": "g",
+      "item": "walnuts, pulsed to coarse crumbs"
+    },
+    {
+      "group": "To cook",
+      "qty": 60,
+      "unit": "ml",
+      "item": "grapeseed or rapeseed oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 240,
+      "unit": "g",
+      "item": "plain yoghurt, raita or chutney, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Broccoli",
+      "text": "Bring a pan of well-salted water to the boil, put 185 g finely chopped broccoli florets in a sieve and dip into the water for 1 min, rinse under cold water, shake and drain on kitchen paper."
+    },
+    {
+      "title": "Potatoes",
+      "text": "Steam 680 g quartered red potatoes over 2-3 cm of boiling water for about 15 min until tender and mash roughly with a fork in a large bowl (skins and all)."
+    },
+    {
+      "title": "Mix",
+      "text": "Stir in 10 g chopped coriander, 2 tsp toasted and lightly crushed cumin seeds, 2 tsp lemon juice, 1 tsp nigella seeds, 1 tsp garam masala, ½ tsp ground black pepper, the drained broccoli and 60 g ricotta; season well and taste."
+    },
+    {
+      "title": "Coat",
+      "text": "Spread 85 g walnuts pulsed to coarse crumbs in a wide bowl; scoop about 80 g of the mix at a time, roll into a ball, roll in walnuts and flatten gently into a patty (wet hands help), and chill on a plate for at least 1 hour."
+    },
+    {
+      "title": "Fry",
+      "text": "Set a wire rack over a baking tray, heat 2 tbsp of 60 ml grapeseed or rapeseed oil in a large heavy non-stick frying pan over high, swirl, turn down to medium and fry 4-5 patties (do not crowd) for about 4 min a side until well browned; move to the rack."
+    },
+    {
+      "title": "Finish",
+      "text": "Add the rest of the oil and cook the remaining patties, moving to the rack to keep warm in a low oven."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve with 240 g plain yoghurt, raita or chutney and a salad."
+    }
+  ],
+  "tips": [
+    "Pulse walnuts to coarse crumbs not fine powder for visible texture.",
+    "Chill patties for at least 1 hour so they firm up and hold together.",
+    "Serve with cooling yoghurt or raita to balance the warming spices."
+  ],
+  "storage": "Store cooked patties in the fridge for up to 3 days; rewarm gently in a low oven for about 10 minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 381,
+    "protein_g": 9.4,
+    "carbs_g": 32.9,
+    "sugar_g": 4.6,
+    "free_sugar_g": 0.1,
+    "fat_g": 25.5,
+    "satfat_g": 3.7,
+    "salt_g": 1.31,
+    "fibre_g": 5.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Potato and broccoli patties with a walnut crust served with yoghurt, raita and a fresh salad.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

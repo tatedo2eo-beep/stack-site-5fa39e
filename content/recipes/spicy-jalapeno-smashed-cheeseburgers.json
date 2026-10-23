@@ -1,0 +1,144 @@
+{
+  "slug": "spicy-jalapeno-smashed-cheeseburgers",
+  "title": "Spicy Jalapeño Cheeseburgers",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "cheeseburger",
+  "dish_title": "Cheeseburger",
+  "flavour": "Jalapeño",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "classic-cheeseburger",
+  "changes_from_base": "Smashed thin with diced onion pressed into the top and onion fried alongside, then finished with American cheese, pickles and a layer of fresh jalapeño slices on butter-toasted buns.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Smashed tissue-thin beef fuses instantly with melted cheese and caramelised onion, sparked by bright pickles and jalapeño heat.",
+  "servings": 2,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "2 large frying pans (one stainless steel)",
+    "heavy-based saucepan for smashing",
+    "thin flat spatula",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Buns",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Buns",
+      "qty": 2,
+      "unit": "pc",
+      "item": "burger buns, split"
+    },
+    {
+      "group": "Patties",
+      "qty": 225,
+      "unit": "g",
+      "item": "beef mince (about 20% fat), loosely rolled into 2 balls"
+    },
+    {
+      "group": "Patties",
+      "qty": 50,
+      "unit": "g",
+      "item": "onion, finely diced"
+    },
+    {
+      "group": "Patties",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Patties",
+      "qty": 2,
+      "unit": "pc",
+      "item": "slices American-style processed cheese"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "mayonnaise (or burger sauce)"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "dill pickle slices"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small jalapeño, thinly sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast",
+      "text": "Melt 15 g butter in one large frying pan over low and wipe the cut sides of 2 burger buns through it, toasting for about 5 min until golden and warm."
+    },
+    {
+      "title": "Smash",
+      "text": "Heat a stainless steel pan over medium-high until a flick of water beads and vanishes at once; add 225 g beef mince loosely rolled into 2 balls well apart, smash as thin as possible with the base of a heavy saucepan and hold for 10 s."
+    },
+    {
+      "title": "Cook",
+      "text": "Scatter half of 50 g finely diced onion on the beef and half in the empty part of the pan, season with ½ tsp fine salt and ¼ tsp ground black pepper, cook about 1 min until browned, scrape under the edges with a thin flat spatula, flip, lay 2 slices of American-style processed cheese on and cook 1-2 min until the cheese melts and the patties reach 71 °C, stirring the loose onion."
+    },
+    {
+      "title": "Build",
+      "text": "Spread 2 tbsp mayonnaise on both bun halves, place 4 dill pickle slices on the bases, top with the patties, the fried onion and a layer of 1 small thinly sliced jalapeño."
+    },
+    {
+      "title": "Serve",
+      "text": "Eat straight away."
+    }
+  ],
+  "tips": [
+    "Open windows and turn on the extractor as this creates a lot of smoke.",
+    "Smash beef immediately it hits the hot pan to maximise browning.",
+    "Keep pickles and jalapeños separate until assembly to stay crisp."
+  ],
+  "storage": "These are best eaten immediately whilst the cheese is melted and the buns are warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 693,
+    "protein_g": 29.6,
+    "carbs_g": 34.4,
+    "sugar_g": 5.9,
+    "free_sugar_g": 4.4,
+    "fat_g": 47.9,
+    "satfat_g": 18.4,
+    "salt_g": 3.69,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Smashed thin beef patties topped with melted American cheese, caramelised onions, dill pickles and jalapeño slices in buttered buns.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

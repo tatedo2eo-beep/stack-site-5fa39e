@@ -1,0 +1,143 @@
+{
+  "slug": "quadruple-chilli-cheeseburgers",
+  "title": "Four-Chilli Cheeseburgers",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "cheeseburger",
+  "dish_title": "Cheeseburger",
+  "flavour": "Chili",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "classic-cheeseburger",
+  "changes_from_base": "Four kinds of chilli: charred and peeled poblanos, pickled jalapeños, chipotle-adobo mayonnaise and pepper Jack cheese, on larger patties grilled over high heat.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Juicy beef layered with three types of chilli—roasted poblanos, pickled jalapeños and fiery chipotle mayo—all balanced by creamy pepper Jack cheese.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "barbecue (or griddle pan and gas flame)",
+    "foil",
+    "small bowl",
+    "tongs",
+    "fish slice",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Patties",
+      "qty": 900,
+      "unit": "g",
+      "item": "beef chuck mince (about 20% fat)"
+    },
+    {
+      "group": "Patties",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Chipotle mayo",
+      "qty": 1,
+      "unit": "pc",
+      "item": "chipotle chilli in adobo, finely chopped, plus 2 tsp of the sauce"
+    },
+    {
+      "group": "Chipotle mayo",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Toppings",
+      "qty": 2,
+      "unit": "pc",
+      "item": "fresh poblano chillies"
+    },
+    {
+      "group": "Toppings",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices pepper Jack cheese"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large burger buns, split"
+    },
+    {
+      "group": "Toppings",
+      "qty": 30,
+      "unit": "g",
+      "item": "pickled jalapeño slices"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mayo",
+      "text": "Stir 1 finely chopped chipotle chilli in adobo (plus 2 tsp of the sauce) and 4 tbsp mayonnaise together."
+    },
+    {
+      "title": "Poblanos",
+      "text": "Char 2 fresh poblano chillies over the hot coals or a gas flame, turning, until blistered all over; wrap in foil for 5 min, then peel off most of the skin, discard stalks and seeds and chop roughly."
+    },
+    {
+      "title": "Shape",
+      "text": "Divide 900 g beef chuck mince into 4 and shape patties about 1 cm wider than the buns, season well."
+    },
+    {
+      "title": "Grill",
+      "text": "Grill the patties over the hot side turning now and then for about 8-10 min until well charred and 71 °C in the centre; top each with 2 slices of pepper Jack cheese, move to a plate and cover with foil."
+    },
+    {
+      "title": "Toast",
+      "text": "Toast 4 large burger buns on the hot side for about 30 s."
+    },
+    {
+      "title": "Build",
+      "text": "Place patties on bun bases, then 30 g pickled jalapeño slices and the poblanos, top with chipotle mayo, close and serve."
+    }
+  ],
+  "tips": [
+    "Char poblanos directly over a flame or coals until skin is completely blistered for easy peeling.",
+    "Wash hands thoroughly after handling chillies to avoid capsaicin transferring to your eyes.",
+    "Make the chipotle mayo up to 2 days ahead; chill until ready."
+  ],
+  "storage": "Keep cooked patties for 2 days in the fridge; store the roasted poblano mixture and chipotle mayo separately for 3-4 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 1002,
+    "protein_g": 55.2,
+    "carbs_g": 34.5,
+    "sugar_g": 6.6,
+    "free_sugar_g": 4.4,
+    "fat_g": 70.2,
+    "satfat_g": 26.9,
+    "salt_g": 3.88,
+    "fibre_g": 2.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Large beef patties topped with melted pepper Jack cheese, roasted poblanos, pickled jalapeños and chipotle mayo in burger buns.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

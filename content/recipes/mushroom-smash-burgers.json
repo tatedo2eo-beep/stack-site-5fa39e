@@ -1,0 +1,150 @@
+{
+  "slug": "mushroom-smash-burgers",
+  "title": "Mushroom Smash Burgers",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "smash-burger",
+  "dish_title": "Smash burger",
+  "flavour": "Mushroom",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "classic-smash-burger",
+  "changes_from_base": "No beef: whole portobello caps brushed with onion-powder oil are pressed flat between two heavy pans until thin and browned, then topped with Cheddar; two caps per bun.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Meaty portobello caps are smashed and melted with tangy Cheddar under a weight until gorgeously caramelised. Fresh lettuce, tomato and classic sauces complete these hefty, satisfying mushroom sandwiches.",
+  "servings": 2,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "2 large heavy (cast-iron) frying pans",
+    "foil",
+    "small bowl",
+    "tongs",
+    "lid or baking tray"
+  ],
+  "ingredients": [
+    {
+      "group": "Mushrooms",
+      "qty": 60,
+      "unit": "ml",
+      "item": "neutral oil (such as rapeseed or grapeseed), plus extra if needed"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "onion powder"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large portobello mushrooms, stalks removed, wiped clean"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 4,
+      "unit": "pc",
+      "item": "slices mature Cheddar"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "burger buns, split"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "lettuce leaves"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "tomato, sliced"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "mayonnaise, ketchup and/or mustard"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Mix 60 ml neutral oil, 1 tsp onion powder, ½ tsp fine salt and ¼ tsp ground black pepper in a small bowl."
+    },
+    {
+      "title": "Coat",
+      "text": "Score an X in the top of each of the 4 large portobello mushroom caps and coat all over with the oil mixture."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat one heavy frying pan over medium-high, add the caps and set the foil-wrapped second heavy pan on top; turn every 2 min."
+    },
+    {
+      "title": "Press",
+      "text": "From about 4 min in, press down on the top pan periodically whilst turning for 8-10 min total until the caps are browned and thin, lowering the heat if they char, adding 1 tbsp more oil if dry."
+    },
+    {
+      "title": "Melt",
+      "text": "Turn heat to low, lay 4 slices of mature Cheddar on top, cover with a lid or tray for 1-2 min until melted."
+    },
+    {
+      "title": "Assemble",
+      "text": "Put 2 caps in each bun with 2 lettuce leaves, 1 sliced tomato and 4 tsp of mayonnaise, ketchup and/or mustard."
+    }
+  ],
+  "tips": [
+    "Wrap the second pan base in foil to prevent sticking and ensure even heat.",
+    "Don't press down before 4 minutes or the delicate flesh will split.",
+    "If the mushrooms char too fast, lower the heat slightly."
+  ],
+  "storage": "These are best served immediately, but leftover patties can be refrigerated for up to 2 days and reheated gently under the grill. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 667,
+    "protein_g": 21.6,
+    "carbs_g": 41.2,
+    "sugar_g": 10.4,
+    "free_sugar_g": 5.5,
+    "fat_g": 47.9,
+    "satfat_g": 11.0,
+    "salt_g": 3.07,
+    "fibre_g": 3.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Two caramelised mushroom caps topped with melted Cheddar sitting in buttered burger buns with fresh greens and tomato.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

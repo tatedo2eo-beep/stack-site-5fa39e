@@ -1,0 +1,166 @@
+{
+  "slug": "beetroot-rice-goats-cheese-burgers",
+  "title": "Beetroot, Rice and Goats' Cheese Burgers",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "cheeseburger",
+  "dish_title": "Cheeseburger",
+  "flavour": "Beet & goat cheese",
+  "flavour_order": 7,
+  "access": "premium",
+  "base_recipe": "classic-cheeseburger",
+  "changes_from_base": "Meat-free: a patty of cooked rice and roasted beetroot bound with a white bean, lemon and egg purée and studded with goats' cheese, browned in the pan then finished in the oven.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Earthy roasted beetroot and creamy goats' cheese bind fluffy rice and white beans into sturdy, satisfying vegetarian patties.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "food processor (or a fork)",
+    "heavy ovenproof frying pan",
+    "fish slice",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Patties",
+      "qty": 300,
+      "unit": "g",
+      "item": "cooked brown or white rice, cooled"
+    },
+    {
+      "group": "Patties",
+      "qty": 135,
+      "unit": "g",
+      "item": "roasted beetroot, finely diced or grated"
+    },
+    {
+      "group": "Patties",
+      "qty": 15,
+      "unit": "g",
+      "item": "chopped fresh herbs (parsley and dill)"
+    },
+    {
+      "group": "Patties",
+      "qty": 1,
+      "unit": "pc",
+      "item": "400 g tin white beans, drained and rinsed"
+    },
+    {
+      "group": "Patties",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Patties",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Patties",
+      "qty": 57,
+      "unit": "g",
+      "item": "soft goats' cheese, crumbled"
+    },
+    {
+      "group": "Patties",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To cook",
+      "qty": 30,
+      "unit": "ml",
+      "item": "extra-virgin olive oil or rapeseed oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 6,
+      "unit": "pc",
+      "item": "burger buns, split (optional)"
+    },
+    {
+      "group": "To serve",
+      "qty": 6,
+      "unit": "tsp",
+      "item": "ketchup, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Purée",
+      "text": "Purée 1 drained and rinsed 400 g tin white beans with 1 tbsp lemon juice and 1 large egg in a food processor (or mash with a fork)."
+    },
+    {
+      "title": "Mix",
+      "text": "Combine 300 g cooled cooked brown or white rice, 135 g finely diced or grated roasted beetroot and 15 g chopped fresh herbs (parsley and dill); scrape in the bean purée and stir through 57 g crumbled soft goats' cheese, ¾ tsp fine salt and ¼ tsp ground black pepper."
+    },
+    {
+      "title": "Shape",
+      "text": "With wet hands shape 6 patties and place on a plate."
+    },
+    {
+      "title": "Brown",
+      "text": "Heat 1 tbsp of 30 ml extra-virgin olive oil or rapeseed oil in an ovenproof frying pan over medium heat and brown 3 of the patties 2 min on one side."
+    },
+    {
+      "title": "Bake",
+      "text": "Turn the patties, put the pan in the oven at 190 °C (170 °C fan) for 10 min until 71 °C in the centre, then remove to a plate."
+    },
+    {
+      "title": "Repeat",
+      "text": "Brown and bake the remaining 3 patties with the rest of the oil."
+    },
+    {
+      "title": "Serve",
+      "text": "Place in 6 burger buns with 6 tsp ketchup and your usual toppings, or serve on their own with ketchup."
+    }
+  ],
+  "tips": [
+    "Mash beans thoroughly so they bind the patties without large chunks.",
+    "Chill shaped patties before cooking so they hold together better.",
+    "Serve these without buns as a salad base or with yoghurt and chutneys."
+  ],
+  "storage": "Because they contain cooked rice, chill leftover patties quickly and eat within 1 day, reheated until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 490,
+    "protein_g": 15.7,
+    "carbs_g": 82.7,
+    "sugar_g": 7.6,
+    "free_sugar_g": 5.5,
+    "fat_g": 10.3,
+    "satfat_g": 2.9,
+    "salt_g": 2.11,
+    "fibre_g": 4.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Beetroot and rice patties flecked with herbs and topped with crumbled goats' cheese served in burger buns with ketchup.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}
