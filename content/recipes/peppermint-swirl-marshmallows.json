@@ -1,0 +1,169 @@
+{
+  "slug": "peppermint-swirl-marshmallows",
+  "title": "Peppermint Swirl Marshmallows",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "marshmallows",
+  "dish_title": "Marshmallows",
+  "flavour": "Peppermint",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "Fluffy white marshmallow cubes with red peppermint swirls, served with crushed peppermint sweets.",
+  "servings": 18,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "23 cm square tin",
+    "baking paper",
+    "medium heavy saucepan",
+    "digital thermometer",
+    "stand mixer with whisk",
+    "oiled spatula",
+    "sieve",
+    "large sharp knife",
+    "wooden skewer",
+    "freezer bag and rolling pin"
+  ],
+  "ingredients": [
+    {
+      "group": "Dusting",
+      "qty": 62,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 5 tbsp"
+    },
+    {
+      "group": "Dusting",
+      "qty": 5,
+      "unit": "tbsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Gelatine",
+      "qty": 24,
+      "unit": "g",
+      "item": "beef gelatine powder",
+      "note": "use beef gelatine, not pork; or the equivalent in beef gelatine leaves"
+    },
+    {
+      "group": "Gelatine",
+      "qty": 120,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Syrup",
+      "qty": 400,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 160,
+      "unit": "g",
+      "item": "light corn syrup"
+    },
+    {
+      "group": "Syrup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Peppermint",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "alcohol-free peppermint extract (or 1 drop food-grade peppermint oil)"
+    },
+    {
+      "group": "Peppermint",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "red gel food colouring"
+    },
+    {
+      "group": "To serve",
+      "qty": 40,
+      "unit": "g",
+      "item": "peppermint hard sweets or candy canes, crushed",
+      "note": "check the label for gelatine-free sweets"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Tin",
+      "text": "Mix the icing sugar and cornflour through the sieve. Lay baking paper in the tin, oil it lightly and dust with a third of the mixture."
+    },
+    {
+      "title": "Bloom",
+      "text": "Add the cold water to the mixer bowl and sprinkle the gelatine on top; leave it for 10 min until it has absorbed the water."
+    },
+    {
+      "title": "Syrup",
+      "text": "Heat the sugar, corn syrup, water and salt in the saucepan over medium heat, stirring only until dissolved. Boil for 7-9 min without stirring until the syrup reaches 116 °C."
+    },
+    {
+      "title": "Whip",
+      "text": "Run the mixer on low while you pour in the syrup, aiming it at the side of the bowl. Whip on high for 10-12 min, adding the vanilla and peppermint for the final minute, until bright white, stiff, tripled and down to about 35 °C."
+    },
+    {
+      "title": "Layer",
+      "text": "Spread half the mixture over the tin and dot on half the red colouring, then drag the skewer through it in loose loops. Add the rest of the mixture, dot and swirl the remaining colouring on top."
+    },
+    {
+      "title": "Set",
+      "text": "Sift over another third of the dusting and leave the tin uncovered for 6 h or overnight, until firm, bouncy and not sticky."
+    },
+    {
+      "title": "Cut",
+      "text": "Tip the slab onto a board dusted with the leftover mixture, cut 36 cubes with an oiled knife and coat the cut sides."
+    },
+    {
+      "title": "Serve",
+      "text": "Seal the sweets in the freezer bag and crush them with the rolling pin. Scatter them around the marshmallows just before serving so they stay crunchy."
+    }
+  ],
+  "tips": [
+    "The most common mistake is over-swirling the colour; a few loops keep clear red stripes, too many turn it all pink.",
+    "Peppermint is strong, so measure it carefully; more can taste like toothpaste.",
+    "Use gel colouring; liquid colouring can make the mixture runny.",
+    "Add the crushed sweets at the last minute; they melt on the marshmallow if left.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight box at room temperature for up to 2 weeks. Store the crushed sweets separately.",
+  "allergens": [],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 142,
+    "protein_g": 1.1,
+    "carbs_g": 35.5,
+    "sugar_g": 32.6,
+    "free_sugar_g": 32.6,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.1,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "marshmallows-basic--peppermint.jpg",
+  "image_alt": "White marshmallow cubes with red peppermint swirls, with crushed peppermint sweets scattered around."
+}

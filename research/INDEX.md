@@ -120,6 +120,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chana-masala-chickpeas-tomato-gravy | Chickpeas (chana masala, falafel) | Classic | 2 | 4 |
 | charred-tawa-naan-yoghurt-ghee | ? | ? | MISSING | |
 | charred-tomatillo-salsa-verde | Salsa | Verde | 3 | 5 |
+| charred-tomato-red-chilli-salsa-roja | Salsa | Classic | 2 | 4 |
 | chausson-aux-pommes-apple-turnovers | Chausson aux pommes | Classic | 2 | 4 |
 | cheddar-cheese-sauce | Cheese sauce | Classic | 2 | 4 |
 | cheddar-cheeseburger | Cheeseburger | Cheddar | 2 | 5 |

@@ -1,0 +1,156 @@
+{
+  "slug": "fruit-juice-gummy-cubes",
+  "title": "Three-Colour Fruit Juice Gummy Cubes",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "gelatin-gummies",
+  "dish_title": "Gelatin gummies",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chewy red, orange and yellow gummy cubes made from cranberry, orange and apple juice with beef gelatine.",
+  "servings": 24,
+  "prep_min": 20,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "3 small square containers, about 12 cm",
+    "small saucepan",
+    "whisk",
+    "spatula",
+    "sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Red",
+      "qty": 150,
+      "unit": "ml",
+      "item": "cranberry juice drink"
+    },
+    {
+      "group": "Red",
+      "qty": 30,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Red",
+      "qty": 18,
+      "unit": "g",
+      "item": "beef gelatine powder",
+      "note": "use beef gelatine, not pork; or the equivalent in beef gelatine leaves"
+    },
+    {
+      "group": "Orange",
+      "qty": 150,
+      "unit": "ml",
+      "item": "smooth orange juice"
+    },
+    {
+      "group": "Orange",
+      "qty": 30,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Orange",
+      "qty": 18,
+      "unit": "g",
+      "item": "beef gelatine powder",
+      "note": "use beef gelatine, not pork; or the equivalent in beef gelatine leaves"
+    },
+    {
+      "group": "Yellow",
+      "qty": 150,
+      "unit": "ml",
+      "item": "clear apple juice"
+    },
+    {
+      "group": "Yellow",
+      "qty": 30,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Yellow",
+      "qty": 18,
+      "unit": "g",
+      "item": "beef gelatine powder",
+      "note": "use beef gelatine, not pork; or the equivalent in beef gelatine leaves"
+    },
+    {
+      "group": "All colours",
+      "qty": 45,
+      "unit": "ml",
+      "item": "lemon juice (from about 1 lemon)"
+    },
+    {
+      "group": "All colours",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil, for the containers"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Rub the insides of the three containers with a very thin film of oil and blot away any extra with kitchen paper."
+    },
+    {
+      "title": "Bloom",
+      "text": "Pour the cranberry juice and 15 ml of the lemon juice into the saucepan and stir in its sugar. Scatter the gelatine evenly over the surface and leave for 5 min until it looks swollen and spongy."
+    },
+    {
+      "title": "Melt",
+      "text": "Set the pan over low heat and stir gently for 3-4 min. It is ready when it is steaming and completely clear, with no grains left on the spatula; do not let it boil or it will set weakly."
+    },
+    {
+      "title": "Pour",
+      "text": "Skim off any foam with a spoon and pour the red mixture into the first container."
+    },
+    {
+      "title": "Repeat",
+      "text": "Rinse the pan, then make the orange batch the same way with the orange juice, and finally the yellow batch with the apple juice, each with 15 ml lemon juice, its sugar and gelatine. Pour each into its own container."
+    },
+    {
+      "title": "Set",
+      "text": "Chill for about 2 h, until the slabs are firm and spring back when pressed."
+    },
+    {
+      "title": "Cut",
+      "text": "Run a knife around the edges, turn the slabs out and cut them into 1.5 cm cubes, dipping the knife in hot water between cuts."
+    },
+    {
+      "title": "Dry",
+      "text": "Spread the cubes out on baking paper and leave at room temperature for 12 h, turning them once, until they feel dry and pleasantly chewy rather than sticky."
+    }
+  ],
+  "tips": [
+    "The most common mistake is boiling the juice after adding the gelatine; heat it only until steaming or the gummies stay soft.",
+    "Use clear juices for the brightest, glassy colours.",
+    "Fresh pineapple or kiwi juice will stop gelatine setting; stick to the juices listed.",
+    "For softer gummies skip the drying and keep them in the fridge."
+  ],
+  "storage": "Keep in an airtight box at cool room temperature for up to 1 week, with baking paper between layers.",
+  "allergens": [],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 32,
+    "protein_g": 2.0,
+    "carbs_g": 6.1,
+    "sugar_g": 5.7,
+    "free_sugar_g": 5.7,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gelatin-gummies-basic.jpg",
+  "image_alt": "Red, orange and yellow translucent fruit gummy cubes piled in a dark bowl."
+}

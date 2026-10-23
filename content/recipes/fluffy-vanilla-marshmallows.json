@@ -1,0 +1,144 @@
+{
+  "slug": "fluffy-vanilla-marshmallows",
+  "title": "Fluffy Vanilla Marshmallows",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "marshmallows",
+  "dish_title": "Marshmallows",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Soft, airy vanilla marshmallow cubes made with beef gelatine and dusted in icing sugar and cornflour.",
+  "servings": 18,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "23 cm square tin",
+    "baking paper",
+    "medium heavy saucepan",
+    "digital thermometer",
+    "stand mixer with whisk",
+    "oiled spatula",
+    "sieve",
+    "large sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Dusting",
+      "qty": 62,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 5 tbsp"
+    },
+    {
+      "group": "Dusting",
+      "qty": 5,
+      "unit": "tbsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Gelatine",
+      "qty": 24,
+      "unit": "g",
+      "item": "beef gelatine powder",
+      "note": "use beef gelatine, not pork; or the equivalent in beef gelatine leaves"
+    },
+    {
+      "group": "Gelatine",
+      "qty": 120,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Syrup",
+      "qty": 400,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 160,
+      "unit": "g",
+      "item": "light corn syrup"
+    },
+    {
+      "group": "Syrup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Syrup",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Tin",
+      "text": "Sift the icing sugar and cornflour together into a bowl. Line the tin with baking paper, brush it with a little oil and sprinkle on a third of the dusting."
+    },
+    {
+      "title": "Bloom",
+      "text": "Measure the cold water into the mixer bowl, scatter the gelatine over it and set aside for 10 min to soften."
+    },
+    {
+      "title": "Syrup",
+      "text": "Combine the sugar, corn syrup, water and salt in the saucepan and stir over medium heat until clear. Stop stirring and boil for 7-9 min, until the thermometer shows 116 °C."
+    },
+    {
+      "title": "Whip",
+      "text": "Start the mixer on low and pour the hot syrup in a thin stream down the inside of the bowl. Switch to high and whip for 10-12 min, adding the vanilla in the last minute. It is ready when it is thick, bright white, about three times the volume and only lukewarm (about 35 °C)."
+    },
+    {
+      "title": "Spread",
+      "text": "Scrape it straight into the tin with the oiled spatula, level the surface and sift over half the remaining dusting."
+    },
+    {
+      "title": "Set",
+      "text": "Leave uncovered at room temperature for at least 6 h, or overnight. It is set when it springs back and a dry finger comes away clean."
+    },
+    {
+      "title": "Cut",
+      "text": "Dust a board with the last of the mixture and turn the slab out onto it. Cut into 36 cubes with an oiled knife and roll each cut side in the dusting."
+    }
+  ],
+  "tips": [
+    "The most common mistake is taking the syrup off below 116 °C; the marshmallows then stay sticky and slump.",
+    "Work quickly once whipped; it starts to set within minutes.",
+    "Re-oil the knife every few cuts for clean edges.",
+    "Toast them over a flame or drop into hot chocolate.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight box at room temperature for up to 2 weeks; add a little extra dusting if they turn sticky.",
+  "allergens": [],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 134,
+    "protein_g": 1.1,
+    "carbs_g": 33.3,
+    "sugar_g": 31.2,
+    "free_sugar_g": 31.2,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.1,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "marshmallows-basic.jpg",
+  "image_alt": "Tall white vanilla marshmallow cubes on a black plate, one torn open to show the airy inside."
+}

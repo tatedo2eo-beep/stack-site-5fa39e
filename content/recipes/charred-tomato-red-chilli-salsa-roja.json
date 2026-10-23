@@ -1,0 +1,145 @@
+{
+  "slug": "charred-tomato-red-chilli-salsa-roja",
+  "title": "Charred Tomato and Red Chilli Salsa Roja",
+  "category": "snacks-sides",
+  "cuisine": "Mexican",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "salsa",
+  "dish_title": "Salsa",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A smoky red table salsa of pan-blackened tomatoes, garlic and fresh chilli, pounded with toasted dried árbol chillies until thick and rustic.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "heavy cast-iron frying pan or comal",
+    "tongs",
+    "molcajete or large mortar and pestle",
+    "plate",
+    "bowl",
+    "knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Salsa",
+      "qty": 4,
+      "unit": "pc",
+      "item": "dried árbol chillies, stems pulled off",
+      "note": "use 2 for a milder salsa"
+    },
+    {
+      "group": "Salsa",
+      "qty": 4,
+      "unit": "pc",
+      "item": "unpeeled garlic cloves"
+    },
+    {
+      "group": "Salsa",
+      "qty": 0.25,
+      "unit": "pc",
+      "item": "white onion, in one wedge"
+    },
+    {
+      "group": "Salsa",
+      "qty": 1,
+      "unit": "pc",
+      "item": "long fresh red chilli, plus 1 extra charred to serve"
+    },
+    {
+      "group": "Salsa",
+      "qty": 600,
+      "unit": "g",
+      "item": "plum tomatoes, cores cut out",
+      "note": "about 5"
+    },
+    {
+      "group": "Salsa",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Salsa",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "lime, cut into wedges"
+    },
+    {
+      "group": "To serve",
+      "qty": 100,
+      "unit": "g",
+      "item": "tortilla chips",
+      "note": "optional, not in nutrition"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the dried chillies",
+      "text": "Set the dry frying pan over medium heat for a few minutes. Add the árbol chillies and keep them moving for 1-2 minutes, just until they darken and smell toasty; burnt chillies taste bitter. Lift them onto a plate to cool and turn crisp."
+    },
+    {
+      "title": "Blacken the vegetables",
+      "text": "Put the garlic, onion wedge and fresh red chilli (and the extra one for serving) into the same hot pan, followed by the whole tomatoes. Cook for 15-20 minutes, turning every few minutes, until the skins are blistered and blackened in patches and the tomatoes have collapsed and released juice. Take out the garlic after about 8 minutes, once soft, and the chillies once wrinkled."
+    },
+    {
+      "title": "Rest and peel",
+      "text": "Tip the tomatoes and any juices into a bowl and leave for 10 minutes. Slip the garlic out of its skins. Pull the stem off the red chilli used in the salsa; keep the seeds for heat or scrape them out. Leave the tomato skins on, since the charred bits give the salsa its smoky flavour."
+    },
+    {
+      "title": "Make a paste",
+      "text": "Crumble the toasted árbol chillies into the molcajete with the salt and grind to a coarse powder. Add the garlic and red chilli and pound into a rough paste, loosening with a spoonful of tomato juice if it sticks."
+    },
+    {
+      "title": "Mash the tomatoes",
+      "text": "Add the onion and pound it in, then add the tomatoes a couple at a time, crushing and stirring until the salsa is thick and only slightly chunky. Stir in the oil and enough of the reserved juice to make it spoonable. Taste and add a pinch more salt if needed."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve warm or at room temperature straight from the molcajete, with lime wedges, tortilla chips and the extra charred chilli. It is also very good spooned over tacos, eggs and grilled meat."
+    }
+  ],
+  "tips": [
+    "Do not wash off the blackened skins: they carry the smoky flavour.",
+    "Árbol chillies are hot. Start with 2, taste, and grind in more if you want extra heat.",
+    "No molcajete? Mash everything with a fork in a bowl, or pulse briefly in a food processor so the salsa stays slightly chunky.",
+    "Choose ripe, deep-red plum tomatoes; pale tomatoes give a thin, sharp salsa."
+  ],
+  "storage": "Keep in a covered container in the fridge for up to 3 days. Let it come back to room temperature and check the salt before serving. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 27,
+    "protein_g": 1.0,
+    "carbs_g": 4.9,
+    "sugar_g": 2.5,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.8,
+    "satfat_g": 0.1,
+    "salt_g": 0.56,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "salsa-basic.jpg",
+  "image_alt": "A dark stone molcajete of thick, smoky red salsa with charred flecks, beside tortilla chips, a lime wedge and a blackened red chilli.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}
