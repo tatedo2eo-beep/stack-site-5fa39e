@@ -11,7 +11,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | coriander seeds | Spices, coriander seed (SR 02013) | 3.6 | 10.7 | 0.4 | 2.0 | 0.00 | 0.00 | 0.6 | 0.04 | 1 | 1.5 |
 | black peppercorns | Spices, pepper, black (SR 02030) | 2.5 | 6.3 | 0.3 | 1.6 | 0.02 | 0.00 | 0.1 | 0.03 | 0 | 0.6 |
 | garlic cloves, peeled and lightly crushed | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
-| low-salt halal chicken broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 1200 | 72.0 | 7.7 | 5.3 | 5.16 | 0.00 | 2.5 | 0.16 | 4452 | 0.0 |
+| low-salt chicken broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 1200 | 72.0 | 7.7 | 5.3 | 5.16 | 0.00 | 2.5 | 0.16 | 4452 | 0.0 |
 | water | Water, tap (SR 14411) | 800 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 32 | 0.0 |
 | long-grain white rice | Rice, white, long-grain, regular, raw (SR 20044) | 190 | 693.5 | 13.5 | 151.9 | 0.23 | 0.00 | 1.3 | 0.34 | 10 | 2.5 |
 | lemon juice (from the zested lemons), plus extra to taste | Lemon juice, raw (SR 09152) - juice sugars counted as free | 90 | 19.8 | 0.3 | 6.2 | 2.27 | 2.27 | 0.2 | 0.04 | 1 | 0.3 |
@@ -32,5 +32,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt halal broth.
+- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt broth.
 - The egg mixture is cooked in the soup to 71 °C so the eggs are fully cooked.

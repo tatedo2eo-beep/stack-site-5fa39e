@@ -5,7 +5,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 300 | 429.0 | 37.7 | 2.2 | 1.11 | 0.00 | 28.5 | 9.39 | 426 | 0.0 |
-| mayonnaise (halal-certified) | Salad dressing, mayonnaise, regular (SR 04025) | 60 | 408.0 | 0.6 | 0.3 | 0.34 | 0.34 | 44.9 | 7.04 | 381 | 0.0 |
+| mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 60 | 408.0 | 0.6 | 0.3 | 0.34 | 0.34 | 44.9 | 7.04 | 381 | 0.0 |
 | small celery stalk, finely diced | Celery, raw (FDC 169988) | 40 | 5.6 | 0.3 | 1.2 | 0.54 | 0.00 | 0.1 | 0.02 | 32 | 0.6 |
 | spring onions, finely sliced | Onions, spring or scallions, raw (SR 11291) | 30 | 9.6 | 0.5 | 2.2 | 0.70 | 0.00 | 0.1 | 0.01 | 5 | 0.8 |
 | flat-leaf parsley, finely chopped | Parsley, fresh (SR 11297) | 4 | 1.4 | 0.1 | 0.3 | 0.03 | 0.00 | 0.0 | 0.01 | 2 | 0.1 |
@@ -30,4 +30,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Mustard powder used in place of prepared Dijon (which can contain wine or wine vinegar).
-- Mayonnaise counted as regular mayonnaise; choose a halal-certified brand made without wine vinegar.
+- Mayonnaise counted as regular mayonnaise; choose a brand made without wine vinegar.

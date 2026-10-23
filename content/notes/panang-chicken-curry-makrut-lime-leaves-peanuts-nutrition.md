@@ -7,9 +7,9 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | coriander seeds | Spices, coriander seed (SR 02013) | 1 | 3.0 | 0.1 | 0.5 | 0.00 | 0.00 | 0.2 | 0.01 | 0 | 0.4 |
 | cumin seeds | Spices, cumin seed (FDC 170923) | 0.5 | 1.9 | 0.1 | 0.2 | 0.01 | 0.00 | 0.1 | 0.01 | 1 | 0.1 |
 | roasted unsalted peanuts | Peanuts, all types, dry-roasted, without salt (FDC 173806) | 30 | 176.1 | 7.3 | 6.4 | 1.47 | 0.00 | 14.9 | 2.32 | 2 | 2.5 |
-| store-bought panang or red curry paste (check the label is halal) | ESTIMATE from typical store-bought Thai curry paste labels (massaman/green); sodium varies widely by brand | 40 | 60.0 | 1.2 | 6.0 | 2.40 | 0.00 | 3.2 | 0.40 | 1200 | 2.0 |
-| boneless, skinless chicken thighs (halal), thinly sliced | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 500 | 605.0 | 98.3 | 0.0 | 0.00 | 0.00 | 20.6 | 5.50 | 475 | 0.0 |
-| fish sauce (check the label is halal) | Sauce, fish, ready-to-serve (FDC 174531) | 12 | 4.2 | 0.6 | 0.4 | 0.44 | 0.44 | 0.0 | 0.00 | 942 | 0.0 |
+| store-bought panang or red curry paste | ESTIMATE from typical store-bought Thai curry paste labels (massaman/green); sodium varies widely by brand | 40 | 60.0 | 1.2 | 6.0 | 2.40 | 0.00 | 3.2 | 0.40 | 1200 | 2.0 |
+| boneless, skinless chicken thighs, thinly sliced | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 500 | 605.0 | 98.3 | 0.0 | 0.00 | 0.00 | 20.6 | 5.50 | 475 | 0.0 |
+| fish sauce | Sauce, fish, ready-to-serve (FDC 174531) | 12 | 4.2 | 0.6 | 0.4 | 0.44 | 0.44 | 0.0 | 0.00 | 942 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 0.99 | 0 | 0.0 |
 | full-fat coconut milk (1 can, unshaken) | Nuts, coconut milk, canned (liquid expressed from grated meat and water) (FDC 170173) | 400 | 788.0 | 8.1 | 11.2 | 0.00 | 0.00 | 85.3 | 75.66 | 52 | 0.0 |
 | palm sugar or light brown sugar | Sugars, brown (SR 19334) | 10 | 38.0 | 0.0 | 9.8 | 9.70 | 9.70 | 0.0 | 0.00 | 3 | 0.0 |

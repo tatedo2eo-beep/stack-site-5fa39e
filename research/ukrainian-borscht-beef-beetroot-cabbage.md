@@ -11,7 +11,7 @@ Dish: Borscht / flavour: Classic. Private file, not published.
 
 ## Own cooking judgment
 - Two-stage method: meat broth, then a skillet-softened beet base (ATK)
-- Beef in place of pork for a halal version, as in the beef-based broth (SE)
+- Beef in place of pork for a version, as in the beef-based broth (SE)
 - Lemon juice rather than vinegar; soured cream and dill to serve (SE)
 
 ## Reliability checks

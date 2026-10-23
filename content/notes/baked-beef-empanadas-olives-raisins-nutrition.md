@@ -11,7 +11,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | unsalted butter, cubed and chilled | Butter, without salt (SR 01145) | 170 | 1218.9 | 1.4 | 0.1 | 0.10 | 0.00 | 137.9 | 87.33 | 19 | 0.0 |
 | slice white sandwich bread, torn | Bread, white, commercially prepared (includes soft bread crumbs) (FDC 174924) | 30 | 79.8 | 2.7 | 14.8 | 1.70 | 1.70 | 1.0 | 0.21 | 147 | 0.8 |
 | unsalted or low-sodium chicken stock | Soup, stock, chicken, home-prepared (FDC 172884) | 150 | 54.0 | 3.8 | 5.3 | 2.37 | 0.00 | 1.8 | 0.48 | 214 | 0.0 |
-| beef mince (15% fat), from a halal butcher | Beef, ground, 85% lean/15% fat, raw (SR 23567) | 450 | 967.5 | 83.7 | 0.0 | 0.00 | 0.00 | 67.5 | 26.50 | 297 | 0.0 |
+| beef mince (15% fat), from a butcher | Beef, ground, 85% lean/15% fat, raw (SR 23567) | 450 | 967.5 | 83.7 | 0.0 | 0.00 | 0.00 | 67.5 | 26.50 | 297 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | olive oil | Oil, olive, salad or cooking (SR 04053) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 1.86 | 0 | 0.0 |

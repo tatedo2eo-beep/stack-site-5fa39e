@@ -9,7 +9,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | carrots, peeled and coarsely grated | Carrots, raw (SR 11124) | 150 | 61.5 | 1.4 | 14.4 | 7.11 | 0.00 | 0.4 | 0.06 | 104 | 4.2 |
 | onion (about ½ small), coarsely grated | Onions, raw (SR 11282) | 50 | 20.0 | 0.6 | 4.7 | 2.12 | 0.00 | 0.1 | 0.02 | 2 | 0.8 |
 | fine salt, for wilting (most is rinsed off) (about half retained after rinsing) | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
-| mayonnaise (halal-certified) | Salad dressing, mayonnaise, regular (SR 04025) | 120 | 816.0 | 1.2 | 0.7 | 0.68 | 0.68 | 89.8 | 14.09 | 762 | 0.0 |
+| mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 120 | 816.0 | 1.2 | 0.7 | 0.68 | 0.68 | 89.8 | 14.09 | 762 | 0.0 |
 | soured cream | Cream, sour, cultured (FDC 171257) | 60 | 118.8 | 1.5 | 2.8 | 2.05 | 0.00 | 11.6 | 6.08 | 19 | 0.0 |
 | cider vinegar | Vinegar, cider (FDC 173469) | 15 | 3.1 | 0.0 | 0.1 | 0.06 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
 | sugar | Sugars, granulated (SR 19335) | 8 | 31.0 | 0.0 | 8.0 | 7.98 | 7.98 | 0.0 | 0.00 | 0 | 0.0 |

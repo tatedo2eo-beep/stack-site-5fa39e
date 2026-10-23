@@ -7,7 +7,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | plain flour, plus extra for dusting | Wheat flour, white, all-purpose, enriched (SR 20081) | 250 | 910.0 | 25.8 | 190.8 | 0.68 | 0.00 | 2.5 | 0.39 | 5 | 6.8 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | large egg | Egg, whole, raw, fresh (SR 01123) | 50 | 71.5 | 6.3 | 0.4 | 0.18 | 0.00 | 4.8 | 1.56 | 71 | 0.0 |
-| minced lamb (halal), about 20% fat | Lamb, ground, raw (FDC 174370) | 250 | 705.0 | 41.5 | 0.0 | 0.00 | 0.00 | 58.5 | 25.50 | 148 | 0.0 |
+| minced lamb, about 20% fat | Lamb, ground, raw (FDC 174370) | 250 | 705.0 | 41.5 | 0.0 | 0.00 | 0.00 | 58.5 | 25.50 | 148 | 0.0 |
 | small onion, coarsely grated, juice squeezed out | Onions, raw (SR 11282) | 100 | 40.0 | 1.1 | 9.3 | 4.24 | 0.00 | 0.1 | 0.04 | 4 | 1.7 |
 | flat-leaf parsley, very finely chopped | Parsley, fresh (SR 11297) | 10 | 3.6 | 0.3 | 0.6 | 0.09 | 0.00 | 0.1 | 0.01 | 6 | 0.3 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
@@ -35,6 +35,6 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use halal-certified lamb; minced beef (15-20% fat) also works.
+- Use lamb; minced beef (15-20% fat) also works.
 - Lamb mince cooked to 71 °C.
 - Cooking water is unsalted to keep salt within about 3 g per serving.

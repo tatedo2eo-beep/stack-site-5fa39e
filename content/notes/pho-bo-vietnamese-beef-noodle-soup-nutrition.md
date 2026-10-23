@@ -35,4 +35,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - The sliced beef is dipped in boiling broth until no pink remains, rather than left rare, so all the beef is fully cooked.
 - Seasoning is lighter than many restaurant versions to keep salt within 2.5 g per serving; add lime and chilli at the table rather than extra fish sauce.
-- Use halal beef; fish sauce is halal-friendly.
+- Use beef.

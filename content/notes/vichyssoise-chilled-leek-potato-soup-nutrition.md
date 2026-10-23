@@ -9,7 +9,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | medium onion, finely chopped | Onions, raw (SR 11282) | 150 | 60.0 | 1.7 | 14.0 | 6.36 | 0.00 | 0.2 | 0.06 | 6 | 2.5 |
 | fine salt | Salt, table (SR 02047) | 7.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2907 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 600 | 366.0 | 18.9 | 28.8 | 30.30 | 0.00 | 19.5 | 11.19 | 258 | 0.0 |
-| low-salt halal chicken broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 480 | 28.8 | 3.1 | 2.1 | 2.06 | 0.00 | 1.0 | 0.06 | 1781 | 0.0 |
+| low-salt chicken broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 480 | 28.8 | 3.1 | 2.1 | 2.06 | 0.00 | 1.0 | 0.06 | 1781 | 0.0 |
 | floury or red potatoes, peeled and cut into 1 cm dice | Potatoes, flesh and skin, raw (SR 11352) | 225 | 173.2 | 4.6 | 39.4 | 1.84 | 0.00 | 0.2 | 0.06 | 14 | 4.7 |
 | ground white pepper, plus more to taste | Spices, pepper, white (FDC 170933) | 0.3 | 0.9 | 0.0 | 0.2 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 60 | 204.0 | 1.7 | 1.7 | 1.75 | 0.00 | 21.6 | 13.82 | 16 | 0.0 |
@@ -28,5 +28,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt halal broth.
+- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt broth.
 - Served cold as the classic; it can also be gently reheated (do not boil once the cream is in).

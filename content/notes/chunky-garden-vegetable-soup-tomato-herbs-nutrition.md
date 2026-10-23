@@ -14,7 +14,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | tomato purée (paste) | Tomato products, canned, paste, no salt added (SR 11546) | 16 | 13.1 | 0.7 | 3.0 | 1.95 | 0.00 | 0.1 | 0.02 | 9 | 0.7 |
 | medium potatoes, cut into 1.5 cm dice | Potatoes, flesh and skin, raw (SR 11352) | 300 | 231.0 | 6.1 | 52.5 | 2.46 | 0.00 | 0.3 | 0.08 | 18 | 6.3 |
 | can chopped tomatoes | Tomatoes, red, ripe, canned, in tomato juice (SR 11531) | 400 | 64.0 | 3.2 | 13.9 | 9.48 | 0.00 | 1.0 | 0.16 | 460 | 7.6 |
-| low-salt vegetable stock (check halal) | Water, tap (SR 14411) | 1000 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 40 | 0.0 |
+| low-salt vegetable stock | Water, tap (SR 14411) | 1000 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 40 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2325 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | courgette, cut into 1.5 cm dice | Squash, summer, zucchini, includes skin, raw (FDC 169291) | 200 | 34.0 | 2.4 | 6.2 | 5.00 | 0.00 | 0.6 | 0.17 | 16 | 2.0 |

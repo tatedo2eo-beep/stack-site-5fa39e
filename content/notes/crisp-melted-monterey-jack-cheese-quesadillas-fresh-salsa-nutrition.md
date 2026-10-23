@@ -26,5 +26,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheese made with microbial or halal-certified rennet.
+- Choose cheese made with microbial rennet.
 - Flour tortillas vary in salt; nutrition uses USDA shelf-stable flour tortillas.

@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| beef mince, 15% fat (halal) | Beef, ground, 85% lean/15% fat, raw (SR 23567) | 450 | 967.5 | 83.7 | 0.0 | 0.00 | 0.00 | 67.5 | 26.50 | 297 | 0.0 |
+| beef mince, 15% fat | Beef, ground, 85% lean/15% fat, raw (SR 23567) | 450 | 967.5 | 83.7 | 0.0 | 0.00 | 0.00 | 67.5 | 26.50 | 297 | 0.0 |
 | bicarbonate of soda | Leavening agents, baking soda (SR 18372) | 1.2 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 328 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 0.99 | 0 | 0.0 |
@@ -34,4 +34,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use halal-certified ketchup and yellow mustard made with spirit or cider vinegar.
+- Use ketchup and yellow mustard made with spirit or cider vinegar.

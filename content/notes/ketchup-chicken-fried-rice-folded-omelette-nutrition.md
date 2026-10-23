@@ -8,7 +8,7 @@ Servings: 2. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | neutral oil | Oil, canola (SR 04582) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 1.99 | 0 | 0.0 |
 | small onion, finely chopped | Onions, raw (SR 11282) | 100 | 40.0 | 1.1 | 9.3 | 4.24 | 0.00 | 0.1 | 0.04 | 4 | 1.7 |
 | small carrot, finely diced | Carrots, raw (SR 11124) | 80 | 32.8 | 0.7 | 7.7 | 3.79 | 0.00 | 0.2 | 0.03 | 55 | 2.2 |
-| boneless skinless chicken thigh (halal), in 1.5 cm pieces | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 150 | 181.5 | 29.5 | 0.0 | 0.00 | 0.00 | 6.2 | 1.65 | 142 | 0.0 |
+| boneless skinless chicken thigh, in 1.5 cm pieces | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 150 | 181.5 | 29.5 | 0.0 | 0.00 | 0.00 | 6.2 | 1.65 | 142 | 0.0 |
 | frozen peas | Peas, green, frozen, cooked, boiled, drained, without salt (FDC 170017) | 40 | 31.2 | 2.1 | 5.7 | 1.76 | 0.00 | 0.1 | 0.02 | 29 | 1.8 |
 | butter | Butter, without salt (SR 01145) | 15 | 107.5 | 0.1 | 0.0 | 0.01 | 0.00 | 12.2 | 7.71 | 2 | 0.0 |
 | tomato ketchup | Catsup (SR 11935) | 51 | 51.5 | 0.5 | 14.0 | 10.85 | 10.85 | 0.1 | 0.00 | 463 | 0.2 |
@@ -34,6 +34,6 @@ Servings: 2. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use halal chicken.
+- Use chicken.
 - The omelette is cooked until fully set rather than runny.
 - Cook the rice the day before and refrigerate it within 1 h.

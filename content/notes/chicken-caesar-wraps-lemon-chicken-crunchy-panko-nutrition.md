@@ -4,13 +4,13 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| boneless, skinless chicken breasts (halal) | Chicken, broiler, breast, skinless, boneless, meat only, raw (SR 05062) | 500 | 600.0 | 112.5 | 0.0 | 0.00 | 0.00 | 13.1 | 2.80 | 225 | 0.0 |
+| boneless, skinless chicken breasts | Chicken, broiler, breast, skinless, boneless, meat only, raw (SR 05062) | 500 | 600.0 | 112.5 | 0.0 | 0.00 | 0.00 | 13.1 | 2.80 | 225 | 0.0 |
 | olive oil | Oil, olive, salad or cooking (SR 04053) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 1.86 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | panko breadcrumbs | Bread crumbs, dry, grated, plain (FDC 174928); proxy for panko | 30 | 118.5 | 4.0 | 21.6 | 1.86 | 1.86 | 1.6 | 0.36 | 220 | 1.3 |
 | olive oil | Oil, olive, salad or cooking (SR 04053) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 1.86 | 0 | 0.0 |
-| mayonnaise (halal-certified) | Salad dressing, mayonnaise, regular (SR 04025) | 60 | 408.0 | 0.6 | 0.3 | 0.34 | 0.34 | 44.9 | 7.04 | 381 | 0.0 |
+| mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 60 | 408.0 | 0.6 | 0.3 | 0.34 | 0.34 | 44.9 | 7.04 | 381 | 0.0 |
 | Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 25 | 98.0 | 8.9 | 0.8 | 0.20 | 0.00 | 6.5 | 4.10 | 400 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 30 | 6.6 | 0.1 | 2.1 | 0.76 | 0.76 | 0.1 | 0.01 | 0 | 0.1 |
 | garlic cloves, grated | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
@@ -33,5 +33,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use a halal-certified mayonnaise made with spirit or cider vinegar only.
-- Choose cheese made with microbial or halal-certified rennet.
+- Use a mayonnaise made with spirit or cider vinegar only.
+- Choose cheese made with microbial rennet.

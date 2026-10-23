@@ -21,7 +21,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 24 | 87.4 | 2.5 | 18.3 | 0.06 | 0.00 | 0.2 | 0.04 | 0 | 0.6 |
 | boneless, skinless chicken thighs, cut into bite-size pieces | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 450 | 544.5 | 88.5 | 0.0 | 0.00 | 0.00 | 18.5 | 4.95 | 428 | 0.0 |
 | split red lentils, rinsed | Lentils, pink or red, raw (FDC 174284); sugars from SR 16069 lentils | 190 | 680.2 | 45.4 | 119.9 | 3.80 | 0.00 | 4.1 | 0.72 | 13 | 20.5 |
-| low-salt halal chicken broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 700 | 42.0 | 4.5 | 3.1 | 3.01 | 0.00 | 1.5 | 0.09 | 2597 | 0.0 |
+| low-salt chicken broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 700 | 42.0 | 4.5 | 3.1 | 3.01 | 0.00 | 1.5 | 0.09 | 2597 | 0.0 |
 | water | Water, tap (SR 14411) | 700 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 28 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | tin coconut milk | Nuts, coconut milk, canned (liquid expressed from grated meat and water) (FDC 170173) | 400 | 788.0 | 8.1 | 11.2 | 0.00 | 0.00 | 85.3 | 75.66 | 52 | 0.0 |
@@ -41,5 +41,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt halal broth.
+- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt broth.
 - Half broth and half water keeps the salt within 2.5 g per serving; the spices carry plenty of flavour.

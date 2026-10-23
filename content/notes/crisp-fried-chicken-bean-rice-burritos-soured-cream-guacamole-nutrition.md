@@ -9,11 +9,11 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | chilli powder (blend) | Spices, chili powder blend (FDC 171319) | 2.7 | 7.6 | 0.4 | 1.3 | 0.19 | 0.00 | 0.4 | 0.07 | 77 | 0.9 |
 | ground cumin | Spices, cumin seed (SR 02014) | 1.05 | 3.9 | 0.2 | 0.5 | 0.02 | 0.00 | 0.2 | 0.02 | 2 | 0.1 |
-| low-sodium chicken stock (halal) (ESTIMATE: ready-to-serve chicken broth values) | Soup, chicken broth, ready-to-serve (FDC 174536) | 150 | 9.0 | 1.0 | 0.7 | 0.65 | 0.00 | 0.3 | 0.02 | 556 | 0.0 |
-| chipotle in adobo, minced (halal-certified brand) | ESTIMATE from typical canned chipotle-in-adobo labels | 15 | 9.0 | 0.2 | 1.5 | 0.60 | 0.00 | 0.2 | 0.03 | 165 | 0.6 |
+| low-sodium chicken stock (ESTIMATE: ready-to-serve chicken broth values) | Soup, chicken broth, ready-to-serve (FDC 174536) | 150 | 9.0 | 1.0 | 0.7 | 0.65 | 0.00 | 0.3 | 0.02 | 556 | 0.0 |
+| chipotle in adobo, minced | ESTIMATE from typical canned chipotle-in-adobo labels | 15 | 9.0 | 0.2 | 1.5 | 0.60 | 0.00 | 0.2 | 0.03 | 165 | 0.6 |
 | long-grain white rice, rinsed | Rice, white, long-grain, regular, raw (SR 20044) | 100 | 365.0 | 7.1 | 80.0 | 0.12 | 0.00 | 0.7 | 0.18 | 5 | 1.3 |
 | can pinto beans, drained and rinsed | Beans, pinto, canned, drained solids (FDC 174286) | 240 | 273.6 | 16.8 | 48.5 | 1.30 | 0.00 | 2.2 | 0.38 | 574 | 13.2 |
-| boneless, skinless chicken breasts (halal) | Chicken, broiler, breast, skinless, boneless, meat only, raw (SR 05062) | 340 | 408.0 | 76.5 | 0.0 | 0.00 | 0.00 | 8.9 | 1.90 | 153 | 0.0 |
+| boneless, skinless chicken breasts | Chicken, broiler, breast, skinless, boneless, meat only, raw (SR 05062) | 340 | 408.0 | 76.5 | 0.0 | 0.00 | 0.00 | 8.9 | 1.90 | 153 | 0.0 |
 | mature cheddar, grated (check the rennet) | Cheese, cheddar, sharp, sliced (FDC 170899) | 100 | 410.0 | 24.2 | 2.1 | 0.27 | 0.00 | 33.8 | 19.40 | 644 | 0.0 |
 | coriander, chopped | Coriander (cilantro) leaves, raw (SR 11165) | 15 | 3.4 | 0.3 | 0.6 | 0.13 | 0.00 | 0.1 | 0.00 | 7 | 0.4 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 8 | 29.1 | 0.8 | 6.1 | 0.02 | 0.00 | 0.1 | 0.01 | 0 | 0.2 |
@@ -38,5 +38,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheese made with microbial or halal-certified rennet.
+- Choose cheese made with microbial rennet.
 - Nutrition includes about 40 g frying oil absorbed.

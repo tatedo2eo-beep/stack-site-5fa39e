@@ -5,7 +5,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 350 | 500.5 | 44.0 | 2.5 | 1.29 | 0.00 | 33.3 | 10.96 | 497 | 0.0 |
-| mayonnaise (halal-certified) | Salad dressing, mayonnaise, regular (SR 04025) | 45 | 306.0 | 0.4 | 0.3 | 0.26 | 0.26 | 33.7 | 5.28 | 286 | 0.0 |
+| mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 45 | 306.0 | 0.4 | 0.3 | 0.26 | 0.26 | 33.7 | 5.28 | 286 | 0.0 |
 | English mustard powder | Spices, mustard seed, ground (FDC 170929) | 1.5 | 7.6 | 0.4 | 0.4 | 0.10 | 0.00 | 0.5 | 0.03 | 0 | 0.2 |
 | cider vinegar | Vinegar, cider (FDC 173469) | 7.5 | 1.6 | 0.0 | 0.1 | 0.03 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
@@ -27,4 +27,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use a halal-certified mayonnaise made with spirit or cider vinegar only.
+- Use a mayonnaise made with spirit or cider vinegar only.

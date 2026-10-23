@@ -16,7 +16,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | spring onions, finely chopped | Onions, spring or scallions (includes tops and bulb), raw (FDC 170005) | 60 | 19.2 | 1.1 | 4.4 | 1.40 | 0.00 | 0.1 | 0.02 | 10 | 1.6 |
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 9 | 13.4 | 0.6 | 3.0 | 0.09 | 0.00 | 0.0 | 0.01 | 2 | 0.2 |
 | Scotch bonnet chilli, seeded and finely chopped | Hot chilli pepper, red, raw (FDC 170106) used as proxy | 5 | 2.0 | 0.1 | 0.4 | 0.27 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
-| beef mince, 15% fat (halal) | Beef, ground, 85% lean/15% fat, raw (SR 23567) | 500 | 1075.0 | 93.0 | 0.0 | 0.00 | 0.00 | 75.0 | 29.45 | 330 | 0.0 |
+| beef mince, 15% fat | Beef, ground, 85% lean/15% fat, raw (SR 23567) | 500 | 1075.0 | 93.0 | 0.0 | 0.00 | 0.00 | 75.0 | 29.45 | 330 | 0.0 |
 | mild curry powder | Spices, curry powder (FDC 170924) | 4 | 13.0 | 0.6 | 2.2 | 0.11 | 0.00 | 0.6 | 0.07 | 2 | 2.1 |
 | dried thyme | Spices, thyme, dried (SR 02042) | 1 | 2.8 | 0.1 | 0.6 | 0.02 | 0.00 | 0.1 | 0.03 | 1 | 0.4 |
 | ground allspice | Spices, allspice, ground (SR 02001) | 1.5 | 3.9 | 0.1 | 1.1 | 0.00 | 0.00 | 0.1 | 0.04 | 1 | 0.3 |

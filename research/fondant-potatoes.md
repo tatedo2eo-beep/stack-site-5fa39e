@@ -10,7 +10,7 @@ Dish: Fondant potatoes / flavour: Classic. Private file, not published.
 > Written for the fries and potatoes chapter. Quantities are my own; the core method matches the locked-list sources listed above; nothing copied.
 
 ## Own cooking judgment
-- Halal chicken or vegetable stock; no gelatine; 220 °C oven.
+- chicken or vegetable stock; no gelatine; 220 °C oven.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

@@ -16,7 +16,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | garlic cloves, peeled | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | coriander leaves and tender stems | Coriander (cilantro) leaves, raw (SR 11165) | 10 | 2.3 | 0.2 | 0.4 | 0.09 | 0.00 | 0.1 | 0.00 | 5 | 0.3 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
-| skirt or flank steak (halal), patted dry | Beef, flank, steak, separable lean and fat, trimmed to 0" fat, all grades, raw (FDC 169563) | 450 | 697.5 | 95.5 | 0.0 | 0.00 | 0.00 | 32.3 | 13.40 | 243 | 0.0 |
+| skirt or flank steak, patted dry | Beef, flank, steak, separable lean and fat, trimmed to 0" fat, all grades, raw (FDC 169563) | 450 | 697.5 | 95.5 | 0.0 | 0.00 | 0.00 | 32.3 | 13.40 | 243 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | neutral oil | Oil, canola (SR 04582) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 0.99 | 0 | 0.0 |
@@ -39,6 +39,6 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheese made with microbial or halal-certified rennet.
+- Choose cheese made with microbial rennet.
 - Naturally gluten-free if the masa harina is certified gluten-free.
 - Nutrition includes about 30 g oil absorbed while crisping.

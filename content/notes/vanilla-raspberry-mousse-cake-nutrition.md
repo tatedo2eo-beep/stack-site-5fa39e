@@ -11,20 +11,20 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 | raspberries (fresh or frozen) | Raspberries, raw (FDC 167755) | 250 | 130.0 | 3.0 | 29.8 | 11.05 | 0.00 | 1.6 | 0.05 | 2 | 16.2 |
 | caster sugar | Sugars, granulated (SR 19335) | 50 | 193.5 | 0.0 | 50.0 | 49.90 | 49.90 | 0.0 | 0.00 | 0 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 15 | 3.3 | 0.1 | 1.0 | 0.38 | 0.38 | 0.0 | 0.01 | 0 | 0.0 |
-| halal-certified (beef) powdered gelatine | Gelatins, dry powder, unsweetened (FDC 169599) | 5 | 16.8 | 4.3 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 10 | 0.0 |
+| beef powdered gelatine | Gelatins, dry powder, unsweetened (FDC 169599) | 5 | 16.8 | 4.3 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 10 | 0.0 |
 | cold water | Water, tap (SR 14411) | 30 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
 | whole milk | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 258 | 157.4 | 8.1 | 12.4 | 13.03 | 0.00 | 8.4 | 4.81 | 111 | 0.0 |
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 51 | 164.2 | 8.1 | 1.8 | 0.29 | 0.00 | 13.5 | 4.87 | 24 | 0.0 |
 | caster sugar | Sugars, granulated (SR 19335) | 70 | 270.9 | 0.0 | 70.0 | 69.86 | 69.86 | 0.0 | 0.00 | 1 | 0.0 |
 | alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8.4 | 24.2 | 0.0 | 1.1 | 1.06 | 1.06 | 0.0 | 0.00 | 1 | 0.0 |
-| halal-certified (beef) powdered gelatine | Gelatins, dry powder, unsweetened (FDC 169599) | 8 | 26.8 | 6.8 | 0.0 | 0.00 | 0.00 | 0.0 | 0.01 | 16 | 0.0 |
+| beef powdered gelatine | Gelatins, dry powder, unsweetened (FDC 169599) | 8 | 26.8 | 6.8 | 0.0 | 0.00 | 0.00 | 0.0 | 0.01 | 16 | 0.0 |
 | cold water | Water, tap (SR 14411) | 45 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2 | 0.0 |
 | white chocolate, chopped | Candies, white chocolate (FDC 167571) | 120 | 646.8 | 7.0 | 71.1 | 70.80 | 70.80 | 38.5 | 23.29 | 108 | 0.2 |
 | double cream | Cream, fluid, heavy whipping (FDC 170859) | 300 | 1020.0 | 8.5 | 8.5 | 8.76 | 0.00 | 108.2 | 69.10 | 81 | 0.0 |
 | raspberries (fresh or frozen) | Raspberries, raw (FDC 167755) | 150 | 78.0 | 1.8 | 17.9 | 6.63 | 0.00 | 1.0 | 0.03 | 2 | 9.8 |
 | caster sugar | Sugars, granulated (SR 19335) | 60 | 232.2 | 0.0 | 60.0 | 59.88 | 59.88 | 0.0 | 0.00 | 1 | 0.0 |
 | water | Water, tap (SR 14411) | 60 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2 | 0.0 |
-| halal-certified (beef) powdered gelatine | Gelatins, dry powder, unsweetened (FDC 169599) | 5 | 16.8 | 4.3 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 10 | 0.0 |
+| beef powdered gelatine | Gelatins, dry powder, unsweetened (FDC 169599) | 5 | 16.8 | 4.3 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 10 | 0.0 |
 | cold water, for the gelatine | Water, tap (SR 14411) | 30 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
 | **Total** | | | 3682 | 70.9 | 430.1 | 352.06 | 311.76 | 193.6 | 113.10 | 518 | 27.9 |
 
@@ -41,5 +41,5 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Large egg taken as 50 g edible (yolk 17 g, white 33 g).
-- Use halal-certified gelatine (beef or fish); vegetarian setting agents behave differently and are not tested here.
+- Use gelatine (beef or fish); vegetarian setting agents behave differently and are not tested here.
 - The custard is cooked to 82 °C.

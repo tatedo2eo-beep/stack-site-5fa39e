@@ -10,7 +10,7 @@ Dish: Red velvet / flavour: Classic. Private file, not published.
 > Written for the cakes chapter. Quantities are my own; the core method matches the locked-list sources listed; nothing copied.
 
 ## Own cooking judgment
-- Natural cocoa with bicarbonate, buttermilk and vinegar; oil batter (NYT); halal-certified, carmine-free red colouring.
+- Natural cocoa with bicarbonate, buttermilk and vinegar; oil batter (NYT); carmine-free red colouring.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

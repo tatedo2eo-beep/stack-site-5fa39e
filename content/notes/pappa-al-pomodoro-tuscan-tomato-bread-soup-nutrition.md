@@ -29,4 +29,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Grating the tomatoes removes the skins without blanching.
-- Parmesan is traditionally made with animal rennet; choose a vegetarian or halal-certified hard cheese if needed.
+- Parmesan is traditionally made with animal rennet; choose a vegetarian or hard cheese if needed.

@@ -20,5 +20,5 @@ Servings: 2. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Despite the name there is no egg or cream. Chocolate syrup uses an estimated label profile; check the brand is halal-certified if needed.
+- Despite the name there is no egg or cream. Chocolate syrup uses an estimated label profile; check the brand is if needed.
 - Everything must be very cold, and the seltzer freshly opened, for a good head of foam.

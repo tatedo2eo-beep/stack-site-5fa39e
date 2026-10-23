@@ -12,7 +12,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | brown sugar | Sugars, brown (SR 19334) | 4 | 15.2 | 0.0 | 3.9 | 3.88 | 3.88 | 0.0 | 0.00 | 1 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 2.4 | 6.0 | 0.2 | 1.5 | 0.02 | 0.00 | 0.1 | 0.03 | 0 | 0.6 |
-| skirt or flank steak (halal) | Beef, flank, steak, separable lean and fat, trimmed to 0" fat, all grades, raw (FDC 169563) | 680 | 1054.0 | 144.3 | 0.0 | 0.00 | 0.00 | 48.8 | 20.25 | 367 | 0.0 |
+| skirt or flank steak | Beef, flank, steak, separable lean and fat, trimmed to 0" fat, all grades, raw (FDC 169563) | 680 | 1054.0 | 144.3 | 0.0 | 0.00 | 0.00 | 48.8 | 20.25 | 367 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 0.99 | 0 | 0.0 |
 | red pepper, cut into 1 cm strips | Peppers, sweet, red, raw (SR 11821) | 180 | 55.8 | 1.8 | 10.9 | 7.56 | 0.00 | 0.5 | 0.05 | 7 | 3.8 |
 | yellow pepper, cut into 1 cm strips | Peppers, sweet, yellow, raw (FDC 169383) | 180 | 48.6 | 1.8 | 11.4 | 0.00 | 0.00 | 0.4 | 0.06 | 4 | 1.6 |

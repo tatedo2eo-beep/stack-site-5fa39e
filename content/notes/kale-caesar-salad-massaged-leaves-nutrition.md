@@ -11,7 +11,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 3.73 | 1 | 0.0 |
 | garlic cloves, grated to a paste | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | fine salt | Salt, table (SR 02047) | 0.4 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 155 | 0.0 |
-| mayonnaise (halal-certified) | Salad dressing, mayonnaise, regular (SR 04025) | 100 | 680.0 | 1.0 | 0.6 | 0.57 | 0.57 | 74.8 | 11.74 | 635 | 0.0 |
+| mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 100 | 680.0 | 1.0 | 0.6 | 0.57 | 0.57 | 74.8 | 11.74 | 635 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 30 | 6.6 | 0.1 | 2.1 | 0.76 | 0.76 | 0.1 | 0.01 | 0 | 0.1 |
 | anchovy fillets in oil, drained, patted dry and mashed to a paste | Fish, anchovy, European, canned in oil, drained (FDC 174183) | 16 | 33.6 | 4.6 | 0.0 | 0.00 | 0.00 | 1.6 | 0.35 | 587 | 0.0 |
 | garlic cloves, grated to a paste | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
@@ -34,5 +34,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- A mayonnaise base replaces raw egg yolk; Worcestershire sauce, Dijon and wine vinegar used by the sources are left out (halal).
+- A mayonnaise base replaces raw egg yolk; Worcestershire sauce, Dijon and wine vinegar used by the sources are left out.
 - Check the hard cheese is made with microbial or vegetarian rennet.

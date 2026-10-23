@@ -4,7 +4,7 @@ Servings: 12. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| raw chicken wings, backs and carcasses (halal) (counted as finished home-prepared chicken stock (FDC 172884); bones and vegetables are strained out) | Soup, stock, chicken, home-prepared (FDC 172884) | 3000 | 1080.0 | 75.6 | 105.9 | 47.40 | 0.00 | 36.0 | 9.63 | 4290 | 0.0 |
+| raw chicken wings, backs and carcasses (counted as finished home-prepared chicken stock (FDC 172884); bones and vegetables are strained out) | Soup, stock, chicken, home-prepared (FDC 172884) | 3000 | 1080.0 | 75.6 | 105.9 | 47.40 | 0.00 | 36.0 | 9.63 | 4290 | 0.0 |
 | **Total** | | | 1080 | 75.6 | 105.9 | 47.40 | 0.00 | 36.0 | 9.63 | 4290 | 0.0 |
 
 **Per serving (total / 12):** kcal 90, protein_g 6.3, carbs_g 8.8, sugar_g 4.0, free_sugar_g 0.0, fat_g 3.0, satfat_g 0.8, salt_g 0.89, fibre_g 0.0

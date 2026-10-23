@@ -13,7 +13,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | coriander leaves and stems | Coriander (cilantro) leaves, raw (SR 11165) | 15 | 3.4 | 0.3 | 0.6 | 0.13 | 0.00 | 0.1 | 0.00 | 7 | 0.4 |
 | fine salt | Salt, table (SR 02047) | 6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2325 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
-| skirt or flank steak (halal) | Beef, flank, steak, separable lean and fat, trimmed to 0" fat, all grades, raw (FDC 169563) | 680 | 1054.0 | 144.3 | 0.0 | 0.00 | 0.00 | 48.8 | 20.25 | 367 | 0.0 |
+| skirt or flank steak | Beef, flank, steak, separable lean and fat, trimmed to 0" fat, all grades, raw (FDC 169563) | 680 | 1054.0 | 144.3 | 0.0 | 0.00 | 0.00 | 48.8 | 20.25 | 367 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 0.99 | 0 | 0.0 |
 | spring onions, trimmed | Onions, spring or scallions (includes tops and bulb), raw (FDC 170005) | 120 | 38.4 | 2.2 | 8.8 | 2.80 | 0.00 | 0.2 | 0.04 | 19 | 3.1 |
 | jalapeños | Peppers, jalapeno, raw (SR 11979) | 30 | 8.7 | 0.3 | 1.9 | 1.24 | 0.00 | 0.1 | 0.03 | 1 | 0.8 |

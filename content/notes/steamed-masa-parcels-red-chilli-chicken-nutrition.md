@@ -4,7 +4,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| boneless, skinless chicken thighs (halal) | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 600 | 726.0 | 118.0 | 0.0 | 0.00 | 0.00 | 24.7 | 6.60 | 570 | 0.0 |
+| boneless, skinless chicken thighs | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 600 | 726.0 | 118.0 | 0.0 | 0.00 | 0.00 | 24.7 | 6.60 | 570 | 0.0 |
 | onion, in 1 piece | Onions, raw (SR 11282) | 40 | 16.0 | 0.4 | 3.7 | 1.70 | 0.00 | 0.0 | 0.02 | 2 | 0.7 |
 | garlic cloves, peeled | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | dried mild red chillies (such as guajillo), stemmed and seeded (ESTIMATE: dried chilli values used for guajillo) | ESTIMATE: dried red chillies, whole (close to SR chili pepper powder without salt) | 24 | 67.7 | 2.9 | 12.0 | 2.40 | 0.00 | 1.4 | 0.24 | 22 | 6.7 |
@@ -34,5 +34,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Makes 12-16 tamales (2-3 per serving). Corn husks are wrappers only and are not counted.
-- Vegetable shortening is counted with USDA household shortening values; check the label for halal status.
+- Vegetable shortening is counted with USDA household shortening values; check the label for status.
 - The chicken cooking liquid is counted as ready-to-serve chicken broth (a cautious overestimate of sodium).

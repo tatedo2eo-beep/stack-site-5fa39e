@@ -4,7 +4,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| halal stewing beef (chuck), cut into 4 cm pieces | Beef, chuck for stew, separable lean and fat, all grades, raw (FDC 171206) | 700 | 896.0 | 152.2 | 1.1 | 0.00 | 0.00 | 31.4 | 13.02 | 560 | 0.0 |
+| stewing beef (chuck), cut into 4 cm pieces | Beef, chuck for stew, separable lean and fat, all grades, raw (FDC 171206) | 700 | 896.0 | 152.2 | 1.1 | 0.00 | 0.00 | 31.4 | 13.02 | 560 | 0.0 |
 | medium onion, thinly sliced | Onions, raw (SR 11282) | 175 | 70.0 | 1.9 | 16.3 | 7.42 | 0.00 | 0.2 | 0.07 | 7 | 3.0 |
 | fine salt | Salt, table (SR 02047) | 6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2325 | 0.0 |
 | cayenne pepper | Spices, pepper, red or cayenne (SR 02031) | 0.9 | 2.9 | 0.1 | 0.5 | 0.09 | 0.00 | 0.2 | 0.03 | 0 | 0.2 |

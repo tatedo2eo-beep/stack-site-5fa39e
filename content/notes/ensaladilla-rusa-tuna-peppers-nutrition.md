@@ -10,7 +10,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | frozen peas | Peas, green, frozen, cooked, boiled, drained, without salt (FDC 170017) | 130 | 101.4 | 6.7 | 18.5 | 5.72 | 0.00 | 0.4 | 0.06 | 94 | 5.9 |
 | hard-boiled eggs, peeled | Egg, whole, raw, fresh (SR 01123) | 200 | 286.0 | 25.1 | 1.4 | 0.74 | 0.00 | 19.0 | 6.26 | 284 | 0.0 |
 | tinned tuna in olive oil, drained weight | Fish, tuna, light, canned in oil, drained solids (FDC 173708) | 150 | 297.0 | 43.7 | 0.0 | 0.00 | 0.00 | 12.3 | 2.30 | 624 | 0.0 |
-| mayonnaise (halal-certified) | Salad dressing, mayonnaise, regular (SR 04025) | 220 | 1496.0 | 2.1 | 1.3 | 1.25 | 1.25 | 164.7 | 25.83 | 1397 | 0.0 |
+| mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 220 | 1496.0 | 2.1 | 1.3 | 1.25 | 1.25 | 164.7 | 25.83 | 1397 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 15 | 3.3 | 0.1 | 1.0 | 0.38 | 0.38 | 0.0 | 0.01 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
@@ -30,5 +30,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Lemon juice replaces the sherry vinegar used by one source and ham used by another is left out (halal).
+- Lemon juice replaces the sherry vinegar used by one source and ham used by another is left out.
 - Check jarred peppers and olives are packed without wine vinegar.

@@ -8,7 +8,7 @@ Dish: Egg drop soup / flavour: Classic. Private file, not published.
 - [Safe Minimum Internal Temperature Chart (USDA FSIS)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) [Safety database (locked list): USDA FSIS]: Ground meat 71.1 °C; all poultry incl. ground 73.9 °C; leftovers 73.9 °C. _(opened with WebFetch (curl gets 403 bot-block))_
 - [USDA FoodData Central (API, SR Legacy)](https://fdc.nal.usda.gov/) [Nutrition database (locked list): USDA FoodData Central]: Per-100 g nutrient values for every ingredient (ids in the nutrition note). _(queried via API)_
 
-> Halal: no Shaoxing wine or sherry (NYT) and no ham (SE); the slurry is made with water. Soy sauce from ATK.
+> Changes: no Shaoxing wine or sherry (NYT) and no ham (SE); the slurry is made with water. Soy sauce from ATK.
 
 ## Own cooking judgment
 - Broth infused with ginger, garlic, coriander and peppercorns, then strained (NYT, SE)

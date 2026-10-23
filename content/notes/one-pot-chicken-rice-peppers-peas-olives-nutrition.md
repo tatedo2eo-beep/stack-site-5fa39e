@@ -9,7 +9,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | dried oregano | Spices, oregano, dried (SR 02027) | 1 | 2.6 | 0.1 | 0.7 | 0.04 | 0.00 | 0.0 | 0.02 | 0 | 0.4 |
 | fine salt | Salt, table (SR 02047) | 4.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1744 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
-| boneless, skinless chicken thighs (halal) | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 900 | 1089.0 | 176.9 | 0.0 | 0.00 | 0.00 | 37.1 | 9.90 | 855 | 0.0 |
+| boneless, skinless chicken thighs | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 900 | 1089.0 | 176.9 | 0.0 | 0.00 | 0.00 | 37.1 | 9.90 | 855 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 1.99 | 0 | 0.0 |
 | medium onion, finely chopped | Onions, raw (SR 11282) | 150 | 60.0 | 1.7 | 14.0 | 6.36 | 0.00 | 0.2 | 0.06 | 6 | 2.5 |
 | green pepper, finely chopped | Peppers, sweet, green, raw (FDC 170427) | 150 | 30.0 | 1.3 | 7.0 | 3.60 | 0.00 | 0.3 | 0.09 | 4 | 2.5 |
@@ -21,7 +21,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ground cumin | Spices, cumin seed (SR 02014) | 1.05 | 3.9 | 0.2 | 0.5 | 0.02 | 0.00 | 0.2 | 0.02 | 2 | 0.1 |
 | tomato passata or plain tomato sauce | Tomato products, canned, sauce (FDC 170054) | 200 | 48.0 | 2.4 | 10.6 | 7.12 | 0.00 | 0.6 | 0.08 | 948 | 3.0 |
 | medium-grain white rice (such as Valencia or Calrose), rinsed until the water runs clear | Rice, white, long-grain, regular, raw (SR 20044) | 400 | 1460.0 | 28.5 | 319.8 | 0.48 | 0.00 | 2.6 | 0.72 | 20 | 5.2 |
-| low-sodium chicken stock (halal) (ESTIMATE: ready-to-serve chicken broth values) | Soup, chicken broth, ready-to-serve (FDC 174536) | 450 | 27.0 | 2.9 | 2.0 | 1.94 | 0.00 | 0.9 | 0.06 | 1670 | 0.0 |
+| low-sodium chicken stock (ESTIMATE: ready-to-serve chicken broth values) | Soup, chicken broth, ready-to-serve (FDC 174536) | 450 | 27.0 | 2.9 | 2.0 | 1.94 | 0.00 | 0.9 | 0.06 | 1670 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | pimento-stuffed green olives, halved | Olives, pickled, canned or bottled, green (FDC 169096) | 60 | 87.0 | 0.6 | 2.3 | 0.32 | 0.00 | 9.2 | 1.22 | 934 | 2.0 |
 | frozen peas, thawed | Peas, green, frozen, unprepared (SR 11312) | 150 | 115.5 | 7.8 | 20.4 | 6.75 | 0.00 | 0.6 | 0.11 | 162 | 6.8 |

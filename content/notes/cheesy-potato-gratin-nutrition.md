@@ -30,4 +30,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Cheese is often made with animal rennet; choose a vegetarian or halal-certified cheese if needed.
+- Cheese is often made with animal rennet; choose a vegetarian cheese if needed.

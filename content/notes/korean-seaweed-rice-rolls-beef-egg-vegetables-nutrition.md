@@ -13,7 +13,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | toasted sesame oil | Oil, sesame (SR 04058) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 1.92 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | toasted sesame seeds | Seeds, sesame, whole, dried (SR 12023) | 9 | 51.6 | 1.6 | 2.1 | 0.03 | 0.00 | 4.5 | 0.63 | 1 | 1.1 |
-| lean minced beef (halal, 10% fat) | Beef, ground, 90% lean/10% fat, raw (FDC 174030) | 250 | 440.0 | 50.0 | 0.0 | 0.00 | 0.00 | 25.0 | 9.83 | 165 | 0.0 |
+| lean minced beef (10% fat) | Beef, ground, 90% lean/10% fat, raw (FDC 174030) | 250 | 440.0 | 50.0 | 0.0 | 0.00 | 0.00 | 25.0 | 9.83 | 165 | 0.0 |
 | soy sauce | Soy sauce, shoyu (FDC 174277) | 16 | 8.5 | 1.3 | 0.8 | 0.06 | 0.00 | 0.1 | 0.01 | 878 | 0.1 |
 | sugar | Sugars, granulated (SR 19335) | 8 | 31.0 | 0.0 | 8.0 | 7.98 | 7.98 | 0.0 | 0.00 | 0 | 0.0 |
 | garlic cloves, grated | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |

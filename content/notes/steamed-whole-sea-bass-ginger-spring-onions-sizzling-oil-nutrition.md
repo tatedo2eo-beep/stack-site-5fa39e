@@ -31,4 +31,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Fish cooked until opaque and flaking, at least 63 °C.
 - About 540 g of the 1.2 kg whole fish is eaten (ESTIMATE).
 - All the sauce and oil counted.
-- Many Cantonese versions add a splash of cooking alcohol; none is used here (halal).
+- Many Cantonese versions add a splash of cooking alcohol; none is used here.

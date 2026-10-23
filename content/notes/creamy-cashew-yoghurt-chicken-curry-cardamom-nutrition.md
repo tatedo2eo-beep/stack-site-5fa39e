@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| boneless, skinless chicken thighs (halal), cut into 4 cm pieces | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 700 | 847.0 | 137.6 | 0.0 | 0.00 | 0.00 | 28.8 | 7.70 | 665 | 0.0 |
+| boneless, skinless chicken thighs, cut into 4 cm pieces | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 700 | 847.0 | 137.6 | 0.0 | 0.00 | 0.00 | 28.8 | 7.70 | 665 | 0.0 |
 | plain whole-milk yoghurt | Yogurt, plain, whole milk (FDC 171284) | 100 | 61.0 | 3.5 | 4.7 | 4.66 | 0.00 | 3.2 | 2.10 | 46 | 0.0 |
 | fresh ginger, finely grated | Ginger root, raw (SR 11216) | 15 | 12.0 | 0.3 | 2.7 | 0.26 | 0.00 | 0.1 | 0.03 | 2 | 0.3 |
 | garlic cloves, finely grated | Garlic, raw (SR 11215) | 12 | 17.9 | 0.8 | 4.0 | 0.12 | 0.00 | 0.1 | 0.01 | 2 | 0.3 |

@@ -5,7 +5,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 145 g cans tuna in olive oil, well drained | Fish, tuna, light, canned in oil, drained solids (FDC 173708) | 220 | 435.6 | 64.1 | 0.0 | 0.00 | 0.00 | 18.1 | 3.37 | 915 | 0.0 |
-| mayonnaise (halal-certified) | Salad dressing, mayonnaise, regular (SR 04025) | 60 | 408.0 | 0.6 | 0.3 | 0.34 | 0.34 | 44.9 | 7.04 | 381 | 0.0 |
+| mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 60 | 408.0 | 0.6 | 0.3 | 0.34 | 0.34 | 44.9 | 7.04 | 381 | 0.0 |
 | dill pickles, finely chopped | Pickles, cucumber, dill (SR 11937) | 25 | 3.0 | 0.1 | 0.6 | 0.32 | 0.00 | 0.1 | 0.02 | 202 | 0.2 |
 | red onion, finely chopped | Onions, raw (SR 11282) | 30 | 12.0 | 0.3 | 2.8 | 1.27 | 0.00 | 0.0 | 0.01 | 1 | 0.5 |
 | celery, finely chopped | Celery, raw (FDC 169988) | 20 | 2.8 | 0.1 | 0.6 | 0.27 | 0.00 | 0.0 | 0.01 | 16 | 0.3 |
@@ -31,5 +31,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use a halal-certified mayonnaise made with cider or distilled malt-free vinegar.
-- Choose cheese made with microbial or halal-certified rennet.
+- Use a mayonnaise made with cider or distilled malt-free vinegar.
+- Choose cheese made with microbial rennet.

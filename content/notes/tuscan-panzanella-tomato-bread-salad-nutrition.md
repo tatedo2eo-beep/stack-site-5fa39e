@@ -31,5 +31,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Cider vinegar and mustard powder replace the red wine vinegar and Dijon used by the sources (halal).
+- Cider vinegar and mustard powder replace the red wine vinegar and Dijon used by the sources.
 - Mozzarella used in one source is left out to keep the classic bread-and-tomato salad.

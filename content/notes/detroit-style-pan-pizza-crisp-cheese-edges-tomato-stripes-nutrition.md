@@ -33,4 +33,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Wisconsin brick cheese is hard to find outside the US; a mix of mozzarella and mild cheddar gives a similar melt and browning.
 - Meat-free: no pepperoni or other cured meat.
 - Only about two-thirds of the sauce is counted; the remainder keeps 5 days in the fridge.
-- Mozzarella, cheddar and Parmesan are often made with animal rennet; choose cheese made with microbial or vegetarian rennet (or halal-certified) if needed.
+- Mozzarella, cheddar and Parmesan are often made with animal rennet; choose cheese made with microbial or vegetarian rennet if needed.

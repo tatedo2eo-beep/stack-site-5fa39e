@@ -10,7 +10,7 @@ Dish: Meatballs / flavour: Classic. Private file, not published.
 > Written for the meat chapter. Quantities are my own; the core method matches the locked-list sources listed above; nothing copied. Whole cuts cooked to at least 63 °C plus rest and ground meat to 71 °C (site rules, FSIS), regardless of the lower pull temperatures some sources give.
 
 ## Own cooking judgment
-- Bread-milk panade with Parmesan (NYT); oven-browned then simmered in sauce to 71 °C (ATK); all beef (halal).
+- Bread-milk panade with Parmesan (NYT); oven-browned then simmered in sauce to 71 °C (ATK); all beef.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

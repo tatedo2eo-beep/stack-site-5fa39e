@@ -8,7 +8,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt, for wilting (about 60% stays after squeezing (ESTIMATE)) | Salt, table (SR 02047) | 2.7 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1046 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 15 | 3.3 | 0.1 | 1.0 | 0.38 | 0.38 | 0.0 | 0.01 | 0 | 0.0 |
 | mustard powder | Spices, mustard seed, ground (FDC 170929) | 6 | 30.5 | 1.6 | 1.7 | 0.41 | 0.00 | 2.2 | 0.12 | 1 | 0.7 |
-| mayonnaise (halal-certified) | Salad dressing, mayonnaise, regular (SR 04025) | 100 | 680.0 | 1.0 | 0.6 | 0.57 | 0.57 | 74.8 | 11.74 | 635 | 0.0 |
+| mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 100 | 680.0 | 1.0 | 0.6 | 0.57 | 0.57 | 74.8 | 11.74 | 635 | 0.0 |
 | plain Greek-style yoghurt | Yogurt, Greek, plain, whole milk (FDC 171304) | 60 | 58.2 | 5.4 | 2.4 | 2.40 | 0.00 | 3.0 | 1.44 | 21 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 15 | 3.3 | 0.1 | 1.0 | 0.38 | 0.38 | 0.0 | 0.01 | 0 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
@@ -28,5 +28,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Mustard powder and lemon replace the Dijon and wine or sherry vinegar used by the sources (halal).
+- Mustard powder and lemon replace the Dijon and wine or sherry vinegar used by the sources.
 - Shop-bought mayonnaise and yoghurt stand in for a homemade raw-egg mayonnaise.

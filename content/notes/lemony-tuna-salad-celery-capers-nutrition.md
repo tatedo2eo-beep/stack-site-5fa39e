@@ -9,7 +9,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | onion, finely chopped | Onions, raw (SR 11282) | 50 | 20.0 | 0.6 | 4.7 | 2.12 | 0.00 | 0.1 | 0.02 | 2 | 0.8 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 22 | 4.8 | 0.1 | 1.5 | 0.55 | 0.55 | 0.1 | 0.01 | 0 | 0.1 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
-| mayonnaise (halal-certified) | Salad dressing, mayonnaise, regular (SR 04025) | 80 | 544.0 | 0.8 | 0.5 | 0.46 | 0.46 | 59.9 | 9.39 | 508 | 0.0 |
+| mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 80 | 544.0 | 0.8 | 0.5 | 0.46 | 0.46 | 59.9 | 9.39 | 508 | 0.0 |
 | celery stick, finely diced | Celery, raw (FDC 169988) | 50 | 7.0 | 0.3 | 1.5 | 0.67 | 0.00 | 0.1 | 0.02 | 40 | 0.8 |
 | red pepper, finely diced | Peppers, sweet, red, raw (SR 11821) | 40 | 12.4 | 0.4 | 2.4 | 1.68 | 0.00 | 0.1 | 0.01 | 2 | 0.8 |
 | capers, rinsed and chopped | Capers, canned (SR 02054) | 9 | 2.1 | 0.2 | 0.4 | 0.04 | 0.00 | 0.1 | 0.02 | 211 | 0.3 |

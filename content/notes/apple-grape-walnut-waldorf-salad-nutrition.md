@@ -5,7 +5,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | walnut halves | Nuts, walnuts, English (SR 12155) | 60 | 392.4 | 9.1 | 8.2 | 1.57 | 0.00 | 39.1 | 3.68 | 1 | 4.0 |
-| mayonnaise (halal-certified) | Salad dressing, mayonnaise, regular (SR 04025) | 60 | 408.0 | 0.6 | 0.3 | 0.34 | 0.34 | 44.9 | 7.04 | 381 | 0.0 |
+| mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 60 | 408.0 | 0.6 | 0.3 | 0.34 | 0.34 | 44.9 | 7.04 | 381 | 0.0 |
 | plain whole-milk Greek-style yoghurt | Yogurt, plain, whole milk (FDC 171284) | 45 | 27.4 | 1.6 | 2.1 | 2.10 | 0.00 | 1.5 | 0.94 | 21 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 15 | 3.3 | 0.1 | 1.0 | 0.38 | 0.38 | 0.0 | 0.01 | 0 | 0.0 |
 | honey | Honey (SR 19296) | 7 | 21.3 | 0.0 | 5.8 | 5.75 | 5.75 | 0.0 | 0.00 | 0 | 0.0 |

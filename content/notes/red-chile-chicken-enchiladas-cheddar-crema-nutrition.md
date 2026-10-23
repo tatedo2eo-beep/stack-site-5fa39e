@@ -12,7 +12,7 @@ Servings: 5. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ground cumin | Spices, cumin seed (SR 02014) | 4.2 | 15.8 | 0.7 | 1.9 | 0.09 | 0.00 | 0.9 | 0.06 | 7 | 0.4 |
 | sugar | Sugars, granulated (SR 19335) | 8.4 | 32.5 | 0.0 | 8.4 | 8.38 | 8.38 | 0.0 | 0.00 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
-| boneless, skinless chicken thighs (halal), cut into 1 cm strips | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 340 | 411.4 | 66.8 | 0.0 | 0.00 | 0.00 | 14.0 | 3.74 | 323 | 0.0 |
+| boneless, skinless chicken thighs, cut into 1 cm strips | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 340 | 411.4 | 66.8 | 0.0 | 0.00 | 0.00 | 14.0 | 3.74 | 323 | 0.0 |
 | tomato passata (no salt added) | Tomato products, canned, puree, without salt added (FDC 170460) | 450 | 171.0 | 7.4 | 40.4 | 21.73 | 0.00 | 0.9 | 0.13 | 126 | 8.5 |
 | coriander, chopped | Coriander (cilantro) leaves, raw (SR 11165) | 15 | 3.4 | 0.3 | 0.6 | 0.13 | 0.00 | 0.1 | 0.00 | 7 | 0.4 |
 | jalapeño, seeded and finely chopped | Peppers, jalapeno, raw (SR 11979) | 15 | 4.3 | 0.1 | 1.0 | 0.62 | 0.00 | 0.1 | 0.01 | 0 | 0.4 |
@@ -38,6 +38,6 @@ Servings: 5. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheese made with microbial or halal-certified rennet.
+- Choose cheese made with microbial rennet.
 - No-salt passata keeps the dish within the salt target; ordinary tomato sauce roughly doubles the salt.
 - Naturally gluten-free if the corn tortillas and chilli powder are certified gluten-free.

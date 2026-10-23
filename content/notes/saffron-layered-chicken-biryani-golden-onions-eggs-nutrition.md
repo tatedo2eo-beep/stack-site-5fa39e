@@ -4,7 +4,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| bone-in chicken thighs and drumsticks (halal), skin removed (ESTIMATE: edible meat of 1.2 kg bone-in pieces) | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 900 | 1089.0 | 176.9 | 0.0 | 0.00 | 0.00 | 37.1 | 9.90 | 855 | 0.0 |
+| bone-in chicken thighs and drumsticks, skin removed (ESTIMATE: edible meat of 1.2 kg bone-in pieces) | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 900 | 1089.0 | 176.9 | 0.0 | 0.00 | 0.00 | 37.1 | 9.90 | 855 | 0.0 |
 | plain whole-milk yoghurt | Yogurt, plain, whole milk (FDC 171284) | 240 | 146.4 | 8.3 | 11.2 | 11.18 | 0.00 | 7.8 | 5.03 | 110 | 0.0 |
 | garlic cloves, finely grated | Garlic, raw (SR 11215) | 18 | 26.8 | 1.1 | 6.0 | 0.18 | 0.00 | 0.1 | 0.02 | 3 | 0.4 |
 | fresh ginger, finely grated | Ginger root, raw (SR 11216) | 25 | 20.0 | 0.5 | 4.4 | 0.42 | 0.00 | 0.2 | 0.05 | 3 | 0.5 |
@@ -43,5 +43,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use halal chicken.
+- Use chicken.
 - Rosewater and kewra water are left out; alcohol-free rosewater can be added with the saffron milk.

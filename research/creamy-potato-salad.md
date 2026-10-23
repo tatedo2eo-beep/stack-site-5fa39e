@@ -10,7 +10,7 @@ Dish: Potato salad / flavour: Classic. Private file, not published.
 > Written for the fries and potatoes chapter. Quantities are my own; the core method matches the locked-list sources listed above; nothing copied.
 
 ## Own cooking judgment
-- Vinegar on the hot potatoes (SE); eggs and celery (NYT) to match the photo; wine-free mustard (halal).
+- Vinegar on the hot potatoes (SE); eggs and celery (NYT) to match the photo; wine-free mustard.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

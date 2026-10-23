@@ -10,7 +10,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | soy sauce | Soy sauce, shoyu (FDC 174277) | 3 | 1.6 | 0.2 | 0.1 | 0.01 | 0.00 | 0.0 | 0.00 | 165 | 0.0 |
 | sweetcorn kernels (cut from 5-6 cobs, or frozen and thawed), divided | Corn, sweet, yellow, canned, whole kernel, drained solids (FDC 169214) | 600 | 402.0 | 13.7 | 86.0 | 26.64 | 0.00 | 7.3 | 1.47 | 1230 | 12.0 |
 | water | Water, tap (SR 14411) | 120 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 5 | 0.0 |
-| low-salt halal chicken broth, divided | Soup, chicken broth, ready-to-serve (FDC 174536) | 1000 | 60.0 | 6.4 | 4.4 | 4.30 | 0.00 | 2.1 | 0.13 | 3710 | 0.0 |
+| low-salt chicken broth, divided | Soup, chicken broth, ready-to-serve (FDC 174536) | 1000 | 60.0 | 6.4 | 4.4 | 4.30 | 0.00 | 2.1 | 0.13 | 3710 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | ground white pepper | Spices, pepper, white (FDC 170933) | 0.6 | 1.8 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
 | cornflour | Cornstarch (SR 20027) | 24 | 91.4 | 0.1 | 21.9 | 0.00 | 0.00 | 0.0 | 0.00 | 2 | 0.2 |
@@ -31,6 +31,6 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt halal broth.
+- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt broth.
 - Sweetcorn counted as canned, drained kernels (FDC 169214); fresh or frozen corn is very similar.
-- No cured meats; chicken thigh only (halal).
+- No cured meats; chicken thigh only.

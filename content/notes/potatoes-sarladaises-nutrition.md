@@ -5,7 +5,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | waxy or all-purpose potatoes (such as Yukon Gold), peeled and cut into 1 cm rounds (weighed peeled) | Potatoes, flesh and skin, raw (SR 11352) | 900 | 693.0 | 18.4 | 157.4 | 7.38 | 0.00 | 0.8 | 0.23 | 54 | 18.9 |
-| halal duck fat or ghee | Butter oil, anhydrous (FDC 173412) | 45 | 394.2 | 0.1 | 0.0 | 0.00 | 0.00 | 44.8 | 27.87 | 1 | 0.0 |
+| duck fat or ghee | Butter oil, anhydrous (FDC 173412) | 45 | 394.2 | 0.1 | 0.0 | 0.00 | 0.00 | 44.8 | 27.87 | 1 | 0.0 |
 | garlic cloves, thinly sliced | Garlic, raw (SR 11215) | 18 | 26.8 | 1.1 | 6.0 | 0.18 | 0.00 | 0.1 | 0.02 | 3 | 0.4 |
 | water | Water, tap (SR 14411) | 180 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 7 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2325 | 0.0 |

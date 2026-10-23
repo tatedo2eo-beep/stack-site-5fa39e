@@ -12,7 +12,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | cayenne pepper | Spices, pepper, red or cayenne (SR 02031) | 0.3 | 1.0 | 0.0 | 0.2 | 0.03 | 0.00 | 0.1 | 0.01 | 0 | 0.1 |
 | cider vinegar | Vinegar, cider (FDC 173469) | 10 | 2.1 | 0.0 | 0.1 | 0.04 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | full-fat soured cream | Cream, sour, cultured (FDC 171257) | 240 | 475.2 | 5.9 | 11.1 | 8.18 | 0.00 | 46.4 | 24.34 | 74 | 0.0 |
-| mayonnaise (halal-certified) | Salad dressing, mayonnaise, regular (SR 04025) | 120 | 816.0 | 1.2 | 0.7 | 0.68 | 0.68 | 89.8 | 14.09 | 762 | 0.0 |
+| mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 120 | 816.0 | 1.2 | 0.7 | 0.68 | 0.68 | 89.8 | 14.09 | 762 | 0.0 |
 | onion powder | Spices, onion powder (FDC 171327) | 2.4 | 8.2 | 0.2 | 1.9 | 0.16 | 0.00 | 0.0 | 0.01 | 2 | 0.4 |
 | garlic powder | Spices, garlic powder (FDC 171325) | 1.5 | 5.0 | 0.2 | 1.1 | 0.04 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | chives, finely chopped | Chives, raw (FDC 169994) | 10 | 3.0 | 0.3 | 0.4 | 0.19 | 0.00 | 0.1 | 0.01 | 0 | 0.2 |
@@ -31,4 +31,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use a halal-certified mayonnaise made with spirit or cider vinegar only.
+- Use a mayonnaise made with spirit or cider vinegar only.

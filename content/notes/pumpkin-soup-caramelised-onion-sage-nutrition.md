@@ -9,7 +9,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fresh rosemary, chopped | Rosemary, fresh (FDC 173473) | 4 | 5.2 | 0.1 | 0.8 | 0.00 | 0.00 | 0.2 | 0.11 | 1 | 0.6 |
 | garlic cloves, roughly chopped | Garlic, raw (SR 11215) | 12 | 17.9 | 0.8 | 4.0 | 0.12 | 0.00 | 0.1 | 0.01 | 2 | 0.3 |
 | apple juice | Apple juice, canned or bottled, unsweetened, without added ascorbic acid (FDC 173933) | 120 | 55.2 | 0.1 | 13.6 | 11.54 | 11.54 | 0.2 | 0.03 | 5 | 0.2 |
-| low-salt halal chicken or vegetable broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 600 | 36.0 | 3.8 | 2.6 | 2.58 | 0.00 | 1.3 | 0.08 | 2226 | 0.0 |
+| low-salt chicken or vegetable broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 600 | 36.0 | 3.8 | 2.6 | 2.58 | 0.00 | 1.3 | 0.08 | 2226 | 0.0 |
 | water | Water, tap (SR 14411) | 300 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 12 | 0.0 |
 | tinned pumpkin purée (not pie filling) | Pumpkin, canned, without salt (FDC 168450) | 850 | 289.0 | 9.4 | 68.8 | 28.05 | 0.00 | 2.4 | 1.24 | 42 | 24.6 |
 | ground nutmeg | Spices, nutmeg, ground (FDC 171326) | 1.1 | 5.8 | 0.1 | 0.5 | 0.03 | 0.00 | 0.4 | 0.29 | 0 | 0.2 |
@@ -33,5 +33,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt halal broth.
-- Apple juice (not alcoholic cider) gives the gentle sweetness and acidity, keeping the soup alcohol-free (halal).
+- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt broth.
+- Apple juice (not alcoholic cider) gives the gentle sweetness and acidity, keeping the soup alcohol-free.

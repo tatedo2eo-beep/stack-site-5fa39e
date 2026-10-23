@@ -24,7 +24,7 @@ Dish: Sheets/baked (lasagne) / flavour: Classic. Private file, not published.
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 4. Non-top-tier pages are context only.
 
 ## Knowledge check
-Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 04-P1 (water salt %); 04-P2 (water volume, no oil); 04-P3 (al dente, finish in sauce, reserve 240 ml); 04-P4 (emulsion); 04-P8 (ragù: milk before tomatoes, long simmer; wine omitted for halal); knowledge gap noted: 04-pasta has no item for lasagne assembly; the method rests on the locked-list sources above; CHECKLIST 6 (preheat at least 20 min, stated before the oven step).
+Re-checked on 22 Oct 2026 against knowledge/CHECKLIST.md and the topic files. Items checked: CHECKLIST sections 1-7; 06-G1 (salt by weight); 06-G3 (flavour sequence); 06-G9 (safe temperatures, storage); 04-P1 (water salt %); 04-P2 (water volume, no oil); 04-P3 (al dente, finish in sauce, reserve 240 ml); 04-P4 (emulsion); 04-P8 (ragù: milk before tomatoes, long simmer; wine omitted); knowledge gap noted: 04-pasta has no item for lasagne assembly; the method rests on the locked-list sources above; CHECKLIST 6 (preheat at least 20 min, stated before the oven step).
 Changes made:
 - Salt given in grams (06-G1): 1 tsp fine salt -> 6 g
 - Salt given in grams (06-G1): 0.5 tsp fine salt -> 3 g

@@ -6,7 +6,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | shell-on raw prawns, peeled and deveined, shells kept (about 450 g peeled weight) | Crustaceans, shrimp, raw (FDC 175179) | 450 | 382.5 | 90.5 | 0.0 | 0.00 | 0.00 | 2.3 | 0.45 | 536 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 0.99 | 0 | 0.0 |
-| low-salt halal chicken broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 500 | 30.0 | 3.2 | 2.2 | 2.15 | 0.00 | 1.1 | 0.07 | 1855 | 0.0 |
+| low-salt chicken broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 500 | 30.0 | 3.2 | 2.2 | 2.15 | 0.00 | 1.1 | 0.07 | 1855 | 0.0 |
 | water | Water, tap (SR 14411) | 1000 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 40 | 0.0 |
 | lemongrass stalks, trimmed, bruised and cut into 5 cm lengths | Lemon grass (citronella), raw (FDC 168573) | 30 | 29.7 | 0.5 | 7.6 | 0.00 | 0.00 | 0.1 | 0.04 | 2 | 0.0 |
 | galangal (or fresh ginger), thinly sliced | Ginger root, raw (SR 11216) | 30 | 24.0 | 0.5 | 5.3 | 0.51 | 0.00 | 0.2 | 0.06 | 4 | 0.6 |
@@ -31,6 +31,6 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt halal broth.
+- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt broth.
 - Galangal counted as fresh ginger for nutrition; makrut lime leaves and the strained shells counted as nil.
 - Spicy: the chillies are the main heat; leave them whole and use one for a milder bowl.

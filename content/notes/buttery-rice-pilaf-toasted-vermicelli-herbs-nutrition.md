@@ -8,7 +8,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | unsalted butter | Butter, without salt (SR 01145) | 30 | 215.1 | 0.3 | 0.0 | 0.02 | 0.00 | 24.3 | 15.41 | 3 | 0.0 |
 | vermicelli or fine spaghetti, broken into 2 cm pieces | Pasta, dry, enriched (SR 20120) | 40 | 148.4 | 5.2 | 29.9 | 1.07 | 0.00 | 0.6 | 0.11 | 2 | 1.3 |
 | small onion, finely chopped | Onions, raw (SR 11282) | 100 | 40.0 | 1.1 | 9.3 | 4.24 | 0.00 | 0.1 | 0.04 | 4 | 1.7 |
-| chicken stock (halal) or vegetable stock, low-salt, hot (ESTIMATE: counted as ready-to-serve chicken broth (FDC 174536); low-salt stock is lower) | Soup, chicken broth, ready-to-serve (FDC 174536) | 570 | 34.2 | 3.6 | 2.5 | 2.45 | 0.00 | 1.2 | 0.07 | 2115 | 0.0 |
+| chicken stock or vegetable stock, low-salt, hot (ESTIMATE: counted as ready-to-serve chicken broth (FDC 174536); low-salt stock is lower) | Soup, chicken broth, ready-to-serve (FDC 174536) | 570 | 34.2 | 3.6 | 2.5 | 2.45 | 0.00 | 1.2 | 0.07 | 2115 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | flat-leaf parsley and/or dill, chopped | Parsley, fresh (SR 11297) | 10 | 3.6 | 0.3 | 0.6 | 0.09 | 0.00 | 0.1 | 0.01 | 6 | 0.3 |
@@ -27,4 +27,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Served as a side dish for 4.
-- Use halal-certified chicken stock, or vegetable stock for a vegetarian pilaf; check stock cubes and pastes for alcohol and keep to low-salt products.
+- Use chicken stock, or vegetable stock for a vegetarian pilaf; check stock cubes and pastes for alcohol and keep to low-salt products.

@@ -12,7 +12,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine sea salt or table salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 20 | 72.8 | 2.1 | 15.3 | 0.05 | 0.00 | 0.2 | 0.03 | 0 | 0.5 |
 | cocoa powder, for the moulds | Cocoa, dry powder, unsweetened (SR 19165) | 4 | 9.1 | 0.8 | 2.3 | 0.07 | 0.00 | 0.5 | 0.32 | 1 | 1.5 |
-| vanilla ice cream (halal-certified, gelatine-free; 4 scoops), to serve | Ice creams, vanilla (FDC 167575) | 200 | 414.0 | 7.0 | 47.2 | 42.44 | 42.44 | 22.0 | 13.58 | 160 | 1.4 |
+| vanilla ice cream (gelatine-free; 4 scoops), to serve | Ice creams, vanilla (FDC 167575) | 200 | 414.0 | 7.0 | 47.2 | 42.44 | 42.44 | 22.0 | 13.58 | 160 | 1.4 |
 | **Total** | | | 2493 | 37.7 | 179.6 | 130.67 | 129.92 | 183.5 | 107.56 | 646 | 16.0 |
 
 **Per serving (total / 4):** kcal 623, protein_g 9.4, carbs_g 44.9, sugar_g 32.7, free_sugar_g 32.5, fat_g 45.9, satfat_g 26.9, salt_g 0.4, fibre_g 4.0

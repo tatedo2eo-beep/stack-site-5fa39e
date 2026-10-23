@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| boneless, skinless chicken breasts (halal) | Chicken, broiler, breast, skinless, boneless, meat only, raw (SR 05062) | 400 | 480.0 | 90.0 | 0.0 | 0.00 | 0.00 | 10.5 | 2.24 | 180 | 0.0 |
+| boneless, skinless chicken breasts | Chicken, broiler, breast, skinless, boneless, meat only, raw (SR 05062) | 400 | 480.0 | 90.0 | 0.0 | 0.00 | 0.00 | 10.5 | 2.24 | 180 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 0.99 | 0 | 0.0 |
 | chilli powder | Spices, chili powder blend (FDC 171319) | 2.7 | 7.6 | 0.4 | 1.3 | 0.19 | 0.00 | 0.4 | 0.07 | 77 | 0.9 |
 | ground cumin | Spices, cumin seed (SR 02014) | 1 | 3.8 | 0.2 | 0.4 | 0.02 | 0.00 | 0.2 | 0.02 | 2 | 0.1 |
@@ -30,4 +30,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheese made with microbial or halal-certified rennet.
+- Choose cheese made with microbial rennet.

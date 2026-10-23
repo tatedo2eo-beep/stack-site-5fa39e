@@ -12,7 +12,7 @@ Dish: Scotch broth / flavour: Classic. Private file, not published.
 ## Own cooking judgment
 - One-pot bone-in lamb simmer with barley and kale (NYT)
 - Meat taken off the bone and the broth defatted (ATK)
-- No wine, so halal
+- No wine
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

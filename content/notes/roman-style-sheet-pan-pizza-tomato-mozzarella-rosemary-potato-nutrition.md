@@ -37,4 +37,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - Very wet dough (80% water) for an open, airy crumb; home ovens at 250 °C need 25-30 min on the lowest shelf.
 - Two toppings on one base to match the photo.
-- Mozzarella, cheddar and Parmesan are often made with animal rennet; choose cheese made with microbial or vegetarian rennet (or halal-certified) if needed.
+- Mozzarella, cheddar and Parmesan are often made with animal rennet; choose cheese made with microbial or vegetarian rennet if needed.

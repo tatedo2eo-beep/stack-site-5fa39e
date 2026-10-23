@@ -5,7 +5,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 350 | 500.5 | 44.0 | 2.5 | 1.29 | 0.00 | 33.3 | 10.96 | 497 | 0.0 |
-| mayonnaise (halal-certified) | Salad dressing, mayonnaise, regular (SR 04025) | 35 | 238.0 | 0.3 | 0.2 | 0.20 | 0.20 | 26.2 | 4.11 | 222 | 0.0 |
+| mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 35 | 238.0 | 0.3 | 0.2 | 0.20 | 0.20 | 26.2 | 4.11 | 222 | 0.0 |
 | soured cream | Cream, sour, cultured (FDC 171257) | 15 | 29.7 | 0.4 | 0.7 | 0.51 | 0.00 | 2.9 | 1.52 | 5 | 0.0 |
 | dill pickle brine | Pickles, cucumber, dill (SR 11937) | 5 | 0.6 | 0.0 | 0.1 | 0.06 | 0.00 | 0.0 | 0.00 | 40 | 0.1 |
 | English mustard powder | Spices, mustard seed, ground (FDC 170929) | 1.5 | 7.6 | 0.4 | 0.4 | 0.10 | 0.00 | 0.5 | 0.03 | 0 | 0.2 |
@@ -28,5 +28,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use a halal-certified mayonnaise made with cider or distilled malt-free vinegar.
+- Use a mayonnaise made with cider or distilled malt-free vinegar.
 - The pickles and brine season the filling, so no salt is added.

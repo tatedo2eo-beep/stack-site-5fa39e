@@ -9,10 +9,10 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | serrano or other green chilli (2 for more heat) | Peppers, hot chili, green, raw (SR 11670) | 15 | 6.0 | 0.3 | 1.4 | 0.76 | 0.00 | 0.0 | 0.00 | 1 | 0.2 |
 | medium onion, peeled and quartered | Onions, raw (SR 11282) | 150 | 60.0 | 1.7 | 14.0 | 6.36 | 0.00 | 0.2 | 0.06 | 6 | 2.5 |
 | garlic cloves, unpeeled | Garlic, raw (SR 11215) | 9 | 13.4 | 0.6 | 3.0 | 0.09 | 0.00 | 0.0 | 0.01 | 2 | 0.2 |
-| low-sodium chicken stock (halal) (ESTIMATE: ready-to-serve chicken broth values) | Soup, chicken broth, ready-to-serve (FDC 174536) | 250 | 15.0 | 1.6 | 1.1 | 1.07 | 0.00 | 0.5 | 0.03 | 928 | 0.0 |
+| low-sodium chicken stock (ESTIMATE: ready-to-serve chicken broth values) | Soup, chicken broth, ready-to-serve (FDC 174536) | 250 | 15.0 | 1.6 | 1.1 | 1.07 | 0.00 | 0.5 | 0.03 | 928 | 0.0 |
 | coriander leaves and tender stems, plus extra to serve | Coriander (cilantro) leaves, raw (SR 11165) | 20 | 4.6 | 0.4 | 0.7 | 0.17 | 0.00 | 0.1 | 0.00 | 9 | 0.6 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
-| boneless, skinless chicken breasts (halal) | Chicken, broiler, breast, skinless, boneless, meat only, raw (SR 05062) | 600 | 720.0 | 135.0 | 0.0 | 0.00 | 0.00 | 15.7 | 3.36 | 270 | 0.0 |
+| boneless, skinless chicken breasts | Chicken, broiler, breast, skinless, boneless, meat only, raw (SR 05062) | 600 | 720.0 | 135.0 | 0.0 | 0.00 | 0.00 | 15.7 | 3.36 | 270 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | low-moisture mozzarella, grated (check the rennet) | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 150 | 477.0 | 32.4 | 3.7 | 1.52 | 0.00 | 37.0 | 23.34 | 1065 | 0.0 |
 | small corn tortillas (15 cm) | Tortillas, ready-to-bake or -fry, corn (FDC 175036) | 312 | 680.2 | 17.8 | 139.3 | 2.75 | 0.00 | 8.9 | 1.41 | 140 | 19.7 |
@@ -33,5 +33,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheeses made with microbial or halal-certified rennet.
+- Choose cheeses made with microbial rennet.
 - Nutrition includes about 20 g oil absorbed by the tortillas.

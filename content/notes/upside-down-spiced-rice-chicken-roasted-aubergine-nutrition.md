@@ -4,7 +4,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| boneless skinless chicken thighs (halal), halved | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 800 | 968.0 | 157.3 | 0.0 | 0.00 | 0.00 | 33.0 | 8.80 | 760 | 0.0 |
+| boneless skinless chicken thighs, halved | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 800 | 968.0 | 157.3 | 0.0 | 0.00 | 0.00 | 33.0 | 8.80 | 760 | 0.0 |
 | medium onion, halved | Onions, raw (SR 11282) | 150 | 60.0 | 1.7 | 14.0 | 6.36 | 0.00 | 0.2 | 0.06 | 6 | 2.5 |
 | green cardamom pods, lightly cracked | Spices, cardamom (FDC 170919) | 0.8 | 2.5 | 0.1 | 0.5 | 0.00 | 0.00 | 0.1 | 0.01 | 0 | 0.2 |
 | whole cloves | Spices, cloves, ground (FDC 171321) | 0.4 | 1.1 | 0.0 | 0.3 | 0.01 | 0.00 | 0.1 | 0.02 | 1 | 0.1 |
@@ -41,6 +41,6 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use halal chicken.
+- Use chicken.
 - Roasting the vegetables replaces the traditional deep-frying, with much less oil.
 - The pot must be nonstick and straight-sided for a clean turn-out.

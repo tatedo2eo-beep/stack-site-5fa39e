@@ -34,6 +34,6 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Alcohol-free (halal): long, gentle simmering of bone-in lamb gives a full-flavoured broth on its own.
+- Alcohol-free: long, gentle simmering of bone-in lamb gives a full-flavoured broth on its own.
 - Lamb is simmered about 2 h, well above 63 °C, until falling off the bone.
 - Pearl barley contains gluten.

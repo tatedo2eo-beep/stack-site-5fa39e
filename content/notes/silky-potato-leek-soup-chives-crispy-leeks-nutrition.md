@@ -9,7 +9,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | garlic cloves, thinly sliced | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | floury or all-purpose potatoes, peeled and cut into 2 cm cubes | Potatoes, flesh and skin, raw (SR 11352) | 700 | 539.0 | 14.3 | 122.4 | 5.74 | 0.00 | 0.6 | 0.18 | 42 | 14.7 |
-| low-salt chicken broth (halal) | Soup, chicken broth, ready-to-serve (FDC 174536) | 500 | 30.0 | 3.2 | 2.2 | 2.15 | 0.00 | 1.1 | 0.07 | 1855 | 0.0 |
+| low-salt chicken broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 500 | 30.0 | 3.2 | 2.2 | 2.15 | 0.00 | 1.1 | 0.07 | 1855 | 0.0 |
 | water | Water, tap (SR 14411) | 500 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 20 | 0.0 |
 | bay leaf | Spices, bay leaf (FDC 170917) | 0.2 | 0.6 | 0.0 | 0.1 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
@@ -31,4 +31,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt halal broth, or vegetable stock for a vegetarian soup.
+- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt broth, or vegetable stock for a vegetarian soup.

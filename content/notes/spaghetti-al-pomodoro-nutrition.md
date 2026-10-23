@@ -27,4 +27,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Onion is discarded; about 15 g of it counted.
-- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian or halal-certified cheese if you need one.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian cheese if you need one.

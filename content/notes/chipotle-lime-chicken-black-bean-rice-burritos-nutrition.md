@@ -4,10 +4,10 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| boneless, skinless chicken breasts (halal) | Chicken, broiler, breast, skinless, boneless, meat only, raw (SR 05062) | 450 | 540.0 | 101.2 | 0.0 | 0.00 | 0.00 | 11.8 | 2.52 | 202 | 0.0 |
+| boneless, skinless chicken breasts | Chicken, broiler, breast, skinless, boneless, meat only, raw (SR 05062) | 450 | 540.0 | 101.2 | 0.0 | 0.00 | 0.00 | 11.8 | 2.52 | 202 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | lime, zested and juiced | Lime juice, raw (SR 09160) - juice sugars counted as free | 30 | 7.5 | 0.1 | 2.5 | 0.51 | 0.51 | 0.0 | 0.00 | 1 | 0.1 |
-| chipotle in adobo, finely chopped (halal-certified brand) | ESTIMATE from typical canned chipotle-in-adobo labels | 10 | 6.0 | 0.2 | 1.0 | 0.40 | 0.00 | 0.2 | 0.02 | 110 | 0.4 |
+| chipotle in adobo, finely chopped | ESTIMATE from typical canned chipotle-in-adobo labels | 10 | 6.0 | 0.2 | 1.0 | 0.40 | 0.00 | 0.2 | 0.02 | 110 | 0.4 |
 | long-grain white rice, rinsed | Rice, white, long-grain, regular, raw (SR 20044) | 150 | 547.5 | 10.7 | 119.9 | 0.18 | 0.00 | 1.0 | 0.27 | 8 | 2.0 |
 | neutral oil | Oil, canola (SR 04582) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 0.99 | 0 | 0.0 |
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
@@ -31,5 +31,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheese made with microbial or halal-certified rennet.
+- Choose cheese made with microbial rennet.
 - No-salt beans keep the burrito within the salt target; salted tinned beans add about 0.5 g salt per burrito.

@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| boneless, skinless chicken breasts (halal) | Chicken, broiler, breast, skinless, boneless, meat only, raw (SR 05062) | 500 | 600.0 | 112.5 | 0.0 | 0.00 | 0.00 | 13.1 | 2.80 | 225 | 0.0 |
+| boneless, skinless chicken breasts | Chicken, broiler, breast, skinless, boneless, meat only, raw (SR 05062) | 500 | 600.0 | 112.5 | 0.0 | 0.00 | 0.00 | 13.1 | 2.80 | 225 | 0.0 |
 | feta, crumbled | Cheese, feta (SR 01019) | 60 | 158.4 | 8.5 | 2.5 | 2.45 | 0.00 | 12.8 | 8.97 | 550 | 0.0 |
 | Greek yoghurt | Yogurt, Greek, plain, whole milk (FDC 171304) | 100 | 97.0 | 9.0 | 4.0 | 4.00 | 0.00 | 5.0 | 2.40 | 35 | 0.0 |
 | large red pepper, cut into thin strips | Peppers, sweet, red, raw (SR 11821) | 180 | 55.8 | 1.8 | 10.9 | 7.56 | 0.00 | 0.5 | 0.05 | 7 | 3.8 |
@@ -30,4 +30,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheese made with microbial or halal-certified rennet.
+- Choose cheese made with microbial rennet.

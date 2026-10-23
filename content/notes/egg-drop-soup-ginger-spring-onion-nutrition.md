@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| low-salt halal chicken broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 800 | 48.0 | 5.1 | 3.5 | 3.44 | 0.00 | 1.7 | 0.10 | 2968 | 0.0 |
+| low-salt chicken broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 800 | 48.0 | 5.1 | 3.5 | 3.44 | 0.00 | 1.7 | 0.10 | 2968 | 0.0 |
 | water | Water, tap (SR 14411) | 320 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 13 | 0.0 |
 | garlic cloves, sliced | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | fresh ginger, thinly sliced | Ginger root, raw (SR 11216) | 25 | 20.0 | 0.5 | 4.4 | 0.42 | 0.00 | 0.2 | 0.05 | 3 | 0.5 |
@@ -30,6 +30,6 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt halal broth.
-- Fully alcohol-free (halal): the cornflour slurry is made with water only.
+- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt broth.
+- Fully Alcohol-free: the cornflour slurry is made with water only.
 - Use tamari labelled gluten-free if needed.

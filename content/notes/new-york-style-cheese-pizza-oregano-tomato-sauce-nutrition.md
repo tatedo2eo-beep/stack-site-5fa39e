@@ -34,4 +34,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Makes two 35 cm pizzas, 16 slices; about 2-3 slices per person.
 - Sugar and oil in the dough help it brown in a home oven at 260 °C.
 - Dough salt kept at about 1.7% of the flour to keep each serving under 3 g salt.
-- Mozzarella, cheddar and Parmesan are often made with animal rennet; choose cheese made with microbial or vegetarian rennet (or halal-certified) if needed.
+- Mozzarella, cheddar and Parmesan are often made with animal rennet; choose cheese made with microbial or vegetarian rennet if needed.

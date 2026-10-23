@@ -5,7 +5,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | short-grain white rice (ESTIMATE: long-grain white rice values used for short-grain) | Rice, white, long-grain, regular, raw (SR 20044) | 400 | 1460.0 | 28.5 | 319.8 | 0.48 | 0.00 | 2.6 | 0.72 | 20 | 5.2 |
-| beef sirloin steak (halal) | Beef, top sirloin steak, separable lean only, 1/8" trim, all grades, raw (FDC 174055) | 400 | 524.0 | 88.4 | 0.0 | 0.00 | 0.00 | 16.3 | 6.04 | 224 | 0.0 |
+| beef sirloin steak | Beef, top sirloin steak, separable lean only, 1/8" trim, all grades, raw (FDC 174055) | 400 | 524.0 | 88.4 | 0.0 | 0.00 | 0.00 | 16.3 | 6.04 | 224 | 0.0 |
 | ripe pear, grated | Pears, raw (FDC 169118) | 100 | 57.0 | 0.4 | 15.2 | 9.75 | 0.00 | 0.1 | 0.02 | 1 | 3.1 |
 | garlic cloves, grated | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | fresh ginger, grated | Ginger root, raw (SR 11216) | 10 | 8.0 | 0.2 | 1.8 | 0.17 | 0.00 | 0.1 | 0.02 | 1 | 0.2 |

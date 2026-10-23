@@ -10,7 +10,7 @@ Dish: Alfajores / flavour: Classic. Private file, not published.
 > Written in the cookies/bars/brownies chapter. Quantities are my own; the core method matches the locked-list sources listed above.
 
 ## Own cooking judgment
-- No brandy (halal); lemon zest.
+- No brandy; lemon zest.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

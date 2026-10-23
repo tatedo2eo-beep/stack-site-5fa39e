@@ -8,7 +8,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt, for the poaching water (a quarter absorbed) | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | mild curry powder | Spices, curry powder (FDC 170924) | 6 | 19.5 | 0.9 | 3.3 | 0.17 | 0.00 | 0.8 | 0.10 | 3 | 3.2 |
 | neutral oil | Oil, canola (SR 04582) | 4.5 | 39.8 | 0.0 | 0.0 | 0.00 | 0.00 | 4.5 | 0.33 | 0 | 0.0 |
-| mayonnaise (halal-certified) | Salad dressing, mayonnaise, regular (SR 04025) | 80 | 544.0 | 0.8 | 0.5 | 0.46 | 0.46 | 59.9 | 9.39 | 508 | 0.0 |
+| mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 80 | 544.0 | 0.8 | 0.5 | 0.46 | 0.46 | 59.9 | 9.39 | 508 | 0.0 |
 | plain Greek-style yoghurt | Yogurt, Greek, plain, whole milk (FDC 171304) | 80 | 77.6 | 7.2 | 3.2 | 3.20 | 0.00 | 4.0 | 1.92 | 28 | 0.0 |
 | mango chutney (large pieces chopped) | ESTIMATE from typical sweet mango chutney labels (no SR Legacy entry) | 40 | 92.0 | 0.2 | 22.4 | 20.00 | 20.00 | 0.1 | 0.00 | 400 | 0.4 |
 | lime juice | Lime juice, raw (SR 09160) - juice sugars counted as free | 15 | 3.8 | 0.1 | 1.3 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.1 |
@@ -32,4 +32,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use halal chicken; check the curry powder and chutney labels if avoiding mustard.
+- Use chicken; check the curry powder and chutney labels if avoiding mustard.

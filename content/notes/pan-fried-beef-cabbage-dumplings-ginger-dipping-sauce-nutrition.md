@@ -7,7 +7,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | plain flour, plus extra for dusting | Wheat flour, white, all-purpose, enriched (SR 20081) | 300 | 1092.0 | 31.0 | 228.9 | 0.81 | 0.00 | 2.9 | 0.46 | 6 | 8.1 |
 | Chinese leaf (napa) or white cabbage, very finely chopped | Cabbage, raw (SR 11109) | 250 | 62.5 | 3.2 | 14.5 | 8.00 | 0.00 | 0.2 | 0.09 | 45 | 6.2 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
-| minced beef (halal), 15-20% fat | Beef, ground, 85% lean/15% fat, raw (SR 23567) | 300 | 645.0 | 55.8 | 0.0 | 0.00 | 0.00 | 45.0 | 17.67 | 198 | 0.0 |
+| minced beef, 15-20% fat | Beef, ground, 85% lean/15% fat, raw (SR 23567) | 300 | 645.0 | 55.8 | 0.0 | 0.00 | 0.00 | 45.0 | 17.67 | 198 | 0.0 |
 | spring onions, finely chopped | Onions, spring or scallions, raw (SR 11291) | 30 | 9.6 | 0.5 | 2.2 | 0.70 | 0.00 | 0.1 | 0.01 | 5 | 0.8 |
 | fresh ginger, finely grated | Ginger root, raw (SR 11216) | 6 | 4.8 | 0.1 | 1.1 | 0.10 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | garlic cloves, finely grated | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
@@ -34,7 +34,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Halal-certified minced beef is used (minced lamb also works); no cooking alcohol of any kind is used.
-- Choose a soy sauce labelled alcohol-free (many naturally brewed soy sauces contain alcohol); halal-certified brands are widely available.
+- minced beef is used (minced lamb also works); no cooking alcohol of any kind is used.
+- Choose a soy sauce labelled alcohol-free (many naturally brewed soy sauces contain alcohol); brands are widely available.
 - Plain rice vinegar is used; check the label and choose one with no added alcohol (avoid seasoned or blended products that list alcohol).
 - Beef mince cooked to 71 °C.

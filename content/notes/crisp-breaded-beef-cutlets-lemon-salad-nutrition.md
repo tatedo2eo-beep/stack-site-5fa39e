@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| thin beef sirloin or topside steaks (halal), about 1 cm thick | Beef, top sirloin steak, separable lean only, 1/8" trim, all grades, raw (FDC 174055) | 450 | 589.5 | 99.5 | 0.0 | 0.00 | 0.00 | 18.4 | 6.79 | 252 | 0.0 |
+| thin beef sirloin or topside steaks, about 1 cm thick | Beef, top sirloin steak, separable lean only, 1/8" trim, all grades, raw (FDC 174055) | 450 | 589.5 | 99.5 | 0.0 | 0.00 | 0.00 | 18.4 | 6.79 | 252 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | plain flour (about 20 g clings) | Wheat flour, white, all-purpose, enriched (SR 20081) | 20 | 72.8 | 2.1 | 15.3 | 0.05 | 0.00 | 0.2 | 0.03 | 0 | 0.5 |
@@ -34,5 +34,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheese made with microbial or halal-certified rennet.
+- Choose cheese made with microbial rennet.
 - Nutrition counts the breading that clings (about 20 g flour and 90 g crumbs) and about 40 g frying oil absorbed; rocket values used for mixed leaves.

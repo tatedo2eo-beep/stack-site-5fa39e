@@ -10,10 +10,10 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | basil leaves, chopped | Basil, fresh (FDC 172232) | 15 | 3.4 | 0.5 | 0.4 | 0.04 | 0.00 | 0.1 | 0.01 | 1 | 0.2 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | granulated sugar, for sprinkling | Sugars, granulated (SR 19335) | 12 | 46.4 | 0.0 | 12.0 | 11.98 | 11.98 | 0.0 | 0.00 | 0 | 0.0 |
-| boneless, skinless chicken thighs (halal) | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 300 | 363.0 | 59.0 | 0.0 | 0.00 | 0.00 | 12.4 | 3.30 | 285 | 0.0 |
+| boneless, skinless chicken thighs | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 300 | 363.0 | 59.0 | 0.0 | 0.00 | 0.00 | 12.4 | 3.30 | 285 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 1.99 | 0 | 0.0 |
 | medium onions, finely chopped | Onions, raw (SR 11282) | 400 | 160.0 | 4.4 | 37.4 | 16.96 | 0.00 | 0.4 | 0.17 | 16 | 6.8 |
-| beef mince, 15% fat (halal) | Beef, ground, 85% lean/15% fat, raw (SR 23567) | 700 | 1505.0 | 130.1 | 0.0 | 0.00 | 0.00 | 105.0 | 41.23 | 462 | 0.0 |
+| beef mince, 15% fat | Beef, ground, 85% lean/15% fat, raw (SR 23567) | 700 | 1505.0 | 130.1 | 0.0 | 0.00 | 0.00 | 105.0 | 41.23 | 462 | 0.0 |
 | ground cumin | Spices, cumin seed (SR 02014) | 4.2 | 15.8 | 0.7 | 1.9 | 0.09 | 0.00 | 0.9 | 0.06 | 7 | 0.4 |
 | sweet paprika | Spices, paprika (SR 02028) | 4.6 | 13.0 | 0.7 | 2.5 | 0.48 | 0.00 | 0.6 | 0.10 | 3 | 1.6 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 8 | 29.1 | 0.8 | 6.1 | 0.02 | 0.00 | 0.1 | 0.01 | 0 | 0.2 |

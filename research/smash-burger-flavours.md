@@ -18,7 +18,7 @@ Private research file (it is not published on the site). Written 22 Oct 2026.
 | 4 | https://fieldcompany.com/blogs/journal/cast-iron-smash-burgers | Cast Iron Smash Burgers (Field Company) | Cast-iron technique: preheat, parchment for the smash, no oil needed. |
 | 5 | https://www.thermoworks.com/blogs/thermoblog/smash-burgers-at-home | The Ultimate Smash Burger: Griddle Temps for the Perfect Crust (ThermoWorks) | Surface at 232 °C (450 °F) or hotter. Pull at 71 °C (160 °F). Use a fast thermometer even on thin patties. |
 | 6 | https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart | Safe Minimum Internal Temperature Chart (USDA FSIS) | Ground meats 71.1 °C, ground poultry 73.9 °C. |
-| 7 | https://www.usfoods.com/tools-tips-and-ideas/articles-and-publications/articles/smash-burgers-an-operator-guide-to-the-hottest-burger- | Smash Burgers: An Operator Guide (US Foods, July 2026) | Popularity: Datassential predicts 862% menu growth over four years, and 79% growth last year. Menu examples include a halal smash with beef bacon and onion jam, a BBQ Bacon Smash with onion rings, and a Hot Honey smash with caramelised onion. |
+| 7 | https://www.usfoods.com/tools-tips-and-ideas/articles-and-publications/articles/smash-burgers-an-operator-guide-to-the-hottest-burger- | Smash Burgers: An Operator Guide (US Foods, July 2026) | Popularity: Datassential predicts 862% menu growth over four years, and 79% growth last year. Menu examples include a smash with beef bacon and onion jam, a BBQ Bacon Smash with onion rings, and a Hot Honey smash with caramelised onion. |
 | 8 | https://www.topshelf.recipes/articles/smash-burger-masterclass-tools-techniques-10-trendy-2026-recipes | Smash Burger Masterclass … 10 Trendy 2026 Recipes (TopShelf) | 2026 trend list: Korean gochujang with kimchi slaw, mushroom-miso Swiss, Baja chipotle-lime with avocado, black garlic, Mediterranean lamb with tahini, smoky pineapple teriyaki, and others. |
 | 9 | https://www.texasmonthly.com/food/smash-burger-taco-history/ | The Nearly Forgotten History of the Viral Smash-Burger Taco (Texas Monthly) | Popularity: #smashburgertaco and similar TikTok tags have a combined 626 million views. The format has older Mexican-American roots. |
 | 10 | https://www.chilesandsmoke.com/smashburger-tacos/ | The Original Smash Burger Tacos (Chiles and Smoke) | Technique: lay the tortilla on the ball and smash through it so the two fuse. Popularity: over 16 million views on Instagram and 3.8 million on TikTok (March 2023). |
@@ -37,15 +37,15 @@ Two pages could not be loaded: the box got "Access Denied" twice. I have not lis
 
 ## Ranking criteria
 1. Popularity signal (survey, view counts, menu trend data) and how often a style appears across recipe sources.
-2. Fit for the US/UK audience now and for Arabic and Spanish audiences later. Must be halal-friendly or easy to swap.
+2. Fit for the US/UK audience now and for Arabic and Spanish audiences later. Must use widely available ingredients or be easy to swap.
 3. Home reliability on the shared base method.
 4. Flavour distinctness. Each flavour must taste clearly different from the Classic.
 
-Halal key: **yes** means no pork or alcohol, using halal-certified beef where needed. **swap** means the original uses pork or alcohol and a clean swap exists. **no** means it does not work without pork or alcohol.
+key: **yes** means no pork or alcohol, using beef where needed. **swap** means the original uses pork or alcohol and a clean swap exists. **no** means it does not work without pork or alcohol.
 
 ## Flavour map (ranked)
 
-| Rank | Flavour | One-line description | Popularity signal | Halal | Difficulty | Status |
+| Rank | Flavour | One-line description | Popularity signal | | Difficulty | Status |
 |---|---|---|---|---|---|---|
 | 1 | Classic double cheese | Two lacy patties, American cheese, pickles, lettuce, tangy pickle-mayo sauce | YouGov: cheese 74%, pickles 54%. Canonical in sources 1, 4 and 5 | yes | easy | **LIVE** (signature-smash-burger) |
 | 2 | Oklahoma onion | Paper-thin onion smashed into the beef and caramelised underneath. Mustard and pickles | Wikipedia history and festival. Onions are a top trend (Technomic, Tastewise) | yes | easy | **LAUNCH** |
@@ -55,7 +55,7 @@ Halal key: **yes** means no pork or alcohol, using halal-certified beef where ne
 | 6 | Nashville hot | Cayenne hot oil brushed on after cooking, cooling yoghurt-mayo, pickles | Many dedicated recipes (sources 12–13) | yes | easy | **LAUNCH** |
 | 7 | Korean gochujang and kimchi | Gochujang mayo, griddled kimchi, spring onion, sesame | TopShelf #2 for 2026. Korean BBQ burger at a national chain (NRN) | yes (check kimchi has no fish/shrimp if pescatarian matters; fish allergen) | easy | Week 1 |
 | 8 | Big-Mac-style special sauce, triple-decker | Middle bun, shredded lettuce, diced onion, special sauce with relish | Ubiquitous "special sauce" (Tasting Table chain ranking) | yes | easy | Week 1 |
-| 9 | BBQ crispy onion | Smoky BBQ sauce, cheddar, crispy fried onion straws | US Foods BBQ Bacon Smash. Onion straws at chains (NRN) | swap (no bacon, or halal beef bacon) | medium | Week 2 |
+| 9 | BBQ crispy onion | Smoky BBQ sauce, cheddar, crispy fried onion straws | US Foods BBQ Bacon Smash. Onion straws at chains (NRN) | swap (no bacon, or beef bacon) | medium | Week 2 |
 | 10 | Baja chipotle-lime avocado | Avocado, chipotle-lime crema, pickled red onion, pepper Jack | TopShelf 2026. Chipotle in the sweet-heat cluster | yes | easy | Week 2 |
 | 11 | Hot honey | Hot honey drizzle, caramelised onion, pickles | US Foods Hot Honey smash. Honey in the Tastewise sweet-heat cluster | yes | easy | Week 3 |
 | 12 | Caramelised onion and Dijon (French-onion style) | Slow jammy onions, Gruyère-style cheese, Dijon mayo | Caramelised onion in the Tastewise premium cluster | yes (no wine/sherry deglaze) | medium | Week 3 |
@@ -79,7 +79,7 @@ Halal key: **yes** means no pork or alcohol, using halal-certified beef where ne
 | 30 | Miso butter mushroom | Miso butter, mushrooms, Swiss, miso mayo | TopShelf 2026 #3 | swap (some miso contains alcohol; pick alcohol-free) | medium | Week 12 |
 | 31 | Smash sliders | Mini 40 g balls on slider buns, party format | US Foods sliders recipe | yes | easy | Week 13 |
 | 32 | Lettuce-wrap / low-carb | Classic build in crisp iceberg cups | Health-led format | yes | easy | Week 13 |
-| 33 | Bacon cheeseburger | Classic with crispy bacon | YouGov bacon 45% | **swap** (halal beef bacon or turkey rashers) or no | easy | Week 14 (only as a beef-bacon version) |
+| 33 | Bacon cheeseburger | Classic with crispy bacon | YouGov bacon 45% | **swap** (beef bacon or turkey rashers) or no | easy | Week 14 (only as a beef-bacon version) |
 | 34 | Al pastor | Achiote-pineapple seasoning (pork originally) | LA Taco mentions al pastor-seasoned burgers | swap (beef) | medium | Week 14 |
 
 ## Launch recommendation (5 flavours plus the Classic)
@@ -90,7 +90,7 @@ Halal key: **yes** means no pork or alcohol, using halal-certified beef where ne
 5. **Mushroom and Swiss**: a long-standing favourite that gives a non-spicy, savoury option.
 6. **Nashville Hot**: very searchable and properly hot, which rounds out the spice range.
 
-I chose these five because they cover onion, a different format, two levels of heat, and earthy umami. All are halal-friendly and easy, and all reuse the base method with one changed step each. Korean and Big-Mac-style come first in the backlog because they score high on popularity. Korean was held back only because USDA FDC has no clean gochujang entry, so its nutrition needs a label-based estimate that should be flagged.
+I chose these five because they cover onion, a different format, two levels of heat, and earthy umami. All are easy, and all reuse the base method with one changed step each. Korean and Big-Mac-style come first in the backlog because they score high on popularity. Korean was held back only because USDA FDC has no clean gochujang entry, so its nutrition needs a label-based estimate that should be flagged.
 
 ## Drop schedule
 Two flavours per week from launch, in rank order 7–34 (14 weeks). The **Week** column above is the schedule. Seasonal swap: move Green chile to late August/September, and Hot honey and BBQ to early summer.

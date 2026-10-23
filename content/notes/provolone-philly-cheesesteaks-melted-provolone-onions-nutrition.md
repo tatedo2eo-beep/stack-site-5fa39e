@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| boneless ribeye steak (halal), fat trimmed | Beef, rib, eye, small end (ribs 10-12), separable lean and fat, trimmed to 0" fat, choice, raw (FDC 168612) | 700 | 1918.0 | 122.6 | 0.0 | 0.00 | 0.00 | 154.5 | 63.00 | 392 | 0.0 |
+| boneless ribeye steak, fat trimmed | Beef, rib, eye, small end (ribs 10-12), separable lean and fat, trimmed to 0" fat, choice, raw (FDC 168612) | 700 | 1918.0 | 122.6 | 0.0 | 0.00 | 0.00 | 154.5 | 63.00 | 392 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 1.99 | 0 | 0.0 |
 | medium onions, halved and thinly sliced | Onions, raw (SR 11282) | 300 | 120.0 | 3.3 | 28.0 | 12.72 | 0.00 | 0.3 | 0.13 | 12 | 5.1 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
@@ -24,5 +24,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose cheese made with microbial or halal-certified rennet.
+- Choose cheese made with microbial rennet.
 - The provolone is salty, so no salt is added to the meat.

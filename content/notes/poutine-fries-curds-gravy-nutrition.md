@@ -8,8 +8,8 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | small shallot, finely chopped | Shallots, raw (FDC 170499) | 20 | 14.4 | 0.5 | 3.4 | 1.57 | 0.00 | 0.0 | 0.00 | 2 | 0.6 |
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 30 | 109.2 | 3.1 | 22.9 | 0.08 | 0.00 | 0.3 | 0.05 | 1 | 0.8 |
-| beef stock (halal), low-salt | Soup, stock, beef, home-prepared (FDC 172883) | 500 | 65.0 | 9.8 | 6.0 | 2.70 | 0.00 | 0.4 | 0.18 | 990 | 0.0 |
-| chicken stock (halal), low-salt | Soup, chicken broth, ready-to-serve (FDC 174536) | 250 | 15.0 | 1.6 | 1.1 | 1.07 | 0.00 | 0.5 | 0.03 | 928 | 0.0 |
+| beef stock, low-salt | Soup, stock, beef, home-prepared (FDC 172883) | 500 | 65.0 | 9.8 | 6.0 | 2.70 | 0.00 | 0.4 | 0.18 | 990 | 0.0 |
+| chicken stock, low-salt | Soup, chicken broth, ready-to-serve (FDC 174536) | 250 | 15.0 | 1.6 | 1.1 | 1.07 | 0.00 | 0.5 | 0.03 | 928 | 0.0 |
 | thyme sprigs | Spices, thyme, dried (SR 02042) | 0.5 | 1.4 | 0.0 | 0.3 | 0.01 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | cider vinegar | Vinegar, cider (FDC 173469) | 5 | 1.1 | 0.0 | 0.0 | 0.02 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
@@ -30,6 +30,6 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Cheese is often made with animal rennet; choose a vegetarian or halal-certified cheese if needed.
+- Cheese is often made with animal rennet; choose a vegetarian cheese if needed.
 - About 70 g of the frying oil absorbed.
 - Cheese curds counted as Cheddar (estimate).

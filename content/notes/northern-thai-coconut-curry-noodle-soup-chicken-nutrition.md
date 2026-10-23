@@ -15,9 +15,9 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | dried flat egg noodles | Noodles, egg, dry, enriched (FDC 169731) | 300 | 1152.0 | 42.5 | 213.8 | 5.64 | 0.00 | 13.3 | 3.54 | 63 | 9.9 |
 | neutral oil, for frying (about 15 g absorbed by the fried noodles) | Oil, canola (SR 04582) | 15 | 132.6 | 0.0 | 0.0 | 0.00 | 0.00 | 15.0 | 1.11 | 0 | 0.0 |
 | full-fat coconut milk (2 cans, unshaken) | Nuts, coconut milk, canned (liquid expressed from grated meat and water) (FDC 170173) | 800 | 1576.0 | 16.2 | 22.5 | 0.00 | 0.00 | 170.6 | 151.32 | 104 | 0.0 |
-| low-sodium chicken stock (halal) (ESTIMATE: ready-to-serve chicken broth values) | Soup, chicken broth, ready-to-serve (FDC 174536) | 400 | 24.0 | 2.6 | 1.8 | 1.72 | 0.00 | 0.8 | 0.05 | 1484 | 0.0 |
-| chicken drumsticks (halal), about 900 g (ESTIMATE: edible portion of 900 g bone-in drumsticks) | Chicken, broilers or fryers, drumstick, meat and skin, raw (FDC 172373) | 650 | 1046.5 | 117.5 | 0.7 | 0.00 | 0.00 | 59.8 | 15.98 | 689 | 0.0 |
-| fish sauce (check the label is halal) | Sauce, fish, ready-to-serve (FDC 174531) | 18 | 6.3 | 0.9 | 0.7 | 0.66 | 0.66 | 0.0 | 0.00 | 1413 | 0.0 |
+| low-sodium chicken stock (ESTIMATE: ready-to-serve chicken broth values) | Soup, chicken broth, ready-to-serve (FDC 174536) | 400 | 24.0 | 2.6 | 1.8 | 1.72 | 0.00 | 0.8 | 0.05 | 1484 | 0.0 |
+| chicken drumsticks, about 900 g (ESTIMATE: edible portion of 900 g bone-in drumsticks) | Chicken, broilers or fryers, drumstick, meat and skin, raw (FDC 172373) | 650 | 1046.5 | 117.5 | 0.7 | 0.00 | 0.00 | 59.8 | 15.98 | 689 | 0.0 |
+| fish sauce | Sauce, fish, ready-to-serve (FDC 174531) | 18 | 6.3 | 0.9 | 0.7 | 0.66 | 0.66 | 0.0 | 0.00 | 1413 | 0.0 |
 | palm sugar or light brown sugar (brown sugar used for palm sugar) | Sugars, brown (SR 19334) | 25 | 95.0 | 0.0 | 24.5 | 24.25 | 24.25 | 0.0 | 0.00 | 7 | 0.0 |
 | small red onion, thinly sliced | Onions, raw (SR 11282) | 60 | 24.0 | 0.7 | 5.6 | 2.54 | 0.00 | 0.1 | 0.03 | 2 | 1.0 |
 | lime, cut into wedges (juice squeezed over) | Lime juice, raw (SR 09160) - juice sugars counted as free | 20 | 5.0 | 0.1 | 1.7 | 0.34 | 0.34 | 0.0 | 0.00 | 0 | 0.1 |

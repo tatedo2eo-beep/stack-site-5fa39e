@@ -36,5 +36,5 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Beef chuck makes this a halal version of the classic meat-based borscht; it is simmered until fork-tender, far above 63 °C.
+- Beef chuck makes this a version of the classic meat-based borscht; it is simmered until fork-tender, far above 63 °C.
 - Lemon juice, not vinegar, gives the sour finish.

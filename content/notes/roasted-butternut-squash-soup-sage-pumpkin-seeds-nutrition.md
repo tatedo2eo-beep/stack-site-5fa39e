@@ -10,7 +10,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | carrot, chopped | Carrots, raw (SR 11124) | 80 | 32.8 | 0.7 | 7.7 | 3.79 | 0.00 | 0.2 | 0.03 | 55 | 2.2 |
 | unsalted butter | Butter, without salt (SR 01145) | 15 | 107.5 | 0.1 | 0.0 | 0.01 | 0.00 | 12.2 | 7.71 | 2 | 0.0 |
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
-| low-salt chicken or vegetable broth (halal) | Soup, chicken broth, ready-to-serve (FDC 174536) | 500 | 30.0 | 3.2 | 2.2 | 2.15 | 0.00 | 1.1 | 0.07 | 1855 | 0.0 |
+| low-salt chicken or vegetable broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 500 | 30.0 | 3.2 | 2.2 | 2.15 | 0.00 | 1.1 | 0.07 | 1855 | 0.0 |
 | water | Water, tap (SR 14411) | 400 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 16 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 4.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1744 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |

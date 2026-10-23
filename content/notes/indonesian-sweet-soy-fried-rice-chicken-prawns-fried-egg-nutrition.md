@@ -8,12 +8,12 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | small shallots, roughly chopped | Shallots, raw (FDC 170499) | 60 | 43.2 | 1.5 | 10.1 | 4.72 | 0.00 | 0.1 | 0.01 | 7 | 1.9 |
 | garlic cloves, peeled | Garlic, raw (SR 11215) | 9 | 13.4 | 0.6 | 3.0 | 0.09 | 0.00 | 0.0 | 0.01 | 2 | 0.2 |
 | large red chilli, deseeded | Peppers, hot chili, red, raw (FDC 170106) | 15 | 6.0 | 0.3 | 1.3 | 0.79 | 0.00 | 0.1 | 0.01 | 1 | 0.2 |
-| boneless, skinless chicken thighs (halal), cut into bite-size pieces | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 300 | 363.0 | 59.0 | 0.0 | 0.00 | 0.00 | 12.4 | 3.30 | 285 | 0.0 |
+| boneless, skinless chicken thighs, cut into bite-size pieces | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 300 | 363.0 | 59.0 | 0.0 | 0.00 | 0.00 | 12.4 | 3.30 | 285 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | ground white pepper | Spices, pepper, white (FDC 170933) | 0.6 | 1.8 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.2 |
 | raw peeled king prawns, deveined | Crustaceans, shrimp, raw (FDC 175179) | 200 | 170.0 | 40.2 | 0.0 | 0.00 | 0.00 | 1.0 | 0.20 | 238 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 40.5 | 358.0 | 0.0 | 0.0 | 0.00 | 0.00 | 40.5 | 2.98 | 0 | 0.0 |
-| kecap manis (sweet soy sauce; check the label is halal) | ESTIMATE from typical kecap manis (sweet soy sauce) labels; no SR Legacy entry | 55 | 137.5 | 1.7 | 31.9 | 28.60 | 28.60 | 0.2 | 0.03 | 1925 | 0.3 |
+| kecap manis (sweet soy sauce) | ESTIMATE from typical kecap manis (sweet soy sauce) labels; no SR Legacy entry | 55 | 137.5 | 1.7 | 31.9 | 28.60 | 28.60 | 0.2 | 0.03 | 1925 | 0.3 |
 | soy sauce | Soy sauce, shoyu (FDC 174277) | 11 | 5.8 | 0.9 | 0.5 | 0.04 | 0.00 | 0.1 | 0.01 | 604 | 0.1 |
 | neutral oil | Oil, canola (SR 04582) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 0.99 | 0 | 0.0 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 200 | 286.0 | 25.1 | 1.4 | 0.74 | 0.00 | 19.0 | 6.26 | 284 | 0.0 |

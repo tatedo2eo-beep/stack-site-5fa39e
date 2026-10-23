@@ -12,7 +12,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | raw red-skinned peanuts (or unsalted peanuts) | Peanuts, all types, dry-roasted, without salt (FDC 173806) | 100 | 587.0 | 24.4 | 21.3 | 4.90 | 0.00 | 49.7 | 7.72 | 6 | 8.4 |
 | dried anchovies (ikan bilis), heads removed (ESTIMATE: canned European anchovy (FDC 174183) used for dried anchovies) | Fish, anchovy, European, canned in oil, drained (FDC 174183) | 40 | 84.0 | 11.6 | 0.0 | 0.00 | 0.00 | 3.9 | 0.88 | 1468 | 0.0 |
 | sugar | Sugars, granulated (SR 19335) | 2 | 7.7 | 0.0 | 2.0 | 2.00 | 2.00 | 0.0 | 0.00 | 0 | 0.0 |
-| sambal oelek (chilli paste); check the label is halal-certified | ESTIMATE from typical sambal oelek labels (chilli, salt, vinegar; no SR Legacy entry) | 60 | 24.0 | 0.6 | 3.6 | 2.10 | 2.10 | 0.6 | 0.06 | 1200 | 1.2 |
+| sambal oelek (chilli paste) | ESTIMATE from typical sambal oelek labels (chilli, salt, vinegar; no SR Legacy entry) | 60 | 24.0 | 0.6 | 3.6 | 2.10 | 2.10 | 0.6 | 0.06 | 1200 | 1.2 |
 | cucumber, thickly sliced | Cucumber, with peel, raw (SR 11205) | 150 | 22.5 | 1.0 | 5.4 | 2.50 | 0.00 | 0.2 | 0.06 | 3 | 0.8 |
 | **Total** | | | 3436 | 99.2 | 364.8 | 12.72 | 4.10 | 181.3 | 92.83 | 4196 | 15.6 |
 

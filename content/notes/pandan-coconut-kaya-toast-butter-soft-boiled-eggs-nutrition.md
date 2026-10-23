@@ -29,4 +29,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - The eggs are cooked until set for food safety, so they are firmer than the jammy eggs in the photo.
 - Makes about 250 ml kaya; the toast uses about 180 ml and nutrition counts the full batch.
-- Choose a soy sauce brewed without alcohol, or a halal-certified one.
+- Choose a soy sauce brewed without alcohol, or one labelled alcohol-free.

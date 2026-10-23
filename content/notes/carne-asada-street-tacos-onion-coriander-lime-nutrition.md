@@ -13,7 +13,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | neutral oil | Oil, canola (SR 04582) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 1.99 | 0 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 4.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1744 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
-| skirt or flank steak (halal), patted dry | Beef, plate steak, boneless, inside skirt, separable lean and fat, trimmed to 0" fat, choice, raw (FDC 172159) | 680 | 1326.0 | 136.4 | 0.0 | 0.00 | 0.00 | 86.9 | 34.23 | 442 | 0.0 |
+| skirt or flank steak, patted dry | Beef, plate steak, boneless, inside skirt, separable lean and fat, trimmed to 0" fat, choice, raw (FDC 172159) | 680 | 1326.0 | 136.4 | 0.0 | 0.00 | 0.00 | 86.9 | 34.23 | 442 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 0.99 | 0 | 0.0 |
 | ripe tomatoes, finely diced | Tomatoes, red, ripe, raw (SR 11529) | 200 | 36.0 | 1.8 | 7.8 | 5.26 | 0.00 | 0.4 | 0.06 | 10 | 2.4 |
 | white onion, finely chopped | Onions, raw (SR 11282) | 60 | 24.0 | 0.7 | 5.6 | 2.54 | 0.00 | 0.1 | 0.03 | 2 | 1.0 |

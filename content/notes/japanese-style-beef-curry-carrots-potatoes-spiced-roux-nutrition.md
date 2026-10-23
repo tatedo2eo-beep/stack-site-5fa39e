@@ -16,14 +16,14 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | unsalted butter | Butter, without salt (SR 01145) | 75 | 537.8 | 0.6 | 0.0 | 0.04 | 0.00 | 60.8 | 38.53 | 8 | 0.0 |
 | plain flour | Wheat flour, white, all-purpose, enriched (SR 20081) | 60 | 218.4 | 6.2 | 45.8 | 0.16 | 0.00 | 0.6 | 0.09 | 1 | 1.6 |
 | fresh ginger, finely grated | Ginger root, raw (SR 11216) | 15 | 12.0 | 0.3 | 2.7 | 0.26 | 0.00 | 0.1 | 0.03 | 2 | 0.3 |
-| boneless beef chuck (halal), cut into 3 cm pieces | Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0" fat, all grades, raw (FDC 168660) | 700 | 1260.0 | 134.3 | 0.0 | 0.00 | 0.00 | 80.4 | 35.29 | 567 | 0.0 |
+| boneless beef chuck, cut into 3 cm pieces | Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0" fat, all grades, raw (FDC 168660) | 700 | 1260.0 | 134.3 | 0.0 | 0.00 | 0.00 | 80.4 | 35.29 | 567 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 1.99 | 0 | 0.0 |
 | large onions, diced | Onions, raw (SR 11282) | 400 | 160.0 | 4.4 | 37.4 | 16.96 | 0.00 | 0.4 | 0.17 | 16 | 6.8 |
 | carrots, peeled and cut into 2 cm pieces | Carrots, raw (SR 11124) | 225 | 92.2 | 2.1 | 21.6 | 10.67 | 0.00 | 0.5 | 0.08 | 155 | 6.3 |
-| low-sodium chicken or beef stock (halal) (ESTIMATE: ready-to-serve chicken broth values) | Soup, chicken broth, ready-to-serve (FDC 174536) | 600 | 36.0 | 3.8 | 2.6 | 2.58 | 0.00 | 1.3 | 0.08 | 2226 | 0.0 |
+| low-sodium chicken or beef stock (ESTIMATE: ready-to-serve chicken broth values) | Soup, chicken broth, ready-to-serve (FDC 174536) | 600 | 36.0 | 3.8 | 2.6 | 2.58 | 0.00 | 1.3 | 0.08 | 2226 | 0.0 |
 | waxy potatoes, peeled and cut into 3 cm chunks | Potatoes, flesh and skin, raw (SR 11352) | 450 | 346.5 | 9.2 | 78.7 | 3.69 | 0.00 | 0.4 | 0.11 | 27 | 9.5 |
 | apple (about half), peeled and finely grated | Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (FDC 171688) | 80 | 41.6 | 0.2 | 11.0 | 8.31 | 0.00 | 0.1 | 0.02 | 1 | 1.9 |
-| soy sauce (check the label is halal) | Soy sauce, shoyu (FDC 174277) | 12 | 6.4 | 1.0 | 0.6 | 0.05 | 0.00 | 0.1 | 0.01 | 659 | 0.1 |
+| soy sauce | Soy sauce, shoyu (FDC 174277) | 12 | 6.4 | 1.0 | 0.6 | 0.05 | 0.00 | 0.1 | 0.01 | 659 | 0.1 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | **Total** | | | 3004 | 164.3 | 210.9 | 43.03 | 0.00 | 173.5 | 76.66 | 4835 | 31.1 |
 
@@ -39,5 +39,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Made with a homemade roux because many store-bought curry blocks contain animal fats or flavourings that are hard to verify as halal.
+- Made with a homemade roux because many store-bought curry blocks contain animal fats or flavourings that are hard to verify.
 - Nutrition does not include rice.

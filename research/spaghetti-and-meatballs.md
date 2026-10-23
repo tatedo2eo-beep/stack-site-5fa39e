@@ -10,7 +10,7 @@ Dish: Spaghetti with meatballs / flavour: Classic. Private file, not published.
 > Written in the pasta chapter. Quantities are my own; the core method matches the locked-list sources listed above. No wine or pork; Parmesan rennet note given.
 
 ## Own cooking judgment
-- Beef only (halal); meatballs simmered until 71 °C in the centre.
+- Beef only; meatballs simmered until 71 °C in the centre.
 - Salt 0.75 % of the beef (01-B3 range adapted).
 
 ## Reliability checks

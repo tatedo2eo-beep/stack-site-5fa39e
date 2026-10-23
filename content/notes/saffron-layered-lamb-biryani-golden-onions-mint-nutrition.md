@@ -4,7 +4,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| boneless lamb leg or shoulder (halal), trimmed and cut into 3 cm cubes | Lamb, leg, shank half, separable lean and fat, trimmed to 1/8" fat, choice, raw (FDC 174374) | 900 | 1665.0 | 170.9 | 0.0 | 0.00 | 0.00 | 103.5 | 43.92 | 522 | 0.0 |
+| boneless lamb leg or shoulder, trimmed and cut into 3 cm cubes | Lamb, leg, shank half, separable lean and fat, trimmed to 1/8" fat, choice, raw (FDC 174374) | 900 | 1665.0 | 170.9 | 0.0 | 0.00 | 0.00 | 103.5 | 43.92 | 522 | 0.0 |
 | plain whole-milk yoghurt | Yogurt, plain, whole milk (FDC 171284) | 240 | 146.4 | 8.3 | 11.2 | 11.18 | 0.00 | 7.8 | 5.03 | 110 | 0.0 |
 | garlic cloves, finely grated | Garlic, raw (SR 11215) | 18 | 26.8 | 1.1 | 6.0 | 0.18 | 0.00 | 0.1 | 0.02 | 3 | 0.4 |
 | fresh ginger, finely grated | Ginger root, raw (SR 11216) | 25 | 20.0 | 0.5 | 4.4 | 0.42 | 0.00 | 0.2 | 0.05 | 3 | 0.5 |
@@ -42,6 +42,6 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use halal lamb.
+- Use lamb.
 - Rosewater and kewra water are often sprinkled over the rice; they are left out here, but alcohol-free rosewater can be added with the saffron milk.
 - The lamb is braised until tender, well past the 63 °C safe temperature; the 74 °C check is for the finished biryani.

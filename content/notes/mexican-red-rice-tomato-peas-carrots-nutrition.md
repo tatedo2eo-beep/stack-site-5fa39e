@@ -9,7 +9,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | medium white onion, chopped | Onions, raw (SR 11282) | 110 | 44.0 | 1.2 | 10.3 | 4.66 | 0.00 | 0.1 | 0.05 | 4 | 1.9 |
 | garlic cloves, chopped | Garlic, raw (SR 11215) | 3 | 4.5 | 0.2 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 1 | 0.1 |
 | plum tomatoes, chopped | Tomatoes, red, ripe, raw (SR 11529) | 225 | 40.5 | 2.0 | 8.8 | 5.92 | 0.00 | 0.5 | 0.06 | 11 | 2.7 |
-| low-salt chicken or vegetable stock (halal; check the label) | Soup, chicken broth, ready-to-serve (FDC 174536) | 360 | 21.6 | 2.3 | 1.6 | 1.55 | 0.00 | 0.8 | 0.05 | 1336 | 0.0 |
+| low-salt chicken or vegetable stock (check the label) | Soup, chicken broth, ready-to-serve (FDC 174536) | 360 | 21.6 | 2.3 | 1.6 | 1.55 | 0.00 | 0.8 | 0.05 | 1336 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 4.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1744 | 0.0 |
 | medium carrot, cut into 5 mm dice | Carrots, raw (SR 11124) | 115 | 47.1 | 1.1 | 11.0 | 5.45 | 0.00 | 0.3 | 0.04 | 79 | 3.2 |
 | frozen peas, thawed | Peas, green, frozen, unprepared (SR 11312) | 70 | 53.9 | 3.7 | 9.5 | 3.15 | 0.00 | 0.3 | 0.05 | 76 | 3.1 |

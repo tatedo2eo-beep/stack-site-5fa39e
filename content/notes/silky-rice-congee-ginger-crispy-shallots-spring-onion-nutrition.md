@@ -5,7 +5,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | jasmine or other long-grain white rice | Rice, white, long-grain, regular, raw (SR 20044) | 150 | 547.5 | 10.7 | 119.9 | 0.18 | 0.00 | 1.0 | 0.27 | 8 | 2.0 |
-| low-salt chicken stock (halal) or vegetable stock (ESTIMATE: counted as ready-to-serve chicken broth (FDC 174536); low-salt stock is lower) | Soup, chicken broth, ready-to-serve (FDC 174536) | 500 | 30.0 | 3.2 | 2.2 | 2.15 | 0.00 | 1.1 | 0.07 | 1855 | 0.0 |
+| low-salt chicken stock or vegetable stock (ESTIMATE: counted as ready-to-serve chicken broth (FDC 174536); low-salt stock is lower) | Soup, chicken broth, ready-to-serve (FDC 174536) | 500 | 30.0 | 3.2 | 2.2 | 2.15 | 0.00 | 1.1 | 0.07 | 1855 | 0.0 |
 | fresh ginger, peeled and cut into thick slices | Ginger root, raw (SR 11216) | 30 | 24.0 | 0.5 | 5.3 | 0.51 | 0.00 | 0.2 | 0.06 | 4 | 0.6 |
 | fine salt | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |
 | shallots, thinly sliced into rings | Shallots, raw (FDC 170499) | 90 | 64.8 | 2.2 | 15.1 | 7.08 | 0.00 | 0.1 | 0.02 | 11 | 2.9 |
@@ -28,5 +28,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use halal-certified chicken stock or vegetable stock (vegetarian); check stock and soy sauce labels for alcohol.
+- Use chicken stock or vegetable stock (vegetarian); check stock and soy sauce labels for alcohol.
 - Served as a light meal for 4.

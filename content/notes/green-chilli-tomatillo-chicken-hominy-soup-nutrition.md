@@ -4,7 +4,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| boneless, skinless chicken thighs (halal) | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 700 | 847.0 | 137.6 | 0.0 | 0.00 | 0.00 | 28.8 | 7.70 | 665 | 0.0 |
+| boneless, skinless chicken thighs | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 700 | 847.0 | 137.6 | 0.0 | 0.00 | 0.00 | 28.8 | 7.70 | 665 | 0.0 |
 | medium onion, halved | Onions, raw (SR 11282) | 150 | 60.0 | 1.7 | 14.0 | 6.36 | 0.00 | 0.2 | 0.06 | 6 | 2.5 |
 | garlic cloves, peeled | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | tomatillos, husked and rinsed | Tomatillos, raw (FDC 168566) | 450 | 144.0 | 4.3 | 26.3 | 17.69 | 0.00 | 4.6 | 0.63 | 4 | 8.5 |

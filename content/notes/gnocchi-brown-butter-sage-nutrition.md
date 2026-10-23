@@ -29,4 +29,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - About 820 g potato flesh from 1 kg baked potatoes.
 - Fresh sage counted as dried sage at a quarter of the weight (ESTIMATE).
-- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian or halal-certified cheese if you need one.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian cheese if you need one.

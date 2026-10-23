@@ -5,9 +5,9 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | full-fat coconut milk (2 cans, unshaken) | Nuts, coconut milk, canned (liquid expressed from grated meat and water) (FDC 170173) | 800 | 1576.0 | 16.2 | 22.5 | 0.00 | 0.00 | 170.6 | 151.32 | 104 | 0.0 |
-| store-bought Thai green curry paste (check the label is halal) | ESTIMATE from typical store-bought Thai curry paste labels (massaman/green); sodium varies widely by brand | 60 | 90.0 | 1.8 | 9.0 | 3.60 | 0.00 | 4.8 | 0.60 | 1800 | 3.0 |
+| store-bought Thai green curry paste | ESTIMATE from typical store-bought Thai curry paste labels (massaman/green); sodium varies widely by brand | 60 | 90.0 | 1.8 | 9.0 | 3.60 | 0.00 | 4.8 | 0.60 | 1800 | 3.0 |
 | fresh ginger, finely grated | Ginger root, raw (SR 11216) | 15 | 12.0 | 0.3 | 2.7 | 0.26 | 0.00 | 0.1 | 0.03 | 2 | 0.3 |
-| fish sauce (check the label is halal) | Sauce, fish, ready-to-serve (FDC 174531) | 18 | 6.3 | 0.9 | 0.7 | 0.66 | 0.66 | 0.0 | 0.00 | 1413 | 0.0 |
+| fish sauce | Sauce, fish, ready-to-serve (FDC 174531) | 18 | 6.3 | 0.9 | 0.7 | 0.66 | 0.66 | 0.0 | 0.00 | 1413 | 0.0 |
 | palm sugar or light brown sugar | Sugars, brown (SR 19334) | 10 | 38.0 | 0.0 | 9.8 | 9.70 | 9.70 | 0.0 | 0.00 | 3 | 0.0 |
 | Thai round aubergines or 1 small aubergine, cut into 2-3 cm pieces | Eggplant, raw (FDC 169228) | 300 | 75.0 | 2.9 | 17.6 | 10.59 | 0.00 | 0.5 | 0.10 | 6 | 9.0 |
 | skinless cod or other firm white fish fillet, cut into 4 cm pieces | Fish, cod, Atlantic, raw (FDC 171955) | 600 | 492.0 | 106.8 | 0.0 | 0.00 | 0.00 | 4.0 | 0.79 | 324 | 0.0 |

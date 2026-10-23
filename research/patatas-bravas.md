@@ -10,7 +10,7 @@ Dish: Patatas bravas / flavour: Classic. Private file, not published.
 > Written for the fries and potatoes chapter. Quantities are my own; the core method matches the locked-list sources listed above; nothing copied.
 
 ## Own cooking judgment
-- Bicarbonate par-boil (ATK) then roasted in hot oil (NYT); sauce and garlic mayonnaise served separately drizzled, as in the photo; cider vinegar (halal).
+- Bicarbonate par-boil (ATK) then roasted in hot oil (NYT); sauce and garlic mayonnaise served separately drizzled, as in the photo; cider vinegar.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

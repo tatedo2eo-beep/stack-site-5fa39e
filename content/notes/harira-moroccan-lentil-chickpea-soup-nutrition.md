@@ -17,7 +17,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | cayenne pepper | Spices, pepper, red or cayenne (SR 02031) | 0.45 | 1.4 | 0.1 | 0.3 | 0.05 | 0.00 | 0.1 | 0.01 | 0 | 0.1 |
 | fresh coriander, chopped, divided | Coriander (cilantro) leaves, raw (SR 11165) | 40 | 9.2 | 0.9 | 1.5 | 0.35 | 0.00 | 0.2 | 0.01 | 18 | 1.1 |
 | flat-leaf parsley, chopped, divided | Parsley, fresh (SR 11297) | 30 | 10.8 | 0.9 | 1.9 | 0.26 | 0.00 | 0.2 | 0.04 | 17 | 1.0 |
-| low-salt halal chicken or vegetable broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 1000 | 60.0 | 6.4 | 4.4 | 4.30 | 0.00 | 2.1 | 0.13 | 3710 | 0.0 |
+| low-salt chicken or vegetable broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 1000 | 60.0 | 6.4 | 4.4 | 4.30 | 0.00 | 2.1 | 0.13 | 3710 | 0.0 |
 | water | Water, tap (SR 14411) | 1000 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 40 | 0.0 |
 | brown or green lentils, rinsed | Lentils, raw (FDC 172420) | 190 | 668.8 | 46.8 | 120.4 | 3.86 | 0.00 | 2.0 | 0.29 | 11 | 20.3 |
 | tin chickpeas (400 g), drained and rinsed | Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water (FDC 173801) | 240 | 331.2 | 16.9 | 54.9 | 9.60 | 0.00 | 5.9 | 0.51 | 509 | 15.1 |
@@ -43,5 +43,5 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt halal broth.
+- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt broth.
 - Lentils counted as raw lentils (FDC 172420); chickpeas as canned, drained and rinsed.

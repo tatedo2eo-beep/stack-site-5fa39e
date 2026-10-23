@@ -13,7 +13,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ground cinnamon | Spices, cinnamon, ground (SR 02010) | 1.3 | 3.2 | 0.1 | 1.0 | 0.03 | 0.00 | 0.0 | 0.00 | 0 | 0.7 |
 | whole cloves | Spices, cloves, ground (FDC 171321) | 0.3 | 0.8 | 0.0 | 0.2 | 0.01 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 2.4 | 6.0 | 0.2 | 1.5 | 0.02 | 0.00 | 0.1 | 0.03 | 0 | 0.6 |
-| boneless beef chuck (halal), cut into 5 cm pieces | Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0" fat, all grades, raw (FDC 168660) | 1500 | 2700.0 | 287.7 | 0.0 | 0.00 | 0.00 | 172.2 | 75.63 | 1215 | 0.0 |
+| boneless beef chuck, cut into 5 cm pieces | Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0" fat, all grades, raw (FDC 168660) | 1500 | 2700.0 | 287.7 | 0.0 | 0.00 | 0.00 | 172.2 | 75.63 | 1215 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 7.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2907 | 0.0 |
 | medium onion, peeled and halved | Onions, raw (SR 11282) | 200 | 80.0 | 2.2 | 18.7 | 8.48 | 0.00 | 0.2 | 0.08 | 8 | 3.4 |
 | small corn tortillas (15 cm) | Tortillas, ready-to-bake or -fry, corn (FDC 175036) | 470 | 1024.6 | 26.8 | 209.8 | 4.14 | 0.00 | 13.4 | 2.13 | 212 | 29.6 |
@@ -35,5 +35,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Choose a mozzarella made with microbial or halal-certified rennet.
+- Choose a mozzarella made with microbial rennet.
 - Nutrition counts all the beef, chillies and salt, and about 125 ml broth per person; some fat is skimmed off and only part of it is used for frying.

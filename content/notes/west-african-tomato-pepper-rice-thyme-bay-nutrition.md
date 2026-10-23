@@ -8,7 +8,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | red peppers, deseeded and roughly chopped | Peppers, sweet, red, raw (SR 11821) | 200 | 62.0 | 2.0 | 12.1 | 8.40 | 0.00 | 0.6 | 0.05 | 8 | 4.2 |
 | medium red onion, roughly chopped | Onions, raw (SR 11282) | 225 | 90.0 | 2.5 | 21.0 | 9.54 | 0.00 | 0.2 | 0.09 | 9 | 3.8 |
 | Scotch bonnet or habanero chilli, deseeded | Hot chilli pepper, red, raw (FDC 170106) used as proxy | 3 | 1.2 | 0.1 | 0.3 | 0.16 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
-| low-salt chicken or vegetable stock (halal; check the label) | Soup, chicken broth, ready-to-serve (FDC 174536) | 350 | 21.0 | 2.2 | 1.5 | 1.50 | 0.00 | 0.7 | 0.05 | 1298 | 0.0 |
+| low-salt chicken or vegetable stock (check the label) | Soup, chicken broth, ready-to-serve (FDC 174536) | 350 | 21.0 | 2.2 | 1.5 | 1.50 | 0.00 | 0.7 | 0.05 | 1298 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 40.5 | 358.0 | 0.0 | 0.0 | 0.00 | 0.00 | 40.5 | 2.98 | 0 | 0.0 |
 | medium red onion, thinly sliced (divided) | Onions, raw (SR 11282) | 225 | 90.0 | 2.5 | 21.0 | 9.54 | 0.00 | 0.2 | 0.09 | 9 | 3.8 |
 | curry powder | Spices, curry powder (FDC 170924) | 4 | 13.0 | 0.6 | 2.2 | 0.11 | 0.00 | 0.6 | 0.07 | 2 | 2.1 |

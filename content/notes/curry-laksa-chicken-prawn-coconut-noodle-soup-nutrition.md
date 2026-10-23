@@ -5,7 +5,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | bone-in, skin-on chicken thighs (edible meat, skin discarded) | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 320 | 387.2 | 62.9 | 0.0 | 0.00 | 0.00 | 13.2 | 3.52 | 304 | 0.0 |
-| low-salt halal chicken broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 300 | 18.0 | 1.9 | 1.3 | 1.29 | 0.00 | 0.6 | 0.04 | 1113 | 0.0 |
+| low-salt chicken broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 300 | 18.0 | 1.9 | 1.3 | 1.29 | 0.00 | 0.6 | 0.04 | 1113 | 0.0 |
 | water | Water, tap (SR 14411) | 1200 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 48 | 0.0 |
 | fresh ginger, sliced | Ginger root, raw (SR 11216) | 15 | 12.0 | 0.3 | 2.7 | 0.26 | 0.00 | 0.1 | 0.03 | 2 | 0.3 |
 | dried red chillies, seeded and soaked in hot water 15 min | ESTIMATE: dried red chillies, whole (close to SR chili pepper powder without salt) | 8 | 22.6 | 1.0 | 4.0 | 0.80 | 0.00 | 0.5 | 0.08 | 7 | 2.2 |
@@ -44,7 +44,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt halal broth.
+- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt broth.
 - Belacan has no SR Legacy entry; its sodium is proxied by 12 g fish sauce.
 - Tamarind paste counted as raw tamarind pulp (FDC 167763).
 - Candlenuts are only used cooked; macadamias are the usual substitute and are counted.

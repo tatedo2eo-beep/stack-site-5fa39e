@@ -10,7 +10,7 @@ Dish: Potato salad / flavour: Dill. Private file, not published.
 > Written for the fries and potatoes chapter. Quantities are my own; the core method matches the locked-list sources listed above; nothing copied.
 
 ## Own cooking judgment
-- Dill stalks in the water and dill vinegar (ATK); cider vinegar replaces wine vinegar (halal).
+- Dill stalks in the water and dill vinegar (ATK); cider vinegar replaces wine vinegar.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

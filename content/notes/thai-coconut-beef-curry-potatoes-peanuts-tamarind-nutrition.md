@@ -4,14 +4,14 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| boneless beef chuck (halal), cut into 5 cm pieces | Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0" fat, all grades, raw (FDC 168660) | 800 | 1440.0 | 153.4 | 0.0 | 0.00 | 0.00 | 91.8 | 40.34 | 648 | 0.0 |
+| boneless beef chuck, cut into 5 cm pieces | Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0" fat, all grades, raw (FDC 168660) | 800 | 1440.0 | 153.4 | 0.0 | 0.00 | 0.00 | 91.8 | 40.34 | 648 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 1.99 | 0 | 0.0 |
 | full-fat coconut milk (1 can), divided | Nuts, coconut milk, canned (liquid expressed from grated meat and water) (FDC 170173) | 400 | 788.0 | 8.1 | 11.2 | 0.00 | 0.00 | 85.3 | 75.66 | 52 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 0.99 | 0 | 0.0 |
-| store-bought massaman curry paste (check the label is halal) | ESTIMATE from typical store-bought Thai curry paste labels (massaman/green); sodium varies widely by brand | 80 | 120.0 | 2.4 | 12.0 | 4.80 | 0.00 | 6.4 | 0.80 | 2400 | 4.0 |
+| store-bought massaman curry paste | ESTIMATE from typical store-bought Thai curry paste labels (massaman/green); sodium varies widely by brand | 80 | 120.0 | 2.4 | 12.0 | 4.80 | 0.00 | 6.4 | 0.80 | 2400 | 4.0 |
 | palm sugar or light brown sugar (brown sugar used for palm sugar) | Sugars, brown (SR 19334) | 40 | 152.0 | 0.0 | 39.2 | 38.81 | 38.81 | 0.0 | 0.00 | 11 | 0.0 |
 | tamarind paste (ESTIMATE: raw tamarind values used for tamarind paste) | Tamarinds, raw (FDC 167763) | 50 | 119.5 | 1.4 | 31.2 | 19.40 | 0.00 | 0.3 | 0.14 | 14 | 2.5 |
-| fish sauce (check the label is halal) | Sauce, fish, ready-to-serve (FDC 174531) | 12 | 4.2 | 0.6 | 0.4 | 0.44 | 0.44 | 0.0 | 0.00 | 942 | 0.0 |
+| fish sauce | Sauce, fish, ready-to-serve (FDC 174531) | 12 | 4.2 | 0.6 | 0.4 | 0.44 | 0.44 | 0.0 | 0.00 | 942 | 0.0 |
 | waxy potatoes, peeled and cut into 5 cm pieces | Potatoes, flesh and skin, raw (SR 11352) | 400 | 308.0 | 8.2 | 70.0 | 3.28 | 0.00 | 0.4 | 0.10 | 24 | 8.4 |
 | roasted unsalted peanuts | Peanuts, all types, dry-roasted, without salt (FDC 173806) | 50 | 293.5 | 12.2 | 10.6 | 2.45 | 0.00 | 24.8 | 3.86 | 3 | 4.2 |
 | **Total** | | | 3583 | 186.4 | 174.8 | 69.17 | 39.24 | 249.6 | 123.88 | 4094 | 19.1 |

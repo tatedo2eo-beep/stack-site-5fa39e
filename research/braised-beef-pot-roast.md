@@ -10,7 +10,7 @@ Dish: Pot roast / flavour: Classic. Private file, not published.
 > Written for the meat chapter. Quantities are my own; the core method matches the locked-list sources listed above; nothing copied. Whole cuts cooked to at least 63 °C plus rest and ground meat to 71 °C (site rules, FSIS), regardless of the lower pull temperatures some sources give.
 
 ## Own cooking judgment
-- Sear, tomato paste, foil under the lid, 150 °C, turned once (ATK, NYT); vegetables added later so they hold their shape; cider vinegar for the wine (halal).
+- Sear, tomato paste, foil under the lid, 150 °C, turned once (ATK, NYT); vegetables added later so they hold their shape; cider vinegar for the wine.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

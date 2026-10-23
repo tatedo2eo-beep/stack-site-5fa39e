@@ -10,7 +10,7 @@ Dish: Katsu sando / flavour: Chicken. Private file, not published.
 > Written for this batch. Quantities and wording are my own; the core method matches the locked-list sources listed above; nothing copied.
 
 ## Own cooking judgment
-- Chicken only (halal); cooked to 74 °C
+- Chicken only; cooked to 74 °C
 - Katsu sauce from ketchup, soy, sugar, cider vinegar, cloves and ginger; no Worcestershire
 - English mustard in the mayo instead of Dijon
 

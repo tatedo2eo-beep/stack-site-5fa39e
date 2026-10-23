@@ -6,7 +6,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | skinless chicken breasts (about 3) | Chicken, broiler, breast, skinless, boneless, meat only, raw (SR 05062) | 600 | 720.0 | 135.0 | 0.0 | 0.00 | 0.00 | 15.7 | 3.36 | 270 | 0.0 |
 | fine salt, for the poaching water (a quarter absorbed) | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
-| mayonnaise (halal-certified) | Salad dressing, mayonnaise, regular (SR 04025) | 90 | 612.0 | 0.9 | 0.5 | 0.51 | 0.51 | 67.4 | 10.57 | 572 | 0.0 |
+| mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 90 | 612.0 | 0.9 | 0.5 | 0.51 | 0.51 | 67.4 | 10.57 | 572 | 0.0 |
 | soured cream or plain Greek-style yoghurt | Cream, sour, cultured (FDC 171257) | 60 | 118.8 | 1.5 | 2.8 | 2.05 | 0.00 | 11.6 | 6.08 | 19 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 22 | 4.8 | 0.1 | 1.5 | 0.55 | 0.55 | 0.1 | 0.01 | 0 | 0.1 |
 | lemon zest, finely grated | Lemon peel, raw (SR 09156) | 1 | 0.5 | 0.0 | 0.2 | 0.04 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
@@ -31,5 +31,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Dijon mustard used in some sources is left out (halal); lemon zest gives the lift.
-- Use halal chicken.
+- Dijon mustard used in some sources is left out; lemon zest gives the lift.
+- Use chicken.

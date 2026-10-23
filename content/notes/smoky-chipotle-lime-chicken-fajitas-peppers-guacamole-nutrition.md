@@ -6,12 +6,12 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | neutral oil | Oil, canola (SR 04582) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 1.99 | 0 | 0.0 |
 | lime, zested and juiced | Lime juice, raw (SR 09160) - juice sugars counted as free | 30 | 7.5 | 0.1 | 2.5 | 0.51 | 0.51 | 0.0 | 0.00 | 1 | 0.1 |
-| chipotle in adobo, finely chopped (halal-certified brand) | ESTIMATE from typical canned chipotle-in-adobo labels | 15 | 9.0 | 0.2 | 1.5 | 0.60 | 0.00 | 0.2 | 0.03 | 165 | 0.6 |
+| chipotle in adobo, finely chopped | ESTIMATE from typical canned chipotle-in-adobo labels | 15 | 9.0 | 0.2 | 1.5 | 0.60 | 0.00 | 0.2 | 0.03 | 165 | 0.6 |
 | ground cumin | Spices, cumin seed (SR 02014) | 4.2 | 15.8 | 0.7 | 1.9 | 0.09 | 0.00 | 0.9 | 0.06 | 7 | 0.4 |
 | smoked paprika | Spices, paprika (SR 02028) | 2.3 | 6.5 | 0.3 | 1.2 | 0.24 | 0.00 | 0.3 | 0.05 | 2 | 0.8 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
-| boneless, skinless chicken thighs (halal), cut into 1 cm strips | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 680 | 822.8 | 133.7 | 0.0 | 0.00 | 0.00 | 28.0 | 7.48 | 646 | 0.0 |
+| boneless, skinless chicken thighs, cut into 1 cm strips | Chicken, broiler, thigh, meat only, raw (FDC 173627) | 680 | 822.8 | 133.7 | 0.0 | 0.00 | 0.00 | 28.0 | 7.48 | 646 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 0.99 | 0 | 0.0 |
 | red pepper, cut into 1 cm strips | Peppers, sweet, red, raw (SR 11821) | 180 | 55.8 | 1.8 | 10.9 | 7.56 | 0.00 | 0.5 | 0.05 | 7 | 3.8 |
 | yellow pepper, cut into 1 cm strips | Peppers, sweet, yellow, raw (FDC 169383) | 180 | 48.6 | 1.8 | 11.4 | 0.00 | 0.00 | 0.4 | 0.06 | 4 | 1.6 |

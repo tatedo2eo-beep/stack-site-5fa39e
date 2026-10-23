@@ -31,5 +31,5 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Anchovies are fish and halal; leave them out and add 8 more olive halves for a vegetarian version (the salt per piece drops by about 0.5 g).
+- Leave them out and add 8 more olive halves for a vegetarian version (the salt per piece drops by about 0.5 g).
 - Served as a starter or light lunch, 1 piece per person.

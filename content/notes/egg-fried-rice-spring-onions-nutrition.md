@@ -26,5 +26,5 @@ Servings: 2. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Serves 2 as a main or 4 as a side.
-- Choose a soy sauce labelled alcohol-free (many naturally brewed soy sauces contain alcohol); halal-certified brands are widely available.
+- Choose a soy sauce labelled alcohol-free (many naturally brewed soy sauces contain alcohol); brands are widely available.
 - Rice is cooked and chilled the day before; freshly cooked rice spread on a tray and chilled 1 h uncovered also works.

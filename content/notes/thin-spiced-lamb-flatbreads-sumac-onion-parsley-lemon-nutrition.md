@@ -8,7 +8,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | instant (fast-action) dried yeast | Leavening agents, yeast, baker's, active dry (FDC 175043) | 1.5 | 4.9 | 0.6 | 0.6 | 0.00 | 0.00 | 0.1 | 0.02 | 1 | 0.4 |
 | fine salt | Salt, table (SR 02047) | 6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2325 | 0.0 |
 | sunflower or other neutral oil | Oil, canola (SR 04582) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 0.99 | 0 | 0.0 |
-| minced lamb (halal), about 20% fat | Lamb, ground, raw (FDC 174370) | 250 | 705.0 | 41.5 | 0.0 | 0.00 | 0.00 | 58.5 | 25.50 | 148 | 0.0 |
+| minced lamb, about 20% fat | Lamb, ground, raw (FDC 174370) | 250 | 705.0 | 41.5 | 0.0 | 0.00 | 0.00 | 58.5 | 25.50 | 148 | 0.0 |
 | red pepper, deseeded and roughly chopped | Peppers, sweet, red, raw (SR 11821) | 150 | 46.5 | 1.5 | 9.0 | 6.30 | 0.00 | 0.4 | 0.04 | 6 | 3.2 |
 | small onion, roughly chopped | Onions, raw (SR 11282) | 80 | 32.0 | 0.9 | 7.5 | 3.39 | 0.00 | 0.1 | 0.03 | 3 | 1.4 |
 | garlic cloves, peeled | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
@@ -38,6 +38,6 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use halal-certified lamb; minced beef (15-20% fat) also works.
+- Use lamb; minced beef (15-20% fat) also works.
 - Turkish pepper paste (biber salçası) is often used and is salty; fresh red pepper and paprika are used instead to keep salt down.
 - Lamb mince cooked to 71 °C; the thin layer gets there in the hot oven.

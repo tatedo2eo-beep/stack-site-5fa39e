@@ -29,4 +29,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - One 25 cm pizza per person.
 - Home ovens cannot reach a wood-fired oven's 450 °C; a stone or steel heated 45-60 min plus the grill gives a blistered rim in 5-7 min.
 - Dough salt kept at 1.5% of the flour (traditional doughs use 2.5-3%) to keep each pizza under 3 g salt.
-- Mozzarella, cheddar and Parmesan are often made with animal rennet; choose cheese made with microbial or vegetarian rennet (or halal-certified) if needed.
+- Mozzarella, cheddar and Parmesan are often made with animal rennet; choose cheese made with microbial or vegetarian rennet if needed.

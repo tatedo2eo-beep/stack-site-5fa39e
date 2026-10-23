@@ -8,7 +8,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
 | neutral oil | Oil, canola (SR 04582) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 0.99 | 0 | 0.0 |
-| low-salt chicken broth (halal) | Soup, chicken broth, ready-to-serve (FDC 174536) | 500 | 30.0 | 3.2 | 2.2 | 2.15 | 0.00 | 1.1 | 0.07 | 1855 | 0.0 |
+| low-salt chicken broth | Soup, chicken broth, ready-to-serve (FDC 174536) | 500 | 30.0 | 3.2 | 2.2 | 2.15 | 0.00 | 1.1 | 0.07 | 1855 | 0.0 |
 | water | Water, tap (SR 14411) | 1000 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 40 | 0.0 |
 | medium onion, finely chopped | Onions, raw (SR 11282) | 150 | 60.0 | 1.7 | 14.0 | 6.36 | 0.00 | 0.2 | 0.06 | 6 | 2.5 |
 | carrots, cut into 1 cm pieces | Carrots, raw (SR 11124) | 200 | 82.0 | 1.9 | 19.2 | 9.48 | 0.00 | 0.5 | 0.07 | 138 | 5.6 |
@@ -32,4 +32,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt halal broth.
+- Broth counted as ready-to-serve chicken broth (FDC 174536); choose a low-salt broth.

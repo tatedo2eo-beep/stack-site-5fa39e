@@ -43,4 +43,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - Beef only and no wine.
 - Pecorino stands in for Greek kefalotyri.
-- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian or halal-certified cheese if you need one.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian cheese if you need one.

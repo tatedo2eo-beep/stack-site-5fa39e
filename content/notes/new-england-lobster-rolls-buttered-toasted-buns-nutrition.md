@@ -5,7 +5,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | cooked lobster meat, in 1-2 cm chunks | Crustaceans, lobster, northern, cooked, moist heat (FDC 174209) | 450 | 400.5 | 85.5 | 0.0 | 0.00 | 0.00 | 3.9 | 0.94 | 2187 | 0.0 |
-| mayonnaise (halal-certified) | Salad dressing, mayonnaise, regular (SR 04025) | 50 | 340.0 | 0.5 | 0.3 | 0.28 | 0.28 | 37.4 | 5.87 | 318 | 0.0 |
+| mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 50 | 340.0 | 0.5 | 0.3 | 0.28 | 0.28 | 37.4 | 5.87 | 318 | 0.0 |
 | celery, finely chopped | Celery, raw (FDC 169988) | 40 | 5.6 | 0.3 | 1.2 | 0.54 | 0.00 | 0.1 | 0.02 | 32 | 0.6 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 10 | 2.2 | 0.0 | 0.7 | 0.25 | 0.25 | 0.0 | 0.00 | 0 | 0.0 |
 | chives, finely chopped | Chives, raw (FDC 169994) | 3 | 0.9 | 0.1 | 0.1 | 0.06 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
@@ -27,5 +27,5 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use a halal-certified mayonnaise made with spirit or cider vinegar only.
+- Use a mayonnaise made with spirit or cider vinegar only.
 - Buy lobster meat already cooked, or boil live lobsters 9-10 min per 600 g; keep the meat chilled below 5 °C until serving.

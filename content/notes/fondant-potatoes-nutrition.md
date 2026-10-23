@@ -11,7 +11,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | unsalted butter, diced | Butter, without salt (SR 01145) | 60 | 430.2 | 0.5 | 0.0 | 0.04 | 0.00 | 48.7 | 30.82 | 7 | 0.0 |
 | garlic cloves, lightly crushed | Garlic, raw (SR 11215) | 9 | 13.4 | 0.6 | 3.0 | 0.09 | 0.00 | 0.0 | 0.01 | 2 | 0.2 |
 | thyme sprigs | Spices, thyme, dried (SR 02042) | 1 | 2.8 | 0.1 | 0.6 | 0.02 | 0.00 | 0.1 | 0.03 | 1 | 0.4 |
-| chicken stock (halal) or vegetable stock, low-salt (about 120 ml absorbed; the rest reduces to a glaze) | Soup, chicken broth, ready-to-serve (FDC 174536) | 120 | 7.2 | 0.8 | 0.5 | 0.52 | 0.00 | 0.3 | 0.02 | 445 | 0.0 |
+| chicken stock or vegetable stock, low-salt (about 120 ml absorbed; the rest reduces to a glaze) | Soup, chicken broth, ready-to-serve (FDC 174536) | 120 | 7.2 | 0.8 | 0.5 | 0.52 | 0.00 | 0.3 | 0.02 | 445 | 0.0 |
 | **Total** | | | 1310 | 18.4 | 144.5 | 7.22 | 0.00 | 76.8 | 33.07 | 2246 | 17.5 |
 
 **Per serving (total / 4):** kcal 327, protein_g 4.6, carbs_g 36.1, sugar_g 1.8, free_sugar_g 0.0, fat_g 19.2, satfat_g 8.3, salt_g 1.4, fibre_g 4.4

@@ -8,7 +8,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | long-grain white rice | Rice, white, long-grain, regular, raw (SR 20044) | 100 | 365.0 | 7.1 | 80.0 | 0.12 | 0.00 | 0.7 | 0.18 | 5 | 1.3 |
 | olive oil | Oil, olive, salad or cooking (SR 04053) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 1.86 | 0 | 0.0 |
 | medium onion, finely chopped | Onions, raw (SR 11282) | 150 | 60.0 | 1.7 | 14.0 | 6.36 | 0.00 | 0.2 | 0.06 | 6 | 2.5 |
-| beef mince, 15% fat (halal) | Beef, ground, 85% lean/15% fat, raw (SR 23567) | 350 | 752.5 | 65.1 | 0.0 | 0.00 | 0.00 | 52.5 | 20.61 | 231 | 0.0 |
+| beef mince, 15% fat | Beef, ground, 85% lean/15% fat, raw (SR 23567) | 350 | 752.5 | 65.1 | 0.0 | 0.00 | 0.00 | 52.5 | 20.61 | 231 | 0.0 |
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 9 | 13.4 | 0.6 | 3.0 | 0.09 | 0.00 | 0.0 | 0.01 | 2 | 0.2 |
 | tin chopped tomatoes (no salt added), drained, 60 ml juice kept (drained solids) | Tomatoes, red, ripe, canned, packed in tomato juice, no salt added (FDC 170138) | 240 | 38.4 | 1.9 | 8.3 | 6.12 | 0.00 | 0.6 | 0.08 | 24 | 4.6 |
 | low-moisture mozzarella, grated | Cheese, mozzarella, whole milk, low moisture (FDC 170846) | 100 | 318.0 | 21.6 | 2.5 | 1.01 | 0.00 | 24.6 | 15.56 | 710 | 0.0 |
@@ -30,5 +30,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use halal beef mince.
+- Use beef mince.
 - A light main for 4 (1 pepper each).

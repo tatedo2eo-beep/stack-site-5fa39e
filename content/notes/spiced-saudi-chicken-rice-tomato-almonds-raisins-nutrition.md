@@ -4,8 +4,8 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| bone-in, skin-on chicken thighs (halal) (ESTIMATE: edible portion of about 600 g bone-in thighs) | Chicken, broilers or fryers, thigh, meat and skin, raw (FDC 172385) | 440 | 972.4 | 72.7 | 1.1 | 0.00 | 0.00 | 73.1 | 19.91 | 356 | 0.0 |
-| chicken drumsticks (halal) (ESTIMATE: edible portion of about 500 g drumsticks) | Chicken, broilers or fryers, drumstick, meat and skin, raw (FDC 172373) | 360 | 579.6 | 65.1 | 0.4 | 0.00 | 0.00 | 33.1 | 8.85 | 382 | 0.0 |
+| bone-in, skin-on chicken thighs (ESTIMATE: edible portion of about 600 g bone-in thighs) | Chicken, broilers or fryers, thigh, meat and skin, raw (FDC 172385) | 440 | 972.4 | 72.7 | 1.1 | 0.00 | 0.00 | 73.1 | 19.91 | 356 | 0.0 |
+| chicken drumsticks (ESTIMATE: edible portion of about 500 g drumsticks) | Chicken, broilers or fryers, drumstick, meat and skin, raw (FDC 172373) | 360 | 579.6 | 65.1 | 0.4 | 0.00 | 0.00 | 33.1 | 8.85 | 382 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 4.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1744 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 0.99 | 0 | 0.0 |
 | large onion, finely chopped | Onions, raw (SR 11282) | 280 | 112.0 | 3.1 | 26.2 | 11.87 | 0.00 | 0.3 | 0.12 | 11 | 4.8 |
@@ -42,6 +42,6 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use halal chicken.
+- Use chicken.
 - Dried limes (loomi) are sold in Middle Eastern shops; lime peel is a good substitute.
 - Weights for bone-in chicken are counted as the edible portion.

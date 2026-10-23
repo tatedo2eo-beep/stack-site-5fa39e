@@ -34,4 +34,4 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - Cheese goes on before the tomato, so the base stays crisp and the tomato bakes into sweet dollops.
 - Two squares per person.
-- Mozzarella, cheddar, Swiss, feta and Parmesan are often made with animal rennet; choose cheese made with microbial or vegetarian rennet (or halal-certified) if needed.
+- Mozzarella, cheddar, Swiss, feta and Parmesan are often made with animal rennet; choose cheese made with microbial or vegetarian rennet if needed.

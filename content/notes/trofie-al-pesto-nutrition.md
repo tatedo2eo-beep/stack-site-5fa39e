@@ -32,4 +32,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - Fresh dough about 450 g.
 - About 90 ml of the pesto oil counted.
-- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian or halal-certified cheese if you need one.
+- Parmigiano Reggiano and pecorino are made with animal rennet, so the vegetarian label assumes a vegetarian hard cheese; choose a vegetarian cheese if you need one.

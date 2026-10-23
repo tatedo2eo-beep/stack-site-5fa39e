@@ -16,7 +16,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | fine salt | Salt, table (SR 02047) | 6 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2325 | 0.0 |
 | full-fat coconut milk (2 cans) | Nuts, coconut milk, canned (liquid expressed from grated meat and water) (FDC 170173) | 800 | 1576.0 | 16.2 | 22.5 | 0.00 | 0.00 | 170.6 | 151.32 | 104 | 0.0 |
 | tamarind paste (ESTIMATE: raw tamarind values used for tamarind paste) | Tamarinds, raw (FDC 167763) | 5 | 12.0 | 0.1 | 3.1 | 1.94 | 0.00 | 0.0 | 0.01 | 1 | 0.3 |
-| boneless beef chuck (halal), trimmed and cut into 5 cm pieces | Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0" fat, all grades, raw (FDC 168660) | 900 | 1620.0 | 172.6 | 0.0 | 0.00 | 0.00 | 103.3 | 45.38 | 729 | 0.0 |
+| boneless beef chuck, trimmed and cut into 5 cm pieces | Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0" fat, all grades, raw (FDC 168660) | 900 | 1620.0 | 172.6 | 0.0 | 0.00 | 0.00 | 103.3 | 45.38 | 729 | 0.0 |
 | **Total** | | | 3553 | 198.9 | 80.0 | 21.14 | 0.00 | 287.8 | 198.88 | 3203 | 11.9 |
 
 **Per serving (total / 6):** kcal 592, protein_g 33.1, carbs_g 13.3, sugar_g 3.5, free_sugar_g 0.0, fat_g 48.0, satfat_g 33.1, salt_g 1.33, fibre_g 2.0

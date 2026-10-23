@@ -35,4 +35,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 - Salt: 1 tsp fine salt taken as 6 g.
 - Cooking water is unsalted so the salt stays within about 3 g per serving; all salt is in the dough and filling.
 - ESTIMATE: farmer's cheese (twaróg) counted as creamed cottage cheese (FDC 172179), which is wetter and saltier, so the salt figure errs high
-- Cheddar is often made with animal rennet; choose microbial or vegetarian rennet (or halal-certified) if needed.
+- Cheddar is often made with animal rennet; choose microbial or vegetarian rennet if needed.

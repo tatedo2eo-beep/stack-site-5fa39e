@@ -11,7 +11,7 @@ Dish: Malloreddus / flavour: Classic. Private file, not published.
 
 ## Own cooking judgment
 - Dough 300 g semolina to 150 ml saffron water (50 %), as in both sources; kneaded 8-10 min and rested 30 min.
-- Pork sausage and fortified wine left out (halal); sauce simmered 25-30 min.
+- Pork sausage and fortified wine left out; sauce simmered 25-30 min.
 - Pasta water 0.8 % with a pecorino finish (04-P1); finished in the sauce (04-P3, 04-P4).
 
 ## Reliability checks

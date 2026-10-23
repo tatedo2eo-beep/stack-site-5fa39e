@@ -12,7 +12,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 6 | 8.9 | 0.4 | 2.0 | 0.06 | 0.00 | 0.0 | 0.01 | 1 | 0.1 |
 | ground cumin | Spices, cumin seed (SR 02014) | 1.05 | 3.9 | 0.2 | 0.5 | 0.02 | 0.00 | 0.2 | 0.02 | 2 | 0.1 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
-| boneless, skinless chicken breasts (halal), sliced 1 cm thick | Chicken, broiler, breast, skinless, boneless, meat only, raw (SR 05062) | 500 | 600.0 | 112.5 | 0.0 | 0.00 | 0.00 | 13.1 | 2.80 | 225 | 0.0 |
+| boneless, skinless chicken breasts, sliced 1 cm thick | Chicken, broiler, breast, skinless, boneless, meat only, raw (SR 05062) | 500 | 600.0 | 112.5 | 0.0 | 0.00 | 0.00 | 13.1 | 2.80 | 225 | 0.0 |
 | ground cumin | Spices, cumin seed (SR 02014) | 2.1 | 7.9 | 0.4 | 0.9 | 0.05 | 0.00 | 0.5 | 0.03 | 4 | 0.2 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 0.6 | 1.5 | 0.1 | 0.4 | 0.00 | 0.00 | 0.0 | 0.01 | 0 | 0.2 |
@@ -37,4 +37,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Homemade shells and refried beans avoid lard, which is common in store-bought versions; if buying ready-made, check the label.
-- Choose a cheese made with microbial or halal-certified rennet.
+- Choose a cheese made with microbial rennet.

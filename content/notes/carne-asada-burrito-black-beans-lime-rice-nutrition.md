@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| halal skirt or flank steak | Beef, plate steak, boneless, inside skirt, separable lean and fat, trimmed to 0" fat, choice, raw (FDC 172159) | 600 | 1170.0 | 120.4 | 0.0 | 0.00 | 0.00 | 76.7 | 30.20 | 390 | 0.0 |
+| skirt or flank steak | Beef, plate steak, boneless, inside skirt, separable lean and fat, trimmed to 0" fat, choice, raw (FDC 172159) | 600 | 1170.0 | 120.4 | 0.0 | 0.00 | 0.00 | 76.7 | 30.20 | 390 | 0.0 |
 | fresh lime juice | Lime juice, raw (SR 09160) - juice sugars counted as free | 60 | 15.0 | 0.3 | 5.1 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.2 |
 | fresh orange juice | Orange juice, raw (Includes foods for USDA's Food Distribution Program) (FDC 169098) | 60 | 27.0 | 0.4 | 6.2 | 5.04 | 5.04 | 0.1 | 0.01 | 1 | 0.1 |
 | garlic cloves, grated | Garlic, raw (SR 11215) | 9 | 13.4 | 0.6 | 3.0 | 0.09 | 0.00 | 0.0 | 0.01 | 2 | 0.2 |
@@ -38,4 +38,4 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use halal beef.
+- Use beef.

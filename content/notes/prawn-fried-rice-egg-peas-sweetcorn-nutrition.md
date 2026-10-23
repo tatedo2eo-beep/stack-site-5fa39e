@@ -32,6 +32,6 @@ Servings: 2. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Serves 2 as a main.
-- Choose a soy sauce labelled alcohol-free (many naturally brewed soy sauces contain alcohol); halal-certified brands are widely available.
+- Choose a soy sauce labelled alcohol-free (many naturally brewed soy sauces contain alcohol); brands are widely available.
 - Prawns are permissible for most Muslims; some Hanafi followers avoid prawns and other shellfish, so leave them out (see the vegetable version) if needed.
 - Frozen raw prawns: thaw overnight in the fridge and drain well.

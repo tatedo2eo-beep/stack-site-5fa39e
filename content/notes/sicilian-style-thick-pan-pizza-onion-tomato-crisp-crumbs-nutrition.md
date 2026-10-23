@@ -35,4 +35,4 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Anchovies, often used in Palermo, are left out so the pizza is vegetarian; pecorino gives the savoury note.
-- Pecorino is traditionally made with animal rennet; choose a vegetarian-rennet or halal-certified hard cheese if needed.
+- Pecorino is traditionally made with animal rennet; choose a vegetarian-rennet or hard cheese if needed.

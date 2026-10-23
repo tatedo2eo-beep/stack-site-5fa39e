@@ -17,7 +17,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | frying oil absorbed (estimated absorption) | Oil, canola (SR 04582) | 50 | 442.0 | 0.0 | 0.0 | 0.00 | 0.00 | 50.0 | 3.69 | 0 | 0.0 |
-| mayonnaise (halal-certified) | Salad dressing, mayonnaise, regular (SR 04025) | 60 | 408.0 | 0.6 | 0.3 | 0.34 | 0.34 | 44.9 | 7.04 | 381 | 0.0 |
+| mayonnaise | Salad dressing, mayonnaise, regular (SR 04025) | 60 | 408.0 | 0.6 | 0.3 | 0.34 | 0.34 | 44.9 | 7.04 | 381 | 0.0 |
 | hot sauce | Sauce, ready-to-serve, pepper or hot (FDC 174527) | 10 | 1.1 | 0.1 | 0.2 | 0.13 | 0.00 | 0.0 | 0.01 | 264 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 5 | 1.1 | 0.0 | 0.3 | 0.13 | 0.13 | 0.0 | 0.00 | 0 | 0.0 |
 | crusty sub rolls or 20 cm lengths of soft baguette | Bread, French or Vienna incl. sourdough (FDC 172675) | 280 | 761.6 | 30.2 | 145.3 | 12.94 | 12.94 | 6.8 | 1.48 | 1686 | 6.2 |
@@ -38,5 +38,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- Use a halal-certified mayonnaise made with spirit or cider vinegar only.
+- Use a mayonnaise made with spirit or cider vinegar only.
 - Let the frying oil cool completely before straining and disposing of it.
