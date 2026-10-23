@@ -109,7 +109,7 @@ function recipeParts(ctx, r, related) {
   if (ctx.cfg.healthyLabels !== false && (H.highProtein.pass || H.who.pass)) {
     why = `<div class="infobox why"><h4>${t.ui.whyHealthy}</h4>`;
     if (H.highProtein.pass) why += `<div class="whyb"><span class="bdg hp">${t.nav.protein}</span><p><b>${n.protein_g} g protein</b> for <b>${Math.round(n.kcal)} kcal</b> = <b>${H.highProtein.value} g per 100 kcal</b>. Our High Protein label needs at least ${H.highProtein.threshold} g per 100 kcal. <a href="${u('high-protein/')}">How we decide</a></p></div>`;
-    if (H.who.pass) why += `<div class="whyb"><span class="bdg h">${t.nav.who}</span><ul class="checks">${H.who.checks.map(c => `<li><span class="ok" aria-hidden="true">✓</span><b>${c.label}:</b> ${c.value}${c.unit && c.unit !== 'g' ? ' ' + c.unit : c.unit ? ' g' : ''} <span class="mute">(${t.ui.limit} ${c.op} ${c.limit}${typeof c.limit === 'number' ? (c.unit === 'g' ? ' g' : '%') : ''})</span></li>`).join('')}</ul><p class="nutnote">Per serving, worked out from the nutrition table against <a href="${u('who-healthy/')}">our WHO-based rule</a>. Not endorsed by WHO.</p></div>`;
+    if (H.who.pass) why += `<div class="whyb"><span class="bdg h">${t.nav.who}</span><ul class="checks">${H.who.checks.map(c => `<li><span class="ok" aria-hidden="true">✓</span><b>${c.label}:</b> ${c.value}${c.unit && c.unit !== 'g' ? ' ' + c.unit : c.unit ? ' g' : ''} <span class="mute">(${t.ui.limit} ${esc(c.op)} ${esc(c.limit)}${typeof c.limit === 'number' ? (c.unit === 'g' ? ' g' : '%') : ''})</span></li>`).join('')}</ul><p class="nutnote">Per serving, worked out from the nutrition table against <a href="${u('who-healthy/')}">our WHO-based rule</a>. Not endorsed by WHO.</p></div>`;
     why += '</div>';
   }
   P.info = why;

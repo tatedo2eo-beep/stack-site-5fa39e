@@ -26,6 +26,6 @@ module.exports = {
   // slugs from the cookbook's data/ch/*.json) plus 'more'. A recipe's `book_chapter` (or `chapter`) picks one;
   // chapters with no recipes yet are hidden everywhere.
   chapters: [...require('./src/lib/book-chapters.json').map(c => ({ key: c.key, stem: c.stem, group: c.group })), { key: 'more', group: 'more' }],
-  // High Protein / WHO Healthy labels are paused: no badges, filters, nav links or "why" boxes. Set true to bring them back.
-  healthyLabels: false
+  // High Protein / WHO Healthy labels: badges, filters, nav links and "why" boxes only (no effect on recipe content). Set false to pause them.
+  healthyLabels: true
 };
