@@ -107,7 +107,7 @@
     },
     {
       "title": "Dough",
-      "text": "Heat the oven to 175 °C (155 °C fan) and line the 20 cm tin. Whisk the flour, baking powder and salt. Beat the butter and sugar until pale, beat in the egg and vanilla, then mix in the flour. Set aside about a third (roughly 170 g)."
+      "text": "Preheat to 175 °C (155 °C fan) with a sling-lined 20 cm tin ready. Whisk the flour, baking powder and salt. Beat the butter and sugar until pale, beat in the egg and vanilla, then mix in the flour. Set aside about a third (roughly 170 g)."
     },
     {
       "title": "Base",
@@ -151,5 +151,8 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": null,
-  "image_alt": "Golden cookie bars cut to show a dark fig filling between two layers."
+  "image_alt": "Golden cookie bars cut to show a dark fig filling between two layers.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
 }

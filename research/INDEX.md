@@ -88,6 +88,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | blood-orange-marmalade | Marmalade | Classic | 2 | 4 |
 | blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
 | blueberry-key-lime-tart-biscuit-base | Lemon tart | Blueberry | 1 | 3 |
+| blueberry-pie-bars | Bars (magic bars, millionaire's shortbread) | Blueberry | 1 | 3 |
 | boiled-eggs-spiced-onion-tomato-coconut-curry | Egg curry | Classic | 3 | 5 |
 | borani-esfenaj-spinach-yoghurt-dip | Borani | Classic | 2 | 4 |
 | borani-esfenaj-spinach-yoghurt-turmeric-onion | Borani | Spinach (esfenaj) | 2 | 4 |
@@ -171,6 +172,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cherry-bakewell-tart-glace-cherries | Bakewell | Cherry | 2 | 4 |
 | cherry-clafoutis | Clafoutis | Classic | 2 | 4 |
 | cherry-rosemary-balsamic-focaccia | Focaccia | Cherry | 1 | 3 |
+| cherry-streusel-bars | Bars (magic bars, millionaire's shortbread) | Cherry | 1 | 3 |
 | cherry-tomato-caprese-garlic-tomato-dressing | Caprese | Cherry tomato | 1 | 3 |
 | chewy-amaretti | Amaretti | Classic | 2 | 4 |
 | chewy-blondies | Blondies | Classic | 2 | 4 |
@@ -291,6 +293,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cracker-thin-pizza-three-cheese-blend-sweet-oregano-sauce | St. Louis-style pizza | Classic | 2 | 4 |
 | cranberry-butter-parker-house-rolls | Dinner rolls | Cranberry | 1 | 3 |
 | cranberry-ginger-apple-slab-tart | Fruit tart (crème pâtissière) | Cranberry & ginger | 1 | 3 |
+| cranberry-oat-bars | Bars (magic bars, millionaire's shortbread) | Cranberry | 1 | 3 |
 | cream-cheese-swirl-brownies | Brownie (fudgy or cakey) | Cream cheese | 1 | 3 |
 | cream-filled-profiteroles-chocolate-sauce | Profiteroles | Classic | 2 | 4 |
 | creamy-cashew-yoghurt-chicken-curry-cardamom | Korma | Chicken | 3 | 5 |
@@ -399,6 +402,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fesenjan | Fesenjan | Classic | 2 | 4 |
 | festival-jamaican-sweet-cornmeal-dumplings | Festival | Classic | 2 | 4 |
 | fettuccine-alfredo | Alfredo (Roman original) | Classic | 3 | 5 |
+| fig-bars | Bars (magic bars, millionaire's shortbread) | Fig | 1 | 3 |
 | filipino-oxtail-peanut-stew | Kare-kare | Classic | 2 | 4 |
 | fine-cut-lemon-marmalade | Marmalade | Lemon | 2 | 4 |
 | fior-di-latte-gelato-pure-milk | Gelato | Fior di latte | 1 | 3 |
@@ -588,6 +592,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | kedgeree-smoked-haddock-curried-rice-eggs | Kedgeree | Classic | 2 | 4 |
 | ketchup-chicken-fried-rice-folded-omelette | Omurice | Ketchup | 3 | 5 |
 | ketchup-glazed-meatloaf | Meatloaf | Ketchup-brown sugar glaze | 2 | 4 |
+| key-lime-bars | Bars (magic bars, millionaire's shortbread) | Key lime | 1 | 3 |
 | key-lime-pie | Key lime | Classic | 2 | 4 |
 | khanom-chan-thai-pandan-coconut-layer-cake | Khanom chan | Classic | 1 | 3 |
 | kibbeh-lamb-bulgur-shells-spiced-filling | Kibbeh | Classic | 2 | 4 |
@@ -664,6 +669,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mexican-atole-cinnamon-brown-sugar | Atole | Classic | 2 | 4 |
 | mexican-red-rice-tomato-peas-carrots | Mexican rice (arroz rojo) | Classic | 3 | 5 |
 | miang-kham-betel-leaf-bites-palm-sugar-sauce | Miang kham | Classic | 1 | 3 |
+| milk-chocolate-revel-bars | Bars (magic bars, millionaire's shortbread) | Milk chocolate | 1 | 3 |
 | millionaires-shortbread | Bars (magic bars, millionaire's shortbread) | Classic | 4 | 6 |
 | mint-coriander-green-chutney | Chutney | Classic | 2 | 4 |
 | mint-coriander-raita | Raita | Classic | 2 | 4 |
@@ -707,6 +713,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | noodle-kugel | Kugel | Classic | 3 | 5 |
 | nordic-seeded-whole-grain-rye-loaf | Rye/pumpernickel | Seeded | 1 | 3 |
 | northern-thai-coconut-curry-noodle-soup-chicken | Khao soi | Chicken | 3 | 5 |
+| oatmeal-raisin-cookie-bars | Bars (magic bars, millionaire's shortbread) | Raisin | 1 | 3 |
 | oeufs-mayonnaise-lemon-mayo-chives | Oeufs mayonnaise | Classic | 2 | 4 |
 | ohn-no-khao-swe | Ohn no khao swè | Classic | 2 | 4 |
 | oklahoma-onion-burger | Oklahoma onion burger | Classic | 3 | 7 |
@@ -863,6 +870,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | provolone-oregano-semolina-focaccia | Focaccia | Provolone | 1 | 3 |
 | provolone-philly-cheesesteaks-melted-provolone-onions | Philly cheesesteak | Provolone | 2 | 4 |
 | puffy-new-orleans-style-beignets | Beignets | Classic | 1 | 3 |
+| pumpkin-chocolate-chip-cookie-bars | Bars (magic bars, millionaire's shortbread) | Pumpkin & chocolate | 1 | 3 |
 | pumpkin-cream-cheese-blondies | Blondies | Pumpkin & cream cheese | 1 | 3 |
 | pumpkin-soup-caramelised-onion-sage | Pumpkin soup | Classic | 2 | 4 |
 | pumpkin-swirl-brownies | Brownie (fudgy or cakey) | Pumpkin | 1 | 3 |
@@ -881,6 +889,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | raspberry-jam-filled-berliner-doughnuts | Filled (Berliner/bomboloni/jam) | Classic | 2 | 4 |
 | raspberry-macarons-raspberry-buttercream | Macarons | Raspberry | 2 | 4 |
 | raspberry-shrub-cider-vinegar-soda | Shrubs | Classic | 2 | 4 |
+| raspberry-streusel-bars | Bars (magic bars, millionaire's shortbread) | Raspberry | 1 | 3 |
 | raspberry-thumbprint-cookies | Thumbprints | Raspberry | 3 | 5 |
 | red-chilaquiles-fried-eggs-crema | Chilaquiles | Classic | 2 | 4 |
 | red-chile-chicken-enchiladas-cheddar-crema | Enchilada | Classic | 2 | 4 |
@@ -1053,6 +1062,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | stovetop-buttered-popcorn | Popcorn | Classic | 3 | 5 |
 | stovetop-mac-and-cheese | Mac and cheese | Stovetop | 3 | 5 |
 | strained-yoghurt-labneh-olive-oil-fresh-mint | Labneh | Classic | 2 | 4 |
+| strawberry-cheesecake-bars | Bars (magic bars, millionaire's shortbread) | Strawberry | 1 | 3 |
 | strawberry-eton-mess | Eton mess | Classic | 2 | 4 |
 | strawberry-granita-fork-scraped | Granita | Strawberry | 2 | 4 |
 | strawberry-jam-filled-orange-doughnuts | Sufganiyot | Classic | 1 | 3 |
