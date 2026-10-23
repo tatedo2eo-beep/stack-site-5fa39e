@@ -1,0 +1,156 @@
+{
+  "slug": "white-bean-bruschetta-sage-lemon",
+  "title": "White Bean Bruschetta with Sage and Lemon",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "bruschetta",
+  "dish_title": "Bruschetta",
+  "flavour": "White bean",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "Grilled garlic-rubbed bread piled with a warm, rough mash of cannellini beans cooked in sage-scented olive oil and brightened with lemon.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "frying pan",
+    "fork or potato masher",
+    "griddle pan or grill",
+    "pastry brush"
+  ],
+  "ingredients": [
+    {
+      "group": "Beans",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Beans",
+      "qty": 1,
+      "unit": "pc",
+      "item": "shallot, finely chopped",
+      "note": "about 30 g"
+    },
+    {
+      "group": "Beans",
+      "qty": 6,
+      "unit": "pc",
+      "item": "fresh sage leaves, finely chopped"
+    },
+    {
+      "group": "Beans",
+      "qty": 2,
+      "unit": "pc",
+      "item": "400 g tins cannellini beans (no added salt), drained and rinsed",
+      "note": "about 480 g drained"
+    },
+    {
+      "group": "Beans",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "fresh lemon juice"
+    },
+    {
+      "group": "Beans",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Beans",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Beans",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Toasts",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slices country bread or ciabatta, 1.5 cm thick",
+      "note": "about 240 g"
+    },
+    {
+      "group": "Toasts",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, peeled and halved"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil, to finish"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften",
+      "text": "Warm the olive oil in a frying pan over medium-low heat, then add the shallot and chopped sage and cook for 3-4 minutes, until soft and fragrant but not browned. Gentle heat draws the sage's flavour into the oil without turning it bitter."
+    },
+    {
+      "title": "Warm the beans",
+      "text": "Tip in the beans with 3 tbsp water and heat for 3 minutes, stirring now and then. Warm beans soak up the flavoured oil and soften slightly, which makes them easier to mash."
+    },
+    {
+      "title": "Mash",
+      "text": "Off the heat, crush the beans with a fork or masher to a rough, spreadable mash, leaving some whole for texture. Stir in the lemon juice, zest, salt and pepper, then taste; the acid lifts the earthy beans."
+    },
+    {
+      "title": "Toast",
+      "text": "Grill or griddle the bread for 1-2 minutes a side, until crisp with dark marks. While it is still hot, rub one side of each slice with the cut garlic; the rough surface grates the clove like a fine rasp."
+    },
+    {
+      "title": "Top",
+      "text": "Spread the warm beans thickly over the garlic side of each toast. Drizzle with the olive oil and scatter with parsley, then serve straight away while the toast is still crisp."
+    }
+  ],
+  "tips": [
+    "Topping the toasts too early is the most common mistake: the bread goes soggy. Assemble just before serving.",
+    "If the mash is stiff, loosen it with a splash of warm water rather than more oil.",
+    "Rinse the beans well; the tin liquid tastes flat and makes the mash gluey.",
+    "The bean mash can be made a day ahead and warmed gently in the pan."
+  ],
+  "storage": "Keep leftover bean mash covered in the fridge for up to 3 days and warm it gently before using. Toast the bread fresh; assembled bruschetta does not keep. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 399,
+    "protein_g": 15.5,
+    "carbs_g": 58.8,
+    "sugar_g": 3.8,
+    "free_sugar_g": 2.8,
+    "fat_g": 12.0,
+    "satfat_g": 1.8,
+    "salt_g": 2.29,
+    "fibre_g": 7.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bruschetta-basic--white-bean.jpg",
+  "image_alt": "Grilled bread topped with a rough white bean mash, chopped herbs and a drizzle of olive oil.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

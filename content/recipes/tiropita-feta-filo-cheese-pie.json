@@ -1,0 +1,151 @@
+{
+  "slug": "tiropita-feta-filo-cheese-pie",
+  "title": "Tiropita: Greek Feta and Filo Cheese Pie",
+  "category": "snacks-sides",
+  "cuisine": "Greek",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "tiropita",
+  "dish_title": "Tiropita",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A golden, shatteringly crisp filo pie with a tangy filling of feta, nutty graviera and cottage cheese set with egg, baked in a square tin and cut into nine.",
+  "servings": 9,
+  "prep_min": 30,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "20 cm square baking tin",
+    "foil",
+    "pastry brush",
+    "mixing bowl",
+    "sharp knife",
+    "wire rack",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 280,
+      "unit": "g",
+      "item": "feta in brine, drained and crumbled"
+    },
+    {
+      "group": "Filling",
+      "qty": 60,
+      "unit": "g",
+      "item": "graviera or Gruyère, coarsely grated"
+    },
+    {
+      "group": "Filling",
+      "qty": 115,
+      "unit": "g",
+      "item": "full-fat cottage cheese"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, beaten"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried mint (optional)"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Pastry",
+      "qty": 16,
+      "unit": "pc",
+      "item": "filo sheets, about 35 x 23 cm, thawed",
+      "note": "about 300 g; cut larger sheets to fit"
+    },
+    {
+      "group": "Pastry",
+      "qty": 140,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Filling",
+      "text": "Mix the feta, graviera, cottage cheese, eggs, cornflour, mint and pepper in a bowl. The cornflour holds the moisture from the cheeses, so the filling sets creamy rather than weeping."
+    },
+    {
+      "title": "Prepare",
+      "text": "Put a rack in the lowest position of the oven and heat it to 220 °C (200 °C fan). Line the tin with two crossed strips of foil that overhang the sides, then brush it with butter. Cover the filo with a damp tea towel so it does not dry out and crack."
+    },
+    {
+      "title": "Base",
+      "text": "Lay in 8 filo sheets one at a time, brushing each with butter and turning each a quarter turn from the last so the overhang falls on all four sides. The butter between the layers fries them into crisp flakes in the oven."
+    },
+    {
+      "title": "Fill",
+      "text": "Spread the filling evenly over the base, right into the corners."
+    },
+    {
+      "title": "Top",
+      "text": "Layer 8 more sheets over the filling in the same way, brushing each one with butter."
+    },
+    {
+      "title": "Seal",
+      "text": "Pinch the overhanging edges together and roll them inwards to make a thick rim, then brush the top and rim with the rest of the butter. Cut through the top layers into 9 squares without cutting the base; pre-cutting stops the crisp top shattering when you serve."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 25-30 minutes, until deep golden and crisp and the centre of the filling reads 71 °C. Heat from the low rack crisps the base so it does not go soggy."
+    },
+    {
+      "title": "Rest",
+      "text": "Lift the pie out on the foil onto a rack, slide the foil away and leave for 30 minutes. As it cools the filling firms up, so the squares cut cleanly; cut along the marks and serve warm."
+    }
+  ],
+  "tips": [
+    "Letting the filo dry out is the common mistake; keep the sheets covered and work steadily.",
+    "Torn sheets are fine in the middle layers, so save the best ones for the top.",
+    "Drain the feta well so the filling is not wet.",
+    "Bake until deep golden; pale filo is soft and greasy."
+  ],
+  "storage": "Keep leftovers covered in the fridge for up to 3 days. Reheat at 180 °C for 10-12 minutes, until piping hot and crisp again. Freeze the unbaked pie, well wrapped, for up to 1 month and bake from frozen, adding 10-15 minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 328,
+    "protein_g": 11.7,
+    "carbs_g": 20.0,
+    "sugar_g": 1.7,
+    "free_sugar_g": 0.0,
+    "fat_g": 22.3,
+    "satfat_g": 13.2,
+    "salt_g": 1.38,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tiropita-basic.jpg",
+  "image_alt": "Thick golden squares of flaky filo cheese pie.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

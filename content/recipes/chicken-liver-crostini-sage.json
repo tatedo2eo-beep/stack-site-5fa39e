@@ -1,0 +1,149 @@
+{
+  "slug": "chicken-liver-crostini-sage",
+  "title": "Chicken Liver Crostini with Sage",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "crostini",
+  "dish_title": "Crostini",
+  "flavour": "Liver",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Crisp baked crostini spread with a smooth, savoury chicken liver pâté seasoned with garlic, sage and anchovy, each crowned with a fresh sage leaf.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "oven",
+    "baking tray",
+    "pastry brush",
+    "frying pan",
+    "instant-read thermometer",
+    "food processor or stick blender"
+  ],
+  "ingredients": [
+    {
+      "group": "Crostini",
+      "qty": 12,
+      "unit": "pc",
+      "item": "baguette slices, 1 cm thick",
+      "note": "about 180 g"
+    },
+    {
+      "group": "Crostini",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil, for brushing"
+    },
+    {
+      "group": "Liver spread",
+      "qty": 250,
+      "unit": "g",
+      "item": "chicken livers, trimmed of sinew and patted dry"
+    },
+    {
+      "group": "Liver spread",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Liver spread",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Liver spread",
+      "qty": 4,
+      "unit": "pc",
+      "item": "fresh sage leaves, chopped"
+    },
+    {
+      "group": "Liver spread",
+      "qty": 3,
+      "unit": "pc",
+      "item": "anchovy fillets in oil, drained"
+    },
+    {
+      "group": "Liver spread",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fresh lemon juice"
+    },
+    {
+      "group": "Liver spread",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Liver spread",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 12,
+      "unit": "pc",
+      "item": "small fresh sage leaves, to garnish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crostini",
+      "text": "Heat the oven to 180 °C (160 °C fan). Brush the bread slices lightly with oil and bake for 10-12 minutes, until crisp with golden edges. Baking dries them right through, so they stay crunchy under the soft spread."
+    },
+    {
+      "title": "Sear the livers",
+      "text": "Heat the 3 tbsp oil in a frying pan over medium-high heat. Lay the livers in a single layer and cook for 2-3 minutes a side, until well browned outside; dry livers in an uncrowded pan brown instead of stewing."
+    },
+    {
+      "title": "Finish cooking",
+      "text": "Turn the heat down, add the garlic and chopped sage and cook for 1-2 minutes more, until the livers are no longer pink in the centre and read 74 °C. Lower heat lets the middle cook through without the garlic burning."
+    },
+    {
+      "title": "Blend",
+      "text": "Scrape everything, including the pan oil, into a food processor with the anchovies, lemon juice, salt and pepper, and blend until smooth. Taste and adjust; the anchovies melt into the spread and add depth rather than a fishy taste."
+    },
+    {
+      "title": "Assemble",
+      "text": "Spread a heaped tablespoon of pâté on each crostino and press a sage leaf on top. Serve warm or at room temperature, when the flavour is fullest."
+    }
+  ],
+  "tips": [
+    "Undercooking is the mistake to avoid: chicken livers must reach 74 °C in the centre. Check the thickest one with a thermometer.",
+    "Trim away any green patches on the livers, as they taste bitter.",
+    "If the pâté is too thick to blend, add 1-2 tsp warm water.",
+    "Bake the crostini a day ahead and keep them in an airtight tin."
+  ],
+  "storage": "Keep the pâté covered in the fridge for up to 2 days; bring it to room temperature before spreading. Crostini keep in an airtight tin for 3 days. Do not freeze the assembled crostini. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "fish"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 218,
+    "protein_g": 11.0,
+    "carbs_g": 16.6,
+    "sugar_g": 1.4,
+    "free_sugar_g": 1.4,
+    "fat_g": 11.9,
+    "satfat_g": 2.1,
+    "salt_g": 0.95,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "crostini-basic--liver.jpg",
+  "image_alt": "Round crostini spread with smooth chicken liver pâté, each topped with a fresh sage leaf.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

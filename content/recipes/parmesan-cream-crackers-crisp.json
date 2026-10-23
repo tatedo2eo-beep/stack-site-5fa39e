@@ -1,0 +1,118 @@
+{
+  "slug": "parmesan-cream-crackers-crisp",
+  "title": "Crisp Parmesan Cream Crackers",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "parmesan-crackers",
+  "dish_title": "Parmesan crackers",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thin, crisp squares of buttery cracker dough rich with grated hard cheese and bound with cream, baked until evenly golden.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 14,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "baking tray",
+    "baking paper",
+    "rolling pin",
+    "pizza wheel or sharp knife",
+    "fork",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 125,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 45,
+      "unit": "g",
+      "item": "Parmesan-style hard cheese, finely grated"
+    },
+    {
+      "group": "Dough",
+      "qty": 55,
+      "unit": "g",
+      "item": "cold unsalted butter, cubed"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "ml",
+      "item": "double cream, plus 1-3 tsp more as needed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat the oven to 200 °C (180 °C fan) and line a tray with baking paper. A fully hot oven sets the thin dough quickly, so the crackers crisp rather than dry out slowly."
+    },
+    {
+      "title": "Crumb",
+      "text": "Pulse the flour, salt, cheese and cold butter in a food processor until the mixture looks like fine breadcrumbs. Coating the flour in fat now keeps the crackers tender and short."
+    },
+    {
+      "title": "Bind",
+      "text": "With the motor running, pour in the cream, then add more a teaspoon at a time just until the dough clumps into a ball. It should feel firm, not sticky; too much liquid makes the crackers tough."
+    },
+    {
+      "title": "Roll",
+      "text": "Roll the dough to 2-3 mm thick on a lightly floured sheet of baking paper. Trim the edges, cut into 5 cm squares without pulling them apart, prick each square twice with a fork and slide the paper onto the tray. Pricking lets steam escape so the crackers stay flat."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 10-14 minutes, until evenly golden. The edge pieces colour first, so lift them off early if they are ready before the middle."
+    },
+    {
+      "title": "Cool",
+      "text": "Move the crackers to a wire rack and let them cool, then snap them apart along the cuts. They are slightly soft from the oven and crisp up as they cool."
+    }
+  ],
+  "tips": [
+    "Rolling unevenly is the most common mistake: thick spots stay soft while thin ones burn. Aim for an even 2-3 mm.",
+    "Keep the butter cold so the dough stays easy to handle.",
+    "Grate the cheese finely so it blends into the dough.",
+    "If the dough is too soft to roll, chill it for 15 minutes."
+  ],
+  "storage": "Store in an airtight tin for up to 5 days. If they soften, re-crisp at 180 °C for 3-4 minutes. Unbaked dough can be frozen, well wrapped, for 1 month. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 208,
+    "protein_g": 5.2,
+    "carbs_g": 16.5,
+    "sugar_g": 0.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 13.5,
+    "satfat_g": 8.5,
+    "salt_g": 0.8,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "parmesan-crackers-basic.jpg",
+  "image_alt": "A stack of golden square cheese crackers.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}
