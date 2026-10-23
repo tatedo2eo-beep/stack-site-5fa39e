@@ -13,7 +13,6 @@
   "base_recipe": "ricotta-ravioli",
   "changes_from_base": "Browned butter infused with sage is blended with toasted walnuts, parsley and parmesan into a pesto that replaces the plain butter sauce, with shop-bought cheese ravioli in place of homemade.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Cheese ravioli cloaked in a rich pesto of nutty brown butter, sage and toasted walnuts.",
   "servings": 6,
   "prep_min": 15,
@@ -149,8 +148,8 @@
     "fibre_g": 2.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Cheese ravioli glossed with a golden sage and walnut pesto.",
+  "image": "cheese-ravioli-sage-walnut-brown-butter-pesto.jpg",
+  "image_alt": "Cheese ravioli in a nutty brown butter pesto with sage and toasted walnuts.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

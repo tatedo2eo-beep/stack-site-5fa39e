@@ -13,7 +13,6 @@
   "base_recipe": "ricotta-ravioli",
   "changes_from_base": "Blanched fennel, tarragon, parsley, lemon and parmesan are blended into a nut-free pesto that replaces the butter sauce, with shop-bought cheese ravioli in place of homemade.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Tender cheese ravioli dressed in a fresh green pesto of blanched fennel, tarragon and parsley.",
   "servings": 6,
   "prep_min": 15,
@@ -149,8 +148,8 @@
     "fibre_g": 1.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Cheese ravioli coated in a pale green herb pesto flecked with soft fennel.",
+  "image": "cheese-ravioli-fennel-tarragon-pesto.jpg",
+  "image_alt": "Cheese ravioli coated in a pale green fennel and tarragon pesto with grated parmesan.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

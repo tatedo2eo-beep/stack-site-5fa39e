@@ -13,7 +13,6 @@
   "base_recipe": "ricotta-ravioli",
   "changes_from_base": "The ricotta is pressed between towels to dry it, seasoned with lemon juice, nutmeg and more parmesan, and the ravioli are tossed in an olive oil and pasta-water emulsion instead of butter.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Pillowy ravioli filled with lemon-brightened ricotta and parmesan, coated in a silky sauce drawn together from oil and starchy pasta water.",
   "servings": 6,
   "prep_min": 60,
@@ -148,8 +147,8 @@
     "fibre_g": 0.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Plump cheese-filled squares glistening in a creamy emulsion, with a jug of olive oil alongside.",
+  "image": "pressed-ricotta-ravioli-olive-oil-emulsion-lemon.jpg",
+  "image_alt": "Ricotta ravioli in a silky olive oil sauce with black pepper on a black plate.",
   "inspired_by": [
     "Serious Eats"
   ]

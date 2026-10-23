@@ -13,7 +13,6 @@
   "base_recipe": "ricotta-ravioli",
   "changes_from_base": "Jarred roasted red peppers, toasted pistachios, basil and parmesan are blended into a pesto that replaces the butter sauce, with shop-bought cheese ravioli in place of homemade.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Cheese ravioli in a warmly coloured pesto of sweet roasted peppers, basil and toasted pistachios.",
   "servings": 6,
   "prep_min": 15,
@@ -148,8 +147,8 @@
     "fibre_g": 1.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Cheese ravioli coated in a coral-red pepper and pistachio pesto.",
+  "image": "cheese-ravioli-roasted-red-pepper-pistachio-pesto.jpg",
+  "image_alt": "Cheese ravioli in a roasted red pepper pesto with toasted pistachios.",
   "inspired_by": [
     "America's Test Kitchen"
   ]
