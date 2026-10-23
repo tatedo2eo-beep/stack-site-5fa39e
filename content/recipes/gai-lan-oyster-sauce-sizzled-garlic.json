@@ -1,0 +1,125 @@
+{
+  "slug": "gai-lan-oyster-sauce-sizzled-garlic",
+  "title": "Gai Lan with Oyster Sauce and Sizzled Garlic",
+  "category": "snacks-sides",
+  "cuisine": "Chinese",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "stir-fried-gai-lan",
+  "dish_title": "Stir-fried gai lan",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Gai lan blanched until crisp-tender, cut into lengths and finished with oyster sauce thinned with a little sesame oil, then a pour of sizzling garlic oil.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot",
+    "tongs",
+    "kitchen paper",
+    "warm serving platter",
+    "small frying pan",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Gai lan",
+      "qty": 450,
+      "unit": "g",
+      "item": "gai lan (Chinese broccoli), stalk ends trimmed",
+      "note": "thick stalks halved lengthwise"
+    },
+    {
+      "group": "Gai lan",
+      "qty": 4000,
+      "unit": "ml",
+      "item": "water, for blanching"
+    },
+    {
+      "group": "Gai lan",
+      "qty": 18,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for blanching",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "oyster sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "hot blanching water"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Garlic oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Garlic oil",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blanch",
+      "text": "Bring the water to the boil with the salt. Add the gai lan and cook for 2-3 min until the stalks are just crisp-tender. Meanwhile, loosen the oyster sauce with 1 tbsp of the hot water and the sesame oil."
+    },
+    {
+      "title": "Drain well",
+      "text": "Lift the gai lan out with tongs, let it drip over the pot, then lay it on kitchen paper and pat dry. Any water left on the leaves would dilute the sauce. Arrange on the platter with the stalks pointing one way and cut across into 5 cm lengths."
+    },
+    {
+      "title": "Sizzle and serve",
+      "text": "Heat the vegetable oil in the small pan until just smoking. Spoon the oyster sauce over the greens. Take the pan off the heat, stir in the garlic and immediately pour the crackling oil over the gai lan. Serve at once."
+    }
+  ],
+  "tips": [
+    "Pick bunches with firm stalks, deep green leaves and few open flowers.",
+    "Broccolini or tenderstem broccoli can stand in for gai lan.",
+    "Serve with steamed rice and a stir-fry or roast chicken."
+  ],
+  "storage": "Best eaten fresh. Refrigerate leftovers up to 1 day and reheat briefly in a hot pan until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soya",
+    "molluscs"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 99,
+    "protein_g": 1.5,
+    "carbs_g": 6.0,
+    "sugar_g": 1.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 8.3,
+    "satfat_g": 0.7,
+    "salt_g": 1.12,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "stir-fried-gai-lan-advanced.jpg",
+  "image_alt": "Long stalks of bright green gai lan glossed with oyster sauce on a dark plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

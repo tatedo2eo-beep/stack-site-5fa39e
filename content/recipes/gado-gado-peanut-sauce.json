@@ -1,0 +1,192 @@
+{
+  "slug": "gado-gado-peanut-sauce",
+  "title": "Gado-Gado (Indonesian Vegetable Salad with Peanut Sauce)",
+  "category": "snacks-sides",
+  "cuisine": "Indonesian",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "gado-gado",
+  "dish_title": "Gado-gado",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Boiled potatoes, blanched cabbage, green beans and bean sprouts with fried tofu, cucumber, tomato and hard-boiled egg, served with a peanut sauce of shallot, garlic, chilli, palm sugar, tamarind and kecap manis.",
+  "servings": 4,
+  "prep_min": 30,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor",
+    "small saucepan",
+    "large saucepan",
+    "slotted spoon",
+    "large bowl of iced water",
+    "tray lined with kitchen paper",
+    "large platter"
+  ],
+  "ingredients": [
+    {
+      "group": "Peanut sauce",
+      "qty": 140,
+      "unit": "g",
+      "item": "roasted unsalted peanuts"
+    },
+    {
+      "group": "Peanut sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "shallots, chopped"
+    },
+    {
+      "group": "Peanut sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, chopped"
+    },
+    {
+      "group": "Peanut sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "red chillies, seeded and chopped"
+    },
+    {
+      "group": "Peanut sauce",
+      "qty": 24,
+      "unit": "g",
+      "item": "dark brown or palm sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Peanut sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Peanut sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "kecap manis (sweet soy sauce)"
+    },
+    {
+      "group": "Peanut sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "tamarind concentrate"
+    },
+    {
+      "group": "Peanut sauce",
+      "qty": 300,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Peanut sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Salad",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Salad",
+      "qty": 350,
+      "unit": "g",
+      "item": "waxy potatoes, peeled and cut into 2 cm pieces"
+    },
+    {
+      "group": "Salad",
+      "qty": 200,
+      "unit": "g",
+      "item": "green beans, cut into 5 cm lengths"
+    },
+    {
+      "group": "Salad",
+      "qty": 200,
+      "unit": "g",
+      "item": "shredded white cabbage"
+    },
+    {
+      "group": "Salad",
+      "qty": 120,
+      "unit": "g",
+      "item": "bean sprouts"
+    },
+    {
+      "group": "Salad",
+      "qty": 200,
+      "unit": "g",
+      "item": "fried tofu puffs, cut into 3 cm pieces"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "pc",
+      "item": "cucumber, halved and sliced"
+    },
+    {
+      "group": "Salad",
+      "qty": 2,
+      "unit": "pc",
+      "item": "tomatoes, cut into wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the peanut sauce",
+      "text": "Grind the peanuts in the food processor to a coarse, sandy paste and set aside. Blitz the shallots, garlic, chillies, sugar and salt to a rough paste. Simmer the water and tamarind in the small pan for 3 min, then stir in both pastes and the kecap manis and simmer for 5-6 min, stirring often so it does not catch, until thick and creamy. Add the lime juice and loosen with a splash of water if needed."
+    },
+    {
+      "title": "Boil the eggs",
+      "text": "Lower the eggs into boiling water and cook for 10 min so the yolks are fully set, then chill in iced water, peel and quarter."
+    },
+    {
+      "title": "Cook the vegetables",
+      "text": "Boil the potatoes in the same pan for 8-10 min until tender and drain. Blanch the cabbage for 1 min, the green beans for 2 min and the bean sprouts for 20 seconds, chilling each in the iced water and draining on paper. Chilling keeps them bright and crisp."
+    },
+    {
+      "title": "Assemble",
+      "text": "Arrange the vegetables, tofu, cucumber, tomato and eggs on the platter and spoon over the warm peanut sauce, or serve it alongside."
+    }
+  ],
+  "tips": [
+    "Smooth or crunchy natural peanut butter (about 150 g) can replace the ground peanuts.",
+    "Add a little shrimp paste to the chilli paste for a more traditional depth.",
+    "Prawn crackers and crisp fried shallots are classic on top."
+  ],
+  "storage": "Store the components separately, refrigerated, up to 2 days. The peanut sauce keeps 5 days; reheat gently with a splash of water, until steaming (74 °C) if serving warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "soya",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 604,
+    "protein_g": 30.2,
+    "carbs_g": 57.1,
+    "sugar_g": 23.9,
+    "free_sugar_g": 8.7,
+    "fat_g": 32.8,
+    "satfat_g": 5.9,
+    "salt_g": 1.08,
+    "fibre_g": 11.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gado-gado-basic.jpg",
+  "image_alt": "A platter of potatoes, green beans, cabbage, bean sprouts, tofu, cucumber and egg with peanut sauce.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

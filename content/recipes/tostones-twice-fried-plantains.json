@@ -1,0 +1,145 @@
+{
+  "slug": "tostones-twice-fried-plantains",
+  "title": "Tostones (Twice-Fried Green Plantains) with Mayoketchup",
+  "category": "snacks-sides",
+  "cuisine": "Caribbean",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "tostones",
+  "dish_title": "Tostones",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Green plantain rounds fried until tender, pressed into discs, dipped in salted water and fried again until crisp, finished with salt and garlic powder and served with a cumin-spiked mayonnaise and ketchup dip.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "large heavy pot or Dutch oven",
+    "cooking thermometer",
+    "slotted spoon or spider",
+    "2 baking trays lined with kitchen paper",
+    "tostonera or flat-bottomed glass",
+    "small bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Plantains",
+      "qty": 3,
+      "unit": "pc",
+      "item": "green (unripe) plantains, peeled and cut into 2.5 cm rounds",
+      "note": "about 700 g peeled; firm and fully green"
+    },
+    {
+      "group": "Plantains",
+      "qty": 240,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Plantains",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the dipping water",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Plantains",
+      "qty": 1500,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    },
+    {
+      "group": "Plantains",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Plantains",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Mayoketchup",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Mayoketchup",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "ketchup"
+    },
+    {
+      "group": "Mayoketchup",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Mayoketchup",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "garlic powder"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dip",
+      "text": "Stir the mayonnaise, ketchup, cumin and 1/4 tsp garlic powder together and set aside. Stir 1 tsp salt into the water in a small bowl for dipping."
+    },
+    {
+      "title": "First fry",
+      "text": "Heat the oil in the pot to 160 °C (about 3 cm deep). Fry the plantain rounds for 5-6 min, keeping the oil at 150-160 °C, until deep yellow and just starting to colour. Drain on paper and cool for 5 min. This gentle first fry cooks the starchy flesh through."
+    },
+    {
+      "title": "Flatten and dip",
+      "text": "Press each piece into a 6 mm disc with the tostonera or the bottom of a glass. Heat the oil to 190 °C. Dip each disc into the salted water for 1-2 seconds, shake off the excess and lay on a rack. The quick dip seasons them and helps the edges puff and crisp."
+    },
+    {
+      "title": "Second fry",
+      "text": "Fry in two batches for about 3 min, turning, until golden brown and crisp, bringing the oil back to 190 °C between batches. Drain, sprinkle with the remaining salt and garlic powder, and serve hot with the dip."
+    }
+  ],
+  "tips": [
+    "Only fully green, firm plantains work; yellow ones turn soft and sweet.",
+    "To peel, cut off the ends, slit the skin lengthwise and prise it off with your thumb.",
+    "Never leave hot oil unattended; cool it completely before straining and storing.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best eaten straight away. Flattened but not twice-fried discs keep at room temperature for 2 hours or frozen for 1 month; fry from frozen until golden. The dip keeps refrigerated for 3 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 437,
+    "protein_g": 2.5,
+    "carbs_g": 68.1,
+    "sugar_g": 6.7,
+    "free_sugar_g": 2.7,
+    "fat_g": 17.7,
+    "satfat_g": 2.1,
+    "salt_g": 1.18,
+    "fibre_g": 4.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tostones-basic.jpg",
+  "image_alt": "Golden, crisp flattened plantain discs on a plate with a small bowl of pink mayoketchup dip.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

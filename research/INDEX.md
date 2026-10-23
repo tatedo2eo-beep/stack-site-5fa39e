@@ -288,6 +288,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | frothy-whisked-matcha-green-tea | Matcha (whisked) | Classic | 2 | 4 |
 | fruit-almond-stollen-marzipan-core | Stollen | Classic | 2 | 4 |
 | ful-medames-cumin-lemon-tomato | Ful medames | Classic | 1 | 4 |
+| gado-gado-peanut-sauce | Gado-gado | Classic | 2 | 4 |
+| gai-lan-oyster-sauce-sizzled-garlic | Stir-fried gai lan | Classic | 2 | 4 |
 | gai-yang | Gai yang | Classic | 2 | 4 |
 | galbitang-korean-beef-short-rib-radish-soup | Galbitang | Classic | 2 | 4 |
 | galette-des-rois-almond-cream | Galette des rois | Classic | 2 | 4 |
@@ -424,6 +426,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | malaysian-style-fish-head-curry-okra-aubergine | Fish head curry | Classic | 2 | 4 |
 | malloreddus-saffron-tomato | Malloreddus | Classic | 2 | 4 |
 | mango-lassi-cardamom-pistachio | Lassi | Mango | 2 | 4 |
+| maple-glazed-carrots-ginger-lemon | Glazed carrots | Maple | 1 | 4 |
 | marble-pound-cake | Pound cake | Marble | 3 | 5 |
 | matcha-chiffon-cake | Chiffon | Matcha | 2 | 4 |
 | matzah-ball-soup-chicken-dill | Matzah ball soup | Classic | 2 | 4 |
@@ -714,6 +717,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tomato-basil-bruschetta | Bruschetta | Classic | 2 | 4 |
 | tomato-mozzarella-caprese-basil | Caprese | Classic | 3 | 5 |
 | tortilla-espanola | Tortilla española | Classic | 2 | 4 |
+| tostones-twice-fried-plantains | Tostones | Classic | 3 | 5 |
 | trenette-al-pesto | Trenette al pesto | Classic | 3 | 5 |
 | tres-leches-cake | Tres leches | Classic | 3 | 5 |
 | triple-cooked-chips | Pont-Neuf/triple-cooked chips | Classic | 2 | 4 |

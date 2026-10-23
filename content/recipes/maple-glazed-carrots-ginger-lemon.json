@@ -1,0 +1,137 @@
+{
+  "slug": "maple-glazed-carrots-ginger-lemon",
+  "title": "Maple-Glazed Carrots with Ginger and Lemon",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "glazed-carrots",
+  "dish_title": "Glazed carrots",
+  "flavour": "Maple",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Whole slender carrots braised in butter with ginger, maple syrup, lemon zest, thyme and a pinch of cayenne, then reduced uncovered to a sticky glaze and finished with lemon juice.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "30 cm frying pan with lid",
+    "tongs"
+  ],
+  "ingredients": [
+    {
+      "group": "Carrots",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Carrots",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "finely grated fresh ginger"
+    },
+    {
+      "group": "Carrots",
+      "qty": 700,
+      "unit": "g",
+      "item": "slender carrots, peeled, left whole",
+      "note": "halve any thicker than 2 cm lengthwise"
+    },
+    {
+      "group": "Carrots",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "pure maple syrup"
+    },
+    {
+      "group": "Carrots",
+      "qty": 3,
+      "unit": "pc",
+      "item": "strips lemon zest"
+    },
+    {
+      "group": "Carrots",
+      "qty": 2,
+      "unit": "pc",
+      "item": "thyme sprigs"
+    },
+    {
+      "group": "Carrots",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Carrots",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Carrots",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Start the glaze",
+      "text": "Melt the butter in the pan over medium-high heat and stir in the ginger for 30 seconds until fragrant."
+    },
+    {
+      "title": "Braise",
+      "text": "Add the carrots, maple syrup, lemon zest, thyme, salt, cayenne and water. Bring to the boil, cover, turn the heat to low and simmer for 12-15 min, turning once, until a knife slides in with a little resistance."
+    },
+    {
+      "title": "Glaze and serve",
+      "text": "Uncover, raise the heat to medium-high and boil for 3-5 min, rolling the carrots, until the liquid turns to a sticky glaze that coats them. Watch closely at the end, as maple syrup burns quickly. Discard the thyme and zest, add the lemon juice and pepper, and serve."
+    }
+  ],
+  "tips": [
+    "Carrots of similar thickness cook evenly; halve any fat ones lengthwise.",
+    "Orange zest and juice can replace the lemon.",
+    "Lovely with roast chicken or as part of a holiday spread."
+  ],
+  "storage": "Refrigerate covered up to 3 days. Reheat in a pan with a splash of water until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 168,
+    "protein_g": 1.8,
+    "carbs_g": 27.5,
+    "sugar_g": 17.5,
+    "free_sugar_g": 9.1,
+    "fat_g": 6.6,
+    "satfat_g": 3.9,
+    "salt_g": 1.04,
+    "fibre_g": 5.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "glazed-carrots-basic--maple.jpg",
+  "image_alt": "Whole slender carrots with a sticky, glossy maple glaze.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}
