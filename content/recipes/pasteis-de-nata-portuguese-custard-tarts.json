@@ -1,0 +1,173 @@
+{
+  "slug": "pasteis-de-nata-portuguese-custard-tarts",
+  "title": "Pastéis de Nata (Portuguese Custard Tarts)",
+  "category": "desserts",
+  "cuisine": "Portuguese",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "pasteis-de-nata",
+  "dish_title": "Pastéis de nata",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Crisp, flaky puff pastry cases filled with a cinnamon and lemon scented egg custard, baked at high heat until blistered and served warm.",
+  "servings": 12,
+  "prep_min": 35,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "12-hole muffin tin",
+    "sharp knife",
+    "small saucepan",
+    "medium saucepan",
+    "whisk",
+    "mixing bowl",
+    "fine sieve",
+    "jug",
+    "instant-read thermometer",
+    "wire rack",
+    "small sieve"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "soft unsalted butter, for the tin"
+    },
+    {
+      "group": "Pastry",
+      "qty": 320,
+      "unit": "g",
+      "item": "all-butter puff pastry sheet, chilled"
+    },
+    {
+      "group": "Syrup",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "cinnamon stick"
+    },
+    {
+      "group": "Syrup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "strip lemon zest (pared, no pith)"
+    },
+    {
+      "group": "Custard",
+      "qty": 30,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Custard",
+      "qty": 300,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "g",
+      "item": "icing sugar, to serve",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Shape the cases",
+      "text": "Butter the muffin tin. Roll the pastry sheet up tightly from a long side into a log, cut it into 12 even rounds and stand one, cut side up, in each hole. With wet thumbs, press each round across the base and up the sides to just above the rim, keeping the base thin. Chill for 15 min so the pastry firms."
+    },
+    {
+      "title": "Make the syrup",
+      "text": "Bring the sugar, water, cinnamon stick and lemon zest to a boil and simmer for about 3 min, until the syrup reaches 105 °C. Take it off the heat; it should stay hot."
+    },
+    {
+      "title": "Make the custard",
+      "text": "Whisk the flour with 60 ml of the milk until smooth. Bring the rest of the milk and the salt to a simmer, whisk in the paste and cook, whisking, for 2 min until thick. Pour in the hot syrup in a thin stream as you whisk, then lift out the cinnamon and zest."
+    },
+    {
+      "title": "Add the yolks",
+      "text": "Leave the mixture for 10 min so it does not scramble the yolks, then whisk in the yolks and vanilla. Strain it into the jug for a smooth custard."
+    },
+    {
+      "title": "Bake hot",
+      "text": "Heat the oven to 250 °C (230 °C fan). Fill the cases three-quarters full and bake on the top shelf for 13-17 min, until the pastry is deep golden and the custard has puffed and blistered with dark spots. The fierce heat sets the custard quickly while the pastry crisps."
+    },
+    {
+      "title": "Cool and serve",
+      "text": "Leave in the tin for 5 min, then lift onto the rack. Serve warm, dusted with icing sugar and cinnamon."
+    }
+  ],
+  "tips": [
+    "A common mistake is leaving the pastry thick at the base, which stays doughy; press it thin with wet thumbs.",
+    "Heat the oven fully; a lukewarm oven gives pale tops without blisters.",
+    "Check the label to be sure the puff pastry is made with butter.",
+    "Eat them the day they are baked, when the pastry is at its crispest.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best eaten within a few hours. Keep leftovers covered in the fridge for up to 2 days and recrisp in a 180 °C (160 °C fan) oven for 5 min.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 269,
+    "protein_g": 4.4,
+    "carbs_g": 32.6,
+    "sugar_g": 18.5,
+    "free_sugar_g": 17.1,
+    "fat_g": 13.6,
+    "satfat_g": 4.1,
+    "salt_g": 0.27,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pasteis-de-nata-basic.jpg",
+  "image_alt": "Four Portuguese custard tarts with flaky golden pastry and blistered, dark-spotted custard on a dark tray, one bitten open.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

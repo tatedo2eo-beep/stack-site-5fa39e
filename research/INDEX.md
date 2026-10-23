@@ -26,6 +26,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | baked-ziti | Baked ziti | Classic | 2 | 4 |
 | banana-bread | Banana bread/quick breads | Classic | 2 | 4 |
 | banana-cream-pie | Cream pie (banana, coconut) | Classic | 2 | 4 |
+| basil-pine-nut-pesto | Pesto | Classic | 2 | 4 |
 | basque-cheesecake | Basque burnt (San Sebastián) | Classic | 2 | 4 |
 | bbq-chicken-wings | Chicken wings | BBQ | 2 | 4 |
 | bean-filled-masa-flatbreads-seared-steak-salsa-verde | Huarache | Classic | 3 | 5 |
@@ -169,6 +170,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cornish-beef-pasty | Cornish pasty | Classic | 2 | 4 |
 | coronation-chicken | Coronation chicken | Classic | 2 | 5 |
 | cracker-thin-pizza-three-cheese-blend-sweet-oregano-sauce | St. Louis-style pizza | Classic | 2 | 4 |
+| cream-filled-profiteroles-chocolate-sauce | Profiteroles | Classic | 2 | 4 |
 | creamy-cashew-yoghurt-chicken-curry-cardamom | Korma | Chicken | 3 | 5 |
 | creamy-chicken-salad-celery-herbs | Chicken salad | Classic | 3 | 5 |
 | creamy-egg-salad-celery-spring-onion-toast | Egg salad | Classic | 3 | 5 |
@@ -371,6 +373,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-chiffon-cake | Chiffon | Lemon | 3 | 5 |
 | lemon-cut-out-sugar-cookies | Sugar/cut-out | Lemon | 2 | 4 |
 | lemon-garlic-tahini-sauce | Tahini sauce | Lemon-garlic | 2 | 4 |
+| lemon-herb-vinaigrette | Vinaigrette | Lemon-herb | 2 | 4 |
 | lemon-meringue-pie | Meringue pie (lemon) | Classic | 2 | 4 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
 | lemon-pound-cake | Pound cake | Lemon | 3 | 5 |
@@ -463,6 +466,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pasta-e-ceci | Pasta e fagioli | Chickpea | 2 | 4 |
 | pasta-e-fagioli | Pasta e fagioli | Classic | 2 | 4 |
 | pasta-primavera | Pasta primavera | Classic | 3 | 5 |
+| pasteis-de-nata-portuguese-custard-tarts | Pastéis de nata | Classic | 2 | 4 |
 | pastitsio | Pastitsio | Classic | 3 | 5 |
 | patatas-bravas | Patatas bravas | Classic | 2 | 4 |
 | peach-cobbler-buttermilk-biscuits | Cobbler | Classic | 2 | 4 |
@@ -567,6 +571,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | slow-cooked-lamb-wheat-harees | Harees | Classic | 2 | 4 |
 | slow-roast-beef-yorkshire-puddings | Roast beef | Classic | 5 | 7 |
 | slow-roasted-spiced-lamb-shoulder-cumin-salt | Mechoui | Classic | 2 | 4 |
+| slow-simmered-dulce-de-leche | Dulce de leche | Classic | 1 | 4 |
 | slow-smoked-beef-brisket-salt-pepper | Brisket (smoked) | Classic | 3 | 5 |
 | smashed-buttery-mushy-peas | Mushy peas | Classic | 2 | 4 |
 | smoky-baba-ghanoush-charred-aubergine-tahini-lemon | Baba ghanoush | Classic | 2 | 4 |

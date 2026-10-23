@@ -1,0 +1,145 @@
+{
+  "slug": "lemon-herb-vinaigrette",
+  "title": "Lemon-Herb Vinaigrette",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "vinaigrette",
+  "dish_title": "Vinaigrette",
+  "flavour": "Lemon-herb",
+  "flavour_order": 3,
+  "access": "premium",
+  "summary": "Fresh lemon juice and zest with shallot and a touch of mustard, shaken with olive oil and finished with parsley, chives and thyme.",
+  "servings": 10,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "zester",
+    "jar with a tight lid",
+    "salad bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Dressing",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small shallot, very finely chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "mild yellow mustard"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dressing",
+      "qty": 150,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Herbs",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, finely chopped"
+    },
+    {
+      "group": "Herbs",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fresh chives, finely chopped"
+    },
+    {
+      "group": "Herbs",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fresh thyme leaves, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mellow the shallot",
+      "text": "Put the lemon juice and chopped shallot in the jar and leave them for 5 min. The acid softens the raw sharpness of the shallot."
+    },
+    {
+      "title": "Season",
+      "text": "Add the lemon zest, mustard, salt and pepper. The mustard helps hold the oil and lemon together."
+    },
+    {
+      "title": "Shake to emulsify",
+      "text": "Pour in the olive oil, close the lid tightly and shake hard for about 30 seconds, until the dressing turns cloudy and thickens a little."
+    },
+    {
+      "title": "Add the herbs",
+      "text": "Add the parsley, chives and thyme and give the jar another quick shake."
+    },
+    {
+      "title": "Taste and dress",
+      "text": "Dip a lettuce leaf in to taste, adjusting the salt or lemon. Pour into a small jug and dress the salad just before it goes to the table so the leaves stay crisp."
+    }
+  ],
+  "tips": [
+    "Shake again just before serving, as the dressing separates as it stands.",
+    "Swap in basil, tarragon or mint depending on what the salad needs.",
+    "Add a little honey to soften the acidity for bitter leaves.",
+    "Add the herbs on the day you use it; they dull after a day in lemon."
+  ],
+  "storage": "Keep the dressing without herbs in the sealed jar in the fridge for up to 3 days; with herbs, use within 1 day. Let it come to room temperature and shake before using, as the oil firms when cold. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 123,
+    "protein_g": 0.1,
+    "carbs_g": 1.0,
+    "sugar_g": 0.4,
+    "free_sugar_g": 0.2,
+    "fat_g": 13.5,
+    "satfat_g": 1.9,
+    "salt_g": 0.31,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "vinaigrette-basic--lemon-herb.jpg",
+  "image_alt": "A small glass jug of herb-flecked lemon vinaigrette beside a dark bowl of green salad leaves and a lemon wedge.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

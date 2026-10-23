@@ -1,0 +1,104 @@
+{
+  "slug": "slow-simmered-dulce-de-leche",
+  "title": "Slow-Simmered Dulce de Leche",
+  "category": "desserts",
+  "cuisine": "Latin American",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "dulce-de-leche",
+  "dish_title": "Dulce de leche",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Silky homemade dulce de leche simmered gently from whole milk and sugar until deep caramel brown and thick enough to spread.",
+  "servings": 12,
+  "prep_min": 5,
+  "cook_min": 180,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy-based saucepan (at least 4 litres)",
+    "heatproof spatula or wooden spoon",
+    "fine sieve",
+    "heatproof bowl",
+    "clean glass jar with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Dulce de leche",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Dulce de leche",
+      "qty": 300,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dulce de leche",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dulce de leche",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dissolve the sugar",
+      "text": "Combine the milk and sugar in the large pan over medium heat and stir occasionally until the sugar has dissolved and the milk barely simmers. A wide, heavy pan gives a gentle, even heat and room for the milk to foam."
+    },
+    {
+      "title": "Add the bicarbonate",
+      "text": "Lift the pan off the heat and stir in the bicarbonate of soda. The milk will bubble up vigorously; keep stirring until it calms. The bicarbonate speeds the browning and helps keep the milk proteins from turning grainy."
+    },
+    {
+      "title": "Simmer slowly",
+      "text": "Put the pan back over the lowest possible heat and let it cook uncovered at the gentlest simmer for 2.5-3 h. Stir every 10-15 min, scraping the base, and more often during the last 30 min as it thickens; leave the foam on the surface alone."
+    },
+    {
+      "title": "Check for doneness",
+      "text": "It is ready once it is a deep caramel brown, has reduced to about 300 g and coats the back of a spoon in a thick layer. Remember it firms up considerably as it cools."
+    },
+    {
+      "title": "Strain and store",
+      "text": "Pour it through the fine sieve into the bowl while hot, stir in the vanilla and leave to cool. Spoon into a clean jar and cover."
+    }
+  ],
+  "tips": [
+    "The most common mistake is turning up the heat to save time; the milk scorches on the base and turns bitter, so keep it at a bare simmer.",
+    "Use a pan holding at least 4 litres; the milk foams up when the bicarbonate goes in.",
+    "If it sets too thick once cold, warm it gently with a spoonful of milk.",
+    "Stop a little earlier for a pourable sauce, or cook longer for a firm spread."
+  ],
+  "storage": "Keep in a covered jar in the fridge for up to 3 weeks. Bring to room temperature or warm gently before using.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 151,
+    "protein_g": 2.9,
+    "carbs_g": 29.2,
+    "sugar_g": 29.2,
+    "free_sugar_g": 25.0,
+    "fat_g": 2.8,
+    "satfat_g": 1.8,
+    "salt_g": 0.23,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "dulce-de-leche-basic.jpg",
+  "image_alt": "A spoon lifting thick, glossy caramel-brown dulce de leche from a dark bowl.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}
