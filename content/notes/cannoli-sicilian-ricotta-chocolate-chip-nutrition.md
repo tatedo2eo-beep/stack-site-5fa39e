@@ -16,7 +16,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | whole-milk ricotta | Cheese, ricotta, whole milk (FDC 170851) | 450 | 675.0 | 33.9 | 32.7 | 1.22 | 0.00 | 45.8 | 28.89 | 495 | 0.0 |
 | icing sugar | Sugars, powdered (FDC 169656) | 55 | 214.0 | 0.0 | 54.9 | 53.80 | 53.80 | 0.0 | 0.00 | 1 | 0.0 |
 | runny honey | Honey (SR 19296) | 14 | 42.6 | 0.0 | 11.5 | 11.50 | 11.50 | 0.0 | 0.00 | 1 | 0.0 |
-| vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8 | 23.0 | 0.0 | 1.0 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.0 |
+| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 8 | 23.0 | 0.0 | 1.0 | 1.01 | 1.01 | 0.0 | 0.00 | 1 | 0.0 |
 | orange, finely grated zest only | Oranges, raw, all commercial varieties (FDC 169097) | 3 | 1.4 | 0.0 | 0.4 | 0.28 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
 | lemon, finely grated zest and 1 tsp juice | Lemon peel, raw (SR 09156) | 1 | 0.5 | 0.0 | 0.2 | 0.04 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
 | lemon, finely grated zest and 1 tsp juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 5 | 1.1 | 0.0 | 0.3 | 0.13 | 0.13 | 0.0 | 0.00 | 0 | 0.0 |

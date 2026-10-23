@@ -532,6 +532,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | graham-crackers | Graham crackers | Classic | 3 | 5 |
 | grape-rosemary-cornmeal-focaccia | Focaccia | Grape | 1 | 3 |
 | gratin-dauphinois | Gratin dauphinois | Classic | 2 | 4 |
+| gravlax-brown-sugar-pressed-dill-salmon-lemon | Gravlax | Dill (classic) | 1 | 3 |
+| gravlax-salt-sugar-dill-cured-salmon-mustard-sauce | Gravlax | Classic | 1 | 3 |
 | greek-mint-oregano-meatballs | Meatballs | Greek (mint-oregano) | 2 | 4 |
 | green-bean-casserole-crispy-onions | Green bean casserole | Classic | 2 | 4 |
 | green-beans-amandine-brown-butter | Green beans almondine | Classic | 2 | 4 |
@@ -562,6 +564,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | harira-moroccan-lentil-chickpea-soup | Harira | Classic | 2 | 4 |
 | harissa-yoghurt-beef-skewers | Kebabs/skewers | Harissa | 3 | 5 |
 | haupia-hawaiian-coconut-pudding-squares | Haupia | Classic | 1 | 3 |
+| hawaiian-ahi-tuna-poke-bowl-sesame-macadamia | Poke | Classic | 1 | 3 |
 | hazelnut-linzertorte-raspberry-lattice | Linzer | Classic | 1 | 3 |
 | hazelnut-praline-paris-brest | Paris-Brest | Classic | 2 | 4 |
 | hearty-beef-lasagne-cream-sauce | Sheets/baked (lasagne) | Beef | 1 | 3 |
@@ -586,6 +589,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | honey-wholemeal-dinner-rolls | Dinner rolls | Honey | 1 | 3 |
 | hong-kong-milk-tea-evaporated-milk | Hong Kong-style milk tea | Classic | 1 | 3 |
 | horseradish-mashed-potatoes | Mashed | Horseradish | 3 | 5 |
+| hosomaki-thin-sushi-rolls-tuna-salmon-cucumber | Maki sushi | Classic | 1 | 3 |
 | hot-dry-noodles | Hot dry noodles | Classic | 1 | 3 |
 | hot-fudge-sundae-whipped-cream-cherry | Sundaes | Classic | 2 | 4 |
 | hot-spinach-artichoke-dip-parmesan-mozzarella | Spinach-artichoke | Classic | 3 | 5 |
@@ -638,6 +642,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | khanom-chan-thai-pandan-coconut-layer-cake | Khanom chan | Classic | 1 | 3 |
 | kibbeh-lamb-bulgur-shells-spiced-filling | Kibbeh | Classic | 2 | 4 |
 | kimchi-fried-rice-fried-egg-sesame | Kimchi fried rice | Classic | 3 | 5 |
+| kinilaw-coconut-milk-white-fish-ginger | Kinilaw | Coconut-milk | 1 | 3 |
+| kinilaw-filipino-tuna-vinegar-ginger-cucumber | Kinilaw | Classic | 1 | 3 |
 | kitchen-sink-cookies | Kitchen-sink cookie | Classic | 3 | 5 |
 | knafeh-orange-kataifi-melted-cheese | Knafeh | Classic | 2 | 4 |
 | korean-rice-bowl-beef-vegetables-crisp-rice-chilli-sauce | Bibimbap (dolsot) | Classic | 2 | 4 |
@@ -862,6 +868,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | persian-faloodeh-rose-water-lime | Faloodeh | Classic | 2 | 4 |
 | persian-herb-lamb-kidney-bean-stew | Ghormeh sabzi | Classic | 2 | 4 |
 | persian-saffron-rice-golden-crust-barberries | Tahdig/Persian polo | Classic | 3 | 5 |
+| peruvian-ceviche-sea-bass-lime-sweet-potato-corn | Ceviche | Classic | 1 | 3 |
 | peruvian-style-beef-tomato-stir-fry-chips | Lomo saltado | Classic | 3 | 5 |
 | pesto-alla-trapanese | Pesto alla trapanese | Classic | 2 | 4 |
 | pesto-bechamel-lasagne | Sheets/baked (lasagne) | Pesto | 1 | 3 |
@@ -1008,8 +1015,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | samgyetang | Samgyetang | Classic | 2 | 4 |
 | sarma-rice-stuffed-vine-leaves-lemon | Sarma | Classic | 1 | 3 |
 | sarson-ka-saag-makki-roti | Saag | Classic | 1 | 3 |
+| sashimi-and-sushi-platter-salmon-tuna-nigiri | Sashimi/sushi | Classic | 1 | 3 |
 | savoury-cabbage-pancakes-spring-onion-tangy-sauce-mayo | Okonomiyaki (Japanese "pizza" – debatable) | Classic | 3 | 5 |
 | scotch-broth-lamb-barley-kale | Scotch broth | Classic | 2 | 4 |
+| sea-bass-crudo-lemon-chilli-olive-oil | Crudo | Classic | 1 | 3 |
 | seared-mushroom-tacos-chipotle-onion-coriander | Taco | Mushroom | 3 | 5 |
 | seared-scallops-garlic-thyme-butter-lemon | Seared scallops | Classic | 4 | 6 |
 | seasoned-short-grain-rice-for-sushi | Sushi rice | Classic | 3 | 5 |
@@ -1192,6 +1201,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | thumbprint-cookies | Thumbprints | Classic | 3 | 5 |
 | thyme-sumac-sesame-zaatar | Za'atar | Classic | 2 | 4 |
 | tiny-lamb-dumplings-garlic-yoghurt-paprika-butter | Manti | Classic | 2 | 4 |
+| tiradito-aji-amarillo-cream-sea-bass | Tiradito | Aji amarillo | 1 | 3 |
+| tiradito-sea-bass-lime-aji-choclo | Tiradito | Classic | 1 | 3 |
 | tiropita-feta-filo-cheese-pie | Tiropita | Classic | 1 | 3 |
 | toasted-coconut-cream-pie | Cream pie (banana, coconut) | Coconut | 2 | 4 |
 | toasted-coconut-custard-ice-cream | Custard-base (French) | Coconut | 1 | 3 |
@@ -1217,6 +1228,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | trofie-al-pesto | Trofie | Classic | 3 | 5 |
 | tuna-butter-bean-courgette-ribbon-salad | Tuna salad | Zucchini | 1 | 3 |
 | tuna-puttanesca | Puttanesca | Tuna | 4 | 6 |
+| tuna-tartare-avocado-lime-capers-radish | Tartare | Classic | 1 | 3 |
 | turon-caramel-banana-jackfruit-rolls | Turon | Classic | 1 | 3 |
 | tuscan-panzanella-tomato-bread-salad | Panzanella | Classic | 3 | 5 |
 | twisted-parmesan-puff-pastry-cheese-straws | Cheese straws | Classic | 3 | 5 |

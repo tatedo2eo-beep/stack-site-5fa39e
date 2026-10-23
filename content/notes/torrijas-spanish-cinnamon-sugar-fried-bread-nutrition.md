@@ -6,7 +6,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | slices day-old country-style white bread or brioche, 2 cm thick | Bread, white, commercially prepared (includes soft bread crumbs) (FDC 174924) | 320 | 851.2 | 28.3 | 158.1 | 18.14 | 18.14 | 10.7 | 2.23 | 1568 | 8.6 |
 | large eggs | Egg, whole, raw, fresh (SR 01123) | 200 | 286.0 | 25.1 | 1.4 | 0.74 | 0.00 | 19.0 | 6.26 | 284 | 0.0 |
-| vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
+| alcohol-free vanilla extract | Vanilla extract (SR 02050); used as proxy for alcohol-free vanilla | 4 | 11.5 | 0.0 | 0.5 | 0.51 | 0.51 | 0.0 | 0.00 | 0 | 0.0 |
 | finely grated orange zest | Oranges, raw, all commercial varieties (FDC 169097) | 1 | 0.5 | 0.0 | 0.1 | 0.09 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | finely grated lemon zest | Lemon peel, raw (SR 09156) | 1 | 0.5 | 0.0 | 0.2 | 0.04 | 0.00 | 0.0 | 0.00 | 0 | 0.1 |
 | whole milk (about 85% is absorbed) | Milk, whole, 3.25% milkfat, with added vitamin D (FDC 171265) | 350 | 213.5 | 11.0 | 16.8 | 17.68 | 0.00 | 11.4 | 6.53 | 150 | 0.0 |

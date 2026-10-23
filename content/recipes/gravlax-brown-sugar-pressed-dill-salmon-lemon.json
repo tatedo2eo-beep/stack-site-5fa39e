@@ -1,0 +1,130 @@
+{
+  "slug": "gravlax-brown-sugar-pressed-dill-salmon-lemon",
+  "title": "Gravlax with a Classic Dill Blanket: Pressed Brown Sugar Cure and Lemon",
+  "category": "fish-seafood",
+  "cuisine": "Scandinavian",
+  "chapter": "seafood",
+  "book_chapter": "seafood",
+  "dish": "gravlax",
+  "dish_title": "Gravlax",
+  "flavour": "Dill (classic)",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "gravlax-salt-sugar-dill-cured-salmon-mustard-sauce",
+  "changes_from_base": "Light brown sugar replaces white sugar; the fillet is pressed under weights and basted for 3 days instead of 36 h; no mustard sauce or bread, just a heap of fresh dill and lemon.",
+  "summary": "Salmon rubbed with brown sugar and salt under a thick layer of dill, pressed and basted for three days, then sliced thinly and heaped with fresh dill.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "medium",
+  "equipment": [
+    "small bowl",
+    "glass dish about 33 x 23 cm",
+    "cling film",
+    "second dish or plate and heavy tins for weights",
+    "spoon for basting",
+    "kitchen paper",
+    "very long thin slicing knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Cure",
+      "qty": 450,
+      "unit": "g",
+      "item": "sashimi-grade salmon fillet, skin on, pin bones removed",
+      "note": "centre cut"
+    },
+    {
+      "group": "Cure",
+      "qty": 70,
+      "unit": "g",
+      "item": "light brown sugar",
+      "note": "most is drained away; see nutrition note"
+    },
+    {
+      "group": "Cure",
+      "qty": 40,
+      "unit": "g",
+      "item": "coarse sea salt",
+      "note": "most is drained away"
+    },
+    {
+      "group": "Cure",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Cure",
+      "qty": 40,
+      "unit": "g",
+      "item": "dill, roughly chopped",
+      "note": "a large bunch"
+    },
+    {
+      "group": "To serve",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh dill fronds and sprigs, to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges",
+      "note": "not counted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the cure",
+      "text": "Mix the brown sugar and salt in a small bowl, breaking up any lumps. Brown sugar gives a deeper, slightly caramel sweetness than white."
+    },
+    {
+      "title": "Season the fillet",
+      "text": "Lay the salmon skin side down in the glass dish and brush the flesh with lemon juice. Rub the sugar and salt evenly over it, then cover with the chopped dill in a dense blanket."
+    },
+    {
+      "title": "Weigh it down",
+      "text": "Cover loosely with cling film, rest a second dish on top and load it with heavy tins. The weight pushes out moisture and presses the flesh into a firm, dense texture."
+    },
+    {
+      "title": "Baste each day",
+      "text": "Refrigerate for about 3 days, lifting off the weights once a day to spoon the collected brine back over the fish. It is ready when the thickest part feels firm all over."
+    },
+    {
+      "title": "Slice and finish",
+      "text": "Scrape off the dill and cure and pat the salmon dry. Cut very thin slices on a sharp angle, lifting each away from the skin, lay them on a board and heap fresh dill over the top with lemon wedges beside."
+    }
+  ],
+  "tips": [
+    "RAW NOTE: salt and sugar cure the salmon but do not kill parasites or germs the way heat does. Buy sushi- or sashimi-grade fish from a fishmonger you trust that has been frozen first (-20 °C for 7 days or -35 °C for 15 hours), keep it in the fridge throughout and eat it within 3 days of curing. Pregnant people, young children, older adults and anyone with weakened immunity should skip it.",
+    "Turn the fillet over in the brine on day two if the thin tail end looks firmer than the middle.",
+    "Serve with buttered rye bread or boiled new potatoes for a fuller meal."
+  ],
+  "storage": "Once cured, wrap the salmon tightly and keep it in the fridge for up to 3 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 157,
+    "protein_g": 14.6,
+    "carbs_g": 2.5,
+    "sugar_g": 1.8,
+    "free_sugar_g": 1.8,
+    "fat_g": 9.5,
+    "satfat_g": 2.1,
+    "salt_g": 2.15,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gravlax-advanced--dill-classic.jpg",
+  "image_alt": "Thin slices of gravlax overlapped on a dark slate and heaped with chopped fresh dill, with dill sprigs beside.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
