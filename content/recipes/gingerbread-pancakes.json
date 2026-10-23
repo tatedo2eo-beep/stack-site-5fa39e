@@ -13,7 +13,6 @@
   "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
   "changes_from_base": "Molasses, dark brown sugar, ground and fresh ginger, cinnamon and allspice turn a plain milk batter into gingerbread; there is no buttermilk.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Warmly spiced pancakes flavoured with molasses, fresh ginger and a hint of lemon zest, tasting just like gingerbread.",
   "servings": 4,
   "prep_min": 10,
@@ -175,7 +174,7 @@
     "fibre_g": 2.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "gingerbread-pancakes.jpg",
   "image_alt": "Dark, spiced pancakes with a lightly browned surface, stacked on a plate.",
   "inspired_by": [
     "NYT Cooking"

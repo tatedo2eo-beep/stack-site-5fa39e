@@ -13,7 +13,6 @@
   "base_recipe": "creamy-oat-porridge-banana-blueberries",
   "changes_from_base": "A sweet, cake-like oatmeal: quick oats, brown sugar and baking powder are mixed with milk, eggs and melted butter, folded with blueberries and baked in a square dish, then cut into portions.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "This straightforward baked oatmeal studded with bursts of blueberry delivers comfort in every forkful, sweet enough to feel like a treat yet wholesome enough for daily eating.",
   "servings": 8,
   "prep_min": 10,
@@ -153,8 +152,8 @@
     "fibre_g": 3.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Eight portions of blueberry baked oatmeal on a cooling rack, showing a golden top with visible berries.",
+  "image": "blueberry-baked-oatmeal.jpg",
+  "image_alt": "Three squares of blueberry baked oatmeal on a cooling rack, with a golden top and visible berries.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

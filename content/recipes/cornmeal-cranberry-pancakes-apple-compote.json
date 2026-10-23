@@ -13,7 +13,6 @@
   "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
   "changes_from_base": "A cornmeal batter made with warm melted butter and milk, fresh cranberries scattered on each pancake in the pan, served with a slow-cooked spiced apple compote and a caramel cream sauce instead of maple syrup.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Golden cornmeal pancakes studded with tart cranberries, served with spiced apple compote and a rich caramel sauce.",
   "servings": 8,
   "prep_min": 30,
@@ -234,7 +233,7 @@
     "fibre_g": 4.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "cornmeal-cranberry-pancakes-apple-compote.jpg",
   "image_alt": "A stack of cornmeal pancakes studded with cranberries, topped with spiced apple compote and a drizzle of caramel sauce.",
   "inspired_by": [
     "NYT Cooking"

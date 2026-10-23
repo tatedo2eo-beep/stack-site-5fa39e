@@ -13,7 +13,6 @@
   "base_recipe": "shakshuka",
   "changes_from_base": "Tomato-free: a base of green peppers, jalapeños, potatoes simmered in stock and wilted broccoli rabe; the eggs are finished under a hot grill and dusted with Parmesan.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A grilled vegetable base of potatoes, broccoli and peppers crowned with baked eggs finished under a hot grill.",
   "servings": 4,
   "prep_min": 15,
@@ -166,8 +165,8 @@
     "fibre_g": 6.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Four eggs with soft yolks nested in a pan of cooked potatoes, broccoli rabe and green peppers.",
+  "image": "broccoli-rabe-potato-shakshuka.jpg",
+  "image_alt": "Four eggs with soft yolks baked in a pan of golden potatoes and broccoli rabe, dusted with Parmesan.",
   "inspired_by": [
     "NYT Cooking"
   ]

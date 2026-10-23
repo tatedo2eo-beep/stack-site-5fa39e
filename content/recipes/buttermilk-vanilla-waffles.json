@@ -13,7 +13,6 @@
   "base_recipe": "crisp-belgian-waffles-strawberries-cream",
   "changes_from_base": "Egg whites only and buttermilk instead of milk, sweetened with icing sugar and flavoured with vanilla pod seeds and vanilla; the whites go straight into the batter, not whisked, and there is no fruit or cream.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Light buttermilk waffles flecked with real vanilla seeds, cooked until golden and best served dripping with maple syrup.",
   "servings": 3,
   "prep_min": 5,
@@ -142,7 +141,7 @@
     "fibre_g": 1.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "buttermilk-vanilla-waffles.jpg",
   "image_alt": "A golden buttermilk waffle with visible flecks of vanilla, served with maple syrup pooling in its grid.",
   "inspired_by": [
     "Serious Eats"

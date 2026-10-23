@@ -13,7 +13,6 @@
   "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
   "changes_from_base": "The same buttermilk and soured cream batter, with chocolate chips and shredded coconut scattered over each pancake before flipping.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Soft, pillowy pancakes studded with chocolate chips and shredded coconut, a tropical-meets-indulgent treat.",
   "servings": 4,
   "prep_min": 15,
@@ -154,8 +153,8 @@
     "fibre_g": 6.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Golden pancake studded with chocolate chips and shredded coconut.",
+  "image": "chocolate-chip-coconut-pancakes.jpg",
+  "image_alt": "A stack of golden pancakes studded with chocolate chips and sprinkled with shredded coconut.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

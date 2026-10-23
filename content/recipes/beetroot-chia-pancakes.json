@@ -13,7 +13,6 @@
   "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
   "changes_from_base": "Roasted beetroot purée colours a wholemeal (or teff) buttermilk batter with chia seeds folded through.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Earthy beetroot pancakes speckled with chia seeds, their natural sweetness balanced with maple syrup and butter.",
   "servings": 4,
   "prep_min": 20,
@@ -176,8 +175,8 @@
     "fibre_g": 7.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Deep pink pancakes speckled with chia seeds, stacked and drizzled with maple syrup.",
+  "image": "beetroot-chia-pancakes.jpg",
+  "image_alt": "A stack of deep pink beetroot pancakes drizzled with maple syrup.",
   "inspired_by": [
     "NYT Cooking"
   ]

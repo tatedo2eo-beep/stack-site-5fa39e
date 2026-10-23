@@ -13,7 +13,6 @@
   "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
   "changes_from_base": "Mashed banana and brown sugar form the base, the butter is browned with cinnamon, and walnuts can be folded in; there is no soured cream.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Pancakes infused with ripe banana and brown butter, warm with cinnamon, and studded with toasted walnuts for a comforting treat.",
   "servings": 6,
   "prep_min": 15,
@@ -166,8 +165,8 @@
     "fibre_g": 3.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Stack of brown pancakes studded with walnut pieces, drizzled with maple syrup.",
+  "image": "banana-bread-pancakes-brown-butter.jpg",
+  "image_alt": "Stack of golden-brown banana bread pancakes topped with toasted walnut pieces and drizzled with maple syrup.",
   "inspired_by": [
     "Serious Eats"
   ]

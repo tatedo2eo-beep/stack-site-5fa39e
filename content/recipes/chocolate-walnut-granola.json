@@ -13,7 +13,6 @@
   "base_recipe": "honey-maple-nut-granola-raisins",
   "changes_from_base": "Pressed into a firm, even sheet with a metal spatula and baked unstirred so it sets into big chunks, using oil, maple syrup and cocoa powder and brown sugar, with walnuts; chopped chocolate is tossed through once it has cooled.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A dark chocolate granola with walnuts and chunks of melted chocolate stirred through after baking, creating rich pockets of flavour throughout.",
   "servings": 18,
   "prep_min": 10,
@@ -149,8 +148,8 @@
     "fibre_g": 4.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Dark brown granola with visible walnut pieces and chocolate chunks.",
+  "image": "chocolate-walnut-granola.jpg",
+  "image_alt": "A bowl of dark brown granola with visible walnut pieces and chocolate chunks.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

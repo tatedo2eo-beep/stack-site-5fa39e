@@ -13,7 +13,6 @@
   "base_recipe": "crisp-belgian-waffles-strawberries-cream",
   "changes_from_base": "No batter at all: puff pastry spread with a strip of cream cheese, scattered with raisins, cinnamon and sugar, rolled into a spiral and cooked in the waffle iron to 93 °C.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Puff pastry rolled with cream cheese, raisins and cinnamon, coiled into a spiral and cooked in the waffle iron until golden.",
   "servings": 6,
   "prep_min": 10,
@@ -122,8 +121,8 @@
     "fibre_g": 1.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A golden spiral puff pastry waffle cut into wedges, showing swirls of cream cheese and raisins flecked with cinnamon.",
+  "image": "cinnamon-raisin-puff-pastry-waffle.jpg",
+  "image_alt": "A golden puff pastry waffle cut open to show a filling of cream cheese and raisins flecked with cinnamon.",
   "inspired_by": [
     "Serious Eats"
   ]

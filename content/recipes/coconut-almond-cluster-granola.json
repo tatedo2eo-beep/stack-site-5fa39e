@@ -13,7 +13,6 @@
   "base_recipe": "honey-maple-nut-granola-raisins",
   "changes_from_base": "Built for big clusters: part of the oats and coconut are ground to a flour, the rest are bound with a simmered coconut oil, maple, sugar and coconut milk syrup, squeezed into clumps on two trays and flipped rather than stirred.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Coconut-studded clusters bound with a mixture of toasted oat flour and maple syrup, creating a tender granola that's crisp on the outside and chewy within.",
   "servings": 16,
   "prep_min": 20,
@@ -178,8 +177,8 @@
     "fibre_g": 4.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Clusters of golden granola with visible coconut, almonds and seeds.",
+  "image": "coconut-almond-cluster-granola.jpg",
+  "image_alt": "A bowl of golden granola clusters with visible coconut flakes, almonds and seeds.",
   "inspired_by": [
     "NYT Cooking"
   ]

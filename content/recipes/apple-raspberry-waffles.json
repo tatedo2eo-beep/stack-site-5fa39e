@@ -13,7 +13,6 @@
   "base_recipe": "crisp-belgian-waffles-strawberries-cream",
   "changes_from_base": "A lighter batter made with milk, egg yolks and whisked whites folded in at the end, studded with diced apple and whole raspberries; served with maple syrup only.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Fluffy whisked-egg-white waffles studded with diced apple and whole raspberries, best served fresh from the iron.",
   "servings": 4,
   "prep_min": 15,
@@ -144,7 +143,7 @@
     "fibre_g": 3.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "apple-raspberry-waffles.jpg",
   "image_alt": "A golden waffle studded with soft apple pieces and whole raspberries, served with maple syrup.",
   "inspired_by": [
     "NYT Cooking"

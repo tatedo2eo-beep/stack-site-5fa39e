@@ -13,7 +13,6 @@
   "base_recipe": "thin-french-crepes-sugar-lemon",
   "changes_from_base": "Not a thin flour-and-milk crêpe: a small, rich cream batter is poured over a star of browned apple slices in the pan and turned out apple side up, with a quick apple-juice butter sauce instead of sugar and lemon.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Delicate single-serve crêpes with a caramelised apple star cooked right into the batter, finished with a buttery apple sauce.",
   "servings": 4,
   "prep_min": 15,
@@ -154,8 +153,8 @@
     "fibre_g": 1.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A single golden crêpe topped with a neat star of caramelised apple slices, glazed with a glossy butter sauce.",
+  "image": "caramelised-apple-star-crepes.jpg",
+  "image_alt": "A single golden crêpe with thin caramelised apple slices cooked into its surface and glazed with butter sauce.",
   "inspired_by": [
     "NYT Cooking"
   ]

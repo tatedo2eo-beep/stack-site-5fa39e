@@ -13,7 +13,6 @@
   "base_recipe": "honey-maple-nut-granola-raisins",
   "changes_from_base": "Slow-baked at a low heat for 90 min and stirred often: oats, flaked almonds, chia and milk powder are coated in maple syrup, oil, almond butter and almond flavouring, with cranberries and apricots stirred in once cold.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "An almond-based granola enriched with almond butter and studded with tart cranberries and sweet dried apricots, baked low and slow until perfectly dry.",
   "servings": 18,
   "prep_min": 10,
@@ -158,8 +157,8 @@
     "fibre_g": 5.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Golden granola with visible almond flakes, cranberries and apricot pieces.",
+  "image": "cranberry-apricot-almond-granola.jpg",
+  "image_alt": "A bowl of golden granola with visible almond flakes, cranberries and apricot pieces.",
   "inspired_by": [
     "King Arthur Baking"
   ]

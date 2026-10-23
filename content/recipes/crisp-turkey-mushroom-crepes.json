@@ -13,7 +13,6 @@
   "base_recipe": "thin-french-crepes-sugar-lemon",
   "changes_from_base": "A savoury batter with water and fewer eggs, cooked as small 20 cm crêpes, then filled with mushrooms, spinach, leftover turkey, crème fraîche and Parmigiano-Reggiano, folded into triangles and baked until crisp at 200 °C instead of served with sugar and lemon.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Golden crêpes folded around a rich mushroom, spinach and leftover turkey filling, then baked until crisp at the edges.",
   "servings": 6,
   "prep_min": 30,
@@ -204,8 +203,8 @@
     "fibre_g": 2.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Overlapping folded crêpes filled with mushroom and turkey, baked golden and crisp at the edges in a gratin dish.",
+  "image": "crisp-turkey-mushroom-crepes.jpg",
+  "image_alt": "Overlapping folded golden crêpes filled with mushrooms, spinach and turkey in a black baking dish.",
   "inspired_by": [
     "NYT Cooking"
   ]

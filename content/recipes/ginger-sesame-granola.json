@@ -13,7 +13,6 @@
   "base_recipe": "honey-maple-nut-granola-raisins",
   "changes_from_base": "Tahini and olive oil replace the neutral oil and honey, with ground ginger, cardamom, almonds and sesame; optional egg white helps it clump, and crystallised ginger is stirred in before it cools in the switched-off oven.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A ginger-infused granola with toasted sesame and almond, spiked with flaky sea salt and sticky pieces of crystallised ginger for added depth and chew.",
   "servings": 18,
   "prep_min": 10,
@@ -166,8 +165,8 @@
     "fibre_g": 4.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Golden granola with sesame seeds, almond flakes and chunks of crystallised ginger.",
+  "image": "ginger-sesame-granola.jpg",
+  "image_alt": "A bowl of golden granola with sesame seeds, almond flakes and chunks of crystallised ginger.",
   "inspired_by": [
     "NYT Cooking"
   ]

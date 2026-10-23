@@ -13,7 +13,6 @@
   "base_recipe": "bircher-muesli-apple-pecans-raspberries",
   "changes_from_base": "No grated apple, yoghurt or juice: a dry mix of oats, raisins, goji berries, toasted almonds and pumpkin seeds is soaked overnight in milk alone and topped with fresh berries.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A breakfast of wholegrain oats combined with dried fruit, toasted nuts and seeds, then soaked overnight and crowned with fresh berries.",
   "servings": 4,
   "prep_min": 10,
@@ -118,8 +117,8 @@
     "fibre_g": 6.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A white bowl of oat muesli studded with blueberries, raspberries, blackberries, almonds and pumpkin seeds.",
+  "image": "almond-pepita-goji-muesli.jpg",
+  "image_alt": "A white bowl of oat muesli with goji berries and raisins, topped with blueberries, raspberries, blackberries, flaked almonds and pumpkin seeds.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "dutch-baby-pancake-berries-lemon",
   "changes_from_base": "Butter melted in the pan in the oven, a spiced brown-sugar batter, and a skillet topping of apples simmered in a butter, cream and brown sugar caramel piled on instead of fresh berries.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A cinnamon-spiced Dutch pancake crowned with apples cooked down into a rich, glossy caramel sauce.",
   "servings": 4,
   "prep_min": 15,
@@ -176,8 +175,8 @@
     "fibre_g": 3.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Warm cinnamon pancake topped with glossy caramel-coated apple slices.",
+  "image": "caramel-apple-dutch-baby.jpg",
+  "image_alt": "A puffed cinnamon Dutch baby pancake in a skillet, filled with caramel-coated apple slices.",
   "inspired_by": [
     "NYT Cooking"
   ]

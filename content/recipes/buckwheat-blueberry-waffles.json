@@ -13,7 +13,6 @@
   "base_recipe": "crisp-belgian-waffles-strawberries-cream",
   "changes_from_base": "All buckwheat flour (no wheat), dark brown sugar, nutmeg and buttermilk, with whites whisked to medium peaks and blueberries and lemon zest folded in.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Nutty buckwheat waffles studded with blueberries and bright lemon zest, finished with warm maple syrup.",
   "servings": 4,
   "prep_min": 15,
@@ -158,8 +157,8 @@
     "fibre_g": 5.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A golden buckwheat waffle studded with blueberries and flecked with lemon zest.",
+  "image": "buckwheat-blueberry-waffles.jpg",
+  "image_alt": "A brown buckwheat waffle studded with blueberries and flecked with lemon zest.",
   "inspired_by": [
     "NYT Cooking"
   ]

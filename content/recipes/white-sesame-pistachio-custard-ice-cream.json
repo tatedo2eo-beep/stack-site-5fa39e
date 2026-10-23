@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-custard-ice-cream-french-style",
   "changes_from_base": "Toasted white sesame blended into the dairy, with orange zest, less vanilla, pistachios and a pomegranate molasses drizzle.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Built on our classic custard method, this one has freshly toasted sesame seeds blended into the dairy and less vanilla, with orange zest and pistachios. A drizzle of pomegranate molasses on top gives it a tangy finish.",
   "servings": 8,
   "prep_min": 20,
@@ -157,8 +156,8 @@
     "fibre_g": 1.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "",
+  "image": "white-sesame-pistachio-custard-ice-cream.jpg",
+  "image_alt": "Two scoops of pale sesame pistachio custard ice cream drizzled with pomegranate molasses and scattered with pistachios and sesame seeds.",
   "inspired_by": [
     "Serious Eats"
   ]

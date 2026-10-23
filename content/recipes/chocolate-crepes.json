@@ -13,7 +13,6 @@
   "base_recipe": "thin-french-crepes-sugar-lemon",
   "changes_from_base": "A small batch of batter with cocoa sifted in with the flour and a little vanilla, cooked as 18 cm crêpes and filled with chocolate-hazelnut spread instead of sugar and lemon.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Delicate cocoa crêpes folded around a spoonful of chocolate-hazelnut spread for a quick, indulgent treat.",
   "servings": 2,
   "prep_min": 10,
@@ -163,8 +162,8 @@
     "fibre_g": 4.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A folded cocoa crêpe filled with chocolate-hazelnut spread, topped with whipped cream and berries.",
+  "image": "chocolate-crepes.jpg",
+  "image_alt": "A folded cocoa crêpe filled with chocolate-hazelnut spread, topped with whipped cream and berries and dusted with icing sugar.",
   "inspired_by": [
     "NYT Cooking"
   ]

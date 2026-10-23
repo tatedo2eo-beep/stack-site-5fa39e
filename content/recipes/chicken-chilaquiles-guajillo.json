@@ -13,7 +13,6 @@
   "base_recipe": "red-chilaquiles-fried-eggs-crema",
   "changes_from_base": "Oven-baked tortilla chips instead of fried, a blended red sauce of toasted guajillo chillies, tinned tomatoes, poblano and jalapeño, and chicken breasts poached in the sauce, shredded and stirred back in; served without fried eggs.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Crispy baked tortilla chips tossed with shredded chicken in a deep guajillo chilli sauce, topped with cheese, avocado and fresh coriander.",
   "servings": 6,
   "prep_min": 25,
@@ -191,8 +190,8 @@
     "fibre_g": 10.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A casserole of tortilla chips and shredded chicken in reddish guajillo sauce, topped with cheese, avocado and radish slices.",
+  "image": "chicken-chilaquiles-guajillo.jpg",
+  "image_alt": "A dish of tortilla chips and shredded chicken in reddish guajillo sauce, topped with melted cheese, avocado, radish slices and coriander.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "honey-maple-nut-granola-raisins",
   "changes_from_base": "Pressed into a firm, even sheet with a metal spatula and baked unstirred so it sets into big chunks, using oil, maple syrup and brown sugar, with almonds; chopped dried cherries and mini chocolate chips replace the raisins after cooling.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "An almond-based granola studded with tart dried cherries and sweet chocolate chips, creating a perfect balance of flavours and textures.",
   "servings": 18,
   "prep_min": 10,
@@ -148,8 +147,8 @@
     "fibre_g": 5.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Granola with visible almond pieces, dark cherries and chocolate chips.",
+  "image": "cherry-chocolate-chip-granola.jpg",
+  "image_alt": "A bowl of granola with visible almond pieces, dark cherries and chocolate chips.",
   "inspired_by": [
     "America's Test Kitchen"
   ]
