@@ -179,10 +179,11 @@
     "Slice the avocado at the last minute so it doesn't brown before serving."
   ],
   "storage": "Refrigerate the cooked chicken and beans separately within 1 hour and use within 3 days, reheating once until piping hot (74°C). Keep the shells airtight at room temperature for up to 2 days, stored separately from the toppings, and assemble just before eating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
-  "allergens": [],
+  "allergens": [
+    "milk"
+  ],
   "diet": [
     "gluten-free",
-    "dairy-free",
     "no-added-sugar"
   ],
   "nutrition_per_serving": {
