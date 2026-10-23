@@ -1,0 +1,138 @@
+{
+  "slug": "puto-cheese-topped-steamed-rice-cakes",
+  "title": "Puto with Cheese: Steamed Coconut Rice Cakes Topped with Melting Cheddar",
+  "category": "desserts",
+  "cuisine": "Filipino",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "puto",
+  "dish_title": "Puto",
+  "flavour": "Cheese-topped",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "puto-steamed-coconut-rice-cakes",
+  "changes_from_base": "a thin square of mild cheddar laid on each cake for the last 2-3 min of steaming",
+  "summary": "Fluffy coconut rice cakes steamed in paper cases and finished with a square of cheddar that softens on top.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "mixing bowl",
+    "whisk",
+    "clean tea towel",
+    "steamer (bamboo steamer over a wok, or a steamer insert)",
+    "16 paper cases in small metal or silicone moulds (about 60 ml)",
+    "skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 250,
+      "unit": "g",
+      "item": "white rice flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 90,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder",
+      "note": "use a gluten-free one if needed"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "instant yeast"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 240,
+      "unit": "ml",
+      "item": "coconut milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 180,
+      "unit": "ml",
+      "item": "warm water"
+    },
+    {
+      "group": "Topping",
+      "qty": 60,
+      "unit": "g",
+      "item": "mild cheddar, cut into 16 thin squares"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the batter",
+      "text": "Combine the dry ingredients (rice flour, sugar, baking powder, yeast and salt) in the bowl. Pour in the coconut milk and warm water, then whisk for 2 min to a smooth batter that pours easily but still coats the whisk."
+    },
+    {
+      "title": "Rest",
+      "text": "Cover with the tea towel and leave somewhere warm for 1 h until a few bubbles rise. The flour absorbs the liquid during this time, giving a softer crumb."
+    },
+    {
+      "title": "Fill the cases",
+      "text": "Bring 5 cm of water to the boil under the steamer. Set the paper cases in their moulds and fill each three-quarters full."
+    },
+    {
+      "title": "Steam",
+      "text": "Arrange in the steamer, wrap the lid in the tea towel and steam over steady high heat for 13-15 min, until risen and a skewer comes out clean."
+    },
+    {
+      "title": "Add the cheese",
+      "text": "Lay a square of cheddar on each cake, cover again and steam for 2-3 min more. The cheese should soften and slump onto the top without running off; adding it late stops it sinking or turning oily."
+    },
+    {
+      "title": "Serve",
+      "text": "Cool for 5 min before lifting the cakes out of the moulds, then eat warm."
+    }
+  ],
+  "tips": [
+    "Mild cheddar gives the classic sweet-salty contrast; a stronger one can overpower the cake.",
+    "A common mistake is adding the cheese at the start: it sinks and makes the tops dense.",
+    "Keep the water at a strong boil throughout steaming.",
+    "Cut the cheese thinly so it softens in the short time.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in an airtight container in the fridge for up to 3 days. Re-steam for 3-4 min until warm.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 249,
+    "protein_g": 4.4,
+    "carbs_g": 37.7,
+    "sugar_g": 11.3,
+    "free_sugar_g": 11.2,
+    "fat_g": 9.4,
+    "satfat_g": 7.3,
+    "salt_g": 0.61,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "puto-basic--cheese-topped.jpg",
+  "image_alt": "Steamed puto rice cakes each topped with a square of melting cheese.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

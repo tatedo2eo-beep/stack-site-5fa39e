@@ -1,0 +1,170 @@
+{
+  "slug": "bibingka-coconut-rice-cake-salted-egg",
+  "title": "Bibingka: Baked Coconut Rice Cake with Salted Egg on Banana Leaf",
+  "category": "desserts",
+  "cuisine": "Filipino",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "bibingka",
+  "dish_title": "Bibingka",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A coconut rice-flour cake baked on banana leaf, topped with salted egg and finished with butter and sugar under a hot grill.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "23 cm cast-iron frying pan or round cake tin",
+    "2 mixing bowls",
+    "whisk",
+    "pastry brush",
+    "skewer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Pan",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large banana leaf, wiped clean",
+      "note": "optional; not counted"
+    },
+    {
+      "group": "Pan",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter, melted, for the pan"
+    },
+    {
+      "group": "Batter",
+      "qty": 200,
+      "unit": "g",
+      "item": "white rice flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 50,
+      "unit": "g",
+      "item": "glutinous rice flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder",
+      "note": "use a gluten-free one if needed"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 300,
+      "unit": "ml",
+      "item": "coconut milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "pc",
+      "item": "salted duck egg, cooked, peeled and sliced"
+    },
+    {
+      "group": "Topping",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Topping",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the pan",
+      "text": "Heat the oven to 180 °C (160 °C fan). Soften the banana leaf by passing it briefly over a flame or dipping it in hot water, line the pan and brush with the 15 g butter. Without a leaf, butter the pan and line the base with baking paper."
+    },
+    {
+      "title": "Mix the batter",
+      "text": "Whisk both rice flours, the baking powder, salt and sugar in one bowl. In the other, whisk the coconut milk, eggs and 60 g melted butter, then pour into the dry mix and whisk until completely smooth; rice flour has no gluten, so you cannot overmix it."
+    },
+    {
+      "title": "First bake",
+      "text": "Pour the batter into the pan and bake for 15 min, until the edges have just set. Waiting stops the egg slices sinking."
+    },
+    {
+      "title": "Add the salted egg",
+      "text": "Arrange the salted egg slices over the surface and bake for 15-20 min more, until risen and golden and a skewer in the centre comes out clean."
+    },
+    {
+      "title": "Butter and char",
+      "text": "Brush with the remaining butter, scatter over the tablespoon of sugar and grill (broiler) on high for 2-3 min. Watch closely: you want dark speckles of caramel, not burnt sugar."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Leave in the pan for 10 min so the crumb sets, then cut into wedges and serve warm."
+    }
+  ],
+  "tips": [
+    "Salted duck eggs are sold cooked in Asian grocers; if yours are raw, simmer them for 10 min first.",
+    "A common mistake is grilling too long: the sugar goes from golden to burnt in seconds.",
+    "The banana leaf adds a gentle tea-like aroma, but the cake is still good without it.",
+    "Check the label of the baking powder if you need the cake to be gluten-free.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best eaten warm on the day. Keep covered in the fridge for up to 2 days and reheat in a 180 °C (160 °C fan) oven for 8-10 min until hot through.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 493,
+    "protein_g": 7.0,
+    "carbs_g": 59.1,
+    "sugar_g": 23.8,
+    "free_sugar_g": 23.6,
+    "fat_g": 26.4,
+    "satfat_g": 18.2,
+    "salt_g": 1.34,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bibingka-basic.jpg",
+  "image_alt": "A round golden bibingka on banana leaf, topped with slices of salted egg and dark scorched spots.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

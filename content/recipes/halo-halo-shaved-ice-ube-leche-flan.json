@@ -1,0 +1,167 @@
+{
+  "slug": "halo-halo-shaved-ice-ube-leche-flan",
+  "title": "Halo-Halo: Layered Shaved Ice with Sweet Beans, Fruit, Ube and Leche Flan",
+  "category": "desserts",
+  "cuisine": "Filipino",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "halo-halo",
+  "dish_title": "Halo-halo",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Layers of sweet bananas, tapioca, red beans and tropical fruits under fluffy shaved ice and evaporated milk, topped with ube, leche flan and ube ice cream.",
+  "servings": 4,
+  "prep_min": 30,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "medium saucepan",
+    "sieve",
+    "blender, food processor or ice shaver",
+    "4 tall glasses (about 350 ml)",
+    "long spoons"
+  ],
+  "ingredients": [
+    {
+      "group": "Bananas in syrup",
+      "qty": 250,
+      "unit": "g",
+      "item": "ripe saba bananas or 1 large ripe plantain, peeled and sliced 1 cm on the diagonal"
+    },
+    {
+      "group": "Bananas in syrup",
+      "qty": 120,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Bananas in syrup",
+      "qty": 300,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Tapioca",
+      "qty": 30,
+      "unit": "g",
+      "item": "small white tapioca pearls"
+    },
+    {
+      "group": "Layers",
+      "qty": 120,
+      "unit": "g",
+      "item": "sweetened red beans (canned adzuki in syrup), drained"
+    },
+    {
+      "group": "Layers",
+      "qty": 80,
+      "unit": "g",
+      "item": "kaong (sugar palm fruit) in syrup, red and green, drained"
+    },
+    {
+      "group": "Layers",
+      "qty": 80,
+      "unit": "g",
+      "item": "nata de coco in syrup, drained"
+    },
+    {
+      "group": "Layers",
+      "qty": 80,
+      "unit": "g",
+      "item": "ripe jackfruit, fresh or from a jar, drained and cut in strips"
+    },
+    {
+      "group": "Layers",
+      "qty": 80,
+      "unit": "g",
+      "item": "ube halaya (purple yam jam), homemade or bought"
+    },
+    {
+      "group": "To assemble",
+      "qty": 480,
+      "unit": "g",
+      "item": "ice",
+      "note": "finely shaved or crushed"
+    },
+    {
+      "group": "To assemble",
+      "qty": 160,
+      "unit": "ml",
+      "item": "evaporated milk, chilled"
+    },
+    {
+      "group": "To assemble",
+      "qty": 120,
+      "unit": "g",
+      "item": "leche flan, cut in 4 cubes",
+      "note": "bought or homemade"
+    },
+    {
+      "group": "To assemble",
+      "qty": 4,
+      "unit": "pc",
+      "item": "scoops ube ice cream (about 240 g)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the bananas",
+      "text": "Simmer the banana slices with the brown sugar and 300 ml water for 15-20 min until tender and glossy and the syrup has thickened slightly. Cool, then chill; cold fruit stops the ice melting too fast."
+    },
+    {
+      "title": "Boil the tapioca",
+      "text": "Boil the pearls in plenty of water for 15-20 min, stirring often so they do not stick, until translucent with no white centre. Rinse under cold water to wash off the starch, then stir into 2 tbsp of the banana syrup."
+    },
+    {
+      "title": "Shave the ice",
+      "text": "Pulse the ice in short bursts until it looks like fluffy snow rather than chips. Keep it in the freezer until you assemble; fine ice packs better and soaks up the milk."
+    },
+    {
+      "title": "Build the base",
+      "text": "Divide the bananas with a spoonful of their syrup, the tapioca, red beans, kaong, nata de coco and jackfruit between the 4 glasses, so each is about a third full."
+    },
+    {
+      "title": "Pile on the ice",
+      "text": "Pack the shaved ice on top up to the rim. Crown each glass with a spoonful of ube halaya, a cube of leche flan and a scoop of ube ice cream."
+    },
+    {
+      "title": "Pour and serve",
+      "text": "Pour 40 ml evaporated milk down the side of each glass and serve straight away with long spoons. Mix everything together as you eat."
+    }
+  ],
+  "tips": [
+    "Assemble at the last moment; a common mistake is building the glasses early, which leaves a puddle.",
+    "Chill the glasses in the freezer for 10 min first.",
+    "Asian grocers sell jars of kaong, nata de coco, sweet beans and jackfruit; drain them well.",
+    "Swap the ube ice cream for vanilla or coconut if you cannot find it."
+  ],
+  "storage": "Serve as soon as it is assembled. The cooked bananas and tapioca keep covered in the fridge for up to 2 days.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 549,
+    "protein_g": 8.9,
+    "carbs_g": 102.5,
+    "sugar_g": 60.8,
+    "free_sugar_g": 45.7,
+    "fat_g": 13.2,
+    "satfat_g": 8.1,
+    "salt_g": 0.46,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "halo-halo-basic.jpg",
+  "image_alt": "A tall glass of halo-halo with purple ube ice cream, a cube of leche flan and shaved ice over colourful beans and fruit.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

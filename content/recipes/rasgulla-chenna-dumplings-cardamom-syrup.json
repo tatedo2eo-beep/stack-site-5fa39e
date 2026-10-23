@@ -1,0 +1,134 @@
+{
+  "slug": "rasgulla-chenna-dumplings-cardamom-syrup",
+  "title": "Rasgulla: Soft Chenna Dumplings in Cardamom Syrup",
+  "category": "desserts",
+  "cuisine": "Indian",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "rasgulla",
+  "dish_title": "Rasgulla",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Soft homemade chenna kneaded smooth, rolled into balls and boiled in a cardamom syrup until they puff up light and springy.",
+  "servings": 8,
+  "prep_min": 40,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "large heavy saucepan",
+    "fine sieve",
+    "muslin or a clean thin tea towel",
+    "large bowl",
+    "wide lidded pan, at least 24 cm",
+    "slotted spoon",
+    "serving bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Chenna",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Chenna",
+      "qty": 25,
+      "unit": "ml",
+      "item": "lemon juice",
+      "note": "mixed with 25 ml water; drained away with the whey"
+    },
+    {
+      "group": "Chenna",
+      "qty": 25,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Chenna",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cornflour"
+    },
+    {
+      "group": "Syrup",
+      "qty": 750,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Syrup",
+      "qty": 300,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 4,
+      "unit": "pc",
+      "item": "green cardamom pods, lightly crushed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Curdle the milk",
+      "text": "Bring the milk to the boil in the heavy saucepan, stirring now and then so it does not catch. Take it off the heat, wait 1 min, then add the lemon juice mixed with the 25 ml water a little at a time, stirring gently. Stop as soon as the curds separate from a clear, greenish whey; overdoing the acid gives tough curds."
+    },
+    {
+      "title": "Rinse and drain",
+      "text": "Line the sieve with muslin and set it over the bowl, then pour in the curds. Rinse them under cold running water, which washes away the lemon flavour and cools the curds so they stay tender. Gather the cloth, twist out the liquid and hang it, or rest it under a light weight, for 20-30 min until the chenna is moist but no longer dripping."
+    },
+    {
+      "title": "Knead until smooth",
+      "text": "Tip the chenna onto a clean worktop, sprinkle over the cornflour and knead with the heel of your hand for 8-10 min. At first it feels crumbly; it is ready when it is completely smooth and your palm looks slightly greasy. A smooth dough is what stops the balls cracking in the syrup."
+    },
+    {
+      "title": "Shape the balls",
+      "text": "Divide the chenna into 16 equal pieces. Roll each between your palms into a smooth ball without any cracks, keeping the finished ones covered so they do not dry out."
+    },
+    {
+      "title": "Boil the syrup",
+      "text": "Put the 750 ml water, sugar and cardamom in the wide pan and bring to a rolling boil, stirring until the sugar dissolves. A thin syrup is important here, as it lets the dumplings swell rather than shrink."
+    },
+    {
+      "title": "Cook the dumplings",
+      "text": "Lower the balls into the boiling syrup, cover and keep at a steady boil for 12-15 min, gently shaking the pan once or twice. They will roughly double in size and feel light and springy; steam trapped under the lid helps them puff."
+    },
+    {
+      "title": "Cool and chill",
+      "text": "Take the pan off the heat and let the dumplings cool in the syrup, where they absorb it and settle. Chill for at least 2 h and serve 2 per person with a little of the syrup."
+    }
+  ],
+  "tips": [
+    "If a test ball cracks or falls apart in the syrup, the chenna needs a few more minutes of kneading.",
+    "Squeezing the curds too dry is a common mistake: they turn dense and rubbery. Aim for moist, soft chenna.",
+    "Use a wide pan so the balls have room to double without crowding.",
+    "Full-fat milk gives the softest, richest chenna.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep in their syrup in a covered container in the fridge for up to 3 days. They are best served chilled and are not suitable for freezing.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 153,
+    "protein_g": 6.0,
+    "carbs_g": 20.6,
+    "sugar_g": 19.3,
+    "free_sugar_g": 18.7,
+    "fat_g": 5.9,
+    "satfat_g": 3.8,
+    "salt_g": 0.01,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "rasgulla-basic.jpg",
+  "image_alt": "Four soft white rasgulla in light syrup in a dark bowl.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

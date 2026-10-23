@@ -1,0 +1,145 @@
+{
+  "slug": "ajo-blanco-chilled-almond-garlic-soup-grapes",
+  "title": "Ajo Blanco: Chilled Almond and Garlic Soup with Grapes",
+  "category": "soups-stews",
+  "cuisine": "Spanish",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "ajo-blanco",
+  "dish_title": "Ajo blanco",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A silky, chilled soup of blended almonds, soaked bread, garlic and olive oil, finished with sweet green grapes and whole almonds.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "high-speed blender",
+    "bowl",
+    "fine sieve (optional)",
+    "4 chilled soup bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Soup",
+      "qty": 150,
+      "unit": "g",
+      "item": "day-old white country bread, crusts removed, torn"
+    },
+    {
+      "group": "Soup",
+      "qty": 700,
+      "unit": "ml",
+      "item": "ice-cold water",
+      "note": "plus extra to thin"
+    },
+    {
+      "group": "Soup",
+      "qty": 150,
+      "unit": "g",
+      "item": "blanched almonds"
+    },
+    {
+      "group": "Soup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic clove, green centre removed",
+      "note": "use 2 for a stronger soup"
+    },
+    {
+      "group": "Soup",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Soup",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Soup",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 100,
+      "unit": "g",
+      "item": "seedless green grapes, halved"
+    },
+    {
+      "group": "To serve",
+      "qty": 16,
+      "unit": "pc",
+      "item": "whole blanched almonds"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil, to drizzle"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak the bread",
+      "text": "Put the torn bread in a bowl, pour over 200 ml of the cold water and leave for 10 minutes until it is soft all the way through."
+    },
+    {
+      "title": "Make the almond base",
+      "text": "Put the almonds, garlic and the remaining 500 ml of water in the blender and blend on high for about 1 minute, until the mixture looks like milk. Starting with the almonds and water alone gives a smoother result than blending everything at once."
+    },
+    {
+      "title": "Blend until silky",
+      "text": "Add the soaked bread with its water and blend for another 1-2 minutes until completely smooth. With the motor running, pour in the olive oil in a thin stream, then add the vinegar and salt. If your blender leaves grit, push the soup through a fine sieve."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and refrigerate for at least 3 hours, or up to 2 days, until very cold. The flavour of the garlic grows as it sits."
+    },
+    {
+      "title": "Serve",
+      "text": "Stir well, then thin with a splash of cold water if it is thicker than single cream. Taste and adjust the salt and vinegar. Ladle into the chilled bowls, scatter over the grapes and whole almonds, and finish with a drizzle of olive oil."
+    }
+  ],
+  "tips": [
+    "Use a powerful blender if possible; it gives the creamiest texture without sieving.",
+    "The most common mistake is too much garlic: raw garlic gets stronger as the soup chills, so start with one clove.",
+    "Use bread that is a day old but not hard; fresh bread can make the soup gummy.",
+    "Serve it really cold, in bowls chilled in the fridge or freezer."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days and stir before serving. Add the grapes and almonds just before serving. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 480,
+    "protein_g": 12.4,
+    "carbs_g": 32.5,
+    "sugar_g": 7.8,
+    "free_sugar_g": 2.1,
+    "fat_g": 35.6,
+    "satfat_g": 3.7,
+    "salt_g": 1.57,
+    "fibre_g": 6.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ajo-blanco-advanced.jpg",
+  "image_alt": "A dark bowl of pale, creamy ajo blanco topped with halved green grapes, whole almonds and a drizzle of olive oil.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

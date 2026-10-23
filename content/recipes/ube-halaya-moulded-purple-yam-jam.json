@@ -1,0 +1,120 @@
+{
+  "slug": "ube-halaya-moulded-purple-yam-jam",
+  "title": "Ube Halaya: Moulded Purple Yam Jam with Coconut Milk",
+  "category": "desserts",
+  "cuisine": "Filipino",
+  "chapter": "world-desserts-sweets",
+  "book_chapter": "world-desserts-sweets",
+  "dish": "ube-halaya",
+  "dish_title": "Ube halaya",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Grated purple yam slowly cooked with coconut milk, evaporated milk, sugar and butter until thick and glossy, then set in a mould and turned out.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 50,
+  "difficulty": "easy",
+  "equipment": [
+    "large non-stick or heavy saucepan or wok",
+    "sturdy silicone spatula",
+    "600 ml fluted jelly mould or bowl",
+    "serving plate"
+  ],
+  "ingredients": [
+    {
+      "group": "Halaya",
+      "qty": 450,
+      "unit": "g",
+      "item": "frozen grated ube (purple yam), thawed"
+    },
+    {
+      "group": "Halaya",
+      "qty": 400,
+      "unit": "ml",
+      "item": "coconut milk"
+    },
+    {
+      "group": "Halaya",
+      "qty": 160,
+      "unit": "ml",
+      "item": "evaporated milk"
+    },
+    {
+      "group": "Halaya",
+      "qty": 120,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Halaya",
+      "qty": 50,
+      "unit": "g",
+      "item": "unsalted butter, plus a little for the mould"
+    },
+    {
+      "group": "Halaya",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dry the ube",
+      "text": "Cook the grated ube in the pan over medium-high heat for 3-4 min, stirring, until any excess water has evaporated and the colour deepens. Starting dry means less time stirring later."
+    },
+    {
+      "title": "Add the milks",
+      "text": "Stir in the coconut milk, evaporated milk and sugar and bring to the boil. Turn down to a gentle simmer so it bubbles lazily rather than spits."
+    },
+    {
+      "title": "Stir patiently",
+      "text": "Cook for about 30 min, scraping the base and corners every minute or so with the spatula, until thick and jammy. Constant scraping stops the milk sugars catching and scorching."
+    },
+    {
+      "title": "Enrich with butter",
+      "text": "Add the 50 g butter and the salt and keep stirring over low heat for 10-15 min more. It is ready when deep violet and glossy and it pulls away from the pan as one mass."
+    },
+    {
+      "title": "Pack the mould",
+      "text": "Butter the mould generously and pack in the hot halaya. Tap the mould firmly on the worktop to knock out air pockets, then smooth the base."
+    },
+    {
+      "title": "Chill and turn out",
+      "text": "Cool, cover and chill for at least 3 h so it firms enough to hold its shape. Run a thin knife around the edge, turn out onto the plate and cut into slices or wedges."
+    }
+  ],
+  "tips": [
+    "A common mistake is stopping too early: if it does not leave the pan clean, it will not hold its shape.",
+    "Use a heavy pan and a silicone spatula to reach every corner.",
+    "Thaw frozen ube completely and squeeze out any extra liquid before you start.",
+    "Spoon leftovers over halo-halo or spread on toast."
+  ],
+  "storage": "Keep covered in the fridge for up to 1 week, or freeze in portions for up to 2 months and thaw overnight in the fridge.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 299,
+    "protein_g": 3.3,
+    "carbs_g": 34.1,
+    "sugar_g": 15.3,
+    "free_sugar_g": 15.0,
+    "fat_g": 17.8,
+    "satfat_g": 13.9,
+    "salt_g": 0.18,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ube-halaya-basic.jpg",
+  "image_alt": "A glossy deep purple ube halaya unmoulded from a fluted mould onto a plate.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

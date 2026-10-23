@@ -7,6 +7,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | adana-style-lamb-kebabs | Adana kebabı | Classic | 3 | 5 |
 | agua-de-jamaica-hibiscus-allspice-orange | Agua de jamaica | Classic | 2 | 4 |
 | airy-butter-peanut-brittle | Brittle | Classic | 2 | 4 |
+| ajo-blanco-chilled-almond-garlic-soup-grapes | Ajo blanco | Classic | 1 | 3 |
 | akara-black-eyed-pea-fritters-pepper-sauce | Akara | Classic | 2 | 4 |
 | alfajores | Alfajores | Classic | 2 | 4 |
 | aligot-cheesy-mashed-potatoes | Aligot | Classic | 2 | 4 |
@@ -53,6 +54,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | bengali-spiced-tomato-chutney | Chutney | Tomato | 2 | 4 |
 | bhatura-puffed-fried-bread | Bhatura | Classic | 1 | 3 |
 | biang-biang-noodles | Biang biang/hand-pulled lamian | Classic | 2 | 4 |
+| bibingka-coconut-rice-cake-salted-egg | Bibingka | Classic | 2 | 4 |
 | bircher-muesli-apple-pecans-raspberries | Muesli | Classic | 2 | 4 |
 | black-and-white-cookies | Black-and-white | Classic | 2 | 4 |
 | black-bean-burger | Veggie/bean burger | Classic | 2 | 6 |
@@ -420,6 +422,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | guacamole | Guacamole | Classic | 2 | 3 |
 | gulab-jamun-cardamom-saffron-syrup | Gulab jamun | Classic | 2 | 4 |
 | hainanese-chicken-rice | Hainanese chicken rice | Classic | 3 | 5 |
+| halo-halo-shaved-ice-ube-leche-flan | Halo-halo | Classic | 2 | 4 |
 | haluski | Haluski | Classic | 2 | 4 |
 | hanoi-style-turmeric-fish-dill-spring-onions-rice-noodles | Chả cá Lã Vọng | Classic | 3 | 5 |
 | harcha-moroccan-semolina-flatbread | Harcha | Classic | 1 | 3 |
@@ -459,6 +462,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | italian-bean-vegetable-soup-small-pasta-basil | Minestrone | Classic | 3 | 5 |
 | italian-parsley-caper-salsa-verde | Salsa verde | Classic | 1 | 3 |
 | italian-style-pasta-salad-mozzarella-olives | Pasta salad | Classic | 3 | 5 |
+| jalebi-saffron-syrup-spirals | Jalebi | Classic | 1 | 3 |
 | jamaican-braised-oxtail-butter-beans | Oxtail stew | Classic | 3 | 5 |
 | jamaican-curried-beef-patties-flaky-turmeric-pastry | Jamaican patty | Classic | 3 | 5 |
 | jamaican-curry-goat-rice-peas | Curry goat | Classic | 2 | 4 |
@@ -521,6 +525,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lo-mein | Lo mein | Classic | 2 | 4 |
 | louisiana-style-crayfish-tail-stew-rice | Crawfish étouffée | Classic | 3 | 5 |
 | lyonnaise-potatoes | Lyonnaise potatoes | Classic | 2 | 4 |
+| maamoul-date-filled-semolina-cookies | Maamoul | Classic | 2 | 4 |
 | madeleines | Madeleines (cake-like) | Classic | 3 | 5 |
 | mahalabia-milk-pudding-pistachios | Mahalabia | Classic | 1 | 3 |
 | malaysian-coconut-rice-sambal-crispy-anchovies-peanuts-egg | Nasi lemak | Classic | 2 | 4 |
@@ -699,8 +704,14 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | puffy-new-orleans-style-beignets | Beignets | Classic | 1 | 3 |
 | pumpkin-soup-caramelised-onion-sage | Pumpkin soup | Classic | 2 | 4 |
 | pumpkin-whoopie-pies | Whoopie pie | Pumpkin | 2 | 4 |
+| puto-cheese-topped-steamed-rice-cakes | Puto | Cheese-topped | 1 | 3 |
+| puto-steamed-coconut-rice-cakes | Puto | Classic | 1 | 3 |
+| qatayef-asafiri-cream-pistachio | Qatayef | Classic | 2 | 4 |
+| qatayef-fried-cheese-half-moons | Qatayef | Cheese | 1 | 3 |
+| qatayef-fried-walnut-cinnamon-half-moons | Qatayef | Walnut | 1 | 3 |
 | quick-tomato-paste-ketchup | Ketchup | Classic | 1 | 3 |
 | rainbow-fruit-salad-lime-mint | Fruit salad | Classic | 3 | 5 |
+| rasgulla-chenna-dumplings-cardamom-syrup | Rasgulla | Classic | 1 | 3 |
 | raspberry-cream-cheese-danish-pastries | Danish | Classic | 4 | 6 |
 | raspberry-glazed-laminated-cronut-style-doughnuts | Cronut-style laminated | Classic | 1 | 3 |
 | raspberry-jam-filled-berliner-doughnuts | Filled (Berliner/bomboloni/jam) | Classic | 2 | 4 |
@@ -912,8 +923,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | triple-cooked-chips | Pont-Neuf/triple-cooked chips | Classic | 2 | 4 |
 | trofie-al-pesto | Trofie | Classic | 3 | 5 |
 | tuna-puttanesca | Puttanesca | Tuna | 2 | 4 |
+| turon-caramel-banana-jackfruit-rolls | Turon | Classic | 1 | 3 |
 | tuscan-panzanella-tomato-bread-salad | Panzanella | Classic | 3 | 5 |
 | twisted-parmesan-puff-pastry-cheese-straws | Cheese straws | Classic | 3 | 5 |
+| ube-halaya-moulded-purple-yam-jam | Ube halaya | Classic | 1 | 3 |
 | ugali-with-sukuma-wiki | Ugali / pap | Classic | 2 | 4 |
 | ukrainian-borscht-beef-beetroot-cabbage | Borscht | Classic | 2 | 4 |
 | umm-ali-phyllo-milk-pudding-nuts-raisins | Umm Ali | Classic | 1 | 3 |
