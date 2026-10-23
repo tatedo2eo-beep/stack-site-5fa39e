@@ -1,0 +1,103 @@
+{
+  "slug": "tangy-ginger-hoisin-dipping-sauce",
+  "title": "Tangy Ginger Hoisin Sauce",
+  "category": "snacks-sides",
+  "cuisine": "Chinese",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "hoisin-sauce",
+  "dish_title": "Hoisin sauce",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Hoisin sauce sharpened with rice vinegar, grated ginger and spring onion.",
+  "servings": 8,
+  "prep_min": 5,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "grater",
+    "chopping board",
+    "knife",
+    "small bowl",
+    "spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 120,
+      "unit": "ml",
+      "item": "hoisin sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "rice vinegar"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Stir",
+      "text": "Stir the hoisin, vinegar and ginger together until smooth and glossy."
+    },
+    {
+      "title": "Add",
+      "text": "Fold in most of the sliced spring onion."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon into a small bowl and top with the rest of the spring onion."
+    },
+    {
+      "title": "Wrap",
+      "text": "Serve with thin pancakes, cucumber batons, spring onion strips and roast chicken for wrapping."
+    }
+  ],
+  "tips": [
+    "Grate the ginger on a fine grater so it melts into the sauce.",
+    "Add 1 tsp water if the hoisin is very thick.",
+    "Also good brushed on chicken in the last minutes of roasting."
+  ],
+  "storage": "Keep covered in the fridge for up to 5 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soya",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 40,
+    "protein_g": 0.7,
+    "carbs_g": 8.1,
+    "sugar_g": 4.9,
+    "free_sugar_g": 4.8,
+    "fat_g": 0.6,
+    "satfat_g": 0.1,
+    "salt_g": 0.71,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "hoisin-sauce-basic.jpg",
+  "image_alt": "A bowl of dark hoisin sauce with thin pancakes, cucumber batons and spring onion.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

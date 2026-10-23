@@ -1,0 +1,109 @@
+{
+  "slug": "thyme-sumac-sesame-zaatar",
+  "title": "Thyme, Sumac and Sesame Za'atar",
+  "category": "snacks-sides",
+  "cuisine": "Levantine",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "zaatar",
+  "dish_title": "Za'atar",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Ground dried thyme and oregano mixed with sumac, toasted sesame seeds and a little salt.",
+  "servings": 12,
+  "prep_min": 5,
+  "cook_min": 3,
+  "difficulty": "easy",
+  "equipment": [
+    "small dry frying pan",
+    "spice grinder or mortar and pestle",
+    "small bowl",
+    "airtight jar"
+  ],
+  "ingredients": [
+    {
+      "group": "Blend",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "dried thyme"
+    },
+    {
+      "group": "Blend",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "dried oregano"
+    },
+    {
+      "group": "Blend",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "ground sumac"
+    },
+    {
+      "group": "Blend",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "sesame seeds"
+    },
+    {
+      "group": "Blend",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast",
+      "text": "Toast the sesame seeds in the dry pan over medium heat 2-3 min, stirring, until golden, then cool."
+    },
+    {
+      "title": "Grind",
+      "text": "Grind the thyme and oregano to a fine powder."
+    },
+    {
+      "title": "Mix",
+      "text": "Stir the herbs with the sumac, sesame and salt, then store in the jar."
+    },
+    {
+      "title": "Use",
+      "text": "Mix 2 tbsp with 4 tbsp olive oil and spread over flatbread before baking, or sprinkle over eggs, salads and roast vegetables."
+    }
+  ],
+  "tips": [
+    "Watch the sesame closely; it burns quickly.",
+    "Leave the sesame whole for texture.",
+    "Bake oiled za'atar flatbread at 220 °C for 6-8 min."
+  ],
+  "storage": "Keep in an airtight jar away from light for up to 3 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 7,
+    "protein_g": 0.2,
+    "carbs_g": 1.0,
+    "sugar_g": 0.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.5,
+    "satfat_g": 0.1,
+    "salt_g": 0.12,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "za-atar-basic.jpg",
+  "image_alt": "A small bowl of za'atar with thyme sprigs beside a flatbread spread with za'atar and oil.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

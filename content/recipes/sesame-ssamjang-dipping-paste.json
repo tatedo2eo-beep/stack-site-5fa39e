@@ -1,0 +1,118 @@
+{
+  "slug": "sesame-ssamjang-dipping-paste",
+  "title": "Ssamjang Dipping Paste",
+  "category": "snacks-sides",
+  "cuisine": "Korean",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "ssamjang",
+  "dish_title": "Ssamjang",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Doenjang and gochujang stirred with garlic, spring onion, honey and sesame oil, finished with sesame seeds.",
+  "servings": 6,
+  "prep_min": 5,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "grater",
+    "small bowl",
+    "spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Paste",
+      "qty": 60,
+      "unit": "g",
+      "item": "doenjang (Korean soybean paste)"
+    },
+    {
+      "group": "Paste",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "gochujang (alcohol-free)"
+    },
+    {
+      "group": "Paste",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Paste",
+      "qty": 1,
+      "unit": "pc",
+      "item": "spring onion, finely chopped"
+    },
+    {
+      "group": "Paste",
+      "qty": 7,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Paste",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "toasted sesame seeds"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Stir the doenjang, gochujang, garlic, spring onion, honey and sesame oil together until evenly blended."
+    },
+    {
+      "title": "Taste",
+      "text": "Add a little more gochujang if you want more heat."
+    },
+    {
+      "title": "Finish",
+      "text": "Scatter the sesame seeds over the top."
+    },
+    {
+      "title": "Serve",
+      "text": "Dab onto grilled beef and wrap in crisp lettuce leaves."
+    }
+  ],
+  "tips": [
+    "Grate the garlic finely so there are no raw chunks.",
+    "Loosen with 1 tsp water if your doenjang is very stiff.",
+    "Also good with raw cucumber or carrot sticks."
+  ],
+  "storage": "Keep covered in the fridge for up to 1 week. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 45,
+    "protein_g": 1.5,
+    "carbs_g": 4.7,
+    "sugar_g": 2.0,
+    "free_sugar_g": 1.3,
+    "fat_g": 2.4,
+    "satfat_g": 0.4,
+    "salt_g": 1.04,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ssamjang-basic.jpg",
+  "image_alt": "A small bowl of ssamjang paste with sesame seeds beside lettuce leaves and grilled beef.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "classic-thousand-island-dressing",
+  "title": "Thousand Island Dressing",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "thousand-island-dressing",
+  "dish_title": "Thousand Island dressing",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Shop mayonnaise whisked with ketchup, sweet pickle relish, red onion, cider vinegar and paprika.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "bowl",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Dressing",
+      "qty": 200,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 50,
+      "unit": "g",
+      "item": "tomato ketchup"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "sweet pickle relish or finely chopped sweet gherkins"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "red onion, very finely chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Chop",
+      "text": "Chop the onion and pickles as finely as you can so they spread evenly."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk the mayonnaise, ketchup, relish, onion, vinegar, paprika and pepper until smooth and evenly pink."
+    },
+    {
+      "title": "Taste",
+      "text": "Add a few more drops of vinegar if you like it sharper."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon over iceberg lettuce wedges, or use in burgers and sandwiches."
+    }
+  ],
+  "tips": [
+    "Rinse the chopped onion in cold water for a milder taste.",
+    "Chill 30 min so the flavours blend.",
+    "Thin with 1 tsp water if you want a pourable dressing."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 178,
+    "protein_g": 0.4,
+    "carbs_g": 2.3,
+    "sugar_g": 1.6,
+    "free_sugar_g": 1.5,
+    "fat_g": 18.8,
+    "satfat_g": 2.9,
+    "salt_g": 0.62,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "thousand-island-dressing-basic.jpg",
+  "image_alt": "Pink thousand island dressing spooned over a crisp iceberg lettuce wedge.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

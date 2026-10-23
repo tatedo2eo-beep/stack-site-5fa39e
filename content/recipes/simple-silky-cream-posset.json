@@ -1,0 +1,101 @@
+{
+  "slug": "simple-silky-cream-posset",
+  "title": "Simple Silky Lemon Cream Posset",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "posset",
+  "dish_title": "Posset",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "The simplest posset: cream and sugar boiled together and set with fresh lemon juice into a silky, tangy cream.",
+  "servings": 6,
+  "prep_min": 5,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "silicone spatula",
+    "heatproof jug",
+    "6 small glasses or ramekins",
+    "cling film"
+  ],
+  "ingredients": [
+    {
+      "group": "Posset",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Posset",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Posset",
+      "qty": 90,
+      "unit": "ml",
+      "item": "freshly squeezed lemon juice (about 2 lemons)"
+    },
+    {
+      "group": "Posset",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Reduce",
+      "text": "bring the cream, sugar and salt to the boil in the pan, stirring, then boil steadily 6-8 min, stirring often, until reduced to about 480 ml. Lift off the heat if it rises. Reducing concentrates the cream so it sets firmly."
+    },
+    {
+      "title": "Sharpen",
+      "text": "off the heat, stir in the lemon juice; it will thicken a little at once. Acid makes the milk proteins thicken the cream."
+    },
+    {
+      "title": "Settle",
+      "text": "leave 15-20 min until a skin begins to form, then stir and pour into the jug."
+    },
+    {
+      "title": "Set",
+      "text": "divide between the glasses and chill uncovered for 3 h, until set like a soft cream. Cover after that. Leaving it uncovered stops drips from condensation."
+    },
+    {
+      "title": "Serve",
+      "text": "take out of the fridge 10 min before eating so it is silky, not stiff."
+    }
+  ],
+  "tips": [
+    "A common mistake is not boiling long enough, so the posset stays runny; boil it for the full time.",
+    "Use freshly squeezed lemon juice, not bottled.",
+    "Serve with crisp biscuits for crunch."
+  ],
+  "storage": "Cover once set and keep in the fridge for up to 2 days. Do not freeze.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 359,
+    "protein_g": 2.3,
+    "carbs_g": 25.0,
+    "sugar_g": 24.3,
+    "free_sugar_g": 22.0,
+    "fat_g": 28.9,
+    "satfat_g": 18.4,
+    "salt_g": 0.12,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "posset-advanced.jpg",
+  "image_alt": "A dark bowl of smooth, pale yellow lemon posset with a spoon beside it."
+}

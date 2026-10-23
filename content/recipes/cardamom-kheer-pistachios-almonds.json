@@ -1,0 +1,115 @@
+{
+  "slug": "cardamom-kheer-pistachios-almonds",
+  "title": "Cardamom Kheer with Pistachios and Almonds",
+  "category": "desserts",
+  "cuisine": "Indian",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "kheer",
+  "dish_title": "Kheer",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A creamy, slow-simmered basmati rice kheer scented with cardamom and topped with pistachios and almonds.",
+  "servings": 6,
+  "prep_min": 5,
+  "cook_min": 60,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy pot",
+    "wooden spoon",
+    "serving bowls",
+    "cling film"
+  ],
+  "ingredients": [
+    {
+      "group": "Kheer",
+      "qty": 1400,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Kheer",
+      "qty": 65,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Kheer",
+      "qty": 8,
+      "unit": "pc",
+      "item": "green cardamom pods, lightly crushed"
+    },
+    {
+      "group": "Kheer",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Kheer",
+      "qty": 45,
+      "unit": "g",
+      "item": "basmati rice, rinsed"
+    },
+    {
+      "group": "To serve",
+      "qty": 15,
+      "unit": "g",
+      "item": "shelled pistachios, chopped"
+    },
+    {
+      "group": "To serve",
+      "qty": 15,
+      "unit": "g",
+      "item": "flaked almonds, toasted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil the milk",
+      "text": "heat the milk, sugar, cardamom and salt in the pot over medium-high heat, stirring and scraping, until it just boils; watch that it does not foam over. A heavy pot spreads the heat and helps stop scorching."
+    },
+    {
+      "title": "Simmer the rice",
+      "text": "turn the heat to medium-low, add the rice and keep at a lively simmer 50-55 min. Stir and scrape the base and sides every 10 min at first, then more often as it thickens, until the rice is soft and it looks like loose porridge. Long simmering reduces the milk and makes it rich and creamy."
+    },
+    {
+      "title": "Cool",
+      "text": "take off the heat and leave 20 min; it thickens as it cools. Pick out the cardamom pods. Kheer thickens a lot as it cools."
+    },
+    {
+      "title": "Serve",
+      "text": "spoon into bowls warm, or chill 2 h, and scatter with the pistachios and almonds."
+    }
+  ],
+  "tips": [
+    "A common mistake is not scraping the base, so the milk burns; stir more often as it thickens.",
+    "Use a large pot, as the milk foams up when it boils.",
+    "Loosen chilled kheer with a little cold milk."
+  ],
+  "storage": "Cool quickly, cover and keep in the fridge for up to 2 days. Eat cold, or reheat gently with a splash of milk until piping hot (74 °C).",
+  "allergens": [
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 245,
+    "protein_g": 9.2,
+    "carbs_g": 29.8,
+    "sugar_g": 23.2,
+    "free_sugar_g": 10.8,
+    "fat_g": 10.3,
+    "satfat_g": 4.7,
+    "salt_g": 0.38,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "kheer-advanced.jpg",
+  "image_alt": "A bowl of creamy kheer rice pudding topped with chopped pistachios and flaked almonds."
+}

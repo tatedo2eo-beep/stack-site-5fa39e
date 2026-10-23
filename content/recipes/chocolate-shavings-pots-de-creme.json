@@ -1,0 +1,140 @@
+{
+  "slug": "chocolate-shavings-pots-de-creme",
+  "title": "Rich Chocolate Pots de Crème with Chocolate Shavings",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "pot-de-creme",
+  "dish_title": "Pot de crème",
+  "flavour": "Chocolate",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Deep, dense chocolate pots de crème made from a stirred custard poured over dark chocolate, finished with chocolate shavings.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 12,
+  "difficulty": "medium",
+  "equipment": [
+    "medium heatproof bowl",
+    "fine sieve",
+    "medium bowl",
+    "whisk",
+    "medium saucepan",
+    "wooden spoon",
+    "instant-read thermometer",
+    "8 x 120 ml ramekins",
+    "cling film",
+    "vegetable peeler"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 250,
+      "unit": "g",
+      "item": "dark chocolate (60-70% cocoa solids), finely chopped",
+      "note": "check the label for soya and milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 60,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 360,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 180,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "instant espresso powder",
+      "note": "dissolved in 1 tbsp hot water"
+    },
+    {
+      "group": "To serve",
+      "qty": 30,
+      "unit": "g",
+      "item": "dark chocolate, for shaving"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Set up",
+      "text": "put the chopped chocolate in the heatproof bowl and rest the sieve over it."
+    },
+    {
+      "title": "Custard",
+      "text": "whisk the yolks, sugar and salt, then whisk in the cream and milk. Cook in the pan over medium-low heat, stirring and scraping the base constantly, 8-12 min, until it thickens to a silky coat on the spoon and reads 80-82 °C. Never let it simmer. At 80-82 °C the yolks thicken the custard and are safely cooked."
+    },
+    {
+      "title": "Combine",
+      "text": "pour it at once through the sieve onto the chocolate, leave 5 min, then whisk gently until smooth with the vanilla and espresso. Resting first lets the chocolate melt without overmixing."
+    },
+    {
+      "title": "Chill",
+      "text": "divide between the ramekins, tap to level, cool 15 min, then cover and chill at least 4 h."
+    },
+    {
+      "title": "Finish",
+      "text": "rest at room temperature 20 min, then shave the extra chocolate over the tops with the peeler. A short rest at room temperature softens the texture and lifts the flavour."
+    }
+  ],
+  "tips": [
+    "A common mistake is letting the custard simmer, which scrambles the yolks; keep the heat low and stir all the time.",
+    "Use a thermometer; the custard thickens only slightly.",
+    "Shave chocolate from a block at room temperature for curls."
+  ],
+  "storage": "Cover and keep in the fridge for up to 3 days. Add the shavings just before serving.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 443,
+    "protein_g": 6.4,
+    "carbs_g": 26.6,
+    "sugar_g": 18.6,
+    "free_sugar_g": 16.0,
+    "fat_g": 34.7,
+    "satfat_g": 20.4,
+    "salt_g": 0.27,
+    "fibre_g": 3.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pot-de-creme-advanced--chocolate.jpg",
+  "image_alt": "A dark bowl of rich chocolate pot de crème topped with fine chocolate shavings on slate."
+}

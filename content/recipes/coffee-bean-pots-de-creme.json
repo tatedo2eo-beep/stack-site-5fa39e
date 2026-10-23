@@ -1,0 +1,136 @@
+{
+  "slug": "coffee-bean-pots-de-creme",
+  "title": "Coffee Bean Pots de Crème",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "pot-de-creme",
+  "dish_title": "Pot de crème",
+  "flavour": "Coffee",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "Smooth baked custards with a deep coffee caramel flavour from cracked coffee beans, finished with whole beans.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 60,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor or rolling pin and bag",
+    "medium saucepan",
+    "wooden spoon",
+    "cling film",
+    "large bowl",
+    "whisk",
+    "fine sieve",
+    "jug",
+    "6 x 120 ml ramekins or espresso cups",
+    "roasting tin",
+    "kettle",
+    "foil",
+    "wire rack",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Coffee cream",
+      "qty": 60,
+      "unit": "g",
+      "item": "espresso-roast coffee beans, plus 12 to decorate"
+    },
+    {
+      "group": "Coffee cream",
+      "qty": 3,
+      "unit": "pc",
+      "item": "green cardamom pods, lightly crushed (optional)"
+    },
+    {
+      "group": "Coffee cream",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Coffee cream",
+      "qty": 400,
+      "unit": "ml",
+      "item": "double (heavy) cream",
+      "note": "plus a little extra to top up"
+    },
+    {
+      "group": "Coffee cream",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crack the beans",
+      "text": "pulse the beans and cardamom a few times so they are roughly cracked, not ground. Cracked beans give flavour without making the cream gritty."
+    },
+    {
+      "title": "Caramel",
+      "text": "stir the beans, cardamom and 100 g sugar in the pan over medium heat until the sugar melts and turns deep amber. Standing back, pour in 240 ml of the cream and the milk; it will spit and seize. Stir over the heat until smooth, bring to the boil, then cover off the heat and steep 20 min. Caramelising the sugar adds a toasty depth to the coffee."
+    },
+    {
+      "title": "Custard",
+      "text": "heat the oven to 150 °C (130 °C fan). Whisk the yolks, 50 g sugar and salt until pale. Strain the coffee cream into the jug, pressing the beans, and add cream to make 480 ml. Whisk it slowly into the yolks without making froth."
+    },
+    {
+      "title": "Bake",
+      "text": "fill the ramekins in the tin, pour in hot water halfway up, cover with foil and bake about 40 min, until set with a slight wobble in the centre and 80 °C inside. Foil keeps a skin from forming and the heat gentle."
+    },
+    {
+      "title": "Rest and chill",
+      "text": "leave in the water 10 min, then cool and chill at least 3 h. Serve near room temperature with 2 coffee beans on each."
+    }
+  ],
+  "tips": [
+    "A common mistake is whisking hard, which makes bubbles on the custards; stir gently and skim any foam.",
+    "Leave out the cardamom for a pure coffee flavour.",
+    "The coffee beans on top are for decoration; most people set them aside."
+  ],
+  "storage": "Cover and keep in the fridge for up to 2 days. Serve close to room temperature.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 405,
+    "protein_g": 5.9,
+    "carbs_g": 30.0,
+    "sugar_g": 29.1,
+    "free_sugar_g": 24.9,
+    "fat_g": 29.8,
+    "satfat_g": 17.7,
+    "salt_g": 0.17,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "pot-de-creme-advanced--coffee.jpg",
+  "image_alt": "A coffee pot de crème in a dark bowl, topped with three roasted coffee beans."
+}

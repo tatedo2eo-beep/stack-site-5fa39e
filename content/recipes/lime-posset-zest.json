@@ -1,0 +1,121 @@
+{
+  "slug": "lime-posset-zest",
+  "title": "Fresh Lime Posset",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "posset",
+  "dish_title": "Posset",
+  "flavour": "Lime",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "A fresh, sharp lime posset with a soft creamy set, finished with green lime zest.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "zester",
+    "medium saucepan",
+    "silicone spatula",
+    "fine sieve",
+    "heatproof jug",
+    "6 small bowls or glasses",
+    "cling film"
+  ],
+  "ingredients": [
+    {
+      "group": "Posset",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Posset",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Posset",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated lime zest"
+    },
+    {
+      "group": "Posset",
+      "qty": 90,
+      "unit": "ml",
+      "item": "freshly squeezed lime juice (about 3 limes)"
+    },
+    {
+      "group": "Posset",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lime zest, to decorate"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lime, cut into 6 wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Boil",
+      "text": "put the cream, sugar, 1 tbsp zest and salt in the pan, bring to the boil and keep at a steady boil, stirring often, 6-8 min, until reduced to about 480 ml. Reduced cream sets firmer when the juice goes in."
+    },
+    {
+      "title": "Lime juice",
+      "text": "take off the heat and stir in the lime juice."
+    },
+    {
+      "title": "Rest and strain",
+      "text": "leave 20 min until a skin starts to form, then pass through the sieve into the jug. Straining removes the zest for a smooth texture."
+    },
+    {
+      "title": "Chill",
+      "text": "pour into the bowls and refrigerate at least 3 h, until softly set."
+    },
+    {
+      "title": "Serve",
+      "text": "scatter with the fresh zest and add a lime wedge; let stand 10 min before serving. A short rest softens the set."
+    }
+  ],
+  "tips": [
+    "A common mistake is boiling it over; use a large pan and lift it off the heat if the cream rises.",
+    "Roll the limes on the worktop before juicing to get more juice.",
+    "Grate the decorating zest at the last moment so it stays bright green."
+  ],
+  "storage": "Cover once set and keep in the fridge for up to 2 days.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 362,
+    "protein_g": 2.4,
+    "carbs_g": 25.9,
+    "sugar_g": 24.3,
+    "free_sugar_g": 21.9,
+    "fat_g": 28.9,
+    "satfat_g": 18.4,
+    "salt_g": 0.12,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "posset-advanced--lime.jpg",
+  "image_alt": "A pale lime posset sprinkled with green lime zest, with a lime wedge beside the bowl."
+}

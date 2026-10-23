@@ -1,0 +1,116 @@
+{
+  "slug": "lemon-zest-posset",
+  "title": "Zesty Lemon Posset",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "posset",
+  "dish_title": "Posset",
+  "flavour": "Lemon",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A bright, zesty lemon posset with the zest steeped in the cream, topped with fresh lemon strips.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 8,
+  "difficulty": "easy",
+  "equipment": [
+    "zester",
+    "medium saucepan",
+    "silicone spatula",
+    "fine sieve",
+    "heatproof jug",
+    "6 small bowls or glasses",
+    "cling film"
+  ],
+  "ingredients": [
+    {
+      "group": "Posset",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Posset",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Posset",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated lemon zest",
+      "note": "plus extra strips to decorate"
+    },
+    {
+      "group": "Posset",
+      "qty": 100,
+      "unit": "ml",
+      "item": "freshly squeezed lemon juice (about 3 lemons)"
+    },
+    {
+      "group": "Posset",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into thin slices"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse and reduce",
+      "text": "combine the cream, sugar, grated zest and salt in the pan, bring to the boil and boil 3-5 min, stirring, until slightly reduced. Zest gives off its fragrant oils in the hot cream."
+    },
+    {
+      "title": "Add the juice",
+      "text": "off the heat, whisk in the lemon juice."
+    },
+    {
+      "title": "Strain",
+      "text": "wait 15 min, then strain into the jug to remove the zest for a smooth set. Removing the zest leaves a perfectly smooth set."
+    },
+    {
+      "title": "Set",
+      "text": "pour into the bowls and chill at least 3 h, uncovered at first."
+    },
+    {
+      "title": "Decorate",
+      "text": "top each with a few fine strips of lemon zest and serve with a lemon slice on the side. Fresh zest on top adds a fresh lemon scent."
+    }
+  ],
+  "tips": [
+    "A common mistake is grating the white pith with the zest; it makes the posset bitter.",
+    "Zest the lemons before you juice them.",
+    "Chill overnight for the firmest set."
+  ],
+  "storage": "Cover once set and keep in the fridge for up to 2 days. Add the zest strips just before serving.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 363,
+    "protein_g": 2.5,
+    "carbs_g": 26.2,
+    "sugar_g": 24.7,
+    "free_sugar_g": 22.0,
+    "fat_g": 28.9,
+    "satfat_g": 18.4,
+    "salt_g": 0.12,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "posset-advanced--lemon.jpg",
+  "image_alt": "A bowl of lemon posset topped with fine strips of lemon zest, with a lemon slice alongside."
+}

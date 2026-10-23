@@ -1,0 +1,129 @@
+{
+  "slug": "orange-posset-fresh-orange",
+  "title": "Orange Posset",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "posset",
+  "dish_title": "Posset",
+  "flavour": "Orange",
+  "flavour_order": 3,
+  "access": "premium",
+  "summary": "A soft, creamy orange posset sharpened with a little lemon, topped with orange zest and served with fresh orange.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "zester",
+    "medium saucepan",
+    "silicone spatula",
+    "small bowl",
+    "fine sieve",
+    "heatproof jug",
+    "6 small bowls or glasses",
+    "cling film"
+  ],
+  "ingredients": [
+    {
+      "group": "Posset",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Posset",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Posset",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated orange zest"
+    },
+    {
+      "group": "Posset",
+      "qty": 60,
+      "unit": "ml",
+      "item": "freshly squeezed orange juice"
+    },
+    {
+      "group": "Posset",
+      "qty": 45,
+      "unit": "ml",
+      "item": "freshly squeezed lemon juice",
+      "note": "needed for the set; orange alone is not sharp enough"
+    },
+    {
+      "group": "Posset",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fine strips of orange zest"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small orange, cut into segments"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix the juices",
+      "text": "stir the orange and lemon juice together in the small bowl. Lemon juice gives the acid that orange juice lacks, so the posset sets."
+    },
+    {
+      "title": "Reduce",
+      "text": "bring the cream, sugar, grated zest and salt to the boil and boil 6-8 min, stirring, until reduced to about 480 ml. Reduced cream gives a firmer set."
+    },
+    {
+      "title": "Add juices",
+      "text": "off the heat, stir in the mixed juices."
+    },
+    {
+      "title": "Strain and set",
+      "text": "rest 20 min, strain into the jug, pour into the bowls and chill at least 3 h."
+    },
+    {
+      "title": "Serve",
+      "text": "rest 10 min at room temperature, top with zest strips and serve with orange segments. Fresh segments add juicy contrast."
+    }
+  ],
+  "tips": [
+    "A common mistake is leaving out the lemon juice; with orange alone the posset will not set.",
+    "Use a sweet, fragrant orange for the best flavour.",
+    "Remove all the white pith from the segments."
+  ],
+  "storage": "Cover once set and keep in the fridge for up to 2 days. Cut the orange segments just before serving.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 373,
+    "protein_g": 2.6,
+    "carbs_g": 28.2,
+    "sugar_g": 26.9,
+    "free_sugar_g": 22.7,
+    "fat_g": 28.9,
+    "satfat_g": 18.4,
+    "salt_g": 0.12,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "posset-advanced--orange.jpg",
+  "image_alt": "A soft orange posset topped with orange zest strips, with orange segments beside it."
+}

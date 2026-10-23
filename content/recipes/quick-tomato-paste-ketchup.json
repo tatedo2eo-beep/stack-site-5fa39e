@@ -1,0 +1,134 @@
+{
+  "slug": "quick-tomato-paste-ketchup",
+  "title": "Quick Homemade Tomato Ketchup",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "ketchup",
+  "dish_title": "Ketchup",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Tomato purée, vinegar, sugar and gentle spices simmered until thick, then sieved smooth.",
+  "servings": 16,
+  "prep_min": 5,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "whisk",
+    "spatula",
+    "fine sieve",
+    "bowl",
+    "clean jar"
+  ],
+  "ingredients": [
+    {
+      "group": "Ketchup",
+      "qty": 170,
+      "unit": "g",
+      "item": "tomato purée (double-concentrated paste)"
+    },
+    {
+      "group": "Ketchup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "white vinegar"
+    },
+    {
+      "group": "Ketchup",
+      "qty": 65,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Ketchup",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Ketchup",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Spices",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "mustard powder"
+    },
+    {
+      "group": "Spices",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "onion powder"
+    },
+    {
+      "group": "Spices",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Spices",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "ground allspice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk",
+      "text": "Whisk all the ingredients together in the saucepan until no lumps of purée remain."
+    },
+    {
+      "title": "Reduce",
+      "text": "Bring to a gentle simmer over medium-low heat and cook about 10 min, stirring and scraping the base, until thick and reduced to roughly 250 ml."
+    },
+    {
+      "title": "Sieve",
+      "text": "Press the ketchup through a fine sieve into a bowl for a silky texture."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool completely, then spoon into a clean jar."
+    }
+  ],
+  "tips": [
+    "Stir often near the end; thick ketchup catches easily.",
+    "It thickens more as it cools.",
+    "For a spicy version, add a pinch of cayenne."
+  ],
+  "storage": "Keep in a clean, covered jar in the fridge for up to 2 weeks. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 26,
+    "protein_g": 0.5,
+    "carbs_g": 6.1,
+    "sugar_g": 5.4,
+    "free_sugar_g": 4.1,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.29,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ketchup-basic.jpg",
+  "image_alt": "A jar and small bowl of glossy homemade tomato ketchup beside a fresh tomato.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

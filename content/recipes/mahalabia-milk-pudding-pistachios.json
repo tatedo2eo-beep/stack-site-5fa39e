@@ -1,0 +1,111 @@
+{
+  "slug": "mahalabia-milk-pudding-pistachios",
+  "title": "Mahalabia Milk Pudding with Pistachios",
+  "category": "desserts",
+  "cuisine": "Middle Eastern",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "mahalabia",
+  "dish_title": "Mahalabia",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A smooth, delicately scented milk pudding set in moulds, turned out and topped with chopped pistachios.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "medium heavy saucepan",
+    "small bowl",
+    "whisk",
+    "wooden spoon",
+    "6 x 150 ml moulds or cups, rinsed with cold water",
+    "cling film",
+    "serving plates"
+  ],
+  "ingredients": [
+    {
+      "group": "Pudding",
+      "qty": 750,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Pudding",
+      "qty": 120,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Pudding",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground mastic (optional)",
+      "note": "crush with a pinch of the sugar"
+    },
+    {
+      "group": "Pudding",
+      "qty": 80,
+      "unit": "g",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "To serve",
+      "qty": 20,
+      "unit": "g",
+      "item": "shelled pistachios, finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "warm two-thirds of the milk with the sugar and mastic over medium heat, stirring until the sugar dissolves."
+    },
+    {
+      "title": "Slurry",
+      "text": "whisk the cornflour into the remaining cold milk until no lumps remain. Cold milk stops the cornflour forming lumps."
+    },
+    {
+      "title": "Thicken",
+      "text": "pour the slurry slowly into the pan, stirring constantly with the spoon and scraping the base, and cook 6-8 min until it boils and turns thick and glossy. The cornflour needs to boil to thicken fully."
+    },
+    {
+      "title": "Mould",
+      "text": "pour at once into the wet moulds, cool 1 h, then cover and chill at least 3 h until firm. Wet moulds help the pudding slip out."
+    },
+    {
+      "title": "Turn out",
+      "text": "loosen the edges with a knife, invert onto plates and top with a mound of chopped pistachios."
+    }
+  ],
+  "tips": [
+    "A common mistake is stopping before it boils; the pudding will not set firmly enough to turn out.",
+    "Mastic gives a gentle pine flavour; leave it out if you cannot find it.",
+    "For a softer pudding, set it in glasses and do not turn it out.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Cover and keep in the fridge for up to 3 days. Add the pistachios just before serving.",
+  "allergens": [
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 226,
+    "protein_g": 4.8,
+    "carbs_g": 39.4,
+    "sugar_g": 26.7,
+    "free_sugar_g": 20.0,
+    "fat_g": 5.7,
+    "satfat_g": 2.6,
+    "salt_g": 0.14,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "mahalabia-advanced.jpg",
+  "image_alt": "A turned-out white mahalabia milk pudding topped with a mound of chopped pistachios."
+}

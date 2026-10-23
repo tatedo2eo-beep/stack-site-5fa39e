@@ -1,0 +1,93 @@
+{
+  "slug": "parsley-lemon-garlic-gremolata",
+  "title": "Parsley, Lemon and Garlic Gremolata",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "gremolata",
+  "dish_title": "Gremolata",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Very finely chopped parsley, garlic and lemon zest tossed together.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "sharp knife",
+    "fine grater",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Gremolata",
+      "qty": 15,
+      "unit": "g",
+      "item": "flat-leaf parsley leaves, very finely chopped"
+    },
+    {
+      "group": "Gremolata",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, very finely chopped"
+    },
+    {
+      "group": "Gremolata",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Chop",
+      "text": "Chop the parsley very finely with a dry, sharp knife."
+    },
+    {
+      "title": "Zest",
+      "text": "Grate only the yellow layer of the lemon; the white pith is bitter."
+    },
+    {
+      "title": "Mix",
+      "text": "Toss the parsley, garlic and zest together in the bowl."
+    },
+    {
+      "title": "Serve",
+      "text": "Scatter straight away over braised beef shank, stews, roast fish or vegetables."
+    }
+  ],
+  "tips": [
+    "Dry the parsley well so the mix stays fluffy.",
+    "Make it just before serving for the best colour and aroma.",
+    "Add a little orange zest for a softer citrus flavour."
+  ],
+  "storage": "Best fresh; keep covered in the fridge for up to 1 day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 3,
+    "protein_g": 0.1,
+    "carbs_g": 0.6,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 0.0,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gremolata-basic.jpg",
+  "image_alt": "A bowl of bright green gremolata beside braised beef shank topped with it and a lemon.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}
