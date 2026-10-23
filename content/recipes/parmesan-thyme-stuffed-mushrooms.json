@@ -1,0 +1,167 @@
+{
+  "slug": "parmesan-thyme-stuffed-mushrooms",
+  "title": "Parmesan and Thyme Stuffed Mushrooms",
+  "category": "snacks-sides",
+  "cuisine": "Italian-American",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "stuffed-mushrooms",
+  "dish_title": "Stuffed mushrooms",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Mushroom caps are roasted until browned, then filled with a garlic, shallot, Parmesan, thyme and breadcrumb stuffing and baked briefly until crisp on top.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "oven",
+    "large rimmed baking tray lined with foil",
+    "food processor",
+    "small frying pan",
+    "mixing bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Caps",
+      "qty": 24,
+      "unit": "pc",
+      "item": "large white mushrooms (4-5 cm across, about 700 g)",
+      "note": "stems removed and kept"
+    },
+    {
+      "group": "Caps",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Caps",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Caps",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Stuffing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "shallot, roughly chopped",
+      "note": "about 30 g"
+    },
+    {
+      "group": "Stuffing",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Stuffing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Stuffing",
+      "qty": 30,
+      "unit": "g",
+      "item": "fine dry breadcrumbs"
+    },
+    {
+      "group": "Stuffing",
+      "qty": 40,
+      "unit": "g",
+      "item": "Parmesan, finely grated",
+      "note": "choose one made with microbial rennet"
+    },
+    {
+      "group": "Stuffing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fresh thyme leaves, chopped"
+    },
+    {
+      "group": "Stuffing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Stuffing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, chopped, plus leaves to garnish"
+    },
+    {
+      "group": "Stuffing",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast the caps",
+      "text": "Roast the oiled, seasoned caps gill side up for 20 minutes, flip and roast 10 minutes more."
+    },
+    {
+      "title": "Chop the stems",
+      "text": "Pulse the stems, shallot and garlic until fine."
+    },
+    {
+      "title": "Cook the stuffing",
+      "text": "Fry the stem mixture in oil for about 5 minutes until dry and golden, then cool."
+    },
+    {
+      "title": "Season",
+      "text": "Mix in the breadcrumbs, Parmesan, thyme, lemon juice, parsley and salt."
+    },
+    {
+      "title": "Fill and bake",
+      "text": "Stuff the caps and bake 6-8 minutes until golden on top."
+    },
+    {
+      "title": "Serve",
+      "text": "Garnish with parsley and serve warm."
+    }
+  ],
+  "tips": [
+    "Roasting the caps first drives off water so they are not soggy.",
+    "Cook the stems until really dry for a firm stuffing.",
+    "Stuff a day ahead and add a few minutes to the final bake."
+  ],
+  "storage": "Refrigerate within 2 hours and eat within 2 days, reheated in a hot oven until piping hot.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 158,
+    "protein_g": 6.9,
+    "carbs_g": 9.2,
+    "sugar_g": 3.1,
+    "free_sugar_g": 0.4,
+    "fat_g": 11.4,
+    "satfat_g": 2.5,
+    "salt_g": 0.86,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "stuffed-mushrooms-basic.jpg",
+  "image_alt": "Golden stuffed mushrooms on a dark plate, each topped with a small parsley leaf.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "cheesy-gruyere-gougeres",
+  "title": "Cheesy Gruyère Gougères",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "gougeres",
+  "dish_title": "Gougères",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A choux paste of water, butter and flour is cooked, beaten with eggs and Gruyère, piped into small mounds, topped with Parmesan and baked at two temperatures before drying in the oven.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "oven",
+    "2 baking trays lined with baking paper",
+    "medium saucepan",
+    "wooden spoon",
+    "electric mixer or large bowl",
+    "piping bag or 2 teaspoons",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Choux",
+      "qty": 250,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Choux",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, cubed"
+    },
+    {
+      "group": "Choux",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Choux",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Choux",
+      "qty": 140,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Choux",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs, at room temperature, beaten"
+    },
+    {
+      "group": "Cheese",
+      "qty": 140,
+      "unit": "g",
+      "item": "Gruyère, coarsely grated",
+      "note": "choose one made with microbial rennet"
+    },
+    {
+      "group": "Cheese",
+      "qty": 30,
+      "unit": "g",
+      "item": "Parmesan, finely grated",
+      "note": "microbial rennet"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat the oven",
+      "text": "Heat the oven to 220 °C (200 °C fan) and line two trays."
+    },
+    {
+      "title": "Cook the paste",
+      "text": "Boil the water, butter, salt and cayenne, add the flour and stir 1-2 minutes until it forms a ball."
+    },
+    {
+      "title": "Beat in the eggs",
+      "text": "Cool briefly, then beat in the eggs gradually until glossy, and add the Gruyère."
+    },
+    {
+      "title": "Pipe",
+      "text": "Pipe about 32 small mounds and top with Parmesan."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 15 minutes, lower to 180 °C for 15-20 minutes, then leave in the switched-off oven 10 minutes."
+    },
+    {
+      "title": "Serve",
+      "text": "Cool 5 minutes and serve warm."
+    }
+  ],
+  "tips": [
+    "Do not open the oven early or the puffs collapse.",
+    "Stop adding egg once the paste falls from the spoon in a thick V.",
+    "Bake from frozen for a ready-made party snack."
+  ],
+  "storage": "Best warm on the day. Freeze cooled puffs for up to 1 month and reheat at 180 °C for 5-8 minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 289,
+    "protein_g": 11.9,
+    "carbs_g": 13.1,
+    "sugar_g": 0.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 21.0,
+    "satfat_g": 12.1,
+    "salt_g": 0.92,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gougeres-basic.jpg",
+  "image_alt": "A plate of golden Gruyère gougères, one torn open to show the hollow centre.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "classic-italian-affogato-vanilla-espresso",
+  "title": "Classic Italian Affogato: Vanilla Ice Cream Drowned in Espresso",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "affogato",
+  "dish_title": "Affogato",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Very cold vanilla ice cream is scooped into frozen bowls and drowned in freshly brewed hot espresso, then eaten at once.",
+  "servings": 2,
+  "prep_min": 5,
+  "cook_min": 2,
+  "difficulty": "easy",
+  "equipment": [
+    "2 small bowls or glasses",
+    "ice-cream scoop",
+    "espresso machine or moka pot"
+  ],
+  "ingredients": [
+    {
+      "group": "Affogato",
+      "qty": 240,
+      "unit": "g",
+      "item": "very cold vanilla ice cream or gelato",
+      "note": "2 generous scoops per bowl"
+    },
+    {
+      "group": "Affogato",
+      "qty": 120,
+      "unit": "ml",
+      "item": "freshly brewed hot espresso (2 double shots) or strong moka-pot coffee"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Freeze the bowls",
+      "text": "Chill the bowls in the freezer for at least 15 minutes."
+    },
+    {
+      "title": "Brew",
+      "text": "Make the espresso before you scoop."
+    },
+    {
+      "title": "Scoop",
+      "text": "Place 2 firm scoops of ice cream in each bowl."
+    },
+    {
+      "title": "Pour",
+      "text": "Pour the hot espresso over the ice cream in a thin stream."
+    },
+    {
+      "title": "Eat",
+      "text": "Serve immediately with a spoon."
+    }
+  ],
+  "tips": [
+    "Freezer-cold ice cream and frozen bowls stop it melting into soup.",
+    "Use freshly brewed coffee; reheated coffee tastes flat.",
+    "A good dense gelato gives the best contrast."
+  ],
+  "storage": "Assemble only when ready to eat; it cannot be made ahead.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 254,
+    "protein_g": 4.3,
+    "carbs_g": 29.3,
+    "sugar_g": 25.5,
+    "free_sugar_g": 25.5,
+    "fat_g": 13.3,
+    "satfat_g": 8.2,
+    "salt_g": 0.26,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "affogato-basic.jpg",
+  "image_alt": "A dark bowl with a scoop of vanilla ice cream drowned in espresso.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "shaken-iced-coffee-frappe-milk",
+  "title": "Shaken Iced Coffee Frappé with Milk",
+  "category": "drinks",
+  "cuisine": "Greek",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "frappe-coffee",
+  "dish_title": "Frappé coffee",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Instant coffee, sugar and cold water are shaken hard into a dense foam, shaken again with ice, and finished with cold milk poured down the side of the glass.",
+  "servings": 1,
+  "prep_min": 5,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "cocktail shaker or jam jar with a tight lid (or a milk frother)",
+    "tall glass",
+    "straw"
+  ],
+  "ingredients": [
+    {
+      "group": "Foam",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "instant coffee granules"
+    },
+    {
+      "group": "Foam",
+      "qty": 8,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 2 tsp; 0-4 tsp to taste"
+    },
+    {
+      "group": "Foam",
+      "qty": 60,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "To serve",
+      "qty": 150,
+      "unit": "g",
+      "item": "ice cubes"
+    },
+    {
+      "group": "To serve",
+      "qty": 80,
+      "unit": "ml",
+      "item": "cold whole milk or evaporated milk"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Shake the foam",
+      "text": "Shake the coffee, sugar and water hard in a closed shaker for 30-60 seconds until thick and foamy."
+    },
+    {
+      "title": "Add ice",
+      "text": "Add the ice and shake 1 minute more until very cold."
+    },
+    {
+      "title": "Pour",
+      "text": "Tip everything into a tall glass, spooning the last of the foam on top."
+    },
+    {
+      "title": "Add the milk",
+      "text": "Pour the milk slowly down the tilted glass so the foam floats."
+    },
+    {
+      "title": "Serve",
+      "text": "Add a straw and drink at once."
+    }
+  ],
+  "tips": [
+    "Only instant coffee makes this stable foam; brewed coffee will not.",
+    "Decide on the sugar before shaking: it helps the foam set.",
+    "Evaporated milk gives a richer, creamier result."
+  ],
+  "storage": "Make and drink fresh; the foam collapses on standing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 88,
+    "protein_g": 2.8,
+    "carbs_g": 13.4,
+    "sugar_g": 12.1,
+    "free_sugar_g": 8.0,
+    "fat_g": 2.7,
+    "satfat_g": 1.5,
+    "salt_g": 0.09,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "frappe-coffee-basic.jpg",
+  "image_alt": "A tall glass of iced coffee frappé with a thick layer of pale foam on top and a straw.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

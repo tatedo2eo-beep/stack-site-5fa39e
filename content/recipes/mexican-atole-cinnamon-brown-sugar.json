@@ -1,0 +1,124 @@
+{
+  "slug": "mexican-atole-cinnamon-brown-sugar",
+  "title": "Mexican Atole with Cinnamon and Brown Sugar",
+  "category": "drinks",
+  "cuisine": "Mexican",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "atole",
+  "dish_title": "Atole",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Water, piloncillo and a cinnamon stick are boiled together, then a smooth milk and masa harina slurry is whisked in and simmered for about 5 minutes until creamy.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "whisk",
+    "jug",
+    "ladle",
+    "4 mugs"
+  ],
+  "ingredients": [
+    {
+      "group": "Spiced syrup",
+      "qty": 500,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Spiced syrup",
+      "qty": 85,
+      "unit": "g",
+      "item": "piloncillo, chopped, or dark brown sugar"
+    },
+    {
+      "group": "Spiced syrup",
+      "qty": 1,
+      "unit": "pc",
+      "item": "cinnamon stick (about 10 cm), preferably Ceylon",
+      "note": "removed before serving"
+    },
+    {
+      "group": "Spiced syrup",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Masa",
+      "qty": 500,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Masa",
+      "qty": 60,
+      "unit": "g",
+      "item": "masa harina (nixtamalised dried corn masa)"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "ground cinnamon, to dust"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse",
+      "text": "Boil the water, piloncillo, cinnamon stick and salt until the sugar has dissolved."
+    },
+    {
+      "title": "Make the slurry",
+      "text": "Whisk the milk and masa harina until there are no lumps."
+    },
+    {
+      "title": "Thicken",
+      "text": "Over medium heat, pour in the slurry slowly, whisking constantly, and simmer 5 minutes until it coats a spoon."
+    },
+    {
+      "title": "Adjust",
+      "text": "Remove the cinnamon stick and thin with a splash of hot water or milk if needed."
+    },
+    {
+      "title": "Serve",
+      "text": "Ladle into mugs and dust with ground cinnamon."
+    }
+  ],
+  "tips": [
+    "Whisk the whole time or the masa sinks and catches.",
+    "It thickens as it stands; whisk in a little hot milk to loosen.",
+    "Grated piloncillo dissolves faster than a whole cone."
+  ],
+  "storage": "Refrigerate covered for up to 2 days. Reheat gently, whisking in a little milk. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 214,
+    "protein_g": 5.4,
+    "carbs_g": 38.6,
+    "sugar_g": 27.1,
+    "free_sugar_g": 20.6,
+    "fat_g": 4.7,
+    "satfat_g": 2.5,
+    "salt_g": 0.25,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "atole-basic.jpg",
+  "image_alt": "A steaming dark mug of creamy atole with a cinnamon stick resting in it.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "extra-crunchy-buttermilk-onion-rings-horseradish-dip",
+  "title": "Extra-Crunchy Buttermilk Onion Rings with Horseradish Dip",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "onion-ring",
+  "dish_title": "Onion ring",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thick onion rings are dipped twice in buttermilk and shaken in seasoned flour, cornflour and baking powder for a shaggy coating, fried at 190 °C and served with a horseradish mayonnaise.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "2 large mixing bowls",
+    "large paper bag or lidded box",
+    "sharp knife",
+    "2 rimmed baking trays",
+    "large Dutch oven or deep heavy pan",
+    "cooking thermometer",
+    "spider or slotted spoon",
+    "wire rack",
+    "oven (for keeping warm)"
+  ],
+  "ingredients": [
+    {
+      "group": "Dip",
+      "qty": 120,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dip",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "prepared horseradish"
+    },
+    {
+      "group": "Dip",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dip",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Coating",
+      "qty": 500,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Coating",
+      "qty": 250,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Coating",
+      "qty": 60,
+      "unit": "g",
+      "item": "cornflour"
+    },
+    {
+      "group": "Coating",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Coating",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Coating",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Coating",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Coating",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Rings",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large onions (about 450 g each), peeled"
+    },
+    {
+      "group": "To fry",
+      "qty": 2500,
+      "unit": "ml",
+      "item": "neutral oil, for deep frying"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dip",
+      "text": "Mix the mayonnaise, horseradish, lemon juice and cayenne and chill."
+    },
+    {
+      "title": "Set up",
+      "text": "Warm the oven to 100 °C, pour the buttermilk into a bowl and put the seasoned flour mixture in a bag."
+    },
+    {
+      "title": "Cut",
+      "text": "Slice the onions 1 cm thick and keep the rings wider than 5 cm."
+    },
+    {
+      "title": "Coat twice",
+      "text": "Dip the rings in buttermilk and shake in the flour bag, then repeat for a thick crust."
+    },
+    {
+      "title": "Fry",
+      "text": "Fry in three batches at 190 °C for 3-4 minutes until deep golden."
+    },
+    {
+      "title": "Serve",
+      "text": "Drain, keep warm in the oven and serve hot with the dip."
+    }
+  ],
+  "tips": [
+    "The double coat is what gives the extra crunch.",
+    "Fry in small batches so the oil stays hot.",
+    "Separate rings that stick before they go into the oil.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best fried and eaten the same day. Cool leftovers, refrigerate within 2 hours and eat within 2 days, re-crisped in a 200 °C oven for 6-8 minutes until piping hot.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 433,
+    "protein_g": 5.1,
+    "carbs_g": 38.8,
+    "sugar_g": 6.6,
+    "free_sugar_g": 0.1,
+    "fat_g": 29.0,
+    "satfat_g": 3.6,
+    "salt_g": 1.62,
+    "fibre_g": 3.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "onion-ring-basic.jpg",
+  "image_alt": "A tall stack of crunchy golden onion rings with a small bowl of creamy dip.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "layered-espresso-tonic-orange",
+  "title": "Layered Espresso Tonic with Orange",
+  "category": "drinks",
+  "cuisine": "International",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "tonics",
+  "dish_title": "Tonics",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chilled tonic water is poured over ice, a double espresso is floated slowly on top to make a dark layer, and an orange peel twist adds fragrance.",
+  "servings": 1,
+  "prep_min": 5,
+  "cook_min": 2,
+  "difficulty": "easy",
+  "equipment": [
+    "espresso machine or moka pot",
+    "tall glass",
+    "small jug"
+  ],
+  "ingredients": [
+    {
+      "group": "Drink",
+      "qty": 150,
+      "unit": "g",
+      "item": "ice cubes"
+    },
+    {
+      "group": "Drink",
+      "qty": 150,
+      "unit": "ml",
+      "item": "tonic water, well chilled"
+    },
+    {
+      "group": "Drink",
+      "qty": 60,
+      "unit": "ml",
+      "item": "freshly brewed espresso (a double shot) or strong moka-pot coffee"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "strip of orange peel"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Fill the glass",
+      "text": "Fill a tall glass with ice and pour in the cold tonic."
+    },
+    {
+      "title": "Brew",
+      "text": "Pull a double espresso into a small jug."
+    },
+    {
+      "title": "Layer",
+      "text": "Pour the espresso very slowly over the back of a spoon so it floats; it will foam up."
+    },
+    {
+      "title": "Garnish",
+      "text": "Twist the orange peel over the glass and drop it in."
+    },
+    {
+      "title": "Serve",
+      "text": "Drink right away, stirred or layered."
+    }
+  ],
+  "tips": [
+    "Very cold tonic keeps more fizz and makes a cleaner layer.",
+    "Pour slowly: hot coffee hitting tonic foams vigorously.",
+    "Cold brew concentrate works instead of espresso."
+  ],
+  "storage": "Make to order; it goes flat within minutes. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 58,
+    "protein_g": 0.1,
+    "carbs_g": 14.6,
+    "sugar_g": 13.6,
+    "free_sugar_g": 13.6,
+    "fat_g": 0.1,
+    "satfat_g": 0.1,
+    "salt_g": 0.07,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tonics-basic.jpg",
+  "image_alt": "A tall glass of tonic and ice with a dark layer of espresso on top and a twist of orange peel.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}
