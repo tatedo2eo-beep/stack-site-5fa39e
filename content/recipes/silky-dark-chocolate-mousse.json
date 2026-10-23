@@ -1,0 +1,145 @@
+{
+  "slug": "silky-dark-chocolate-mousse",
+  "title": "Silky Dark Chocolate Mousse",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "chocolate-mousse",
+  "dish_title": "Chocolate mousse",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A deep, airy dark chocolate mousse made the classic way with whipped egg whites and cream, set in the fridge.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 5,
+  "difficulty": "medium",
+  "equipment": [
+    "heatproof bowl",
+    "small saucepan",
+    "2 mixing bowls",
+    "whisk",
+    "electric whisk",
+    "silicone spatula",
+    "6 small bowls or glasses",
+    "cling film",
+    "instant-read thermometer",
+    "fine sieve"
+  ],
+  "ingredients": [
+    {
+      "group": "Mousse",
+      "qty": 200,
+      "unit": "g",
+      "item": "dark chocolate (60-70% cocoa solids), finely chopped",
+      "note": "check the label for soya and milk"
+    },
+    {
+      "group": "Mousse",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cocoa powder"
+    },
+    {
+      "group": "Mousse",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "instant espresso powder"
+    },
+    {
+      "group": "Mousse",
+      "qty": 90,
+      "unit": "ml",
+      "item": "hot water"
+    },
+    {
+      "group": "Mousse",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large pasteurised eggs, separated",
+      "note": "Use pasteurised eggs. If you can't get them, use the 71 °C cooked-egg method (given in the tips), or skip this recipe if you are pregnant, very young, older or have a weak immune system."
+    },
+    {
+      "group": "Mousse",
+      "qty": 30,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Mousse",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Mousse",
+      "qty": 250,
+      "unit": "ml",
+      "item": "cold double (heavy) cream"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cocoa powder, to dust"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Melt",
+      "text": "put the chocolate, cocoa, espresso powder and hot water in the heatproof bowl over a pan of barely simmering water and stir until smooth. Take off the heat. Gentle heat keeps the chocolate smooth; too much heat makes it grainy."
+    },
+    {
+      "title": "Yolks",
+      "text": "whisk the yolks with 1 tbsp of the sugar and the salt for 30 s until a little paler, then stir in the warm chocolate until glossy. Leave 5 min until just warm. Yolks make the mousse rich and help it set."
+    },
+    {
+      "title": "Whites",
+      "text": "whisk the whites to soft foam, add the rest of the sugar and whisk to soft peaks. Stir a quarter into the chocolate to loosen it, then fold in the rest until only faint streaks remain. Loosening first means the rest of the whites keep their air."
+    },
+    {
+      "title": "Cream",
+      "text": "whip the cream to soft peaks and fold it in until the mousse is evenly brown. Soft peaks fold in easily; stiff cream makes the mousse grainy."
+    },
+    {
+      "title": "Chill",
+      "text": "spoon into the bowls, cover and chill at least 3 h, until set. Dust with cocoa to serve. As the chocolate firms, the mousse sets."
+    }
+  ],
+  "tips": [
+    "Egg safety: Use pasteurised eggs. If you can't get them, use the 71 °C cooked-egg method (given in the tips), or skip this recipe if you are pregnant, very young, older or have a weak immune system.",
+    "71 °C cooked-egg method: whisk the yolks with 2 tbsp of the sugar and 2 tbsp water in a heatproof bowl over barely simmering water until the mixture reaches 71 °C and thickens, about 4 min, then whisk it into the chocolate. Whisk the whites with the remaining sugar over the same pan until they reach 71 °C, take off the heat and whisk to stiff, glossy peaks (a Swiss meringue), then fold in as described.",
+    "A common mistake is folding into hot chocolate, which melts the whites; wait until it feels just warm.",
+    "Fold with a spatula in big, slow strokes and stop as soon as it looks even."
+  ],
+  "storage": "Keep covered in the fridge and eat within 2 days. Do not freeze.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 400,
+    "protein_g": 7.2,
+    "carbs_g": 22.6,
+    "sugar_g": 14.3,
+    "free_sugar_g": 13.0,
+    "fat_g": 31.8,
+    "satfat_g": 18.7,
+    "salt_g": 0.2,
+    "fibre_g": 4.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chocolate-mousse-advanced.jpg",
+  "image_alt": "A dark bowl of smooth, glossy chocolate mousse on a slate surface.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

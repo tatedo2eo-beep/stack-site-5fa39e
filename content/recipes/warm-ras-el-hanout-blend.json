@@ -1,0 +1,137 @@
+{
+  "slug": "warm-ras-el-hanout-blend",
+  "title": "Ras el Hanout Spice Blend",
+  "category": "snacks-sides",
+  "cuisine": "Moroccan",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "ras-el-hanout",
+  "dish_title": "Ras el hanout",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A warm blend of paprika, coriander, cumin, cinnamon, cardamom, nutmeg, cloves and cayenne with a touch of sugar and salt.",
+  "servings": 24,
+  "prep_min": 5,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "measuring spoons",
+    "small bowl",
+    "spoon",
+    "small airtight jar"
+  ],
+  "ingredients": [
+    {
+      "group": "Blend",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Blend",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "ground coriander"
+    },
+    {
+      "group": "Blend",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Blend",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Blend",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "Blend",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Blend",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Blend",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Blend",
+      "qty": 8,
+      "unit": "g",
+      "item": "light brown sugar",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Blend",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Measure",
+      "text": "Put all the ground spices, the sugar and the salt into the small bowl."
+    },
+    {
+      "title": "Mix",
+      "text": "Stir thoroughly, pressing out any lumps of sugar, until the colour is even."
+    },
+    {
+      "title": "Store",
+      "text": "Spoon into a small airtight jar and seal."
+    },
+    {
+      "title": "Use",
+      "text": "Rub about 1 tsp per 150 g over chicken, lamb or vegetables before roasting, or stir into tagines and stews."
+    }
+  ],
+  "tips": [
+    "Toast and grind whole spices for a stronger aroma.",
+    "Add a pinch of ground ginger or dried rose petals if you like.",
+    "Leave out the cayenne for a mild blend.",
+    "Label the jar with the date."
+  ],
+  "storage": "Keep in a sealed jar in a cool, dark cupboard for up to 3 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 6,
+    "protein_g": 0.2,
+    "carbs_g": 1.2,
+    "sugar_g": 0.4,
+    "free_sugar_g": 0.3,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.12,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ras-el-hanout-basic.jpg",
+  "image_alt": "A bowl of russet ras el hanout spice blend with cinnamon stick, cardamom pods and nutmeg.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

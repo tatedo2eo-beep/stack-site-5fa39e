@@ -1,0 +1,109 @@
+{
+  "slug": "simple-tahini-sauce",
+  "title": "Simple Tahini Sauce",
+  "category": "snacks-sides",
+  "cuisine": "Levantine",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "tahini-sauce",
+  "dish_title": "Tahini sauce",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Tahini whisked with water until smooth and creamy, seasoned with lemon juice, garlic and salt.",
+  "servings": 6,
+  "prep_min": 5,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "bowl",
+    "whisk",
+    "spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 120,
+      "unit": "g",
+      "item": "tahini, well stirred"
+    },
+    {
+      "group": "Sauce",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, crushed"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk in water",
+      "text": "Put the tahini in the bowl and whisk in the water a little at a time. It will thicken at first, then loosen into a smooth, creamy sauce."
+    },
+    {
+      "title": "Season",
+      "text": "Whisk in the lemon juice, garlic and salt."
+    },
+    {
+      "title": "Adjust",
+      "text": "Add another spoonful of water if you want it thinner."
+    },
+    {
+      "title": "Serve",
+      "text": "Drizzle over roast cauliflower, grilled vegetables or falafel."
+    }
+  ],
+  "tips": [
+    "Stir the tahini jar well first; the oil separates.",
+    "Cold water makes a paler, fluffier sauce.",
+    "It thickens in the fridge; loosen with water.",
+    "Finish with a drizzle of olive oil."
+  ],
+  "storage": "Refrigerate in a covered container for up to 4 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 121,
+    "protein_g": 3.5,
+    "carbs_g": 4.9,
+    "sugar_g": 0.3,
+    "free_sugar_g": 0.2,
+    "fat_g": 10.8,
+    "satfat_g": 1.5,
+    "salt_g": 0.3,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tahini-sauce-basic.jpg",
+  "image_alt": "A bowl of smooth, pale tahini sauce with roasted cauliflower.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

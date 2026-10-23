@@ -1,0 +1,135 @@
+{
+  "slug": "chocolate-topped-butter-toffee",
+  "title": "Chocolate-Topped Butter Toffee",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "toffee",
+  "dish_title": "Toffee",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Crisp, nut-free butter toffee cooked to 149 °C, topped with melted dark chocolate and cut into rectangles.",
+  "servings": 16,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "23 cm square tin",
+    "baking paper",
+    "medium heavy saucepan",
+    "digital thermometer",
+    "heatproof spatula",
+    "offset spatula",
+    "large sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Toffee",
+      "qty": 225,
+      "unit": "g",
+      "item": "unsalted butter, cubed, plus a little for the tin"
+    },
+    {
+      "group": "Toffee",
+      "qty": 250,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Toffee",
+      "qty": 20,
+      "unit": "g",
+      "item": "light corn syrup"
+    },
+    {
+      "group": "Toffee",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Toffee",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Toffee",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Topping",
+      "qty": 170,
+      "unit": "g",
+      "item": "dark chocolate (50-60 % cocoa), finely chopped",
+      "note": "check the label; many contain soya lecithin or traces of milk"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Line the tin",
+      "text": "Line the tin with baking paper, leaving an overhang, and butter the paper lightly."
+    },
+    {
+      "title": "Melt it together",
+      "text": "Put the butter, sugar, corn syrup, water and salt in the saucepan over medium heat. Stir until the butter has melted and the sugar has dissolved."
+    },
+    {
+      "title": "Cook to 149 °C",
+      "text": "Keep cooking, stirring slowly but steadily, for 15-20 min. It will foam, then thicken and darken. Stop when it reads 149 °C and is the colour of peanut butter."
+    },
+    {
+      "title": "Pour",
+      "text": "Take the pan off the heat and stir in the vanilla; it will spit, so stand back. Pour straight into the tin and tilt it so the toffee spreads evenly."
+    },
+    {
+      "title": "Add the chocolate",
+      "text": "Wait 2 min, then scatter the chocolate over the hot toffee. Leave it for 3 min until it looks glossy and soft, then spread it to the edges with the offset spatula."
+    },
+    {
+      "title": "Let it set",
+      "text": "Leave at room temperature for 1 h, then chill for 30 min until the chocolate is firm."
+    },
+    {
+      "title": "Cut",
+      "text": "Lift the slab out and cut it into 32 rectangles, pressing the knife straight down rather than sawing."
+    }
+  ],
+  "tips": [
+    "The most common mistake is stopping below 149 °C; underdone toffee is chewy and sticks to your teeth instead of snapping.",
+    "If butter separates out as an oily layer, take the pan off the heat and stir hard for a minute, then carry on.",
+    "Let the toffee come back to room temperature for 10 min before cutting so the chocolate does not crack.",
+    "Hot toffee causes severe burns; keep children away."
+  ],
+  "storage": "Keep in an airtight container, layered with baking paper, at cool room temperature for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 217,
+    "protein_g": 0.6,
+    "carbs_g": 23.4,
+    "sugar_g": 22.4,
+    "free_sugar_g": 22.4,
+    "fat_g": 14.6,
+    "satfat_g": 9.1,
+    "salt_g": 0.19,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "toffee-basic.jpg",
+  "image_alt": "Rectangles of golden butter toffee with a dark chocolate top.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

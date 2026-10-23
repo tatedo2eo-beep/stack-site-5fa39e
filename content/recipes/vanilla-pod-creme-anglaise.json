@@ -1,0 +1,113 @@
+{
+  "slug": "vanilla-pod-creme-anglaise",
+  "title": "Vanilla Pod Crème Anglaise",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "creme-anglaise",
+  "dish_title": "Crème anglaise",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A silky vanilla pouring custard made with real vanilla seeds and egg yolks, cooked gently until it coats a spoon.",
+  "servings": 6,
+  "prep_min": 5,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "medium saucepan",
+    "paring knife",
+    "medium bowl",
+    "whisk",
+    "wooden spoon or silicone spatula",
+    "fine sieve",
+    "instant-read thermometer",
+    "jug",
+    "large bowl of iced water"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "pc",
+      "item": "vanilla pod, split lengthwise",
+      "note": "or 1 tsp alcohol-free vanilla extract, added at the end"
+    },
+    {
+      "group": "Custard",
+      "qty": 375,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse",
+      "text": "scrape the vanilla seeds into the milk, add the pod and bring just to steaming, then cover off the heat and steep 20 min. Steeping draws more flavour from the vanilla."
+    },
+    {
+      "title": "Yolks",
+      "text": "whisk the yolks, sugar and salt for 1 min until pale. Reheat the milk to steaming, lift out the pod and pour about a third into the yolks, whisking, then add the rest."
+    },
+    {
+      "title": "Cook",
+      "text": "return to the pan and stir constantly over low heat 4-6 min until it coats the back of the spoon and reads 80-82 °C. Do not let it boil. At 80-82 °C the yolks thicken the sauce and are safely cooked; above about 85 °C they curdle."
+    },
+    {
+      "title": "Strain and cool",
+      "text": "strain straight into the jug, set it in the iced water and stir 5 min to stop the cooking. Serve warm or cover the surface and chill. The iced water stops the heat in the pan from overcooking it."
+    }
+  ],
+  "tips": [
+    "A common mistake is turning the heat up; low heat and steady stirring give a smooth sauce.",
+    "If it starts to curdle, strain it at once into a cold jug and blend briefly.",
+    "Draw a finger across the coated spoon: a clean line means it is done."
+  ],
+  "storage": "Cool quickly, cover the surface and keep in the fridge for up to 2 days. Rewarm gently without boiling.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 118,
+    "protein_g": 4.3,
+    "carbs_g": 12.0,
+    "sugar_g": 11.7,
+    "free_sugar_g": 8.3,
+    "fat_g": 5.9,
+    "satfat_g": 2.6,
+    "salt_g": 0.15,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "creme-anglaise-advanced.jpg",
+  "image_alt": "A small jug of crème anglaise beside a pool of the pale custard sauce on a dark plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "strawberry-eton-mess",
+  "title": "Strawberry Eton Mess",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "eton-mess",
+  "dish_title": "Eton mess",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Crisp homemade meringue, soft whipped cream and fresh and cooked strawberries, folded together just before serving.",
+  "servings": 6,
+  "prep_min": 30,
+  "cook_min": 95,
+  "difficulty": "easy",
+  "equipment": [
+    "baking tray",
+    "baking paper",
+    "electric whisk and bowl",
+    "small bowl",
+    "piping bag with 1 cm plain nozzle or a spoon",
+    "medium saucepan",
+    "potato masher",
+    "mixing bowls",
+    "6 serving bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Meringue",
+      "qty": 70,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Meringue",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "Meringue",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg whites"
+    },
+    {
+      "group": "Meringue",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Meringue",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Strawberries",
+      "qty": 700,
+      "unit": "g",
+      "item": "strawberries, hulled"
+    },
+    {
+      "group": "Strawberries",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Strawberries",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Cream",
+      "qty": 360,
+      "unit": "ml",
+      "item": "cold double (heavy) cream"
+    },
+    {
+      "group": "Cream",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Meringue",
+      "text": "heat the oven to 100 °C (80 °C fan) and line the tray. Mix the sugar and cornflour. Whisk the whites, vanilla and salt until frothy, then add the sugar mix slowly and whisk to stiff, glossy peaks. Pipe or spread in thin zigzag strips. Cornflour helps the meringue stay crisp."
+    },
+    {
+      "title": "Bake",
+      "text": "bake 1 h 30 min until dry outside, then switch the oven off and leave 1 h to crisp. Cool. Drying in the oven makes the meringue crisp all the way through."
+    },
+    {
+      "title": "Berries",
+      "text": "quarter 350 g of the strawberries and toss with 15 g of the sugar and the lemon juice. Mash the rest with the remaining sugar in the pan and boil 5 min to a thick sauce; cool. The cooked sauce adds deep colour and flavour."
+    },
+    {
+      "title": "Cream",
+      "text": "whip the cream and icing sugar to soft peaks."
+    },
+    {
+      "title": "Assemble",
+      "text": "break the meringue into bite-size pieces. Just before serving, fold the meringue, half the sauce and most of the berries roughly through the cream, pile into the bowls and spoon over the rest of the sauce and berries. Folding at the last moment keeps the meringue crunchy."
+    }
+  ],
+  "tips": [
+    "A common mistake is mixing too early; the meringue goes soft in minutes.",
+    "Make the meringue up to a week ahead and keep it airtight.",
+    "Do not overwhip the cream; soft peaks fold best.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best eaten straight away. Keep the meringue airtight for 1 week, and the berries and sauce in the fridge for up to 2 days.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 326,
+    "protein_g": 3.8,
+    "carbs_g": 31.1,
+    "sugar_g": 27.2,
+    "free_sugar_g": 19.7,
+    "fat_g": 22.0,
+    "satfat_g": 13.8,
+    "salt_g": 0.15,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "eton-mess-advanced.jpg",
+  "image_alt": "A dark bowl piled with whipped cream, broken meringue and chopped strawberries in red sauce.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

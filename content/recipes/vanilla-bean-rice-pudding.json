@@ -1,0 +1,123 @@
+{
+  "slug": "vanilla-bean-rice-pudding",
+  "title": "Vanilla Bean Rice Pudding",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "rice-pudding",
+  "dish_title": "Rice pudding",
+  "flavour": "Vanilla",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Slow-simmered creamy rice pudding full of real vanilla seeds, served warm or chilled.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 60,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy saucepan with lid",
+    "paring knife",
+    "wooden spoon",
+    "serving bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Rice pudding",
+      "qty": 1,
+      "unit": "pc",
+      "item": "vanilla pod, split lengthwise",
+      "note": "or 2 tsp alcohol-free vanilla extract, stirred in at the end"
+    },
+    {
+      "group": "Rice pudding",
+      "qty": 150,
+      "unit": "g",
+      "item": "pudding rice or short-grain white rice"
+    },
+    {
+      "group": "Rice pudding",
+      "qty": 450,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Rice pudding",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Rice pudding",
+      "qty": 700,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Rice pudding",
+      "qty": 300,
+      "unit": "ml",
+      "item": "single (light) cream"
+    },
+    {
+      "group": "Rice pudding",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Vanilla sugar",
+      "text": "scrape the vanilla seeds into the sugar and rub together with your fingertips so the seeds spread evenly; keep the pod. Rubbing breaks up the sticky seeds so they spread through the pudding."
+    },
+    {
+      "title": "Start the rice",
+      "text": "boil the water with the salt, add the rice, cover and cook gently 15 min until the water is nearly gone."
+    },
+    {
+      "title": "Cook in milk",
+      "text": "stir in the milk, cream, vanilla sugar and pod, return to a gentle bubble and cook uncovered, stirring frequently, 30-35 min. Lower the heat and stir every few minutes for another 10-15 min until it is like loose yogurt. Slow cooking lets the rice release starch and thicken the milk."
+    },
+    {
+      "title": "Rest",
+      "text": "remove the pod (rinse and dry it to garnish) and rest 10 min. The pudding sets a little as it rests."
+    },
+    {
+      "title": "Serve",
+      "text": "serve warm, or chill and loosen with a little cold milk; garnish with the pod."
+    }
+  ],
+  "tips": [
+    "A common mistake is leaving it unstirred; it sticks and burns on the bottom.",
+    "A heavy pan spreads the heat and helps prevent scorching.",
+    "Loosen chilled pudding with cold milk before serving."
+  ],
+  "storage": "Cool quickly and keep covered in the fridge for up to 3 days. Reheat with a splash of milk until piping hot (74 °C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 330,
+    "protein_g": 7.1,
+    "carbs_g": 44.4,
+    "sugar_g": 24.7,
+    "free_sugar_g": 16.6,
+    "fat_g": 13.9,
+    "satfat_g": 8.5,
+    "salt_g": 0.43,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "rice-pudding-basic--vanilla.jpg",
+  "image_alt": "A bowl of creamy vanilla rice pudding garnished with a vanilla pod.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "slug": "miyeok-guk-korean-seaweed-beef-brisket-soup",
+  "title": "Miyeok-Guk: Korean Seaweed and Beef Brisket Soup",
+  "category": "soups-stews",
+  "cuisine": "Korean",
+  "chapter": "soups",
+  "book_chapter": "soups",
+  "dish": "miyeok-guk",
+  "dish_title": "Miyeok-guk",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Brisket simmered slowly into a clear broth, shredded and seasoned, then cooked with soaked seaweed until silky; served with short-grain rice.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 150,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "large saucepan or casserole with a lid",
+    "slotted spoon",
+    "chopping board",
+    "small bowl",
+    "small saucepan with a tight lid",
+    "sieve"
+  ],
+  "ingredients": [
+    {
+      "group": "Seaweed",
+      "qty": 25,
+      "unit": "g",
+      "item": "dried miyeok (wakame) seaweed"
+    },
+    {
+      "group": "Broth",
+      "qty": 350,
+      "unit": "g",
+      "item": "beef brisket, in one piece"
+    },
+    {
+      "group": "Broth",
+      "qty": 1500,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Broth",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, peeled, left whole"
+    },
+    {
+      "group": "Broth",
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh ginger, peeled"
+    },
+    {
+      "group": "Broth",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "onion, peeled",
+      "note": "about 85 g"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "Korean soup soy sauce (guk-ganjang) or light soy sauce"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Rice",
+      "qty": 250,
+      "unit": "g",
+      "item": "short-grain rice"
+    },
+    {
+      "group": "Rice",
+      "qty": 300,
+      "unit": "ml",
+      "item": "water, for the rice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak the seaweed",
+      "text": "Cover the dried seaweed with plenty of cold water and leave it for about 2 h until completely soft. Expect it to grow many times its dry size."
+    },
+    {
+      "title": "Simmer the brisket",
+      "text": "Meanwhile, place the brisket, cold water, whole garlic, ginger and onion in the large pan and bring to the boil. Skim off the foam, cover and simmer gently for 2 h until the beef is very tender. Remove and discard the garlic, ginger and onion. Starting in cold water draws more flavour from the meat into the broth."
+    },
+    {
+      "title": "Shred and season",
+      "text": "Lift the brisket onto the board and let it cool for 10 min. Slice across the grain, then pull into bite-size shreds and toss in the small bowl with the chopped garlic, half the soy sauce and the sesame oil."
+    },
+    {
+      "title": "Cook the rice",
+      "text": "Half an hour before serving, rinse the rice until the water is almost clear. Put it in the small pan with 300 ml water, bring to the boil, cover and cook on the lowest heat for 15 min. Rest off the heat, still covered, for 10 min."
+    },
+    {
+      "title": "Prepare the seaweed",
+      "text": "Drain the seaweed, squeeze out as much water as you can and chop it into bite-size pieces."
+    },
+    {
+      "title": "Simmer together",
+      "text": "Bring the broth back to a simmer and add the seaweed, seasoned beef and the remaining soy sauce. Cook for 30 min until the seaweed is silky and tender; add a little water if it looks crowded, then taste."
+    },
+    {
+      "title": "Serve",
+      "text": "Ladle into bowls and put the rice alongside."
+    }
+  ],
+  "tips": [
+    "A frequent mistake is under-soaking the seaweed, which leaves it chewy; give it the full 2 h.",
+    "Korean soup soy sauce is saltier and lighter in colour than ordinary soy, so add it gradually and taste.",
+    "The broth can be made a day ahead; chill it and lift off the fat before finishing."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days or freeze the soup (without rice) for up to 2 months. Reheat until piping hot (74 °C). Cool leftover rice quickly and use within 24 h, reheating until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soya"
+  ],
+  "diet": [
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 397,
+    "protein_g": 25.9,
+    "carbs_g": 58.8,
+    "sugar_g": 1.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 6.4,
+    "satfat_g": 2.0,
+    "salt_g": 2.26,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "miyeok-guk-basic.jpg",
+  "image_alt": "A bowl of dark green seaweed soup with shreds of beef, beside a small bowl of white short-grain rice.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

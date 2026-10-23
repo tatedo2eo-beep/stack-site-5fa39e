@@ -1,0 +1,150 @@
+{
+  "slug": "almond-turron-de-alicante",
+  "title": "Almond Turrón de Alicante",
+  "category": "desserts",
+  "cuisine": "Spanish",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "turron",
+  "dish_title": "Turrón",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Crunchy Spanish honey nougat cooked to 150 °C and packed with warm toasted whole almonds, cut into bars.",
+  "servings": 16,
+  "prep_min": 15,
+  "cook_min": 40,
+  "difficulty": "hard",
+  "equipment": [
+    "20 cm square tin",
+    "baking paper",
+    "baking tray",
+    "large heavy saucepan",
+    "digital thermometer",
+    "stand mixer with whisk",
+    "oiled silicone spatula",
+    "large heavy knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Tin",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil, for the tin and tools"
+    },
+    {
+      "group": "Nuts",
+      "qty": 300,
+      "unit": "g",
+      "item": "whole blanched almonds"
+    },
+    {
+      "group": "Syrup",
+      "qty": 250,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 110,
+      "unit": "g",
+      "item": "runny honey"
+    },
+    {
+      "group": "Syrup",
+      "qty": 30,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Meringue",
+      "qty": 33,
+      "unit": "g",
+      "item": "egg white (from 1 large egg), pasteurised if you like"
+    },
+    {
+      "group": "Meringue",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Meringue",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Line the tin",
+      "text": "Line the tin with baking paper and brush it lightly with oil. Oil a second sheet of paper for the top as well."
+    },
+    {
+      "title": "Toast the almonds",
+      "text": "Toast the almonds on the tray at 160 °C for 10-12 min, until pale gold when you cut one open. Turn the oven off and leave them inside to keep warm."
+    },
+    {
+      "title": "Boil the syrup",
+      "text": "Put the sugar, honey and water in the saucepan over medium heat and stir until dissolved. Boil without stirring until it reads 121 °C, 3-4 min."
+    },
+    {
+      "title": "Whip the egg white",
+      "text": "Meanwhile whisk the egg white with the salt in the mixer until it holds soft peaks."
+    },
+    {
+      "title": "Add the syrup",
+      "text": "With the mixer on medium-high, pour in the hot syrup in a thin stream down the side of the bowl and whisk for 2 min, until thick and glossy."
+    },
+    {
+      "title": "Cook it down",
+      "text": "Scrape the mixture back into the saucepan and stir constantly over medium-low heat for 20-30 min. It is ready when it is thick, light golden and reads 150 °C."
+    },
+    {
+      "title": "Add the almonds",
+      "text": "Take the pan off the heat and quickly stir in the lemon zest and the warm almonds."
+    },
+    {
+      "title": "Press",
+      "text": "Scrape into the tin, lay the oiled paper on top and press down hard and evenly with a flat-bottomed cup or your hands."
+    },
+    {
+      "title": "Cut",
+      "text": "Leave for 30 min, until just firm but still slightly warm, then lift out and cut into 16 bars with the heavy knife. Leave to cool completely, about 1 h."
+    }
+  ],
+  "tips": [
+    "The most common mistake is stopping before 150 °C; the turrón will then be chewy instead of crunchy.",
+    "Stir constantly while cooking down or the bottom will scorch.",
+    "Egg safety: the egg white is cooked to 150 °C, well above 71 °C; pasteurised egg white also works.",
+    "If it sets too hard to cut, warm the slab in a 120 °C oven for 2-3 min."
+  ],
+  "storage": "Wrap tightly and keep in an airtight container at cool room temperature for up to 3 weeks.",
+  "allergens": [
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 193,
+    "protein_g": 4.2,
+    "carbs_g": 25.4,
+    "sugar_g": 22.1,
+    "free_sugar_g": 21.2,
+    "fat_g": 9.6,
+    "satfat_g": 0.7,
+    "salt_g": 0.06,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "turron-advanced.jpg",
+  "image_alt": "Bars of golden turrón packed with whole almonds.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

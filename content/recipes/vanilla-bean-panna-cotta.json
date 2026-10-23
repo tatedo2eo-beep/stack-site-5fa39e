@@ -1,0 +1,127 @@
+{
+  "slug": "vanilla-bean-panna-cotta",
+  "title": "Vanilla Bean Panna Cotta",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "panna-cotta",
+  "dish_title": "Panna cotta",
+  "flavour": "Vanilla bean",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A silky, softly set cream panna cotta speckled with seeds from two vanilla pods.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "small bowl",
+    "medium saucepan",
+    "paring knife",
+    "whisk",
+    "fine sieve",
+    "jug",
+    "large bowl of iced water",
+    "6 x 150 ml moulds",
+    "baking tray",
+    "serving plates"
+  ],
+  "ingredients": [
+    {
+      "group": "Panna cotta",
+      "qty": 2.5,
+      "unit": "tsp",
+      "item": "powdered beef gelatine",
+      "note": "about 7 g; check the pack says beef (bovine)"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 120,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 600,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 80,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 2,
+      "unit": "pc",
+      "item": "vanilla pod, split lengthwise",
+      "note": "2 pods give the dense speckle; extra pods to garnish (optional)"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Steep",
+      "text": "split the pods, scrape the seeds into the cream with the sugar and salt, add the pods and heat to steaming. Cover off the heat and steep 20 min. Steeping draws the full flavour from the pods."
+    },
+    {
+      "title": "Soften gelatine",
+      "text": "meanwhile sprinkle the gelatine over the cold milk and leave 5 min. Cold liquid lets the gelatine swell evenly."
+    },
+    {
+      "title": "Combine",
+      "text": "rewarm the cream until steaming, take off the heat, lift out the pods and whisk in the milk and gelatine until dissolved. Strain into the jug."
+    },
+    {
+      "title": "Thicken slightly",
+      "text": "stand the jug in the iced water and stir gently 8-10 min until it feels like single cream; this keeps the seeds suspended instead of sinking. Slightly thickened cream holds the seeds in place."
+    },
+    {
+      "title": "Set",
+      "text": "pour into the moulds and chill on the tray at least 6 h."
+    },
+    {
+      "title": "Unmould",
+      "text": "dip each mould briefly in hot water, loosen the edge and turn out. Garnish with a rinsed vanilla pod. A quick dip loosens the edge without melting it."
+    }
+  ],
+  "tips": [
+    "A common mistake is pouring the cream into the moulds while it is hot, so all the seeds sink; cool it over ice first.",
+    "Lightly oil the moulds if you are nervous about turning them out.",
+    "Rinse and dry used pods and keep them in sugar."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days. Do not freeze.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 409,
+    "protein_g": 4.5,
+    "carbs_g": 17.4,
+    "sugar_g": 17.3,
+    "free_sugar_g": 13.3,
+    "fat_g": 36.8,
+    "satfat_g": 23.4,
+    "salt_g": 0.16,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "panna-cotta-basic--vanilla-bean.jpg",
+  "image_alt": "A plain white panna cotta speckled with vanilla seeds, with a vanilla pod beside it.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

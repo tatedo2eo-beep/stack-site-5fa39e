@@ -1,0 +1,113 @@
+{
+  "slug": "smooth-garlic-basil-tomato-sauce",
+  "title": "Smooth Garlic and Basil Tomato Sauce",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "tomato",
+  "dish_title": "Tomato",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Hand-crushed plum tomatoes simmered with lightly cooked garlic, olive oil, chilli and basil, then blended smooth.",
+  "servings": 6,
+  "prep_min": 5,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "wide frying pan or sauté pan",
+    "wooden spoon",
+    "blender or stick blender"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 800,
+      "unit": "g",
+      "item": "canned whole plum tomatoes (2 tins)"
+    },
+    {
+      "group": "Sauce",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large sprig fresh basil, plus small leaves to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crush the tomatoes",
+      "text": "Tip the tomatoes into the bowl and squeeze them to a pulp with your hands. Swirl 200 ml water in the tins and keep it."
+    },
+    {
+      "title": "Cook the garlic",
+      "text": "Warm the oil in the wide pan over medium heat and add the garlic. As soon as it sizzles, and before it colours, pour in the tomatoes and the tin water."
+    },
+    {
+      "title": "Simmer",
+      "text": "Add the chilli and salt and lay the basil sprig on top; push it under once it wilts. Simmer for 15-20 min until thick and the oil on the surface turns deep orange."
+    },
+    {
+      "title": "Blend and serve",
+      "text": "Remove the basil stem and blend until smooth. Serve with pasta, topped with fresh basil leaves."
+    }
+  ],
+  "tips": [
+    "A wide pan reduces the sauce faster and keeps it fresh-tasting.",
+    "Do not let the garlic brown or it turns bitter.",
+    "Add a pinch of sugar only if the tomatoes taste sharp.",
+    "Leave unblended for a rustic sauce."
+  ],
+  "storage": "Refrigerate for up to 4 days or freeze for up to 3 months. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 107,
+    "protein_g": 1.3,
+    "carbs_g": 5.7,
+    "sugar_g": 3.2,
+    "free_sugar_g": 0.0,
+    "fat_g": 9.5,
+    "satfat_g": 1.3,
+    "salt_g": 0.87,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tomato-basic.jpg",
+  "image_alt": "A bowl of smooth, bright red tomato sauce topped with fresh basil leaves.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

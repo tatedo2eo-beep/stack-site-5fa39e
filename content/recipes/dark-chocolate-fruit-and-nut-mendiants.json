@@ -1,0 +1,122 @@
+{
+  "slug": "dark-chocolate-fruit-and-nut-mendiants",
+  "title": "Dark Chocolate Fruit and Nut Mendiants",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "mendiants",
+  "dish_title": "Mendiants",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Glossy discs of tempered dark chocolate topped with dried apricot, cranberries, pistachios and almonds.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "2 baking trays",
+    "baking paper",
+    "heatproof bowl and pan of barely simmering water",
+    "digital thermometer",
+    "spatula",
+    "teaspoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Chocolate",
+      "qty": 300,
+      "unit": "g",
+      "item": "dark chocolate (60-70 % cocoa), finely chopped",
+      "note": "check the label; many contain soya lecithin or traces of milk"
+    },
+    {
+      "group": "Toppings",
+      "qty": 40,
+      "unit": "g",
+      "item": "soft dried apricots, cut into small strips"
+    },
+    {
+      "group": "Toppings",
+      "qty": 30,
+      "unit": "g",
+      "item": "dried cranberries"
+    },
+    {
+      "group": "Toppings",
+      "qty": 30,
+      "unit": "g",
+      "item": "shelled unsalted pistachios"
+    },
+    {
+      "group": "Toppings",
+      "qty": 30,
+      "unit": "g",
+      "item": "whole blanched almonds, toasted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Set out the toppings",
+      "text": "Line the trays with baking paper and set out the apricot strips, cranberries, pistachios and almonds in small piles so you can work quickly."
+    },
+    {
+      "title": "Melt the chocolate",
+      "text": "Put two thirds of the chocolate in the bowl over barely simmering water, making sure the bowl does not touch the water. Stir until melted and it reads 45-50 °C."
+    },
+    {
+      "title": "Temper",
+      "text": "Lift the bowl off the pan and add the remaining chocolate. Stir until it has all melted and the chocolate has cooled to 31-32 °C."
+    },
+    {
+      "title": "Test",
+      "text": "Dip the tip of a knife in the chocolate and leave it at cool room temperature. If it sets glossy and firm within 5 min, it is tempered."
+    },
+    {
+      "title": "Spoon the discs",
+      "text": "Spoon the chocolate onto the paper in rounds about 5 cm across, working in batches of 6 so they do not set before you top them."
+    },
+    {
+      "title": "Add the toppings",
+      "text": "While each batch is still wet, press on a strip of apricot, one or two cranberries, a pistachio and an almond."
+    },
+    {
+      "title": "Let them set",
+      "text": "Leave at cool room temperature for about 30 min, until firm and glossy, then peel the mendiants off the paper."
+    }
+  ],
+  "tips": [
+    "The most common mistake is overheating the chocolate; above 50 °C it can turn thick and grainy, so melt it gently.",
+    "If the test smear stays soft or streaky, add a few more pieces of chopped chocolate and stir until it cools a little more.",
+    "Avoid the fridge, which can make the chocolate dull and streaky.",
+    "Swap in hazelnuts or candied peel for variety."
+  ],
+  "storage": "Keep in an airtight container at cool room temperature, away from sunlight, for up to 3 weeks.",
+  "allergens": [
+    "milk",
+    "soya",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 194,
+    "protein_g": 3.1,
+    "carbs_g": 16.9,
+    "sugar_g": 9.9,
+    "free_sugar_g": 7.8,
+    "fat_g": 13.1,
+    "satfat_g": 6.4,
+    "salt_g": 0.01,
+    "fibre_g": 3.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "mendiants-basic.jpg",
+  "image_alt": "Dark chocolate discs topped with dried apricot, cranberries, pistachios and almonds."
+}

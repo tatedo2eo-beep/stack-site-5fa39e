@@ -1,0 +1,149 @@
+{
+  "slug": "buttermilk-panna-cotta-raspberry-coulis",
+  "title": "Buttermilk Panna Cotta with Raspberry Coulis",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "panna-cotta",
+  "dish_title": "Panna cotta",
+  "flavour": "Buttermilk",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "A light, tangy buttermilk panna cotta, turned out and topped with a bright raspberry coulis.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "small bowl",
+    "medium saucepan",
+    "whisk",
+    "jug",
+    "6 x 150 ml moulds or ramekins",
+    "baking tray",
+    "fine sieve",
+    "blender or stick blender",
+    "serving plates"
+  ],
+  "ingredients": [
+    {
+      "group": "Panna cotta",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "powdered beef gelatine",
+      "note": "about 6 g; check the pack says beef (bovine)"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "cold water"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 300,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 90,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 400,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Raspberry coulis",
+      "qty": 200,
+      "unit": "g",
+      "item": "raspberries, fresh or frozen"
+    },
+    {
+      "group": "Raspberry coulis",
+      "qty": 40,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Raspberry coulis",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Bloom",
+      "text": "sprinkle the gelatine over the cold water in the small bowl and leave 5 min. Soaking first lets the gelatine dissolve without lumps."
+    },
+    {
+      "title": "Warm",
+      "text": "heat the cream, sugar and salt, stirring, until the sugar dissolves and it is steaming but not boiling. Off the heat, stir in the gelatine until fully melted. Cool 10 min."
+    },
+    {
+      "title": "Add buttermilk",
+      "text": "whisk in the buttermilk and vanilla; adding it to the cooled cream stops it curdling. Pour into the jug and fill the moulds. Too much heat would split the buttermilk."
+    },
+    {
+      "title": "Set",
+      "text": "stand the moulds on the tray and chill at least 6 h. A long chill gives a soft, wobbly set."
+    },
+    {
+      "title": "Coulis",
+      "text": "blend the raspberries, icing sugar and lemon juice and press through the sieve. Sieving removes the seeds for a smooth sauce."
+    },
+    {
+      "title": "Turn out",
+      "text": "dip each mould in hot water for 5 s, run a knife round the edge and invert onto a plate. Spoon a pool of coulis on top."
+    }
+  ],
+  "tips": [
+    "A common mistake is boiling the cream once the gelatine is in, which weakens the set; keep it just steaming.",
+    "For a softer set, serve it in glasses instead of turning it out.",
+    "Make it the day before; it keeps well."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days. Keep the coulis separately for up to 3 days. Do not freeze.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 304,
+    "protein_g": 4.9,
+    "carbs_g": 30.5,
+    "sugar_g": 27.8,
+    "free_sugar_g": 21.6,
+    "fat_g": 18.9,
+    "satfat_g": 11.9,
+    "salt_g": 0.28,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "panna-cotta-basic--buttermilk.jpg",
+  "image_alt": "A turned-out white buttermilk panna cotta topped with bright red raspberry coulis.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

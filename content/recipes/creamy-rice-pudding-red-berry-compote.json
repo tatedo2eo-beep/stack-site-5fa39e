@@ -1,0 +1,140 @@
+{
+  "slug": "creamy-rice-pudding-red-berry-compote",
+  "title": "Creamy Rice Pudding with Red Berry Compote",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "rice-pudding",
+  "dish_title": "Rice pudding",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A creamy stovetop rice pudding with vanilla, topped with a quick red berry compote.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 60,
+  "difficulty": "easy",
+  "equipment": [
+    "large heavy saucepan with lid",
+    "wooden spoon",
+    "small saucepan",
+    "serving bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Rice pudding",
+      "qty": 150,
+      "unit": "g",
+      "item": "pudding rice or short-grain white rice"
+    },
+    {
+      "group": "Rice pudding",
+      "qty": 450,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Rice pudding",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Rice pudding",
+      "qty": 700,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Rice pudding",
+      "qty": 300,
+      "unit": "ml",
+      "item": "single (light) cream"
+    },
+    {
+      "group": "Rice pudding",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Rice pudding",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Berry compote",
+      "qty": 250,
+      "unit": "g",
+      "item": "mixed red berries (cherries, raspberries), fresh or frozen"
+    },
+    {
+      "group": "Berry compote",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Berry compote",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Par-cook",
+      "text": "bring the water and salt to the boil, stir in the rice, cover and simmer on low 15 min until most of the water is absorbed. Starting in water softens the rice so it cooks faster in the milk."
+    },
+    {
+      "title": "Simmer",
+      "text": "add the milk, cream and sugar, bring back to a simmer and cook uncovered, stirring often, 30-35 min. Turn the heat to low and keep stirring every couple of minutes 10-15 min more, until thick and creamy and the rice is very soft. Stirring stops the milk catching and releases starch for creaminess."
+    },
+    {
+      "title": "Flavour",
+      "text": "take off the heat and stir in the vanilla; the pudding thickens as it stands."
+    },
+    {
+      "title": "Compote",
+      "text": "simmer the berries, sugar and lemon juice 8-10 min until jammy, then cool slightly. A short simmer keeps the fruit bright."
+    },
+    {
+      "title": "Serve",
+      "text": "spoon the pudding into bowls warm or cold, loosening with a splash of milk if needed, and top with a spoonful of compote."
+    }
+  ],
+  "tips": [
+    "A common mistake is cooking on high heat, which scorches the milk; keep it at a gentle bubble.",
+    "Take it off the heat while it is still a little loose, as it thickens as it cools.",
+    "Use frozen berries out of season."
+  ],
+  "storage": "Cool quickly and keep covered in the fridge for up to 3 days. Reheat with a splash of milk until piping hot (74 °C). Keep the compote separately for up to 5 days.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 383,
+    "protein_g": 7.5,
+    "carbs_g": 57.1,
+    "sugar_g": 35.2,
+    "free_sugar_g": 23.5,
+    "fat_g": 14.1,
+    "satfat_g": 8.5,
+    "salt_g": 0.43,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "rice-pudding-basic.jpg",
+  "image_alt": "A bowl of creamy rice pudding topped with a spoonful of red berry compote, with a spoon.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

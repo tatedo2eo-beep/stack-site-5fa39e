@@ -1,0 +1,147 @@
+{
+  "slug": "cullen-skink-smoked-haddock-potato-soup",
+  "title": "Cullen Skink: Scottish Smoked Haddock and Potato Soup",
+  "category": "soups-stews",
+  "cuisine": "Scottish",
+  "chapter": "seafood",
+  "book_chapter": "seafood",
+  "dish": "cullen-skink",
+  "dish_title": "Cullen skink",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Smoked haddock poached in onion-scented milk, then folded through crushed potatoes and a splash of cream for a thick, smoky soup.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan (about 3 litres)",
+    "slotted spoon",
+    "potato masher",
+    "plate"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 25,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 200 g"
+    },
+    {
+      "group": "Fish",
+      "qty": 900,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Fish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf",
+      "note": "not counted"
+    },
+    {
+      "group": "Fish",
+      "qty": 400,
+      "unit": "g",
+      "item": "undyed smoked haddock fillet"
+    },
+    {
+      "group": "Soup",
+      "qty": 450,
+      "unit": "g",
+      "item": "floury or all-rounder potatoes, peeled and cut into 1.5 cm cubes"
+    },
+    {
+      "group": "Soup",
+      "qty": 100,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Soup",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chives, finely snipped"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "slices crusty bread, to serve",
+      "note": "not counted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften the onion",
+      "text": "Melt the butter in the saucepan over medium-low heat and add the onion. Cook for 6-8 min, stirring, until soft and sweet with no colour."
+    },
+    {
+      "title": "Poach the haddock",
+      "text": "Pour the milk over the onion, add the bay leaf and heat until it steams. Lay in the haddock and keep the milk just below a simmer for 5-6 min, until the fish is opaque and flakes apart. Transfer the fish to the plate and remove the bay leaf. The milk now carries the smoke, so it becomes the base of the soup."
+    },
+    {
+      "title": "Simmer the potatoes",
+      "text": "Add the potatoes to the milk and keep at a bare simmer for 10-12 min, scraping the bottom now and then so nothing sticks, until they are tender."
+    },
+    {
+      "title": "Crush roughly",
+      "text": "Use the masher to crush the potatoes in the pan, leaving some chunks whole. The broken potato thickens the soup naturally."
+    },
+    {
+      "title": "Return the fish",
+      "text": "Flake the haddock, picking out any skin and bones, and stir it in with the cream and pepper. Warm for 2 min until steaming, without boiling. Taste before seasoning: smoked fish is already salty."
+    },
+    {
+      "title": "Serve",
+      "text": "Ladle into bowls, sprinkle with chives and serve with crusty bread."
+    }
+  ],
+  "tips": [
+    "Do not let the milk boil once the potatoes are in; it catches easily and can curdle.",
+    "Choose undyed smoked haddock for a natural colour and cleaner flavour.",
+    "No added salt is needed; taste at the end and add pepper instead."
+  ],
+  "storage": "Cool quickly and keep covered in the fridge for up to 2 days. Reheat gently, stirring, until piping hot (74 °C). Not suitable for freezing, as the potatoes turn grainy. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 495,
+    "protein_g": 36.2,
+    "carbs_g": 36.4,
+    "sugar_g": 15.5,
+    "free_sugar_g": 0.0,
+    "fat_g": 22.8,
+    "satfat_g": 13.5,
+    "salt_g": 2.2,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "cullen-skink-basic.jpg",
+  "image_alt": "A bowl of creamy smoked haddock and potato soup scattered with chives, with a slice of crusty bread alongside.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

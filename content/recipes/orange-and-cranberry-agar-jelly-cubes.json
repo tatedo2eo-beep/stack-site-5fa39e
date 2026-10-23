@@ -1,0 +1,126 @@
+{
+  "slug": "orange-and-cranberry-agar-jelly-cubes",
+  "title": "Orange and Cranberry Agar Jelly Cubes",
+  "category": "desserts",
+  "cuisine": "Japanese",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "agar-jellies",
+  "dish_title": "Agar jellies",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Firm, vegan jelly cubes in two colours, made by boiling orange and cranberry juice with agar powder and cutting the set slabs into cubes.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "2 square containers or tins, about 15 cm",
+    "2 small saucepans",
+    "whisk",
+    "sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Orange jelly",
+      "qty": 500,
+      "unit": "ml",
+      "item": "smooth orange juice"
+    },
+    {
+      "group": "Orange jelly",
+      "qty": 40,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Orange jelly",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "agar powder (about 4 g)"
+    },
+    {
+      "group": "Cranberry jelly",
+      "qty": 500,
+      "unit": "ml",
+      "item": "cranberry juice drink"
+    },
+    {
+      "group": "Cranberry jelly",
+      "qty": 20,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Cranberry jelly",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "agar powder (about 4 g)"
+    },
+    {
+      "group": "Cranberry jelly",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil, for the containers"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Oil the containers",
+      "text": "Wipe the inside of both containers very lightly with oil and blot off any excess with kitchen paper."
+    },
+    {
+      "title": "Make the orange jelly",
+      "text": "Whisk the agar and sugar into the cold orange juice in one saucepan. Bring it to the boil and boil gently for 2 min, whisking, until there are no specks of agar left."
+    },
+    {
+      "title": "Pour",
+      "text": "Pour the orange jelly into the first container and skim off any foam with a spoon."
+    },
+    {
+      "title": "Make the cranberry jelly",
+      "text": "Repeat with the cranberry juice, sugar and agar in the second pan, boil for 2 min and pour into the second container."
+    },
+    {
+      "title": "Let them set",
+      "text": "Leave both at room temperature for 30 min, then chill for 1 h, until firm enough to slice cleanly."
+    },
+    {
+      "title": "Cut into cubes",
+      "text": "Run a knife around the edges, turn each slab out onto a board and cut into 2.5 cm cubes."
+    }
+  ],
+  "tips": [
+    "The most common mistake is not boiling the agar long enough; it must boil for a full 2 min or the jelly will not set.",
+    "Agar sets as it cools, so pour straight away; if it starts to set in the pan, reheat it to a boil.",
+    "Avoid fresh pineapple or kiwi juice; they stop it setting.",
+    "Brands differ in strength; if your first batch is too soft, use a little more agar next time."
+  ],
+  "storage": "Keep in an airtight container in the fridge for up to 5 days.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 96,
+    "protein_g": 0.5,
+    "carbs_g": 23.3,
+    "sugar_g": 20.2,
+    "free_sugar_g": 20.2,
+    "fat_g": 0.4,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "agar-jellies-basic.jpg",
+  "image_alt": "Rows of red and orange jelly cubes.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

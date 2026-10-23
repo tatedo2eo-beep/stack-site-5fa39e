@@ -1,0 +1,155 @@
+{
+  "slug": "ile-flottante-poached-meringue-caramel",
+  "title": "Île Flottante: Poached Meringue on Crème Anglaise",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "ile-flottante-oeufs-a-la-neige",
+  "dish_title": "Île flottante/oeufs à la neige",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Cloud-soft poached meringues floating on chilled vanilla crème anglaise, drizzled with amber caramel.",
+  "servings": 6,
+  "prep_min": 30,
+  "cook_min": 30,
+  "difficulty": "hard",
+  "equipment": [
+    "2 medium saucepans",
+    "paring knife",
+    "whisk",
+    "wooden spoon",
+    "fine sieve",
+    "instant-read thermometer",
+    "jug",
+    "electric whisk and clean bowl",
+    "2 large serving spoons",
+    "slotted spoon",
+    "tray lined with kitchen paper",
+    "small heavy saucepan",
+    "6 shallow bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Crème anglaise",
+      "qty": 1,
+      "unit": "pc",
+      "item": "vanilla pod, split lengthwise"
+    },
+    {
+      "group": "Crème anglaise",
+      "qty": 500,
+      "unit": "ml",
+      "item": "whole milk, plus extra for poaching"
+    },
+    {
+      "group": "Crème anglaise",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Crème anglaise",
+      "qty": 60,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Meringue",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg whites"
+    },
+    {
+      "group": "Meringue",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Meringue",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cream of tartar"
+    },
+    {
+      "group": "Meringue",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Meringue",
+      "qty": 500,
+      "unit": "ml",
+      "item": "whole milk, for poaching (not eaten)"
+    },
+    {
+      "group": "Caramel",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Caramel",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "water"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crème anglaise",
+      "text": "infuse the milk with the vanilla seeds and pod until steaming, covered, 15 min. Whisk the yolks with the 60 g sugar, whisk in the hot milk, return to the pan and stir on low until it coats the spoon at 80-82 °C. Strain into the jug and chill. Gentle stirring to 80-82 °C cooks the yolks safely and keeps it smooth."
+    },
+    {
+      "title": "Meringue",
+      "text": "whisk the whites with the salt and cream of tartar to foam, add the sugar gradually and whisk to firm, glossy peaks. Cream of tartar makes the meringue stable."
+    },
+    {
+      "title": "Poach",
+      "text": "bring the poaching milk to a bare simmer, about 80 °C. Shape 6 large ovals of meringue with the two spoons and poach 2-3 at a time 2 min per side until set and springy. Drain on the paper. If the milk boils, the meringue puffs and then collapses."
+    },
+    {
+      "title": "Caramel",
+      "text": "heat the sugar and water without stirring until deep amber, then take off the heat. Stirring can make the sugar crystallise."
+    },
+    {
+      "title": "Serve",
+      "text": "pour the cold crème anglaise into the bowls, float a meringue on each and drizzle with the caramel straight away."
+    }
+  ],
+  "tips": [
+    "A common mistake is boiling the poaching milk; keep it barely trembling.",
+    "Caramel burns quickly; take it off the heat as soon as it is deep amber.",
+    "Make the crème anglaise a day ahead so it is properly cold."
+  ],
+  "storage": "Best on the day. The crème anglaise keeps covered in the fridge for 2 days; keep poached meringues in the fridge for up to 4 hours.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 279,
+    "protein_g": 7.5,
+    "carbs_g": 48.4,
+    "sugar_g": 47.9,
+    "free_sugar_g": 43.2,
+    "fat_g": 6.6,
+    "satfat_g": 3.0,
+    "salt_g": 0.27,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ile-flottante-oeufs-a-la-neige-advanced.jpg",
+  "image_alt": "A dome of white poached meringue drizzled with caramel, floating on pale crème anglaise.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

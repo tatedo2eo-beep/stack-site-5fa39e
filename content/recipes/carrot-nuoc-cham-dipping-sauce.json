@@ -1,0 +1,121 @@
+{
+  "slug": "carrot-nuoc-cham-dipping-sauce",
+  "title": "Nuoc Cham Dipping Sauce with Carrot",
+  "category": "snacks-sides",
+  "cuisine": "Vietnamese",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "nuoc-cham",
+  "dish_title": "Nuoc cham",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Garlic, chilli and sugar crushed together, loosened with warm water and seasoned with fish sauce and lime, finished with carrot shreds.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "grater or julienne peeler",
+    "mortar and pestle (optional)",
+    "bowl",
+    "spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 31,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 2.5 tbsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, very finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small red chilli, very finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 120,
+      "unit": "ml",
+      "item": "warm water"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "fish sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "carrot, cut into fine shreds"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make a paste",
+      "text": "Crush the garlic and chilli with 1 tsp of the sugar to a rough paste using a mortar and pestle or the flat of a knife."
+    },
+    {
+      "title": "Dissolve the sugar",
+      "text": "Scrape the paste into the bowl, add the remaining sugar and the warm water, and stir until the liquid is clear."
+    },
+    {
+      "title": "Season",
+      "text": "Stir in the fish sauce and lime juice. Taste: it should be a balance of sweet, sour, salty and hot. Adjust with a little more lime or sugar."
+    },
+    {
+      "title": "Add the carrot",
+      "text": "Stir in the carrot shreds and leave for 10 min so they soften slightly. Serve in small bowls for dipping fresh rolls."
+    }
+  ],
+  "tips": [
+    "Warm water helps the sugar dissolve fully.",
+    "Add more chilli for extra heat.",
+    "Fish sauce strength varies, so taste before adding all of it.",
+    "Shredded daikon can join the carrot."
+  ],
+  "storage": "Keep in a covered jar in the fridge for up to 5 days; add the carrot just before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 20,
+    "protein_g": 0.4,
+    "carbs_g": 4.8,
+    "sugar_g": 4.2,
+    "free_sugar_g": 4.1,
+    "fat_g": 0.0,
+    "satfat_g": 0.0,
+    "salt_g": 1.33,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "nuoc-cham-basic.jpg",
+  "image_alt": "A bowl of amber nuoc cham with fine carrot shreds beside fresh rice-paper rolls.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

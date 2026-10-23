@@ -1,0 +1,119 @@
+{
+  "slug": "fresh-mint-parsley-sauce",
+  "title": "Fresh Mint Sauce",
+  "category": "snacks-sides",
+  "cuisine": "British",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "mint-sauce",
+  "dish_title": "Mint sauce",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Finely chopped mint and parsley stirred into olive oil with lemon juice and garlic.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "sharp knife",
+    "small jug or bowl",
+    "spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 25,
+      "unit": "g",
+      "item": "fresh mint leaves, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 12,
+      "unit": "g",
+      "item": "flat-leaf parsley, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 90,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Chop the herbs",
+      "text": "Chop the mint and parsley finely with a sharp knife so they stay bright green."
+    },
+    {
+      "title": "Combine",
+      "text": "Put the herbs in the jug with the oil, lemon juice, garlic, salt and pepper and stir well."
+    },
+    {
+      "title": "Rest",
+      "text": "Leave for 10 min so the flavours blend."
+    },
+    {
+      "title": "Serve",
+      "text": "Stir again and spoon over sliced roast lamb."
+    }
+  ],
+  "tips": [
+    "Dry the herbs well after washing.",
+    "Chop the herbs shortly before serving for the best colour.",
+    "Add a pinch of sugar for a sweeter sauce.",
+    "Good with grilled chicken too."
+  ],
+  "storage": "Best on the day; keep covered in the fridge for up to 1 day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 127,
+    "protein_g": 0.3,
+    "carbs_g": 1.3,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.1,
+    "fat_g": 13.7,
+    "satfat_g": 1.9,
+    "salt_g": 0.25,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "mint-sauce-basic.jpg",
+  "image_alt": "A small jug of green mint sauce beside slices of pink roast lamb and mint sprigs.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
