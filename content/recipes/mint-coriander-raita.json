@@ -1,0 +1,123 @@
+{
+  "slug": "mint-coriander-raita",
+  "title": "Mint and Coriander Raita",
+  "category": "snacks-sides",
+  "cuisine": "Indian",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "raita",
+  "dish_title": "Raita",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Creamy whole-milk yoghurt with chopped mint and coriander, ground cumin, lemon, a little garlic and a pinch of cayenne.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "mixing bowl",
+    "whisk",
+    "serving bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Raita",
+      "qty": 350,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt"
+    },
+    {
+      "group": "Raita",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "fresh mint, finely chopped, plus leaves to serve"
+    },
+    {
+      "group": "Raita",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "fresh coriander, finely chopped"
+    },
+    {
+      "group": "Raita",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Raita",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Raita",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated to a paste"
+    },
+    {
+      "group": "Raita",
+      "qty": 2,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.375 tsp"
+    },
+    {
+      "group": "Raita",
+      "qty": 1,
+      "unit": "pc",
+      "item": "pinch of cayenne pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Smooth the yoghurt",
+      "text": "Beat the yoghurt in the bowl until creamy and lump-free."
+    },
+    {
+      "title": "Add herbs and spices",
+      "text": "Stir in the mint and coriander, cumin, lemon juice, garlic, salt and cayenne."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and refrigerate for at least 15 min so the herbs scent the yoghurt."
+    },
+    {
+      "title": "Serve",
+      "text": "Give it a stir, spoon into a serving bowl and top with a few mint leaves. Serve cold with curries, biryani or grilled meats."
+    }
+  ],
+  "tips": [
+    "Toast whole cumin seeds in a dry pan and crush them for a deeper flavour.",
+    "If your yoghurt is very thick, loosen it with 1-2 tbsp cold water.",
+    "Chop the herbs just before using so they stay bright green.",
+    "Leave out the cayenne for children."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days. The herbs darken slightly over time. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 39,
+    "protein_g": 2.2,
+    "carbs_g": 3.4,
+    "sugar_g": 2.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 2.0,
+    "satfat_g": 1.2,
+    "salt_g": 0.43,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "raita-basic.jpg",
+  "image_alt": "A bowl of white yoghurt raita flecked with chopped green herbs and topped with a sprig of mint."
+}

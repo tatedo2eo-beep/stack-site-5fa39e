@@ -1,0 +1,124 @@
+{
+  "slug": "balsamic-honey-vinaigrette",
+  "title": "Balsamic Honey Vinaigrette",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "vinaigrette",
+  "dish_title": "Vinaigrette",
+  "flavour": "Balsamic",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "Balsamic vinegar steeped with shallot and garlic, sweetened with honey and whisked with olive oil into a rich, dark dressing.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "small bowl",
+    "whisk or jar with a lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Dressing",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "balsamic vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "shallot, finely chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 14,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "mild yellow mustard"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.375 tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dressing",
+      "qty": 120,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Steep the aromatics",
+      "text": "Combine the balsamic vinegar, shallot, garlic, salt and pepper in the bowl and leave for 10 min so the shallot softens and flavours the vinegar."
+    },
+    {
+      "title": "Add honey and mustard",
+      "text": "Whisk in the honey and mustard until blended."
+    },
+    {
+      "title": "Emulsify",
+      "text": "Trickle in the olive oil while whisking constantly until thick and evenly blended. Alternatively, shake everything vigorously in a lidded jar."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour into a small jug and dress green leaves, tomatoes or roasted vegetables. Shake or whisk again if it separates."
+    }
+  ],
+  "tips": [
+    "Inexpensive balsamic works well here; save aged balsamic for drizzling neat.",
+    "For a sharper dressing, use 1 tsp honey.",
+    "It is also good brushed over grilled vegetables or halloumi.",
+    "Add a few chopped basil leaves for a summery version."
+  ],
+  "storage": "Store in a sealed jar in the fridge for up to 1 week. Bring to room temperature and shake well before using. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 135,
+    "protein_g": 0.2,
+    "carbs_g": 3.4,
+    "sugar_g": 2.8,
+    "free_sugar_g": 1.4,
+    "fat_g": 13.5,
+    "satfat_g": 1.9,
+    "salt_g": 0.3,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "vinaigrette-basic--balsamic.jpg",
+  "image_alt": "A glass jug of dark balsamic vinaigrette beside a bowl of frilly green lettuce."
+}

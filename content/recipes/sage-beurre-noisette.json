@@ -1,0 +1,103 @@
+{
+  "slug": "sage-beurre-noisette",
+  "title": "Sage Beurre Noisette (Brown Butter)",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "beurre-noisette",
+  "dish_title": "Beurre noisette",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Butter swirled over the heat with fresh sage until nut-brown and fragrant, then sharpened with lemon and spooned over fish, gnocchi or vegetables.",
+  "servings": 4,
+  "prep_min": 3,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "small light-coloured frying pan or saucepan",
+    "heatproof spoon",
+    "small heatproof bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Butter",
+      "qty": 80,
+      "unit": "g",
+      "item": "unsalted butter, cut into pieces"
+    },
+    {
+      "group": "Butter",
+      "qty": 12,
+      "unit": "pc",
+      "item": "fresh sage leaves"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "To finish",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Melt the butter",
+      "text": "Put the butter in a light-coloured pan over medium heat, so you can see the colour change, and let it melt, swirling now and then."
+    },
+    {
+      "title": "Brown with sage",
+      "text": "When it foams, drop in the sage leaves and keep swirling for 2-3 min. The foam subsides, the specks on the bottom turn hazelnut brown and the kitchen smells nutty, while the leaves turn crisp."
+    },
+    {
+      "title": "Stop the cooking",
+      "text": "Immediately take the pan off the heat and tip the butter into the bowl, as it can burn within seconds. Stir in the lemon juice, salt and pepper; expect it to sizzle."
+    },
+    {
+      "title": "Spoon over",
+      "text": "Serve at once over pan-fried white fish, gnocchi, ravioli or steamed vegetables, making sure everyone gets some crisp leaves."
+    }
+  ],
+  "tips": [
+    "Cut the butter into even pieces so it melts and browns evenly.",
+    "If the specks turn dark brown or smell bitter, start again; burnt butter cannot be saved.",
+    "Pat the sage leaves dry first to reduce spitting.",
+    "A few toasted hazelnuts or a little grated lemon zest are nice additions."
+  ],
+  "storage": "Best made just before serving. Leftovers firm up in the fridge for up to 5 days; warm gently to melt. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 148,
+    "protein_g": 0.3,
+    "carbs_g": 0.9,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.1,
+    "fat_g": 16.4,
+    "satfat_g": 10.3,
+    "salt_g": 0.37,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "beurre-noisette-basic.jpg",
+  "image_alt": "A small pan of nut-brown butter with sage leaves floating on top, next to a golden pan-fried white fish fillet."
+}

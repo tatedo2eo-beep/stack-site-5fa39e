@@ -1,0 +1,120 @@
+{
+  "slug": "peanut-butter-fudge-chopped-peanuts",
+  "title": "Peanut Butter Fudge with Chopped Peanuts",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "fudge",
+  "dish_title": "Fudge",
+  "flavour": "Peanut butter",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Creamy peanut butter fudge set with white chocolate and condensed milk, finished with a scattering of chopped roasted peanuts.",
+  "servings": 18,
+  "prep_min": 10,
+  "cook_min": 6,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square tin",
+    "baking paper",
+    "medium saucepan",
+    "silicone spatula",
+    "large sharp knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Fudge",
+      "qty": 300,
+      "unit": "g",
+      "item": "white chocolate, finely chopped",
+      "note": "check the label; most contain soya lecithin"
+    },
+    {
+      "group": "Fudge",
+      "qty": 397,
+      "unit": "g",
+      "item": "sweetened condensed milk (1 tin)"
+    },
+    {
+      "group": "Fudge",
+      "qty": 200,
+      "unit": "g",
+      "item": "smooth peanut butter"
+    },
+    {
+      "group": "Fudge",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Topping",
+      "qty": 40,
+      "unit": "g",
+      "item": "roasted unsalted peanuts, chopped"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil, for the tin"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the tin",
+      "text": "Brush the tin with a little oil and line it with baking paper, leaving an overhang on two sides to use as handles."
+    },
+    {
+      "title": "Melt the base",
+      "text": "Put the condensed milk and white chocolate in the saucepan over low heat and stir without stopping for 4-5 min, until the chocolate has only just melted and the mixture is smooth. White chocolate scorches easily, so keep the heat low."
+    },
+    {
+      "title": "Add the peanut butter",
+      "text": "Take the pan off the heat and beat in the peanut butter and vanilla until the colour is even and the mixture is thick and fudgy."
+    },
+    {
+      "title": "Add the topping",
+      "text": "Spread the fudge in the tin and smooth the top, then scatter the chopped peanuts over and press them in lightly so they stay put."
+    },
+    {
+      "title": "Set and cut",
+      "text": "Refrigerate for at least 4 h, until the centre is firm. Lift the fudge out with the paper and cut into 36 squares."
+    }
+  ],
+  "tips": [
+    "A common mistake is using natural peanut butter that separates; the oil can leak out and the fudge stays soft, so use a smooth, stabilised one.",
+    "If the mixture turns thick and grainy before the peanut butter goes in, the white chocolate has overheated; start again over lower heat.",
+    "Cut with a knife dipped in hot water and dried for clean edges.",
+    "For a deeper flavour, toast the chopped peanuts in a dry pan for 2-3 min and cool before scattering."
+  ],
+  "storage": "Keep in an airtight box in the fridge for up to 2 weeks, or freeze for up to 2 months. Serve slightly chilled.",
+  "allergens": [
+    "milk",
+    "soya",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 242,
+    "protein_g": 5.7,
+    "carbs_g": 24.9,
+    "sugar_g": 23.1,
+    "free_sugar_g": 21.9,
+    "fat_g": 14.2,
+    "satfat_g": 5.8,
+    "salt_g": 0.23,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "fudge-basic--peanut-butter.jpg",
+  "image_alt": "Pale peanut butter fudge squares, each topped with chopped peanuts, on a dark tray.",
+  "inspired_by": [
+    "Food Network Kitchen",
+    "America's Test Kitchen"
+  ]
+}

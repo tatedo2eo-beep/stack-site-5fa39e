@@ -1,0 +1,119 @@
+{
+  "slug": "classic-shallot-vinaigrette",
+  "title": "Classic Shallot Vinaigrette",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "vinaigrette",
+  "dish_title": "Vinaigrette",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Cider vinegar and finely chopped shallot, emulsified with mild mustard, a touch of mayonnaise and olive oil into a glossy, stable dressing.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "small bowl",
+    "whisk",
+    "measuring jug"
+  ],
+  "ingredients": [
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "shallot, very finely chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "mild yellow mustard"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.375 tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dressing",
+      "qty": 135,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mellow the shallot",
+      "text": "Stir the vinegar and shallot together in the bowl and let them sit for 5 min, which softens the shallot's bite."
+    },
+    {
+      "title": "Build the base",
+      "text": "Whisk in the mustard, mayonnaise, salt and pepper until the mixture is milky and smooth with no lumps."
+    },
+    {
+      "title": "Add the oil slowly",
+      "text": "Keep whisking while you pour the oil in a very thin stream. If oil starts collecting on top, pause the pouring and whisk until it disappears, then continue."
+    },
+    {
+      "title": "Dress the salad",
+      "text": "When glossy and slightly thickened, taste on a leaf and adjust. Toss with crisp salad leaves just before serving."
+    }
+  ],
+  "tips": [
+    "A damp cloth under the bowl stops it sliding while you whisk.",
+    "Make it in a jar and shake hard for 30 seconds if you are short of time.",
+    "Add a pinch of sugar or a little honey if your vinegar is very sharp.",
+    "Chopped chives or parsley can go in just before serving."
+  ],
+  "storage": "Keep in a sealed jar in the fridge for up to 1 week. Let it stand at room temperature for 10 min and shake before using. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 142,
+    "protein_g": 0.1,
+    "carbs_g": 0.4,
+    "sugar_g": 0.2,
+    "free_sugar_g": 0.0,
+    "fat_g": 15.7,
+    "satfat_g": 2.2,
+    "salt_g": 0.3,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "vinaigrette-basic.jpg",
+  "image_alt": "A small glass jug of creamy golden vinaigrette beside a bowl of crisp green salad leaves."
+}

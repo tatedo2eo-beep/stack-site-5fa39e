@@ -1,0 +1,116 @@
+{
+  "slug": "golden-honeycomb-toffee",
+  "title": "Golden Honeycomb Toffee",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "honeycomb",
+  "dish_title": "Honeycomb",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Light, crunchy honeycomb toffee made by whisking bicarbonate of soda into light golden caramel and letting it set into a bubble-filled slab.",
+  "servings": 12,
+  "prep_min": 5,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "rimmed baking tray",
+    "baking paper",
+    "deep heavy saucepan (at least 3 litres)",
+    "digital thermometer",
+    "whisk",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Honeycomb",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil, for the tray"
+    },
+    {
+      "group": "Honeycomb",
+      "qty": 2.5,
+      "unit": "tsp",
+      "item": "bicarbonate of soda, sifted"
+    },
+    {
+      "group": "Honeycomb",
+      "qty": 300,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Honeycomb",
+      "qty": 60,
+      "unit": "ml",
+      "item": "light corn syrup"
+    },
+    {
+      "group": "Honeycomb",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare first",
+      "text": "Oil the tray and line it with baking paper. Sift the bicarbonate into the small bowl to remove lumps and keep the whisk beside the stove; the final steps take seconds."
+    },
+    {
+      "title": "Dissolve the sugar",
+      "text": "Put the sugar, corn syrup and water in the deep pan over medium heat and stir until the sugar has dissolved."
+    },
+    {
+      "title": "Boil to 149 °C",
+      "text": "Stop stirring, turn the heat to medium-high and boil for 10-12 min, until the syrup is light gold and reads 149 °C."
+    },
+    {
+      "title": "Whisk in the bicarbonate",
+      "text": "Take the pan off the heat, add the bicarbonate and whisk for no more than 5 seconds. The caramel foams up dramatically, so use a deep pan."
+    },
+    {
+      "title": "Pour without spreading",
+      "text": "Pour it straight onto the tray and leave it where it lands. Spreading or pressing knocks out the bubbles."
+    },
+    {
+      "title": "Leave to set",
+      "text": "Leave it undisturbed for about 1 h, until cold and crisp right through, then break it into chunks."
+    }
+  ],
+  "tips": [
+    "The most common mistake is over-whisking after the bicarbonate goes in; the foam collapses and the honeycomb turns dense, so stop after 5 seconds.",
+    "Use fresh bicarbonate of soda; an old packet gives a flat, heavy result.",
+    "Humidity makes honeycomb sticky, so break and store it as soon as it is cold.",
+    "Dip pieces in melted dark chocolate for a homemade chocolate honeycomb bar."
+  ],
+  "storage": "Keep in an airtight container at room temperature for up to 1 week; it softens quickly if left out.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 118,
+    "protein_g": 0.0,
+    "carbs_g": 30.2,
+    "sugar_g": 30.2,
+    "free_sugar_g": 30.2,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.67,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "honeycomb-advanced.jpg",
+  "image_alt": "Chunks of golden, bubble-filled honeycomb toffee on a dark slate.",
+  "inspired_by": [
+    "Food Network Kitchen",
+    "Serious Eats"
+  ]
+}

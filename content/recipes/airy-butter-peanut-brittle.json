@@ -1,0 +1,141 @@
+{
+  "slug": "airy-butter-peanut-brittle",
+  "title": "Airy Butter Peanut Brittle",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "brittle",
+  "dish_title": "Brittle",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Buttery peanut brittle cooked to amber, lightened with bicarbonate of soda so it shatters crisply, and finished with flaky salt.",
+  "servings": 24,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "2 rimmed baking trays",
+    "baking paper",
+    "large heavy saucepan (at least 3 litres)",
+    "digital thermometer",
+    "2 silicone spatulas",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Brittle",
+      "qty": 300,
+      "unit": "g",
+      "item": "roasted unsalted peanuts"
+    },
+    {
+      "group": "Brittle",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Brittle",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Brittle",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Brittle",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsalted butter, plus a little for the tray"
+    },
+    {
+      "group": "Brittle",
+      "qty": 300,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Brittle",
+      "qty": 250,
+      "unit": "g",
+      "item": "light corn syrup"
+    },
+    {
+      "group": "To finish",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Get everything ready",
+      "text": "Heat the oven to 180 °C. Butter one tray, line it with baking paper and butter the paper and one spatula. Spread the peanuts on the second tray, and stir the bicarbonate and 0.75 tsp salt together in the small bowl. Once the sugar is cooking, there is no time to measure."
+    },
+    {
+      "title": "Boil the syrup",
+      "text": "Melt the butter in the water in the saucepan over medium-high heat. Pour in the sugar and corn syrup, stir gently just until all the sugar is moistened, then let it boil without stirring for 10-15 min, until pale gold and 150 °C."
+    },
+    {
+      "title": "Warm the peanuts",
+      "text": "While the syrup boils, toast the peanuts in the oven for 5 min and keep them warm. Warm nuts keep the caramel fluid when they go in."
+    },
+    {
+      "title": "Take it to amber",
+      "text": "Lower the heat to medium-low and keep cooking, swirling the pan gently, for 4-6 min, until the syrup is amber and reads 163 °C."
+    },
+    {
+      "title": "Add peanuts and bicarbonate",
+      "text": "Tip in the warm peanuts and stir to coat. Take the pan off the heat and stir in the bicarbonate mixture; it foams up straight away."
+    },
+    {
+      "title": "Spread thinly",
+      "text": "Pour the mixture onto the buttered paper at once and spread it out thinly with the buttered spatula, then scatter the remaining salt over while it is hot."
+    },
+    {
+      "title": "Cool and break",
+      "text": "Leave to cool for about 1 h, until it is completely cold and snaps cleanly, then break it into pieces."
+    }
+  ],
+  "tips": [
+    "The most common mistake is pulling the syrup too early; below about 160 °C the brittle stays chewy and sticky, so trust the thermometer.",
+    "Hot sugar causes serious burns; keep children and pets away and have a bowl of cold water nearby for your fingers.",
+    "Soak the pan in hot water right away and the caramel will dissolve without scrubbing.",
+    "On a humid day the brittle softens faster; pack it airtight as soon as it is cold."
+  ],
+  "storage": "Keep in an airtight container at room temperature for up to 2 weeks, with baking paper between layers.",
+  "allergens": [
+    "milk",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 171,
+    "protein_g": 3.1,
+    "carbs_g": 23.2,
+    "sugar_g": 21.1,
+    "free_sugar_g": 20.5,
+    "fat_g": 8.4,
+    "satfat_g": 2.4,
+    "salt_g": 0.45,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "brittle-basic.jpg",
+  "image_alt": "Shards of amber peanut brittle stacked on a black plate.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

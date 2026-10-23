@@ -1,0 +1,126 @@
+{
+  "slug": "gruyere-parmesan-mornay-sauce",
+  "title": "Gruyère and Parmesan Mornay Sauce",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "mornay-sauce",
+  "dish_title": "Mornay sauce",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A smooth white sauce with nutty Gruyère and sharp Parmesan melted in off the heat, ready to pour or bake.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "small heavy saucepan",
+    "whisk",
+    "fine grater",
+    "heatproof spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Roux",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Roux",
+      "qty": 25,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Sauce",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Cheese",
+      "qty": 50,
+      "unit": "g",
+      "item": "Gruyère or Swiss cheese, finely grated"
+    },
+    {
+      "group": "Cheese",
+      "qty": 20,
+      "unit": "g",
+      "item": "Parmesan, finely grated"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground white pepper"
+    },
+    {
+      "group": "Seasoning",
+      "qty": 1,
+      "unit": "pc",
+      "item": "pinch of freshly grated nutmeg"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the roux",
+      "text": "Melt the butter over medium-low heat, add the flour and whisk for about 1 min until smooth and no longer floury, without letting it brown."
+    },
+    {
+      "title": "Whisk in the milk",
+      "text": "Pour in the milk slowly while whisking hard, so the sauce stays free of lumps."
+    },
+    {
+      "title": "Simmer",
+      "text": "Bring it to a bare simmer, turn the heat down and cook for 3-5 min, whisking often, until it is thick enough to coat a spoon."
+    },
+    {
+      "title": "Melt in the cheese",
+      "text": "Turn off the heat and whisk in the Gruyère and Parmesan until melted and glossy. Avoid boiling it again, as the cheese can turn grainy."
+    },
+    {
+      "title": "Season and serve",
+      "text": "Add the salt, white pepper and nutmeg. Spoon over cauliflower or other vegetables and bake until golden for a gratin, or serve warm in a bowl."
+    }
+  ],
+  "tips": [
+    "Grate the cheese finely so it melts quickly and evenly.",
+    "Taste before adding the salt; Parmesan is already salty.",
+    "Emmental or a mild Swiss cheese can replace the Gruyère.",
+    "For a gratin, pour over cooked vegetables, scatter with a little more cheese and bake at 200 °C for 20-25 min."
+  ],
+  "storage": "Cover the surface and refrigerate for up to 3 days. Warm over low heat, stirring and adding a splash of milk, without boiling. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 206,
+    "protein_g": 8.8,
+    "carbs_g": 10.1,
+    "sugar_g": 4.7,
+    "free_sugar_g": 0.0,
+    "fat_g": 14.6,
+    "satfat_g": 8.7,
+    "salt_g": 0.73,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "mornay-sauce-basic.jpg",
+  "image_alt": "A bowl of smooth pale-gold Mornay sauce beside a dish of golden, bubbling baked gratin."
+}

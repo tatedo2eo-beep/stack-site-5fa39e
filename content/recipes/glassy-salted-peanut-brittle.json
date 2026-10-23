@@ -1,0 +1,117 @@
+{
+  "slug": "glassy-salted-peanut-brittle",
+  "title": "Glassy Salted Peanut Brittle",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "brittle",
+  "dish_title": "Brittle",
+  "flavour": "Peanut",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A hard, glassy peanut brittle of deep golden caramel and lots of warm roasted peanuts, made without butter so it is dairy-free.",
+  "servings": 20,
+  "prep_min": 5,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "rimmed baking tray",
+    "baking paper",
+    "heavy frying pan or wide saucepan (about 26 cm)",
+    "silicone spatula or wooden spoon",
+    "digital thermometer (optional)"
+  ],
+  "ingredients": [
+    {
+      "group": "Brittle",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil, for the tray and spatula"
+    },
+    {
+      "group": "Brittle",
+      "qty": 300,
+      "unit": "g",
+      "item": "roasted unsalted peanuts"
+    },
+    {
+      "group": "Brittle",
+      "qty": 300,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Brittle",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Brittle",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the tray and nuts",
+      "text": "Heat the oven to 150 °C. Oil the tray, line it with baking paper and oil the paper and the spatula. Warm the peanuts in the oven for 8 min on a second tray or ovenproof plate."
+    },
+    {
+      "title": "Dissolve the sugar",
+      "text": "Put the sugar and water in the pan over medium heat and stir until the sugar is evenly wet and starting to dissolve. Then stop stirring."
+    },
+    {
+      "title": "Cook the caramel",
+      "text": "Let it bubble steadily for 8-12 min, swirling the pan now and then so it colours evenly, until it is a deep golden brown, about 170 °C. The colour can change quickly at the end, so stay close."
+    },
+    {
+      "title": "Stir in the nuts",
+      "text": "Take the pan off the heat, add the warm peanuts and salt, and stir quickly until every nut is coated in caramel."
+    },
+    {
+      "title": "Spread out",
+      "text": "Pour onto the oiled paper immediately and press it into a thin layer with the oiled spatula before it begins to set."
+    },
+    {
+      "title": "Cool and break",
+      "text": "Leave for 30-40 min until hard and glassy, then break into pieces."
+    }
+  ],
+  "tips": [
+    "A common mistake is adding cold peanuts; they chill the caramel so it seizes into lumps before you can spread it.",
+    "If sugar crystals form on the side of the pan, brush them down with a pastry brush dipped in water.",
+    "Stop at deep golden; a shade darker and the caramel tastes bitter.",
+    "Use the same method with almonds or cashews; the nuts must be roasted and warm."
+  ],
+  "storage": "Keep in an airtight container at room temperature for up to 2 weeks.",
+  "allergens": [
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 148,
+    "protein_g": 3.7,
+    "carbs_g": 18.2,
+    "sugar_g": 15.7,
+    "free_sugar_g": 15.0,
+    "fat_g": 7.6,
+    "satfat_g": 1.2,
+    "salt_g": 0.15,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "brittle-basic--peanut.jpg",
+  "image_alt": "Glossy, peanut-packed brittle pieces piled on a dark plate.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

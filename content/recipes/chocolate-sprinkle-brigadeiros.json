@@ -1,0 +1,114 @@
+{
+  "slug": "chocolate-sprinkle-brigadeiros",
+  "title": "Chocolate Sprinkle Brigadeiros",
+  "category": "desserts",
+  "cuisine": "Brazilian",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "brigadeiros",
+  "dish_title": "Brigadeiros",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Soft, fudgy Brazilian chocolate truffles made from condensed milk, cocoa and butter, rolled in chocolate sprinkles and served in paper cases.",
+  "servings": 12,
+  "prep_min": 25,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "medium non-stick saucepan",
+    "silicone spatula",
+    "large plate",
+    "small bowl",
+    "24 small paper sweet cases"
+  ],
+  "ingredients": [
+    {
+      "group": "Brigadeiros",
+      "qty": 397,
+      "unit": "g",
+      "item": "sweetened condensed milk (1 tin)"
+    },
+    {
+      "group": "Brigadeiros",
+      "qty": 25,
+      "unit": "g",
+      "item": "Dutch-processed cocoa powder, sifted"
+    },
+    {
+      "group": "Brigadeiros",
+      "qty": 20,
+      "unit": "g",
+      "item": "unsalted butter, plus a little for the plate and your hands"
+    },
+    {
+      "group": "Brigadeiros",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Coating",
+      "qty": 100,
+      "unit": "g",
+      "item": "chocolate sprinkles (vermicelli)",
+      "note": "check the label; many contain soya lecithin or traces of milk"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook slowly",
+      "text": "Put the condensed milk, cocoa, butter and salt in the saucepan over low heat. Stir constantly for 15-20 min, scraping the base and corners so nothing catches."
+    },
+    {
+      "title": "Check it is thick enough",
+      "text": "It is ready when it is very thick and glossy and slides away from the base in one mass when you tilt the pan. A line drawn through it with the spatula should stay open for 2-3 seconds."
+    },
+    {
+      "title": "Cool and chill",
+      "text": "Scrape it onto the buttered plate, leave for 20 min, then refrigerate for about 1 h, until firm enough to roll."
+    },
+    {
+      "title": "Roll the balls",
+      "text": "Rub a little butter on your hands and roll level tablespoons, about 18 g each, into 24 smooth balls."
+    },
+    {
+      "title": "Coat in sprinkles",
+      "text": "Roll each ball in the bowl of sprinkles, pressing gently so they cling all over, and set them in the paper cases."
+    }
+  ],
+  "tips": [
+    "The most common mistake is stopping too early; undercooked mixture stays too soft to roll and slumps in the cases, so wait for the trail test.",
+    "Keep the heat low and never stop stirring, or the condensed milk catches and tastes burnt.",
+    "Use true chocolate vermicelli rather than waxy coloured sprinkles for the classic taste.",
+    "If the mixture sticks to your hands, chill it for another 20 min."
+  ],
+  "storage": "Best on the day they are made. Keep in an airtight box in the fridge for up to 5 days and bring to room temperature for 20 min before serving.",
+  "allergens": [
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 149,
+    "protein_g": 3.2,
+    "carbs_g": 22.4,
+    "sugar_g": 20.8,
+    "free_sugar_g": 20.7,
+    "fat_g": 6.3,
+    "satfat_g": 3.9,
+    "salt_g": 0.14,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "brigadeiros-advanced.jpg",
+  "image_alt": "Rows of brigadeiros coated in chocolate sprinkles, sitting in brown paper cases.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

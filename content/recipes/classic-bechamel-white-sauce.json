@@ -1,0 +1,114 @@
+{
+  "slug": "classic-bechamel-white-sauce",
+  "title": "Classic Béchamel White Sauce",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "bechamel",
+  "dish_title": "Béchamel",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A pale butter and flour roux slowly loosened with whole milk and simmered until velvety, seasoned with white pepper and nutmeg.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "small heavy saucepan",
+    "whisk",
+    "heatproof spatula",
+    "measuring jug"
+  ],
+  "ingredients": [
+    {
+      "group": "Roux",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Roux",
+      "qty": 25,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Sauce",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.4 tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground white pepper"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "pinch of freshly grated nutmeg"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make a pale roux",
+      "text": "Melt the butter in the saucepan over medium-low heat, keeping it from colouring. Whisk in the flour and cook for 1-2 min, stirring, until it smells toasty rather than raw."
+    },
+    {
+      "title": "Add the milk gradually",
+      "text": "Pour in a little milk and whisk until smooth before adding more. The paste will clump at first, then relax into a thin sauce once all the milk is in."
+    },
+    {
+      "title": "Simmer to thicken",
+      "text": "Bring the sauce to a gentle bubble, whisking and reaching into the edges of the pan, and cook for 5-8 min until it coats the back of a spoon."
+    },
+    {
+      "title": "Season",
+      "text": "Take the pan off the heat and add the salt, white pepper and a grating of nutmeg."
+    },
+    {
+      "title": "Use",
+      "text": "Use it straight away in lasagne, gratins or croque monsieur, or serve it in a warm jug."
+    }
+  ],
+  "tips": [
+    "Warm the milk first if you like; it blends in a little faster.",
+    "If lumps appear, whisk hard off the heat or blitz briefly with a stick blender.",
+    "For a thicker sauce for binding or soufflés, use 40 g each of butter and flour.",
+    "White pepper keeps the sauce spotless, but black pepper is fine."
+  ],
+  "storage": "Press baking paper onto the surface to stop a skin forming, cool, then refrigerate for up to 3 days. Reheat gently, whisking in a splash of milk. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 134,
+    "protein_g": 3.6,
+    "carbs_g": 9.3,
+    "sugar_g": 4.7,
+    "free_sugar_g": 0.0,
+    "fat_g": 9.2,
+    "satfat_g": 5.6,
+    "salt_g": 0.68,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bechamel-basic.jpg",
+  "image_alt": "A spoon pouring thick, glossy white béchamel into a black bowl."
+}

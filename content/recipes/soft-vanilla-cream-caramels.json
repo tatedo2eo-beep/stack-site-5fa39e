@@ -1,0 +1,135 @@
+{
+  "slug": "soft-vanilla-cream-caramels",
+  "title": "Soft Vanilla Cream Caramels",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "chocolate-confections",
+  "book_chapter": "chocolate-confections",
+  "dish": "caramels",
+  "dish_title": "Caramels",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Chewy, buttery caramels made from amber caramel enriched with cream and vanilla, cut into small squares and wrapped in paper.",
+  "servings": 25,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "20 cm square tin",
+    "baking paper",
+    "small saucepan",
+    "large heavy saucepan (at least 3 litres)",
+    "digital thermometer",
+    "silicone spatula",
+    "large sharp knife",
+    "waxed paper or baking paper squares for wrapping"
+  ],
+  "ingredients": [
+    {
+      "group": "Cream",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Cream",
+      "qty": 70,
+      "unit": "g",
+      "item": "unsalted butter, cubed"
+    },
+    {
+      "group": "Cream",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Caramel",
+      "qty": 60,
+      "unit": "ml",
+      "item": "light corn syrup"
+    },
+    {
+      "group": "Caramel",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Caramel",
+      "qty": 265,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Caramel",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Warm the cream",
+      "text": "Bring the cream, butter and salt just to the boil in the small pan, then take it off the heat and keep it warm. Warm cream splutters less when it meets the hot caramel."
+    },
+    {
+      "title": "Line the tin",
+      "text": "Grease the tin, lay two crossed strips of baking paper in it so they hang over the sides, push them into the corners and grease the paper."
+    },
+    {
+      "title": "Boil the syrup",
+      "text": "Put the corn syrup and water in the large pan and pour the sugar into the middle, keeping it off the sides. Boil over medium-high heat without stirring for 7-9 min, until the sugar has dissolved and the syrup is pale gold and 150 °C."
+    },
+    {
+      "title": "Caramelise",
+      "text": "Lower the heat to medium-low and cook for 2-3 min more, swirling gently, until the syrup is amber and 175 °C."
+    },
+    {
+      "title": "Add the cream and cook",
+      "text": "Take the pan off the heat and pour in the warm cream carefully; it will boil up. Stir until smooth, then return to medium heat and cook, stirring often, for about 5 min, until it reaches 120 °C. A drop in cold water should form a firm but pliable ball."
+    },
+    {
+      "title": "Pour and set",
+      "text": "Off the heat, stir in the vanilla, pour into the tin and smooth the top. Cool for 1 h, then chill for 1 h until firm and cold."
+    },
+    {
+      "title": "Cut and wrap",
+      "text": "Lift the slab out using the paper, cut it into 2 cm squares with a greased knife and wrap each in a square of waxed paper, twisting the ends."
+    }
+  ],
+  "tips": [
+    "The most common mistake is taking the caramel too far; every degree above 120 °C makes the caramels harder, so take the pan off the heat as soon as it reads 120 °C.",
+    "Check your thermometer in boiling water first; it should read 100 °C, or adjust your targets.",
+    "For salted caramels, scatter a few flakes of sea salt over the top before chilling.",
+    "Wrap them soon after cutting or they slowly spread and lose their shape."
+  ],
+  "storage": "Keep the wrapped caramels in an airtight box in the fridge for up to 3 weeks; they are softest at room temperature.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 104,
+    "protein_g": 0.3,
+    "carbs_g": 13.4,
+    "sugar_g": 13.4,
+    "free_sugar_g": 13.1,
+    "fat_g": 5.8,
+    "satfat_g": 3.7,
+    "salt_g": 0.13,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "caramels-basic.jpg",
+  "image_alt": "Soft golden caramels, some twisted in white paper, on a black tray.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "King Arthur Baking"
+  ]
+}
