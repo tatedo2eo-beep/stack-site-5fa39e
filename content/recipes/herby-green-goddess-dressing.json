@@ -1,0 +1,137 @@
+{
+  "slug": "herby-green-goddess-dressing",
+  "title": "Green Goddess Dressing",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "green-goddess-dressing",
+  "dish_title": "Green goddess dressing",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Mayonnaise and soured cream blended with parsley, tarragon, garlic, anchovy and lemon, finished with chives.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "blender",
+    "spatula",
+    "bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Dressing",
+      "qty": 180,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Dressing",
+      "qty": 15,
+      "unit": "g",
+      "item": "flat-leaf parsley leaves, roughly chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "fresh tarragon leaves"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, roughly chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "anchovy fillet, rinsed"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "To finish",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "chives, finely chopped"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Put the mayonnaise, soured cream, parsley, tarragon, garlic, anchovy, lemon juice and water into the blender. Blend until smooth and pale green, scraping down the sides once."
+    },
+    {
+      "title": "Add chives",
+      "text": "Scrape into a bowl and stir in the chives and pepper."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and chill for 30 min so the flavours come together."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon over crisp lettuce wedges or serve as a dip for raw vegetables."
+    }
+  ],
+  "tips": [
+    "Pat the herbs dry so the dressing does not turn watery.",
+    "Thin with a spoonful of water for a pourable salad dressing.",
+    "Add more anchovy for a stronger savoury flavour.",
+    "Basil can replace some of the parsley."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "mustard",
+    "fish"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 230,
+    "protein_g": 1.0,
+    "carbs_g": 1.5,
+    "sugar_g": 0.6,
+    "free_sugar_g": 0.2,
+    "fat_g": 24.5,
+    "satfat_g": 4.6,
+    "salt_g": 0.55,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "green-goddess-dressing-basic.jpg",
+  "image_alt": "Pale green, creamy green goddess dressing in a bowl beside crisp lettuce.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

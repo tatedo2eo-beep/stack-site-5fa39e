@@ -177,6 +177,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | colcannon-kale-butter-well | Colcannon | Classic | 2 | 4 |
 | cold-somen | Somen | Classic | 3 | 5 |
 | colombian-arepas-de-queso-cheese-filled-corn-cakes | Arepa | Cheese | 2 | 4 |
+| cooked-yolk-hollandaise | Hollandaise (béarnaise, mousseline) | Classic | 2 | 4 |
 | cool-yoghurt-rice-mustard-seeds-curry-leaves-pomegranate | Curd rice | Classic | 2 | 4 |
 | coriander-lemon-chermoula | Chermoula | Classic | 2 | 4 |
 | corn-egg-drop-soup-chicken | Egg drop soup | Corn egg drop | 3 | 5 |
@@ -282,6 +283,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fresh-ginger-ale-lime-honey-syrup | Ginger ale | Classic | 2 | 4 |
 | fresh-herb-gravy | Gravy | Herb | 2 | 4 |
 | fresh-limeade-mashed-zest-mint | Limeade | Classic | 2 | 4 |
+| fresh-red-chilli-sambal | Sambal | Classic | 2 | 4 |
 | fried-mini-pizzas-tomato-mozzarella-basil | Pizza fritta/montanara | Classic | 2 | 4 |
 | frothy-whisked-matcha-green-tea | Matcha (whisked) | Classic | 2 | 4 |
 | fruit-almond-stollen-marzipan-core | Stollen | Classic | 2 | 4 |
@@ -348,6 +350,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | herb-crusted-rack-of-lamb-mustard | Rack of lamb/persillade | Mustard-herb crust | 4 | 6 |
 | herb-crusted-rack-of-lamb-persillade | Rack of lamb/persillade | Classic | 3 | 5 |
 | herb-tabbouleh-bulgur-lemon | Tabbouleh | Classic | 3 | 5 |
+| herby-green-goddess-dressing | Green goddess dressing | Classic | 2 | 4 |
 | high-heat-roast-chicken | High-heat roast chicken | Classic | 3 | 5 |
 | home-fries-peppers-onions | Home fries | Peppers and onions | 2 | 4 |
 | homemade-chocolate-milk-cocoa-syrup | Chocolate milk | Classic | 2 | 4 |
@@ -568,6 +571,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | roasted-butternut-squash-soup-curry-coconut | Butternut squash | Curried | 3 | 5 |
 | roasted-butternut-squash-soup-sage-pumpkin-seeds | Butternut squash | Classic | 3 | 5 |
 | roasted-garlic-mashed-potatoes | Mashed | Garlic | 3 | 5 |
+| roasted-pepper-almond-romesco | Romesco | Classic | 2 | 4 |
 | roasted-red-pepper-hummus-almonds | Hummus | Roasted red pepper | 3 | 5 |
 | romaine-caesar-salad-garlic-croutons | Caesar | Classic | 3 | 5 |
 | roman-style-sheet-pan-pizza-tomato-mozzarella-rosemary-potato | Pizza al taglio (Roman teglia) | Classic | 2 | 4 |
@@ -616,6 +620,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | smoky-baba-ghanoush-charred-aubergine-tahini-lemon | Baba ghanoush | Classic | 2 | 4 |
 | smoky-chipotle-lime-chicken-fajitas-peppers-guacamole | Fajita | Classic | 2 | 4 |
 | smoky-chipotle-tomato-shredded-chicken-tacos | Taco | Chicken tinga | 4 | 6 |
+| smoky-molasses-bbq-sauce | BBQ | Classic | 2 | 4 |
 | smooth-cold-brew-coffee-concentrate | Cold brew | Classic | 2 | 4 |
 | snickerdoodles | Snickerdoodle | Classic | 3 | 5 |
 | soft-baked-pretzels-coarse-salt-mustard | Pretzels | Classic | 2 | 4 |
@@ -677,6 +682,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | swedish-meatballs-cream-gravy | Meatballs | Swedish (allspice-nutmeg) | 3 | 5 |
 | sweet-cheese-danish-pastries-lemon | Danish | Cheese | 4 | 6 |
 | sweet-cheese-dumplings-sour-cream-berries | Pierogi | Sweet cheese | 3 | 5 |
+| sweet-spicy-gochujang-sauce | Gochujang sauce | Classic | 2 | 4 |
 | sweetcorn-crusted-beef-chicken-bake-olives-egg | Pastel de choclo | Classic | 3 | 5 |
 | swirled-chocolate-babka-syrup-glaze | Babka | Classic | 3 | 5 |
 | swiss-rosti | Rösti | Classic | 2 | 4 |

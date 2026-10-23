@@ -1,0 +1,112 @@
+{
+  "slug": "fresh-red-chilli-sambal",
+  "title": "Fresh Red Chilli Sambal",
+  "category": "snacks-sides",
+  "cuisine": "Indonesian",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "sambal",
+  "dish_title": "Sambal",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Fresh red chillies pulsed with rice vinegar, salt and a touch of sugar into a coarse, bright paste, finished with lime.",
+  "servings": 12,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "gloves",
+    "food processor",
+    "spatula",
+    "clean jar"
+  ],
+  "ingredients": [
+    {
+      "group": "Sambal",
+      "qty": 250,
+      "unit": "g",
+      "item": "fresh long red chillies, stems removed, roughly chopped"
+    },
+    {
+      "group": "Sambal",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "rice vinegar"
+    },
+    {
+      "group": "Sambal",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Sambal",
+      "qty": 4,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Sambal",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lime juice, plus wedges to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the chillies",
+      "text": "Put on gloves and roughly chop the chillies. Remove some of the seeds if you would like a milder paste."
+    },
+    {
+      "title": "Pulse",
+      "text": "Tip the chillies, vinegar, salt and sugar into the food processor. Pulse, scraping down the sides, until you have a coarse paste."
+    },
+    {
+      "title": "Finish",
+      "text": "Stir in the lime juice, taste, and spoon into a clean jar."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve in small amounts with rice, noodles, fried eggs or grilled chicken, with lime wedges on the side."
+    }
+  ],
+  "tips": [
+    "Do not touch your eyes while handling chillies.",
+    "Use a mix of mild and hot red chillies to control the heat.",
+    "A mortar and pestle gives a more rustic texture.",
+    "Leave for a day to let the flavours mellow."
+  ],
+  "storage": "Keep in a clean jar in the fridge for up to 2 weeks. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 10,
+    "protein_g": 0.4,
+    "carbs_g": 2.3,
+    "sugar_g": 1.5,
+    "free_sugar_g": 0.4,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.73,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sambal-basic.jpg",
+  "image_alt": "A bowl of fresh, coarse red chilli sambal with lime wedges beside it.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

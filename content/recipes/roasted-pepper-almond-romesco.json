@@ -1,0 +1,147 @@
+{
+  "slug": "roasted-pepper-almond-romesco",
+  "title": "Roasted Pepper and Almond Romesco",
+  "category": "snacks-sides",
+  "cuisine": "Spanish",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "romesco",
+  "dish_title": "Romesco",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Grilled tomatoes and roasted peppers blended with toasted almonds, bread, garlic, smoked paprika and olive oil.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "grill (broiler)",
+    "foil-lined baking tray",
+    "tongs",
+    "food processor",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Roast",
+      "qty": 2,
+      "unit": "pc",
+      "item": "ripe tomatoes"
+    },
+    {
+      "group": "Sauce",
+      "qty": 200,
+      "unit": "g",
+      "item": "roasted red peppers from a jar, drained"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "thick slice white bread, toasted and torn"
+    },
+    {
+      "group": "Sauce",
+      "qty": 70,
+      "unit": "g",
+      "item": "blanched almonds, toasted"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "smoked paprika"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Sauce",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Char the tomatoes",
+      "text": "Grill the tomatoes on the lined tray under a high grill for 3-4 min on each side until blackened in spots. Cool, then peel and core."
+    },
+    {
+      "title": "Grind the nuts",
+      "text": "Pulse the garlic in the food processor, then add the almonds, bread, paprika and chilli flakes and pulse to coarse crumbs."
+    },
+    {
+      "title": "Blend",
+      "text": "Add the tomatoes, peppers, vinegar, salt and parsley and pulse. With the motor running, drizzle in the oil until the sauce is thick with a little texture."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon alongside grilled spring onions, roasted vegetables, chicken or fish."
+    }
+  ],
+  "tips": [
+    "Toast the almonds until golden for the deepest flavour.",
+    "Leave the sauce slightly coarse rather than puréed.",
+    "Add a splash of water if it is too thick.",
+    "Hazelnuts can replace some of the almonds."
+  ],
+  "storage": "Keep covered in the fridge for up to 5 days; bring to room temperature before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 138,
+    "protein_g": 2.9,
+    "carbs_g": 7.0,
+    "sugar_g": 1.5,
+    "free_sugar_g": 0.3,
+    "fat_g": 11.6,
+    "satfat_g": 1.3,
+    "salt_g": 1.29,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "romesco-basic.jpg",
+  "image_alt": "Orange-red romesco sauce in a bowl next to charred grilled spring onions.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}

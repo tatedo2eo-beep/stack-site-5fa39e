@@ -1,0 +1,147 @@
+{
+  "slug": "smoky-molasses-bbq-sauce",
+  "title": "Sticky Molasses Barbecue Sauce",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "bbq",
+  "dish_title": "BBQ",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Ketchup simmered with molasses, brown sugar, cider vinegar, mustard and chilli into a thick, sticky glaze, then blended smooth.",
+  "servings": 10,
+  "prep_min": 10,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "medium saucepan",
+    "wooden spoon",
+    "blender or stick blender",
+    "clean jar"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small onion, very finely chopped or grated",
+      "note": "about 80 g"
+    },
+    {
+      "group": "Base",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 320,
+      "unit": "g",
+      "item": "tomato ketchup"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "molasses (black treacle)"
+    },
+    {
+      "group": "Sauce",
+      "qty": 45,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Sauce",
+      "qty": 60,
+      "unit": "ml",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "mild yellow mustard"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "mild chilli powder"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften the aromatics",
+      "text": "Melt the butter in the saucepan over medium heat. Cook the onion for about 5 min until soft, then stir in the garlic for 30 s."
+    },
+    {
+      "title": "Simmer the sauce",
+      "text": "Add the ketchup, molasses, sugar, vinegar, mustard, chilli powder, cayenne and pepper. Bring to the boil, then lower the heat and simmer for 20-25 min, stirring often so it does not catch, until slightly thicker."
+    },
+    {
+      "title": "Blend",
+      "text": "Blitz the sauce until completely smooth with a stick blender or in a blender."
+    },
+    {
+      "title": "Glaze",
+      "text": "Let it cool. Brush onto chicken during the last 10 min of grilling or roasting, turning once, and serve extra sauce on the side."
+    }
+  ],
+  "tips": [
+    "Brush on late; the sugar burns if it goes on too early.",
+    "Add more cayenne for heat or a little more vinegar for tang.",
+    "Keep a separate portion for serving that has not touched raw meat.",
+    "Use a splatter guard; thick sauce spits as it simmers."
+  ],
+  "storage": "Keep in a clean jar in the fridge for up to 2 weeks. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 96,
+    "protein_g": 0.6,
+    "carbs_g": 19.1,
+    "sugar_g": 16.1,
+    "free_sugar_g": 15.7,
+    "fat_g": 2.6,
+    "satfat_g": 1.6,
+    "salt_g": 0.81,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bbq-basic.jpg",
+  "image_alt": "Dark, glossy barbecue sauce being brushed onto grilled chicken pieces.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

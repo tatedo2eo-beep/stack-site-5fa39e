@@ -1,0 +1,123 @@
+{
+  "slug": "sweet-spicy-gochujang-sauce",
+  "title": "Sweet and Spicy Gochujang Sauce",
+  "category": "snacks-sides",
+  "cuisine": "Korean",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "gochujang-sauce",
+  "dish_title": "Gochujang sauce",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Gochujang, soy sauce, rice vinegar, brown sugar, garlic, ginger and sesame oil whisked into a glossy glaze for fried chicken.",
+  "servings": 6,
+  "prep_min": 5,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "grater",
+    "large mixing bowl",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 60,
+      "unit": "g",
+      "item": "gochujang (alcohol-free)"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "rice vinegar"
+    },
+    {
+      "group": "Sauce",
+      "qty": 35,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "water"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk the sauce",
+      "text": "In the large bowl, whisk the gochujang, soy sauce, vinegar, sugar, garlic, ginger and sesame oil until the sugar has dissolved."
+    },
+    {
+      "title": "Adjust the thickness",
+      "text": "Add the water a little at a time until the sauce just falls off a spoon; gochujang thickness varies between brands."
+    },
+    {
+      "title": "Coat and serve",
+      "text": "Tip hot fried chicken into the bowl and toss to coat in a glossy layer. Serve straight away while the coating is crisp."
+    }
+  ],
+  "tips": [
+    "Toss just before serving so the chicken stays crunchy.",
+    "Scatter with sesame seeds and sliced spring onion.",
+    "Make it milder with a little less gochujang and a spoonful of honey.",
+    "Also good brushed on roast chicken or tofu."
+  ],
+  "storage": "Keep the uncooked sauce covered in the fridge for up to 1 week. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soya",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 69,
+    "protein_g": 0.9,
+    "carbs_g": 11.1,
+    "sugar_g": 7.9,
+    "free_sugar_g": 7.9,
+    "fat_g": 2.4,
+    "satfat_g": 0.3,
+    "salt_g": 1.36,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gochujang-sauce-basic.jpg",
+  "image_alt": "Glossy red gochujang sauce coating crisp Korean fried chicken.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

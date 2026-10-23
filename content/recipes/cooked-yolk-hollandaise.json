@@ -1,0 +1,116 @@
+{
+  "slug": "cooked-yolk-hollandaise",
+  "title": "Foolproof Hollandaise Sauce",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "hollandaise-bearnaise-mousseline",
+  "dish_title": "Hollandaise (béarnaise, mousseline)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Egg yolks and soft butter whisked over gently simmering water with boiling water until thick and 71-74 °C, then brightened with lemon and cayenne.",
+  "servings": 6,
+  "prep_min": 5,
+  "cook_min": 12,
+  "difficulty": "medium",
+  "equipment": [
+    "medium saucepan",
+    "large heatproof bowl",
+    "whisk",
+    "instant-read thermometer",
+    "kettle"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter, softened"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Sauce",
+      "qty": 60,
+      "unit": "ml",
+      "item": "boiling water"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "To finish",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Set up a bain-marie",
+      "text": "Bring 1 cm of water to a bare simmer in the saucepan. Rest the heatproof bowl on top so its base is clear of the water."
+    },
+    {
+      "title": "Mix butter and yolks",
+      "text": "Whisk the softened butter and egg yolks together in the bowl until smooth and evenly mixed."
+    },
+    {
+      "title": "Cook to temperature",
+      "text": "Slowly whisk in the boiling water. Keep whisking for 7-10 min until the sauce thickens and an instant-read thermometer shows 71-74 °C."
+    },
+    {
+      "title": "Season and serve",
+      "text": "Lift the bowl off the heat and whisk in the lemon juice, cayenne and salt. Spoon over steamed asparagus straight away."
+    }
+  ],
+  "tips": [
+    "Keep the water at a bare simmer; fierce heat scrambles the yolks.",
+    "If it starts to look grainy, lift the bowl off the heat and whisk hard.",
+    "Hold warm over the turned-off pan for up to 30 min, whisking now and then.",
+    "Add a little more lemon juice to taste."
+  ],
+  "storage": "Best served fresh. Do not reheat or keep leftovers. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 131,
+    "protein_g": 1.6,
+    "carbs_g": 0.4,
+    "sugar_g": 0.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 13.9,
+    "satfat_g": 8.1,
+    "salt_g": 0.14,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "hollandaise-bearnaise-mousseline-basic.jpg",
+  "image_alt": "Pale yellow hollandaise sauce spooned over bright green asparagus spears.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}
