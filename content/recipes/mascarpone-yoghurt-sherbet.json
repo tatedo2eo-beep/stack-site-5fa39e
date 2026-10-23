@@ -1,0 +1,115 @@
+{
+  "slug": "mascarpone-yoghurt-sherbet",
+  "title": "Mascarpone and Yoghurt Sherbet",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sherbet",
+  "dish_title": "Sherbet",
+  "flavour": "Mascarpone",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "fresh-orange-sherbet-creamy",
+  "changes_from_base": "Mascarpone and yoghurt with a sugar syrup and lemon replace the orange juice and cream.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Mascarpone and yoghurt beaten with a sugar syrup and lemon make a light, tangy, creamy sherbet to serve with berries.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "small saucepan",
+    "large bowl",
+    "whisk",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Syrup",
+      "qty": 300,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Syrup",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sherbet",
+      "qty": 350,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt"
+    },
+    {
+      "group": "Sherbet",
+      "qty": 225,
+      "unit": "g",
+      "item": "mascarpone"
+    },
+    {
+      "group": "Sherbet",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "To serve",
+      "qty": 200,
+      "unit": "g",
+      "item": "mixed berries, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Syrup",
+      "text": "Bring the water and sugar to the boil and simmer for 5 min, then cool and chill."
+    },
+    {
+      "title": "Beat",
+      "text": "Beat the yoghurt, mascarpone and lemon juice in the bowl until smooth with no lumps."
+    },
+    {
+      "title": "Combine",
+      "text": "Whisk in about 320 ml of the cold syrup until evenly mixed."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn for 20-25 min, then freeze for 2 h. Serve with fresh berries."
+    }
+  ],
+  "tips": [
+    "Use thick whole-milk yoghurt for the creamiest result.",
+    "Any leftover syrup keeps in the fridge for drinks or fruit salads.",
+    "Serve with lightly sugared strawberries or raspberries."
+  ],
+  "storage": "Keep covered with baking paper on the surface in the freezer for up to 1 week. Soften for 5-10 min before scooping.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 308,
+    "protein_g": 4.1,
+    "carbs_g": 32.8,
+    "sugar_g": 30.7,
+    "free_sugar_g": 25.1,
+    "fat_g": 18.6,
+    "satfat_g": 12.5,
+    "salt_g": 0.11,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Ivory mascarpone sherbet scoops served with mixed fresh berries.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

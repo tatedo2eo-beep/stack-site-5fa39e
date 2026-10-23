@@ -93,8 +93,11 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | black-pepper-slow-onion-spaghetti | Long dried (spaghetti, linguine, bucatini) | Black pepper & onion | 1 | 3 |
 | black-sesame-custard-ice-cream | Custard-base (French) | Black sesame | 1 | 3 |
 | blackberry-cobbler | Cobbler | Blackberry | 1 | 3 |
+| blackberry-lemon-sorbet-sieved | Sorbet | Blackberry | 1 | 3 |
 | blood-orange-chocolate-tart-jelly-top | Chocolate tart | Blood orange | 1 | 3 |
 | blood-orange-marmalade | Marmalade | Classic | 2 | 4 |
+| blood-orange-sherbet-no-cook | Sherbet | Blood orange | 1 | 3 |
+| blood-orange-zest-sorbet | Sorbet | Blood orange | 1 | 3 |
 | blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
 | blueberry-custard-ice-cream | Custard-base (French) | Blueberry | 1 | 3 |
 | blueberry-ginger-sorbet | Sorbet | Blueberry & ginger | 1 | 3 |
@@ -146,6 +149,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cannoli-pistachio-mascarpone-cream | Cannoli | Pistachio | 2 | 4 |
 | cannoli-sicilian-ricotta-chocolate-chip | Cannoli | Classic | 1 | 3 |
 | cantaloupe-custard-ice-cream | Custard-base (French) | Cantaloupe | 1 | 3 |
+| cantaloupe-star-anise-sorbet | Sorbet | Star anise | 1 | 3 |
 | cape-cod-cranberry-blueberry-muffins | American muffin (blueberry style, muffin method) | Cranberry (Cape Cod) | 1 | 3 |
 | caponata-aubergine-celery-capers-olives | Caponata | Classic | 1 | 3 |
 | caprese-panini-mozzarella-tomato-basil | Panini | Caprese | 1 | 3 |
@@ -598,6 +602,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | honey-thyme-custard-ice-cream | Custard-base (French) | Thyme | 1 | 3 |
 | honey-whole-wheat-sandwich-loaf | ? | ? | MISSING | |
 | honey-wholemeal-dinner-rolls | Dinner rolls | Honey | 1 | 3 |
+| honeydew-lime-melon-sorbet | Sorbet | Melon | 1 | 3 |
 | hong-kong-milk-tea-evaporated-milk | Hong Kong-style milk tea | Classic | 1 | 3 |
 | horseradish-mashed-potatoes | Mashed | Horseradish | 3 | 5 |
 | hosomaki-thin-sushi-rolls-tuna-salmon-cucumber | Maki sushi | Classic | 1 | 3 |
@@ -689,6 +694,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-herb-vinaigrette | Vinaigrette | Lemon-herb | 2 | 4 |
 | lemon-mascarpone-gelato | Gelato | Lemon & mascarpone | 1 | 3 |
 | lemon-meringue-pie | Meringue pie (lemon) | Classic | 2 | 4 |
+| lemon-milk-sherbet-blender | Sherbet | Lemon | 1 | 3 |
 | lemon-pepper-chicken-wings | Chicken wings | Lemon pepper | 2 | 5 |
 | lemon-potato-sage-focaccia | Focaccia | Lemon | 1 | 3 |
 | lemon-pound-cake | Pound cake | Lemon | 3 | 5 |
@@ -729,6 +735,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | marshmallow-swirl-custard-ice-cream | Custard-base (French) | Marshmallow | 1 | 3 |
 | masala-chai-custard-ice-cream | Custard-base (French) | Chai spice | 1 | 3 |
 | mascarpone-philadelphia-ice-cream | Philadelphia (no egg) | Mascarpone | 1 | 3 |
+| mascarpone-yoghurt-sherbet | Sherbet | Mascarpone | 1 | 3 |
 | matcha-chiffon-cake | Chiffon | Matcha | 2 | 4 |
 | matzah-ball-soup-chicken-dill | Matzah ball soup | Classic | 2 | 4 |
 | mediterranean-chicken-wraps-feta-peppers-olives | Wraps | Classic | 2 | 4 |
@@ -837,6 +844,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pandesal-filipino-bread-rolls | Pandesal | Classic | 1 | 3 |
 | panettone-orange-raisin-sweet-bread | Panettone | Classic | 1 | 3 |
 | pani-puri-tamarind-mint-water-potato-chickpea | Pani puri | Classic | 2 | 4 |
+| papaya-lime-sorbet | Sorbet | Papaya | 1 | 3 |
 | pappa-al-pomodoro-tuscan-tomato-bread-soup | Pappa al pomodoro | Classic | 2 | 4 |
 | pappardelle-beef-ragu | Pappardelle | Classic | 2 | 4 |
 | parmesan-cream-crackers-crisp | Parmesan crackers | Classic | 1 | 3 |
@@ -1022,6 +1030,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | rosemary-farinata-chickpea-pancake | Farinata | Classic | 2 | 4 |
 | rosemary-garlic-roast-potatoes | Roast potatoes | Rosemary-garlic | 3 | 5 |
 | rosemary-honey-almond-tart | Frangipane | Rosemary & honey | 1 | 3 |
+| rosemary-lime-cream-sorbet | Sorbet | Rosemary | 1 | 3 |
 | rosemary-maple-custard-ice-cream | Custard-base (French) | Rosemary | 1 | 3 |
 | rosemary-potato-flake-rolls | Dinner rolls | Rosemary | 1 | 3 |
 | rugelach | Rugelach | Classic | 2 | 4 |
@@ -1209,6 +1218,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tall-crisp-popovers | Popovers | Classic | 2 | 4 |
 | tall-crisp-yorkshire-puddings | Yorkshire pudding | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
+| tangerine-cream-sherbet | Sherbet | Tangerine | 1 | 3 |
 | tangerine-ginger-curd-tart-chocolate-layer | Chocolate tart | Tangerine & ginger | 1 | 3 |
 | tangy-apple-coleslaw-cider-honey | Coleslaw | Apple | 2 | 4 |
 | tangy-ginger-hoisin-dipping-sauce | Hoisin sauce | Classic | 1 | 3 |

@@ -1,0 +1,109 @@
+{
+  "slug": "cantaloupe-star-anise-sorbet",
+  "title": "Cantaloupe and Star Anise Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Star anise",
+  "flavour_order": 23,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Ripe cantaloupe steeped with whole star anise replaces the mango and lime.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Very ripe cantaloupe steeped with whole star anise gives a sweet, fragrant orange sorbet with a gentle liquorice note.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "food processor or blender",
+    "large saucepan",
+    "fine sieve",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "pc",
+      "item": "very ripe cantaloupe (about 1600 g)"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 6,
+      "unit": "pc",
+      "item": "whole star anise"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 50,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 150,
+      "unit": "ml",
+      "item": "water"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Steep",
+      "text": "Put the purée in the saucepan with the star anise, sugar, corn syrup and water and warm on medium-low, stirring, only until the sugar dissolves."
+    },
+    {
+      "title": "Rest",
+      "text": "Take off the heat and leave for 2 h at room temperature so the anise flavours the melon."
+    },
+    {
+      "title": "Strain",
+      "text": "Press through the sieve, getting out as much juice as you can, then chill until cold."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn for 20-25 min and freeze for at least 2 h."
+    }
+  ],
+  "tips": [
+    "The riper the melon, the better; it should smell strongly sweet.",
+    "Leave the anise in longer for a stronger flavour.",
+    "Keep the star anise and use it again in a syrup or tea."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 124,
+    "protein_g": 1.1,
+    "carbs_g": 31.3,
+    "sugar_g": 30.8,
+    "free_sugar_g": 21.0,
+    "fat_g": 0.3,
+    "satfat_g": 0.1,
+    "salt_g": 0.06,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Soft orange cantaloupe sorbet in a bowl with a whole star anise beside it.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

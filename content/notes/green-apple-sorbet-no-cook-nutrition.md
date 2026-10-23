@@ -4,7 +4,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Granny Smith apples (about 1.2 kg) (about 1 kg peeled, cored flesh) | Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (FDC 171688) | 1000 | 520.0 | 2.6 | 138.1 | 103.90 | 0.00 | 1.7 | 0.28 | 10 | 24.0 |
+| Granny Smith apples (about 1200 g) (about 1000 g peeled, cored flesh) | Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (FDC 171688) | 1000 | 520.0 | 2.6 | 138.1 | 103.90 | 0.00 | 1.7 | 0.28 | 10 | 24.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 60 | 13.2 | 0.2 | 4.1 | 1.51 | 1.51 | 0.1 | 0.02 | 1 | 0.2 |
 | icing sugar | Sugars, powdered (FDC 169656) | 200 | 778.0 | 0.0 | 199.5 | 195.62 | 195.62 | 0.0 | 0.00 | 4 | 0.0 |
 | cold water | Water, tap (SR 14411) | 100 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 4 | 0.0 |

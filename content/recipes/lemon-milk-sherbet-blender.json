@@ -1,0 +1,114 @@
+{
+  "slug": "lemon-milk-sherbet-blender",
+  "title": "Lemon Sherbet",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sherbet",
+  "dish_title": "Sherbet",
+  "flavour": "Lemon",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "fresh-orange-sherbet-creamy",
+  "changes_from_base": "Lemon zest, lemon juice and cold whole milk replace the orange juice and cream; no whipping.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A tangy, refreshing lemon sherbet made in the blender with zest-rubbed sugar, lemon juice and cold whole milk.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "blender",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Sherbet",
+      "qty": 170,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sherbet",
+      "qty": 2,
+      "unit": "pc",
+      "item": "unwaxed lemons, finely grated zest"
+    },
+    {
+      "group": "Sherbet",
+      "qty": 120,
+      "unit": "ml",
+      "item": "lemon juice, chilled"
+    },
+    {
+      "group": "Sherbet",
+      "qty": 30,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Sherbet",
+      "qty": 480,
+      "unit": "ml",
+      "item": "whole milk, very cold"
+    },
+    {
+      "group": "Sherbet",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Zest sugar",
+      "text": "Pulse the sugar and lemon zest in the blender 8-10 times, until the sugar looks damp and pale yellow."
+    },
+    {
+      "title": "Dissolve",
+      "text": "Add the cold lemon juice, corn syrup and salt and blend for 20 seconds."
+    },
+    {
+      "title": "Milk",
+      "text": "With the blender on low, pour in the very cold milk and blend for 30 seconds; cold milk and constant blending stop it curdling."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn straight away for 20-25 min, then freeze for 2-3 h."
+    }
+  ],
+  "tips": [
+    "Everything must be very cold so the milk does not curdle.",
+    "Use unwaxed lemons as you need the zest.",
+    "Serve with blueberries or a thin lemon biscuit."
+  ],
+  "storage": "Keep covered with baking paper on the surface in the freezer for up to 1 week. Soften for 5-10 min before scooping.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 134,
+    "protein_g": 2.0,
+    "carbs_g": 28.3,
+    "sugar_g": 27.6,
+    "free_sugar_g": 24.5,
+    "fat_g": 2.1,
+    "satfat_g": 1.2,
+    "salt_g": 0.11,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale yellow lemon sherbet scoops with grated lemon zest on top.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

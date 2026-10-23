@@ -1,0 +1,116 @@
+{
+  "slug": "blood-orange-zest-sorbet",
+  "title": "Blood Orange Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Blood orange",
+  "flavour_order": 20,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Blood orange juice and a zest-infused syrup replace the mango purée.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Ruby-red and sweet-sharp: fresh blood orange juice stirred into a syrup infused with the orange zest.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "small saucepan",
+    "fine sieve",
+    "large jug",
+    "citrus juicer",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Zest syrup",
+      "qty": 2,
+      "unit": "pc",
+      "item": "strips of blood orange zest, pared with a peeler"
+    },
+    {
+      "group": "Zest syrup",
+      "qty": 160,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Zest syrup",
+      "qty": 200,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Zest syrup",
+      "qty": 20,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 500,
+      "unit": "ml",
+      "item": "blood orange juice (from 7-8 oranges), strained"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Zest",
+      "text": "Peel the zest from two of the oranges in wide strips with a vegetable peeler, leaving the bitter white pith behind."
+    },
+    {
+      "title": "Syrup",
+      "text": "Warm the zest strips with the sugar, water and corn syrup, stirring, just until the sugar dissolves. Cool, chill, then lift out the zest."
+    },
+    {
+      "title": "Juice",
+      "text": "Squeeze the oranges and lemon, then sieve the juice into the cold syrup and stir."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn for 20-25 min until it holds a soft peak, then freeze for at least 2 h. Its colour is deep ruby; serve it with orange segments."
+    }
+  ],
+  "tips": [
+    "Blood oranges are in season in winter; ordinary oranges also work but the colour is paler.",
+    "Keep the pith off the zest strips, as it is bitter.",
+    "Serve with thin orange slices and a few pistachios."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 153,
+    "protein_g": 0.6,
+    "carbs_g": 38.7,
+    "sugar_g": 36.6,
+    "free_sugar_g": 36.6,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.01,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Deep ruby blood orange sorbet scoops with fresh blood orange segments.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

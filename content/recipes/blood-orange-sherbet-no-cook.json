@@ -1,0 +1,120 @@
+{
+  "slug": "blood-orange-sherbet-no-cook",
+  "title": "Blood Orange Sherbet",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sherbet",
+  "dish_title": "Sherbet",
+  "flavour": "Blood orange",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "fresh-orange-sherbet-creamy",
+  "changes_from_base": "Blood orange juice and zest replace the orange and lemon; the cream is whisked straight in rather than whipped, and more corn syrup keeps it soft.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "No cooking at all: blood orange juice and zest whisked with cream and sugar for a creamy, rosy sherbet.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "large bowl",
+    "whisk",
+    "citrus juicer",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Sherbet",
+      "qty": 500,
+      "unit": "ml",
+      "item": "blood orange juice, strained (from about 12 oranges), chilled"
+    },
+    {
+      "group": "Sherbet",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated blood orange zest"
+    },
+    {
+      "group": "Sherbet",
+      "qty": 200,
+      "unit": "ml",
+      "item": "double cream, cold"
+    },
+    {
+      "group": "Sherbet",
+      "qty": 150,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Sherbet",
+      "qty": 90,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Sherbet",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Zest and juice",
+      "text": "Grate the zest from two oranges first, then squeeze them all and strain the juice."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk the juice, zest, cream, corn syrup and sugar together in the bowl until you can no longer feel sugar grains on the base."
+    },
+    {
+      "title": "Season",
+      "text": "Whisk in the salt, taste and add a pinch more if it needs lifting."
+    },
+    {
+      "title": "Chill",
+      "text": "If the oranges were at room temperature, refrigerate the mix for 2-3 h."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn for 20-30 min; eat it soft or freeze for 4 h for firmer scoops."
+    }
+  ],
+  "tips": [
+    "Chill the oranges before juicing and you can churn straight away.",
+    "Corn syrup keeps the sherbet soft enough to scoop straight from the freezer.",
+    "Ordinary oranges work too; the colour will be paler."
+  ],
+  "storage": "Keep covered with baking paper on the surface in the freezer for up to 1 week. Soften for 5-10 min before scooping.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 211,
+    "protein_g": 1.2,
+    "carbs_g": 33.2,
+    "sugar_g": 31.8,
+    "free_sugar_g": 31.1,
+    "fat_g": 9.2,
+    "satfat_g": 5.8,
+    "salt_g": 0.23,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Creamy pink-red blood orange sherbet scoops in a glass dish.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

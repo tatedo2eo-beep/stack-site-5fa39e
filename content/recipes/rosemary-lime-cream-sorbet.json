@@ -1,0 +1,123 @@
+{
+  "slug": "rosemary-lime-cream-sorbet",
+  "title": "Rosemary and Lime Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Rosemary",
+  "flavour_order": 22,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "A rosemary-infused milk and cream base sharpened with lime replaces the fruit purée, so this sorbet is creamy rather than fruity.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "An unusual creamy sorbet: milk and cream infused with rosemary, then sharpened with plenty of lime.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "large saucepan",
+    "whisk",
+    "fine sieve",
+    "bowl",
+    "blender (if needed)",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 350,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Base",
+      "qty": 350,
+      "unit": "ml",
+      "item": "single (light) cream"
+    },
+    {
+      "group": "Base",
+      "qty": 140,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 60,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Base",
+      "qty": 2,
+      "unit": "pc",
+      "item": "rosemary sprigs (about 10 cm each)"
+    },
+    {
+      "group": "Finish",
+      "qty": 75,
+      "unit": "ml",
+      "item": "lime juice (about 3 limes)"
+    },
+    {
+      "group": "Finish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lime, finely grated zest"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse",
+      "text": "Put the milk, cream, sugar, corn syrup and rosemary in the large pan and bring just to the boil, watching that it does not rise over the top."
+    },
+    {
+      "title": "Strain and cool",
+      "text": "Take off the heat, leave for 10 min, then strain into the bowl. Cool, then refrigerate until very cold."
+    },
+    {
+      "title": "Add the lime",
+      "text": "Whisk the lime juice into the cold base a little at a time, then the zest. If it starts to look grainy, whisk hard or blend for a few seconds."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn for 20-25 min, then freeze for 2-3 h. Serve small scoops with a tiny rosemary sprig."
+    }
+  ],
+  "tips": [
+    "Make sure the base is fridge-cold before adding the lime, or it may split.",
+    "Do not steep the rosemary too long, or it tastes medicinal.",
+    "Lovely with grilled peaches or fresh figs."
+  ],
+  "storage": "Keep covered with baking paper on the surface in the freezer for up to 1 week. Soften for 5-10 min before scooping.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 177,
+    "protein_g": 2.8,
+    "carbs_g": 28.2,
+    "sugar_g": 27.5,
+    "free_sugar_g": 23.4,
+    "fat_g": 6.5,
+    "satfat_g": 3.9,
+    "salt_g": 0.13,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Creamy white rosemary and lime sorbet with a small rosemary sprig and lime zest.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

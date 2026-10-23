@@ -9,7 +9,7 @@ Dish: Sorbet / flavour: Watermelon. Private file, not published.
 > Written for this batch. Quantities, step structure and wording are my own and differ from the source; checked against our sorbet base (about 20-25% sugar by weight of fruit or liquid, some corn syrup where it helps scooping).
 
 ## Own cooking judgment
-- 1.2 kg flesh frozen on a tray, 120 g yoghurt, 40 g sugar; no machine.
+- 1200 g flesh frozen on a tray, 120 g yoghurt, 40 g sugar; no machine.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

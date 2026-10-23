@@ -1,0 +1,125 @@
+{
+  "slug": "honeydew-lime-melon-sorbet",
+  "title": "Honeydew Melon Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Melon",
+  "flavour_order": 19,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Ripe honeydew with a light sugar and corn syrup and lime replaces the mango.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A pale green, gently sweet sorbet of ripe honeydew melon brightened with lime.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "blender",
+    "fine sieve",
+    "large jug",
+    "freezer container with lid",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Syrup",
+      "qty": 80,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Syrup",
+      "qty": 90,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 45,
+      "unit": "g",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "pc",
+      "item": "ripe honeydew or other green-fleshed melon (about 1600 g)"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Syrup",
+      "text": "Heat the water and sugar in the small pan until it boils and turns clear, then stir in the corn syrup and cool."
+    },
+    {
+      "title": "Prepare the melon",
+      "text": "Halve it, scoop out the seeds, cut away the rind and dice the flesh; you need about 900 g."
+    },
+    {
+      "title": "Blend",
+      "text": "Whizz the melon with the cool syrup, lime juice and salt until smooth. A very ripe melon needs no more sugar than this."
+    },
+    {
+      "title": "Chill",
+      "text": "Refrigerate for at least 2 h or overnight, and put the empty container in the freezer."
+    },
+    {
+      "title": "Churn",
+      "text": "Blend again for a few seconds, then churn for 20-25 min."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pack into the cold container and freeze for 2 h; it sets firm, so soften in the fridge for 15-20 min before scooping."
+    }
+  ],
+  "tips": [
+    "A ripe honeydew smells sweet at the stem end and gives slightly when pressed.",
+    "Cantaloupe or Galia melon work the same way.",
+    "Add a few mint leaves to the blender for a fresher taste."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 135,
+    "protein_g": 0.8,
+    "carbs_g": 34.8,
+    "sugar_g": 33.0,
+    "free_sugar_g": 20.8,
+    "fat_g": 0.2,
+    "satfat_g": 0.1,
+    "salt_g": 0.13,
+    "fibre_g": 1.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale green honeydew melon sorbet scoops with a lime wedge.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

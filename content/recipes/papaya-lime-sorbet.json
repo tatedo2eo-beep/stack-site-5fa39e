@@ -1,0 +1,107 @@
+{
+  "slug": "papaya-lime-sorbet",
+  "title": "Papaya and Lime Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Papaya",
+  "flavour_order": 24,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Ripe papaya and plenty of lime replace the mango; no corn syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A smooth coral sorbet of ripe papaya and plenty of fresh lime.",
+  "servings": 5,
+  "prep_min": 15,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "blender",
+    "fine sieve",
+    "large jug",
+    "freezer container with lid",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Syrup",
+      "qty": 120,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 2,
+      "unit": "pc",
+      "item": "ripe papayas (about 1200 g)"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 75,
+      "unit": "ml",
+      "item": "lime juice (about 3 limes)"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simple syrup",
+      "text": "Boil the sugar and water together for 1 min, then cool completely. Purée: halve the papayas, scoop out the black seeds, spoon the flesh from the skin and blend it until smooth."
+    },
+    {
+      "title": "Flavour",
+      "text": "Blend in the cold syrup, the lime juice and salt. Papaya is mild, so taste and add more lime if it seems flat."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Chill for 2 h, churn for 20-25 min, then freeze for 2 h. Serve with lime wedges."
+    }
+  ],
+  "tips": [
+    "Choose papayas that are mostly yellow and give slightly when pressed.",
+    "Scrape the seeds out well; they taste peppery.",
+    "A pinch of chilli on top adds a nice kick."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 157,
+    "protein_g": 0.7,
+    "carbs_g": 40.4,
+    "sugar_g": 35.2,
+    "free_sugar_g": 24.2,
+    "fat_g": 0.4,
+    "satfat_g": 0.1,
+    "salt_g": 0.18,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Coral-orange papaya sorbet scoops with lime wedges.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

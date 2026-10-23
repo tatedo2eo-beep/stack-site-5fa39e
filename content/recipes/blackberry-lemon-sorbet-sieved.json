@@ -1,0 +1,106 @@
+{
+  "slug": "blackberry-lemon-sorbet-sieved",
+  "title": "Blackberry Sorbet",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sorbet",
+  "dish_title": "Sorbet",
+  "flavour": "Blackberry",
+  "flavour_order": 21,
+  "access": "premium",
+  "base_recipe": "mango-lime-sorbet",
+  "changes_from_base": "Seedless blackberry purée and a plain syrup with lemon replace the mango; no corn syrup.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A deep purple sorbet of ripe blackberries, milled free of seeds and sharpened with lemon.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "small saucepan",
+    "food mill with fine disc or fine sieve",
+    "bowl",
+    "freezer container with lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Syrup",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Syrup",
+      "qty": 200,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 600,
+      "unit": "g",
+      "item": "ripe blackberries (fresh or thawed frozen)"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice, or to taste"
+    },
+    {
+      "group": "Sorbet",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Syrup",
+      "text": "Bring the sugar and water to the boil, stirring until no sugar grains are left, then cool and refrigerate. Purée: pass the blackberries through the food mill, or blend them briefly and press through the sieve, to leave the hard seeds behind."
+    },
+    {
+      "title": "Mix",
+      "text": "Whisk the cold syrup, lemon juice and salt into the purée, taste and add a little more lemon if needed. Chill until cold."
+    },
+    {
+      "title": "Churn and freeze",
+      "text": "Churn for 20-25 min, then pack into the container and freeze for about 2 h."
+    }
+  ],
+  "tips": [
+    "Late-summer wild or garden blackberries have the best flavour.",
+    "Frozen blackberries are fine; thaw them in a sieve over a bowl and keep the juice.",
+    "Taste the base cold and adjust the lemon before churning."
+  ],
+  "storage": "Keep covered in the freezer for up to 1 week; sorbet turns icy after that. Soften for 10 min before scooping.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 106,
+    "protein_g": 1.1,
+    "carbs_g": 26.2,
+    "sugar_g": 22.5,
+    "free_sugar_g": 18.8,
+    "fat_g": 0.4,
+    "satfat_g": 0.0,
+    "salt_g": 0.1,
+    "fibre_g": 4.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Dark purple blackberry sorbet scoops topped with whole blackberries.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

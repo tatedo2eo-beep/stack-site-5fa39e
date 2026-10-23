@@ -7,7 +7,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | water | Water, tap (SR 14411) | 150 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 6 | 0.0 |
 | vanilla pod, split | ESTIMATE: scraped seeds of cured vanilla bean (approximate literature composition; mostly fibre-rich carbohydrate) | 3 | 6.9 | 0.1 | 1.5 | 0.36 | 0.00 | 0.4 | 0.07 | 0 | 0.9 |
 | caster sugar | Sugars, granulated (SR 19335) | 140 | 541.8 | 0.0 | 140.0 | 139.72 | 139.72 | 0.0 | 0.00 | 1 | 0.0 |
-| large ripe pears, peeled, cored and quartered (about 1.1 kg) (about 1 kg prepared) | Pears, raw (FDC 169118) | 1000 | 570.0 | 3.6 | 152.3 | 97.50 | 0.00 | 1.4 | 0.22 | 10 | 31.0 |
+| large ripe pears, peeled, cored and quartered (about 1100 g) (about 1000 g prepared) | Pears, raw (FDC 169118) | 1000 | 570.0 | 3.6 | 152.3 | 97.50 | 0.00 | 1.4 | 0.22 | 10 | 31.0 |
 | honey | Honey (SR 19296) | 30 | 91.2 | 0.1 | 24.7 | 24.64 | 24.64 | 0.0 | 0.00 | 1 | 0.1 |
 | light corn syrup or glucose syrup | Syrups, corn, light (FDC 168837) | 30 | 84.9 | 0.0 | 23.0 | 23.03 | 23.03 | 0.1 | 0.00 | 19 | 0.0 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 15 | 3.3 | 0.1 | 1.0 | 0.38 | 0.38 | 0.0 | 0.01 | 0 | 0.0 |

@@ -9,7 +9,7 @@ Dish: Sorbet / flavour: Pear & vanilla. Private file, not published.
 > Written for this batch. Quantities, step structure and wording are my own and differ from the source; checked against our sorbet base (about 20-25% sugar by weight of fruit or liquid, some corn syrup where it helps scooping).
 
 ## Own cooking judgment
-- 1 kg pears, 140 g sugar, 30 g honey, 30 g corn syrup for 8.
+- 1000 g pears, 140 g sugar, 30 g honey, 30 g corn syrup for 8.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

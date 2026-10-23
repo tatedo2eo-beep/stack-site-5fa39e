@@ -9,7 +9,7 @@ Dish: Sorbet / flavour: Peach. Private file, not published.
 > Written for this batch. Quantities, step structure and wording are my own and differ from the source; checked against our sorbet base (about 20-25% sugar by weight of fruit or liquid, some corn syrup where it helps scooping).
 
 ## Own cooking judgment
-- 1.2 kg peaches, 190 g sugar plus 30 g corn syrup for 8.
+- 1200 g peaches, 190 g sugar plus 30 g corn syrup for 8.
 
 ## Reliability checks
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).

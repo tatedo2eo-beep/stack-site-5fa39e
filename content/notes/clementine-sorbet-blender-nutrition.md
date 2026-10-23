@@ -4,7 +4,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| clementines, well chilled (about 1.7 kg) (about 900 ml strained juice) | Tangerine juice, raw (FDC 169925) | 935 | 402.1 | 4.7 | 94.4 | 92.56 | 92.56 | 1.9 | 0.22 | 9 | 1.9 |
+| clementines, well chilled (about 1700 g) (about 900 ml strained juice) | Tangerine juice, raw (FDC 169925) | 935 | 402.1 | 4.7 | 94.4 | 92.56 | 92.56 | 1.9 | 0.22 | 9 | 1.9 |
 | caster sugar | Sugars, granulated (SR 19335) | 180 | 696.6 | 0.0 | 180.0 | 179.64 | 179.64 | 0.0 | 0.00 | 2 | 0.0 |
 | light corn syrup or glucose syrup | Syrups, corn, light (FDC 168837) | 30 | 84.9 | 0.0 | 23.0 | 23.03 | 23.03 | 0.1 | 0.00 | 19 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 0.75 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 291 | 0.0 |
