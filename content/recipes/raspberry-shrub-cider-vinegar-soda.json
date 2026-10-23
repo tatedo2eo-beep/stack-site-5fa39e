@@ -1,0 +1,116 @@
+{
+  "slug": "raspberry-shrub-cider-vinegar-soda",
+  "title": "Raspberry Shrub with Cider Vinegar and Soda",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "shrubs",
+  "dish_title": "Shrubs",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Raspberries macerated in sugar for a day, strained and sharpened with cider vinegar, then served as a tangy, fruity soda over ice.",
+  "servings": 10,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "medium bowl",
+    "potato masher or fork",
+    "fine-mesh sieve",
+    "whisk",
+    "clean 500 ml bottle or jar with lid",
+    "tall glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Shrub syrup",
+      "qty": 200,
+      "unit": "g",
+      "item": "fresh or frozen raspberries"
+    },
+    {
+      "group": "Shrub syrup",
+      "qty": 200,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Shrub syrup",
+      "qty": 240,
+      "unit": "ml",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "To serve (10 drinks)",
+      "qty": 1000,
+      "unit": "g",
+      "item": "ice"
+    },
+    {
+      "group": "To serve (10 drinks)",
+      "qty": 1800,
+      "unit": "ml",
+      "item": "soda water, very cold",
+      "note": "180 ml a glass"
+    },
+    {
+      "group": "To serve (10 drinks)",
+      "qty": 30,
+      "unit": "pc",
+      "item": "fresh raspberries, to garnish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Macerate",
+      "text": "Lightly crush the raspberries with the sugar in a bowl. Cover and refrigerate for 24 hours, stirring once or twice, until the fruit has released a deep red syrup. No heat is used, so the berry flavour stays fresh."
+    },
+    {
+      "title": "Strain",
+      "text": "Tip the mixture into a sieve set over a bowl and press gently to get all the juice out, then scrape in any sugar left behind. Discard the pulp."
+    },
+    {
+      "title": "Add the vinegar",
+      "text": "Whisk in the cider vinegar for a minute or two, until most of the sugar has dissolved."
+    },
+    {
+      "title": "Bottle",
+      "text": "Pour into a clean bottle, seal, label with the date and refrigerate. Shake it every day or so. It is good straight away, but the sharpness softens and the last sugar dissolves over about a week."
+    },
+    {
+      "title": "Serve",
+      "text": "For each drink, fill a tall glass with ice, pour in 45 ml of shrub syrup and top with 180 ml of soda water. Stir once and add a few raspberries."
+    }
+  ],
+  "tips": [
+    "Start with 30 ml of syrup a glass if you are new to drinking vinegars, then work up.",
+    "A common mistake is pressing the pulp too hard, which clouds the syrup; press gently.",
+    "Use the syrup in still water or over crushed ice for a less fizzy drink."
+  ],
+  "storage": "Keep the syrup in a sealed bottle in the fridge for up to 1 month. Mix the drinks to order. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 88,
+    "protein_g": 0.1,
+    "carbs_g": 21.4,
+    "sugar_g": 20.5,
+    "free_sugar_g": 20.0,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.0,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "shrubs-basic.jpg",
+  "image_alt": "A tall glass of ruby-red raspberry shrub soda over ice with fresh raspberries."
+}

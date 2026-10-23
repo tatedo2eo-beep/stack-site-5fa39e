@@ -1,0 +1,130 @@
+{
+  "slug": "switchel-ginger-maple-cider-vinegar",
+  "title": "Switchel: Ginger, Maple and Cider Vinegar Cooler",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "switchel",
+  "dish_title": "Switchel",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A tangy, gingery old-fashioned farm cooler of cider vinegar sweetened with maple syrup, with a little oats for body, steeped overnight and served over ice.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan",
+    "fine-mesh sieve",
+    "2 litre jug or jar with lid",
+    "grater"
+  ],
+  "ingredients": [
+    {
+      "group": "Infusion",
+      "qty": 1400,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Infusion",
+      "qty": 25,
+      "unit": "g",
+      "item": "fresh ginger, finely grated (no need to peel)",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Infusion",
+      "qty": 20,
+      "unit": "g",
+      "item": "rolled oats",
+      "note": "about 3 tbsp"
+    },
+    {
+      "group": "Infusion",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "To finish",
+      "qty": 120,
+      "unit": "ml",
+      "item": "pure maple syrup"
+    },
+    {
+      "group": "To finish",
+      "qty": 180,
+      "unit": "ml",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "To finish",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 800,
+      "unit": "g",
+      "item": "ice"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse",
+      "text": "Put the water, grated ginger, oats and lemon zest in a large saucepan and bring just to a simmer over medium-high heat. Take it off the heat as soon as the first bubbles appear."
+    },
+    {
+      "title": "Season",
+      "text": "Stir in the maple syrup, cider vinegar and salt until dissolved, then leave until cool."
+    },
+    {
+      "title": "Chill",
+      "text": "Pour into a jug or jar, cover and refrigerate for at least 6 hours and up to 24 hours. The ginger heat builds the longer it sits, while the oats give the drink a soft, rounded body."
+    },
+    {
+      "title": "Strain and serve",
+      "text": "Pour through a fine sieve, pressing on the solids, then serve over ice with lemon slices."
+    }
+  ],
+  "tips": [
+    "Taste after 6 hours; strain sooner if the ginger is getting too fiery for you.",
+    "Top each glass with soda water for a sparkling version.",
+    "Grate the ginger on a fine grater to get the most flavour."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days after straining. Stir before pouring. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 60,
+    "protein_g": 0.1,
+    "carbs_g": 14.2,
+    "sugar_g": 12.2,
+    "free_sugar_g": 12.1,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.19,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "switchel-basic.jpg",
+  "image_alt": "A jar of golden switchel over ice with fresh ginger and lemon."
+}

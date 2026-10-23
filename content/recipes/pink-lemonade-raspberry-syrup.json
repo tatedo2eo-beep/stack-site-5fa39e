@@ -1,0 +1,126 @@
+{
+  "slug": "pink-lemonade-raspberry-syrup",
+  "title": "Pink Lemonade with Raspberry Syrup",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "lemonade",
+  "dish_title": "Lemonade",
+  "flavour": "Pink",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "Classic lemonade turned pale pink with a quick cooked raspberry syrup and a pinch of salt. The fruit gives the colour, so no food colouring is needed.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan",
+    "fine-mesh sieve",
+    "wooden spoon",
+    "citrus juicer",
+    "2.5 litre jug"
+  ],
+  "ingredients": [
+    {
+      "group": "Raspberry syrup",
+      "qty": 250,
+      "unit": "g",
+      "item": "fresh or frozen raspberries"
+    },
+    {
+      "group": "Raspberry syrup",
+      "qty": 130,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Raspberry syrup",
+      "qty": 400,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Raspberry syrup",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Lemonade",
+      "qty": 240,
+      "unit": "ml",
+      "item": "fresh lemon juice",
+      "note": "from 6-8 lemons"
+    },
+    {
+      "group": "Lemonade",
+      "qty": 1400,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "To serve",
+      "qty": 800,
+      "unit": "g",
+      "item": "ice"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, sliced into thin rounds"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simmer",
+      "text": "Bring the raspberries, sugar and water to a lively simmer, stirring now and then. Cook for 6-8 minutes (up to 12 minutes from frozen), until the berries have collapsed and the liquid is slightly syrupy."
+    },
+    {
+      "title": "Strain",
+      "text": "Take the pan off the heat and stir in the salt, which sharpens the fruit. Pour through a fine sieve into the jug, pressing on the pulp, and discard the seeds."
+    },
+    {
+      "title": "Cool",
+      "text": "Leave the syrup to cool for 15 minutes. You can also make it ahead and keep it covered in the fridge for up to a week."
+    },
+    {
+      "title": "Mix",
+      "text": "Stir in the lemon juice and cold water. Taste and add more lemon if you like it sharper."
+    },
+    {
+      "title": "Serve",
+      "text": "Pour over ice and float a few thin lemon rounds on top."
+    }
+  ],
+  "tips": [
+    "Frozen raspberries work just as well as fresh and are often cheaper.",
+    "A common mistake is adding the lemon juice to hot syrup, which dulls its flavour; let the syrup cool first.",
+    "For a deeper pink, use 300 g raspberries."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 79,
+    "protein_g": 0.3,
+    "carbs_g": 20.6,
+    "sugar_g": 17.8,
+    "free_sugar_g": 17.0,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.09,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "lemonade-basic--pink.jpg",
+  "image_alt": "Pale pink lemonade over ice with thin lemon slices."
+}

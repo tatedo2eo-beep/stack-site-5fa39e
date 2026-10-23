@@ -1,0 +1,111 @@
+{
+  "slug": "peanut-butter-banana-smoothie-thick",
+  "title": "Thick Peanut Butter Banana Smoothie",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "smoothies",
+  "dish_title": "Smoothies",
+  "flavour": "Banana-peanut butter",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A thick, creamy breakfast smoothie of frozen banana, peanut butter, milk and yoghurt, with a pinch of salt to bring out the nutty flavour.",
+  "servings": 2,
+  "prep_min": 5,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "blender",
+    "spatula",
+    "2 glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Smoothie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "ripe bananas, sliced and frozen (about 240 g peeled)"
+    },
+    {
+      "group": "Smoothie",
+      "qty": 32,
+      "unit": "g",
+      "item": "smooth peanut butter",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Smoothie",
+      "qty": 240,
+      "unit": "ml",
+      "item": "cold whole milk"
+    },
+    {
+      "group": "Smoothie",
+      "qty": 120,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt"
+    },
+    {
+      "group": "Smoothie",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Smoothie",
+      "qty": 4,
+      "unit": "pc",
+      "item": "ice cubes (about 100 g)",
+      "note": "only if the bananas are not frozen"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Freeze",
+      "text": "Slice the peeled bananas, spread them on a plate and freeze for at least 2 hours, or overnight in a bag. Frozen banana makes the smoothie thick and cold without watering it down."
+    },
+    {
+      "title": "Load",
+      "text": "Pour the milk and yoghurt into the blender first so the blades turn freely, then add the peanut butter, salt and frozen banana."
+    },
+    {
+      "title": "Blend",
+      "text": "Pulse a few times to break up the banana, then blend on high for about a minute, scraping down once, until completely smooth."
+    },
+    {
+      "title": "Adjust",
+      "text": "If it is too thick to pour, blend in a splash more milk. If your bananas were not frozen, blend in the ice now. Pour into glasses and serve."
+    }
+  ],
+  "tips": [
+    "The riper the banana, the sweeter the smoothie, so no added sugar is needed.",
+    "Freeze ripe bananas in slices so they are always ready.",
+    "Swap the yoghurt for more milk for a thinner drink."
+  ],
+  "storage": "Best drunk straight away; it separates as it stands. Shake or re-blend briefly if needed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "peanuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 314,
+    "protein_g": 10.8,
+    "carbs_g": 39.7,
+    "sugar_g": 25.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 14.6,
+    "satfat_g": 5.3,
+    "salt_g": 0.52,
+    "fibre_g": 3.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "smoothies-basic--banana-peanut-butter.jpg",
+  "image_alt": "A thick, creamy peanut butter and banana smoothie in a glass, with banana and peanuts nearby."
+}

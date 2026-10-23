@@ -1,0 +1,119 @@
+{
+  "slug": "strawberry-milkshake-whipped-cream",
+  "title": "Strawberry Milkshake with Whipped Cream",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "milkshakes",
+  "dish_title": "Milkshakes",
+  "flavour": "Strawberry",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A thick strawberry milkshake made by puréeing the fruit first, then blending it briefly with vanilla ice cream, topped with whipped cream and a whole berry.",
+  "servings": 2,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "blender or food processor",
+    "whisk and bowl",
+    "2 tall glasses, chilled"
+  ],
+  "ingredients": [
+    {
+      "group": "Shake",
+      "qty": 300,
+      "unit": "g",
+      "item": "frozen strawberries, thawed (or ripe fresh strawberries, hulled)"
+    },
+    {
+      "group": "Shake",
+      "qty": 300,
+      "unit": "g",
+      "item": "vanilla ice cream",
+      "note": "about 4 scoops"
+    },
+    {
+      "group": "Shake",
+      "qty": 60,
+      "unit": "ml",
+      "item": "cold whole milk"
+    },
+    {
+      "group": "Shake",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "To top",
+      "qty": 80,
+      "unit": "ml",
+      "item": "cold double cream"
+    },
+    {
+      "group": "To top",
+      "qty": 4,
+      "unit": "g",
+      "item": "icing or caster sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "To top",
+      "qty": 2,
+      "unit": "pc",
+      "item": "whole strawberries, to garnish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Put 2 tall glasses in the freezer and leave the ice cream on the counter for 10-15 minutes, until it is just scoopable."
+    },
+    {
+      "title": "Whip",
+      "text": "Whisk the cream and sugar to soft peaks and keep it in the fridge."
+    },
+    {
+      "title": "Purée",
+      "text": "Blend the thawed strawberries on their own for about a minute until completely smooth. Doing this first means no lumps of fruit are left."
+    },
+    {
+      "title": "Blend",
+      "text": "Add the ice cream, milk and salt and blend just until smooth and thick, 20-30 s. Blending for longer warms and thins the shake."
+    },
+    {
+      "title": "Top",
+      "text": "Pour into the cold glasses, spoon a cloud of whipped cream onto each and finish with a whole strawberry."
+    }
+  ],
+  "tips": [
+    "Thawed frozen strawberries give a deeper pink and stronger flavour than out-of-season fresh berries.",
+    "For a thinner shake, add another 30 ml of milk.",
+    "Use squirty cream from a can if you are short of time."
+  ],
+  "storage": "Serve immediately; milkshakes do not keep. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 526,
+    "protein_g": 8.5,
+    "carbs_g": 52.7,
+    "sugar_g": 44.6,
+    "free_sugar_g": 33.8,
+    "fat_g": 32.4,
+    "satfat_g": 20.0,
+    "salt_g": 0.46,
+    "fibre_g": 4.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "milkshakes-basic--strawberry.jpg",
+  "image_alt": "A pink strawberry milkshake topped with whipped cream and a whole strawberry."
+}

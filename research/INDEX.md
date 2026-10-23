@@ -619,6 +619,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | peach-ginger-shrub-cider-vinegar-soda | Shrubs | Peach | 2 | 4 |
 | peach-melba-poached-peaches-raspberry-sauce | Peach Melba | Classic | 2 | 4 |
 | peach-nectarine-galette | Galette/crostata | Classic | 2 | 4 |
+| peanut-butter-banana-smoothie-thick | Smoothies | Banana-peanut butter | 2 | 4 |
 | peanut-butter-cookies | Peanut butter | Classic | 3 | 5 |
 | peanut-butter-fudge-chopped-peanuts | Fudge | Peanut butter | 2 | 4 |
 | pear-upside-down-cake | Upside-down | Pear | 2 | 4 |
@@ -638,6 +639,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pickle-caper-tartar-sauce | Tartar sauce | Classic | 2 | 4 |
 | pinakbet-prawns-squash-bitter-melon | Pinakbet | Classic | 2 | 4 |
 | pineapple-upside-down-cake | Upside-down | Pineapple | 2 | 4 |
+| pink-lemonade-raspberry-syrup | Lemonade | Pink | 2 | 4 |
 | piri-piri-chicken | Piri-piri | Classic | 2 | 4 |
 | pistachio-baklava-green-pistachio-squares | Baklava | Pistachio | 3 | 5 |
 | pistachio-gelato-steeped-pistachio-milk | Gelato | Classic | 1 | 3 |
@@ -677,6 +679,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | raspberry-glazed-laminated-cronut-style-doughnuts | Cronut-style laminated | Classic | 1 | 3 |
 | raspberry-jam-filled-berliner-doughnuts | Filled (Berliner/bomboloni/jam) | Classic | 2 | 4 |
 | raspberry-macarons-raspberry-buttercream | Macarons | Raspberry | 2 | 4 |
+| raspberry-shrub-cider-vinegar-soda | Shrubs | Classic | 2 | 4 |
 | raspberry-thumbprint-cookies | Thumbprints | Raspberry | 3 | 5 |
 | red-chilaquiles-fried-eggs-crema | Chilaquiles | Classic | 2 | 4 |
 | red-chile-chicken-enchiladas-cheddar-crema | Enchilada | Classic | 2 | 4 |
@@ -820,6 +823,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | strawberry-eton-mess | Eton mess | Classic | 2 | 4 |
 | strawberry-granita-fork-scraped | Granita | Strawberry | 2 | 4 |
 | strawberry-jam-filled-orange-doughnuts | Sufganiyot | Classic | 1 | 3 |
+| strawberry-lemonade-fresh-berries | Lemonade | Strawberry | 2 | 4 |
+| strawberry-milkshake-whipped-cream | Milkshakes | Strawberry | 1 | 3 |
 | strawberry-philadelphia-ice-cream-no-egg | Philadelphia (no egg) | Classic | 1 | 3 |
 | strawberry-sorbet-fresh-berries | Sorbet | Strawberry | 2 | 4 |
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
@@ -834,6 +839,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | sweetcorn-crusted-beef-chicken-bake-olives-egg | Pastel de choclo | Classic | 3 | 5 |
 | swirled-chocolate-babka-syrup-glaze | Babka | Classic | 3 | 5 |
 | swiss-rosti | Rösti | Classic | 2 | 4 |
+| switchel-ginger-maple-cider-vinegar | Switchel | Classic | 1 | 3 |
 | tafelspitz-apple-horseradish | Tafelspitz | Classic | 2 | 4 |
 | tall-crisp-popovers | Popovers | Classic | 2 | 4 |
 | tall-crisp-yorkshire-puddings | Yorkshire pudding | Classic | 2 | 4 |

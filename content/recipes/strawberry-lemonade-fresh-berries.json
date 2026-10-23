@@ -1,0 +1,127 @@
+{
+  "slug": "strawberry-lemonade-fresh-berries",
+  "title": "Strawberry Lemonade with Fresh Berries",
+  "category": "drinks",
+  "cuisine": "American",
+  "chapter": "drinks",
+  "book_chapter": "drinks",
+  "dish": "lemonade",
+  "dish_title": "Lemonade",
+  "flavour": "Strawberry",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A bright red lemonade made from strawberries macerated with sugar and lemon zest, mashed, strained and topped up with plenty of fresh lemon juice.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "grater or zester",
+    "large bowl",
+    "potato masher",
+    "citrus juicer",
+    "fine-mesh sieve",
+    "2.5 litre jug"
+  ],
+  "ingredients": [
+    {
+      "group": "Strawberry base",
+      "qty": 2,
+      "unit": "pc",
+      "item": "lemons, scrubbed",
+      "note": "zest only; then juice them"
+    },
+    {
+      "group": "Strawberry base",
+      "qty": 340,
+      "unit": "g",
+      "item": "ripe strawberries, hulled and quartered"
+    },
+    {
+      "group": "Strawberry base",
+      "qty": 150,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Lemonade",
+      "qty": 240,
+      "unit": "ml",
+      "item": "fresh lemon juice",
+      "note": "from 6-8 lemons, including the 2 above"
+    },
+    {
+      "group": "Lemonade",
+      "qty": 1400,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "To serve",
+      "qty": 800,
+      "unit": "g",
+      "item": "ice"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, sliced into rounds"
+    },
+    {
+      "group": "To serve",
+      "qty": 6,
+      "unit": "pc",
+      "item": "strawberries, halved, to garnish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Macerate",
+      "text": "Finely grate the zest of 2 lemons over the strawberries and sugar in a large bowl. Toss and leave for 45 minutes at room temperature, stirring now and then, until the sugar has melted into a red syrup. The zest adds lemon oil that juice alone cannot."
+    },
+    {
+      "title": "Juice",
+      "text": "Meanwhile, juice the zested lemons and enough extra lemons to make 240 ml."
+    },
+    {
+      "title": "Mash",
+      "text": "Crush the berries thoroughly with a potato masher. Stir in the lemon juice and 500 ml of the cold water until no grains of sugar remain."
+    },
+    {
+      "title": "Strain",
+      "text": "Press everything through a fine sieve into the jug and discard the pulp. Stir in the remaining 900 ml of water, taste, and add a splash more water if it is too sharp."
+    },
+    {
+      "title": "Serve",
+      "text": "Chill, or pour straight over ice. Add lemon rounds and strawberry halves to the jug."
+    }
+  ],
+  "tips": [
+    "Use very ripe, deep red strawberries for the best colour.",
+    "For a fizzy version, use 900 ml of cold soda water for the final top-up and serve straight away.",
+    "Taste before serving: lemons vary, so adjust with water or a little more juice."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days. Add the garnish just before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 88,
+    "protein_g": 0.3,
+    "carbs_g": 23.0,
+    "sugar_g": 20.8,
+    "free_sugar_g": 19.5,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.0,
+    "fibre_g": 0.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "lemonade-basic--strawberry.jpg",
+  "image_alt": "Red strawberry lemonade over ice with fresh strawberries and lemon slices."
+}
