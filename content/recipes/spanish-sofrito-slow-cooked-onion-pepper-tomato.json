@@ -1,0 +1,153 @@
+{
+  "slug": "spanish-sofrito-slow-cooked-onion-pepper-tomato",
+  "title": "Spanish Sofrito with Slow-Cooked Onion, Peppers and Tomato",
+  "category": "snacks-sides",
+  "cuisine": "Spanish",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "sofrito",
+  "dish_title": "Sofrito",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A deeply savoury base of slow-cooked onion, peppers and tomato, cooked down until sweet, jammy and intensely flavoured.",
+  "servings": 16,
+  "prep_min": 20,
+  "cook_min": 75,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "box grater",
+    "heavy saucepan (about 3 litres)",
+    "wooden spoon",
+    "airtight container"
+  ],
+  "ingredients": [
+    {
+      "group": "Sofrito",
+      "qty": 120,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sofrito",
+      "qty": 5,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Sofrito",
+      "qty": 4,
+      "unit": "pc",
+      "item": "medium onions, finely diced",
+      "note": "about 600 g"
+    },
+    {
+      "group": "Sofrito",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large green pepper, finely diced"
+    },
+    {
+      "group": "Sofrito",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large red pepper, finely diced"
+    },
+    {
+      "group": "Sofrito",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium leek, white and light green parts, washed and finely diced (optional)"
+    },
+    {
+      "group": "Sofrito",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Sofrito",
+      "qty": 2,
+      "unit": "pc",
+      "item": "ripe tomatoes, halved and grated, skins discarded"
+    },
+    {
+      "group": "Sofrito",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Sofrito",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Sofrito",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "tomato paste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat",
+      "text": "Heat 120 ml olive oil in a heavy saucepan over medium-high until shimmering."
+    },
+    {
+      "title": "Soften",
+      "text": "Add the garlic, onions, both peppers and leek with a pinch of the salt, and cook, stirring, until the vegetables release their liquid and begin to colour on the base, about 10 min."
+    },
+    {
+      "title": "Caramelise",
+      "text": "Lower the heat to medium-low and cook, stirring and scraping often, until very soft, sweet and deep golden, about 45 min."
+    },
+    {
+      "title": "Add",
+      "text": "Stir in the grated tomato, bay leaf, paprika and remaining salt, and cook until the tomato has reduced to a thick, jammy paste, 10-15 min."
+    },
+    {
+      "title": "Finish",
+      "text": "Stir in the tomato paste and cook for 2 min, then remove the bay leaf."
+    },
+    {
+      "title": "Cool",
+      "text": "Leave to cool before storing."
+    }
+  ],
+  "tips": [
+    "Resist the urge to rush the onions and peppers; the long, slow cooking is what builds the deep, sweet flavour.",
+    "Stir and scrape the base of the pan often once the heat is lowered, so nothing sticks or burns.",
+    "Make a large batch and freeze it in portions, as it's just as useful as a flavour base for many other dishes."
+  ],
+  "storage": "Once cooled, keep covered in the fridge for up to 5 days, or freeze in portions for longer storage. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 99,
+    "protein_g": 1.2,
+    "carbs_g": 8.8,
+    "sugar_g": 3.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 7.0,
+    "satfat_g": 1.0,
+    "salt_g": 0.38,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sofrito-basic.jpg",
+  "image_alt": "A thick, deep orange-red mixture of softened onion, pepper and tomato in a saucepan.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

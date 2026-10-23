@@ -1,0 +1,162 @@
+{
+  "slug": "classic-british-bread-sauce-clove-onion",
+  "title": "Classic Bread Sauce with Clove-Studded Onion",
+  "category": "snacks-sides",
+  "cuisine": "British",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "bread-sauce",
+  "dish_title": "Bread sauce",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A gentle, creamy sauce made by infusing milk with onion and clove before thickening it with breadcrumbs and butter.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "kitchen string",
+    "slotted spoon",
+    "wooden spoon",
+    "warm serving bowl or sauce boat"
+  ],
+  "ingredients": [
+    {
+      "group": "Infusion",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small onion, peeled"
+    },
+    {
+      "group": "Infusion",
+      "qty": 6,
+      "unit": "pc",
+      "item": "whole cloves, plus 2-3 to garnish"
+    },
+    {
+      "group": "Infusion",
+      "qty": 480,
+      "unit": "ml",
+      "item": "whole milk, plus extra if needed"
+    },
+    {
+      "group": "Infusion",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf, plus 1 to garnish"
+    },
+    {
+      "group": "Infusion",
+      "qty": 2,
+      "unit": "pc",
+      "item": "thyme sprigs"
+    },
+    {
+      "group": "Infusion",
+      "qty": 3,
+      "unit": "pc",
+      "item": "parsley stalks"
+    },
+    {
+      "group": "Infusion",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Infusion",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Sauce",
+      "qty": 60,
+      "unit": "g",
+      "item": "fresh white breadcrumbs"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Sauce",
+      "qty": 30,
+      "unit": "g",
+      "item": "butter"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Stud",
+      "text": "Stud the onion with the cloves and tie the bay leaf, thyme and parsley stalks together with string."
+    },
+    {
+      "title": "Infuse",
+      "text": "Put the onion, herbs, 480 ml milk, salt and pepper in a saucepan, bring to just below a simmer, then keep on the lowest heat for 20 min without boiling."
+    },
+    {
+      "title": "Strain",
+      "text": "Lift out the onion and herbs."
+    },
+    {
+      "title": "Thicken",
+      "text": "Stir in 60 g breadcrumbs and the nutmeg and cook on very low, stirring, until thick and creamy, 5-8 min, loosening with a little milk or adding more crumbs as needed."
+    },
+    {
+      "title": "Enrich",
+      "text": "Off the heat, stir in 30 g butter."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon into a warm bowl, sprinkle with cayenne and parsley, and garnish with a bay leaf and a few cloves not to be eaten, then serve warm."
+    }
+  ],
+  "tips": [
+    "Keep the milk at the lowest simmer while it infuses; letting it boil can cause it to separate.",
+    "Adjust the consistency at the end with a splash more milk if it's too thick, or an extra spoonful of breadcrumbs if it's too thin.",
+    "Remove the clove-studded onion and herbs before thickening, as they're only there to flavour the milk."
+  ],
+  "storage": "Best served warm straight away, though it can be covered and gently reheated, loosening with a little milk if it has thickened on standing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 134,
+    "protein_g": 4.2,
+    "carbs_g": 13.0,
+    "sugar_g": 5.5,
+    "free_sugar_g": 0.6,
+    "fat_g": 7.3,
+    "satfat_g": 4.2,
+    "salt_g": 0.76,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bread-sauce-basic.jpg",
+  "image_alt": "A bowl of pale, creamy sauce with flecks of pepper and parsley, garnished with a bay leaf and a few cloves.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

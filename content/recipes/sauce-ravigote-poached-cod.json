@@ -1,0 +1,161 @@
+{
+  "slug": "sauce-ravigote-poached-cod",
+  "title": "Sauce Ravigote with Gently Poached Cod",
+  "category": "fish-seafood",
+  "cuisine": "French",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "ravigote",
+  "dish_title": "Ravigote",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Delicately poached cod served with a fresh, piquant dressing of chopped tomato, capers, onion and herbs.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "sieve",
+    "small bowl",
+    "wide stainless steel saucepan or sauté pan",
+    "fish slice",
+    "instant-read thermometer",
+    "kitchen paper",
+    "4 warm plates"
+  ],
+  "ingredients": [
+    {
+      "group": "Ravigote",
+      "qty": 2,
+      "unit": "pc",
+      "item": "plum tomatoes, seeded and finely diced"
+    },
+    {
+      "group": "Ravigote",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "capers, drained"
+    },
+    {
+      "group": "Ravigote",
+      "qty": 3,
+      "unit": "pc",
+      "item": "spring onions, chopped"
+    },
+    {
+      "group": "Ravigote",
+      "qty": 50,
+      "unit": "g",
+      "item": "onion, finely chopped, rinsed and drained"
+    },
+    {
+      "group": "Ravigote",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, crushed and finely chopped"
+    },
+    {
+      "group": "Ravigote",
+      "qty": 25,
+      "unit": "g",
+      "item": "flat-leaf parsley, chopped"
+    },
+    {
+      "group": "Ravigote",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Ravigote",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Ravigote",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Ravigote",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Fish",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Fish",
+      "qty": 4,
+      "unit": "pc",
+      "item": "skinless cod fillets, about 150 g each and 3 cm thick"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Combine the tomatoes, capers, spring onions, rinsed onion, garlic, parsley, salt, pepper, olive oil and lemon juice in a bowl and leave at room temperature."
+    },
+    {
+      "title": "Boil",
+      "text": "Bring 1000 ml water to the boil in a wide pan."
+    },
+    {
+      "title": "Poach",
+      "text": "Lower in the cod fillets, return to the boil for about 2 min, then take off the heat."
+    },
+    {
+      "title": "Rest",
+      "text": "Leave the fish in the hot water until it flakes and reaches 63 °C in the centre, 5-7 min depending on thickness."
+    },
+    {
+      "title": "Drain",
+      "text": "Lift out the cod with a fish slice, drain well and set on warm plates."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon the ravigote over and around the fish and serve at once."
+    }
+  ],
+  "tips": [
+    "Make the ravigote ahead and let it sit at room temperature while the fish cooks, so the flavours have time to meld.",
+    "Take the pan off the heat as soon as it returns to the boil; the fish finishes cooking gently in the hot water.",
+    "Check the fish is cooked through to the centre before lifting it out, as thickness will affect the exact timing."
+  ],
+  "storage": "This dish is best served immediately while the fish is warm and the ravigote is fresh. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 265,
+    "protein_g": 27.8,
+    "carbs_g": 5.1,
+    "sugar_g": 2.0,
+    "free_sugar_g": 0.2,
+    "fat_g": 14.7,
+    "satfat_g": 2.1,
+    "salt_g": 1.5,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ravigote-basic.jpg",
+  "image_alt": "A pale, flaky piece of poached fish topped with a colourful, chunky tomato and herb dressing.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

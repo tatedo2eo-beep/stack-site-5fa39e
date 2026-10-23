@@ -1,0 +1,112 @@
+{
+  "slug": "classic-balsamic-vinaigrette-olive-oil",
+  "title": "Classic Balsamic Vinaigrette",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "vinaigrette",
+  "dish_title": "Vinaigrette",
+  "flavour": "Balsamic",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "A simple, glossy dressing balancing the sweetness of balsamic vinegar with a sharper vinegar and good olive oil.",
+  "servings": 10,
+  "prep_min": 5,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "small bowl",
+    "whisk",
+    "measuring jug",
+    "jar with a lid for storing"
+  ],
+  "ingredients": [
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "ml",
+      "item": "balsamic vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dressing",
+      "qty": 160,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Measure",
+      "text": "Put 60 ml balsamic vinegar and 2 tbsp cider vinegar into a bowl."
+    },
+    {
+      "title": "Season",
+      "text": "Whisk in ½ tsp salt and ¼ tsp pepper until combined."
+    },
+    {
+      "title": "Emulsify",
+      "text": "Pour in 160 ml olive oil in a slow stream, whisking constantly, until glossy and emulsified."
+    },
+    {
+      "title": "Taste",
+      "text": "Taste on a leaf of salad and adjust the seasoning."
+    },
+    {
+      "title": "Transfer",
+      "text": "Pour into a jar ready to store."
+    }
+  ],
+  "tips": [
+    "Pour the oil in slowly while whisking constantly, so the dressing emulsifies rather than splitting.",
+    "Taste the dressing on a leaf of salad rather than from the spoon, as it will taste different once it coats the leaves.",
+    "Give the jar a good shake before each use, as the dressing will separate on standing."
+  ],
+  "storage": "Store in a jar in the fridge for up to a week, shaking well before using. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 134,
+    "protein_g": 0.0,
+    "carbs_g": 1.2,
+    "sugar_g": 1.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 14.4,
+    "satfat_g": 2.0,
+    "salt_g": 0.3,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "vinaigrette-basic--balsamic.jpg",
+  "image_alt": "A small jar of dark, glossy balsamic vinaigrette with the oil and vinegar swirled together.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

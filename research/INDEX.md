@@ -50,6 +50,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | bagna-cauda-warm-anchovy-garlic-dip | Bagna cauda | Classic | 2 | 4 |
 | baked-beef-empanadas-olives-raisins | Empanadas | Classic | 3 | 5 |
 | baked-beef-empanadas-potato-peppers | Empanadas | Beef | 2 | 4 |
+| baked-beef-saltenas-juicy-stew-filling | Salteña | Classic | 1 | 3 |
 | baked-blueberry-raspberry-brown-butter-tart | Fruit tart (crème pâtissière) | Blueberry | 1 | 3 |
 | baked-cheese-souffle-alpine-cheese-parmesan | Soufflé (savory) | Classic | 2 | 4 |
 | baked-chicken-spaghetti | Long dried (spaghetti, linguine, bucatini) | Chicken | 1 | 3 |
@@ -207,6 +208,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cheese-empanadas-melting-mozzarella-fontina | Empanadas | Cheese | 1 | 3 |
 | cheese-herb-borek-spiral | Börek | Classic | 1 | 3 |
 | cheese-jalapeno-nachos | Nachos | Classic | 2 | 4 |
+| cheese-pupusas-curtido-tomato-salsa | Pupusa | Classic | 1 | 3 |
 | cheese-tomato-lasagne-anchovy-sauce | Sheets/baked (lasagne) | Tomato | 1 | 3 |
 | cheeseburger-sliders | Sliders | Classic | 2 | 5 |
 | cheesecake-layer-brownies | Brownie (fudgy or cakey) | Cheesecake | 1 | 3 |
@@ -304,8 +306,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | citrus-chilli-marinated-grilled-steak-charred-spring-onions-guacamole | Carne asada | Classic | 3 | 5 |
 | classic-almond-biscotti | Biscotti | Classic | 3 | 5 |
 | classic-apple-tarte-tatin | Tarte Tatin | Classic | 2 | 4 |
+| classic-balsamic-vinaigrette-olive-oil | Vinaigrette | Balsamic | 1 | 3 |
 | classic-bechamel-white-sauce | Béchamel | Classic | 2 | 4 |
 | classic-beef-meatloaf | Meatloaf | Classic | 2 | 4 |
+| classic-british-bread-sauce-clove-onion | Bread sauce | Classic | 1 | 3 |
 | classic-butter-shortbread | Shortbread | Classic | 2 | 6 |
 | classic-cappuccino-thick-foam | Cappuccino | Classic | 3 | 5 |
 | classic-cheese-quiche | Quiche (cheese) | Classic | 2 | 4 |
@@ -449,6 +453,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | dense-pumpernickel-rye-loaf-caraway-cocoa | Rye/pumpernickel | Classic | 1 | 3 |
 | detroit-style-pan-pizza-crisp-cheese-edges-tomato-stripes | Pan/Detroit | Classic | 3 | 5 |
 | di-san-xian-potato-aubergine-green-pepper | Di san xian | Classic | 2 | 4 |
+| dijon-mustard-vinaigrette-lemon-fines-herbes | Vinaigrette | Dijon | 1 | 3 |
 | dill-cucumber-tzatziki | Tzatziki | Classic | 2 | 4 |
 | dill-pickle-deviled-eggs-sour-cream | Deviled eggs | Dill | 2 | 4 |
 | dill-potato-salad | Potato salad | Dill | 2 | 4 |
@@ -721,6 +726,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | key-lime-pie-ice-pops | Popsicles | Key lime | 1 | 3 |
 | key-lime-pie | Key lime | Classic | 2 | 4 |
 | khanom-chan-thai-pandan-coconut-layer-cake | Khanom chan | Classic | 1 | 3 |
+| khao-soi-chicken-curry-noodles-crispy-topping | Khao soi | Classic | 1 | 3 |
 | kibbeh-lamb-bulgur-shells-spiced-filling | Kibbeh | Classic | 2 | 4 |
 | kimchi-fried-rice-fried-egg-sesame | Kimchi fried rice | Classic | 3 | 5 |
 | kinilaw-coconut-milk-white-fish-ginger | Kinilaw | Coconut-milk | 1 | 3 |
@@ -1162,6 +1168,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | sarma-rice-stuffed-vine-leaves-lemon | Sarma | Classic | 1 | 3 |
 | sarson-ka-saag-makki-roti | Saag | Classic | 1 | 3 |
 | sashimi-and-sushi-platter-salmon-tuna-nigiri | Sashimi/sushi | Classic | 1 | 3 |
+| sauce-ravigote-poached-cod | Ravigote | Classic | 1 | 3 |
 | savoury-cabbage-pancakes-spring-onion-tangy-sauce-mayo | Okonomiyaki (Japanese "pizza" – debatable) | Classic | 3 | 5 |
 | savoury-cheddar-parmesan-waffles | Waffles (Belgian) | Cheddar & parmesan | 1 | 3 |
 | scotch-broth-lamb-barley-kale | Scotch broth | Classic | 2 | 4 |
@@ -1200,6 +1207,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | skillet-apple-pandowdy | Pandowdy | Classic | 2 | 4 |
 | skillet-eggs-tomato-green-pepper-chilli-flakes | Menemen | Classic | 3 | 5 |
 | sloppy-joes-tangy-tomato-beef-toasted-buns | Sloppy Joes | Classic | 2 | 4 |
+| slow-cooked-beef-rendang-toasted-coconut | Rendang | Classic | 1 | 3 |
 | slow-cooked-dry-coconut-beef-curry-lemongrass-lime-leaf | Rendang | Beef (classic) | 3 | 5 |
 | slow-cooked-duck-legs-crisp-potatoes-frisee | Duck confit | Classic | 3 | 5 |
 | slow-cooked-lamb-wheat-harees | Harees | Classic | 2 | 4 |
@@ -1248,6 +1256,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spaghetti-roasted-cherry-tomatoes | Long dried (spaghetti, linguine, bucatini) | Cherry tomato | 2 | 4 |
 | spanakopita-spinach-feta-phyllo-squares | Spanakopita | Classic | 2 | 4 |
 | spanish-cortado-equal-milk | Cortado | Classic | 2 | 4 |
+| spanish-sofrito-slow-cooked-onion-pepper-tomato | Sofrito | Classic | 1 | 3 |
 | speculoos | Speculoos | Classic | 3 | 5 |
 | spiced-apple-buttermilk-muffins | American muffin (blueberry style, muffin method) | Apple | 1 | 3 |
 | spiced-beef-shawarma-tahini-flatbread | Shawarma/döner | Classic | 2 | 4 |
@@ -1353,6 +1362,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | thai-green-coconut-curry-chicken-aubergine-basil | Green curry | Chicken | 3 | 5 |
 | thai-green-coconut-curry-cod-aubergine-red-chilli | Green curry | Classic | 3 | 5 |
 | thai-iced-tea-condensed-milk-star-anise | Thai tea | Classic | 2 | 4 |
+| thai-sour-curry-prawns-napa-cabbage | Gaeng som (Thai sour curry) | Classic | 1 | 3 |
 | thai-style-peanut-chicken-salad-ginger-lime | Chicken salad | Peanut | 1 | 3 |
 | thai-thick-coconut-red-curry-beef-lime-leaf-peanuts | Panang curry | Beef | 2 | 4 |
 | thai-yellow-coconut-curry-chicken-potatoes-onion | Thai yellow curry (kaeng kari) | Chicken | 2 | 4 |

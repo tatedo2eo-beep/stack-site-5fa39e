@@ -1,0 +1,143 @@
+{
+  "slug": "dijon-mustard-vinaigrette-lemon-fines-herbes",
+  "title": "Dijon Mustard Vinaigrette with Lemon and Fines Herbes",
+  "category": "snacks-sides",
+  "cuisine": "French",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "vinaigrette",
+  "dish_title": "Vinaigrette",
+  "flavour": "Dijon",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A classic mustard and lemon dressing lifted with fresh chopped herbs, smooth, glossy and ready to toss through any green salad.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "fine grater",
+    "small bowl and whisk or jar with a tight lid"
+  ],
+  "ingredients": [
+    {
+      "group": "Dressing",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "Dijon mustard"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small shallot, finely grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dressing",
+      "qty": 120,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Herbs",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "flat-leaf parsley, finely chopped"
+    },
+    {
+      "group": "Herbs",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "chervil, finely chopped"
+    },
+    {
+      "group": "Herbs",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "tarragon, finely chopped"
+    },
+    {
+      "group": "Herbs",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "chives, finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Grate",
+      "text": "Finely grate the shallot into a small bowl or jar."
+    },
+    {
+      "title": "Mix",
+      "text": "Add 4 tsp Dijon mustard, 2 tbsp lemon juice, ½ tsp salt and ¼ tsp pepper and whisk to combine."
+    },
+    {
+      "title": "Emulsify",
+      "text": "Slowly whisk in 120 ml olive oil, or seal the jar and shake hard, until thick, creamy and emulsified."
+    },
+    {
+      "title": "Herbs",
+      "text": "Stir in the parsley, chervil, tarragon and chives."
+    },
+    {
+      "title": "Taste",
+      "text": "Taste and adjust the balance of mustard, lemon and salt."
+    }
+  ],
+  "tips": [
+    "Whisking the oil in slowly, a little at a time, helps the dressing emulsify properly instead of separating.",
+    "A jar with a tight lid is an easy alternative to whisking; just shake hard until everything comes together.",
+    "Add the herbs just before serving for the freshest flavour and colour."
+  ],
+  "storage": "Keeps covered in the fridge for up to a week; bring back to room temperature and shake well before using. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 124,
+    "protein_g": 0.2,
+    "carbs_g": 0.8,
+    "sugar_g": 0.2,
+    "free_sugar_g": 0.1,
+    "fat_g": 13.6,
+    "satfat_g": 1.9,
+    "salt_g": 0.43,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "vinaigrette-basic--dijon.jpg",
+  "image_alt": "A small jug of creamy, herb-flecked mustard vinaigrette with flecks of green herbs throughout.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

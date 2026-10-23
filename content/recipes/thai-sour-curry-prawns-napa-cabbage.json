@@ -1,0 +1,169 @@
+{
+  "slug": "thai-sour-curry-prawns-napa-cabbage",
+  "title": "Thai Sour Curry with Prawns and Napa Cabbage",
+  "category": "fish-seafood",
+  "cuisine": "Thai",
+  "chapter": "curries",
+  "book_chapter": "curries",
+  "dish": "gaeng-som-thai-sour-curry",
+  "dish_title": "Gaeng som (Thai sour curry)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A punchy, sour and salty Thai curry built on a pounded chilli paste, with crisp cabbage and plump prawns cooked briefly to keep everything fresh.",
+  "servings": 4,
+  "prep_min": 30,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "mortar and pestle or blender",
+    "medium saucepan (about 3 litres)",
+    "whisk",
+    "wooden spoon",
+    "serving bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Curry paste",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Curry paste",
+      "qty": 20,
+      "unit": "pc",
+      "item": "dried Thai chillies, stemmed"
+    },
+    {
+      "group": "Curry paste",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh red Thai chillies, stemmed"
+    },
+    {
+      "group": "Curry paste",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh turmeric, thinly sliced"
+    },
+    {
+      "group": "Curry paste",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Curry paste",
+      "qty": 40,
+      "unit": "g",
+      "item": "shallots, quartered"
+    },
+    {
+      "group": "Curry paste",
+      "qty": 30,
+      "unit": "g",
+      "item": "Thai shrimp paste"
+    },
+    {
+      "group": "Curry",
+      "qty": 950,
+      "unit": "ml",
+      "item": "water, divided"
+    },
+    {
+      "group": "Curry",
+      "qty": 80,
+      "unit": "g",
+      "item": "tamarind paste"
+    },
+    {
+      "group": "Curry",
+      "qty": 12,
+      "unit": "g",
+      "item": "palm sugar or light brown sugar"
+    },
+    {
+      "group": "Curry",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "fish sauce"
+    },
+    {
+      "group": "Curry",
+      "qty": 300,
+      "unit": "g",
+      "item": "napa cabbage, cut into 5 cm pieces"
+    },
+    {
+      "group": "Curry",
+      "qty": 400,
+      "unit": "g",
+      "item": "raw king prawns, peeled and deveined"
+    },
+    {
+      "group": "Curry",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lime juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pound",
+      "text": "Pound ¾ tsp salt with 20 dried chillies in a mortar until flaked, then add 15 g fresh chillies, the turmeric, garlic and shallots, pounding well between each, and finally 30 g shrimp paste, until fine, about 15 min in total, or blend everything with 240 ml of the water until smooth."
+    },
+    {
+      "title": "Mix",
+      "text": "Whisk the paste with 240 ml water in a saucepan until smooth, then stir in the remaining water, 80 g tamarind paste, 12 g sugar and 3 tbsp fish sauce, and bring to the boil."
+    },
+    {
+      "title": "Wilt",
+      "text": "Add 300 g napa cabbage and cook for 3-4 min until just wilted but still crisp-tender."
+    },
+    {
+      "title": "Poach",
+      "text": "Add 400 g prawns, push under the liquid and cook until pink and opaque, 2-3 min."
+    },
+    {
+      "title": "Finish",
+      "text": "Take off the heat and stir in 1 tbsp lime juice, tasting for a sour, salty and hot balance."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve immediately in bowls with jasmine rice."
+    }
+  ],
+  "tips": [
+    "Pounding the paste by hand in a mortar gives a better texture than blending, though a blender works well if you're short on time.",
+    "Don't overcook the cabbage; it should stay crisp-tender rather than soft.",
+    "Cook the prawns only until they turn pink and opaque right through, then take the pan off the heat straight away."
+  ],
+  "storage": "This curry is best served the moment it's made, as the prawns and cabbage don't keep their texture well once cooled and reheated. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish",
+    "crustaceans"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 197,
+    "protein_g": 24.6,
+    "carbs_g": 24.1,
+    "sugar_g": 13.6,
+    "free_sugar_g": 3.5,
+    "fat_g": 1.2,
+    "satfat_g": 0.3,
+    "salt_g": 6.35,
+    "fibre_g": 3.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gaeng-som-thai-sour-curry-basic.jpg",
+  "image_alt": "A bowl of vibrant orange-red sour curry with prawns and pale cabbage pieces in a thin, glossy broth.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}
