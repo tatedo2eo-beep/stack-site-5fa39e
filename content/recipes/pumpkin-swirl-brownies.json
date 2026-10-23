@@ -1,0 +1,184 @@
+{
+  "slug": "pumpkin-swirl-brownies",
+  "title": "Pumpkin Swirl Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Pumpkin",
+  "flavour_order": 117,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Oil-based chocolate batter marbled with spiced pumpkin and cream cheese; kept chilled.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Chocolate brownies with a spiced pumpkin and cream cheese swirl.",
+  "servings": 16,
+  "prep_min": 20,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin, lined with baking paper",
+    "heatproof bowl and small pan (or a microwave)",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Pumpkin swirl",
+      "qty": 115,
+      "unit": "g",
+      "item": "full-fat cream cheese"
+    },
+    {
+      "group": "Pumpkin swirl",
+      "qty": 180,
+      "unit": "g",
+      "item": "canned pumpkin purée (unsweetened)"
+    },
+    {
+      "group": "Pumpkin swirl",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Pumpkin swirl",
+      "qty": 8,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Pumpkin swirl",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Pumpkin swirl",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Pumpkin swirl",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Brownie",
+      "qty": 105,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Brownie",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Brownie",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Brownie",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsweetened (100%) chocolate, finely chopped"
+    },
+    {
+      "group": "Brownie",
+      "qty": 250,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 80,
+      "unit": "g",
+      "item": "neutral oil (rapeseed or sunflower)"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "whole milk"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the tin."
+    },
+    {
+      "title": "Pumpkin",
+      "text": "Microwave the cream cheese for 20-30 s to soften, then whisk in the pumpkin, sugar, flour and spices until smooth."
+    },
+    {
+      "title": "Batter",
+      "text": "Combine the flour, baking powder and salt. Melt the chocolate with the oil, stir in the sugar, then the eggs, milk and vanilla, and fold in the dry mix."
+    },
+    {
+      "title": "Marble",
+      "text": "Spread half the chocolate batter in the tin, spoon over half the pumpkin, then repeat. Swirl the two together with the tip of a knife."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 35-40 min, until a skewer in a chocolate area comes out with only a few moist crumbs."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool in the tin, then chill 1 h before cutting into 16. Keep refrigerated."
+    }
+  ],
+  "tips": [
+    "Use plain canned pumpkin purée, not pumpkin pie filling.",
+    "Keep swirls loose for a clear pattern.",
+    "Chill before cutting for neat slices.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 223,
+    "protein_g": 3.2,
+    "carbs_g": 26.2,
+    "sugar_g": 18.0,
+    "free_sugar_g": 17.2,
+    "fat_g": 12.0,
+    "satfat_g": 4.4,
+    "salt_g": 0.3,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Chocolate brownie squares with orange pumpkin swirls marbled through the top."
+}

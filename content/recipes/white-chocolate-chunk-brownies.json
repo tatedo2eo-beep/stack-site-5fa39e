@@ -1,0 +1,149 @@
+{
+  "slug": "white-chocolate-chunk-brownies",
+  "title": "White Chocolate Chunk Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "White chocolate",
+  "flavour_order": 115,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Dark chocolate batter with chunks of white chocolate through it and on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Dark chocolate brownies with chunks of white chocolate folded through and pressed on top.",
+  "servings": 16,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin, lined with baking paper",
+    "heatproof bowl and small pan (or a microwave)",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Brownie",
+      "qty": 105,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Brownie",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Brownie",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Brownie",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Brownie",
+      "qty": 115,
+      "unit": "g",
+      "item": "dark chocolate (60-70% cocoa), finely chopped"
+    },
+    {
+      "group": "Brownie",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 100,
+      "unit": "g",
+      "item": "dark brown soft sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 130,
+      "unit": "g",
+      "item": "white chocolate, cut into chunks",
+      "note": "100 g for the batter, 30 g for the top"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the tin. Whisk together the flour, salt and baking powder."
+    },
+    {
+      "title": "Melt",
+      "text": "Melt the butter and dark chocolate gently, then take off the heat and whisk in both sugars and the vanilla."
+    },
+    {
+      "title": "Eggs",
+      "text": "Once the mixture is just warm, whisk in the eggs one at a time until thick and shiny."
+    },
+    {
+      "title": "Fold",
+      "text": "Fold in the flour mixture, then 100 g of the white chocolate chunks. Spread in the tin and press the rest of the chunks into the surface."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 24-28 min, until the top is set and a skewer comes out with moist crumbs; avoid the white chocolate pockets when testing."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool fully before cutting into 16."
+    }
+  ],
+  "tips": [
+    "Chop a good white chocolate bar for bigger, creamier pockets.",
+    "Let the chocolate mixture cool slightly before adding the eggs.",
+    "Wait until fully cool before cutting.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 220,
+    "protein_g": 2.6,
+    "carbs_g": 25.6,
+    "sugar_g": 18.9,
+    "free_sugar_g": 18.9,
+    "fat_g": 12.2,
+    "satfat_g": 7.2,
+    "salt_g": 0.25,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Dark brownie squares studded with large chunks of white chocolate."
+}

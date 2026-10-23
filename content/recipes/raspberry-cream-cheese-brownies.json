@@ -1,0 +1,173 @@
+{
+  "slug": "raspberry-cream-cheese-brownies",
+  "title": "Raspberry Cream Cheese Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Raspberry",
+  "flavour_order": 114,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Raspberry jam in the batter and on top, a cream cheese middle and fresh raspberries.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Chocolate brownies with raspberry jam in the batter, a cream cheese middle and raspberry swirls on top.",
+  "servings": 16,
+  "prep_min": 25,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "20 cm square metal baking tin, lined with baking paper",
+    "heatproof bowl and small pan (or a microwave)",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer",
+    "food thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Brownie",
+      "qty": 95,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Brownie",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Brownie",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Brownie",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Brownie",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsweetened (100%) chocolate, chopped"
+    },
+    {
+      "group": "Brownie",
+      "qty": 120,
+      "unit": "g",
+      "item": "seedless raspberry jam",
+      "note": "60 g for the batter, 60 g for the top"
+    },
+    {
+      "group": "Brownie",
+      "qty": 240,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Filling",
+      "qty": 225,
+      "unit": "g",
+      "item": "full-fat cream cheese, softened"
+    },
+    {
+      "group": "Filling",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Filling",
+      "qty": 80,
+      "unit": "g",
+      "item": "fresh raspberries"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Batter",
+      "text": "Mix the flour, baking powder and salt. Melt the butter and chocolate until smooth, whisk in 60 g of the jam and leave to cool a little. Stir in the sugar, eggs and vanilla, then the flour mixture."
+    },
+    {
+      "title": "Filling",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the tin. Beat the cream cheese with the sugar, yolk and vanilla until completely smooth."
+    },
+    {
+      "title": "Assemble",
+      "text": "Spread half the batter in the tin, spoon the cream cheese over in an even layer and top with the remaining batter."
+    },
+    {
+      "title": "Swirl",
+      "text": "Warm the rest of the jam so it is runny, drop it over in small spoonfuls, swirl with a knife and press in the raspberries."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 35-40 min, until a cocktail stick shows moist crumbs and the cream cheese layer reads at least 71 °C."
+    },
+    {
+      "title": "Chill",
+      "text": "Cool in the tin, then refrigerate at least 2 h before cutting into 16 squares."
+    }
+  ],
+  "tips": [
+    "Seedless jam swirls more neatly.",
+    "Warm the jam slightly so it drops easily.",
+    "Pat the fresh raspberries dry before pressing them in.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 281,
+    "protein_g": 4.0,
+    "carbs_g": 31.5,
+    "sugar_g": 22.7,
+    "free_sugar_g": 21.8,
+    "fat_g": 15.7,
+    "satfat_g": 9.3,
+    "salt_g": 0.37,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Brownie squares with a creamy middle layer, swirls of red raspberry jam and fresh raspberries."
+}

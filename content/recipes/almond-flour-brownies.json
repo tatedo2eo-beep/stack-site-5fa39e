@@ -1,0 +1,137 @@
+{
+  "slug": "almond-flour-brownies",
+  "title": "Almond Flour Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Almond",
+  "flavour_order": 121,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Ground almonds replace the wheat flour (gluten-free), with flaked almonds on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Rich cocoa brownies made with ground almonds and topped with flaked almonds.",
+  "servings": 16,
+  "prep_min": 10,
+  "cook_min": 38,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin, lined with baking paper",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Brownie",
+      "qty": 70,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Brownie",
+      "qty": 340,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Brownie",
+      "qty": 65,
+      "unit": "g",
+      "item": "cocoa powder (natural or Dutch-process)"
+    },
+    {
+      "group": "Brownie",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 145,
+      "unit": "g",
+      "item": "ground almonds (almond flour)"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "gluten-free baking powder"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "flaked almonds"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line a deep 20 cm tin."
+    },
+    {
+      "title": "Mix",
+      "text": "Stir the melted butter, sugar, salt, vanilla and cocoa together, then beat in the eggs until glossy."
+    },
+    {
+      "title": "Almonds",
+      "text": "Stir in the ground almonds and baking powder until evenly mixed; the batter will be thick."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread it in the tin, scatter the flaked almonds over and bake 33-38 min, until the top is set and a cocktail stick comes out nearly clean."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool completely before cutting into 16; they firm up as they cool."
+    }
+  ],
+  "tips": [
+    "Check the baking powder is labelled gluten-free if you need it.",
+    "Use a deep tin; the batter rises a little.",
+    "They cut best once fully cool.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 200,
+    "protein_g": 4.3,
+    "carbs_g": 25.8,
+    "sugar_g": 21.8,
+    "free_sugar_g": 21.2,
+    "fat_g": 10.5,
+    "satfat_g": 3.3,
+    "salt_g": 0.29,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Glossy dark brownie squares topped with toasted flaked almonds."
+}

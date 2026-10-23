@@ -13,6 +13,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | akara-black-eyed-pea-fritters-pepper-sauce | Akara | Classic | 2 | 4 |
 | alfajores | Alfajores | Classic | 2 | 4 |
 | aligot-cheesy-mashed-potatoes | Aligot | Classic | 2 | 4 |
+| almond-flour-brownies | Brownie (fudgy or cakey) | Almond | 1 | 3 |
 | almond-hazelnut-dacquoise-coffee-buttercream | Dacquoise | Classic | 2 | 4 |
 | almond-marzipan-fruits | Pâte d'amande/marzipan | Classic | 1 | 3 |
 | almond-tuiles | Tuiles | Classic | 2 | 4 |
@@ -248,6 +249,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cocoa-dusted-dark-chocolate-truffles | Truffles | Classic | 3 | 5 |
 | coconut-peanut-satay-sauce | Peanut/satay | Classic | 2 | 4 |
 | coconut-rice-and-peas-scotch-bonnet | Rice and peas | Classic | 2 | 4 |
+| coconut-white-chocolate-brownies | Brownie (fudgy or cakey) | Coconut | 1 | 3 |
 | cod-baked-in-parchment-vegetables-lemon-dill | En papillote | Classic | 4 | 6 |
 | coffee-bean-pots-de-creme | Pot de crème | Coffee | 1 | 3 |
 | colcannon-kale-butter-well | Colcannon | Classic | 2 | 4 |
@@ -259,7 +261,9 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | corn-egg-drop-soup-chicken | Egg drop soup | Corn egg drop | 3 | 5 |
 | cornish-beef-pasty | Cornish pasty | Classic | 2 | 4 |
 | coronation-chicken | Coronation chicken | Classic | 2 | 5 |
+| courgette-fudge-brownies | Brownie (fudgy or cakey) | Zucchini | 1 | 3 |
 | cracker-thin-pizza-three-cheese-blend-sweet-oregano-sauce | St. Louis-style pizza | Classic | 2 | 4 |
+| cream-cheese-swirl-brownies | Brownie (fudgy or cakey) | Cream cheese | 1 | 3 |
 | cream-filled-profiteroles-chocolate-sauce | Profiteroles | Classic | 2 | 4 |
 | creamy-cashew-yoghurt-chicken-curry-cardamom | Korma | Chicken | 3 | 5 |
 | creamy-cheddar-cheese-grits | Grits | Cheese | 2 | 4 |
@@ -317,6 +321,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cut-out-sugar-cookies | Sugar/cut-out | Classic | 2 | 4 |
 | daan-tat-hong-kong-egg-tarts | Egg tart | Classic | 1 | 3 |
 | dal-makhani-creamy-black-lentils | Dal makhani | Classic | 2 | 4 |
+| dark-chocolate-cherry-brownies | Brownie (fudgy or cakey) | Cherry | 1 | 3 |
 | dark-chocolate-cream-pie | Cream pie (banana, coconut) | Chocolate | 2 | 4 |
 | dark-chocolate-fruit-and-nut-mendiants | Mendiants | Classic | 0 | 3 |
 | dark-chocolate-fudge-sauce | Sauce | Classic | 2 | 4 |
@@ -422,6 +427,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | ginger-chicken-rice-porridge-crispy-garlic-egg | Arroz caldo | Classic | 2 | 4 |
 | ginger-matcha-custard-ice-cream | Custard-base (French) | Ginger & matcha | 1 | 3 |
 | ginger-rhubarb-crumble | Crumble | Rhubarb | 1 | 3 |
+| ginger-spice-brownies | Brownie (fudgy or cakey) | Ginger | 1 | 3 |
 | gingerbread-cookies | Gingerbread | Classic | 3 | 5 |
 | gingerbread-spice-brownies | Brownie (fudgy or cakey) | Gingerbread | 1 | 3 |
 | glassy-salted-peanut-brittle | Brittle | Peanut | 1 | 4 |
@@ -583,6 +589,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | malaysian-coconut-rice-sambal-crispy-anchovies-peanuts-egg | Nasi lemak | Classic | 2 | 4 |
 | malaysian-style-fish-head-curry-okra-aubergine | Fish head curry | Classic | 2 | 4 |
 | malloreddus-saffron-tomato | Malloreddus | Classic | 2 | 4 |
+| malted-milk-brownies | Brownie (fudgy or cakey) | Malted milk | 1 | 3 |
 | malted-milk-chocolate-custard-ice-cream | Custard-base (French) | Malted milk & milk chocolate | 1 | 3 |
 | mango-lassi-cardamom-pistachio | Lassi | Mango | 2 | 4 |
 | mango-lime-sorbet | Sorbet | Classic | 1 | 3 |
@@ -751,6 +758,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pink-lemonade-raspberry-syrup | Lemonade | Pink | 2 | 4 |
 | piri-piri-chicken | Piri-piri | Classic | 2 | 4 |
 | pistachio-baklava-green-pistachio-squares | Baklava | Pistachio | 3 | 5 |
+| pistachio-chocolate-chip-brownies | Brownie (fudgy or cakey) | Pistachio | 1 | 3 |
 | pistachio-gelato-steeped-pistachio-milk | Gelato | Classic | 1 | 3 |
 | pistachio-sesame-dukkah | Dukkah | Classic | 2 | 4 |
 | pistachio-tahini-halva-squares | Halva | Classic | 2 | 4 |
@@ -783,6 +791,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | provolone-philly-cheesesteaks-melted-provolone-onions | Philly cheesesteak | Provolone | 2 | 4 |
 | puffy-new-orleans-style-beignets | Beignets | Classic | 1 | 3 |
 | pumpkin-soup-caramelised-onion-sage | Pumpkin soup | Classic | 2 | 4 |
+| pumpkin-swirl-brownies | Brownie (fudgy or cakey) | Pumpkin | 1 | 3 |
 | pumpkin-whoopie-pies | Whoopie pie | Pumpkin | 2 | 4 |
 | puto-cheese-topped-steamed-rice-cakes | Puto | Cheese-topped | 1 | 3 |
 | puto-steamed-coconut-rice-cakes | Puto | Classic | 1 | 3 |
@@ -792,6 +801,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | quick-tomato-paste-ketchup | Ketchup | Classic | 1 | 3 |
 | rainbow-fruit-salad-lime-mint | Fruit salad | Classic | 3 | 5 |
 | rasgulla-chenna-dumplings-cardamom-syrup | Rasgulla | Classic | 1 | 3 |
+| raspberry-cream-cheese-brownies | Brownie (fudgy or cakey) | Raspberry | 1 | 3 |
 | raspberry-cream-cheese-danish-pastries | Danish | Classic | 4 | 6 |
 | raspberry-glazed-laminated-cronut-style-doughnuts | Cronut-style laminated | Classic | 1 | 3 |
 | raspberry-jam-filled-berliner-doughnuts | Filled (Berliner/bomboloni/jam) | Classic | 2 | 4 |
@@ -821,6 +831,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | roasted-garlic-mashed-potatoes | Mashed | Garlic | 3 | 5 |
 | roasted-pepper-almond-romesco | Romesco | Classic | 2 | 4 |
 | roasted-red-pepper-hummus-almonds | Hummus | Roasted red pepper | 3 | 5 |
+| rocky-road-brownies | Brownie (fudgy or cakey) | Rocky road | 1 | 3 |
 | rocky-road-custard-ice-cream | Custard-base (French) | Rocky road | 1 | 3 |
 | romaine-caesar-salad-garlic-croutons | Caesar | Classic | 3 | 5 |
 | roman-style-sheet-pan-pizza-tomato-mozzarella-rosemary-potato | Pizza al taglio (Roman teglia) | Classic | 2 | 4 |
@@ -999,6 +1010,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tiropita-feta-filo-cheese-pie | Tiropita | Classic | 1 | 3 |
 | toasted-coconut-cream-pie | Cream pie (banana, coconut) | Coconut | 2 | 4 |
 | toasted-farro-olive-oil-parsley | Farro | Classic | 2 | 4 |
+| toasted-marshmallow-brownies | Brownie (fudgy or cakey) | Marshmallow | 1 | 3 |
 | toasted-walnut-brown-sugar-custard-ice-cream | Custard-base (French) | Walnut | 1 | 3 |
 | toasted-whole-spice-garam-masala | Garam masala | Classic | 2 | 4 |
 | tom-kha-gai-coconut-poached-chicken-breast | Tom kha | Chicken (gai) | 2 | 4 |
@@ -1055,6 +1067,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | whipped-dalgona-coffee-cold-milk | Dalgona coffee | Classic | 2 | 4 |
 | whipped-garlic-toum | Toum | Classic | 2 | 4 |
 | white-bean-bruschetta-sage-lemon | Bruschetta | White bean | 1 | 3 |
+| white-chocolate-chunk-brownies | Brownie (fudgy or cakey) | White chocolate | 1 | 3 |
 | whole-cherry-clafoutis | Clafoutis | Cherry (classic) | 2 | 4 |
 | whole-sea-bass-baked-in-salt-crust-lemon-herbs | Salt-crusted fish | Classic | 4 | 6 |
 | wholemeal-irish-brown-soda-bread-oats | ? | ? | MISSING | |

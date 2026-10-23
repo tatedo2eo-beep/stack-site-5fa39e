@@ -1,0 +1,191 @@
+{
+  "slug": "ginger-spice-brownies",
+  "title": "Ginger Spice Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Ginger",
+  "flavour_order": 112,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Fresh and ground ginger with warm spices whipped into the eggs; crystallised ginger on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Fudgy brownies whipped with fresh and ground ginger, coriander, allspice, nutmeg, cardamom and clove.",
+  "servings": 16,
+  "prep_min": 20,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "20 cm square metal baking tin, lined with baking paper",
+    "heatproof bowl and small pan (or a microwave)",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer",
+    "stand mixer or electric hand whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Brownie",
+      "qty": 170,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Brownie",
+      "qty": 85,
+      "unit": "g",
+      "item": "dark chocolate (about 70% cocoa), finely chopped"
+    },
+    {
+      "group": "Brownie",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 30,
+      "unit": "g",
+      "item": "dark muscovado or dark brown soft sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "finely grated fresh ginger"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "ground ginger"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Brownie",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground coriander"
+    },
+    {
+      "group": "Brownie",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground allspice"
+    },
+    {
+      "group": "Brownie",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Brownie",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "Brownie",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "ground cloves"
+    },
+    {
+      "group": "Brownie",
+      "qty": 65,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Brownie",
+      "qty": 60,
+      "unit": "g",
+      "item": "Dutch-process cocoa powder"
+    },
+    {
+      "group": "Topping",
+      "qty": 50,
+      "unit": "g",
+      "item": "crystallised ginger, thinly sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the tin."
+    },
+    {
+      "title": "Melt",
+      "text": "Warm the butter in a small pan until it just simmers, take it off the heat and stir in the chopped chocolate; it will look thin."
+    },
+    {
+      "title": "Whip",
+      "text": "Whisk the sugars, cold eggs, vanilla, fresh and ground ginger, salt and the other spices on high speed for about 5 min, until pale, thick and doubled."
+    },
+    {
+      "title": "Combine",
+      "text": "On low speed pour in the warm chocolate butter, then sift over the flour and cocoa and fold until no streaks remain."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread in the tin, scatter the crystallised ginger over and bake about 30 min, until puffed and a cocktail stick comes out with a few moist crumbs."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool completely in the tin, then lift out and cut into 16 squares."
+    }
+  ],
+  "tips": [
+    "Whipping the eggs well gives a glossy, crackly top.",
+    "Grate the fresh ginger on a fine grater so it melts into the batter.",
+    "Cold eggs whip up thicker and more stable.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 214,
+    "protein_g": 2.8,
+    "carbs_g": 25.3,
+    "sugar_g": 18.4,
+    "free_sugar_g": 18.3,
+    "fat_g": 12.4,
+    "satfat_g": 7.4,
+    "salt_g": 0.13,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Dark spiced brownie squares topped with thin slices of crystallised ginger."
+}

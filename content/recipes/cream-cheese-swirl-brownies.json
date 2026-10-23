@@ -1,0 +1,160 @@
+{
+  "slug": "cream-cheese-swirl-brownies",
+  "title": "Cream Cheese Swirl Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Cream cheese",
+  "flavour_order": 113,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Unsweetened chocolate batter marbled with a soured cream and cream cheese swirl; kept chilled.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Unsweetened chocolate brownies marbled with a soured cream and cream cheese swirl.",
+  "servings": 16,
+  "prep_min": 20,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin, lined with baking paper",
+    "heatproof bowl and small pan (or a microwave)",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Swirl",
+      "qty": 115,
+      "unit": "g",
+      "item": "full-fat cream cheese"
+    },
+    {
+      "group": "Swirl",
+      "qty": 60,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Swirl",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Swirl",
+      "qty": 8,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Brownie",
+      "qty": 95,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Brownie",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Brownie",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Brownie",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsweetened (100%) chocolate, finely chopped"
+    },
+    {
+      "group": "Brownie",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Brownie",
+      "qty": 250,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Swirl",
+      "text": "Soften the cream cheese for 20-30 s in the microwave, then whisk in the soured cream, sugar and the tablespoon of flour until smooth."
+    },
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 160 °C (140 °C fan) and line the tin. Mix the flour, baking powder and salt in a small bowl."
+    },
+    {
+      "title": "Batter",
+      "text": "Melt the chocolate and butter together, whisk in the sugar, then the eggs and vanilla, and finally stir in the flour mixture."
+    },
+    {
+      "title": "Layer",
+      "text": "Spread half the batter in the tin, dot over half the cream cheese mix, cover with the rest of the batter and dollop the remaining cream cheese on top. Drag a knife through in loops to marble."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 35-40 min, until the edges are firm and a skewer pushed into a brownie part shows a few moist crumbs."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool in the tin for 1 h, then chill 1 h for clean cuts. Cut into 16 and keep in the fridge."
+    }
+  ],
+  "tips": [
+    "Soften the cream cheese so the swirl is smooth.",
+    "Test doneness in a brownie area, not the cream cheese.",
+    "Chilling gives clean edges.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 230,
+    "protein_g": 3.1,
+    "carbs_g": 24.8,
+    "sugar_g": 17.7,
+    "free_sugar_g": 17.2,
+    "fat_g": 13.4,
+    "satfat_g": 8.1,
+    "salt_g": 0.3,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Chocolate brownie squares with white cream cheese marbled across the top."
+}

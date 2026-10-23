@@ -1,0 +1,168 @@
+{
+  "slug": "dark-chocolate-cherry-brownies",
+  "title": "Dark Chocolate Cherry Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Cherry",
+  "flavour_order": 118,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Large-tray cocoa brownie studded with plumped dried cherries and a little almond flavour.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A large tray of dark cocoa brownies studded with plumped dried cherries and a hint of almond.",
+  "servings": 24,
+  "prep_min": 20,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "23 x 33 cm metal baking tin, lined with baking paper",
+    "heatproof bowl and small pan (or a microwave)",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Cherries",
+      "qty": 170,
+      "unit": "g",
+      "item": "dried sour cherries, chopped"
+    },
+    {
+      "group": "Cherries",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Cherries",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free almond flavouring"
+    },
+    {
+      "group": "Brownie",
+      "qty": 80,
+      "unit": "ml",
+      "item": "boiling water"
+    },
+    {
+      "group": "Brownie",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsweetened (100%) chocolate, finely chopped"
+    },
+    {
+      "group": "Brownie",
+      "qty": 28,
+      "unit": "g",
+      "item": "Dutch-process cocoa powder"
+    },
+    {
+      "group": "Brownie",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Brownie",
+      "qty": 80,
+      "unit": "g",
+      "item": "neutral oil (rapeseed or sunflower)"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Brownie",
+      "qty": 420,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Brownie",
+      "qty": 250,
+      "unit": "g",
+      "item": "plain flour"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cherries",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the large tin. Simmer the cherries with the 60 ml water in a small covered pan for 2 min, then leave covered for 10 min to plump. Stir in the almond flavouring."
+    },
+    {
+      "title": "Chocolate",
+      "text": "Whisk the boiling water, chopped chocolate and cocoa together until smooth, then whisk in the melted butter and oil."
+    },
+    {
+      "title": "Batter",
+      "text": "Add the eggs, yolks and vanilla, then the sugar and salt, whisking until glossy. Fold in the flour, then the cherries with any liquid left in the pan."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread in the tin and bake 30-35 min, until a cocktail stick comes out with a few sticky crumbs."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool on a rack for 1-2 h before lifting out and cutting into 24."
+    }
+  ],
+  "tips": [
+    "Plumping the cherries keeps them soft and juicy.",
+    "Use an alcohol-free almond flavouring.",
+    "Line the tin with overhanging paper for easy lifting.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 202,
+    "protein_g": 2.4,
+    "carbs_g": 32.8,
+    "sugar_g": 22.7,
+    "free_sugar_g": 22.6,
+    "fat_g": 7.5,
+    "satfat_g": 2.5,
+    "salt_g": 0.2,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Dark chocolate brownie bars studded with chewy red dried cherries."
+}

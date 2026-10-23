@@ -1,0 +1,145 @@
+{
+  "slug": "coconut-white-chocolate-brownies",
+  "title": "Coconut White Chocolate Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Coconut",
+  "flavour_order": 119,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Chewy brown sugar bar (no dark chocolate) with white chocolate, cranberries and toasted coconut.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Chewy brown sugar bars with white chocolate, dried cranberries and toasted coconut.",
+  "servings": 24,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "23 x 33 cm metal baking tin, lined with baking paper",
+    "heatproof bowl and small pan (or a microwave)",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Brownie",
+      "qty": 170,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Brownie",
+      "qty": 300,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Brownie",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Brownie",
+      "qty": 210,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Brownie",
+      "qty": 200,
+      "unit": "g",
+      "item": "white chocolate chips or chunks"
+    },
+    {
+      "group": "Brownie",
+      "qty": 100,
+      "unit": "g",
+      "item": "dried cranberries"
+    },
+    {
+      "group": "Brownie",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsweetened desiccated coconut",
+      "note": "half for the batter, half for the top"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and grease and line the large tin."
+    },
+    {
+      "title": "Mix",
+      "text": "Stir the melted butter and brown sugar until smooth, beat in the eggs one at a time, then the vanilla and salt."
+    },
+    {
+      "title": "Fold",
+      "text": "Whisk the flour with the baking powder, stir it into the butter mixture, then fold in the white chocolate, cranberries and half the coconut."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread in the tin, scatter the rest of the coconut over and bake 25-30 min, until golden and a skewer comes out clean or with a few moist crumbs."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool fully in the tin before cutting into 24."
+    }
+  ],
+  "tips": [
+    "Use unsweetened desiccated coconut so the bars are not too sweet.",
+    "Swap the cranberries for chopped dried apricots if you like.",
+    "Do not overbake; they should stay chewy.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 210,
+    "protein_g": 2.2,
+    "carbs_g": 28.0,
+    "sugar_g": 20.3,
+    "free_sugar_g": 20.1,
+    "fat_g": 10.4,
+    "satfat_g": 6.7,
+    "salt_g": 0.26,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden brown sugar bars with white chocolate, red cranberries and toasted coconut on top."
+}

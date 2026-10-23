@@ -1,0 +1,160 @@
+{
+  "slug": "toasted-marshmallow-brownies",
+  "title": "Toasted Marshmallow Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Marshmallow",
+  "flavour_order": 116,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Large-tray cocoa brownie topped with toasted gelatine-free mini marshmallows.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A large tray of cocoa brownies finished with toasted gelatine-free mini marshmallows.",
+  "servings": 24,
+  "prep_min": 20,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "23 x 33 cm metal baking tin, lined with baking paper",
+    "heatproof bowl and small pan (or a microwave)",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Brownie",
+      "qty": 150,
+      "unit": "ml",
+      "item": "boiling water"
+    },
+    {
+      "group": "Brownie",
+      "qty": 60,
+      "unit": "g",
+      "item": "unsweetened (100%) chocolate, finely chopped"
+    },
+    {
+      "group": "Brownie",
+      "qty": 30,
+      "unit": "g",
+      "item": "Dutch-process cocoa powder"
+    },
+    {
+      "group": "Brownie",
+      "qty": 450,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 135,
+      "unit": "g",
+      "item": "neutral oil (rapeseed or sunflower)"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Brownie",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Brownie",
+      "qty": 250,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Brownie",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 140,
+      "unit": "g",
+      "item": "gelatine-free (vegetarian) mini marshmallows",
+      "note": "check the label"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the large tin, leaving paper overhanging."
+    },
+    {
+      "title": "Bloom",
+      "text": "Pour the boiling water over the chopped chocolate and cocoa and whisk until smooth."
+    },
+    {
+      "title": "Batter",
+      "text": "Whisk in the sugar, oil, eggs, yolks, melted butter and vanilla, then fold in the flour and salt until just combined."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread in the tin and bake 28-32 min, until a cocktail stick comes out with a few moist crumbs."
+    },
+    {
+      "title": "Toast",
+      "text": "Scatter the marshmallows over the hot brownie and return to the oven for 3-4 min, until puffed and lightly golden. Watch closely, as they catch quickly."
+    },
+    {
+      "title": "Cool",
+      "text": "Cool completely, then cut into 24 with an oiled knife."
+    }
+  ],
+  "tips": [
+    "Check the marshmallow label to make sure they are gelatine-free.",
+    "Watch the marshmallows closely; they brown within a minute or two.",
+    "An oiled knife cuts through the marshmallow cleanly.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 3 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 226,
+    "protein_g": 2.5,
+    "carbs_g": 32.9,
+    "sugar_g": 22.4,
+    "free_sugar_g": 22.3,
+    "fat_g": 9.9,
+    "satfat_g": 2.8,
+    "salt_g": 0.21,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Brownie bars covered in puffed, golden toasted mini marshmallows."
+}

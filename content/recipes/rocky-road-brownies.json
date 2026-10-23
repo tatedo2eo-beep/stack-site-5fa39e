@@ -1,0 +1,152 @@
+{
+  "slug": "rocky-road-brownies",
+  "title": "Rocky Road Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Rocky road",
+  "flavour_order": 124,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Scratch brownie topped with gelatine-free marshmallows, pecans and chocolate chips.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Fudgy brownies topped with toasted gelatine-free marshmallows, pecans and chocolate chips.",
+  "servings": 16,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square metal baking tin, lined with baking paper",
+    "heatproof bowl and small pan (or a microwave)",
+    "mixing bowls and whisk",
+    "silicone spatula",
+    "cocktail stick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Brownie",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Brownie",
+      "qty": 115,
+      "unit": "g",
+      "item": "dark chocolate (60-70% cocoa), chopped"
+    },
+    {
+      "group": "Brownie",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 70,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Brownie",
+      "qty": 55,
+      "unit": "g",
+      "item": "pecans, chopped"
+    },
+    {
+      "group": "Topping",
+      "qty": 80,
+      "unit": "g",
+      "item": "gelatine-free (vegetarian) mini marshmallows",
+      "note": "check the label"
+    },
+    {
+      "group": "Topping",
+      "qty": 55,
+      "unit": "g",
+      "item": "pecans, chopped"
+    },
+    {
+      "group": "Topping",
+      "qty": 45,
+      "unit": "g",
+      "item": "dark chocolate chips"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the tin."
+    },
+    {
+      "title": "Batter",
+      "text": "Melt the butter and chocolate together, whisk in the sugar, salt and vanilla, then beat in the eggs until thick. Fold in the flour and half the pecans."
+    },
+    {
+      "title": "Bake",
+      "text": "Spread in the tin and bake 22-25 min, until a skewer shows moist crumbs."
+    },
+    {
+      "title": "Top",
+      "text": "Scatter over the marshmallows, the rest of the pecans and the chocolate chips and bake 3-5 min more, until the marshmallows puff and turn pale gold."
+    },
+    {
+      "title": "Cool",
+      "text": "Let cool completely, then cut into 16 with a knife dipped in hot water."
+    }
+  ],
+  "tips": [
+    "Choose gelatine-free marshmallows and check the label.",
+    "A wet, hot knife cuts through the topping.",
+    "Walnuts or almonds work instead of pecans.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Store airtight at room temperature for up to 4 days, or freeze for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 249,
+    "protein_g": 2.7,
+    "carbs_g": 25.5,
+    "sugar_g": 18.2,
+    "free_sugar_g": 17.9,
+    "fat_g": 15.7,
+    "satfat_g": 6.8,
+    "salt_g": 0.13,
+    "fibre_g": 1.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Brownie squares piled with toasted marshmallows, pecans and chocolate chips."
+}

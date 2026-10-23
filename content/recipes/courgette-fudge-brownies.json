@@ -1,0 +1,163 @@
+{
+  "slug": "courgette-fudge-brownies",
+  "title": "Courgette Fudge Brownies",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "cookies-bars-brownies",
+  "book_chapter": "cookies-bars-brownies",
+  "dish": "brownie-fudgy-or-cakey",
+  "dish_title": "Brownie (fudgy or cakey)",
+  "flavour": "Zucchini",
+  "flavour_order": 123,
+  "access": "premium",
+  "base_recipe": "signature-fudgy-brownies",
+  "changes_from_base": "Grated-courgette batter made in a food processor, finished with a chocolate fudge icing.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Moist cocoa brownies made with puréed courgette and topped with a chocolate fudge icing.",
+  "servings": 16,
+  "prep_min": 15,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "23 cm square metal baking tin, lined with baking paper",
+    "food processor",
+    "small pan or microwave",
+    "silicone spatula",
+    "cocktail stick or skewer"
+  ],
+  "ingredients": [
+    {
+      "group": "Brownie",
+      "qty": 200,
+      "unit": "g",
+      "item": "courgette (zucchini), cut into chunks"
+    },
+    {
+      "group": "Brownie",
+      "qty": 45,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Brownie",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Brownie",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Brownie",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Brownie",
+      "qty": 55,
+      "unit": "g",
+      "item": "cocoa powder"
+    },
+    {
+      "group": "Brownie",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "instant espresso powder",
+      "note": "optional"
+    },
+    {
+      "group": "Brownie",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Brownie",
+      "qty": 2,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.33 tsp"
+    },
+    {
+      "group": "Brownie",
+      "qty": 60,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Brownie",
+      "qty": 125,
+      "unit": "g",
+      "item": "semisweet chocolate chips"
+    },
+    {
+      "group": "Fudge icing",
+      "qty": 125,
+      "unit": "g",
+      "item": "semisweet chocolate chips"
+    },
+    {
+      "group": "Fudge icing",
+      "qty": 55,
+      "unit": "ml",
+      "item": "double cream"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Heat the oven to 180 °C (160 °C fan) and line the 23 cm tin. Purée: blitz the courgette with the melted butter, eggs and vanilla in a food processor until completely smooth."
+    },
+    {
+      "title": "Batter",
+      "text": "Add the sugar, cocoa, espresso powder, baking powder, salt and flour and pulse just until combined, then add the first lot of chocolate chips and pulse a few times."
+    },
+    {
+      "title": "Bake",
+      "text": "Pour into the tin and bake 25-30 min, until a cocktail stick comes out clean or with a few moist crumbs."
+    },
+    {
+      "title": "Icing",
+      "text": "Heat the cream until steaming, pour it over the remaining chips, leave 5 min and stir until glossy. Spread over the warm brownies."
+    },
+    {
+      "title": "Set",
+      "text": "Cool completely so the icing sets, then cut into 16."
+    }
+  ],
+  "tips": [
+    "Purée the courgette until no green flecks remain.",
+    "No need to peel or salt the courgette.",
+    "Spread the icing while the brownies are warm.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep airtight in a cool place for up to 3 days, or in the fridge for up to 5 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 181,
+    "protein_g": 3.2,
+    "carbs_g": 24.9,
+    "sugar_g": 18.4,
+    "free_sugar_g": 17.9,
+    "fat_g": 9.6,
+    "satfat_g": 5.6,
+    "salt_g": 0.2,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Brownie squares with a thick, glossy chocolate fudge icing."
+}
