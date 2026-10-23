@@ -1,0 +1,177 @@
+{
+  "slug": "spanish-chicken-croquetas-bechamel",
+  "title": "Spanish Chicken Croquetas with Creamy Béchamel",
+  "category": "snacks-sides",
+  "cuisine": "Spanish",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "croquetas",
+  "dish_title": "Croquetas",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Creamy chicken béchamel is chilled, shaped and coated in crumbs before frying to a golden crisp, giving warm, molten croquetas inside.",
+  "servings": 10,
+  "prep_min": 50,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "large frying pan",
+    "food processor",
+    "second frying pan or sauté pan",
+    "medium saucepan with lid",
+    "wooden spoon",
+    "large bowl",
+    "cling film",
+    "2 shallow bowls",
+    "kitchen paper",
+    "digital thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Filling",
+      "qty": 340,
+      "unit": "g",
+      "item": "boneless, skinless chicken breast"
+    },
+    {
+      "group": "Filling",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 110,
+      "unit": "g",
+      "item": "butter, cut into pieces"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, very finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Filling",
+      "qty": 720,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Filling",
+      "qty": 125,
+      "unit": "g",
+      "item": "plain flour, sifted, plus extra for dusting"
+    },
+    {
+      "group": "Coating",
+      "qty": 2,
+      "unit": "pc",
+      "item": "eggs"
+    },
+    {
+      "group": "Coating",
+      "qty": 140,
+      "unit": "g",
+      "item": "fine dry breadcrumbs"
+    },
+    {
+      "group": "Coating",
+      "qty": 500,
+      "unit": "ml",
+      "item": "sunflower or mild olive oil, for frying",
+      "note": "about 80 g is absorbed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook Chicken",
+      "text": "Heat 1 tbsp olive oil in a frying pan on medium, salt the chicken and cook until it reaches 74°C, about 10 minutes, then cool, chop and grind finely in a food processor."
+    },
+    {
+      "title": "Soften Onion",
+      "text": "Melt the butter in a second pan on medium and cook the finely chopped onion gently until soft and clear but not coloured, about 12 minutes."
+    },
+    {
+      "title": "Heat Milk",
+      "text": "Bring the milk to a simmer in a saucepan, season with salt, pepper and nutmeg, then cover and keep hot."
+    },
+    {
+      "title": "Make Roux",
+      "text": "Sift the flour over the onion and stir constantly for 2 minutes until it forms a moist ball."
+    },
+    {
+      "title": "Thicken",
+      "text": "Spread the mixture out and gradually stir in the hot milk until thick, creamy and no longer sticky, about 5 minutes."
+    },
+    {
+      "title": "Fold",
+      "text": "On low heat fold in the ground chicken and cook for 2 minutes until the mixture holds together, then spread in a bowl, cool, cover and chill for several hours until firm."
+    },
+    {
+      "title": "Shape",
+      "text": "On a floured board, shape the mixture into 5-6 cm logs about 2.5 cm thick and roll lightly in flour."
+    },
+    {
+      "title": "Coat",
+      "text": "Dip each log in beaten egg, then in breadcrumbs, to coat fully."
+    },
+    {
+      "title": "Fry",
+      "text": "Heat 2 cm oil in a pan over medium-high, lower to medium-low and fry in small batches, turning, until golden and hot and creamy inside, about 2 minutes; drain on paper and serve hot."
+    }
+  ],
+  "tips": [
+    "Chill the chicken mixture for several hours, or even overnight, so it's firm enough to shape without falling apart.",
+    "Fry in small batches and keep the oil at a steady temperature so the coating turns golden before the inside overheats.",
+    "Make sure the chicken reaches 74°C when first cooking it, for safe, fully cooked meat.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Shape and chill the mixture up to a day ahead; once fried, croquetas are best eaten hot and freshly cooked rather than kept. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 374,
+    "protein_g": 14.8,
+    "carbs_g": 25.8,
+    "sugar_g": 5.3,
+    "free_sugar_g": 0.9,
+    "fat_g": 23.4,
+    "satfat_g": 8.5,
+    "salt_g": 1.0,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "croquetas-basic.jpg",
+  "image_alt": "A plate of golden, crumb-coated croquetas with a creamy chicken filling, cut open to show the soft centre.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

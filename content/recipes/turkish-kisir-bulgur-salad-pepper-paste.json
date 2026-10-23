@@ -1,0 +1,167 @@
+{
+  "slug": "turkish-kisir-bulgur-salad-pepper-paste",
+  "title": "Turkish Kısır Bulgur Salad with Red Pepper Paste",
+  "category": "snacks-sides",
+  "cuisine": "Turkish",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "ksr",
+  "dish_title": "Kısır",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Fine bulgur is tossed with a sweet-sharp pepper paste, juicy tomato and fresh herbs for a vibrant, tangy salad scooped up with crisp lettuce leaves.",
+  "servings": 4,
+  "prep_min": 30,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "fine sieve",
+    "large bowl",
+    "food processor",
+    "small saucepan",
+    "box grater",
+    "cling film"
+  ],
+  "ingredients": [
+    {
+      "qty": 260,
+      "unit": "g",
+      "item": "fine bulgur"
+    },
+    {
+      "qty": 3,
+      "unit": "pc",
+      "item": "red peppers, deseeded and cut into large pieces"
+    },
+    {
+      "qty": 1,
+      "unit": "pc",
+      "item": "red or green chilli, deseeded"
+    },
+    {
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1¼ tsp"
+    },
+    {
+      "qty": 0.5,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 0.125 tsp"
+    },
+    {
+      "qty": 2,
+      "unit": "pc",
+      "item": "medium ripe tomatoes"
+    },
+    {
+      "qty": 8,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced"
+    },
+    {
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "cucumber, peeled, deseeded and chopped"
+    },
+    {
+      "qty": 45,
+      "unit": "g",
+      "item": "chopped flat-leaf parsley"
+    },
+    {
+      "qty": 90,
+      "unit": "ml",
+      "item": "lemon juice"
+    },
+    {
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "pomegranate molasses"
+    },
+    {
+      "qty": 80,
+      "unit": "ml",
+      "item": "olive oil"
+    },
+    {
+      "qty": 1,
+      "unit": "tsp",
+      "item": "hot paprika"
+    },
+    {
+      "qty": 8,
+      "unit": "pc",
+      "item": "crisp romaine lettuce leaves, to serve"
+    },
+    {
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into wedges, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak",
+      "text": "Shake 260 g fine bulgur in a sieve to remove dust, tip into a bowl, cover with cold water and leave to soak for 30 minutes."
+    },
+    {
+      "title": "Pepper Paste",
+      "text": "Purée the red peppers and chilli with 2 tbsp water, ¼ tsp of the salt and the sugar, then cook in a small saucepan on medium, stirring often, until thick and jammy, about 20 minutes; leave to cool."
+    },
+    {
+      "title": "Tomatoes",
+      "text": "Halve the tomatoes, squeeze out the seeds and grate the cut side on the coarse holes of a box grater, discarding the skins."
+    },
+    {
+      "title": "Mix",
+      "text": "Drain the bulgur well, return it to the bowl and add the pepper paste, tomato pulp, remaining salt, spring onions, cucumber, parsley, lemon juice, pomegranate molasses, olive oil and paprika; mix well."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and chill for a couple of hours."
+    },
+    {
+      "title": "Serve",
+      "text": "Taste for seasoning, then pile onto a platter edged with lettuce leaves and lemon wedges, using the leaves to scoop up the salad."
+    }
+  ],
+  "tips": [
+    "Shake the bulgur free of dust before soaking so the finished salad isn't gritty.",
+    "Let the pepper paste cool before mixing it in, so it doesn't warm the salad through.",
+    "Chill for a couple of hours before serving to let the flavours settle together."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days; the salad is served cold, so no reheating is needed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 476,
+    "protein_g": 11.5,
+    "carbs_g": 70.3,
+    "sugar_g": 12.2,
+    "free_sugar_g": 3.4,
+    "fat_g": 19.8,
+    "satfat_g": 2.8,
+    "salt_g": 1.9,
+    "fibre_g": 13.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ksr-basic.jpg",
+  "image_alt": "A platter of deep red bulgur salad flecked with herbs and cucumber, served with lettuce leaves and lemon wedges.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

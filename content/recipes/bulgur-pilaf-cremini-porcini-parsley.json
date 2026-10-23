@@ -1,0 +1,144 @@
+{
+  "slug": "bulgur-pilaf-cremini-porcini-parsley",
+  "title": "Bulgur Pilaf with Cremini Mushrooms and Parsley",
+  "category": "rice-grains",
+  "cuisine": "Middle Eastern",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "bulgur",
+  "dish_title": "Bulgur",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Nutty bulgur is simmered with earthy porcini and cremini mushrooms for a savoury, herb-flecked pilaf that makes a hearty side or light main.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan with tight lid",
+    "wooden spoon",
+    "clean folded tea towel",
+    "fork"
+  ],
+  "ingredients": [
+    {
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "qty": 7,
+      "unit": "g",
+      "item": "dried porcini, rinsed and finely chopped"
+    },
+    {
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "qty": 225,
+      "unit": "g",
+      "item": "cremini mushrooms, trimmed and quartered (halved if small)"
+    },
+    {
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "qty": 175,
+      "unit": "g",
+      "item": "medium-grind bulgur, rinsed"
+    },
+    {
+      "qty": 180,
+      "unit": "ml",
+      "item": "vegetable stock (check stock label for celery)"
+    },
+    {
+      "qty": 180,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "qty": 1,
+      "unit": "tsp",
+      "item": "soy sauce"
+    },
+    {
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "finely chopped parsley"
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soften",
+      "text": "Warm 2 tbsp olive oil in a large saucepan on medium and cook the finely chopped onion with 7 g chopped dried porcini and ¼ tsp salt until soft, about 5 minutes."
+    },
+    {
+      "title": "Brown",
+      "text": "Add 225 g quartered cremini mushrooms, cover and cook on medium-high until they release their liquid and start to brown, about 4 minutes, then stir in the chopped garlic for 30 seconds."
+    },
+    {
+      "title": "Simmer",
+      "text": "Stir in 175 g rinsed bulgur, 180 ml stock, 180 ml water and 1 tsp soy sauce, bring to a simmer, then cover and cook on low until tender, 16-18 minutes."
+    },
+    {
+      "title": "Rest",
+      "text": "Take off the heat, slide a folded tea towel under the lid and leave to rest for 10 minutes."
+    },
+    {
+      "title": "Finish",
+      "text": "Fluff with a fork, fold in 4 tbsp chopped parsley, season with ¼ tsp pepper and serve."
+    }
+  ],
+  "tips": [
+    "Rinse the bulgur first to wash away starchy dust and keep the grains separate.",
+    "Let the covered pan rest under a tea towel after cooking so the steam finishes softening the grains evenly.",
+    "Check the stock label if avoiding celery, as some vegetable stocks include it."
+  ],
+  "storage": "Keep in a covered container in the fridge for up to 3 days and reheat gently with a splash of water. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "soya",
+    "celery"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 249,
+    "protein_g": 7.8,
+    "carbs_g": 41.7,
+    "sugar_g": 3.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 7.5,
+    "satfat_g": 1.1,
+    "salt_g": 0.91,
+    "fibre_g": 6.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "bulgur-basic.jpg",
+  "image_alt": "A pan of fluffy bulgur pilaf studded with browned mushrooms and flecked with chopped parsley.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

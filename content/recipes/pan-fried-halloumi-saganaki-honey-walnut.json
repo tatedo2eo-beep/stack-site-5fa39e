@@ -1,0 +1,128 @@
+{
+  "slug": "pan-fried-halloumi-saganaki-honey-walnut",
+  "title": "Pan-Fried Saganaki with Honey-Walnut Dressing",
+  "category": "snacks-sides",
+  "cuisine": "Greek",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "saganaki",
+  "dish_title": "Saganaki",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Golden pan-fried cheese is topped with a warm honey and walnut dressing for a sweet-savoury bite served straight from the pan.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "small saucepan",
+    "small cast-iron frying pan",
+    "slotted offset spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Walnut dressing",
+      "qty": 30,
+      "unit": "g",
+      "item": "walnuts, chopped"
+    },
+    {
+      "group": "Walnut dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Walnut dressing",
+      "qty": 42,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Walnut dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Walnut dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "chopped parsley, plus leaves to garnish"
+    },
+    {
+      "group": "Cheese",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "neutral oil"
+    },
+    {
+      "group": "Cheese",
+      "qty": 155,
+      "unit": "g",
+      "item": "slab of halloumi or kasseri, about 2.5 cm thick"
+    },
+    {
+      "group": "Cheese",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon wedge, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast",
+      "text": "Toast the chopped walnuts in the olive oil in a small saucepan on medium until golden and fragrant, about 4 minutes."
+    },
+    {
+      "title": "Dressing",
+      "text": "Add the honey and bubble until foamy, about 1 minute, then stir in the lemon juice and chopped parsley and set aside."
+    },
+    {
+      "title": "Heat",
+      "text": "Heat the neutral oil in a cast-iron frying pan on high until smoking, about 3 minutes, patting the cheese dry first to limit spitting."
+    },
+    {
+      "title": "Fry",
+      "text": "Fry the cheese slab until deep golden, about 2 minutes, then flip with a slotted spatula and fry the other side."
+    },
+    {
+      "title": "Serve",
+      "text": "Off the heat, spoon the warm walnut dressing over the cheese in the pan, garnish with parsley leaves and serve at once with a lemon wedge and bread."
+    }
+  ],
+  "tips": [
+    "Pat the cheese dry before frying so it doesn't spit in the hot oil.",
+    "Fry on high heat just long enough to turn the outside deep golden while the centre stays soft.",
+    "Spoon the dressing over while both the cheese and dressing are still warm, then serve immediately."
+  ],
+  "storage": "Best eaten straight from the pan while hot; it does not keep or reheat well once the cheese has cooled. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 248,
+    "protein_g": 9.8,
+    "carbs_g": 8.7,
+    "sugar_g": 7.4,
+    "free_sugar_g": 6.2,
+    "fat_g": 20.2,
+    "satfat_g": 7.7,
+    "salt_g": 1.07,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "saganaki-basic.jpg",
+  "image_alt": "A slab of golden pan-fried cheese in a cast-iron pan, drizzled with a glossy honey and walnut dressing and scattered with parsley.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

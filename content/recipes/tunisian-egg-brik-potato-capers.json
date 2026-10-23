@@ -1,0 +1,144 @@
+{
+  "slug": "tunisian-egg-brik-potato-capers",
+  "title": "Tunisian Egg Brik with Potato, Capers and Harissa",
+  "category": "snacks-sides",
+  "cuisine": "Tunisian",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "brik",
+  "dish_title": "Brik",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Crisp fried pastry parcels hide a soft potato filling with a whole egg inside, finished with a sharp hit of capers and parsley.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "medium saucepan",
+    "potato masher",
+    "deep 25 cm frying pan",
+    "digital thermometer",
+    "saucer",
+    "wide fish slice",
+    "kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "qty": 1,
+      "unit": "pc",
+      "item": "large floury potato (about 280 g), peeled and diced"
+    },
+    {
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "qty": 480,
+      "unit": "ml",
+      "item": "neutral oil, for frying",
+      "note": "about 40 g is absorbed"
+    },
+    {
+      "qty": 6,
+      "unit": "pc",
+      "item": "large square spring roll wrappers"
+    },
+    {
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "harissa (optional)"
+    },
+    {
+      "qty": 2,
+      "unit": "tsp",
+      "item": "capers, drained"
+    },
+    {
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "chopped flat-leaf parsley"
+    },
+    {
+      "qty": 6,
+      "unit": "pc",
+      "item": "medium eggs"
+    },
+    {
+      "qty": 1,
+      "unit": "pc",
+      "item": "lemon, cut into 6 wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mash",
+      "text": "Boil the diced potato in salted water until tender, drain and mash with 1 tbsp olive oil."
+    },
+    {
+      "title": "Heat",
+      "text": "Heat the frying oil in a deep pan to 175°C."
+    },
+    {
+      "title": "Fill",
+      "text": "Lay a wrapper on a saucer, spoon 3 tbsp mashed potato into the centre and press a hollow in it, then dab with harissa if using and scatter over the capers and parsley."
+    },
+    {
+      "title": "Crack",
+      "text": "Crack an egg into the hollow, fold one corner of the wrapper over to the opposite corner to enclose the filling and egg in a triangle, and press the edges to seal."
+    },
+    {
+      "title": "Fry",
+      "text": "Slide the parcel into the oil away from you and fry for about 1 minute until golden underneath, then flip and fry for about 1 minute more, longer if a set yolk is wanted."
+    },
+    {
+      "title": "Repeat",
+      "text": "Lift out, drain briefly, then make the remaining parcels one at a time."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve hot with lemon wedges."
+    }
+  ],
+  "tips": [
+    "Work quickly once the egg is in the wrapper so it doesn't leak before folding.",
+    "Fry one parcel at a time to keep control of the folding and the frying.",
+    "For vulnerable guests, fry a little longer so the yolk is fully set rather than runny.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best eaten straight from the pan while hot and crisp; not suitable for keeping or reheating. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 235,
+    "protein_g": 8.9,
+    "carbs_g": 18.4,
+    "sugar_g": 0.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 14.1,
+    "satfat_g": 2.4,
+    "salt_g": 0.99,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "brik-basic.jpg",
+  "image_alt": "A crisp golden pastry triangle split open to reveal mashed potato, capers and a soft egg, served with a lemon wedge.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

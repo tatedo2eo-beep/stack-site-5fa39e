@@ -1,0 +1,135 @@
+{
+  "slug": "curried-millet-pilaf-raisins-almonds",
+  "title": "Curried Millet Pilaf with Raisins, Almonds and Herbs",
+  "category": "rice-grains",
+  "cuisine": "Indian-inspired",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "millet",
+  "dish_title": "Millet",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Fragrant curried millet is studded with sweet raisins and toasted almonds for a light, warmly spiced pilaf served with a cooling spoonful of yoghurt.",
+  "servings": 5,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large saucepan with lid",
+    "wooden spoon",
+    "fork"
+  ],
+  "ingredients": [
+    {
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "qty": 3,
+      "unit": "pc",
+      "item": "spring onions, whites and greens sliced separately"
+    },
+    {
+      "qty": 1,
+      "unit": "tsp",
+      "item": "curry powder"
+    },
+    {
+      "qty": 270,
+      "unit": "g",
+      "item": "millet, rinsed and dried on a tea towel"
+    },
+    {
+      "qty": 720,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "chopped basil and/or mint"
+    },
+    {
+      "qty": 40,
+      "unit": "g",
+      "item": "raisins"
+    },
+    {
+      "qty": 25,
+      "unit": "g",
+      "item": "flaked almonds, toasted"
+    },
+    {
+      "qty": 120,
+      "unit": "g",
+      "item": "plain yoghurt, to serve"
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast Spices",
+      "text": "Heat 1 tbsp olive oil in a large saucepan on medium and cook the spring onion whites with 1 tsp curry powder until fragrant, about 1 minute."
+    },
+    {
+      "title": "Toast Millet",
+      "text": "Add 270 g rinsed and dried millet and toast, stirring, until lightly browned, about 2 minutes."
+    },
+    {
+      "title": "Simmer",
+      "text": "Add 720 ml water and ¾ tsp salt, bring to the boil, then cover and simmer on low until the water is absorbed, 15-20 minutes."
+    },
+    {
+      "title": "Fold",
+      "text": "Off the heat, use a fork to fold in 4 tbsp chopped basil and/or mint, 40 g raisins, 25 g toasted flaked almonds and the spring onion greens."
+    },
+    {
+      "title": "Serve",
+      "text": "Season with ¼ tsp pepper and serve with a spoonful of yoghurt on each portion."
+    }
+  ],
+  "tips": [
+    "Dry the rinsed millet on a tea towel before toasting so it browns rather than steams.",
+    "Toast the millet briefly in the spiced oil to bring out a nuttier flavour before adding the water.",
+    "Fold in the herbs and raisins off the heat so they stay fresh and don't overcook."
+  ],
+  "storage": "Keep in a covered container in the fridge for up to 3 days and reheat with a splash of water, adding the yoghurt fresh. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 300,
+    "protein_g": 8.4,
+    "carbs_g": 48.9,
+    "sugar_g": 7.7,
+    "free_sugar_g": 0.0,
+    "fat_g": 8.4,
+    "satfat_g": 1.5,
+    "salt_g": 0.93,
+    "fibre_g": 6.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "millet-basic.jpg",
+  "image_alt": "A bowl of golden curried millet pilaf scattered with raisins, toasted almonds and chopped herbs, topped with a dollop of yoghurt.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

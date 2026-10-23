@@ -145,6 +145,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | buffalo-chicken-salad-blue-cheese-celery | Chicken salad | Buffalo | 2 | 4 |
 | buffalo-chicken-wings | Chicken wings | Buffalo | 4 | 6 |
 | bulalo-beef-shank-marrow-bone-corn-soup | Bulalo | Classic | 1 | 3 |
+| bulgur-pilaf-cremini-porcini-parsley | Bulgur | Classic | 1 | 3 |
 | butter-chicken | Butter chicken | Classic | 2 | 4 |
 | butter-tarts-canadian-raisin | Butter tart | Classic | 1 | 3 |
 | buttered-corn-on-the-cob | Corn on the cob | Classic | 1 | 4 |
@@ -412,25 +413,30 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crisp-spiced-aloo-tikki-mint-chutney | Aloo tikki | Classic | 2 | 4 |
 | crisp-thin-crust-tavern-pizza-peppers-onion-fennel-tomato | Bar/tavern-style pizza | Classic | 2 | 4 |
 | crisp-toasted-sesame-brittle-squares | Brittle | Sesame | 1 | 4 |
+| crisp-tofu-stir-fry-ginger-oyster-sauce | Tofu dishes | Classic | 1 | 3 |
 | crisp-turkey-mushroom-crepes | Crêpes | Turkey | 1 | 3 |
 | crisp-vanilla-meringue-kisses | Meringues (French/Swiss/Italian) | Classic | 2 | 4 |
 | crispy-baked-chicken-wings | Chicken wings | Classic | 3 | 5 |
 | crispy-chicken-sandwich | Chicken burger | Classic | 3 | 6 |
+| crispy-chicken-spring-rolls-shiitake-cabbage | Spring rolls | Chicken | 1 | 3 |
 | crispy-cornmeal-shrimp-po-boys-creole-mayo | Po' boy | Shrimp | 2 | 4 |
 | crispy-grated-potato-focaccia | Focaccia | Potato | 1 | 3 |
 | crispy-hasselback-potatoes | Hasselback | Classic | 2 | 4 |
 | crispy-oven-potato-wedges | Wedges | Classic | 3 | 5 |
 | crispy-potato-latkes | Latkes/potato pancakes | Classic | 3 | 5 |
+| crispy-prawn-spring-rolls-shiitake-cabbage | Spring rolls | Shrimp | 1 | 3 |
 | crispy-roast-mushroom-focaccia | Focaccia | Mushroom | 1 | 3 |
 | crispy-roast-potatoes | Roast potatoes | Classic | 3 | 5 |
 | crispy-shredded-hash-browns | Hash browns | Classic | 3 | 5 |
 | crispy-smashed-potatoes | Crispy smashed potatoes | Classic | 2 | 4 |
 | crispy-steak-fries | Steak fries | Classic | 3 | 5 |
 | crispy-vegetable-spring-rolls-sweet-chilli-dip | Spring rolls | Classic | 2 | 4 |
+| cuban-black-beans-red-pepper-sofrito | Beans (baked beans, refried, black beans) | Classic | 1 | 3 |
 | cuban-citrus-garlic-mojo | Mojo | Classic | 2 | 4 |
 | cucumber-coriander-raita | Raita | Cucumber | 3 | 5 |
 | cullen-skink-smoked-haddock-potato-soup | Cullen skink | Classic | 1 | 3 |
 | curried-chicken-salad-mango-chutney-almonds | Chicken salad | Curry | 3 | 5 |
+| curried-millet-pilaf-raisins-almonds | Millet | Classic | 1 | 3 |
 | curried-roast-pumpkin-soup-coconut-thyme | Pumpkin soup | Curried | 2 | 4 |
 | curry-deviled-eggs-parsley | Deviled eggs | Curry | 2 | 4 |
 | curry-laksa-chicken-prawn-coconut-noodle-soup | Laksa | Classic | 2 | 4 |
@@ -930,6 +936,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pan-con-tomate-garlic-olive-oil-toast | Pan con tomate | Classic | 2 | 4 |
 | pan-fried-beef-cabbage-dumplings-ginger-dipping-sauce | Potstickers (guotie/jiaozi) | Classic | 4 | 6 |
 | pan-fried-eggs-lacy-edges-set-yolks | Fried | Classic | 2 | 4 |
+| pan-fried-halloumi-saganaki-honey-walnut | Saganaki | Classic | 1 | 3 |
 | pan-fried-sole-brown-butter-lemon-parsley | Sole meunière | Classic | 4 | 6 |
 | pan-roasted-duck-breast-orange-sauce | Duck à l'orange | Classic | 3 | 5 |
 | pan-seared-strip-steak | Pan-seared steak | Classic | 4 | 6 |
@@ -1084,6 +1091,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | qatayef-asafiri-cream-pistachio | Qatayef | Classic | 2 | 4 |
 | qatayef-fried-cheese-half-moons | Qatayef | Cheese | 1 | 3 |
 | qatayef-fried-walnut-cinnamon-half-moons | Qatayef | Walnut | 1 | 3 |
+| quail-egg-canapes-smoked-salmon-avocado-cucumber | Canapés | Classic | 1 | 3 |
 | quick-frozen-watermelon-granita | Granita | Watermelon | 1 | 3 |
 | quick-tomato-paste-ketchup | Ketchup | Classic | 1 | 3 |
 | rainbow-fruit-salad-lime-mint | Fruit salad | Classic | 3 | 5 |
@@ -1149,6 +1157,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | rosemary-maple-custard-ice-cream | Custard-base (French) | Rosemary | 1 | 3 |
 | rosemary-potato-flake-rolls | Dinner rolls | Rosemary | 1 | 3 |
 | rugelach | Rugelach | Classic | 2 | 4 |
+| russian-pirozhki-beef-cheddar-buns | Pirozhki | Classic | 1 | 3 |
 | sabich-pita-fried-aubergine-eggs-hummus-tahini | Sabich | Classic | 2 | 4 |
 | sables-diamants | Diamant | Classic | 2 | 4 |
 | sachertorte | Sachertorte | Classic | 2 | 4 |
@@ -1190,6 +1199,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | shimeji-mushroom-larb-culantro-lime | Larb | Mushroom | 1 | 3 |
 | shredded-beef-chimichangas-fried | Chimichanga | Classic | 1 | 3 |
 | shrimp-linguine-lime-jalapeno | Long dried (spaghetti, linguine, bucatini) | Shrimp | 1 | 3 |
+| sichuan-home-style-tofu-bamboo-peppers | Home-style tofu | Classic | 1 | 3 |
 | sicilian-lemon-granita-fork-scraped | Granita | Classic | 1 | 3 |
 | sicilian-style-thick-pan-pizza-onion-tomato-crisp-crumbs | Sicilian/sfincione | Classic | 2 | 4 |
 | sigeumchi-namul-sesame-spinach | Namul | Spinach (sigeumchi) | 2 | 4 |
@@ -1261,6 +1271,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spaghetti-puttanesca | Puttanesca | Classic | 2 | 4 |
 | spaghetti-roasted-cherry-tomatoes | Long dried (spaghetti, linguine, bucatini) | Cherry tomato | 2 | 4 |
 | spanakopita-spinach-feta-phyllo-squares | Spanakopita | Classic | 2 | 4 |
+| spanish-chicken-croquetas-bechamel | Croquetas | Classic | 1 | 3 |
 | spanish-cortado-equal-milk | Cortado | Classic | 2 | 4 |
 | spanish-sofrito-slow-cooked-onion-pepper-tomato | Sofrito | Classic | 1 | 3 |
 | speculoos | Speculoos | Classic | 3 | 5 |
@@ -1414,6 +1425,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tuna-butter-bean-courgette-ribbon-salad | Tuna salad | Zucchini | 1 | 3 |
 | tuna-puttanesca | Puttanesca | Tuna | 4 | 6 |
 | tuna-tartare-avocado-lime-capers-radish | Tartare | Classic | 1 | 3 |
+| tunisian-egg-brik-potato-capers | Brik | Classic | 1 | 3 |
+| turkish-kisir-bulgur-salad-pepper-paste | Kısır | Classic | 1 | 3 |
 | turon-caramel-banana-jackfruit-rolls | Turon | Classic | 1 | 3 |
 | tuscan-panzanella-tomato-bread-salad | Panzanella | Classic | 3 | 5 |
 | twisted-parmesan-puff-pastry-cheese-straws | Cheese straws | Classic | 3 | 5 |

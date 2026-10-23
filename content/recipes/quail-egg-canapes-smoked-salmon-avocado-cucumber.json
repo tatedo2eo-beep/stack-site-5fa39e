@@ -1,0 +1,136 @@
+{
+  "slug": "quail-egg-canapes-smoked-salmon-avocado-cucumber",
+  "title": "Quail Egg Canapés with Smoked Salmon, Avocado and Pickled Cucumber",
+  "category": "snacks-sides",
+  "cuisine": "International",
+  "chapter": "appetizers-dips",
+  "book_chapter": "appetizers-dips",
+  "dish": "canapes",
+  "dish_title": "Canapés",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Pickled cucumber rounds are topped with avocado, smoked salmon and a delicate fried quail egg for an elegant, bite-sized canapé.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "vegetable peeler",
+    "sharp knife",
+    "small bowl",
+    "kitchen paper",
+    "serving platter",
+    "large non-stick frying pan",
+    "thin spatula"
+  ],
+  "ingredients": [
+    {
+      "qty": 1,
+      "unit": "pc",
+      "item": "large cucumber"
+    },
+    {
+      "qty": 120,
+      "unit": "ml",
+      "item": "rice vinegar"
+    },
+    {
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "qty": 1.0,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 0.25 tsp"
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "qty": 1,
+      "unit": "pc",
+      "item": "small ripe avocado"
+    },
+    {
+      "qty": 115,
+      "unit": "g",
+      "item": "thinly sliced smoked salmon"
+    },
+    {
+      "qty": 28,
+      "unit": "g",
+      "item": "butter, divided",
+      "note": "about 2 tbsp"
+    },
+    {
+      "qty": 12,
+      "unit": "pc",
+      "item": "fresh quail eggs"
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pickle",
+      "text": "Peel the cucumber and cut 12 rounds about 5 mm thick, then toss in a bowl with 120 ml rice vinegar, ¼ tsp salt, ¼ tsp sugar and ¼ tsp chilli flakes and chill for 30 minutes."
+    },
+    {
+      "title": "Drain",
+      "text": "Drain the cucumber rounds, pat dry and arrange on a platter."
+    },
+    {
+      "title": "Top",
+      "text": "Mash or thinly slice half an avocado and spread over each round, then drape with the smoked salmon."
+    },
+    {
+      "title": "Fry",
+      "text": "Melt 1 tbsp butter in a non-stick frying pan on medium, crack in 4-6 quail eggs keeping the yolks whole, and fry until the whites are set but the yolks are still soft, about 2 minutes; repeat with the remaining butter and eggs."
+    },
+    {
+      "title": "Assemble",
+      "text": "Lift a fried egg onto each canapé, season with pepper and serve straight away."
+    }
+  ],
+  "tips": [
+    "Pat the cucumber thoroughly dry after pickling so the toppings don't slide off.",
+    "Fry the quail eggs in small batches so each yolk stays soft and the whites don't overcook.",
+    "These runny yolks and cold-smoked salmon aren't suitable for pregnant or otherwise vulnerable guests unless the yolks are cooked until set and the salmon is hot-smoked."
+  ],
+  "storage": "Best assembled and eaten immediately; the pickled cucumber alone can be chilled for up to a day before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "fish",
+    "sulphites"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 192,
+    "protein_g": 9.9,
+    "carbs_g": 4.9,
+    "sugar_g": 1.2,
+    "free_sugar_g": 0.2,
+    "fat_g": 15.2,
+    "satfat_g": 5.6,
+    "salt_g": 0.95,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "canapes-advanced.jpg",
+  "image_alt": "Small pickled cucumber rounds topped with avocado, smoked salmon and a soft-fried quail egg.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}
