@@ -264,6 +264,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chocolate-chip-toasted-coconut-muffins | American muffin (blueberry style, muffin method) | Chocolate | 1 | 3 |
 | chocolate-cocoa-dusted-marshmallows | Marshmallows | Chocolate | 2 | 4 |
 | chocolate-cookie-crumb-custard-ice-cream | Custard-base (French) | Chocolate sandwich cookie | 1 | 3 |
+| chocolate-crepes | Crêpes | Chocolate | 1 | 3 |
 | chocolate-cupcakes | Cupcakes | Chocolate | 3 | 5 |
 | chocolate-dipped-shortbread | Shortbread | Chocolate-dipped | 2 | 5 |
 | chocolate-ginger-peach-icebox-cake | Ice-cream cake | Ginger & peach | 1 | 3 |
@@ -396,6 +397,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crisp-spiced-aloo-tikki-mint-chutney | Aloo tikki | Classic | 2 | 4 |
 | crisp-thin-crust-tavern-pizza-peppers-onion-fennel-tomato | Bar/tavern-style pizza | Classic | 2 | 4 |
 | crisp-toasted-sesame-brittle-squares | Brittle | Sesame | 1 | 4 |
+| crisp-turkey-mushroom-crepes | Crêpes | Turkey | 1 | 3 |
 | crisp-vanilla-meringue-kisses | Meringues (French/Swiss/Italian) | Classic | 2 | 4 |
 | crispy-baked-chicken-wings | Chicken wings | Classic | 3 | 5 |
 | crispy-chicken-sandwich | Chicken burger | Classic | 3 | 6 |
@@ -682,6 +684,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | jasmine-tea-cherry-custard-ice-cream | Custard-base (French) | Jasmine | 1 | 3 |
 | jasmine-tea-rose-petal-sorbet | Sorbet | Jasmine & rose | 1 | 3 |
 | jerk-chicken | Jerk | Classic | 2 | 4 |
+| jerusalem-artichoke-pancakes | Pancakes (American) | Artichoke | 1 | 3 |
 | jian-dui-sesame-balls-red-bean | Sesame ball | Classic | 1 | 3 |
 | juicy-lucy | Juicy Lucy (stuffed) | Classic | 2 | 5 |
 | kaak-al-quds-sesame-bread | Ka'ak | Classic | 1 | 3 |
@@ -725,6 +728,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | layered-espresso-tonic-orange | Tonics | Classic | 2 | 4 |
 | layered-vegetable-biryani-cauliflower-potato-cashews | Biryani | Vegetable | 3 | 5 |
 | leek-potato-thyme-focaccia | Focaccia | Leek | 1 | 3 |
+| leftover-grilled-corn-pancakes-herbs | Pancakes (American) | Corn | 1 | 3 |
 | lemon-angel-food-cake | Angel food | Lemon | 3 | 5 |
 | lemon-bars | Lemon bars | Classic | 3 | 5 |
 | lemon-blackberry-ripple-custard-ice-cream | Custard-base (French) | Lemon & blackberry | 1 | 3 |
@@ -766,6 +770,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | maamoul-date-filled-semolina-cookies | Maamoul | Classic | 2 | 4 |
 | madeleines | Madeleines (cake-like) | Classic | 3 | 5 |
 | mahalabia-milk-pudding-pistachios | Mahalabia | Classic | 1 | 3 |
+| malawax-cardamom-crepes | Crêpes | Cardamom | 1 | 3 |
 | malaysian-coconut-rice-sambal-crispy-anchovies-peanuts-egg | Nasi lemak | Classic | 2 | 4 |
 | malaysian-style-fish-head-curry-okra-aubergine | Fish head curry | Classic | 2 | 4 |
 | malloreddus-saffron-tomato | Malloreddus | Classic | 2 | 4 |
@@ -782,6 +787,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mansaf-lamb-jameed-yoghurt-rice | Mansaf | Classic | 1 | 3 |
 | maple-blondies | Blondies | Maple | 1 | 3 |
 | maple-glazed-carrots-ginger-lemon | Glazed carrots | Maple | 1 | 4 |
+| maple-pecan-cranberry-pancakes | Pancakes (American) | Maple | 1 | 3 |
 | maple-pecan-granola-clusters | Granola | Maple-pecan | 2 | 4 |
 | maple-walnut-pineapple-sundae | Sundaes | Maple | 1 | 3 |
 | maqluba-chicken-aubergine-cauliflower-upside-down-rice | Maqluba | Classic | 1 | 3 |
@@ -1009,6 +1015,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pomegranate-rose-mint-granita | Granita | Pomegranate | 1 | 3 |
 | pommes-anna-layered-potato-cake | Pommes Anna | Classic | 3 | 5 |
 | pommes-dauphine-potato-puffs | Pommes dauphine | Classic | 2 | 4 |
+| poppy-lemon-sunflower-seed-pancakes | Pancakes (American) | Poppy seed | 1 | 3 |
 | poppy-seed-coleslaw-lemon-honey | Coleslaw | Poppy seed | 1 | 3 |
 | potato-cheese-dumplings-buttery-golden-onions | Pierogi | Potato-cheese (ruskie) | 4 | 6 |
 | potato-dough-parmesan-focaccia | Focaccia | Parmesan | 1 | 3 |
@@ -1205,6 +1212,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | soft-yoghurt-pan-flatbreads-olive-oil | Flatbreads | Classic | 2 | 4 |
 | som-tam-green-papaya-salad | Som tam | Classic | 3 | 5 |
 | soto-ayam-indonesian-chicken-turmeric-soup | Soto | Classic | 2 | 4 |
+| souffleed-almond-dulce-de-leche-crepes | Crêpes | Almond & dulce de leche | 1 | 3 |
 | sour-cream-coffee-cake | Coffee cake | Classic | 3 | 5 |
 | south-indian-lemon-rice-peanuts-curry-leaves | Lemon rice | Classic | 2 | 4 |
 | southern-fried-chicken | Fried chicken (Southern) | Classic | 3 | 6 |
@@ -1283,6 +1291,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
 | stuffed-corn-griddle-cakes-melted-cheese-cabbage-relish | Pupusa | Cheese | 4 | 6 |
 | stuffed-corn-griddle-cakes-refried-beans-cheese-cabbage-relish | Pupusa | Bean-cheese | 3 | 5 |
+| sugar-snap-pea-pancakes | Pancakes (American) | Pea | 1 | 3 |
 | sukuma-wiki-collards-tomato-ginger | Sukuma wiki | Classic | 1 | 3 |
 | sun-dried-tomato-basil-pesto-pasta-salad | Pasta salad | Basil & sun-dried tomato | 1 | 3 |
 | swedish-meatballs-cream-gravy | Meatballs | Swedish (allspice-nutmeg) | 3 | 5 |
@@ -1410,6 +1419,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | whole-cherry-clafoutis | Clafoutis | Cherry (classic) | 2 | 4 |
 | whole-sea-bass-baked-in-salt-crust-lemon-herbs | Salt-crusted fish | Classic | 4 | 6 |
 | wholemeal-irish-brown-soda-bread-oats | ? | ? | MISSING | |
+| wild-rice-red-pepper-shallot-pancakes-smoked-salmon | Pancakes (American) | Roasted red pepper & shallot | 1 | 3 |
 | yakisoba | Yakisoba | Classic | 2 | 4 |
 | yakitori | Yakitori | Classic | 2 | 4 |
 | yangnyeom-chicken | Yangnyeom chicken | Classic | 3 | 6 |

@@ -1,0 +1,139 @@
+{
+  "slug": "malawax-cardamom-crepes",
+  "title": "Malawax (Somali Cardamom Crêpes)",
+  "category": "breakfast",
+  "cuisine": "Somali",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "crepes",
+  "dish_title": "Crêpes",
+  "flavour": "Cardamom",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "thin-french-crepes-sugar-lemon",
+  "changes_from_base": "A blended, sweetened batter with cardamom, a single egg and half water, cooked in ghee until the edges crisp and turn lacy, then sprinkled with sugar instead of served with lemon.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Soft, golden Somali crêpes lightly spiced with cardamom and sprinkled with sugar, best served warm straight from the pan.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "blender",
+    "large bowl",
+    "ladle (about 80 ml)",
+    "kitchen paper",
+    "medium non-stick crêpe pan, frying pan or cast-iron griddle",
+    "spatula",
+    "plate"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 176,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk (or milk of choice)"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Batter",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar, plus more to serve"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground cardamom"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 240,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "For cooking",
+      "qty": 20,
+      "unit": "g",
+      "item": "melted ghee, as needed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend",
+      "text": "Blend the 176 g flour, 240 ml milk, 1 egg, 50 g sugar, 1 tsp cardamom, ⅛ tsp salt and 240 ml water until smooth and pour into a bowl."
+    },
+    {
+      "title": "Heat",
+      "text": "Lightly grease a pan with ghee on kitchen paper and heat over medium-high heat until well heated."
+    },
+    {
+      "title": "Pour",
+      "text": "Ladle in about 80 ml batter and swirl into a thin round."
+    },
+    {
+      "title": "Cook",
+      "text": "Cook until no longer runny and brown underneath, 1-2 min, or until it releases easily."
+    },
+    {
+      "title": "Flip",
+      "text": "Drizzle with ½ tsp melted ghee, flip and cook for 20-30 s, until the edges crisp and small golden pockets appear."
+    },
+    {
+      "title": "Finish",
+      "text": "Turn onto a plate and sprinkle with sugar to taste, then repeat, wiping ghee over the pan between crêpes."
+    }
+  ],
+  "tips": [
+    "Keep the pan well heated throughout so each crêpe cooks quickly and develops golden pockets.",
+    "Wipe a little ghee over the pan between crêpes rather than pouring in more.",
+    "Sugar each crêpe while it's still warm so it dissolves slightly into the surface."
+  ],
+  "storage": "Best eaten straight away while warm and the edges are still crisp. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 319,
+    "protein_g": 8.1,
+    "carbs_g": 51.9,
+    "sugar_g": 18.2,
+    "free_sugar_g": 15.0,
+    "fat_g": 8.6,
+    "satfat_g": 4.7,
+    "salt_g": 0.29,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A stack of golden, lightly spiced crêpes with crisp edges, sprinkled with sugar.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

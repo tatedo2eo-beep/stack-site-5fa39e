@@ -1,0 +1,172 @@
+{
+  "slug": "maple-pecan-cranberry-pancakes",
+  "title": "Maple, Pecan and Cranberry Pancakes",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Maple",
+  "flavour_order": 25,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "Wholemeal and almond flour replace the plain flour, sweetened only with a spoonful of maple syrup in the batter, with chopped pecans and dried cranberries folded through.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Nutty wholemeal and almond flour pancakes studded with pecans and dried cranberries, sweetened with a touch of maple syrup.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "sieve",
+    "large bowl",
+    "medium bowl",
+    "whisk",
+    "rubber spatula",
+    "griddle or large frying pan",
+    "pastry brush",
+    "60 ml measure",
+    "thin spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 140,
+      "unit": "g",
+      "item": "wholemeal flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "g",
+      "item": "almond flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Batter",
+      "qty": 360,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "rapeseed oil"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "g",
+      "item": "pecans, chopped"
+    },
+    {
+      "group": "Batter",
+      "qty": 60,
+      "unit": "g",
+      "item": "dried cranberries"
+    },
+    {
+      "group": "For cooking",
+      "qty": 10,
+      "unit": "g",
+      "item": "butter or oil, for the pan"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sift",
+      "text": "Sift the 140 g wholemeal flour, 60 g almond flour, 2 tsp baking powder, 1 tsp bicarbonate of soda and ¼ tsp salt together."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk the 2 eggs, then whisk in the 1 tbsp maple syrup, 360 ml buttermilk, 2 tbsp rapeseed oil and 1 tsp vanilla."
+    },
+    {
+      "title": "Combine",
+      "text": "Quickly whisk the flour mix into the wet ingredients, then fold in the 60 g pecans and 60 g dried cranberries without overworking."
+    },
+    {
+      "title": "Heat",
+      "text": "Heat a griddle over medium-high heat and brush with butter or oil."
+    },
+    {
+      "title": "Cook",
+      "text": "Drop 3-4 tbsp batter per pancake onto the hot griddle."
+    },
+    {
+      "title": "Flip",
+      "text": "When bubbles break through, slide a spatula carefully underneath, as the pancakes are delicate, flip and cook for about 1 min more until brown underneath."
+    }
+  ],
+  "tips": [
+    "Fold in the pecans and cranberries gently so the batter stays light.",
+    "These pancakes are softer than standard ones, so flip them carefully with a thin spatula.",
+    "A splash of maple syrup in the batter means they need little extra at the table."
+  ],
+  "storage": "Serve straight away, or once cool, wrap portions in cling film and freeze in a freezer bag. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 525,
+    "protein_g": 15.5,
+    "carbs_g": 51.2,
+    "sugar_g": 20.0,
+    "free_sugar_g": 14.0,
+    "fat_g": 31.7,
+    "satfat_g": 4.8,
+    "salt_g": 2.14,
+    "fibre_g": 7.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A stack of golden pancakes studded with chopped pecans and dried cranberries.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

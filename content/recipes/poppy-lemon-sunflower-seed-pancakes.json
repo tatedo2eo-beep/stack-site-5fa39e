@@ -1,0 +1,177 @@
+{
+  "slug": "poppy-lemon-sunflower-seed-pancakes",
+  "title": "Poppy Seed, Lemon and Sunflower Seed Pancakes",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Poppy seed",
+  "flavour_order": 24,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "A wholemeal buttermilk batter with poppy seeds, toasted sunflower seeds and lemon zest, oil instead of melted butter and no soured cream, with raspberries pressed onto each pancake if you like.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Hearty wholemeal pancakes studded with poppy and sunflower seeds and bright lemon zest, with raspberries pressed in for bursts of fruit.",
+  "servings": 5,
+  "prep_min": 10,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "sieve",
+    "large bowl",
+    "medium bowl",
+    "whisk",
+    "griddle or large frying pan",
+    "pastry brush",
+    "60 ml measure",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 280,
+      "unit": "g",
+      "item": "wholemeal flour (or 140 g wholemeal plus 140 g plain flour)"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Batter",
+      "qty": 12,
+      "unit": "g",
+      "item": "sugar or light brown sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 25,
+      "unit": "g",
+      "item": "poppy seeds"
+    },
+    {
+      "group": "Batter",
+      "qty": 45,
+      "unit": "g",
+      "item": "sunflower seeds, toasted until golden"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 480,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "rapeseed oil"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "finely chopped lemon zest"
+    },
+    {
+      "group": "Batter",
+      "qty": 125,
+      "unit": "g",
+      "item": "raspberries (optional)"
+    },
+    {
+      "group": "For cooking",
+      "qty": 10,
+      "unit": "g",
+      "item": "butter or oil, for the pan"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sift",
+      "text": "Sift the 280 g wholemeal flour, 2 tsp baking powder, 1 tsp bicarbonate of soda, 1 tbsp sugar and ½ tsp salt together, then stir in the 25 g poppy seeds and 45 g toasted sunflower seeds."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk the 2 eggs, then whisk in the 480 ml buttermilk, 2 tbsp rapeseed oil and 2 tsp vanilla."
+    },
+    {
+      "title": "Combine",
+      "text": "Quickly stir the flour mix and 2 tbsp lemon zest into the wet ingredients, taking care not to overwork the batter."
+    },
+    {
+      "title": "Heat",
+      "text": "Heat a griddle over medium-high heat and brush with butter or oil."
+    },
+    {
+      "title": "Cook",
+      "text": "Drop 3-4 tbsp batter per pancake, pressing about 6 raspberries onto each if using."
+    },
+    {
+      "title": "Flip",
+      "text": "When bubbles break through the surface, flip and cook for about 1 min more until brown underneath."
+    }
+  ],
+  "tips": [
+    "Toast the sunflower seeds until golden first for extra crunch and flavour.",
+    "Stir the batter just until combined - overmixing makes the pancakes tough.",
+    "Press the raspberries in as soon as the batter is on the griddle so they set into the pancakes."
+  ],
+  "storage": "Serve straight away, or once cool, wrap portions in cling film and freeze in a freezer bag. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 429,
+    "protein_g": 16.3,
+    "carbs_g": 55.0,
+    "sugar_g": 9.3,
+    "free_sugar_g": 2.7,
+    "fat_g": 18.1,
+    "satfat_g": 3.5,
+    "salt_g": 2.07,
+    "fibre_g": 9.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A stack of speckled wholemeal pancakes studded with seeds and raspberries, flecked with lemon zest.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

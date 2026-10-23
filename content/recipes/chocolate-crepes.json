@@ -1,0 +1,171 @@
+{
+  "slug": "chocolate-crepes",
+  "title": "Chocolate Crêpes",
+  "category": "breakfast",
+  "cuisine": "French",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "crepes",
+  "dish_title": "Crêpes",
+  "flavour": "Chocolate",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "thin-french-crepes-sugar-lemon",
+  "changes_from_base": "A small batch of batter with cocoa sifted in with the flour and a little vanilla, cooked as 18 cm crêpes and filled with chocolate-hazelnut spread instead of sugar and lemon.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Delicate cocoa crêpes folded around a spoonful of chocolate-hazelnut spread for a quick, indulgent treat.",
+  "servings": 2,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "medium bowl",
+    "whisk",
+    "sieve",
+    "18 cm non-stick frying pan",
+    "60 ml measure",
+    "thin spatula",
+    "plate",
+    "blender (if resting overnight)"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 118,
+      "unit": "ml",
+      "item": "milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, at room temperature"
+    },
+    {
+      "group": "Batter",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 14,
+      "unit": "g",
+      "item": "unsalted butter, melted, plus more for the pan"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 42,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cocoa powder"
+    },
+    {
+      "group": "To serve",
+      "qty": 30,
+      "unit": "g",
+      "item": "chocolate-hazelnut spread (optional)"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "ml",
+      "item": "double cream, whipped (optional)"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "g",
+      "item": "berries (optional)"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "g",
+      "item": "icing sugar (optional)",
+      "note": "about 1 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk",
+      "text": "Whisk the 118 ml milk, 1 egg, 1 tbsp sugar, 14 g melted butter, ½ tsp vanilla and ⅛ tsp salt vigorously in a bowl."
+    },
+    {
+      "title": "Sift",
+      "text": "Sift in the 42 g flour and 1 tbsp cocoa and whisk until smooth."
+    },
+    {
+      "title": "Rest",
+      "text": "Rest the batter at room temperature for at least 15 min, or overnight in the fridge."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat a small frying pan over medium heat, melt a knob of butter and spread it round, then pour in about 3 tbsp batter and swirl quickly to coat the base."
+    },
+    {
+      "title": "Flip",
+      "text": "Cook undisturbed until the edges look dry, 60-90 s, then flip with a thin spatula and cook for 30-60 s more until cooked through."
+    },
+    {
+      "title": "Fill",
+      "text": "Spread a teaspoon of chocolate-hazelnut spread over one quarter of each crêpe and fold in half then into quarters, or roll it up tightly."
+    },
+    {
+      "title": "Serve",
+      "text": "Top with whipped cream, berries or icing sugar if you like and serve at once."
+    }
+  ],
+  "tips": [
+    "Rest the batter before cooking so the crêpes turn out thin and tender rather than tough.",
+    "There's no need to grease the pan again after the first crêpe once it's seasoned with butter.",
+    "Fill and fold the crêpes while they're still warm so the filling softens slightly."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 451,
+    "protein_g": 10.0,
+    "carbs_g": 41.6,
+    "sugar_g": 21.7,
+    "free_sugar_g": 16.3,
+    "fat_g": 27.9,
+    "satfat_g": 15.3,
+    "salt_g": 0.56,
+    "fibre_g": 4.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A folded cocoa crêpe filled with chocolate-hazelnut spread, topped with whipped cream and berries.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

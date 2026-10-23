@@ -1,0 +1,165 @@
+{
+  "slug": "sugar-snap-pea-pancakes",
+  "title": "Sugar Snap Pea Pancakes",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Pea",
+  "flavour_order": 27,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "Small savoury pancakes made from blanched sugar snaps puréed with milk and cream, bound with egg and a little flour, with coarsely puréed peas folded in; cooked in butter and finished briefly in a 230 °C oven.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Delicate little pancakes made from puréed sugar snap and shelled peas, finished in the oven for a tender, bright green bite.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "bowl of iced water",
+    "saucepan",
+    "slotted spoon",
+    "blender or food processor",
+    "large bowl",
+    "sieve",
+    "whisk",
+    "large ovenproof frying pan",
+    "spatula",
+    "plate lined with kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 113,
+      "unit": "g",
+      "item": "sugar snap peas, trimmed"
+    },
+    {
+      "group": "Batter",
+      "qty": 75,
+      "unit": "g",
+      "item": "freshly shelled peas"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "milk"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "double cream"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, lightly beaten"
+    },
+    {
+      "group": "Batter",
+      "qty": 30,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 0.125 tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp; ⅛ tsp in the batter, plus a little to finish"
+    },
+    {
+      "group": "For cooking",
+      "qty": 28,
+      "unit": "g",
+      "item": "butter (in 4 portions of 7 g)"
+    },
+    {
+      "group": "To serve",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blanch",
+      "text": "Heat the oven to 230 °C. Bring a lightly salted pan of water to the boil and blanch the 113 g sugar snap peas for 2 min, then chill in iced water and drain; blanch the 75 g shelled peas for about 3 min, chill and drain."
+    },
+    {
+      "title": "Purée",
+      "text": "Purée the sugar snaps with the 2 tbsp milk and 1 tbsp double cream, pour into a bowl and whisk in the 1 egg."
+    },
+    {
+      "title": "Mix",
+      "text": "Sift in the 30 g flour, ½ tsp baking powder, ⅛ tsp sugar and ⅛ tsp salt and whisk to combine, then coarsely purée the shelled peas and fold them in."
+    },
+    {
+      "title": "Fry",
+      "text": "Melt 7 g butter in an ovenproof frying pan over medium-high heat and drop in tablespoons of batter."
+    },
+    {
+      "title": "Bake",
+      "text": "When the edges are lightly browned, put the pan in the 230 °C oven for 1½ min."
+    },
+    {
+      "title": "Flip",
+      "text": "Take the pan out, flip the pancakes gently, cook on the hob until lightly browned underneath, then return to the oven for 1 min more."
+    },
+    {
+      "title": "Season",
+      "text": "Drain on kitchen paper and season with salt and pepper, then repeat with the remaining batter and butter."
+    }
+  ],
+  "tips": [
+    "Chill the peas in iced water straight after blanching to keep their colour bright.",
+    "Work in small batches - the pancakes are delicate and best made a few at a time.",
+    "Finishing them briefly in the oven helps them cook through without overbrowning."
+  ],
+  "storage": "These are best eaten fresh and warm, straight from the pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 141,
+    "protein_g": 4.6,
+    "carbs_g": 11.5,
+    "sugar_g": 2.9,
+    "free_sugar_g": 0.1,
+    "fat_g": 8.7,
+    "satfat_g": 5.0,
+    "salt_g": 0.58,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Small green pea pancakes arranged on a plate, lightly browned at the edges.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

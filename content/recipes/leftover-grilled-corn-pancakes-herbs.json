@@ -1,0 +1,163 @@
+{
+  "slug": "leftover-grilled-corn-pancakes-herbs",
+  "title": "Grilled Corn Pancakes with Chilli and Herbs",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Corn",
+  "flavour_order": 21,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "A savoury batter of cornmeal and a little flour bound with half the corn puréed with chilli, coriander, basil, garlic, lime juice and egg; the rest of the kernels stay whole and the pancakes are shallow-fried, with no buttermilk or sugar.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Golden, herb-flecked pancakes built from leftover grilled corn, lifted with fresh chilli, lime and herbs for a vibrant savoury brunch or side.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "food processor",
+    "large frying pan",
+    "spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 70,
+      "unit": "g",
+      "item": "cornmeal"
+    },
+    {
+      "group": "Batter",
+      "qty": 65,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "black pepper"
+    },
+    {
+      "group": "Batter",
+      "qty": 600,
+      "unit": "g",
+      "item": "corn kernels (leftover grilled corn is best)"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "fresh chilli (jalapeño, Thai, serrano or habanero), minced, or to taste"
+    },
+    {
+      "group": "Batter",
+      "qty": 10,
+      "unit": "g",
+      "item": "coriander leaves"
+    },
+    {
+      "group": "Batter",
+      "qty": 10,
+      "unit": "g",
+      "item": "basil leaves"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "minced garlic, or more"
+    },
+    {
+      "group": "Batter",
+      "qty": 30,
+      "unit": "ml",
+      "item": "lime juice (1 lime)"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "For cooking",
+      "qty": 1,
+      "unit": "pc",
+      "item": "neutral oil (grapeseed or corn), about 6 mm deep in the pan"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lime, in wedges, and minced chilli, to serve (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Mix the 70 g cornmeal, 65 g plain flour, salt and pepper in a large bowl."
+    },
+    {
+      "title": "Purée",
+      "text": "Put half of the 600 g corn kernels in a food processor with the minced chilli, 10 g coriander, 10 g basil, 1 tsp minced garlic, the lime juice and 1 egg, and roughly purée, leaving some texture."
+    },
+    {
+      "title": "Combine",
+      "text": "Stir the purée and the remaining corn into the dry mix."
+    },
+    {
+      "title": "Fry",
+      "text": "Heat about 6 mm oil in a large frying pan and spoon in large pancakes, turning carefully once."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve hot, with lime wedges and extra minced chilli if you like."
+    }
+  ],
+  "tips": [
+    "Use leftover grilled corn if you have it, as it gives the best flavour.",
+    "Purée only half the corn so the pancakes keep some bite from whole kernels.",
+    "Keep the oil at a steady heat so the pancakes turn golden without burning before the centre cooks through."
+  ],
+  "storage": "These are best eaten fresh and warm, straight from the pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 336,
+    "protein_g": 8.2,
+    "carbs_g": 49.3,
+    "sugar_g": 7.3,
+    "free_sugar_g": 0.1,
+    "fat_g": 13.5,
+    "satfat_g": 1.6,
+    "salt_g": 1.91,
+    "fibre_g": 4.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A stack of golden corn pancakes flecked with green herbs and chilli, served with lime wedges.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

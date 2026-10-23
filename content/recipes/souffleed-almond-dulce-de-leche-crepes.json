@@ -1,0 +1,164 @@
+{
+  "slug": "souffleed-almond-dulce-de-leche-crepes",
+  "title": "Souffléed Almond and Dulce de Leche Crêpes",
+  "category": "breakfast",
+  "cuisine": "French",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "crepes",
+  "dish_title": "Crêpes",
+  "flavour": "Almond & dulce de leche",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "thin-french-crepes-sugar-lemon",
+  "changes_from_base": "A sweetened batter cooked as small 15 cm crêpes, each rolled round a dulce de leche soufflé mixture and baked at 200 °C until puffed, served with toasted almonds, more dulce de leche and whipped cream; the source flavours the batter with almond extract, which I left out (my adjustment, as the extract is alcohol-based).",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Delicate crêpes rolled around a light dulce de leche soufflé, baked until puffed and finished with toasted almonds.",
+  "servings": 6,
+  "prep_min": 40,
+  "cook_min": 30,
+  "difficulty": "hard",
+  "equipment": [
+    "2 bowls",
+    "whisk",
+    "fine sieve",
+    "15 cm crêpe pan",
+    "palette knife",
+    "dinner plate",
+    "Swiss roll tin",
+    "electric mixer",
+    "large spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Crêpes",
+      "qty": 240,
+      "unit": "ml",
+      "item": "milk"
+    },
+    {
+      "group": "Crêpes",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Crêpes",
+      "qty": 40,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Crêpes",
+      "qty": 65,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Crêpes",
+      "qty": 21,
+      "unit": "g",
+      "item": "butter, melted and cooled, plus about 15 g more for the pan and tin"
+    },
+    {
+      "group": "Soufflé filling",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs, separated"
+    },
+    {
+      "group": "Soufflé filling",
+      "qty": 200,
+      "unit": "g",
+      "item": "dulce de leche"
+    },
+    {
+      "group": "Soufflé filling",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar (1 for the tin, 1 for the whites)",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 45,
+      "unit": "g",
+      "item": "flaked almonds"
+    },
+    {
+      "group": "To serve",
+      "qty": 100,
+      "unit": "g",
+      "item": "dulce de leche"
+    },
+    {
+      "group": "To serve",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream, whipped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk",
+      "text": "Beat the 240 ml milk and 3 whole eggs together, whisk in the 40 g flour mixed with 65 g sugar, then whisk in the 21 g melted butter and strain through a fine sieve; rest for at least 30 min."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat a crêpe pan, butter it lightly and pour in a spoonful of batter, tilting to coat the base, then cook until lightly browned on both sides; repeat to make about 12 crêpes."
+    },
+    {
+      "title": "Toast",
+      "text": "Heat the oven to 200 °C, butter a Swiss roll tin and dust with 1 tbsp sugar, then toast the 45 g flaked almonds."
+    },
+    {
+      "title": "Mix",
+      "text": "Beat the 3 egg yolks until thick and stir in 200 g dulce de leche."
+    },
+    {
+      "title": "Fold",
+      "text": "Whisk the 3 egg whites to soft peaks, beat in 1 tbsp sugar until stiff, stir a third into the yolk mixture, then fold in the rest."
+    },
+    {
+      "title": "Fill",
+      "text": "Put a heaped tablespoon of the soufflé mixture in the middle of each crêpe, roll round it and lay seam side down in the tin."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake until puffed, about 15 min, then serve at once with a little dulce de leche, the toasted almonds and whipped cream."
+    }
+  ],
+  "tips": [
+    "Strain the crêpe batter through a fine sieve for an extra-smooth, tender result.",
+    "Fold the whisked egg whites in gently to keep the soufflé filling light and airy.",
+    "Serve the crêpes straight from the oven while the filling is still puffed."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the oven. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 559,
+    "protein_g": 14.4,
+    "carbs_g": 52.8,
+    "sugar_g": 43.6,
+    "free_sugar_g": 39.8,
+    "fat_g": 32.9,
+    "satfat_g": 17.2,
+    "salt_g": 0.41,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Rolled crêpes filled with a puffed dulce de leche soufflé, served with dulce de leche, toasted almonds and whipped cream.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

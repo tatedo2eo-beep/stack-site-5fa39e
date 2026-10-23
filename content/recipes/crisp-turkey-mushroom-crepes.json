@@ -1,0 +1,212 @@
+{
+  "slug": "crisp-turkey-mushroom-crepes",
+  "title": "Crisp Turkey and Mushroom Crêpes",
+  "category": "breakfast",
+  "cuisine": "French",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "crepes",
+  "dish_title": "Crêpes",
+  "flavour": "Turkey",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "thin-french-crepes-sugar-lemon",
+  "changes_from_base": "A savoury batter with water and fewer eggs, cooked as small 20 cm crêpes, then filled with mushrooms, spinach, leftover turkey, crème fraîche and Parmigiano-Reggiano, folded into triangles and baked until crisp at 200 °C instead of served with sugar and lemon.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Golden crêpes folded around a rich mushroom, spinach and leftover turkey filling, then baked until crisp at the edges.",
+  "servings": 6,
+  "prep_min": 30,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "medium bowl",
+    "whisk",
+    "cling film",
+    "large frying pan",
+    "20 cm frying pan",
+    "pastry brush",
+    "thin spatula",
+    "plate",
+    "2 large gratin dishes"
+  ],
+  "ingredients": [
+    {
+      "group": "Crêpes",
+      "qty": 125,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Crêpes",
+      "qty": 240,
+      "unit": "ml",
+      "item": "milk"
+    },
+    {
+      "group": "Crêpes",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Crêpes",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, lightly beaten"
+    },
+    {
+      "group": "Crêpes",
+      "qty": 28,
+      "unit": "g",
+      "item": "butter, melted, plus about 15 g more for brushing"
+    },
+    {
+      "group": "Crêpes",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "extra virgin olive oil"
+    },
+    {
+      "group": "Filling",
+      "qty": 340,
+      "unit": "g",
+      "item": "mixed fresh mushrooms, halved and thinly sliced"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "shallots, finely chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "thyme leaves"
+    },
+    {
+      "group": "Filling",
+      "qty": 140,
+      "unit": "g",
+      "item": "baby spinach, coarsely chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 210,
+      "unit": "g",
+      "item": "shredded leftover cooked turkey"
+    },
+    {
+      "group": "Filling",
+      "qty": 180,
+      "unit": "ml",
+      "item": "crème fraîche"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "snipped chives"
+    },
+    {
+      "group": "Filling",
+      "qty": 50,
+      "unit": "g",
+      "item": "grated Parmigiano-Reggiano (half for the filling, half for the top)"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "black pepper"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pinch",
+      "item": "freshly grated nutmeg"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk",
+      "text": "Whisk the 125 g flour, 240 ml milk, 120 ml water, 2 eggs, 28 g melted butter and ½ tsp salt together, cover and rest for at least 1 h."
+    },
+    {
+      "title": "Cook",
+      "text": "Heat the 2 tbsp olive oil in a large frying pan, add the 340 g mushrooms, season with salt and cook over medium-high heat until browned and tender, about 5 min."
+    },
+    {
+      "title": "Flavour",
+      "text": "Stir in the 2 shallots, 2 garlic cloves and ½ tsp thyme and cook for 1 min, then add the 140 g spinach and stir until wilted, about 1 min."
+    },
+    {
+      "title": "Finish",
+      "text": "Off the heat, stir in the 210 g turkey, 180 ml crème fraîche, 2 tbsp chives and half the 50 g cheese, and season with salt, pepper and nutmeg."
+    },
+    {
+      "title": "Make",
+      "text": "Brush a small frying pan with melted butter, heat, then pour in 2-3 tbsp batter, swirl to coat the base and cook until the edge browns, about 30 s, flip and cook 20 s more; repeat to make a stack of crêpes."
+    },
+    {
+      "title": "Fill",
+      "text": "Heat the oven to 200 °C, spread 3 tbsp filling over half of each crêpe, fold in half then into quarters."
+    },
+    {
+      "title": "Bake",
+      "text": "Arrange the crêpes slightly overlapping in buttered gratin dishes, scatter over any leftover filling and the remaining cheese, and bake until the edges are crisp and the filling is hot, 15-20 min."
+    }
+  ],
+  "tips": [
+    "Rest the crêpe batter for at least 1 h so the crêpes turn out tender, not rubbery.",
+    "Cook the mushrooms until properly browned for the best depth of flavour in the filling.",
+    "Fold the filled crêpes into neat triangles so they sit snugly in the dish before baking."
+  ],
+  "storage": "Best eaten fresh and warm, straight from the oven. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 459,
+    "protein_g": 17.4,
+    "carbs_g": 24.9,
+    "sugar_g": 5.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 32.5,
+    "satfat_g": 16.3,
+    "salt_g": 1.58,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Overlapping folded crêpes filled with mushroom and turkey, baked golden and crisp at the edges in a gratin dish.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

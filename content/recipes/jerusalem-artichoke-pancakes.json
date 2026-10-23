@@ -1,0 +1,171 @@
+{
+  "slug": "jerusalem-artichoke-pancakes",
+  "title": "Jerusalem Artichoke Pancakes",
+  "category": "breakfast",
+  "cuisine": "American",
+  "chapter": "breakfast",
+  "book_chapter": "breakfast",
+  "dish": "pancakes-american",
+  "dish_title": "Pancakes (American)",
+  "flavour": "Artichoke",
+  "flavour_order": 26,
+  "access": "premium",
+  "base_recipe": "fluffy-buttermilk-pancakes-maple-syrup",
+  "changes_from_base": "A savoury grated-vegetable pancake: Jerusalem artichokes and onion bound with egg, a little flour, maple syrup and nut oil, seasoned with cayenne and nutmeg, and fried in oil and butter instead of a poured batter.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Crisp, golden pancakes made from grated Jerusalem artichoke and onion, lightly spiced with nutmeg and cayenne for a warming savoury side.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "2 baking trays lined with baking paper or foil",
+    "food processor with grating disc or box grater",
+    "roasting tin or large bowl",
+    "small bowl",
+    "whisk",
+    "large heavy frying pan or griddle",
+    "spatula",
+    "tray lined with kitchen paper",
+    "foil"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "small onions, peeled and quartered"
+    },
+    {
+      "group": "Batter",
+      "qty": 1400,
+      "unit": "g",
+      "item": "Jerusalem artichokes, scrubbed and trimmed"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "maple syrup"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "walnut or hazelnut oil"
+    },
+    {
+      "group": "Batter",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "black pepper"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "freshly grated nutmeg"
+    },
+    {
+      "group": "Batter",
+      "qty": 125,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "For cooking",
+      "qty": 120,
+      "unit": "ml",
+      "item": "vegetable oil, more if needed"
+    },
+    {
+      "group": "For cooking",
+      "qty": 28,
+      "unit": "g",
+      "item": "butter"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Grate",
+      "text": "Line 2 trays with baking paper or foil. Grate the 2 onions and 1400 g Jerusalem artichokes in a food processor or on a box grater and tip into a large bowl."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk the 2 eggs with the 2 tbsp maple syrup, 2 tbsp walnut or hazelnut oil, 1½ tsp salt, ¼ tsp black pepper, ⅛ tsp cayenne and ¼ tsp nutmeg, then pour over the vegetables and mix lightly with your fingers."
+    },
+    {
+      "title": "Flour",
+      "text": "Sprinkle the 125 g flour over and mix lightly again."
+    },
+    {
+      "title": "Shape",
+      "text": "Shape into 16 pancakes 8 cm across and about 1 cm thick, setting each on a lined tray."
+    },
+    {
+      "title": "Fry",
+      "text": "Heat half the 120 ml vegetable oil and 14 g butter in a large frying pan and cook half the pancakes until golden, 5-7 min a side, lowering the heat if they brown too quickly."
+    },
+    {
+      "title": "Drain",
+      "text": "Drain on kitchen paper, then cook the rest in the remaining oil and 14 g butter."
+    },
+    {
+      "title": "Keep",
+      "text": "Cover loosely with foil and keep warm in a low oven until ready to serve."
+    }
+  ],
+  "tips": [
+    "Grate the artichokes and onions finely so the pancakes hold together well.",
+    "Keep the heat moderate - these brown quickly, so lower it if they colour too fast.",
+    "Top up the oil between batches if the pan looks dry."
+  ],
+  "storage": "Keep the cooked pancakes loosely covered with foil in a low oven until ready to serve. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 347,
+    "protein_g": 7.0,
+    "carbs_g": 48.3,
+    "sugar_g": 21.0,
+    "free_sugar_g": 3.0,
+    "fat_g": 15.1,
+    "satfat_g": 3.0,
+    "salt_g": 1.16,
+    "fibre_g": 3.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A plate of golden-brown grated artichoke pancakes stacked and lightly flecked with pepper.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}
