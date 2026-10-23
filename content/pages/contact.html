@@ -7,27 +7,3 @@
 <li>Found a mistake in an amount, time or nutrition value? Tell us the recipe name and we'll check it.</li>
 <li>Business and advertising enquiries: same address.</li>
 </ul>
-<script>
-(function(){
-  var f = document.getElementById('contact-form'); if (!f) return;
-  var to = '[CONTACT EMAIL]', t0 = Date.now();
-  var rules = {
-    'c-name': function(v){ return v.trim().length < 2 ? 'Please enter your name.' : ''; },
-    'c-email': function(v){ return !/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v.trim()) ? 'Please enter a valid email address, like name@example.com.' : ''; },
-    'c-msg': function(v){ v = v.trim(); return v.length < 10 ? 'Please write at least 10 characters.' : v.length > 2000 ? 'Please keep it under 2,000 characters.' : ''; }
-  };
-  function check(id){ var el = document.getElementById(id), m = rules[id](el.value); el.setAttribute('aria-invalid', m ? 'true' : 'false'); document.getElementById(id + '-err').textContent = m; return !m; }
-  Object.keys(rules).forEach(function(id){ document.getElementById(id).addEventListener('blur', function(){ check(id); }); });
-  f.addEventListener('submit', function(e){
-    e.preventDefault();
-    var st = document.getElementById('c-status');
-    // spam guard: bots fill the hidden field or submit within 3 s of page load; they get a quiet "done"
-    if (document.getElementById('c-web').value || Date.now() - t0 < 3000) { st.textContent = 'Thanks.'; return; }
-    var bad = Object.keys(rules).filter(function(id){ return !check(id); });
-    if (bad.length) { document.getElementById(bad[0]).focus(); st.textContent = 'Please fix the highlighted field' + (bad.length > 1 ? 's' : '') + '.'; return; }
-    var n = document.getElementById('c-name').value.trim(), em = document.getElementById('c-email').value.trim(), msg = document.getElementById('c-msg').value.trim();
-    location.href = 'mailto:' + to + '?subject=' + encodeURIComponent('Message from ' + n) + '&body=' + encodeURIComponent(msg + '\n\n' + n + ' <' + em + '>');
-    st.textContent = 'Your email app should open now with the message ready to send.';
-  });
-})();
-</script>

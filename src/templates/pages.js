@@ -255,8 +255,8 @@ function allRecipesPage(ctx, allList, cats, chapters, pg = 1, nPg = 1) {
   const recipes = allList;
   const pPath = k => k === 1 ? 'recipes/' : `recipes/page/${k}/`;
   const slice = allList.slice((pg - 1) * PER_PAGE, pg * PER_PAGE);
-  const nums = [...Array(nPg).keys()].map(k => k + 1);
-  const pager = nPg > 1 ? `<nav class="pager" id="pager" aria-label="Pages">${pg > 1 ? `<a class="chip" rel="prev" href="${u(pPath(pg - 1))}">← Prev</a>` : ''}${nums.map(k => k === pg ? `<b class="chip on" aria-current="page">${k}</b>` : `<a class="chip" href="${u(pPath(k))}">${k}</a>`).join('')}${pg < nPg ? `<a class="chip" rel="next" href="${u(pPath(pg + 1))}">Next →</a>` : ''}</nav>` : '';
+  const nums = [...Array(nPg).keys()].map(k => k + 1).filter(k => k === 1 || k === nPg || Math.abs(k - pg) <= 2);
+  const pager = nPg > 1 ? `<nav class="pager" id="pager" aria-label="Pages">${pg > 1 ? `<a class="chip" rel="prev" href="${u(pPath(pg - 1))}">← Prev</a>` : ''}${nums.map((k, i) => (i && k - nums[i - 1] > 1 ? '<span class="chip gap" aria-hidden="true">…</span>' : '') + (k === pg ? `<b class="chip on" aria-current="page">${k}</b>` : `<a class="chip" href="${u(pPath(k))}">${k}</a>`)).join('')}${pg < nPg ? `<a class="chip" rel="next" href="${u(pPath(pg + 1))}">Next →</a>` : ''}</nav>` : '';
   const diets = ['vegetarian', 'vegan', 'gluten-free', 'dairy-free', 'sugar-free'];
   const body = `${pageHeadX('// ' + recipes.length + ' ' + t.ui.recipesCount, t.ui.allRecipes, 'Search everything, or narrow it down by category, diet, time and difficulty. Every recipe is metric with nutrition per serving.')}
 <div class="pbody">

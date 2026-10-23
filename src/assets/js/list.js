@@ -34,8 +34,8 @@
     return idxP;
   }
   function cardHTML(r) {
-    return '<a class="rc card' + (r.p ? " is-prem" : "") + '" href="' + r.u + '" data-slug="' + r.s + '"><span class="rimg"><span class="favdot" title="In your favourites">\u2665</span>' +
-      '<img src="' + r.i + '"' + (r.i2 ? ' srcset="' + r.i + " 600w, " + r.i2 + ' 1200w" sizes="(min-width:1100px) 300px, (min-width:640px) 45vw, 92vw"' : "") + ' alt="' + esc(r.a) + '" width="' + r.w + '" height="' + r.h + '" loading="lazy" decoding="async"></span>' +
+    return '<a class="rc card' + (r.p ? " is-prem" : "") + '" href="' + esc(r.u) + '" data-slug="' + esc(r.s) + '"><span class="rimg"><span class="favdot" title="In your favourites">\u2665</span>' +
+      '<img src="' + esc(r.i) + '"' + (r.i2 ? ' srcset="' + esc(r.i) + " 600w, " + esc(r.i2) + ' 1200w" sizes="(min-width:1100px) 300px, (min-width:640px) 45vw, 92vw"' : "") + ' alt="' + esc(r.a) + '" width="' + r.w + '" height="' + r.h + '" loading="lazy" decoding="async"></span>' +
       '<span class="rcb"><span class="no">' + esc(r.df) + "</span><h3>" + esc(r.ti) + '</h3><span class="meta">' + esc(r.m) + "</span></span></a>";
   }
   function active() {
@@ -52,12 +52,6 @@
     return words.every(function (w) { return r.n.indexOf(w) !== -1; });
   }
   var total = Number((count.textContent.match(/\d+/) || [0])[0]);
-  var cards = Array.prototype.map.call(
-    document.querySelectorAll("#results .card"),
-    function (el) {
-      return { el: el, text: norm(el.dataset.text) };
-    }
-  );
 
   function getFavs() {
     try {
@@ -106,13 +100,13 @@
     if (!active()) {
       if (mode !== "page") { results.innerHTML = pageHTML; mode = "page"; }
       if (pager) pager.hidden = false;
-      count.textContent = total + " recipes"; empty.hidden = true;
+      count.textContent = total + " recipe" + (total === 1 ? "" : "s"); empty.hidden = true;
       document.dispatchEvent(new CustomEvent("cards-change"));
       return;
     }
     if (pager) pager.hidden = true;
     if (!idx) { count.textContent = "Searching all recipes…"; loadIdx().then(filter, function () { count.textContent = "Search could not load. Please try again."; }); return; }
-    var words0 = norm(q.value).trim().split(/\s+/).filter(Boolean);
+    var words0 = norm(q.value).trim().split(/[^\p{L}\p{N}]+/u).filter(Boolean);
     var diets0 = dietBoxes.filter(function (cb) { return cb.checked; }).map(function (cb) { return cb.value; });
     var t0 = ftime.value ? Number(ftime.value) : null, favs0 = getFavs();
     var hits = idx.filter(function (r) { return match(r, words0, fcat.value, diets0, t0, fdiff.value, ffav.checked, favs0); });
@@ -123,53 +117,6 @@
     empty.hidden = hits.length !== 0;
     document.dispatchEvent(new CustomEvent("cards-change"));
   }
-  function filterOld() {
-    var words = norm(q.value).trim().split(/\s+/).filter(Boolean);
-    var cat = fcat.value;
-    var diets = dietBoxes
-      .filter(function (cb) {
-        return cb.checked;
-      })
-      .map(function (cb) {
-        return cb.value;
-      });
-    var time = ftime.value ? Number(ftime.value) : null;
-    var diff = fdiff.value;
-    var favOnly = ffav.checked;
-    var favs = getFavs();
-    var shown = 0;
-
-    cards.forEach(function (c) {
-      var el = c.el;
-      var ok = true;
-      if (cat && el.dataset.cat !== cat) ok = false;
-      if (fch && fch.value && el.dataset.ch !== fch.value) ok = false;
-      if (ok && diets.length) {
-        var cd = el.dataset.diet ? el.dataset.diet.split(" ") : [];
-        ok = diets.every(function (d) {
-          return cd.indexOf(d) !== -1;
-        });
-      }
-      if (ok && time != null && Number(el.dataset.time) > time) ok = false;
-      if (ok && diff && el.dataset.diff !== diff) ok = false;
-      if (ok && favOnly && favs.indexOf(el.dataset.slug) === -1) ok = false;
-      if (
-        ok &&
-        words.length &&
-        !words.every(function (w) {
-          return c.text.indexOf(w) !== -1;
-        })
-      )
-        ok = false;
-
-      el.hidden = !ok;
-      if (ok) shown++;
-    });
-
-    count.textContent = shown + " recipe" + (shown === 1 ? "" : "s");
-    empty.hidden = shown !== 0;
-  }
-
   var debounceId;
   function debouncedFilter() {
     clearTimeout(debounceId);
