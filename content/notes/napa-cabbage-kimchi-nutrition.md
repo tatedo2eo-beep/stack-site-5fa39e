@@ -4,7 +4,7 @@ Servings: 32. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| large napa (Chinese) cabbage, about 1.4 kg | Cabbage, chinese (pe-tsai), raw (FDC 169979) | 1400 | 224.0 | 16.8 | 45.2 | 19.74 | 0.00 | 2.8 | 0.60 | 126 | 16.8 |
+| large napa (Chinese) cabbage, about 1400 g | Cabbage, chinese (pe-tsai), raw (FDC 169979) | 1400 | 224.0 | 16.8 | 45.2 | 19.74 | 0.00 | 2.8 | 0.60 | 126 | 16.8 |
 | fine sea salt without iodine (about half retained after two rinses) | Salt, table (SR 02047) | 20 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 7752 | 0.0 |
 | glutinous (sweet) rice flour | Rice flour, white, unenriched (FDC 169714) | 25 | 91.5 | 1.5 | 20.0 | 0.03 | 0.00 | 0.4 | 0.10 | 0 | 0.6 |
 | water | Water, tap (SR 14411) | 240 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 10 | 0.0 |

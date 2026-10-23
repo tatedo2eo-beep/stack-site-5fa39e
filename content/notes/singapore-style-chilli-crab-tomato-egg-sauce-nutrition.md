@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| raw mud or Dungeness crabs (about 1 kg each), cleaned and cut into pieces by the fishmonger, claws cracked (about 500 g edible meat; shell excluded) | Crustaceans, crab, blue, raw (FDC 174204) | 500 | 435.0 | 90.3 | 0.2 | 0.00 | 0.00 | 5.4 | 1.11 | 1465 | 0.0 |
+| raw mud or Dungeness crabs (about 1000 g each), cleaned and cut into pieces by the fishmonger, claws cracked (about 500 g edible meat; shell excluded) | Crustaceans, crab, blue, raw (FDC 174204) | 500 | 435.0 | 90.3 | 0.2 | 0.00 | 0.00 | 5.4 | 1.11 | 1465 | 0.0 |
 | neutral oil | Oil, canola (SR 04582) | 40.5 | 358.0 | 0.0 | 0.0 | 0.00 | 0.00 | 40.5 | 2.98 | 0 | 0.0 |
 | shallots, finely chopped | Shallots, raw (FDC 170499) | 100 | 72.0 | 2.5 | 16.8 | 7.87 | 0.00 | 0.1 | 0.02 | 12 | 3.2 |
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 15 | 22.3 | 1.0 | 5.0 | 0.15 | 0.00 | 0.1 | 0.01 | 3 | 0.3 |
@@ -35,5 +35,5 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
 - Crab cooked until the shells are red and the meat opaque, at least 63 °C (site rule); eggs set in the simmering sauce.
-- Edible crab meat estimated at about 25% of the whole weight (500 g from 2 kg) and counted as raw blue crab.
+- Edible crab meat estimated at about 25% of the whole weight (500 g from 2000 g) and counted as raw blue crab.
 - Bread rolls counted as white bread.

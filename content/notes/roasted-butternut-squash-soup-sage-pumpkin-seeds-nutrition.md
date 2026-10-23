@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| butternut squash (1 large), peeled, seeded and cut into 3 cm chunks (about 1 kg prepared) | Squash, winter, butternut, raw (FDC 169295) | 1000 | 450.0 | 10.0 | 116.9 | 22.00 | 0.00 | 1.0 | 0.21 | 40 | 20.0 |
+| butternut squash (1 large), peeled, seeded and cut into 3 cm chunks (about 1000 g prepared) | Squash, winter, butternut, raw (FDC 169295) | 1000 | 450.0 | 10.0 | 116.9 | 22.00 | 0.00 | 1.0 | 0.21 | 40 | 20.0 |
 | olive oil | Oil, olive, salad or cooking (SR 04053) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 3.73 | 1 | 0.0 |
 | medium onion, chopped | Onions, raw (SR 11282) | 150 | 60.0 | 1.7 | 14.0 | 6.36 | 0.00 | 0.2 | 0.06 | 6 | 2.5 |
 | carrot, chopped | Carrots, raw (SR 11124) | 80 | 32.8 | 0.7 | 7.7 | 3.79 | 0.00 | 0.2 | 0.03 | 55 | 2.2 |

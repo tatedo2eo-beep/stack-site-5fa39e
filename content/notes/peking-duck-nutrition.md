@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| whole duck, about 2.2 kg (meat and skin eaten after about a third of the fat renders out; estimate) | Duck, domesticated, meat and skin, raw (FDC 172408) | 550 | 2222.0 | 63.2 | 0.0 | 0.00 | 0.00 | 216.4 | 72.71 | 346 | 0.0 |
+| whole duck, about 2200 g (meat and skin eaten after about a third of the fat renders out; estimate) | Duck, domesticated, meat and skin, raw (FDC 172408) | 550 | 2222.0 | 63.2 | 0.0 | 0.00 | 0.00 | 216.4 | 72.71 | 346 | 0.0 |
 | honey (about two-thirds of 30 g stays on) | Honey (SR 19296) | 20 | 60.8 | 0.1 | 16.5 | 16.42 | 16.42 | 0.0 | 0.00 | 1 | 0.0 |
 | rice vinegar | Vinegar, distilled (SR 02053), proxy for rice vinegar | 15 | 2.7 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 0 | 0.0 |
 | hot water | Water, tap (SR 14411) | 30 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |

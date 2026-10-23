@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| whole chicken, about 1.6 kg, spatchcocked (backbone removed and flattened) (edible meat and skin, about 66% once the backbone is removed) | Chicken, broilers or fryers, meat and skin, raw (FDC 171447) | 1056 | 2270.4 | 196.4 | 0.0 | 0.00 | 0.00 | 159.0 | 45.51 | 739 | 0.0 |
+| whole chicken, about 1600 g, spatchcocked (backbone removed and flattened) (edible meat and skin, about 66% once the backbone is removed) | Chicken, broilers or fryers, meat and skin, raw (FDC 171447) | 1056 | 2270.4 | 196.4 | 0.0 | 0.00 | 0.00 | 159.0 | 45.51 | 739 | 0.0 |
 | red bird's-eye chillies (or 3 for milder) | Peppers, hot chili, red, raw (FDC 170106) | 20 | 8.0 | 0.4 | 1.8 | 1.06 | 0.00 | 0.1 | 0.01 | 2 | 0.3 |
 | red pepper, roughly chopped | Peppers, sweet, red, raw (SR 11821) | 150 | 46.5 | 1.5 | 9.0 | 6.30 | 0.00 | 0.4 | 0.04 | 6 | 3.2 |
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 15 | 22.3 | 1.0 | 5.0 | 0.15 | 0.00 | 0.1 | 0.01 | 3 | 0.3 |

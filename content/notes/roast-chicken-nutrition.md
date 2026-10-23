@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| whole chicken, about 1.6 kg (edible meat and skin, about 68% of the whole bird) | Chicken, broilers or fryers, meat and skin, raw (FDC 171447) | 1088 | 2339.2 | 202.4 | 0.0 | 0.00 | 0.00 | 163.9 | 46.89 | 762 | 0.0 |
+| whole chicken, about 1600 g (edible meat and skin, about 68% of the whole bird) | Chicken, broilers or fryers, meat and skin, raw (FDC 171447) | 1088 | 2339.2 | 202.4 | 0.0 | 0.00 | 0.00 | 163.9 | 46.89 | 762 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 7.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2907 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 1.2 | 3.0 | 0.1 | 0.8 | 0.01 | 0.00 | 0.0 | 0.02 | 0 | 0.3 |
 | unsalted butter, softened | Butter, without salt (SR 01145) | 30 | 215.1 | 0.3 | 0.0 | 0.02 | 0.00 | 24.3 | 15.41 | 3 | 0.0 |

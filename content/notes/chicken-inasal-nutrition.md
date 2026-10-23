@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| chicken leg quarters (thigh and drumstick), about 1.2 kg (edible meat and skin, about 67%) | Chicken, broilers or fryers, leg, meat and skin, raw (FDC 172378) | 800 | 1712.0 | 131.0 | 1.4 | 0.00 | 0.00 | 127.6 | 34.93 | 672 | 0.0 |
+| chicken leg quarters (thigh and drumstick), about 1200 g (edible meat and skin, about 67%) | Chicken, broilers or fryers, leg, meat and skin, raw (FDC 172378) | 800 | 1712.0 | 131.0 | 1.4 | 0.00 | 0.00 | 127.6 | 34.93 | 672 | 0.0 |
 | cane or cider vinegar (about half the marinade clings) | Vinegar, distilled (FDC 172237) | 40 | 7.2 | 0.0 | 0.0 | 0.02 | 0.00 | 0.0 | 0.00 | 1 | 0.0 |
 | lime juice | Lime juice, raw (SR 09160) - juice sugars counted as free | 20 | 5.0 | 0.1 | 1.7 | 0.34 | 0.34 | 0.0 | 0.00 | 0 | 0.1 |
 | orange juice | Orange juice, raw (Includes foods for USDA's Food Distribution Program) (FDC 169098) | 15 | 6.8 | 0.1 | 1.6 | 1.26 | 1.26 | 0.0 | 0.00 | 0 | 0.0 |

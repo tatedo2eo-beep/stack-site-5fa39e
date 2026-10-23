@@ -4,7 +4,7 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| whole chicken (about 1.8 kg), cut into breasts, legs, wings and back (breast and leg meat returned to the soup; skin, bones, wings and back discarded) | Chicken, broilers or fryers, meat only, raw (FDC 171052) | 700 | 833.0 | 149.7 | 0.0 | 0.00 | 0.00 | 21.6 | 5.53 | 539 | 0.0 |
+| whole chicken (about 1800 g), cut into breasts, legs, wings and back (breast and leg meat returned to the soup; skin, bones, wings and back discarded) | Chicken, broilers or fryers, meat only, raw (FDC 171052) | 700 | 833.0 | 149.7 | 0.0 | 0.00 | 0.00 | 21.6 | 5.53 | 539 | 0.0 |
 | water | Water, tap (SR 14411) | 2100 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 84 | 0.0 |
 | small onion, unpeeled, trimmed and halved | Onions, raw (SR 11282) | 120 | 48.0 | 1.3 | 11.2 | 5.09 | 0.00 | 0.1 | 0.05 | 5 | 2.0 |
 | carrots, roughly chopped (strained out; counted at half weight) | Carrots, raw (SR 11124) | 90 | 36.9 | 0.8 | 8.6 | 4.27 | 0.00 | 0.2 | 0.03 | 62 | 2.5 |

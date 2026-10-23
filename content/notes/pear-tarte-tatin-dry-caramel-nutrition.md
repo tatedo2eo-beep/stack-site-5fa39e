@@ -4,7 +4,7 @@ Servings: 8. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| large firm pears (about 1.3 kg), peeled, halved and cored (peeled and cored weight) | Pears, raw (FDC 169118) | 1100 | 627.0 | 4.0 | 167.5 | 107.25 | 0.00 | 1.5 | 0.24 | 11 | 34.1 |
+| large firm pears (about 1300 g), peeled, halved and cored (peeled and cored weight) | Pears, raw (FDC 169118) | 1100 | 627.0 | 4.0 | 167.5 | 107.25 | 0.00 | 1.5 | 0.24 | 11 | 34.1 |
 | lemon juice | Lemon juice, raw (SR 09152) - juice sugars counted as free | 30 | 6.6 | 0.1 | 2.1 | 0.76 | 0.76 | 0.1 | 0.01 | 0 | 0.1 |
 | granulated sugar | Sugars, granulated (SR 19335) | 150 | 580.5 | 0.0 | 150.0 | 149.70 | 149.70 | 0.0 | 0.00 | 2 | 0.0 |
 | unsalted butter, in small pieces | Butter, without salt (SR 01145) | 55 | 394.4 | 0.5 | 0.0 | 0.03 | 0.00 | 44.6 | 28.25 | 6 | 0.0 |

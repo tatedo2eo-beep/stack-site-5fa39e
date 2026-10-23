@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| whole chicken, about 1.6 kg, spatchcocked (backbone removed and flattened) (edible meat and skin, about 66% once the backbone is removed) | Chicken, broilers or fryers, meat and skin, raw (FDC 171447) | 1056 | 2270.4 | 196.4 | 0.0 | 0.00 | 0.00 | 159.0 | 45.51 | 739 | 0.0 |
+| whole chicken, about 1600 g, spatchcocked (backbone removed and flattened) (edible meat and skin, about 66% once the backbone is removed) | Chicken, broilers or fryers, meat and skin, raw (FDC 171447) | 1056 | 2270.4 | 196.4 | 0.0 | 0.00 | 0.00 | 159.0 | 45.51 | 739 | 0.0 |
 | olive oil (about two-thirds eaten) | Oil, olive, salad or cooking (SR 04053) | 27 | 238.7 | 0.0 | 0.0 | 0.00 | 0.00 | 27.0 | 3.73 | 1 | 0.0 |
 | garlic cloves, finely grated | Garlic, raw (SR 11215) | 12 | 17.9 | 0.8 | 4.0 | 0.12 | 0.00 | 0.1 | 0.01 | 2 | 0.3 |
 | finely chopped rosemary | Rosemary, fresh (FDC 173473) | 3 | 3.9 | 0.1 | 0.6 | 0.00 | 0.00 | 0.2 | 0.09 | 1 | 0.4 |

@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| whole chicken, about 1.6 kg (edible meat and skin, about 68% of the whole bird) | Chicken, broilers or fryers, meat and skin, raw (FDC 171447) | 1088 | 2339.2 | 202.4 | 0.0 | 0.00 | 0.00 | 163.9 | 46.89 | 762 | 0.0 |
+| whole chicken, about 1600 g (edible meat and skin, about 68% of the whole bird) | Chicken, broilers or fryers, meat and skin, raw (FDC 171447) | 1088 | 2339.2 | 202.4 | 0.0 | 0.00 | 0.00 | 163.9 | 46.89 | 762 | 0.0 |
 | fine salt, to rub the bird (most is rinsed off) | Salt, table (SR 02047) | 2 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 775 | 0.0 |
 | garlic cloves, smashed | Garlic, raw (SR 11215) | 12 | 17.9 | 0.8 | 4.0 | 0.12 | 0.00 | 0.1 | 0.01 | 2 | 0.3 |
 | fine salt, for the poaching water (a quarter, counting what the chicken and the rice cooked in the stock take up) | Salt, table (SR 02047) | 3 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 1163 | 0.0 |

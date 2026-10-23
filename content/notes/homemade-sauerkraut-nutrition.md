@@ -4,7 +4,7 @@ Servings: 24. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids 
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| firm green cabbage, about 1.4 kg, 2 outer leaves kept | Cabbage, raw (SR 11109) | 1400 | 350.0 | 17.9 | 81.2 | 44.80 | 0.00 | 1.4 | 0.48 | 252 | 35.0 |
+| firm green cabbage, about 1400 g, 2 outer leaves kept | Cabbage, raw (SR 11109) | 1400 | 350.0 | 17.9 | 81.2 | 44.80 | 0.00 | 1.4 | 0.48 | 252 | 35.0 |
 | fine sea salt without iodine (2% of the cabbage weight) | Salt, table (SR 02047) | 28 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 10852 | 0.0 |
 | caraway seeds (optional) | Spices, caraway seed (FDC 170918) | 2 | 6.7 | 0.4 | 1.0 | 0.01 | 0.00 | 0.3 | 0.01 | 0 | 0.8 |
 | **Total** | | | 357 | 18.3 | 82.2 | 44.81 | 0.00 | 1.7 | 0.49 | 11105 | 35.8 |

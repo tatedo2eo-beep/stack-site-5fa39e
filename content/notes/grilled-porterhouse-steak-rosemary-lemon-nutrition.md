@@ -4,8 +4,8 @@ Servings: 6. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| porterhouse or T-bone steaks, 5 cm thick (about 1.2 kg each) (about 1 kg strip meat) | Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8" fat, all grades, raw (FDC 169538) | 1000 | 2280.0 | 206.1 | 0.0 | 0.00 | 0.00 | 154.9 | 62.51 | 520 | 0.0 |
-| porterhouse or T-bone steaks, 5 cm thick (about 1.2 kg each) (about 700 g fillet meat; bone excluded) | Beef, tenderloin, steak, separable lean only, trimmed to 1/8" fat, choice, raw (FDC 174762) | 700 | 1106.0 | 155.2 | 0.0 | 0.00 | 0.00 | 49.5 | 18.28 | 399 | 0.0 |
+| porterhouse or T-bone steaks, 5 cm thick (about 1200 g each) (about 1000 g strip meat) | Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8" fat, all grades, raw (FDC 169538) | 1000 | 2280.0 | 206.1 | 0.0 | 0.00 | 0.00 | 154.9 | 62.51 | 520 | 0.0 |
+| porterhouse or T-bone steaks, 5 cm thick (about 1200 g each) (about 700 g fillet meat; bone excluded) | Beef, tenderloin, steak, separable lean only, trimmed to 1/8" fat, choice, raw (FDC 174762) | 700 | 1106.0 | 155.2 | 0.0 | 0.00 | 0.00 | 49.5 | 18.28 | 399 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 7.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 2907 | 0.0 |
 | ground black pepper | Spices, pepper, black (SR 02030) | 2.4 | 6.0 | 0.2 | 1.5 | 0.02 | 0.00 | 0.1 | 0.03 | 0 | 0.6 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 40.5 | 358.0 | 0.0 | 0.0 | 0.00 | 0.00 | 40.5 | 5.59 | 1 | 0.0 |

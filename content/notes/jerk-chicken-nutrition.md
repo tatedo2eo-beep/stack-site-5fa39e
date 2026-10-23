@@ -4,7 +4,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 | Ingredient | USDA food | g | kcal | protein | carbs | sugar | free sugar | fat | sat fat | sodium mg | fibre |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| chicken leg quarters (thigh and drumstick), about 1.2 kg (edible meat and skin, about 67%) | Chicken, broilers or fryers, leg, meat and skin, raw (FDC 172378) | 800 | 1712.0 | 131.0 | 1.4 | 0.00 | 0.00 | 127.6 | 34.93 | 672 | 0.0 |
+| chicken leg quarters (thigh and drumstick), about 1200 g (edible meat and skin, about 67%) | Chicken, broilers or fryers, leg, meat and skin, raw (FDC 172378) | 800 | 1712.0 | 131.0 | 1.4 | 0.00 | 0.00 | 127.6 | 34.93 | 672 | 0.0 |
 | Scotch bonnet chillies, stemmed (seeded for milder) | Hot chilli pepper, red, raw (FDC 170106) used as proxy | 20 | 8.0 | 0.4 | 1.8 | 1.06 | 0.00 | 0.1 | 0.01 | 2 | 0.3 |
 | spring onions, chopped | Onions, spring or scallions (includes tops and bulb), raw (FDC 170005) | 90 | 28.8 | 1.6 | 6.6 | 2.10 | 0.00 | 0.2 | 0.03 | 14 | 2.3 |
 | garlic cloves, finely chopped | Garlic, raw (SR 11215) | 12 | 17.9 | 0.8 | 4.0 | 0.12 | 0.00 | 0.1 | 0.01 | 2 | 0.3 |

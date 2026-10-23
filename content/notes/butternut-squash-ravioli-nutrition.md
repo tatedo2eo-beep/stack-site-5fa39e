@@ -9,7 +9,7 @@ Servings: 4. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 | large egg yolks | Egg, yolk, raw, fresh (SR 01125) | 51 | 164.2 | 8.1 | 1.8 | 0.29 | 0.00 | 13.5 | 4.87 | 24 | 0.0 |
 | fine salt | Salt, table (SR 02047) | 1.5 | 0.0 | 0.0 | 0.0 | 0.00 | 0.00 | 0.0 | 0.00 | 581 | 0.0 |
 | fine semolina, for dusting the tray (about 5 g clings) | Semolina, enriched (FDC 169715) | 5 | 18.0 | 0.6 | 3.6 | 0.00 | 0.00 | 0.1 | 0.01 | 0 | 0.2 |
-| butternut squash, about 1 kg, halved lengthways and seeded (about 600 g edible raw flesh; roasting concentrates it to about 400 g) | Squash, winter, butternut, raw (FDC 169295) | 600 | 270.0 | 6.0 | 70.1 | 13.20 | 0.00 | 0.6 | 0.13 | 24 | 12.0 |
+| butternut squash, about 1000 g, halved lengthways and seeded (about 600 g edible raw flesh; roasting concentrates it to about 400 g) | Squash, winter, butternut, raw (FDC 169295) | 600 | 270.0 | 6.0 | 70.1 | 13.20 | 0.00 | 0.6 | 0.13 | 24 | 12.0 |
 | extra-virgin olive oil | Oil, olive, salad or cooking (SR 04053) | 13.5 | 119.3 | 0.0 | 0.0 | 0.00 | 0.00 | 13.5 | 1.86 | 0 | 0.0 |
 | Parmesan, finely grated | Cheese, parmesan, hard (SR 01033) | 40 | 156.8 | 14.3 | 1.3 | 0.32 | 0.00 | 10.3 | 6.56 | 641 | 0.0 |
 | freshly grated nutmeg | Spices, nutmeg, ground (FDC 171326) | 0.3 | 1.6 | 0.0 | 0.1 | 0.01 | 0.00 | 0.1 | 0.08 | 0 | 0.1 |
