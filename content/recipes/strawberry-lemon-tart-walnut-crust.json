@@ -1,0 +1,149 @@
+{
+  "slug": "strawberry-lemon-tart-walnut-crust",
+  "title": "Strawberry Lemon Tart with Walnut Crust",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "lemon-tart",
+  "dish_title": "Lemon tart",
+  "flavour": "Strawberry",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "classic-french-lemon-tart",
+  "changes_from_base": "A pressed walnut and breadcrumb crust in place of pastry, a simple baked lemon custard, and a jam-glazed strawberry top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A quick lemon tart with a nutty pressed walnut crust, glazed with jam and crowned with fresh strawberries.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 45,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "23 cm loose-based straight-sided tart tin",
+    "baking tray",
+    "mixing bowl",
+    "whisk",
+    "small saucepan",
+    "pastry brush",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Walnut crust",
+      "qty": 120,
+      "unit": "g",
+      "item": "walnuts"
+    },
+    {
+      "group": "Walnut crust",
+      "qty": 15,
+      "unit": "g",
+      "item": "fine dried breadcrumbs"
+    },
+    {
+      "group": "Walnut crust",
+      "qty": 35,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Walnut crust",
+      "qty": 100,
+      "unit": "g",
+      "item": "strawberry jam, divided"
+    },
+    {
+      "group": "Lemon filling",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Lemon filling",
+      "qty": 165,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Lemon filling",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Lemon filling",
+      "qty": 80,
+      "unit": "ml",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Lemon filling",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled"
+    },
+    {
+      "group": "Topping",
+      "qty": 400,
+      "unit": "g",
+      "item": "strawberries, hulled and halved lengthways"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Nut base",
+      "text": "heat the oven to 190 °C (170 °C fan). Process the walnuts, breadcrumbs and 35 g sugar until finely ground but not pasty. Press over the base and sides of the tin and set it on the tray. Stop processing once fine; over-blended walnuts turn oily."
+    },
+    {
+      "title": "Pre-bake",
+      "text": "bake about 10 min, until the edges just colour. Spread 40 g of the jam thinly over the base. Turn the oven down to 180 °C (160 °C fan)."
+    },
+    {
+      "title": "Custard",
+      "text": "whisk the eggs with the 165 g sugar, salt and lemon juice, then stir in the cooled butter."
+    },
+    {
+      "title": "Bake",
+      "text": "pour into the case and bake 30-35 min, until the filling is set with no liquid wobble in the centre. Cool to room temperature on the rack. Setting the tin on a tray catches any drips from the loose base."
+    },
+    {
+      "title": "Decorate",
+      "text": "warm the remaining jam until runny, brush it over the top and arrange the strawberry halves in rings, cut side down. Serve the same day."
+    }
+  ],
+  "tips": [
+    "Use the same jam for the base and the glaze so the flavours match.",
+    "Halve the berries just before arranging so they stay bright.",
+    "Let the filling cool fully before adding fruit, or the strawberries will weep."
+  ],
+  "storage": "Best on the day. Chill leftovers, loosely covered, for up to 1 day.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 367,
+    "protein_g": 6.2,
+    "carbs_g": 41.7,
+    "sugar_g": 34.3,
+    "free_sugar_g": 31.4,
+    "fat_g": 21.1,
+    "satfat_g": 7.2,
+    "salt_g": 0.18,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A lemon tart in a walnut crust topped with rings of jam-glazed strawberry halves.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

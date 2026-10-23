@@ -1,0 +1,174 @@
+{
+  "slug": "earl-grey-chocolate-cremeux-tart-coconut-crust",
+  "title": "Earl Grey Chocolate Crémeux Tart with Coconut Crust",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "chocolate-tart",
+  "dish_title": "Chocolate tart",
+  "flavour": "Earl Grey",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "rich-dark-chocolate-tart",
+  "changes_from_base": "A no-bake toasted coconut and dark chocolate crust filled with a milk chocolate crémeux flavoured with strong Earl Grey tea; no pastry and no baked custard.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A no-bake tart: a crunchy toasted coconut and chocolate crust filled with a silky milk chocolate and Earl Grey crémeux.",
+  "servings": 10,
+  "prep_min": 40,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "23 cm loose-based tart tin (about 4 cm deep)",
+    "baking paper",
+    "rimmed baking tray",
+    "2 heatproof bowls",
+    "small saucepan (for melting)",
+    "medium saucepan",
+    "whisk",
+    "spatula",
+    "fine grater"
+  ],
+  "ingredients": [
+    {
+      "group": "Coconut crust",
+      "qty": 180,
+      "unit": "g",
+      "item": "unsweetened coconut flakes"
+    },
+    {
+      "group": "Coconut crust",
+      "qty": 180,
+      "unit": "g",
+      "item": "dark chocolate (60-70% cocoa), chopped",
+      "note": "check the label for milk and soya"
+    },
+    {
+      "group": "Coconut crust",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Earl Grey crémeux",
+      "qty": 2,
+      "unit": "pc",
+      "item": "Earl Grey tea bags (or 2 tbsp loose tea)"
+    },
+    {
+      "group": "Earl Grey crémeux",
+      "qty": 120,
+      "unit": "ml",
+      "item": "boiling water"
+    },
+    {
+      "group": "Earl Grey crémeux",
+      "qty": 150,
+      "unit": "g",
+      "item": "milk chocolate, finely chopped",
+      "note": "check the label for milk and soya"
+    },
+    {
+      "group": "Earl Grey crémeux",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Earl Grey crémeux",
+      "qty": 20,
+      "unit": "g",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "Earl Grey crémeux",
+      "qty": 180,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Earl Grey crémeux",
+      "qty": 45,
+      "unit": "g",
+      "item": "unsalted butter, in pieces"
+    },
+    {
+      "group": "Earl Grey crémeux",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 15,
+      "unit": "g",
+      "item": "dark chocolate, for grating"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the coconut",
+      "text": "heat the oven to 160 °C (140 °C fan). Crumple a sheet of baking paper, flatten it and line the tin. Spread the coconut on the tray and toast about 10 min, stirring once, until golden. Cool."
+    },
+    {
+      "title": "Crust",
+      "text": "melt the 180 g dark chocolate over simmering water or in 10-second microwave bursts. Crush the coconut lightly, stir it into the chocolate with the salt and coat well."
+    },
+    {
+      "title": "Press",
+      "text": "press over the base and up the sides of the tin, leaving no gaps, with a thicker rim of about 1 cm. Chill 20-30 min, until firm."
+    },
+    {
+      "title": "Infuse",
+      "text": "steep the tea in the boiling water for about 20 min, until it cools to room temperature. Put the milk chocolate in the second bowl. A long steep gives a strong tea flavour that stands up to the chocolate."
+    },
+    {
+      "title": "Thicken",
+      "text": "whisk the egg and cornflour in the saucepan until smooth, reaching into the corners, then whisk in the cream. Squeeze out the tea bags and whisk in the tea. Bring to the boil over medium heat, whisking all the time, for 2-4 min until thick, then whisk 30 s more on low and beat in the butter off the heat. Boiling cooks the egg and the cornflour, so the filling sets smoothly."
+    },
+    {
+      "title": "Crémeux",
+      "text": "pour the hot mixture over the milk chocolate, wait 30 s and whisk until smooth, then add the salt. Level it in the crust and chill at least 4 h, ideally overnight."
+    },
+    {
+      "title": "Serve",
+      "text": "lift the tart out with the paper, grate the 15 g chocolate over and leave 30 min at room temperature for a softer texture before slicing."
+    }
+  ],
+  "tips": [
+    "Crumpled baking paper sits snugly in the tin and makes lifting out easy.",
+    "Use a good milk chocolate with at least 30% cocoa solids.",
+    "Cover the tart once set so it does not pick up fridge smells.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 424,
+    "protein_g": 5.1,
+    "carbs_g": 24.5,
+    "sugar_g": 14.3,
+    "free_sugar_g": 12.4,
+    "fat_g": 35.0,
+    "satfat_g": 24.5,
+    "salt_g": 0.27,
+    "fibre_g": 5.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A smooth milk chocolate tart in a dark coconut crust, finished with finely grated chocolate.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

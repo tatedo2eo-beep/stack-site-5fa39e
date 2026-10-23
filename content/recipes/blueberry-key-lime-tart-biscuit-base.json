@@ -1,0 +1,171 @@
+{
+  "slug": "blueberry-key-lime-tart-biscuit-base",
+  "title": "Blueberry Key Lime Tart with Biscuit Base",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "lemon-tart",
+  "dish_title": "Lemon tart",
+  "flavour": "Blueberry",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "classic-french-lemon-tart",
+  "changes_from_base": "A biscuit-crumb base and a baked lime and condensed milk filling instead of pastry and lemon curd, topped with glossy blueberries.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A lime and condensed milk filling baked on a buttery biscuit base, finished with a thick blueberry topping.",
+  "servings": 8,
+  "prep_min": 25,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "mixing bowl",
+    "23 cm loose-based tart tin or pie dish",
+    "flat-bottomed glass",
+    "baking tray",
+    "whisk",
+    "wire rack",
+    "small saucepan",
+    "spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 140,
+      "unit": "g",
+      "item": "digestive biscuit crumbs (about 9 biscuits)"
+    },
+    {
+      "group": "Base",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Base",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Base",
+      "qty": 70,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Lime filling",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Lime filling",
+      "qty": 397,
+      "unit": "g",
+      "item": "tin sweetened condensed milk"
+    },
+    {
+      "group": "Lime filling",
+      "qty": 80,
+      "unit": "ml",
+      "item": "key lime or ordinary lime juice"
+    },
+    {
+      "group": "Lime filling",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "finely grated lime zest"
+    },
+    {
+      "group": "Blueberry topping",
+      "qty": 450,
+      "unit": "g",
+      "item": "blueberries"
+    },
+    {
+      "group": "Blueberry topping",
+      "qty": 120,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Blueberry topping",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Blueberry topping",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "Blueberry topping",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lime juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crumb case",
+      "text": "heat the oven to 180 °C (160 °C fan). Stir the crumbs, sugar, salt and melted butter together, then press firmly over the base and up the sides of the tin with the glass."
+    },
+    {
+      "title": "Toast the base",
+      "text": "bake on the tray for 10-12 min, until lightly browned, then cool on the rack. Turn the oven down to 160 °C (140 °C fan)."
+    },
+    {
+      "title": "Filling",
+      "text": "whisk the yolks, condensed milk, lime juice and zest together until smooth. Pour into the case and bake 18-20 min, just until set with a slight tremble in the middle. The middle firms up more as it cools, so take it out while it still trembles."
+    },
+    {
+      "title": "Rest",
+      "text": "cool at room temperature for 1-2 h before adding the topping."
+    },
+    {
+      "title": "Topping",
+      "text": "set aside 125 g of the blueberries. Stir the water, sugar, cornflour and lime juice in the pan over medium heat until the sugar dissolves, add the 125 g berries and boil 1-2 min, until glossy and thick."
+    },
+    {
+      "title": "Finish",
+      "text": "pour the hot sauce over the remaining berries, leave 5 min, then spread over the tart to the edges. Chill at least 3 h before slicing."
+    }
+  ],
+  "tips": [
+    "Press the crumbs firmly so the base holds when sliced.",
+    "Bottled key lime juice works well if you cannot find fresh key limes.",
+    "Cool the tart fully before topping, or the sauce will slide off.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep well wrapped in the fridge for up to 3 days.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 397,
+    "protein_g": 6.7,
+    "carbs_g": 56.4,
+    "sugar_g": 43.9,
+    "free_sugar_g": 38.2,
+    "fat_g": 17.1,
+    "satfat_g": 9.6,
+    "salt_g": 0.44,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A key lime tart on a golden biscuit base, covered with glossy blueberries in a deep purple sauce.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

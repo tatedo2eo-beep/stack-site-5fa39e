@@ -76,8 +76,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | black-forest-cake | Black Forest | Classic | 3 | 5 |
 | black-olive-tapenade-capers-anchovy-thyme | Tapenade | Classic | 3 | 5 |
 | blackberry-cobbler | Cobbler | Blackberry | 1 | 3 |
+| blood-orange-chocolate-tart-jelly-top | Chocolate tart | Blood orange | 1 | 3 |
 | blood-orange-marmalade | Marmalade | Classic | 2 | 4 |
 | blueberry-coffee-cake | Coffee cake | Blueberry | 3 | 5 |
+| blueberry-key-lime-tart-biscuit-base | Lemon tart | Blueberry | 1 | 3 |
 | boiled-eggs-spiced-onion-tomato-coconut-curry | Egg curry | Classic | 3 | 5 |
 | borani-esfenaj-spinach-yoghurt-dip | Borani | Classic | 2 | 4 |
 | borani-esfenaj-spinach-yoghurt-turmeric-onion | Borani | Spinach (esfenaj) | 2 | 4 |
@@ -347,6 +349,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | dubu-jorim-spicy-braised-tofu | Dubu jorim (spicy braised tofu) | Classic | 1 | 3 |
 | duchess-potatoes | Duchesse | Classic | 2 | 4 |
 | dutch-baby-pancake-berries-lemon | Dutch baby | Classic | 2 | 4 |
+| earl-grey-chocolate-cremeux-tart-coconut-crust | Chocolate tart | Earl Grey | 1 | 3 |
 | egg-drop-soup-ginger-spring-onion | Egg drop soup | Classic | 3 | 5 |
 | egg-fried-rice-spring-onions | Fried rice | Egg | 3 | 5 |
 | eggs-royale-smoked-salmon-poached-eggs-lemon-hollandaise | Eggs Royale (smoked-salmon Benedict) | Classic | 3 | 5 |
@@ -704,6 +707,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | parmesan-thyme-stuffed-mushrooms | Stuffed mushrooms | Classic | 2 | 4 |
 | parmigiana-di-melanzane-fried-aubergine-mozzarella | Parmigiana di melanzane | Classic | 1 | 3 |
 | parsley-lemon-garlic-gremolata | Gremolata | Classic | 2 | 4 |
+| passion-fruit-curd-tart-chocolate-pastry | Lemon tart | Chocolate | 1 | 3 |
 | passion-fruit-pavlova | Pavlova | Passion fruit | 2 | 4 |
 | pasta-al-limone | Pasta al limone | Classic | 2 | 4 |
 | pasta-alla-norma | Alla Norma | Classic | 2 | 4 |
@@ -768,6 +772,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | poached-chicken | Poached | Classic | 2 | 4 |
 | poached-eggs-buttered-sourdough-toast-chives | Poached eggs | Classic | 2 | 4 |
 | poached-eggs-garlic-yoghurt-chilli-butter | Çılbır | Classic | 2 | 4 |
+| poached-pear-chocolate-almond-tart | Chocolate tart | Pear | 1 | 3 |
 | poached-pear-frangipane-tart | Frangipane | Classic | 2 | 4 |
 | poached-prawns-classic-cocktail-sauce | Shrimp cocktail | Classic | 3 | 5 |
 | poached-white-fish-dumplings-carrot-beetroot-horseradish | Gefilte fish | Classic | 4 | 6 |
@@ -848,6 +853,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | salade-nicoise-tuna-eggs-potatoes | Niçoise | Classic | 2 | 4 |
 | salt-preserved-lemons | Preserved lemon | Classic | 2 | 4 |
 | salted-caramel-brownies | Brownie (fudgy or cakey) | Salted caramel | 1 | 3 |
+| salted-caramel-chocolate-tart-pecans | Chocolate tart | Salted caramel | 1 | 3 |
 | salted-edamame-in-pods | Edamame | Classic | 1 | 3 |
 | saltenas-bolivian-chicken-hand-pies | Salteña | Chicken | 1 | 3 |
 | samgyetang | Samgyetang | Classic | 2 | 4 |
@@ -965,6 +971,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | strawberry-eton-mess | Eton mess | Classic | 2 | 4 |
 | strawberry-granita-fork-scraped | Granita | Strawberry | 2 | 4 |
 | strawberry-jam-filled-orange-doughnuts | Sufganiyot | Classic | 1 | 3 |
+| strawberry-lemon-tart-walnut-crust | Lemon tart | Strawberry | 1 | 3 |
 | strawberry-lemonade-fresh-berries | Lemonade | Strawberry | 2 | 4 |
 | strawberry-milkshake-whipped-cream | Milkshakes | Strawberry | 1 | 3 |
 | strawberry-philadelphia-ice-cream-no-egg | Philadelphia (no egg) | Classic | 1 | 3 |
@@ -986,6 +993,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | tall-crisp-popovers | Popovers | Classic | 2 | 4 |
 | tall-crisp-yorkshire-puddings | Yorkshire pudding | Classic | 2 | 4 |
 | tandoori-chicken | Tandoori | Classic | 3 | 5 |
+| tangerine-ginger-curd-tart-chocolate-layer | Chocolate tart | Tangerine & ginger | 1 | 3 |
 | tangy-ginger-hoisin-dipping-sauce | Hoisin sauce | Classic | 1 | 3 |
 | tangyuan-black-sesame-ginger-soup | Tangyuan | Classic | 1 | 3 |
 | tangzhong-japanese-milk-bread-loaf | ? | ? | MISSING | |
