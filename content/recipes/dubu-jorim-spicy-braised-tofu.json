@@ -1,0 +1,174 @@
+{
+  "slug": "dubu-jorim-spicy-braised-tofu",
+  "title": "Dubu Jorim (Spicy Braised Tofu)",
+  "category": "vegetarian",
+  "cuisine": "Korean",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "dubu-jorim-spicy-braised-tofu",
+  "dish_title": "Dubu jorim (spicy braised tofu)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Golden pan-fried tofu slices simmered briefly in a chilli, soy and sesame glaze with spring onion.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "small bowl",
+    "whisk",
+    "kitchen paper",
+    "large non-stick frying pan",
+    "fish slice",
+    "spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "water"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "corn syrup or rice syrup"
+    },
+    {
+      "group": "Sauce",
+      "qty": 21,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "rice vinegar"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fish sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "Korean chilli flakes or mild chilli flakes"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "red chilli, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "jalapeño, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 20,
+      "unit": "g",
+      "item": "onion, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "spring onion, cut into thin strips"
+    },
+    {
+      "group": "Tofu",
+      "qty": 400,
+      "unit": "g",
+      "item": "firm tofu, cut into 1.2 cm slices"
+    },
+    {
+      "group": "Tofu",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sauce",
+      "text": "Whisk the water, syrup, honey, vinegar, soy sauce, fish sauce and sesame oil, then stir in the garlic, chilli flakes, fresh chilli, jalapeño, onion and half the spring onion."
+    },
+    {
+      "title": "Dry",
+      "text": "Press the tofu slices between kitchen paper to remove surface water."
+    },
+    {
+      "title": "Fry",
+      "text": "Heat the oil in the pan over medium-high heat and fry the tofu 3-5 min each side until golden."
+    },
+    {
+      "title": "Glaze",
+      "text": "Pour in the sauce and simmer about 2 min, spooning it over the tofu until glossy and slightly thickened."
+    },
+    {
+      "title": "Serve",
+      "text": "Top with the remaining spring onion and serve with rice."
+    }
+  ],
+  "tips": [
+    "Dry the tofu well so it browns.",
+    "Turn the slices gently with a fish slice.",
+    "Add more chilli flakes for extra heat."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soya",
+    "fish",
+    "sulphites"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 264,
+    "protein_g": 18.3,
+    "carbs_g": 17.2,
+    "sugar_g": 12.7,
+    "free_sugar_g": 12.1,
+    "fat_g": 15.9,
+    "satfat_g": 2.0,
+    "salt_g": 1.55,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "dubu-jorim-spicy-braised-tofu-basic.jpg",
+  "image_alt": "Golden tofu slices in a glossy red chilli sauce topped with red chilli and spring onion strips.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

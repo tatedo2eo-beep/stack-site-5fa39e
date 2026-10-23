@@ -1,0 +1,134 @@
+{
+  "slug": "olive-oil-refried-pinto-beans",
+  "title": "Olive Oil Refried Beans",
+  "category": "snacks-sides",
+  "cuisine": "Mexican",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "refried-beans",
+  "dish_title": "Refried beans",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Pinto beans simmered with golden onion and garlic, then mashed creamy and served with tortilla chips.",
+  "servings": 4,
+  "prep_min": 5,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large frying pan",
+    "potato masher",
+    "wooden spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Beans",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Beans",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "white onion, finely chopped",
+      "note": "about 100 g"
+    },
+    {
+      "group": "Beans",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Beans",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small dried red chilli (optional)"
+    },
+    {
+      "group": "Beans",
+      "qty": 2,
+      "unit": "pc",
+      "item": "400 g cans pinto beans, rinsed and drained"
+    },
+    {
+      "group": "Beans",
+      "qty": 160,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Beans",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "coriander leaves"
+    },
+    {
+      "group": "To serve",
+      "qty": 100,
+      "unit": "g",
+      "item": "tortilla chips"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Fry",
+      "text": "Cook the onion, garlic and chilli in the oil over medium heat 8-10 min until golden."
+    },
+    {
+      "title": "Simmer",
+      "text": "Add the beans and water and boil 5 min."
+    },
+    {
+      "title": "Mash",
+      "text": "Take out the chilli and mash the beans in the pan, stirring and scraping, until thick and creamy."
+    },
+    {
+      "title": "Season",
+      "text": "Stir in the salt; the beans thicken further as they stand, so loosen with a splash of water if needed."
+    },
+    {
+      "title": "Serve",
+      "text": "Swirl into a bowl, scatter with coriander and serve with tortilla chips."
+    }
+  ],
+  "tips": [
+    "Mash in the pan so the beans keep cooking as you work.",
+    "Add water a spoon at a time if they get too thick.",
+    "Good in tacos and burritos too."
+  ],
+  "storage": "Keep covered in the fridge for up to 4 days; reheat with a splash of water. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 363,
+    "protein_g": 10.5,
+    "carbs_g": 44.1,
+    "sugar_g": 2.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 16.7,
+    "satfat_g": 2.3,
+    "salt_g": 1.28,
+    "fibre_g": 8.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "refried-beans-basic.jpg",
+  "image_alt": "Smooth light-brown refried beans swirled in a bowl with coriander and tortilla chips.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

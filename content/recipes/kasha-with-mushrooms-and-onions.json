@@ -1,0 +1,154 @@
+{
+  "slug": "kasha-with-mushrooms-and-onions",
+  "title": "Kasha with Mushrooms and Onions",
+  "category": "rice-grains",
+  "cuisine": "Eastern European",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "kasha",
+  "dish_title": "Kasha",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Egg-coated roasted buckwheat simmered in stock and folded with golden onions and mushrooms.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "large frying pan",
+    "medium saucepan with tight lid",
+    "bowl",
+    "wooden spoon",
+    "clean tea towel"
+  ],
+  "ingredients": [
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 15,
+      "unit": "g",
+      "item": "butter"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, thinly sliced",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 200,
+      "unit": "g",
+      "item": "chestnut or shiitake mushrooms, sliced"
+    },
+    {
+      "group": "Kasha",
+      "qty": 175,
+      "unit": "g",
+      "item": "coarse roasted buckwheat groats (kasha)"
+    },
+    {
+      "group": "Kasha",
+      "qty": 1,
+      "unit": "pc",
+      "item": "egg white, lightly beaten"
+    },
+    {
+      "group": "Kasha",
+      "qty": 360,
+      "unit": "ml",
+      "item": "low-salt vegetable stock"
+    },
+    {
+      "group": "Kasha",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried thyme"
+    },
+    {
+      "group": "Kasha",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Kasha",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown",
+      "text": "Heat the oil and butter in the frying pan and cook the onion and mushrooms over medium heat 10-12 min until golden; set aside."
+    },
+    {
+      "title": "Coat",
+      "text": "Stir the groats with the egg white in the bowl until every grain is coated."
+    },
+    {
+      "title": "Dry",
+      "text": "Tip into the dry saucepan over medium heat and stir 2-3 min until the grains separate and look dry, with no wet egg left."
+    },
+    {
+      "title": "Simmer",
+      "text": "Add the stock, thyme, salt and pepper, bring to the boil, cover and cook on the lowest heat 10-15 min until the liquid is absorbed."
+    },
+    {
+      "title": "Steam",
+      "text": "Off the heat, lay the towel under the lid and leave 10 min."
+    },
+    {
+      "title": "Finish",
+      "text": "Fluff with a fork, fold in the onions and mushrooms and scatter with parsley."
+    }
+  ],
+  "tips": [
+    "Choose coarse or whole groats; fine kasha turns mushy.",
+    "Keep the heat very low while it simmers.",
+    "Use oil only for a dairy-free version."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "celery"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 241,
+    "protein_g": 8.7,
+    "carbs_g": 37.3,
+    "sugar_g": 4.3,
+    "free_sugar_g": 0.0,
+    "fat_g": 8.2,
+    "satfat_g": 2.6,
+    "salt_g": 1.45,
+    "fibre_g": 5.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "kasha-basic.jpg",
+  "image_alt": "Brown buckwheat groats mixed with sliced mushrooms, golden onion strips and herbs.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

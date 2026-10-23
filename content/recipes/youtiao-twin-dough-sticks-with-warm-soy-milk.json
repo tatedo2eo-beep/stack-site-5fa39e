@@ -1,0 +1,159 @@
+{
+  "slug": "youtiao-twin-dough-sticks-with-warm-soy-milk",
+  "title": "Youtiao Twin Dough Sticks with Warm Soy Milk",
+  "category": "breakfast",
+  "cuisine": "Chinese",
+  "chapter": "donuts",
+  "book_chapter": "donuts",
+  "dish": "youtiao",
+  "dish_title": "Youtiao",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Crisp, hollow Chinese twin dough sticks served with a bowl of warm soy milk for dipping.",
+  "servings": 4,
+  "prep_min": 30,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "cling film or a lidded container",
+    "rolling pin",
+    "sharp knife",
+    "chopstick",
+    "wok or wide heavy pan, at least 28 cm",
+    "deep-frying or probe thermometer",
+    "long chopsticks or tongs",
+    "wire rack over a tray lined with kitchen paper",
+    "small saucepan"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 300,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 2.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Dough",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Dough",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 135,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Dough",
+      "qty": 20,
+      "unit": "ml",
+      "item": "neutral oil, plus extra for the surface"
+    },
+    {
+      "group": "To fry",
+      "qty": 2500,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for about 5 cm depth"
+    },
+    {
+      "group": "To serve",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "unsweetened soy milk"
+    },
+    {
+      "group": "To serve",
+      "qty": 30,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "optional, to taste"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Whisk the flour, baking powder, bicarbonate and salt in the bowl. Beat the egg with the cold water and oil, pour it in and stir to a rough dough."
+    },
+    {
+      "title": "Knead",
+      "text": "Knead for 3 min, cover and leave for 15 min, then knead for 2 min more until the dough is smooth and soft."
+    },
+    {
+      "title": "Rest",
+      "text": "Shape it into a flat log of about 20 cm, rub it with a little oil, wrap it well and chill for 12-24 h. Take it out of the fridge 1 h before frying."
+    },
+    {
+      "title": "Cut and pair",
+      "text": "Roll the dough on a lightly oiled surface into a strip 10 cm wide and 6 mm thick. Cut it into 16 strips 2.5 cm wide, lay them on top of each other in pairs and press a chopstick down firmly along the centre of each pair."
+    },
+    {
+      "title": "Heat the oil",
+      "text": "Fill the wok with oil to about 5 cm, no more than half full, and heat it to 200 °C."
+    },
+    {
+      "title": "Fry",
+      "text": "Hold a pair by both ends, gently stretch it to about 25 cm and lower it into the oil. Keep turning it for 1.5-2 min at 190-200 °C, until it puffs to twice its size and turns deep golden and crisp. Drain on the rack and fry the rest one or two at a time."
+    },
+    {
+      "title": "Serve",
+      "text": "Warm the soy milk with the sugar until steaming. Serve it in bowls with the hot sticks for dipping."
+    }
+  ],
+  "tips": [
+    "The most common mistake is skipping the long rest; without it the dough will not stretch or puff.",
+    "Turn the sticks constantly in the first seconds so they puff evenly.",
+    "Very hot oil is essential; below 190 °C they stay dense and greasy.",
+    "Use oil, not flour, on the surface so the pairs stay stuck together.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Best eaten within an hour. Re-crisp leftovers in a 200 °C oven for 4-5 min. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 667,
+    "protein_g": 16.7,
+    "carbs_g": 70.1,
+    "sugar_g": 8.8,
+    "free_sugar_g": 7.5,
+    "fat_g": 35.6,
+    "satfat_g": 3.2,
+    "salt_g": 2.31,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "youtiao-basic.jpg",
+  "image_alt": "Golden twin youtiao dough sticks on a tray beside a bowl of warm soy milk.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

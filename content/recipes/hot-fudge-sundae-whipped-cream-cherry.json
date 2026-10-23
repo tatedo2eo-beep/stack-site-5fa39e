@@ -1,0 +1,153 @@
+{
+  "slug": "hot-fudge-sundae-whipped-cream-cherry",
+  "title": "Classic Hot Fudge Sundae",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sundaes",
+  "dish_title": "Sundaes",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Vanilla ice cream under a quick, glossy homemade hot fudge sauce, softly whipped cream and a cherry on top.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "small heavy saucepan",
+    "silicone spatula",
+    "mixing bowl",
+    "whisk or hand mixer",
+    "ice-cream scoop",
+    "4 chilled sundae bowls or glasses"
+  ],
+  "ingredients": [
+    {
+      "group": "Hot fudge",
+      "qty": 85,
+      "unit": "g",
+      "item": "dark chocolate (60-70%), finely chopped"
+    },
+    {
+      "group": "Hot fudge",
+      "qty": 60,
+      "unit": "ml",
+      "item": "light corn syrup or glucose syrup"
+    },
+    {
+      "group": "Hot fudge",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Hot fudge",
+      "qty": 35,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Hot fudge",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "unsweetened cocoa powder"
+    },
+    {
+      "group": "Hot fudge",
+      "qty": 15,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Hot fudge",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Hot fudge",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Whipped cream",
+      "qty": 150,
+      "unit": "ml",
+      "item": "cold double cream"
+    },
+    {
+      "group": "Whipped cream",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "To assemble",
+      "qty": 480,
+      "unit": "g",
+      "item": "vanilla ice cream (8 scoops), bought or homemade",
+      "note": "our French-style vanilla custard ice cream works well"
+    },
+    {
+      "group": "To assemble",
+      "qty": 4,
+      "unit": "pc",
+      "item": "cherries with stems (alcohol-free cocktail cherries or fresh)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Chill the bowls",
+      "text": "Put the sundae bowls or glasses in the freezer for 15 min. Cold bowls keep the ice cream from melting the moment it lands."
+    },
+    {
+      "title": "Melt the fudge",
+      "text": "Put the chocolate, corn syrup, water, sugar, cocoa, butter and salt in the saucepan over medium-low heat. Stir with the spatula until everything has melted into a smooth sauce."
+    },
+    {
+      "title": "Simmer",
+      "text": "Turn the heat to medium and let the sauce bubble gently for 3 min, stirring often, until glossy and slightly thicker. Take it off the heat, stir in the vanilla and leave for about 10 min until warm rather than hot. It thickens further as it cools."
+    },
+    {
+      "title": "Whip the cream",
+      "text": "Whisk the cold cream with the sugar until it forms soft, billowy peaks. Stop there: over-whipped cream turns grainy."
+    },
+    {
+      "title": "Assemble",
+      "text": "Put two scoops of ice cream in each cold bowl and spoon over the warm fudge. Add a generous spoonful of whipped cream, top with a cherry and serve straight away."
+    }
+  ],
+  "tips": [
+    "Serve the fudge warm, not boiling hot, so it clings to the ice cream instead of melting it.",
+    "Leftover fudge keeps in the fridge for 2 weeks; rewarm gently in short bursts in the microwave.",
+    "Add chopped toasted nuts if you like, but remember to tell anyone with a nut allergy."
+  ],
+  "storage": "Assemble sundaes just before serving. Keep leftover fudge sauce covered in the fridge for up to 2 weeks.",
+  "allergens": [
+    "milk",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 646,
+    "protein_g": 7.5,
+    "carbs_g": 69.4,
+    "sugar_g": 60.3,
+    "free_sugar_g": 58.1,
+    "fat_g": 39.2,
+    "satfat_g": 24.1,
+    "salt_g": 0.4,
+    "fibre_g": 4.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sundaes-basic.jpg",
+  "image_alt": "Vanilla ice cream drizzled with dark hot fudge, topped with whipped cream and a red cherry, in a dark bowl."
+}

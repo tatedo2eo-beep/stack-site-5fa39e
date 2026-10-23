@@ -1,0 +1,134 @@
+{
+  "slug": "silken-tofu-soy-chilli-oil",
+  "title": "Chilled Silken Tofu with Soy and Chilli Oil",
+  "category": "vegetarian",
+  "cuisine": "Chinese",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "silken-tofu-with-soy-and-chili-oil",
+  "dish_title": "Silken tofu with soy and chili oil",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A chilled block of silken tofu dressed with soy, rice vinegar, sesame oil and chilli oil, topped with spring onion.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "small bowl",
+    "whisk",
+    "rimmed serving plate",
+    "kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Tofu",
+      "qty": 2,
+      "unit": "pc",
+      "item": "400 g blocks silken tofu, chilled"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "rice vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chilli oil, with some sediment"
+    },
+    {
+      "group": "Dressing",
+      "qty": 8,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "toasted sesame seeds"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "pc",
+      "item": "spring onions, finely sliced"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "coriander leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dressing",
+      "text": "Whisk the soy sauce, vinegar, sesame oil, chilli oil and sugar until the sugar dissolves."
+    },
+    {
+      "title": "Plate",
+      "text": "Open the tofu, pour off the water and ease each block whole onto the rimmed plate; blot away any liquid."
+    },
+    {
+      "title": "Dress",
+      "text": "Spoon the dressing over and around the tofu so it pools on the plate."
+    },
+    {
+      "title": "Serve",
+      "text": "Scatter with sesame seeds, spring onion and coriander and serve straight away with spoons."
+    }
+  ],
+  "tips": [
+    "Keep the tofu cold until serving.",
+    "Use a rimmed plate so the dressing pools.",
+    "Spoon the tofu with plenty of dressing."
+  ],
+  "storage": "Best eaten straight away. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soya",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 221,
+    "protein_g": 10.9,
+    "carbs_g": 9.4,
+    "sugar_g": 4.9,
+    "free_sugar_g": 2.0,
+    "fat_g": 15.7,
+    "satfat_g": 2.0,
+    "salt_g": 1.58,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "silken-tofu-with-soy-and-chili-oil-basic.jpg",
+  "image_alt": "A whole block of silken tofu in a pool of red chilli oil and soy, topped with spring onion.",
+  "inspired_by": [
+    "NYT Cooking",
+    "America's Test Kitchen"
+  ]
+}

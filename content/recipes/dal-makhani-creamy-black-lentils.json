@@ -1,0 +1,183 @@
+{
+  "slug": "dal-makhani-creamy-black-lentils",
+  "title": "Dal Makhani",
+  "category": "vegetarian",
+  "cuisine": "Indian",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "dal-makhani",
+  "dish_title": "Dal makhani",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Whole urad and kidney beans simmered with tomato, ginger and garlic, enriched with cream and butter, topped with crisp onion tarka.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 135,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "large heavy saucepan with lid",
+    "potato masher",
+    "small frying pan",
+    "wooden spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Dal",
+      "qty": 200,
+      "unit": "g",
+      "item": "whole black urad (black gram)"
+    },
+    {
+      "group": "Dal",
+      "qty": 90,
+      "unit": "g",
+      "item": "dried red kidney beans"
+    },
+    {
+      "group": "Dal",
+      "qty": 1700,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Dal",
+      "qty": 240,
+      "unit": "g",
+      "item": "passata or blended canned tomatoes"
+    },
+    {
+      "group": "Dal",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "fresh ginger, finely grated"
+    },
+    {
+      "group": "Dal",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Dal",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Dal",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Finish",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Finish",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "garam masala"
+    },
+    {
+      "group": "Finish",
+      "qty": 30,
+      "unit": "g",
+      "item": "butter"
+    },
+    {
+      "group": "Tarka",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "ghee"
+    },
+    {
+      "group": "Tarka",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "medium onion, thinly sliced",
+      "note": "about 75 g"
+    },
+    {
+      "group": "Tarka",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "paprika"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "double cream, to swirl"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "coriander leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak",
+      "text": "Cover the urad and kidney beans with plenty of water and soak overnight, then drain."
+    },
+    {
+      "title": "Boil",
+      "text": "Boil the kidney beans hard in the 1700 ml water for a full 10 min."
+    },
+    {
+      "title": "Simmer",
+      "text": "Add the urad, passata, ginger, garlic, cayenne and salt, cover and simmer gently 1½-2 h, stirring now and then and adding water if it gets thick, until the beans are soft and bursting."
+    },
+    {
+      "title": "Enrich",
+      "text": "Mash about a third of the beans, stir in the cream, garam masala and butter and simmer 10-15 min more until thick and velvety."
+    },
+    {
+      "title": "Tarka",
+      "text": "Fry the onion in the ghee 5-7 min until crisp and red-gold, then stir in the paprika off the heat."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon the tarka over the dal, swirl with cream and scatter with coriander."
+    }
+  ],
+  "tips": [
+    "Never skip the 10-minute hard boil for the kidney beans.",
+    "Long, gentle cooking makes it creamy.",
+    "It tastes even better the next day."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days; reheat with water until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 300,
+    "protein_g": 11.0,
+    "carbs_g": 27.4,
+    "sugar_g": 2.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 17.4,
+    "satfat_g": 10.5,
+    "salt_g": 1.25,
+    "fibre_g": 8.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "dal-makhani-advanced.jpg",
+  "image_alt": "Dark, creamy black lentil and kidney bean dal with a swirl of cream and coriander.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

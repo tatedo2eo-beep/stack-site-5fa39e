@@ -1,0 +1,144 @@
+{
+  "slug": "moi-moi-steamed-bean-pudding",
+  "title": "Moi Moi (Steamed Bean Pudding)",
+  "category": "vegetarian",
+  "cuisine": "Nigerian",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "moi-moi",
+  "dish_title": "Moi moi",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Skinned black-eyed peas blended with red pepper, onion, Scotch bonnet and stock, then steamed in ramekins with egg.",
+  "servings": 6,
+  "prep_min": 40,
+  "cook_min": 60,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "blender",
+    "6 ramekins (about 200 ml)",
+    "foil",
+    "wide pan with lid and a rack or folded cloth",
+    "skewer",
+    "food thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Beans",
+      "qty": 190,
+      "unit": "g",
+      "item": "dried black-eyed peas"
+    },
+    {
+      "group": "Beans",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "water, for soaking and skinning"
+    },
+    {
+      "group": "Blend",
+      "qty": 75,
+      "unit": "g",
+      "item": "red onion, roughly chopped"
+    },
+    {
+      "group": "Blend",
+      "qty": 65,
+      "unit": "g",
+      "item": "red pepper, roughly chopped"
+    },
+    {
+      "group": "Blend",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "Scotch bonnet chilli, seeded"
+    },
+    {
+      "group": "Blend",
+      "qty": 235,
+      "unit": "ml",
+      "item": "vegetable stock"
+    },
+    {
+      "group": "Blend",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Blend",
+      "qty": 60,
+      "unit": "ml",
+      "item": "vegetable oil, plus extra for greasing"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "eggs, hard-boiled and quartered"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak",
+      "text": "Cover the peas with water and soak 30-60 min."
+    },
+    {
+      "title": "Skin",
+      "text": "Pulse the peas with fresh water in the blender in short bursts just to crack them, tip into the bowl, swish and pour off the floating skins; repeat until almost all are skinless."
+    },
+    {
+      "title": "Blend",
+      "text": "Blend the skinned peas with the onion, pepper, chilli, stock and salt 3-4 min until completely smooth, then whisk in the oil."
+    },
+    {
+      "title": "Fill",
+      "text": "Grease the ramekins, half-fill with batter, add a piece of egg to each, top up and cover tightly with foil."
+    },
+    {
+      "title": "Steam",
+      "text": "Set on the rack in the pan with 2 cm simmering water, cover and steam 45-60 min, topping up the water, until firm, a skewer comes out clean and the centre reads at least 74 °C."
+    },
+    {
+      "title": "Serve",
+      "text": "Rest 5 min, then turn out or serve in the ramekins."
+    }
+  ],
+  "tips": [
+    "Wear gloves when handling Scotch bonnet.",
+    "Blend until there is no grit at all for a silky texture.",
+    "Do not let the steaming pan boil dry."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days; re-steam until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "celery"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 229,
+    "protein_g": 9.9,
+    "carbs_g": 21.4,
+    "sugar_g": 3.5,
+    "free_sugar_g": 0.0,
+    "fat_g": 12.1,
+    "satfat_g": 1.4,
+    "salt_g": 1.09,
+    "fibre_g": 3.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "moi-moi-basic.jpg",
+  "image_alt": "Orange-red steamed bean pudding in a dish with a piece of boiled egg set inside.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

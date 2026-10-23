@@ -1,0 +1,118 @@
+{
+  "slug": "strawberry-granita-fork-scraped",
+  "title": "Strawberry Granita",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "granita",
+  "dish_title": "Granita",
+  "flavour": "Strawberry",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Sweet strawberry purée sharpened with lemon, frozen in a shallow dish and raked with a fork into bright red, fluffy ice crystals.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "blender",
+    "jug",
+    "fine sieve",
+    "33 x 23 cm glass or metal dish",
+    "fork",
+    "chilled glasses or bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Granita",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Granita",
+      "qty": 180,
+      "unit": "ml",
+      "item": "warm water"
+    },
+    {
+      "group": "Granita",
+      "qty": 450,
+      "unit": "g",
+      "item": "ripe strawberries, hulled"
+    },
+    {
+      "group": "Granita",
+      "qty": 60,
+      "unit": "ml",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Granita",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "strawberries, halved, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the syrup",
+      "text": "Stir the sugar into the warm water in the jug until completely dissolved. Dissolving it first means no gritty sugar in the finished ice."
+    },
+    {
+      "title": "Blend",
+      "text": "Blitz the strawberries with the syrup, lemon juice and salt for 1-2 min until perfectly smooth."
+    },
+    {
+      "title": "Strain",
+      "text": "Press the purée through the sieve into the dish to remove the seeds. A shallow layer freezes faster and more evenly."
+    },
+    {
+      "title": "First freeze",
+      "text": "Freeze, uncovered, for about 1 h, until the edges are icy and the centre is slushy."
+    },
+    {
+      "title": "Scrape",
+      "text": "Rake the frozen edges with the fork and stir the crystals into the slushy middle. Repeat every 30-60 min, breaking up any lumps, for 2-3 h more, until the whole dish is dry, light flakes."
+    },
+    {
+      "title": "Serve",
+      "text": "Rake once more just before serving and pile into chilled glasses with a halved strawberry."
+    }
+  ],
+  "tips": [
+    "Do not skip the scraping: left alone, granita sets into a solid block.",
+    "Use a metal dish for the fastest freezing.",
+    "If it does freeze hard, leave it out for 10 min and rake again."
+  ],
+  "storage": "Keep frozen in a covered container for up to 1 week; rake with a fork to loosen before serving.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 70,
+    "protein_g": 0.5,
+    "carbs_g": 17.9,
+    "sugar_g": 15.8,
+    "free_sugar_g": 12.7,
+    "fat_g": 0.2,
+    "satfat_g": 0.0,
+    "salt_g": 0.05,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "granita-basic--strawberry.jpg",
+  "image_alt": "Bright red flaky strawberry granita heaped in a dark bowl beside a halved strawberry on slate."
+}

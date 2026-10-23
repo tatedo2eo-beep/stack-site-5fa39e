@@ -1,0 +1,209 @@
+{
+  "slug": "moros-y-cristianos-black-beans-rice",
+  "title": "Moros y Cristianos (Black Beans and Rice)",
+  "category": "rice-grains",
+  "cuisine": "Cuban",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "moros-y-cristianos",
+  "dish_title": "Moros y cristianos",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Black beans simmered with aromatics, then baked with rice, a cumin-oregano pepper base and their own cooking liquid.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 85,
+  "difficulty": "medium",
+  "equipment": [
+    "large saucepan",
+    "ovenproof casserole with lid",
+    "sieve",
+    "measuring jug",
+    "wooden spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Beans",
+      "qty": 180,
+      "unit": "g",
+      "item": "dried black beans, soaked overnight in plenty of water"
+    },
+    {
+      "group": "Beans",
+      "qty": 950,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Beans",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "green pepper, in one piece"
+    },
+    {
+      "group": "Beans",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "onion, in one piece"
+    },
+    {
+      "group": "Beans",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, lightly crushed"
+    },
+    {
+      "group": "Beans",
+      "qty": 2,
+      "unit": "pc",
+      "item": "bay leaves"
+    },
+    {
+      "group": "Beans",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Rice",
+      "qty": 300,
+      "unit": "g",
+      "item": "long-grain rice, rinsed"
+    },
+    {
+      "group": "Rice",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Rice",
+      "qty": 1.5,
+      "unit": "pc",
+      "item": "green peppers, finely chopped"
+    },
+    {
+      "group": "Rice",
+      "qty": 1,
+      "unit": "pc",
+      "item": "onion, finely chopped"
+    },
+    {
+      "group": "Rice",
+      "qty": 5,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Rice",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fresh oregano, chopped"
+    },
+    {
+      "group": "Rice",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "ground cumin"
+    },
+    {
+      "group": "Rice",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "tomato paste"
+    },
+    {
+      "group": "Rice",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Rice",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "pc",
+      "item": "spring onions, sliced"
+    },
+    {
+      "group": "To finish",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "coriander leaves"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "pc",
+      "item": "lime, in wedges"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Beans",
+      "text": "Drain the soaked beans and simmer with the water, pepper piece, onion piece, crushed garlic, bay and the bean salt, covered, 30-40 min until just tender."
+    },
+    {
+      "title": "Drain",
+      "text": "Discard the aromatics, drain the beans and keep 590 ml of the cooking liquid (top up with water if short). Heat the oven to 180 °C."
+    },
+    {
+      "title": "Base",
+      "text": "Heat the oil in the casserole and fry the chopped pepper and onion with the oregano, cumin and tomato paste over medium heat 10-15 min until soft and starting to brown; stir in the chopped garlic for 1 min."
+    },
+    {
+      "title": "Combine",
+      "text": "Stir in the rice for 30 s, then add the beans, kept liquid, vinegar and the rice salt and bring to a simmer."
+    },
+    {
+      "title": "Bake",
+      "text": "Cover and bake 30 min until the rice is tender and the liquid absorbed."
+    },
+    {
+      "title": "Serve",
+      "text": "Fluff, rest 5 min, then top with spring onion and coriander and serve with lime."
+    }
+  ],
+  "tips": [
+    "Keep the bean liquid; it colours and seasons the rice.",
+    "Bake rather than simmer for evenly cooked rice.",
+    "Serve with lime to brighten it."
+  ],
+  "storage": "Cool quickly and keep covered in the fridge for up to 3 days; reheat until piping hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 222,
+    "protein_g": 5.3,
+    "carbs_g": 41.4,
+    "sugar_g": 2.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 4.1,
+    "satfat_g": 0.6,
+    "salt_g": 1.7,
+    "fibre_g": 3.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "moros-y-cristianos-basic.jpg",
+  "image_alt": "Dark rice cooked with black beans, flecked with diced green pepper and coriander.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

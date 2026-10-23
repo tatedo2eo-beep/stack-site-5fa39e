@@ -1,0 +1,122 @@
+{
+  "slug": "rosemary-farinata-chickpea-pancake",
+  "title": "Farinata with Rosemary",
+  "category": "snacks-sides",
+  "cuisine": "Italian",
+  "chapter": "grains-legumes",
+  "book_chapter": "grains-legumes",
+  "dish": "farinata",
+  "dish_title": "Farinata",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A rested chickpea-flour batter cooked under a fierce grill in an oiled cast-iron pan with rosemary and black pepper.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "whisk",
+    "30 cm cast-iron frying pan",
+    "oven gloves",
+    "spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 225,
+      "unit": "g",
+      "item": "chickpea (gram) flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 710,
+      "unit": "ml",
+      "item": "water, room temperature"
+    },
+    {
+      "group": "To bake",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "To bake",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To bake",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "fresh rosemary leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Batter",
+      "text": "Whisk the chickpea flour and salt in the bowl, then add the water a little at a time, whisking until thin and lump-free."
+    },
+    {
+      "title": "Rest",
+      "text": "Cover and leave at room temperature 4-8 h so the flour fully hydrates."
+    },
+    {
+      "title": "Heat",
+      "text": "Put the empty pan on a rack about 15 cm under the grill and heat the oven grill (broiler) on full for 15 min."
+    },
+    {
+      "title": "Pour",
+      "text": "Skim off any foam from the batter. Carefully take out the pan, add the oil and swirl, then pour in the batter, stir once so the oil streaks through, and scatter with pepper and rosemary."
+    },
+    {
+      "title": "Bake",
+      "text": "Grill 11-15 min until set all the way through and blistered with brown freckles."
+    },
+    {
+      "title": "Serve",
+      "text": "Rest 10 min in the pan, then slide out and cut into wedges."
+    }
+  ],
+  "tips": [
+    "The long rest gives a smoother, more tender pancake.",
+    "Make sure the pan is very hot before the batter goes in.",
+    "Eat warm, with extra pepper."
+  ],
+  "storage": "Best fresh; keep leftovers covered in the fridge for 1 day and reheat in a hot pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 227,
+    "protein_g": 8.4,
+    "carbs_g": 21.9,
+    "sugar_g": 4.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 11.7,
+    "satfat_g": 1.5,
+    "salt_g": 0.56,
+    "fibre_g": 4.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "farinata-basic.jpg",
+  "image_alt": "A thin golden chickpea pancake with brown freckles, cut into wedges, with a rosemary sprig.",
+  "inspired_by": [
+    "Serious Eats",
+    "King Arthur Baking"
+  ]
+}

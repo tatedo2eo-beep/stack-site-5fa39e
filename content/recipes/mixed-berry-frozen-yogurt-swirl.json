@@ -1,0 +1,134 @@
+{
+  "slug": "mixed-berry-frozen-yogurt-swirl",
+  "title": "Mixed Berry Frozen Yoghurt",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "frozen-yogurt",
+  "dish_title": "Frozen yogurt",
+  "flavour": "Berry",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "frozen-yogurt-strained-tangy",
+  "changes_from_base": "A sieved strawberry and raspberry purée is whisked into the strained yoghurt with a little extra sugar, turning it pink and fruity.",
+  "summary": "Strained yoghurt whisked with a sieved strawberry and raspberry purée, churned into pink swirls and scattered with fresh berries.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "sieve lined with a triple layer of muslin",
+    "fine sieve",
+    "blender",
+    "large bowl",
+    "whisk",
+    "freezer container with lid",
+    "piping bag with large star nozzle (optional)"
+  ],
+  "ingredients": [
+    {
+      "group": "Frozen yoghurt",
+      "qty": 900,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt"
+    },
+    {
+      "group": "Berry purée",
+      "qty": 125,
+      "unit": "g",
+      "item": "strawberries, hulled"
+    },
+    {
+      "group": "Berry purée",
+      "qty": 125,
+      "unit": "g",
+      "item": "raspberries"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 165,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "golden syrup"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "g",
+      "item": "raspberries, to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 50,
+      "unit": "g",
+      "item": "blueberries, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Strain the yoghurt",
+      "text": "Drain the yoghurt in the muslin-lined sieve over a bowl, covered, in the fridge for 8-12 h until about 300 ml of whey has run off. Discard the whey."
+    },
+    {
+      "title": "Make the purée",
+      "text": "Blend the strawberries and raspberries until smooth, then press through the fine sieve to remove the seeds."
+    },
+    {
+      "title": "Mix",
+      "text": "Whisk the strained yoghurt with the purée, sugar, golden syrup and salt for 2-3 min until evenly pink and the sugar has dissolved. The extra sugar balances the sharp fruit and keeps it soft."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and refrigerate for 1 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn for 20-30 min, until the mixture holds soft swirls."
+    },
+    {
+      "title": "Serve",
+      "text": "Pipe tall swirls into bowls and scatter the raspberries and blueberries around. For firmer scoops, freeze for up to 2 h first."
+    }
+  ],
+  "tips": [
+    "Sieve the purée well; seeds feel gritty when frozen.",
+    "Frozen berries, thawed, work for the purée.",
+    "Taste before churning: the mixture should taste slightly too sweet, as cold dulls sweetness."
+  ],
+  "storage": "Best eaten on the day. Keep leftovers frozen and covered for up to 1 week.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 174,
+    "protein_g": 3.3,
+    "carbs_g": 35.3,
+    "sugar_g": 32.9,
+    "free_sugar_g": 26.7,
+    "fat_g": 2.9,
+    "satfat_g": 1.7,
+    "salt_g": 0.21,
+    "fibre_g": 2.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "frozen-yogurt-basic--berry.jpg",
+  "image_alt": "A tall pink swirl of berry frozen yoghurt surrounded by raspberries and blueberries in a dark bowl."
+}

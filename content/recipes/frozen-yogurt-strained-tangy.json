@@ -1,0 +1,114 @@
+{
+  "slug": "frozen-yogurt-strained-tangy",
+  "title": "Tangy Frozen Yoghurt",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "frozen-yogurt",
+  "dish_title": "Frozen yogurt",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Thick strained whole-milk yoghurt sweetened with sugar and golden syrup, churned into tangy soft-serve swirls and topped with fresh berries.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "sieve lined with a triple layer of muslin",
+    "large bowl",
+    "whisk",
+    "freezer container with lid",
+    "piping bag with large star nozzle (optional)"
+  ],
+  "ingredients": [
+    {
+      "group": "Frozen yoghurt",
+      "qty": 900,
+      "unit": "g",
+      "item": "plain whole-milk yoghurt"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 150,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "golden syrup"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 50,
+      "unit": "g",
+      "item": "raspberries, to serve"
+    },
+    {
+      "group": "To serve",
+      "qty": 30,
+      "unit": "g",
+      "item": "blueberries, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Strain the yoghurt",
+      "text": "Set the muslin-lined sieve over the bowl, add the yoghurt, cover and refrigerate for 8-12 h until about 300 ml of whey has dripped out. Discard the whey; if much more than that drained, stir a little back in. Less water means fewer ice crystals."
+    },
+    {
+      "title": "Sweeten",
+      "text": "Tip the thick yoghurt into a clean bowl and whisk in the sugar, golden syrup and salt for 2-3 min, until the sugar no longer feels gritty. The syrup keeps the texture smooth."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover and refrigerate for 1 h so the mixture goes into the machine very cold."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn for 20-30 min, until it holds swirls like soft serve."
+    },
+    {
+      "title": "Serve",
+      "text": "Pipe or spoon tall swirls into bowls and top with the raspberries and blueberries right away. For firmer scoops, freeze in the container for up to 2 h first."
+    }
+  ],
+  "tips": [
+    "Use full-fat yoghurt: low-fat versions freeze icy.",
+    "Start the straining the evening before.",
+    "Leftovers freeze hard; soften for 15 min in the fridge before scooping."
+  ],
+  "storage": "Best eaten on the day. Keep leftovers frozen and covered for up to 1 week.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 152,
+    "protein_g": 2.9,
+    "carbs_g": 29.9,
+    "sugar_g": 29.2,
+    "free_sugar_g": 24.8,
+    "fat_g": 2.7,
+    "satfat_g": 1.7,
+    "salt_g": 0.21,
+    "fibre_g": 0.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "frozen-yogurt-basic.jpg",
+  "image_alt": "A tall white swirl of frozen yoghurt topped with raspberries and blueberries in a dark bowl."
+}
