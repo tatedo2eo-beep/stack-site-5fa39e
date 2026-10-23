@@ -13,7 +13,6 @@
   "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
   "changes_from_base": "A rectangular open apple tart with cranberries, crystallised ginger and orange zest, glazed with apple jelly in place of the fresh fruit and crème pâtissière.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A big rectangular open apple tart with tart cranberries, warm crystallised ginger and a hint of orange.",
   "servings": 8,
   "prep_min": 40,
@@ -176,8 +175,8 @@
     "fibre_g": 4.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A rectangular apple tart dotted with red cranberries and glossy with ginger glaze, cut into squares.",
+  "image": "cranberry-ginger-apple-slab-tart.jpg",
+  "image_alt": "A rectangular puff pastry slab tart with rows of glazed apple slices dotted with red cranberries.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

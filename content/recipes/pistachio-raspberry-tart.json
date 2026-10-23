@@ -13,7 +13,6 @@
   "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
   "changes_from_base": "A baked pistachio paste filling studded with raspberries, replacing the crème pâtissière and fresh fruit.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A crisp lemon pastry case filled with a rich baked pistachio paste and scattered with raspberries.",
   "servings": 10,
   "prep_min": 50,
@@ -199,7 +198,7 @@
     "fibre_g": 5.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "pistachio-raspberry-tart.jpg",
   "image_alt": "A green-flecked pistachio tart studded with raspberries, with one slice cut out.",
   "inspired_by": [
     "NYT Cooking"

@@ -13,7 +13,6 @@
   "base_recipe": "creamy-two-cabbage-coleslaw",
   "changes_from_base": "Carrot, radish and crisp Asian pear replace the cabbage, with a sesame-rice vinegar dressing instead of mayonnaise.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A crisp, colourful slaw of grated carrot, sliced radishes and Asian pear matchsticks in a sesame and rice vinegar dressing.",
   "servings": 8,
   "prep_min": 25,
@@ -137,8 +136,8 @@
     "fibre_g": 4.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A bowl of grated orange carrot, pink-edged radish slices, pale pear matchsticks and spring onion greens.",
+  "image": "carrot-radish-asian-pear-slaw-sesame.jpg",
+  "image_alt": "A bowl of grated orange carrot, pink-edged radish slices, pale pear matchsticks and spring onion greens, sprinkled with sesame seeds.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

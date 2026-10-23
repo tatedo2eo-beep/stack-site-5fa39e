@@ -13,7 +13,6 @@
   "base_recipe": "romaine-caesar-salad-garlic-croutons",
   "changes_from_base": "Smoky chipotle and lime go into the dressing, and the salad becomes a main course with seared chicken breast and avocado.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A hearty main-course Caesar with seared chicken breast, avocado and garlicky croutons, all tossed in a smoky chipotle and lime dressing.",
   "servings": 4,
   "prep_min": 15,
@@ -163,7 +162,7 @@
     "fibre_g": 6.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "chipotle-chicken-caesar-avocado-lime.jpg",
   "image_alt": "Romaine in an orange-tinted creamy dressing, topped with sliced seared chicken breast, avocado cubes and golden croutons.",
   "inspired_by": [
     "America's Test Kitchen"

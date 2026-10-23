@@ -13,7 +13,6 @@
   "base_recipe": "poached-pear-frangipane-tart",
   "changes_from_base": "A rosemary-infused honey and flaked almond custard, rather than frangipane and poached pears.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A lemony pastry case filled with a rich honey custard and flaked almonds, scented with rosemary.",
   "servings": 10,
   "prep_min": 40,
@@ -180,6 +179,6 @@
     "fibre_g": 2.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "rosemary-honey-almond-tart.jpg",
   "image_alt": "A glossy, deep golden flaked almond tart with a sprig of rosemary beside a slice."
 }

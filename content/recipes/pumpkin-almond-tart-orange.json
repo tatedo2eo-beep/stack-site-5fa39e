@@ -13,7 +13,6 @@
   "base_recipe": "poached-pear-frangipane-tart",
   "changes_from_base": "A smooth pumpkin, orange and chopped almond custard baked in an unbaked shortcrust case, in place of pear frangipane.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A French-style pumpkin tart with chopped almonds, crème fraîche and orange zest in a tender egg pastry.",
   "servings": 8,
   "prep_min": 40,
@@ -161,6 +160,6 @@
     "fibre_g": 3.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "pumpkin-almond-tart-orange.jpg",
   "image_alt": "A smooth orange pumpkin tart flecked with chopped almonds in a pale shortcrust case."
 }

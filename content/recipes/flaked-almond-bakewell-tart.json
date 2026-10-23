@@ -13,7 +13,6 @@
   "base_recipe": "feathered-iced-bakewell-tart-raspberry",
   "changes_from_base": "Topped with toasted flaked almonds instead of a feathered icing.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A classic jam and almond sponge Bakewell tart, finished with a crunchy layer of toasted flaked almonds.",
   "servings": 12,
   "prep_min": 35,
@@ -181,6 +180,6 @@
     "fibre_g": 2.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "flaked-almond-bakewell-tart.jpg",
   "image_alt": "A Bakewell tart topped with toasted flaked almonds, a slice cut to show the raspberry jam layer."
 }

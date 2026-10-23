@@ -13,7 +13,6 @@
   "base_recipe": "classic-apple-tarte-tatin",
   "changes_from_base": "Peaches in place of apples; the caramel starts from butter and sugar in the pan, and the fruit juice is drained after baking and boiled into a brushed glaze.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "The classic upside-down Tatin made with peaches, with their pan juices boiled down into a dark glaze brushed on at the end.",
   "servings": 8,
   "prep_min": 35,
@@ -160,6 +159,6 @@
     "fibre_g": 2.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "peach-tarte-tatin-amber-glaze.jpg",
   "image_alt": "A turned-out peach tarte Tatin with glossy amber peach quarters packed on a golden crust."
 }

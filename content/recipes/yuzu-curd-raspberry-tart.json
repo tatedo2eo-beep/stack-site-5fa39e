@@ -13,7 +13,6 @@
   "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
   "changes_from_base": "A silky blended yuzu curd in a press-in lemon crust with a ring of raspberries, instead of crème pâtissière under mixed fruit.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A press-in lemon crust filled with a silky blended yuzu curd and edged with fresh raspberries.",
   "servings": 10,
   "prep_min": 40,
@@ -168,7 +167,7 @@
     "fibre_g": 1.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "yuzu-curd-raspberry-tart.jpg",
   "image_alt": "A smooth pale yellow yuzu curd tart with fresh raspberries arranged round the rim.",
   "inspired_by": [
     "NYT Cooking"

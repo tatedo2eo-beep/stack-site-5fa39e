@@ -13,7 +13,6 @@
   "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
   "changes_from_base": "A free-form galette of peaches and blackberries baked in plain shortcrust, with no crème pâtissière.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A simple galette: hand-rubbed shortcrust folded around sugared peaches and blackberries and baked until bubbling.",
   "servings": 6,
   "prep_min": 25,
@@ -131,7 +130,7 @@
     "fibre_g": 3.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "peach-blackberry-galette.jpg",
   "image_alt": "A golden pleated galette filled with juicy peach wedges and dark blackberries, sparkling with sugar.",
   "inspired_by": [
     "America's Test Kitchen"

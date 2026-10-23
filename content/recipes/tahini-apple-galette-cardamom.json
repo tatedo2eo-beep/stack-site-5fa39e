@@ -13,7 +13,6 @@
   "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
   "changes_from_base": "A cardamom apple galette over a sweet tahini spread with a sesame crust, in place of a crème pâtissière fruit tart.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A flaky apple galette spiced with cardamom, baked over a sweet tahini spread and finished with sesame seeds.",
   "servings": 8,
   "prep_min": 40,
@@ -190,7 +189,7 @@
     "fibre_g": 4.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "tahini-apple-galette-cardamom.jpg",
   "image_alt": "A rustic apple galette with a sesame-seed crust, sliced to show a layer of tahini spread under the apples.",
   "inspired_by": [
     "NYT Cooking"

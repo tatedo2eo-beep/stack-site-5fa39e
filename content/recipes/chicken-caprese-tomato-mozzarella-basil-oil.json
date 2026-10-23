@@ -13,7 +13,6 @@
   "base_recipe": "tomato-mozzarella-caprese-basil",
   "changes_from_base": "Grilled chicken breast becomes the base, with tomato and mozzarella melted on top and a lemony basil oil in place of plain olive oil.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Juicy grilled chicken breasts topped with charred tomato slices and softly melting mozzarella, finished with a bright lemon and basil oil.",
   "servings": 4,
   "prep_min": 15,
@@ -136,7 +135,7 @@
     "fibre_g": 1.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "chicken-caprese-tomato-mozzarella-basil-oil.jpg",
   "image_alt": "Grilled chicken breasts topped with tomato slices and melting mozzarella, drizzled with green basil oil and fresh basil leaves.",
   "inspired_by": [
     "America's Test Kitchen",

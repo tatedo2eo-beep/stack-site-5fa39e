@@ -13,7 +13,6 @@
   "base_recipe": "classic-apple-tarte-tatin",
   "changes_from_base": "Fresh pineapple rings in place of apples, cooked in a dry caramel, with toasted coconut scattered over after turning out.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Classic Tatin made with fresh pineapple rings in deep caramel, finished with toasted coconut.",
   "servings": 8,
   "prep_min": 35,
@@ -144,6 +143,6 @@
     "fibre_g": 2.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A pineapple tarte Tatin with overlapping caramelised rings, scattered with toasted coconut."
+  "image": "pineapple-coconut-tarte-tatin.jpg",
+  "image_alt": "A golden pineapple tarte tatin with caramelised pineapple under a generous scattering of toasted coconut."
 }

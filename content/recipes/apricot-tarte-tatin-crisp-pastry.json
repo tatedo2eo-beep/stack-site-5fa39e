@@ -13,7 +13,6 @@
   "base_recipe": "classic-apple-tarte-tatin",
   "changes_from_base": "Apricot halves in place of apples, an egg-free crisp pastry, and the fruit is cooled and the tart chilled before a hot, fast bake.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Classic Tatin made with apricot halves and a crisp, egg-free pastry, chilled first and then baked hot and fast.",
   "servings": 8,
   "prep_min": 30,
@@ -133,6 +132,6 @@
     "fibre_g": 2.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "apricot-tarte-tatin-crisp-pastry.jpg",
   "image_alt": "An apricot tarte Tatin with rings of caramelised apricot halves on a crisp pastry round."
 }

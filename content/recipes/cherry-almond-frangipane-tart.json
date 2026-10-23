@@ -13,7 +13,6 @@
   "base_recipe": "poached-pear-frangipane-tart",
   "changes_from_base": "Fresh cherries pressed into a processor frangipane made from flaked almonds, in place of poached pears.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Sweet cherries pressed into a creamy almond frangipane in a crisp short pastry case.",
   "servings": 8,
   "prep_min": 35,
@@ -171,6 +170,6 @@
     "fibre_g": 3.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "cherry-almond-frangipane-tart.jpg",
   "image_alt": "A golden almond tart studded with dark cherries and flaked almonds, dusted with icing sugar."
 }

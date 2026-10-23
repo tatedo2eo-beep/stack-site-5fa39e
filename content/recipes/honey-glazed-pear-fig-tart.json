@@ -13,7 +13,6 @@
   "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
   "changes_from_base": "Baked figs and pears glazed with honey in a blind-baked case, with no crème pâtissière.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Halved figs and fanned pear slices baked in a crisp pastry case and brushed with warm honey.",
   "servings": 8,
   "prep_min": 35,
@@ -150,8 +149,8 @@
     "fibre_g": 3.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A tart with a ring of halved figs around fanned pear slices, glazed with honey.",
+  "image": "honey-glazed-pear-fig-tart.jpg",
+  "image_alt": "A golden pastry tart with fanned honey-glazed pear slices in the centre ringed by purple fig wedges.",
   "inspired_by": [
     "NYT Cooking"
   ]

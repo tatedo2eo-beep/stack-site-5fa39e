@@ -13,7 +13,6 @@
   "base_recipe": "tuscan-panzanella-tomato-bread-salad",
   "changes_from_base": "Chicken is baked on top of the bread cubes in one pan, cannellini beans and rocket bulk out the salad, and the dressing is sharpened with cider vinegar.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A main-course bread salad: juicy tomatoes, cannellini beans and red onion dressed in olive oil and cider vinegar, tossed with crisp oven-toasted bread, chunks of chicken and peppery rocket.",
   "servings": 6,
   "prep_min": 20,
@@ -161,8 +160,8 @@
     "fibre_g": 4.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A large bowl of tomato chunks, golden bread cubes, white beans, chicken pieces and rocket topped with shaved cheese.",
+  "image": "chicken-white-bean-panzanella-rocket.jpg",
+  "image_alt": "A bowl of tomato chunks, golden bread cubes, white beans, sliced chicken, red onion and rocket topped with shaved cheese.",
   "inspired_by": [
     "Serious Eats",
     "America's Test Kitchen"

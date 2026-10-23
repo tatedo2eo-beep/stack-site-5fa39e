@@ -13,7 +13,6 @@
   "base_recipe": "fresh-fruit-tart-vanilla-creme-patissiere",
   "changes_from_base": "Rhubarb and strawberries baked under a pastry lattice instead of fresh strawberries over crème pâtissière.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Rhubarb and strawberries with brown sugar and cinnamon, baked under a sugared pastry lattice.",
   "servings": 8,
   "prep_min": 40,
@@ -173,6 +172,6 @@
     "fibre_g": 3.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "strawberry-rhubarb-lattice-tart.jpg",
   "image_alt": "A lattice-topped tart with pink rhubarb and strawberry filling bubbling through sugared pastry strips."
 }
