@@ -1,0 +1,124 @@
+{
+  "slug": "fresh-orange-sherbet-whipped-cream",
+  "title": "Fresh Orange Sherbet with Whipped Cream",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "sherbet",
+  "dish_title": "Sherbet",
+  "flavour": "Orange",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "A bright, refreshing orange sherbet lightened with whipped cream, creating a cloud-like frozen texture.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "food processor",
+    "fine sieve",
+    "2 medium bowls",
+    "whisk",
+    "ice cream maker",
+    "freezer container",
+    "digital thermometer"
+  ],
+  "ingredients": [
+    {
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated orange zest"
+    },
+    {
+      "qty": 200,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "qty": 480,
+      "unit": "ml",
+      "item": "fresh orange juice (about 6 oranges)"
+    },
+    {
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "qty": 160,
+      "unit": "ml",
+      "item": "double cream, cold"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pulse",
+      "text": "Pulse 1 tbsp finely grated orange zest, 200 g sugar and ⅛ tsp fine salt in a food processor until damp, 10-15 pulses."
+    },
+    {
+      "title": "Juice",
+      "text": "With the motor running, pour in 480 ml fresh orange juice (about 6 oranges) and 3 tbsp lemon juice and process until the sugar dissolves, about 1 min."
+    },
+    {
+      "title": "Strain",
+      "text": "Strain into a bowl, cover and chill in the freezer until very cold (about 4 °C), 30-60 min; do not let it freeze."
+    },
+    {
+      "title": "Whip",
+      "text": "Whip 160 ml cold double cream in a second bowl to soft peaks."
+    },
+    {
+      "title": "Combine",
+      "text": "Whisking constantly, pour the cold juice in a steady stream down the side of the bowl into the cream."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn at once until like soft-serve, 25-30 min."
+    },
+    {
+      "title": "Freeze",
+      "text": "Transfer to a container, press cling film on the surface and freeze until firm, at least 3 h."
+    },
+    {
+      "title": "Serve",
+      "text": "Let stand a few minutes to soften before scooping; serve with orange segments."
+    }
+  ],
+  "tips": [
+    "Do not let the juice mixture freeze solid before churning, or it will not combine smoothly with the cream",
+    "Keep the cream very cold until the moment you combine it with the juice for the best texture",
+    "Serve with fresh orange segments for a vibrant, citrusy finish"
+  ],
+  "storage": "Keep frozen; let stand a few minutes to soften before scooping.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 259,
+    "protein_g": 1.4,
+    "carbs_g": 43.4,
+    "sugar_g": 41.2,
+    "free_sugar_g": 40.4,
+    "fat_g": 9.8,
+    "satfat_g": 6.2,
+    "salt_g": 0.14,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sherbet-basic--orange.jpg",
+  "image_alt": "Pale orange sherbet scoops served in a dish with fresh orange segments.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

@@ -347,6 +347,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cod-baked-in-parchment-vegetables-lemon-dill | En papillote | Classic | 4 | 6 |
 | coffee-bean-pots-de-creme | Pot de crème | Coffee | 1 | 3 |
 | coffee-frozen-yoghurt | Frozen yogurt | Coffee | 1 | 3 |
+| coffee-parfait-glace-dark-chocolate-sauce | Parfait (glacé) | Classic | 1 | 3 |
 | coffee-praline-crunch-ice-cream-cake | Ice-cream cake | Praline | 1 | 3 |
 | colcannon-kale-butter-well | Colcannon | Classic | 2 | 4 |
 | cold-somen | Somen | Classic | 3 | 5 |
@@ -530,16 +531,19 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fresh-herb-gravy | Gravy | Herb | 2 | 4 |
 | fresh-lime-custard-ice-cream | Custard-base (French) | Lime | 1 | 3 |
 | fresh-limeade-mashed-zest-mint | Limeade | Classic | 2 | 4 |
+| fresh-mango-sorbet-lemon | Sorbet | Mango | 1 | 3 |
 | fresh-mint-chocolate-cookie-philadelphia-ice-cream | Philadelphia (no egg) | Mint | 1 | 3 |
 | fresh-mint-dark-chocolate-custard-ice-cream | Custard-base (French) | Chocolate & mint | 2 | 4 |
 | fresh-mint-lemon-sorbet | Sorbet | Mint | 1 | 3 |
 | fresh-mint-parsley-sauce | Mint sauce | Classic | 1 | 3 |
 | fresh-orange-sherbet-creamy | Sherbet | Classic | 1 | 3 |
+| fresh-orange-sherbet-whipped-cream | Sherbet | Orange | 1 | 3 |
 | fresh-peach-custard-ice-cream | Custard-base (French) | Peach | 1 | 3 |
 | fresh-red-chilli-sambal | Sambal | Classic | 2 | 4 |
 | fried-brussels-sprouts-shallots-honey-balsamic | Brussels sprouts | Balsamic | 1 | 3 |
 | fried-mini-pizzas-tomato-mozzarella-basil | Pizza fritta/montanara | Classic | 2 | 4 |
 | frothy-whisked-matcha-green-tea | Matcha (whisked) | Classic | 2 | 4 |
+| frozen-smore-bars-torched-meringue | Frozen s'more | Classic | 1 | 3 |
 | frozen-yogurt-strained-tangy | Frozen yogurt | Classic | 1 | 3 |
 | fruit-almond-stollen-marzipan-core | Stollen | Classic | 2 | 4 |
 | fruit-juice-gummy-cubes | Gelatin gummies | Classic | 1 | 3 |
@@ -1186,6 +1190,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | shimeji-mushroom-larb-culantro-lime | Larb | Mushroom | 1 | 3 |
 | shredded-beef-chimichangas-fried | Chimichanga | Classic | 1 | 3 |
 | shrimp-linguine-lime-jalapeno | Long dried (spaghetti, linguine, bucatini) | Shrimp | 1 | 3 |
+| sicilian-lemon-granita-fork-scraped | Granita | Classic | 1 | 3 |
 | sicilian-style-thick-pan-pizza-onion-tomato-crisp-crumbs | Sicilian/sfincione | Classic | 2 | 4 |
 | sigeumchi-namul-sesame-spinach | Namul | Spinach (sigeumchi) | 2 | 4 |
 | signature-fudgy-brownies | Brownie (fudgy or cakey) | Classic | 2 | 4 |
@@ -1196,6 +1201,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | silky-dark-chocolate-pudding | Chocolate pudding | Classic | 2 | 4 |
 | silky-egg-custard-pie | Custard pie | Classic | 2 | 4 |
 | silky-hummus-tahini-lemon-cumin | Hummus | Classic | 3 | 5 |
+| silky-pistachio-gelato-steeped-nut-custard | Gelato | Pistachio | 1 | 3 |
 | silky-potato-leek-soup-chives-crispy-leeks | Potato-leek | Classic | 3 | 5 |
 | silky-rice-congee-ginger-crispy-shallots-spring-onion | Congee/porridge | Classic | 3 | 5 |
 | simit-turkish-sesame-rings | Simit | Classic | 1 | 3 |
@@ -1381,6 +1387,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | toasted-coconut-cream-pie | Cream pie (banana, coconut) | Coconut | 2 | 4 |
 | toasted-coconut-custard-ice-cream | Custard-base (French) | Coconut | 1 | 3 |
 | toasted-coconut-lychee-lime-granita | Granita | Coconut, lychee & lime | 1 | 3 |
+| toasted-cornflake-milk-soft-serve-crunch | Cornflake milk ice cream | Classic | 1 | 3 |
 | toasted-farro-olive-oil-parsley | Farro | Classic | 2 | 4 |
 | toasted-marshmallow-brownies | Brownie (fudgy or cakey) | Marshmallow | 1 | 3 |
 | toasted-pecan-buttermilk-pancakes | Pancakes (American) | Pecan | 1 | 3 |

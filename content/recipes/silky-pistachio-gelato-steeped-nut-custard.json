@@ -1,0 +1,149 @@
+{
+  "slug": "silky-pistachio-gelato-steeped-nut-custard",
+  "title": "Silky Pistachio Gelato from Steeped Nut Custard",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "gelato",
+  "dish_title": "Gelato",
+  "flavour": "Pistachio",
+  "flavour_order": 2,
+  "access": "premium",
+  "summary": "A luxuriously smooth pistachio gelato with a velvety texture created by steeping ground pistachios in warm milk.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor",
+    "large saucepan",
+    "fine sieve lined with 3 layers of muslin",
+    "2 large bowls",
+    "small bowl",
+    "whisk",
+    "silicone spatula",
+    "digital thermometer",
+    "ice cream maker",
+    "freezer container"
+  ],
+  "ingredients": [
+    {
+      "qty": 320,
+      "unit": "g",
+      "item": "shelled unsalted pistachios, plus a few chopped to serve"
+    },
+    {
+      "qty": 830,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "qty": 60,
+      "unit": "ml",
+      "item": "whole milk, for the cornflour"
+    },
+    {
+      "qty": 150,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "qty": 80,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "qty": 80,
+      "unit": "ml",
+      "item": "glucose syrup or light corn syrup"
+    },
+    {
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "qty": 13,
+      "unit": "g",
+      "item": "cornflour (about 5 tsp)"
+    },
+    {
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Grind",
+      "text": "Grind 320 g shelled unsalted pistachios finely in a food processor, about 20 s."
+    },
+    {
+      "title": "Heat",
+      "text": "Heat 830 ml whole milk, 150 g sugar, 80 ml double cream, 80 ml glucose syrup and ¼ tsp fine salt in a large saucepan over medium-high until small bubbles appear at the edge, 5-7 min."
+    },
+    {
+      "title": "Steep",
+      "text": "Off heat, stir in the ground pistachios, cover and steep for 1 h."
+    },
+    {
+      "title": "Strain",
+      "text": "Strain through a muslin-lined sieve into a bowl, pressing hard. Gather the muslin and squeeze out the remaining liquid; discard the pulp."
+    },
+    {
+      "title": "Custard",
+      "text": "Mix 13 g cornflour with 60 ml whole milk. Return pistachio milk to the pan, whisk in 5 large egg yolks, and cook over medium, stirring and scraping, until it reaches 88 °C, 4-6 min."
+    },
+    {
+      "title": "Thicken",
+      "text": "Whisk in the cornflour mixture and stir 30 s until thickened. Pour into a clean bowl, cool 20 min, then chill over iced salted water, stirring, until 4 °C, about 1.5 h."
+    },
+    {
+      "title": "Churn",
+      "text": "Whisk and churn until like thick soft-serve, 15-30 min."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pack into a container, pressing out air, and freeze until firm, about 6 h."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve with chopped pistachios."
+    }
+  ],
+  "tips": [
+    "Strain the mixture through muslin carefully to avoid any gritty particles in the final gelato",
+    "Chill the custard mixture to exactly 4 °C before churning for the smoothest result",
+    "If the frozen gelato becomes very hard, soften it in the fridge for 1-2 h before scooping",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep frozen in an airtight container; if frozen solid, soften in the fridge for 1-2 h before scooping.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 485,
+    "protein_g": 14.0,
+    "carbs_g": 48.3,
+    "sugar_g": 38.5,
+    "free_sugar_g": 29.3,
+    "fat_g": 28.5,
+    "satfat_g": 7.7,
+    "salt_g": 0.35,
+    "fibre_g": 4.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "gelato-basic--pistachio.jpg",
+  "image_alt": "Three scoops of pale green pistachio gelato topped with chopped pistachios.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

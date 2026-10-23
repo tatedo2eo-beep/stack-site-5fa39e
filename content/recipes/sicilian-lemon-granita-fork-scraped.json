@@ -1,0 +1,105 @@
+{
+  "slug": "sicilian-lemon-granita-fork-scraped",
+  "title": "Sicilian-Style Lemon Granita",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "granita",
+  "dish_title": "Granita",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Zesty, refreshing lemon granita made from fresh lemon juice and scraped into crystalline flakes, intensely bright and thirst-quenching.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "sharp knife",
+    "food processor",
+    "fine sieve",
+    "large jug",
+    "shallow metal tin (about 23 x 33 cm)",
+    "fork"
+  ],
+  "ingredients": [
+    {
+      "qty": 7,
+      "unit": "pc",
+      "item": "lemons"
+    },
+    {
+      "qty": 480,
+      "unit": "ml",
+      "item": "water, divided"
+    },
+    {
+      "qty": 200,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prep",
+      "text": "Put the metal tin in the freezer. Cut the peel and white pith off 7 lemons, chop the flesh and remove the seeds."
+    },
+    {
+      "title": "Process",
+      "text": "Process the lemon flesh with 120 ml water, 200 g sugar and ⅛ tsp fine salt until very smooth, about 1 min."
+    },
+    {
+      "title": "Strain",
+      "text": "Strain into a jug, pressing hard; discard solids. Stir in the remaining 360 ml water and taste to ensure the mixture is bright, sweet and sharp."
+    },
+    {
+      "title": "Freeze",
+      "text": "Pour into the cold tin and freeze on a flat shelf."
+    },
+    {
+      "title": "Rake",
+      "text": "After 45 min, rake the frozen edges into the middle with a fork. Repeat every 30 min until fluffy, separate crystals form with no liquid remaining, 3-4 h total, or freeze solid overnight and scrape into flakes."
+    },
+    {
+      "title": "Serve",
+      "text": "Scrape again just before serving into chilled glasses."
+    }
+  ],
+  "tips": [
+    "Rake the granita every 30 minutes to create evenly sized ice crystals throughout",
+    "Taste the mixture after straining and adjust if needed so it is bright, sweet and sharp",
+    "Serve immediately in chilled glasses for the best granular texture"
+  ],
+  "storage": "Serve immediately after scraping, or freeze uncovered and scrape again just before serving.",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 141,
+    "protein_g": 0.2,
+    "carbs_g": 37.1,
+    "sugar_g": 34.7,
+    "free_sugar_g": 34.7,
+    "fat_g": 0.1,
+    "satfat_g": 0.0,
+    "salt_g": 0.13,
+    "fibre_g": 0.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "granita-basic.jpg",
+  "image_alt": "A glass of fluffy, separated lemon ice crystals.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

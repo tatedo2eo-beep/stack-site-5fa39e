@@ -1,0 +1,158 @@
+{
+  "slug": "toasted-cornflake-milk-soft-serve-crunch",
+  "title": "Toasted Cornflake Milk Soft Serve with Cornflake Crunch",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "cornflake-milk-ice-cream",
+  "dish_title": "Cornflake milk ice cream",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Creamy cornflake-infused soft serve with a toasted grain flavour, topped with crunchy caramelised cornflake shards.",
+  "servings": 6,
+  "prep_min": 30,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "baking tray lined with baking paper",
+    "medium saucepan",
+    "fine sieve",
+    "2 medium bowls",
+    "whisk",
+    "silicone spatula",
+    "digital thermometer",
+    "ice cream maker"
+  ],
+  "ingredients": [
+    {
+      "group": "Ice cream",
+      "qty": 100,
+      "unit": "g",
+      "item": "cornflakes"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 360,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 100,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 30,
+      "unit": "g",
+      "item": "light brown sugar"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Crunch",
+      "qty": 30,
+      "unit": "g",
+      "item": "cornflakes"
+    },
+    {
+      "group": "Crunch",
+      "qty": 15,
+      "unit": "g",
+      "item": "butter, melted"
+    },
+    {
+      "group": "Crunch",
+      "qty": 12,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast",
+      "text": "Spread 100 g cornflakes on a baking tray lined with baking paper and bake at 150 °C for 15 min until lightly toasted; cool."
+    },
+    {
+      "title": "Crunch",
+      "text": "Toss 30 g cornflakes with 15 g melted butter and 1 tbsp sugar, bake at 150 °C for 10-12 min until golden and crisp; cool and crush lightly."
+    },
+    {
+      "title": "Infuse",
+      "text": "Heat 480 ml double cream and 360 ml whole milk in a saucepan until steaming. Take off the heat, stir in the toasted 100 g cornflakes and steep for 20 min."
+    },
+    {
+      "title": "Strain",
+      "text": "Strain, pressing the flakes with a ladle to wring out the milk but not forcing the mush through; discard flakes."
+    },
+    {
+      "title": "Custard",
+      "text": "Return the cornflake cream to the pan with 100 g sugar, 30 g light brown sugar and ¼ tsp fine salt; warm until dissolved. Whisk 6 large egg yolks in a bowl, whisk in a ladle of the hot cream, then pour back into the pan. Cook over medium-low, stirring constantly, until it coats the spoon and reaches 77 °C."
+    },
+    {
+      "title": "Chill",
+      "text": "Strain into a clean bowl, cool, cover and chill for at least 4 h or overnight."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn until thick."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve straight away for soft-serve texture, piped or swirled into bowls and topped with the crunch. Alternatively, freeze until firm."
+    }
+  ],
+  "tips": [
+    "Toast the cornflakes lightly to develop a warm, toasted flavour without browning them too much",
+    "Press the cornflakes with a ladle rather than forcing them through the sieve to keep the custard smooth",
+    "Serve the soft serve immediately for the best texture, or freeze and serve later as a firmer ice cream"
+  ],
+  "storage": "Keep the chilled custard covered for up to 24 h before churning; serve soft serve immediately or freeze for later.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 550,
+    "protein_g": 8.5,
+    "carbs_g": 47.5,
+    "sugar_g": 31.1,
+    "free_sugar_g": 25.5,
+    "fat_g": 37.4,
+    "satfat_g": 22.5,
+    "salt_g": 0.78,
+    "fibre_g": 0.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tosi-cereal-milk-ice-cream-advanced.jpg",
+  "image_alt": "A bowl of pale golden soft serve topped with crunchy toasted cornflake pieces.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

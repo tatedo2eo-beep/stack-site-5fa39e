@@ -1,0 +1,162 @@
+{
+  "slug": "frozen-smore-bars-torched-meringue",
+  "title": "Frozen S'more Bars with Torched Marshmallow Meringue",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "frozen-smore",
+  "dish_title": "Frozen s'more",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A stunning layered frozen treat with a chocolate fudge base, vanilla ice cream centre, and a torched marshmallow meringue top.",
+  "servings": 8,
+  "prep_min": 45,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "20 cm square tin",
+    "baking paper",
+    "medium bowl",
+    "microwave-safe bowl",
+    "offset spatula",
+    "8 wooden lolly sticks",
+    "heatproof bowl set over a saucepan of simmering water",
+    "digital thermometer",
+    "stand mixer with whisk",
+    "kitchen blowtorch"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 120,
+      "unit": "g",
+      "item": "digestive biscuits, finely crushed"
+    },
+    {
+      "group": "Base",
+      "qty": 55,
+      "unit": "g",
+      "item": "butter, melted"
+    },
+    {
+      "group": "Base",
+      "qty": 12,
+      "unit": "g",
+      "item": "sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Fudge layer",
+      "qty": 115,
+      "unit": "g",
+      "item": "dark chocolate (about 70%), finely chopped"
+    },
+    {
+      "group": "Fudge layer",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Fudge layer",
+      "qty": 60,
+      "unit": "ml",
+      "item": "golden syrup"
+    },
+    {
+      "group": "Ice cream",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "vanilla ice cream, slightly softened"
+    },
+    {
+      "group": "Marshmallow meringue",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large egg whites"
+    },
+    {
+      "group": "Marshmallow meringue",
+      "qty": 200,
+      "unit": "g",
+      "item": "sugar"
+    },
+    {
+      "group": "Marshmallow meringue",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Marshmallow meringue",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Base",
+      "text": "Mix 120 g finely crushed digestive biscuits, 55 g melted butter and 1 tbsp sugar until like wet sand, press firmly into a 20 cm square tin lined with baking paper and bake at 160 °C for about 12 min until fragrant and lightly browned; cool completely."
+    },
+    {
+      "title": "Fudge",
+      "text": "Microwave 115 g finely chopped dark chocolate (about 70%), 120 ml double cream and 60 ml golden syrup in 20 s bursts, stirring, until smooth, about 1 min. Cool to room temperature, 30 min, then pour over the base and freeze until firm, 30 min."
+    },
+    {
+      "title": "Layer",
+      "text": "Spread 1000 ml slightly softened vanilla ice cream evenly on top, cover and freeze until very firm, at least 4 h."
+    },
+    {
+      "title": "Stick",
+      "text": "Lift out, cut into 8 bars with a hot knife, push a stick into the end of each, and refreeze on a lined tray for 30 min."
+    },
+    {
+      "title": "Meringue",
+      "text": "Whisk 4 large egg whites, 200 g sugar and ⅛ tsp fine salt in a heatproof bowl over simmering water until the sugar dissolves and it reaches 71 °C. Move to a mixer and whisk on high until thick, glossy and cool, 5-7 min; beat in 1 tsp vanilla."
+    },
+    {
+      "title": "Torch",
+      "text": "Working quickly, spread a thick layer of meringue over the top and sides of each bar. Torch until deep golden and charred in spots."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve at once, or freeze uncovered and torch again just before serving."
+    }
+  ],
+  "tips": [
+    "Use a hot knife to cut the frozen bars cleanly without them cracking or tearing",
+    "Keep the blowtorch flame moving and stay away from the wooden sticks to prevent charring them",
+    "Work quickly when spreading meringue to prevent the frozen bars from melting during assembly"
+  ],
+  "storage": "Keep frozen; torch the meringue again just before serving if previously frozen after torching.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 542,
+    "protein_g": 6.8,
+    "carbs_g": 67.4,
+    "sugar_g": 55.7,
+    "free_sugar_g": 55.1,
+    "fat_g": 27.7,
+    "satfat_g": 16.5,
+    "salt_g": 0.5,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ansel-frozen-s-more-advanced.jpg",
+  "image_alt": "A frozen bar with a dark chocolate base, vanilla ice cream filling, and a charred meringue top.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

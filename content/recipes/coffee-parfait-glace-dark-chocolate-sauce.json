@@ -1,0 +1,166 @@
+{
+  "slug": "coffee-parfait-glace-dark-chocolate-sauce",
+  "title": "Coffee Parfait Glacé with Dark Chocolate Sauce",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "parfait-glace",
+  "dish_title": "Parfait (glacé)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A coffee-infused frozen mousse with an airy, cloud-like texture, served with a rich dark chocolate sauce.",
+  "servings": 8,
+  "prep_min": 35,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "900 g loaf tin (about 22 x 11 cm)",
+    "cling film",
+    "stand mixer with whisk",
+    "medium bowl",
+    "small saucepan",
+    "digital thermometer",
+    "silicone spatula",
+    "heatproof bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Parfait",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large egg whites, at room temperature"
+    },
+    {
+      "group": "Parfait",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double cream, cold"
+    },
+    {
+      "group": "Parfait",
+      "qty": 100,
+      "unit": "g",
+      "item": "sugar, for the syrup"
+    },
+    {
+      "group": "Parfait",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water, for the syrup"
+    },
+    {
+      "group": "Parfait",
+      "qty": 25,
+      "unit": "g",
+      "item": "sugar, for the whites"
+    },
+    {
+      "group": "Parfait",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "instant espresso powder"
+    },
+    {
+      "group": "Parfait",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "warm water"
+    },
+    {
+      "group": "Parfait",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "group": "Chocolate sauce",
+      "qty": 100,
+      "unit": "g",
+      "item": "dark chocolate (about 70%), chopped"
+    },
+    {
+      "group": "Chocolate sauce",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double cream"
+    },
+    {
+      "group": "Chocolate sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "golden syrup"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prep",
+      "text": "Line a 900 g loaf tin (about 22 x 11 cm) with cling film, leaving 8 cm overhang, and put in the freezer. Put 3 large egg whites in the mixer bowl."
+    },
+    {
+      "title": "Cream",
+      "text": "Whip 240 ml cold double cream to soft peaks in a medium bowl; chill."
+    },
+    {
+      "title": "Espresso",
+      "text": "Dissolve 2 tbsp instant espresso powder in 1 tbsp warm water."
+    },
+    {
+      "title": "Syrup",
+      "text": "In a small saucepan, warm 100 g sugar and 60 ml water over low without stirring until dissolved, about 4 min. Raise to medium-high and boil toward 114 °C."
+    },
+    {
+      "title": "Meringue",
+      "text": "When the syrup hits 99 °C, start whisking the whites on medium until frothy, 40 s. Add 1 tsp of the 25 g sugar, beat on high to soft peaks, about 2 min, and gradually add the rest. On medium-high, pour the 114 °C syrup in a thin stream down the side of the bowl and beat until glossy, doubled and cooled to room temperature, 4-5 min."
+    },
+    {
+      "title": "Coffee",
+      "text": "Beat in the coffee and 1 tsp vanilla. Stir in a third of the cream, then fold in the rest gently."
+    },
+    {
+      "title": "Freeze",
+      "text": "Spread in the tin, cover with the overhang and freeze until firm, at least 8 h."
+    },
+    {
+      "title": "Sauce",
+      "text": "Heat 120 ml double cream and 1 tbsp golden syrup to steaming, pour over 100 g finely chopped dark chocolate (about 70%) in a heatproof bowl, leave 2 min and stir smooth."
+    },
+    {
+      "title": "Serve",
+      "text": "Turn out the parfait, peel off film, slice with a hot knife and serve with the sauce."
+    }
+  ],
+  "tips": [
+    "Use pasteurised eggs to ensure safety when the egg whites are only partly cooked by the syrup",
+    "Pour the hot syrup in a thin, steady stream to cook the whites evenly without scrambling them",
+    "Serve the sauce warm or at room temperature alongside hot slices for a delightful contrast"
+  ],
+  "storage": "Keep frozen until serving.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 306,
+    "protein_g": 3.7,
+    "carbs_g": 25.1,
+    "sugar_g": 22.1,
+    "free_sugar_g": 20.7,
+    "fat_g": 21.6,
+    "satfat_g": 13.4,
+    "salt_g": 0.1,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "parfait-glace-basic.jpg",
+  "image_alt": "A slice of coffee-coloured frozen parfait topped with glossy dark chocolate sauce.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
