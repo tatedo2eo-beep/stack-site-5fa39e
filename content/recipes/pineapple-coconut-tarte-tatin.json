@@ -1,0 +1,149 @@
+{
+  "slug": "pineapple-coconut-tarte-tatin",
+  "title": "Pineapple and Coconut Tarte Tatin",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "tarte-tatin",
+  "dish_title": "Tarte Tatin",
+  "flavour": "Pineapple & coconut",
+  "flavour_order": 104,
+  "access": "premium",
+  "base_recipe": "classic-apple-tarte-tatin",
+  "changes_from_base": "Fresh pineapple rings in place of apples, cooked in a dry caramel, with toasted coconut scattered over after turning out.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Classic Tatin made with fresh pineapple rings in deep caramel, finished with toasted coconut.",
+  "servings": 8,
+  "prep_min": 35,
+  "cook_min": 55,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor or mixing bowl",
+    "cling film",
+    "rolling pin",
+    "small dry frying pan",
+    "23 cm ovenproof heavy frying pan or Tatin tin",
+    "wooden spoon",
+    "small sharp knife",
+    "large serving plate",
+    "2 tea towels"
+  ],
+  "ingredients": [
+    {
+      "group": "Pineapple",
+      "qty": 150,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Pineapple",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large ripe pineapple, peeled, cored and cut into 6 mm rings"
+    },
+    {
+      "group": "Pineapple",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter, in small pieces"
+    },
+    {
+      "group": "Pineapple",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsweetened desiccated coconut"
+    },
+    {
+      "group": "Pastry",
+      "qty": 170,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 25,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 110,
+      "unit": "g",
+      "item": "cold unsalted butter, diced"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, beaten"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry first",
+      "text": "combine the flour, icing sugar and salt, rub in the butter, then stir in the egg. Shape into a flat disc, wrap and chill 30 min."
+    },
+    {
+      "title": "Coconut",
+      "text": "toast it in the small dry pan over medium-low heat, stirring, for 2-3 min until light gold. Tip it out at once so it does not scorch."
+    },
+    {
+      "title": "Melt the sugar",
+      "text": "heat the oven to 190 °C (170 °C fan). Warm the sugar in the Tatin pan over low heat, stirring once it starts to liquefy, until it is a pale gold syrup. Take it off the heat."
+    },
+    {
+      "title": "Layer",
+      "text": "lay the pineapple rings in the syrup, overlapping them a little, and dot with the butter."
+    },
+    {
+      "title": "Cook down",
+      "text": "set over medium heat for about 20 min, until the caramel is deep amber and the juices have nearly gone. Pineapple is very juicy, so expect bubbling; keep going until it turns thick and syrupy."
+    },
+    {
+      "title": "Bake",
+      "text": "roll the pastry a little wider than the pan, cover the fruit and tuck in the edge. Bake 25-30 min until golden and rest 10 min."
+    },
+    {
+      "title": "Invert",
+      "text": "free the edge with the knife, then turn the tart out onto the plate with the help of tea towels. Scatter the coconut over and serve warm. Add the coconut after flipping so it stays crisp."
+    }
+  ],
+  "tips": [
+    "Use fresh pineapple; tinned rings release too much syrup and stay pale.",
+    "A ripe pineapple smells sweet at the base and a leaf pulls out easily.",
+    "Cut the rings evenly so they cook at the same rate.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days. Sprinkle fresh coconut on before serving if the first lot has softened.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 394,
+    "protein_g": 4.0,
+    "carbs_g": 52.1,
+    "sugar_g": 32.0,
+    "free_sugar_g": 21.8,
+    "fat_g": 20.1,
+    "satfat_g": 13.0,
+    "salt_g": 0.22,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A pineapple tarte Tatin with overlapping caramelised rings, scattered with toasted coconut."
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "apricot-tarte-tatin-crisp-pastry",
+  "title": "Apricot Tarte Tatin with Crisp Pastry",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "tarte-tatin",
+  "dish_title": "Tarte Tatin",
+  "flavour": "Apricot",
+  "flavour_order": 106,
+  "access": "premium",
+  "base_recipe": "classic-apple-tarte-tatin",
+  "changes_from_base": "Apricot halves in place of apples, an egg-free crisp pastry, and the fruit is cooled and the tart chilled before a hot, fast bake.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Classic Tatin made with apricot halves and a crisp, egg-free pastry, chilled first and then baked hot and fast.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor",
+    "cling film",
+    "rolling pin",
+    "23 cm cast-iron frying pan",
+    "small sharp knife",
+    "large serving plate",
+    "oven gloves"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 150,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 4,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 90,
+      "unit": "g",
+      "item": "cold unsalted butter, diced"
+    },
+    {
+      "group": "Pastry",
+      "qty": 2.5,
+      "unit": "tbsp",
+      "item": "iced water",
+      "note": "add the last bit only if needed"
+    },
+    {
+      "group": "Apricots",
+      "qty": 1000,
+      "unit": "g",
+      "item": "ripe apricots, halved and stoned"
+    },
+    {
+      "group": "Apricots",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Apricots",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Rub in",
+      "text": "process the flour, sugar, salt and butter for about 5 s, until like coarse crumbs. Add the water and pulse briefly until it looks like small peas, not a ball."
+    },
+    {
+      "title": "Rest the dough",
+      "text": "tip it out, knead lightly until it holds, pat into a 15 cm disc, wrap and chill at least 20 min."
+    },
+    {
+      "title": "Apricots",
+      "text": "melt the butter and sugar in the pan, then arrange the apricot halves in rings, cut side up. Cook over moderate heat until the sugar turns a golden caramel, watching so it does not burn. Leave to cool completely. Cooling the fruit stops the caramel melting the butter in the pastry."
+    },
+    {
+      "title": "Lid",
+      "text": "roll the pastry to a 25 cm round, lay it over the cold fruit, trim the excess and tuck the edge down. Chill 30 min."
+    },
+    {
+      "title": "Bake",
+      "text": "heat the oven to 220 °C (200 °C fan). Prick the pastry all over with the knife tip and bake 20-25 min, until crisp and golden. Pricking lets steam escape so the pastry stays flat and crisp."
+    },
+    {
+      "title": "Turn out",
+      "text": "leave 5 min, then flip onto the plate. If any apricots stick, lift them off and put them back in place."
+    }
+  ],
+  "tips": [
+    "Do not overwork the dough; small lumps of butter make it flaky.",
+    "Apricots that are ripe but firm keep their shape best.",
+    "Use a cast-iron pan if you have one, as it holds heat evenly.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day. Cover and keep in the fridge for up to 2 days; reheat in a 160 °C oven for 10 min.",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 283,
+    "protein_g": 3.7,
+    "carbs_g": 40.4,
+    "sugar_g": 23.9,
+    "free_sugar_g": 13.0,
+    "fat_g": 12.8,
+    "satfat_g": 7.8,
+    "salt_g": 0.1,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "An apricot tarte Tatin with rings of caramelised apricot halves on a crisp pastry round."
+}

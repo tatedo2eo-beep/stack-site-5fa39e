@@ -1,0 +1,156 @@
+{
+  "slug": "banana-walnut-tarte-tatin-brown-sugar",
+  "title": "Banana and Walnut Tarte Tatin with Brown Sugar",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "tarte-tatin",
+  "dish_title": "Tarte Tatin",
+  "flavour": "Banana & walnut",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "classic-apple-tarte-tatin",
+  "changes_from_base": "Bananas and toasted walnuts in place of apples, set in a quick butter and brown sugar sauce that needs only 5 min on the hob.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Classic Tatin made quicker with bananas and toasted walnuts in a buttery brown sugar sauce.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor or mixing bowl",
+    "cling film",
+    "rolling pin",
+    "23 cm ovenproof heavy frying pan or Tatin tin",
+    "wooden spoon",
+    "small sharp knife",
+    "large serving plate",
+    "2 tea towels"
+  ],
+  "ingredients": [
+    {
+      "group": "Topping",
+      "qty": 100,
+      "unit": "g",
+      "item": "walnuts, roughly chopped"
+    },
+    {
+      "group": "Topping",
+      "qty": 85,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Topping",
+      "qty": 150,
+      "unit": "g",
+      "item": "light brown soft sugar"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large ripe but firm bananas"
+    },
+    {
+      "group": "Pastry",
+      "qty": 170,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 25,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 110,
+      "unit": "g",
+      "item": "cold unsalted butter, diced"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, beaten"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the pastry",
+      "text": "whizz or rub the flour, icing sugar, salt and butter to crumbs, add the egg and bring it together. Wrap the disc and chill 30 min."
+    },
+    {
+      "title": "Toast",
+      "text": "heat the oven to 190 °C (170 °C fan). Dry-fry the walnuts in the pan over medium heat, stirring, for about 2 min until fragrant, then tip onto a plate."
+    },
+    {
+      "title": "Brown sugar base",
+      "text": "melt the butter in the same pan, stir in the brown sugar and salt until smooth and bubbling, then take it off the heat and scatter the walnuts over."
+    },
+    {
+      "title": "Bananas",
+      "text": "peel them, halve lengthwise, then cut each half in two. Lay them rounded side down in snug circles on the nuts. Ripe but firm bananas, still a little green at the stem, hold together best."
+    },
+    {
+      "title": "Simmer",
+      "text": "return the pan to medium heat for 5 min, until the sauce bubbles up round the fruit."
+    },
+    {
+      "title": "Top and bake",
+      "text": "roll the pastry 2 cm wider than the pan, drape it over and tuck in the edge. Bake 25-30 min until golden, then leave 10 min."
+    },
+    {
+      "title": "Flip",
+      "text": "loosen the edge with the knife, cover with the plate and, using tea towels, turn it over in one go. Serve warm, with vanilla ice cream if you like. Any sauce left in the pan can be spooned back over the top."
+    }
+  ],
+  "tips": [
+    "Very ripe, spotty bananas turn to mush, so save those for banana bread.",
+    "Toast the walnuts only until they smell nutty; they keep cooking in the oven.",
+    "Cut the bananas just before using so they do not darken.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best eaten warm on the day; bananas darken as they stand. Cover and chill leftovers for up to 1 day.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 506,
+    "protein_g": 6.1,
+    "carbs_g": 60.1,
+    "sugar_g": 32.7,
+    "free_sugar_g": 21.2,
+    "fat_g": 29.0,
+    "satfat_g": 13.6,
+    "salt_g": 0.32,
+    "fibre_g": 3.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A banana tarte Tatin with caramelised banana pieces and walnuts in brown sugar sauce, with a scoop of ice cream."
+}

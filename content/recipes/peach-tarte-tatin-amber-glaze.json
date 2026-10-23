@@ -1,0 +1,165 @@
+{
+  "slug": "peach-tarte-tatin-amber-glaze",
+  "title": "Peach Tarte Tatin with Amber Glaze",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "tarte-tatin",
+  "dish_title": "Tarte Tatin",
+  "flavour": "Peach",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "classic-apple-tarte-tatin",
+  "changes_from_base": "Peaches in place of apples; the caramel starts from butter and sugar in the pan, and the fruit juice is drained after baking and boiled into a brushed glaze.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "The classic upside-down Tatin made with peaches, with their pan juices boiled down into a dark glaze brushed on at the end.",
+  "servings": 8,
+  "prep_min": 35,
+  "cook_min": 50,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor or mixing bowl",
+    "cling film",
+    "rolling pin",
+    "baking paper",
+    "baking sheet",
+    "23 cm ovenproof heavy frying pan or Tatin tin",
+    "wire rack",
+    "large flat plate",
+    "heatproof bowl",
+    "pastry brush"
+  ],
+  "ingredients": [
+    {
+      "group": "Peaches",
+      "qty": 1000,
+      "unit": "g",
+      "item": "ripe but firm peaches (about 7), peeled, stoned and quartered"
+    },
+    {
+      "group": "Peaches",
+      "qty": 40,
+      "unit": "g",
+      "item": "soft unsalted butter"
+    },
+    {
+      "group": "Peaches",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Peaches",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 160,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 12,
+      "unit": "g",
+      "item": "icing sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 100,
+      "unit": "g",
+      "item": "cold unsalted butter, diced"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg yolk"
+    },
+    {
+      "group": "Pastry",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "iced water"
+    },
+    {
+      "group": "Pastry",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar, for the crust",
+      "note": "about 2 tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dough",
+      "text": "rub or pulse the flour, icing sugar, salt and diced butter to fine crumbs. Mix the yolk with the iced water, stir it in until the dough clumps, then flatten into a disc, wrap and chill 30 min."
+    },
+    {
+      "title": "Shape",
+      "text": "roll the dough on baking paper to a 25 cm round, fold the edge under to make a 23 cm round with a slight rim, cut 3 short slits in the middle and chill on the sheet. Heat the oven to 200 °C (180 °C fan)."
+    },
+    {
+      "title": "Pan",
+      "text": "spread the soft butter over the base of the pan, scatter the 100 g sugar evenly on top and sprinkle with the salt. Pack the peach quarters in a ring around the edge, then squeeze the rest into the centre."
+    },
+    {
+      "title": "Caramelise",
+      "text": "cook over high heat, without stirring, for 8-12 min, until the pink juice turns deep amber. Move the pan around the burner if one side browns faster. Peaches give off more juice than apples, so the colour change is your guide, not the clock."
+    },
+    {
+      "title": "Bake",
+      "text": "off the heat, lay the pastry on top so it sits inside the rim. Brush it with water, scatter over the crust sugar and bake 30-35 min, until the crust is a rich brown. Cool on the rack for 20 min."
+    },
+    {
+      "title": "Drain",
+      "text": "put the plate on the crust, hold it firmly and tip the pan over the heatproof bowl so the juice runs out. Set the pan back down and give it a shake to settle the fruit, then turn the tart out onto the plate."
+    },
+    {
+      "title": "Glaze",
+      "text": "pour the juice back into the hot pan and boil hard, stirring, for 2-3 min until dark and syrupy. Cool 2-3 min until it is like runny honey, brush it over the peaches and leave 20 min before slicing. Watch closely; it goes from dark to burnt in seconds."
+    }
+  ],
+  "tips": [
+    "Pick peaches that give only slightly when pressed; soft ones collapse in the pan.",
+    "To peel peaches easily, dip them in boiling water for 30 s, then into iced water.",
+    "Draining the juice keeps the crust crisp under the fruit.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day. Cover and keep at room temperature for up to 1 day; warm slices in a 160 °C oven for 10 min.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 318,
+    "protein_g": 3.7,
+    "carbs_g": 43.9,
+    "sugar_g": 27.1,
+    "free_sugar_g": 16.6,
+    "fat_g": 15.3,
+    "satfat_g": 9.2,
+    "salt_g": 0.28,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A turned-out peach tarte Tatin with glossy amber peach quarters packed on a golden crust."
+}

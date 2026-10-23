@@ -26,6 +26,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | apfelstrudel-filo-apple-strudel | Apfelstrudel | Classic | 1 | 3 |
 | apple-grape-walnut-waldorf-salad | Waldorf | Classic | 3 | 5 |
 | apple-oat-crumble | Crumble | Classic | 2 | 4 |
+| apple-rosemary-tarte-tatin | Tarte Tatin | Rosemary | 1 | 3 |
+| apricot-tarte-tatin-crisp-pastry | Tarte Tatin | Apricot | 1 | 3 |
 | argentinian-parsley-oregano-chimichurri | Chimichurri | Classic | 2 | 4 |
 | arnold-palmer-layered-iced-tea-lemonade | Iced tea lemonade | Classic | 3 | 5 |
 | arroz-negro-squid-ink-rice-allioli | Arroz negro | Classic | 1 | 3 |
@@ -44,6 +46,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | banana-bread | Banana bread/quick breads | Classic | 2 | 4 |
 | banana-cream-pie | Cream pie (banana, coconut) | Classic | 2 | 4 |
 | banana-infused-cream-pie | Cream pie (banana, coconut) | Banana | 2 | 4 |
+| banana-walnut-tarte-tatin-brown-sugar | Tarte Tatin | Banana & walnut | 1 | 3 |
 | banoffee-pie | Banoffee | Classic | 1 | 4 |
 | basbousa-semolina-coconut-cake-almonds | Basbousa | Classic | 1 | 3 |
 | basil-pine-nut-pesto | Pesto | Classic | 2 | 4 |
@@ -688,10 +691,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | peach-ginger-shrub-cider-vinegar-soda | Shrubs | Peach | 2 | 4 |
 | peach-melba-poached-peaches-raspberry-sauce | Peach Melba | Classic | 2 | 4 |
 | peach-nectarine-galette | Galette/crostata | Classic | 2 | 4 |
+| peach-tarte-tatin-amber-glaze | Tarte Tatin | Peach | 1 | 3 |
 | peanut-butter-banana-smoothie-thick | Smoothies | Banana-peanut butter | 2 | 4 |
 | peanut-butter-cookies | Peanut butter | Classic | 3 | 5 |
 | peanut-butter-fudge-chopped-peanuts | Fudge | Peanut butter | 2 | 4 |
 | peanut-butter-swirl-brownies | Brownie (fudgy or cakey) | Peanut butter | 1 | 3 |
+| pear-tarte-tatin-dry-caramel | Tarte Tatin | Pear | 1 | 3 |
 | pear-upside-down-cake | Upside-down | Pear | 2 | 4 |
 | pearl-barley-with-mushrooms | Barley | Classic | 1 | 3 |
 | pearl-sugar-chouquettes | Chouquettes | Classic | 2 | 4 |
@@ -714,6 +719,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pickle-caper-tartar-sauce | Tartar sauce | Classic | 2 | 4 |
 | pimientos-de-padron-blistered-sea-salt | Pimientos de Padrón | Classic | 1 | 3 |
 | pinakbet-prawns-squash-bitter-melon | Pinakbet | Classic | 2 | 4 |
+| pineapple-coconut-tarte-tatin | Tarte Tatin | Pineapple & coconut | 1 | 3 |
 | pineapple-upside-down-cake | Upside-down | Pineapple | 2 | 4 |
 | pink-grapefruit-marmalade | Marmalade | Grapefruit | 2 | 4 |
 | pink-lemonade-raspberry-syrup | Lemonade | Pink | 2 | 4 |

@@ -1,0 +1,154 @@
+{
+  "slug": "apple-rosemary-tarte-tatin",
+  "title": "Apple and Rosemary Tarte Tatin",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "tarte-tatin",
+  "dish_title": "Tarte Tatin",
+  "flavour": "Rosemary",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "classic-apple-tarte-tatin",
+  "changes_from_base": "Fresh rosemary tossed through the apples; the apples sit in 2 layers on a dry caramel and are steamed under a lid before baking.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Classic apple Tatin with fresh rosemary, the apples packed in 2 layers and steamed under a lid before baking.",
+  "servings": 8,
+  "prep_min": 35,
+  "cook_min": 55,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor or mixing bowl",
+    "cling film",
+    "rolling pin",
+    "large bowl",
+    "23 cm ovenproof heavy frying pan or Tatin tin with a lid (or foil)",
+    "wooden spoon",
+    "large serving plate",
+    "oven gloves"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 190,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 25,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 150,
+      "unit": "g",
+      "item": "cold unsalted butter, diced"
+    },
+    {
+      "group": "Pastry",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cold water"
+    },
+    {
+      "group": "Apples",
+      "qty": 180,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Apples",
+      "qty": 1400,
+      "unit": "g",
+      "item": "Granny Smith apples (about 7 large), peeled, quartered and cored"
+    },
+    {
+      "group": "Apples",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "Apples",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "fresh rosemary leaves, finely chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crust",
+      "text": "pulse the flour, sugar and salt, add the butter and pulse until mostly blended. Beat the yolks with the water, add and pulse just until it starts to clump. Flatten, wrap and chill."
+    },
+    {
+      "title": "Syrup",
+      "text": "melt the sugar in the pan over medium-low heat, stirring once it starts to liquefy, until it is a clear caramel-coloured syrup. Remove from the heat."
+    },
+    {
+      "title": "Season",
+      "text": "toss the apple quarters with the melted butter and rosemary in the bowl."
+    },
+    {
+      "title": "Pack",
+      "text": "set a first ring of apples on the syrup cored side down, then a second layer on top cored side up, in tight circles."
+    },
+    {
+      "title": "Steam and boil",
+      "text": "cover and cook over medium heat for 5 min, then uncover and cook 10 min more. Leave to cool a little while the oven heats to 180 °C (160 °C fan). The lid softens the apples quickly; uncovering lets the juice cook off."
+    },
+    {
+      "title": "Seal",
+      "text": "roll the dough slightly wider than the pan, lay it on the apples and press the edge against the sides. Bake about 30-35 min, until lightly browned. Pressing the edge against the pan holds in the steam so the apples finish cooking."
+    },
+    {
+      "title": "Serve",
+      "text": "stand 10 min, then put the plate on top and flip it over quickly with oven gloves. Serve warm."
+    }
+  ],
+  "tips": [
+    "Chop the rosemary very finely so nobody bites into a tough needle.",
+    "Granny Smith apples keep their shape and their sharpness balances the caramel.",
+    "Add the second layer of apples firmly, as they shrink while cooking.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered at room temperature for up to 1 day or in the fridge for 3 days. Warm before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 439,
+    "protein_g": 3.7,
+    "carbs_g": 64.7,
+    "sugar_g": 41.3,
+    "free_sugar_g": 25.6,
+    "fat_g": 19.9,
+    "satfat_g": 12.1,
+    "salt_g": 0.2,
+    "fibre_g": 4.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "An apple tarte Tatin with deep amber apple quarters and flecks of chopped rosemary."
+}

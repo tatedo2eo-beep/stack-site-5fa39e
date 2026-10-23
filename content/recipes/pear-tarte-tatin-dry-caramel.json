@@ -1,0 +1,149 @@
+{
+  "slug": "pear-tarte-tatin-dry-caramel",
+  "title": "Pear Tarte Tatin with Dry Caramel",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "tarte-tatin",
+  "dish_title": "Tarte Tatin",
+  "flavour": "Pear",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "classic-apple-tarte-tatin",
+  "changes_from_base": "Pear halves in place of apple quarters; the caramel is made dry from sugar alone before the fruit goes in, with the butter dotted on top.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Classic Tatin made with pear halves, set like wheel spokes in a dry caramel and baked under sweet pastry.",
+  "servings": 8,
+  "prep_min": 35,
+  "cook_min": 50,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor or mixing bowl",
+    "cling film",
+    "rolling pin",
+    "mixing bowl",
+    "23 cm ovenproof heavy frying pan or Tatin tin",
+    "wooden spoon",
+    "small sharp knife",
+    "large serving plate",
+    "2 tea towels"
+  ],
+  "ingredients": [
+    {
+      "group": "Pears",
+      "qty": 6,
+      "unit": "pc",
+      "item": "large firm pears (about 1.3 kg), peeled, halved and cored"
+    },
+    {
+      "group": "Pears",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Pears",
+      "qty": 150,
+      "unit": "g",
+      "item": "granulated sugar"
+    },
+    {
+      "group": "Pears",
+      "qty": 55,
+      "unit": "g",
+      "item": "unsalted butter, in small pieces"
+    },
+    {
+      "group": "Pastry",
+      "qty": 170,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 25,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 110,
+      "unit": "g",
+      "item": "cold unsalted butter, diced"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, beaten"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pastry",
+      "text": "blend the flour, icing sugar and salt, work in the cold butter until sandy, then mix in the beaten egg until it holds. Press into a disc, wrap and chill at least 30 min."
+    },
+    {
+      "title": "Pears",
+      "text": "heat the oven to 190 °C (170 °C fan) with a shelf in the lower third. Turn the pear halves in the lemon juice in a bowl."
+    },
+    {
+      "title": "Caramel",
+      "text": "put the sugar in the dry pan over low heat. When the edges start to melt, stir gently until all of it has melted to a pale gold syrup, then take the pan off the heat. Stir only once the edges melt, or the sugar can turn grainy."
+    },
+    {
+      "title": "Arrange",
+      "text": "set the pear halves cut side up like wheel spokes, narrow ends to the middle, as tightly as you can, and fill the gap in the centre. Dot the butter over them."
+    },
+    {
+      "title": "Reduce",
+      "text": "cook over medium heat for 15-20 min, until the caramel is deep amber and the pear juice has almost gone. Pears hold a lot of water, so let it cook off fully or the tart will be runny."
+    },
+    {
+      "title": "Cover",
+      "text": "roll the pastry to a round 2 cm wider than the pan, lay it over the pears and tuck the edge down inside. Bake 25-30 min, until golden, then rest 10 min."
+    },
+    {
+      "title": "Unmould",
+      "text": "run the knife round the edge. Holding the plate and pan together with tea towels, flip them quickly and lift off the pan. Cool a few minutes, then slice."
+    }
+  ],
+  "tips": [
+    "Conference or Bosc pears that are still firm keep their shape best.",
+    "The lemon juice stops the cut pears turning brown while you make the caramel.",
+    "If the caramel is pale after 20 min, give it a few more minutes before adding the pastry.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered at room temperature for up to 1 day, or in the fridge for 2 days. Warm through before serving.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 398,
+    "protein_g": 3.7,
+    "carbs_g": 59.3,
+    "sugar_g": 35.4,
+    "free_sugar_g": 21.9,
+    "fat_g": 17.7,
+    "satfat_g": 10.9,
+    "salt_g": 0.21,
+    "fibre_g": 4.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A pear tarte Tatin with caramel-brown pear halves arranged like wheel spokes on a pastry base."
+}
