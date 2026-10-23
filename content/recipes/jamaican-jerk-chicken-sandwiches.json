@@ -1,0 +1,175 @@
+{
+  "slug": "jamaican-jerk-chicken-sandwiches",
+  "title": "Jamaican Jerk Chicken Sandwiches",
+  "category": "burgers-sandwiches",
+  "cuisine": "Jamaican",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "chicken-burger",
+  "dish_title": "Chicken burger",
+  "flavour": "Jerk",
+  "flavour_order": 9,
+  "access": "premium",
+  "base_recipe": "crispy-chicken-sandwich",
+  "changes_from_base": "Chicken breasts are coated in a dry jerk paste of black pepper, allspice, nutmeg, thyme, cayenne and chilli loosened with lime juice, roasted hot and fast, sliced and piled into crusty rolls with mayonnaise, lettuce and salsa. A spoon of oil is added to help the paste cling.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Quick-roasted chicken breasts coated in a punchy, warming jerk spice paste make spicy, flavour-packed sandwiches piled with fresh lettuce and tangy salsa.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "small bowl",
+    "roasting tin",
+    "instant-read thermometer",
+    "chopping board"
+  ],
+  "ingredients": [
+    {
+      "group": "Jerk paste",
+      "qty": 2.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Jerk paste",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "onion powder"
+    },
+    {
+      "group": "Jerk paste",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Jerk paste",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Jerk paste",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Jerk paste",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Jerk paste",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground allspice"
+    },
+    {
+      "group": "Jerk paste",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried thyme"
+    },
+    {
+      "group": "Jerk paste",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Jerk paste",
+      "qty": 15,
+      "unit": "ml",
+      "item": "vegetable oil, plus extra for the tin"
+    },
+    {
+      "group": "Chicken",
+      "qty": 600,
+      "unit": "g",
+      "item": "boneless, skinless chicken breasts"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "crusty rolls, split"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "lettuce leaves"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "tomato salsa or relish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Jerk paste",
+      "text": "Combine 2½ tsp ground black pepper, 1 tsp onion powder, 1 tsp fine salt, ½ tsp cayenne pepper, ½ tsp dried chilli flakes, ½ tsp ground nutmeg, ½ tsp ground allspice and ½ tsp dried thyme in a small bowl. Stir in 1 tsp lime juice and 15 ml vegetable oil until you have a thick, uniform paste."
+    },
+    {
+      "title": "Coat",
+      "text": "Rub the jerk paste all over 600 g chicken breasts until they are evenly coated on all sides."
+    },
+    {
+      "title": "Roast",
+      "text": "Preheat the oven to 230 °C (210 °C fan) and oil a roasting tin. Lay the coated chicken in the tin and roast for about 17 minutes until the thickest part reaches 74 °C inside."
+    },
+    {
+      "title": "Rest and slice",
+      "text": "Remove the chicken from the oven and let it rest for 5 minutes to allow the juices to redistribute, then slice each breast into portions."
+    },
+    {
+      "title": "Assemble",
+      "text": "Split 4 crusty rolls open. Spread each half with 1 tbsp mayonnaise, then layer with fresh lettuce leaves, sliced jerk chicken and 1 tbsp tomato salsa or relish. Close the rolls and serve at once."
+    }
+  ],
+  "tips": [
+    "Make the jerk paste ahead and refrigerate it if you like; it will keep for several days and you can simply rub it onto the chicken when you're ready to roast.",
+    "Don't skip the 5-minute rest; it allows the chicken to relax and stay more moist when you slice it.",
+    "Use a meat thermometer to check the chicken has reached 74 °C in the thickest part; overcooked chicken breast dries out quickly."
+  ],
+  "storage": "Best assembled and eaten straight away whilst the chicken is still warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 510,
+    "protein_g": 42.0,
+    "carbs_g": 39.4,
+    "sugar_g": 3.9,
+    "free_sugar_g": 3.3,
+    "fat_g": 19.8,
+    "satfat_g": 3.2,
+    "salt_g": 2.91,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Crusty roll filled with sliced jerk-spiced chicken breast, fresh lettuce and bright red tomato salsa.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

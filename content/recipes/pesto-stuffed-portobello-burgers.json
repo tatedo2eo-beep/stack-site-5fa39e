@@ -1,0 +1,137 @@
+{
+  "slug": "pesto-stuffed-portobello-burgers",
+  "title": "Pesto-Stuffed Portobello Burgers",
+  "category": "burgers-sandwiches",
+  "cuisine": "Italian-American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "veggie-bean-burger",
+  "dish_title": "Veggie/bean burger",
+  "flavour": "Pesto",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "black-bean-burger",
+  "changes_from_base": "No patty: whole portobello caps, gills scooped out, are marinated with olive oil, garlic and basil, pan-cooked until juicy, then filled with pesto and warmed through; buns optional.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Meaty portobello caps caramelise in olive oil until golden, then are filled with fragrant basil pesto and cooked until tender, juicy and warm right through.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 16,
+  "difficulty": "easy",
+  "equipment": [
+    "teaspoon",
+    "large bowl",
+    "large heavy frying pan",
+    "fish slice"
+  ],
+  "ingredients": [
+    {
+      "group": "Mushrooms",
+      "qty": 4,
+      "unit": "pc",
+      "item": "large portobello mushrooms (about 600 g)"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 45,
+      "unit": "ml",
+      "item": "extra-virgin olive oil, divided"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, crushed"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "finely chopped basil"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Mushrooms",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Filling",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "basil pesto (heaped)"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "burger buns, split (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Using a teaspoon, pull out the stalks from 4 large portobello mushrooms, then scrape out and discard the gills to create a cavity for the filling."
+    },
+    {
+      "title": "Marinate",
+      "text": "Toss the mushroom caps in a large bowl with 2 tbsp of the extra-virgin olive oil, ½ tsp fine salt, ¼ tsp ground black pepper, 1 crushed garlic clove and 2 tbsp finely chopped basil. Leave to marinate at room temperature for 30 minutes."
+    },
+    {
+      "title": "Cook first side",
+      "text": "Heat the remaining 3 tbsp extra-virgin olive oil in a large heavy frying pan over a medium-high heat until shimmering. Add the marinated mushroom caps rounded side down, working in batches if needed, and cook without moving them for 7 minutes until golden brown underneath."
+    },
+    {
+      "title": "Cook second side",
+      "text": "Turn the caps over and continue cooking for 5-7 minutes as they slowly release their liquid onto the pan."
+    },
+    {
+      "title": "Stuff and finish",
+      "text": "Turn the caps over cavity side up, spread a heaped teaspoon of basil pesto into each one, then cook for a further 2 minutes until the mushrooms are tender and juicy and any liquid pooled in the pan has evaporated."
+    },
+    {
+      "title": "Serve",
+      "text": "Transfer the hot stuffed mushrooms to split burger buns if you like, or serve them as they are on the plate."
+    }
+  ],
+  "tips": [
+    "Shop pesto contains Parmesan and usually pine nuts, and some brands use cashews, so check the label.",
+    "Cook them rounded side down first to caramelise the surface and develop a savoury depth of flavour before you flip them.",
+    "If the liquid hasn't fully evaporated by the time the pesto is hot, let it cook uncovered for another minute to dry out and concentrate the flavours."
+  ],
+  "storage": "Best served warm, straight from the pan, either as a stand-alone dish or tucked into a burger bun. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 377,
+    "protein_g": 12.6,
+    "carbs_g": 37.4,
+    "sugar_g": 8.6,
+    "free_sugar_g": 4.4,
+    "fat_g": 20.7,
+    "satfat_g": 3.4,
+    "salt_g": 1.79,
+    "fibre_g": 3.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Large stuffed portobello mushroom cap glossy from oil, with basil pesto melting in a shallow cavity.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

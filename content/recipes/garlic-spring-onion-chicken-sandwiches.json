@@ -1,0 +1,174 @@
+{
+  "slug": "garlic-spring-onion-chicken-sandwiches",
+  "title": "Garlic and Spring Onion Chicken Sandwiches with Currants and Rocket",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "chicken-burger",
+  "dish_title": "Chicken burger",
+  "flavour": "Garlic & scallion",
+  "flavour_order": 8,
+  "access": "premium",
+  "base_recipe": "crispy-chicken-sandwich",
+  "changes_from_base": "Inspired by a famous roast chicken bread salad: shredded chicken tossed with garlic and spring onion softened in olive oil, vinegar-plumped currants, rocket, toasted nuts and Parmesan, stuffed into baguette with mayonnaise. I roast thighs instead of using a shop rotisserie chicken, and use cider vinegar in place of the original vinegar.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Shredded roast chicken doused in fragrant garlic and spring onion oil with plump currants, fresh rocket and toasted nuts makes a luxurious, warm sandwich.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "roasting tin",
+    "instant-read thermometer",
+    "large bowl",
+    "medium frying pan",
+    "bread knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 800,
+      "unit": "g",
+      "item": "boneless, skinless chicken thighs"
+    },
+    {
+      "group": "Chicken",
+      "qty": 15,
+      "unit": "ml",
+      "item": "olive oil"
+    },
+    {
+      "group": "Chicken",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Garlic and spring onions",
+      "qty": 90,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Garlic and spring onions",
+      "qty": 6,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced"
+    },
+    {
+      "group": "Garlic and spring onions",
+      "qty": 6,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Garlic and spring onions",
+      "qty": 60,
+      "unit": "ml",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Garlic and spring onions",
+      "qty": 40,
+      "unit": "g",
+      "item": "currants or raisins"
+    },
+    {
+      "group": "To finish",
+      "qty": 40,
+      "unit": "g",
+      "item": "rocket"
+    },
+    {
+      "group": "To finish",
+      "qty": 35,
+      "unit": "g",
+      "item": "pine nuts or flaked almonds, lightly toasted (optional)"
+    },
+    {
+      "group": "To finish",
+      "qty": 20,
+      "unit": "g",
+      "item": "Parmesan, shaved (optional)"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large baguette (or 4 sandwich rolls)"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "mayonnaise or garlic mayonnaise"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast",
+      "text": "Preheat the oven to 220 °C (200 °C fan). Toss 800 g boneless, skinless chicken thighs with 15 ml olive oil, 1 tsp fine salt and ½ tsp ground black pepper in a roasting tin. Roast for 20-25 minutes until the thickest part reaches 74 °C inside. Let the chicken rest for a few minutes, then shred it into a large bowl and season further to taste."
+    },
+    {
+      "title": "Aromatic oil",
+      "text": "Heat 90 ml extra-virgin olive oil in a medium frying pan over a medium heat. Add 6 thinly sliced spring onions, 6 thinly sliced garlic cloves and a little salt, then cook, stirring regularly, for 3-5 minutes until the spring onions and garlic are soft and sizzling around the edges. Tip this fragrant mixture into the bowl with the shredded chicken."
+    },
+    {
+      "title": "Currants",
+      "text": "Add 60 ml cider vinegar and 40 g currants or raisins to the same frying pan and warm over a medium-low heat for 2-3 minutes, stirring gently, until the currants have plumped up. Scrape everything into the chicken bowl and toss together well."
+    },
+    {
+      "title": "Finish",
+      "text": "Stir in 40 g rocket leaves, 35 g lightly toasted pine nuts or flaked almonds and 20 g shaved Parmesan if you would like them, then season the whole thing to taste and toss once more."
+    },
+    {
+      "title": "Toast",
+      "text": "Slice 1 large baguette into 4 lengths and split each one open, toasting lightly if you prefer."
+    },
+    {
+      "title": "Assemble",
+      "text": "Spread each half of the bread generously with 1 tbsp mayonnaise or garlic mayonnaise, fill with the warm garlic and spring onion chicken and finish with a generous grind of black pepper."
+    }
+  ],
+  "tips": [
+    "You can use leftover roast chicken or turkey if you have it to hand; about 450 g of picked meat will work just as well as freshly roasted thighs.",
+    "Toast the nuts briefly in a dry pan over a medium heat before adding to the sandwich so they taste warmer and more developed.",
+    "Make this sandwich whilst the chicken is still warm from the oven so the heat wilts the rocket and brings out the fragrance of the garlic oil."
+  ],
+  "storage": "Best eaten straight away whilst the chicken is still warm and the rocket is crisp. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 882,
+    "protein_g": 51.9,
+    "carbs_g": 51.8,
+    "sugar_g": 11.0,
+    "free_sugar_g": 3.5,
+    "fat_g": 52.1,
+    "satfat_g": 8.9,
+    "salt_g": 3.51,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Thick-cut baguette sandwich oozing with shredded chicken in garlic and spring onion oil, topped with rocket and toasted nuts.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

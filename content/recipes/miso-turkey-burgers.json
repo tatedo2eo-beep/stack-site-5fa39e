@@ -1,0 +1,138 @@
+{
+  "slug": "miso-turkey-burgers",
+  "title": "Miso Turkey Burgers",
+  "category": "burgers-sandwiches",
+  "cuisine": "Japanese-American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "chicken-burger",
+  "dish_title": "Chicken burger",
+  "flavour": "Miso",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "crispy-chicken-sandwich",
+  "changes_from_base": "Turkey thigh is part-frozen and ground at home in a food processor, then seasoned with a little miso for a deeper, beefier flavour; the burgers are browned hard on one side and finished gently under a lid ajar.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Turkey thighs pulsed to a fine texture and seasoned with umami-rich white miso make tender, juicy burgers with crispy golden exteriors.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "rimmed baking tray",
+    "food processor",
+    "medium bowl",
+    "large heavy frying pan with a lid",
+    "fish slice",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Patties",
+      "qty": 680,
+      "unit": "g",
+      "item": "boneless, skinless turkey thighs, cut into 2-3 cm chunks"
+    },
+    {
+      "group": "Patties",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Patties",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "white miso paste, loosened with 2 tsp water"
+    },
+    {
+      "group": "Patties",
+      "qty": 15,
+      "unit": "ml",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "burger buns, split"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "lettuce leaves"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "tomato, sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare",
+      "text": "Spread 680 g turkey thigh chunks on a baking tray and freeze for about 30 minutes until they are firm at the edges."
+    },
+    {
+      "title": "Process",
+      "text": "Pulse the chilled turkey in a food processor in 3 separate batches, using 12-14 short pulses each, until no piece is larger than about 3 mm; this creates a finer texture than mincing alone."
+    },
+    {
+      "title": "Season",
+      "text": "Tip the processed turkey into a bowl and gently mix with ½ tsp fine salt, ½ tsp ground black pepper and 2 tsp white miso paste that has been loosened with 2 tsp water. Divide the mixture into 4 equal portions and shape each gently into a patty about 2.5 cm thick."
+    },
+    {
+      "title": "Sear",
+      "text": "Heat a large heavy frying pan over a medium heat for 4-5 minutes until very hot, then add 15 ml vegetable oil followed by the patties, spacing them apart. Cook without moving them for about 5 minutes until the undersides are dark brown and crusty."
+    },
+    {
+      "title": "Cook through",
+      "text": "Turn the patties and cook for another 4-5 minutes until lightly browned on the second side, then lower the heat and place the lid on the pan ajar. Continue cooking for 5-6 minutes more until the thickest part of each patty reaches 74 °C when checked with a thermometer."
+    },
+    {
+      "title": "Serve",
+      "text": "Transfer the burgers to toasted buns and serve at once with fresh lettuce leaves and sliced tomato."
+    }
+  ],
+  "tips": [
+    "Freeze the turkey chunks briefly to make them easier to pulse into a consistent fine texture without overworking the meat.",
+    "Keep the pan lid slightly ajar during the final cooking stage so steam escapes gently and the patties cook through without drying out.",
+    "Use a meat thermometer to check the centre reaches 74 °C, ensuring the turkey is fully cooked but still moist inside."
+  ],
+  "storage": "Best served immediately whilst the burgers are still warm and tender. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 517,
+    "protein_g": 35.4,
+    "carbs_g": 32.3,
+    "sugar_g": 5.3,
+    "free_sugar_g": 4.4,
+    "fat_g": 27.3,
+    "satfat_g": 6.6,
+    "salt_g": 1.99,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden-brown turkey burger patty topped with fresh lettuce leaf and tomato slice on a toasted bun.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

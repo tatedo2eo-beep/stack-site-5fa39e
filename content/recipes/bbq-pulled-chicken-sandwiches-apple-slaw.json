@@ -1,0 +1,232 @@
+{
+  "slug": "bbq-pulled-chicken-sandwiches-apple-slaw",
+  "title": "Barbecue Pulled Chicken Sandwiches with Apple Slaw",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "chicken-burger",
+  "dish_title": "Chicken burger",
+  "flavour": "BBQ",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "crispy-chicken-sandwich",
+  "changes_from_base": "Thighs are pressure-cooked for 6 minutes in a tangy ketchup, Worcestershire and mustard barbecue sauce, mashed into shreds, then sautéed until a little caramelised and served with a crunchy apple, cabbage and shallot slaw.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Tender pulled chicken cooked in a pressure cooker with warm spices and a tangy barbecue sauce, piled high with a crisp, fresh apple and cabbage slaw.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "small bowl",
+    "electric pressure cooker (such as an Instant Pot)",
+    "potato masher",
+    "heatproof jug",
+    "wooden spoon",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Slaw",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Slaw",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Slaw",
+      "qty": 4,
+      "unit": "g",
+      "item": "light brown sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Slaw",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Slaw",
+      "qty": 140,
+      "unit": "g",
+      "item": "green cabbage, finely shredded"
+    },
+    {
+      "group": "Slaw",
+      "qty": 1,
+      "unit": "pc",
+      "item": "tart green apple (such as Granny Smith), cored and cut into thin matchsticks"
+    },
+    {
+      "group": "Slaw",
+      "qty": 1,
+      "unit": "pc",
+      "item": "shallot, halved and thinly sliced"
+    },
+    {
+      "group": "Barbecue sauce",
+      "qty": 180,
+      "unit": "ml",
+      "item": "ketchup"
+    },
+    {
+      "group": "Barbecue sauce",
+      "qty": 24,
+      "unit": "g",
+      "item": "light brown sugar",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Barbecue sauce",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Barbecue sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "Worcestershire sauce"
+    },
+    {
+      "group": "Barbecue sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "Dijon mustard"
+    },
+    {
+      "group": "Barbecue sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "hot sauce"
+    },
+    {
+      "group": "Chicken",
+      "qty": 30,
+      "unit": "ml",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small onion, finely chopped",
+      "note": "about 80 g"
+    },
+    {
+      "group": "Chicken",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Chicken",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "chilli powder"
+    },
+    {
+      "group": "Chicken",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Chicken",
+      "qty": 900,
+      "unit": "g",
+      "item": "boneless, skinless chicken thighs, trimmed"
+    },
+    {
+      "group": "To serve",
+      "qty": 6,
+      "unit": "pc",
+      "item": "brioche burger buns, split and toasted if you like"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Slaw",
+      "text": "Whisk together 1½ tbsp cider vinegar, 1 tbsp mayonnaise, 1 tsp light brown sugar and 1 tsp fine salt in a large bowl until the sugar dissolves. Toss in 140 g shredded green cabbage, a tart green apple cut into matchsticks, and a sliced shallot, then set aside."
+    },
+    {
+      "title": "Sauce",
+      "text": "Combine 180 ml ketchup, 2 tbsp light brown sugar, 1½ tbsp cider vinegar, 2 tsp Worcestershire sauce, 2 tsp Dijon mustard and 2 tsp hot sauce in a small bowl and set aside."
+    },
+    {
+      "title": "Build",
+      "text": "Heat 30 ml vegetable oil in the pressure cooker on its highest sauté setting and soften 1 small chopped onion for 3-5 minutes. Stir in 2 tsp garlic powder, 2 tsp chilli powder, ¾ tsp fine salt and ½ tsp cayenne pepper for 30 seconds to bloom the spices."
+    },
+    {
+      "title": "Pressure cook",
+      "text": "Add 120 ml of the sauce and 900 g chicken thighs to the cooker and mix to coat everything evenly in a single layer. Lock the lid, close the valve and cook at high pressure for 6 minutes, then quick-release the pressure, opening the lid away from you."
+    },
+    {
+      "title": "Shred",
+      "text": "Reserve 120 ml of the cooking liquid from the pot and keep 60 ml of it to one side; discard the remainder. Shred the chicken into bite-sized pieces using 2 forks directly in the pot and check that the thickest part reaches 74 °C."
+    },
+    {
+      "title": "Reduce",
+      "text": "Switch the cooker back to sauté and simmer the chicken, scraping the bottom as it cooks, for 6-8 minutes until all the liquid has evaporated and a little browning forms on the base of the pot."
+    },
+    {
+      "title": "Finish",
+      "text": "Remove from the heat and stir in the reserved 60 ml of cooking liquid and a further 60 ml of the sauce. Taste and adjust the seasoning as needed."
+    },
+    {
+      "title": "Serve",
+      "text": "Pile the pulled chicken onto split brioche buns, spoon more sauce over the top, add a generous heap of apple and cabbage slaw and top with the bun lids. For smaller portions, use slider buns instead."
+    }
+  ],
+  "tips": [
+    "Make the slaw just before serving so the apple and cabbage stay crisp and fresh-tasting alongside the warm, saucy chicken.",
+    "The cooking liquid reduces down as the chicken cooks; keeping some back lets you add moisture and richness at the end without the finished dish being soggy.",
+    "Worcestershire sauce usually contains anchovy, so check the label if you need the sauce fish-free."
+  ],
+  "storage": "Best eaten straight away while the chicken is warm and the slaw is still crisp. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "fish",
+    "sulphites"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 499,
+    "protein_g": 36.8,
+    "carbs_g": 53.6,
+    "sugar_g": 21.5,
+    "free_sugar_g": 16.2,
+    "fat_g": 15.2,
+    "satfat_g": 2.8,
+    "salt_g": 3.88,
+    "fibre_g": 3.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Soft bun overflowing with shredded barbecue chicken and a tangle of crisp apple slaw, with sauce dripping down the sides.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

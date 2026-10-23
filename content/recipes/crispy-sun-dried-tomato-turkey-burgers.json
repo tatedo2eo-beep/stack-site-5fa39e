@@ -1,0 +1,158 @@
+{
+  "slug": "crispy-sun-dried-tomato-turkey-burgers",
+  "title": "Crispy Sun-Dried Tomato Turkey Burgers",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "chicken-burger",
+  "dish_title": "Chicken burger",
+  "flavour": "Sun-dried tomato",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "crispy-chicken-sandwich",
+  "changes_from_base": "Turkey mince is kept juicy with Monterey Jack, wholemeal panko and yoghurt, flavoured with sun-dried tomato and basil, and pan-fried gently until the cheese crisps at the edges; topped with tomato and rocket.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Sun-dried tomato and Monterey Jack studded turkey burgers stay moist within a golden crust, topped with peppery rocket and fresh tomato.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 15,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl",
+    "large non-stick frying pan (30 cm)",
+    "fish slice",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Patties",
+      "qty": 450,
+      "unit": "g",
+      "item": "turkey mince (about 7% fat, not extra-lean breast)"
+    },
+    {
+      "group": "Patties",
+      "qty": 50,
+      "unit": "g",
+      "item": "wholemeal panko breadcrumbs"
+    },
+    {
+      "group": "Patties",
+      "qty": 55,
+      "unit": "g",
+      "item": "Monterey Jack cheese, grated"
+    },
+    {
+      "group": "Patties",
+      "qty": 70,
+      "unit": "g",
+      "item": "sun-dried tomatoes in oil, rinsed, patted dry and roughly chopped"
+    },
+    {
+      "group": "Patties",
+      "qty": 60,
+      "unit": "g",
+      "item": "plain low-fat yoghurt"
+    },
+    {
+      "group": "Patties",
+      "qty": 10,
+      "unit": "g",
+      "item": "fresh basil, chopped"
+    },
+    {
+      "group": "Patties",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Patties",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Patties",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "rapeseed oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "wholemeal burger buns, toasted"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "pc",
+      "item": "tomato, sliced"
+    },
+    {
+      "group": "To serve",
+      "qty": 55,
+      "unit": "g",
+      "item": "baby rocket"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Combine 450 g turkey mince, 50 g wholemeal panko breadcrumbs, 55 g grated Monterey Jack, 70 g chopped sun-dried tomatoes, 60 g plain low-fat yoghurt, 10 g chopped basil, ½ tsp fine salt and ½ tsp ground black pepper in a large bowl. Knead gently with your hands until just combined, being careful not to overwork the mixture."
+    },
+    {
+      "title": "Shape",
+      "text": "Pat the mixture into 4 patties, each roughly 2 cm thick and 10 cm across. Season the outside of each patty lightly."
+    },
+    {
+      "title": "Cook first side",
+      "text": "Heat 1 tbsp rapeseed oil in a large non-stick frying pan over a medium-low heat until it shimmers, then add the patties. Cook without moving them for 5-7 minutes until the undersides are well browned."
+    },
+    {
+      "title": "Cook second side",
+      "text": "Turn each patty and continue cooking for 6-9 minutes more, turning occasionally, until the second side is browned and the thickest part reaches 74 °C when checked with a thermometer."
+    },
+    {
+      "title": "Assemble",
+      "text": "Split and lightly toast 4 wholemeal burger buns and fill each with a warm patty."
+    },
+    {
+      "title": "Finish",
+      "text": "Top with sliced fresh tomato, 55 g baby rocket and a dollop of garlic mayonnaise if you like. Serve at once."
+    }
+  ],
+  "tips": [
+    "Don't skip the gentle kneading step; it binds the mixture just enough to hold together while cooking, but overworking it will make the patties tough and dense.",
+    "Cook over a medium-low heat so the outside browns properly while the inside cooks through without burning.",
+    "Toast the buns lightly before assembling so they're warm and slightly crisp, giving a nice contrast to the tender burger."
+  ],
+  "storage": "Best served and eaten straight away while the patties are still warm inside. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 557,
+    "protein_g": 32.3,
+    "carbs_g": 46.0,
+    "sugar_g": 7.2,
+    "free_sugar_g": 5.1,
+    "fat_g": 27.6,
+    "satfat_g": 7.9,
+    "salt_g": 2.21,
+    "fibre_g": 3.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden-brown turkey patty topped with rocket and sliced tomato on a toasted wholemeal bun.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

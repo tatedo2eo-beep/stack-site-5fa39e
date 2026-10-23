@@ -56,6 +56,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | assorted-french-macarons-five-flavours | Macarons | Classic | 3 | 5 |
 | avgolemono-greek-chicken-rice-soup-egg-lemon | Avgolemono | Classic | 2 | 4 |
 | bagna-cauda-warm-anchovy-garlic-dip | Bagna cauda | Classic | 2 | 4 |
+| baharat-mushroom-turkey-burgers | Chicken burger | Mushroom | 1 | 3 |
 | baked-beef-empanadas-olives-raisins | Empanadas | Classic | 3 | 5 |
 | baked-beef-empanadas-potato-peppers | Empanadas | Beef | 2 | 4 |
 | baked-beef-saltenas-juicy-stew-filling | Salteña | Classic | 1 | 3 |
@@ -83,6 +84,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | basil-pine-nut-pesto | Pesto | Classic | 2 | 4 |
 | basque-cheesecake | Basque burnt (San Sebastián) | Classic | 2 | 4 |
 | bbq-chicken-wings | Chicken wings | BBQ | 2 | 4 |
+| bbq-pulled-chicken-sandwiches-apple-slaw | Chicken burger | BBQ | 1 | 3 |
 | bean-filled-masa-flatbreads-seared-steak-salsa-verde | Huarache | Classic | 3 | 5 |
 | beef-bean-tostadas-crisp-corn | Tostada | Classic | 1 | 3 |
 | beef-carpaccio-rocket-mustard-lemon-sauce | Carpaccio | Classic | 1 | 3 |
@@ -290,6 +292,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chiffon-cake | Chiffon | Classic | 2 | 4 |
 | chilled-gazpacho-tomato-cucumber-pepper | Gazpacho | Classic | 2 | 4 |
 | chilli-braised-beef-tacos-melted-cheese-dipping-broth | Birria | Classic | 3 | 5 |
+| chilli-crisp-pickle-brined-chicken-sandwiches | Chicken burger | Chili | 1 | 3 |
 | chipotle-chicken-caesar-avocado-lime | Caesar | Chipotle | 1 | 3 |
 | chipotle-lime-chicken-black-bean-rice-burritos | Burrito | Classic | 2 | 4 |
 | chocolate-angel-food-cake | Angel food | Chocolate | 3 | 5 |
@@ -468,6 +471,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | crispy-shredded-hash-browns | Hash browns | Classic | 3 | 5 |
 | crispy-smashed-potatoes | Crispy smashed potatoes | Classic | 2 | 4 |
 | crispy-steak-fries | Steak fries | Classic | 3 | 5 |
+| crispy-sun-dried-tomato-turkey-burgers | Chicken burger | Sun-dried tomato | 1 | 3 |
 | crispy-vegetable-spring-rolls-sweet-chilli-dip | Spring rolls | Classic | 2 | 4 |
 | cuban-black-beans-red-pepper-sofrito | Beans (baked beans, refried, black beans) | Classic | 1 | 3 |
 | cuban-citrus-garlic-mojo | Mojo | Classic | 2 | 4 |
@@ -612,6 +616,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | garlic-parsley-butter-pull-apart-rolls | Dinner rolls | Garlic | 1 | 3 |
 | garlic-potato-almond-skordalia-crisp-fried-cod | Skordalia | Classic | 3 | 5 |
 | garlic-rosemary-roast-beef | Roast beef | Garlic-rosemary | 3 | 5 |
+| garlic-spring-onion-chicken-sandwiches | Chicken burger | Garlic & scallion | 1 | 3 |
 | garlicky-tofu-tabbouleh-parsley-mint | Tabbouleh | Tofu | 1 | 3 |
 | gateau-basque | Basque cake | Classic | 2 | 4 |
 | general-tsos-chicken | General Tso's chicken | Classic | 2 | 4 |
@@ -760,6 +765,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | jamaican-braised-oxtail-butter-beans | Oxtail stew | Classic | 3 | 5 |
 | jamaican-curried-beef-patties-flaky-turmeric-pastry | Jamaican patty | Classic | 3 | 5 |
 | jamaican-curry-goat-rice-peas | Curry goat | Classic | 2 | 4 |
+| jamaican-jerk-chicken-sandwiches | Chicken burger | Jerk | 1 | 3 |
 | japanese-cotton-cheesecake | Japanese soufflé/cotton | Classic | 3 | 5 |
 | japanese-rice-triangles-flaked-salmon-nori | Onigiri | Classic | 3 | 5 |
 | japanese-style-beef-curry-carrots-potatoes-spiced-roux | Japanese curry | Classic | 4 | 6 |
@@ -903,6 +909,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | miso-butterscotch-custard-ice-cream | Custard-base (French) | Miso | 1 | 3 |
 | miso-harissa-spaghetti-crispy-crumbs | Long dried (spaghetti, linguine, bucatini) | Miso | 1 | 3 |
 | miso-soup-tofu-wakame | Miso | Classic | 2 | 4 |
+| miso-turkey-burgers | Chicken burger | Miso | 1 | 3 |
 | mixed-berry-banana-yoghurt-smoothie-orange | Smoothies | Classic | 2 | 4 |
 | mixed-berry-frozen-yogurt-swirl | Frozen yogurt | Berry | 2 | 4 |
 | mixed-berry-oat-crisp | Crisp | Classic | 2 | 4 |
@@ -1069,6 +1076,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pesto-alla-trapanese | Pesto alla trapanese | Classic | 2 | 4 |
 | pesto-bechamel-lasagne | Sheets/baked (lasagne) | Pesto | 1 | 3 |
 | pesto-chicken-salad-sun-dried-tomatoes | Chicken salad | Pesto | 1 | 3 |
+| pesto-stuffed-portobello-burgers | Veggie/bean burger | Pesto | 1 | 3 |
 | philly-cheesesteak-american-cheese-onions | Philly cheesesteak | American | 1 | 3 |
 | philly-cheesesteaks-shaved-ribeye-caramelised-onions | Philly cheesesteak | Classic | 2 | 4 |
 | phirni-cardamom-saffron-ground-rice-pudding | Phirni | Classic | 1 | 3 |
@@ -1301,10 +1309,12 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | slow-cooked-duck-legs-crisp-potatoes-frisee | Duck confit | Classic | 3 | 5 |
 | slow-cooked-lamb-wheat-harees | Harees | Classic | 2 | 4 |
 | slow-cooker-almond-raisin-granola | Granola | Raisin | 1 | 3 |
+| slow-cooker-hot-honey-chicken-sandwiches | Chicken burger | Honey | 1 | 3 |
 | slow-roast-beef-yorkshire-puddings | Roast beef | Classic | 5 | 7 |
 | slow-roasted-spiced-lamb-shoulder-cumin-salt | Mechoui | Classic | 2 | 4 |
 | slow-simmered-dulce-de-leche | Dulce de leche | Classic | 1 | 4 |
 | slow-smoked-beef-brisket-salt-pepper | Brisket (smoked) | Classic | 3 | 5 |
+| smashed-avocado-chicken-burgers | Chicken burger | Avocado | 1 | 3 |
 | smashed-buttery-mushy-peas | Mushy peas | Classic | 2 | 4 |
 | smoky-almond-pesto-spaghetti-peas | Long dried (spaghetti, linguine, bucatini) | Almond | 1 | 3 |
 | smoky-baba-ghanoush-charred-aubergine-tahini-lemon | Baba ghanoush | Classic | 2 | 4 |

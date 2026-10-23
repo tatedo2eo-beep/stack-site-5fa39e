@@ -1,0 +1,209 @@
+{
+  "slug": "slow-cooker-hot-honey-chicken-sandwiches",
+  "title": "Slow-Cooker Hot Honey Chicken Sandwiches",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "chicken-burger",
+  "dish_title": "Chicken burger",
+  "flavour": "Honey",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "crispy-chicken-sandwich",
+  "changes_from_base": "Thighs are rubbed with chilli, garlic, onion and two paprikas and slow-cooked with no added liquid, then shredded into spiced honey and cider vinegar and piled into toasted rolls with a lemony spring-onion slaw.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Slow-cooked chicken thighs swimming in their own juices emerge impossibly tender, swathed in a warm coating of fiery honey and fresh cabbage slaw.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 300,
+  "difficulty": "easy",
+  "equipment": [
+    "large slow cooker",
+    "small bowl",
+    "2 forks",
+    "medium bowl",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 900,
+      "unit": "g",
+      "item": "boneless, skinless chicken thighs"
+    },
+    {
+      "group": "Chicken",
+      "qty": 15,
+      "unit": "ml",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried chilli flakes, plus more to taste"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "onion powder"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "sweet paprika"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "smoked paprika"
+    },
+    {
+      "group": "Chicken",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Hot honey",
+      "qty": 84,
+      "unit": "g",
+      "item": "honey",
+      "note": "about 4 tbsp"
+    },
+    {
+      "group": "Hot honey",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Hot honey",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "group": "Hot honey",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "cider vinegar, plus more to taste"
+    },
+    {
+      "group": "Slaw",
+      "qty": 225,
+      "unit": "g",
+      "item": "green cabbage, finely shredded"
+    },
+    {
+      "group": "Slaw",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "mayonnaise, plus extra for the buns"
+    },
+    {
+      "group": "Slaw",
+      "qty": 3,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced"
+    },
+    {
+      "group": "Slaw",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "pc",
+      "item": "soft rolls or buns (onion rolls are good)"
+    },
+    {
+      "group": "To serve",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "vinegary hot sauce"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Slow cook",
+      "text": "Put 900 g boneless, skinless chicken thighs into a large slow cooker along with 15 ml vegetable oil, 1 tsp dried chilli flakes, 1 tsp garlic powder, 1 tsp onion powder, 1 tsp sweet paprika, ¼ tsp smoked paprika, 1 tsp fine salt and ½ tsp ground black pepper. Stir everything together well; no additional liquid is needed. Cover and cook on the low setting for 4-5 hours until the chicken is very tender and reaches 74 °C in the thickest part."
+    },
+    {
+      "title": "Hot honey",
+      "text": "At any time before you plan to serve, stir 4 tbsp honey together with 1 tsp dried chilli flakes and ½ tsp garlic powder, then cover and leave at room temperature."
+    },
+    {
+      "title": "Optional reduction",
+      "text": "If you like, lift the cooked chicken out of the slow cooker and simmer the cooking juices in a separate small pan until the volume has halved, then return the chicken to the cooker."
+    },
+    {
+      "title": "Shred",
+      "text": "Use 2 forks to shred the cooked chicken into small, bite-sized pieces directly in the pot, mixing it with its cooking juices. Check that the thickest part reaches 74 °C. Stir in the spiced honey mixture and 2 tsp cider vinegar, then taste the chicken and add more salt, chilli flakes or vinegar if you prefer a stronger flavour."
+    },
+    {
+      "title": "Slaw",
+      "text": "Toss together 225 g shredded green cabbage, 4 tbsp mayonnaise, 3 thinly sliced spring onions and 1 tbsp lemon juice in a medium bowl. Season to taste."
+    },
+    {
+      "title": "Toast and assemble",
+      "text": "Split and toast 4 soft rolls or onion rolls if you like. Spread the insides with mayonnaise and a few shakes of vinegary hot sauce."
+    },
+    {
+      "title": "Serve",
+      "text": "Pile the hot honey chicken onto the prepared rolls, top generously with the slaw and the bun lids."
+    }
+  ],
+  "tips": [
+    "The chicken can stay on the warm setting for up to 3 hours after cooking, so you can prepare it ahead and keep it hot until you're ready to serve.",
+    "Make the hot honey mixture earlier in the day and leave it at room temperature; it melds together and tastes better than when first mixed.",
+    "Reduce the cooking juices if you like a more concentrated, savoury flavour against the sweet and spicy honey coating."
+  ],
+  "storage": "Best served at once while the chicken is hot and the slaw is still crisp. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 683,
+    "protein_g": 51.8,
+    "carbs_g": 54.2,
+    "sugar_g": 24.2,
+    "free_sugar_g": 21.8,
+    "fat_g": 28.4,
+    "satfat_g": 5.3,
+    "salt_g": 3.37,
+    "fibre_g": 3.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Soft onion roll piled with shredded hot honey chicken, dripping with sticky glaze, topped with creamy cabbage slaw.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}
