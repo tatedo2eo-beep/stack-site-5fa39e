@@ -1,0 +1,135 @@
+{
+  "slug": "buttermilk-herb-ranch-dressing",
+  "title": "Buttermilk Herb Ranch Dressing",
+  "category": "snacks-sides",
+  "cuisine": "American",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "ranch-dressing",
+  "dish_title": "Ranch dressing",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Buttermilk and mayonnaise whisked with chives, dill, parsley, garlic and a dash of vinegar, then chilled until lightly thickened.",
+  "servings": 6,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "mixing bowl",
+    "whisk",
+    "jar or jug"
+  ],
+  "ingredients": [
+    {
+      "group": "Dressing",
+      "qty": 120,
+      "unit": "ml",
+      "item": "buttermilk"
+    },
+    {
+      "group": "Dressing",
+      "qty": 80,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "fresh chives, finely chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "fresh dill, finely chopped, plus a sprig to serve"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, finely chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated to a paste"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "distilled white vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk the base",
+      "text": "Put the buttermilk and mayonnaise in the bowl and whisk until completely smooth with no streaks of mayonnaise left."
+    },
+    {
+      "title": "Add the herbs",
+      "text": "Stir in the chopped chives, dill and parsley along with the garlic paste, vinegar, salt and pepper."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover the bowl and refrigerate for at least 30 min. The herbs release their flavour into the dressing, and the cold firms it to a coating consistency."
+    },
+    {
+      "title": "Serve",
+      "text": "Give it a stir and taste for salt. Pour into a serving bowl, add a dill sprig on top and serve with carrot sticks and other crisp raw vegetables, or spoon over a crunchy salad."
+    }
+  ],
+  "tips": [
+    "For a thicker dip, cut the buttermilk to 80 ml; for a pourable salad dressing, add a splash more.",
+    "Chop the herbs finely with a sharp knife so they stay green rather than bruised.",
+    "Swap the parsley for coriander for a fresher, slightly citrusy version.",
+    "A pinch of cayenne gives a gentle background warmth."
+  ],
+  "storage": "Keep in a covered jar in the fridge for up to 2 days; shake or stir before using. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 101,
+    "protein_g": 0.9,
+    "carbs_g": 1.4,
+    "sugar_g": 1.1,
+    "free_sugar_g": 0.1,
+    "fat_g": 10.2,
+    "satfat_g": 1.7,
+    "salt_g": 0.51,
+    "fibre_g": 0.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "ranch-dressing-basic.jpg",
+  "image_alt": "A dark bowl of creamy white ranch dressing topped with a dill sprig, beside carrot and green vegetable sticks.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

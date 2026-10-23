@@ -63,6 +63,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | buttered-corn-on-the-cob | Corn on the cob | Classic | 1 | 4 |
 | buttered-spaetzle | Spätzle | Classic | 3 | 5 |
 | buttermilk-fried-chicken | Fried chicken (Southern) | Buttermilk-brined | 4 | 6 |
+| buttermilk-herb-ranch-dressing | Ranch dressing | Classic | 2 | 4 |
 | butternut-squash-ravioli | Filled (ravioli, tortellini, agnolotti) | Butternut squash | 4 | 6 |
 | buttery-rice-pilaf-toasted-vermicelli-herbs | Steamed/pilaf | Classic | 3 | 5 |
 | buttery-succotash-corn-lima | Succotash | Classic | 2 | 4 |
@@ -479,6 +480,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pesto-alla-trapanese | Pesto alla trapanese | Classic | 2 | 4 |
 | philly-cheesesteaks-shaved-ribeye-caramelised-onions | Philly cheesesteak | Classic | 2 | 4 |
 | pho-bo-vietnamese-beef-noodle-soup | Pho | Classic | 2 | 4 |
+| pickle-caper-tartar-sauce | Tartar sauce | Classic | 2 | 4 |
 | pineapple-upside-down-cake | Upside-down | Pineapple | 2 | 4 |
 | piri-piri-chicken | Piri-piri | Classic | 2 | 4 |
 | pistachio-sesame-dukkah | Dukkah | Classic | 2 | 4 |

@@ -1,0 +1,134 @@
+{
+  "slug": "pickle-caper-tartar-sauce",
+  "title": "Pickle and Caper Tartar Sauce",
+  "category": "snacks-sides",
+  "cuisine": "British",
+  "chapter": "sauces-dressings",
+  "book_chapter": "sauces-dressings",
+  "dish": "tartar-sauce",
+  "dish_title": "Tartar sauce",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Mayonnaise loaded with chopped dill pickles, shallot, capers, parsley and dill, lifted with lemon and a touch of mild mustard.",
+  "servings": 8,
+  "prep_min": 10,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "chopping board",
+    "knife",
+    "mixing bowl",
+    "spoon",
+    "airtight container"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 120,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Sauce",
+      "qty": 60,
+      "unit": "g",
+      "item": "dill pickles, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 20,
+      "unit": "g",
+      "item": "shallot, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "capers, drained and finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "flat-leaf parsley, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fresh dill, finely chopped"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "mild yellow mustard"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Chop finely",
+      "text": "Finely chop the pickles, shallot, capers, parsley and dill. Small, even pieces spread through the sauce so no single bite is too sharp."
+    },
+    {
+      "title": "Stir together",
+      "text": "Put the mayonnaise in the bowl and stir in the chopped ingredients, lemon juice, yellow mustard and pepper until evenly mixed."
+    },
+    {
+      "title": "Let it rest",
+      "text": "Cover and chill for 20 min. The shallot loses its raw bite and the pickle tang spreads through the mayonnaise."
+    },
+    {
+      "title": "Taste and serve",
+      "text": "Taste and add a few more drops of lemon if you want it sharper. Serve alongside fried or grilled fish with lemon wedges."
+    }
+  ],
+  "tips": [
+    "Pat the chopped pickles dry on kitchen paper so the sauce does not turn watery.",
+    "Rinse the capers if they are packed in salt.",
+    "Try it with chips, fishcakes or in a fish sandwich.",
+    "Taste before adding any salt; the pickles and capers are already salty."
+  ],
+  "storage": "Keep in an airtight container in the fridge for up to 5 days. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 106,
+    "protein_g": 0.3,
+    "carbs_g": 0.9,
+    "sugar_g": 0.4,
+    "free_sugar_g": 0.1,
+    "fat_g": 11.3,
+    "satfat_g": 1.8,
+    "salt_g": 0.48,
+    "fibre_g": 0.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tartar-sauce-basic.jpg",
+  "image_alt": "A dark bowl of chunky tartar sauce with green flecks next to golden fried fish fillets and a lemon wedge.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
+}
