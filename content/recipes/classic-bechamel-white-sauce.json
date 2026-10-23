@@ -110,5 +110,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "bechamel-basic.jpg",
-  "image_alt": "A spoon pouring thick, glossy white béchamel into a black bowl."
+  "image_alt": "A spoon pouring thick, glossy white béchamel into a black bowl.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats"
+  ]
 }

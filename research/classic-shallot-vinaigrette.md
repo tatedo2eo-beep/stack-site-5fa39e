@@ -11,7 +11,7 @@ Dish: Vinaigrette / flavour: Classic. Private file, not published.
 > Written for this batch. Quantities and wording are my own; the core method matches the locked-list sources listed above; nothing copied.
 
 ## Own cooking judgment
-- Cider vinegar in place of wine vinegar.
+- Cider vinegar for a mellow sharpness.
 - Mild yellow mustard and a little mayonnaise to emulsify.
 - Oil drizzled in while whisking.
 

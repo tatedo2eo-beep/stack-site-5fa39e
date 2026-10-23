@@ -119,5 +119,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "raita-basic.jpg",
-  "image_alt": "A bowl of white yoghurt raita flecked with chopped green herbs and topped with a sprig of mint."
+  "image_alt": "A bowl of white yoghurt raita flecked with chopped green herbs and topped with a sprig of mint.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
 }

@@ -120,5 +120,10 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "vinaigrette-basic--balsamic.jpg",
-  "image_alt": "A glass jug of dark balsamic vinaigrette beside a bowl of frilly green lettuce."
+  "image_alt": "A glass jug of dark balsamic vinaigrette beside a bowl of frilly green lettuce.",
+  "inspired_by": [
+    "NYT Cooking",
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
 }

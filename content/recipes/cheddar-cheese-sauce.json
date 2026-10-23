@@ -112,5 +112,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "cheese-sauce-basic.jpg",
-  "image_alt": "A spoon lifting smooth orange Cheddar cheese sauce from a bowl, with broccoli florets on the side."
+  "image_alt": "A spoon lifting smooth orange Cheddar cheese sauce from a bowl, with broccoli florets on the side.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
 }

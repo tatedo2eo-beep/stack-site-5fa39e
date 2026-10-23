@@ -115,5 +115,9 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": "vinaigrette-basic.jpg",
-  "image_alt": "A small glass jug of creamy golden vinaigrette beside a bowl of crisp green salad leaves."
+  "image_alt": "A small glass jug of creamy golden vinaigrette beside a bowl of crisp green salad leaves.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
 }
