@@ -1,0 +1,141 @@
+{
+  "slug": "mutabbal-smoky-aubergine-tahini-pomegranate",
+  "title": "Mutabbal (Smoky Aubergine and Tahini with Pomegranate)",
+  "category": "snacks-sides",
+  "cuisine": "Levantine",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "mutabbal",
+  "dish_title": "Mutabbal",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Aubergines blackened over a flame until collapsed, drained, chopped by hand and folded into tahini whisked with lemon, garlic and pomegranate molasses, topped with pomegranate seeds, parsley and olive oil.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "gas burner, barbecue or grill",
+    "tongs",
+    "colander set over a bowl",
+    "sharp knife",
+    "mixing bowl",
+    "whisk",
+    "shallow serving dish"
+  ],
+  "ingredients": [
+    {
+      "group": "Aubergine",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large aubergines",
+      "note": "about 800 g"
+    },
+    {
+      "group": "Dressing",
+      "qty": 70,
+      "unit": "g",
+      "item": "tahini, well stirred"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "ml",
+      "item": "cold water"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "pomegranate molasses"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, crushed"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "chopped flat-leaf parsley"
+    },
+    {
+      "group": "To finish",
+      "qty": 60,
+      "unit": "g",
+      "item": "pomegranate seeds"
+    },
+    {
+      "group": "To finish",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Char the aubergines",
+      "text": "Pierce each aubergine a few times. Blacken them directly over a gas flame or a barbecue, turning every few minutes, for 15-20 min, or under a very hot grill for 45-50 min, until the skin is papery and the flesh has completely collapsed."
+    },
+    {
+      "title": "Drain the flesh",
+      "text": "When cool enough to handle, split them open and spoon the flesh into the colander, leaving the skin behind. Drain for 30 min so the dip is not watery, then chop roughly with a knife."
+    },
+    {
+      "title": "Make the dressing",
+      "text": "Whisk the tahini with the cold water, lemon juice, pomegranate molasses, garlic and salt until smooth and pale. It may seize at first; keep whisking and it will loosen. Fold in the aubergine and most of the parsley and taste for a balance of smoky, sour and slightly sweet."
+    },
+    {
+      "title": "Serve",
+      "text": "Spread the mutabbal in the dish, scatter with the pomegranate seeds and remaining parsley and drizzle with olive oil."
+    }
+  ],
+  "tips": [
+    "A flame gives the smokiest flavour; a few black flecks of skin in the dip are fine.",
+    "Serve with warm flatbread, raw vegetables or alongside grilled kofta.",
+    "For extra creaminess, stir in 2 tbsp thick yoghurt."
+  ],
+  "storage": "Refrigerate without the topping for up to 3 days. Bring to room temperature and add the seeds and oil just before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "sesame"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 210,
+    "protein_g": 5.3,
+    "carbs_g": 21.4,
+    "sugar_g": 11.3,
+    "free_sugar_g": 2.1,
+    "fat_g": 13.5,
+    "satfat_g": 1.9,
+    "salt_g": 0.79,
+    "fibre_g": 8.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "mutabbal-basic.jpg",
+  "image_alt": "A bowl of smooth smoky aubergine and tahini dip topped with pomegranate seeds and parsley.",
+  "inspired_by": [
+    "Yotam Ottolenghi"
+  ]
+}

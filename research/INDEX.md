@@ -278,6 +278,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fesenjan | Fesenjan | Classic | 2 | 4 |
 | fettuccine-alfredo | Alfredo (Roman original) | Classic | 3 | 5 |
 | filipino-oxtail-peanut-stew | Kare-kare | Classic | 2 | 4 |
+| fish-fragrant-aubergine-yuxiang-qiezi | Dunlop fish-fragrant aubergine (yuxiang qiezi) | Classic | 1 | 3 |
 | flaky-butter-croissants-laminated | Croissant | Classic | 2 | 4 |
 | flaky-cong-you-bing-chinese-scallion-pancakes | Cong you bing | Classic | 3 | 5 |
 | flaky-layered-buttermilk-biscuits | Biscuit | Classic | 3 | 5 |
@@ -305,6 +306,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | gado-gado-peanut-sauce | Gado-gado | Classic | 2 | 4 |
 | gai-lan-oyster-sauce-sizzled-garlic | Stir-fried gai lan | Classic | 2 | 4 |
 | gai-yang | Gai yang | Classic | 2 | 4 |
+| gaji-namul-steamed-aubergine-sesame | Namul | Classic | 1 | 3 |
 | galbitang-korean-beef-short-rib-radish-soup | Galbitang | Classic | 2 | 4 |
 | galette-des-rois-almond-cream | Galette des rois | Classic | 2 | 4 |
 | galician-style-octopus-potatoes-smoked-paprika | Pulpo a la gallega | Classic | 4 | 6 |
@@ -402,6 +404,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | kale-caesar-salad-massaged-leaves | Caesar | Kale | 3 | 5 |
 | kalguksu | Kalguksu | Classic | 1 | 3 |
 | kasespatzle | Käsespätzle | Classic | 3 | 5 |
+| kashk-e-bademjan-fried-mint-garlic | Kashk-e bademjan | Classic | 1 | 3 |
 | kedgeree-smoked-haddock-curried-rice-eggs | Kedgeree | Classic | 2 | 4 |
 | ketchup-chicken-fried-rice-folded-omelette | Omurice | Ketchup | 3 | 5 |
 | ketchup-glazed-meatloaf | Meatloaf | Ketchup-brown sugar glaze | 2 | 4 |
@@ -466,6 +469,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mushroom-lasagne | Sheets/baked (lasagne) | Mushroom | 3 | 5 |
 | mushroom-poblano-quesadillas-oregano-queso-fresco | Quesadilla | Mushroom | 3 | 5 |
 | mushroom-thyme-gravy | Gravy | Mushroom | 2 | 4 |
+| mutabbal-smoky-aubergine-tahini-pomegranate | Mutabbal | Classic | 1 | 3 |
 | naengmyeon | Naengmyeon | Classic | 2 | 4 |
 | nan-e-barbari-sesame-ridged-flatbread | Barbari bread | Classic | 2 | 4 |
 | nanaimo-bars | Nanaimo bar | Classic | 3 | 5 |
@@ -618,6 +622,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | shaken-iced-coffee-frappe-milk | Frappé coffee | Classic | 2 | 4 |
 | shakshuka | Shakshuka | Classic | 2 | 4 |
 | sicilian-style-thick-pan-pizza-onion-tomato-crisp-crumbs | Sicilian/sfincione | Classic | 2 | 4 |
+| sigeumchi-namul-sesame-spinach | Namul | Spinach (sigeumchi) | 2 | 4 |
 | signature-fudgy-brownies | Brownie (fudgy or cakey) | Classic | 2 | 4 |
 | signature-smash-burger | Smash burger | Classic | 3 | 8 |
 | silky-dark-chocolate-fudge-squares | Fudge | Classic | 2 | 4 |
@@ -705,6 +710,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
 | stuffed-corn-griddle-cakes-melted-cheese-cabbage-relish | Pupusa | Cheese | 4 | 6 |
 | stuffed-corn-griddle-cakes-refried-beans-cheese-cabbage-relish | Pupusa | Bean-cheese | 3 | 5 |
+| sukuma-wiki-collards-tomato-ginger | Sukuma wiki | Classic | 1 | 3 |
 | swedish-meatballs-cream-gravy | Meatballs | Swedish (allspice-nutmeg) | 3 | 5 |
 | sweet-cheese-danish-pastries-lemon | Danish | Cheese | 4 | 6 |
 | sweet-cheese-dumplings-sour-cream-berries | Pierogi | Sweet cheese | 3 | 5 |

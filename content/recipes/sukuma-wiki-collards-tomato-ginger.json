@@ -1,0 +1,117 @@
+{
+  "slug": "sukuma-wiki-collards-tomato-ginger",
+  "title": "Sukuma Wiki (Kenyan Collard Greens with Tomato and Ginger)",
+  "category": "snacks-sides",
+  "cuisine": "Kenyan",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "sukuma-wiki",
+  "dish_title": "Sukuma wiki",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Collard greens cut into thin ribbons and sautéed with browned onion, fresh tomato and matchsticks of ginger, cooked either crisp-tender or soft and dark.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large bowl of water",
+    "colander",
+    "chopping board and sharp knife",
+    "large frying pan or sauté pan",
+    "wooden spoon"
+  ],
+  "ingredients": [
+    {
+      "group": "Greens",
+      "qty": 450,
+      "unit": "g",
+      "item": "collard greens (about 2 bunches)",
+      "note": "washed, stalks removed, leaves cut into 5 mm ribbons"
+    },
+    {
+      "group": "Greens",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "olive or vegetable oil"
+    },
+    {
+      "group": "Greens",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "medium onion, thinly sliced",
+      "note": "about 115 g"
+    },
+    {
+      "group": "Greens",
+      "qty": 2,
+      "unit": "pc",
+      "item": "plum tomatoes, diced"
+    },
+    {
+      "group": "Greens",
+      "qty": 15,
+      "unit": "g",
+      "item": "fresh ginger, peeled and cut into fine matchsticks"
+    },
+    {
+      "group": "Greens",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Greens",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the greens",
+      "text": "Swish the leaves in a large bowl of water to remove any grit and drain. Cut out the tough central stalks, then stack a few leaves, roll them tightly and slice into thin ribbons. Thin ribbons cook quickly and evenly."
+    },
+    {
+      "title": "Cook the base",
+      "text": "Heat the oil in the pan over medium-high heat and cook the onion for 5 min until soft and lightly browned. Add the tomato, ginger and a pinch of the salt and cook for 5 min, stirring, until the tomatoes collapse."
+    },
+    {
+      "title": "Add the greens",
+      "text": "Add the collards with the rest of the salt and toss well. Cook, lowering the heat if needed, for 8-10 min for bright, slightly crunchy greens or 15-25 min for soft, dark greens. Add the lemon juice if you like and serve."
+    }
+  ],
+  "tips": [
+    "Kale or spring greens work instead of collards.",
+    "Add a crushed garlic clove or a pinch of chilli flakes with the tomatoes for a coastal-style version.",
+    "Serve with ugali, rice, chapati or grilled meat."
+  ],
+  "storage": "Refrigerate up to 3 days. Reheat in a pan until piping hot (74 °C). Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 148,
+    "protein_g": 4.2,
+    "carbs_g": 11.5,
+    "sugar_g": 3.1,
+    "free_sugar_g": 0.0,
+    "fat_g": 10.8,
+    "satfat_g": 1.5,
+    "salt_g": 0.79,
+    "fibre_g": 5.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sukuma-wiki-basic.jpg",
+  "image_alt": "Thin ribbons of dark green collards with diced tomato in a bowl.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

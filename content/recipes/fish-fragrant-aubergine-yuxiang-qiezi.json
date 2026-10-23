@@ -1,0 +1,165 @@
+{
+  "slug": "fish-fragrant-aubergine-yuxiang-qiezi",
+  "title": "Fish-Fragrant Aubergine (Yuxiang Qiezi)",
+  "category": "snacks-sides",
+  "cuisine": "Sichuan Chinese",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "dunlop-fish-fragrant-aubergine-yuxiang-qiezi",
+  "dish_title": "Dunlop fish-fragrant aubergine (yuxiang qiezi)",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Salted aubergine batons deep-fried until buttery, then braised briefly in a red, glossy sauce of chilli bean paste, garlic, ginger, stock, sugar and soy, thickened lightly and finished with black vinegar and spring onion.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 20,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "colander",
+    "wok",
+    "cooking thermometer",
+    "slotted spoon",
+    "tray lined with kitchen paper",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Aubergine",
+      "qty": 600,
+      "unit": "g",
+      "item": "aubergines, cut into 2 x 7 cm batons"
+    },
+    {
+      "group": "Aubergine",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for salting",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Aubergine",
+      "qty": 1000,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "Sichuan chilli bean paste (doubanjiang)",
+      "note": "check the label: no added alcohol"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "finely chopped garlic"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely chopped fresh ginger"
+    },
+    {
+      "group": "Sauce",
+      "qty": 150,
+      "unit": "ml",
+      "item": "hot vegetable stock or water",
+      "note": "check stock label for celery"
+    },
+    {
+      "group": "Sauce",
+      "qty": 17,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 4 tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "light soy sauce"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "potato starch"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "cold water"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "Chinkiang black vinegar"
+    },
+    {
+      "group": "Sauce",
+      "qty": 6,
+      "unit": "tbsp",
+      "item": "thinly sliced spring onion greens"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Salt the aubergine",
+      "text": "Toss the aubergine batons with the salt and leave for 30 min to draw out moisture. Rinse, drain and pat thoroughly dry. Mix the potato starch with the cold water in a small bowl."
+    },
+    {
+      "title": "Fry",
+      "text": "Heat the oil in the wok to 200 °C. Fry the aubergine in 2-3 batches for about 3 min each, until soft and lightly golden, and drain on paper."
+    },
+    {
+      "title": "Build the sauce",
+      "text": "Pour off all but 3 tbsp of the oil. Over medium heat, stir-fry the chilli bean paste until the oil turns red and fragrant, taking care not to scorch it, then add the garlic and ginger for 30 seconds. Add the stock, sugar and soy sauce and bring to the boil."
+    },
+    {
+      "title": "Braise and finish",
+      "text": "Slide in the aubergine and simmer for about 1 min, nudging the batons gently so they stay whole. Stir the starch mixture and add it in 2-3 additions, just until the sauce turns glossy and coats the aubergine. Stir in the vinegar and spring onion greens and serve."
+    }
+  ],
+  "tips": [
+    "To avoid deep-frying, toss the batons with 3 tbsp oil and roast at 220 °C for about 20 min until soft.",
+    "Chinkiang black vinegar adds a malty sourness; rice vinegar with a pinch of sugar is a lighter swap.",
+    "Equally good hot or at room temperature with steamed rice.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Refrigerate up to 2 days. Reheat gently until piping hot (74 °C) or serve at room temperature. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "soya",
+    "celery",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 180,
+    "protein_g": 2.8,
+    "carbs_g": 17.5,
+    "sugar_g": 10.4,
+    "free_sugar_g": 4.2,
+    "fat_g": 12.0,
+    "satfat_g": 1.0,
+    "salt_g": 1.42,
+    "fibre_g": 5.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "dunlop-fish-fragrant-aubergine-yuxiang-qiezi-advanced.jpg",
+  "image_alt": "Glossy red-brown braised aubergine batons scattered with spring onion in a dark bowl.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

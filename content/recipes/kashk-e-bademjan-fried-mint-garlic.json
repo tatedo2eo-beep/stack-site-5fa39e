@@ -1,0 +1,157 @@
+{
+  "slug": "kashk-e-bademjan-fried-mint-garlic",
+  "title": "Kashk-e Bademjan (Persian Aubergine with Kashk, Fried Onions and Mint)",
+  "category": "snacks-sides",
+  "cuisine": "Persian",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "kashk-e-bademjan",
+  "dish_title": "Kashk-e bademjan",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Aubergine halves fried until dark golden, braised with turmeric, mashed with kashk and simmered thick, then topped with fried onions, a swirl of kashk and garlic-mint butter. Served hot with flatbread.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 75,
+  "difficulty": "medium",
+  "equipment": [
+    "large heavy frying pan",
+    "wire rack set over a tray lined with kitchen paper",
+    "medium saucepan with lid",
+    "potato masher",
+    "small frying pan",
+    "small bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Aubergine",
+      "qty": 250,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for 4-5 cm depth"
+    },
+    {
+      "group": "Aubergine",
+      "qty": 900,
+      "unit": "g",
+      "item": "long slender aubergines, peeled and halved lengthwise"
+    },
+    {
+      "group": "Aubergine",
+      "qty": 180,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Aubergine",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground turmeric"
+    },
+    {
+      "group": "Aubergine",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Kashk",
+      "qty": 120,
+      "unit": "ml",
+      "item": "liquid kashk (fermented whey)",
+      "note": "check the label for added salt"
+    },
+    {
+      "group": "Kashk",
+      "qty": 60,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Toppings",
+      "qty": 2,
+      "unit": "pc",
+      "item": "onions, thinly sliced"
+    },
+    {
+      "group": "Toppings",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "olive oil, for the onions"
+    },
+    {
+      "group": "Toppings",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Toppings",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, crushed"
+    },
+    {
+      "group": "Toppings",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "crushed dried mint"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "flatbreads (lavash or pita), to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the toppings",
+      "text": "Fry the sliced onions in the olive oil over medium heat for 15-20 min, stirring often, until deep golden, then lift them onto kitchen paper. Loosen the kashk with the 60 ml water until it pours like single cream. Having the toppings ready means the dish reaches the table hot."
+    },
+    {
+      "title": "Fry the aubergine",
+      "text": "Heat a 6 mm layer of oil in the large pan until shimmering. Fry the aubergine halves in batches, flesh side down first, for about 10 min in total until dark golden on both sides. Rest them on the rack so the excess oil drips away."
+    },
+    {
+      "title": "Braise and mash",
+      "text": "Put the aubergine, 180 ml water, turmeric and pepper in the saucepan, bring to the boil, cover and simmer for 20 min. Stir in half the kashk and mash roughly, then simmer uncovered for 10-15 min more, stirring, until thick and spoonable."
+    },
+    {
+      "title": "Finish",
+      "text": "Melt the butter in the small pan, add the garlic for 30 seconds, then the mint for 10 seconds off the heat. Spread the aubergine in a shallow dish, swirl over the remaining kashk, spoon on the mint butter and scatter with the fried onions. Serve hot with flatbread."
+    }
+  ],
+  "tips": [
+    "Kashk is sold in jars at Persian and Middle Eastern shops; taste it before adding any salt, as it is already salty.",
+    "If you cannot find kashk, thick Greek yoghurt with a squeeze of lemon gives a milder but still tangy result.",
+    "A handful of chopped toasted walnuts on top is a common addition.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Refrigerate the aubergine base, without toppings, for up to 3 days. Reheat gently until piping hot (74 °C), then add fresh toppings. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 466,
+    "protein_g": 7.1,
+    "carbs_g": 39.4,
+    "sugar_g": 12.9,
+    "free_sugar_g": 0.4,
+    "fat_g": 32.9,
+    "satfat_g": 7.1,
+    "salt_g": 1.05,
+    "fibre_g": 8.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "kashk-e-bademjan-basic.jpg",
+  "image_alt": "A bowl of creamy mashed aubergine swirled with white kashk and topped with fried onions and mint.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

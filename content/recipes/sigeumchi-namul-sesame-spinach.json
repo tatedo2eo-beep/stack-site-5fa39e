@@ -1,0 +1,124 @@
+{
+  "slug": "sigeumchi-namul-sesame-spinach",
+  "title": "Sigeumchi Namul (Korean Sesame Spinach)",
+  "category": "snacks-sides",
+  "cuisine": "Korean",
+  "chapter": "vegetables-sides",
+  "book_chapter": "vegetables-sides",
+  "dish": "namul",
+  "dish_title": "Namul",
+  "flavour": "Spinach (sigeumchi)",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Spinach blanched for under a minute, chilled, wrung dry, cut into lengths and dressed by hand with soy sauce, sesame oil, garlic, spring onion and a dash of rice vinegar, finished with sesame seeds.",
+  "servings": 4,
+  "prep_min": 10,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot",
+    "bowl of iced water",
+    "tongs",
+    "mixing bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Spinach",
+      "qty": 450,
+      "unit": "g",
+      "item": "mature spinach, roots trimmed, washed well"
+    },
+    {
+      "group": "Spinach",
+      "qty": 3000,
+      "unit": "ml",
+      "item": "water, for blanching"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "spring onion, finely chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "rice vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "toasted sesame seeds"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blanch",
+      "text": "Bring the water to a rolling boil. Push in the spinach and cook for 30-60 seconds, just until wilted and bright green. Lift it straight into the iced water to stop the cooking."
+    },
+    {
+      "title": "Squeeze",
+      "text": "Gather the spinach into a ball and wring out as much water as you can; any water left behind dilutes the dressing. Cut the ball into 5 cm lengths and loosen the strands."
+    },
+    {
+      "title": "Dress",
+      "text": "Mix the soy sauce, sesame oil, garlic, spring onion and vinegar in the bowl. Add the spinach and work the dressing in with your fingers. Sprinkle with sesame seeds and serve at room temperature."
+    }
+  ],
+  "tips": [
+    "Wash the spinach well, especially around the root ends, where grit collects.",
+    "Crush the sesame seeds lightly between your fingers to release more aroma.",
+    "Use it as a banchan or in bibimbap."
+  ],
+  "storage": "Refrigerate up to 3 days. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soya",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 59,
+    "protein_g": 3.9,
+    "carbs_g": 5.2,
+    "sugar_g": 0.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 3.5,
+    "satfat_g": 0.5,
+    "salt_g": 0.77,
+    "fibre_g": 2.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "namul-basic--spinach-sigeumchi.jpg",
+  "image_alt": "A mound of glossy dark green seasoned spinach sprinkled with sesame seeds.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}
