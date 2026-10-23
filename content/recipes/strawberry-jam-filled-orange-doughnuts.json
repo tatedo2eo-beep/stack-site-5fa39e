@@ -1,0 +1,170 @@
+{
+  "slug": "strawberry-jam-filled-orange-doughnuts",
+  "title": "Strawberry Jam-Filled Orange Doughnuts",
+  "category": "desserts",
+  "cuisine": "International",
+  "chapter": "donuts",
+  "book_chapter": "donuts",
+  "dish": "sufganiyot",
+  "dish_title": "Sufganiyot",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Soft orange-scented doughnuts enriched with olive oil and soured cream, filled with strawberry jam.",
+  "servings": 14,
+  "prep_min": 40,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "stand mixer with dough hook (or large bowl)",
+    "6 cm round cutter",
+    "baking trays lined with lightly floured baking paper",
+    "piping bag with a 6 mm plain nozzle",
+    "chopstick or skewer",
+    "large heavy pan or casserole, at least 24 cm wide",
+    "deep-frying or probe thermometer",
+    "slotted spoon or spider",
+    "wire rack over a tray lined with kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 400,
+      "unit": "g",
+      "item": "strong white bread flour",
+      "note": "plus extra for patting out"
+    },
+    {
+      "group": "Dough",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "orange, finely grated zest only"
+    },
+    {
+      "group": "Dough",
+      "qty": 190,
+      "unit": "ml",
+      "item": "water, lukewarm (about 38 °C)"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Dough",
+      "qty": 40,
+      "unit": "ml",
+      "item": "olive oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "To fry",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for about 4 cm depth"
+    },
+    {
+      "group": "Filling",
+      "qty": 300,
+      "unit": "g",
+      "item": "smooth strawberry jam"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the dough",
+      "text": "Whisk the flour, sugar, yeast, salt and orange zest in the mixer bowl. In a jug whisk the water, soured cream, olive oil, egg and vanilla, pour them in and knead on medium-low for about 8 min until the dough is smooth and soft."
+    },
+    {
+      "title": "First rise",
+      "text": "Cover and leave in a warm spot for 1-1.5 h, until doubled."
+    },
+    {
+      "title": "Cut the rounds",
+      "text": "Knock back the dough, pat it out 1.5 cm thick on a floured surface and stamp out 6 cm rounds. Press the scraps together once and cut again to get 14. Place them on the lined trays."
+    },
+    {
+      "title": "Prove",
+      "text": "Cover loosely and leave for 30-40 min until puffy and light."
+    },
+    {
+      "title": "Heat the oil",
+      "text": "Pour oil into the wide pan until it is roughly 4 cm deep (half full at most) and bring it up to 170 °C on the thermometer."
+    },
+    {
+      "title": "Fry",
+      "text": "Fry 4 at a time for 1.5-2 min a side at 165-170 °C, until deep golden with a pale ring around the middle; a probe in the centre should read about 90 °C. Drain on the rack and let them cool for 15 min."
+    },
+    {
+      "title": "Fill",
+      "text": "Push the chopstick down through the top of each doughnut to the centre and wiggle it to open a pocket. Pipe in about 20 g of jam, drawing the nozzle out slowly so a little dome of jam sits on top."
+    }
+  ],
+  "tips": [
+    "The most common mistake is frying too hot; the small rounds brown in seconds and stay raw inside, so keep to 165-170 °C.",
+    "Let them cool before filling or the jam will run out.",
+    "Smooth, seedless jam pipes much more easily than chunky jam.",
+    "Raspberry or cherry jam works just as well.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day. Keep for up to 1 day in an airtight container at room temperature.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 296,
+    "protein_g": 4.3,
+    "carbs_g": 38.9,
+    "sugar_g": 13.5,
+    "free_sugar_g": 13.3,
+    "fat_g": 13.6,
+    "satfat_g": 1.7,
+    "salt_g": 0.45,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sufganiyot-basic.jpg",
+  "image_alt": "Golden filled doughnuts topped with a small dome of red jam.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

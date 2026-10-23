@@ -157,6 +157,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chow-mein | Chow mein/lo mein | Classic | 3 | 5 |
 | chunky-garden-vegetable-soup-tomato-herbs | Vegetable | Classic | 2 | 4 |
 | cinnamon-almond-rice-horchata-lime-zest | Horchata | Classic | 2 | 4 |
+| cinnamon-glazed-apple-fritters | Fritters/apple fritters | Classic | 1 | 3 |
 | cinnamon-raisin-bagels-cream-cheese | Bagels | Cinnamon-raisin | 2 | 4 |
 | cinnamon-streusel-coffee-cake | Coffee cake | Cinnamon streusel | 2 | 4 |
 | cinnamon-sugar-buttermilk-cake-doughnuts | Cake doughnut | Classic | 2 | 4 |
@@ -352,6 +353,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | golden-cauliflower-cheese | Cauliflower cheese | Classic | 2 | 4 |
 | golden-crab-cakes-paprika-lemon-mayonnaise | Crab cakes | Classic | 4 | 6 |
 | golden-crisp-cheddar-grilled-cheese-sandwich | Grilled cheese | Classic | 2 | 4 |
+| golden-hawaiian-style-malasadas | Malasadas | Classic | 1 | 3 |
 | golden-honeycomb-toffee | Honeycomb | Classic | 2 | 4 |
 | golden-olive-oil-focaccia-flaky-sea-salt | Focaccia | Classic | 2 | 4 |
 | golden-sour-cream-corn-muffins | Corn muffin | Classic | 2 | 4 |
@@ -390,6 +392,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | homemade-chocolate-milk-cocoa-syrup | Chocolate milk | Classic | 2 | 4 |
 | homemade-sauerkraut | Sauerkraut | Classic | 2 | 4 |
 | honey-glazed-corn-muffins | Corn muffin | Honey | 1 | 3 |
+| honey-glazed-french-crullers | Cruller/French cruller (choux) | Classic | 1 | 3 |
 | honey-maple-nut-granola-raisins | Granola | Classic | 2 | 4 |
 | honey-pistachio-almond-nougat | Nougat | Classic | 1 | 4 |
 | honey-whole-wheat-sandwich-loaf | Whole wheat | Classic | 2 | 4 |
@@ -604,6 +607,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pressed-pesto-mozzarella-tomato-panini | Panini | Classic | 2 | 4 |
 | provencal-vegetable-tian-thyme-garlic | Tian | Classic | 2 | 4 |
 | provolone-philly-cheesesteaks-melted-provolone-onions | Philly cheesesteak | Provolone | 2 | 4 |
+| puffy-new-orleans-style-beignets | Beignets | Classic | 1 | 3 |
 | pumpkin-soup-caramelised-onion-sage | Pumpkin soup | Classic | 2 | 4 |
 | pumpkin-whoopie-pies | Whoopie pie | Pumpkin | 2 | 4 |
 | quick-tomato-paste-ketchup | Ketchup | Classic | 1 | 3 |
@@ -741,6 +745,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | stovetop-mac-and-cheese | Mac and cheese | Stovetop | 3 | 5 |
 | strained-yoghurt-labneh-olive-oil-fresh-mint | Labneh | Classic | 2 | 4 |
 | strawberry-eton-mess | Eton mess | Classic | 2 | 4 |
+| strawberry-jam-filled-orange-doughnuts | Sufganiyot | Classic | 1 | 3 |
 | stroopwafels | Stroopwafel | Classic | 2 | 4 |
 | stuffed-corn-griddle-cakes-melted-cheese-cabbage-relish | Pupusa | Cheese | 4 | 6 |
 | stuffed-corn-griddle-cakes-refried-beans-cheese-cabbage-relish | Pupusa | Bean-cheese | 3 | 5 |

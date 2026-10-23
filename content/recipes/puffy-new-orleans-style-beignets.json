@@ -1,0 +1,147 @@
+{
+  "slug": "puffy-new-orleans-style-beignets",
+  "title": "Puffy New Orleans-Style Beignets",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "donuts",
+  "book_chapter": "donuts",
+  "dish": "beignets",
+  "dish_title": "Beignets",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Soft yeasted dough cut into squares and fried until puffed into light, golden pillows.",
+  "servings": 6,
+  "prep_min": 30,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "2 large bowls",
+    "whisk",
+    "sturdy spatula or wooden spoon",
+    "rolling pin",
+    "pizza wheel or sharp knife",
+    "baking tray dusted with flour",
+    "large heavy pan or casserole, at least 24 cm wide",
+    "deep-frying or probe thermometer",
+    "slotted spoon or spider",
+    "wire rack over a tray lined with kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk, lukewarm (about 38 °C)"
+    },
+    {
+      "group": "Dough",
+      "qty": 40,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 425,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "plus plenty for rolling"
+    },
+    {
+      "group": "Dough",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Dough",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled"
+    },
+    {
+      "group": "To fry",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for about 4 cm depth"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Wake the yeast",
+      "text": "Whisk the lukewarm milk with 10 g of the sugar and the yeast in a large bowl. After about 5 min the surface should look slightly foamy."
+    },
+    {
+      "title": "Make the dough",
+      "text": "In the other bowl, whisk the flour with the rest of the sugar and the salt. Beat the eggs and cooled butter into the milk, tip in the dry mix and stir firmly for about 2 min until you have a soft, sticky dough with no dry flour left."
+    },
+    {
+      "title": "Let it rise",
+      "text": "Cover the bowl and leave it somewhere warm for about 1 h, until almost doubled. Chill it for 20 min; cold dough rolls far more easily."
+    },
+    {
+      "title": "Roll and cut",
+      "text": "Turn the dough out onto a generously floured surface, dust the top and roll it to 6 mm thick, roughly 30 x 23 cm. Use the pizza wheel to cut 24 squares of about 7.5 cm and lay them on the floured tray."
+    },
+    {
+      "title": "Heat the oil",
+      "text": "Fill the pan with oil to about 4 cm, keeping it no more than half full, and heat it to 180 °C."
+    },
+    {
+      "title": "Fry",
+      "text": "Fry 6 squares at a time for about 3 min, flipping halfway, until they puff into pillows and turn golden on both sides; keep the oil between 170 and 180 °C. Lift them onto the rack and let the oil return to 180 °C before the next batch."
+    },
+    {
+      "title": "Serve",
+      "text": "Eat them warm, ideally within 30 min, while they are still crisp outside and steamy within."
+    }
+  ],
+  "tips": [
+    "The most common mistake is rolling the dough too thick; at more than 6 mm the squares stay bready instead of puffing hollow.",
+    "If the squares sink and stay down, the oil is too cool; wait for 180 °C.",
+    "Use plenty of flour on the surface; the dough is soft and sticky.",
+    "For the classic café look, shower them with icing sugar just before eating.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best eaten fresh. Cooled beignets keep for a day in an airtight container; refresh in a 180 °C oven for 4-5 min.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 505,
+    "protein_g": 11.2,
+    "carbs_g": 63.3,
+    "sugar_g": 9.0,
+    "free_sugar_g": 6.7,
+    "fat_g": 22.8,
+    "satfat_g": 5.1,
+    "salt_g": 0.84,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "beignets-basic.jpg",
+  "image_alt": "Puffed golden beignet squares, one torn open to show the airy inside.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

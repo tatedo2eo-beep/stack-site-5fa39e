@@ -1,0 +1,174 @@
+{
+  "slug": "cinnamon-glazed-apple-fritters",
+  "title": "Cinnamon-Glazed Apple Fritters",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "donuts",
+  "book_chapter": "donuts",
+  "dish": "fritters-apple-fritters",
+  "dish_title": "Fritters/apple fritters",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Craggy fritters packed with tart apple in a cinnamon batter, glazed with apple juice icing.",
+  "servings": 10,
+  "prep_min": 25,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "kitchen paper",
+    "2 large bowls",
+    "whisk",
+    "spatula",
+    "ice-cream scoop or ladle (about 80 ml)",
+    "pastry brush",
+    "large heavy pan or casserole, at least 24 cm wide",
+    "deep-frying or probe thermometer",
+    "slotted spoon or spider",
+    "wire rack over a tray lined with kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large tart apples (such as Granny Smith), peeled, cored and cut into 1 cm dice"
+    },
+    {
+      "group": "Batter",
+      "qty": 250,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Batter",
+      "qty": 2.5,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Batter",
+      "qty": 4.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¾ tsp"
+    },
+    {
+      "group": "Batter",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    },
+    {
+      "group": "Batter",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground nutmeg"
+    },
+    {
+      "group": "Batter",
+      "qty": 180,
+      "unit": "ml",
+      "item": "cloudy apple juice"
+    },
+    {
+      "group": "Batter",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Batter",
+      "qty": 40,
+      "unit": "g",
+      "item": "unsalted butter, melted"
+    },
+    {
+      "group": "To fry",
+      "qty": 1500,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for about 4 cm depth"
+    },
+    {
+      "group": "Glaze",
+      "qty": 200,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Glaze",
+      "qty": 50,
+      "unit": "ml",
+      "item": "cloudy apple juice"
+    },
+    {
+      "group": "Glaze",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dry the apples",
+      "text": "Lay the diced apple on kitchen paper and pat it well dry; wet apple makes the batter slip off."
+    },
+    {
+      "title": "Make the batter",
+      "text": "Whisk the flour, sugar, baking powder, salt, cinnamon and nutmeg in a large bowl and toss in the apple. Whisk the 180 ml apple juice, eggs and melted butter in another bowl, pour over and fold just until combined. It should be thick and lumpy with apple."
+    },
+    {
+      "title": "Heat the oil",
+      "text": "Fill the pan with oil to about 3 cm, keeping it no more than half full, and heat it to 175 °C."
+    },
+    {
+      "title": "Fry",
+      "text": "Drop in 4 scoops of batter and press each gently to about 2 cm thick. Fry 2-3 min a side at 170-175 °C until deep golden brown and a cocktail stick pushed into the thickest part comes out clean. Drain on the rack and repeat to make 10."
+    },
+    {
+      "title": "Glaze",
+      "text": "Whisk the icing sugar, 50 ml apple juice and cinnamon until smooth. Brush or spoon it over the warm fritters so it runs into every crag, then leave for 10 min to set."
+    }
+  ],
+  "tips": [
+    "The most common mistake is making the fritters too thick; press them to 2 cm so the middle cooks before the outside burns.",
+    "Use a tart, firm apple that keeps its shape.",
+    "Glaze while warm so the icing sinks in and sets thin.",
+    "Fold the batter only until combined; overmixing makes them tough.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day. Keep for up to 1 day in an airtight container at room temperature.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 351,
+    "protein_g": 4.0,
+    "carbs_g": 52.5,
+    "sugar_g": 30.7,
+    "free_sugar_g": 26.8,
+    "fat_g": 14.6,
+    "satfat_g": 3.2,
+    "salt_g": 0.77,
+    "fibre_g": 1.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "fritters-apple-fritters-basic.jpg",
+  "image_alt": "Craggy glazed apple fritters studded with apple pieces.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

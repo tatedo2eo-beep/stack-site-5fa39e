@@ -1,0 +1,161 @@
+{
+  "slug": "golden-hawaiian-style-malasadas",
+  "title": "Golden Hawaiian-Style Malasadas",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "donuts",
+  "book_chapter": "donuts",
+  "dish": "malasadas",
+  "dish_title": "Malasadas",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Rich, eggy yeasted doughnut balls made with evaporated milk and fried until deep golden.",
+  "servings": 12,
+  "prep_min": 30,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "stand mixer with dough hook",
+    "jug and whisk",
+    "oiled spatula",
+    "large oiled bowl",
+    "baking tray brushed with oil",
+    "large heavy pan or casserole, at least 24 cm wide",
+    "deep-frying or probe thermometer",
+    "slotted spoon or spider",
+    "wire rack over a tray lined with kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 350,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 50,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Dough",
+      "qty": 7,
+      "unit": "g",
+      "item": "instant (fast-action) dried yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 100,
+      "unit": "ml",
+      "item": "evaporated milk"
+    },
+    {
+      "group": "Dough",
+      "qty": 80,
+      "unit": "ml",
+      "item": "water, lukewarm (about 38 °C)"
+    },
+    {
+      "group": "Dough",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Dough",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled"
+    },
+    {
+      "group": "Dough",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "neutral oil, for the tray and your hands"
+    },
+    {
+      "group": "To fry",
+      "qty": 2000,
+      "unit": "ml",
+      "item": "neutral frying oil (sunflower, rapeseed or vegetable)",
+      "note": "for about 4 cm depth"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix the dough",
+      "text": "Whisk the flour, sugar, yeast and salt together in the mixer bowl. Whisk the evaporated milk, warm water, eggs and cooled butter in the jug, pour into the bowl and run the mixer on low for about 2 min until everything comes together."
+    },
+    {
+      "title": "Knead",
+      "text": "Turn the speed to medium and knead for about 8 min. The dough should become glossy and elastic but stay sticky and cling to the bowl; do not add extra flour."
+    },
+    {
+      "title": "First rise",
+      "text": "Scrape the dough into the oiled bowl with an oiled spatula, cover and leave at room temperature for 1.5-2 h until doubled."
+    },
+    {
+      "title": "Shape",
+      "text": "Turn the dough onto the oiled tray, press out the air and cut it into 12 pieces of about 60 g. With oiled hands roll each into a smooth ball, flatten it slightly to about 6 cm across and space them well apart."
+    },
+    {
+      "title": "Prove",
+      "text": "Cover loosely and leave for 30-45 min. They are ready when they look puffy and a light fingertip press leaves a dent that slowly fills back."
+    },
+    {
+      "title": "Heat the oil",
+      "text": "Fill the pan with oil to about 4 cm, keeping it no more than half full, and heat it to 170 °C."
+    },
+    {
+      "title": "Fry",
+      "text": "Lower 3-4 balls gently into the oil and fry for 2-3 min a side, holding the oil between 165 and 175 °C, until deep golden with a pale band around the middle. The centre should read about 90 °C on a probe. Drain on the rack."
+    },
+    {
+      "title": "Serve",
+      "text": "Serve warm on the day they are made."
+    }
+  ],
+  "tips": [
+    "The most common mistake is frying in oil that is too hot; the outside darkens before the rich centre cooks, so stay at 165-175 °C.",
+    "Resist adding flour while kneading; the sticky dough is what makes them so light.",
+    "Handle the proved balls gently so they do not deflate.",
+    "For the traditional finish, roll them in caster sugar while still warm.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best on the day. Keep leftovers in an airtight container for up to 1 day and warm in a 160 °C oven for 5 min.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 250,
+    "protein_g": 5.4,
+    "carbs_g": 26.5,
+    "sugar_g": 4.3,
+    "free_sugar_g": 4.2,
+    "fat_g": 13.6,
+    "satfat_g": 2.7,
+    "salt_g": 0.3,
+    "fibre_g": 0.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "malasadas-basic.jpg",
+  "image_alt": "Round golden malasadas with a pale band, one torn open.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
