@@ -1,0 +1,180 @@
+{
+  "slug": "sticky-toffee-pudding-date-sponge",
+  "title": "Sticky Toffee Pudding",
+  "category": "desserts",
+  "cuisine": "British",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "sticky-toffee-pudding",
+  "dish_title": "Sticky toffee pudding",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A soft, dark date sponge baked in a square tin, soaked with hot toffee sauce made from butter, dark brown sugar and cream, and served warm.",
+  "servings": 9,
+  "prep_min": 25,
+  "cook_min": 40,
+  "difficulty": "easy",
+  "equipment": [
+    "20 cm square cake tin",
+    "baking paper",
+    "heatproof bowl",
+    "food processor or stick blender",
+    "mixing bowl",
+    "electric whisk",
+    "medium saucepan",
+    "whisk",
+    "wooden skewer",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Sponge",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "soft unsalted butter, for the tin"
+    },
+    {
+      "group": "Sponge",
+      "qty": 225,
+      "unit": "g",
+      "item": "pitted dates, chopped"
+    },
+    {
+      "group": "Sponge",
+      "qty": 240,
+      "unit": "ml",
+      "item": "boiling water"
+    },
+    {
+      "group": "Sponge",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "bicarbonate of soda"
+    },
+    {
+      "group": "Sponge",
+      "qty": 175,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Sponge",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "baking powder"
+    },
+    {
+      "group": "Sponge",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Sponge",
+      "qty": 60,
+      "unit": "g",
+      "item": "soft unsalted butter"
+    },
+    {
+      "group": "Sponge",
+      "qty": 150,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Sponge",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large eggs, at room temperature"
+    },
+    {
+      "group": "Sponge",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Toffee sauce",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Toffee sauce",
+      "qty": 170,
+      "unit": "g",
+      "item": "dark brown sugar"
+    },
+    {
+      "group": "Toffee sauce",
+      "qty": 240,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Toffee sauce",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Soak the dates",
+      "text": "Put the chopped dates in the heatproof bowl, pour over the boiling water and stir in the bicarbonate. Leave for 15 min, then blend to a rough purée; the bicarbonate softens the skins and darkens the sponge."
+    },
+    {
+      "title": "Make the batter",
+      "text": "Heat the oven to 175 °C (155 °C fan) and butter and line the tin. Whisk the flour, baking powder and salt together. Beat the 60 g butter with the 150 g sugar for 2-3 min until fluffy, then beat in the eggs one at a time and the vanilla. Fold in the flour and date purée just until no streaks remain, so the sponge stays tender."
+    },
+    {
+      "title": "Bake",
+      "text": "Scrape the batter into the tin and bake for 30-35 min, until risen and springy and a skewer pushed into the centre comes out clean."
+    },
+    {
+      "title": "Make the toffee sauce",
+      "text": "While it bakes, melt the 115 g butter with the 170 g sugar in the saucepan. Whisk in the cream and salt and simmer for 3-4 min until glossy and slightly thickened."
+    },
+    {
+      "title": "Soak and serve",
+      "text": "Poke the hot sponge all over with the skewer, pour over a third of the sauce and leave for 10 min to soak in. Cut into 9 squares and serve warm with the rest of the hot sauce."
+    }
+  ],
+  "tips": [
+    "A common mistake is overbaking, which dries the sponge; start checking at 30 min.",
+    "Medjool dates give the softest, richest result.",
+    "Make the sauce ahead and reheat until bubbling just before serving.",
+    "Serve with vanilla ice cream or a little extra cold cream.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep the pudding and sauce covered in the fridge for up to 3 days. Reheat squares with some sauce in the microwave or a low oven until piping hot. The sponge freezes for up to 2 months.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 527,
+    "protein_g": 4.8,
+    "carbs_g": 69.5,
+    "sugar_g": 52.1,
+    "free_sugar_g": 34.6,
+    "fat_g": 27.1,
+    "satfat_g": 16.8,
+    "salt_g": 0.83,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "sticky-toffee-pudding-advanced.jpg",
+  "image_alt": "A square of dark date sponge on a dark plate, soaked in glossy toffee sauce.",
+  "inspired_by": [
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

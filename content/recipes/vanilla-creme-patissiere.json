@@ -1,0 +1,128 @@
+{
+  "slug": "vanilla-creme-patissiere",
+  "title": "Vanilla Crème Pâtissière (Pastry Cream)",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "creme-patissiere",
+  "dish_title": "Crème pâtissière",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A thick, smooth vanilla pastry cream of milk, egg yolks and cornflour, boiled briefly, finished with butter and chilled for piping or spreading.",
+  "servings": 8,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "medium",
+  "equipment": [
+    "medium saucepan",
+    "large mixing bowl",
+    "whisk",
+    "fine sieve",
+    "shallow dish",
+    "cling film",
+    "piping bag with star nozzle (optional)"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry cream",
+      "qty": 480,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Pastry cream",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Pastry cream",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "Pastry cream",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Pastry cream",
+      "qty": 5,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Pastry cream",
+      "qty": 55,
+      "unit": "g",
+      "item": "cold unsalted butter, cut into 4 pieces"
+    },
+    {
+      "group": "Pastry cream",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the yolk base",
+      "text": "Whisk the yolks, 25 g of the sugar and the cornflour in the bowl for about 1 min until pale and thick. Heat the milk, salt and remaining sugar in the saucepan until it just begins to simmer."
+    },
+    {
+      "title": "Temper",
+      "text": "Whisk half the hot milk into the yolks in a thin stream. Warming the yolks gradually stops them scrambling, then pour everything back into the pan."
+    },
+    {
+      "title": "Boil the custard",
+      "text": "Whisk constantly over medium heat until the cream thickens and a few large bubbles burst on the surface. Keep whisking for 1 min more; this takes it well past 82 °C and cooks out the cornflour so it sets firmly instead of thinning."
+    },
+    {
+      "title": "Finish",
+      "text": "Take it off the heat and whisk in the cold butter and vanilla until smooth. Push it through the sieve into the shallow dish to remove any lumps."
+    },
+    {
+      "title": "Chill",
+      "text": "Press cling film onto the surface so no skin forms and chill for at least 3 h. Whisk it smooth before piping or spreading."
+    }
+  ],
+  "tips": [
+    "A common mistake is stopping before the cream boils, which leaves it tasting of starch and turning runny.",
+    "Keep the whisk moving across the base of the pan, where it catches first.",
+    "A shallow dish lets the custard cool quickly and safely.",
+    "For a lighter filling, fold in some softly whipped cream just before using.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days. Not suitable for freezing.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 184,
+    "protein_g": 3.7,
+    "carbs_g": 18.7,
+    "sugar_g": 15.8,
+    "free_sugar_g": 12.6,
+    "fat_g": 10.4,
+    "satfat_g": 5.7,
+    "salt_g": 0.13,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "creme-patissiere-advanced.jpg",
+  "image_alt": "A dark bowl of thick, pale yellow vanilla pastry cream piped in a soft swirl.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "King Arthur Baking"
+  ]
+}

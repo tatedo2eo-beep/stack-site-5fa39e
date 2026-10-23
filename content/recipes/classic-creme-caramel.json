@@ -1,0 +1,156 @@
+{
+  "slug": "classic-creme-caramel",
+  "title": "Classic Crème Caramel",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "creme-caramel-flan",
+  "dish_title": "Crème caramel/flan",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Silky individual custards of milk, cream and eggs baked gently over a dark caramel, chilled and turned out so the caramel runs down as a sauce.",
+  "servings": 8,
+  "prep_min": 30,
+  "cook_min": 55,
+  "difficulty": "medium",
+  "equipment": [
+    "light-coloured medium saucepan",
+    "eight 170 ml ramekins",
+    "medium saucepan",
+    "large mixing bowl",
+    "whisk",
+    "fine sieve",
+    "jug",
+    "deep roasting tin",
+    "clean tea towel",
+    "kettle",
+    "foil",
+    "instant-read thermometer",
+    "small palette knife",
+    "serving plates"
+  ],
+  "ingredients": [
+    {
+      "group": "Caramel",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Caramel",
+      "qty": 80,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Caramel",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Custard",
+      "qty": 540,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 180,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large eggs"
+    },
+    {
+      "group": "Custard",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 130,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Custard",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the caramel",
+      "text": "Put the sugar, water and lemon juice in the light-coloured pan and bring to a simmer over medium-high heat without stirring, brushing down the sides with a wet brush. Boil, swirling the pan now and then, for 10-13 min until the syrup is a deep honey-amber. A pale pan lets you judge the colour; stop before it smokes or it will taste bitter."
+    },
+    {
+      "title": "Coat the ramekins",
+      "text": "Pour the caramel straight into the ramekins and tilt each one so the base is covered. Leave them for 15 min so the caramel hardens before the custard goes in."
+    },
+    {
+      "title": "Make the custard",
+      "text": "Heat the oven to 165 °C (145 °C fan). Warm the milk and cream in the second pan for about 6 min until steaming. Whisk the eggs, yolks and sugar only until combined, then whisk in the hot milk, vanilla and salt gently so you do not raise foam, and strain into the jug."
+    },
+    {
+      "title": "Bake",
+      "text": "Lay the tea towel in the roasting tin and set the ramekins on it, then fill them with custard. Pour boiling water into the tin to halfway up the ramekins, cover the tin loosely with foil and bake for 35-45 min. They are done when a knife pushed in halfway between the centre and edge comes out clean and the centre reads about 80 °C; the towel stops the bases overheating."
+    },
+    {
+      "title": "Chill",
+      "text": "Cool the ramekins on a rack for 30 min, then cover and chill for at least 4 h. This long rest also lets the hard caramel dissolve into a sauce."
+    },
+    {
+      "title": "Turn out",
+      "text": "Run the palette knife round each custard, put a plate over the top and flip it over. Give a gentle shake so the custard drops out with all its caramel."
+    }
+  ],
+  "tips": [
+    "The most common mistake is boiling the custard mixture or baking too hot, which leaves the custard full of holes; keep the oven at 165 °C and the water bath topped up.",
+    "Swirl rather than stir the caramel, as a spoon can make it crystallise.",
+    "Soak the caramel pan in hot water and it will clean itself.",
+    "Make them a day ahead: the caramel turns into more sauce overnight."
+  ],
+  "storage": "Keep covered in the ramekins in the fridge for up to 2 days and turn out just before serving. Not suitable for freezing.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 321,
+    "protein_g": 5.9,
+    "carbs_g": 45.6,
+    "sugar_g": 45.5,
+    "free_sugar_g": 41.3,
+    "fat_g": 13.3,
+    "satfat_g": 7.5,
+    "salt_g": 0.25,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "creme-caramel-flan-basic.jpg",
+  "image_alt": "A turned-out crème caramel on a dark plate, glossy amber caramel running down its sides.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}

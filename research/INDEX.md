@@ -139,6 +139,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-cheese-quiche | Quiche (cheese) | Classic | 2 | 4 |
 | classic-cheeseburger | Cheeseburger | Classic | 4 | 7 |
 | classic-creamed-spinach | Creamed spinach | Classic | 2 | 4 |
+| classic-creme-caramel | Crème caramel/flan | Classic | 2 | 4 |
 | classic-deviled-eggs-paprika-chives | Deviled eggs | Classic | 3 | 5 |
 | classic-french-toast-cinnamon-sugar-maple | French toast | Classic | 2 | 4 |
 | classic-fresh-squeezed-lemonade | Lemonade | Classic | 2 | 4 |
@@ -149,6 +150,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-pumpkin-pie | Pumpkin pie | Classic | 2 | 4 |
 | classic-smash-burger | Smash burger | Cheese | 3 | 7 |
 | classic-strawberry-jam | Strawberry jam | Classic | 2 | 4 |
+| classic-vanilla-creme-brulee | Crème brûlée | Classic | 3 | 5 |
 | clear-white-chicken-stock-slow-simmered | White/brown chicken | Classic | 2 | 4 |
 | cod-baked-in-parchment-vegetables-lemon-dill | En papillote | Classic | 4 | 6 |
 | colcannon-kale-butter-well | Colcannon | Classic | 2 | 4 |
@@ -529,6 +531,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | sicilian-style-thick-pan-pizza-onion-tomato-crisp-crumbs | Sicilian/sfincione | Classic | 2 | 4 |
 | signature-fudgy-brownies | Brownie (fudgy or cakey) | Classic | 2 | 4 |
 | signature-smash-burger | Smash burger | Classic | 3 | 8 |
+| silky-dark-chocolate-pudding | Chocolate pudding | Classic | 2 | 4 |
 | silky-egg-custard-pie | Custard pie | Classic | 2 | 4 |
 | silky-hummus-tahini-lemon-cumin | Hummus | Classic | 3 | 5 |
 | silky-potato-leek-soup-chives-crispy-leeks | Potato-leek | Classic | 3 | 5 |
@@ -597,6 +600,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | steamed-masa-parcels-chicken-tomatillo-salsa-verde | Tamal | Chicken in salsa verde | 2 | 4 |
 | steamed-masa-parcels-red-chilli-chicken | Tamal | Classic | 2 | 4 |
 | steamed-whole-sea-bass-ginger-spring-onions-sizzling-oil | Cantonese steamed whole fish | Classic | 3 | 5 |
+| sticky-toffee-pudding-date-sponge | Sticky toffee pudding | Classic | 2 | 4 |
 | stir-fried-tomato-scrambled-eggs | Stir-fried tomato and scrambled eggs | Classic | 2 | 4 |
 | stovetop-buttered-popcorn | Popcorn | Classic | 3 | 5 |
 | stovetop-mac-and-cheese | Mac and cheese | Stovetop | 3 | 5 |
@@ -650,7 +654,9 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | upside-down-spiced-rice-chicken-roasted-aubergine | Maqluba | Eggplant | 3 | 5 |
 | upside-down-spiced-rice-chicken-roasted-cauliflower | Maqluba | Cauliflower | 3 | 5 |
 | vanilla-bundt-cake | Bundt | Classic | 2 | 4 |
+| vanilla-creme-patissiere | Crème pâtissière | Classic | 2 | 4 |
 | vanilla-cupcakes | Cupcakes | Classic | 2 | 4 |
+| vanilla-panna-cotta-raspberry-sauce | Panna cotta | Classic | 3 | 5 |
 | vanilla-raspberry-mousse-cake | Entremets (mousse cake) | Classic | 2 | 4 |
 | vegetable-chow-mein | Chow mein/lo mein | Vegetable | 2 | 4 |
 | vegetable-fried-rice-red-pepper-peas-sweetcorn | Fried rice | Vegetable | 3 | 5 |

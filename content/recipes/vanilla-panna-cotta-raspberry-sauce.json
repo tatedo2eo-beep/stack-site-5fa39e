@@ -1,0 +1,150 @@
+{
+  "slug": "vanilla-panna-cotta-raspberry-sauce",
+  "title": "Vanilla Panna Cotta with Raspberry Sauce",
+  "category": "desserts",
+  "cuisine": "Italian",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "panna-cotta",
+  "dish_title": "Panna cotta",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Vanilla cream set with powdered beef gelatine, turned out of the moulds and topped with a simple cooked raspberry sauce.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "six 150 ml ramekins or moulds",
+    "medium saucepan",
+    "whisk",
+    "jug",
+    "small saucepan",
+    "fine sieve",
+    "baking tray",
+    "serving plates"
+  ],
+  "ingredients": [
+    {
+      "group": "Panna cotta",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "neutral oil, for the moulds"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 2.5,
+      "unit": "tsp",
+      "item": "powdered beef gelatine",
+      "note": "about 7 g; beef (bovine) gelatine"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 600,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 90,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Panna cotta",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.0625 tsp"
+    },
+    {
+      "group": "Raspberry sauce",
+      "qty": 200,
+      "unit": "g",
+      "item": "raspberries, fresh or frozen"
+    },
+    {
+      "group": "Raspberry sauce",
+      "qty": 40,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Raspberry sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "lemon juice"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Oil the moulds",
+      "text": "Brush the moulds very lightly with oil, then wipe out almost all of it with kitchen paper and stand them on the tray. The thin film helps the cream slip out later without tasting oily."
+    },
+    {
+      "title": "Bloom the gelatine",
+      "text": "Pour the milk into the medium saucepan and sprinkle the powdered beef gelatine evenly over the surface. Leave for 5 min until it swells and looks wrinkled; soaking first stops lumps."
+    },
+    {
+      "title": "Dissolve and add cream",
+      "text": "Warm the pan over low heat, stirring, for about 2 min until no grains remain; do not let it boil, as strong heat weakens the gelatine. Stir in the sugar until it dissolves, then take off the heat and whisk in the cream, vanilla and salt."
+    },
+    {
+      "title": "Set",
+      "text": "Pour into the jug and share between the moulds. Chill uncovered for 1 h, then cover and chill for at least 5 h more, until set but still wobbly."
+    },
+    {
+      "title": "Make the sauce",
+      "text": "Cook the raspberries, icing sugar and lemon juice in the small pan over medium heat for 4-5 min until the fruit collapses. Press through the sieve to remove the seeds and leave to cool."
+    },
+    {
+      "title": "Turn out and serve",
+      "text": "Dip each mould in hot water for 5-10 s, run a thin knife round the top edge and turn it out onto a plate. Spoon a little raspberry sauce over the top."
+    }
+  ],
+  "tips": [
+    "A common mistake is adding extra gelatine 'to be safe', which gives a rubbery set; 7 g for this amount of cream is plenty.",
+    "Use powdered beef gelatine and check that the pack says beef (bovine).",
+    "If a panna cotta will not release, dip it in hot water for a few seconds longer rather than shaking hard.",
+    "Frozen raspberries work as well as fresh for the sauce."
+  ],
+  "storage": "Keep the panna cotta covered in the moulds in the fridge for up to 2 days and the sauce for up to 4 days. Not suitable for freezing.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 476,
+    "protein_g": 5.5,
+    "carbs_g": 30.7,
+    "sugar_g": 28.1,
+    "free_sugar_g": 21.7,
+    "fat_g": 37.8,
+    "satfat_g": 23.8,
+    "salt_g": 0.18,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "panna-cotta-basic.jpg",
+  "image_alt": "A white vanilla panna cotta turned out on a dark plate, topped with a spoonful of red raspberry sauce.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

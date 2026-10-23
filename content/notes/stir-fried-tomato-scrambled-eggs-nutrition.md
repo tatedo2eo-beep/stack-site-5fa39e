@@ -31,5 +31,5 @@ Servings: 3. Source: USDA FoodData Central per-100 g values (SR Legacy/FDC ids l
 
 ## Assumptions
 - Salt: 1 tsp fine salt taken as 6 g.
-- No cooking wine; a little sugar balances the tomatoes.
+- A little sugar balances the tomatoes.
 - A serving is about 330 g, without rice.

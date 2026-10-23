@@ -1,0 +1,133 @@
+{
+  "slug": "classic-vanilla-creme-brulee",
+  "title": "Classic Vanilla Crème Brûlée",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "creme-brulee",
+  "dish_title": "Crème brûlée",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A rich vanilla custard of cream, milk and egg yolks baked gently in a water bath, chilled, then topped with demerara sugar torched to a crisp amber shell.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "medium saucepan with lid",
+    "large mixing bowl",
+    "whisk",
+    "fine sieve",
+    "jug",
+    "six 170 ml ramekins",
+    "deep roasting tin",
+    "kettle",
+    "instant-read thermometer",
+    "kitchen blowtorch"
+  ],
+  "ingredients": [
+    {
+      "group": "Custard",
+      "qty": 480,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Custard",
+      "qty": 240,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "pc",
+      "item": "vanilla pod, split lengthwise",
+      "note": "or 2 tsp alcohol-free vanilla extract"
+    },
+    {
+      "group": "Custard",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Custard",
+      "qty": 7,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Custard",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Topping",
+      "qty": 25,
+      "unit": "g",
+      "item": "demerara sugar",
+      "note": "about 6 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Infuse the cream",
+      "text": "Put the cream, milk, salt and the split vanilla pod with its scraped seeds in the saucepan and bring just to a simmer over medium-low heat. Take it off the heat, cover and leave for 30 min so the vanilla flavours the whole batch."
+    },
+    {
+      "title": "Mix the custard",
+      "text": "Heat the oven to 160 °C (140 °C fan). Whisk the yolks and caster sugar in the bowl until smooth, then pour the warm cream through the sieve onto them, whisking slowly. Gentle whisking keeps the custard free of foam, which would otherwise bake into a bubbly top; discard the pod."
+    },
+    {
+      "title": "Bake in a water bath",
+      "text": "Stand the ramekins in the roasting tin, share the custard between them and pour just-boiled water into the tin until it comes two-thirds up their sides. Bake for 30-40 min, until the edges are set and the centres wobble like jelly when nudged and read 79-81 °C. The water keeps the heat gentle so the yolks set smoothly instead of curdling."
+    },
+    {
+      "title": "Cool and chill",
+      "text": "Lift the ramekins out onto a rack and leave for 1 h, then chill them uncovered for at least 4 h. The custard firms as it chills, and you can cover and keep it for up to 2 days."
+    },
+    {
+      "title": "Caramelise the top",
+      "text": "Blot any drops of moisture from the surface, scatter 1 tsp demerara over each custard and tilt so it covers evenly. Move the blowtorch flame in slow circles until the sugar melts, bubbles and turns deep amber. Leave for 2 min so the crust hardens, and serve within 30 min while it is still crisp."
+    }
+  ],
+  "tips": [
+    "A common mistake is overbaking: take the custards out while the centres still wobble, as they keep setting as they cool.",
+    "No blowtorch? Put the chilled ramekins on a tray close under a very hot grill (broiler) and watch constantly for 2-4 min.",
+    "Rinse and dry the used vanilla pod and bury it in a jar of sugar to make vanilla sugar.",
+    "If you swap the pod for 2 tsp alcohol-free vanilla extract, skip the 30 min steep and add the extract with the cream."
+  ],
+  "storage": "Keep the baked, untopped custards covered in the fridge for up to 2 days. Add and torch the sugar just before serving; the crust softens within an hour.",
+  "allergens": [
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 443,
+    "protein_g": 6.7,
+    "carbs_g": 25.7,
+    "sugar_g": 25.2,
+    "free_sugar_g": 20.7,
+    "fat_g": 35.5,
+    "satfat_g": 21.1,
+    "salt_g": 0.25,
+    "fibre_g": 0.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "creme-brulee-advanced.jpg",
+  "image_alt": "A round dark ramekin of crème brûlée with a glassy, deep amber caramelised sugar crust.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats",
+    "NYT Cooking"
+  ]
+}

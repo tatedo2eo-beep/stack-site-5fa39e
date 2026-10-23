@@ -11,7 +11,7 @@ Dish: Stir-fried tomato and scrambled eggs / flavour: Classic. Private file, not
 
 ## Own cooking judgment
 - Eggs cooked first in large curds, then returned.
-- No cooking wine; a pinch of sugar balances the tomatoes.
+- A pinch of sugar balances the tomatoes.
 - Eggs cooked until fully set.
 
 ## Reliability checks

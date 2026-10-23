@@ -1,0 +1,153 @@
+{
+  "slug": "silky-dark-chocolate-pudding",
+  "title": "Silky Dark Chocolate Pudding",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "custards-puddings-mousses",
+  "book_chapter": "custards-puddings-mousses",
+  "dish": "chocolate-pudding",
+  "dish_title": "Chocolate pudding",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "A glossy stovetop pudding of milk, cream, cocoa and egg yolks thickened with cornflour, enriched with butter and dark chocolate and chilled until silky.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "small bowl",
+    "large heavy saucepan",
+    "whisk",
+    "fine sieve",
+    "serving bowl or 6 glasses",
+    "baking paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Pudding",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "alcohol-free vanilla extract"
+    },
+    {
+      "group": "Pudding",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "instant espresso powder"
+    },
+    {
+      "group": "Pudding",
+      "qty": 100,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Pudding",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "Dutch-processed cocoa powder"
+    },
+    {
+      "group": "Pudding",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "cornflour (cornstarch)"
+    },
+    {
+      "group": "Pudding",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Pudding",
+      "qty": 3,
+      "unit": "pc",
+      "item": "large egg yolks"
+    },
+    {
+      "group": "Pudding",
+      "qty": 120,
+      "unit": "ml",
+      "item": "double (heavy) cream"
+    },
+    {
+      "group": "Pudding",
+      "qty": 600,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Pudding",
+      "qty": 70,
+      "unit": "g",
+      "item": "unsalted butter, cut into 8 pieces"
+    },
+    {
+      "group": "Pudding",
+      "qty": 115,
+      "unit": "g",
+      "item": "dark chocolate (60-70% cocoa solids), finely chopped",
+      "note": "check the label for soya and milk"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prepare the flavourings",
+      "text": "Stir the vanilla and espresso powder together in the small bowl so the coffee dissolves; it deepens the chocolate rather than tasting of coffee. In the saucepan whisk the sugar, cocoa, cornflour and salt until even."
+    },
+    {
+      "title": "Add the liquids",
+      "text": "Whisk in the yolks and cream first, scraping into the corners of the pan, to make a smooth paste. Then whisk in the milk; starting thick stops the cocoa forming lumps."
+    },
+    {
+      "title": "Cook until thick",
+      "text": "Set the pan over medium heat and whisk constantly for 5-8 min, until the pudding thickens and bubbles across the whole surface. Keep whisking for 30 s more. Boiling fully cooks the cornflour so it sets firmly, and takes the yolks well past 82 °C."
+    },
+    {
+      "title": "Add chocolate and butter",
+      "text": "Take the pan off the heat and whisk in the butter and chopped chocolate until both melt and the pudding turns glossy, then whisk in the vanilla mixture. Push it through the sieve into the serving bowl or glasses to catch any specks of cooked egg."
+    },
+    {
+      "title": "Chill",
+      "text": "Press lightly buttered baking paper onto the surface to stop a skin forming and chill for at least 4 h. Give it a quick whisk or simply spoon it out to serve."
+    }
+  ],
+  "tips": [
+    "A common mistake is taking the pan off before it bubbles all over, which leaves a pudding that turns thin overnight.",
+    "Use Dutch-processed cocoa for a darker colour and rounder taste.",
+    "Leave out the espresso powder for children; the pudding still works.",
+    "Top with lightly whipped cream and grated chocolate.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Keep covered in the fridge for up to 3 days. Not suitable for freezing, as the texture turns grainy.",
+  "allergens": [
+    "milk",
+    "eggs",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 441,
+    "protein_g": 7.2,
+    "carbs_g": 35.5,
+    "sugar_g": 27.3,
+    "free_sugar_g": 21.4,
+    "fat_g": 30.7,
+    "satfat_g": 18.2,
+    "salt_g": 0.39,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chocolate-pudding-basic.jpg",
+  "image_alt": "A dark bowl of glossy, smooth dark chocolate pudding swirled with a spoon.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "NYT Cooking"
+  ]
+}
