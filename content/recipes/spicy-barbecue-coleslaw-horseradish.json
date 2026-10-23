@@ -13,7 +13,6 @@
   "base_recipe": "creamy-two-cabbage-coleslaw",
   "changes_from_base": "Horseradish, cayenne and Worcestershire make a peppery barbecue-style dressing, and the cabbage is wilted quickly in the microwave instead of salted.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A creamy, peppery coleslaw with a horseradish and cayenne kick, made for barbecues and grilled meat.",
   "servings": 8,
   "prep_min": 20,
@@ -154,8 +153,8 @@
     "fibre_g": 4.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A bowl of creamy shredded cabbage and carrot coleslaw dusted with cayenne, next to grilled meat.",
+  "image": "spicy-barbecue-coleslaw-horseradish.jpg",
+  "image_alt": "A bowl of creamy shredded cabbage and carrot coleslaw dusted with red cayenne.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

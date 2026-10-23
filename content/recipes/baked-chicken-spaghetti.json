@@ -13,7 +13,6 @@
   "base_recipe": "spaghetti-al-pomodoro",
   "changes_from_base": "A baked casserole: spaghetti is tossed with poached chicken, a creamy vegetable and tomato sauce and Cheddar, then baked until bubbling.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A creamy, cheesy baked spaghetti with poached chicken, soft vegetables and tomatoes with green chilli, baked until golden and bubbling.",
   "servings": 6,
   "prep_min": 25,
@@ -215,8 +214,8 @@
     "fibre_g": 3.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A baking dish of golden, bubbling chicken spaghetti with melted Cheddar on top and a serving lifted out.",
+  "image": "baked-chicken-spaghetti.jpg",
+  "image_alt": "A baking dish of golden, bubbling chicken spaghetti with mushrooms and melted Cheddar on top, one corner scooped out.",
   "inspired_by": [
     "NYT Cooking"
   ]

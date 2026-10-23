@@ -13,7 +13,6 @@
   "base_recipe": "crispy-chicken-sandwich",
   "changes_from_base": "Thighs are pressure-cooked for 6 minutes in a tangy ketchup, Worcestershire and mustard barbecue sauce, mashed into shreds, then sautéed until a little caramelised and served with a crunchy apple, cabbage and shallot slaw.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Tender pulled chicken cooked in a pressure cooker with warm spices and a tangy barbecue sauce, piled high with a crisp, fresh apple and cabbage slaw.",
   "servings": 6,
   "prep_min": 20,
@@ -224,7 +223,7 @@
     "fibre_g": 3.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "bbq-pulled-chicken-sandwiches-apple-slaw.jpg",
   "image_alt": "Soft bun overflowing with shredded barbecue chicken and a tangle of crisp apple slaw, with sauce dripping down the sides.",
   "inspired_by": [
     "America's Test Kitchen"

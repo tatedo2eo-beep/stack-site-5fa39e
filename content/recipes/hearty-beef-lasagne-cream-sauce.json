@@ -13,7 +13,6 @@
   "base_recipe": "lasagne-bolognese",
   "changes_from_base": "A quicker beef lasagne: a tender beef mince and tomato sauce instead of slow ragù, and a no-cook pecorino cream sauce in place of béchamel.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A generous beef lasagne for a crowd, with a tender beef and tomato sauce and a pecorino cream in place of béchamel.",
   "servings": 12,
   "prep_min": 40,
@@ -207,8 +206,8 @@
     "fibre_g": 2.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A tall slice of beef lasagne with a browned cheese top.",
+  "image": "hearty-beef-lasagne-cream-sauce.jpg",
+  "image_alt": "A tall slice of beef lasagne with layers of mince and creamy sauce under a browned cheese top.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

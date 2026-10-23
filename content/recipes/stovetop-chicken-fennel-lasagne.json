@@ -13,7 +13,6 @@
   "base_recipe": "lasagne-bolognese",
   "changes_from_base": "Cooked entirely in a frying pan: fennel-seasoned chicken mince and broken sheets simmer in tomato sauce, topped with ricotta and mozzarella. No oven, no béchamel.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A lasagne made entirely in a frying pan, with fennel-spiced chicken, broken sheets, tomato, ricotta and mozzarella.",
   "servings": 6,
   "prep_min": 15,
@@ -174,7 +173,7 @@
     "fibre_g": 6.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "stovetop-chicken-fennel-lasagne.jpg",
   "image_alt": "A frying pan of saucy chicken lasagne with melted mozzarella and spoons of ricotta.",
   "inspired_by": [
     "Serious Eats"

@@ -13,7 +13,6 @@
   "base_recipe": "lasagne-bolognese",
   "changes_from_base": "A small meat-free lasagne for 4: microwaved butternut squash and Swiss chard with a sage cheese sauce instead of ragù and béchamel.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A small lasagne for 4 with butternut squash, Swiss chard and a sage cheese sauce, ready in about 75 min.",
   "servings": 4,
   "prep_min": 20,
@@ -155,8 +154,8 @@
     "fibre_g": 5.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A square dish of butternut squash and chard lasagne with browned mozzarella.",
+  "image": "butternut-chard-lasagne-one-pan.jpg",
+  "image_alt": "A square dish of butternut squash and chard lasagne with browned cheese, a portion cut away to show the layers.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

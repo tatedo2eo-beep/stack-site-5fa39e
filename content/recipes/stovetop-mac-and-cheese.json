@@ -13,7 +13,6 @@
   "base_recipe": "baked-mac-and-cheese",
   "changes_from_base": "Finished on the hob instead of baked; cheeses stirred into the sauce off the heat; optional toasted panko instead of a baked crumb.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "This follows the classic baked macaroni cheese method, but finishes entirely on the hob instead of in the oven, with the cheeses stirred into the sauce off the heat for a looser, creamier result and optional toasted panko standing in for a baked crumb.",
   "servings": 4,
   "prep_min": 10,
@@ -155,8 +154,8 @@
     "fibre_g": 3.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A pan of creamy, glossy stovetop macaroni cheese with no crumb topping.",
+  "image": "stovetop-mac-and-cheese.jpg",
+  "image_alt": "A pan of creamy stovetop macaroni cheese with no crumb topping.",
   "inspired_by": [
     "NYT Cooking",
     "America's Test Kitchen",

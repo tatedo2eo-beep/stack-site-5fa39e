@@ -13,7 +13,6 @@
   "base_recipe": "lasagne-bolognese",
   "changes_from_base": "Meat-free: a rich tomato sauce deepened with anchovy, layered with a pecorino cream sauce and fontina instead of ragù and béchamel.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A meat-free lasagne with a deep tomato sauce, a pecorino cream sauce and fontina, browned on top.",
   "servings": 8,
   "prep_min": 30,
@@ -202,7 +201,7 @@
     "fibre_g": 4.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "cheese-tomato-lasagne-anchovy-sauce.jpg",
   "image_alt": "A slice of tomato and cheese lasagne with red sauce, melted cheese and basil.",
   "inspired_by": [
     "America's Test Kitchen"

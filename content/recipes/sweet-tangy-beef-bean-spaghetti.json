@@ -13,7 +13,6 @@
   "base_recipe": "spaghetti-al-pomodoro",
   "changes_from_base": "A one-pot family supper: beef mince, two kinds of beans and a sweet-tangy ketchup and vinegar sauce replace the plain tomato sauce, finished with Cheddar.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A hearty one-pot spaghetti with beef mince, kidney and black beans and a sweet-tangy tomato sauce, finished with melting Cheddar.",
   "servings": 4,
   "prep_min": 10,
@@ -160,7 +159,7 @@
     "fibre_g": 14.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "sweet-tangy-beef-bean-spaghetti.jpg",
   "image_alt": "A pot of short spaghetti mixed with beef mince, red kidney beans and black beans in tomato sauce, topped with grated Cheddar and chopped onion.",
   "inspired_by": [
     "America's Test Kitchen"

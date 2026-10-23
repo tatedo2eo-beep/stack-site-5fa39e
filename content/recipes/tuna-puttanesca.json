@@ -13,7 +13,6 @@
   "base_recipe": "spaghetti-puttanesca",
   "changes_from_base": "Flaked tinned tuna folded in off the heat; shallot and fried tomato purée added to the base; fewer anchovies.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "This follows the classic spaghetti puttanesca method, but uses fewer anchovies, adds shallot and fried tomato purée to the base, and folds in flaked tinned tuna off the heat at the end.",
   "servings": 4,
   "prep_min": 10,
@@ -163,7 +162,7 @@
     "fibre_g": 8.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "tuna-puttanesca.jpg",
   "image_alt": "Spaghetti in tomato, olive and caper sauce with flakes of tuna through it.",
   "inspired_by": [
     "NYT Cooking",

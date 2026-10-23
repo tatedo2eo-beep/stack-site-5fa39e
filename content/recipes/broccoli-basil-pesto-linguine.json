@@ -13,7 +13,6 @@
   "base_recipe": "spaghetti-al-pomodoro",
   "changes_from_base": "A green pesto bulked out with steamed broccoli replaces the tomato sauce; fresh tomato slices are served on the side.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Linguine in a creamy, bright green pesto made by blending steamed broccoli with basil, pine nuts, garlic and Parmesan.",
   "servings": 2,
   "prep_min": 15,
@@ -133,7 +132,7 @@
     "fibre_g": 10.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "broccoli-basil-pesto-linguine.jpg",
   "image_alt": "Linguine coated in a thick, bright green broccoli pesto with slices of red tomato on the side.",
   "inspired_by": [
     "NYT Cooking"

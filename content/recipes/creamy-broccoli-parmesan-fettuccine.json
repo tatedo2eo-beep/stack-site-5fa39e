@@ -13,7 +13,6 @@
   "base_recipe": "fresh-egg-tagliatelle",
   "changes_from_base": "Dried fettuccine in a cream sauce with pan-browned broccoli, lemon and Parmesan, in place of a simple butter-and-cheese finish on handmade egg pasta.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Fettuccine with pan-browned broccoli simmered in cream, finished with lemon and Parmesan.",
   "servings": 6,
   "prep_min": 10,
@@ -140,7 +139,7 @@
     "fibre_g": 4.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "creamy-broccoli-parmesan-fettuccine.jpg",
   "image_alt": "Creamy fettuccine with browned broccoli florets and grated Parmesan.",
   "inspired_by": [
     "America's Test Kitchen"

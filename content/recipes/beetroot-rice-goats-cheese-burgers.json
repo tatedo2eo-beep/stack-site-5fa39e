@@ -13,7 +13,6 @@
   "base_recipe": "classic-cheeseburger",
   "changes_from_base": "Meat-free: a patty of cooked rice and roasted beetroot bound with a white bean, lemon and egg purée and studded with goats' cheese, browned in the pan then finished in the oven.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Earthy roasted beetroot and creamy goats' cheese bind fluffy rice and white beans into sturdy, satisfying vegetarian patties.",
   "servings": 6,
   "prep_min": 20,
@@ -158,8 +157,8 @@
     "fibre_g": 4.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Beetroot and rice patties flecked with herbs and topped with crumbled goats' cheese served in burger buns with ketchup.",
+  "image": "beetroot-rice-goats-cheese-burgers.jpg",
+  "image_alt": "Three beetroot and rice burgers flecked with herbs, topped with crumbled goats' cheese and ketchup in soft buns.",
   "inspired_by": [
     "NYT Cooking"
   ]

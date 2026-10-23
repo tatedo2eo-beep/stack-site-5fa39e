@@ -13,7 +13,6 @@
   "base_recipe": "spaghetti-al-pomodoro",
   "changes_from_base": "Carbonara-style: beaten eggs, miso, harissa and Parmesan make a silky sauce in the hot pasta, topped with crunchy parsley crumbs.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A carbonara-style spaghetti made silky with egg, miso, harissa and Parmesan, topped with golden parsley breadcrumbs.",
   "servings": 4,
   "prep_min": 10,
@@ -147,7 +146,7 @@
     "fibre_g": 3.6
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "miso-harissa-spaghetti-crispy-crumbs.jpg",
   "image_alt": "Spaghetti in a creamy orange miso and harissa sauce scattered with golden breadcrumbs and parsley.",
   "inspired_by": [
     "NYT Cooking"

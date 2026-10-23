@@ -13,7 +13,6 @@
   "base_recipe": "lasagne-bolognese",
   "changes_from_base": "Meat ragù replaced by wilted, well-drained spinach folded into seasoned ricotta with egg and Parmesan; mozzarella between the layers.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "This follows the classic lasagne bolognese method, but swaps the meat ragù for wilted, well-drained spinach folded into seasoned ricotta with egg and Parmesan, layered with mozzarella and béchamel.",
   "servings": 8,
   "prep_min": 40,
@@ -210,7 +209,7 @@
     "fibre_g": 4.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "spinach-ricotta-lasagne.jpg",
   "image_alt": "A square of green and white spinach and ricotta lasagne with a golden cheese top.",
   "inspired_by": [
     "Serious Eats",

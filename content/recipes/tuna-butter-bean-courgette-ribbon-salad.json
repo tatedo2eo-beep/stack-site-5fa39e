@@ -13,7 +13,6 @@
   "base_recipe": "lemony-tuna-salad-celery-capers",
   "changes_from_base": "Mayonnaise and celery are dropped: a lemon-shallot vinaigrette dresses the tuna with butter beans and salted courgette ribbons.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A light, mayonnaise-free tuna salad: chunks of oil-packed tuna, creamy butter beans and silky salted courgette ribbons in a lemon-shallot vinaigrette with soft herbs.",
   "servings": 4,
   "prep_min": 25,
@@ -146,7 +145,7 @@
     "fibre_g": 4.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "tuna-butter-bean-courgette-ribbon-salad.jpg",
   "image_alt": "Pale green courgette ribbons on a platter with butter beans, chunks of tuna, sliced shallot, herbs and lemon wedges.",
   "inspired_by": [
     "Serious Eats"

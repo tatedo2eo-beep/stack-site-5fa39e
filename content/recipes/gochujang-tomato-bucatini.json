@@ -13,7 +13,6 @@
   "base_recipe": "spaghetti-al-pomodoro",
   "changes_from_base": "The butter-onion tomato sauce is replaced by passata simmered with a whole head of garlic and gochujang, then finished with ricotta and basil.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Bucatini in a sweet, garlicky passata sauce spiked with gochujang, topped with cool ricotta and torn basil.",
   "servings": 4,
   "prep_min": 10,
@@ -134,7 +133,7 @@
     "fibre_g": 6.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "gochujang-tomato-bucatini.jpg",
   "image_alt": "Bucatini coated in a deep red gochujang tomato sauce with a spoon of white ricotta and torn basil in a shallow bowl.",
   "inspired_by": [
     "Serious Eats"

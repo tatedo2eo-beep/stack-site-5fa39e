@@ -13,7 +13,6 @@
   "base_recipe": "spaghetti-al-pomodoro",
   "changes_from_base": "The tomato sauce is roasted in the oven with chickpeas, red onion, sun-dried tomato and harissa, then stirred together with ricotta and Parmesan.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Spaghetti tossed in the baking dish with jammy roasted cherry tomatoes, chickpeas, red onion and harissa, made creamy with ricotta.",
   "servings": 4,
   "prep_min": 15,
@@ -149,8 +148,8 @@
     "fibre_g": 9.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Spaghetti tossed with roasted burst cherry tomatoes, chickpeas and red onion in a red harissa sauce in a baking dish.",
+  "image": "roasted-harissa-chickpea-spaghetti.jpg",
+  "image_alt": "Spaghetti tossed with roasted burst cherry tomatoes, chickpeas, red onion and sun-dried tomatoes in a red harissa sauce in a dark bowl.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

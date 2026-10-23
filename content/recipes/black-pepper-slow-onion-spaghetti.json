@@ -13,7 +13,6 @@
   "base_recipe": "spaghetti-al-pomodoro",
   "changes_from_base": "Onions slow-cooked in olive oil for an hour replace the tomato sauce, finished with tarragon and lots of black pepper.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Spaghetti wrapped in a silky sauce of onions slow-cooked in olive oil for an hour, finished with tarragon and plenty of black pepper.",
   "servings": 4,
   "prep_min": 15,
@@ -131,8 +130,8 @@
     "fibre_g": 5.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Spaghetti tangled with soft, translucent onion strands, flecked with coarse black pepper and tarragon leaves.",
+  "image": "black-pepper-slow-onion-spaghetti.jpg",
+  "image_alt": "Spaghetti tangled with soft white and red onion strands, flecked with coarse black pepper, grated Parmesan and tarragon leaves.",
   "inspired_by": [
     "NYT Cooking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "lasagne-bolognese",
   "changes_from_base": "A meat-free lasagne layered with spinach béchamel, a smooth cottage cheese and egg layer, Parmesan and fontina instead of ragù.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A meat-free lasagne layered with spinach béchamel, a smooth cottage cheese layer, Parmesan and melting fontina.",
   "servings": 8,
   "prep_min": 40,
@@ -193,7 +192,7 @@
     "fibre_g": 3.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "spinach-fontina-lasagne.jpg",
   "image_alt": "A square of spinach lasagne showing green layers and melted golden fontina on top.",
   "inspired_by": [
     "America's Test Kitchen"

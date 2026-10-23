@@ -13,7 +13,6 @@
   "base_recipe": "lasagne-bolognese",
   "changes_from_base": "Puréed roast butternut squash, a rosemary ricotta layer topped with slowly browned red onions and a spinach and parmesan white sauce replace the meat ragù.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Sweet roasted squash, sticky caramelised red onions and a creamy spinach sauce come together in a comforting layered bake.",
   "servings": 8,
   "prep_min": 40,
@@ -195,8 +194,8 @@
     "fibre_g": 5.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A cut portion of lasagne revealing orange squash, dark spinach sauce and caramelised onion between pale pasta layers.",
+  "image": "butternut-squash-caramelised-onion-spinach-lasagne.jpg",
+  "image_alt": "A square of lasagne revealing orange squash, dark green spinach, ricotta and red onion between pasta layers under a golden top.",
   "inspired_by": [
     "NYT Cooking"
   ]

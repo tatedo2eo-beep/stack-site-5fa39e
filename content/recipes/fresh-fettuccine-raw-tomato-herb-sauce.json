@@ -13,7 +13,6 @@
   "base_recipe": "fresh-egg-tagliatelle",
   "changes_from_base": "Shop-bought fresh fettuccine served under an uncooked sauce of ripe tomatoes, garlic, basil, oregano and parsley, with Parmesan.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Hot fresh fettuccine under a cold, uncooked sauce of ripe tomatoes, garlic, herbs and Parmesan, made for high summer.",
   "servings": 4,
   "prep_min": 15,
@@ -137,7 +136,7 @@
     "fibre_g": 3.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "fresh-fettuccine-raw-tomato-herb-sauce.jpg",
   "image_alt": "Fresh fettuccine topped with a chunky raw red tomato and herb sauce.",
   "inspired_by": [
     "NYT Cooking"

@@ -13,7 +13,6 @@
   "base_recipe": "lasagne-bolognese",
   "changes_from_base": "A spiced spinach saag with chilli, coriander and fenugreek and coarsely grated paneer replace the meat ragù, layered with a nutmeg and parmesan béchamel.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A spiced twist on lasagne layering a fragrant blended spinach saag with grated paneer and a nutmeg-scented béchamel.",
   "servings": 8,
   "prep_min": 40,
@@ -247,8 +246,8 @@
     "fibre_g": 5.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A slice of green spinach lasagne flecked with spices and grated paneer under a pale golden béchamel top.",
+  "image": "saag-paneer-lasagne-spiced-bechamel.jpg",
+  "image_alt": "A slice of green spinach lasagne with crumbled paneer under a pale golden béchamel top.",
   "inspired_by": [
     "NYT Cooking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "penne-arrabbiata",
   "changes_from_base": "A no-cook sauce of cottage cheese, Gorgonzola, basil and fresh tomato blended in the processor replaces the spicy cooked tomato sauce.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Rigatoni tossed in a no-cook sauce of cottage cheese, Gorgonzola, basil and fresh tomato blended in minutes.",
   "servings": 2,
   "prep_min": 10,
@@ -127,7 +126,7 @@
     "fibre_g": 4.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "creamy-basil-rigatoni-no-cook.jpg",
   "image_alt": "Rigatoni coated in a pale green creamy basil sauce with flecks of tomato in a white bowl.",
   "inspired_by": [
     "NYT Cooking"

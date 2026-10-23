@@ -13,7 +13,6 @@
   "base_recipe": "lasagne-bolognese",
   "changes_from_base": "Meat-free and green: every layer is a basil pesto béchamel, finished with Parmesan and toasted pine nuts instead of ragù.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A green lasagne layered with basil pesto béchamel and topped with Parmesan and toasted pine nuts.",
   "servings": 10,
   "prep_min": 40,
@@ -182,7 +181,7 @@
     "fibre_g": 1.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "pesto-bechamel-lasagne.jpg",
   "image_alt": "A slice of pale green pesto lasagne topped with golden pine nuts.",
   "inspired_by": [
     "America's Test Kitchen"

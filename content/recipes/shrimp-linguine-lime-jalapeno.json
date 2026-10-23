@@ -13,7 +13,6 @@
   "base_recipe": "spaghetti-al-pomodoro",
   "changes_from_base": "Prawns poached in the starchy pasta water with red pepper, jalapeño and lime, finished with parsley, coriander and Parmesan instead of a tomato sauce.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Linguine with tender prawns poached in starchy pasta water with red pepper, jalapeño and lime, finished with fresh herbs and Parmesan.",
   "servings": 4,
   "prep_min": 15,
@@ -157,7 +156,7 @@
     "fibre_g": 3.4
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "shrimp-linguine-lime-jalapeno.jpg",
   "image_alt": "Linguine with pink prawns, diced red pepper, parsley and coriander, finished with grated Parmesan.",
   "inspired_by": [
     "NYT Cooking"

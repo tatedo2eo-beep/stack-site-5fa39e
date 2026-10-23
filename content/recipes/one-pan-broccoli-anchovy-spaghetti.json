@@ -13,7 +13,6 @@
   "base_recipe": "spaghetti-al-pomodoro",
   "changes_from_base": "A one-pan version: the spaghetti cooks in a measured amount of water with broccoli and anchovy butter, so its starch thickens the sauce. No tomatoes.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Spaghetti cooked in one pan with broccoli, garlic and melted anchovy butter, so the pasta starch turns everything into a glossy sauce.",
   "servings": 4,
   "prep_min": 10,
@@ -124,8 +123,8 @@
     "fibre_g": 6.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Spaghetti tangled with small green broccoli florets and sliced garlic in a wide pan, with grated Parmesan.",
+  "image": "one-pan-broccoli-anchovy-spaghetti.jpg",
+  "image_alt": "Spaghetti tangled with small green broccoli florets, garlic and chilli flakes in a wide pan, with grated Parmesan.",
   "inspired_by": [
     "NYT Cooking"
   ]

@@ -13,7 +13,6 @@
   "base_recipe": "romaine-caesar-salad-garlic-croutons",
   "changes_from_base": "Ripe tomatoes take the place of the romaine, and the egg-free dressing is a sharp anchovy vinaigrette rather than a mayonnaise base.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Summer tomatoes take the starring role in this Caesar: chunky wedges and cherry tomatoes tossed in a punchy anchovy-Parmesan vinaigrette with crisp cheesy ciabatta croutons.",
   "servings": 4,
   "prep_min": 15,
@@ -162,8 +161,8 @@
     "fibre_g": 2.9
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A platter of red tomato wedges and halved cherry tomatoes mixed with golden ciabatta croutons, a few anchovy fillets on top.",
+  "image": "tomato-caesar-salad-anchovy-ciabatta-croutons.jpg",
+  "image_alt": "A platter of red tomato wedges and halved cherry tomatoes with golden ciabatta croutons, dots of creamy dressing and anchovy fillets on top.",
   "inspired_by": [
     "America's Test Kitchen"
   ]

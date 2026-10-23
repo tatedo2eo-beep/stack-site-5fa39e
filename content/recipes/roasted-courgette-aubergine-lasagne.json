@@ -13,7 +13,6 @@
   "base_recipe": "lasagne-bolognese",
   "changes_from_base": "Meat-free: roasted courgette and aubergine with a light garlic tomato sauce and mozzarella replace the ragù and béchamel.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A meat-free lasagne of roasted courgette and aubergine, garlicky tomato sauce, mozzarella and Parmesan.",
   "servings": 8,
   "prep_min": 25,
@@ -159,7 +158,7 @@
     "fibre_g": 5.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "roasted-courgette-aubergine-lasagne.jpg",
   "image_alt": "Lasagne layered with roasted courgette and aubergine and melted mozzarella.",
   "inspired_by": [
     "America's Test Kitchen"

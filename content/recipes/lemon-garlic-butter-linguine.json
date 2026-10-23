@@ -13,7 +13,6 @@
   "base_recipe": "spaghetti-al-pomodoro",
   "changes_from_base": "A glossy lemon, garlic and butter sauce emulsified with pasta water replaces the tomato sauce.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Linguine in a glossy lemon, garlic and butter sauce brought together with starchy pasta water, ready in 20 minutes.",
   "servings": 4,
   "prep_min": 5,
@@ -120,7 +119,7 @@
     "fibre_g": 4.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "lemon-garlic-butter-linguine.jpg",
   "image_alt": "Glossy linguine with lemon zest, chopped parsley and grated Parmesan in a shallow bowl with a lemon half.",
   "inspired_by": [
     "NYT Cooking"

@@ -13,7 +13,6 @@
   "base_recipe": "lasagne-bolognese",
   "changes_from_base": "Jammy fried artichoke hearts and wilted spinach bound with cottage cheese, parmesan and half the béchamel replace the meat ragù, and the dried sheets are softened in just-boiled water rather than boiled.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "A rich, creamy bake of jammy browned artichokes and wilted spinach bound in a cottage cheese filling under a bubbling golden crust.",
   "servings": 4,
   "prep_min": 25,
@@ -198,7 +197,7 @@
     "fibre_g": 5.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "spinach-artichoke-lasagne-cottage-cheese-bechamel.jpg",
   "image_alt": "A square of lasagne with crisp golden edges, green spinach and chunks of artichoke in a creamy filling.",
   "inspired_by": [
     "NYT Cooking"

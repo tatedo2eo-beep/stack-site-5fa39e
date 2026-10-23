@@ -13,7 +13,6 @@
   "base_recipe": "spaghetti-al-pomodoro",
   "changes_from_base": "Tangy labneh and garlic oil make a creamy sauce in place of tomato, with lots of za'atar on top.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Spaghetti in a creamy, tangy labneh and garlic sauce, buried under fragrant za'atar and a final drizzle of olive oil.",
   "servings": 4,
   "prep_min": 10,
@@ -120,7 +119,7 @@
     "fibre_g": 5.5
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "zaatar-labneh-spaghetti.jpg",
   "image_alt": "Spaghetti in a creamy white labneh sauce covered with green-brown za'atar and a drizzle of olive oil.",
   "inspired_by": [
     "NYT Cooking"

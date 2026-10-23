@@ -13,7 +13,6 @@
   "base_recipe": "cheeseburger-sliders",
   "changes_from_base": "Green chillies are softened with onion and garlic and blended to a paste that seasons both the thin beef patties and a lime mayonnaise, and the sliders are seared hard in cast iron and topped with melting pepper Jack.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "These sliders carry the gentle heat of green chillies right through the beef, with a cooling lime-spiked sauce and melting pepper Jack on top.",
   "servings": 6,
   "prep_min": 30,
@@ -170,8 +169,8 @@
     "fibre_g": 2.3
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Compact burger patty topped with melted pepper cheese inside a split soft white roll, drizzled with green chilli sauce.",
+  "image": "cast-iron-green-chilli-cheeseburger-sliders.jpg",
+  "image_alt": "Three beef sliders topped with melted pepper cheese and green chilli sauce in soft white rolls.",
   "inspired_by": [
     "America's Test Kitchen"
   ]
