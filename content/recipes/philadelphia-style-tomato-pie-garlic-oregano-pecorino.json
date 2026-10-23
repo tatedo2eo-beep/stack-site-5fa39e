@@ -1,0 +1,186 @@
+{
+  "slug": "philadelphia-style-tomato-pie-garlic-oregano-pecorino",
+  "title": "Philadelphia-Style Tomato Pie with Garlic, Oregano and Pecorino",
+  "category": "vegetarian",
+  "cuisine": "American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "new-york",
+  "dish_title": "New York",
+  "flavour": "Tomato",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
+  "changes_from_base": "A thick, airy, focaccia-like dough proved in an oiled tray replaces the thin round base, and a slow-simmered garlic, butter and oregano tomato sauce takes the place of mozzarella; it is eaten at room temperature with just a dusting of pecorino.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Rectangular tomato pizza with a garlicky, oregano-scented sauce and a puffy crust, finished with sharp pecorino and served at room temperature.",
+  "servings": 6,
+  "prep_min": 30,
+  "cook_min": 70,
+  "difficulty": "medium",
+  "equipment": [
+    "stand mixer with dough hook",
+    "medium saucepan",
+    "blender or food processor",
+    "rimmed baking tray, about 33 x 45 cm",
+    "microplane grater",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 500,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Dough",
+      "qty": 10,
+      "unit": "g",
+      "item": "fine salt"
+    },
+    {
+      "group": "Dough",
+      "qty": 5,
+      "unit": "g",
+      "item": "instant (fast-action) yeast"
+    },
+    {
+      "group": "Dough",
+      "qty": 33,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dough",
+      "qty": 325,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Dough",
+      "qty": 45,
+      "unit": "ml",
+      "item": "extra-virgin olive oil, for the tray"
+    },
+    {
+      "group": "Sauce",
+      "qty": 30,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Sauce",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Sauce",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, finely grated"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "dried oregano"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Sauce",
+      "qty": 800,
+      "unit": "g",
+      "item": "tinned whole peeled tomatoes, blended until roughly smooth"
+    },
+    {
+      "group": "Sauce",
+      "qty": 12,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "pc",
+      "item": "shallot, peeled and left whole"
+    },
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 15,
+      "unit": "g",
+      "item": "pecorino romano, finely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make Dough",
+      "text": "Whisk flour (500 g), salt (10 g) and yeast (5 g) together, add oil (33 ml) and water (325 ml), knead on low about 3 min, rest 10 min, then knead on low again for 10 min until it clears the sides but sticks at the base."
+    },
+    {
+      "title": "Chill",
+      "text": "Cover tightly and chill 8-24 h."
+    },
+    {
+      "title": "Make Sauce",
+      "text": "Melt butter (30 g) with oil (30 ml), add garlic, oregano and chilli flakes, cook about 1 min until fragrant, add blended tomatoes (800 g tinned), sugar (1 tbsp) and a whole shallot, simmer about 45 min until thick, stirring occasionally, season with salt (½ tsp), remove the shallot and cool."
+    },
+    {
+      "title": "Shape",
+      "text": "Oil the tray (33 x 45 cm) with oil (45 ml), set the dough on it as a ball and turn to coat, cover loosely and leave somewhere warm 1 h, then push and stretch into the corners, cover and prove 1 h more."
+    },
+    {
+      "title": "Bake",
+      "text": "Heat the oven to 230 °C on the upper-middle shelf, dimple the middle with fingertips and create a 2.5 cm raised rim, spread sauce generously leaving the rim bare, bake about 20 min, turning the tray halfway, until the edges are crisp and light golden."
+    },
+    {
+      "title": "Finish",
+      "text": "Cool at least 15 min, scatter finely grated pecorino romano (15 g) and cut into squares."
+    }
+  ],
+  "tips": [
+    "Make the dough the day before to develop deep flavour and ease handling",
+    "Cook the sauce slowly until reduced to concentrate the tomato taste and remove excess moisture",
+    "Cool the pizza thoroughly before topping with cheese so it sits on the surface rather than sinking into warmth"
+  ],
+  "storage": "Cool completely then keep chilled for up to 2 days, serving at room temperature or warming briefly in a low oven if preferred. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 537,
+    "protein_g": 11.2,
+    "carbs_g": 72.9,
+    "sugar_g": 6.0,
+    "free_sugar_g": 2.0,
+    "fat_g": 22.6,
+    "satfat_g": 5.5,
+    "salt_g": 2.58,
+    "fibre_g": 5.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A rectangular pizza with a thin raised golden rim, vibrant red tomato sauce, and a fine dusting of white pecorino cheese.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

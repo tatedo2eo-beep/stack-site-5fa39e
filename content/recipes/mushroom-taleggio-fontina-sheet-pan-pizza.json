@@ -1,0 +1,167 @@
+{
+  "slug": "mushroom-taleggio-fontina-sheet-pan-pizza",
+  "title": "Mushroom, Taleggio and Fontina Sheet-Tray Pizza",
+  "category": "vegetarian",
+  "cuisine": "Italian-American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "new-york",
+  "dish_title": "New York",
+  "flavour": "Mushroom",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
+  "changes_from_base": "Browned mixed mushrooms with rosemary and garlic replace the tomato sauce, and a creamy layer of cottage cheese with fontina, Taleggio and parmesan stands in for plain mozzarella on a rectangular tray-baked crust.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Sheet-tray pizza with sautéed mixed mushrooms and rosemary over a creamy cottage cheese layer, three melted cheeses and a scattering of chives.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 30,
+  "difficulty": "easy",
+  "equipment": [
+    "rimmed baking tray, about 30 x 40 cm",
+    "large non-stick frying pan",
+    "rolling pin",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Topping",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Topping",
+      "qty": 340,
+      "unit": "g",
+      "item": "mixed mushrooms (such as chestnut, shiitake and king trumpet), sliced about 6 mm thick"
+    },
+    {
+      "group": "Topping",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Topping",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "finely chopped fresh rosemary"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Topping",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Dough",
+      "qty": 450,
+      "unit": "g",
+      "item": "pizza dough, shop-bought or homemade, at room temperature"
+    },
+    {
+      "group": "Dough",
+      "qty": 16,
+      "unit": "g",
+      "item": "plain flour, for dusting",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Cheese",
+      "qty": 170,
+      "unit": "g",
+      "item": "cottage cheese (small curd)"
+    },
+    {
+      "group": "Cheese",
+      "qty": 115,
+      "unit": "g",
+      "item": "fontina, grated"
+    },
+    {
+      "group": "Cheese",
+      "qty": 115,
+      "unit": "g",
+      "item": "Taleggio, rind cut off, torn into small pieces"
+    },
+    {
+      "group": "Cheese",
+      "qty": 30,
+      "unit": "g",
+      "item": "parmesan, finely grated"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely chopped chives, to serve (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat Oven",
+      "text": "Heat the oven to 260 °C with a shelf at the lowest position and brush the tray with 30 ml oil."
+    },
+    {
+      "title": "Cook Mushrooms",
+      "text": "Heat the remaining 30 ml oil in a frying pan over medium-high until shimmering, add mushrooms (340 g sliced), garlic (3 cloves chopped), rosemary (1½ tsp), pepper (½ tsp) and salt (¼ tsp), cook about 10 min until browned."
+    },
+    {
+      "title": "Shape Dough",
+      "text": "On a lightly floured worktop, press and roll the dough (450 g) to about 38 x 28 cm and lift onto the tray."
+    },
+    {
+      "title": "Build Topping",
+      "text": "Spread cottage cheese (170 g) evenly, scatter fontina (115 g grated), add mushrooms, then tear over Taleggio (115 g), scatter parmesan (30 g grated)."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 13-15 min, turning the tray halfway, until the crust is golden and cheese is browned in spots."
+    },
+    {
+      "title": "Finish",
+      "text": "Cool 5 min on a rack, scatter chives (1 tbsp chopped) if using and slice."
+    }
+  ],
+  "tips": [
+    "Cooking the mushrooms separately removes excess water so the finished pizza stays crisp rather than soggy",
+    "A mix of chestnut, shiitake and king trumpet mushrooms gives more complex flavour than a single variety.",
+    "If anyone eating is pregnant, choose pasteurised Taleggio and fontina; check the labels."
+  ],
+  "storage": "Cool completely, then keep chilled for up to 2 days and reheat gently in a low oven wrapped in foil if needed. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 690,
+    "protein_g": 30.2,
+    "carbs_g": 58.8,
+    "sugar_g": 3.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 37.2,
+    "satfat_g": 14.7,
+    "salt_g": 3.54,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A rectangular sheet pizza with a golden crust, creamy filling, melted cheese with brown spots, and sautéed mushroom slices scattered throughout.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

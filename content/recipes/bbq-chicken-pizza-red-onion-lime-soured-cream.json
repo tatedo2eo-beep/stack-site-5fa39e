@@ -1,0 +1,197 @@
+{
+  "slug": "bbq-chicken-pizza-red-onion-lime-soured-cream",
+  "title": "BBQ Chicken Pizza with Red Onion and Lime Soured Cream",
+  "category": "chicken",
+  "cuisine": "American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "new-york",
+  "dish_title": "New York",
+  "flavour": "BBQ & chicken",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
+  "changes_from_base": "Roasted, shredded chicken thighs tossed in barbecue sauce and coriander replace the tomato sauce, red onion and a Monterey Jack and cheddar mix go on top, and a lime and coriander soured cream is drizzled over at the end.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Barbecued chicken pizza with caramelised red onion, two melted cheeses and a cool, zingy lime soured cream drizzle that balances the spice.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 50,
+  "difficulty": "medium",
+  "equipment": [
+    "small roasting tin",
+    "rimmed baking tray, about 30 x 40 cm",
+    "rolling pin",
+    "pastry brush",
+    "2 medium bowls",
+    "small bowl",
+    "whisk",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 500,
+      "unit": "g",
+      "item": "boneless, skinless chicken thighs"
+    },
+    {
+      "group": "Chicken",
+      "qty": 15,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Chicken",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Chicken",
+      "qty": 120,
+      "unit": "ml",
+      "item": "barbecue sauce"
+    },
+    {
+      "group": "Chicken",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "chopped fresh coriander, divided"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "red onion, thinly sliced"
+    },
+    {
+      "group": "Topping",
+      "qty": 15,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Topping",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dough",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil, for the tray and brushing"
+    },
+    {
+      "group": "Dough",
+      "qty": 450,
+      "unit": "g",
+      "item": "pizza dough, shop-bought or homemade, at room temperature"
+    },
+    {
+      "group": "Dough",
+      "qty": 16,
+      "unit": "g",
+      "item": "plain flour, for dusting",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 60,
+      "unit": "g",
+      "item": "Monterey Jack, grated"
+    },
+    {
+      "group": "Topping",
+      "qty": 55,
+      "unit": "g",
+      "item": "mature cheddar, grated"
+    },
+    {
+      "group": "Lime soured cream",
+      "qty": 120,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Lime soured cream",
+      "qty": 30,
+      "unit": "ml",
+      "item": "lime juice (about 2 limes)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Roast Chicken",
+      "text": "Heat the oven to 220 °C, toss chicken (500 g) with oil (15 ml), salt (½ tsp) and pepper (¼ tsp) in a roasting tin and roast 20-25 min until it reaches 74 °C, cool slightly and shred."
+    },
+    {
+      "title": "Make Chicken Mixture",
+      "text": "Mix the shredded chicken with barbecue sauce (120 ml) and coriander (2 tbsp chopped)."
+    },
+    {
+      "title": "Prepare Onion",
+      "text": "Toss the sliced red onion (½ onion) with oil (15 ml), salt (¼ tsp) and pepper (¼ tsp)."
+    },
+    {
+      "title": "Heat Oven",
+      "text": "Raise the oven to 260 °C with a shelf in the upper-middle and brush the tray with 30 ml oil."
+    },
+    {
+      "title": "Shape and Bake",
+      "text": "Roll the dough (450 g) on a floured worktop to an oval about 40 x 23 cm and 6 mm thick, lift onto the tray, brush with the last 30 ml oil and bake about 6 min until it puffs and starts to colour."
+    },
+    {
+      "title": "Build",
+      "text": "Scatter the chicken mixture over, then the onion, bake about 10 min until the onion browns, scatter Monterey Jack (60 g grated) and cheddar (55 g grated) and bake about 5 min until melted."
+    },
+    {
+      "title": "Finish",
+      "text": "Whisk soured cream (120 g), lime juice (30 ml) and remaining coriander (2 tbsp), drizzle over the hot pizza and serve the rest alongside."
+    }
+  ],
+  "tips": [
+    "Cooking the chicken first to 74 °C means it only needs gentle heating on the pizza, keeping the meat juicy whilst the toppings develop colour",
+    "Make the lime soured cream just before serving so it stays cold and doesn't separate from the residual heat of the pizza",
+    "Check the barbecue sauce label: many contain gluten, mustard or celery."
+  ],
+  "storage": "Cool completely, then keep chilled for up to 2 days and reheat gently in a foil-covered tin in a low oven until hot. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 846,
+    "protein_g": 40.0,
+    "carbs_g": 70.9,
+    "sugar_g": 13.5,
+    "free_sugar_g": 11.3,
+    "fat_g": 44.0,
+    "satfat_g": 13.2,
+    "salt_g": 3.82,
+    "fibre_g": 2.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A pizza with a golden crust, shredded chicken, caramelised red onion slices, melted cheddar and Monterey Jack cheese, with white soured cream streaks drizzled over.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "slug": "corn-tomato-rocket-pizza-creme-fraiche",
+  "title": "Sweetcorn, Cherry Tomato and Rocket Pizza with Crème Fraîche",
+  "category": "vegetarian",
+  "cuisine": "American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "new-york",
+  "dish_title": "New York",
+  "flavour": "Corn",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
+  "changes_from_base": "A basil and chilli crème fraîche spread replaces the tomato sauce, fontina melts over sweetcorn, cherry tomatoes and shallot, and a pile of lightly dressed rocket goes on after baking.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Sheet pizza with a creamy herbed base, melted cheese, juicy corn kernels and charred cherry tomatoes, crowned with peppery rocket at the last moment.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "rimmed baking tray, about 30 x 40 cm",
+    "rolling pin",
+    "pastry brush",
+    "small bowl",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Base",
+      "qty": 30,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Base",
+      "qty": 120,
+      "unit": "g",
+      "item": "crème fraîche"
+    },
+    {
+      "group": "Base",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "chopped fresh basil"
+    },
+    {
+      "group": "Base",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Dough",
+      "qty": 450,
+      "unit": "g",
+      "item": "pizza dough, shop-bought or homemade, at room temperature"
+    },
+    {
+      "group": "Dough",
+      "qty": 16,
+      "unit": "g",
+      "item": "plain flour, for dusting",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 225,
+      "unit": "g",
+      "item": "fontina, grated"
+    },
+    {
+      "group": "Topping",
+      "qty": 170,
+      "unit": "g",
+      "item": "cherry tomatoes, quartered"
+    },
+    {
+      "group": "Topping",
+      "qty": 120,
+      "unit": "g",
+      "item": "sweetcorn kernels, cut from 1 cob (or thawed frozen)"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "pc",
+      "item": "shallot, thinly sliced"
+    },
+    {
+      "group": "Topping",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "To finish",
+      "qty": 55,
+      "unit": "g",
+      "item": "baby rocket"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat Oven",
+      "text": "Heat the oven to 260 °C with a shelf in the middle and brush the tray with 15 ml oil."
+    },
+    {
+      "title": "Mix Base",
+      "text": "Combine crème fraîche (120 g), basil (4 tbsp chopped) and chilli flakes (¼ tsp) in a bowl."
+    },
+    {
+      "title": "Shape Dough",
+      "text": "Roll the dough (450 g) on a lightly floured worktop to about 40 x 25 cm and 6 mm thick, lift onto the tray and brush the edges with 10 ml oil."
+    },
+    {
+      "title": "Build",
+      "text": "Spread the crème fraîche mixture leaving a 1 cm border, scatter fontina (225 g grated), quartered tomatoes (170 g), sweetcorn kernels (120 g), thinly sliced shallot (1) and salt (¼ tsp)."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 15-20 min, turning halfway, until golden with browned spots."
+    },
+    {
+      "title": "Finish",
+      "text": "Cool 5 min, toss baby rocket (55 g) with the last 5 ml oil, pile over the pizza and slice."
+    }
+  ],
+  "tips": [
+    "If using frozen sweetcorn, thaw and dry the kernels thoroughly to prevent releasing excess moisture onto the pizza",
+    "Scatter the rocket just before serving so it remains crisp and vibrant rather than wilting into the warm cheese",
+    "Slice the shallot paper-thin so it caramelises evenly during baking instead of staying raw or tough"
+  ],
+  "storage": "Eat straight away for best results; leftovers can be chilled for up to 2 days and reheated gently in a low oven if desired. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 714,
+    "protein_g": 24.3,
+    "carbs_g": 64.0,
+    "sugar_g": 6.0,
+    "free_sugar_g": 0.0,
+    "fat_g": 40.0,
+    "satfat_g": 20.4,
+    "salt_g": 2.63,
+    "fibre_g": 3.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A rectangular pizza with a golden crust, creamy sauce, melted yellow cheese, sweetcorn kernels, tomato pieces, and fresh green rocket leaves on top.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "slug": "garlic-prawn-spinach-white-pizza",
+  "title": "Garlic Prawn and Spinach White Pizza",
+  "category": "fish-seafood",
+  "cuisine": "Italian-American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "new-york",
+  "dish_title": "New York",
+  "flavour": "Shrimp & spinach",
+  "flavour_order": 5,
+  "access": "premium",
+  "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
+  "changes_from_base": "A toasted garlic, anchovy and chilli oil replaces the tomato sauce, and baby spinach, pecorino, mozzarella and raw prawns bake together on a tray-shaped crust until the prawns turn pink.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "No-sauce pizza with garlicky, anchovy-infused oil, tender seafood, mild greens and melted cheese, finished with fresh parsley and a chilli kick.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 25,
+  "difficulty": "medium",
+  "equipment": [
+    "rimmed baking tray, about 30 x 40 cm",
+    "small saucepan",
+    "whisk",
+    "2 small bowls",
+    "kitchen paper",
+    "rolling pin",
+    "wire rack",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Garlic oil",
+      "qty": 75,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Garlic oil",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Garlic oil",
+      "qty": 2,
+      "unit": "pc",
+      "item": "anchovy fillets, rinsed"
+    },
+    {
+      "group": "Garlic oil",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Garlic oil",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Prawns",
+      "qty": 340,
+      "unit": "g",
+      "item": "large raw prawns, peeled, deveined, tails off, cut into 2 cm pieces"
+    },
+    {
+      "group": "Prawns",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Prawns",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dough",
+      "qty": 450,
+      "unit": "g",
+      "item": "pizza dough, shop-bought or homemade, at room temperature"
+    },
+    {
+      "group": "Dough",
+      "qty": 16,
+      "unit": "g",
+      "item": "plain flour, for dusting",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Topping",
+      "qty": 30,
+      "unit": "g",
+      "item": "baby spinach"
+    },
+    {
+      "group": "Topping",
+      "qty": 30,
+      "unit": "g",
+      "item": "pecorino romano, finely grated"
+    },
+    {
+      "group": "Topping",
+      "qty": 225,
+      "unit": "g",
+      "item": "low-moisture mozzarella, grated"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "chopped fresh parsley, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Heat Oven",
+      "text": "Heat the oven to 260 °C with a shelf at the lowest position."
+    },
+    {
+      "title": "Make Garlic Oil",
+      "text": "Warm oil (45 ml), chopped garlic (2 cloves), rinsed anchovies (2 fillets), pepper (¼ tsp) and chilli flakes (¼ tsp) in a small saucepan over medium, whisking to break up the anchovies, about 4 min until the garlic turns pale gold, tip into a bowl and cool."
+    },
+    {
+      "title": "Prepare Prawns",
+      "text": "Pat prawns (340 g, cut into 2 cm pieces) dry, toss with salt (¼ tsp), oil (15 ml) and remaining pepper (¼ tsp)."
+    },
+    {
+      "title": "Shape",
+      "text": "Brush the tray with oil (15 ml), press and roll the dough (450 g) to about 38 x 28 cm and lift onto the tray."
+    },
+    {
+      "title": "Build",
+      "text": "Spread the garlic oil over, lay spinach (30 g) on top, scatter pecorino romano (30 g grated), then mozzarella (225 g grated), dot the prawns over the cheese."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake 12-16 min, turning halfway, until the crust is deep golden underneath and the prawns are pink, opaque and reach 63 °C."
+    },
+    {
+      "title": "Finish",
+      "text": "Cool 5 min on a rack, scatter chopped parsley (2 tbsp) and serve with extra chilli flakes."
+    }
+  ],
+  "tips": [
+    "Pat the prawns completely dry before cooking so they sear and develop flavour rather than releasing moisture and steaming",
+    "Contains crustaceans (prawns) and fish (anchovies); the anchovies melt into the oil and add savoury depth rather than a fishy taste.",
+    "Keep raw prawns separate from other ingredients until just before cooking to prevent cross-contamination with ready-to-eat foods"
+  ],
+  "storage": "Eat straight away whilst the crust is still warm; do not keep leftovers as prawns deteriorate quickly. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "fish",
+    "crustaceans"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 713,
+    "protein_g": 39.7,
+    "carbs_g": 55.4,
+    "sugar_g": 0.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 36.7,
+    "satfat_g": 13.0,
+    "salt_g": 3.18,
+    "fibre_g": 2.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A rectangular pizza with a golden crust, white melted cheese, pale pink cooked prawns, dark spinach pieces, and golden-brown cheese spots.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

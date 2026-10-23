@@ -1,0 +1,173 @@
+{
+  "slug": "spinach-artichoke-dip-pizza",
+  "title": "Spinach and Artichoke Dip Pizza",
+  "category": "vegetarian",
+  "cuisine": "American",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "new-york",
+  "dish_title": "New York",
+  "flavour": "Artichoke",
+  "flavour_order": 9,
+  "access": "premium",
+  "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
+  "changes_from_base": "The flavours of a warm spinach and artichoke dip, cream cheese, soured cream, garlic, herbs and parmesan, are spread over two par-baked bases and covered with mozzarella in place of the tomato sauce.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Two pizzas that taste just like the famous spinach and artichoke dip, with a creamy herbed filling and melted mozzarella bubbling on top.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "pizza stone or heavy baking tray",
+    "baking paper",
+    "electric hand mixer or wooden spoon",
+    "medium bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Crust",
+      "qty": 340,
+      "unit": "ml",
+      "item": "lukewarm water"
+    },
+    {
+      "group": "Crust",
+      "qty": 27,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Crust",
+      "qty": 12,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Crust",
+      "qty": 480,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Crust",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "instant (fast-action) yeast"
+    },
+    {
+      "group": "Topping",
+      "qty": 225,
+      "unit": "g",
+      "item": "full-fat cream cheese, softened"
+    },
+    {
+      "group": "Topping",
+      "qty": 115,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "dried oregano"
+    },
+    {
+      "group": "Topping",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried basil"
+    },
+    {
+      "group": "Topping",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Topping",
+      "qty": 330,
+      "unit": "g",
+      "item": "tinned artichoke hearts, drained and roughly chopped"
+    },
+    {
+      "group": "Topping",
+      "qty": 225,
+      "unit": "g",
+      "item": "cooked spinach, chopped and squeezed dry (thawed if frozen)"
+    },
+    {
+      "group": "Topping",
+      "qty": 30,
+      "unit": "g",
+      "item": "parmesan, finely grated"
+    },
+    {
+      "group": "Topping",
+      "qty": 225,
+      "unit": "g",
+      "item": "low-moisture mozzarella, grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make Dough",
+      "text": "Mix and knead water (340 ml), oil (27 ml), salt (2 tsp), flour (480 g) and yeast (2 tsp) into a smooth, pliable dough, cover and rise 30 min."
+    },
+    {
+      "title": "Heat Oven",
+      "text": "Put the pizza stone on a lower shelf and heat the oven to 230 °C."
+    },
+    {
+      "title": "Shape",
+      "text": "Halve the dough, pat each half into a 30 cm round, set on baking paper and rest 20 min."
+    },
+    {
+      "title": "Make Topping",
+      "text": "Beat the cream cheese (225 g) slowly until smooth, mix in soured cream (115 g), oregano (2 tsp), basil (1 tsp) and chopped garlic (2 cloves), then fold in artichokes (330 g tinned, drained and chopped), spinach (225 g cooked, squeezed dry) and parmesan (30 g grated)."
+    },
+    {
+      "title": "Bake Bases",
+      "text": "Slide one base on its paper onto the stone and bake 5 min (keep the other covered), repeat."
+    },
+    {
+      "title": "Top and Finish",
+      "text": "Spread half the topping over each base, scatter mozzarella (225 g grated), bake each about 15 min more until golden and bubbling, serve hot."
+    }
+  ],
+  "tips": [
+    "Make sure cooked spinach is completely squeezed dry so it doesn't release water and make the pizza soggy or watery",
+    "Beat the cream cheese thoroughly until smooth before mixing in other ingredients to ensure an even, creamy texture throughout",
+    "These pizzas are best served hot straight from the oven when the cheese is still bubbling and the filling is warm"
+  ],
+  "storage": "Cool completely, then keep chilled for up to 2 days and reheat gently in a low oven until warmed through. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 665,
+    "protein_g": 23.5,
+    "carbs_g": 70.4,
+    "sugar_g": 2.9,
+    "free_sugar_g": 0.0,
+    "fat_g": 32.5,
+    "satfat_g": 17.0,
+    "salt_g": 3.24,
+    "fibre_g": 4.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A round pizza with a golden crust, topped with a creamy pale filling dotted with green spinach and artichoke pieces, and melted mozzarella cheese.",
+  "inspired_by": [
+    "King Arthur Baking"
+  ]
+}

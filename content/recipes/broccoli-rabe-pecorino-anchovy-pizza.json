@@ -1,0 +1,168 @@
+{
+  "slug": "broccoli-rabe-pecorino-anchovy-pizza",
+  "title": "Broccoli Rabe, Pecorino and Anchovy Pizza",
+  "category": "vegetarian",
+  "cuisine": "Italian",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "neapolitan",
+  "dish_title": "Neapolitan",
+  "flavour": "Broccoli",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "neapolitan-style-margherita-pizza-tomato-mozzarella-basil",
+  "changes_from_base": "Bitter broccoli rabe charred with olive oil and chilli flakes, salty anchovy strips and a pecorino and parmesan mix replace the fresh mozzarella and basil, baked in a home oven on a hot stone instead of a wood-fired oven.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Neapolitan-style pizza topped with bitter charred broccoli rabe, salty anchovy fillets, and melted cheese, blistered in a very hot oven.",
+  "servings": 4,
+  "prep_min": 30,
+  "cook_min": 45,
+  "difficulty": "hard",
+  "equipment": [
+    "pizza stone or baking steel",
+    "pizza peel",
+    "large saucepan",
+    "colander",
+    "ovenproof frying pan, about 25 cm",
+    "stick blender",
+    "2 small bowls"
+  ],
+  "ingredients": [
+    {
+      "group": "Dough",
+      "qty": 900,
+      "unit": "g",
+      "item": "pizza dough, shop-bought or homemade, divided into 4 balls"
+    },
+    {
+      "group": "Dough",
+      "qty": 32,
+      "unit": "g",
+      "item": "plain flour, for dusting",
+      "note": "about 4 tbsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 800,
+      "unit": "g",
+      "item": "tinned whole peeled tomatoes, drained (juice kept)"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Topping",
+      "qty": 60,
+      "unit": "g",
+      "item": "parmesan, finely grated"
+    },
+    {
+      "group": "Topping",
+      "qty": 60,
+      "unit": "g",
+      "item": "pecorino romano, finely grated"
+    },
+    {
+      "group": "Topping",
+      "qty": 450,
+      "unit": "g",
+      "item": "broccoli rabe (cime di rapa), ends trimmed"
+    },
+    {
+      "group": "Topping",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Topping",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Topping",
+      "qty": 16,
+      "unit": "pc",
+      "item": "anchovy fillets in oil, drained and halved lengthways"
+    },
+    {
+      "group": "Topping",
+      "qty": 15,
+      "unit": "ml",
+      "item": "extra-virgin olive oil, for drizzling"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Rest Dough",
+      "text": "Leave the dough (900 g, in 4 balls) covered at room temperature 1-2 h."
+    },
+    {
+      "title": "Heat Oven",
+      "text": "Put the pizza stone or steel on a shelf near the top and heat the oven to 260-280 °C for 45 min."
+    },
+    {
+      "title": "Make Sauce",
+      "text": "Blend the drained tomatoes (800 g tinned) briefly into a coarse sauce, top up with saved juice to about 475 ml, season with salt (¼ tsp) and pepper (¼ tsp), mix parmesan (60 g) and pecorino (60 g) in a bowl."
+    },
+    {
+      "title": "Prepare Greens",
+      "text": "Boil broccoli rabe (450 g) in salted water 2-3 min until tender, drain and squeeze dry, cool slightly and cut into 5-7 cm lengths, toss with oil (60 ml) and chilli flakes (½ tsp)."
+    },
+    {
+      "title": "Char",
+      "text": "Roast in an ovenproof pan in the hot oven, stirring often, 5-8 min until lightly charred."
+    },
+    {
+      "title": "Shape",
+      "text": "Flour one dough ball well, press into a 20 cm round leaving a thicker 2.5 cm rim, stretch over the knuckles to about 25-30 cm and set on a floured peel."
+    },
+    {
+      "title": "Top and Bake",
+      "text": "Spread a quarter of the sauce leaving a 1 cm border, lay a quarter of the anchovies (16 halved fillets), scatter a quarter of the cheese mix, add the charred rabe, drizzle with oil (15 ml), slide onto the stone and bake 6-9 min (switch the grill on for the last 1-2 min if the top is pale) until the rim is charred in spots and the base is crisp, repeat with remaining dough."
+    }
+  ],
+  "tips": [
+    "Parboil the broccoli rabe before roasting to ensure it is completely tender by pizza time, so you don't end up with fibrous stalks",
+    "Using the grill function towards the end achieves that essential charred rim without burning the thin, crispy base",
+    "Contains anchovies (fish); for a fish-free pizza leave them off and add a little extra pecorino for saltiness."
+  ],
+  "storage": "Best eaten straight away; any leftovers keep chilled for 1 day, though the crust will soften on storage. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "fish"
+  ],
+  "diet": [
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 893,
+    "protein_g": 33.7,
+    "carbs_g": 114.6,
+    "sugar_g": 4.4,
+    "free_sugar_g": 0.0,
+    "fat_g": 33.5,
+    "satfat_g": 8.8,
+    "salt_g": 5.65,
+    "fibre_g": 9.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A wood-fired pizza with a charred rim, topped with dark green broccoli rabe, white cheese, and anchovy fillets arranged over the top.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

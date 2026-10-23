@@ -83,6 +83,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | basbousa-semolina-coconut-cake-almonds | Basbousa | Classic | 1 | 3 |
 | basil-pine-nut-pesto | Pesto | Classic | 2 | 4 |
 | basque-cheesecake | Basque burnt (San Sebastián) | Classic | 2 | 4 |
+| bbq-chicken-pizza-red-onion-lime-soured-cream | New York | BBQ & chicken | 1 | 3 |
 | bbq-chicken-wings | Chicken wings | BBQ | 2 | 4 |
 | bbq-pulled-chicken-sandwiches-apple-slaw | Chicken burger | BBQ | 1 | 3 |
 | bean-filled-masa-flatbreads-seared-steak-salsa-verde | Huarache | Classic | 3 | 5 |
@@ -146,6 +147,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | brazilian-style-fish-prawn-coconut-stew | Moqueca | Classic | 3 | 5 |
 | breaded-veal-schnitzel-potato-salad | Wiener schnitzel | Classic | 2 | 4 |
 | broccoli-basil-pesto-linguine | Long dried (spaghetti, linguine, bucatini) | Pesto | 1 | 3 |
+| broccoli-rabe-pecorino-anchovy-pizza | Neapolitan | Broccoli | 1 | 3 |
 | broccoli-rabe-potato-shakshuka | Shakshuka | Broccoli | 1 | 3 |
 | broccoli-white-bean-pasta-salad-basil-pesto | Pasta salad | Broccoli | 1 | 3 |
 | brookies | Brookies | Classic | 2 | 4 |
@@ -201,6 +203,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | caramelised-apple-almond-crunch-tart | Frangipane | Apple | 1 | 3 |
 | caramelised-apple-star-crepes | Crêpes | Apple | 1 | 3 |
 | caramelised-kouign-amann-pastries | Kouign-amann | Classic | 2 | 4 |
+| caramelised-onion-brie-tray-pizza-almonds | New York | Caramelised onion & brie | 1 | 3 |
 | caramelised-onion-flatbread-anchovies-black-olives-thyme | Pissaladière | Classic | 3 | 5 |
 | caramelised-onion-soup-cheese-toasts | French onion | Classic | 3 | 5 |
 | caraway-deli-rye-loaf | Rye/pumpernickel | Caraway | 2 | 4 |
@@ -402,6 +405,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cool-yoghurt-rice-mustard-seeds-curry-leaves-pomegranate | Curd rice | Classic | 2 | 4 |
 | coriander-lemon-chermoula | Chermoula | Classic | 2 | 4 |
 | corn-egg-drop-soup-chicken | Egg drop soup | Corn egg drop | 3 | 5 |
+| corn-tomato-rocket-pizza-creme-fraiche | New York | Corn | 1 | 3 |
 | corned-beef-cabbage-potatoes-carrots | Corned beef and cabbage | Classic | 1 | 3 |
 | cornish-beef-pasty | Cornish pasty | Classic | 2 | 4 |
 | cornmeal-cranberry-pancakes-apple-compote | Pancakes (American) | Cranberry | 1 | 3 |
@@ -616,6 +620,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | garlic-parmesan-chicken-wings | Chicken wings | Garlic-parmesan | 3 | 5 |
 | garlic-parsley-butter-pull-apart-rolls | Dinner rolls | Garlic | 1 | 3 |
 | garlic-potato-almond-skordalia-crisp-fried-cod | Skordalia | Classic | 3 | 5 |
+| garlic-prawn-spinach-white-pizza | New York | Shrimp & spinach | 1 | 3 |
 | garlic-rosemary-roast-beef | Roast beef | Garlic-rosemary | 3 | 5 |
 | garlic-spring-onion-chicken-sandwiches | Chicken burger | Garlic & scallion | 1 | 3 |
 | garlicky-tofu-tabbouleh-parsley-mint | Tabbouleh | Tofu | 1 | 3 |
@@ -686,6 +691,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | griddled-holey-english-crumpets-butter | ? | ? | MISSING | |
 | grilled-beef-kebabs-peppers | Kebabs/skewers | Classic | 3 | 5 |
 | grilled-chicken-pasta-salad-corn-black-beans-lime | Pasta salad | Chicken | 1 | 3 |
+| grilled-garlic-herb-pizzas-fennel-roasted-tomato-asiago | Neapolitan | Fennel | 1 | 3 |
 | grilled-porterhouse-steak-rosemary-lemon | Bistecca alla fiorentina | Classic | 2 | 4 |
 | grilled-provolone-provoleta-oregano-chilli-toasted-bread | Provoleta | Classic | 2 | 4 |
 | grilled-salmon-caesar-charred-romaine | Caesar | Salmon | 1 | 3 |
@@ -859,6 +865,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lime-posset-zest | Posset | Lime | 2 | 4 |
 | lo-mein | Lo mein | Classic | 2 | 4 |
 | loaded-chocolate-chip-blondies | Blondies | Chocolate | 1 | 3 |
+| loaded-potato-pan-pizza-cheddar-chives-soured-cream | New York | Potato | 1 | 3 |
 | louisiana-style-crayfish-tail-stew-rice | Crawfish étouffée | Classic | 3 | 5 |
 | lychee-coconut-bubble-tea | Milk tea/bubble tea | Coconut | 1 | 3 |
 | lyonnaise-potatoes | Lyonnaise potatoes | Classic | 2 | 4 |
@@ -934,6 +941,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | mushroom-lasagne | Sheets/baked (lasagne) | Mushroom | 3 | 5 |
 | mushroom-poblano-quesadillas-oregano-queso-fresco | Quesadilla | Mushroom | 3 | 5 |
 | mushroom-smash-burgers | Smash burger | Mushroom | 1 | 3 |
+| mushroom-taleggio-fontina-sheet-pan-pizza | New York | Mushroom | 1 | 3 |
 | mushroom-thyme-gravy | Gravy | Mushroom | 2 | 4 |
 | mutabbal-smoky-aubergine-tahini-pomegranate | Mutabbal | Classic | 1 | 3 |
 | naengmyeon | Naengmyeon | Classic | 2 | 4 |
@@ -1080,6 +1088,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | pesto-bechamel-lasagne | Sheets/baked (lasagne) | Pesto | 1 | 3 |
 | pesto-chicken-salad-sun-dried-tomatoes | Chicken salad | Pesto | 1 | 3 |
 | pesto-stuffed-portobello-burgers | Veggie/bean burger | Pesto | 1 | 3 |
+| philadelphia-style-tomato-pie-garlic-oregano-pecorino | New York | Tomato | 1 | 3 |
 | philly-cheesesteak-american-cheese-onions | Philly cheesesteak | American | 1 | 3 |
 | philly-cheesesteaks-shaved-ribeye-caramelised-onions | Philly cheesesteak | Classic | 2 | 4 |
 | phirni-cardamom-saffron-ground-rice-pudding | Phirni | Classic | 1 | 3 |
@@ -1389,6 +1398,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spicy-ful-medames-chilli-oil | Ful medames | Chili oil | 1 | 3 |
 | spicy-jalapeno-smashed-cheeseburgers | Cheeseburger | Jalapeño | 1 | 3 |
 | spicy-peanut-red-cabbage-slaw | Coleslaw | Peanut | 1 | 3 |
+| spinach-artichoke-dip-pizza | New York | Artichoke | 1 | 3 |
 | spinach-fatayer-sumac-lemon | Fatayer | Classic | 1 | 3 |
 | spinach-feta-spiral-borek | Börek | Spinach (ıspanaklı) | 1 | 3 |
 | spinach-fontina-lasagne | Sheets/baked (lasagne) | Spinach | 1 | 3 |

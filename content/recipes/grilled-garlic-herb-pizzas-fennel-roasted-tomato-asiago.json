@@ -1,0 +1,237 @@
+{
+  "slug": "grilled-garlic-herb-pizzas-fennel-roasted-tomato-asiago",
+  "title": "Grilled Garlic-Herb Pizzas with Fennel, Roasted Tomatoes and Asiago",
+  "category": "vegetarian",
+  "cuisine": "Italian",
+  "chapter": "pizza",
+  "book_chapter": "pizza",
+  "dish": "neapolitan",
+  "dish_title": "Neapolitan",
+  "flavour": "Fennel",
+  "flavour_order": 7,
+  "access": "premium",
+  "base_recipe": "neapolitan-style-margherita-pizza-tomato-mozzarella-basil",
+  "changes_from_base": "A crunchy cornmeal crust flavoured with garlic-herb oil is cooked on a covered barbecue instead of a hot oven, then topped with soft sautéed onion and fennel, roasted plum tomato halves and a sprinkle of Asiago in place of tomato sauce and mozzarella.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Eight small garlic-herb pizzas cooked on the barbecue with a soft, sweet fennel and onion topping, roasted plum tomatoes and a sprinkle of grated Asiago.",
+  "servings": 4,
+  "prep_min": 45,
+  "cook_min": 60,
+  "difficulty": "hard",
+  "equipment": [
+    "food processor with dough blade",
+    "small frying pan",
+    "large sauté pan",
+    "roasting tin",
+    "barbecue grill with a lid",
+    "2 large baking trays",
+    "pastry brush",
+    "tongs"
+  ],
+  "ingredients": [
+    {
+      "group": "Crust",
+      "qty": 90,
+      "unit": "ml",
+      "item": "extra-virgin olive oil, divided"
+    },
+    {
+      "group": "Crust",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Crust",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried herbes de Provence (or dried thyme)"
+    },
+    {
+      "group": "Crust",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Crust",
+      "qty": 295,
+      "unit": "ml",
+      "item": "water, divided"
+    },
+    {
+      "group": "Crust",
+      "qty": 7,
+      "unit": "g",
+      "item": "dried active yeast"
+    },
+    {
+      "group": "Crust",
+      "qty": 4,
+      "unit": "g",
+      "item": "caster sugar",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Crust",
+      "qty": 405,
+      "unit": "g",
+      "item": "strong white bread flour"
+    },
+    {
+      "group": "Crust",
+      "qty": 40,
+      "unit": "g",
+      "item": "fine cornmeal"
+    },
+    {
+      "group": "Crust",
+      "qty": 12,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Fennel topping",
+      "qty": 45,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Fennel topping",
+      "qty": 1,
+      "unit": "pc",
+      "item": "very large onion, halved and thinly sliced",
+      "note": "about 550 g"
+    },
+    {
+      "group": "Fennel topping",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium fennel bulb, thinly sliced"
+    },
+    {
+      "group": "Fennel topping",
+      "qty": 4,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Fennel topping",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "dried thyme"
+    },
+    {
+      "group": "Fennel topping",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "fennel seeds"
+    },
+    {
+      "group": "Fennel topping",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Fennel topping",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Roasted tomatoes",
+      "qty": 12,
+      "unit": "pc",
+      "item": "small plum tomatoes, halved lengthways"
+    },
+    {
+      "group": "Roasted tomatoes",
+      "qty": 45,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Roasted tomatoes",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Roasted tomatoes",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 30,
+      "unit": "g",
+      "item": "Asiago, finely grated"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Herb Oil",
+      "text": "Warm oil (30 ml) with chopped garlic (3 cloves), herbs (½ tsp herbes de Provence) and pepper (1 tsp) in a small pan over low about 5 min until soft, cool."
+    },
+    {
+      "title": "Activate Yeast",
+      "text": "Sprinkle yeast (7 g) and sugar (1 tsp) over warm water (60 ml) and leave 5 min until it swells."
+    },
+    {
+      "title": "Make Dough",
+      "text": "Pulse bread flour (405 g), cornmeal (40 g) and salt (2 tsp) in the processor, add cool water (235 ml) and herb oil to the yeast, pour into the running machine until a rough ball forms, rest 5 min, process about 35 s until smooth, knead briefly, put in an oiled bowl, cover and rise about 2 h until doubled."
+    },
+    {
+      "title": "Shape",
+      "text": "Divide into 8, roll into balls, cover and rest 30 min, roll each to an 18 cm round and lay on floured trays."
+    },
+    {
+      "title": "Cook Fennel",
+      "text": "Heat oil (45 ml) in a sauté pan over medium-high, cook onion (1 very large, 550 g sliced) and fennel (1 medium bulb, sliced) about 8 min until soft, add sliced garlic (4 cloves) for 2 min, then thyme (1 tsp), fennel seeds (1 tsp), chilli flakes (¼ tsp) and salt (¼ tsp)."
+    },
+    {
+      "title": "Roast Tomatoes",
+      "text": "Heat the oven to 190 °C, brush plum tomato halves (12 small) with oil (45 ml), season and roast 20-30 min until just tender."
+    },
+    {
+      "title": "Grill",
+      "text": "Heat the barbecue to hot, brush the tops of 4 rounds with some of the remaining oil (60 ml) and salt, grill oiled side down, lid closed, 1-1.5 min until marked, popping any bubbles, brush the tops with oil, flip, spread with fennel mixture, add 3 tomato halves each, scatter Asiago (30 g grated), drizzle with oil, close the lid and grill 2-3 min until crisp underneath, repeat with remaining dough."
+    }
+  ],
+  "tips": [
+    "No barbecue? Cook the rounds in a very hot ridged griddle pan, then top them and finish under a hot grill for 1-2 min until the cheese melts.",
+    "Roast the tomatoes and cook the fennel mixture separately so each achieves the right texture and colour on its own timeline",
+    "Watch the pizzas closely on the barbecue as the bases char quickly; pop any bubbles that form and move them if they start to burn"
+  ],
+  "storage": "Best eaten straight away whilst the crust is still warm and crisp from the grill. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 936,
+    "protein_g": 20.4,
+    "carbs_g": 113.0,
+    "sugar_g": 15.8,
+    "free_sugar_g": 1.0,
+    "fat_g": 46.4,
+    "satfat_g": 7.6,
+    "salt_g": 4.09,
+    "fibre_g": 11.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A hand-stretched grilled pizza with charred edges, topped with caramelised fennel and onion, halved roasted tomatoes, and pale shreds of Asiago cheese.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}
