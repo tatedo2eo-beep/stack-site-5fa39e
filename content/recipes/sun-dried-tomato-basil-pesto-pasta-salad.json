@@ -1,0 +1,147 @@
+{
+  "slug": "sun-dried-tomato-basil-pesto-pasta-salad",
+  "title": "Sun-Dried Tomato and Basil Pesto Pasta Salad",
+  "category": "salads-bowls",
+  "cuisine": "Italian",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "pasta-salad",
+  "dish_title": "Pasta salad",
+  "flavour": "Basil & sun-dried tomato",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "italian-style-pasta-salad-mozzarella-olives",
+  "changes_from_base": "A sun-dried tomato, ricotta and pine-nut pesto replaces the vinaigrette, with torn basil and fresh cherry tomatoes instead of mozzarella and olives.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Pasta coated in a rich, brick-red pesto of sun-dried tomatoes, ricotta and pine nuts, brightened with fresh cherry tomatoes and torn basil.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot (at least 5 litres)",
+    "colander",
+    "food processor or blender",
+    "large mixing bowl",
+    "rubber spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta water",
+      "qty": 40,
+      "unit": "g",
+      "item": "fine salt for 4 litres of pasta water (1%)",
+      "note": "about 6.75 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Pasta",
+      "qty": 400,
+      "unit": "g",
+      "item": "fusilli or penne"
+    },
+    {
+      "group": "Pesto",
+      "qty": 100,
+      "unit": "g",
+      "item": "oil-packed sun-dried tomatoes, rinsed and blotted"
+    },
+    {
+      "group": "Pesto",
+      "qty": 60,
+      "unit": "g",
+      "item": "ricotta"
+    },
+    {
+      "group": "Pesto",
+      "qty": 50,
+      "unit": "g",
+      "item": "pine nuts, toasted"
+    },
+    {
+      "group": "Pesto",
+      "qty": 25,
+      "unit": "g",
+      "item": "Parmesan-style hard cheese, finely grated (animal-rennet-free)"
+    },
+    {
+      "group": "Pesto",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Pesto",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Pesto",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 20,
+      "unit": "g",
+      "item": "basil leaves, torn"
+    },
+    {
+      "group": "To finish",
+      "qty": 150,
+      "unit": "g",
+      "item": "cherry tomatoes, quartered"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the pasta",
+      "text": "Cook the pasta in the salted water until just past al dente. Keep 120 ml of the water, then drain, rinse cold and shake dry."
+    },
+    {
+      "title": "Blend the pesto",
+      "text": "Blend the sun-dried tomatoes, ricotta, pine nuts, cheese, garlic, oil, pepper and 60 ml pasta water to a thick, brick-red paste."
+    },
+    {
+      "title": "Combine",
+      "text": "Toss the pasta with the pesto, adding a splash more pasta water if it clings in clumps."
+    },
+    {
+      "title": "Finish",
+      "text": "Fold in the cherry tomatoes and torn basil just before serving."
+    }
+  ],
+  "tips": [
+    "Rinse the oil-packed tomatoes so the pesto is not greasy.",
+    "Add the basil at the last minute so it stays green.",
+    "Good for lunchboxes; it holds well for a day."
+  ],
+  "storage": "Keeps covered in the fridge for up to 2 days; loosen with a splash of water or oil and check the seasoning before serving. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 457,
+    "protein_g": 13.0,
+    "carbs_g": 57.4,
+    "sugar_g": 2.8,
+    "free_sugar_g": 0.0,
+    "fat_g": 20.3,
+    "satfat_g": 3.4,
+    "salt_g": 1.28,
+    "fibre_g": 3.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Fusilli coated in a red sun-dried tomato pesto with quartered cherry tomatoes and torn green basil leaves.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

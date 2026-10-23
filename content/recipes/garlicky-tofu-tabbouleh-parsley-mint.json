@@ -1,0 +1,175 @@
+{
+  "slug": "garlicky-tofu-tabbouleh-parsley-mint",
+  "title": "Garlicky Tofu Tabbouleh with Parsley and Mint",
+  "category": "salads-bowls",
+  "cuisine": "Levantine",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "tabbouleh",
+  "dish_title": "Tabbouleh",
+  "flavour": "Tofu",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "herb-tabbouleh-bulgur-lemon",
+  "changes_from_base": "Golden garlicky tofu crumbs are added for protein, and the bulgur softens in lemon and tomato juice instead of water.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A herb-packed tabbouleh with golden, garlicky tofu crumbs for protein: parsley, mint, tomato and bulgur in a lemony dressing. Vegan.",
+  "servings": 4,
+  "prep_min": 30,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "sieve set over a bowl",
+    "food processor",
+    "non-stick frying pan (30 cm)",
+    "large bowl",
+    "paper towels"
+  ],
+  "ingredients": [
+    {
+      "group": "Tomatoes",
+      "qty": 3,
+      "unit": "pc",
+      "item": "tomatoes, cut into 1 cm dice"
+    },
+    {
+      "group": "Tomatoes",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for draining the tomatoes",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Bulgur",
+      "qty": 90,
+      "unit": "g",
+      "item": "medium bulgur, rinsed"
+    },
+    {
+      "group": "Bulgur",
+      "qty": 60,
+      "unit": "ml",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Tofu",
+      "qty": 400,
+      "unit": "g",
+      "item": "extra-firm tofu"
+    },
+    {
+      "group": "Tofu",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Tofu",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Tofu",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Tofu",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Herbs",
+      "qty": 60,
+      "unit": "g",
+      "item": "flat-leaf parsley, finely chopped"
+    },
+    {
+      "group": "Herbs",
+      "qty": 20,
+      "unit": "g",
+      "item": "mint, finely chopped"
+    },
+    {
+      "group": "Herbs",
+      "qty": 2,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Drain tomatoes, soak bulgur",
+      "text": "Salt the tomatoes in the sieve and drain 30 min. Mix the bulgur with half the lemon juice and 2 tbsp of the drained tomato juice and leave to soften."
+    },
+    {
+      "title": "Crumble the tofu",
+      "text": "Press the tofu dry between paper towels, pulse it a few times in the processor to coarse crumbs and blot again."
+    },
+    {
+      "title": "Brown",
+      "text": "Fry the tofu in the oil over medium-high heat 10-12 min until golden. Push it aside, add the garlic to the centre for 1 min, then stir together with salt and pepper. Cool."
+    },
+    {
+      "title": "Toss and rest",
+      "text": "Whisk the rest of the lemon juice with the oil, cayenne and salt, add the tomatoes, bulgur, tofu and herbs and toss. Rest 1 hour for the bulgur to finish softening."
+    }
+  ],
+  "tips": [
+    "Press the tofu well so it browns rather than steams.",
+    "Chop the herbs with a sharp knife so they do not bruise.",
+    "Let it rest the full hour so the bulgur softens."
+  ],
+  "storage": "Keeps covered in the fridge for up to 1 day; the herbs darken after that. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "soya"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 373,
+    "protein_g": 21.8,
+    "carbs_g": 27.5,
+    "sugar_g": 3.2,
+    "free_sugar_g": 0.4,
+    "fat_g": 22.7,
+    "satfat_g": 3.2,
+    "salt_g": 1.18,
+    "fibre_g": 7.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "A bowl of bright green chopped parsley and mint tabbouleh with diced tomato and golden tofu crumbs.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

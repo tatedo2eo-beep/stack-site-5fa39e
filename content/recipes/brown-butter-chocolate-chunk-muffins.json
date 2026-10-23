@@ -96,7 +96,7 @@
   "steps": [
     {
       "title": "Liners",
-      "text": "Heat the oven to 200 °C (180 °C fan). Cut twelve 15 cm squares of baking paper, press each around the base of a tumbler to make a cup and set them in the tin."
+      "text": "Heat the oven to 200 °C (180 °C fan). Cut twelve 15 cm squares of baking paper, press each around the base of a tumbler to shape a tall case and set them in the tin."
     },
     {
       "title": "Dry",
@@ -116,7 +116,7 @@
     },
     {
       "title": "Bake",
-      "text": "Divide between the paper cups, sprinkle with the 2 tbsp sugar and bake 22-25 min, until golden and a skewer shows no raw batter."
+      "text": "Divide between the paper cases, sprinkle with the 2 tbsp sugar and bake 22-25 min, until golden and a skewer shows no raw batter."
     },
     {
       "title": "Cool",
@@ -151,5 +151,8 @@
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
   "image": null,
-  "image_alt": "Tall muffins in baking-paper tulip cases with a sugary crust and chocolate chunks."
+  "image_alt": "Tall muffins in baking-paper tulip cases with a sugary crust and chocolate chunks.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
 }

@@ -1,0 +1,136 @@
+{
+  "slug": "jalapeno-lime-chicken-salad-coriander",
+  "title": "Jalapeño-Lime Chicken Salad with Coriander",
+  "category": "salads-bowls",
+  "cuisine": "Mexican",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "chicken-salad",
+  "dish_title": "Chicken salad",
+  "flavour": "Jalapeño",
+  "flavour_order": 106,
+  "access": "premium",
+  "base_recipe": "creamy-chicken-salad-celery-herbs",
+  "changes_from_base": "Pickled jalapeños, lime and coriander replace the soured cream, tarragon and parsley; red pepper and red onion add colour.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A zippy chicken salad with chopped pickled jalapeños, lime mayonnaise, red pepper, red onion and coriander.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan with lid",
+    "instant-read thermometer",
+    "large mixing bowl",
+    "chopping board and knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 700,
+      "unit": "g",
+      "item": "skinless, boneless chicken breasts (about 4)"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Dressing",
+      "qty": 130,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Salad",
+      "qty": 40,
+      "unit": "g",
+      "item": "pickled jalapeño slices, finely chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "red pepper, finely chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "small red onion, finely chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small celery stick, finely chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 10,
+      "unit": "g",
+      "item": "coriander, chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Poach the chicken",
+      "text": "Put the chicken and bay leaf in a saucepan, cover with cold water by 2 cm and bring to a bare simmer. Cover, turn off the heat and leave 15-17 min until the thickest part reads 74 °C. Lift out, cool 15 min, then shred or dice."
+    },
+    {
+      "title": "Mix",
+      "text": "Whisk the mayonnaise with the lime juice."
+    },
+    {
+      "title": "Combine",
+      "text": "Toss the chicken with the jalapeños, pepper, onion, celery, coriander and black pepper, then fold in the lime mayonnaise. Taste before adding salt; the pickled chillies are salty. Chill 20 min."
+    }
+  ],
+  "tips": [
+    "Taste before salting; the pickled jalapeños bring salt.",
+    "Chop the vegetables fine so every bite has crunch.",
+    "Spoon into tortillas or onto tostadas."
+  ],
+  "storage": "Keeps covered in the fridge for up to 2 days. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard",
+    "celery"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 446,
+    "protein_g": 40.2,
+    "carbs_g": 3.5,
+    "sugar_g": 1.8,
+    "free_sugar_g": 0.2,
+    "fat_g": 29.1,
+    "satfat_g": 4.8,
+    "salt_g": 1.15,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Creamy chicken salad flecked with green jalapeño, red pepper and coriander in a bowl with lime wedges.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

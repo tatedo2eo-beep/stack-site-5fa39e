@@ -1,0 +1,172 @@
+{
+  "slug": "butternut-squash-apple-fattoush-sumac",
+  "title": "Roasted Butternut Squash and Apple Fattoush",
+  "category": "salads-bowls",
+  "cuisine": "Levantine",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "fattoush",
+  "dish_title": "Fattoush",
+  "flavour": "Squash",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "crisp-pita-fattoush-sumac",
+  "changes_from_base": "Roasted butternut squash, apple and radicchio replace the cucumber, tomato and lettuce for an autumn version.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "An autumn fattoush with roasted butternut squash, crisp apple and bitter radicchio, tossed with crunchy pitta and a lemon-sumac dressing.",
+  "servings": 4,
+  "prep_min": 20,
+  "cook_min": 35,
+  "difficulty": "easy",
+  "equipment": [
+    "2 baking trays",
+    "wire rack",
+    "whisk",
+    "large bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Pitta crisps",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large pitta breads, split into thin rounds"
+    },
+    {
+      "group": "Pitta crisps",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Pitta crisps",
+      "qty": 0.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, and pepper",
+      "note": "about 1 pinch"
+    },
+    {
+      "group": "Squash",
+      "qty": 900,
+      "unit": "g",
+      "item": "butternut squash, peeled and cut into 1 cm cubes"
+    },
+    {
+      "group": "Squash",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Squash",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "ground sumac, plus extra to serve"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "pc",
+      "item": "crisp apple, cored and diced"
+    },
+    {
+      "group": "Salad",
+      "qty": 0.25,
+      "unit": "pc",
+      "item": "radicchio, chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 15,
+      "unit": "g",
+      "item": "parsley, chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 4,
+      "unit": "pc",
+      "item": "spring onions, sliced"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Crisp the pitta",
+      "text": "Heat the oven to 190 °C (170 °C fan). Brush the pitta rounds with oil, season and bake on a rack 8-12 min until golden. Cool."
+    },
+    {
+      "title": "Roast the squash",
+      "text": "Turn the oven to 230 °C (210 °C fan). Toss the squash with oil and salt and roast 20-25 min, stirring once, until browned. Cool 10 min."
+    },
+    {
+      "title": "Make the dressing",
+      "text": "Whisk the lemon, sumac, garlic and salt, leave 10 min, then whisk in the oil."
+    },
+    {
+      "title": "Toss",
+      "text": "Break the pitta into pieces and toss with the squash, apple, radicchio, parsley, spring onions and dressing. Dust with sumac and serve."
+    }
+  ],
+  "tips": [
+    "Split the pitta into thin rounds for the crispest crisps.",
+    "Cool the squash before tossing so the radicchio does not wilt.",
+    "Dust with extra sumac at the table."
+  ],
+  "storage": "Best eaten on the day. Keep any leftovers covered in the fridge for up to 1 day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten"
+  ],
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 463,
+    "protein_g": 5.9,
+    "carbs_g": 53.9,
+    "sugar_g": 10.8,
+    "free_sugar_g": 0.7,
+    "fat_g": 27.8,
+    "satfat_g": 3.9,
+    "salt_g": 1.66,
+    "fibre_g": 7.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden roasted squash cubes with diced apple, purple radicchio, parsley and pieces of toasted pitta, dusted with red sumac.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

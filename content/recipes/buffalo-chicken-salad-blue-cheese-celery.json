@@ -1,0 +1,155 @@
+{
+  "slug": "buffalo-chicken-salad-blue-cheese-celery",
+  "title": "Buffalo Chicken Salad with Blue Cheese and Celery",
+  "category": "salads-bowls",
+  "cuisine": "American",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "chicken-salad",
+  "dish_title": "Chicken salad",
+  "flavour": "Buffalo",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "creamy-chicken-salad-celery-herbs",
+  "changes_from_base": "Hot sauce and blue cheese flavour a soured-cream dressing, carrot joins the celery, and the herbs are left out.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Shredded chicken in a creamy blue cheese and hot sauce dressing with crunchy celery and carrot, piled on shredded romaine.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan with lid",
+    "instant-read thermometer",
+    "large mixing bowl",
+    "chopping board and knife",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 700,
+      "unit": "g",
+      "item": "skinless, boneless chicken breasts (about 4)"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Dressing",
+      "qty": 100,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "g",
+      "item": "soured cream"
+    },
+    {
+      "group": "Dressing",
+      "qty": 40,
+      "unit": "g",
+      "item": "blue cheese (animal-rennet-free), crumbled"
+    },
+    {
+      "group": "Dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "Louisiana-style hot sauce"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Salad",
+      "qty": 2,
+      "unit": "pc",
+      "item": "celery sticks, halved lengthways and sliced"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "pc",
+      "item": "carrot, finely chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 20,
+      "unit": "g",
+      "item": "blue cheese (animal-rennet-free), crumbled, to finish"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "pc",
+      "item": "romaine heart, shredded, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Poach the chicken",
+      "text": "Put the chicken and bay leaf in a saucepan, cover with cold water by 2 cm and bring to a bare simmer. Cover, turn off the heat and leave 15-17 min until the thickest part reads 74 °C. Lift out, cool 15 min, then shred or dice."
+    },
+    {
+      "title": "Whisk the dressing",
+      "text": "Whisk the mayonnaise, soured cream, blue cheese, hot sauce, vinegar and pepper; it should stay a little chunky."
+    },
+    {
+      "title": "Toss",
+      "text": "Fold the chicken, celery and carrot through the dressing, then chill 20 min."
+    },
+    {
+      "title": "Serve",
+      "text": "Pile onto shredded romaine and crumble over the remaining blue cheese, with extra hot sauce at the table."
+    }
+  ],
+  "tips": [
+    "Use a vinegar-based Louisiana-style hot sauce for the classic flavour.",
+    "Leave the blue cheese a little chunky.",
+    "Great in a wrap or a toasted roll."
+  ],
+  "storage": "Keeps covered in the fridge for up to 2 days. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "mustard",
+    "celery",
+    "sulphites"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 323,
+    "protein_g": 29.5,
+    "carbs_g": 3.9,
+    "sugar_g": 1.8,
+    "free_sugar_g": 0.1,
+    "fat_g": 20.5,
+    "satfat_g": 5.5,
+    "salt_g": 1.25,
+    "fibre_g": 1.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Orange-tinged creamy shredded chicken with celery and carrot on shredded romaine, topped with crumbled blue cheese.",
+  "inspired_by": [
+    "Serious Eats",
+    "America's Test Kitchen"
+  ]
+}

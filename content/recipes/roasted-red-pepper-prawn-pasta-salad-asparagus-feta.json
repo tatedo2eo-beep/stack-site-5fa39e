@@ -1,0 +1,175 @@
+{
+  "slug": "roasted-red-pepper-prawn-pasta-salad-asparagus-feta",
+  "title": "Roasted Red Pepper Pasta Salad with Prawns, Asparagus and Feta",
+  "category": "salads-bowls",
+  "cuisine": "Mediterranean",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "pasta-salad",
+  "dish_title": "Pasta salad",
+  "flavour": "Roasted red pepper",
+  "flavour_order": 106,
+  "access": "premium",
+  "base_recipe": "italian-style-pasta-salad-mozzarella-olives",
+  "changes_from_base": "A blended roasted-pepper, feta and almond dressing replaces the vinaigrette, with prawns and asparagus instead of mozzarella and olives.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Rotini, tender prawns, asparagus and cherry tomatoes in a creamy roasted red pepper, feta and almond dressing with a little chilli.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot (at least 5 litres)",
+    "colander",
+    "food processor or blender",
+    "large mixing bowl",
+    "rubber spatula",
+    "slotted spoon",
+    "bowl of iced water",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta water",
+      "qty": 40,
+      "unit": "g",
+      "item": "fine salt for 4 litres of pasta water (1%)",
+      "note": "about 6.75 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Pasta",
+      "qty": 340,
+      "unit": "g",
+      "item": "rotini"
+    },
+    {
+      "group": "Pasta",
+      "qty": 400,
+      "unit": "g",
+      "item": "asparagus, trimmed and cut into 3 cm lengths"
+    },
+    {
+      "group": "Pasta",
+      "qty": 500,
+      "unit": "g",
+      "item": "raw peeled king prawns"
+    },
+    {
+      "group": "Dressing",
+      "qty": 100,
+      "unit": "g",
+      "item": "jarred roasted red peppers, drained"
+    },
+    {
+      "group": "Dressing",
+      "qty": 80,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "g",
+      "item": "feta (animal-rennet-free), crumbled"
+    },
+    {
+      "group": "Dressing",
+      "qty": 30,
+      "unit": "g",
+      "item": "almonds, toasted"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "dried chilli flakes"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Salad",
+      "qty": 250,
+      "unit": "g",
+      "item": "cherry tomatoes, halved"
+    },
+    {
+      "group": "Salad",
+      "qty": 40,
+      "unit": "g",
+      "item": "feta (animal-rennet-free), crumbled, to finish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blanch asparagus and prawns",
+      "text": "Bring the salted water to the boil. Cook the asparagus 2 min and lift into iced water; then add the prawns off the boil for 3 min until pink and opaque (63 °C) and lift them out too. Drain both well."
+    },
+    {
+      "title": "Cook the pasta",
+      "text": "Cook the pasta in the same water, drain, rinse cold and shake dry."
+    },
+    {
+      "title": "Blend the dressing",
+      "text": "Blend the peppers, mayonnaise, feta, almonds, lemon zest and juice, garlic, chilli and pepper until smooth and pink."
+    },
+    {
+      "title": "Assemble",
+      "text": "Toss the pasta, asparagus, prawns and tomatoes with the dressing and crumble over the remaining feta."
+    }
+  ],
+  "tips": [
+    "Poach the prawns off the boil so they stay tender.",
+    "Blend the dressing very smooth for an even pink coat.",
+    "Swap the asparagus for green beans out of season."
+  ],
+  "storage": "Keeps covered in the fridge for up to 1 day; loosen with a splash of water or oil and check the seasoning before serving. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "nuts",
+    "crustaceans"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 471,
+    "protein_g": 29.7,
+    "carbs_g": 49.7,
+    "sugar_g": 5.0,
+    "free_sugar_g": 0.2,
+    "fat_g": 17.5,
+    "satfat_g": 4.5,
+    "salt_g": 2.14,
+    "fibre_g": 4.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Rotini in a pale orange-pink dressing with pink prawns, green asparagus pieces, cherry tomatoes and crumbled white feta.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

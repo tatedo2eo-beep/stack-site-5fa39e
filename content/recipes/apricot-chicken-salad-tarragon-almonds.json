@@ -1,0 +1,156 @@
+{
+  "slug": "apricot-chicken-salad-tarragon-almonds",
+  "title": "Apricot Chicken Salad with Tarragon, Grapes and Almonds",
+  "category": "salads-bowls",
+  "cuisine": "American",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "chicken-salad",
+  "dish_title": "Chicken salad",
+  "flavour": "Apricot",
+  "flavour_order": 105,
+  "access": "premium",
+  "base_recipe": "creamy-chicken-salad-celery-herbs",
+  "changes_from_base": "Chopped dried apricots and grapes bring sweetness, toasted almonds replace the celery crunch, and basil joins the tarragon.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A sweet-savoury chicken salad with chopped dried apricots, red grapes, toasted almonds, tarragon and basil in a light mustard mayonnaise.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan with lid",
+    "instant-read thermometer",
+    "large mixing bowl",
+    "chopping board and knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 700,
+      "unit": "g",
+      "item": "skinless, boneless chicken breasts (about 4)"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Dressing",
+      "qty": 100,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "g",
+      "item": "dried apricots, finely chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "yellow mustard"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small shallot, minced"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cayenne pepper"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Salad",
+      "qty": 80,
+      "unit": "g",
+      "item": "red grapes, halved"
+    },
+    {
+      "group": "Salad",
+      "qty": 50,
+      "unit": "g",
+      "item": "flaked almonds, toasted"
+    },
+    {
+      "group": "Salad",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "tarragon leaves, chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 10,
+      "unit": "g",
+      "item": "basil, shredded"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Poach the chicken",
+      "text": "Put the chicken and bay leaf in a saucepan, cover with cold water by 2 cm and bring to a bare simmer. Cover, turn off the heat and leave 15-17 min until the thickest part reads 74 °C. Lift out, cool 15 min, then shred or dice."
+    },
+    {
+      "title": "Make the dressing",
+      "text": "Stir the mayonnaise, apricots, lemon, mustard, shallot, cayenne and salt together and leave 5 min so the apricots soften."
+    },
+    {
+      "title": "Fold",
+      "text": "Fold in the chicken, grapes, almonds and herbs. Chill 20 min and serve on soft lettuce leaves."
+    }
+  ],
+  "tips": [
+    "Soften the apricots in the dressing for 5 minutes first.",
+    "Toast the almonds just before adding so they stay crisp.",
+    "Try it in croissants or soft lettuce leaves."
+  ],
+  "storage": "Keeps covered in the fridge for up to 2 days. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "eggs",
+    "mustard",
+    "nuts",
+    "sulphites"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 341,
+    "protein_g": 28.9,
+    "carbs_g": 11.8,
+    "sugar_g": 8.2,
+    "free_sugar_g": 0.2,
+    "fat_g": 19.9,
+    "satfat_g": 3.0,
+    "salt_g": 0.67,
+    "fibre_g": 2.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Chicken salad with orange apricot pieces, halved red grapes and flaked almonds on soft green lettuce leaves.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

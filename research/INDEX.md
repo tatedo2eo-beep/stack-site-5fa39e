@@ -32,6 +32,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | apple-rosemary-tarte-tatin | Tarte Tatin | Rosemary | 1 | 3 |
 | apricot-blueberry-free-form-tart | Fruit tart (crème pâtissière) | Apricot | 1 | 3 |
 | apricot-brown-sugar-frangipane-tart | Frangipane | Apricot | 1 | 3 |
+| apricot-chicken-salad-tarragon-almonds | Chicken salad | Apricot | 2 | 4 |
 | apricot-tarte-tatin-crisp-pastry | Tarte Tatin | Apricot | 1 | 3 |
 | argentinian-parsley-oregano-chimichurri | Chimichurri | Classic | 2 | 4 |
 | arnold-palmer-layered-iced-tea-lemonade | Iced tea lemonade | Classic | 3 | 5 |
@@ -101,6 +102,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | brazilian-style-fish-prawn-coconut-stew | Moqueca | Classic | 3 | 5 |
 | breaded-veal-schnitzel-potato-salad | Wiener schnitzel | Classic | 2 | 4 |
 | broccoli-basil-pesto-linguine | Long dried (spaghetti, linguine, bucatini) | Pesto | 1 | 3 |
+| broccoli-white-bean-pasta-salad-basil-pesto | Pasta salad | Broccoli | 1 | 3 |
 | brookies | Brookies | Classic | 2 | 4 |
 | brown-butter-almond-financiers | Financiers | Classic | 2 | 4 |
 | brown-butter-blondies | Blondies | Brown butter | 1 | 3 |
@@ -112,6 +114,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | brown-sugar-shortbread | Shortbread | Brown sugar | 1 | 5 |
 | bubble-and-squeak-savoy-cabbage | Bubble and squeak | Classic | 2 | 4 |
 | buffalo-chicken-burger | Chicken burger | Buffalo | 3 | 8 |
+| buffalo-chicken-salad-blue-cheese-celery | Chicken salad | Buffalo | 2 | 4 |
 | buffalo-chicken-wings | Chicken wings | Buffalo | 4 | 6 |
 | bulalo-beef-shank-marrow-bone-corn-soup | Bulalo | Classic | 1 | 3 |
 | butter-chicken | Butter chicken | Classic | 2 | 4 |
@@ -122,6 +125,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | buttermilk-fried-chicken | Fried chicken (Southern) | Buttermilk-brined | 4 | 6 |
 | buttermilk-herb-ranch-dressing | Ranch dressing | Classic | 2 | 4 |
 | buttermilk-panna-cotta-raspberry-coulis | Panna cotta | Buttermilk | 2 | 4 |
+| butternut-squash-apple-fattoush-sumac | Fattoush | Squash | 1 | 3 |
 | butternut-squash-ravioli | Filled (ravioli, tortellini, agnolotti) | Butternut squash | 4 | 6 |
 | buttery-rice-pilaf-toasted-vermicelli-herbs | Steamed/pilaf | Classic | 3 | 5 |
 | buttery-succotash-corn-lima | Succotash | Classic | 2 | 4 |
@@ -213,6 +217,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | chicken-schnitzel | Cutlet/schnitzel | Classic | 2 | 4 |
 | chicken-souvlaki | Chicken souvlaki | Classic | 2 | 4 |
 | chicken-tenders | Nuggets/tenders | Classic | 3 | 5 |
+| chicken-white-bean-panzanella-rocket | Panzanella | Chicken | 2 | 4 |
 | chicken-yassa | Yassa | Classic | 3 | 5 |
 | chiffon-cake | Chiffon | Classic | 2 | 4 |
 | chilled-gazpacho-tomato-cucumber-pepper | Gazpacho | Classic | 2 | 4 |
@@ -411,6 +416,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | fermented-sour-dill-pickles | Sour dill pickles | Classic | 2 | 4 |
 | fesenjan | Fesenjan | Classic | 2 | 4 |
 | festival-jamaican-sweet-cornmeal-dumplings | Festival | Classic | 2 | 4 |
+| feta-dill-chicken-salad-lemon-yoghurt | Chicken salad | Feta | 1 | 3 |
 | fettuccine-alfredo | Alfredo (Roman original) | Classic | 3 | 5 |
 | fig-bars | Bars (magic bars, millionaire's shortbread) | Fig | 1 | 3 |
 | filipino-oxtail-peanut-stew | Kare-kare | Classic | 2 | 4 |
@@ -471,6 +477,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | garlic-parsley-butter-pull-apart-rolls | Dinner rolls | Garlic | 1 | 3 |
 | garlic-potato-almond-skordalia-crisp-fried-cod | Skordalia | Classic | 3 | 5 |
 | garlic-rosemary-roast-beef | Roast beef | Garlic-rosemary | 3 | 5 |
+| garlicky-tofu-tabbouleh-parsley-mint | Tabbouleh | Tofu | 1 | 3 |
 | gateau-basque | Basque cake | Classic | 2 | 4 |
 | general-tsos-chicken | General Tso's chicken | Classic | 2 | 4 |
 | genoise-sponge | Sponge (genoise) | Classic | 2 | 4 |
@@ -521,6 +528,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | griddled-english-muffins-nooks-crannies | ? | ? | MISSING | |
 | griddled-holey-english-crumpets-butter | ? | ? | MISSING | |
 | grilled-beef-kebabs-peppers | Kebabs/skewers | Classic | 3 | 5 |
+| grilled-chicken-pasta-salad-corn-black-beans-lime | Pasta salad | Chicken | 1 | 3 |
 | grilled-porterhouse-steak-rosemary-lemon | Bistecca alla fiorentina | Classic | 2 | 4 |
 | grilled-provolone-provoleta-oregano-chilli-toasted-bread | Provoleta | Classic | 2 | 4 |
 | grilled-salmon-caesar-charred-romaine | Caesar | Salmon | 1 | 3 |
@@ -578,6 +586,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | italian-bean-vegetable-soup-small-pasta-basil | Minestrone | Classic | 3 | 5 |
 | italian-parsley-caper-salsa-verde | Salsa verde | Classic | 1 | 3 |
 | italian-style-pasta-salad-mozzarella-olives | Pasta salad | Classic | 3 | 5 |
+| jalapeno-lime-chicken-salad-coriander | Chicken salad | Jalapeño | 1 | 3 |
 | jalapeno-lime-coleslaw-coriander | Coleslaw | Jalapeño | 1 | 3 |
 | jalebi-saffron-syrup-spirals | Jalebi | Classic | 1 | 3 |
 | jamaican-braised-oxtail-butter-beans | Oxtail stew | Classic | 3 | 5 |
@@ -646,6 +655,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-sugar-blueberry-muffins | American muffin (blueberry style, muffin method) | Classic | 2 | 4 |
 | lemon-treacle-tart-clotted-cream | Treacle tart | Classic | 0 | 4 |
 | lemon-zest-posset | Posset | Lemon | 2 | 4 |
+| lemony-pea-pistachio-pesto-pasta-salad | Pasta salad | Pea & pistachio | 1 | 3 |
 | lemony-tuna-salad-celery-capers | Tuna salad | Classic | 3 | 5 |
 | libyan-style-fish-spicy-tomato-pepper-sauce | Chraime | Classic | 2 | 4 |
 | liege-waffles-caramelised-pearl-sugar | Liège waffles | Classic | 2 | 4 |
@@ -831,6 +841,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | persian-saffron-rice-golden-crust-barberries | Tahdig/Persian polo | Classic | 3 | 5 |
 | peruvian-style-beef-tomato-stir-fry-chips | Lomo saltado | Classic | 3 | 5 |
 | pesto-alla-trapanese | Pesto alla trapanese | Classic | 2 | 4 |
+| pesto-chicken-salad-sun-dried-tomatoes | Chicken salad | Pesto | 1 | 3 |
 | philly-cheesesteak-american-cheese-onions | Philly cheesesteak | American | 1 | 3 |
 | philly-cheesesteaks-shaved-ribeye-caramelised-onions | Philly cheesesteak | Classic | 2 | 4 |
 | phirni-cardamom-saffron-ground-rice-pudding | Phirni | Classic | 1 | 3 |
@@ -936,6 +947,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | roasted-harissa-chickpea-spaghetti | Long dried (spaghetti, linguine, bucatini) | Harissa & chickpea | 1 | 3 |
 | roasted-pepper-almond-romesco | Romesco | Classic | 2 | 4 |
 | roasted-red-pepper-hummus-almonds | Hummus | Roasted red pepper | 3 | 5 |
+| roasted-red-pepper-prawn-pasta-salad-asparagus-feta | Pasta salad | Roasted red pepper | 2 | 4 |
 | rocky-road-brownies | Brownie (fudgy or cakey) | Rocky road | 1 | 3 |
 | rocky-road-custard-ice-cream | Custard-base (French) | Rocky road | 1 | 3 |
 | romaine-caesar-salad-garlic-croutons | Caesar | Classic | 3 | 5 |
@@ -976,6 +988,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | seven-layer-bean-dip-guacamole-cheddar-pico-de-gallo | Seven-layer dip | Classic | 2 | 4 |
 | shaken-iced-coffee-frappe-milk | Frappé coffee | Classic | 2 | 4 |
 | shakshuka | Shakshuka | Classic | 2 | 4 |
+| shimeji-mushroom-larb-culantro-lime | Larb | Mushroom | 1 | 3 |
 | shredded-beef-chimichangas-fried | Chimichanga | Classic | 1 | 3 |
 | shrimp-linguine-lime-jalapeno | Long dried (spaghetti, linguine, bucatini) | Shrimp | 1 | 3 |
 | sicilian-style-thick-pan-pizza-onion-tomato-crisp-crumbs | Sicilian/sfincione | Classic | 2 | 4 |
@@ -1097,6 +1110,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | stuffed-corn-griddle-cakes-melted-cheese-cabbage-relish | Pupusa | Cheese | 4 | 6 |
 | stuffed-corn-griddle-cakes-refried-beans-cheese-cabbage-relish | Pupusa | Bean-cheese | 3 | 5 |
 | sukuma-wiki-collards-tomato-ginger | Sukuma wiki | Classic | 1 | 3 |
+| sun-dried-tomato-basil-pesto-pasta-salad | Pasta salad | Basil & sun-dried tomato | 1 | 3 |
 | swedish-meatballs-cream-gravy | Meatballs | Swedish (allspice-nutmeg) | 3 | 5 |
 | sweet-basil-custard-ice-cream | Custard-base (French) | Basil | 1 | 3 |
 | sweet-cheese-danish-pastries-lemon | Danish | Cheese | 4 | 6 |
@@ -1129,6 +1143,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | thai-green-coconut-curry-chicken-aubergine-basil | Green curry | Chicken | 3 | 5 |
 | thai-green-coconut-curry-cod-aubergine-red-chilli | Green curry | Classic | 3 | 5 |
 | thai-iced-tea-condensed-milk-star-anise | Thai tea | Classic | 2 | 4 |
+| thai-style-peanut-chicken-salad-ginger-lime | Chicken salad | Peanut | 1 | 3 |
 | thai-thick-coconut-red-curry-beef-lime-leaf-peanuts | Panang curry | Beef | 2 | 4 |
 | thai-yellow-coconut-curry-chicken-potatoes-onion | Thai yellow curry (kaeng kari) | Chicken | 2 | 4 |
 | thick-acai-bowl-banana-berries-granola | Açaí bowl | Classic | 2 | 4 |
@@ -1161,6 +1176,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | triple-berry-galette | Galette/crostata | Berry | 1 | 3 |
 | triple-cooked-chips | Pont-Neuf/triple-cooked chips | Classic | 2 | 4 |
 | trofie-al-pesto | Trofie | Classic | 3 | 5 |
+| tuna-butter-bean-courgette-ribbon-salad | Tuna salad | Zucchini | 1 | 3 |
 | tuna-puttanesca | Puttanesca | Tuna | 2 | 4 |
 | turon-caramel-banana-jackfruit-rolls | Turon | Classic | 1 | 3 |
 | tuscan-panzanella-tomato-bread-salad | Panzanella | Classic | 3 | 5 |
@@ -1220,6 +1236,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | zaatar-flatbreads-olive-oil-cucumber-tomato-mint | Manakish | Classic | 2 | 4 |
 | zaatar-labneh-spaghetti | Long dried (spaghetti, linguine, bucatini) | Za'atar | 1 | 3 |
 | zesty-lemon-aioli-vegetables | Aioli | Lemon | 1 | 3 |
+| zesty-shrimp-pasta-salad-coriander-lime-pesto | Pasta salad | Shrimp | 1 | 3 |
 | zopf-swiss-braided-sunday-bread | Zopf | Classic | 1 | 3 |
 
 Flavour maps: [smash-burger-flavours.md](smash-burger-flavours.md) (extra flavours ON HOLD per Joe's final rule: book flavours only).

@@ -1,0 +1,154 @@
+{
+  "slug": "tuna-butter-bean-courgette-ribbon-salad",
+  "title": "Tuna, Butter Bean and Courgette Ribbon Salad",
+  "category": "salads-bowls",
+  "cuisine": "Italian",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "tuna-salad",
+  "dish_title": "Tuna salad",
+  "flavour": "Zucchini",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "lemony-tuna-salad-celery-capers",
+  "changes_from_base": "Mayonnaise and celery are dropped: a lemon-shallot vinaigrette dresses the tuna with butter beans and salted courgette ribbons.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A light, mayonnaise-free tuna salad: chunks of oil-packed tuna, creamy butter beans and silky salted courgette ribbons in a lemon-shallot vinaigrette with soft herbs.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 0,
+  "difficulty": "easy",
+  "equipment": [
+    "vegetable peeler or mandoline",
+    "colander",
+    "large bowl",
+    "whisk",
+    "salad spinner or clean tea towel"
+  ],
+  "ingredients": [
+    {
+      "group": "Salad",
+      "qty": 2,
+      "unit": "pc",
+      "item": "small courgettes (about 340 g)"
+    },
+    {
+      "group": "Salad",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the courgettes (liquid discarded)",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large shallot, thinly sliced"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Dressing",
+      "qty": 60,
+      "unit": "ml",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Dressing",
+      "qty": 90,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 10,
+      "unit": "g",
+      "item": "parsley, mint and dill, chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "tin",
+      "item": "butter beans (400 g), rinsed and dried"
+    },
+    {
+      "group": "Salad",
+      "qty": 190,
+      "unit": "g",
+      "item": "oil-packed tuna, drained and flaked into chunks"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Salt the ribbons",
+      "text": "Shave the courgettes lengthways into ribbons, toss with the salt in a colander and leave 15 min."
+    },
+    {
+      "title": "Pickle the shallot",
+      "text": "Meanwhile, whisk the shallot, lemon zest and juice, garlic, salt and pepper and leave 15 min, then whisk in the oil and herbs."
+    },
+    {
+      "title": "Combine",
+      "text": "Spin or blot the courgettes dry, then fold them with the beans and tuna through the dressing."
+    },
+    {
+      "title": "Rest",
+      "text": "Leave 20-30 min at room temperature, then serve with lemon wedges and a little extra oil."
+    }
+  ],
+  "tips": [
+    "Good oil-packed tuna makes a real difference here.",
+    "Dry the beans and courgettes well so the dressing clings.",
+    "Rest at room temperature before serving."
+  ],
+  "storage": "Best eaten on the day. Keep any leftovers covered in the fridge for up to 1 day. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 349,
+    "protein_g": 18.4,
+    "carbs_g": 15.8,
+    "sugar_g": 3.6,
+    "free_sugar_g": 0.4,
+    "fat_g": 24.4,
+    "satfat_g": 3.6,
+    "salt_g": 1.75,
+    "fibre_g": 4.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Pale green courgette ribbons on a platter with butter beans, chunks of tuna, sliced shallot, herbs and lemon wedges.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

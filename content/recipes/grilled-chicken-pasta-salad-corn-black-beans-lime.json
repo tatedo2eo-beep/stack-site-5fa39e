@@ -1,0 +1,192 @@
+{
+  "slug": "grilled-chicken-pasta-salad-corn-black-beans-lime",
+  "title": "Chicken Pasta Salad with Corn, Black Beans and Lime",
+  "category": "salads-bowls",
+  "cuisine": "American",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "pasta-salad",
+  "dish_title": "Pasta salad",
+  "flavour": "Chicken",
+  "flavour_order": 102,
+  "access": "premium",
+  "base_recipe": "italian-style-pasta-salad-mozzarella-olives",
+  "changes_from_base": "Griddled chicken, sweetcorn, black beans and peppers go in, and a tangy horseradish-mayonnaise dressing with lime replaces the oil-and-vinegar dressing.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A hearty picnic pasta salad with griddled chicken, sweetcorn, black beans and peppers in a tangy horseradish, lime and cider-vinegar mayonnaise.",
+  "servings": 6,
+  "prep_min": 25,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "griddle pan or barbecue",
+    "instant-read thermometer",
+    "large pot (at least 5 litres)",
+    "colander",
+    "large mixing bowl",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta water",
+      "qty": 40,
+      "unit": "g",
+      "item": "fine salt for 4 litres of pasta water (1%)",
+      "note": "about 6.75 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Pasta",
+      "qty": 400,
+      "unit": "g",
+      "item": "corkscrew pasta"
+    },
+    {
+      "group": "Pasta",
+      "qty": 150,
+      "unit": "g",
+      "item": "frozen sweetcorn"
+    },
+    {
+      "group": "Chicken",
+      "qty": 2,
+      "unit": "pc",
+      "item": "chicken breasts (about 400 g)"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Creamy dressing",
+      "qty": 100,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Creamy dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "cider vinegar"
+    },
+    {
+      "group": "Creamy dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "creamed horseradish"
+    },
+    {
+      "group": "Creamy dressing",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Creamy dressing",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Salad",
+      "qty": 120,
+      "unit": "g",
+      "item": "canned black beans, rinsed"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "pc",
+      "item": "red pepper, diced"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "pc",
+      "item": "yellow pepper, diced"
+    },
+    {
+      "group": "Salad",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "small red onion, finely chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "pc",
+      "item": "jalapeño, deseeded and finely chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 15,
+      "unit": "g",
+      "item": "coriander, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Griddle the chicken",
+      "text": "Rub the chicken with oil, salt and pepper and cook on a hot griddle 5-6 min a side until it reads 74 °C. Rest 5 min, then shred."
+    },
+    {
+      "title": "Cook pasta and corn",
+      "text": "Boil the pasta in the salted water; add the frozen corn for the last minute. Drain, rinse cold and shake dry."
+    },
+    {
+      "title": "Whisk the dressing",
+      "text": "Whisk the mayonnaise, vinegar, horseradish, lime juice and pepper until smooth."
+    },
+    {
+      "title": "Toss",
+      "text": "Toss the pasta and corn with the chicken, beans, peppers, onion, jalapeño and coriander, then fold in the dressing. Chill 20 min before serving."
+    }
+  ],
+  "tips": [
+    "Leftover roast or barbecued chicken works well.",
+    "Rinse the beans well so the dressing stays pale.",
+    "Add extra lime just before serving to wake it up."
+  ],
+  "storage": "Keeps covered in the fridge for up to 2 days; loosen with a splash of water or oil and check the seasoning before serving. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 507,
+    "protein_g": 26.4,
+    "carbs_g": 62.0,
+    "sugar_g": 4.9,
+    "free_sugar_g": 0.2,
+    "fat_g": 16.6,
+    "satfat_g": 2.7,
+    "salt_g": 1.79,
+    "fibre_g": 5.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Corkscrew pasta in a creamy dressing with shredded chicken, yellow corn, black beans, red and yellow pepper and coriander.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

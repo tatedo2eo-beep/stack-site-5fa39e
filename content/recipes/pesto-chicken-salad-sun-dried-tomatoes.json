@@ -1,0 +1,153 @@
+{
+  "slug": "pesto-chicken-salad-sun-dried-tomatoes",
+  "title": "Pesto Chicken Salad with Sun-Dried Tomatoes",
+  "category": "salads-bowls",
+  "cuisine": "Italian",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "chicken-salad",
+  "dish_title": "Chicken salad",
+  "flavour": "Pesto",
+  "flavour_order": 103,
+  "access": "premium",
+  "base_recipe": "creamy-chicken-salad-celery-herbs",
+  "changes_from_base": "A quick basil pesto replaces the soured cream and herbs, and sun-dried tomatoes replace the celery and spring onion.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Poached chicken folded through a quick basil pesto mayonnaise with chopped sun-dried tomatoes: an easy sandwich or lunchbox filling.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan with lid",
+    "instant-read thermometer",
+    "large mixing bowl",
+    "chopping board and knife",
+    "small food processor or pestle and mortar"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 700,
+      "unit": "g",
+      "item": "skinless, boneless chicken breasts (about 4)"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Quick pesto",
+      "qty": 30,
+      "unit": "g",
+      "item": "basil leaves"
+    },
+    {
+      "group": "Quick pesto",
+      "qty": 25,
+      "unit": "g",
+      "item": "pine nuts, toasted"
+    },
+    {
+      "group": "Quick pesto",
+      "qty": 20,
+      "unit": "g",
+      "item": "Parmesan-style hard cheese, finely grated (animal-rennet-free)"
+    },
+    {
+      "group": "Quick pesto",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Quick pesto",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Dressing",
+      "qty": 100,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Salad",
+      "qty": 80,
+      "unit": "g",
+      "item": "oil-packed sun-dried tomatoes, blotted and chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Poach the chicken",
+      "text": "Put the chicken and bay leaf in a saucepan, cover with cold water by 2 cm and bring to a bare simmer. Cover, turn off the heat and leave 15-17 min until the thickest part reads 74 °C. Lift out, cool 15 min, then shred or dice."
+    },
+    {
+      "title": "Make the pesto",
+      "text": "Blitz or pound the basil, pine nuts, cheese and garlic, then work in the oil to a coarse paste."
+    },
+    {
+      "title": "Mix",
+      "text": "Stir the pesto with the mayonnaise, lemon, salt and pepper, then fold in the chicken and sun-dried tomatoes."
+    },
+    {
+      "title": "Chill",
+      "text": "Chill 20 min. Serve on toasted bread, in lettuce cups or with crackers."
+    }
+  ],
+  "tips": [
+    "Blot the sun-dried tomatoes well so the salad is not oily.",
+    "Shred the chicken by hand for the best texture.",
+    "Add a squeeze of lemon if serving the next day."
+  ],
+  "storage": "Keeps covered in the fridge for up to 2 days. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 385,
+    "protein_g": 28.8,
+    "carbs_g": 4.7,
+    "sugar_g": 0.3,
+    "free_sugar_g": 0.1,
+    "fat_g": 27.9,
+    "satfat_g": 4.5,
+    "salt_g": 0.88,
+    "fibre_g": 1.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Shredded chicken in a pale green pesto dressing studded with red sun-dried tomato pieces on toasted bread.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

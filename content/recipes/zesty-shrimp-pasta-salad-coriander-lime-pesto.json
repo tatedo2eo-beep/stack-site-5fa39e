@@ -1,0 +1,168 @@
+{
+  "slug": "zesty-shrimp-pasta-salad-coriander-lime-pesto",
+  "title": "Zesty Prawn Pasta Salad with Coriander-Lime Pesto",
+  "category": "salads-bowls",
+  "cuisine": "American",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "pasta-salad",
+  "dish_title": "Pasta salad",
+  "flavour": "Shrimp",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "italian-style-pasta-salad-mozzarella-olives",
+  "changes_from_base": "A coriander, basil, walnut and lime pesto replaces the oregano vinaigrette, and prawns and cherry tomatoes replace the mozzarella and olives.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Curly pasta coated in a bright green coriander, basil and lime pesto with walnuts and a hint of jalapeño, tossed with juicy prawns and cherry tomatoes.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot (at least 5 litres)",
+    "colander",
+    "food processor or blender",
+    "large mixing bowl",
+    "rubber spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta water",
+      "qty": 40,
+      "unit": "g",
+      "item": "fine salt for 4 litres of pasta water (1%)",
+      "note": "about 6.75 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Pasta",
+      "qty": 400,
+      "unit": "g",
+      "item": "short curly pasta such as fusilli"
+    },
+    {
+      "group": "Pesto",
+      "qty": 40,
+      "unit": "g",
+      "item": "fresh coriander, leaves and tender stems"
+    },
+    {
+      "group": "Pesto",
+      "qty": 20,
+      "unit": "g",
+      "item": "basil leaves"
+    },
+    {
+      "group": "Pesto",
+      "qty": 30,
+      "unit": "g",
+      "item": "walnuts, toasted"
+    },
+    {
+      "group": "Pesto",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Pesto",
+      "qty": 2,
+      "unit": "pc",
+      "item": "anchovy fillets in oil, drained"
+    },
+    {
+      "group": "Pesto",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "jalapeño, seeds removed"
+    },
+    {
+      "group": "Pesto",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated lime zest"
+    },
+    {
+      "group": "Pesto",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Pesto",
+      "qty": 100,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Pesto",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Salad",
+      "qty": 400,
+      "unit": "g",
+      "item": "cooked peeled prawns, patted dry"
+    },
+    {
+      "group": "Salad",
+      "qty": 300,
+      "unit": "g",
+      "item": "cherry tomatoes, halved"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Blend the pesto",
+      "text": "Blitz the coriander, basil, walnuts, garlic, anchovies, jalapeño, lime zest and juice and salt to a rough paste, then pour in the oil with the motor running."
+    },
+    {
+      "title": "Cook and cool the pasta",
+      "text": "Bring the water to a rolling boil and add the salt. Cook the pasta 1-2 min past al dente, then drain, rinse under cold running water until cool, and shake very dry."
+    },
+    {
+      "title": "Combine",
+      "text": "Fold the pesto through the cold pasta, then add the prawns and tomatoes and toss gently."
+    },
+    {
+      "title": "Rest and serve",
+      "text": "Leave 15 min for the flavours to settle, taste for lime and salt, and serve."
+    }
+  ],
+  "tips": [
+    "Cook the pasta a little past al dente; it firms up as it cools.",
+    "Pat the prawns dry so they do not water down the pesto.",
+    "Add the jalapeño seeds if you like more heat."
+  ],
+  "storage": "Keeps covered in the fridge for up to 1 day; loosen with a splash of water or oil and check the seasoning before serving. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "nuts",
+    "fish",
+    "crustaceans"
+  ],
+  "diet": [
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 488,
+    "protein_g": 24.1,
+    "carbs_g": 54.0,
+    "sugar_g": 3.5,
+    "free_sugar_g": 0.1,
+    "fat_g": 19.9,
+    "satfat_g": 2.7,
+    "salt_g": 1.43,
+    "fibre_g": 3.5
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Fusilli tossed in bright green coriander pesto with pink prawns and halved red cherry tomatoes in a white bowl.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

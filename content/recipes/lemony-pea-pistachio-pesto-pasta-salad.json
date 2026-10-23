@@ -1,0 +1,160 @@
+{
+  "slug": "lemony-pea-pistachio-pesto-pasta-salad",
+  "title": "Lemony Pea and Pistachio Pesto Pasta Salad",
+  "category": "salads-bowls",
+  "cuisine": "Italian",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "pasta-salad",
+  "dish_title": "Pasta salad",
+  "flavour": "Pea & pistachio",
+  "flavour_order": 104,
+  "access": "premium",
+  "base_recipe": "italian-style-pasta-salad-mozzarella-olives",
+  "changes_from_base": "A pea, ricotta and pistachio pesto with lemon and mint replaces the oregano vinaigrette, mozzarella and olives.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Penne in a creamy, bright green pesto of peas, ricotta and pistachios with lemon zest, then finished with fresh mint and more pistachios.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 12,
+  "difficulty": "easy",
+  "equipment": [
+    "large pot (at least 5 litres)",
+    "colander",
+    "food processor or blender",
+    "large mixing bowl",
+    "rubber spatula"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta water",
+      "qty": 40,
+      "unit": "g",
+      "item": "fine salt for 4 litres of pasta water (1%)",
+      "note": "about 6.75 tsp; most of it goes down the drain"
+    },
+    {
+      "group": "Pasta",
+      "qty": 400,
+      "unit": "g",
+      "item": "penne or campanelle"
+    },
+    {
+      "group": "Pesto",
+      "qty": 170,
+      "unit": "g",
+      "item": "frozen peas, thawed"
+    },
+    {
+      "group": "Pesto",
+      "qty": 60,
+      "unit": "g",
+      "item": "ricotta"
+    },
+    {
+      "group": "Pesto",
+      "qty": 50,
+      "unit": "g",
+      "item": "shelled unsalted pistachios, toasted"
+    },
+    {
+      "group": "Pesto",
+      "qty": 25,
+      "unit": "g",
+      "item": "Pecorino-style hard cheese, grated (animal-rennet-free)"
+    },
+    {
+      "group": "Pesto",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, peeled"
+    },
+    {
+      "group": "Pesto",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Pesto",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Pesto",
+      "qty": 60,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Pesto",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "To finish",
+      "qty": 10,
+      "unit": "g",
+      "item": "mint leaves, chopped"
+    },
+    {
+      "group": "To finish",
+      "qty": 20,
+      "unit": "g",
+      "item": "pistachios, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Cook the pasta",
+      "text": "Cook the pasta in the salted water until just past al dente. Scoop out 120 ml of the water, then drain, rinse cold and shake dry."
+    },
+    {
+      "title": "Blend the pesto",
+      "text": "Blend half the peas with the ricotta, pistachios, cheese, garlic, lemon zest and juice, oil, pepper and 60 ml of the pasta water until smooth."
+    },
+    {
+      "title": "Combine",
+      "text": "Toss the pasta with the pesto and remaining whole peas, loosening with more pasta water if thick."
+    },
+    {
+      "title": "Finish",
+      "text": "Scatter with mint and chopped pistachios and serve at room temperature."
+    }
+  ],
+  "tips": [
+    "Save the pasta water before draining; its starch helps the pesto cling.",
+    "Thawed frozen peas give the sweetest, greenest pesto.",
+    "Serve at room temperature for the best flavour."
+  ],
+  "storage": "Keeps covered in the fridge for up to 2 days; loosen with a splash of water or oil and check the seasoning before serving. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 450,
+    "protein_g": 14.8,
+    "carbs_g": 58.9,
+    "sugar_g": 4.1,
+    "free_sugar_g": 0.1,
+    "fat_g": 17.6,
+    "satfat_g": 3.5,
+    "salt_g": 1.18,
+    "fibre_g": 4.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Penne coated in pale green pea and pistachio pesto with whole peas, chopped pistachios and mint leaves on top.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

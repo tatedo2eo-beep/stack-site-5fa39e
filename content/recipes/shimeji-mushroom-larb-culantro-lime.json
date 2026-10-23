@@ -1,0 +1,134 @@
+{
+  "slug": "shimeji-mushroom-larb-culantro-lime",
+  "title": "Shimeji Mushroom Larb with Lime and Toasted Rice",
+  "category": "salads-bowls",
+  "cuisine": "Thai",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "larb",
+  "dish_title": "Larb",
+  "flavour": "Mushroom",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "beef-larb-toasted-rice-herbs",
+  "changes_from_base": "Blanched shimeji mushrooms replace the minced beef, so there is no frying; the dressing stays sour-led with fish sauce, lime and toasted rice.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A fast, sour and herby Thai-style larb of quickly blanched shimeji mushrooms with shallots, fish sauce, lime, chilli and nutty toasted rice powder.",
+  "servings": 2,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "dry frying pan",
+    "pestle and mortar or spice grinder",
+    "saucepan",
+    "sieve",
+    "large bowl"
+  ],
+  "ingredients": [
+    {
+      "group": "Toasted rice",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "raw sticky or jasmine rice"
+    },
+    {
+      "group": "Salad",
+      "qty": 400,
+      "unit": "g",
+      "item": "shimeji mushrooms, trimmed and separated"
+    },
+    {
+      "group": "Salad",
+      "qty": 2,
+      "unit": "pc",
+      "item": "shallots, thinly sliced lengthways"
+    },
+    {
+      "group": "Salad",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "fish sauce (check the label: fish, salt and sugar only)"
+    },
+    {
+      "group": "Salad",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Salad",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried chilli flakes or Thai chilli powder"
+    },
+    {
+      "group": "Salad",
+      "qty": 15,
+      "unit": "g",
+      "item": "culantro or coriander, finely chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 10,
+      "unit": "g",
+      "item": "mint leaves"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "pc",
+      "item": "little gem lettuce, leaves separated, to serve"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Toast the rice",
+      "text": "Toast the rice in the dry pan over medium heat, shaking, 6-8 min until deep golden. Cool and grind to a coarse powder."
+    },
+    {
+      "title": "Blanch the mushrooms",
+      "text": "Bring a pan of water to the boil. Dip the mushrooms in a sieve in batches for 15 sec, shake off the water and tip into the bowl."
+    },
+    {
+      "title": "Season",
+      "text": "Toss in the shallots, 1 tbsp fish sauce and 2 tbsp lime, then taste: it should be mainly sour. Add the rest of the fish sauce, lime and chilli as needed."
+    },
+    {
+      "title": "Finish",
+      "text": "Toss through the rice powder, culantro and mint and serve straight away with lettuce leaves."
+    }
+  ],
+  "tips": [
+    "Blanch the mushrooms only 15 seconds so they stay firm.",
+    "Make extra toasted rice powder; it keeps for weeks in a jar.",
+    "Coriander and mint stand in well if you cannot find culantro."
+  ],
+  "storage": "Best eaten straight away; the mushrooms release liquid as it stands. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "fish"
+  ],
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 121,
+    "protein_g": 9.6,
+    "carbs_g": 23.4,
+    "sugar_g": 8.6,
+    "free_sugar_g": 0.9,
+    "fat_g": 1.0,
+    "satfat_g": 0.2,
+    "salt_g": 2.74,
+    "fibre_g": 5.0
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Small white and brown shimeji mushrooms tossed with sliced shallots, herbs and toasted rice powder, with lettuce leaves on the side.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}

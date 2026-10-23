@@ -1,0 +1,149 @@
+{
+  "slug": "thai-style-peanut-chicken-salad-ginger-lime",
+  "title": "Peanut Chicken Salad with Ginger and Lime",
+  "category": "salads-bowls",
+  "cuisine": "Thai",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "chicken-salad",
+  "dish_title": "Chicken salad",
+  "flavour": "Peanut",
+  "flavour_order": 104,
+  "access": "premium",
+  "base_recipe": "creamy-chicken-salad-celery-herbs",
+  "changes_from_base": "Peanut butter, soy, ginger and lime season the mayonnaise; red pepper, jalapeño and coriander replace the celery and tarragon.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Chicken tossed in a peanut, ginger, soy and lime mayonnaise with sliced red pepper, jalapeño and coriander, finished with crunchy peanuts.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan with lid",
+    "instant-read thermometer",
+    "large mixing bowl",
+    "chopping board and knife",
+    "whisk"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 700,
+      "unit": "g",
+      "item": "skinless, boneless chicken breasts (about 4)"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Dressing",
+      "qty": 100,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 28,
+      "unit": "g",
+      "item": "smooth peanut butter",
+      "note": "about 2 tbsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "soy sauce (alcohol-free)"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "finely grated fresh ginger"
+    },
+    {
+      "group": "Salad",
+      "qty": 15,
+      "unit": "g",
+      "item": "coriander, chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "pc",
+      "item": "red pepper, thinly sliced"
+    },
+    {
+      "group": "Salad",
+      "qty": 1,
+      "unit": "pc",
+      "item": "jalapeño, deseeded and finely chopped"
+    },
+    {
+      "group": "Salad",
+      "qty": 20,
+      "unit": "g",
+      "item": "roasted peanuts, chopped, to finish"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Poach the chicken",
+      "text": "Put the chicken and bay leaf in a saucepan, cover with cold water by 2 cm and bring to a bare simmer. Cover, turn off the heat and leave 15-17 min until the thickest part reads 74 °C. Lift out, cool 15 min, then shred or dice."
+    },
+    {
+      "title": "Whisk",
+      "text": "Whisk the mayonnaise, peanut butter, soy sauce, lime juice and ginger until glossy."
+    },
+    {
+      "title": "Combine",
+      "text": "Fold in the chicken, red pepper, jalapeño and most of the coriander; chill 20 min."
+    },
+    {
+      "title": "Serve",
+      "text": "Scatter with the chopped peanuts and remaining coriander."
+    }
+  ],
+  "tips": [
+    "Smooth peanut butter blends into the dressing best.",
+    "Add more lime for a sharper salad.",
+    "Serve in lettuce cups or a wrap."
+  ],
+  "storage": "Keeps covered in the fridge for up to 2 days. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "mustard",
+    "soya",
+    "peanuts"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 317,
+    "protein_g": 29.0,
+    "carbs_g": 4.4,
+    "sugar_g": 2.1,
+    "free_sugar_g": 0.1,
+    "fat_g": 20.1,
+    "satfat_g": 3.4,
+    "salt_g": 0.83,
+    "fibre_g": 1.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Chicken in a tan peanut dressing with strips of red pepper, chopped coriander and crushed peanuts on top.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

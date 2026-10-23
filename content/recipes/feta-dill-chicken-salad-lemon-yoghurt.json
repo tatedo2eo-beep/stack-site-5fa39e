@@ -1,0 +1,148 @@
+{
+  "slug": "feta-dill-chicken-salad-lemon-yoghurt",
+  "title": "Feta and Dill Chicken Salad with Lemon Yoghurt",
+  "category": "salads-bowls",
+  "cuisine": "Greek",
+  "chapter": "salads",
+  "book_chapter": "salads",
+  "dish": "chicken-salad",
+  "dish_title": "Chicken salad",
+  "flavour": "Feta",
+  "flavour_order": 101,
+  "access": "premium",
+  "base_recipe": "creamy-chicken-salad-celery-herbs",
+  "changes_from_base": "Half the mayonnaise becomes Greek yoghurt, dill and lemon zest lead the herbs, and cubes of feta replace the celery crunch.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Tender poached chicken folded through a lemony yoghurt and mayonnaise dressing with dill, parsley, spring onions and cubes of salty feta.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "medium saucepan with lid",
+    "instant-read thermometer",
+    "large mixing bowl",
+    "chopping board and knife"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 700,
+      "unit": "g",
+      "item": "skinless, boneless chicken breasts (about 4)"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1,
+      "unit": "pc",
+      "item": "bay leaf"
+    },
+    {
+      "group": "Dressing",
+      "qty": 75,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Dressing",
+      "qty": 75,
+      "unit": "g",
+      "item": "Greek yoghurt"
+    },
+    {
+      "group": "Dressing",
+      "qty": 10,
+      "unit": "g",
+      "item": "dill, chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 10,
+      "unit": "g",
+      "item": "flat-leaf parsley, chopped"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "finely grated lemon zest"
+    },
+    {
+      "group": "Dressing",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lemon juice"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Salad",
+      "qty": 3,
+      "unit": "pc",
+      "item": "spring onions, thinly sliced"
+    },
+    {
+      "group": "Salad",
+      "qty": 150,
+      "unit": "g",
+      "item": "feta (animal-rennet-free), cut into 1 cm cubes"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Poach the chicken",
+      "text": "Put the chicken and bay leaf in a saucepan, cover with cold water by 2 cm and bring to a bare simmer. Cover, turn off the heat and leave 15-17 min until the thickest part reads 74 °C. Lift out, cool 15 min, then shred or dice."
+    },
+    {
+      "title": "Mix the dressing",
+      "text": "In the bowl, stir the mayonnaise, yoghurt, herbs, lemon zest and juice, salt and pepper together."
+    },
+    {
+      "title": "Fold",
+      "text": "Fold in the chicken and spring onions, then the feta, gently so the cubes stay whole. Chill 20 min and serve in lettuce cups, wraps or sandwiches."
+    }
+  ],
+  "tips": [
+    "Cut the feta into neat cubes and fold gently so it stays whole.",
+    "Poaching at a bare simmer keeps the chicken juicy.",
+    "Taste before salting: feta varies a lot in saltiness."
+  ],
+  "storage": "Keeps covered in the fridge for up to 2 days. Not suitable for freezing. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "milk",
+    "eggs",
+    "mustard"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 309,
+    "protein_g": 31.3,
+    "carbs_g": 2.9,
+    "sugar_g": 1.9,
+    "free_sugar_g": 0.2,
+    "fat_g": 18.4,
+    "satfat_g": 6.2,
+    "salt_g": 1.16,
+    "fibre_g": 0.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Diced chicken in a creamy white dressing with green dill, spring onions and white feta cubes, served with lettuce leaves.",
+  "inspired_by": [
+    "Serious Eats"
+  ]
+}
