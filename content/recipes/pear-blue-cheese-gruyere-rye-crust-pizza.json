@@ -13,7 +13,6 @@
   "base_recipe": "new-york-style-cheese-pizza-oregano-tomato-sauce",
   "changes_from_base": "A nutty rye and wheat dough replaces the plain base, and two layers of paper-thin pear with grated Gruyère and crumbled blue cheese stand in for the tomato sauce and mozzarella.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Rye-enriched dough supporting delicate layers of pear with the contrasting saltiness of blue cheese and nutty Gruyère.",
   "servings": 6,
   "prep_min": 40,
@@ -175,7 +174,7 @@
     "fibre_g": 10.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "pear-blue-cheese-gruyere-rye-crust-pizza.jpg",
   "image_alt": "Three individual pizzas with paper-thin layers of pale pear, melted Gruyère and crumbled blue cheese on a rye-flecked crust.",
   "inspired_by": [
     "NYT Cooking"

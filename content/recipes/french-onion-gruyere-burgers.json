@@ -13,7 +13,6 @@
   "base_recipe": "classic-cheeseburger",
   "changes_from_base": "Thyme-seasoned thick patties are seared then finished in a low oven, and the buns are spread with a slow-cooked balsamic onion jam and grilled under a blanket of Gruyère; frisée replaces lettuce. My own onion jam replaces the referenced one.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Deeply caramelised onions give these beef patties a rich, sweet-savoury depth, crowned with bubbling melted Gruyère and peppery frisée.",
   "servings": 4,
   "prep_min": 15,
@@ -165,7 +164,7 @@
     "fibre_g": 4.0
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "french-onion-gruyere-burgers.jpg",
   "image_alt": "Four beef burger patties topped with melted Gruyère and caramelised onions served in toasted buns with peppery frisée greens.",
   "inspired_by": [
     "America's Test Kitchen"
