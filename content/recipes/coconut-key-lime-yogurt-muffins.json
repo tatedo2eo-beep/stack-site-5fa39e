@@ -13,7 +13,6 @@
   "base_recipe": "lemon-sugar-blueberry-muffins",
   "changes_from_base": "A Greek yoghurt batter sharpened with Key lime zest and juice, topped with coconut flakes and a lime icing drizzle.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Tangy yoghurt muffins with Key lime zest and juice, coconut flakes and a lime glaze.",
   "servings": 12,
   "prep_min": 15,
@@ -150,8 +149,8 @@
     "fibre_g": 1.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "Pale muffins with golden coconut flakes, lime icing drizzle and lime wedges beside them.",
+  "image": "coconut-key-lime-yogurt-muffins.jpg",
+  "image_alt": "Pale muffins topped with toasted coconut flakes and a white lime icing drizzle, with lime wedges beside them.",
   "inspired_by": [
     "Serious Eats"
   ]

@@ -10,7 +10,6 @@
   "flavour": "Classic",
   "flavour_order": 0,
   "access": "free",
-  "photo_pending": true,
   "summary": "A warm, fragrant pudding of soft bananas and tender tapioca pearls in sweetened coconut milk, finished with crushed peanuts.",
   "servings": 6,
   "prep_min": 10,
@@ -115,7 +114,7 @@
     "fibre_g": 2.7
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "che-chuoi-banana-tapioca-coconut-milk.jpg",
   "image_alt": "A bowl of warm banana and tapioca pudding in coconut milk, topped with crushed peanuts.",
   "inspired_by": [
     "Serious Eats"

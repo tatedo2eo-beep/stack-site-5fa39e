@@ -13,7 +13,6 @@
   "base_recipe": "classic-shallot-vinaigrette",
   "changes_from_base": "Same steep-then-whisk method as the classic shallot vinaigrette, with pomegranate molasses, garlic and a little honey added for a sweet-sour, deep red dressing; no mayonnaise.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "Shallot and garlic mellowed in cider vinegar, then whisked with pomegranate molasses, honey, mustard and olive oil into a glossy, deep red dressing.",
   "servings": 8,
   "prep_min": 10,
@@ -128,8 +127,8 @@
     "fibre_g": 0.2
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A small glass jug of deep red pomegranate vinaigrette beside a bowl of crisp green leaves.",
+  "image": "pomegranate-honey-vinaigrette.jpg",
+  "image_alt": "A small glass jug of deep red pomegranate honey vinaigrette.",
   "inspired_by": [
     "Serious Eats"
   ]

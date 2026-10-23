@@ -13,7 +13,6 @@
   "base_recipe": "vanilla-bundt-cake",
   "changes_from_base": "Lemon zest soaked in juice and buttermilk replace the soured cream and most of the vanilla; lemon-juice glaze.",
   "extra_flavour": true,
-  "photo_pending": true,
   "summary": "This follows the classic vanilla Bundt method, but swaps the soured cream for buttermilk and loads the batter with lemon zest and juice, finishing with a sharp lemon glaze. A tender, fragrant ring cake that slices beautifully for a crowd.",
   "servings": 14,
   "prep_min": 25,
@@ -190,8 +189,8 @@
     "fibre_g": 0.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
-  "image_alt": "A golden lemon bundt cake dripping with a pale lemon glaze, flecked with zest.",
+  "image": "lemon-bundt-cake-lemon-glaze.jpg",
+  "image_alt": "A golden lemon bundt cake dripping with white lemon glaze, flecked with zest.",
   "inspired_by": [
     "America's Test Kitchen",
     "NYT Cooking"

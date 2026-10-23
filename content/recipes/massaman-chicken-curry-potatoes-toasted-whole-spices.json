@@ -10,7 +10,6 @@
   "flavour": "Classic",
   "flavour_order": 0,
   "access": "free",
-  "photo_pending": true,
   "summary": "Whole spices are toasted, ground and mixed with red curry paste, fried in coconut cream, then simmered with coconut milk, potatoes, browned chicken thighs, peanuts, fish sauce, palm sugar and tamarind until thick.",
   "servings": 6,
   "prep_min": 20,
@@ -185,7 +184,7 @@
     "fibre_g": 4.1
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "massaman-chicken-curry-potatoes-toasted-whole-spices.jpg",
   "image_alt": "Massaman chicken curry with potato chunks and peanuts beside jasmine rice.",
   "inspired_by": [
     "NYT Cooking"

@@ -10,7 +10,6 @@
   "flavour": "White chocolate",
   "flavour_order": 1,
   "access": "premium",
-  "photo_pending": true,
   "summary": "A rich, custardy bread pudding made with white chocolate, baked until golden and puffed and served with a warm white chocolate sauce.",
   "servings": 8,
   "prep_min": 15,
@@ -150,7 +149,7 @@
     "fibre_g": 0.8
   },
   "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
-  "image": null,
+  "image": "white-chocolate-bread-pudding-warm-white-chocolate-sauce.jpg",
   "image_alt": "A golden, puffed square bread pudding in a baking tin, with warm white chocolate sauce poured over the top.",
   "inspired_by": [
     "Serious Eats"
