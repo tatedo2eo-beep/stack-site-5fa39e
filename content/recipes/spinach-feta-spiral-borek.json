@@ -1,0 +1,148 @@
+{
+  "slug": "spinach-feta-spiral-borek",
+  "title": "Spiral Spinach and Feta Börek",
+  "category": "vegetarian",
+  "cuisine": "Turkish",
+  "chapter": "savory-pies-pastries",
+  "book_chapter": "savory-pies-pastries",
+  "dish": "borek",
+  "dish_title": "Börek",
+  "flavour": "Spinach (ıspanaklı)",
+  "flavour_order": 1,
+  "access": "premium",
+  "summary": "Filo rolled around a spinach, onion and feta filling, coiled into a spiral, glazed and baked until crisp.",
+  "servings": 6,
+  "prep_min": 40,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "frying pan",
+    "2 bowls",
+    "whisk",
+    "pastry brush",
+    "baking tray",
+    "baking paper",
+    "damp tea towel",
+    "food thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Filling",
+      "qty": 285,
+      "unit": "g",
+      "item": "frozen chopped spinach, thawed and squeezed dry"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Filling",
+      "qty": 140,
+      "unit": "g",
+      "item": "feta, crumbled"
+    },
+    {
+      "group": "Glaze",
+      "qty": 60,
+      "unit": "ml",
+      "item": "olive oil"
+    },
+    {
+      "group": "Glaze",
+      "qty": 1,
+      "unit": "pc",
+      "item": "egg"
+    },
+    {
+      "group": "Glaze",
+      "qty": 30,
+      "unit": "ml",
+      "item": "whole milk"
+    },
+    {
+      "group": "Pastry",
+      "qty": 24,
+      "unit": "pc",
+      "item": "sheets filo pastry (about 35 x 23 cm, 450 g), thawed"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Filling",
+      "text": "Soften the onion in the oil over medium heat 5 min, add the spinach and pepper and stir 2-3 min until no moisture is left; cool 10 min, then fold in the feta."
+    },
+    {
+      "title": "Glaze",
+      "text": "Whisk the oil, egg and milk together. Heat the oven to 200 °C (180 °C fan) and line the tray."
+    },
+    {
+      "title": "Strips",
+      "text": "Keep the filo under the damp towel. Lay two sheets side by side with the short edges overlapping by 2 cm, brush lightly with glaze, and repeat twice more to make a three-layer strip; make four strips in all."
+    },
+    {
+      "title": "Roll",
+      "text": "Spread a quarter of the filling along one long edge of a strip and roll it up loosely into a thin log."
+    },
+    {
+      "title": "Coil",
+      "text": "Curl the first log into a snail in the middle of the tray, then attach each further log to the end so they make one large spiral."
+    },
+    {
+      "title": "Bake",
+      "text": "Brush all over with the remaining glaze and bake 25-30 min until deep golden and crisp; the centre should reach 71 °C."
+    },
+    {
+      "title": "Serve",
+      "text": "Rest 10 min, then cut into wedges."
+    }
+  ],
+  "tips": [
+    "Squeeze the spinach really dry or the pastry turns soggy.",
+    "Roll loosely so the logs do not split as they bake.",
+    "Keep unused filo covered so it does not dry out."
+  ],
+  "storage": "Keep covered in the fridge for up to 2 days; reheat at 180 °C for 10 min to re-crisp. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "no-added-sugar"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 424,
+    "protein_g": 11.5,
+    "carbs_g": 44.8,
+    "sugar_g": 2.6,
+    "free_sugar_g": 0.0,
+    "fat_g": 22.1,
+    "satfat_g": 6.6,
+    "salt_g": 1.57,
+    "fibre_g": 2.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "borek-basic--spinach-spanakl.jpg",
+  "image_alt": "A large golden coiled filo börek on a dark plate, cut open to show a spinach and white feta filling.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

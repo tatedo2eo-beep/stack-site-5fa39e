@@ -800,6 +800,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | spiced-saudi-chicken-rice-tomato-almonds-raisins | Kabsa | Chicken | 2 | 4 |
 | spicy-chicken-burger | Chicken burger | Spicy (cayenne/hot sauce) | 2 | 8 |
 | spicy-ful-medames-chilli-oil | Ful medames | Chili oil | 1 | 3 |
+| spinach-feta-spiral-borek | Börek | Spinach (ıspanaklı) | 1 | 3 |
 | spinach-ricotta-calzones-tomato-dipping-sauce | Calzone | Classic | 2 | 4 |
 | spinach-ricotta-cannelloni | Cannelloni | Classic | 2 | 4 |
 | spinach-ricotta-lasagne | Sheets/baked (lasagne) | Spinach and ricotta | 3 | 5 |
