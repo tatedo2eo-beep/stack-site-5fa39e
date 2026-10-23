@@ -53,6 +53,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | brazilian-style-fish-prawn-coconut-stew | Moqueca | Classic | 3 | 5 |
 | breaded-veal-schnitzel-potato-salad | Wiener schnitzel | Classic | 2 | 4 |
 | brookies | Brookies | Classic | 2 | 4 |
+| brown-butter-almond-financiers | Financiers | Classic | 2 | 4 |
 | brown-butter-chocolate-chip-cookies | Brown-butter chocolate chip cookie | Classic | 2 | 4 |
 | brown-butter-mashed-potatoes | Mashed | Brown butter | 2 | 4 |
 | brown-sugar-shortbread | Shortbread | Brown sugar | 1 | 5 |
@@ -135,6 +136,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | cinnamon-sugar-monkey-bread-caramel | Monkey bread | Classic | 3 | 5 |
 | citrus-chilli-marinated-grilled-steak-charred-spring-onions-guacamole | Carne asada | Classic | 3 | 5 |
 | classic-almond-biscotti | Biscotti | Classic | 3 | 5 |
+| classic-apple-tarte-tatin | Tarte Tatin | Classic | 2 | 4 |
 | classic-beef-meatloaf | Meatloaf | Classic | 2 | 4 |
 | classic-butter-shortbread | Shortbread | Classic | 2 | 6 |
 | classic-cheese-quiche | Quiche (cheese) | Classic | 2 | 4 |
@@ -142,6 +144,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | classic-creamed-spinach | Creamed spinach | Classic | 2 | 4 |
 | classic-creme-caramel | Crème caramel/flan | Classic | 2 | 4 |
 | classic-deviled-eggs-paprika-chives | Deviled eggs | Classic | 3 | 5 |
+| classic-french-lemon-tart | Lemon tart | Classic | 2 | 4 |
 | classic-french-toast-cinnamon-sugar-maple | French toast | Classic | 2 | 4 |
 | classic-fresh-squeezed-lemonade | Lemonade | Classic | 2 | 4 |
 | classic-italian-affogato-vanilla-espresso | Affogato | Classic | 2 | 4 |

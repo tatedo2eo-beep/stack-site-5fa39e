@@ -1,0 +1,141 @@
+{
+  "slug": "classic-apple-tarte-tatin",
+  "title": "Classic Apple Tarte Tatin",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "tarte-tatin",
+  "dish_title": "Tarte Tatin",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Quartered apples cooked in a butter-and-sugar caramel until deep amber, baked under a crisp sweet pastry and turned out warm.",
+  "servings": 8,
+  "prep_min": 35,
+  "cook_min": 45,
+  "difficulty": "medium",
+  "equipment": [
+    "food processor",
+    "mixing bowl",
+    "fork",
+    "cling film",
+    "rolling pin",
+    "flat baking sheet",
+    "23 cm ovenproof heavy frying pan",
+    "paring knife",
+    "oven gloves",
+    "large serving plate"
+  ],
+  "ingredients": [
+    {
+      "group": "Pastry",
+      "qty": 170,
+      "unit": "g",
+      "item": "plain flour, plus extra for rolling"
+    },
+    {
+      "group": "Pastry",
+      "qty": 30,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Pastry",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Pastry",
+      "qty": 115,
+      "unit": "g",
+      "item": "cold unsalted butter, cut into 1 cm pieces"
+    },
+    {
+      "group": "Pastry",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, cold and beaten"
+    },
+    {
+      "group": "Apples",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter"
+    },
+    {
+      "group": "Apples",
+      "qty": 170,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Apples",
+      "qty": 1400,
+      "unit": "g",
+      "item": "Granny Smith apples (about 6 large), peeled, quartered and cored"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Make the pastry",
+      "text": "Pulse the flour, icing sugar and salt in the processor, add the cold butter and pulse until it looks like coarse sand. Tip into the bowl, stir in the beaten egg with a fork until small clumps form, then press into a disc, wrap and chill for 30 min."
+    },
+    {
+      "title": "Roll and chill",
+      "text": "Roll the pastry on a well-floured surface to a 30 cm round, slide it onto the floured baking sheet, cover and chill while you cook the apples. Heat the oven to 190 °C (170 °C fan)."
+    },
+    {
+      "title": "Arrange the apples",
+      "text": "Melt the 115 g butter in the frying pan, take it off the heat and scatter the sugar evenly over it. Stand the apple quarters on their sides in tight circles; they shrink as they cook, so pack them in closely."
+    },
+    {
+      "title": "Caramelise",
+      "text": "Cook over high heat for 10-12 min, until the juices change from butterscotch to deep amber. Take the pan off the heat, turn each quarter onto its pale side with the knife tip, then boil for 5 min more so both sides colour."
+    },
+    {
+      "title": "Bake",
+      "text": "Lay the pastry over the apples, tuck the edge down inside the pan and cut 4 slits for steam. Bake for 20-25 min, until the pastry is deep golden."
+    },
+    {
+      "title": "Turn out",
+      "text": "Leave for 10 min so the caramel thickens a little. Put the plate over the pan and, wearing oven gloves, flip it over in one swift movement. Press any stuck apples back into place and serve warm."
+    }
+  ],
+  "tips": [
+    "A common mistake is stopping when the caramel is still pale; let it reach deep amber or the tart tastes flat and sweet.",
+    "Use firm apples such as Granny Smith that hold their shape during the long cooking.",
+    "The caramel is extremely hot, so keep children away and always flip with oven gloves.",
+    "Serve with crème fraîche or vanilla ice cream.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best served warm the day it is made. Keep leftovers covered in the fridge for up to 2 days and reheat in a 180 °C (160 °C fan) oven for 10 min.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 470,
+    "protein_g": 3.7,
+    "carbs_g": 62.5,
+    "sugar_g": 40.6,
+    "free_sugar_g": 24.9,
+    "fat_g": 24.4,
+    "satfat_g": 15.0,
+    "salt_g": 0.4,
+    "fibre_g": 4.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "tarte-tatin-basic.jpg",
+  "image_alt": "A turned-out tarte tatin on a dark plate, its glossy amber caramelised apples on golden pastry.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "brown-butter-almond-financiers",
+  "title": "Brown Butter Almond Financiers",
+  "category": "desserts",
+  "cuisine": "French",
+  "chapter": "tarts-french-pastry",
+  "book_chapter": "tarts-french-pastry",
+  "dish": "financiers",
+  "dish_title": "Financiers",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Little bar-shaped cakes of ground almonds, icing sugar and egg whites enriched with nutty brown butter and baked until deep golden at the edges.",
+  "servings": 12,
+  "prep_min": 15,
+  "cook_min": 20,
+  "difficulty": "easy",
+  "equipment": [
+    "small light-coloured saucepan",
+    "silicone spatula",
+    "heatproof bowl",
+    "mixing bowl",
+    "whisk",
+    "12 financier moulds (about 8 x 4 cm) or a 12-hole mini loaf tin",
+    "pastry brush",
+    "baking tray",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Financiers",
+      "qty": 115,
+      "unit": "g",
+      "item": "unsalted butter, plus extra for the moulds"
+    },
+    {
+      "group": "Financiers",
+      "qty": 85,
+      "unit": "g",
+      "item": "ground almonds (almond flour)"
+    },
+    {
+      "group": "Financiers",
+      "qty": 140,
+      "unit": "g",
+      "item": "icing sugar"
+    },
+    {
+      "group": "Financiers",
+      "qty": 40,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Financiers",
+      "qty": 1,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ⅛ tsp"
+    },
+    {
+      "group": "Financiers",
+      "qty": 120,
+      "unit": "g",
+      "item": "egg whites (about 4 large)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown the butter",
+      "text": "Melt the 115 g butter in the light saucepan over medium heat, stirring and scraping, for 3-5 min, until it smells nutty and the specks turn hazelnut brown. A pale pan lets you see the colour change. Pour it straight into the heatproof bowl with the specks and cool for 10 min."
+    },
+    {
+      "title": "Mix the batter",
+      "text": "Whisk the ground almonds, icing sugar, flour and salt in the mixing bowl. Whisk in the egg whites until smooth, then add the brown butter in two goes, whisking until glossy. Cover and chill for 30 min, or up to 1 day, so the flour hydrates and the cakes bake with a fine crumb."
+    },
+    {
+      "title": "Fill the moulds",
+      "text": "Heat the oven to 200 °C (180 °C fan). Brush the moulds with soft butter, stand them on the tray and fill each three-quarters full."
+    },
+    {
+      "title": "Bake",
+      "text": "Bake for 12-15 min, until risen with a slight dome and deep golden at the edges. Rest for 5 min, then turn out onto the rack and cool for at least 15 min."
+    }
+  ],
+  "tips": [
+    "A common mistake is pulling the butter off the heat too early; keep going until it is properly brown, as that nutty taste is the whole point.",
+    "Watch the butter closely at the end, as it turns from brown to burnt within seconds.",
+    "Use leftover yolks for lemon curd or crème pâtissière.",
+    "No financier moulds? A mini muffin tin works; check from 10 min.",
+    "Don't taste the raw dough or batter: raw flour and raw egg aren't safe to eat until baked."
+  ],
+  "storage": "Best eaten the day they are baked. Keep in an airtight tin for up to 2 days, or freeze for up to 1 month.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "nuts"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 179,
+    "protein_g": 3.0,
+    "carbs_g": 15.6,
+    "sugar_g": 11.8,
+    "free_sugar_g": 11.4,
+    "fat_g": 12.2,
+    "satfat_g": 5.6,
+    "salt_g": 0.11,
+    "fibre_g": 0.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "financiers-basic.jpg",
+  "image_alt": "Small golden rectangular almond financiers lined up on a dark tray.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}
