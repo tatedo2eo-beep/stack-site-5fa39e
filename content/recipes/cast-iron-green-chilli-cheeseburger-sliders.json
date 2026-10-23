@@ -1,0 +1,178 @@
+{
+  "slug": "cast-iron-green-chilli-cheeseburger-sliders",
+  "title": "Cast-Iron Green Chilli Cheeseburger Sliders",
+  "category": "burgers-sandwiches",
+  "cuisine": "Southwestern American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "sliders",
+  "dish_title": "Sliders",
+  "flavour": "Chili",
+  "flavour_order": 3,
+  "access": "premium",
+  "base_recipe": "cheeseburger-sliders",
+  "changes_from_base": "Green chillies are softened with onion and garlic and blended to a paste that seasons both the thin beef patties and a lime mayonnaise, and the sliders are seared hard in cast iron and topped with melting pepper Jack.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "These sliders carry the gentle heat of green chillies right through the beef, with a cooling lime-spiked sauce and melting pepper Jack on top.",
+  "servings": 6,
+  "prep_min": 30,
+  "cook_min": 30,
+  "difficulty": "medium",
+  "equipment": [
+    "large cast-iron frying pan with a lid",
+    "food processor",
+    "spatula",
+    "small bowl",
+    "large bowl",
+    "platter",
+    "2 fish slices",
+    "instant-read thermometer",
+    "kitchen paper"
+  ],
+  "ingredients": [
+    {
+      "group": "Chilli paste",
+      "qty": 75,
+      "unit": "ml",
+      "item": "vegetable oil, divided"
+    },
+    {
+      "group": "Chilli paste",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Chilli paste",
+      "qty": 300,
+      "unit": "g",
+      "item": "tinned chopped mild green chillies, rinsed and patted dry"
+    },
+    {
+      "group": "Chilli paste",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Chilli sauce",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Chilli sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Chilli sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Sliders",
+      "qty": 450,
+      "unit": "g",
+      "item": "beef mince (85% lean)"
+    },
+    {
+      "group": "Sliders",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Sliders",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Sliders",
+      "qty": 115,
+      "unit": "g",
+      "item": "Monterey Jack with jalapeños (pepper Jack), grated"
+    },
+    {
+      "group": "To serve",
+      "qty": 12,
+      "unit": "pc",
+      "item": "soft white dinner rolls, split and toasted"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Chilli",
+      "text": "Heat 30 ml vegetable oil in a large cast-iron frying pan over medium for 3 min, cook 1 finely chopped medium onion for about 5 min until soft, then add 300 g rinsed and patted dry tinned chopped mild green chillies and 1 finely chopped garlic clove for 1 min."
+    },
+    {
+      "title": "Blend",
+      "text": "Transfer the cooked chilli mixture to a food processor and blend until smooth."
+    },
+    {
+      "title": "Sauce",
+      "text": "Mix 120 ml of the chilli paste with 4 tbsp mayonnaise, 1 tbsp lime juice and ¼ tsp salt; set aside for serving."
+    },
+    {
+      "title": "Meat",
+      "text": "Knead the remaining chilli paste with 450 g beef mince, ½ tsp salt and ¼ tsp ground black pepper."
+    },
+    {
+      "title": "Shape",
+      "text": "Make 12 loose balls from the mixture and flatten them to 6 mm patties slightly wider than the rolls."
+    },
+    {
+      "title": "Chill",
+      "text": "Refrigerate the patties for at least 30 min, or up to 24 hours in advance."
+    },
+    {
+      "title": "Fry",
+      "text": "Wipe the pan, heat over medium for 5 min, add 1 tbsp oil until just smoking; cook 4 patties without moving for about 2 min until well browned, flip with 2 fish slices, top each with a heaped tbsp of grated Monterey Jack with jalapeños, cover and cook for 2 min until melted and the centre reaches 71 °C."
+    },
+    {
+      "title": "Batch",
+      "text": "Repeat in 2 more batches with the remaining oil and patties."
+    },
+    {
+      "title": "Serve",
+      "text": "Place each slider in a toasted soft white dinner roll and serve with the chilli sauce."
+    }
+  ],
+  "tips": [
+    "Ensure the chillies are blended to a completely smooth paste for even flavouring of both the meat and sauce",
+    "Make the patties slightly wider than the rolls so they shrink to fit properly during cooking",
+    "Use 2 fish slices to flip the patties securely without breaking them"
+  ],
+  "storage": "These sliders are best served immediately. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 596,
+    "protein_g": 25.9,
+    "carbs_g": 37.7,
+    "sugar_g": 8.2,
+    "free_sugar_g": 4.5,
+    "fat_g": 37.9,
+    "satfat_g": 10.5,
+    "salt_g": 2.04,
+    "fibre_g": 2.3
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Compact burger patty topped with melted pepper cheese inside a split soft white roll, drizzled with green chilli sauce.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

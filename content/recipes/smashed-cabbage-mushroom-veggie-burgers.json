@@ -1,0 +1,210 @@
+{
+  "slug": "smashed-cabbage-mushroom-veggie-burgers",
+  "title": "Smashed Cabbage and Mushroom Veggie Burgers",
+  "category": "burgers-sandwiches",
+  "cuisine": "Japanese-American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "veggie-bean-burger",
+  "dish_title": "Veggie/bean burger",
+  "flavour": "Cabbage & mushroom",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "black-bean-burger",
+  "changes_from_base": "Instead of beans and grains, shredded cabbage, sliced onion and torn mushrooms are bound with a chickpea flour batter, rested, then pressed flat in the pan and fried slowly until golden, in the style of okonomiyaki, and topped with melted Cheddar.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A hefty combination of finely shredded cabbage and mushrooms bound together with a savoury chickpea and egg batter, crowned with melted cheese.",
+  "servings": 6,
+  "prep_min": 20,
+  "cook_min": 35,
+  "difficulty": "medium",
+  "equipment": [
+    "large bowl",
+    "whisk",
+    "large cast-iron frying pan",
+    "wide flat fish slice",
+    "wire rack"
+  ],
+  "ingredients": [
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg"
+    },
+    {
+      "group": "Batter",
+      "qty": 115,
+      "unit": "g",
+      "item": "chickpea flour"
+    },
+    {
+      "group": "Batter",
+      "qty": 240,
+      "unit": "ml",
+      "item": "water"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Batter",
+      "qty": 1,
+      "unit": "pc",
+      "item": "garlic cloves, grated"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, halved and thinly sliced",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 225,
+      "unit": "g",
+      "item": "green cabbage, core removed, finely shredded"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 225,
+      "unit": "g",
+      "item": "mixed mushrooms (such as shiitake, chestnut and king trumpet), tough stems removed, torn into bite-size pieces"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "sesame seeds"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 6,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1 tsp"
+    },
+    {
+      "group": "Vegetables",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Cooking",
+      "qty": 120,
+      "unit": "ml",
+      "item": "vegetable oil"
+    },
+    {
+      "group": "To serve",
+      "qty": 6,
+      "unit": "pc",
+      "item": "slices Cheddar"
+    },
+    {
+      "group": "To serve",
+      "qty": 6,
+      "unit": "pc",
+      "item": "brioche buns, split"
+    },
+    {
+      "group": "To serve",
+      "qty": 90,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "tomatoes, sliced"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "g",
+      "item": "sweet pickle slices"
+    },
+    {
+      "group": "To serve",
+      "qty": 6,
+      "unit": "pc",
+      "item": "soft lettuce leaves"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Whisk",
+      "text": "Beat 1 large egg with 115 g chickpea flour, 240 ml water, 1 tbsp soy sauce and 1 grated garlic clove in a large bowl until combined."
+    },
+    {
+      "title": "Assemble",
+      "text": "Toss 1 thinly sliced medium onion, 225 g finely shredded green cabbage, 225 g torn mixed mushrooms and 1 tbsp sesame seeds with 1 tsp salt and 1 tsp ground black pepper, then add the batter and massage everything together with your hands."
+    },
+    {
+      "title": "Rest",
+      "text": "Cover the mixture and leave at room temperature for 30 min until the batter becomes wetter and binds together."
+    },
+    {
+      "title": "Divide",
+      "text": "Split the mixture into 6 equal portions."
+    },
+    {
+      "title": "Heat",
+      "text": "Warm 60 ml vegetable oil in a large cast-iron frying pan over medium-low."
+    },
+    {
+      "title": "Fry",
+      "text": "Add 3 portions to the hot oil, press each one into a patty with a wide flat fish slice and cook undisturbed for 7-8 min until golden underneath, flip and cook for 5-7 min until golden and completely cooked through; move to a wire rack."
+    },
+    {
+      "title": "Repeat",
+      "text": "Wipe the pan, add the remaining 60 ml oil and cook the other 3 portions in the same way."
+    },
+    {
+      "title": "Melt",
+      "text": "Lay a slice of Cheddar on each hot patty to melt, then serve in a toasted brioche bun with mayonnaise, sliced tomato, sweet pickle slices and soft lettuce leaves."
+    }
+  ],
+  "tips": [
+    "Allow the batter to rest for the full 30 min to allow flavours to meld and the mixture to bind",
+    "Cook the patties undisturbed on the first side to develop a golden crust",
+    "Pickles and buns can contain mustard or sesame, so check the labels if that matters"
+  ],
+  "storage": "These patties are best served immediately after cooking. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "sesame",
+    "soya",
+    "sulphites"
+  ],
+  "diet": [
+    "vegetarian"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 648,
+    "protein_g": 19.1,
+    "carbs_g": 50.2,
+    "sugar_g": 10.7,
+    "free_sugar_g": 4.5,
+    "fat_g": 41.9,
+    "satfat_g": 8.1,
+    "salt_g": 2.93,
+    "fibre_g": 5.8
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Thick, hearty patty topped with melting Cheddar, layered in a brioche bun with fresh toppings.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

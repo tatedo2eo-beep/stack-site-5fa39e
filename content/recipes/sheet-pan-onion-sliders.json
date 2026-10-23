@@ -1,0 +1,162 @@
+{
+  "slug": "sheet-pan-onion-sliders",
+  "title": "Sheet-Pan Onion Sliders",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "sliders",
+  "dish_title": "Sliders",
+  "flavour": "Onion",
+  "flavour_order": 1,
+  "access": "premium",
+  "base_recipe": "cheeseburger-sliders",
+  "changes_from_base": "Finely chopped onion is roasted on a baking tray first, then small beef balls are smashed straight onto the onion piles, topped with quartered cheese slices and steamed under the buns in the oven, finished with a quick burger sauce.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "These compact sliders feature a simple but clever technique: piles of roasted onion cradle thin beef patties beneath molten cheese.",
+  "servings": 6,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "small bowl",
+    "whisk",
+    "rimmed baking tray",
+    "flat-bottomed drinking glass",
+    "fish slice",
+    "instant-read thermometer",
+    "serving platter"
+  ],
+  "ingredients": [
+    {
+      "group": "Sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "ketchup"
+    },
+    {
+      "group": "Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "sweet pickle relish"
+    },
+    {
+      "group": "Sauce",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Sliders",
+      "qty": 680,
+      "unit": "g",
+      "item": "lean beef mince (90% lean)"
+    },
+    {
+      "group": "Sliders",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, finely chopped",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Sliders",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vegetable oil, plus a little for the glass"
+    },
+    {
+      "group": "Sliders",
+      "qty": 2,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 0.375 tsp"
+    },
+    {
+      "group": "Sliders",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Sliders",
+      "qty": 6,
+      "unit": "pc",
+      "item": "slices American cheese (about 115 g)"
+    },
+    {
+      "group": "Sliders",
+      "qty": 12,
+      "unit": "pc",
+      "item": "slider buns or soft dinner rolls (about 6 cm), split"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mix",
+      "text": "Whisk together 3 tbsp mayonnaise, 1 tbsp ketchup, 2 tsp sweet pickle relish and ¼ tsp ground black pepper; set aside."
+    },
+    {
+      "title": "Form",
+      "text": "Roll 680 g lean beef mince into 12 balls of about 57 g each, which can be made up to a day ahead and chilled."
+    },
+    {
+      "title": "Roast",
+      "text": "Preheat the oven to 230 °C with a rack at the bottom, toss 1 finely chopped medium onion with 1 tsp vegetable oil and a little salt and pepper on a rimmed baking tray, then roast for 10-12 min until soft, stirring and spreading out at least 3 times."
+    },
+    {
+      "title": "Smash",
+      "text": "Make 12 spaced piles of the roasted onion on the tray, season each beef ball with salt and pepper, set one on each pile and smash flat with an oiled glass to about 9 cm across."
+    },
+    {
+      "title": "Bake",
+      "text": "Roast the flattened patties for 7-8 min until the edges are set and the centre reaches 71 °C on an instant-read thermometer."
+    },
+    {
+      "title": "Cheese",
+      "text": "Quarter 6 slices of American cheese and put 2 pieces on each patty, set the bun bottoms then bun tops on top and return to the oven for 2 min to warm through."
+    },
+    {
+      "title": "Flip",
+      "text": "Lift off the bun tops, flip each stack onto a serving platter so the bun bottom sits underneath with the onions on top, add a dollop of sauce and replace the bun top."
+    }
+  ],
+  "tips": [
+    "Stir and spread the onions frequently so they soften evenly without scorching",
+    "Use an oiled drinking glass to smash the patties quickly and uniformly across the tray",
+    "Check the internal temperature to ensure the beef is cooked safely to the centre"
+  ],
+  "storage": "These sliders are best enjoyed straight away. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "sulphites"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 506,
+    "protein_g": 32.4,
+    "carbs_g": 34.3,
+    "sugar_g": 6.1,
+    "free_sugar_g": 5.0,
+    "fat_g": 25.7,
+    "satfat_g": 9.3,
+    "salt_g": 2.3,
+    "fibre_g": 1.6
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Stack of small burgers with melted cheese and caramelised onion visible between soft dinner rolls.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

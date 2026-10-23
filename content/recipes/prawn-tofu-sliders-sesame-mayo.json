@@ -1,0 +1,185 @@
+{
+  "slug": "prawn-tofu-sliders-sesame-mayo",
+  "title": "Prawn and Tofu Sliders with Sesame Mayonnaise",
+  "category": "burgers-sandwiches",
+  "cuisine": "Asian-American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "sliders",
+  "dish_title": "Sliders",
+  "flavour": "Shrimp & tofu",
+  "flavour_order": 6,
+  "access": "premium",
+  "base_recipe": "cheeseburger-sliders",
+  "changes_from_base": "Chopped prawns, part of them worked to a paste, are bound with crumbled tofu, garlic, ginger, spring onion and a spoonful of miso-sesame mayonnaise, pan-fried as small thin patties and served with shredded cabbage and pickles.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "These soft, umami-rich patties blend sweet prawns with silky tofu and pungent miso, coated in a delicate sesame mayo.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "chopping board",
+    "sharp knife",
+    "medium bowl",
+    "small bowl",
+    "whisk",
+    "large non-stick frying pan",
+    "fish slice",
+    "large plate",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Patties",
+      "qty": 450,
+      "unit": "g",
+      "item": "raw king prawns, peeled and deveined"
+    },
+    {
+      "group": "Patties",
+      "qty": 115,
+      "unit": "g",
+      "item": "firm tofu, crumbled and pressed dry in kitchen paper"
+    },
+    {
+      "group": "Patties",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "finely chopped spring onions (about 3)"
+    },
+    {
+      "group": "Patties",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, very finely chopped"
+    },
+    {
+      "group": "Patties",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "finely chopped fresh ginger"
+    },
+    {
+      "group": "Patties",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Sesame mayonnaise",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "white miso"
+    },
+    {
+      "group": "Sesame mayonnaise",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Sesame mayonnaise",
+      "qty": 225,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Cooking",
+      "qty": 60,
+      "unit": "ml",
+      "item": "neutral oil (rapeseed or sunflower), divided"
+    },
+    {
+      "group": "To serve",
+      "qty": 12,
+      "unit": "pc",
+      "item": "slider buns (about 6 cm), split"
+    },
+    {
+      "group": "To serve",
+      "qty": 150,
+      "unit": "g",
+      "item": "green cabbage, finely shredded"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "g",
+      "item": "sliced pickles"
+    },
+    {
+      "group": "To serve",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "hot sauce (optional)"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Paste",
+      "text": "Chop a quarter of 450 g raw king prawns very finely to a coarse paste and put in a medium bowl; finely chop the rest and add with 115 g crumbled firm tofu pressed dry in kitchen paper, 4 tbsp finely chopped spring onions, 3 very finely chopped garlic cloves, 2 tsp finely chopped fresh ginger and ½ tsp salt."
+    },
+    {
+      "title": "Mayo",
+      "text": "Mash 1 tbsp white miso, 1 tbsp toasted sesame oil and 2 tbsp mayonnaise until smooth in a small bowl, then whisk in the rest of 225 g mayonnaise; mix 4 tbsp of it into the prawn mixture, mashing well, and keep the rest for serving."
+    },
+    {
+      "title": "Shape",
+      "text": "Press the mixture firmly into 12 patties about 6 cm across and 6 mm thick with damp hands."
+    },
+    {
+      "title": "Chill",
+      "text": "Cook the patties straight away, or chill them for up to a few hours first."
+    },
+    {
+      "title": "Fry",
+      "text": "Heat 2 tbsp neutral oil in a large non-stick frying pan over medium-low, cook 6 patties for 2-3 min per side until golden, opaque throughout and 63 °C in the centre; transfer to a large plate."
+    },
+    {
+      "title": "Repeat",
+      "text": "Repeat with the remaining 2 tbsp oil and 6 patties."
+    },
+    {
+      "title": "Serve",
+      "text": "Spread the remaining sesame mayonnaise on 12 split slider bun bottoms, add finely shredded cabbage, a prawn and tofu patty, sliced pickles, hot sauce if using, and the bun tops."
+    }
+  ],
+  "tips": [
+    "Chop a portion of the prawns finely to create a binding paste that holds the soft tofu together",
+    "Use damp hands to shape the patties so the mixture doesn't stick",
+    "Cook over medium-low heat so the exterior sets without the interior drying out"
+  ],
+  "storage": "The patties can be shaped a few hours ahead and chilled; cook shortly before serving and eat immediately whilst warm. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "mustard",
+    "sesame",
+    "soya",
+    "crustaceans",
+    "sulphites"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 951,
+    "protein_g": 38.4,
+    "carbs_g": 51.6,
+    "sugar_g": 8.8,
+    "free_sugar_g": 6.9,
+    "fat_g": 66.4,
+    "satfat_g": 9.4,
+    "salt_g": 3.88,
+    "fibre_g": 3.9
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Soft, pale golden patty of prawn and tofu topped with sesame mayo, shredded cabbage and pickles on a small soft roll.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

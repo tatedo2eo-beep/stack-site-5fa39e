@@ -1,0 +1,189 @@
+{
+  "slug": "smoky-beef-vegetable-sliders",
+  "title": "Smoky Beef and Vegetable Sliders",
+  "category": "burgers-sandwiches",
+  "cuisine": "American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "sliders",
+  "dish_title": "Sliders",
+  "flavour": "Beef",
+  "flavour_order": 4,
+  "access": "premium",
+  "base_recipe": "cheeseburger-sliders",
+  "changes_from_base": "Instead of patties, a small amount of browned beef mince is stretched with onion, red pepper, carrot and courgette and simmered in a smoky paprika tomato sauce, like a tidy sloppy Joe, then spooned into slider buns; cider vinegar sharpens it at the end.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "A thick, tomato-based filling laden with vegetables and fragrant with smoked paprika and hints of vinegary heat, served in small soft rolls.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 25,
+  "difficulty": "easy",
+  "equipment": [
+    "large frying pan",
+    "wooden spoon",
+    "slotted spoon",
+    "plate",
+    "chopping board"
+  ],
+  "ingredients": [
+    {
+      "group": "Filling",
+      "qty": 30,
+      "unit": "ml",
+      "item": "extra-virgin olive oil"
+    },
+    {
+      "group": "Filling",
+      "qty": 225,
+      "unit": "g",
+      "item": "lean beef mince"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium onion, diced",
+      "note": "about 150 g"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small red pepper, deseeded and diced"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "small carrot, peeled and diced"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "pc",
+      "item": "medium courgette, trimmed and diced"
+    },
+    {
+      "group": "Filling",
+      "qty": 2,
+      "unit": "pc",
+      "item": "garlic cloves, finely chopped"
+    },
+    {
+      "group": "Filling",
+      "qty": 9,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about 1½ tsp"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "hot smoked paprika"
+    },
+    {
+      "group": "Filling",
+      "qty": 400,
+      "unit": "g",
+      "item": "tin chopped tomatoes"
+    },
+    {
+      "group": "Filling",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "Worcestershire sauce"
+    },
+    {
+      "group": "Filling",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "cider vinegar, or to taste"
+    },
+    {
+      "group": "Filling",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "To serve",
+      "qty": 8,
+      "unit": "pc",
+      "item": "slider buns (about 6 cm), split"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Brown",
+      "text": "Heat 30 ml extra-virgin olive oil in a large frying pan over medium-high, add 225 g lean beef mince with ½ tsp salt and ½ tsp ground black pepper and cook, breaking it up, for about 5 min until browned; remove with a slotted spoon onto a plate."
+    },
+    {
+      "title": "Soften",
+      "text": "Cook 1 diced medium onion, 1 diced small red pepper and 1 diced small peeled carrot in the same pan for 5-10 min until soft."
+    },
+    {
+      "title": "Spice",
+      "text": "Stir in 1 diced medium courgette and 2 finely chopped garlic cloves, then add 1½ tsp salt and 1½ tsp hot smoked paprika."
+    },
+    {
+      "title": "Simmer",
+      "text": "Pour in a 400 g tin of chopped tomatoes and 1 tbsp Worcestershire sauce, return the browned beef and simmer for about 10 min until thick and the beef is cooked through to 71 °C."
+    },
+    {
+      "title": "Season",
+      "text": "Taste and adjust the seasoning with ½ tsp salt and 1½ tsp cider vinegar, adding more vinegar to taste if desired."
+    },
+    {
+      "title": "Serve",
+      "text": "Spoon the filling generously onto slider bun bottoms and top with bun tops."
+    }
+  ],
+  "tips": [
+    "Break the beef into fine pieces whilst browning so it distributes evenly through the final filling",
+    "Worcestershire sauce contains anchovies (fish); check the label",
+    "Taste before adjusting the vinegar, as it can quickly overpower the other flavours"
+  ],
+  "storage": "Leftovers keep chilled for 2 days; reheat until piping hot before serving. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "eggs",
+    "fish",
+    "sulphites"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 384,
+    "protein_g": 19.2,
+    "carbs_g": 42.4,
+    "sugar_g": 11.0,
+    "free_sugar_g": 4.4,
+    "fat_g": 15.5,
+    "satfat_g": 3.8,
+    "salt_g": 4.93,
+    "fibre_g": 5.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Soft dinner roll filled with thick, rich beef and vegetable filling studded with carrot, pepper and courgette pieces.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}

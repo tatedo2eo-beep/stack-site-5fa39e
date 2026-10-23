@@ -217,6 +217,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | carrot-nuoc-cham-dipping-sauce | Nuoc cham | Classic | 2 | 4 |
 | carrot-radish-asian-pear-slaw-sesame | Coleslaw | Carrot | 1 | 3 |
 | carrot-spice-steel-cut-oatmeal | Porridge/oatmeal | Carrot | 1 | 3 |
+| cast-iron-green-chilli-cheeseburger-sliders | Sliders | Chili | 1 | 3 |
 | catfish-po-boy-fried-catfish-dressed | Po' boy | Classic | 1 | 3 |
 | celeriac-parsnip-puree-crisp-parsnip-ribbons | Purées (celeriac, parsnip) | Classic | 1 | 3 |
 | celeriac-remoulade-mustard-parsley | Celeriac rémoulade | Classic | 3 | 5 |
@@ -802,6 +803,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | kitchen-sink-cookies | Kitchen-sink cookie | Classic | 3 | 5 |
 | knafeh-orange-kataifi-melted-cheese | Knafeh | Classic | 2 | 4 |
 | korean-bbq-kimchi-cheeseburgers | Cheeseburger | BBQ | 1 | 3 |
+| korean-cod-jeon-sliders | Sliders | Cod | 1 | 3 |
 | korean-rice-bowl-beef-vegetables-crisp-rice-chilli-sauce | Bibimbap (dolsot) | Classic | 2 | 4 |
 | korean-seaweed-rice-rolls-beef-egg-vegetables | Kimbap | Classic | 2 | 4 |
 | korean-style-marinated-beef-bulgogi | Bulgogi/galbi | Classic | 3 | 5 |
@@ -847,6 +849,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | lemon-zest-posset | Posset | Lemon | 2 | 4 |
 | lemony-pea-pistachio-pesto-pasta-salad | Pasta salad | Pea & pistachio | 1 | 3 |
 | lemony-tuna-salad-celery-capers | Tuna salad | Classic | 3 | 5 |
+| lentil-mushroom-bulgur-burgers | Veggie/bean burger | Lentil | 1 | 3 |
 | libyan-style-fish-spicy-tomato-pepper-sauce | Chraime | Classic | 2 | 4 |
 | liege-waffles-caramelised-pearl-sugar | Liège waffles | Classic | 2 | 4 |
 | lime-cardamom-buttermilk-frozen-yoghurt | Frozen yogurt | Lime & cardamom | 1 | 3 |
@@ -1136,6 +1139,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | poutine-fries-curds-gravy | Poutine | Classic | 3 | 5 |
 | praline-french-toast-bake | French toast | Praline | 1 | 3 |
 | prawn-fried-rice-egg-peas-sweetcorn | Fried rice | Shrimp | 3 | 5 |
+| prawn-tofu-sliders-sesame-mayo | Sliders | Shrimp & tofu | 1 | 3 |
 | pressed-pesto-mozzarella-tomato-panini | Panini | Classic | 2 | 4 |
 | pretzel-crust-focaccia | Focaccia | Pretzel | 1 | 3 |
 | prinsesstarta-swedish-princess-cake | Prinsesstårta | Classic | 2 | 4 |
@@ -1276,6 +1280,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | seven-layer-bean-dip-guacamole-cheddar-pico-de-gallo | Seven-layer dip | Classic | 2 | 4 |
 | shaken-iced-coffee-frappe-milk | Frappé coffee | Classic | 2 | 4 |
 | shakshuka | Shakshuka | Classic | 2 | 4 |
+| sheet-pan-onion-sliders | Sliders | Onion | 1 | 3 |
 | shimeji-mushroom-larb-culantro-lime | Larb | Mushroom | 1 | 3 |
 | shredded-beef-chimichangas-fried | Chimichanga | Classic | 1 | 3 |
 | shrimp-linguine-lime-jalapeno | Long dried (spaghetti, linguine, bucatini) | Shrimp | 1 | 3 |
@@ -1316,8 +1321,10 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | slow-smoked-beef-brisket-salt-pepper | Brisket (smoked) | Classic | 3 | 5 |
 | smashed-avocado-chicken-burgers | Chicken burger | Avocado | 1 | 3 |
 | smashed-buttery-mushy-peas | Mushy peas | Classic | 2 | 4 |
+| smashed-cabbage-mushroom-veggie-burgers | Veggie/bean burger | Cabbage & mushroom | 1 | 3 |
 | smoky-almond-pesto-spaghetti-peas | Long dried (spaghetti, linguine, bucatini) | Almond | 1 | 3 |
 | smoky-baba-ghanoush-charred-aubergine-tahini-lemon | Baba ghanoush | Classic | 2 | 4 |
+| smoky-beef-vegetable-sliders | Sliders | Beef | 1 | 3 |
 | smoky-chicken-pepper-penne | Short (penne, rigatoni, fusilli) | Chicken | 1 | 3 |
 | smoky-chipotle-lime-chicken-fajitas-peppers-guacamole | Fajita | Classic | 2 | 4 |
 | smoky-chipotle-tomato-shredded-chicken-tacos | Taco | Chicken tinga | 4 | 6 |
@@ -1443,6 +1450,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | sweet-cheese-dumplings-sour-cream-berries | Pierogi | Sweet cheese | 3 | 5 |
 | sweet-potato-buttermilk-pull-apart-rolls | Dinner rolls | Sweet potato | 1 | 3 |
 | sweet-potato-pie | Sweet potato pie | Classic | 2 | 4 |
+| sweet-potato-spinach-quinoa-burgers | Veggie/bean burger | Sweet potato & spinach | 1 | 3 |
 | sweet-rhubarb-syrup-focaccia | Focaccia | Rhubarb | 1 | 3 |
 | sweet-spicy-gochujang-sauce | Gochujang sauce | Classic | 2 | 4 |
 | sweet-tangy-beef-bean-spaghetti | Long dried (spaghetti, linguine, bucatini) | Beef | 1 | 3 |
@@ -1476,6 +1484,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | thai-iced-tea-condensed-milk-star-anise | Thai tea | Classic | 2 | 4 |
 | thai-sour-curry-prawns-napa-cabbage | Gaeng som (Thai sour curry) | Classic | 1 | 3 |
 | thai-style-peanut-chicken-salad-ginger-lime | Chicken salad | Peanut | 1 | 3 |
+| thai-style-turkey-sliders-peanut-sauce | Sliders | Turkey | 1 | 3 |
 | thai-thick-coconut-red-curry-beef-lime-leaf-peanuts | Panang curry | Beef | 2 | 4 |
 | thai-yellow-coconut-curry-chicken-potatoes-onion | Thai yellow curry (kaeng kari) | Chicken | 2 | 4 |
 | thai-yellow-coconut-curry-prawns-potatoes-crispy-shallots | Thai yellow curry (kaeng kari) | Classic | 1 | 3 |

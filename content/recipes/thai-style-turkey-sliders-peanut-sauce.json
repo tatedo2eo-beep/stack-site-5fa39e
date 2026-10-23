@@ -1,0 +1,219 @@
+{
+  "slug": "thai-style-turkey-sliders-peanut-sauce",
+  "title": "Thai-Style Turkey Sliders with Peanut Sauce",
+  "category": "burgers-sandwiches",
+  "cuisine": "Thai-American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "sliders",
+  "dish_title": "Sliders",
+  "flavour": "Turkey",
+  "flavour_order": 2,
+  "access": "premium",
+  "base_recipe": "cheeseburger-sliders",
+  "changes_from_base": "Turkey replaces beef, mixed with spring onion, coriander, chilli-garlic sauce, lime zest and a little melted butter; the thin patties are pan-fried and topped with a fish sauce and lime peanut sauce and a sweet-sour cucumber salad.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "These fragrant sliders draw on Thai flavours with minced turkey enriched by coriander and lime, finished with a silky peanut sauce and tangy cucumber.",
+  "servings": 6,
+  "prep_min": 30,
+  "cook_min": 15,
+  "difficulty": "medium",
+  "equipment": [
+    "2 small bowls",
+    "whisk",
+    "large bowl",
+    "zip-top freezer bag, sides cut open",
+    "clear glass pie dish or flat plate",
+    "baking tray",
+    "large non-stick frying pan",
+    "fish slice",
+    "instant-read thermometer",
+    "foil"
+  ],
+  "ingredients": [
+    {
+      "group": "Peanut sauce",
+      "qty": 65,
+      "unit": "g",
+      "item": "smooth peanut butter"
+    },
+    {
+      "group": "Peanut sauce",
+      "qty": 4,
+      "unit": "tsp",
+      "item": "fish sauce"
+    },
+    {
+      "group": "Peanut sauce",
+      "qty": 12,
+      "unit": "g",
+      "item": "light brown sugar",
+      "note": "about 1 tbsp"
+    },
+    {
+      "group": "Peanut sauce",
+      "qty": 3,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Cucumber salad",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "cucumber, thinly sliced"
+    },
+    {
+      "group": "Cucumber salad",
+      "qty": 0.5,
+      "unit": "pc",
+      "item": "red onion, thinly sliced",
+      "note": "about 60 g"
+    },
+    {
+      "group": "Cucumber salad",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "fish sauce"
+    },
+    {
+      "group": "Cucumber salad",
+      "qty": 8,
+      "unit": "g",
+      "item": "light brown sugar",
+      "note": "about 2 tsp"
+    },
+    {
+      "group": "Cucumber salad",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "lime juice"
+    },
+    {
+      "group": "Sliders",
+      "qty": 680,
+      "unit": "g",
+      "item": "turkey mince (about 7% fat, not extra-lean breast)"
+    },
+    {
+      "group": "Sliders",
+      "qty": 4,
+      "unit": "pc",
+      "item": "spring onions, finely chopped"
+    },
+    {
+      "group": "Sliders",
+      "qty": 4,
+      "unit": "tbsp",
+      "item": "chopped fresh coriander"
+    },
+    {
+      "group": "Sliders",
+      "qty": 30,
+      "unit": "g",
+      "item": "unsalted butter, melted and cooled"
+    },
+    {
+      "group": "Sliders",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "chilli-garlic sauce"
+    },
+    {
+      "group": "Sliders",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "finely grated lime zest"
+    },
+    {
+      "group": "Sliders",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Sliders",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Sliders",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "vegetable oil, divided"
+    },
+    {
+      "group": "To serve",
+      "qty": 12,
+      "unit": "pc",
+      "item": "slider buns, split and toasted if you like"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Sauce",
+      "text": "Whisk together 65 g smooth peanut butter, 4 tsp fish sauce, 1 tbsp light brown sugar and 3 tbsp lime juice until smooth, loosening with a little water to ketchup thickness."
+    },
+    {
+      "title": "Slaw",
+      "text": "Mix ½ sliced cucumber, ½ sliced red onion, 2 tsp fish sauce, 2 tsp light brown sugar and 2 tbsp lime juice in a small bowl."
+    },
+    {
+      "title": "Meat",
+      "text": "Break up 680 g turkey mince and knead in 4 chopped spring onions, 4 tbsp chopped fresh coriander, 30 g melted and cooled unsalted butter, 1 tbsp chilli-garlic sauce and 1 tsp finely grated lime zest."
+    },
+    {
+      "title": "Form",
+      "text": "Shape the mixture into 12 balls of about 57 g, place each inside an opened zip-top freezer bag and press with a pie dish into a 10 cm patty; chill on a tray."
+    },
+    {
+      "title": "Season",
+      "text": "Season the patties all over with ½ tsp salt and ¼ tsp ground black pepper in total."
+    },
+    {
+      "title": "Fry",
+      "text": "Heat 1 tsp vegetable oil in a large non-stick frying pan over medium until just smoking, cook 6 patties for 2-3 min per side until well browned and the centre reaches 74 °C on an instant-read thermometer; place on bun bottoms and cover with foil."
+    },
+    {
+      "title": "Repeat",
+      "text": "Wipe the pan and repeat with the remaining 1 tsp oil and patties."
+    },
+    {
+      "title": "Assemble",
+      "text": "Top each slider with the peanut sauce, cucumber salad and bun top, then serve straight away."
+    }
+  ],
+  "tips": [
+    "Loosen the peanut sauce with water a little at a time until it is as thick as ketchup; it contains peanuts and fish sauce",
+    "Use a pie dish to press the patties evenly through the freezer-bag method",
+    "Verify the turkey reaches 74 °C in the thickest part using an instant-read thermometer"
+  ],
+  "storage": "These sliders are best served fresh, straight from the pan. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "peanuts",
+    "fish"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 516,
+    "protein_g": 28.4,
+    "carbs_g": 40.0,
+    "sugar_g": 10.4,
+    "free_sugar_g": 8.1,
+    "fat_g": 27.7,
+    "satfat_g": 8.2,
+    "salt_g": 2.82,
+    "fibre_g": 2.4
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Small burger topped with creamy peanut sauce, fresh cucumber slices and red onion on a toasted soft roll.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

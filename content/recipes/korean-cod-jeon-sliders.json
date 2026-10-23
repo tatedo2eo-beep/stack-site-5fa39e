@@ -1,0 +1,191 @@
+{
+  "slug": "korean-cod-jeon-sliders",
+  "title": "Korean Cod Jeon Sliders",
+  "category": "burgers-sandwiches",
+  "cuisine": "Korean-American",
+  "chapter": "burgers",
+  "book_chapter": "burgers",
+  "dish": "sliders",
+  "dish_title": "Sliders",
+  "flavour": "Cod",
+  "flavour_order": 5,
+  "access": "premium",
+  "base_recipe": "cheeseburger-sliders",
+  "changes_from_base": "Thin slices of cod are dusted in flour, dipped in beaten egg and gently pan-fried as Korean jeon, then tucked into soft sweet rolls with sesame mayonnaise, a soy-dressed spring onion salad and dill pickles in place of a beef patty and cheese.",
+  "extra_flavour": true,
+  "photo_pending": true,
+  "summary": "Delicate white fish fillet, thinly sliced and pan-fried until golden, served with crisp salad and a subtle sesame accent.",
+  "servings": 4,
+  "prep_min": 15,
+  "cook_min": 10,
+  "difficulty": "easy",
+  "equipment": [
+    "2 small bowls",
+    "2 shallow bowls",
+    "large plate",
+    "large non-stick frying pan",
+    "fish slice",
+    "plate lined with kitchen paper",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tbsp",
+      "item": "soy sauce"
+    },
+    {
+      "group": "Dressing",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "white vinegar"
+    },
+    {
+      "group": "Dressing",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Sesame mayonnaise",
+      "qty": 120,
+      "unit": "g",
+      "item": "mayonnaise"
+    },
+    {
+      "group": "Sesame mayonnaise",
+      "qty": 1.25,
+      "unit": "tsp",
+      "item": "toasted sesame oil"
+    },
+    {
+      "group": "Jeon",
+      "qty": 24,
+      "unit": "g",
+      "item": "plain flour",
+      "note": "about 3 tbsp"
+    },
+    {
+      "group": "Jeon",
+      "qty": 1,
+      "unit": "pc",
+      "item": "large egg, beaten"
+    },
+    {
+      "group": "Jeon",
+      "qty": 225,
+      "unit": "g",
+      "item": "thick cod fillet, cut on the diagonal into 8 slices about 1 cm thick"
+    },
+    {
+      "group": "Jeon",
+      "qty": 3,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ½ tsp"
+    },
+    {
+      "group": "Jeon",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Jeon",
+      "qty": 30,
+      "unit": "ml",
+      "item": "neutral oil (rapeseed or sunflower)"
+    },
+    {
+      "group": "To serve",
+      "qty": 2,
+      "unit": "pc",
+      "item": "spring onions, halved lengthways and thinly sliced on the diagonal"
+    },
+    {
+      "group": "To serve",
+      "qty": 20,
+      "unit": "g",
+      "item": "tender baby salad leaves"
+    },
+    {
+      "group": "To serve",
+      "qty": 8,
+      "unit": "pc",
+      "item": "soft sweet dinner rolls, split"
+    },
+    {
+      "group": "To serve",
+      "qty": 60,
+      "unit": "g",
+      "item": "sliced dill pickles"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dressing",
+      "text": "Whisk together 1 tbsp soy sauce, 1 tsp white vinegar and ¼ tsp toasted sesame oil in a small bowl."
+    },
+    {
+      "title": "Mayo",
+      "text": "Stir 1¼ tsp toasted sesame oil into 120 g mayonnaise in another small bowl."
+    },
+    {
+      "title": "Dredge",
+      "text": "Put 3 tbsp plain flour in one shallow bowl and beat 1 large egg in another; season 225 g thick cod fillet cut diagonally into 8 slices about 1 cm thick with ½ tsp salt and ¼ tsp ground black pepper, dredge in flour, shake off excess, then set each slice on a large plate."
+    },
+    {
+      "title": "Fry",
+      "text": "Heat 30 ml neutral oil in a large non-stick frying pan over medium; dip each floured cod slice in beaten egg and lay in the hot oil, cook for 2-3 min per side until golden, opaque throughout and 63 °C in the centre, then drain on kitchen paper and salt lightly."
+    },
+    {
+      "title": "Dress",
+      "text": "Toss 2 halved and thinly sliced spring onions and 20 g tender baby salad leaves in the soy dressing."
+    },
+    {
+      "title": "Assemble",
+      "text": "Spread sesame mayonnaise on 8 split soft sweet dinner roll bottoms, add the dressed salad, a piece of fried cod, sliced dill pickles and the roll tops."
+    },
+    {
+      "title": "Serve",
+      "text": "Eat straight away whilst the jeon is warm, or within 2 hours at room temperature if preferred."
+    }
+  ],
+  "tips": [
+    "Slice the cod diagonally and at an even thickness for consistent cooking throughout",
+    "Dip each slice in egg immediately before frying so the coating adheres properly",
+    "Serve the sliders warm for the best contrast between the hot, crispy fish and cool, fresh toppings"
+  ],
+  "storage": "The fried fish is best served warm, but can be eaten at room temperature within 2 hours of cooking.",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs",
+    "mustard",
+    "sesame",
+    "soya",
+    "fish",
+    "sulphites"
+  ],
+  "diet": [
+    "dairy-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 541,
+    "protein_g": 19.0,
+    "carbs_g": 36.2,
+    "sugar_g": 5.0,
+    "free_sugar_g": 4.5,
+    "fat_g": 35.2,
+    "satfat_g": 5.3,
+    "salt_g": 2.92,
+    "fibre_g": 1.7
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": null,
+  "image_alt": "Golden-brown fried fish slice topped with spring onion and salad leaves in a soft split dinner roll.",
+  "inspired_by": [
+    "NYT Cooking"
+  ]
+}
