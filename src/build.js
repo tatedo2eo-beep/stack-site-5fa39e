@@ -287,7 +287,7 @@ function placeholderSvg(label) {
     });
     else console.log(C.yel('warning: tami_manifest.json not found; chapters keep the old dish order')); }
   const recRank = r => { const rel = TAMI.recipes[r.slug] || tamiRel(r.image); return rel && BOOK[rel] !== undefined ? BOOK[rel] : Infinity; };
-  const dishRank = d => Math.min(...[tamiRel(d.image) || TAMI.dishes[d.slug]].filter(Boolean).map(x => BOOK[x] !== undefined ? BOOK[x] - (BOOK[x] % 1000) : Infinity), BOOK['name:' + d.title.toLowerCase()] ?? Infinity, ...d.flavours.map(r => { const k = recRank(r); return k === Infinity ? k : k - (k % 1000); }));
+  const dishRank = d => Math.min(...[tamiRel(d.image) || TAMI.dishes[d.slug]].filter(Boolean).map(x => BOOK[x] !== undefined ? BOOK[x] - (BOOK[x] % 1000) : Infinity), BOOK['name:' + (d.book_name || d.title).toLowerCase()] ?? Infinity, ...d.flavours.map(r => { const k = recRank(r); return k === Infinity ? k : k - (k % 1000); }));
   for (const d of dishes) { d.bookRank = dishRank(d); const pos = new Map(d.flavours.map((r, i) => [r, i])); d.flavours = d.flavours.slice().sort((a, b) => (recRank(a) - recRank(b)) || pos.get(a) - pos.get(b)); }
   const oldOrder = (a, b) => b.flavours.length - a.flavours.length || a.title.localeCompare(b.title);
   const chapters = cfg.chapters.map(c => ({ ...c, dishes: dishes.filter(d => d.chapter === c.key).sort((a, b) => (a.bookRank === b.bookRank ? 0 : a.bookRank - b.bookRank) || oldOrder(a, b)) })).filter(c => c.dishes.length);
@@ -326,8 +326,7 @@ function placeholderSvg(label) {
     writeFile(L.prefix + 'recipes/index.json', JSON.stringify(P.recipeIndex(ctx, recipes)));
     for (const c of cats) emit(P.categoryPage(ctx, c.key, c.list, cats));
     for (const r of recipes) {
-      const related = dishes.find(d => d.slug === r.dish).flavours.filter(x => x !== r).slice(0, 3);
-      emit({ ...P.recipePage(ctx, r, related), chapterKey: r.chapter });
+      emit({ ...P.recipePage(ctx, r), chapterKey: r.chapter });
     }
     if (cfg.healthyLabels !== false) { emit(P.highProteinPage(ctx, hp, R.HP_MIN)); emit(P.whoPage(ctx, who, recipes.length)); }
     emit(P.plansPage(ctx));
