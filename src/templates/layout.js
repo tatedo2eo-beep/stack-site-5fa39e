@@ -15,6 +15,8 @@ function layout(ctx, p) {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="google-adsense-account" content="ca-pub-7210846833606809">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7210846833606809" crossorigin="anonymous"></script>
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
 ${cfg.noindex ? '<meta name="robots" content="noindex,nofollow">\n' : ''}<link rel="canonical" href="${canonical}">${alt}

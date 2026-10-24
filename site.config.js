@@ -1,7 +1,7 @@
 // ONE place to change brand, URLs and launch flags.
 // Launch gate: PUBLIC_INDEXING stays false for the test deployment. Set it here, or
 // override at build time with env PUBLIC_INDEXING=true, to open the site to search engines.
-const PUBLIC_INDEXING = process.env.PUBLIC_INDEXING === 'true' || false;
+const PUBLIC_INDEXING = process.env.PUBLIC_INDEXING !== 'false'; // launched 2026-10-24 for AdSense review
 module.exports = {
   PUBLIC_INDEXING,
   brand: 'Velvet',                 // site name (Joe, 2026-10-24); domain velvetcookbook.com (bought 2026-10-24)
