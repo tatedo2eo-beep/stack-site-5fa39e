@@ -22,7 +22,7 @@ const SCENES = {
       ['03 · The crust', 'Smash it thin.<br><span>Let it crust.</span>', 'A blazing-hot pan and two minutes of patience: that lacy brown edge is the whole point.'],
       ['04 · The melt', 'Cheese on,<br><span>lid off.</span>', 'It goes on the moment the patty flips and melts into every crisp edge.'],
       ['05 · Your stack', 'Pick your<br><span>flavour.</span>', 'Every dish has a free classic flavour and more to unlock.']],
-    pick: ['signature-smash-burger', 'classic-smash-burger']
+    pick: ['smashed-burgers', 'classic-smash-burger']
   },
   b: {
     food: 'Four-layer chocolate cake', lab: ['Ganache drip', 'Chocolate sponge', 'Fudge frosting', 'Baked in three tins'],
@@ -34,7 +34,7 @@ const SCENES = {
       ['The filling', 'Fudge between<br><span>every layer.</span>', 'Spread thick and level, then chilled so the stack stands tall.'],
       ['The finish', 'Ganache,<br><span>left to drip.</span>', 'Poured warm over the top edge and let it find its own way down.'],
       ['Your book', 'Turn the<br><span>page.</span>', 'Pick a chapter, then a dish, then your flavour.']],
-    pick: ['signature-fudgy-brownies', 'chewy-chocolate-chip-cookies']
+    pick: ['glossy-fudge-brownies', 'chewy-chocolate-chip-cookies']
   },
   c: {
     frame: 'polaroid', cap: 'Hot slice · No. 06',
@@ -47,7 +47,7 @@ const SCENES = {
       ['The pull', 'Lift it<br><span>slowly.</span>', 'Mozzarella that stretches is mozzarella melted just right.'],
       ['The stretch', 'Longer.<br><span>Longer.</span>', 'Low moisture cheese, a thin layer of sauce, no soggy middle.'],
       ['Your table', 'Grab a<br><span>plate.</span>', 'Pick a chapter, then a dish, then your flavour.']],
-    pick: ['classic-cheeseburger', 'signature-smash-burger']
+    pick: ['classic-cheeseburger', 'smashed-burgers']
   },
   d: {
     food: 'Buttermilk pancake stack', lab: ['Melting butter', 'Maple syrup', 'Fluffy buttermilk stack', 'Fresh berries'],

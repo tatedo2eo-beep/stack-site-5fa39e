@@ -1,7 +1,7 @@
 import asyncio, os, sys
 from playwright.async_api import async_playwright
 B=os.environ.get('B','http://localhost:8081/stack-site-5fa39e/')
-SH=[('dish','dish/smash-burger/'),('chapter','chapter/burgers/'),('free','recipes/classic-smash-burger/'),('premium','recipes/signature-smash-burger/'),('premium-preview','recipes/signature-smash-burger/?preview=premium')]
+SH=[('dish','dish/smash-burger/'),('chapter','chapter/burgers/'),('free','recipes/classic-smash-burger/'),('premium','recipes/smashed-burgers/'),('premium-preview','recipes/smashed-burgers/?preview=premium')]
 async def main():
   only=sys.argv[1:]
   async with async_playwright() as pw:

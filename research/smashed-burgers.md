@@ -1,4 +1,4 @@
-# Research: Signature Smash Burger
+# Research: Smashed Burgers
 Dish: Smash burger / flavour: Classic. Private file, not published.
 
 ## Sources actually opened
@@ -21,7 +21,7 @@ Dish: Smash burger / flavour: Classic. Private file, not published.
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
 - Doneness cues in the method: 1 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 15 min + cook 15 min against the step times.
-- Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/signature-smash-burger-nutrition.md).
+- Quantities checked against servings (4). Nutrition worked from USDA FDC (see content/notes/smashed-burgers-nutrition.md).
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 3. Non-top-tier pages are context only.
 
 ## Knowledge check

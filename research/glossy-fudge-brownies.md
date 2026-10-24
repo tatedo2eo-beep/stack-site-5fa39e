@@ -1,4 +1,4 @@
-# Research: Signature Fudgy Brownies
+# Research: Glossy Fudge Brownies
 Dish: Brownie (fudgy or cakey) / flavour: Classic. Private file, not published.
 
 ## Sources actually opened
@@ -16,7 +16,7 @@ Dish: Brownie (fudgy or cakey) / flavour: Classic. Private file, not published.
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
 - Doneness cues in the method: 1 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 20 min + cook 25 min against the step times.
-- Quantities checked against servings (16). Nutrition worked from USDA FDC (see content/notes/signature-fudgy-brownies-nutrition.md).
+- Quantities checked against servings (16). Nutrition worked from USDA FDC (see content/notes/glossy-fudge-brownies-nutrition.md).
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 2. Non-top-tier pages are context only.
 
 ## Knowledge check

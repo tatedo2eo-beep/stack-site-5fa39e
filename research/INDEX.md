@@ -1326,8 +1326,8 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | sicilian-lemon-granita-fork-scraped | Granita | Classic | 1 | 3 |
 | sicilian-style-thick-pan-pizza-onion-tomato-crisp-crumbs | Sicilian/sfincione | Classic | 2 | 4 |
 | sigeumchi-namul-sesame-spinach | Namul | Spinach (sigeumchi) | 2 | 4 |
-| signature-fudgy-brownies | Brownie (fudgy or cakey) | Classic | 2 | 4 |
-| signature-smash-burger | Smash burger | Classic | 3 | 8 |
+| glossy-fudge-brownies | Brownie (fudgy or cakey) | Classic | 2 | 4 |
+| smashed-burgers | Smash burger | Classic | 3 | 8 |
 | silken-tofu-soy-chilli-oil | Silken tofu with soy and chili oil | Classic | 2 | 4 |
 | silky-dark-chocolate-fudge-squares | Fudge | Classic | 2 | 4 |
 | silky-dark-chocolate-mousse | Chocolate mousse | Classic | 3 | 5 |

@@ -1,7 +1,7 @@
 import asyncio, json, sys
 from playwright.async_api import async_playwright
 B='http://localhost:8080/stack-site-5fa39e/'
-PAGES=['','chapters/','chapter/burgers/','dish/smash-burger/','recipes/signature-smash-burger/','recipes/classic-smash-burger/','recipes/','chapter/soups/','chapter/drinks/','calculator/','plans/']
+PAGES=['','chapters/','chapter/burgers/','dish/smash-burger/','recipes/smashed-burgers/','recipes/classic-smash-burger/','recipes/','chapter/soups/','chapter/drinks/','calculator/','plans/']
 DES=[('e','noir-gold')]+[(d,None) for d in 'bcdg']
 async def main():
   async with async_playwright() as p:
@@ -22,7 +22,7 @@ async def main():
             sw:document.documentElement.scrollWidth,vw:innerWidth,h1:(document.querySelector('h1')||{}).textContent,
             imgs:[...document.images].filter(i=>i.complete&&i.naturalWidth===0&&i.src).map(i=>i.src).slice(0,3)})""")
           r.update(vp=vp,u=u,want=d,errs=errs[:]); errs.clear(); out.append(r)
-          if u in ('','dish/smash-burger/','recipes/signature-smash-burger/','chapters/'):
+          if u in ('','dish/smash-burger/','recipes/smashed-burgers/','chapters/'):
             await pg.screenshot(path=f'/workspace/public-site/shots/v5/{vp}-{d}-{u.strip("/").replace("/","_") or "home"}.png')
         await ctx.close()
     await br.close()

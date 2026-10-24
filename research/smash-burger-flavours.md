@@ -47,7 +47,7 @@ key: **yes** means no pork or alcohol, using beef where needed. **swap** means t
 
 | Rank | Flavour | One-line description | Popularity signal | | Difficulty | Status |
 |---|---|---|---|---|---|---|
-| 1 | Classic double cheese | Two lacy patties, American cheese, pickles, lettuce, tangy pickle-mayo sauce | YouGov: cheese 74%, pickles 54%. Canonical in sources 1, 4 and 5 | yes | easy | **LIVE** (signature-smash-burger) |
+| 1 | Classic double cheese | Two lacy patties, American cheese, pickles, lettuce, tangy pickle-mayo sauce | YouGov: cheese 74%, pickles 54%. Canonical in sources 1, 4 and 5 | yes | easy | **LIVE** (smashed-burgers) |
 | 2 | Oklahoma onion | Paper-thin onion smashed into the beef and caramelised underneath. Mustard and pickles | Wikipedia history and festival. Onions are a top trend (Technomic, Tastewise) | yes | easy | **LAUNCH** |
 | 3 | Smash burger tacos | Beef smashed straight onto a flour tortilla, cheese, special sauce, lettuce | 626M TikTok views on the tag (Texas Monthly). Original video 16M views | yes (check tortillas for lard) | easy | **LAUNCH** |
 | 4 | Spicy jalapeño | Cheddar, pickled jalapeños, sriracha-lime mayo, quick-pickled red onion | Sweet-heat cluster rising (Tastewise). Jalapeños come up often in topping threads | yes | easy | **LAUNCH** |
