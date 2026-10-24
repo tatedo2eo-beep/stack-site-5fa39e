@@ -1,17 +1,17 @@
 {
-  "slug": "coconut-white-chocolate-brownies",
-  "title": "Coconut White Chocolate Brownies",
+  "slug": "coconut-white-chocolate-blondies",
+  "title": "Coconut White Chocolate Blondies",
   "category": "desserts",
   "cuisine": "American",
   "chapter": "cookies-bars-brownies",
   "book_chapter": "cookies-bars-brownies",
-  "dish": "brownies",
-  "dish_title": "Brownies",
-  "flavour": "Coconut",
-  "flavour_order": 119,
+  "dish": "blondies",
+  "dish_title": "Blondies",
+  "flavour": "Coconut & white chocolate",
+  "flavour_order": 109,
   "access": "premium",
-  "base_recipe": "glossy-fudge-brownies",
-  "changes_from_base": "Chewy brown sugar bar (no dark chocolate) with white chocolate, cranberries and toasted coconut.",
+  "base_recipe": "chewy-blondies",
+  "changes_from_base": "White chocolate, dried cranberries and toasted coconut in a larger tray of melted-butter and brown sugar batter; no dark chocolate or nuts.",
   "extra_flavour": true,
   "summary": "Chewy brown sugar bars with white chocolate, dried cranberries and toasted coconut.",
   "servings": 24,
@@ -27,62 +27,62 @@
   ],
   "ingredients": [
     {
-      "group": "Brownie",
+      "group": "Blondie",
       "qty": 170,
       "unit": "g",
       "item": "unsalted butter, melted"
     },
     {
-      "group": "Brownie",
+      "group": "Blondie",
       "qty": 300,
       "unit": "g",
       "item": "light brown soft sugar"
     },
     {
-      "group": "Brownie",
+      "group": "Blondie",
       "qty": 2,
       "unit": "pc",
       "item": "large eggs, at room temperature"
     },
     {
-      "group": "Brownie",
+      "group": "Blondie",
       "qty": 2,
       "unit": "tsp",
       "item": "vanilla"
     },
     {
-      "group": "Brownie",
+      "group": "Blondie",
       "qty": 3,
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about ½ tsp"
     },
     {
-      "group": "Brownie",
+      "group": "Blondie",
       "qty": 210,
       "unit": "g",
       "item": "plain flour"
     },
     {
-      "group": "Brownie",
+      "group": "Blondie",
       "qty": 2,
       "unit": "tsp",
       "item": "baking powder"
     },
     {
-      "group": "Brownie",
+      "group": "Blondie",
       "qty": 200,
       "unit": "g",
       "item": "white chocolate chips or chunks"
     },
     {
-      "group": "Brownie",
+      "group": "Blondie",
       "qty": 100,
       "unit": "g",
       "item": "dried cranberries"
     },
     {
-      "group": "Brownie",
+      "group": "Blondie",
       "qty": 55,
       "unit": "g",
       "item": "unsweetened desiccated coconut",

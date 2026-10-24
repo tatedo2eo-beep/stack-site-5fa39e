@@ -110,7 +110,7 @@ table.data thead th{font-size:12px;letter-spacing:.06em;text-transform:uppercase
 .btn[disabled]{opacity:.55;cursor:not-allowed}
 /* palette panel: a real modal on top of everything */
 .palpanel{z-index:200}
-@media print{.top,.toc,.foot,.adw,.ad-slot,.ctrls,.cook-bar,.flv,.story4,.palpanel{display:none!important}body{min-width:0!important;background:#fff;color:#000}}
+@media print{.top,.toc,.foot,.adw,.ad-slot,.ctrls,.cook-bar,.story4,.palpanel{display:none!important}body{min-width:0!important;background:#fff;color:#000}}
 /* Real ads: hide any slot Google leaves unfilled so no blank gap remains */
 ins.adsbygoogle[data-ad-status="unfilled"]{display:none!important}
 .ad-slot:has(ins.adsbygoogle[data-ad-status="unfilled"]),.adw:has(ins.adsbygoogle[data-ad-status="unfilled"]){display:none!important}

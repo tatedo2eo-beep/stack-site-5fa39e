@@ -15,7 +15,7 @@ Dish: Brownie (fudgy or cakey) / flavour: Coconut. Private file, not published.
 - Safe temperatures checked against USDA FSIS (ground meat 71 °C, poultry 74 °C, leftovers reheated to 74 °C).
 - Doneness cues in the method: 1 step(s) carry a temperature, and every cooking step has a visual cue.
 - Timing sanity check: prep 15 min + cook 30 min against the step times.
-- Quantities checked against servings (24). Nutrition worked from USDA FDC (see content/notes/coconut-white-chocolate-brownies-nutrition.md).
+- Quantities checked against servings (24). Nutrition worked from USDA FDC (see content/notes/coconut-white-chocolate-blondies-nutrition.md).
 - Locked-list sources supporting the core method (excluding FSIS/FDC): 1. Non-top-tier pages are context only.
 
 ## Knowledge check

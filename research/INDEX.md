@@ -399,7 +399,7 @@ Recipe research files list only sources actually opened. Locked-list technique s
 | coconut-key-lime-yogurt-muffins | American muffin (blueberry style, muffin method) | Coconut & Key lime | 1 | 3 |
 | coconut-peanut-satay-sauce | Peanut/satay | Classic | 2 | 4 |
 | coconut-rice-and-peas-scotch-bonnet | Rice and peas | Classic | 2 | 4 |
-| coconut-white-chocolate-brownies | Brownie (fudgy or cakey) | Coconut | 1 | 3 |
+| coconut-white-chocolate-blondies | Blondies | Coconut | 1 | 3 |
 | cod-baked-in-parchment-vegetables-lemon-dill | En papillote | Classic | 4 | 6 |
 | coffee-bean-pots-de-creme | Pot de crème | Coffee | 1 | 3 |
 | coffee-frozen-yoghurt | Frozen yogurt | Coffee | 1 | 3 |
