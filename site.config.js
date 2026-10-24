@@ -4,8 +4,8 @@
 const PUBLIC_INDEXING = process.env.PUBLIC_INDEXING === 'true' || false;
 module.exports = {
   PUBLIC_INDEXING,
-  brand: "Joe's Stack",            // placeholder brand name
-  brandHtml: "Joe's <b>Stack</b>", // brand as shown in the header
+  brand: 'Velvet',                 // site name (Joe, 2026-10-24); domain velvetcookbook.com not bought yet
+  brandHtml: '<b>Velvet</b>',      // brand as shown in the header
   tagline: 'Recipes worth stacking up',
   siteUrl: 'https://tatedo2eo-beep.github.io', // origin, no trailing slash (Cloudflare later: https://example.com)
   basePath: '/stack-site-5fa39e/',               // path prefix incl. slashes ('/' on a custom domain)

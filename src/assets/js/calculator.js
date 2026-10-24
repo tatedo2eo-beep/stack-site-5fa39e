@@ -1,4 +1,4 @@
-/*! Joe's Stack Nutrition Calculator - vanilla JS, no dependencies.
+/*! Velvet Nutrition Calculator - vanilla JS, no dependencies.
  * Every formula and threshold below is cited in sources.md (S1, S2, ... refer to it).
  * Works in the browser (auto-binds to [data-nc]) and in Node (module.exports = NC).
  */

@@ -67,10 +67,10 @@ function chrome(ctx, d, p) {
   const nR = ctx.counts.recipes, nCh = ctx.chapters.length;
   const links = icons => nav.map(([k, h, l]) => `<a href="${u(h)}"${route === k ? ' class="on" aria-current="page"' : ''}${icons ? ` title="${esc(l)}"` : ''}>${icons ? `<span class="ni">${ni(k)}</span>` : ''}<span class="nl">${esc(l)}</span></a>`).join('');
   const b1 = esc(cfg.brand.replace(/\s*\S+$/, '')), b2 = esc(cfg.brand.split(/\s+/).pop());
-  const brandTxt = `${b1} <i>${b2}</i>`;
+  const brandTxt = `${b1 ? b1 + ' ' : ''}<i>${b2}</i>`;
   const tools = `<div class="tools"><button type="button" class="palbtn" data-act="pal" aria-haspopup="dialog" aria-controls="palpanel" title="Change the look">${ICON.pal}<span>Look</span></button></div>`;
   const qs = `<form class="qs" action="${u('recipes/')}" method="get" role="search"><span class="qsi">${ICON.search}</span><input name="q" type="search" placeholder="${esc(t.ui.searchPh)}" aria-label="${esc(t.ui.search)}"></form>`;
-  const brand = `<a class="brand" href="${u('')}"><span class="logo">${b1.charAt(0)}</span><span class="bt">${brandTxt}</span></a>`;
+  const brand = `<a class="brand" href="${u('')}"><span class="logo">${(b1 || b2).charAt(0)}</span><span class="bt">${brandTxt}</span></a>`;
   const more = [['about/', 'About'], ['contact/', 'Contact'], ['privacy/', 'Privacy Policy'], ['terms/', 'Terms of Use'], ['cookie-policy/', 'Cookie Policy'], ['refund-policy/', 'Refund Policy']];
   const moreL = `<span class="soonwrap"><span class="soonlab">More:</span>${more.map(([h, l]) => `<a class="soon" href="${u(h)}">${l}</a>`).join('')}</span>`;
   const sub = `${nR} recipes · ${nCh} chapters`;
@@ -86,7 +86,7 @@ function chrome(ctx, d, p) {
     top = `<div class="wrap dtop">${brand}${qs}${tools}</div><nav class="dock" aria-label="Main">${links(true)}</nav>`;
   } else if (d === 'g') {
     top = `<div class="wrap gtop"><div class="greet"><b>Hi there</b><span>${sub}</span></div>${qs}${tools}</div>`;
-    toc = `<a class="glogo" href="${u('')}" title="${esc(cfg.brand)}">${b1.charAt(0)}</a><nav class="rail" aria-label="Main">${links(true)}</nav><div class="railsoon"><span>More</span>${more.slice(0, 2).map(([h, l]) => `<a href="${u(h)}" title="${l}">${l}</a>`).join('')}</div>`;
+    toc = `<a class="glogo" href="${u('')}" title="${esc(cfg.brand)}">${(b1 || b2).charAt(0)}</a><nav class="rail" aria-label="Main">${links(true)}</nav><div class="railsoon"><span>More</span>${more.slice(0, 2).map(([h, l]) => `<a href="${u(h)}" title="${l}">${l}</a>`).join('')}</div>`;
   } else {
     top = `<div class="mast"><div class="wrap mastin"><span class="dateline">${sub}</span>${brand}${tools}</div></div><nav class="mainnav" aria-label="Main"><div class="wrap navin">${links(false)}<span class="navq">${qs}</span></div></nav>`;
   }

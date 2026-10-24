@@ -1,4 +1,4 @@
-# Joe's Stack (placeholder name): public recipe site
+# Velvet: public recipe site
 
 > **TEST DEPLOYMENT.** This GitHub Pages link is for review only. Pages is set to `noindex` and `robots.txt` disallows crawling.
 > GitHub Pages is **not for commercial use** (no ads, no payments here). Before ads and payments go live, the site moves to **Cloudflare Pages** on its own domain.

@@ -17,7 +17,7 @@ const SCENES = {
     k: [[0, 0], [0.2, 0.1], [0.5, 0.22], [0.8, 0.1], [0.96, 0]], g: [[0, 0.25], [0.3, 0.55], [0.6, 0.8], [0.9, 0.3], [1, 0]],
     macros: [{ id: 'crust', o: [[0.47, 0], [0.52, 1], [0.6, 1], [0.64, 0]], z: [[0.47, 1.04], [0.64, 1.22]] }, { id: 'cheese', o: [[0.6, 0], [0.64, 1], [0.72, 1], [0.77, 0]], z: [[0.6, 1.05], [0.77, 1.25]] }],
     copy: [
-      ['01 · The Stack', 'The<br>Stack', 'Recipes worth stacking up. Metric, with nutrition per serving and no life stories.'],
+      ['01 · Velvet', 'Welcome to<br><span>Velvet.</span>', 'Recipes worth stacking up. Metric, with nutrition per serving and no life stories.'],
       ['02 · Lift off', 'Built in<br><span>layers.</span>', 'Toasted brioche, sharp pickles, two thin patties and cheese that has just let go.'],
       ['03 · The crust', 'Smash it thin.<br><span>Let it crust.</span>', 'A blazing-hot pan and two minutes of patience: that lacy brown edge is the whole point.'],
       ['04 · The melt', 'Cheese on,<br><span>lid off.</span>', 'It goes on the moment the patty flips and melts into every crisp edge.'],
