@@ -4,11 +4,11 @@
 const PUBLIC_INDEXING = process.env.PUBLIC_INDEXING === 'true' || false;
 module.exports = {
   PUBLIC_INDEXING,
-  brand: 'Velvet',                 // site name (Joe, 2026-10-24); domain velvetcookbook.com not bought yet
+  brand: 'Velvet',                 // site name (Joe, 2026-10-24); domain velvetcookbook.com (bought 2026-10-24)
   brandHtml: '<b>Velvet</b>',      // brand as shown in the header
   tagline: 'Recipes worth stacking up',
-  siteUrl: 'https://tatedo2eo-beep.github.io', // origin, no trailing slash (Cloudflare later: https://example.com)
-  basePath: '/stack-site-5fa39e/',               // path prefix incl. slashes ('/' on a custom domain)
+  siteUrl: 'https://velvetcookbook.com', // origin, no trailing slash (Cloudflare later: https://example.com)
+  basePath: '/',               // path prefix incl. slashes ('/' on a custom domain)
   // Derived from PUBLIC_INDEXING (its inverse). true = <meta robots noindex> + robots.txt Disallow: / + no sitemap.
   noindex: !PUBLIC_INDEXING,
   contactEmail: 'hello@example.com', // PLACEHOLDER address
