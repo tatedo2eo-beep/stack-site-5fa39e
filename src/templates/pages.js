@@ -5,6 +5,7 @@ const { ad } = require('./layout');
 const { ICON } = require('./designs');
 const { isSafetyLine } = require('../lib/safety');
 const DRINKS_CSS = require('fs').readFileSync(require('path').join(__dirname, '../assets/css/drinks.css'), 'utf8');
+const dishFlav = r => r.flavour === r.dish_title ? r.dish_title : `${r.dish_title} · ${r.flavour}`;
 
 const img = (ctx, r, sizes, cls, eager) => {
   const a = esc(r.image_alt || r.title);
@@ -34,7 +35,7 @@ const alLine = (ctx, r) => r.allergenKeys.length ? 'Contains: ' + r.allergenKeys
 function card(ctx, r) {
   const { t, u } = ctx, prem = r.access === 'premium';
   const text = [r.title, r.summary, r.cuisine, t.categories[r.category], r.dish_title, r.flavour, t.chapters[r.chapter].name, ...r.ingredients.map(i => i.item), ...r.dietTags.map(d => t.diets[d])].join(' ').toLowerCase();
-  return `<a class="rc card${prem ? ' is-prem' : ''}" href="${u(r.url)}" data-slug="${r.slug}" data-cat="${r.category}" data-ch="${r.chapter}" data-diet="${r.filterTags.join(' ')}" data-time="${r.total_min}" data-diff="${r.difficulty}" data-text="${esc(text)}"><span class="rimg"><span class="favdot" title="In your favourites">${ICON.heart}</span>${prem ? `<span class="lockdot" title="${t.ui.premium}">${LOCK}<span class="sr">${t.ui.premium}</span></span>` : ''}${img(ctx, r, CARD_SIZES, '', false)}</span><span class="rcb"><span class="no">${esc(r.dish_title)} · ${esc(r.flavour)}</span><h3>${esc(r.title)}</h3><span class="meta">${ICON.clock} ${mins(r.total_min)} · ${Math.round(r.nutrition_per_serving.kcal)} kcal · ${Math.round(r.nutrition_per_serving.protein_g)} g protein</span><span class="al">${esc(alLine(ctx, r))}</span><span class="bdgs">${badges(ctx, r)}</span></span></a>`;
+  return `<a class="rc card${prem ? ' is-prem' : ''}" href="${u(r.url)}" data-slug="${r.slug}" data-cat="${r.category}" data-ch="${r.chapter}" data-diet="${r.filterTags.join(' ')}" data-time="${r.total_min}" data-diff="${r.difficulty}" data-text="${esc(text)}"><span class="rimg"><span class="favdot" title="In your favourites">${ICON.heart}</span>${prem ? `<span class="lockdot" title="${t.ui.premium}">${LOCK}<span class="sr">${t.ui.premium}</span></span>` : ''}${img(ctx, r, CARD_SIZES, '', false)}</span><span class="rcb"><span class="no">${esc(dishFlav(r))}</span><h3>${esc(r.title)}</h3><span class="meta">${ICON.clock} ${mins(r.total_min)} · ${Math.round(r.nutrition_per_serving.kcal)} kcal · ${Math.round(r.nutrition_per_serving.protein_g)} g protein</span><span class="al">${esc(alLine(ctx, r))}</span><span class="bdgs">${badges(ctx, r)}</span></span></a>`;
 }
 const grid = (ctx, list, id) => `<div class="rgrid"${id ? ` id="${id}"` : ''}>${list.map(r => card(ctx, r)).join('')}</div>`;
 // generic page: one paper/section with a heading (works in every design)
@@ -77,12 +78,12 @@ function recipeParts(ctx, r) {
   const { t, u } = ctx;
   const n = r.nutrition_per_serving, H = r.health, prem = r.access === 'premium';
   const P = {};
-  P.crumbs = crumbs(ctx, [[`chapter/${r.chapter}/`, t.chapters[r.chapter].name], [`dish/${r.dish}/`, r.dish_title], [null, r.flavour]]);
+  P.crumbs = crumbs(ctx, [[`chapter/${r.chapter}/`, t.chapters[r.chapter].name], [`dish/${r.dish}/`, r.dish_title], ...(r.flavour === r.dish_title ? [] : [[null, r.flavour]])]);
   // 'Inspired by' credit (plain text, no links): 1-3 locked-list sources from the recipe's research file
   const insp = (r.inspired_by || []).slice(0, 3).map(esc);
   const inspTxt = insp.length ? `${t.ui.inspiredBy} ${insp.length > 1 ? insp.slice(0, -1).join(', ') + ` ${t.ui.and} ` + insp[insp.length - 1] : insp[0]}.` : '';
   P.h1 = `<h1>${esc(r.title)}</h1>${inspTxt ? `<p class="insp">${inspTxt}</p>` : ''}`;
-  P.src = `<div class="src"><a href="${u(`dish/${r.dish}/`)}">${esc(r.dish_title)}</a> · ${esc(r.flavour)} · ${esc(r.cuisine)}</div><p class="rsum">${esc(r.summary)}</p>`;
+  P.src = `<div class="src"><a href="${u(`dish/${r.dish}/`)}">${esc(r.dish_title)}</a>${r.flavour === r.dish_title ? '' : ` · ${esc(r.flavour)}`} · ${esc(r.cuisine)}</div><p class="rsum">${esc(r.summary)}</p>`;
   P.stats = `<div class="stats"><div><small>${t.ui.prep}</small><b>${mins(r.prep_min)}</b></div><div><small>${t.ui.cook}</small><b>${mins(r.cook_min)}</b></div><div><small>${t.ui.total}</small><b>${mins(r.total_min)}</b></div><div><small>${t.ui.difficulty}</small><b>${t.difficulty[r.difficulty]}</b></div><div><small>Per serving</small><b>${Math.round(n.kcal)} kcal</b></div></div>`;
   P.badges = `<div class="badges">${accessTag(ctx, r)}${badges(ctx, r)}</div>`;
   const scalerFull = `<div class="scaler" data-base="${r.servings}" role="group" aria-label="${t.ui.servings}"><span class="sl">${t.ui.servings}</span><button type="button" class="sb" data-scale="-1" aria-label="Fewer servings">−</button><output class="sn" id="servings" aria-live="polite">${r.servings}</output><button type="button" class="sb" data-scale="1" aria-label="More servings">+</button><span class="so">Recipe makes ${r.servings}</span></div>`;
@@ -257,7 +258,7 @@ function allRecipesPages(ctx, recipes, cats, chapters) {
 function recipeIndex(ctx, recipes) {
   const { t, u } = ctx;
   const b = u(''), cut = x => x.startsWith(b) ? x.slice(b.length) : x;
-  return recipes.map(r => ({ s: r.slug, u: cut(u(r.url)), ti: r.title, df: `${r.dish_title} · ${r.flavour}`, i: cut(r.img ? u(r.img.orig ? r.img.w1200 : r.img.w600) : u(r.photo_pending ? 'img/ph/coming-soon.svg' : `img/ph/${r.category}.svg`)), i2: r.img && !r.img.orig ? cut(u(r.img.w1200)) : '', w: r.img ? r.img.width : 1200, h: r.img ? r.img.height : 900, a: r.img ? (r.image_alt || r.title) : '', m: `${mins(r.total_min)} · ${Math.round(r.nutrition_per_serving.kcal)} kcal · ${Math.round(r.nutrition_per_serving.protein_g)} g protein`, p: r.access === 'premium' ? 1 : 0, c: r.category, ch: r.chapter, d: r.filterTags.join(' '), t: r.total_min, f: r.difficulty, x: [r.title, r.summary, r.cuisine, t.categories[r.category], r.dish_title, r.flavour, t.chapters[r.chapter].name, ...r.ingredients.map(i => i.item), ...r.dietTags.map(d => t.diets[d])].join(' ').toLowerCase().split(/[^\p{L}\p{N}]+/u).filter((w, i, arr) => w.length > 1 && arr.indexOf(w) === i).join(' ') }));
+  return recipes.map(r => ({ s: r.slug, u: cut(u(r.url)), ti: r.title, df: dishFlav(r), i: cut(r.img ? u(r.img.orig ? r.img.w1200 : r.img.w600) : u(r.photo_pending ? 'img/ph/coming-soon.svg' : `img/ph/${r.category}.svg`)), i2: r.img && !r.img.orig ? cut(u(r.img.w1200)) : '', w: r.img ? r.img.width : 1200, h: r.img ? r.img.height : 900, a: r.img ? (r.image_alt || r.title) : '', m: `${mins(r.total_min)} · ${Math.round(r.nutrition_per_serving.kcal)} kcal · ${Math.round(r.nutrition_per_serving.protein_g)} g protein`, p: r.access === 'premium' ? 1 : 0, c: r.category, ch: r.chapter, d: r.filterTags.join(' '), t: r.total_min, f: r.difficulty, x: [r.title, r.summary, r.cuisine, t.categories[r.category], r.dish_title, r.flavour, t.chapters[r.chapter].name, ...r.ingredients.map(i => i.item), ...r.dietTags.map(d => t.diets[d])].join(' ').toLowerCase().split(/[^\p{L}\p{N}]+/u).filter((w, i, arr) => w.length > 1 && arr.indexOf(w) === i).join(' ') }));
 }
 function allRecipesPage(ctx, allList, cats, chapters, pg = 1, nPg = 1) {
   const { t, u } = ctx;

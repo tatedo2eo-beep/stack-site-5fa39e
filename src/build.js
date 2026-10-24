@@ -63,6 +63,8 @@ function loadRecipes() {
     d.flavours.push(r);
   }
   for (const d of dishes.values()) d.flavours = R.assignAccess(d.flavours);
+  // the base version is shown under the dish's own name, not as "Classic" (JSON keeps "Classic" as the base marker)
+  for (const d of dishes.values()) for (const r of d.flavours) if (/^classic$/i.test(r.flavour)) { r.flavour = d.title; r.dish_title = d.title; }
   console.log(`${files.length} recipe file(s): ${errors ? C.red(errors + ' error(s)') : C.grn('0 errors')}, ${warnings} warning(s)`);
   return { recipes: out, dishes: [...dishes.values()].filter(d => d.flavours.length), errors, warnings };
 }
