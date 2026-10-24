@@ -40,21 +40,16 @@
     },
     {
       "group": "Parfait",
-      "qty": 100,
+      "qty": 125,
       "unit": "g",
-      "item": "sugar, for the syrup"
+      "item": "sugar",
+      "note": "100 g for the syrup, 25 g for the whites"
     },
     {
       "group": "Parfait",
       "qty": 60,
       "unit": "ml",
       "item": "water, for the syrup"
-    },
-    {
-      "group": "Parfait",
-      "qty": 25,
-      "unit": "g",
-      "item": "sugar, for the whites"
     },
     {
       "group": "Parfait",

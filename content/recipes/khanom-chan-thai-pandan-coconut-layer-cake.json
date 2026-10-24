@@ -36,9 +36,10 @@
     },
     {
       "group": "Pandan layer",
-      "qty": 300,
+      "qty": 400,
       "unit": "ml",
-      "item": "water"
+      "item": "water",
+      "note": "300 ml to extract the pandan juice, 100 ml to make up the batter"
     },
     {
       "group": "Pandan layer",
@@ -51,13 +52,6 @@
       "qty": 175,
       "unit": "g",
       "item": "glutinous rice flour"
-    },
-    {
-      "group": "Pandan layer",
-      "qty": 100,
-      "unit": "ml",
-      "item": "water",
-      "note": "to make up the batter"
     },
     {
       "group": "Pandan layer",

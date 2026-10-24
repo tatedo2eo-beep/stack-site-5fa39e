@@ -140,9 +140,10 @@
     },
     {
       "group": "Filling",
-      "qty": 1,
+      "qty": 1.5,
       "unit": "tsp",
-      "item": "chaat masala"
+      "item": "chaat masala",
+      "note": "1 tsp for the potatoes, ½ tsp for the chickpeas"
     },
     {
       "group": "Filling",
@@ -169,12 +170,6 @@
       "unit": "g",
       "item": "tin chickpeas, drained and rinsed",
       "note": "240 g drained"
-    },
-    {
-      "group": "Filling",
-      "qty": 0.5,
-      "unit": "tsp",
-      "item": "chaat masala"
     },
     {
       "group": "To serve",

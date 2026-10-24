@@ -47,9 +47,10 @@
     },
     {
       "group": "Chocolate sponge",
-      "qty": 85,
+      "qty": 100,
       "unit": "g",
-      "item": "caster sugar"
+      "item": "caster sugar",
+      "note": "85 g for the batter, 15 g for the egg whites"
     },
     {
       "group": "Chocolate sponge",
@@ -62,7 +63,7 @@
       "qty": 1,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about ⅛ tsp"
+      "note": "a pinch"
     },
     {
       "group": "Chocolate sponge",
@@ -87,12 +88,6 @@
       "qty": 1,
       "unit": "tsp",
       "item": "vanilla"
-    },
-    {
-      "group": "Chocolate sponge",
-      "qty": 15,
-      "unit": "g",
-      "item": "caster sugar, for the whites"
     },
     {
       "group": "Ice cream layers",

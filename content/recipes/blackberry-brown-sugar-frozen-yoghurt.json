@@ -48,8 +48,8 @@
     },
     {
       "group": "Frozen yoghurt",
-      "qty": 0.125,
-      "unit": "tsp",
+      "qty": 1,
+      "unit": "pinch",
       "item": "ground cloves"
     },
     {
@@ -75,7 +75,7 @@
   "steps": [
     {
       "title": "Blend",
-      "text": "Blend 340 g blackberries, 480 g full-fat plain yoghurt, 210 g dark brown sugar and ⅛ tsp ground cloves on high about 30 s until smooth."
+      "text": "Blend 340 g blackberries, 480 g full-fat plain yoghurt, 210 g dark brown sugar and a pinch of ground cloves on high about 30 s until smooth."
     },
     {
       "title": "Strain",

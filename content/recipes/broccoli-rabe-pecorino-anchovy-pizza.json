@@ -80,9 +80,10 @@
     },
     {
       "group": "Topping",
-      "qty": 60,
+      "qty": 75,
       "unit": "ml",
-      "item": "extra-virgin olive oil"
+      "item": "extra-virgin olive oil",
+      "note": "60 ml to toss the broccoli rabe, 15 ml to drizzle before baking"
     },
     {
       "group": "Topping",
@@ -95,12 +96,6 @@
       "qty": 16,
       "unit": "pc",
       "item": "anchovy fillets in oil, drained and halved lengthways"
-    },
-    {
-      "group": "Topping",
-      "qty": 15,
-      "unit": "ml",
-      "item": "extra-virgin olive oil, for drizzling"
     }
   ],
   "steps": [

@@ -47,21 +47,16 @@
     },
     {
       "group": "Dough",
-      "qty": 33,
+      "qty": 78,
       "unit": "ml",
-      "item": "extra-virgin olive oil"
+      "item": "extra-virgin olive oil",
+      "note": "33 ml for the dough, 45 ml for the tray"
     },
     {
       "group": "Dough",
       "qty": 325,
       "unit": "ml",
       "item": "water"
-    },
-    {
-      "group": "Dough",
-      "qty": 45,
-      "unit": "ml",
-      "item": "extra-virgin olive oil, for the tray"
     },
     {
       "group": "Sauce",

@@ -43,9 +43,10 @@
     },
     {
       "group": "Bake",
-      "qty": 25,
+      "qty": 95,
       "unit": "g",
-      "item": "light brown sugar"
+      "item": "light brown sugar",
+      "note": "25 g tossed with the strawberries, 70 g whisked into the milk mixture"
     },
     {
       "group": "Bake",
@@ -89,12 +90,6 @@
       "qty": 420,
       "unit": "ml",
       "item": "whole milk"
-    },
-    {
-      "group": "Bake",
-      "qty": 70,
-      "unit": "g",
-      "item": "light brown sugar"
     },
     {
       "group": "Bake",

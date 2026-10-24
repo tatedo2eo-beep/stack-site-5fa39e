@@ -44,9 +44,10 @@
     },
     {
       "group": "Cake",
-      "qty": 200,
+      "qty": 250,
       "unit": "g",
-      "item": "caster sugar"
+      "item": "caster sugar",
+      "note": "200 g for the cake batter, 50 g for the egg whites"
     },
     {
       "group": "Cake",
@@ -84,12 +85,6 @@
       "qty": 240,
       "unit": "ml",
       "item": "whole milk, at room temperature"
-    },
-    {
-      "group": "Cake",
-      "qty": 50,
-      "unit": "g",
-      "item": "caster sugar, for the egg whites"
     },
     {
       "group": "Filling",

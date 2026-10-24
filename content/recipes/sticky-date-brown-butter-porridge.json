@@ -64,14 +64,14 @@
     },
     {
       "group": "Porridge",
-      "qty": 0.125,
-      "unit": "tsp",
+      "qty": 1,
+      "unit": "pinch",
       "item": "ground cinnamon"
     },
     {
       "group": "To serve",
-      "qty": 0.125,
-      "unit": "tsp",
+      "qty": 1,
+      "unit": "pinch",
       "item": "flaky sea salt"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "title": "Grains and milk",
-      "text": "Stir in 300 ml milk, 70 g rolled oats, ¼ tsp vanilla and ⅛ tsp cinnamon."
+      "text": "Stir in 300 ml milk, 70 g rolled oats, ¼ tsp vanilla and a pinch of cinnamon."
     },
     {
       "title": "Simmer",
@@ -106,7 +106,7 @@
     },
     {
       "title": "Finish",
-      "text": "Sprinkle with ⅛ tsp flaky salt, add chopped fresh pear (or other fruit) and a drizzle of cream if using."
+      "text": "Sprinkle with a pinch of flaky salt, add chopped fresh pear (or other fruit) and a drizzle of cream if using."
     }
   ],
   "tips": [

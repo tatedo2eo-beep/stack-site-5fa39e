@@ -30,9 +30,10 @@
       "item": "unsalted butter, cubed"
     },
     {
-      "qty": 170,
+      "qty": 230,
       "unit": "g",
-      "item": "dark chocolate (70% cocoa), chopped"
+      "item": "dark chocolate (70% cocoa), chopped",
+      "note": "170 g melted with the butter, 60 g chopped into chunks and folded through the batter"
     },
     {
       "qty": 3,
@@ -69,11 +70,6 @@
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about ½ tsp"
-    },
-    {
-      "qty": 60,
-      "unit": "g",
-      "item": "dark chocolate (70% cocoa), roughly chopped into chunks"
     }
   ],
   "steps": [

@@ -46,9 +46,10 @@
     },
     {
       "group": "Crust",
-      "qty": 55,
+      "qty": 70,
       "unit": "ml",
-      "item": "extra-virgin olive oil"
+      "item": "extra-virgin olive oil",
+      "note": "55 ml for the dough, 15 ml for the tray"
     },
     {
       "group": "Crust",
@@ -68,12 +69,6 @@
       "unit": "g",
       "item": "fine sea salt or table salt",
       "note": "about 1½ tsp"
-    },
-    {
-      "group": "Crust",
-      "qty": 15,
-      "unit": "ml",
-      "item": "extra-virgin olive oil, for the tray"
     },
     {
       "group": "Topping",

@@ -49,9 +49,10 @@
     },
     {
       "group": "Nut meringue",
-      "qty": 100,
+      "qty": 200,
       "unit": "g",
-      "item": "caster sugar, for the nuts"
+      "item": "caster sugar",
+      "note": "100 g for the nuts, 100 g for the whites"
     },
     {
       "group": "Nut meringue",
@@ -64,7 +65,7 @@
       "qty": 1,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about ⅛ tsp"
+      "note": "a pinch"
     },
     {
       "group": "Nut meringue",
@@ -77,12 +78,6 @@
       "qty": 1,
       "unit": "tsp",
       "item": "lemon juice"
-    },
-    {
-      "group": "Nut meringue",
-      "qty": 100,
-      "unit": "g",
-      "item": "caster sugar, for the whites"
     },
     {
       "group": "Coffee buttercream",
@@ -113,7 +108,7 @@
       "qty": 1,
       "unit": "g",
       "item": "fine sea salt or table salt",
-      "note": "about ⅛ tsp"
+      "note": "a pinch"
     },
     {
       "group": "Coffee buttercream",
