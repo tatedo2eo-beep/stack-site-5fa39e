@@ -3,6 +3,7 @@ const SEEN_T = new Set(); // keeps <title> unique across dish pages
 const { esc, formatQty, iso, mins } = require('../lib/format');
 const { ad } = require('./layout');
 const { ICON } = require('./designs');
+const { isSafetyLine } = require('../lib/safety');
 const DRINKS_CSS = require('fs').readFileSync(require('path').join(__dirname, '../assets/css/drinks.css'), 'utf8');
 
 const img = (ctx, r, sizes, cls, eager) => {
@@ -52,13 +53,23 @@ const tipKind = x => /\b(mistake|don['\u2019]t|do not|avoid|never|careful|otherw
 const CAT_SIZES = '(max-width: 640px) calc(100vw - 40px), 460px';
 function catTip(ctx, r, locked) {
   const { t, u } = ctx, L = Object.assign({}, CAT_TIP, t.catTip || {});
-  const tips = (r.tips || []).filter(Boolean);
+  const tips = (r.tips || []).filter(x => x && !isSafetyLine(x)); // the cat never narrates a food-safety line
   if (!locked && !tips.length) return '';
   const c = r.catPic;
   const img = c ? `<img src="${u(c.src)}" srcset="${c.srcset.map(x => u(x)).join(', ')}" sizes="${CAT_SIZES}" width="${c.width}" height="${c.height}" alt="${esc(L.alt)}" loading="lazy" decoding="async">` : '';
   if (locked) return `<aside class="cat rcat is-locked" aria-label="${esc(t.ui.tips)}">${img}<div><h4 class="pl">${CAT_ICON}<span>${esc(t.ui.tips)}</span><span class="rcat-kind">${LOCK}${esc(t.ui.premium)}</span></h4><p>${esc(L.locked)}</p><p class="rcat-cta"><a href="${u('plans/')}">${esc(L.cta)} →</a></p></div></aside>`;
   const [first, ...rest] = tips;
   return `<aside class="cat rcat" aria-label="${esc(t.ui.tips)}">${img}<div><h4 class="pl">${CAT_ICON}<span>${esc(L[tipKind(first)])}</span></h4><p>${esc(first)}</p>${rest.length ? `<p class="rcat-more-h">${esc(L.more)}</p><ul class="rcat-more">${rest.map(x => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}</div></aside>`;
+}
+
+// ---------------- food safety ----------------
+// '⚠️ Food safety' box just above the ingredients, from the recipe's `safety` field (every design, free and Premium:
+// safety notes are never paywalled). Label: t.ui.safety (EN '⚠️ Food safety'; SK locale: '⚠️ Bezpečnosť potravín').
+function safetyBox(ctx, r) {
+  const s = (r.safety || []).filter(Boolean);
+  if (!s.length) return '';
+  const label = ctx.t.ui.safety || '\u26a0\ufe0f Food safety';
+  return `<aside class="safety" role="note" aria-label="${esc(label.replace(/^\W+\s*/, ''))}"><h4 role="heading" aria-level="3">${esc(label)}</h4>${s.length === 1 ? `<p>${esc(s[0])}</p>` : `<ul>${s.map(x => `<li>${esc(x)}</li>`).join('')}</ul>`}</aside>`;
 }
 
 // ---------------- recipe page ----------------
@@ -89,6 +100,7 @@ function recipeParts(ctx, r, related) {
   const ingFull = `<p class="unit">Metric · ${r.servings} servings</p>` + groups.map(gr => `${gr.g ? `<h4 class="ingg" role="heading" aria-level="3">${esc(gr.g)}</h4>` : ''}<ul class="ing">${gr.items.map(i => `<li data-qty="${typeof i.qty === 'number' ? i.qty : ''}" data-unit="${esc(i.unit)}"><b class="q">${esc(formatQty(i.qty, i.unit))}</b> ${esc(i.item)}${i.note ? ` <small>${esc(i.note)}</small>` : ''}</li>`).join('')}</ul>`).join('');
   const ingNames = `<p class="unit">${LOCK} Ingredient names · quantities with ${t.ui.premium}</p><ul class="ing names">${r.ingredients.map(i => `<li>${esc(i.item)}</li>`).join('')}</ul>`;
   P.ingTitle = t.ui.ingredients;
+  P.safety = safetyBox(ctx, r);
   P.ing = `<div id="r-ing">${prem ? ingNames : ingFull}</div>`;
   // method
   const stepsFull = `<ol class="steps">${r.steps.map((s, i) => `<li class="step" id="step-${i + 1}"><span class="n">${i + 1}</span><p><b>${esc(s.title)}.</b> ${esc(s.text)}</p></li>`).join('')}</ol>`;
@@ -127,14 +139,14 @@ function recipeParts(ctx, r, related) {
 }
 const recWrap = (r, html) => `<article class="recipe${r.access === 'premium' ? ' is-locked' : ''}">${html}</article>`;
 const REC = {
-  e: (P, r) => `<section class="ehero rh" style="--hero-img:url(&quot;${P.imgUrl}&quot;)"><div class="eshade"></div><div class="wrap ehin">${P.crumbs}${P.h1}${P.src}</div></section><section class="wrap estrip">${P.stats}${P.badges}</section><section class="wrap ectl">${P.ctrls}</section>${P.ad1}<section class="wrap alstrip">${P.allerg}</section><section class="wrap ebody"><aside class="eing"><h2>${P.ingTitle}</h2>${P.ing}</aside><div class="emeth"><h2>${P.methTitle}</h2>${P.steps}${P.extra}</div></section><section class="wrap eside">${P.info}<div class="emisc">${P.misc}</div></section>${P.nut}${P.ad2}${P.flv}`,
-  b: (P, r, ctx) => `<section class="book wrap"><div class="spread rec"><div class="page left"><div class="runhead"><span>${esc(ctx.t.chapters[r.chapter].name)}</span><span>${esc(ctx.t.difficulty[r.difficulty])}</span></div><figure class="plate">${P.img}</figure>${P.crumbs}${P.h1}<div class="orn">❦</div>${P.src}${P.stats}${P.badges}${P.ctrls}<h2 class="pageh">${P.ingTitle}</h2>${P.ing}<span class="folio">p. 1</span></div><div class="page right"><div class="runhead"><span>${esc(r.title)}</span><span>${esc(ctx.cfg.brand)}</span></div><h2 class="pageh">${P.methTitle}</h2>${P.steps}<div class="margin">${P.info}</div>${P.extra}${P.misc}<div class="alstrip">${P.allerg}</div><span class="folio">p. 2</span></div></div></section>${P.ad1}${P.nut}${P.ad2}${P.flv}`,
-  c: (P, r) => `<section class="wrap crh"><figure class="polaroid big tilt">${P.img}<figcaption>${esc(r.flavour)}</figcaption></figure><div class="cnote">${P.crumbs}${P.h1}${P.src}${P.stats}${P.badges}${P.ctrls}</div>${P.info ? `<div class="cnote pink catn">${P.info}</div>` : ''}</section>${P.ad1}<section class="wrap cboard"><div class="notepad"><h2>${P.ingTitle}</h2>${P.ing}</div><div class="ccards"><h2>${P.methTitle}</h2>${P.steps}${P.extra}</div></section><section class="wrap cboard2"><div class="cnote stick alst">${P.allerg}</div><div class="icard">${P.misc}</div></section>${P.nut}${P.ad2}${P.flv}`,
+  e: (P, r) => `<section class="ehero rh" style="--hero-img:url(&quot;${P.imgUrl}&quot;)"><div class="eshade"></div><div class="wrap ehin">${P.crumbs}${P.h1}${P.src}</div></section><section class="wrap estrip">${P.stats}${P.badges}</section><section class="wrap ectl">${P.ctrls}</section>${P.ad1}<section class="wrap alstrip">${P.allerg}</section><section class="wrap ebody"><aside class="eing">${P.safety}<h2>${P.ingTitle}</h2>${P.ing}</aside><div class="emeth"><h2>${P.methTitle}</h2>${P.steps}${P.extra}</div></section><section class="wrap eside">${P.info}<div class="emisc">${P.misc}</div></section>${P.nut}${P.ad2}${P.flv}`,
+  b: (P, r, ctx) => `<section class="book wrap"><div class="spread rec"><div class="page left"><div class="runhead"><span>${esc(ctx.t.chapters[r.chapter].name)}</span><span>${esc(ctx.t.difficulty[r.difficulty])}</span></div><figure class="plate">${P.img}</figure>${P.crumbs}${P.h1}<div class="orn">❦</div>${P.src}${P.stats}${P.badges}${P.ctrls}${P.safety}<h2 class="pageh">${P.ingTitle}</h2>${P.ing}<span class="folio">p. 1</span></div><div class="page right"><div class="runhead"><span>${esc(r.title)}</span><span>${esc(ctx.cfg.brand)}</span></div><h2 class="pageh">${P.methTitle}</h2>${P.steps}<div class="margin">${P.info}</div>${P.extra}${P.misc}<div class="alstrip">${P.allerg}</div><span class="folio">p. 2</span></div></div></section>${P.ad1}${P.nut}${P.ad2}${P.flv}`,
+  c: (P, r) => `<section class="wrap crh"><figure class="polaroid big tilt">${P.img}<figcaption>${esc(r.flavour)}</figcaption></figure><div class="cnote">${P.crumbs}${P.h1}${P.src}${P.stats}${P.badges}${P.ctrls}</div>${P.info ? `<div class="cnote pink catn">${P.info}</div>` : ''}</section>${P.ad1}<section class="wrap cboard"><div class="notepad">${P.safety}<h2>${P.ingTitle}</h2>${P.ing}</div><div class="ccards"><h2>${P.methTitle}</h2>${P.steps}${P.extra}</div></section><section class="wrap cboard2"><div class="cnote stick alst">${P.allerg}</div><div class="icard">${P.misc}</div></section>${P.nut}${P.ad2}${P.flv}`,
   d: (P, r) => {
     const pager = r.access === 'premium' ? '' : `<div class="dpage" id="dpager" hidden>${P.stepsList.map((s, i) => `<div class="dpstep" data-i="${i}"${i ? ' hidden' : ''}><div class="dpn">${i + 1}</div><p class="dpt"><b>${esc(s.title)}.</b> ${esc(s.text)}</p></div>`).join('')}<div class="dpnav"><button type="button" class="btn" data-dp="-1">← Back</button><span class="cdots">${P.stepsList.map((s, i) => `<button type="button" class="cdot${i ? '' : ' on'}" data-dgo="${i}" aria-label="Step ${i + 1}"></button>`).join('')}</span><button type="button" class="btn" data-dp="1">Next →</button></div><div class="dpcount">Step <b id="dp-i">1</b> / ${P.stepsList.length}</div></div>`;
-    return `<section class="wrap drh"><span class="arch big">${P.img}</span><div class="dribbon">${P.crumbs}${P.h1}</div>${P.src}${P.stats}${P.badges}${P.ctrls}</section>${P.ad1}<section class="wrap dneed"><h2>What you need</h2>${P.ing}</section><section class="wrap dsteps"><div class="dsh"><h2>${P.methTitle}</h2>${pager ? '<button type="button" class="chip" id="dall" aria-pressed="false">One step at a time</button>' : ''}</div>${pager}${P.steps}${P.extra}</section><section class="wrap dmore">${P.info}<div class="dcard">${P.misc}</div><div class="dcard alstrip">${P.allerg}</div></section>${P.nut}${P.ad2}${P.flv}`;
+    return `<section class="wrap drh"><span class="arch big">${P.img}</span><div class="dribbon">${P.crumbs}${P.h1}</div>${P.src}${P.stats}${P.badges}${P.ctrls}</section>${P.ad1}<section class="wrap dneed">${P.safety}<h2>What you need</h2>${P.ing}</section><section class="wrap dsteps"><div class="dsh"><h2>${P.methTitle}</h2>${pager ? '<button type="button" class="chip" id="dall" aria-pressed="false">One step at a time</button>' : ''}</div>${pager}${P.steps}${P.extra}</section><section class="wrap dmore">${P.info}<div class="dcard">${P.misc}</div><div class="dcard alstrip">${P.allerg}</div></section>${P.nut}${P.ad2}${P.flv}`;
   },
-  g: (P, r) => `<section class="wrap grec"><div class="gt gimg">${P.img}</div><div class="gt gtitle">${P.crumbs}${P.h1}${P.src}${P.badges}</div><div class="gt gstats">${P.stats}</div><div class="gt gscale">${P.scaler}</div><div class="gt gmarks">${P.marks}${P.cook}</div><div class="gt ging"><h2>${P.ingTitle}</h2>${P.ing}</div><div class="gt gmeth"><h2>${P.methTitle}</h2>${P.steps}${P.extra}</div>${P.info ? `<div class="gt ginfo">${P.info}</div>` : ''}<div class="gt galg">${P.allerg}</div><div class="gt gmisc">${P.misc}</div><div class="gt gnut">${P.nutTitle}${P.nutT}</div><div class="gt gnutx">${P.nutX}</div></section>${P.ad1}${P.ad2}${P.flv}`
+  g: (P, r) => `<section class="wrap grec"><div class="gt gimg">${P.img}</div><div class="gt gtitle">${P.crumbs}${P.h1}${P.src}${P.badges}</div><div class="gt gstats">${P.stats}</div><div class="gt gscale">${P.scaler}</div><div class="gt gmarks">${P.marks}${P.cook}</div><div class="gt ging">${P.safety}<h2>${P.ingTitle}</h2>${P.ing}</div><div class="gt gmeth"><h2>${P.methTitle}</h2>${P.steps}${P.extra}</div>${P.info ? `<div class="gt ginfo">${P.info}</div>` : ''}<div class="gt galg">${P.allerg}</div><div class="gt gmisc">${P.misc}</div><div class="gt gnut">${P.nutTitle}${P.nutT}</div><div class="gt gnutx">${P.nutX}</div></section>${P.ad1}${P.ad2}${P.flv}`
 };
 function recipePage(ctx, r, related) {
   const { t, cfg } = ctx;

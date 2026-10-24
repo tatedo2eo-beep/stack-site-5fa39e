@@ -29,7 +29,7 @@ const S = module.exports = {
     inspiredBy: 'Inspired by techniques from', and: 'and',
     originalNote: 'Our recipes are original, written by us and inspired by techniques from professional chefs and test kitchens. We are not affiliated with or endorsed by those chefs or kitchens.',
     prep: 'Prep', cook: 'Cook', total: 'Total', min: 'min', servings: 'Servings', difficulty: 'Difficulty',
-    ingredients: 'Ingredients', method: 'Method', equipment: 'Equipment', tips: 'Tips', storage: 'Storage',
+    ingredients: 'Ingredients', method: 'Method', equipment: 'Equipment', tips: 'Tips', safety: '⚠️ Food safety', storage: 'Storage',
     allergens: 'Allergens (EU 14)', noAllergens: 'None of the 14 major EU allergens.', allergenNote: 'Always check the labels of the products you use.',
     nutrition: 'Nutrition per serving', perServing: 'per serving', proteinPer100: 'Protein per 100 kcal',
     nutritionNote: 'Estimated values', print: 'Print', cookMode: 'Cook mode', save: 'Save', saved: 'Saved',

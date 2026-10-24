@@ -170,3 +170,9 @@ html[data-pal=blush-charcoal]{--accentText:#9f3851}
 .page-home .ehero:not(.vis){background-image:none} /* bg photo deferred until near viewport (kitchen.js) */
 @font-face{font-family:'LF fb';src:local('Arial'),local('Arimo'),local('Helvetica'),local('Roboto');size-adjust:103%}
 @font-face{font-family:'PD fb';src:local('Times New Roman'),local('Times'),local('Tinos'),local('Noto Serif'),local('Georgia');size-adjust:110%}
+/* Food safety box (recipe pages, just above the ingredients) */
+.safety{border:1px solid color-mix(in srgb,#d98a1f 55%,var(--line));border-left:5px solid #d98a1f;background:color-mix(in srgb,#d98a1f 9%,var(--surface));color:var(--text);border-radius:calc(var(--r,0px) + 8px);padding:12px 16px;margin:0 0 16px;font-size:.94em;line-height:1.5}
+.safety h4{font-family:var(--fh);font-size:1.05em;margin:0 0 6px}
+.safety p{margin:0}
+.safety ul{margin:0;padding-left:1.15em}
+.safety li+li{margin-top:5px}

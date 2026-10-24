@@ -6,6 +6,7 @@ const fs = require('fs'), path = require('path'), crypto = require('crypto');
 const ROOT = path.join(__dirname, '..');
 const cfg = require(path.join(ROOT, 'site.config.js'));
 const R = require('./lib/rules');
+const S = require('./lib/safety');
 const { layout } = require('./templates/layout');
 const P = require('./templates/pages');
 const args = process.argv.slice(2);
@@ -31,6 +32,8 @@ function loadRecipes() {
     if (r.image && !tamiRel(r.image) && !genPhoto(r)) v.errors.push(`image "${r.image}" is neither an original cookbook photo (img/dishes) nor this recipe's approved generated photo (tools/generated-images.json)`);
     if ((r.steps || []).some(s => s && s.clip)) v.warnings.push('step clips are switched off for now; clip ignored');
     if (!v.errors.length) {
+      const sm = S.splitSafety(r); // safety lines never go in the cat's tips
+      if (sm) v.warnings.push(`${sm} food-safety line(s) moved from tips to safety`);
       const al = R.checkAllergens(r);
       al.added.forEach(a => v.warnings.push(`allergen auto-added: ${a}`));
       al.maybe.forEach(a => v.warnings.push(`check allergen: ${a}`));

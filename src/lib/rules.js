@@ -148,6 +148,7 @@ function validate(r, file) {
     if (s && /\b\d+\s?°F\b|\bcups?\b|\boz\b/.test(s.text || '')) W.push(`steps[${i}]: mentions imperial units`);
   });
   req('tips', Array.isArray(r.tips) && r.tips.every(isStr), 'array of strings');
+  if (r.safety !== undefined) req('safety', Array.isArray(r.safety) && r.safety.every(isStr), 'array of strings (food-safety lines, shown above the ingredients)');
   req('storage', isStr(r.storage), 'required');
   req('allergens', Array.isArray(r.allergens), 'array');
   (r.allergens || []).forEach(a => { if (!normAllergen(a)) E.push(`allergens: "${a}" is not one of the EU 14`); });
