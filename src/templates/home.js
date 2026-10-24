@@ -58,20 +58,25 @@ function designHome(ctx, d, P, data) {
   return `${ehero}<section class="wrap eissue"><h2 class="ekick">In this issue</h2><ol>${(PK.issue || []).map((p, k) => `<li><a href="${pHref(p)}"><span class="enum">${P.num2(k + 1)}</span>${pImg('issue' + k, p)}<span class="eis"><small>${esc(chName(p.ch))}</small><b>${pNote(p)}</b></span></a></li>`).join('')}</ol></section>${a1}<section class="wrap eidx"><h2 class="ekick">${t.ui.chapters} · ${sub}</h2><div class="ecols">${groups.map(g => `<div><h3>${g.name}</h3>${g.cs.map(c => `<a href="${u(`chapter/${c.key}/`)}"><span>${P.num2(++i)}</span>${esc(chName(c.key))}<em>${c.n}</em></a>`).join('')}</div>`).join('')}</div></section><section class="sec quick"><div class="wrap">${quick}</div></section>${featSec}${a2}`;
 }
 
-// Home = the kitchen intro video (templates/kitchen.js), then ONLY that design's hero (its first section: for E the cover
-// photo, tagline, H1, search and Featured link), sitting flush under the video and filling the screen. Joe (2026-10-24):
-// nothing else below it (no featured recipe, numbers, issue list, cravings or card sections); the footer follows.
-const heroOnly = html => { const i = html.indexOf('</section>'); return i < 0 ? html : html.slice(0, i + 10); };
+// Home (Joe, 2026-10-24, v3) = the normal site, exactly as on the private site (header, nav, search and every home section
+// of the design), with the scroll-driven kitchen intro video as its own full-screen section ABOVE it (layout `pre`, outside
+// the design shell, so no site chrome on it). The design's hero (its first section) fills the screen under the header;
+// then the featured recipe, numbers and cravings (kitchen.js homeExtras), then the rest of that design's home.
 function homePage(ctx, P, recipes, chapters, counts) {
   const { u } = ctx;
   const featured = recipes.find(r => r.dish === 'smash-burger' && r.access === 'free') || recipes.find(r => r.access === 'free') || recipes[0];
-  const kitchen = require('./kitchen').kitchenHome(ctx);
-  const views = P.each(d => kitchen + heroOnly(designHome(ctx, d, P, { recipes, chapters, featured, counts }))
-    .replace(/^<section class="([^"]*)"/, '<section id="home-hero" class="hh $1 vis"'));
+  const K = require('./kitchen');
+  const extras = K.homeExtras(ctx, P, { recipes, chapters, featured });
+  const views = P.each(d => {
+    const html = designHome(ctx, d, P, { recipes, chapters, featured, counts })
+      .replace(/^<section class="([^"]*)"/, '<section id="home-hero" class="hh $1 vis"');
+    const i = html.indexOf('</section>');
+    return i < 0 ? html + extras : html.slice(0, i + 10) + extras + html.slice(i + 10);
+  });
   return {
     path: '', navKey: 'home', description: `${ctx.cfg.brand}: metric recipes with nutrition per serving${ctx.cfg.healthyLabels === false ? '' : ', High Protein and WHO Healthy picks'}, cook mode and a servings scaler.`,
-    views, bodyClass: 'page-home',
-    head: `<link rel="preload" as="image" href="${u('kitchen/kitchen-poster-1280x720.webp')}" fetchpriority="high"><style>${HOME_CSS.replace(/\n\s*/g, '')}</style>`, // poster = first thing seen
+    views, bodyClass: 'page-home', pre: K.kitchenIntro(ctx),
+    head: `<link rel="preload" as="image" href="${u('kitchen/kitchen-scrub-poster-1280x720.webp')}" fetchpriority="high"><style>${HOME_CSS.replace(/\n\s*/g, '')}</style>`, // poster = first thing seen
     scripts: [ctx.assets.js.kitchen]
   };
 }

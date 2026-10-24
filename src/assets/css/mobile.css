@@ -279,3 +279,42 @@
  .gchap .gimg{grid-column:1/-1;grid-row:auto;min-height:0;aspect-ratio:16/9}
  .gchap .gtitle{grid-column:1/-1}
 }
+
+/* ---- Photo frames (Joe, 2026-10-24): normal photo proportions everywhere, the whole dish visible; no tall slivers.
+   Every food photo is 16:9 (1280x720). Ratios follow Tami's base CSS: recipe cards 16:9 (the full photo, no crop),
+   chapter/category tiles and small picks 4:3 (dish centred). Overrides the portrait 4:5 / 3:4 / 1:1 frames the
+   design layers (E, C, D, G) used. height:auto beats the width/height attributes so aspect-ratio wins (no CLS). */
+html[data-design] .rimg{aspect-ratio:16/9}
+html[data-design] .rc .rimg img,html[data-design] .tile .ti img{object-position:50% 50%}
+html[data-design=d] .rimg{border-radius:26px}
+html[data-design=c] .rc:nth-child(n) .rimg{aspect-ratio:16/9}
+.kf .kf-photo,.page-home .kf .kf-photo{aspect-ratio:16/9}
+html[data-design=g] .grec .gimg{min-height:0;align-self:start}
+html[data-design=g] .gimg .rimg-main{height:auto;aspect-ratio:4/3}
+html[data-design=g] .rc,html[data-design=g] .favitem .rc{aspect-ratio:4/3}
+html[data-design=g] .rimg{aspect-ratio:auto}
+html[data-design] .tile .ti{aspect-ratio:4/3}
+html[data-design=d] .tile .ti{border-radius:22px}
+html[data-design=g] .tile{aspect-ratio:4/3}
+html[data-design=g] .tile .ti{aspect-ratio:auto}
+.eissue img{aspect-ratio:4/3;height:auto}
+.catcard img,html[data-design=c] .catcard img{height:auto;aspect-ratio:4/3}
+html[data-design=b] .frontis img{height:auto;aspect-ratio:4/3}
+.polaroid img,.polaroid .noimg{aspect-ratio:4/3;height:auto}
+.dgrps .arch{aspect-ratio:4/3}
+.drh .arch.big{height:auto;aspect-ratio:4/3}
+.dchap .arch.big{height:auto;aspect-ratio:4/3}
+.cpin img{height:auto;aspect-ratio:4/3;object-fit:cover}
+.gtile img{object-position:50% 50%}
+@media (max-width:760px){
+  .eissue ol{grid-template-columns:none;grid-auto-flow:column;grid-auto-columns:minmax(220px,64%);overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:6px}
+  .eissue li{scroll-snap-align:start}
+  .gbento .gtile{min-height:200px;aspect-ratio:auto}
+  html[data-design=b] .rimg{aspect-ratio:4/3}
+  /* design d home hero: on a phone the arch was a tall sliver; stack it as a 16:9 photo over the bubble */
+  .dhero{grid-template-columns:1fr}
+  .dhero .dcat{height:auto;aspect-ratio:16/9}
+  /* phone: recipe and chapter heroes show the whole photo as a 16:9 band on top, the title below it (not a tall crop) */
+  .ehero.rh,.echap{background:linear-gradient(180deg,rgba(20,17,16,0) 0,rgba(20,17,16,0) 34vw,#141110 calc(56.25vw + 2px)),var(--hero-img) 50% 0/100% auto no-repeat,#141110;height:auto;min-height:0;padding-top:calc(56.25vw - 24px)}
+  .ehero.rh .eshade,.echap .eshade{display:none}
+}

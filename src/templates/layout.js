@@ -28,7 +28,7 @@ ${p.head || ''}${p.jsonld ? `<script type="application/ld+json">${JSON.stringify
 </head>
 <body class="${p.bodyClass || ''}">
 <a class="skip-link" href="#view">Skip to content</a>
-${D.body(ctx, p)}
+${p.pre || ''}${D.body(ctx, p)}
 ${D.palPanel(ctx)}
 <div id="cc" class="cc" role="dialog" aria-label="Cookie choices" hidden><p>We use necessary storage to run this site. With your consent we and our partners (such as Google) also use cookies for analytics and ads. <a href="${u('cookie-policy/')}">Cookie Policy</a> · <a href="${u('privacy/')}">Privacy Policy</a></p><div id="cc-opts" hidden><label><input type="checkbox" checked disabled> Necessary</label> <label><input type="checkbox" id="cc-an"> Analytics</label> <label><input type="checkbox" id="cc-ad"> Advertising</label></div><p class="cc-b"><button type="button" class="btn" data-cc="all">Accept all</button> <button type="button" class="btn" data-cc="none">Reject non-essential</button> <button type="button" class="btn" data-cc="custom">Customise</button></p></div>
 <style>.cc{position:fixed;z-index:999;left:1rem;right:1rem;bottom:1rem;max-width:40rem;margin:auto;padding:1rem 1.2rem;background:var(--surface2,#222);color:inherit;border:1px solid var(--accent,#c9a24a);border-radius:12px;box-shadow:0 8px 30px rgba(0,0,0,.4);font-size:.9rem}.cc[hidden],#cc-opts[hidden]{display:none}.cc p{margin:.3rem 0}.cc label{margin-right:.8rem}.cc .btn{margin:.2rem .3rem .2rem 0}</style>
